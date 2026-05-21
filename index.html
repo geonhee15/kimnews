@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>KIMNEWS — 오늘의 AI·테크·개발 모음</title>
+<meta name="description" content="매일 오전 9시, X·YouTube·AI타임스·테크 매체에서 모은 AI·테크·개발·IT 뉴스. 한 번에 다 읽으세요." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet" />
+<style>
+  html, body { margin: 0; padding: 0; background: #faf7f2; }
+  body { font-family: Pretendard, system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; color: #1a1a1a; }
+  * { box-sizing: border-box; }
+  ::selection { background: #E85D4A; color: #fff; }
+
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes pulse-dot { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.4); opacity: 0.5; } }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes shimmer { 0% { background-position: -400px 0; } 100% { background-position: 400px 0; } }
+
+  .shimmer {
+    background: linear-gradient(90deg, #f0ebe2 0%, #f6f2ec 50%, #f0ebe2 100%);
+    background-size: 800px 100%;
+    animation: shimmer 1.6s linear infinite;
+  }
+
+  .news-card {
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  }
+  .news-card:hover {
+    transform: translateY(-2px);
+    border-color: #d8d0c4;
+    box-shadow: 0 10px 24px -10px rgba(0,0,0,0.10);
+  }
+
+  .chip-tab { transition: background 0.18s, color 0.18s, border-color 0.18s; }
+  .chip-tab:hover:not(.active) { background: #f0ebe2; }
+
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  @media (max-width: 1000px) {
+    .news-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 680px) {
+    .news-grid { grid-template-columns: 1fr; }
+    .nav-inner { padding: 18px 20px !important; }
+    .section { padding-left: 20px !important; padding-right: 20px !important; }
+    .headline { font-size: 36px !important; }
+  }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script data-cfasync="false" src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin="anonymous"></script>
+<script data-cfasync="false" src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin="anonymous"></script>
+<script data-cfasync="false" src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
+
+<script data-cfasync="false" type="text/babel">
+const { useState, useEffect, useMemo } = React;
+
+const ACCENT = { hex: "#E85D4A", soft: "#FCE8E3", ink: "#2A1A16" };
+const BG = "#faf7f2";
+const BORDER = "#ebe6df";
+const TEXT_MUTED = "#6a6258";
+const TEXT_FAINT = "#9a9187";
+
+const CATEGORIES = [
+  { id: 'all', label: '전체' },
+  { id: 'AI',  label: 'AI' },
+  { id: 'TECH', label: 'Tech' },
+  { id: 'DEV', label: 'Dev' },
+  { id: 'youtube', label: 'YouTube' },
+];
+
+function useFeed() {
+  const [data, setData] = useState(null);
+  const [err, setErr] = useState('');
+  useEffect(() => {
+    fetch('data/latest.json', { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`)))
+      .then(setData)
+      .catch(e => setErr(e.message));
+  }, []);
+  return { data, err };
+}
+
+function formatIssue(iso) {
+  if (!iso) return '';
+  const [y, m, d] = iso.split('-').map(Number);
+  const days = ['일','월','화','수','목','금','토'];
+  const date = new Date(Date.UTC(y, m-1, d));
+  return `${y}년 ${m}월 ${d}일 (${days[date.getUTCDay()]})`;
+}
+
+function relativeTime(iso) {
+  if (!iso) return '';
+  const t = Date.parse(iso);
+  if (Number.isNaN(t)) return '';
+  const diffMs = Date.now() - t;
+  const mins = Math.floor(diffMs / 60000);
+  if (mins < 60) return `${Math.max(1, mins)}분 전`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs}시간 전`;
+  const days = Math.floor(hrs / 24);
+  if (days < 7) return `${days}일 전`;
+  const d = new Date(t);
+  return `${d.getMonth()+1}.${d.getDate()}`;
+}
+
+function Nav() {
+  return (
+    <nav className="nav-inner" style={{ maxWidth: 1240, margin: '0 auto', padding: '22px 32px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+        <div style={{ width: 30, height: 30, borderRadius: 9, background: ACCENT.hex, display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#fff', fontSize: 14, fontWeight: 700, letterSpacing: '-0.02em' }}>K</div>
+        <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: '-0.02em' }}>KIMNEWS</span>
+        <span style={{ fontSize: 11, color: TEXT_FAINT, marginLeft: 6, padding: '3px 8px', borderRadius: 999, background: '#efeae2', fontWeight: 500 }}>DAILY</span>
+      </div>
+      <div style={{ display: 'flex', gap: 18, alignItems: 'center' }}>
+        <a href="https://github.com/geonhee15/kimnews" target="_blank" rel="noopener" style={{ fontSize: 14, color: '#5a5148', textDecoration: 'underline', textDecorationThickness: 1, textUnderlineOffset: 4 }}>GitHub</a>
+        <a href="https://kimkim.io" style={{ fontSize: 14, color: '#fff', background: '#1a1a1a', padding: '8px 14px', borderRadius: 8, textDecoration: 'none', fontWeight: 500 }}>kimkim.io ↗</a>
+      </div>
+    </nav>
+  );
+}
+
+function Banner({ data }) {
+  const issue = data?.issue_date;
+  const generated = data?.generated_at;
+  const fresh = generated ? relativeTime(generated) : '';
+  return (
+    <header className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 24px' }}>
+      <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '5px 11px', borderRadius: 999, background: ACCENT.soft, color: ACCENT.hex, fontSize: 11, fontWeight: 500, marginBottom: 12, letterSpacing: '-0.01em' }}>
+        <span style={{ width: 6, height: 6, borderRadius: '50%', background: ACCENT.hex, animation: 'pulse-dot 2s ease-in-out infinite' }} />
+        매일 오전 9시 발행
+      </div>
+      <h1 className="headline" style={{ fontSize: 52, fontWeight: 700, lineHeight: 1.05, letterSpacing: '-0.035em', margin: 0, color: '#161412' }}>
+        오늘의 <span style={{ color: ACCENT.hex }}>AI · 테크 · 개발</span>
+      </h1>
+      <div style={{ display: 'flex', gap: 16, marginTop: 14, fontSize: 13, color: TEXT_MUTED, flexWrap: 'wrap' }}>
+        {issue && <span><strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{formatIssue(issue)}</strong> 오늘자</span>}
+        {data?.count != null && <span>· 총 <strong style={{ color: '#1a1a1a' }}>{data.count}</strong>건</span>}
+        {fresh && <span>· {fresh} 업데이트</span>}
+      </div>
+    </header>
+  );
+}
+
+function CategoryTabs({ active, onChange, counts }) {
+  return (
+    <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 18 }}>
+      {CATEGORIES.map(c => {
+        const isActive = c.id === active;
+        const n = counts?.[c.id];
+        return (
+          <button
+            key={c.id}
+            onClick={() => onChange(c.id)}
+            className={`chip-tab ${isActive ? 'active' : ''}`}
+            style={{
+              padding: '8px 14px', borderRadius: 999, fontSize: 13, fontWeight: 500, fontFamily: 'inherit',
+              border: `1px solid ${isActive ? ACCENT.hex : BORDER}`,
+              background: isActive ? ACCENT.hex : '#fff',
+              color: isActive ? '#fff' : '#1a1a1a',
+              cursor: 'pointer',
+            }}
+          >
+            {c.label}
+            {n != null && <span style={{ marginLeft: 6, fontSize: 11, opacity: isActive ? 0.85 : 0.5 }}>{n}</span>}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function SourceBadge({ source, kind }) {
+  const isYT = kind === 'youtube';
+  return (
+    <div style={{ display: 'inline-flex', alignItems: 'center', gap: 6, fontSize: 11, color: isYT ? '#c54433' : TEXT_FAINT, fontWeight: 600 }}>
+      {isYT && (
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+        </svg>
+      )}
+      {source}
+    </div>
+  );
+}
+
+function NewsCard({ item }) {
+  const isYT = item.kind === 'youtube';
+  return (
+    <a
+      href={item.link}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="news-card"
+      style={{
+        display: 'flex', flexDirection: 'column', gap: 8,
+        background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16,
+        padding: '16px 18px', textDecoration: 'none', color: 'inherit',
+      }}
+    >
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
+        <SourceBadge source={item.source} kind={item.kind} />
+        {item.published && <span style={{ fontSize: 11, color: TEXT_FAINT }}>{relativeTime(item.published)}</span>}
+      </div>
+      <div style={{ fontSize: 15, fontWeight: 600, lineHeight: 1.4, color: '#1a1a1a', letterSpacing: '-0.01em' }}>
+        {item.title}
+      </div>
+      {item.summary && (
+        <div style={{ fontSize: 13, color: TEXT_MUTED, lineHeight: 1.55,
+          display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+          {item.summary}
+        </div>
+      )}
+      <div style={{ marginTop: 'auto', paddingTop: 4, fontSize: 11, color: ACCENT.hex, fontWeight: 600, letterSpacing: '-0.01em' }}>
+        읽기 →
+      </div>
+    </a>
+  );
+}
+
+function App() {
+  const { data, err } = useFeed();
+  const [active, setActive] = useState('all');
+
+  const items = data?.items || [];
+
+  const counts = useMemo(() => ({
+    all: items.length,
+    AI: items.filter(i => i.category === 'AI').length,
+    TECH: items.filter(i => i.category === 'TECH').length,
+    DEV: items.filter(i => i.category === 'DEV').length,
+    youtube: items.filter(i => i.kind === 'youtube').length,
+  }), [items]);
+
+  const filtered = useMemo(() => {
+    if (active === 'all') return items;
+    if (active === 'youtube') return items.filter(i => i.kind === 'youtube');
+    return items.filter(i => i.category === active);
+  }, [items, active]);
+
+  return (
+    <div style={{ minHeight: '100vh', background: BG, color: '#1a1a1a' }}>
+      <Nav />
+      <Banner data={data} />
+
+      <main className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 60px' }}>
+        <CategoryTabs active={active} onChange={setActive} counts={counts} />
+
+        {err ? (
+          <div style={{ background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16, padding: 24, color: '#c54433', fontSize: 14 }}>
+            아직 오늘자 뉴스가 준비되지 않았어요. ({err})
+          </div>
+        ) : !data ? (
+          <div className="news-grid">
+            {Array.from({ length: 9 }).map((_, i) => (
+              <div key={i} className="shimmer" style={{ height: 180, borderRadius: 16 }} />
+            ))}
+          </div>
+        ) : filtered.length === 0 ? (
+          <div style={{ background: '#fff', border: `1px dashed ${BORDER}`, borderRadius: 16, padding: 32, textAlign: 'center', color: TEXT_MUTED, fontSize: 14 }}>
+            이 카테고리에 오늘은 뉴스가 없어요.
+          </div>
+        ) : (
+          <div className="news-grid" style={{ animation: 'fadeUp 0.4s ease both' }}>
+            {filtered.map(it => <NewsCard key={it.id} item={it} />)}
+          </div>
+        )}
+      </main>
+
+      <footer style={{ borderTop: `1px solid ${BORDER}`, padding: '24px 32px', maxWidth: 1240, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: 12, color: TEXT_FAINT, flexWrap: 'wrap', gap: 10 }}>
+        <div>© 2026 KIMNEWS · 매일 오전 9시 발행 (KST)</div>
+        <div style={{ display: 'flex', gap: 18 }}>
+          <a href="https://kimkim.io" style={{ color: TEXT_FAINT, textDecoration: 'none' }}>kimkim.io</a>
+          <a href="https://github.com/geonhee15/kimnews" style={{ color: TEXT_FAINT, textDecoration: 'none' }}>GitHub</a>
+        </div>
+      </footer>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+name: Daily Aggregate
+
+on:
+  schedule:
+    # 00:00 UTC = 09:00 KST. Runs every day.
+    - cron: "0 0 * * *"
+  workflow_dispatch:        # manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run aggregator
+        run: python scripts/aggregate.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "kimnews-bot"
+          git config user.email "noreply@kimkim.io"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "no changes to commit"
+          else
+            ISSUE=$(python -c "import json; print(json.load(open('data/latest.json'))['issue_date'])")
+            git commit -m "daily: ${ISSUE} 뉴스 ${{ github.run_number }}호"
+            git push
+          fi
