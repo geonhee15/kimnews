@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-05-22T13:15:53.189568+00:00",
-  "count": 160,
+  "updated_at": "2026-05-22T16:00:55.385149+00:00",
+  "count": 171,
   "items": [
+    {
+      "id": "3e292c35901a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "published": "2026-05-22T15:37:15+00:00",
+      "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view."
+    },
+    {
+      "id": "e15e944c0e33",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "link": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "published": "2026-05-22T15:00:00+00:00",
+      "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it."
+    },
+    {
+      "id": "5ee276478c91",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The literary world isn’t prepared for AI",
+      "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "published": "2026-05-22T14:30:00+00:00",
+      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir'"
+    },
+    {
+      "id": "6c1432542fb9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta quietly launches a new Reddit-like app called Forum",
+      "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+      "published": "2026-05-22T14:24:16+00:00",
+      "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\""
+    },
+    {
+      "id": "7c9c4e4d7983",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "published": "2026-05-22T14:20:00+00:00",
+      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from S"
+    },
+    {
+      "id": "a6018a553480",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
+      "link": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+      "published": "2026-05-22T14:05:56+00:00",
+      "summary": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth ."
+    },
+    {
+      "id": "3c7a4141d591",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla recalls thousands of Model Ys at risk of… missing a sticker",
+      "link": "https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall",
+      "published": "2026-05-22T14:03:29+00:00",
+      "summary": "The National Highway Traffic Safety Administration (NHTSA) has issued a recall for 14,575 Model Y vehicles over an issue that Tesla can't fix with its usual software update: a missing label. According to the recall report, Model Ys made between November 17th, 2024 and April 21st,"
+    },
+    {
+      "id": "362597ec91fd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
+      "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
+      "published": "2026-05-22T13:48:03+00:00",
+      "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month"
+    },
+    {
+      "id": "f9ca1f30011b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The post-search Google era begins",
+      "link": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
+      "published": "2026-05-22T13:47:41+00:00",
+      "summary": "Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Without even telling you about it? In the world Google imagines, in which so much of "
+    },
     {
       "id": "06e5ebda2ff0",
       "source": "The Verge",
@@ -111,6 +210,17 @@
       "link": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
       "published": "2026-05-22T10:57:07+00:00",
       "summary": "Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting that he will leave Microsoft next year. He will remain focused on marketing for Wi"
+    },
+    {
+      "id": "426c30349d46",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "published": "2026-05-22T10:38:26+00:00",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 203 # Comments: 88"
     },
     {
       "id": "832ab95dd1c9",
@@ -386,6 +496,17 @@
       "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
       "published": "2026-05-22T06:41:28+00:00",
       "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages"
+    },
+    {
+      "id": "1e4dafb96013",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "published": "2026-05-22T06:25:59+00:00",
+      "summary": ""
     },
     {
       "id": "b7b9a0dcc073",
