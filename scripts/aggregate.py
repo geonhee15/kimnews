@@ -119,12 +119,20 @@ def clean(text: str | None) -> str:
     return _WS.sub(" ", s).strip()
 
 
+_KST = dt.timezone(dt.timedelta(hours=9))
+
+
 def parse_rfc822_or_iso(s: str | None) -> str:
-    """Best-effort normalize to ISO 8601. Returns '' if unparseable."""
+    """Best-effort normalize to ISO 8601 UTC. Returns '' if unparseable.
+
+    Naive datetimes (no timezone in source) are assumed KST — most Korean
+    news sites (AI타임스, ZDNet Korea…) emit `YYYY-MM-DD HH:MM:SS` in
+    local time. Assuming UTC there would push timestamps 9 hours into the
+    future and break "x분 전" rendering on the client.
+    """
     if not s:
         return ""
     s = s.strip()
-    # Try common formats
     fmts = [
         "%a, %d %b %Y %H:%M:%S %Z",
         "%a, %d %b %Y %H:%M:%S %z",
@@ -136,11 +144,11 @@ def parse_rfc822_or_iso(s: str | None) -> str:
         try:
             d = dt.datetime.strptime(s, fmt)
             if d.tzinfo is None:
-                d = d.replace(tzinfo=dt.timezone.utc)
+                d = d.replace(tzinfo=_KST)
             return d.astimezone(dt.timezone.utc).isoformat()
         except ValueError:
             continue
-    return s  # give up: pass through
+    return s
 
 
 def relevant(title: str, summary: str) -> bool:
