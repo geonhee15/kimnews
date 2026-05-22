@@ -9,10 +9,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet" />
 <style>
-  html, body { margin: 0; padding: 0; background: #faf7f2; }
-  body { font-family: Pretendard, system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; color: #1a1a1a; }
+  html, body { margin: 0; padding: 0; background: #fbf5e6; }
+  body { font-family: Pretendard, system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; color: #1f2412; }
   * { box-sizing: border-box; }
-  ::selection { background: #E85D4A; color: #fff; }
+  ::selection { background: #3f6b2d; color: #fff; }
 
   @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes pulse-dot { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.4); opacity: 0.5; } }
@@ -20,7 +20,7 @@
   @keyframes shimmer { 0% { background-position: -400px 0; } 100% { background-position: 400px 0; } }
 
   .shimmer {
-    background: linear-gradient(90deg, #f0ebe2 0%, #f6f2ec 50%, #f0ebe2 100%);
+    background: linear-gradient(90deg, #e8e0c4 0%, #efe8d2 50%, #e8e0c4 100%);
     background-size: 800px 100%;
     animation: shimmer 1.6s linear infinite;
   }
@@ -30,12 +30,12 @@
   }
   .news-card:hover {
     transform: translateY(-2px);
-    border-color: #d8d0c4;
-    box-shadow: 0 10px 24px -10px rgba(0,0,0,0.10);
+    border-color: #c8bb96;
+    box-shadow: 0 10px 24px -10px rgba(35,74,23,0.14);
   }
 
   .chip-tab { transition: background 0.18s, color 0.18s, border-color 0.18s; }
-  .chip-tab:hover:not(.active) { background: #f0ebe2; }
+  .chip-tab:hover:not(.active) { background: #e7e3b7; }
 
   .news-grid {
     display: grid;
@@ -64,11 +64,11 @@
 <script data-cfasync="false" type="text/babel">
 const { useState, useEffect, useMemo } = React;
 
-const ACCENT = { hex: "#E85D4A", soft: "#FCE8E3", ink: "#2A1A16" };
-const BG = "#faf7f2";
-const BORDER = "#ebe6df";
-const TEXT_MUTED = "#6a6258";
-const TEXT_FAINT = "#9a9187";
+const ACCENT = { hex: "#3f6b2d", soft: "#e7e3b7", ink: "#1f3d12" };
+const BG = "#fbf5e6";
+const BORDER = "#e0d6b8";
+const TEXT_MUTED = "#5e6e4c";
+const TEXT_FAINT = "#97a081";
 
 const CATEGORIES = [
   { id: 'all', label: '전체' },
@@ -119,11 +119,11 @@ function Nav() {
       <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
         <div style={{ width: 30, height: 30, borderRadius: 9, background: ACCENT.hex, display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#fff', fontSize: 14, fontWeight: 700, letterSpacing: '-0.02em' }}>K</div>
         <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: '-0.02em' }}>KIMNEWS</span>
-        <span style={{ fontSize: 11, color: TEXT_FAINT, marginLeft: 6, padding: '3px 8px', borderRadius: 999, background: '#efeae2', fontWeight: 500 }}>DAILY</span>
+        <span style={{ fontSize: 11, color: TEXT_FAINT, marginLeft: 6, padding: '3px 8px', borderRadius: 999, background: '#e7e3b7', fontWeight: 500 }}>DAILY</span>
       </div>
       <div style={{ display: 'flex', gap: 18, alignItems: 'center' }}>
-        <a href="https://github.com/geonhee15/kimnews" target="_blank" rel="noopener" style={{ fontSize: 14, color: '#5a5148', textDecoration: 'underline', textDecorationThickness: 1, textUnderlineOffset: 4 }}>GitHub</a>
-        <a href="https://kimkim.io" style={{ fontSize: 14, color: '#fff', background: '#1a1a1a', padding: '8px 14px', borderRadius: 8, textDecoration: 'none', fontWeight: 500 }}>kimkim.io ↗</a>
+        <a href="https://github.com/geonhee15/kimnews" target="_blank" rel="noopener" style={{ fontSize: 14, color: TEXT_MUTED, textDecoration: 'underline', textDecorationThickness: 1, textUnderlineOffset: 4 }}>GitHub</a>
+        <a href="https://kimkim.io" style={{ fontSize: 14, color: '#fff', background: ACCENT.ink, padding: '8px 14px', borderRadius: 8, textDecoration: 'none', fontWeight: 500 }}>kimkim.io ↗</a>
       </div>
     </nav>
   );
@@ -139,12 +139,12 @@ function Banner({ data }) {
         <span style={{ width: 6, height: 6, borderRadius: '50%', background: ACCENT.hex, animation: 'pulse-dot 2s ease-in-out infinite' }} />
         매일 오전 9시 발행
       </div>
-      <h1 className="headline" style={{ fontSize: 52, fontWeight: 700, lineHeight: 1.05, letterSpacing: '-0.035em', margin: 0, color: '#161412' }}>
+      <h1 className="headline" style={{ fontSize: 52, fontWeight: 700, lineHeight: 1.05, letterSpacing: '-0.035em', margin: 0, color: '#1a3010' }}>
         오늘의 <span style={{ color: ACCENT.hex }}>AI · 테크 · 개발</span>
       </h1>
       <div style={{ display: 'flex', gap: 16, marginTop: 14, fontSize: 13, color: TEXT_MUTED, flexWrap: 'wrap' }}>
         {issue && <span><strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{formatIssue(issue)}</strong> 오늘자</span>}
-        {data?.count != null && <span>· 총 <strong style={{ color: '#1a1a1a' }}>{data.count}</strong>건</span>}
+        {data?.count != null && <span>· 총 <strong style={{ color: '#1f2412' }}>{data.count}</strong>건</span>}
         {fresh && <span>· {fresh} 업데이트</span>}
       </div>
     </header>
@@ -211,7 +211,7 @@ function NewsCard({ item }) {
         <SourceBadge source={item.source} kind={item.kind} />
         {item.published && <span style={{ fontSize: 11, color: TEXT_FAINT }}>{relativeTime(item.published)}</span>}
       </div>
-      <div style={{ fontSize: 15, fontWeight: 600, lineHeight: 1.4, color: '#1a1a1a', letterSpacing: '-0.01em' }}>
+      <div style={{ fontSize: 15, fontWeight: 600, lineHeight: 1.4, color: '#1f2412', letterSpacing: '-0.01em' }}>
         {item.title}
       </div>
       {item.summary && (
@@ -248,7 +248,7 @@ function App() {
   }, [items, active]);
 
   return (
-    <div style={{ minHeight: '100vh', background: BG, color: '#1a1a1a' }}>
+    <div style={{ minHeight: '100vh', background: BG, color: '#1f2412' }}>
       <Nav />
       <Banner data={data} />
 
