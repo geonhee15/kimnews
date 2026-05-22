@@ -273,38 +273,37 @@ def fetch_article_body(url: str) -> str | None:
 
 # ─── paraphrase (Anthropic) ──────────────────────────────────────────
 
-PARAPHRASE_PROMPT = """다음 뉴스 본문을 한국어로 자기 말로 다시 풀어 써 주세요.
+PARAPHRASE_PROMPT = """You are localizing a news article for a multilingual reader. Rewrite it
+in three languages (Korean, English, Japanese) and translate the headline too.
 
-규칙:
-- 사실, 숫자, 인물·회사·제품명은 그대로 유지
-- 문장 구조와 단어 선택은 자유롭게 바꾸기 (가벼운 의역, 표절 회피)
-- 4~6문단, 총 350~600자 사이의 간결한 한국어
-- 마지막에 출처/링크 같은 메타 정보는 붙이지 마세요. 본문만.
-- 영문 원문은 한국어로 자연스럽게 풀어 옮겨주세요.
+Rules:
+- Keep all facts, numbers, named entities (people, companies, products) intact.
+- Don't copy the original wording verbatim — paraphrase naturally in each language.
+- Body: 4–6 short paragraphs per language, ~300–600 chars each.
+- Do not append source attribution, URLs, or "more info" lines. Body only.
+- If the input is in one language, you still must produce the other two fully translated.
 
-제목: {title}
-출처: {source}
+Headline (original): {title}
+Source: {source}
 
-원문:
-{body}"""
+Body (raw):
+{body}
+
+Respond with ONLY a JSON object, no prose, no markdown fences:
+{{
+  "title_ko": "...", "title_en": "...", "title_ja": "...",
+  "content_ko": "...", "content_en": "...", "content_ja": "..."
+}}"""
 
 
-def paraphrase(body: str, title: str, source: str) -> str | None:
-    if not ANTHROPIC_KEY or not body:
-        return None
-
-    payload = json.dumps({
-        "model": ANTHROPIC_MODEL,
-        "max_tokens": 900,
-        "messages": [{
-            "role": "user",
-            "content": PARAPHRASE_PROMPT.format(title=title, source=source, body=body[:MAX_FETCH_LEN]),
-        }],
-    }).encode("utf-8")
-
+def _post_anthropic(payload_obj: dict, timeout: int = 90) -> dict | None:
+    """Single Anthropic /messages call with prefilled assistant '{' for JSON."""
+    msgs = list(payload_obj.get("messages") or [])
+    msgs.append({"role": "assistant", "content": "{"})
+    body = json.dumps({**payload_obj, "messages": msgs}).encode("utf-8")
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages",
-        data=payload,
+        data=body,
         headers={
             "x-api-key": ANTHROPIC_KEY,
             "anthropic-version": "2023-06-01",
@@ -313,19 +312,54 @@ def paraphrase(body: str, title: str, source: str) -> str | None:
         method="POST",
     )
     try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            d = json.loads(r.read())
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return json.loads(r.read())
     except urllib.error.HTTPError as e:
-        print(f"  ! paraphrase HTTP {e.code}: {e.read()[:200] if hasattr(e, 'read') else ''}", file=sys.stderr)
+        snippet = ""
+        try: snippet = e.read()[:240].decode("utf-8", errors="replace")
+        except Exception: pass
+        print(f"  ! Anthropic HTTP {e.code}: {snippet}", file=sys.stderr)
         return None
     except Exception as e:
-        print(f"  ! paraphrase error: {e}", file=sys.stderr)
+        print(f"  ! Anthropic error: {e}", file=sys.stderr)
         return None
 
-    parts = d.get("content") or []
-    if not parts:
+
+def paraphrase(body: str, title: str, source: str) -> dict | None:
+    """Returns {'title_ko','title_en','title_ja','content_ko','content_en','content_ja'}
+    or None if disabled / failed."""
+    if not ANTHROPIC_KEY or not body:
         return None
-    return parts[0].get("text", "").strip()[:MAX_OUTPUT_LEN]
+
+    resp = _post_anthropic({
+        "model": ANTHROPIC_MODEL,
+        "max_tokens": 2200,
+        "messages": [{
+            "role": "user",
+            "content": PARAPHRASE_PROMPT.format(title=title, source=source, body=body[:MAX_FETCH_LEN]),
+        }],
+    })
+    if not resp: return None
+    parts = resp.get("content") or []
+    if not parts: return None
+    text = "{" + parts[0].get("text", "").strip()
+
+    # Strip any accidental code fences and parse JSON.
+    text = re.sub(r"^```(?:json)?\s*|\s*```\s*$", "", text.strip())
+    try:
+        obj = json.loads(text)
+    except json.JSONDecodeError as e:
+        # Fall back: try to slice from first { to last }
+        m = re.search(r"\{.*\}", text, re.S)
+        if not m:
+            print(f"  ! paraphrase JSON parse error: {e}", file=sys.stderr)
+            return None
+        try: obj = json.loads(m.group(0))
+        except Exception: return None
+
+    keys = ("title_ko","title_en","title_ja","content_ko","content_en","content_ja")
+    out = {k: (str(obj.get(k, "")).strip()[:MAX_OUTPUT_LEN]) for k in keys}
+    return out if any(out.values()) else None
 
 
 # ─── aggregator core ─────────────────────────────────────────────────
@@ -344,13 +378,14 @@ def collect() -> list[dict]:
             if not default_on and not relevant(it["title"], it["summary"]):
                 continue
 
-            # Fetch + paraphrase the article body so the reader can stay on
-            # kimnews instead of redirecting away.
+            # Fetch + paraphrase into KO/EN/JA so the reader stays on kimnews
+            # AND the chosen UI language drives which text shows up. Without
+            # ANTHROPIC_API_KEY we just store the extracted text as-is.
             article_body = fetch_article_body(it["link"])
-            rewritten = paraphrase(article_body or it["summary"], it["title"], name) if article_body else None
-            content = rewritten or (article_body[:MAX_OUTPUT_LEN] if article_body else "")
+            tri = paraphrase(article_body or it["summary"], it["title"], name) if article_body else None
+            fallback_content = (article_body or "")[:MAX_OUTPUT_LEN]
 
-            all_items.append({
+            entry = {
                 "id": make_id(it["link"], it["title"]),
                 "source": name,
                 "kind": "article",
@@ -358,10 +393,14 @@ def collect() -> list[dict]:
                 "title": it["title"],
                 "link": it["link"],
                 "summary": it["summary"][:280],
-                "content": content,
-                "paraphrased": bool(rewritten),
+                "content": (tri and tri.get("content_ko")) or fallback_content,
+                "paraphrased": bool(tri),
                 "published": it["published"],
-            })
+            }
+            if tri:
+                for k in ("title_ko","title_en","title_ja","content_ko","content_en","content_ja"):
+                    if tri.get(k): entry[k] = tri[k]
+            all_items.append(entry)
 
     for name, channel_id, category in YOUTUBE_CHANNELS:
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"

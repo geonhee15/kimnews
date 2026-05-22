@@ -62,7 +62,7 @@
 <script data-cfasync="false" src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
 
 <script data-cfasync="false" type="text/babel">
-const { useState, useEffect, useMemo } = React;
+const { useState, useEffect, useMemo, useRef } = React;
 
 const ACCENT = { hex: "#3f6b2d", soft: "#e7e3b7", ink: "#1f3d12" };
 const BG = "#fbf5e6";
@@ -70,13 +70,112 @@ const BORDER = "#e0d6b8";
 const TEXT_MUTED = "#5e6e4c";
 const TEXT_FAINT = "#97a081";
 
-const CATEGORIES = [
-  { id: 'all', label: '전체' },
-  { id: 'AI',  label: 'AI' },
-  { id: 'TECH', label: 'Tech' },
-  { id: 'DEV', label: 'Dev' },
-  { id: 'youtube', label: 'YouTube' },
+// ── i18n ────────────────────────────────────────────────────────────
+
+const LANGS = [
+  { code: 'EN', value: 'en', label: 'English' },
+  { code: 'KO', value: 'ko', label: '한국어' },
+  { code: 'JA', value: 'ja', label: '日本語' },
 ];
+
+const STRINGS = {
+  ko: {
+    eyebrow: '매일 오전 9시 발행',
+    titleA: '오늘의',
+    titleB: 'AI · 테크 · 개발',
+    todayLabel: '오늘자',
+    count: (n) => `총 ${n.toLocaleString()}건`,
+    updated: (rel) => `${rel} 업데이트`,
+    cats: { all: '전체', AI: 'AI', TECH: 'Tech', DEV: 'Dev', youtube: 'YouTube' },
+    read: '읽기 →', play: '재생 ↗',
+    summary: 'KIMNEWS 요약본',
+    sourceLabel: '원문 출처',
+    paraphraseNote: '본문은 KIMNEWS가 의역해 재구성했어요.',
+    original: '원문 보기 ↗',
+    noPreview: '본문 미리보기가 아직 준비되지 않았어요. 원문 링크에서 바로 읽으실 수 있습니다.',
+    notReady: '아직 오늘자 뉴스가 준비되지 않았어요.',
+    empty: '이 카테고리에 오늘은 뉴스가 없어요.',
+    footer: '© 2026 KIMNEWS · 매일 오전 9시 발행 (KST)',
+    justNow: '방금', scheduled: '예정',
+    minSuffix: '분 전', hrSuffix: '시간 전', daySuffix: '일 전',
+    dows: ['일','월','화','수','목','금','토'],
+    formatDate: (y,m,d,dow) => `${y}년 ${m}월 ${d}일 (${dow})`,
+  },
+  en: {
+    eyebrow: 'Daily at 9 AM KST',
+    titleA: "Today's",
+    titleB: 'AI · Tech · Dev',
+    todayLabel: 'issue',
+    count: (n) => `${n.toLocaleString()} items`,
+    updated: (rel) => `updated ${rel}`,
+    cats: { all: 'All', AI: 'AI', TECH: 'Tech', DEV: 'Dev', youtube: 'YouTube' },
+    read: 'Read →', play: 'Watch ↗',
+    summary: 'KIMNEWS recap',
+    sourceLabel: 'Source',
+    paraphraseNote: 'Rewritten by KIMNEWS.',
+    original: 'Original ↗',
+    noPreview: "Preview isn't available yet. You can read the full text via the original link.",
+    notReady: "Today's issue isn't ready yet.",
+    empty: 'No items in this category today.',
+    footer: '© 2026 KIMNEWS · Daily at 9 AM KST',
+    justNow: 'just now', scheduled: 'scheduled',
+    minSuffix: 'm ago', hrSuffix: 'h ago', daySuffix: 'd ago',
+    dows: ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],
+    formatDate: (y,m,d,dow) => `${dow}, ${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][m-1]} ${d}, ${y}`,
+  },
+  ja: {
+    eyebrow: '毎朝9時発行 (KST)',
+    titleA: '今日の',
+    titleB: 'AI · テック · 開発',
+    todayLabel: '号',
+    count: (n) => `全${n.toLocaleString()}件`,
+    updated: (rel) => `${rel}更新`,
+    cats: { all: '全て', AI: 'AI', TECH: 'テック', DEV: '開発', youtube: 'YouTube' },
+    read: '読む →', play: '再生 ↗',
+    summary: 'KIMNEWS 要約',
+    sourceLabel: '出典',
+    paraphraseNote: '本文はKIMNEWSが要約・再構成しています。',
+    original: '原文を読む ↗',
+    noPreview: '本文プレビューはまだ準備中です。原文リンクから直接お読みください。',
+    notReady: '本日の号はまだ準備中です。',
+    empty: 'このカテゴリには本日の記事がありません。',
+    footer: '© 2026 KIMNEWS · 毎朝9時発行 (KST)',
+    justNow: '今', scheduled: '予定',
+    minSuffix: '分前', hrSuffix: '時間前', daySuffix: '日前',
+    dows: ['日','月','火','水','木','金','土'],
+    formatDate: (y,m,d,dow) => `${y}年${m}月${d}日 (${dow})`,
+  },
+};
+
+function pickInitialLang() {
+  try {
+    const saved = localStorage.getItem('kimnews_lang');
+    if (saved && STRINGS[saved]) return saved;
+    const nav = (navigator.language || 'ko').slice(0, 2).toLowerCase();
+    if (STRINGS[nav]) return nav;
+  } catch {}
+  return 'ko';
+}
+
+function useLang() {
+  const [lang, setLangState] = useState(pickInitialLang);
+  const setLang = (v) => {
+    if (!STRINGS[v]) return;
+    setLangState(v);
+    try { localStorage.setItem('kimnews_lang', v); } catch {}
+    try { document.documentElement.lang = v; } catch {}
+  };
+  return [lang, setLang, STRINGS[lang]];
+}
+
+// Localized item — prefer language-specific title/content when present.
+function localizeItem(item, lang) {
+  return {
+    ...item,
+    title: item[`title_${lang}`] || item.title,
+    content: item[`content_${lang}`] || item.content,
+  };
+}
 
 function useFeed() {
   const [data, setData] = useState(null);
@@ -90,30 +189,28 @@ function useFeed() {
   return { data, err };
 }
 
-function formatIssue(iso) {
+function formatIssue(iso, t) {
   if (!iso) return '';
   const [y, m, d] = iso.split('-').map(Number);
-  const days = ['일','월','화','수','목','금','토'];
   const date = new Date(Date.UTC(y, m-1, d));
-  return `${y}년 ${m}월 ${d}일 (${days[date.getUTCDay()]})`;
+  return t.formatDate(y, m, d, t.dows[date.getUTCDay()]);
 }
 
-function relativeTime(iso, nowMs) {
-  if (!iso) return '';
-  const t = Date.parse(iso);
-  if (Number.isNaN(t)) return '';
+function relativeTime(iso, nowMs, t) {
+  if (!iso || !t) return '';
+  const ts = Date.parse(iso);
+  if (Number.isNaN(ts)) return '';
   const now = nowMs || Date.now();
-  const diffMs = now - t;
-  // Future timestamp (e.g. publisher hasn't released yet, or feed glitch)
-  if (diffMs < -60_000) return '예정';
-  if (diffMs < 60_000) return '방금';
+  const diffMs = now - ts;
+  if (diffMs < -60_000) return t.scheduled;
+  if (diffMs < 60_000) return t.justNow;
   const mins = Math.floor(diffMs / 60000);
-  if (mins < 60) return `${mins}분 전`;
+  if (mins < 60) return `${mins}${t.minSuffix}`;
   const hrs = Math.floor(mins / 60);
-  if (hrs < 24) return `${hrs}시간 전`;
+  if (hrs < 24) return `${hrs}${t.hrSuffix}`;
   const days = Math.floor(hrs / 24);
-  if (days < 7) return `${days}일 전`;
-  const d = new Date(t);
+  if (days < 7) return `${days}${t.daySuffix}`;
+  const d = new Date(ts);
   return `${d.getMonth()+1}.${d.getDate()}`;
 }
 
@@ -136,7 +233,96 @@ function useNow(intervalMs = 60_000) {
   return now;
 }
 
-function Nav() {
+function LanguageSwitcher({ lang, setLang }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const onDown = (e) => { if (!ref.current?.contains(e.target)) setOpen(false); };
+    const onKey  = (e) => { if (e.key === 'Escape') setOpen(false); };
+    document.addEventListener('mousedown', onDown);
+    document.addEventListener('keydown', onKey);
+    return () => {
+      document.removeEventListener('mousedown', onDown);
+      document.removeEventListener('keydown', onKey);
+    };
+  }, [open]);
+
+  const current = LANGS.find(l => l.value === lang) || LANGS[1];
+
+  return (
+    <div ref={ref} style={{ position: 'relative' }}>
+      <button
+        onClick={() => setOpen(o => !o)}
+        type="button"
+        aria-haspopup="listbox"
+        aria-expanded={open}
+        style={{
+          display: 'inline-flex', alignItems: 'center', gap: 8,
+          background: ACCENT.ink, color: '#fbf5e6',
+          border: 'none', borderRadius: 999,
+          padding: '7px 12px 7px 14px',
+          fontSize: 13, fontWeight: 600, fontFamily: 'inherit',
+          cursor: 'pointer', letterSpacing: '-0.01em',
+        }}
+      >
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="10" />
+          <path d="M2 12h20" />
+          <path d="M12 2a15 15 0 0 1 0 20a15 15 0 0 1 0-20z" />
+        </svg>
+        <span>{current.code}</span>
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" style={{ marginLeft: -2 }}>
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
+      </button>
+
+      {open && (
+        <div
+          role="listbox"
+          style={{
+            position: 'absolute', top: 'calc(100% + 8px)', right: 0,
+            background: ACCENT.ink, color: '#fbf5e6',
+            borderRadius: 14, padding: 6, minWidth: 200,
+            boxShadow: '0 16px 40px -12px rgba(31,61,18,0.45), 0 0 0 1px rgba(255,255,255,0.04) inset',
+            zIndex: 60,
+            animation: 'fadeUp 0.16s ease both',
+          }}
+        >
+          {LANGS.map(opt => {
+            const isCurrent = opt.value === lang;
+            return (
+              <button
+                key={opt.value}
+                onClick={() => { setLang(opt.value); setOpen(false); }}
+                type="button"
+                role="option"
+                aria-selected={isCurrent}
+                style={{
+                  width: '100%', textAlign: 'left',
+                  display: 'flex', alignItems: 'center', gap: 14,
+                  padding: '10px 12px',
+                  background: isCurrent ? 'rgba(231,227,183,0.10)' : 'transparent',
+                  border: 'none', borderRadius: 10,
+                  color: '#fbf5e6', cursor: 'pointer', fontFamily: 'inherit',
+                  transition: 'background 0.15s',
+                }}
+                onMouseEnter={(e) => { if (!isCurrent) e.currentTarget.style.background = 'rgba(231,227,183,0.06)'; }}
+                onMouseLeave={(e) => { if (!isCurrent) e.currentTarget.style.background = 'transparent'; }}
+              >
+                <span style={{ color: '#c8d8a8', fontWeight: 700, fontSize: 13, letterSpacing: '0.04em', width: 24 }}>{opt.code}</span>
+                <span style={{ fontSize: 14, fontWeight: isCurrent ? 600 : 500 }}>{opt.label}</span>
+              </button>
+            );
+          })}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function Nav({ lang, setLang }) {
   return (
     <nav className="nav-inner" style={{ maxWidth: 1240, margin: '0 auto', padding: '22px 32px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
       <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
@@ -144,56 +330,58 @@ function Nav() {
         <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: '-0.02em' }}>KIMNEWS</span>
         <span style={{ fontSize: 11, color: TEXT_FAINT, marginLeft: 6, padding: '3px 8px', borderRadius: 999, background: '#e7e3b7', fontWeight: 500 }}>DAILY</span>
       </div>
-      <div style={{ display: 'flex', gap: 18, alignItems: 'center' }}>
+      <div style={{ display: 'flex', gap: 14, alignItems: 'center' }}>
         <a href="https://github.com/geonhee15/kimnews" target="_blank" rel="noopener" style={{ fontSize: 14, color: TEXT_MUTED, textDecoration: 'underline', textDecorationThickness: 1, textUnderlineOffset: 4 }}>GitHub</a>
+        <LanguageSwitcher lang={lang} setLang={setLang} />
         <a href="https://kimkim.io" style={{ fontSize: 14, color: '#fff', background: ACCENT.ink, padding: '8px 14px', borderRadius: 8, textDecoration: 'none', fontWeight: 500 }}>kimkim.io ↗</a>
       </div>
     </nav>
   );
 }
 
-function Banner({ data, now }) {
+function Banner({ data, now, t }) {
   const issue = data?.issue_date;
   const generated = data?.generated_at;
-  const fresh = generated ? relativeTime(generated, now) : '';
+  const fresh = generated ? relativeTime(generated, now, t) : '';
   return (
     <header className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 24px' }}>
       <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '5px 11px', borderRadius: 999, background: ACCENT.soft, color: ACCENT.hex, fontSize: 11, fontWeight: 500, marginBottom: 12, letterSpacing: '-0.01em' }}>
         <span style={{ width: 6, height: 6, borderRadius: '50%', background: ACCENT.hex, animation: 'pulse-dot 2s ease-in-out infinite' }} />
-        매일 오전 9시 발행
+        {t.eyebrow}
       </div>
       <h1 className="headline" style={{ fontSize: 52, fontWeight: 700, lineHeight: 1.05, letterSpacing: '-0.035em', margin: 0, color: '#1a3010' }}>
-        오늘의 <span style={{ color: ACCENT.hex }}>AI · 테크 · 개발</span>
+        {t.titleA} <span style={{ color: ACCENT.hex }}>{t.titleB}</span>
       </h1>
       <div style={{ display: 'flex', gap: 16, marginTop: 14, fontSize: 13, color: TEXT_MUTED, flexWrap: 'wrap' }}>
-        {issue && <span><strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{formatIssue(issue)}</strong> 오늘자</span>}
-        {data?.count != null && <span>· 총 <strong style={{ color: '#1f2412' }}>{data.count}</strong>건</span>}
-        {fresh && <span>· {fresh} 업데이트</span>}
+        {issue && <span><strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{formatIssue(issue, t)}</strong> {t.todayLabel}</span>}
+        {data?.count != null && <span>· {t.count(data.count)}</span>}
+        {fresh && <span>· {t.updated(fresh)}</span>}
       </div>
     </header>
   );
 }
 
-function CategoryTabs({ active, onChange, counts }) {
+function CategoryTabs({ active, onChange, counts, t }) {
+  const ids = ['all', 'AI', 'TECH', 'DEV', 'youtube'];
   return (
     <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 18 }}>
-      {CATEGORIES.map(c => {
-        const isActive = c.id === active;
-        const n = counts?.[c.id];
+      {ids.map(id => {
+        const isActive = id === active;
+        const n = counts?.[id];
         return (
           <button
-            key={c.id}
-            onClick={() => onChange(c.id)}
+            key={id}
+            onClick={() => onChange(id)}
             className={`chip-tab ${isActive ? 'active' : ''}`}
             style={{
               padding: '8px 14px', borderRadius: 999, fontSize: 13, fontWeight: 500, fontFamily: 'inherit',
               border: `1px solid ${isActive ? ACCENT.hex : BORDER}`,
               background: isActive ? ACCENT.hex : '#fff',
-              color: isActive ? '#fff' : '#1a1a1a',
+              color: isActive ? '#fff' : '#1f2412',
               cursor: 'pointer',
             }}
           >
-            {c.label}
+            {t.cats[id]}
             {n != null && <span style={{ marginLeft: 6, fontSize: 11, opacity: isActive ? 0.85 : 0.5 }}>{n}</span>}
           </button>
         );
@@ -216,7 +404,7 @@ function SourceBadge({ source, kind }) {
   );
 }
 
-function NewsCard({ item, onOpen, now }) {
+function NewsCard({ item, onOpen, now, t }) {
   const isYT = item.kind === 'youtube';
   const cardStyle = {
     display: 'flex', flexDirection: 'column', gap: 8,
@@ -233,7 +421,7 @@ function NewsCard({ item, onOpen, now }) {
         <SourceBadge source={item.source} kind={item.kind} />
         {item.published && (
           <span style={{ fontSize: 11, color: TEXT_FAINT }} title={absoluteTime(item.published)}>
-            {relativeTime(item.published, now)}
+            {relativeTime(item.published, now, t)}
           </span>
         )}
       </div>
@@ -247,7 +435,7 @@ function NewsCard({ item, onOpen, now }) {
         </div>
       )}
       <div style={{ marginTop: 'auto', paddingTop: 4, fontSize: 11, color: ACCENT.hex, fontWeight: 600, letterSpacing: '-0.01em' }}>
-        {isYT ? '재생 ↗' : '읽기 →'}
+        {isYT ? t.play : t.read}
       </div>
     </>
   );
@@ -266,7 +454,7 @@ function NewsCard({ item, onOpen, now }) {
   );
 }
 
-function ArticleReader({ item, onClose, now }) {
+function ArticleReader({ item, onClose, now, t }) {
   useEffect(() => {
     if (!item) return;
     const onKey = (e) => { if (e.key === 'Escape') onClose(); };
@@ -298,12 +486,12 @@ function ArticleReader({ item, onClose, now }) {
           <SourceBadge source={item.source} kind={item.kind} />
           {item.published && (
             <span style={{ fontSize: 11, color: TEXT_FAINT }} title={absoluteTime(item.published)}>
-              {relativeTime(item.published, now)}
+              {relativeTime(item.published, now, t)}
             </span>
           )}
           {item.paraphrased && (
             <span style={{ fontSize: 10, color: ACCENT.hex, fontWeight: 600, padding: '2px 8px', borderRadius: 999, background: ACCENT.soft, letterSpacing: '0.04em' }}>
-              KIMNEWS 요약본
+              {t.summary}
             </span>
           )}
         </div>
@@ -316,21 +504,21 @@ function ArticleReader({ item, onClose, now }) {
           {paragraphs.length ? paragraphs.map((p, i) => (
             <p key={i} style={{ margin: '0 0 14px' }}>{p}</p>
           )) : (
-            <p style={{ color: TEXT_MUTED }}>본문 미리보기가 아직 준비되지 않았어요. 원문 링크에서 바로 읽으실 수 있습니다.</p>
+            <p style={{ color: TEXT_MUTED }}>{t.noPreview}</p>
           )}
         </div>
 
         <div style={{ marginTop: 22, paddingTop: 18, borderTop: `1px solid ${BORDER}`, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 12 }}>
           <div style={{ fontSize: 12, color: TEXT_FAINT, lineHeight: 1.6 }}>
-            원문 출처: <strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{item.source}</strong>
-            {item.paraphrased && <> · 본문은 KIMNEWS가 의역해 재구성했어요.</>}
+            {t.sourceLabel}: <strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{item.source}</strong>
+            {item.paraphrased && <> · {t.paraphraseNote}</>}
           </div>
           <a
             href={item.link}
             target="_blank"
             rel="noopener noreferrer"
             style={{ background: ACCENT.hex, color: '#fff', padding: '9px 16px', borderRadius: 10, fontSize: 13, fontWeight: 600, textDecoration: 'none', whiteSpace: 'nowrap' }}
-          >원문 보기 ↗</a>
+          >{t.original}</a>
         </div>
       </article>
     </div>
@@ -342,8 +530,10 @@ function App() {
   const [active, setActive] = useState('all');
   const [openItem, setOpenItem] = useState(null);
   const now = useNow();
+  const [lang, setLang, t] = useLang();
 
-  const items = data?.items || [];
+  const rawItems = data?.items || [];
+  const items = useMemo(() => rawItems.map(it => localizeItem(it, lang)), [rawItems, lang]);
 
   const counts = useMemo(() => ({
     all: items.length,
@@ -361,16 +551,16 @@ function App() {
 
   return (
     <div style={{ minHeight: '100vh', background: BG, color: '#1f2412' }}>
-      <Nav />
-      <Banner data={data} now={now} />
-      <ArticleReader item={openItem} onClose={() => setOpenItem(null)} now={now} />
+      <Nav lang={lang} setLang={setLang} />
+      <Banner data={data} now={now} t={t} />
+      <ArticleReader item={openItem} onClose={() => setOpenItem(null)} now={now} t={t} />
 
       <main className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 60px' }}>
-        <CategoryTabs active={active} onChange={setActive} counts={counts} />
+        <CategoryTabs active={active} onChange={setActive} counts={counts} t={t} />
 
         {err ? (
           <div style={{ background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16, padding: 24, color: '#c54433', fontSize: 14 }}>
-            아직 오늘자 뉴스가 준비되지 않았어요. ({err})
+            {t.notReady} ({err})
           </div>
         ) : !data ? (
           <div className="news-grid">
@@ -380,17 +570,17 @@ function App() {
           </div>
         ) : filtered.length === 0 ? (
           <div style={{ background: '#fff', border: `1px dashed ${BORDER}`, borderRadius: 16, padding: 32, textAlign: 'center', color: TEXT_MUTED, fontSize: 14 }}>
-            이 카테고리에 오늘은 뉴스가 없어요.
+            {t.empty}
           </div>
         ) : (
           <div className="news-grid" style={{ animation: 'fadeUp 0.4s ease both' }}>
-            {filtered.map(it => <NewsCard key={it.id} item={it} onOpen={setOpenItem} now={now} />)}
+            {filtered.map(it => <NewsCard key={it.id} item={it} onOpen={setOpenItem} now={now} t={t} />)}
           </div>
         )}
       </main>
 
       <footer style={{ borderTop: `1px solid ${BORDER}`, padding: '24px 32px', maxWidth: 1240, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: 12, color: TEXT_FAINT, flexWrap: 'wrap', gap: 10 }}>
-        <div>© 2026 KIMNEWS · 매일 오전 9시 발행 (KST)</div>
+        <div>{t.footer}</div>
         <div style={{ display: 'flex', gap: 18 }}>
           <a href="https://kimkim.io" style={{ color: TEXT_FAINT, textDecoration: 'none' }}>kimkim.io</a>
           <a href="https://github.com/geonhee15/kimnews" style={{ color: TEXT_FAINT, textDecoration: 'none' }}>GitHub</a>
