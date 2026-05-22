@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-22T18:04:48.760989+00:00",
-  "count": 188,
+  "updated_at": "2026-05-22T20:09:23.394846+00:00",
+  "count": 193,
   "items": [
+    {
+      "id": "0630aee3883d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+      "published": "2026-05-22T18:52:47+00:00",
+      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day."
+    },
+    {
+      "id": "bd28ec0dfd2a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Review: The Mandalorian and Grogu is ... fine",
+      "link": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+      "published": "2026-05-22T18:30:06+00:00",
+      "summary": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu."
+    },
+    {
+      "id": "a416c9d26d3c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "published": "2026-05-22T18:13:05+00:00",
+      "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate."
+    },
     {
       "id": "24931f03496a",
       "source": "The Verge",
@@ -267,6 +300,17 @@
       "summary": "Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Without even telling you about it? In the world Google imagines, in which so much of "
     },
     {
+      "id": "6a9e8a85f649",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI has a multiplying effect on existing technical skills",
+      "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "published": "2026-05-22T13:22:42+00:00",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/ Comments URL: https://news.ycombinator.com/item?id=48235526 Points: 226 # Comments: 228"
+    },
+    {
       "id": "06e5ebda2ff0",
       "source": "The Verge",
       "kind": "article",
@@ -331,6 +375,17 @@
       "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
       "published": "2026-05-22T11:30:38+00:00",
       "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines."
+    },
+    {
+      "id": "aa303b4eecf5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Deno 2.8",
+      "link": "https://deno.com/blog/v2.8",
+      "published": "2026-05-22T11:23:30+00:00",
+      "summary": "Article URL: https://deno.com/blog/v2.8 Comments URL: https://news.ycombinator.com/item?id=48234380 Points: 221 # Comments: 102"
     },
     {
       "id": "2164889a305f",
