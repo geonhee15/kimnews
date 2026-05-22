@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-22T20:09:23.394846+00:00",
-  "count": 193,
+  "updated_at": "2026-05-22T21:36:08.289995+00:00",
+  "count": 199,
   "items": [
+    {
+      "id": "11c41981c5b2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "published": "2026-05-22T21:02:36+00:00",
+      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google."
+    },
+    {
+      "id": "b5c5e28ad246",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "published": "2026-05-22T20:40:48+00:00",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+    },
     {
       "id": "0630aee3883d",
       "source": "Wired",
@@ -12,6 +34,17 @@
       "link": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
       "published": "2026-05-22T18:52:47+00:00",
       "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day."
+    },
+    {
+      "id": "5d2f166c43cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "TS, 세계 최초 자율차 평가시스템 ‘KADAS’ 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260523033804",
+      "published": "2026-05-22T18:38:04+00:00",
+      "summary": "[지디넷코리아]한국교통안전공단(TS·이사장 정용식)은 자율주행자동차 등 미래 모빌리티 운행차의 안전관리를 위한 ‘자율차 평가시스템(KADAS)’을 세계 최초로 자동차검사소에 구축하고 6월부터 본격 운영한다고 21일 밝혔다.TS는 지난 21일 세종검사소에서 ‘KADAS 전용 진로 준공 및 사전 공개 행사’를 개최했다.KADAS(Korea Automated Driving vehicle Assessment system)는 자율주행 상용화와 첨단안전장치(ADAS) 장착 자동차 보급 확대에 따라 자동차에 "
     },
     {
       "id": "bd28ec0dfd2a",
@@ -58,6 +91,17 @@
       "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google "
     },
     {
+      "id": "656ed7961fdf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bun support is now limited and deprecated",
+      "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "published": "2026-05-22T17:24:12+00:00",
+      "summary": "Article URL: https://github.com/yt-dlp/yt-dlp/issues/16766 Comments URL: https://news.ycombinator.com/item?id=48238789 Points: 257 # Comments: 240"
+    },
+    {
       "id": "2ddb59301737",
       "source": "The Verge",
       "kind": "article",
@@ -97,6 +141,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "Google’s AI endgame is here… everything you missed at Google I/O 2026",
+      "link": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "published": "2026-05-22T16:38:42+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b1e045482e51",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
       "link": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
       "published": "2026-05-22T16:38:42+00:00",
       "summary": ""
@@ -177,6 +232,17 @@
       "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
       "published": "2026-05-22T16:01:17+00:00",
       "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a"
+    },
+    {
+      "id": "4fbe32b7f698",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "link": "https://api-docs.deepseek.com/quick_start/pricing",
+      "published": "2026-05-22T15:59:26+00:00",
+      "summary": "> (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC. https://x.com/deepseek_ai/status/2057854261699195173 Comments URL: https://news.ycombinator.com/item?id=48237663 Poi"
     },
     {
       "id": "3e292c35901a",
