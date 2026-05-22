@@ -177,13 +177,18 @@ function localizeItem(item, lang) {
   };
 }
 
-// ── free translation (MyMemory) ─────────────────────────────────────
-// CORS-friendly, no API key. Anonymous IP quota is ~5k words/day, plenty
-// for normal browsing. Results are memoized in module-level Map + persisted
-// to sessionStorage so language switches don't re-hit the API.
+// ── free translation (MyMemory + Google fallback) ───────────────────
+// MyMemory: CORS-friendly, no API key. With `de=` email param the IP
+// quota jumps from 5k → 50k words/day. When the quota is exhausted we
+// fall through to Google Translate's unofficial gtx endpoint (also free,
+// no key), so the page keeps working without user action.
 
 const TR_CACHE = new Map();
-const TR_PREFIX = 'kimnews_tr:';
+// Bump suffix when changing translation logic — invalidates polluted
+// sessionStorage entries from prior versions (e.g. quota warnings cached
+// as if they were the translation).
+const TR_PREFIX = 'kimnews_tr_v2:';
+const TR_EMAIL = 'kimnews@kimkim.io';   // bumps MyMemory quota 10x
 const MAX_CHUNK = 480;
 
 function loadCachedTranslation(key) {
@@ -226,31 +231,69 @@ function splitForTranslate(text) {
   return hard;
 }
 
+function looksLikeQuotaWarning(text) {
+  if (!text) return false;
+  const t = text.toUpperCase();
+  return t.includes('MYMEMORY WARNING') || t.includes('QUOTA') || t.includes('USED ALL AVAILABLE');
+}
+
+async function translateViaMyMemory(chunk, from, to) {
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=${from}|${to}&de=${encodeURIComponent(TR_EMAIL)}`;
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`mymemory ${r.status}`);
+  const d = await r.json();
+  const txt = d && d.responseData && d.responseData.translatedText;
+  if (!txt) throw new Error('mymemory empty');
+  if (looksLikeQuotaWarning(txt) || d.responseStatus === 429 || d.quotaFinished) {
+    throw new Error('mymemory quota');
+  }
+  return txt;
+}
+
+async function translateViaGoogle(chunk, from, to) {
+  // Unofficial public gtx endpoint — no auth, CORS-friendly. Returns a
+  // nested array; concatenate the first-level translation segments.
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${from}&tl=${to}&dt=t&q=${encodeURIComponent(chunk)}`;
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`google ${r.status}`);
+  const d = await r.json();
+  if (!Array.isArray(d) || !Array.isArray(d[0])) throw new Error('google shape');
+  const out = d[0].map(seg => (seg && seg[0]) || '').join('').trim();
+  if (!out) throw new Error('google empty');
+  return out;
+}
+
+async function translateChunk(chunk, from, to) {
+  // Try MyMemory first (good quality), fall through to Google on any
+  // failure including quota exhaustion.
+  try { return await translateViaMyMemory(chunk, from, to); }
+  catch (e1) {
+    try { return await translateViaGoogle(chunk, from, to); }
+    catch (e2) { return chunk; }  // give up — keep original
+  }
+}
+
 async function translateText(text, from, to) {
   if (!text || !from || !to || from === to) return text;
   const key = `${from}>${to}|${text}`;
   const cached = loadCachedTranslation(key);
-  if (cached != null) return cached;
+  if (cached != null && !looksLikeQuotaWarning(cached)) return cached;
 
   const chunks = splitForTranslate(text);
   const parts = [];
   for (const chunk of chunks) {
     const chunkKey = `${from}>${to}|${chunk}`;
     const c2 = loadCachedTranslation(chunkKey);
-    if (c2 != null) { parts.push(c2); continue; }
-    try {
-      const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=${from}|${to}`;
-      const r = await fetch(url);
-      const d = await r.json();
-      const t = (d && d.responseData && d.responseData.translatedText) || chunk;
+    if (c2 != null && !looksLikeQuotaWarning(c2)) { parts.push(c2); continue; }
+    const t = await translateChunk(chunk, from, to);
+    // Only cache real translations (skip giving-up = original passthrough).
+    if (t && t !== chunk && !looksLikeQuotaWarning(t)) {
       saveCachedTranslation(chunkKey, t);
-      parts.push(t);
-    } catch {
-      parts.push(chunk);
     }
+    parts.push(t);
   }
   const joined = parts.join('\n\n');
-  saveCachedTranslation(key, joined);
+  if (joined && !looksLikeQuotaWarning(joined)) saveCachedTranslation(key, joined);
   return joined;
 }
 
