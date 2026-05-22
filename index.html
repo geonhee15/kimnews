@@ -93,6 +93,7 @@ const STRINGS = {
     paraphraseNote: '본문은 KIMNEWS가 의역해 재구성했어요.',
     original: '원문 보기 ↗',
     noPreview: '본문 미리보기가 아직 준비되지 않았어요. 원문 링크에서 바로 읽으실 수 있습니다.',
+    archive: 'News Archive',
     notReady: '아직 오늘자 뉴스가 준비되지 않았어요.',
     empty: '이 카테고리에 오늘은 뉴스가 없어요.',
     footer: '© 2026 KIMNEWS · 15분마다 자동 갱신 (KST)',
@@ -115,6 +116,7 @@ const STRINGS = {
     paraphraseNote: 'Rewritten by KIMNEWS.',
     original: 'Original ↗',
     noPreview: "Preview isn't available yet. You can read the full text via the original link.",
+    archive: 'News Archive',
     notReady: "Today's issue isn't ready yet.",
     empty: 'No items in this category today.',
     footer: '© 2026 KIMNEWS · Auto-updated every 15 min (KST)',
@@ -137,6 +139,7 @@ const STRINGS = {
     paraphraseNote: '本文はKIMNEWSが要約・再構成しています。',
     original: '原文を読む ↗',
     noPreview: '本文プレビューはまだ準備中です。原文リンクから直接お読みください。',
+    archive: 'News Archive',
     notReady: '本日の号はまだ準備中です。',
     empty: 'このカテゴリには本日の記事がありません。',
     footer: '© 2026 KIMNEWS · 15分ごと自動更新 (KST)',
@@ -464,16 +467,19 @@ function LanguageSwitcher({ lang, setLang }) {
   );
 }
 
-function Nav({ lang, setLang }) {
+function Nav({ lang, setLang, t }) {
   return (
     <nav className="nav-inner" style={{ maxWidth: 1240, margin: '0 auto', padding: '22px 32px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
       <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-        <div style={{ width: 30, height: 30, borderRadius: 9, background: ACCENT.hex, display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#fff', fontSize: 14, fontWeight: 700, letterSpacing: '-0.02em' }}>K</div>
-        <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: '-0.02em' }}>KIMNEWS</span>
+        <a href="./" style={{ display: 'flex', alignItems: 'center', gap: 10, textDecoration: 'none', color: 'inherit' }}>
+          <div style={{ width: 30, height: 30, borderRadius: 9, background: ACCENT.hex, display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#fff', fontSize: 14, fontWeight: 700, letterSpacing: '-0.02em' }}>K</div>
+          <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: '-0.02em' }}>KIMNEWS</span>
+        </a>
         <span style={{ fontSize: 11, color: TEXT_FAINT, marginLeft: 6, padding: '3px 8px', borderRadius: 999, background: '#e7e3b7', fontWeight: 500 }}>DAILY</span>
       </div>
-      <div style={{ display: 'flex', gap: 14, alignItems: 'center' }}>
+      <div style={{ display: 'flex', gap: 18, alignItems: 'center' }}>
         <a href="https://github.com/geonhee15/kimnews" target="_blank" rel="noopener" style={{ fontSize: 14, color: TEXT_MUTED, textDecoration: 'underline', textDecorationThickness: 1, textUnderlineOffset: 4 }}>GitHub</a>
+        <a href="./archive.html" style={{ fontSize: 14, color: TEXT_MUTED, textDecoration: 'underline', textDecorationThickness: 1, textUnderlineOffset: 4 }}>{t.archive}</a>
         <LanguageSwitcher lang={lang} setLang={setLang} />
         <a href="https://kimkim.io" style={{ fontSize: 14, color: '#fff', background: ACCENT.ink, padding: '8px 14px', borderRadius: 8, textDecoration: 'none', fontWeight: 500 }}>kimkim.io ↗</a>
       </div>
@@ -765,7 +771,7 @@ function App() {
 
   return (
     <div style={{ minHeight: '100vh', background: BG, color: '#1f2412' }}>
-      <Nav lang={lang} setLang={setLang} />
+      <Nav lang={lang} setLang={setLang} t={t} />
       <Banner data={data} now={now} t={t} />
       <ArticleReader item={openItem} onClose={() => setOpenItem(null)} now={now} t={t} uiLang={lang} />
 

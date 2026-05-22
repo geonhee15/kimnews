@@ -424,6 +424,73 @@ def collect() -> list[dict]:
     return deduped
 
 
+_ARCHIVE_FIELDS = ("id", "source", "kind", "category", "lang",
+                   "title", "link", "published", "summary")
+
+
+def update_archive(all_run_items: list[dict]) -> dict:
+    """Cumulative archive of every item we've ever seen — slim entries
+    (no `content` field) so the file stays small even after months. The
+    archive page links straight to the original sources, so it never
+    needs body text from us.
+    """
+    path = DATA_DIR / "archive.json"
+    seen_ids: dict[str, dict] = {}
+    if path.exists():
+        try:
+            existing = json.loads(path.read_text(encoding="utf-8"))
+            for it in existing.get("items", []):
+                if it.get("id"):
+                    seen_ids[it["id"]] = it
+        except Exception as e:
+            print(f"  ! archive read failed: {e}", file=sys.stderr)
+
+    new_count = 0
+    for it in all_run_items:
+        iid = it.get("id")
+        if not iid or iid in seen_ids:
+            continue
+        seen_ids[iid] = {k: it.get(k) for k in _ARCHIVE_FIELDS if it.get(k) is not None}
+        new_count += 1
+
+    items = list(seen_ids.values())
+    # Sort by published desc — items with parseable dates first.
+    def k(it):
+        p = it.get("published") or ""
+        return p if p and p[:4].isdigit() else "0"
+    items.sort(key=k, reverse=True)
+
+    out = {
+        "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+        "count": len(items),
+        "items": items,
+    }
+    path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"[archive] +{new_count} (total {len(items)})")
+    return out
+
+
+def filter_today(items: list[dict], issue_kst: str) -> list[dict]:
+    """Keep only items whose `published` date (interpreted as KST) matches
+    the current issue date. Items with missing/unparseable timestamps fall
+    through so we don't accidentally lose them."""
+    today_prefix = issue_kst  # e.g. "2026-05-22"
+    kept: list[dict] = []
+    for it in items:
+        p = it.get("published") or ""
+        if not p or not p[:4].isdigit():
+            kept.append(it)
+            continue
+        try:
+            d = dt.datetime.fromisoformat(p.replace("Z", "+00:00"))
+            kst_date = (d.astimezone(_KST)).date().isoformat()
+            if kst_date == today_prefix:
+                kept.append(it)
+        except Exception:
+            kept.append(it)
+    return kept
+
+
 def main() -> int:
     DATA_DIR.mkdir(exist_ok=True)
     items = collect()
@@ -431,11 +498,14 @@ def main() -> int:
     # KST = UTC+9. Compute the "issue date" in KST so 9am-run = today's paper.
     issue_kst = (now_utc + dt.timedelta(hours=9)).date().isoformat()
 
+    # The main page only shows today's news (the rest lives in archive.json).
+    today_items = filter_today(items, issue_kst)
+
     payload = {
         "issue_date": issue_kst,
         "generated_at": now_utc.isoformat(),
-        "count": len(items),
-        "items": items,
+        "count": len(today_items),
+        "items": today_items,
     }
 
     (DATA_DIR / "latest.json").write_text(
@@ -445,7 +515,11 @@ def main() -> int:
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    print(f"\n✓ {len(items)} items → data/latest.json (issue {issue_kst})")
+    # Archive everything we've seen across runs (slim, no body).
+    update_archive(items)
+
+    print(f"\n✓ today={len(today_items)} (run total {len(items)}) → "
+          f"data/latest.json (issue {issue_kst})")
     return 0
 
 

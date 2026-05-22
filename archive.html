@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>News Archive — KIMNEWS</title>
+<meta name="description" content="KIMNEWS가 지금까지 모은 모든 뉴스. 클릭하면 원문 사이트로 이동합니다." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet" />
+<style>
+  html, body { margin: 0; padding: 0; background: #fbf5e6; }
+  body { font-family: Pretendard, system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; color: #1f2412; }
+  * { box-sizing: border-box; }
+  ::selection { background: #3f6b2d; color: #fff; }
+
+  @keyframes pulse-dot { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.4); opacity: 0.5; } }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes shimmer { 0% { background-position: -400px 0; } 100% { background-position: 400px 0; } }
+
+  .shimmer {
+    background: linear-gradient(90deg, #e8e0c4 0%, #efe8d2 50%, #e8e0c4 100%);
+    background-size: 800px 100%;
+    animation: shimmer 1.6s linear infinite;
+  }
+
+  .news-card { transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease; }
+  .news-card:hover { transform: translateY(-2px); border-color: #c8bb96; box-shadow: 0 10px 24px -10px rgba(35,74,23,0.14); }
+
+  .chip-tab { transition: background 0.18s, color 0.18s, border-color 0.18s; }
+  .chip-tab:hover:not(.active) { background: #e7e3b7; }
+
+  .news-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  @media (max-width: 900px) {
+    .news-grid { grid-template-columns: repeat(2, 1fr); }
+    .nav-inner { padding: 18px 20px !important; }
+    .headline { font-size: 36px !important; }
+  }
+  @media (max-width: 600px) {
+    .news-grid { grid-template-columns: 1fr; }
+    .section { padding-left: 20px !important; padding-right: 20px !important; }
+  }
+
+  .nav-link { color: #5e6e4c; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; font-size: 14px; }
+  .nav-link.active { color: #3f6b2d; font-weight: 600; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script data-cfasync="false" src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin="anonymous"></script>
+<script data-cfasync="false" src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin="anonymous"></script>
+<script data-cfasync="false" src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
+
+<script data-cfasync="false" type="text/babel">
+const { useState, useEffect, useMemo, useRef } = React;
+
+const ACCENT = { hex: "#3f6b2d", soft: "#e7e3b7", ink: "#1f3d12" };
+const BG = "#fbf5e6";
+const BORDER = "#e0d6b8";
+const TEXT_MUTED = "#5e6e4c";
+const TEXT_FAINT = "#97a081";
+
+const PAGE_SIZE = 24;
+
+// ── i18n (kept in sync with index.html) ─────────────────────────────
+
+const LANGS = [
+  { code: 'EN', value: 'en', label: 'English' },
+  { code: 'KO', value: 'ko', label: '한국어' },
+  { code: 'JA', value: 'ja', label: '日本語' },
+];
+
+const STRINGS = {
+  ko: {
+    eyebrow: '지금까지 모은 모든 뉴스',
+    titleA: '뉴스',
+    titleB: '아카이브',
+    sub: (n) => `${n.toLocaleString()}건 · 클릭하면 원문 사이트로 이동`,
+    cats: { all: '전체', AI: 'AI', TECH: 'Tech', DEV: 'Dev', youtube: 'YouTube' },
+    open: '원문 ↗', loading: '불러오는 중…',
+    notReady: '아직 아카이브가 비어 있어요.',
+    empty: '이 카테고리에 글이 없어요.',
+    loadMore: (n) => `더보기 ${n}건 ↓`,
+    visibleOf: (a, b) => `${a.toLocaleString()} / ${b.toLocaleString()}`,
+    footer: '© 2026 KIMNEWS · 15분마다 자동 갱신 (KST)',
+    searchPlaceholder: '제목·출처·키워드 검색',
+    archiveActive: 'News Archive',
+    home: '오늘',
+    justNow: '방금', scheduled: '예정',
+    minSuffix: '분 전', hrSuffix: '시간 전', daySuffix: '일 전',
+    dows: ['일','월','화','수','목','금','토'],
+    formatDate: (y,m,d,dow) => `${y}년 ${m}월 ${d}일 (${dow})`,
+  },
+  en: {
+    eyebrow: 'Everything we have ever aggregated',
+    titleA: 'News',
+    titleB: 'Archive',
+    sub: (n) => `${n.toLocaleString()} items · click to read at the original source`,
+    cats: { all: 'All', AI: 'AI', TECH: 'Tech', DEV: 'Dev', youtube: 'YouTube' },
+    open: 'Original ↗', loading: 'Loading…',
+    notReady: 'Archive is empty.',
+    empty: 'No items in this category.',
+    loadMore: (n) => `Load ${n} more ↓`,
+    visibleOf: (a, b) => `${a.toLocaleString()} / ${b.toLocaleString()}`,
+    footer: '© 2026 KIMNEWS · Auto-updated every 15 min (KST)',
+    searchPlaceholder: 'Search title, source, keyword',
+    archiveActive: 'News Archive',
+    home: 'Today',
+    justNow: 'just now', scheduled: 'scheduled',
+    minSuffix: 'm ago', hrSuffix: 'h ago', daySuffix: 'd ago',
+    dows: ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],
+    formatDate: (y,m,d,dow) => `${dow}, ${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][m-1]} ${d}, ${y}`,
+  },
+  ja: {
+    eyebrow: 'これまでに集めた全ニュース',
+    titleA: 'ニュース',
+    titleB: 'アーカイブ',
+    sub: (n) => `${n.toLocaleString()}件 · クリックで原文サイトへ`,
+    cats: { all: '全て', AI: 'AI', TECH: 'テック', DEV: '開発', youtube: 'YouTube' },
+    open: '原文 ↗', loading: '読み込み中…',
+    notReady: 'アーカイブはまだ空です。',
+    empty: 'このカテゴリには項目がありません。',
+    loadMore: (n) => `もっと見る ${n}件 ↓`,
+    visibleOf: (a, b) => `${a.toLocaleString()} / ${b.toLocaleString()}`,
+    footer: '© 2026 KIMNEWS · 15分ごと自動更新 (KST)',
+    searchPlaceholder: 'タイトル・出典・キーワード検索',
+    archiveActive: 'News Archive',
+    home: '今日',
+    justNow: '今', scheduled: '予定',
+    minSuffix: '分前', hrSuffix: '時間前', daySuffix: '日前',
+    dows: ['日','月','火','水','木','金','土'],
+    formatDate: (y,m,d,dow) => `${y}年${m}月${d}日 (${dow})`,
+  },
+};
+
+function pickInitialLang() {
+  try {
+    const saved = localStorage.getItem('kimnews_lang');
+    if (saved && STRINGS[saved]) return saved;
+    const nav = (navigator.language || 'ko').slice(0, 2).toLowerCase();
+    if (STRINGS[nav]) return nav;
+  } catch {}
+  return 'ko';
+}
+
+function useLang() {
+  const [lang, setLangState] = useState(pickInitialLang);
+  const setLang = (v) => {
+    if (!STRINGS[v]) return;
+    setLangState(v);
+    try { localStorage.setItem('kimnews_lang', v); } catch {}
+    try { document.documentElement.lang = v; } catch {}
+  };
+  return [lang, setLang, STRINGS[lang]];
+}
+
+function relativeTime(iso, nowMs, t) {
+  if (!iso || !t) return '';
+  const ts = Date.parse(iso);
+  if (Number.isNaN(ts)) return '';
+  const now = nowMs || Date.now();
+  const diffMs = now - ts;
+  if (diffMs < -60_000) return t.scheduled;
+  if (diffMs < 60_000) return t.justNow;
+  const mins = Math.floor(diffMs / 60000);
+  if (mins < 60) return `${mins}${t.minSuffix}`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs}${t.hrSuffix}`;
+  const days = Math.floor(hrs / 24);
+  if (days < 7) return `${days}${t.daySuffix}`;
+  const d = new Date(ts);
+  return `${d.getMonth()+1}.${d.getDate()}`;
+}
+
+function absoluteTime(iso) {
+  if (!iso) return '';
+  const t = Date.parse(iso);
+  if (Number.isNaN(t)) return iso;
+  const d = new Date(t);
+  const pad = (n) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
+function useNow(intervalMs = 60_000) {
+  const [now, setNow] = useState(Date.now());
+  useEffect(() => {
+    const id = setInterval(() => setNow(Date.now()), intervalMs);
+    return () => clearInterval(id);
+  }, [intervalMs]);
+  return now;
+}
+
+// ── nav ─────────────────────────────────────────────────────────────
+
+function LanguageSwitcher({ lang, setLang }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const onDown = (e) => { if (!ref.current?.contains(e.target)) setOpen(false); };
+    const onKey  = (e) => { if (e.key === 'Escape') setOpen(false); };
+    document.addEventListener('mousedown', onDown);
+    document.addEventListener('keydown', onKey);
+    return () => { document.removeEventListener('mousedown', onDown); document.removeEventListener('keydown', onKey); };
+  }, [open]);
+
+  const current = LANGS.find(l => l.value === lang) || LANGS[1];
+
+  return (
+    <div ref={ref} style={{ position: 'relative' }}>
+      <button onClick={() => setOpen(o => !o)} type="button" aria-haspopup="listbox" aria-expanded={open}
+        style={{
+          display: 'inline-flex', alignItems: 'center', gap: 8,
+          background: ACCENT.ink, color: '#fbf5e6', border: 'none', borderRadius: 999,
+          padding: '7px 12px 7px 14px', fontSize: 13, fontWeight: 600, fontFamily: 'inherit',
+          cursor: 'pointer', letterSpacing: '-0.01em',
+        }}>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="10" /><path d="M2 12h20" />
+          <path d="M12 2a15 15 0 0 1 0 20a15 15 0 0 1 0-20z" />
+        </svg>
+        <span>{current.code}</span>
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" style={{ marginLeft: -2 }}>
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
+      </button>
+      {open && (
+        <div role="listbox" style={{
+          position: 'absolute', top: 'calc(100% + 8px)', right: 0,
+          background: ACCENT.ink, color: '#fbf5e6', borderRadius: 14, padding: 6, minWidth: 200,
+          boxShadow: '0 16px 40px -12px rgba(31,61,18,0.45), 0 0 0 1px rgba(255,255,255,0.04) inset',
+          zIndex: 60, animation: 'fadeUp 0.16s ease both',
+        }}>
+          {LANGS.map(opt => {
+            const isCurrent = opt.value === lang;
+            return (
+              <button key={opt.value} onClick={() => { setLang(opt.value); setOpen(false); }}
+                type="button" role="option" aria-selected={isCurrent}
+                style={{
+                  width: '100%', textAlign: 'left',
+                  display: 'flex', alignItems: 'center', gap: 14,
+                  padding: '10px 12px',
+                  background: isCurrent ? 'rgba(231,227,183,0.10)' : 'transparent',
+                  border: 'none', borderRadius: 10, color: '#fbf5e6',
+                  cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s',
+                }}
+                onMouseEnter={(e) => { if (!isCurrent) e.currentTarget.style.background = 'rgba(231,227,183,0.06)'; }}
+                onMouseLeave={(e) => { if (!isCurrent) e.currentTarget.style.background = 'transparent'; }}
+              >
+                <span style={{ color: '#c8d8a8', fontWeight: 700, fontSize: 13, letterSpacing: '0.04em', width: 24 }}>{opt.code}</span>
+                <span style={{ fontSize: 14, fontWeight: isCurrent ? 600 : 500 }}>{opt.label}</span>
+              </button>
+            );
+          })}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function Nav({ lang, setLang, t }) {
+  return (
+    <nav className="nav-inner" style={{ maxWidth: 1240, margin: '0 auto', padding: '22px 32px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+        <a href="./" style={{ display: 'flex', alignItems: 'center', gap: 10, textDecoration: 'none', color: 'inherit' }}>
+          <div style={{ width: 30, height: 30, borderRadius: 9, background: ACCENT.hex, display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#fff', fontSize: 14, fontWeight: 700, letterSpacing: '-0.02em' }}>K</div>
+          <span style={{ fontSize: 17, fontWeight: 700, letterSpacing: '-0.02em' }}>KIMNEWS</span>
+        </a>
+        <span style={{ fontSize: 11, color: TEXT_FAINT, marginLeft: 6, padding: '3px 8px', borderRadius: 999, background: '#e7e3b7', fontWeight: 500 }}>ARCHIVE</span>
+      </div>
+      <div style={{ display: 'flex', gap: 18, alignItems: 'center' }}>
+        <a href="https://github.com/geonhee15/kimnews" target="_blank" rel="noopener" className="nav-link">GitHub</a>
+        <a href="./archive.html" className="nav-link active">{t.archiveActive}</a>
+        <LanguageSwitcher lang={lang} setLang={setLang} />
+        <a href="https://kimkim.io" style={{ fontSize: 14, color: '#fff', background: ACCENT.ink, padding: '8px 14px', borderRadius: 8, textDecoration: 'none', fontWeight: 500 }}>kimkim.io ↗</a>
+      </div>
+    </nav>
+  );
+}
+
+// ── cards ───────────────────────────────────────────────────────────
+
+function SourceBadge({ source, kind }) {
+  const isYT = kind === 'youtube';
+  return (
+    <span style={{
+      display: 'inline-flex', alignItems: 'center', gap: 5,
+      padding: '2px 8px', borderRadius: 999,
+      fontSize: 11, fontWeight: 600,
+      background: isYT ? '#fef1ea' : '#f0ebd8',
+      color: isYT ? '#c54433' : ACCENT.hex,
+      letterSpacing: '-0.01em',
+    }}>
+      {isYT && (
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.6V8.4l6.3 3.6-6.3 3.6z"/>
+        </svg>
+      )}
+      {source}
+    </span>
+  );
+}
+
+function NewsCard({ item, t, now }) {
+  return (
+    <a
+      href={item.link}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="news-card"
+      style={{
+        display: 'flex', flexDirection: 'column', gap: 8,
+        background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16,
+        padding: '16px 18px', textDecoration: 'none', color: 'inherit',
+      }}
+    >
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
+        <SourceBadge source={item.source} kind={item.kind} />
+        {item.published && (
+          <span style={{ fontSize: 11, color: TEXT_FAINT }} title={absoluteTime(item.published)}>
+            {relativeTime(item.published, now, t)}
+          </span>
+        )}
+      </div>
+      <div style={{ fontSize: 15, fontWeight: 600, lineHeight: 1.4, color: '#1f2412', letterSpacing: '-0.01em' }}>
+        {item.title}
+      </div>
+      <div style={{ marginTop: 'auto', paddingTop: 4, fontSize: 11, color: ACCENT.hex, fontWeight: 600, letterSpacing: '-0.01em' }}>
+        {t.open}
+      </div>
+    </a>
+  );
+}
+
+function CategoryTabs({ active, onChange, counts, t }) {
+  const ids = ['all', 'AI', 'TECH', 'DEV', 'youtube'];
+  return (
+    <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 18 }}>
+      {ids.map(id => {
+        const isActive = id === active;
+        const n = counts?.[id];
+        return (
+          <button key={id} onClick={() => onChange(id)} className={`chip-tab ${isActive ? 'active' : ''}`}
+            style={{
+              padding: '8px 14px', borderRadius: 999, fontSize: 13, fontWeight: 500, fontFamily: 'inherit',
+              border: `1px solid ${isActive ? ACCENT.hex : BORDER}`,
+              background: isActive ? ACCENT.hex : '#fff',
+              color: isActive ? '#fff' : '#1f2412',
+              cursor: 'pointer',
+            }}>
+            {t.cats[id]}
+            {n != null && <span style={{ marginLeft: 6, fontSize: 11, opacity: isActive ? 0.85 : 0.5 }}>{n}</span>}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function SearchBar({ value, onChange, t }) {
+  return (
+    <div style={{
+      display: 'flex', alignItems: 'center', gap: 10,
+      background: '#fff', borderRadius: 12, padding: '4px 4px 4px 16px',
+      border: `1px solid ${BORDER}`,
+      boxShadow: '0 2px 8px rgba(0,0,0,0.02)',
+      width: '100%', maxWidth: 440,
+    }}>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke={TEXT_FAINT} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7" /><path d="M21 21l-4.3-4.3" />
+      </svg>
+      <input value={value} onChange={(e) => onChange(e.target.value)} placeholder={t.searchPlaceholder}
+        style={{ flex: 1, border: 'none', outline: 'none', padding: '10px 0', fontSize: 14, fontFamily: 'inherit', background: 'transparent' }} />
+      {value && (
+        <button onClick={() => onChange('')} style={{ background: '#f0ebe2', border: 'none', borderRadius: 8, padding: '6px 10px', cursor: 'pointer', fontSize: 12, color: '#5a5148', fontFamily: 'inherit' }}>×</button>
+      )}
+    </div>
+  );
+}
+
+// ── app ─────────────────────────────────────────────────────────────
+
+function useArchive() {
+  const [data, setData] = useState(null);
+  const [err, setErr] = useState('');
+  useEffect(() => {
+    fetch('data/archive.json', { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`)))
+      .then(setData)
+      .catch(e => setErr(e.message));
+  }, []);
+  return { data, err };
+}
+
+function App() {
+  const { data, err } = useArchive();
+  const [active, setActive] = useState('all');
+  const [search, setSearch] = useState('');
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const now = useNow();
+  const [lang, setLang, t] = useLang();
+
+  const items = data?.items || [];
+
+  const counts = useMemo(() => ({
+    all: items.length,
+    AI: items.filter(i => i.category === 'AI').length,
+    TECH: items.filter(i => i.category === 'TECH').length,
+    DEV: items.filter(i => i.category === 'DEV').length,
+    youtube: items.filter(i => i.kind === 'youtube').length,
+  }), [items]);
+
+  const filtered = useMemo(() => {
+    let arr = items;
+    if (active === 'youtube') arr = arr.filter(i => i.kind === 'youtube');
+    else if (active !== 'all') arr = arr.filter(i => i.category === active);
+    const q = search.trim().toLowerCase();
+    if (q) arr = arr.filter(i => {
+      const hay = `${i.title || ''} ${i.source || ''}`.toLowerCase();
+      return hay.includes(q);
+    });
+    return arr;
+  }, [items, active, search]);
+
+  useEffect(() => { setVisibleCount(PAGE_SIZE); }, [active, search]);
+
+  const visible = filtered.slice(0, visibleCount);
+  const hasMore = filtered.length > visibleCount;
+
+  return (
+    <div style={{ minHeight: '100vh', background: BG, color: '#1f2412' }}>
+      <Nav lang={lang} setLang={setLang} t={t} />
+
+      <header className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 24px' }}>
+        <div style={{ display: 'inline-flex', alignItems: 'center', gap: 8, padding: '5px 11px', borderRadius: 999, background: ACCENT.soft, color: ACCENT.hex, fontSize: 11, fontWeight: 500, marginBottom: 12, letterSpacing: '-0.01em' }}>
+          <span style={{ width: 6, height: 6, borderRadius: '50%', background: ACCENT.hex, animation: 'pulse-dot 2s ease-in-out infinite' }} />
+          {t.eyebrow}
+        </div>
+        <h1 className="headline" style={{ fontSize: 52, fontWeight: 700, lineHeight: 1.05, letterSpacing: '-0.035em', margin: 0, color: '#1a3010' }}>
+          {t.titleA} <span style={{ color: ACCENT.hex }}>{t.titleB}</span>
+        </h1>
+        <div style={{ marginTop: 12, fontSize: 13, color: TEXT_MUTED }}>
+          {t.sub(data?.count ?? 0)}
+        </div>
+      </header>
+
+      <main className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '0 32px 60px' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: 14, marginBottom: 14 }}>
+          <CategoryTabs active={active} onChange={setActive} counts={counts} t={t} />
+          <SearchBar value={search} onChange={setSearch} t={t} />
+        </div>
+
+        {err ? (
+          <div style={{ background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16, padding: 24, color: '#c54433', fontSize: 14 }}>
+            {t.notReady} ({err})
+          </div>
+        ) : !data ? (
+          <div className="news-grid">
+            {Array.from({ length: 9 }).map((_, i) => (
+              <div key={i} className="shimmer" style={{ height: 130, borderRadius: 16 }} />
+            ))}
+          </div>
+        ) : filtered.length === 0 ? (
+          <div style={{ background: '#fff', border: `1px dashed ${BORDER}`, borderRadius: 16, padding: 32, textAlign: 'center', color: TEXT_MUTED, fontSize: 14 }}>
+            {t.empty}
+          </div>
+        ) : (
+          <>
+            <div className="news-grid" style={{ animation: 'fadeUp 0.4s ease both' }}>
+              {visible.map(it => <NewsCard key={it.id} item={it} t={t} now={now} />)}
+            </div>
+            <div style={{ marginTop: 24, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 8 }}>
+              <div style={{ fontSize: 12, color: TEXT_FAINT, fontWeight: 500 }}>
+                {t.visibleOf(Math.min(visibleCount, filtered.length), filtered.length)}
+              </div>
+              {hasMore && (
+                <button onClick={() => setVisibleCount(c => c + PAGE_SIZE)}
+                  style={{
+                    background: '#fff', color: '#1f2412',
+                    border: `1px solid ${BORDER}`, borderRadius: 999,
+                    padding: '10px 22px', fontSize: 13, fontWeight: 600, fontFamily: 'inherit',
+                    cursor: 'pointer',
+                    boxShadow: '0 2px 8px rgba(0,0,0,0.03)',
+                  }}>
+                  {t.loadMore(Math.min(PAGE_SIZE, filtered.length - visibleCount))}
+                </button>
+              )}
+            </div>
+          </>
+        )}
+      </main>
+
+      <footer style={{ borderTop: `1px solid ${BORDER}`, padding: '24px 32px', maxWidth: 1240, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: 12, color: TEXT_FAINT, flexWrap: 'wrap', gap: 10 }}>
+        <div>{t.footer}</div>
+        <div style={{ display: 'flex', gap: 18 }}>
+          <a href="./" style={{ color: TEXT_FAINT, textDecoration: 'none' }}>← {t.home}</a>
+          <a href="https://github.com/geonhee15/kimnews" style={{ color: TEXT_FAINT, textDecoration: 'none' }}>GitHub</a>
+        </div>
+      </footer>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>
