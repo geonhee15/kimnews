@@ -324,7 +324,26 @@ def fetch_article_body(url: str) -> str | None:
 
 # ─── aggregator core ─────────────────────────────────────────────────
 
+def load_existing() -> dict[str, dict]:
+    """Read the previous run's data so we can skip re-fetching unchanged
+    articles. Source page fetches + body extraction are the expensive
+    part of a run — being able to skip them turns a re-run into seconds.
+    """
+    p = DATA_DIR / "latest.json"
+    if not p.exists():
+        return {}
+    try:
+        d = json.loads(p.read_text(encoding="utf-8"))
+        return {it.get("id"): it for it in d.get("items", []) if it.get("id")}
+    except Exception as e:
+        print(f"  ! existing read failed: {e}", file=sys.stderr)
+        return {}
+
+
 def collect() -> list[dict]:
+    existing = load_existing()
+    reused = 0
+    fetched = 0
     all_items: list[dict] = []
 
     for name, url, category, default_on, lang in RSS_SOURCES:
@@ -338,13 +357,19 @@ def collect() -> list[dict]:
             if not default_on and not relevant(it["title"], it["summary"]):
                 continue
 
-            article_body = fetch_article_body(it["link"]) or ""
-            # Drop photo/stub posts with no real body — they'd render as just
-            # a byline and confuse readers.
-            if len(article_body) < 100:
-                continue
+            iid = make_id(it["link"], it["title"])
+            prior = existing.get(iid)
+            if prior and prior.get("content") and len(prior["content"]) >= 100:
+                article_body = prior["content"]
+                reused += 1
+            else:
+                article_body = fetch_article_body(it["link"]) or ""
+                fetched += 1
+                if len(article_body) < 100:
+                    # Photo/stub post with no real body — drop entirely.
+                    continue
             all_items.append({
-                "id": make_id(it["link"], it["title"]),
+                "id": iid,
                 "source": name,
                 "kind": "article",
                 "category": category,
@@ -352,8 +377,7 @@ def collect() -> list[dict]:
                 "title": it["title"],
                 "link": it["link"],
                 "summary": it["summary"][:280],
-                "content": article_body,  # already capped at paragraph
-                                          # boundary in extract_article_text
+                "content": article_body,
                 "published": it["published"],
             })
 
@@ -396,6 +420,7 @@ def collect() -> list[dict]:
         return (1, 0)
 
     deduped.sort(key=sort_key)
+    print(f"\n[stats] reused={reused} fetched={fetched} unique={len(deduped)}")
     return deduped
 
 

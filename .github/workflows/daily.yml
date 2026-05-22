@@ -1,13 +1,25 @@
-name: Daily Aggregate
+name: Aggregate
 
 on:
   schedule:
-    # 00:00 UTC = 09:00 KST. Runs every day.
-    - cron: "0 0 * * *"
+    # Every 15 minutes. GitHub's scheduler granularity is 5 min; under
+    # heavy load runs can drift a few minutes — acceptable for news.
+    - cron: "*/15 * * * *"
   workflow_dispatch:        # manual trigger from Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
 
 permissions:
   contents: write
+
+# Avoid stomping when a previous run is still going. If one is mid-flight
+# the new one queues, and we cancel any older queued (not running) duplicate.
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
 
 jobs:
   aggregate:
@@ -32,7 +44,9 @@ jobs:
           if git diff --staged --quiet; then
             echo "no changes to commit"
           else
-            ISSUE=$(python -c "import json; print(json.load(open('data/latest.json'))['issue_date'])")
-            git commit -m "daily: ${ISSUE} 뉴스 ${{ github.run_number }}호"
+            COUNT=$(python -c "import json; print(json.load(open('data/latest.json'))['count'])")
+            git commit -m "update: ${COUNT}건 갱신 (#${{ github.run_number }})"
+            # Avoid push race when another job committed in between
+            git pull --rebase origin main || true
             git push
           fi
