@@ -193,20 +193,19 @@ function SourceBadge({ source, kind }) {
   );
 }
 
-function NewsCard({ item }) {
+function NewsCard({ item, onOpen }) {
   const isYT = item.kind === 'youtube';
-  return (
-    <a
-      href={item.link}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="news-card"
-      style={{
-        display: 'flex', flexDirection: 'column', gap: 8,
-        background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16,
-        padding: '16px 18px', textDecoration: 'none', color: 'inherit',
-      }}
-    >
+  const cardStyle = {
+    display: 'flex', flexDirection: 'column', gap: 8,
+    background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16,
+    padding: '16px 18px', textDecoration: 'none', color: 'inherit',
+    cursor: 'pointer',
+  };
+
+  // YouTube items still open YouTube directly (target=_blank).
+  // Articles open the in-app reader so users stay on kimnews.
+  const inner = (
+    <>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 8 }}>
         <SourceBadge source={item.source} kind={item.kind} />
         {item.published && <span style={{ fontSize: 11, color: TEXT_FAINT }}>{relativeTime(item.published)}</span>}
@@ -221,15 +220,96 @@ function NewsCard({ item }) {
         </div>
       )}
       <div style={{ marginTop: 'auto', paddingTop: 4, fontSize: 11, color: ACCENT.hex, fontWeight: 600, letterSpacing: '-0.01em' }}>
-        읽기 →
+        {isYT ? '재생 ↗' : '읽기 →'}
       </div>
-    </a>
+    </>
+  );
+
+  if (isYT) {
+    return (
+      <a href={item.link} target="_blank" rel="noopener noreferrer" className="news-card" style={cardStyle}>
+        {inner}
+      </a>
+    );
+  }
+  return (
+    <button type="button" onClick={() => onOpen(item)} className="news-card" style={{ ...cardStyle, textAlign: 'left', fontFamily: 'inherit' }}>
+      {inner}
+    </button>
+  );
+}
+
+function ArticleReader({ item, onClose }) {
+  useEffect(() => {
+    if (!item) return;
+    const onKey = (e) => { if (e.key === 'Escape') onClose(); };
+    document.body.style.overflow = 'hidden';
+    window.addEventListener('keydown', onKey);
+    return () => {
+      document.body.style.overflow = '';
+      window.removeEventListener('keydown', onKey);
+    };
+  }, [item, onClose]);
+  if (!item) return null;
+  const paragraphs = (item.content || item.summary || '').split(/\n{2,}/).filter(Boolean);
+  return (
+    <div
+      onClick={onClose}
+      style={{ position: 'fixed', inset: 0, background: 'rgba(31,60,18,0.55)', backdropFilter: 'blur(6px)', zIndex: 100, display: 'flex', alignItems: 'flex-start', justifyContent: 'center', padding: '40px 20px', overflowY: 'auto', animation: 'fadeUp 0.2s ease' }}
+    >
+      <article
+        onClick={(e) => e.stopPropagation()}
+        style={{ background: '#fff', borderRadius: 22, maxWidth: 720, width: '100%', padding: '28px 32px 32px', boxShadow: '0 40px 80px -20px rgba(31,61,18,0.40)', position: 'relative' }}
+      >
+        <button
+          onClick={onClose}
+          aria-label="닫기"
+          style={{ position: 'absolute', top: 14, right: 16, background: 'transparent', border: 'none', fontSize: 22, lineHeight: 1, color: TEXT_FAINT, cursor: 'pointer', padding: 6, fontFamily: 'inherit' }}
+        >×</button>
+
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 14, flexWrap: 'wrap' }}>
+          <SourceBadge source={item.source} kind={item.kind} />
+          {item.published && <span style={{ fontSize: 11, color: TEXT_FAINT }}>{relativeTime(item.published)}</span>}
+          {item.paraphrased && (
+            <span style={{ fontSize: 10, color: ACCENT.hex, fontWeight: 600, padding: '2px 8px', borderRadius: 999, background: ACCENT.soft, letterSpacing: '0.04em' }}>
+              KIMNEWS 요약본
+            </span>
+          )}
+        </div>
+
+        <h2 style={{ margin: 0, fontSize: 24, fontWeight: 700, lineHeight: 1.3, letterSpacing: '-0.02em', color: '#1a3010' }}>
+          {item.title}
+        </h2>
+
+        <div style={{ marginTop: 18, fontSize: 15, lineHeight: 1.75, color: '#22321a' }}>
+          {paragraphs.length ? paragraphs.map((p, i) => (
+            <p key={i} style={{ margin: '0 0 14px' }}>{p}</p>
+          )) : (
+            <p style={{ color: TEXT_MUTED }}>본문 미리보기가 아직 준비되지 않았어요. 원문 링크에서 바로 읽으실 수 있습니다.</p>
+          )}
+        </div>
+
+        <div style={{ marginTop: 22, paddingTop: 18, borderTop: `1px solid ${BORDER}`, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 12 }}>
+          <div style={{ fontSize: 12, color: TEXT_FAINT, lineHeight: 1.6 }}>
+            원문 출처: <strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{item.source}</strong>
+            {item.paraphrased && <> · 본문은 KIMNEWS가 의역해 재구성했어요.</>}
+          </div>
+          <a
+            href={item.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ background: ACCENT.hex, color: '#fff', padding: '9px 16px', borderRadius: 10, fontSize: 13, fontWeight: 600, textDecoration: 'none', whiteSpace: 'nowrap' }}
+          >원문 보기 ↗</a>
+        </div>
+      </article>
+    </div>
   );
 }
 
 function App() {
   const { data, err } = useFeed();
   const [active, setActive] = useState('all');
+  const [openItem, setOpenItem] = useState(null);
 
   const items = data?.items || [];
 
@@ -251,6 +331,7 @@ function App() {
     <div style={{ minHeight: '100vh', background: BG, color: '#1f2412' }}>
       <Nav />
       <Banner data={data} />
+      <ArticleReader item={openItem} onClose={() => setOpenItem(null)} />
 
       <main className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 60px' }}>
         <CategoryTabs active={active} onChange={setActive} counts={counts} />
@@ -271,7 +352,7 @@ function App() {
           </div>
         ) : (
           <div className="news-grid" style={{ animation: 'fadeUp 0.4s ease both' }}>
-            {filtered.map(it => <NewsCard key={it.id} item={it} />)}
+            {filtered.map(it => <NewsCard key={it.id} item={it} onOpen={setOpenItem} />)}
           </div>
         )}
       </main>

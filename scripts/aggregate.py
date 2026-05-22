@@ -88,6 +88,13 @@ UA = {"User-Agent": "Mozilla/5.0 (KimnewsBot/1.0; +https://kimnews.kimkim.io)"}
 TIMEOUT = 15
 MAX_PER_SOURCE = 12  # cap per feed so one chatty source doesn't dominate
 
+# When ANTHROPIC_API_KEY is set we paraphrase each article so the in-app
+# reader shows our own copy with attribution instead of redirecting users.
+ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
+MAX_FETCH_LEN = 6000   # chars of raw article we keep before paraphrase
+MAX_OUTPUT_LEN = 1400  # chars of stored content per item
+
 
 # ─── helpers ─────────────────────────────────────────────────────────
 
@@ -196,6 +203,123 @@ def make_id(link: str, title: str) -> str:
     return h[:12]
 
 
+# ─── article body extraction ─────────────────────────────────────────
+
+# Tags whose entire subtree should be removed before paragraph extraction.
+_DROP_BLOCKS = re.compile(
+    r"<(script|style|noscript|nav|header|footer|aside|form|iframe|svg)\b[^>]*>.*?</\1>",
+    re.I | re.S,
+)
+
+
+def extract_article_text(html_bytes: bytes) -> str:
+    """Cheap readability — drop chrome blocks, grab paragraphs, dedupe junk.
+
+    Targets ~80% of mainstream news layouts. Far from perfect; perfectly fine
+    for "give me a few paragraphs to paraphrase."
+    """
+    html = html_bytes.decode("utf-8", errors="replace")
+    html = _DROP_BLOCKS.sub(" ", html)
+
+    # Prefer <article> / <main> if present — those usually wrap the body.
+    for tag in ("article", "main"):
+        m = re.search(rf"<{tag}\b[^>]*>(.*?)</{tag}>", html, re.I | re.S)
+        if m and len(m.group(1)) > 400:
+            html = m.group(1)
+            break
+
+    paragraphs = re.findall(r"<p\b[^>]*>(.*?)</p>", html, re.I | re.S)
+    cleaned: list[str] = []
+    seen: set[str] = set()
+    for raw in paragraphs:
+        s = clean(raw)
+        if len(s) < 40:
+            continue
+        # Drop common boilerplate
+        lower = s.lower()
+        if any(k in lower for k in (
+            "subscribe", "sign up", "newsletter", "cookies", "privacy policy",
+            "all rights reserved", "follow us", "댓글", "구독", "저작권",
+        )):
+            continue
+        if s in seen:
+            continue
+        seen.add(s)
+        cleaned.append(s)
+        if sum(len(c) for c in cleaned) > MAX_FETCH_LEN:
+            break
+
+    return "\n\n".join(cleaned)[:MAX_FETCH_LEN]
+
+
+def fetch_article_body(url: str) -> str | None:
+    body = fetch(url)
+    if not body:
+        return None
+    try:
+        return extract_article_text(body)
+    except Exception as e:
+        print(f"  ! extract failed {url}: {e}", file=sys.stderr)
+        return None
+
+
+# ─── paraphrase (Anthropic) ──────────────────────────────────────────
+
+PARAPHRASE_PROMPT = """다음 뉴스 본문을 한국어로 자기 말로 다시 풀어 써 주세요.
+
+규칙:
+- 사실, 숫자, 인물·회사·제품명은 그대로 유지
+- 문장 구조와 단어 선택은 자유롭게 바꾸기 (가벼운 의역, 표절 회피)
+- 4~6문단, 총 350~600자 사이의 간결한 한국어
+- 마지막에 출처/링크 같은 메타 정보는 붙이지 마세요. 본문만.
+- 영문 원문은 한국어로 자연스럽게 풀어 옮겨주세요.
+
+제목: {title}
+출처: {source}
+
+원문:
+{body}"""
+
+
+def paraphrase(body: str, title: str, source: str) -> str | None:
+    if not ANTHROPIC_KEY or not body:
+        return None
+
+    payload = json.dumps({
+        "model": ANTHROPIC_MODEL,
+        "max_tokens": 900,
+        "messages": [{
+            "role": "user",
+            "content": PARAPHRASE_PROMPT.format(title=title, source=source, body=body[:MAX_FETCH_LEN]),
+        }],
+    }).encode("utf-8")
+
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=payload,
+        headers={
+            "x-api-key": ANTHROPIC_KEY,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            d = json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        print(f"  ! paraphrase HTTP {e.code}: {e.read()[:200] if hasattr(e, 'read') else ''}", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"  ! paraphrase error: {e}", file=sys.stderr)
+        return None
+
+    parts = d.get("content") or []
+    if not parts:
+        return None
+    return parts[0].get("text", "").strip()[:MAX_OUTPUT_LEN]
+
+
 # ─── aggregator core ─────────────────────────────────────────────────
 
 def collect() -> list[dict]:
@@ -211,6 +335,13 @@ def collect() -> list[dict]:
                 continue
             if not default_on and not relevant(it["title"], it["summary"]):
                 continue
+
+            # Fetch + paraphrase the article body so the reader can stay on
+            # kimnews instead of redirecting away.
+            article_body = fetch_article_body(it["link"])
+            rewritten = paraphrase(article_body or it["summary"], it["title"], name) if article_body else None
+            content = rewritten or (article_body[:MAX_OUTPUT_LEN] if article_body else "")
+
             all_items.append({
                 "id": make_id(it["link"], it["title"]),
                 "source": name,
@@ -219,6 +350,8 @@ def collect() -> list[dict]:
                 "title": it["title"],
                 "link": it["link"],
                 "summary": it["summary"][:280],
+                "content": content,
+                "paraphrased": bool(rewritten),
                 "published": it["published"],
             })
 
