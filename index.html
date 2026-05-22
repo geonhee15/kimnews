@@ -273,28 +273,50 @@ async function translateChunk(chunk, from, to) {
   }
 }
 
+// Per-call de-duplication: if two callers ask for the same (text,from,to)
+// while a translation is in flight, both get the same Promise instead of
+// firing duplicate requests (matters when hover-prefetch + click race).
+const TR_INFLIGHT = new Map();
+
 async function translateText(text, from, to) {
   if (!text || !from || !to || from === to) return text;
   const key = `${from}>${to}|${text}`;
   const cached = loadCachedTranslation(key);
   if (cached != null && !looksLikeQuotaWarning(cached)) return cached;
+  if (TR_INFLIGHT.has(key)) return TR_INFLIGHT.get(key);
 
-  const chunks = splitForTranslate(text);
-  const parts = [];
-  for (const chunk of chunks) {
-    const chunkKey = `${from}>${to}|${chunk}`;
-    const c2 = loadCachedTranslation(chunkKey);
-    if (c2 != null && !looksLikeQuotaWarning(c2)) { parts.push(c2); continue; }
-    const t = await translateChunk(chunk, from, to);
-    // Only cache real translations (skip giving-up = original passthrough).
-    if (t && t !== chunk && !looksLikeQuotaWarning(t)) {
-      saveCachedTranslation(chunkKey, t);
-    }
-    parts.push(t);
-  }
-  const joined = parts.join('\n\n');
-  if (joined && !looksLikeQuotaWarning(joined)) saveCachedTranslation(key, joined);
-  return joined;
+  const promise = (async () => {
+    const chunks = splitForTranslate(text);
+    // Parallelize chunk requests — turns N sequential 500ms calls into
+    // a single ~max(latency) round-trip. Both MyMemory and Google
+    // tolerate concurrent requests fine.
+    const parts = await Promise.all(chunks.map(async (chunk) => {
+      const chunkKey = `${from}>${to}|${chunk}`;
+      const cachedChunk = loadCachedTranslation(chunkKey);
+      if (cachedChunk != null && !looksLikeQuotaWarning(cachedChunk)) return cachedChunk;
+      const out = await translateChunk(chunk, from, to);
+      if (out && out !== chunk && !looksLikeQuotaWarning(out)) {
+        saveCachedTranslation(chunkKey, out);
+      }
+      return out;
+    }));
+    const joined = parts.join('\n\n');
+    if (joined && !looksLikeQuotaWarning(joined)) saveCachedTranslation(key, joined);
+    return joined;
+  })();
+
+  TR_INFLIGHT.set(key, promise);
+  try { return await promise; }
+  finally { TR_INFLIGHT.delete(key); }
+}
+
+// Fire-and-forget prefetch — used for hover & background warm-up.
+function prefetchTranslation(text, from, to) {
+  if (!text || !from || !to || from === to) return;
+  const key = `${from}>${to}|${text}`;
+  const cached = loadCachedTranslation(key);
+  if (cached != null && !looksLikeQuotaWarning(cached)) return;
+  translateText(text, from, to).catch(() => {});
 }
 
 function useFeed() {
@@ -543,6 +565,16 @@ function useTranslated(text, src, tgt) {
 function NewsCard({ item, onOpen, now, t, uiLang }) {
   const isYT = item.kind === 'youtube';
   const title = useTranslated(item.title, item.lang, uiLang);
+
+  // Hover-prefetch: start translating the body the moment the cursor lands
+  // on the card so a click feels instant. Idempotent (cached on first run).
+  const onHover = () => {
+    if (isYT) return;
+    if (item.lang && uiLang && item.lang !== uiLang && item.content) {
+      prefetchTranslation(item.content, item.lang, uiLang);
+      prefetchTranslation(item.title, item.lang, uiLang);
+    }
+  };
   const cardStyle = {
     display: 'flex', flexDirection: 'column', gap: 8,
     background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16,
@@ -579,7 +611,14 @@ function NewsCard({ item, onOpen, now, t, uiLang }) {
     );
   }
   return (
-    <button type="button" onClick={() => onOpen(item)} className="news-card" style={{ ...cardStyle, textAlign: 'left', fontFamily: 'inherit' }}>
+    <button
+      type="button"
+      onClick={() => onOpen(item)}
+      onMouseEnter={onHover}
+      onFocus={onHover}
+      className="news-card"
+      style={{ ...cardStyle, textAlign: 'left', fontFamily: 'inherit' }}
+    >
       {inner}
     </button>
   );
@@ -684,6 +723,31 @@ function App() {
 
   const rawItems = data?.items || [];
   const items = useMemo(() => rawItems.map(it => localizeItem(it, lang)), [rawItems, lang]);
+
+  // Background prefetch: after a language switch, warm the cache for the
+  // first few articles the user is most likely to open. Runs one at a
+  // time so we don't hammer the translator; the inner per-article
+  // chunk-level Promise.all already handles the heavy lifting.
+  useEffect(() => {
+    if (!items.length) return;
+    const candidates = items.filter(it =>
+      it.kind === 'article' && it.lang && it.lang !== lang && it.content
+    ).slice(0, 6);
+    if (!candidates.length) return;
+    let cancelled = false;
+    (async () => {
+      // Small initial delay so initial render finishes before we saturate
+      // the network with translation requests.
+      await new Promise(r => setTimeout(r, 600));
+      for (const it of candidates) {
+        if (cancelled) break;
+        try { await translateText(it.content, it.lang, lang); } catch {}
+        try { await translateText(it.title, it.lang, lang); } catch {}
+        await new Promise(r => setTimeout(r, 80));
+      }
+    })();
+    return () => { cancelled = true; };
+  }, [lang, items.length]);
 
   const counts = useMemo(() => ({
     all: items.length,
