@@ -26,44 +26,45 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 
-# (name, url, category, default_relevance)
+# (name, url, category, default_relevance, lang)
 # default_relevance = True  → all items kept (source is already on-topic)
 # default_relevance = False → filter by AI/tech keywords
+# lang → ISO 639-1 of the source language; used by frontend translator
 RSS_SOURCES = [
     # ── 한국 AI/IT ─────────────────────────────────────────────
-    ("AI타임스", "https://www.aitimes.com/rss/allArticle.xml", "AI", True),
-    ("ZDNet Korea", "https://feeds.feedburner.com/zdkorea", "TECH", False),
+    ("AI타임스", "https://www.aitimes.com/rss/allArticle.xml", "AI", True, "ko"),
+    ("ZDNet Korea", "https://feeds.feedburner.com/zdkorea", "TECH", False, "ko"),
 
     # ── 영문 AI/ML/Tech ────────────────────────────────────────
-    ("TechCrunch", "https://techcrunch.com/feed/", "TECH", False),
-    ("The Verge", "https://www.theverge.com/rss/index.xml", "TECH", False),
-    ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", "TECH", False),
-    ("Wired", "https://www.wired.com/feed/rss", "TECH", False),
-    ("MIT Tech Review", "https://www.technologyreview.com/feed/", "AI", False),
-    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/", "AI", True),
+    ("TechCrunch", "https://techcrunch.com/feed/", "TECH", False, "en"),
+    ("The Verge", "https://www.theverge.com/rss/index.xml", "TECH", False, "en"),
+    ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", "TECH", False, "en"),
+    ("Wired", "https://www.wired.com/feed/rss", "TECH", False, "en"),
+    ("MIT Tech Review", "https://www.technologyreview.com/feed/", "AI", False, "en"),
+    ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/", "AI", True, "en"),
 
     # ── AI 연구소 공식 블로그 ──────────────────────────────────
-    ("OpenAI", "https://openai.com/blog/rss.xml", "AI", True),
-    ("Google DeepMind", "https://deepmind.google/blog/rss.xml", "AI", True),
-    ("Anthropic", "https://www.anthropic.com/news/rss.xml", "AI", True),
-    ("Hugging Face", "https://huggingface.co/blog/feed.xml", "AI", True),
+    ("OpenAI", "https://openai.com/blog/rss.xml", "AI", True, "en"),
+    ("Google DeepMind", "https://deepmind.google/blog/rss.xml", "AI", True, "en"),
+    ("Anthropic", "https://www.anthropic.com/news/rss.xml", "AI", True, "en"),
+    ("Hugging Face", "https://huggingface.co/blog/feed.xml", "AI", True, "en"),
 
     # ── 개발자 커뮤니티 ─────────────────────────────────────────
-    ("Hacker News", "https://hnrss.org/frontpage?points=200", "DEV", True),
-    ("GitHub Blog", "https://github.blog/feed/", "DEV", False),
+    ("Hacker News", "https://hnrss.org/frontpage?points=200", "DEV", True, "en"),
+    ("GitHub Blog", "https://github.blog/feed/", "DEV", False, "en"),
 ]
 
-# (name, channel_id, category)
+# (name, channel_id, category, lang)
 # Channel IDs are public. youtube.com/feeds/videos.xml?channel_id=… returns RSS.
 YOUTUBE_CHANNELS = [
-    ("Lex Fridman", "UCSHZKyawb77ixDdsGog4iWA", "AI"),
-    ("Two Minute Papers", "UCbfYPyITQ-7l4upoX8nvctg", "AI"),
-    ("Yannic Kilcher", "UCZHmQk67mSJgfCCTn7xBfew", "AI"),
-    ("AI Explained", "UCNJ1Ymd5yFuUPtn21xtRbbw", "AI"),
-    ("Fireship", "UCsBjURrPoezykLs9EqgamOA", "DEV"),
-    ("ThePrimeagen", "UC8ENHE5xdFSwx71u3fDH5Xw", "DEV"),
-    ("노마드 코더", "UCUpJs89fSBXNolQGOYKn0YQ", "DEV"),
-    ("조코딩", "UCQNE2JmbasNYbjGAcuBiRRg", "DEV"),
+    ("Lex Fridman", "UCSHZKyawb77ixDdsGog4iWA", "AI", "en"),
+    ("Two Minute Papers", "UCbfYPyITQ-7l4upoX8nvctg", "AI", "en"),
+    ("Yannic Kilcher", "UCZHmQk67mSJgfCCTn7xBfew", "AI", "en"),
+    ("AI Explained", "UCNJ1Ymd5yFuUPtn21xtRbbw", "AI", "en"),
+    ("Fireship", "UCsBjURrPoezykLs9EqgamOA", "DEV", "en"),
+    ("ThePrimeagen", "UC8ENHE5xdFSwx71u3fDH5Xw", "DEV", "en"),
+    ("노마드 코더", "UCUpJs89fSBXNolQGOYKn0YQ", "DEV", "ko"),
+    ("조코딩", "UCQNE2JmbasNYbjGAcuBiRRg", "DEV", "ko"),
 ]
 
 # Lowercased keywords used to keep "generalist tech" items relevant.
@@ -88,12 +89,8 @@ UA = {"User-Agent": "Mozilla/5.0 (KimnewsBot/1.0; +https://kimnews.kimkim.io)"}
 TIMEOUT = 15
 MAX_PER_SOURCE = 12  # cap per feed so one chatty source doesn't dominate
 
-# When ANTHROPIC_API_KEY is set we paraphrase each article so the in-app
-# reader shows our own copy with attribution instead of redirecting users.
-ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
-MAX_FETCH_LEN = 6000   # chars of raw article we keep before paraphrase
-MAX_OUTPUT_LEN = 1400  # chars of stored content per item
+MAX_FETCH_LEN = 6000   # chars of raw article body we extract and store
+MAX_OUTPUT_LEN = 4000  # chars stored per item (large enough for full body)
 
 
 # ─── helpers ─────────────────────────────────────────────────────────
@@ -271,95 +268,10 @@ def fetch_article_body(url: str) -> str | None:
         return None
 
 
-# ─── paraphrase (Anthropic) ──────────────────────────────────────────
-
-PARAPHRASE_PROMPT = """You are localizing a news article for a multilingual reader. Rewrite it
-in three languages (Korean, English, Japanese) and translate the headline too.
-
-Rules:
-- Keep all facts, numbers, named entities (people, companies, products) intact.
-- Don't copy the original wording verbatim — paraphrase naturally in each language.
-- Body: 4–6 short paragraphs per language, ~300–600 chars each.
-- Do not append source attribution, URLs, or "more info" lines. Body only.
-- If the input is in one language, you still must produce the other two fully translated.
-
-Headline (original): {title}
-Source: {source}
-
-Body (raw):
-{body}
-
-Respond with ONLY a JSON object, no prose, no markdown fences:
-{{
-  "title_ko": "...", "title_en": "...", "title_ja": "...",
-  "content_ko": "...", "content_en": "...", "content_ja": "..."
-}}"""
-
-
-def _post_anthropic(payload_obj: dict, timeout: int = 90) -> dict | None:
-    """Single Anthropic /messages call with prefilled assistant '{' for JSON."""
-    msgs = list(payload_obj.get("messages") or [])
-    msgs.append({"role": "assistant", "content": "{"})
-    body = json.dumps({**payload_obj, "messages": msgs}).encode("utf-8")
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=body,
-        headers={
-            "x-api-key": ANTHROPIC_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-        method="POST",
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            return json.loads(r.read())
-    except urllib.error.HTTPError as e:
-        snippet = ""
-        try: snippet = e.read()[:240].decode("utf-8", errors="replace")
-        except Exception: pass
-        print(f"  ! Anthropic HTTP {e.code}: {snippet}", file=sys.stderr)
-        return None
-    except Exception as e:
-        print(f"  ! Anthropic error: {e}", file=sys.stderr)
-        return None
-
-
-def paraphrase(body: str, title: str, source: str) -> dict | None:
-    """Returns {'title_ko','title_en','title_ja','content_ko','content_en','content_ja'}
-    or None if disabled / failed."""
-    if not ANTHROPIC_KEY or not body:
-        return None
-
-    resp = _post_anthropic({
-        "model": ANTHROPIC_MODEL,
-        "max_tokens": 2200,
-        "messages": [{
-            "role": "user",
-            "content": PARAPHRASE_PROMPT.format(title=title, source=source, body=body[:MAX_FETCH_LEN]),
-        }],
-    })
-    if not resp: return None
-    parts = resp.get("content") or []
-    if not parts: return None
-    text = "{" + parts[0].get("text", "").strip()
-
-    # Strip any accidental code fences and parse JSON.
-    text = re.sub(r"^```(?:json)?\s*|\s*```\s*$", "", text.strip())
-    try:
-        obj = json.loads(text)
-    except json.JSONDecodeError as e:
-        # Fall back: try to slice from first { to last }
-        m = re.search(r"\{.*\}", text, re.S)
-        if not m:
-            print(f"  ! paraphrase JSON parse error: {e}", file=sys.stderr)
-            return None
-        try: obj = json.loads(m.group(0))
-        except Exception: return None
-
-    keys = ("title_ko","title_en","title_ja","content_ko","content_en","content_ja")
-    out = {k: (str(obj.get(k, "")).strip()[:MAX_OUTPUT_LEN]) for k in keys}
-    return out if any(out.values()) else None
+# NOTE: Translation is handled lazily by the frontend (MyMemory free API,
+# CORS-friendly) when a reader opens an article in a non-source language.
+# No paid LLM dependency, no API keys in this repo. See index.html for the
+# translateText() helper + sessionStorage cache.
 
 
 # ─── aggregator core ─────────────────────────────────────────────────
@@ -367,7 +279,7 @@ def paraphrase(body: str, title: str, source: str) -> dict | None:
 def collect() -> list[dict]:
     all_items: list[dict] = []
 
-    for name, url, category, default_on in RSS_SOURCES:
+    for name, url, category, default_on, lang in RSS_SOURCES:
         print(f"[RSS]  {name}")
         body = fetch(url)
         if not body:
@@ -378,31 +290,21 @@ def collect() -> list[dict]:
             if not default_on and not relevant(it["title"], it["summary"]):
                 continue
 
-            # Fetch + paraphrase into KO/EN/JA so the reader stays on kimnews
-            # AND the chosen UI language drives which text shows up. Without
-            # ANTHROPIC_API_KEY we just store the extracted text as-is.
-            article_body = fetch_article_body(it["link"])
-            tri = paraphrase(article_body or it["summary"], it["title"], name) if article_body else None
-            fallback_content = (article_body or "")[:MAX_OUTPUT_LEN]
-
-            entry = {
+            article_body = fetch_article_body(it["link"]) or ""
+            all_items.append({
                 "id": make_id(it["link"], it["title"]),
                 "source": name,
                 "kind": "article",
                 "category": category,
+                "lang": lang,
                 "title": it["title"],
                 "link": it["link"],
                 "summary": it["summary"][:280],
-                "content": (tri and tri.get("content_ko")) or fallback_content,
-                "paraphrased": bool(tri),
+                "content": article_body[:MAX_OUTPUT_LEN],
                 "published": it["published"],
-            }
-            if tri:
-                for k in ("title_ko","title_en","title_ja","content_ko","content_en","content_ja"):
-                    if tri.get(k): entry[k] = tri[k]
-            all_items.append(entry)
+            })
 
-    for name, channel_id, category in YOUTUBE_CHANNELS:
+    for name, channel_id, category, lang in YOUTUBE_CHANNELS:
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
         print(f"[YT]   {name}")
         body = fetch(url)
@@ -416,6 +318,7 @@ def collect() -> list[dict]:
                 "source": name,
                 "kind": "youtube",
                 "category": category,
+                "lang": lang,
                 "title": it["title"],
                 "link": it["link"],
                 "summary": it["summary"][:280],

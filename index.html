@@ -177,6 +177,83 @@ function localizeItem(item, lang) {
   };
 }
 
+// ── free translation (MyMemory) ─────────────────────────────────────
+// CORS-friendly, no API key. Anonymous IP quota is ~5k words/day, plenty
+// for normal browsing. Results are memoized in module-level Map + persisted
+// to sessionStorage so language switches don't re-hit the API.
+
+const TR_CACHE = new Map();
+const TR_PREFIX = 'kimnews_tr:';
+const MAX_CHUNK = 480;
+
+function loadCachedTranslation(key) {
+  if (TR_CACHE.has(key)) return TR_CACHE.get(key);
+  try {
+    const v = sessionStorage.getItem(TR_PREFIX + key);
+    if (v) TR_CACHE.set(key, v);
+    return v || null;
+  } catch { return null; }
+}
+function saveCachedTranslation(key, value) {
+  TR_CACHE.set(key, value);
+  try { sessionStorage.setItem(TR_PREFIX + key, value); } catch {}
+}
+
+function splitForTranslate(text) {
+  const out = [];
+  // Prefer paragraph + sentence boundaries; fall back to hard wrap.
+  const paragraphs = text.split(/\n{2,}/);
+  let buf = '';
+  for (const para of paragraphs) {
+    const sentences = para.split(/(?<=[.!?。！？。])\s+/);
+    for (const s of sentences) {
+      if ((buf + ' ' + s).length > MAX_CHUNK) {
+        if (buf) out.push(buf.trim());
+        buf = s;
+      } else {
+        buf = buf ? buf + ' ' + s : s;
+      }
+    }
+    if (buf) { out.push(buf.trim()); buf = ''; }
+  }
+  if (buf) out.push(buf.trim());
+  // Hard-wrap any chunk that's still too long for the API (long unbroken text).
+  const hard = [];
+  for (const c of out) {
+    if (c.length <= MAX_CHUNK) { hard.push(c); continue; }
+    for (let i = 0; i < c.length; i += MAX_CHUNK) hard.push(c.slice(i, i + MAX_CHUNK));
+  }
+  return hard;
+}
+
+async function translateText(text, from, to) {
+  if (!text || !from || !to || from === to) return text;
+  const key = `${from}>${to}|${text}`;
+  const cached = loadCachedTranslation(key);
+  if (cached != null) return cached;
+
+  const chunks = splitForTranslate(text);
+  const parts = [];
+  for (const chunk of chunks) {
+    const chunkKey = `${from}>${to}|${chunk}`;
+    const c2 = loadCachedTranslation(chunkKey);
+    if (c2 != null) { parts.push(c2); continue; }
+    try {
+      const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=${from}|${to}`;
+      const r = await fetch(url);
+      const d = await r.json();
+      const t = (d && d.responseData && d.responseData.translatedText) || chunk;
+      saveCachedTranslation(chunkKey, t);
+      parts.push(t);
+    } catch {
+      parts.push(chunk);
+    }
+  }
+  const joined = parts.join('\n\n');
+  saveCachedTranslation(key, joined);
+  return joined;
+}
+
 function useFeed() {
   const [data, setData] = useState(null);
   const [err, setErr] = useState('');
@@ -404,8 +481,25 @@ function SourceBadge({ source, kind }) {
   );
 }
 
-function NewsCard({ item, onOpen, now, t }) {
+// Translate "text" from src→tgt lazily; renders the original first, then
+// swaps to the translated string when the async call resolves. Stays as
+// original when src === tgt.
+function useTranslated(text, src, tgt) {
+  const [out, setOut] = useState(text);
+  useEffect(() => {
+    if (!text) { setOut(''); return; }
+    if (!src || !tgt || src === tgt) { setOut(text); return; }
+    let cancelled = false;
+    setOut(text); // show original immediately
+    translateText(text, src, tgt).then(v => { if (!cancelled) setOut(v); });
+    return () => { cancelled = true; };
+  }, [text, src, tgt]);
+  return out;
+}
+
+function NewsCard({ item, onOpen, now, t, uiLang }) {
   const isYT = item.kind === 'youtube';
+  const title = useTranslated(item.title, item.lang, uiLang);
   const cardStyle = {
     display: 'flex', flexDirection: 'column', gap: 8,
     background: '#fff', border: `1px solid ${BORDER}`, borderRadius: 16,
@@ -426,14 +520,8 @@ function NewsCard({ item, onOpen, now, t }) {
         )}
       </div>
       <div style={{ fontSize: 15, fontWeight: 600, lineHeight: 1.4, color: '#1f2412', letterSpacing: '-0.01em' }}>
-        {item.title}
+        {title}
       </div>
-      {item.summary && (
-        <div style={{ fontSize: 13, color: TEXT_MUTED, lineHeight: 1.55,
-          display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-          {item.summary}
-        </div>
-      )}
       <div style={{ marginTop: 'auto', paddingTop: 4, fontSize: 11, color: ACCENT.hex, fontWeight: 600, letterSpacing: '-0.01em' }}>
         {isYT ? t.play : t.read}
       </div>
@@ -454,7 +542,12 @@ function NewsCard({ item, onOpen, now, t }) {
   );
 }
 
-function ArticleReader({ item, onClose, now, t }) {
+function ArticleReader({ item, onClose, now, t, uiLang }) {
+  const needsTranslate = !!item && item.lang && item.lang !== uiLang;
+  const title = useTranslated(item?.title, item?.lang, uiLang);
+  const [body, setBody] = useState(item?.content || '');
+  const [translating, setTranslating] = useState(false);
+
   useEffect(() => {
     if (!item) return;
     const onKey = (e) => { if (e.key === 'Escape') onClose(); };
@@ -465,8 +558,22 @@ function ArticleReader({ item, onClose, now, t }) {
       window.removeEventListener('keydown', onKey);
     };
   }, [item, onClose]);
+
+  useEffect(() => {
+    if (!item) return;
+    const source = item.content || item.summary || '';
+    setBody(source);
+    if (!needsTranslate || !source) return;
+    let cancelled = false;
+    setTranslating(true);
+    translateText(source, item.lang, uiLang)
+      .then(v => { if (!cancelled) setBody(v); })
+      .finally(() => { if (!cancelled) setTranslating(false); });
+    return () => { cancelled = true; };
+  }, [item, uiLang, needsTranslate]);
+
   if (!item) return null;
-  const paragraphs = (item.content || item.summary || '').split(/\n{2,}/).filter(Boolean);
+  const paragraphs = (body || '').split(/\n{2,}/).filter(Boolean);
   return (
     <div
       onClick={onClose}
@@ -489,15 +596,15 @@ function ArticleReader({ item, onClose, now, t }) {
               {relativeTime(item.published, now, t)}
             </span>
           )}
-          {item.paraphrased && (
+          {needsTranslate && (
             <span style={{ fontSize: 10, color: ACCENT.hex, fontWeight: 600, padding: '2px 8px', borderRadius: 999, background: ACCENT.soft, letterSpacing: '0.04em' }}>
-              {t.summary}
+              {translating ? '⋯' : '✓'} {item.lang.toUpperCase()} → {uiLang.toUpperCase()}
             </span>
           )}
         </div>
 
         <h2 style={{ margin: 0, fontSize: 24, fontWeight: 700, lineHeight: 1.3, letterSpacing: '-0.02em', color: '#1a3010' }}>
-          {item.title}
+          {title || item.title}
         </h2>
 
         <div style={{ marginTop: 18, fontSize: 15, lineHeight: 1.75, color: '#22321a' }}>
@@ -511,7 +618,7 @@ function ArticleReader({ item, onClose, now, t }) {
         <div style={{ marginTop: 22, paddingTop: 18, borderTop: `1px solid ${BORDER}`, display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 12 }}>
           <div style={{ fontSize: 12, color: TEXT_FAINT, lineHeight: 1.6 }}>
             {t.sourceLabel}: <strong style={{ color: ACCENT.ink, fontWeight: 600 }}>{item.source}</strong>
-            {item.paraphrased && <> · {t.paraphraseNote}</>}
+            {needsTranslate && <> · MyMemory 자동번역</>}
           </div>
           <a
             href={item.link}
@@ -553,7 +660,7 @@ function App() {
     <div style={{ minHeight: '100vh', background: BG, color: '#1f2412' }}>
       <Nav lang={lang} setLang={setLang} />
       <Banner data={data} now={now} t={t} />
-      <ArticleReader item={openItem} onClose={() => setOpenItem(null)} now={now} t={t} />
+      <ArticleReader item={openItem} onClose={() => setOpenItem(null)} now={now} t={t} uiLang={lang} />
 
       <main className="section" style={{ maxWidth: 1240, margin: '0 auto', padding: '8px 32px 60px' }}>
         <CategoryTabs active={active} onChange={setActive} counts={counts} t={t} />
@@ -574,7 +681,7 @@ function App() {
           </div>
         ) : (
           <div className="news-grid" style={{ animation: 'fadeUp 0.4s ease both' }}>
-            {filtered.map(it => <NewsCard key={it.id} item={it} onOpen={setOpenItem} now={now} t={t} />)}
+            {filtered.map(it => <NewsCard key={it.id} item={it} onOpen={setOpenItem} now={now} t={t} uiLang={lang} />)}
           </div>
         )}
       </main>

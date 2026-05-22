@@ -22,11 +22,6 @@ jobs:
           python-version: "3.12"
 
       - name: Run aggregator
-        env:
-          # When set in repo secrets, each article gets a light paraphrase
-          # via Claude Haiku so kimnews can show its own copy. Without the
-          # key the aggregator falls back to extracted text.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/aggregate.py
 
       - name: Commit & push if changed
