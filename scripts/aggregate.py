@@ -217,44 +217,92 @@ _DROP_BLOCKS = re.compile(
 )
 
 
-def extract_article_text(html_bytes: bytes) -> str:
-    """Cheap readability — drop chrome blocks, grab paragraphs, dedupe junk.
+_BOILERPLATE_MARKERS = (
+    "subscribe", "sign up", "newsletter", "cookies", "privacy policy",
+    "all rights reserved", "follow us", "advertisement", "powered by",
+    "구독", "저작권", "관련기사",
+)
 
-    Targets ~80% of mainstream news layouts. Far from perfect; perfectly fine
-    for "give me a few paragraphs to paraphrase."
+# Any short line that embeds an email is overwhelmingly a contact tail.
+_INLINE_EMAIL_RE = re.compile(r"[\w.+\-]+@[\w.\-]+\.[A-Za-z]{2,}")
+
+# Korean byline pattern: "이성환 기자 leesh@aitimes.com" — short trailing
+# attribution we want to drop, not a content paragraph.
+_BYLINE_RE = re.compile(
+    r"^[가-힣A-Za-z\s.·]{2,40}\s*(기자|특파원|에디터|writer|editor)\s*[\w.+\-]+@[\w.\-]+\.[A-Za-z]{2,}\s*$",
+    re.I,
+)
+# Pure email line — usually a contact tail.
+_EMAIL_ONLY_RE = re.compile(r"^\s*[\w.+\-]+@[\w.\-]+\.[A-Za-z]{2,}\s*$")
+# Short tail like "AI타임스 news@aitimes.com" — publication + contact email
+# without the explicit "기자" marker.
+_PUB_EMAIL_TAIL_RE = re.compile(
+    r"^[가-힣A-Za-z0-9\s.·&'-]{2,40}\s+[\w.+\-]+@[\w.\-]+\.[A-Za-z]{2,}\s*$"
+)
+
+
+def _score_container(inner_html: str) -> tuple[int, list[str]]:
+    """Return (text-length-of-paragraphs, list-of-cleaned-paragraphs)."""
+    paras_raw = re.findall(r"<p\b[^>]*>(.*?)</p>", inner_html, re.I | re.S)
+    paras = [clean(p) for p in paras_raw]
+    paras = [p for p in paras if len(p) >= 20]   # very short = list bullets, captions
+    return sum(len(p) for p in paras), paras
+
+
+def extract_article_text(html_bytes: bytes) -> str:
+    """Find the article body and return clean paragraph text.
+
+    Many real-world pages (AI타임스 has 13 `<article>` elements) make
+    "first article tag" useless. So we collect every <article>/<main>
+    candidate plus a class-hinted div fallback, score each by paragraph
+    text length, and keep the winner.
     """
     html = html_bytes.decode("utf-8", errors="replace")
     html = _DROP_BLOCKS.sub(" ", html)
 
-    # Prefer <article> / <main> if present — those usually wrap the body.
-    for tag in ("article", "main"):
-        m = re.search(rf"<{tag}\b[^>]*>(.*?)</{tag}>", html, re.I | re.S)
-        if m and len(m.group(1)) > 400:
-            html = m.group(1)
-            break
+    candidates: list[str] = []
+    for m in re.finditer(r"<(article|main)\b[^>]*>(.*?)</\1>", html, re.I | re.S):
+        candidates.append(m.group(2))
 
-    paragraphs = re.findall(r"<p\b[^>]*>(.*?)</p>", html, re.I | re.S)
+    best_score, best_paras = 0, []
+    for c in candidates:
+        s, p = _score_container(c)
+        if s > best_score:
+            best_score, best_paras = s, p
+
+    # Fallback: pull <p> from the entire page (after chrome stripping).
+    if best_score < 200:
+        _, best_paras = _score_container(html)
+
     cleaned: list[str] = []
     seen: set[str] = set()
-    for raw in paragraphs:
-        s = clean(raw)
-        if len(s) < 40:
+    for s in best_paras:
+        low = s.lower()
+        if any(k in low for k in _BOILERPLATE_MARKERS):
             continue
-        # Drop common boilerplate
-        lower = s.lower()
-        if any(k in lower for k in (
-            "subscribe", "sign up", "newsletter", "cookies", "privacy policy",
-            "all rights reserved", "follow us", "댓글", "구독", "저작권",
-        )):
+        if (_BYLINE_RE.match(s) or _EMAIL_ONLY_RE.match(s)
+                or (len(s) < 80 and _PUB_EMAIL_TAIL_RE.match(s))
+                or (len(s) < 140 and _INLINE_EMAIL_RE.search(s))):
             continue
         if s in seen:
             continue
         seen.add(s)
         cleaned.append(s)
-        if sum(len(c) for c in cleaned) > MAX_FETCH_LEN:
+        if sum(len(c) for c in cleaned) >= MAX_FETCH_LEN:
             break
 
-    return "\n\n".join(cleaned)[:MAX_FETCH_LEN]
+    body = "\n\n".join(cleaned)
+    # Truncate at paragraph boundary so the reader never sees "…fend off" cut.
+    if len(body) > MAX_FETCH_LEN:
+        keep = []
+        running = 0
+        for c in cleaned:
+            if running + len(c) + 2 > MAX_FETCH_LEN:
+                break
+            keep.append(c)
+            running += len(c) + 2
+        body = "\n\n".join(keep)
+    return body
 
 
 def fetch_article_body(url: str) -> str | None:
@@ -291,6 +339,10 @@ def collect() -> list[dict]:
                 continue
 
             article_body = fetch_article_body(it["link"]) or ""
+            # Drop photo/stub posts with no real body — they'd render as just
+            # a byline and confuse readers.
+            if len(article_body) < 100:
+                continue
             all_items.append({
                 "id": make_id(it["link"], it["title"]),
                 "source": name,
@@ -300,7 +352,8 @@ def collect() -> list[dict]:
                 "title": it["title"],
                 "link": it["link"],
                 "summary": it["summary"][:280],
-                "content": article_body[:MAX_OUTPUT_LEN],
+                "content": article_body,  # already capped at paragraph
+                                          # boundary in extract_article_text
                 "published": it["published"],
             })
 
