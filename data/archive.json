@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-05-23T10:05:15.581867+00:00",
-  "count": 238,
+  "updated_at": "2026-05-23T11:35:34.203409+00:00",
+  "count": 243,
   "items": [
+    {
+      "id": "7f546f1fef6e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "published": "2026-05-23T11:00:00+00:00",
+      "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-"
+    },
+    {
+      "id": "eadf1c6596ef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 반도체 관세 카드 다시 만지작…“미국 내 제조 확대” 압박 커지나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210870",
+      "published": "2026-05-23T10:57:11+00:00",
+      "summary": "미국 정부가 반도체 관세 카드를 다시 꺼내 들며 글로벌 반도체 기업들에 대한 압박 수위를 높이고 있다. 즉각적인 관세 부과보다는 이를 협상 수단으로 활용해 미국 내 생산 확대를 유도하려는 의도가 강하다는 분석이다.블룸버그에 따르면, 제이미슨 그리어 미국 무역대표부(USTR) 대표는 22일(현지시간) 미국 버지니아주에서 열린 마이크론 메모리 반도체 공장 확장 행사에서 “미국 반도체 제조업을 활성화하기 위해 수입 반도체 관세를 계속 검토하고 있다”라고 밝혔다.다만 “내일이나 다음 주 당장 관세를 부과"
+    },
+    {
+      "id": "36ce2fdad5fc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD e게임] 넷마블 '솔: 인챈트', 게임 자체를 휘두르는 '신권' 주목",
+      "link": "https://zdnet.co.kr/view/?no=20260522232510",
+      "published": "2026-05-23T10:51:34+00:00",
+      "summary": "[지디넷코리아]넷마블이 신작 MMORPG '솔: 인챈트'의 정식 출시를 앞두고 구로 지타워에서 지난 20일 미디어 시연회를 진행했다. '리니지M' 출신 개발진이 모인 알트나인이 제작한 이 게임은, 이용자가 직접 신이 되어 세계를 통제한다는 파격적인 세계관을 내세웠다.게임의 가장 큰 차별점은 단연 '신권' 시스템이다. 기존 MMORPG가 캐릭터의 전투력 상승과 영지 점령에 그쳤다면, '솔: 인챈트'는 게임사가 가지던 시스템 제어 권한 자체를 특정 이용자에게 이양하는 시도를 택했다.'신권'은 서버 단"
+    },
+    {
+      "id": "6e6a1ceff6c5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "라인게임즈, 신작 4종 플레이엑스포에 선보여...자체 개발작에 인디 퍼블리싱까지",
+      "link": "https://zdnet.co.kr/view/?no=20260523133513",
+      "published": "2026-05-23T10:51:09+00:00",
+      "summary": "[지디넷코리아]라인게임즈가 '2026 플레이엑스포' 현장에서 자체 개발 역량과 인디 게임 안목을 더한 신작 라인업을 선보였다. 신작 시연에 집중한 부스 콘셉트로 관람객들의 이목을 끌었다.라인게임즈는 21일부터 24일까지 일산 킨텍스 제1전시장에서 열리는 '2026 플레이엑스' B2C관에 참가했다. 현장에서는 PC 신작 4종의 시연 부스와 코스어 포토타임 등을 운영했다.지난 22일 방문한 라인게임즈 부스에서 가장 열기가 뜨거웠던 타이틀은 자체 개발작인 '엠버 앤 블레이드'다. 이 게임은 서바이버 장"
+    },
+    {
+      "id": "bbbefebeafda",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers",
+      "link": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "published": "2026-05-23T10:30:00+00:00",
+      "summary": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more."
+    },
     {
       "id": "4b493c50b80b",
       "source": "AI타임스",
