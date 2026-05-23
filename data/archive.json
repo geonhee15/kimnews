@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-23T22:37:31.532477+00:00",
-  "count": 259,
+  "updated_at": "2026-05-23T23:42:05.088109+00:00",
+  "count": 264,
   "items": [
+    {
+      "id": "1ecc6f9f74a6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "RAG는 정말 '환각'을 잡았는가...생성형 AI 운영, 지표 없는 품질 관리의 한계",
+      "link": "https://zdnet.co.kr/view/?no=20260522182257",
+      "published": "2026-05-23T23:00:03+00:00",
+      "summary": "[지디넷코리아]2023년 이후 생성형 AI 도입은 전 산업의 공통 의제가 됐다. 민원 상담, 내부 행정, 의료 문진, 금융 상담에 이르기까지 LLM 기반 서비스가 빠르게 자리를 잡았고, 그 중심에는 거의 예외 없이 RAG(검색증강생성)가 있었다.RAG는 LLM이 학습하지 못한 최신 정보와 조직 고유 데이터를 실시간으로 참조하도록 만들어, 환각(Hallucination) 현상을 줄이는 보완 기술로 자리 잡았다. 2026년 현재 RAG가 생성형 AI 서비스의 사실상 표준 아키텍처로 거론되는 것은 더 "
+    },
+    {
+      "id": "b41172b3661e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Record Club is trying to be Letterboxd for music nerds",
+      "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+      "published": "2026-05-23T22:41:11+00:00",
+      "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and "
+    },
     {
       "id": "4cee94905601",
       "source": "ZDNet Korea",
@@ -12,6 +34,28 @@
       "link": "https://zdnet.co.kr/view/?no=20260522165843",
       "published": "2026-05-23T20:00:01+00:00",
       "summary": "[지디넷코리아]1분기 삼성전자 스마트폰 AP 엑시노스 출하량이 전년 동기보다 11% 늘었다. 시장 점유율도 1%포인트 상승했다. 24일 시장조사업체 시그마인텔에 따르면 1분기 업체별 스마트폰 AP 출하량(시장 점유율)은 ▲미디어텍 9700만개(33%) ▲퀄컴 7100만개(24%) ▲애플 5300만개(18%) ▲유니SOC 3000만개(10%) ▲삼성전자 엑시노스 2100만개(7%) ▲화웨이 하이실리콘 1600만개(5%) 순으로 많았다. 1분기 전세계 스마트폰 AP 출하량은 2억 9100만개로, 지난"
+    },
+    {
+      "id": "b83c406fad1f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "It's time to talk about my writerdeck",
+      "link": "https://veronicaexplains.net/my-first-writerdeck/",
+      "published": "2026-05-23T18:45:37+00:00",
+      "summary": "Article URL: https://veronicaexplains.net/my-first-writerdeck/ Comments URL: https://news.ycombinator.com/item?id=48250144 Points: 217 # Comments: 120"
+    },
+    {
+      "id": "5d4680c63aac",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Italy moves to Airbus A330 tankers",
+      "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "published": "2026-05-23T16:02:43+00:00",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift Comments URL: https://news.ycombinator.com/item?id=48248775 Points: 220 # Comments: 76"
     },
     {
       "id": "f00a07a73ec8",
@@ -144,6 +188,17 @@
       "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
       "published": "2026-05-23T12:11:43+00:00",
       "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/ Comments URL: https://news.ycombinator.com/item?id=48247004 Points: 202 # Comments: 39"
+    },
+    {
+      "id": "705acfe97e3a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "80386 microcode disassembled",
+      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "published": "2026-05-23T12:11:43+00:00",
+      "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/ Comments URL: https://news.ycombinator.com/item?id=48247004 Points: 212 # Comments: 42"
     },
     {
       "id": "91dcb2822d8f",
