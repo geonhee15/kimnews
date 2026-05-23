@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-23T12:42:06.272183+00:00",
-  "count": 244,
+  "updated_at": "2026-05-23T14:15:36.287833+00:00",
+  "count": 249,
   "items": [
+    {
+      "id": "5f776069b91b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, 스타십 V3 발사 \"성공적 완수\"…IPO 앞두고 기술력 입증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210872",
+      "published": "2026-05-23T13:13:31+00:00",
+      "summary": "스페이스X가 기업 공개(IPO)를 앞두고 회사의 미래를 좌우할 중요한 로켓 발사를 비교적 성공적으로 수행했다.스페이스X는 22일(현지시간) 미국 텍사스 스타베이스 시설의 새로운 발사대에서 400피트 높이의 스타십 로켓을 발사했다.이는 2023년 이후 스페이스X의 스타십 프로토타입 12번째 시험 비행이자, 우주선과 추진체 모두를 대폭 업그레이드한 V3 버전의 첫번째 시험 비행이었다. 또 새로운 로켓을 위해 특별히 설계된 발사대에서의 첫번째 발사이기도 했다.발사 후 몇분 만에 스타십은 추진체에서 분리"
+    },
+    {
+      "id": "686da1c8e596",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "published": "2026-05-23T13:00:00+00:00",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+    },
+    {
+      "id": "c6c1678399ca",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
+      "link": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+      "published": "2026-05-23T13:00:00+00:00",
+      "summary": "Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in walking distance: a coffee shop that's bright, airy, and full of art, and another t"
+    },
+    {
+      "id": "e22d1497835c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "고낙준 개보위 국장 \"중기 대상 사전진단과 기술지원 확대\"",
+      "link": "https://zdnet.co.kr/view/?no=20260523215230",
+      "published": "2026-05-23T12:52:30+00:00",
+      "summary": "[지디넷코리아]\"AI시대를 맞아 개인정보보호 체계를 사전 예방과 신뢰 기반으로 대전환하고 있습니다.\"고낙준 개인정보보호위원회 예방조정심의관(국장)은 22일 열린 '제 2회 중소기업 정보보안 세미나'에서 \"개인정보 유출과 침해 위협이 증가하고 있고 AI시대를 맞아 데이터 처리 환경이 변화하고 있다\"며 이 같이 밝혔다.이날 행사는 중소기업중앙회(K-BIZ)가 한국정보산업협회(KISIS)와 공동으로 개최했다. 작년에 이어 올해 두 번째로 열렸다.고 국장은 개인정보 유출과 침해 건수가 세계적으로 증가하고"
+    },
     {
       "id": "5b8455bf42fd",
       "source": "AI타임스",
@@ -12,6 +56,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210871",
       "published": "2026-05-23T12:12:26+00:00",
       "summary": "순다르 피차이 CEO가 구글의 코딩 성능이 타사에 비해 떨어졌다는 점을 시인했다. 그 이유로 코딩에서 '데이터 플라이휠(data flywheel)' 구조를 갖추는 것이 부족했다고 짚었다.피차이 CEO는 22일(현지시간) 공개된 뉴욕타임스의 '하드 포크' 팟캐스트에 등장, 구글이 최근 앤트로픽이나 오픈AI와의 코딩 AI 경쟁에서 뒤처지고 있다는 비판에 대해 솔직한 발언을 내놓았다. 최근 그의 인터뷰 중 가장 직설적이고 솔직한 발언이 이어졌다. 이례적으로 '전략적 패배'라는 점도 인정했다.그는 \"코딩"
+    },
+    {
+      "id": "91dcb2822d8f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 윤오준 전 국정원 3차장 \"이제 중기도 사이버보안 챙겨야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260523201148",
+      "published": "2026-05-23T11:11:48+00:00",
+      "summary": "[지디넷코리아]\"이제는 중소기업도 사이버보안을 챙겨야합니다.\"윤오준 중앙대 보안대학원 특임교수(전 국정원 3차장)는 22일 열린 '제 2회 중소기업 정보보안 세미나'에서 \"보안은 실무자만의 업무가 아니라 기업 대표의 KPI여야 한다\"며 이 같이 밝혔다. 이날 행사는 중소기업중앙회(K-BIZ)가 한국정보산업협회(KISIS)와 공동으로 개최했다. 작년에 이어 올해 두 번째로 열렸다. 이날 기조강연(키노트)을 한 윤 교수는 국정원에서 사이버보안을 총괄하는 3차장을 맡아 2024년 2월부터 2025년 6"
     },
     {
       "id": "7f546f1fef6e",
