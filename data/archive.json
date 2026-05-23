@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-05-23T08:11:50.014149+00:00",
-  "count": 229,
+  "updated_at": "2026-05-23T10:05:15.581867+00:00",
+  "count": 238,
   "items": [
+    {
+      "id": "4b493c50b80b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '코덱스' 업데이트로 맥락 파악·자율성 강화...\"맥북 닫아도 작동\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210864",
+      "published": "2026-05-23T09:51:17+00:00",
+      "summary": "오픈AI가 AI 코딩 에이전트 ‘코덱스(Codex)’의 대규모 업데이트를 공개하며 개발 업무 자동화와 자율형 작업 수행 기능 강화에 나섰다. 오픈AI는 21일(현지시간) 이번 업데이트를 통해 맥용 코덱스 앱에 '앱샷(AppShots)' 기능을 도입했다고 밝혔다. 사용자는 맥에서 ‘Command-Command’ 키를 누르면 현재 활성화된 앱 창을 코덱스 대화 스레드에 즉시 첨부할 수 있다.앱샷은 단순 스크린샷뿐 아니라 화면 내 텍스트와 화면 밖에 존재하는 일부 맥락 정보까지 전달한다. 이에 따라 사"
+    },
+    {
+      "id": "4c636f7ad59a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210866",
+      "published": "2026-05-23T09:25:17+00:00",
+      "summary": "AI 수요 폭증으로 핵심 부품 가격이 급등하면서, 엔비디아의 차세대 AI 서버 시스템 가격도 큰 폭으로 오를 전망이다. 특히 차세대 ‘베라 루빈(Vera Rubin)’ 기반 AI 랙 시스템은 메모리 비중이 전체 비용의 25% 수준까지 확대되며, 고대역폭 메모리(HBM)와 NAND 공급망이 AI 인프라 경쟁의 핵심 변수로 부상하고 있다.22일(현지시간) 모건스탠리 리서치에 따르면, 엔비디아의 차세대 AI 서버인 ‘VR200 NVL72’ 랙 시스템 가격은 780만달러(약 118억원)에 달할 것으로 추"
+    },
+    {
+      "id": "f5d872606b57",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스포티파이, ‘AI 리믹스’ 시대 선언...“음악 감상 넘어 직접 만든다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210865",
+      "published": "2026-05-23T09:15:05+00:00",
+      "summary": "세계 최대 음원 스트리밍 플랫폼인 스포티파이가 유니버설 뮤직 그룹(UMG)이 생성 AI를 활용한 음악 커버와 리믹스 제작 기능 도입을 위한 라이선스 계약을 체결했다. AI 기술을 활용해 팬들이 참여형 음악 콘텐츠를 제작할 수 있도록 하는 동시에, 아티스트와 작곡가에게 새로운 수익원을 제공하겠다는 구상이다.스포티파이는 21일(현지시간) 이번 계약에 따라 프리미엄 구독자를 대상으로 유료 부가 서비스 형태의 AI 음악 제작 기능을 선보일 예정이라고 발표했다.이용자는 참여를 승인한 아티스트의 곡을 기반으"
+    },
+    {
+      "id": "c52408e95b40",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, FDE 담당할 스타트업 인수로 기업용 AI 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210860",
+      "published": "2026-05-23T08:59:59+00:00",
+      "summary": "앤트로픽이 기업 AI 시장 확대를 위해 신설한 회사를 운영할 AI 서비스 전문 스타트업을 인수했다. 이들은 전방 배치 엔지니어(FDE)를 담당하게 된다.앤트로픽은 21일(현지시간) 블랙스톤, 헬먼 앤 프리드먼(H&F) 등과 설립한 신생 AI 서비스 합작사의 운영을 위해 샌프란시스코의 AI 서비스 스타트업 프랙셔널 AI(Fractional AI)를 인수했다고 발표했다. 아직 이름이 정해지지 않은 합작사는 중견 기업들이 생성 AI를 실제 업무 환경에 도입할 수 있도록 지원하는 것을 목표로 하고 있다."
+    },
+    {
+      "id": "513dcf0d5afa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 켄터키 학군과 'SNS 중독 소송' 합의...줄소송 운명 가를 시험대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210862",
+      "published": "2026-05-23T08:26:10+00:00",
+      "summary": "메타가 소셜미디어 플랫폼의 중독성이 청소년 정신건강 위기를 초래했다며 제기된 미국 학교 지구 소송에서 합의에 도달했다. 이번 사건은 미국 내 1200여개 학군이 제기한 대규모 집단소송의 첫 시험대 성격을 띠고 있었던 만큼, 앞으로 유사 소송과 합의 협상에 중대한 영향을 미칠 전망이다.21일(현지시간) BBC 등에 따르면, 메타는 미국 켄터키주 브레시트 카운티 학군과 진행 중이던 소송을 원만히 해결했다고 밝혔다. 구체적인 합의 조건과 금액은 공개되지 않았다.브레시트 학군은 틱톡, 스냅, 유튜브와 함"
+    },
     {
       "id": "0685739ef8c8",
       "source": "AI타임스",
@@ -12,6 +67,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210859",
       "published": "2026-05-23T08:06:37+00:00",
       "summary": "유럽연합(EU)이 앤트로픽의 ‘미소스(Mythos)’가 발견하는 사이버 취약점 정보를 확보하기 위해 협상에 나섰지만, 현재까지 진전을 이루지 못한 것으로 알려졌다. 앤트로픽의 미국 우선주의적 행보가 유럽의 안보 공백을 일으키고 있다고 우려하고 있다.블룸버그에 따르면, 카를로스 쿠에르포 스페인 경제부 장관은 22일(현지시간) 키프로스 니코시아에서 열린 EU 재무장관 회의를 앞두고 “이 문제와 관련해 불행히도 제한적인 진전만 있었다”라며 “오늘 회의에서 다시 논의할 예정”이라고 말했다.이어 “이는 중"
+    },
+    {
+      "id": "f9c8776486f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국 통신사는 왜 AI 토큰요금제에 뛰어들었나",
+      "link": "https://zdnet.co.kr/view/?no=20260523164935",
+      "published": "2026-05-23T07:49:35+00:00",
+      "summary": "[지디넷코리아]중국 통신사들이 AI 토큰 시장에 본격적으로 참여했다. 일반 이용자는 물론 기업 대상 상품을 잇달아 내놨다. 그간 진행된 대규모 AI 컴퓨팅 인프라 투자를 과금 서비스로 전환하는 승부수를 띄운 셈이다.차이나모바일은 텐센트, 알리바바, 화웨이, ZTE, 아이플라이텍과 함께 베이징을 비롯해 광둥성과 장쑤성에서 토큰 서비스를 시작했다.차이나텔레콤은 개발자와 중소기업 대상으로 전국 단위 서비스를 내놨다. 일반 가정용 서비스도 함께 선보였다. 토큰 연동 요금제를 넘어 자체 개발 LLM과 딥시"
     },
     {
       "id": "665b8dd3b2a7",
@@ -47,6 +113,17 @@
       "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing."
     },
     {
+      "id": "340a7d38e9ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 구글, AI 워터마크도 장악하나",
+      "link": "https://zdnet.co.kr/view/?no=20260523150157",
+      "published": "2026-05-23T06:01:57+00:00",
+      "summary": "[지디넷코리아]지난 화요일 구글 'I/O 202'6 키노트에서 순다르 피차이 CEO가 소개한 숫자 하나가 눈에 들어왔다. 구글 딥마인드가 개발한 AI 워터마크 기술 '신스아이디(SynthID)'가 지금까지 찍어낸 이미지·영상이 1000억 건, 오디오는 6만 년 분량에 달한다는 것이다. 같은 무대에서 OpenAI, 엔비디아, 카카오, 일레븐랩스(ElevenLabs)가 이 기술을 자사 제품에 적용하겠다고 발표했다. 경쟁사가 경쟁사의 워터마크를 자발적으로 채택하는 이례적인 장면이었다.\"AI가 만든 콘텐"
+    },
+    {
       "id": "0acd97c19f66",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -64,6 +141,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "[박준성의 SW] AI 경쟁력... 모델 도입이 아니라 리더부터 개발자까지 AI 역량 내재화",
+      "link": "https://zdnet.co.kr/view/?no=20260523143708",
+      "published": "2026-05-23T05:40:42+00:00",
+      "summary": "[지디넷코리아]미국 컨설팅기업 PwC에 따르면 직원의 AI 개발 역량 확보는 생성형 AI(GenAI) 프롬프팅과 AI 에이전트 구축 성공의 핵심 요소 중 하나다. AI 개발 역량은 훈련 대상 그룹이 누구인지, 개발하는 GenAI 시스템의 기술적 유형, 비즈니스 도메인 특성, 아키텍처 품질 요건(Architecturally Significant Requirements: ASR), 사용 툴, 그리고 배포 환경에 따라 교육 내용(Content)과 방법(Pedagogy)이 달라진다.(아래 표1 참조)Ge"
+    },
+    {
+      "id": "df439bc15753",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[박준성의 SW] AI 경쟁력... 모델 도입이 아니라 리더부터 개발자까지 AI 역량 내재화 해야",
       "link": "https://zdnet.co.kr/view/?no=20260523143708",
       "published": "2026-05-23T05:40:42+00:00",
       "summary": "[지디넷코리아]미국 컨설팅기업 PwC에 따르면 직원의 AI 개발 역량 확보는 생성형 AI(GenAI) 프롬프팅과 AI 에이전트 구축 성공의 핵심 요소 중 하나다. AI 개발 역량은 훈련 대상 그룹이 누구인지, 개발하는 GenAI 시스템의 기술적 유형, 비즈니스 도메인 특성, 아키텍처 품질 요건(Architecturally Significant Requirements: ASR), 사용 툴, 그리고 배포 환경에 따라 교육 내용(Content)과 방법(Pedagogy)이 달라진다.(아래 표1 참조)Ge"
@@ -419,6 +507,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
       "published": "2026-05-22T17:17:06+00:00",
       "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's no"
+    },
+    {
+      "id": "7096dd9b6ddd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CISA tries to contain data leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "2026-05-22T16:54:31+00:00",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/ Comments URL: https://news.ycombinator.com/item?id=48238429 Points: 206 # Comments: 50"
     },
     {
       "id": "451f78ba805a",
