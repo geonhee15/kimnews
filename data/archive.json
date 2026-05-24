@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-24T10:17:50.026833+00:00",
-  "count": 300,
+  "updated_at": "2026-05-24T11:48:33.426601+00:00",
+  "count": 304,
   "items": [
+    {
+      "id": "dbe5cde86ef2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "허사비스 \"진정한 AGI는 '아인슈타인 테스트' 통과해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210883",
+      "published": "2026-05-24T11:17:03+00:00",
+      "summary": "AGI에 대한 정의가 아직 엇갈리는 가운데, 데미스 허사비스 구글 딥마인드 CEO가 '아인슈타인 테스트(The Einstein Test)'라는 기준을 제시했다. AI가 기존 데이터를 조합하는 수준을 넘어, 아인슈타인처럼 완전히 새로운 이론을 스스로 도출해 낼 수 있는지를 보자는 것이다.허사비스 CEO는 19일(현지시간) 열린 '구글 I/O 2026' 세션에 등장, AI와 과학 발전 등에 대해 40여분간 이야기를 나눴다.여기에서 가장 주목받은 발언은 AI가 새로운 도약기에 접어들었으며, AGI 달성"
+    },
+    {
+      "id": "6999246aa1b2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+      "link": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+      "published": "2026-05-24T11:00:00+00:00",
+      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No"
+    },
+    {
+      "id": "0767141da805",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "published": "2026-05-24T10:30:00+00:00",
+      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers."
+    },
     {
       "id": "c2951c91b15d",
       "source": "AI타임스",
@@ -12,6 +45,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210882",
       "published": "2026-05-24T10:15:11+00:00",
       "summary": "글로벌 금융 그룹 스탠다드차타드의 CEO가 \"가치가 낮은 인적자본(lower-value human capital)\"을 AI로 대체할 것이라고 밝혔다가 국제적인 논란을 일으켰다.빌 윈터스 스탠다드차타드 CEO는 지난 19일 홍콩에서 열린 투자 행사에서 2030년까지 지원 부서(백오피스) 인력을 15% 이상 감축할 것이라고 밝혔다. 이번 조치에는 벵갈루루, 톈진, 바르샤바 허브를 포함한 글로벌 네트워크 전반에 걸친 인사, 위험 관리 및 규정 준수 부서가 포함된다. 이 회사는 2025년 말 기준 8만1"
+    },
+    {
+      "id": "bcd306836ecd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "금융위, 망분리 한시적 완화 추진...\"미소스 보안 위협 선제 대응\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210881",
+      "published": "2026-05-24T09:20:00+00:00",
+      "summary": "금융당국이 앤트로픽의 '미소스' 등 고성능 AI 확산에 따른 보안 위협에 대응하기 위해 일정 요건을 갖춘 금융회사를 대상으로 망분리 규제를 1년간 한시적으로 완화한다.금융위원회는 24일 권대영 부위원장 주재로 '고성능 AI 관련 금융권 보안위협 대응 간담회'를 열고 이와 관련된 주요 대책을 발표했다.이날 간담회는 금융위·금융감독원·금융보안원 관계자를 비롯해 AI·보안 분야 전문가, 주요 금융사 정보보호 최고책임자(CISO)가 참석했다.신청 대상은 총자산 10조원 이상, 상시 종업원 1000명 이상"
     },
     {
       "id": "70adbdd93fe1",
