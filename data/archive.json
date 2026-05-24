@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-24T05:48:01.034138+00:00",
-  "count": 290,
+  "updated_at": "2026-05-24T08:23:28.660306+00:00",
+  "count": 293,
   "items": [
+    {
+      "id": "bd0fbfb48750",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "소유권 명확할수록 규제…블록체인 게임의 딜레마",
+      "link": "https://zdnet.co.kr/view/?no=20260524112614",
+      "published": "2026-05-24T04:43:47+00:00",
+      "summary": "[지디넷코리아]국내 게임 산업이 아이템 소유권을 둘러싼 규제의 역설에 놓여 있다는 지적이 나온다. 이용자 간 아이템 거래는 이미 대규모 시장을 형성했지만, 게임사가 블록체인 기술로 아이템 소유권을 명확히 관리하면 규제 대상이 될 수 있기 때문이다.국내에는 연간 1조원대 거래가 이뤄지는 게임 아이템 중개 플랫폼이 존재한다. 이용자 간 아이템 현금거래는 별도 시장을 형성하며 게임 산업의 주요 축으로 성장했다. 반면 기업이 블록체인을 기반으로 게임 아이템 소유권을 관리하면 사행성 규제 대상이 될 수 있"
+    },
+    {
+      "id": "e1390d080eb6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 삼성전자 노사 잠정합의안 운명은…재계 파장 촉각",
+      "link": "https://zdnet.co.kr/view/?no=20260524113238",
+      "published": "2026-05-24T04:33:21+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 산업계는 제조·모빌리티와 AI 전환 이슈가 동시에 부각될 전망입니"
+    },
     {
       "id": "33d302e888d6",
       "source": "AI타임스",
@@ -122,6 +144,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260524101951",
       "published": "2026-05-24T01:32:45+00:00",
       "summary": "[지디넷코리아]중국 최대 배터리 기업 CATL이 인공지능(AI) 스타트업 딥시크에 투자하는 방안을 추진 중인 것으로 전해졌다. 전기차 배터리를 넘어 AI 데이터센터 전력 인프라 시장으로 사업 영역을 넓히려는 포석으로 풀이된다.최근 IT 전문 매체 더인포메이션은 사안에 정통한 소식통 2명을 인용해 CATL이 딥시크의 현재 진행 중인 첫 자금 조달 라운드에 참여할 계획이라고 보도했다.보도에 따르면 이번 투자 라운드는 약 500억 위안(약 11조 1000억원) 조달을 목표로 하고 있으며, 이르면 6월 "
+    },
+    {
+      "id": "b59240de5c46",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "published": "2026-05-24T01:21:13+00:00",
+      "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-... Comments URL: https://news.ycombinator.com/item?id=48253386 Points: 214 # Comments: 51"
     },
     {
       "id": "178a100eb585",
