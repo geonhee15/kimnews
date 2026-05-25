@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-25T18:08:44.716770+00:00",
-  "count": 382,
+  "updated_at": "2026-05-25T19:58:55.223484+00:00",
+  "count": 385,
   "items": [
+    {
+      "id": "1cfe63cc6ec4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cox Media fined after bragging it spied on users through their phones",
+      "link": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+      "published": "2026-05-25T18:28:30+00:00",
+      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced th"
+    },
     {
       "id": "2971c8c14d44",
       "source": "Two Minute Papers",
@@ -9,6 +20,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Demis Hassabis: Cure All Disease In 10 Years",
+      "link": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "published": "2026-05-25T17:49:30+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c80f0773c1d8",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
       "link": "https://www.youtube.com/watch?v=huAwz_BR8WM",
       "published": "2026-05-25T17:49:30+00:00",
       "summary": ""
@@ -111,6 +133,17 @@
       "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
       "published": "2026-05-25T14:30:00+00:00",
       "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
+    },
+    {
+      "id": "bb8831790ca2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "2026-05-25T13:56:39+00:00",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/ Comments URL: https://news.ycombinator.com/item?id=48266906 Points: 213 # Comments: 53"
     },
     {
       "id": "6ec168c4774e",

@@ -1,15 +1,27 @@
 {
   "issue_date": "2026-05-26",
-  "generated_at": "2026-05-25T18:08:44.713318+00:00",
-  "count": 9,
+  "generated_at": "2026-05-25T19:58:55.219754+00:00",
+  "count": 10,
   "items": [
     {
-      "id": "2971c8c14d44",
+      "id": "1cfe63cc6ec4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cox Media fined after bragging it spied on users through their phones",
+      "link": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced th",
+      "content": "More specifically, it was fined for allegedly lying by claiming that it could.\n\nAn exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices — despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, and 1010 Digital Works would pay a total of $930,000 to settle allegations that they were in fact lying about spying on people to target ads.\n\nAs chronicled by Techdirt a couple of years ago, Cox publicly boasted about a system called Voice Data back in 2023, telling potential digital marketing clients they could ensure “every casual conversation between two consumers becomes a tool for you to target, retarget, and retain customers.” It compared the tech to an episode of Black Mirror and described it as a real version of the persistent, largely unsubstantiated rumor that social media companies routinely listen to users through phone microphones. Cox backpedaled and denied it was listening to conversations, but 404 Media published multiple internal pitch decks making essentially the same highly dystopian claim.\n\nAt the time, there were significant doubts this was actually happening, and the FTC complaints back this up. “This service did not, in fact, listen in on consumers’ conversations or use voice data at all — nor did the service accurately place ads in customers’ desired locations,” it says in its press release. “Instead, the service the companies provided consisted of reselling — at a significant markup — email lists obtained from other data brokers.” The agency also says the companies lied about consumers having opted into this system — so even if they could spy on people, it alleges, they’d still have been breaking the law.\n\nThis is the title for the native ad",
+      "published": "2026-05-25T18:28:30+00:00"
+    },
+    {
+      "id": "c80f0773c1d8",
       "source": "Two Minute Papers",
       "kind": "youtube",
       "category": "AI",
       "lang": "en",
-      "title": "Demis Hassabis: Cure All Disease In 10 Years",
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
       "link": "https://www.youtube.com/watch?v=huAwz_BR8WM",
       "summary": "",
       "published": "2026-05-25T17:49:30+00:00"
