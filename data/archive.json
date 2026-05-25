@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-25T10:56:01.676009+00:00",
-  "count": 356,
+  "updated_at": "2026-05-25T13:57:39.336273+00:00",
+  "count": 365,
   "items": [
+    {
+      "id": "74d3495bba6d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에이아이매틱스 \"차량 52만대 검증 온디바이스AI, 산업 표준 될 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210894",
+      "published": "2026-05-25T12:53:58+00:00",
+      "summary": "비전 AI 기술이 산업 지형을 빠르게 바꾸는 가운데, 온디바이스에서 구현되는 자체 모델로 모빌리티 분야에서 빠르게 성과를 내는 기업이 있다. 현대자동차그룹 사내벤처로 출발해 기술력을 쌓은 '에이아이매틱스(A.I.MATICS)'다.자체 모델로 모빌리티를 넘어 스마트팩토리, 보안, 헬스케어까지 영역을 빠르게 넓히고 있다.■ 모델 설계부터 온디바이스 겨냥...\"실전 데이터셋이 핵심\"에이아이매틱스의 가장 큰 경쟁력은 모델 설계 단계부터 외부 서버나 클라우드 없이 기기 자체에서 구동하는 온디바이스 모델 '"
+    },
+    {
+      "id": "5a4abb63b878",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "교황 \"AI 독점 반대·속도 조절”…트럼프 '전쟁 옹호' 논리도 반박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210896",
+      "published": "2026-05-25T12:26:05+00:00",
+      "summary": "교황 레오 14세가 선출 1년 만에 발표한 첫 번째 회칙을 통해 AI 기술의 급격한 발전의 위험성을 경고하며, 전 세계 정부를 향해 엄격한 규제와 개발 속도 조절을 촉구했다. 특히 이번 회칙에는 이란 전쟁을 옹호해 온 트럼프 행정부의 논리를 반박하는 내용을 담고 있어, 후폭풍이 예상된다.수학 전공자이자 최초의 미국인 교황인 레오 14세는 25일 신자들에게 보내는 ‘마그니피카 후마니타스(웅장한 인류애)’에서 AI 기술이 인류를 지배하는 것을 막기 위해 ‘AI 무장해제’가 필요하다고 선언했다. 교황은"
+    },
+    {
+      "id": "22cff59c99ce",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
+      "link": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+      "published": "2026-05-25T11:00:00+00:00",
+      "summary": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers."
+    },
     {
       "id": "090cd1ff9894",
       "source": "Wired",
@@ -14,12 +47,34 @@
       "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly."
     },
     {
+      "id": "0f64d28d50a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "published": "2026-05-25T10:11:29+00:00",
+      "summary": "Article URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html Comments URL: https://news.ycombinator.com/item?id=48265206 Points: 313 # Comments: 103"
+    },
+    {
       "id": "6dae7429d342",
       "source": "AI타임스",
       "kind": "article",
       "category": "AI",
       "lang": "ko",
       "title": "‘자동화’ 전문 헥사곤에서 ‘데이터’ 전문 옥타브가 분사한 이유…”현장 유지에 초점”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210893",
+      "published": "2026-05-25T10:06:24+00:00",
+      "summary": "“산업 AI는 현장 지식에 훨씬 특화한 인텔리전스를 갖춰야 합니다. 이때, 다양한 유형의 ‘데이터’를 파악하고 연결해야만 끊김이 없는 워크플로우를 구축할 수 있습니다.”옥타브는 지난 3월 헥사곤AB의 헥사곤 ALI(Asset Lifecycle Intelligence) 사업부에서 분사해 출범한 독립 브랜드다. 헥사곤 ALI가 플랜트 전반의 생애주기 관리를 지원한다면, 옥타브는 단절된 데이터를 하나의 맥락(Context)으로 통합해 ‘실행 가능한 인텔리전스’로 전환하는 데 집중한다. 김세환 옥타브 기"
+    },
+    {
+      "id": "cedc0017b59b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "‘자동화’ 헥사곤에서 ‘데이터’ 전문 옥타브가 분사한 이유…”현장 유지 초점”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210893",
       "published": "2026-05-25T10:06:24+00:00",
       "summary": "“산업 AI는 현장 지식에 훨씬 특화한 인텔리전스를 갖춰야 합니다. 이때, 다양한 유형의 ‘데이터’를 파악하고 연결해야만 끊김이 없는 워크플로우를 구축할 수 있습니다.”옥타브는 지난 3월 헥사곤AB의 헥사곤 ALI(Asset Lifecycle Intelligence) 사업부에서 분사해 출범한 독립 브랜드다. 헥사곤 ALI가 플랜트 전반의 생애주기 관리를 지원한다면, 옥타브는 단절된 데이터를 하나의 맥락(Context)으로 통합해 ‘실행 가능한 인텔리전스’로 전환하는 데 집중한다. 김세환 옥타브 기"
@@ -34,6 +89,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210892",
       "published": "2026-05-25T09:08:27+00:00",
       "summary": "AI 에이전트가 기업 전반으로 빠르게 퍼져나가며, 이제는 '너무 많은 AI 에이전트'가 새로운 IT 문제로 떠오르고 있다. 월스트리트저널(WSJ)은 최근 직원 누구나 손쉽게 AI 에이전트를 만들 수 있게 되며 기업들이 비용 증가와 보안 위험, 관리 혼선 등 이른바 ‘AI 에이전트 스프롤(agent sprawl)’ 현상에 대응하기 위한 통제 체계 마련에 나서고 있다고 보도했다.스프롤은 도시가 급격히 성장하면서 교외 지역으로 무계획적이고 무분별하게 팽창하는 난개발을 설명하는 용어다. 에이전트 스프롤은"
+    },
+    {
+      "id": "7fe0302b230e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“만들긴 쉬운데 관리는 어려워”...기업 위협하는 ‘에이전트 스프롤’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210892",
+      "published": "2026-05-25T09:08:27+00:00",
+      "summary": "AI 에이전트가 기업 전반으로 빠르게 퍼져나가며, 이제는 '너무 많은 AI 에이전트'가 새로운 IT 문제로 떠오르고 있다. 월스트리트저널(WSJ)은 최근 직원 누구나 손쉽게 AI 에이전트를 만들 수 있게 되며 기업들이 비용 증가와 보안 위험, 관리 혼선 등 이른바 ‘AI 에이전트 스프롤(agent sprawl)’ 현상에 대응하기 위한 통제 체계 마련에 나서고 있다고 보도했다.스프롤은 도시가 급격히 성장하면서 교외 지역으로 무계획적이고 무분별하게 팽창하는 난개발을 설명하는 용어다. 에이전트 스프롤은"
+    },
+    {
+      "id": "6c9c6ff38207",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI·앤트로픽, 해외 거점 확장…싱가포르·밀라노에 신규 기지 마련",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210895",
+      "published": "2026-05-25T08:55:00+00:00",
+      "summary": "오픈AI와 앤트로픽이 미국을 넘어 글로벌 시장으로 거점을 빠르게 확장하고 있다. 오픈AI는 싱가포르에 첫 해외 응용 연구소를 설립하기로 했으며, 앤트로픽은 유럽 B2B 시장 공략을 위해 이탈리아 밀라노에 신규 사무소를 개설한다.오픈AI는 지난 19일(현지시간) 싱가포르 정부와의 다년간 파트너십을 바탕으로 미국 외 지역에 최초로 '응용 AI 연구소(Applied AI Lab)'를 설립한다고 발표했다. 이번 거점 마련은 싱가포르 정부의 '국가를 위한 오픈AI(OpenAI for Singapore)' "
     },
     {
       "id": "f25eea0d3746",
@@ -223,6 +300,17 @@
       "summary": "[지디넷코리아]업비트를 운영하는 두나무가 청소년 디지털 금융 리터러시 확산을 위해 ‘업클래스 주니어배 퀴즈 대항전’을 진행한다고 25일 밝혔다.‘업클래스 주니어’는 두나무의 세대별 맞춤형 금융 교육 프로그램 ‘업클래스’ 일환이다. 경제 상식과 인공지능(AI), 블록체인, 대체불가토큰(NFT) 등 최신 기술 트렌드를 접목한 커리큘럼을 제공한다. 이번 ‘업클래스 주니어배 퀴즈 대항전’은 학생들이 보다 쉽고 재미있게 디지털 금융·경제 지식을 쌓을 수 있도록 마련한 이벤트다. 업클래스 주니어 1학기에 참"
     },
     {
+      "id": "48ea609a9939",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jira Is Turing-Complete",
+      "link": "https://seriot.ch/computation/jira.html",
+      "published": "2026-05-25T03:54:14+00:00",
+      "summary": "Article URL: https://seriot.ch/computation/jira.html Comments URL: https://news.ycombinator.com/item?id=48263253 Points: 227 # Comments: 97"
+    },
+    {
       "id": "09bf0f59e0f1",
       "source": "Hacker News",
       "kind": "article",
@@ -273,6 +361,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "드론 시속 730km 돌파…아마추어 팀, 세계 최고 속도 경신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210889",
+      "published": "2026-05-25T02:33:30+00:00",
+      "summary": "아마추어 드론 제작팀이 시험 비행에서 최고 시속 730km를 기록, 이 분야 비공식 세계 기록을 갈아치웠다.드론 제작인 에이든 페레이라와 벤 타이스는 21일(현지시간) 유튜브를 통해 커스텀 드론 '블랙버드(Blackbird)'의 시험 비행 장면을 공개했다.블랙버드는 비행 중 최고 시속 453마일(약 730km)에 도달했다. 이는 제트 여객기의 순항 속도인 시속 550마일(약 885km)에 근접한 수준이다. 순풍과 역풍 비행을 합산해 산출한 최종 평균 속도는 시속 425마일(약 685km)로 집계됐"
+    },
+    {
+      "id": "57cbb99b853c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "드론 시속 730km 돌파…세계 최고 속도 경신",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210889",
       "published": "2026-05-25T02:33:30+00:00",
       "summary": "아마추어 드론 제작팀이 시험 비행에서 최고 시속 730km를 기록, 이 분야 비공식 세계 기록을 갈아치웠다.드론 제작인 에이든 페레이라와 벤 타이스는 21일(현지시간) 유튜브를 통해 커스텀 드론 '블랙버드(Blackbird)'의 시험 비행 장면을 공개했다.블랙버드는 비행 중 최고 시속 453마일(약 730km)에 도달했다. 이는 제트 여객기의 순항 속도인 시속 550마일(약 885km)에 근접한 수준이다. 순풍과 역풍 비행을 합산해 산출한 최종 평균 속도는 시속 425마일(약 685km)로 집계됐"
