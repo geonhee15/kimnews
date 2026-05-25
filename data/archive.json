@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-05-25T13:57:39.336273+00:00",
-  "count": 365,
+  "updated_at": "2026-05-25T16:23:38.508247+00:00",
+  "count": 378,
   "items": [
+    {
+      "id": "3ce2fc71defe",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "published": "2026-05-25T16:00:00+00:00",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+    },
+    {
+      "id": "f94dda5ffe64",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "published": "2026-05-25T16:00:00+00:00",
+      "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "f9d94ea79515",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "published": "2026-05-25T15:09:41+00:00",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+    },
+    {
+      "id": "f94aa99016e9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "published": "2026-05-25T15:05:07+00:00",
+      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dang"
+    },
+    {
+      "id": "7bebdfbea5f6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "published": "2026-05-25T15:00:00+00:00",
+      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it."
+    },
+    {
+      "id": "e1b4e0aaf64a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - Google IO 총정리, Project Glasswing 성과, OpenAI 핵심 가설 반증, Composer 2.5, Qwen3.7-Max 등",
+      "link": "https://www.youtube.com/watch?v=j82T0n5-iuM",
+      "published": "2026-05-25T14:45:07+00:00",
+      "summary": ""
+    },
+    {
+      "id": "faaafa4376d2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "published": "2026-05-25T14:30:00+00:00",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
+    },
+    {
+      "id": "6ec168c4774e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "published": "2026-05-25T13:17:58+00:00",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/ Comments URL: https://news.ycombinator.com/item?id=48266485 Points: 309 # Comments: 136"
+    },
     {
       "id": "74d3495bba6d",
       "source": "AI타임스",
@@ -14,6 +102,17 @@
       "summary": "비전 AI 기술이 산업 지형을 빠르게 바꾸는 가운데, 온디바이스에서 구현되는 자체 모델로 모빌리티 분야에서 빠르게 성과를 내는 기업이 있다. 현대자동차그룹 사내벤처로 출발해 기술력을 쌓은 '에이아이매틱스(A.I.MATICS)'다.자체 모델로 모빌리티를 넘어 스마트팩토리, 보안, 헬스케어까지 영역을 빠르게 넓히고 있다.■ 모델 설계부터 온디바이스 겨냥...\"실전 데이터셋이 핵심\"에이아이매틱스의 가장 큰 경쟁력은 모델 설계 단계부터 외부 서버나 클라우드 없이 기기 자체에서 구동하는 온디바이스 모델 '"
     },
     {
+      "id": "1705482b1cbb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "published": "2026-05-25T12:27:11+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/ Comments URL: https://news.ycombinator.com/item?id=48266051 Points: 444 # Comments: 400"
+    },
+    {
       "id": "5a4abb63b878",
       "source": "AI타임스",
       "kind": "article",
@@ -23,6 +122,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210896",
       "published": "2026-05-25T12:26:05+00:00",
       "summary": "교황 레오 14세가 선출 1년 만에 발표한 첫 번째 회칙을 통해 AI 기술의 급격한 발전의 위험성을 경고하며, 전 세계 정부를 향해 엄격한 규제와 개발 속도 조절을 촉구했다. 특히 이번 회칙에는 이란 전쟁을 옹호해 온 트럼프 행정부의 논리를 반박하는 내용을 담고 있어, 후폭풍이 예상된다.수학 전공자이자 최초의 미국인 교황인 레오 14세는 25일 신자들에게 보내는 ‘마그니피카 후마니타스(웅장한 인류애)’에서 AI 기술이 인류를 지배하는 것을 막기 위해 ‘AI 무장해제’가 필요하다고 선언했다. 교황은"
+    },
+    {
+      "id": "a297d6e66874",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Leave Me Behind",
+      "link": "http://androidessence.com/leave-me-behind/",
+      "published": "2026-05-25T12:03:54+00:00",
+      "summary": "Article URL: http://androidessence.com/leave-me-behind/ Comments URL: https://news.ycombinator.com/item?id=48265876 Points: 214 # Comments: 152"
     },
     {
       "id": "22cff59c99ce",
@@ -498,6 +608,17 @@
       "summary": "We're in the transition period -- all of us."
     },
     {
+      "id": "f692e9aed9f4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "published": "2026-05-24T19:10:26+00:00",
+      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/ Comments URL: https://news.ycombinator.com/item?id=48260117 Points: 206 # Comments: 103"
+    },
+    {
       "id": "e0eae449af06",
       "source": "TechCrunch",
       "kind": "article",
@@ -584,6 +705,17 @@
       "link": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
       "published": "2026-05-24T15:00:00+00:00",
       "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chi"
+    },
+    {
+      "id": "81c7e85296a1",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "link": "https://huggingface.co/blog/agent-glossary",
+      "published": "2026-05-24T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "3119af15e25a",
@@ -1530,6 +1662,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260523104304",
       "published": "2026-05-23T01:43:04+00:00",
       "summary": "[지디넷코리아]제미나이 3.5 플래시는 분명 빨라지고 똑똑해졌다. 문제는 가격이다. 더디코더(The Decoder)는 구글이 I/O 2026에서 공개한 제미나이 3.5 플래시가 직전 모델보다 성능은 한 단계 올라섰지만, 같은 작업을 돌리는 데 비용이 5.5배 더 든다고 전했다. 에이전트 작업에서는 총비용이 상위 모델인 제미나이 3.1 프로보다도 75% 높게 나왔다.성능 자체는 인상적이다. 구글이 공개한 벤치마크 표를 보면 3.5 플래시는 코딩과 에이전트 중심 평가 5종에서 보고된 모든 모델을 앞섰"
+    },
+    {
+      "id": "edecfe28626d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "published": "2026-05-23T01:37:02+00:00",
+      "summary": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/ Comments URL: https://news.ycombinator.com/item?id=48243666 Points: 239 # Comments: 116"
     },
     {
       "id": "ed460c3c01f4",
