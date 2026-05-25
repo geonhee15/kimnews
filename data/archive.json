@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-05-25T06:23:29.713610+00:00",
-  "count": 339,
+  "updated_at": "2026-05-25T10:56:01.676009+00:00",
+  "count": 356,
   "items": [
+    {
+      "id": "090cd1ff9894",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "published": "2026-05-25T10:30:00+00:00",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly."
+    },
+    {
+      "id": "6dae7429d342",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "‘자동화’ 전문 헥사곤에서 ‘데이터’ 전문 옥타브가 분사한 이유…”현장 유지에 초점”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210893",
+      "published": "2026-05-25T10:06:24+00:00",
+      "summary": "“산업 AI는 현장 지식에 훨씬 특화한 인텔리전스를 갖춰야 합니다. 이때, 다양한 유형의 ‘데이터’를 파악하고 연결해야만 끊김이 없는 워크플로우를 구축할 수 있습니다.”옥타브는 지난 3월 헥사곤AB의 헥사곤 ALI(Asset Lifecycle Intelligence) 사업부에서 분사해 출범한 독립 브랜드다. 헥사곤 ALI가 플랜트 전반의 생애주기 관리를 지원한다면, 옥타브는 단절된 데이터를 하나의 맥락(Context)으로 통합해 ‘실행 가능한 인텔리전스’로 전환하는 데 집중한다. 김세환 옥타브 기"
+    },
+    {
+      "id": "12f12448ebe7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“만들긴 쉬운데 관리는 어려워”...기업 위협하는 ‘에이전트 스프롤’ 주의보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210892",
+      "published": "2026-05-25T09:08:27+00:00",
+      "summary": "AI 에이전트가 기업 전반으로 빠르게 퍼져나가며, 이제는 '너무 많은 AI 에이전트'가 새로운 IT 문제로 떠오르고 있다. 월스트리트저널(WSJ)은 최근 직원 누구나 손쉽게 AI 에이전트를 만들 수 있게 되며 기업들이 비용 증가와 보안 위험, 관리 혼선 등 이른바 ‘AI 에이전트 스프롤(agent sprawl)’ 현상에 대응하기 위한 통제 체계 마련에 나서고 있다고 보도했다.스프롤은 도시가 급격히 성장하면서 교외 지역으로 무계획적이고 무분별하게 팽창하는 난개발을 설명하는 용어다. 에이전트 스프롤은"
+    },
+    {
+      "id": "f25eea0d3746",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"집안일은 어렵지만 길 안내는 척척\"…UB테크, '반구조화 공간' 노린 휴머노이드 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210887",
+      "published": "2026-05-25T08:35:07+00:00",
+      "summary": "중국의 UB테크가 차세대 상업용 휴머노이드 로봇 ‘워커 C1(Walker C1)’을 공개했다. 발레와 왈츠를 소화하는 정교한 움직임은 물론, 전시회와 공항·호텔 같은 공공 공간에서 안내와 응대 업무를 수행하는 서비스 로봇으로 설계됐다.UB테크는 22일(현지시간) 공개 행사에서 워커 C1이 인간 무용수들과 차이콥스키의 ‘백조의 호수’ 발레 동작을 수행하는 모습을 선보였다.로봇은 균형 유지와 전신 협응, 정밀한 모션 제어 능력을 기반으로 인간과 유사한 춤 동작을 구현했다.워커 C1은 지난해 공개된 ‘"
+    },
+    {
+      "id": "1359cb273b42",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"코딩은 29배, 추론은 7배\"…세레브라스, '키미' 서비스로 GPU 압도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210890",
+      "published": "2026-05-25T08:18:47+00:00",
+      "summary": "AI 칩 전문 세레브라스가 문샷 AI의 1조 매개변수 오픈웨이트 모델 ‘키미 K2.6’을 기업 고객 대상으로 서비스하기 시작했다. 초당 약 1000토큰에 달하는 추론 속도를 달성하며 GPU 기반 AI 인프라 대비 압도적인 성능 우위를 내세우고 있다. 세레브라스는 최근 키미 K2.6을 기업 고객 시험 운영 환경에서 구동한 결과, 벤치마크 기업 아티피셜 애널리시스 기준 초당 981개 출력 토큰을 기록했다고 밝혔다.이는 GPU 기반 클라우드 서비스 가운데 가장 빠른 경쟁사보다 6.7배, 업계 평균 대비"
+    },
+    {
+      "id": "6087d5973280",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'AI 전용 장치' 개발 중인 하크, 1조 규모 시리즈A 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210891",
+      "published": "2026-05-25T08:00:54+00:00",
+      "summary": "휴머노이드 로봇 전문 피규어 AI의 브렛 애드콕 CEO가 설립한 AI 스타트업 하크(Hark)가 7억달러(약 1조 원) 이상의 대규모 시리즈A 투자를 유치했다. 사용자를 지속적으로 이해하고 기억하는 ‘개인화 AI’와 이를 위한 전용 하드웨어를 구축하겠다는 전략으로 차세대 AI 디바이스 경쟁에 뛰어들었다는 점에서 오픈AI와 비교된다. 애드콕 CEO는 최근 시리즈A 라운드에서 7억달러 이상을 조달했으며, 투자 후 기업 가치는 60억달러(약 9조원)로 평가됐다고 발표했다.이번 투자 라운드는 파크웨이 벤"
+    },
+    {
+      "id": "3dc424fd4609",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제미나이 과금 논란 속 구글 \"AI 보안 전략 처음부터 짜야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260525090928",
+      "published": "2026-05-25T08:00:13+00:00",
+      "summary": "[지디넷코리아]구글이 제미나이 무단 API 호출로 인한 과금 논란 후 인공지능(AI) 보안 전략 중요성을 강조한 것으로 전해졌다. 24일(현지시간) 테크크런치 등 외신에 따르면 프랜시스 드 수자 구글클라우드 최고운영책임자(COO)는 이날 미국 로스앤젤레스에서 열린 한 행사에서 AI 시대 보안·데이터 전략 중요성을 강조했다.이날 수자 COO는 기업들이 AI 플랫폼을 구축할 때 보안, 거버넌스, 감사 가능성을 처음부터 고려해야 한다고 주장했다. 직원들이 조직 승인 없이 소비자용 AI 도구를 쓰는 '섀"
+    },
+    {
+      "id": "8f4725f34124",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI 넘어서나…앤트로픽, 이르면 다음주 신규 투자 마무리",
+      "link": "https://zdnet.co.kr/view/?no=20260524011809",
+      "published": "2026-05-25T08:00:01+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 이르면 다음주 중 300억 달러(약 45조 5700억원)가 넘는 신규 투자 유치를 마무리할 예정이다. 이번 투자로 기업 가치는 9000억 달러(약 1367조 1000억원)를 넘어설 것으로 예상된다.23일(현지시간) 블룸버그 등 외신에 따르면 세콰이어캐피털, 드라고니어인베스트먼트그룹, 알티미터캐피털, 그린오크스캐피털파트너스가 이번 투자 라운드를 공동 주도할 예정이다. 각 투자사들은 약 20억 달러(약 3조 380억원)씩 투자할 계획이다. 파운더스펀드와 제너럴캐털리스트를 포함"
+    },
+    {
+      "id": "db6b6eb5025e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"목사님 대신 AI 설교 들어요\"…미국 기독교인 48% AI 신뢰",
+      "link": "https://zdnet.co.kr/view/?no=20260524110437",
+      "published": "2026-05-25T07:03:48+00:00",
+      "summary": "[지디넷코리아]인공지능(AI)이 정보 검색을 넘어 종교 영역까지 빠르게 침투하고 있다는 조사 결과가 나왔다.적극적으로 신앙생활을 하는 기독교인은 AI를 종교적 성장과 상담에 활용하며 일부는 목회자 수준의 신뢰를 보이고 있다는 조사 결과다.미국 기독교 리서치 기관 바르나 그룹은 24일 미국 성인 1514명과 미국 개신교 목회자 442명을 대상으로 진행한 설문 결과를 발표했다.조사 결과 매주 예배에 참석하는 등 종교 생활을 충실히 이행하는 '실천적 기독교인' 중 절반에 가까운 48%가 자신의 영적 성"
+    },
+    {
+      "id": "35480c172391",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인포매티카, 스노우플레이크 AI 거버넌스 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260525092646",
+      "published": "2026-05-25T07:03:05+00:00",
+      "summary": "[지디넷코리아]인포매티카가 스노우플레이크 기반 엔터프라이즈 인공지능(AI) 운영을 위한 데이터 관리·거버넌스 기능을 강화했다.인포매티카는 21일까지 미국에서 열린 '인포매티카 월드 2026'에서 스노우플레이크와 협력을 확대해 에이전틱 AI 통합을 비롯한 접근 거버넌스, 오픈 포맷 데이터 검색 기능을 새로 공개했다고 밝혔다. 인포매티카는 지난해 세일즈포스에 인수됐다. 이번 기능은 두 기업 고객이 스노우플레이크에서 엔터프라이즈 AI를 구축하고 관리하며 확장할 수 있도록 지원하는 게 목표다. 인포매티카"
+    },
+    {
+      "id": "ad928e864efd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "핑거, 두베와 원화 스테이블코인 사업 MOU 체결",
+      "link": "https://zdnet.co.kr/view/?no=20260525153135",
+      "published": "2026-05-25T06:31:35+00:00",
+      "summary": "[지디넷코리아]핀테크 '핑거'가 블록체인 인프라 기업 '두베'와 원화 기반 스테이블코인 공동 사업 추진을 위한 전략적 업무 협약(MOU)을 체결했다고 25일 밝혔다.핑거 블록체인 서비스 플랫폼 '프리즘(Frizm)'에 두베 블록체인 엔진 '시그마체인'을 연동해, 원화 스테이블코인 발행 인프라를 고도화할 계획이다. 두베는 스테이블코인 발행에 필요한 기술적 지원을 전담한다.양사는 스테이블코인 기술 협력을 넘어 다음의 구체적 사업 분야에서 긴밀히 협력할 예정이다. 보안 강화 스마트 컨트랙트 개발과 토큰"
+    },
+    {
+      "id": "aab4acd01367",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 베팅 통했다…줌, 앤트로픽 투자로 10억 달러 차익",
+      "link": "https://zdnet.co.kr/view/?no=20260524110530",
+      "published": "2026-05-25T06:11:36+00:00",
+      "summary": "[지디넷코리아]화상회의 기업 줌 커뮤니케이션즈가 2023년 초 단행한 인공지능(AI) 스타트업 앤트로픽 투자로 10억 달러(약 1조 5000억원) 규모의 평가차익을 실현했다. 오픈AI '챗GPT' 등장으로 생성형 AI 시장이 열리던 시기, 대항마로 꼽히던 앤트로픽에 집행한 소규모 전략 투자가 3년여 만에 회사 가치를 끌어올리는 핵심 자산으로 떠오른 셈이다.블룸버그는 23일(현지시간) 줌이 22일 공시한 규제당국 제출 서류를 인용해 줌의 앤트로픽 지분 총 가치가 약 12억 7000만달러에 달한다고 "
+    },
+    {
+      "id": "0a295ce76aaf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국이 쏘아 올린 '패시브 이자'의 종말",
+      "link": "https://zdnet.co.kr/view/?no=20260522170959",
+      "published": "2026-05-25T06:10:19+00:00",
+      "summary": "[지디넷코리아]최근 미국 상원 은행위원회에서 가상자산 시장 핵심 법안인 클래리티 법안이 15 대 9로 통과되며 입법의 9부 능선을 넘었습니다.우리가 진정 주목해야 할 심해 해류는 지난 2025년 제정된 지니어스법과 이번 클래리티 법안이 맞물려 만들어낼 '온체인 금융 수익 구조 근본적인 재편'입니다. 블록체인 위에서 돈을 버는 방식이 완전히 달라지고 있습니다.이 거대한 변화를 이해하려면 먼저 거시경제 관점을 짚어야 합니다. 트럼프 행정부와 스콧 베센트 재무장관이 스테이블코인 제도를 강력히 밀어붙인 "
+    },
+    {
+      "id": "5a3359c35226",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "X, 도둑 콘텐츠 계정 손본다…\"원작자 아닌 재업로드 계정 수익 대폭 삭감\"",
+      "link": "https://zdnet.co.kr/view/?no=20260525113815",
+      "published": "2026-05-25T06:09:27+00:00",
+      "summary": "[지디넷코리아]소셜미디어 플랫폼 X가 다른 이용자의 바이럴 콘텐츠를 무단 재업로드해 수익을 올리는 계정들에 대한 단속에 나섰다. 조회수와 참여도를 기반으로 한 크리에이터 수익 배분 구조가 오히려 콘텐츠 도용과 클릭베이트를 부추겼다는 지적이 이어지자 대응에 나선 것이다. 24일(현지시간) 디지털트렌드에 따르면 X는 소규모 계정의 콘텐츠를 자동으로 재업로드하며 수익을 챙기는 대형 계정들을 적극 단속하고 있다고 밝혔다.니키타 비어 X 제품 총괄은 “작은 계정의 콘텐츠를 프로그램 방식으로 재업로드해 크리"
+    },
     {
       "id": "22af91fbf93c",
       "source": "ZDNet Korea",
@@ -141,6 +295,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "\"AI 추론으로 CPU 수요 폭증\"...AMD, 대만 공급에 15조 투입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210886",
+      "published": "2026-05-25T01:40:01+00:00",
+      "summary": "AI 추론과 에이전트 수요가 폭발적으로 증가하면서, 글로벌 CPU 시장이 예상보다 빠르게 공급 부족 국면에 진입하고 있다. AMD는 생산 능력 확대를 위해 앞으로 수년간 대만의 AI 칩 생산 인프라에 대규모 투자를 단행하겠다고 밝혔다.리사 수 AMD CEO는 22일(현지시간) 대만 타이베이에서 열린 행사에서 주요 공급망 파트너들과 생산 확대 방안을 논의했다고 밝혔다.수 CEO는 “최근 중국과 글로벌 주요 고객들을 만났으며, 급증하는 CPU 수요를 충족할 수 있도록 공급 역량을 확보하는 것이 이번 "
+    },
+    {
+      "id": "f4331e50f541",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI 추론으로 CPU 수요 폭증\"...AMD, 대만 공급망에 15조 투입",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210886",
       "published": "2026-05-25T01:40:01+00:00",
       "summary": "AI 추론과 에이전트 수요가 폭발적으로 증가하면서, 글로벌 CPU 시장이 예상보다 빠르게 공급 부족 국면에 진입하고 있다. AMD는 생산 능력 확대를 위해 앞으로 수년간 대만의 AI 칩 생산 인프라에 대규모 투자를 단행하겠다고 밝혔다.리사 수 AMD CEO는 22일(현지시간) 대만 타이베이에서 열린 행사에서 주요 공급망 파트너들과 생산 확대 방안을 논의했다고 밝혔다.수 CEO는 “최근 중국과 글로벌 주요 고객들을 만났으며, 급증하는 CPU 수요를 충족할 수 있도록 공급 역량을 확보하는 것이 이번 "
@@ -344,6 +509,17 @@
       "summary": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 213 # Comments: 114"
     },
     {
+      "id": "3c4d8826444a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Childhood Computing",
+      "link": "https://susam.net/childhood-computing.html",
+      "published": "2026-05-24T12:07:34+00:00",
+      "summary": "Article URL: https://susam.net/childhood-computing.html Comments URL: https://news.ycombinator.com/item?id=48256597 Points: 214 # Comments: 101"
+    },
+    {
       "id": "4177454a9895",
       "source": "The Verge",
       "kind": "article",
@@ -441,6 +617,17 @@
       "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
       "published": "2026-05-24T08:30:00+00:00",
       "summary": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case."
+    },
+    {
+      "id": "d3060680bada",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Greg Brockman interview [video]",
+      "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "published": "2026-05-24T08:29:38+00:00",
+      "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/ Comments URL: https://news.ycombinator.com/item?id=48255593 Points: 200 # Comments: 216"
     },
     {
       "id": "245caaca0d9b",
