@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-26T18:37:33.644049+00:00",
-  "count": 488,
+  "updated_at": "2026-05-26T20:36:15.111073+00:00",
+  "count": 492,
   "items": [
+    {
+      "id": "9c08a8017654",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "published": "2026-05-26T20:17:47+00:00",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players."
+    },
+    {
+      "id": "21e927a9f880",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "published": "2026-05-26T19:50:33+00:00",
+      "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
+    },
+    {
+      "id": "e1bab6a2c6e8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+      "link": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "published": "2026-05-26T19:00:15+00:00",
+      "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously announced, and many of the responses we've seen so far are full o"
+    },
+    {
+      "id": "667759d3fd9f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+      "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+      "published": "2026-05-26T18:48:04+00:00",
+      "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX."
+    },
     {
       "id": "f29c63ecaab8",
       "source": "TechCrunch",
