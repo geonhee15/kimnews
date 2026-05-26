@@ -1,7 +1,381 @@
 {
-  "updated_at": "2026-05-26T08:57:21.047840+00:00",
-  "count": 439,
+  "updated_at": "2026-05-26T16:09:05.813582+00:00",
+  "count": 481,
   "items": [
+    {
+      "id": "28c756ad49db",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "American Airlines is getting Starlink Wi-Fi",
+      "link": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+      "published": "2026-05-26T16:07:39+00:00",
+      "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes fro"
+    },
+    {
+      "id": "2f4ba555dca4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "published": "2026-05-26T16:00:00+00:00",
+      "summary": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire."
+    },
+    {
+      "id": "eff388a52990",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ferrari’s first EV is not for you",
+      "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+      "published": "2026-05-26T15:16:34+00:00",
+      "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV."
+    },
+    {
+      "id": "a37a21a54808",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "published": "2026-05-26T14:55:05+00:00",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies"
+    },
+    {
+      "id": "79c1c8728e5a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "published": "2026-05-26T14:54:10+00:00",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that"
+    },
+    {
+      "id": "8a8361a54b58",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spotify now lets you stream narrated magazine articles, too",
+      "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+      "published": "2026-05-26T14:38:05+00:00",
+      "summary": "Spotify is adding narrated magazine articles to its app as it expands beyond music into audiobooks, podcasts, AI audio, and more."
+    },
+    {
+      "id": "5e423aaa2cc7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "15 Best Travel Toiletry Bags, Tested Over Many Miles (2026)",
+      "link": "https://www.wired.com/gallery/best-toiletry-bags/",
+      "published": "2026-05-26T14:35:00+00:00",
+      "summary": "Our team evaluated a ton of toiletry bags to find the best storage, organization, and design options for all your essentials."
+    },
+    {
+      "id": "571ef66855d6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jony Ive’s Ferrari looks nothing like a Ferrari",
+      "link": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ice-design",
+      "published": "2026-05-26T14:17:37+00:00",
+      "summary": "Ferrari makes some of the fastest cars on the planet, so it's anyone's guess how the Italian automaker ended up being so incredibly late to the EV party. Long after most automakers have drastically scaled back their EV ambitions, cancelled battery-powered models, or curtailed fac"
+    },
+    {
+      "id": "e59baa6bb489",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia has retired its GeForce Control Panel app after 20 years",
+      "link": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
+      "published": "2026-05-26T14:14:35+00:00",
+      "summary": "Nvidia announced more than two years ago that it was working to replace its Control Panel app on Windows with a new Nvidia app. After porting across various features to the Nvidia app, Nvidia is announcing today that it has officially retired the Control Panel app. \"With the intr"
+    },
+    {
+      "id": "c437df38b7e2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+      "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "published": "2026-05-26T14:00:00+00:00",
+      "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of"
+    },
+    {
+      "id": "9872fcc7b888",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Fitbit Air Review: Barely There, Always Running",
+      "link": "https://www.wired.com/review/google-fitbit-air/",
+      "published": "2026-05-26T13:00:00+00:00",
+      "summary": "Google’s latest Fitbit strips away the screen without sacrificing features, delivering the most approachable and affordable wearable yet."
+    },
+    {
+      "id": "dad452afd168",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+      "published": "2026-05-26T12:46:03+00:00",
+      "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - i"
+    },
+    {
+      "id": "f15ccae93707",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: puncturing the AI jobs panic",
+      "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "published": "2026-05-26T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that "
+    },
+    {
+      "id": "246ae7351893",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+      "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+      "published": "2026-05-26T12:00:00+00:00",
+      "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry and CTO Jacob Boudreau while they were still at Georgia Tech."
+    },
+    {
+      "id": "8ae8289fdb39",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "published": "2026-05-26T11:46:08+00:00",
+      "summary": "Article URL: https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/ Comments URL: https://news.ycombinator.com/item?id=48278406 Points: 276 # Comments: 106"
+    },
+    {
+      "id": "c31141d75aa8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Actions down again today",
+      "link": "https://www.githubstatus.com/?today",
+      "published": "2026-05-26T11:42:58+00:00",
+      "summary": "Article URL: https://www.githubstatus.com/?today Comments URL: https://news.ycombinator.com/item?id=48278374 Points: 543 # Comments: 269"
+    },
+    {
+      "id": "597f6e7f05d1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국, 1년새 ‘AI 억만장자’ 19명 배출…자산 총합은 90조원",
+      "link": "https://zdnet.co.kr/view/?no=20260526193332",
+      "published": "2026-05-26T10:33:32+00:00",
+      "summary": "[지디넷코리아]지난 1년 동안 미국 스타트업이 19명의 신규 억만장자를 배출했고, 이들의 자산을 합치면 593억 달러에 이른다고 블룸버그가 분석했다. 흥미로운 대목은 이들 ‘뉴리치’의 공통점이다. 새로 부를 거머쥔 창업가들은 첨단 모델 자체보다, AI를 법률·헬스케어·고객서비스·소프트웨어 같은 ‘오래된 산업’에 적용해 성공했다. 많은 경우 목표는 ‘전문직을 위한 AI 어시스턴트’를 만드는 것이었다.대표 사례로는 코드 협업 플랫폼 리플릿(Replit), 프런트엔드 배포 플랫폼 버셀(Vercel), "
+    },
+    {
+      "id": "f89bbed88103",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 교황이 AI에게 '멈춰'라고 했어요",
+      "link": "https://zdnet.co.kr/view/?no=20260526100604",
+      "published": "2026-05-26T10:31:54+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 교황이 직접 AI에 대한 대형 윤리 문서를 발표해 전 세계의 이목이 집중되고 있어요.책 한 권 분량에 달할 만큼 두꺼운 이 문서는 단순한 권고가 아니라, 135년간 공장 노동자부터 오늘날의 AI 시대 노동자까지 꾸준히 약자 편에 서온 교황청의 일관된 목소리를 담고 있는데요. 교황은 데이터, 알고리즘, AI 플랫폼, AI 인프라, AI 결과물 모두를 '공공재'로 선언하며, 공기처럼 누구나 함께 써야 할 자원이지 소수가 독차지해선 절대 안 된다고 강하"
+    },
+    {
+      "id": "fbd1f5c56b37",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate."
+    },
+    {
+      "id": "eb6824e2abed",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon."
+    },
+    {
+      "id": "30ebeabd64b6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+      "link": "https://www.wired.com/story/household-chores-training-robots/",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences."
+    },
+    {
+      "id": "61564f6192a7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever."
+    },
+    {
+      "id": "84be48f27c6b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "To Land a Job in AI, Try Reading Kant",
+      "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?"
+    },
+    {
+      "id": "060fd7840d0c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+      "link": "https://www.wired.com/story/fact-checking-ai/",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks."
+    },
+    {
+      "id": "e1772e322829",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "거물 개발자들의 경고 \"클로드 코드는 망가진 도구...'바이브 슬롭' 위기 다가와\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210924",
+      "published": "2026-05-26T09:58:52+00:00",
+      "summary": "거물급 개발자인 마리오 제크너와 아르민 로나허가 AI 코딩 도구의 과도한 도입으로 ‘형편없는 코드’가 급증하고 있다고 주장했다. 이를 두고 ‘바이브 슬롭(vibe slop)’이라는 표현이 등장했다.이들은 22일(현지시간) 월스트리트저널(WSJ)과의 인터뷰에서 개발자들이 시스템 설계와 테스트 같은 핵심 엔지니어링 과정을 생략한 채 AI에게 “대충 만들어 달라”고 지시하면서 장기적으로 유지 불가능한 소프트웨어가 양산되고 있다고 지적했다.제크너는 “현재 인프라는 무너져가고 있고, 소프트웨어는 예전보다 "
+    },
+    {
+      "id": "84a3bef9b092",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 AI 스튜디오, 일주일 만에 앱 25만개 쏟아져...\"99%가 초보자\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210915",
+      "published": "2026-05-26T09:27:13+00:00",
+      "summary": "구글 AI 스튜디오(Google AI Studio)에 네이티브 안드로이드 앱 생성 기능을 추가한 지 일주일 만에 25만개 이상의 앱이 생성된 것으로 알려졌다. 구글은 지난 19일(현지시간) 열린 'I/O 2026'에서 AI 스튜디오의 대규모 업데이트를 공개했다. 핵심은 사용자가 별도의 개발 환경 구축이나 전문 코딩 지식 없이도 프롬프트 입력만으로 실제 배포 가능한 안드로이드 앱을 무료로 제작할 수 있도록 한 점이다.이어 26일에는 로건 킬패트릭 AI 스튜디오 책임자가 X를 통해 \"지난주 출시 이후"
+    },
+    {
+      "id": "89df2f6128b3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배경훈 부총리 \"국방·안보엔 외산 AI 어렵다…통제 가능한 자체 모델 필요\"",
+      "link": "https://zdnet.co.kr/view/?no=20260526181100",
+      "published": "2026-05-26T09:12:17+00:00",
+      "summary": "[지디넷코리아]정부가 글로벌 빅테크 중심의 인공지능(AI) 경쟁 속에서 국가 안보와 산업 경쟁력을 지키기 위해 '통제 가능한 자체 AI 모델' 확보가 필요하다는 입장을 밝혔다. AI 도입의 성과가 기업에만 집중되지 않고 국민 전체가 체감할 수 있는 'AI 포용 사회'를 구축하겠다는 방향도 제시했다.배경훈 부총리 겸 과학기술정보통신부 장관은 26일 미국 경제매체 CNBC와의 인터뷰에서 한국의 AI 전략과 자체 모델 필요성에 대해 이같이 밝혔다.이날 인터뷰에서 배 부총리는 한국형 AI 모델이 정부 지"
+    },
+    {
+      "id": "6ffb2d6c99e0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바클레이즈 “휴머노이드 로봇, 중국 노동력 감소분 60% 메운다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210934",
+      "published": "2026-05-26T09:08:22+00:00",
+      "summary": "휴머노이드 로봇이 중국의 급격한 인구 감소와 노동력 부족 문제를 상당 부분 완화할 것으로 예측됐다. 영국 투자은행 바클레이즈는 앞으로 10년간 중국 노동인구 감소분의 최대 60%를 휴머노이드 로봇이 메울 수 있으며, 이는 중국 경제와 글로벌 산업 구조를 바꾸는 핵심 변수가 될 것이라고 분석했다.바클레이즈 리서치는 19일(현지시간) 발간한 ‘에쿼티 길트 스터디(Equity Gilt Study)’를 통해 “피지컬 AI가 디지털 영역을 넘어 실제 경제 전반으로 퍼지고 있다”라며 “휴머노이드 로봇이 생산"
+    },
+    {
+      "id": "9acbc5cd73ca",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'길거리 음식 인플루언서'가 된 젠슨 황, 대만 야시장 먹방 또 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210947",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 또다시 길거리 먹방을 선보여 화제다. 이제는 엔비디아도 SNS 계정을 통해 이를 공식 중계했는데, 그에게는 '길거리 음식 인플루언서'라는 별명도 붙었다.엔비디아는 25일 X 뉴스룸 계정을 통해 황 CEO가 대만 라오허 거리 야시장을 찾은 사진과 영상 등 6건의 게시물을 공개했다. 여기에는 황 CEO가 부모님과 식사하는 장면과 취재진에 튀긴 만두를 나눠주는 모습, 길거리 음식을 구입해 맛보는 모습 등이 포함됐다.또 한 팬이 올린 영상에는 그가 방문한 식당의 화장실 벽에 \""
+    },
+    {
+      "id": "64e637a11961",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "A reality check on the AI jobs hysteria",
+      "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer o"
+    },
+    {
+      "id": "652f4f9f548b",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hidin"
+    },
+    {
+      "id": "2646848f8f07",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아로마티카, 6년 연속 지속가능경영보고서 발간…\"K뷰티 ESG 체계 고도화\"",
+      "link": "https://zdnet.co.kr/view/?no=20260526175147",
+      "published": "2026-05-26T08:56:05+00:00",
+      "summary": "[지디넷코리아]아로마티카가 지속가능성을 브랜드 철학을 넘어 기업 운영 전반의 관리 체계로 확장하고 ESG 경영 고도화에 속도를 내고 있다. 글로벌 공시 기준과 제3자 검증 체계를 도입하는 한편 탄소중립과 생물다양성 대응까지 강화하며 K뷰티 업계의 지속가능경영 기준 마련에 나섰다.아로마테라피 기반 스칼프·스킨케어 브랜드 아로마티카(대표 김영균, 이준호)는 지난 한 해 동안의 ESG 경영 활동과 성과를 담은 ‘2025 지속가능경영보고서’를 발간했다고 26일 밝혔다.아로마티카는 2020년부터 6년 연속"
+    },
+    {
+      "id": "62fbfb498b69",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "은행·이커머스와 컨소시엄 만드는 토스…\"스테이블코인, 유통 방점\"",
+      "link": "https://zdnet.co.kr/view/?no=20260526140815",
+      "published": "2026-05-26T08:55:59+00:00",
+      "summary": "[지디넷코리아]토스(비바리퍼블리카)가 원화 스테이블코인 사업에 출사표를 던졌다. 단순 발행 경쟁 대신 ‘유통 동맹’ 전략을 꺼내 들었다. 최대한 많은 사업자를 컨소시엄에 끌어들여 스테이블코인 사용처와 유통망을 선점하겠다는 구상이다.서창훈 토스 신사업 담당 상무는 지난 7일 서울 강남구 토스 사무실에서 기자와 만나 원화 스테이블코인 컨소시엄 구상과 사업 전략을 설명했다.토스가 유통 전략에 무게를 둔 배경에는 미국과 다른 국내 시장 구조가 있다. 국내는 미국처럼 단기 국채 기반 이자수익을 크게 기대하"
+    },
+    {
+      "id": "4f63032fe8bc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "모건 스탠리 \"AI 관련 M&A, 모델 넘어 전력·인프라까지 전방위 확산\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210937",
+      "published": "2026-05-26T08:48:30+00:00",
+      "summary": "AI 경쟁이 격화되면서 글로벌 기술 업계 전반에서 대규모 인수합병(M&A)이 본격화할 것이라는 전망이 나왔다. AI 모델 기업뿐 아니라 반도체와 전력, 네트워킹, 데이터센터 인프라 등 AI 생태계 전반에서 거래가 확대될 것이라는 분석이다.모건 스탠리의 글로벌 기술 M&A 책임자인 월리 쳉은 최근 블룸버그TV 인터뷰에서 “앞으로 AI 관련 거래는 상장·비상장기업을 가리지 않고 전 영역에서 활발해질 것”이라며 “기업들이 AI 시대의 기술 격차를 메우기 위해 공격적으로 움직이고 있다”라고 밝혔다.그는 "
+    },
     {
       "id": "4879779c4f5c",
       "source": "AI타임스",
@@ -12,6 +386,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210941",
       "published": "2026-05-26T08:40:50+00:00",
       "summary": "지난해 전 세계 웹 방문이 전년에 비해 줄어든 것으로 알려졌다. 이와는 반대로, AI 플랫폼 방문 수는 크게 증가했다.글로벌 마켓 분석 전문 센서타워는 ‘2026년 웹 현황’ 리포트를 26일 공개했다.이에 따르면, 데스크톱 및 모바일을 포함한 56개 시장 기준 전체 웹 방문 수는 2025년 약 8조건을 기록했으며, 전년 대비 1.8% 감소한 것으로 나타났다. 웹 사용 시간은 더욱 큰 폭으로 감소, 5% 줄어든 1조6000억 시간을 기록했다.하지만, AI 플랫폼 방문 수는 눈에 띄게 급증했다. 20"
+    },
+    {
+      "id": "c2c63d4f447e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오게임즈 '우마무스메', 4주년 페스티벌 6월 13일 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260526174046",
+      "published": "2026-05-26T08:40:46+00:00",
+      "summary": "[지디넷코리아]카카오게임즈(대표 한상우)가 국내 서비스 중인 '우마무스메 프리티 더비'(이하 우마무스메) 4주년을 기념해 대규모 오프라인 행사를 개최한다.카카오게임즈는 사이게임즈가 개발한 '우마무스메' 국내 서비스 4주년을 맞아 대규모 오프라인 행사 4주년 페스티벌을 개최한다고 26일 밝혔다.이번 행사는 다음달 13일 일산 킨텍스 제2전시장에서 열린다.행사장에서는 무대 프로그램과 체험형 어트랙션, 전시 공간 등 다양한 콘텐츠가 마련된다. 지난해 행사에서 호응을 얻었던 무대 프로그램을 확대한다. 무"
+    },
+    {
+      "id": "a84171fdab18",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "선익시스템, LGD와 6세대 R&D용 증착기 공급계약...내년 가동 전망",
+      "link": "https://zdnet.co.kr/view/?no=20260526172149",
+      "published": "2026-05-26T08:38:47+00:00",
+      "summary": "[지디넷코리아]선익시스템이 LG디스플레이와 유기발광다이오드(OLED) 증착장비 공급계약을 체결했다고 26일 공시했다. 계약금액은 공개하지 않았다. 계약 종료일은 내년 5월이다. 선익시스템이 구체적으로 밝히지 않았지만, 해당 장비는 LG디스플레이의 6세대 연구개발(R&D)용 OLED 라인 구축에 사용할 예정이다. 규모는 6세대 유리원판 투입 기준 월 7500장(7.5K)이다. 당장 양산을 목표로 구축하는 라인은 아니어서, LG디스플레이의 기존 애플 아이폰 OLED 생산능력인 월 45K, 아이패드 O"
+    },
+    {
+      "id": "698ce708f68e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥써쓰, '프로스트 킹덤' 비공개 테스트 6월 4일 시작…토크노믹스 검증 집중",
+      "link": "https://zdnet.co.kr/view/?no=20260526173134",
+      "published": "2026-05-26T08:31:34+00:00",
+      "summary": "[지디넷코리아]넥써쓰(대표 장현국)가 첫 단독 퍼블리싱 타이틀 '프로스트 킹덤' 비공개 테스트(CBT)를 통해 토크노믹스 경제 시스템을 검증한다.넥써쓰는 전략 시뮬레이션 신작 프로스트 킹덤 CBT를 실시한다고 26일 밝혔다.이번 CBT는 다음달 4일 오전 11시부터 시작해 10일까지 약 7일간 진행된다. 핵심 목적은 멀티 토큰 기반 토크노믹스 경제 시스템의 데이터 확보와 경제 밸런스 검증이다.테스트 기간 중 참여자가 사용한 금액은 출시 후 블루 다이아(게임 재화)로 100% 환급할 예정이다.프로스"
     },
     {
       "id": "dd2ccf0a4068",
@@ -133,6 +540,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210940",
       "published": "2026-05-26T07:46:38+00:00",
       "summary": "광양시가 타악과 국악, 비보잉을 결합한 국악 뮤지컬 공연을 시민에게 선보인다.광양은 오는 6월12일 오후 7시30분 광양문화예술회관 대공연장에서 국악 뮤지컬 ‘판타스틱(Fanta-Stick)’을 개최한다.이번 공연은 문화체육관광부가 후원하고 예술경영지원센터가 주최하는 ‘2026 공연예술 지역유통 지원사업’ 공모에 광양시가 선정되면서 마련됐다. ‘판타스틱’은 타악기, 국악, 퓨전음악, 비보잉을 결합한 비언어 공연으로 남녀노소 누구나 관람할 수 있도록 구성됐다.작품은 신화 ‘자명고’와 ‘아리랑’을 바"
+    },
+    {
+      "id": "dfe8ee0dc0b3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "link": "https://dynip.dev/",
+      "published": "2026-05-26T07:35:20+00:00",
+      "summary": "Article URL: https://dynip.dev/ Comments URL: https://news.ycombinator.com/item?id=48276363 Points: 236 # Comments: 94"
     },
     {
       "id": "782f7cba3f89",
@@ -520,6 +938,17 @@
       "summary": "[지디넷코리아]저비용·고효율 수소생산이 가능한 차세대 전극이 개발됐다.광주과학기술원(GIST)은 주종훈 환경·에너지공학과 교수 연구팀이 건국대학교 이장용 교수 연구팀, 한국화학연구원 김성준 박사 연구팀과 공동으로 차세대 그린수소 생산 장치의 성능과 내구성을 높일 수 있는 ‘일체형 비귀금속 다공성 전극’을 개발했다고 26일 밝혔다.이 전극은 수소 생산 과정에서 산소 반응을 담당하는 촉매 기능과 물·기체 이동을 돕는 전달 기능을 하나의 구조로 통합한 것이 특징이다.최근 탄소중립 실현을 위한 ‘그린수소"
     },
     {
+      "id": "10bf146fb269",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How Shamir's Secret Sharing Works",
+      "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "published": "2026-05-25T22:37:24+00:00",
+      "summary": "Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/ Comments URL: https://news.ycombinator.com/item?id=48272715 Points: 307 # Comments: 54"
+    },
+    {
       "id": "d671f4917d3d",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -562,6 +991,17 @@
       "link": "https://thefrontpage.dev/",
       "published": "2026-05-25T20:12:29+00:00",
       "summary": "Article URL: https://thefrontpage.dev/ Comments URL: https://news.ycombinator.com/item?id=48271127 Points: 239 # Comments: 69"
+    },
+    {
+      "id": "501904e51bec",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "published": "2026-05-25T19:43:45+00:00",
+      "summary": "Article URL: https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/ Comments URL: https://news.ycombinator.com/item?id=48270812 Points: 214 # Comments: 157"
     },
     {
       "id": "ad830fcc7111",
@@ -639,6 +1079,17 @@
       "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026-2/",
       "published": "2026-05-25T17:20:48+00:00",
       "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models end tonight."
+    },
+    {
+      "id": "9ff395f44d54",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "link": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "published": "2026-05-25T16:20:36+00:00",
+      "summary": "Article URL: https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html Comments URL: https://news.ycombinator.com/item?id=48268609 Points: 249 # Comments: 104"
     },
     {
       "id": "3ce2fc71defe",
@@ -3873,6 +4324,17 @@
       "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
       "published": "2026-05-20T21:07:38+00:00",
       "summary": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub-owned repositories appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "cf36cd3c7f7a",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
+      "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "published": "2026-05-20T21:07:38+00:00",
+      "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog ."
     },
     {
       "id": "99e0f30e9045",
