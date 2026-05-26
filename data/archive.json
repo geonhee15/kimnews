@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-26T22:12:30.635297+00:00",
-  "count": 499,
+  "updated_at": "2026-05-26T23:34:18.493534+00:00",
+  "count": 505,
   "items": [
+    {
+      "id": "f2abd5acdc79",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+      "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+      "published": "2026-05-26T23:19:03+00:00",
+      "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series."
+    },
+    {
+      "id": "b6d365cb0289",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "딥시크, V4-프로 API 가격 75% ‘영구 인하’…GPT-5.5의 34분의 1",
+      "link": "https://zdnet.co.kr/view/?no=20260527075929",
+      "published": "2026-05-26T22:59:29+00:00",
+      "summary": "[지디넷코리아]중국 딥시크(DeepSeek)가 플래그십 모델 ‘V4-Pro’의 API 가격을 75% 영구 인하한다고 5월 23일(현지시간) 밝혔다. 당초 5월 31일 종료 예정이던 한시 프로모션 가격을 상시 가격으로 굳히는 결정으로, 회사는 공식 홈페이지·API 문서를 통해 이를 공지했고 블룸버그·엔가젯 등이 보도했다. ‘반짝 할인’이 아니라 정가 자체를 4분의 1로 낮춘 것이어서 의미가 다르다.새 가격은 100만 토큰당 입력 0.435달러, 출력 0.87달러, 캐시 히트 0.003625달러다. "
+    },
+    {
+      "id": "a0296726eec5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+      "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+      "published": "2026-05-26T22:37:46+00:00",
+      "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it."
+    },
+    {
+      "id": "753e88fca5c2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "published": "2026-05-26T22:32:56+00:00",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
+    },
     {
       "id": "ccaae9929f8d",
       "source": "AI타임스",
@@ -155,6 +199,17 @@
       "link": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
       "published": "2026-05-26T16:07:39+00:00",
       "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes fro"
+    },
+    {
+      "id": "76b0e2f200f1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The real cost of owning a home",
+      "link": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "published": "2026-05-26T16:04:39+00:00",
+      "summary": "Article URL: https://ericturner.dev/posts/cost-of-home-ownership/ Comments URL: https://news.ycombinator.com/item?id=48281611 Points: 229 # Comments: 540"
     },
     {
       "id": "2f4ba555dca4",
@@ -1178,6 +1233,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
       "published": "2026-05-25T21:07:42+00:00",
       "summary": "In an age of AI, Pope looks for \"artisans of hope.\""
+    },
+    {
+      "id": "5474b47f8f65",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A few interesting modern pixel fonts",
+      "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "published": "2026-05-25T20:41:49+00:00",
+      "summary": "Article URL: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/ Comments URL: https://news.ycombinator.com/item?id=48271448 Points: 207 # Comments: 48"
     },
     {
       "id": "51565c0bc19c",
