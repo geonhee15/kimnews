@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-26T20:36:15.111073+00:00",
-  "count": 492,
+  "updated_at": "2026-05-26T22:12:30.635297+00:00",
+  "count": 499,
   "items": [
+    {
+      "id": "ccaae9929f8d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[5월26일] AI 기업의 IPO 러시…\"자금은 충분, 이제는 ROI\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210919",
+      "published": "2026-05-26T22:00:00+00:00",
+      "summary": "지난주 스페이스X의 기업공개(IPO) 신청을 시작으로 올해에는 미국 사상 최대 규모의 IPO 러시가 펼쳐지게 됐습니다.앤트로픽은 오는 10월 상장을 추진하고 있으며, 오픈AI는 이보다 앞서 신청할 가능성이 거론되고 있습니다.하지만 디 인포메이션에 따르면, 샘 알트먼 오픈AI CEO는 지난주 회사 전체 회의를 통해 IPO를 신청하더라도 실제 상장은 보류할 수도 있다고 시사했습니다. 그는 기업공개(IPO) 신청과 상장 준비는 다르다고 지적하며, 회사가 준비될 때까지 상장하지 않을 것이라고 말했다는 것"
+    },
+    {
+      "id": "58a492d55cfd",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo",
+      "link": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
+      "published": "2026-05-26T20:47:31+00:00",
+      "summary": "Sub-$600 laptops have existed for years, but consistently good ones remain rare."
+    },
+    {
+      "id": "5fd8fe5cf727",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "published": "2026-05-26T20:46:03+00:00",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley."
+    },
     {
       "id": "9c08a8017654",
       "source": "Wired",
@@ -64,6 +97,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "10 weird OSS projects you need to know about...",
+      "link": "https://www.youtube.com/watch?v=qPuzWFvRajk",
+      "published": "2026-05-26T17:53:11+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1aa319ce5193",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "10 weird OSS projects you need right now...",
       "link": "https://www.youtube.com/watch?v=qPuzWFvRajk",
       "published": "2026-05-26T17:53:11+00:00",
       "summary": ""
@@ -223,6 +267,17 @@
       "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of"
     },
     {
+      "id": "081e4d9d164b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dropbox CEO Drew Houston to step down",
+      "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "published": "2026-05-26T13:18:33+00:00",
+      "summary": "https://blog.dropbox.com/topics/company/dropbox-leadership-u... Comments URL: https://news.ycombinator.com/item?id=48279453 Points: 223 # Comments: 261"
+    },
+    {
       "id": "9872fcc7b888",
       "source": "Wired",
       "kind": "article",
@@ -254,6 +309,17 @@
       "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
       "published": "2026-05-26T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that "
+    },
+    {
+      "id": "f7d7e66ec15a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "published": "2026-05-26T12:08:33+00:00",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/ Comments URL: https://news.ycombinator.com/item?id=48278610 Points: 212 # Comments: 230"
     },
     {
       "id": "246ae7351893",
@@ -386,6 +452,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210924",
       "published": "2026-05-26T09:58:52+00:00",
       "summary": "거물급 개발자인 마리오 제크너와 아르민 로나허가 AI 코딩 도구의 과도한 도입으로 ‘형편없는 코드’가 급증하고 있다고 주장했다. 이를 두고 ‘바이브 슬롭(vibe slop)’이라는 표현이 등장했다.이들은 22일(현지시간) 월스트리트저널(WSJ)과의 인터뷰에서 개발자들이 시스템 설계와 테스트 같은 핵심 엔지니어링 과정을 생략한 채 AI에게 “대충 만들어 달라”고 지시하면서 장기적으로 유지 불가능한 소프트웨어가 양산되고 있다고 지적했다.제크너는 “현재 인프라는 무너져가고 있고, 소프트웨어는 예전보다 "
+    },
+    {
+      "id": "e74df58b217f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "거물 개발자 경고 \"클로드 코드는 망가진 도구...'바이브 슬롭' 위기\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210924",
+      "published": "2026-05-26T09:58:52+00:00",
+      "summary": "거물급 개발자 마리오 제크너와 아르민 로나허가 AI 코딩 도구의 과도한 도입으로 ‘형편없는 코드’가 급증하고 있다고 주장했다. 이를 두고 ‘바이브 슬롭(vibe slop)’이라는 표현이 등장했다.이들은 22일(현지시간) 월스트리트저널(WSJ)과의 인터뷰에서 개발자들이 시스템 설계와 테스트 같은 핵심 엔지니어링 과정을 생략한 채 AI에게 “대충 만들어 달라”고 지시하면서 장기적으로 유지 불가능한 소프트웨어가 양산되고 있다고 지적했다.제크너는 “현재 인프라는 무너져가고 있고, 소프트웨어는 예전보다 훨"
     },
     {
       "id": "84a3bef9b092",
