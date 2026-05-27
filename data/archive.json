@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-05-27T14:03:22.865468+00:00",
-  "count": 585,
+  "updated_at": "2026-05-27T17:33:57.554299+00:00",
+  "count": 604,
   "items": [
+    {
+      "id": "0f61ad393e31",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Valve raises Steam Deck prices by hundreds of dollars",
+      "link": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "published": "2026-05-27T17:32:48+00:00",
+      "summary": "Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As I write this, both models are available to buy on Steam with an estimated delivery"
+    },
+    {
+      "id": "f9c5145e0dae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "published": "2026-05-27T16:59:19+00:00",
+      "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software."
+    },
+    {
+      "id": "08f1263814dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "published": "2026-05-27T16:00:00+00:00",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says."
+    },
+    {
+      "id": "66af563edef3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "published": "2026-05-27T15:40:00+00:00",
+      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the "
+    },
+    {
+      "id": "bf154384a035",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Last.fm is now independent",
+      "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "published": "2026-05-27T15:36:09+00:00",
+      "summary": "Article URL: https://support.last.fm/t/last-fm-is-now-independent/118591 Comments URL: https://news.ycombinator.com/item?id=48295892 Points: 259 # Comments: 80"
+    },
+    {
+      "id": "a20569c2cc8d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s how Google is responding to Fitbit users who don’t like the new Health app",
+      "link": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
+      "published": "2026-05-27T15:28:43+00:00",
+      "summary": "After a flood of complaints about the Google Health app that just replaced Fitbit, Google has responded with a list of changes that will roll out starting this week. Google is addressing some of the biggest complaints users had, like the Today dashboard that can only show users' "
+    },
+    {
+      "id": "9d1d392699a8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Like Ferrari's Luce EV. But This Is Why It's Heartbreaking",
+      "link": "https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/",
+      "published": "2026-05-27T15:07:48+00:00",
+      "summary": "Designed by Jony Ive and a host of ex-Cupertino colleagues, the Luce shows us what might have been had Apple made good on its $10 billion bet."
+    },
+    {
+      "id": "8d5d1f364ff7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "published": "2026-05-27T15:06:01+00:00",
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app."
+    },
+    {
+      "id": "121a07a42bde",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Drone Ports and Funding Mayhem: Trump's Ballroom Has Turned Toxic",
+      "link": "https://www.wired.com/story/drone-ports-and-funding-mayhem-trumps-ballroom-takes-on-congress/",
+      "published": "2026-05-27T15:00:00+00:00",
+      "summary": "“Republicans are just going to have to suck it up and get it done,” says one Trump aide about the funding melee. The votes, though, may simply not be there."
+    },
+    {
+      "id": "5779113897da",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
+      "link": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
+      "published": "2026-05-27T14:44:07+00:00",
+      "summary": "The ban for model year 2027 onward began under Biden and has been enacted by Trump."
+    },
+    {
+      "id": "1a3ab32d3342",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "published": "2026-05-27T14:36:10+00:00",
+      "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches t"
+    },
+    {
+      "id": "8f6a4d5d7989",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+      "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "published": "2026-05-27T14:14:10+00:00",
+      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track."
+    },
     {
       "id": "6335bd9e2c6a",
       "source": "TechCrunch",
@@ -12,6 +144,17 @@
       "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
       "published": "2026-05-27T14:00:00+00:00",
       "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds."
+    },
+    {
+      "id": "2604bd581ae6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+      "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "published": "2026-05-27T14:00:00+00:00",
+      "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously."
     },
     {
       "id": "7415310ddeaf",
@@ -89,6 +232,17 @@
       "link": "https://www.theverge.com/gadgets/937935/redmagic-11s-pro-launch-specs-price",
       "published": "2026-05-27T12:04:42+00:00",
       "summary": "Nubia has announced the international launch of the Redmagic 11S Pro, its new flagship Android gaming phone. It's not a significant change from the 11 Pro, which launched internationally last November, but has been upgraded to the overclocked Snapdragon 8 Elite Gen 5 Leading Vers"
+    },
+    {
+      "id": "fb3b0a30c1d6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Private Equity Bought America's Essential Services",
+      "link": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "published": "2026-05-27T12:00:53+00:00",
+      "summary": "Article URL: https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/ Comments URL: https://news.ycombinator.com/item?id=48292941 Points: 313 # Comments: 364"
     },
     {
       "id": "62b8b5d4ec55",
@@ -432,6 +586,28 @@
       "summary": "미국 연방대법원이 메타의 인스타그램 청소년 중독 관련 소송을 막아달라는 요청을 기각하면서, 소셜미디어 기업들의 아동·청소년 안전 책임을 둘러싼 법적 압박이 한층 거세지고 있다.로이터에 따르면, 미 연방대법원은 26일(현지시간) 메타가 제기한 상고를 받아들이지 않고, 버몬트주가 제기한 소송을 계속 진행할 수 있도록 한 하급심 판단을 유지했다.메타는 버몬트주 법원이 해당 사건을 심리할 관할권이 없다고 주장했지만 받아들여지지 않았다.이번 사건은 미국 전역에서 벌어지고 있는 ‘소셜미디어 중독’ 소송의 일"
     },
     {
+      "id": "06aa813cea52",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "published": "2026-05-27T08:20:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "254e6772d1a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "All of human cooking compressed into 2 megabytes",
+      "link": "https://arxiv.org/abs/2605.22391",
+      "published": "2026-05-27T08:14:40+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2605.22391 Comments URL: https://news.ycombinator.com/item?id=48291225 Points: 252 # Comments: 93"
+    },
+    {
       "id": "9b1010fc63a2",
       "source": "AI타임스",
       "kind": "article",
@@ -496,6 +672,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210978",
       "published": "2026-05-27T05:23:35+00:00",
       "summary": "보스턴 다이내믹스가 월드컵 개막에 맞춰 축구하는 휴머노이드 영상을 공개했다.보스턴 다이내믹스가 26일(현지시간) 공개한 영상에 따르면, 휴머노이드 아틀라스는 축구 선수들의 다양한 동작을 소화했다. 여기에는 풋워크와 페인팅, 드릴 등 몸풀기 동작이 포함됐으며, 골을 넣은 뒤 세리머니와 갑자기 뒤로 넘어지는 할리우드 액션 장면까지 연출됐다. 이를 통해 순발력과 운동 신경이 필요한 다양한 동작을 소화할 수 있다는 것을 과시했다.이번 영상 공개는 모회사인 현대자동차 그룹이 피파 월드컵의 공식 후원에 따른"
+    },
+    {
+      "id": "37e18c175416",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "link": "https://arps18.github.io/posts/claude-code-mastery/",
+      "published": "2026-05-27T05:13:39+00:00",
+      "summary": "Article URL: https://arps18.github.io/posts/claude-code-mastery/ Comments URL: https://news.ycombinator.com/item?id=48289950 Points: 250 # Comments: 198"
     },
     {
       "id": "da27cae5be32",
@@ -1026,6 +1213,17 @@
       "summary": ""
     },
     {
+      "id": "632e846f0bb2",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Google DeepMind CEO Loves Hard Questions 🙂",
+      "link": "https://www.youtube.com/shorts/kIvvzCR5NjA",
+      "published": "2026-05-26T17:35:28+00:00",
+      "summary": ""
+    },
+    {
       "id": "b3baa9d45b3b",
       "source": "Ars Technica",
       "kind": "article",
@@ -1088,6 +1286,17 @@
       "lang": "en",
       "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
       "link": "https://huggingface.co/blog/delta-weight-sync",
+      "published": "2026-05-26T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ec19fb3fb428",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Reachy Mini goes fully local",
+      "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
       "published": "2026-05-26T15:00:00+00:00",
       "summary": ""
     },
