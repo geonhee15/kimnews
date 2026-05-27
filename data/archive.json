@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-05-27T06:16:45.201115+00:00",
-  "count": 537,
+  "updated_at": "2026-05-27T10:36:49.535708+00:00",
+  "count": 565,
   "items": [
+    {
+      "id": "59057a9725d1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아 '베라 CPU', 벤치마크서 인텔·AMD 최신 서버 칩 압도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210971",
+      "published": "2026-05-27T10:15:19+00:00",
+      "summary": "엔비디아의 차세대 데이터센터용 CPU ‘베라(Vera)’가 초기 벤치마크에서 인텔과 AMD의 최신 x86 서버 프로세서를 뛰어넘는 성능을 기록하며 주목받고 있다. 특히 에이전트형 AI(Agentic AI)와 AI 팩토리 환경에 최적화된 설계가 실제 테스트에서도 강력한 성능으로 이어졌다는 평가다.리눅스 전문 매체 포로닉스가 26일(현지시간) 공개한 초기 테스트 결과에 따르면, 엔비디아가 자체 설계한 ‘올림푸스(Olympus)’ 코어를 기반으로 하는 베라는 기존 Arm 서버 CPU와는 차원이 다른 경"
+    },
+    {
+      "id": "b2a99fb50d21",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "구글 전 CEO가 졸업식 축사하다 야유 받은 이유",
+      "link": "https://www.youtube.com/shorts/d9Gne8PI9D4",
+      "published": "2026-05-27T10:13:11+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3d4884a68655",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼 \"AI '일자리 대란' 예측 틀려서 다행…인간 교감은 AI로 대체 불가능\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210969",
+      "published": "2026-05-27T10:07:33+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 AI가 대규모 화이트칼라 일자리를 빠르게 대체할 것이라는 자신의 과거 전망이 빗나갔다고 인정했다. AI 기술 발전 속도는 예상대로였지만, 사회적·경제적 충격은 당초 우려보다 훨씬 제한적이었다는 평가다.알트먼 CEO는 26일 호주 시드니에서 열린 호주 커먼웰스 은행(CBA) 기술 컨퍼런스에 화상으로 참석, “AI로 인해 글로벌 ‘일자리 대란’이 발생할 것이라고 보지 않는다”라고 말했다.그는 2022년 '챗GPT' 출시 당시 오픈AI 내부에서 AI 발전이 초급 화이트칼라 "
+    },
+    {
+      "id": "5b23dd622ed1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“코딩 벤치마크 오염 논란”…새 평가서 GPT-5.5 압승·클로드 ‘치팅’ 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210988",
+      "published": "2026-05-27T09:55:49+00:00",
+      "summary": "AI 코딩 모델 성능을 평가하는 기존 벤치마크가 실제 개발 환경을 제대로 반영하지 못하고 있다는 비판이 제기됐다. 새롭게 공개된 벤치마크에서는 오픈AI의 'GPT-5.5'가 경쟁 모델들을 큰 격차로 앞섰으며, 앤트로픽의 클로드 일부 모델은 평가 과정에서 사실상 ‘정답 훔치기’에 가까운 행동을 보였다는 분석까지 나왔다.스타트업 데이터커브는 25일(현지시간) 새로운 AI 코딩 평가 시스템 ‘딥SWE(DeepSWE)’를 공개했다.데이터커브는 현재 업계 표준처럼 사용되는 스케일 AI의 'SWE-벤치 프로"
+    },
+    {
+      "id": "5cebf3dada3e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 코딩으로 웹 움직이는 에이전트 ‘웹라이트’ 공개…“클릭 대신 터미널로 제어”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210980",
+      "published": "2026-05-27T09:32:47+00:00",
+      "summary": "AI 웹 에이전트가 단순한 클릭 자동화 수준을 넘어, 직접 코드를 작성해 작업을 수행하는 방향으로 진화하고 있다. 마이크로소프트(MS)는 최근 브라우저 화면을 단계별로 조작하던 기존 방식 대신, AI가 코드를 생성해 웹 업무를 처리하는 오픈소스 프레임워크 ‘웹라이트(Webwright)’를 공개했다. 기존 웹 AI 에이전트는 화면 정보나 웹페이지 구조(DOM)를 보고 클릭·스크롤·입력 같은 행동을 하나씩 수행하는 방식으로 작동했다. 반면, 웹라이트는 AI에게 브라우저 대신 ‘터미널’을 제공한다. A"
+    },
+    {
+      "id": "f0e3b5ea69ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[유미's 픽] 로봇·AI 열풍에 뒤집힌 SI주 판도…삼성SDS·LG CNS·현대오토에버 질주",
+      "link": "https://zdnet.co.kr/view/?no=20260527182618",
+      "published": "2026-05-27T09:32:30+00:00",
+      "summary": "[지디넷코리아]국내 시스템통합(SI) 기업들이 인공지능(AI) 인프라와 피지컬 AI 수혜주로 재평가받고 있다. 과거 그룹 내부 전산 시스템 구축과 운영을 맡던 IT 계열사들이 AI 데이터센터, 로봇 관제, 스마트팩토리, 클라우드 등 차세대 사업의 핵심 실행 주체로 부상하면서 주가와 시가총액 판도까지 흔들고 있다.27일 한국거래소에 따르면 삼성SDS는 전일 대비 29.78% 오른 26만1500원에 거래를 마치며 52주 신고가를 기록했다. 2014년 11월 상장 이후 첫 상한가다. 현대오토에버도 이날"
+    },
+    {
+      "id": "cd29b89a3e99",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "컴투스플랫폼, 대만 디김과 협력…게임 백엔드 '하이브' 영토 넓힌다",
+      "link": "https://zdnet.co.kr/view/?no=20260527183123",
+      "published": "2026-05-27T09:31:23+00:00",
+      "summary": "[지디넷코리아]컴투스플랫폼(대표 최석원)이 자체 게임 백엔드 '하이브'의 중화권 시장 진출을 가속화한다.컴투스플랫폼은 대만 퍼블리셔 디김과 전략적 파트너십을 체결했다고 27일 밝혔다.양사는 이번 협력을 통해 중화권 시장 내 게임 서비스 경쟁력을 강화할 계획이다. 디김은 향후 선보일 PC 및 모바일 게임 라인업에 컴투스플랫폼의 올인원 게임 백엔드 서비스 하이브 적용을 우선 검토한다.하이브는 인증, 결제, 데이터 분석 등 게임 서비스 운영에 필요한 핵심 기능을 단일 소프트웨어 개발 키트(SDK) 형태"
+    },
+    {
+      "id": "f591ae09ff25",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 혁신하는 기업의 챗GPT 엔터프라이즈 활용법, 무엇이 다를까",
+      "link": "https://zdnet.co.kr/view/?no=20260527182940",
+      "published": "2026-05-27T09:31:11+00:00",
+      "summary": "[지디넷코리아]\"같은 챗GPT를 써도 기업마다 결과는 완전히 달라집니다. 중요한 건 도구가 아니라 이를 조직 데이터와 업무에 얼마나 깊게 연결하느냐입니다.\"LG CNS 김희영 팀장은 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 'AX 페어 2026'에서 챗GPT 엔터프라이즈 활용 사례를 소개했다. 그는 단순히 개인 생산성 향상 위해 AI를 활용하는 것이 아니라 팀과 조직 차원의 업무 혁신 실현 방안을 제시했다.김 팀장은 현재 국내 챗GPT 월간활성사용자수(MAU)는 2300만 명"
+    },
+    {
+      "id": "b3e1e809d9fe",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SKIET, '매출 절반' 증평 분리막 공장 반 년 뒤 접는다",
+      "link": "https://zdnet.co.kr/view/?no=20260527175007",
+      "published": "2026-05-27T09:26:19+00:00",
+      "summary": "[지디넷코리아]SK아이이테크놀로지(SKIET)가 매출 절반 가량을 담당하는 증평 분리막 공장 가동을 중단할 예정이다.SKIET는 증평공장 전체 생산라인에 대한 상업 가동을 오는 12월부터 중단한다고 27일 공시했다.해당 공장의 연간 생산능력 5억3000만㎡ 규모로, 지난해 매출 1177억원이 증평 공장에서 발생했다. 이는 전체 매출의 약 45% 수준이다.SKIET는 증평 공장이 초기 생산거점으로, 15년간 가동해 설비 노후화가 진행됐고 가동률 저하와 수익성 악화가 지속되면서 상업생산 유지의 경제성"
+    },
+    {
+      "id": "2b4144d9277f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국내 최대 '암호검증 컨퍼런스' 다음달 10일 열려",
+      "link": "https://zdnet.co.kr/view/?no=20260527181900",
+      "published": "2026-05-27T09:19:00+00:00",
+      "summary": "[지디넷코리아]암호모듈 검증과 양자내성암호(PQC), 암호 정책 등을 다루는 'CVC(Crypto Validation Conference) 2026'이 다음달 10일부터 11일까지 이틀간 양재 aT센터 그랜드홀에서 열린다.행사 등록은 무료고, 선착순 300명에 한해 접수가 가능하다. 다음달 4일까지 한국정보보호학회 홈페이지에서 내용을 확인하고, 별도의 신청링크를 통해 참가 등록을 하면 된다.국가정보원, 과학기술정보통신부가 주최하고 한국암호포럼(의장 곽진, 아주대학교 교수), 국가보안기술연구소(NS"
+    },
+    {
+      "id": "51bcc852e146",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '챗GPT 광고' 소상공인까지 확대…메타·구글에 정면 도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210960",
+      "published": "2026-05-27T09:15:20+00:00",
+      "summary": "오픈AI가 광고 사업 확대에 속도를 내고 있다. 초기에는 대형 브랜드 중심으로 운영하던 '챗GPT' 광고를 중소기업과 지역 상점까지 확대하며, 사실상 메타와 구글의 핵심 광고 시장에 정면 도전하는 모습이다.26일(현지시간) 디 인포메이션에 따르면, 오픈AI는 최근 광고 기술(ad tech) 기업들과 만나 자동차 세차장, 세탁소 같은 지역 기반 소상공인을 주요 고객으로 끌어들이는 전략을 설명했다.이를 위해 단순 노출형 광고를 넘어 구매, 예약, 문의 제출 등 실제 행동을 유도하는 ‘전환 중심(con"
+    },
+    {
+      "id": "90d77e32f73c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "리셀 주관 GIST·센싱플러스 컨소, 과기정통부 '유니콘' 될까",
+      "link": "https://zdnet.co.kr/view/?no=20260527181209",
+      "published": "2026-05-27T09:12:09+00:00",
+      "summary": "[지디넷코리아]광주과학기술원(GIST)과 교원창업기업 리셀(대표 이광희 신소재공학과 초빙석학교수) 및 센싱플러스(대표 김용욱) 컨소시엄(주관 리셀)이 과학기술정보통신부 ‘유니콘 프로젝트’에 최종 선정됐다.27일 GIST에 따르면 ‘유니콘 프로젝트’는 과기정통부가 공공연구기관 연구성과 사업화를 추진하는 3단계 프로그램이다. 스타트업을 10년 내 기업 가치 1조 원 이상으로 성장시키는 것이 목적이다.1단계에서는 초기 투자 유치와 기술 기반 사업화 성과 창출 지원, 기업이 이를 넘어서면 시장 검증을 거"
+    },
+    {
+      "id": "ee63616afdab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 일자리 우려 10% 미만...중국, AI '낙관론' 압도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210987",
+      "published": "2026-05-27T09:05:59+00:00",
+      "summary": "AI에 대한 중국 대중의 인식이 이례적으로 긍정적이라는 조사 결과가 나왔다. 상당수 중국인은 AI를 미래 성장과 고급 일자리 확대를 위한 기술로 인식하고 있으며, AI로 인한 일자리 감소를 우려하는 비율은 매우 낮은 것으로 나타났다.유니버시티 칼리지 런던(UCL)은 25일(현지시간) 영국 컨설팅업체 퍼블릭 퍼스트와 공동으로 실시한 중국 내 AI 인식 조사 결과를 발표했다.조사에 따르면, 응답자의 96%가 직장에서 매주 AI를 사용하고 있다고 답했다.또 응답자의 79%는 대학생들이 AI를 “효율적으"
+    },
+    {
+      "id": "ce8e09413998",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD SW 투데이] 플랜티넷, KISA와 금융사기 피해 예방 협력 外",
+      "link": "https://zdnet.co.kr/view/?no=20260527180222",
+      "published": "2026-05-27T09:02:22+00:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆플랜티넷, KISA와 금융사기 피해 예방 협력플랜티넷이 한국인터넷진흥원(KISA)과 전기통신 금융사기 피해 예방 및 공동 대응을 위한 업무협약을 체결했다. 이번 협약 주요 내용은 스미싱 등"
+    },
+    {
+      "id": "e33edbd90294",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "대만 검찰, '일본 경유' 엔비디아 AI 칩 중국 밀반출 첫 적발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210991",
+      "published": "2026-05-27T09:00:19+00:00",
+      "summary": "엔비디아 AI 칩이 일본을 거쳐 중국으로 밀반입된 정황을 대만 검찰이 포착하고 첫 공개 단속에 나섰다. 블룸버그는 26일(현지시간) 대만 지룽지검이 최근 슈퍼마이크로 컴퓨터 서버 수출 서류를 위조한 혐의로 3명을 구금했다고 보도했다. 실제 밀반입된 장비 규모는 공개되지 않았다.이들은 미국 정부 허가 없이는 중국 수출이 금지된 엔비디아 고성능 AI 칩이 탑재된 서버를 일본으로 먼저 수출한 뒤 최종적으로 중국에 전달하려 한 혐의를 받고 있다.검찰은 이 과정에서 50여대의 서버를 압수했다. 피의자들이 "
+    },
+    {
+      "id": "3188c1996fde",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷마블 '왕좌의게임: 킹스로드', 28일 개발자 라이브 방송 예고",
+      "link": "https://zdnet.co.kr/view/?no=20260527175427",
+      "published": "2026-05-27T09:00:03+00:00",
+      "summary": "[지디넷코리아]넷마블(대표 김병규)이 오픈월드 액션 RPG '왕좌의 게임: 킹스로드' 개발자 라이브 방송 '온 더 로드(On the road)'를 28일 오후 7시 공식 유튜브 채널을 통해 생방송으로 진행한다.넷마블은 신작 '왕좌의 게임: 킹스로드' 개발자 라이브 방송을 진행한다고 27일 밝혔다.이번 라이브 방송은 왕좌의 게임: 킹스로드 공식 유튜브 채널에서 진행된다. 방송에는 문준기 넷마블 사업본부장을 비롯해 장현일 넷마블네오 PD, 이현경 아나운서가 자리한다. 게임 출시 후 처음 진행되는 업데"
+    },
+    {
+      "id": "bb0bc0692d36",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 1년 만에 AI 에이전트 절반 사라진 LG전자…AX 성공 열쇠는 '이것'",
+      "link": "https://zdnet.co.kr/view/?no=20260527175217",
+      "published": "2026-05-27T08:54:12+00:00",
+      "summary": "[지디넷코리아]\"지난해 인공지능(AI) 에이전트 96개를 개발했지만 그중 현재 사용 중인 것은 46개입니다. 생존률이 50%에 미치지 못한 이유는 AI로 무엇을 할 수 있는지부터 고민하는 기술 중심 접근에 집중했기 때문입니다. AI 전환(AX)의 핵심은 기술보다 현업의 문제를 먼저 정의하는 것입니다.\"LG전자 이경화 AX플랫폼팀장은 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 AX 페어 2026에서 내부 AI 도입 사례를 바탕으로 AX 성공 방안을 소개했다.이 팀장은 지난해 개발"
+    },
+    {
+      "id": "65f96d07106f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서울중앙지법, 고려아연에 원아시아 투자 펀드 관련 문서 제출 명령",
+      "link": "https://zdnet.co.kr/view/?no=20260527174445",
+      "published": "2026-05-27T08:49:53+00:00",
+      "summary": "[지디넷코리아]영풍은 서울중앙지방법원 제29민사부가 지난 21일 원아시아·이그니오 등 관련 주주대표소송에서 고려아연에 대해 원아시아파트너스의 ‘코리아그로쓰 제1호’ 및 ‘아비트리지 제1호’ 펀드 관련 내부 문서 제출을 명령했다고 27일 밝혔다.최윤범 사내이사의 초·중학교 동창인 지창배씨가 운영한 원아시아파트너스의 코리아그로쓰 제1호와 아비트리지 제1호는 고려아연이 사실상 최대 출자자 수준으로 참여한 펀드들이다. 공시 등에 따르면 고려아연은 코리아그로쓰 제1호 지분 약 94.64%, 아비트리지 제1"
+    },
+    {
+      "id": "fd6f1f1b53c9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SK하이닉스, 시총 '1조달러 클럽' 진입...삼성전자 이어 국내 2번째",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210990",
+      "published": "2026-05-27T08:44:31+00:00",
+      "summary": "AI 메모리 활황에 힘입어 SK하이닉스도 1조달러(약 1500조원) 클럽에 가입했다. 삼성전자와 마이크론에 이어 주요 메모리 업체 3곳이 모두 시가 총액 1조달러를 넘기게 됐다.한국거래소에 따르면, SK하이닉스 주가는 27일 장중 235만8000원으로 사상 최고가를 기록했다. 종가 기준 시가 총액은 전날 대비 136조원 넘게 증가한 1598조5914억원(약 1조658억달러)을 달성했다.국내 상장사 중 시총 1조달러를 넘어선 기업은 삼성전자와 SK하이닉스 2곳 뿐이며, 아시아로 확대해도 대만 TSM"
+    },
+    {
+      "id": "94bcc928789c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, ‘청소년 SNS 중독’ 소송 못 피한다…미 대법원 최종 기각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210985",
+      "published": "2026-05-27T08:29:50+00:00",
+      "summary": "미국 연방대법원이 메타의 인스타그램 청소년 중독 관련 소송을 막아달라는 요청을 기각하면서, 소셜미디어 기업들의 아동·청소년 안전 책임을 둘러싼 법적 압박이 한층 거세지고 있다.로이터에 따르면, 미 연방대법원은 26일(현지시간) 메타가 제기한 상고를 받아들이지 않고, 버몬트주가 제기한 소송을 계속 진행할 수 있도록 한 하급심 판단을 유지했다.메타는 버몬트주 법원이 해당 사건을 심리할 관할권이 없다고 주장했지만 받아들여지지 않았다.이번 사건은 미국 전역에서 벌어지고 있는 ‘소셜미디어 중독’ 소송의 일"
+    },
+    {
+      "id": "9b1010fc63a2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 \"대만은 AI 혁명 진원지...매년 225조 투자할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210992",
+      "published": "2026-05-27T08:13:41+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 대만에 매년 최대 1500억달러(약 225조원)를 투자할 계획이라고 밝혔다. 특히 대만을 \"AI 혁명의 진원지\"라고 부르며, 대만 공급망에 대한 각별한 애정을 표현했다.황 CEO는 27일 타이베이에서 열린 엔비디아의 대만 본사 설립 계획 발표 행사에서 \"4~5년 전만 해도 엔비디아는 대만에 연간 100억~150억달러(약 15조~22조5000억원)를 투자했다. 하지만 이제는 매년 1000억~1500억달러를 투자할 계획\"이라고 말했다.엔비디아의 지난해 매출이 2159억달러라"
+    },
+    {
+      "id": "a20e4aceb381",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 파일러, 글로벌 VC 라이트스피드 육성 프로그램 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210995",
+      "published": "2026-05-27T08:00:00+00:00",
+      "summary": "■ 파일러(대표 오재호)는 글로벌 벤처캐피털(VC)인 ‘라이트스피드벤처파트너스’의 글로벌 AI 스타트업 육성 프로그램 ‘뉴욕 AI 랜딩패드’에 선정됐다고 밝혔다. 북미 시장에 진출하고자 하는 AI 스타트업의 스케일업을 돕는 프로그램으로 10개 팀을 선정하는 것으로, 파일러는 유일한 한국 기업으로 1년 간 GTM(시장 진입), 자금 조달, 팀 빌딩, 법무 지원 등을 받는다.■ 포티투마루(대표 김동환)는 ‘제17회 2026 대한상공회의소·포브스 사회공헌대상’에서 ESG 경영 부문 대상을 수상했다고 밝"
+    },
+    {
+      "id": "72ff645a2ba5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 네이버, 국토부 장관과 로봇 산업 활성화 논의 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210994",
+      "published": "2026-05-27T08:00:00+00:00",
+      "summary": "■ 네이버(대표 최수연)는 27일 1784 사옥을 방문한 김윤덕 국토교통부 장관과 이동 로봇 상용화를 위한 기술 및 정책 지원 방안을 논의했다고 밝혔다. 디지털트윈 기술과 클라우드 기반 멀티 로봇 인텔리전스 시스템 ‘ARC’, 사옥 내 자율주행 로봇 ‘루키’, 실외 이동 로봇 ‘누리’의 임무 수행 시연 등을 진행했다. 네이버랩스는 올해부터 국토교통부와 정밀지도 구축 및 자율주행 로봇의 운행 안정성 실증 분야에서 기술 협력을 진행하고 있다.■ 미소정보기술(대표 남상도)은 양자기술 전문 SDT(대표 "
+    },
+    {
+      "id": "bc16e5c63215",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+      "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+      "published": "2026-05-27T08:00:00+00:00",
+      "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U"
+    },
+    {
+      "id": "70c9e6bf5523",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "믿었던 서비스까지 다 털리는 세상",
+      "link": "https://www.youtube.com/shorts/L3yW1SmYk4I",
+      "published": "2026-05-27T06:30:11+00:00",
+      "summary": ""
+    },
     {
       "id": "6c0d6daca7cc",
       "source": "AI타임스",
@@ -344,6 +619,17 @@
       "summary": "[지디넷코리아]애플이 개발자용 iOS 26.6 베타 버전을 처음으로 공개했다고 애플인사이더 등 외신이 26일(현지시간) 보도했다.iOS 26.6 베타는 지난 11일 iOS 26.5 정식 버전 출시 이후 약 2주 만에 공개된 업데이트다. 기능 면에서는 비교적 소규모 업데이트에 해당하지만, 연락처 기능 개선과 애플 지도 보안 강화 등 두 가지 주요 변화가 포함됐다. 외신들은 이번 기능들이 iOS 26 시리즈에 추가되는 마지막 신규 기능이 될 가능성이 높다고 전했다.새롭게 공개된 개발자 베타 버전에는 "
     },
     {
+      "id": "e39d534f640d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cloudflare Flagship",
+      "link": "https://developers.cloudflare.com/flagship/",
+      "published": "2026-05-26T23:36:06+00:00",
+      "summary": "Article URL: https://developers.cloudflare.com/flagship/ Comments URL: https://news.ycombinator.com/item?id=48287468 Points: 223 # Comments: 116"
+    },
+    {
       "id": "f2abd5acdc79",
       "source": "Wired",
       "kind": "article",
@@ -430,6 +716,17 @@
       "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
       "published": "2026-05-26T20:17:47+00:00",
       "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players."
+    },
+    {
+      "id": "cbdb2cc9455a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The worst job interview I ever had",
+      "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "published": "2026-05-26T20:11:49+00:00",
+      "summary": "Article URL: https://www.oliverio.dev/blog/the-worst-job-interview-i-had Comments URL: https://news.ycombinator.com/item?id=48285344 Points: 325 # Comments: 255"
     },
     {
       "id": "21e927a9f880",
@@ -3730,6 +4027,17 @@
       "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
       "published": "2026-05-22T17:17:43+00:00",
       "summary": "Article URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48238703 Points: 202 # Comments: 58"
+    },
+    {
+      "id": "ffb65741e4a0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I built a Git-tracked book production pipeline",
+      "link": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "published": "2026-05-22T17:17:43+00:00",
+      "summary": "Article URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48238703 Points: 240 # Comments: 63"
     },
     {
       "id": "2ddb59301737",
