@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-05-27T21:49:52.374772+00:00",
-  "count": 627,
+  "updated_at": "2026-05-27T23:13:59.061133+00:00",
+  "count": 633,
   "items": [
+    {
+      "id": "096b839ca542",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "韓 AI 반도체에 손 내민 브로드컴…퓨리오사AI와 계약",
+      "link": "https://zdnet.co.kr/view/?no=20260527235545",
+      "published": "2026-05-27T23:00:02+00:00",
+      "summary": "[지디넷코리아]브로드컴이 국내 인공지능(AI) 반도체 스타트업 대상 영업을 확대하고 있다. 그동안 자체 칩 설계 능력이 없는 시스템 기업의 주문형 반도체(ASIC)을 주로 만들던 브로드컴이, 칩을 직접 설계하는 팹리스(반도체 설계전문) 기업을 타깃으로 삼으면서 반도체 시장 내 지각변동이 일어나고 있다. 28일 반도체 업계에 따르면 브로드컴은 최근 국내 대표 신경망처리장치(NPU) 기업인 퓨리오사AI, 리벨리온, 하이퍼엑셀 등에 자사 반도체 설계와 양산 턴키(일괄 수주) 서비스를 제안한 것으로 파악"
+    },
+    {
+      "id": "9b3034751bf8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Google employee allegedly used inside information to win $1.2 million on Polymarket",
+      "link": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "published": "2026-05-27T22:30:02+00:00",
+      "summary": "Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their now-unsealed complaint, prosecutors allege that Michele Spagnuolo \"knew the outcome"
+    },
+    {
+      "id": "66e8c0f6513f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme",
+      "link": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/",
+      "published": "2026-05-27T22:22:23+00:00",
+      "summary": "According to federal prosecutors, Michele Spagnuolo made more than $1 million on the prediction market platform using confidential information about Google Search traffic."
+    },
+    {
+      "id": "80781909b967",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"건설산업, AI 기반 프로세스 혁신\"...'AECO AX 서밋’ 성료",
+      "link": "https://zdnet.co.kr/view/?no=20260527175915",
+      "published": "2026-05-27T22:00:01+00:00",
+      "summary": "[지디넷코리아]건설산업에도 인공지능(AI) 바람이 뜨겁다. 과거 건설업은 대표적인 노동집약 산업으로 여겨졌지만, 최근에는 인력 부족과 생산성 저하, 안전사고 증가, 원가 상승 같은 구조적 문제에 직면하면서 산업 전반의 체질 개선 필요성이 커졌기 때문이다. 특히 AI 기술은 단순한 업무 자동화를 넘어 설계와 시공, 안전관리, 유지보수까지 건설 전 과정의 의사결정 방식을 바꾸고 있다는 점에서 의미가 크다.지난 27일 서울 강남구 이가마루에서 열린 ‘AECO AX 서밋(AECO AX Summit)-건설"
+    },
+    {
+      "id": "8f5b4837ba16",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[5월27일] 생성 AI 콘텐츠는 어떻게 산업화될 것인가...스포티파이가 주목되는 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=210970",
+      "published": "2026-05-27T22:00:00+00:00",
+      "summary": "스포티파이는 지난 21일(현지시간) 유니버설 뮤직 그룹(UMG)과 라이선스 계약을 맺고 생성 AI를 활용한 음악 커버와 리믹스 제작 기능을 도입한다고 발표했습니다. 아직 구체적인 서비스 내용과 출시 시기 등은 공개하지 않았지만, 유료 형태로 사용자들이 기존 음악을 AI로 재생산하는 서비스를 진행할 것으로 보입니다. 몇년 전부터 인기를 끌었던 AI 커버 생성이 합법적으로 가능하게 된 것입니다.이번 계약은 세계 최대 음원 스트리밍 플랫폼과 세계 최대 음반사의 협업이라는 점을 넘어, 생성 AI 콘텐츠가"
+    },
     {
       "id": "d22086dbf96f",
       "source": "TechCrunch",
@@ -207,6 +262,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "published": "2026-05-27T16:59:19+00:00",
+      "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software."
+    },
+    {
+      "id": "5713ba5944cc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
       "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
       "published": "2026-05-27T16:59:19+00:00",
       "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software."
