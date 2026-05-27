@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-05-26T23:34:18.493534+00:00",
-  "count": 505,
+  "updated_at": "2026-05-27T01:51:55.394306+00:00",
+  "count": 514,
   "items": [
+    {
+      "id": "961a1a26ebfb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "published": "2026-05-27T00:38:11+00:00",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, accord"
+    },
+    {
+      "id": "b69c521b7818",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "팀스파르타, AI와 함께 일하는 조직으로 탈바꿈",
+      "link": "https://zdnet.co.kr/view/?no=20260527090009",
+      "published": "2026-05-27T00:28:12+00:00",
+      "summary": "[지디넷코리아]팀스파르타(대표 이범규)가 AI와 함께 일하는 조직으로 탈바꿈한다. 팀스파르타는 브랜드를 전면 개편, ‘AI 네이티브’ 조직으로 전환한다고 27일 밝혔다. AI 사업을 영위하는 기업이 먼저 AI로 일하는 방식 자체를 바꿈으로써 AI 전환(AX) 파트너로서 새 정체성을 갖춘다는 전략이다.팀스파르타는 이번 리브랜딩을 통해 AI 역량 진단부터 맞춤형 교육, 기술 솔루션까지 전 산업의 AX를 엔드투엔드로 지원하는 파트너로서 역할을 한층 강화했다. 이에 따라 산하 사업 브랜드를 ▲기업 맞춤형"
+    },
+    {
+      "id": "7423638e3563",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "효성중공업, 日 ESS 진출 첫 해 누적 수주 640억 돌파",
+      "link": "https://zdnet.co.kr/view/?no=20260527090413",
+      "published": "2026-05-27T00:08:58+00:00",
+      "summary": "[지디넷코리아]효성중공업은 최근 일본 에너지 개발업체와 약 110억원 규모 고압 연계 에너지저장장치(ESS) 설계·조달·시공(EPC) 프로젝트 계약을 체결했다고 27일 밝혔다.이번 프로젝트는 오이타, 구마모토, 야마구치, 오카야마, 미에 등 일본 5개 지역에 총 10MW/40MWh 규모의 고압 ESS를 구축하는 사업이다. 효성중공업은 전체 시스템 설계와 주요 기자재 공급을 총괄하며, 완공 이후 최장 20년간 유지보수(O&M) 서비스도 함께 제공할 예정이다.이번 수주는 효성중공업이 일본 ESS 시장"
+    },
+    {
+      "id": "1ac074580c7a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LGU+, KSQI 우수 콜센터 선정...\"AI 상담 혁신 성과\"",
+      "link": "https://zdnet.co.kr/view/?no=20260527090152",
+      "published": "2026-05-27T00:07:30+00:00",
+      "summary": "[지디넷코리아]LG유플러스는 2026년 서비스품질지수(KSQI) 콜센터 부문에서 홈고객센터가 전 산업군 최고 수준의 평가를 받았다고 27일 밝혔다.한국능률협회컨설팅이 주관하는 서비스품질지수(KSQI)는 매년 4차례 콜센터 서비스 품질을 조사한 뒤 이를 합산한 평균 점수로 최종 결과를 발표하는 콜센터 품질 평가 지표다.올해 평가에서 LG유플러스는 초고속인터넷 분야인 홈고객센터와 이동통신 분야인 모바일고객센터 모두에서 ‘고객감동콜센터’와 ‘한국의 우수콜센터’를 달성했다.홈고객센터와 모바일고객센터는 2"
+    },
+    {
+      "id": "a4f744fb236e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SKT, 14년 연속 KSQI 우수콜센터 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260527090717",
+      "published": "2026-05-27T00:07:17+00:00",
+      "summary": "[지디넷코리아]SK텔레콤이 한국능률협회컨설팅에서 주관하는 한국서비스품질지수(KSQI) 2026년 콜센터 부문에서 우수콜센터로 선정됐다고 27일 밝혔다.이는 2012년부터 14년 연속 ‘우수콜센터’로 선정된 것으로 고객 서비스 역량을 대외적으로 입증하게 됐다.KSQI는 한국능률협회컨설팅이 국내 주요 산업에서 운영하는 콜센터 수준을 평가하는 지표로 고객 응대의 전문성, 정확성, 문제해결 역량 등을 주요 평가 기준으로 삼는다. SK텔레콤은 서비스 품질 영역 중 ▲상담 태도 ▲맞이 인사 및 종료 태도 ▲"
+    },
+    {
+      "id": "5d544d543280",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LS일렉트릭, 스마트 무선 조명 사업 본격화…\"에너지 30% 절감\"",
+      "link": "https://zdnet.co.kr/view/?no=20260527085405",
+      "published": "2026-05-27T00:02:39+00:00",
+      "summary": "[지디넷코리아]LS일렉트릭이 조명 에너지를 30% 이상 절감할 수 있는 스마트 무선 조명 사업을 본격 확대한다.LS일렉트릭은 지난 26일 LS사우타, 메를로랩과 스마트 무선 조명 시스템을 활용한 에너지 절감 및 운영 효율화 사업 협력을 위한 업무협약(MOU)을 체결했다고 27일 밝혔다.LS일렉트릭은 에너지 효율화 사업과 연계한 고객 발굴과 사업 기획을 담당하고, 인공지능(AI) 기반 기능 개발을 주도한다. LS사우타는 시스템통합(SI) 역량을 기반으로 설비 간 연계와 데이터 수집, 시스템 구축 및"
+    },
+    {
+      "id": "d13755b4b590",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'해킹 올림픽' 휩쓸던 천재 화이트해커, '데프콘 CTF' 은퇴",
+      "link": "https://zdnet.co.kr/view/?no=20260527085604",
+      "published": "2026-05-27T00:01:06+00:00",
+      "summary": "[지디넷코리아]'해킹 올림픽'으로 불리는 '데프콘(DEF CON) CTF'에서 역대 최다 우승을 차지했던 '천재 화이트해커' 박세준 티오리 대표가 데프콘 CTF를 은퇴한다.박 대표는 27일 자신의 페이스북을 통해 \"처음 해킹·보안을 공부하며 시작한 18년간의 CTF 선수 생활을 마무리한다\"며 \"은퇴 자체는 올해 초부터 오래 고민해온 일이었는데, 마침 지난 주말 DEF CON CTF 예선이 끝난 지금이 이야기를 꺼내기 가장 적절한 시점인 것 같았다\"고 밝혔다.박 대표는 데프콘 CTF에서 우승 9회,"
+    },
+    {
+      "id": "f97577a261b4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메디인테크, 국책과제 맡아 ‘AI 로봇 내시경’ 플랫폼 개발 박차",
+      "link": "https://zdnet.co.kr/view/?no=20260527083127",
+      "published": "2026-05-26T23:57:45+00:00",
+      "summary": "[지디넷코리아]메디인테크(대표 이치원)가 ‘AI 로봇 내시경’ 플랫폼 개발을 본격화 한다.회사는 범부처 첨단 의료기기 연구개발사업의 'AI 기반 자율 조향 및 초정밀 치료 술기 자동화 기술이 적용된 전동식 연성 내시경 및 차세대 지능형 로봇 내시경 플랫폼 개발' 과제 주관기업으로 선정됐다고 27일 밝혔다.이번 연구개발사업은 과기정통부·산업부·복지부·식약처 등이 올해부터 2032년까지 7년간 총 9408억원(국고 8383억원·민자 1025억원)을 투입하는 사업이다. 글로벌 플래그십 의료기기 개발과 "
+    },
+    {
+      "id": "955cccb4466f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, iOS 26.6 첫 베타버전 공개…연락처·지도 앱 손봤다",
+      "link": "https://zdnet.co.kr/view/?no=20260527082226",
+      "published": "2026-05-26T23:43:15+00:00",
+      "summary": "[지디넷코리아]애플이 개발자용 iOS 26.6 베타 버전을 처음으로 공개했다고 애플인사이더 등 외신이 26일(현지시간) 보도했다.iOS 26.6 베타는 지난 11일 iOS 26.5 정식 버전 출시 이후 약 2주 만에 공개된 업데이트다. 기능 면에서는 비교적 소규모 업데이트에 해당하지만, 연락처 기능 개선과 애플 지도 보안 강화 등 두 가지 주요 변화가 포함됐다. 외신들은 이번 기능들이 iOS 26 시리즈에 추가되는 마지막 신규 기능이 될 가능성이 높다고 전했다.새롭게 공개된 개발자 베타 버전에는 "
+    },
     {
       "id": "f2abd5acdc79",
       "source": "Wired",
