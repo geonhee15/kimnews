@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-05-27T10:36:49.535708+00:00",
-  "count": 565,
+  "updated_at": "2026-05-27T14:03:22.865468+00:00",
+  "count": 585,
   "items": [
+    {
+      "id": "6335bd9e2c6a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "published": "2026-05-27T14:00:00+00:00",
+      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds."
+    },
+    {
+      "id": "7415310ddeaf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "published": "2026-05-27T13:48:41+00:00",
+      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere."
+    },
+    {
+      "id": "2721eb5c18da",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "YouTube will now automatically label AI videos",
+      "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "published": "2026-05-27T13:00:00+00:00",
+      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent."
+    },
+    {
+      "id": "419875208f0d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "YouTube is putting AI labels where you’ll actually see them",
+      "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "published": "2026-05-27T13:00:00+00:00",
+      "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automaticall"
+    },
+    {
+      "id": "e00a1f488c52",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "published": "2026-05-27T12:30:00+00:00",
+      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains."
+    },
+    {
+      "id": "a4c2fc809acb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "published": "2026-05-27T12:30:00+00:00",
+      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade"
+    },
+    {
+      "id": "95cef2cf6ebe",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "published": "2026-05-27T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the"
+    },
+    {
+      "id": "d2be5454809d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Redmagic’s liquid-cooled gaming phone arrives with overclocked Snapdragon chip",
+      "link": "https://www.theverge.com/gadgets/937935/redmagic-11s-pro-launch-specs-price",
+      "published": "2026-05-27T12:04:42+00:00",
+      "summary": "Nubia has announced the international launch of the Redmagic 11S Pro, its new flagship Android gaming phone. It's not a significant change from the 11 Pro, which launched internationally last November, but has been upgraded to the overclocked Snapdragon 8 Elite Gen 5 Leading Vers"
+    },
+    {
+      "id": "62b8b5d4ec55",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI fight brewing inside The New York Times",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York"
+    },
+    {
+      "id": "741899f99bd3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new Razr Ultra isn’t your average phone — for better and worse",
+      "link": "https://www.theverge.com/tech/937763/motorola-razr-ultra-2026-review-battery-camera",
+      "published": "2026-05-27T12:00:00+00:00",
+      "summary": "I had one ask for friends, colleagues, the lady checking me in for a meeting at a large software company's headquarters, and everyone else who stopped to admire the phone I've been carrying around. \"Pet it.\" The Razr Ultra is not your average phone. I got the orient blue color op"
+    },
+    {
+      "id": "fe6f4352d3f3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 효과 본 한국 기업 75%, 그런데 '진짜 강자'는 단 2%뿐이었다",
+      "link": "https://zdnet.co.kr/view/?no=20260527204728",
+      "published": "2026-05-27T11:47:28+00:00",
+      "summary": "[지디넷코리아]한국은 아시아에서 AI를 가장 앞서 도입한 나라 중 하나로 꼽힌다. 실제로 한국 기업 네 곳 중 세 곳(75%)이 \"AI가 기대 이상의 성과를 냈다\"고 답했는데, 이는 한국을 뺀 나머지 아시아 평균(34%)을 두 배 넘게 웃도는 수치다. 그런데 글로벌 데이터센터 전문기업 에스티티지디씨(STT GDC)가 2026년 5월 27일 한국 조사 결과를 공개하며 발표한 보고서를 보면, 한국 AI 인프라 준비도에는 큰 구멍이 하나 있었다. AI를 실제 사업 경쟁력으로 완성한 '선도' 기업이 10"
+    },
+    {
+      "id": "38bf46de8b67",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI, 판사석에도 들어올까",
+      "link": "https://zdnet.co.kr/view/?no=20260527103943",
+      "published": "2026-05-27T11:44:48+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 'AI 판사'를 법정에 도입할 수 있을까요? 전문가 6명이 머리를 맞댄 결과, 단 한 명의 찬성도 없이 만장일치로 \"아직은 안 된다\"는 결론이 나왔어요. 특히 2028년 이전 도입은 절대 불가라는 입장인데요, 반대 이유를 점수로 따져보니 기술 한계(7점)보다 법·제도 미비(9점), 그리고 가치 문제(10점)가 훨씬 더 높게 나타났어요. 기술이 아무리 발전해도, 법적 근거와 사회적 합의가 없으면 소용없다는 거예요.토론은 처음엔 기술 얘기로 시작했지만"
+    },
+    {
+      "id": "0843d321d8d5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo Takes Its Self-Driving Cars to Virginia",
+      "link": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
+      "published": "2026-05-27T11:00:00+00:00",
+      "summary": "The company is mapping Alexandria and, soon, Arlington—right across from the power center of Washington, DC."
+    },
+    {
+      "id": "246bf6e42f48",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I'm Tired of Talking to AI",
+      "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "published": "2026-05-27T10:43:25+00:00",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/ Comments URL: https://news.ycombinator.com/item?id=48292224 Points: 752 # Comments: 421"
+    },
+    {
+      "id": "707d3ce32329",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "published": "2026-05-27T10:30:28+00:00",
+      "summary": "The feds are raising the alarm about a new category of threat."
+    },
+    {
+      "id": "007fa96377e6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "ST마이크로, 새로운 700V GaN 반도체 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260527165850",
+      "published": "2026-05-27T10:25:56+00:00",
+      "summary": "[지디넷코리아]ST마이크로일렉트로닉스(ST마이크로)가 고전력 시스템 효율을 개선하고 전력 밀도를 높이는 새로운 갈륨나이트라이드(GaN) 기반 전력반도체를 출시했다고 27일 밝혔다.ST마이크로는 \"STPOWER 포트폴리오에 추가한 700V PowerGaN 디바이스가 인공지능(AI) 서버의 전력소비 급증 문제와 고성능 전력변환 요구 등 설계 과제를 해결할 수 있다\"고 설명했다. 이 디바이스는 700V 동작 정격으로 설계돼 안정적인 고전력 동작과 고주파 토폴로지 구현이 가능하다. 낮은 전도 손실과 스위"
+    },
     {
       "id": "59057a9725d1",
       "source": "AI타임스",
@@ -25,6 +201,17 @@
       "summary": ""
     },
     {
+      "id": "43363b9e1d00",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"보안산업 역사 30년…분야별 레거시 솔루션 30종\"",
+      "link": "https://zdnet.co.kr/view/?no=20260527183353",
+      "published": "2026-05-27T10:09:06+00:00",
+      "summary": "[지디넷코리아]\"보안 산업은 새로운 기술이 나온다고 해서 급격하게 달라지고 있는 것이 아닙니다. 보안 기술과 제품들이 단일 기능으로 사용되거나 복합적으로 사용되면서 점차 진화하고 있는 것입니다. 제로트러스트, 인공지능(AI) 보안 등 신기술 보안에서도 레거시 보안 기술이 사용되고 있습니다.\"최영철 한국정보보호산업협회(KISIA) 수석부회장(SGA솔루션즈 대표)은 27일 오전 11시 개최한 KISIA 기자간담회에서 이같이 설명했다. 이날 KISIA는 기자간담회를 개최하고, 비전공자에게 어려울 수 있"
+    },
+    {
       "id": "3d4884a68655",
       "source": "AI타임스",
       "kind": "article",
@@ -34,6 +221,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=210969",
       "published": "2026-05-27T10:07:33+00:00",
       "summary": "샘 알트먼 오픈AI CEO가 AI가 대규모 화이트칼라 일자리를 빠르게 대체할 것이라는 자신의 과거 전망이 빗나갔다고 인정했다. AI 기술 발전 속도는 예상대로였지만, 사회적·경제적 충격은 당초 우려보다 훨씬 제한적이었다는 평가다.알트먼 CEO는 26일 호주 시드니에서 열린 호주 커먼웰스 은행(CBA) 기술 컨퍼런스에 화상으로 참석, “AI로 인해 글로벌 ‘일자리 대란’이 발생할 것이라고 보지 않는다”라고 말했다.그는 2022년 '챗GPT' 출시 당시 오픈AI 내부에서 AI 발전이 초급 화이트칼라 "
+    },
+    {
+      "id": "6900c2811875",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브릴스-인하대, 로봇·AI 인재 양성 맞손",
+      "link": "https://zdnet.co.kr/view/?no=20260527180036",
+      "published": "2026-05-27T10:05:40+00:00",
+      "summary": "[지디넷코리아]로봇 모듈화 플랫폼 솔루션 기업 브릴스가 인하대학교와 손잡고 첨단 로봇 및 인공지능(AI) 분야의 실무형 미래 인재 양성에 나선다.브릴스는 지난 26일 인하대학교 본관에서 전진 브릴스 대표이사와 조명우 인하대학교 총장 등 양 기관 주요 관계자들이 참석한 가운데 '일학습병행 기반 산학협력 업무협약(MOU)'을 체결했다고 27일 밝혔다.이번 협약은 브릴스가 보유한 로봇 모듈화 기술과 인하대의 인적 자원을 결합해 인천 지역의 로봇 산업 글로벌 경쟁력을 강화하기 위해 마련됐다.양 기관은 이"
+    },
+    {
+      "id": "5dc9af28356c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "페로브스카이트 태양전지 대면적·소재 안정성 확보…\"상용화 가나\"",
+      "link": "https://zdnet.co.kr/view/?no=20260527190511",
+      "published": "2026-05-27T10:05:11+00:00",
+      "summary": "[지디넷코리아]차세대 태양전지 소재로 주목받는 페로브스카이트를 상용화하기 위해서는 대면적 구현과 작동 안정성 확보라는 숙제를 풀어야 한다. 국내 연구진이 이 문제를 해결 , 상용화에 바짝 다가갔다.한국연구재단은 정의혁 한국에너지공과대학교 에너지공학과 교수와 전남중· 이재민 한국화학연구원 책임연구원 연구팀이 공동으로 공정속도, 코팅 두께 등 공정 조건 변화에도 안정적으로 작동하는 비정질 계면 패시베이션 소재를 개발했다고 27일 밝혔다.패시베이션(부동태화)은 빛으로 만든 전기가 사라지지 않도록 보호막"
     },
     {
       "id": "5b23dd622ed1",
@@ -870,6 +1079,17 @@
       "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
       "published": "2026-05-26T15:16:34+00:00",
       "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV."
+    },
+    {
+      "id": "274595b3ceb0",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "link": "https://huggingface.co/blog/delta-weight-sync",
+      "published": "2026-05-26T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "a37a21a54808",
