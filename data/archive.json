@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-05-28T19:21:28.489406+00:00",
-  "count": 756,
+  "updated_at": "2026-05-28T21:31:07.422384+00:00",
+  "count": 767,
   "items": [
+    {
+      "id": "b1aa42532a0c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "LLMs believe false statements even after explicit warnings that they're false",
+      "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "published": "2026-05-28T21:29:43+00:00",
+      "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\""
+    },
+    {
+      "id": "e7e4fa30de69",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The internet is being rebuilt for machines",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "published": "2026-05-28T21:24:01+00:00",
+      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users."
+    },
+    {
+      "id": "3a0fbfd8440e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드 오퍼스 4.8'로 정상 탈환…'미소스급' 출시도 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211064",
+      "published": "2026-05-28T21:09:45+00:00",
+      "summary": "앤트로픽이 '클로드 오퍼스 4.8'로 최고 모델 자리를 되찾았다. 그리고 사이버 보안 조치 개발의 진전에 따라 몇주 안에 '클로드 미소스급 모델'을 정식 출시할 계획이라고 밝혔다.앤트로픽은 28일(현지시간) 이전 버전에 비해 벤치마크 전반에서 성능이 향상된 클로드 오퍼스 4.8을 출시했다. 우선 깃허브의 코딩 이슈 해결을 평가하는 'SWE-벤치 프로'에서는 69.2%를 기록, 이전 버전의 64.3%보다 좋은 성적을 거뒀다. GPT-5.5(58.6%)와 제미나이 3.1 프로(54.2%)의 차이도 벌"
+    },
+    {
+      "id": "a4e8a47b7e79",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "published": "2026-05-28T20:29:53+00:00",
+      "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output."
+    },
+    {
+      "id": "40791b5fdb91",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "published": "2026-05-28T20:14:07+00:00",
+      "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The rede"
+    },
+    {
+      "id": "7e18428151dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "published": "2026-05-28T20:06:07+00:00",
+      "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
+    },
     {
       "id": "4f4cbc76201b",
       "source": "Wired",
@@ -25,12 +91,34 @@
       "summary": "Meta’s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it."
     },
     {
+      "id": "73627732d542",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+      "link": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+      "published": "2026-05-28T19:01:54+00:00",
+      "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket."
+    },
+    {
       "id": "5b198a1ba055",
       "source": "TechCrunch",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "published": "2026-05-28T18:52:51+00:00",
+      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+    },
+    {
+      "id": "f6dba21fe35a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
       "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
       "published": "2026-05-28T18:52:51+00:00",
       "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
@@ -56,6 +144,17 @@
       "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
       "published": "2026-05-28T18:32:25+00:00",
       "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth."
+    },
+    {
+      "id": "f6248311348c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "published": "2026-05-28T18:30:48+00:00",
+      "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable."
     },
     {
       "id": "a03ef9d07a34",
@@ -100,6 +199,17 @@
       "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
       "published": "2026-05-28T17:35:30+00:00",
       "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S."
+    },
+    {
+      "id": "82d5d5497174",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "published": "2026-05-28T17:10:10+00:00",
+      "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops."
     },
     {
       "id": "8998ac6d1dfb",
@@ -210,6 +320,17 @@
       "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
       "published": "2026-05-28T15:35:43+00:00",
       "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person."
+    },
+    {
+      "id": "54a69be4bc70",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "매드포갈릭, SKT 멤버십 고객 최대 50% 할인",
+      "link": "https://zdnet.co.kr/view/?no=20260528201803",
+      "published": "2026-05-28T15:02:01+00:00",
+      "summary": "[지디넷코리아]매드포갈릭이 SK텔레콤 T 멤버십 고객을 대상으로 할인 행사를 진행한다.29일 엠에프지코리아에 따르면 이번 행사는 6월 1일부터 7일까지 매드포갈릭 전 매장에서 진행된다. 롯데월드 어드벤처점과 배달 주문은 제외된다.쿠폰은 6월 1일부터 5일까지 T 멤버십 애플리케이션 내 T day 행사 페이지에서 내려받을 수 있다. VIP 등급 고객은 주문 금액 10만원 한도 내에서 최대 5만원까지 50% 할인을 받을 수 있다. GOLD·SILVER 등급 고객은 최대 3만원까지 30% 할인을 받을 "
     },
     {
       "id": "bbaa60e22949",
