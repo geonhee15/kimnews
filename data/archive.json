@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-28T21:31:07.422384+00:00",
-  "count": 767,
+  "updated_at": "2026-05-28T22:55:35.717101+00:00",
+  "count": 773,
   "items": [
+    {
+      "id": "082b9a073270",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀄컴, 보급형 PC 시장 겨냥한 '스냅드래곤 C' SoC 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260528185823",
+      "published": "2026-05-28T22:30:01+00:00",
+      "summary": "[지디넷코리아]퀄컴이 28일(현지시간) 보급형 노트북용 새 시스템반도체(SoC) 플랫폼 '스냅드래곤 C'를 공개했다. 애플이 3월 공개한 99만원 노트북 '맥북 네오'가 인기를 끌고 있는 가운데 300달러(약 45만원)대 초저가 시장을 겨냥한 행보다.만다르 데시판데 퀄컴 컴퓨트 제품 관리 시니어 디렉터는 사전 브리핑에서 \"스냅드래곤 C 출시는 새로운 가격대와 폼팩터로 포트폴리오를 확장해 더 많은 이용자에게 스냅드래곤 기술의 혜택을 제공하려는 의도\"라고 설명했다.이어 \"학생, 소규모 사업자, 현장 "
+    },
+    {
+      "id": "7c3c8d890de0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인텔, 휴대형 게임PC용 새 프로세서 '아크 G3' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260528232211",
+      "published": "2026-05-28T22:00:01+00:00",
+      "summary": "[지디넷코리아]인텔이 28일(현지시간) 휴대형 게임PC용 새 프로세서 '아크 G3'를 공개했다. 코어 울트라 시리즈3(팬서레이크) 내장 CPU와 Xe3 GPU IP를 바탕으로 휴대형 게임기에 맞도록 최적화한 제품이다.올 초 CES 2026에서 진행된 코어 울트라 시리즈3 출시 행사 당시 댄 로저스 인텔 PC 제품 마케팅 총괄은 \"코어 울트라 시리즈3의 Xe3 GPU 성능 향상을 고려하면 노트북 이후 플랫폼 확장을 고려하는 것은 자연스러운 흐름\"이라고 밝힌 바 있다.이날 인텔이 공개한 아크 G3는 "
+    },
+    {
+      "id": "cf311a26f69f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[5월28일] 토큰 맥싱이 '남의 집 불구경'이 아닌 이유는...\"AI 챗봇과 에이전트의 비용 차이\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211017",
+      "published": "2026-05-28T22:00:00+00:00",
+      "summary": "실리콘 밸리에서 '토큰 맥싱(tokenmaxxing)'이 유행한다는 소식이 전해진 것이 두어달 전인데, 벌써 이에 대한 회의론이 등장하고 있습니다. 토큰 맥싱은 AI에 더 많은 추론과 반복 작업을 맡기기 위해 막대한 양의 토큰을 사용하는 것을 말합니다.앤드루 맥도널드 우버 최고 운영책임자(COO)는 최근 공개된 인터뷰에서 AI 토큰 사용량 증가로 인한 직접적인 생산성 향상은 아직 발견되지 않았다고 밝혔습니다. 그는 \"아마도 암묵적으로는 더 많은 제품이 출시되고 있는 것 같지만, 그런 통계 수치를 "
+    },
+    {
+      "id": "8b3ee424ad60",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 오픈AI 몸값 추월...IPO 앞두고 기업 가치 1443조 기록",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211065",
+      "published": "2026-05-28T21:53:13+00:00",
+      "summary": "앤트로픽이 새로운 투자 라운드를 통해 사상 처음으로 오픈AI의 몸값을 넘어섰다.앤트로픽은 28일(현지시간) 시리즈 H 펀딩에서 650억달러(약 97조1750억원)를 유치했으며, 투자 후 기업 가치는 9650억달러(약 1442조6750억원)로 평가됐다고 발표했다.이로써 지난 3월 투자 유치로 8520억달러(약 1273조7400억원)의 몸값을 기록한 오픈AI를 넘어서는 수치다. 또 지난 2월 투자 라운드에서 앤트로픽이 기록한 3800억달러에서 2배 이상 뛰어오른 평가액이다.이번 투자는 알티미터 캐피털"
+    },
     {
       "id": "b1aa42532a0c",
       "source": "Ars Technica",
@@ -124,6 +168,17 @@
       "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
     },
     {
+      "id": "c8072d77f9fb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Just Use Postgres for Durable Workflows",
+      "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "published": "2026-05-28T18:41:46+00:00",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution Comments URL: https://news.ycombinator.com/item?id=48313530 Points: 225 # Comments: 92"
+    },
+    {
       "id": "e817a1349f45",
       "source": "The Verge",
       "kind": "article",
@@ -166,6 +221,17 @@
       "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
       "published": "2026-05-28T18:18:43+00:00",
       "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "9bbe3c51ff43",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "published": "2026-05-28T18:09:44+00:00",
+      "summary": "Article URL: https://www.anthropic.com/news/series-h Comments URL: https://news.ycombinator.com/item?id=48313048 Points: 210 # Comments: 182"
     },
     {
       "id": "99429ed6b3ea",
