@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-29T20:40:26.560324+00:00",
-  "count": 869,
+  "updated_at": "2026-05-29T22:20:54.504126+00:00",
+  "count": 878,
   "items": [
+    {
+      "id": "87ef3f879968",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "published": "2026-05-29T22:14:22+00:00",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them."
+    },
+    {
+      "id": "62d82af40e56",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+      "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+      "published": "2026-05-29T20:56:59+00:00",
+      "summary": "Loryn Brantz created The Good Advice Cupcake for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent."
+    },
+    {
+      "id": "cc2382efec33",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
+      "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
+      "published": "2026-05-29T20:53:09+00:00",
+      "summary": "The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration’s sweeping immigration crackdown. But some of its details are really out there."
+    },
     {
       "id": "3346592c95e3",
       "source": "Wired",
@@ -9,6 +42,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters",
+      "link": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
+      "published": "2026-05-29T20:18:01+00:00",
+      "summary": "Soon-to-be-laid-off Meta contractors say they’re being treated differently than Mark Zuckerberg’s full-time employees, who stand to receive more generous severance packages."
+    },
+    {
+      "id": "827db49d2e14",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters",
       "link": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
       "published": "2026-05-29T20:18:01+00:00",
       "summary": "Soon-to-be-laid-off Meta contractors say they’re being treated differently than Mark Zuckerberg’s full-time employees, who stand to receive more generous severance packages."
@@ -58,6 +102,17 @@
       "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, "
     },
     {
+      "id": "be3726e9a7e5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SQLite is all you need for durable workflows",
+      "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "published": "2026-05-29T17:54:50+00:00",
+      "summary": "Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/ Comments URL: https://news.ycombinator.com/item?id=48326802 Points: 257 # Comments: 139"
+    },
+    {
       "id": "c86ac6ad7372",
       "source": "Wired",
       "kind": "article",
@@ -87,6 +142,17 @@
       "lang": "en",
       "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
       "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "published": "2026-05-29T17:27:13+00:00",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios."
+    },
+    {
+      "id": "1ce8ffa8e192",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "published": "2026-05-29T17:27:13+00:00",
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios."
     },
@@ -243,6 +309,28 @@
       "link": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
       "published": "2026-05-29T15:00:00+00:00",
       "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry."
+    },
+    {
+      "id": "d506dad939ab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 소규모 사업장 ‘대기배출 IoT 측정기기’ 설치비 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211118",
+      "published": "2026-05-29T15:00:00+00:00",
+      "summary": "광양시가 소규모 대기배출사업장의 사물인터넷 측정기기 설치 부담을 줄이기 위해 2차 지원사업을 시행한다.광양은 2026년도 소규모 사업장 대상 ‘사물인터넷 측정기기 설치 지원사업’ 2차 신청을 받는다고 29일 밝혔다.사물인터넷 측정기기는 대기배출시설과 방지시설의 전류, 압력, 수소이온농도, 온도 등 운영 정보를 실시간으로 수집·전송하는 장치다. 2022년 5월 개정된 대기환경보전법에 따라 4·5종 대기배출시설 운영 사업장은 올해 12월 말까지 해당 측정기기를 설치해야 한다.광양은 의무 설치 대상인 "
+    },
+    {
+      "id": "62507ba0acf8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 러시아 리얼리즘 작가 12인 기획전 ‘눈의 나라 러시아’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211114",
+      "published": "2026-05-29T15:00:00+00:00",
+      "summary": "광양시 인서리공원 반창고갤러리에서 러시아 겨울 풍경을 담은 특별기획전이 열린다.광양은 러시아 리얼리즘 작가 12인의 설경 작품 50여 점을 선보이는 ‘눈의 나라 러시아’를 오는 6월23일까지 개최한다고 밝혔다.이번 전시는 설원과 눈 덮인 자작나무 숲, 강변과 겨울 들녘 등 러시아의 겨울 풍경을 담은 작품으로 구성됐다. 관람객은 러시아 리얼리즘 미술 특유의 색채와 표현 기법을 통해 이국적인 설경을 감상할 수 있다. 초여름에 한겨울 풍경을 만나는 이색적인 ‘문화 피서’ 경험을 제공한다는 점도 특징이다"
     },
     {
       "id": "d11550b6706c",
@@ -474,6 +562,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211120",
       "published": "2026-05-29T07:50:00+00:00",
       "summary": "■ 엘리스그룹(대표 김재원)은 강원특별자치도교육청의 ‘강원아이로(AI-ro) 생성형 AI 교원지원비서 서비스형 소프트웨어(SaaS) 도입’ 사업에 선정됐다고 밝혔다. 엘리스그룹은 기관 전용 생성형 AI 솔루션 ‘AI헬피챗’을 강원아이로와 연계해 약 1년간 강원특별자치도교육청 소속 초∙중∙고 교원 약 2만 1000명에게 서비스를 제공한다. 업무 및 수업 준비에 최적화된 ‘헬피 프로’와 학습 유도에 특화된 ‘헬피 에듀’ 등 자체 모델을 비롯해 챗GPT, 클로드, 제미나이 등 최신 글로벌 AI 모델을 "
+    },
+    {
+      "id": "7a637f661f91",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양경자청, 방산 전문 위드피에스와 투자협약 체결",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211128",
+      "published": "2026-05-29T07:40:00+00:00",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 29일, 전남 순천시 소재 방산 전문 위드피에스(대표 이선휴)와 해룡일반산업단지 입주를 위한 투자협약을 체결했다고 밝혔다.이번 투자협약을 통해 위드피에스는 해룡일반산업단지 내 신규 부지를확보하여 약 300억원을 투입, 방산용 영구자석 발전기 및 전원공급체계 전문 생산공장을 증설할 계획이다. 특히 한화시스템이 수요처인 L-SAM 다기능 레이더용 주전원공급 유닛 양산 사업 계약을 이미 확보한 만큼 안정적인 사업 기반 위에서 생산시설을 구축할 수 있을 것으로 기대되"
     },
     {
       "id": "047fcf5234ab",
