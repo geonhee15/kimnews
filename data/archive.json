@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-29T18:12:10.769273+00:00",
-  "count": 862,
+  "updated_at": "2026-05-29T20:40:26.560324+00:00",
+  "count": 869,
   "items": [
+    {
+      "id": "3346592c95e3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters",
+      "link": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
+      "published": "2026-05-29T20:18:01+00:00",
+      "summary": "Soon-to-be-laid-off Meta contractors say they’re being treated differently than Mark Zuckerberg’s full-time employees, who stand to receive more generous severance packages."
+    },
+    {
+      "id": "47db478d1f6f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "published": "2026-05-29T19:07:46+00:00",
+      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me."
+    },
+    {
+      "id": "2f287836d857",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-05-29T18:49:19+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
+    {
+      "id": "f39b9dcfbc45",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+      "link": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
+      "published": "2026-05-29T18:21:44+00:00",
+      "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\""
+    },
     {
       "id": "e24b71d34a9e",
       "source": "TechCrunch",
@@ -91,6 +135,17 @@
       "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that."
     },
     {
+      "id": "da2ef5998db3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "published": "2026-05-29T16:22:01+00:00",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 245 # Comments: 60"
+    },
+    {
       "id": "53c371157104",
       "source": "The Verge",
       "kind": "article",
@@ -133,6 +188,17 @@
       "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
       "published": "2026-05-29T16:13:47+00:00",
       "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers."
+    },
+    {
+      "id": "b73a2d51a316",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The dead economy theory",
+      "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "published": "2026-05-29T15:46:24+00:00",
+      "summary": "Article URL: https://www.owenmcgrann.com/p/the-dead-economy-theory Comments URL: https://news.ycombinator.com/item?id=48324712 Points: 387 # Comments: 534"
     },
     {
       "id": "9fd98e3d4818",
@@ -265,6 +331,17 @@
       "link": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
       "published": "2026-05-29T11:11:39+00:00",
       "summary": "MSI has unveiled a new Claw 8 handheld gaming PC ahead of the Computex 2026 show, and this model swaps out its predecessors' Intel Lunar Lake mobile chip for a specialized handheld processor. MSI describes the Claw 8 EX AI Plus as being the \"world's first\" handheld to contain the"
+    },
+    {
+      "id": "30e4e04e883f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "published": "2026-05-29T11:09:32+00:00",
+      "summary": "Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 219 # Comments: 197"
     },
     {
       "id": "80684ed993c3",
