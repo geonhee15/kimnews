@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-05-29T08:31:14.982048+00:00",
-  "count": 822,
+  "updated_at": "2026-05-29T11:52:09.398661+00:00",
+  "count": 837,
   "items": [
+    {
+      "id": "dd40d37a39cf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This is MSI’s new Claw 8 EX AI Plus gaming handheld",
+      "link": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
+      "published": "2026-05-29T11:11:39+00:00",
+      "summary": "MSI has unveiled a new Claw 8 handheld gaming PC ahead of the Computex 2026 show, and this model swaps out its predecessors' Intel Lunar Lake mobile chip for a specialized handheld processor. MSI describes the Claw 8 EX AI Plus as being the \"world's first\" handheld to contain the"
+    },
+    {
+      "id": "80684ed993c3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "HP Omnibook 3 Review: Redefining the Budget Laptop",
+      "link": "https://www.wired.com/review/hp-omnibook-3/",
+      "published": "2026-05-29T10:32:00+00:00",
+      "summary": "To get to $600, Apple and HP made different compromises. If you demand more power and performance, the HP Omnibook 3 delivers."
+    },
+    {
+      "id": "755939c7b253",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Physical Media Is Making a Comeback. The Next Console Generation Might Kill It",
+      "link": "https://www.wired.com/story/physical-media-is-having-a-comeback-the-next-console-generation-may-kill-it/",
+      "published": "2026-05-29T10:30:00+00:00",
+      "summary": "Consoles with disc drives are the easiest way to enjoy all kinds of physical media, but that could end with the next-gen PlayStation 6 and Microsoft's Project Helix."
+    },
+    {
+      "id": "521404b33c3a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "문서 작업이 귀찮은 직장인을 위한 AI 꿀팁",
+      "link": "https://www.youtube.com/shorts/LbFuZ9HxisU",
+      "published": "2026-05-29T10:00:01+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7f34c34f913c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "link": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "published": "2026-05-29T10:00:00+00:00",
+      "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assist"
+    },
+    {
+      "id": "3be76208ad03",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "published": "2026-05-29T10:00:00+00:00",
+      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and s"
+    },
+    {
+      "id": "71efa0e9790a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "챗GPT를 알뜰하게 써먹는 방법 + 1",
+      "link": "https://www.youtube.com/shorts/erZ70fvXGsw",
+      "published": "2026-05-29T09:00:22+00:00",
+      "summary": ""
+    },
     {
       "id": "49b0fb38bd7d",
       "source": "AI타임스",
@@ -267,6 +344,17 @@
       "summary": "플리토(대표 이정수)는 실시간 AI 통역-번역 솔루션 ‘챗 트랜스레이션(Chat Translation)’에 발화 내용을 기록하고 구조화하는 ‘노트테이킹(Note-taking)’기능을 새롭게 추가했다고 29일 밝혔다.챗 트랜스레이션은 플리토가 축적한 언어 데이터와 STT(Speech-to-Text) 엔진, 인공신경망 기계번역(NMT), 대형언어모델(LLM)을 결합한 AI 통역 및 번역 솔루션이다. 온오프라인 환경에서 실시간 다국어 커뮤니케이션이 가능하다. 이번에 추가돤 노트테이킹의 핵심은 다국어 발"
     },
     {
+      "id": "88df710b22d3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "published": "2026-05-29T05:45:36+00:00",
+      "summary": "Article URL: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967 Comments URL: https://news.ycombinator.com/item?id=48319509 Points: 221 # Comments: 112"
+    },
+    {
       "id": "cfe6cbf7dc4d",
       "source": "Wired",
       "kind": "article",
@@ -364,6 +452,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211079",
       "published": "2026-05-29T03:15:00+00:00",
       "summary": "태양광 모듈의 성능 저하가 장기적으로는 인버터 클리핑 손실을 줄일 수 있다는 분석이 나왔다. 시간이 지나면서 모듈 출력이 낮아지면 인버터 용량을 초과하는 전력도 줄어들기 때문이다.슬로바키아 태양광 데이터·시뮬레이션 기업 솔라기스는 28일(현지시간) 유럽 PVPMC 워크숍에서 발표한 연구를 통해 태양광 모듈 열화가 발전소 수명 기간의 인버터 클리핑 손실과 발전량 예측에 영향을 준다고 밝혔다.클리핑은 태양광 모듈의 직류(DC) 출력이 인버터의 교류(AC) 변환 용량을 넘을 때 발생하는 손실이다.일반적"
+    },
+    {
+      "id": "7dcf5c46e2b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cars collect a startling amount of data about you",
+      "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "published": "2026-05-29T03:01:00+00:00",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse Comments URL: https://news.ycombinator.com/item?id=48318481 Points: 371 # Comments: 180"
     },
     {
       "id": "0917eb3f64a1",
@@ -575,6 +674,17 @@
       "summary": "앤트로픽이 새로운 투자 라운드를 통해 사상 처음으로 오픈AI의 몸값을 넘어섰다.앤트로픽은 28일(현지시간) 시리즈 H 펀딩에서 650억달러(약 97조1750억원)를 유치했으며, 투자 후 기업 가치는 9650억달러(약 1442조6750억원)로 평가됐다고 발표했다.이로써 지난 3월 투자 유치로 8520억달러(약 1273조7400억원)의 몸값을 기록한 오픈AI를 넘어서는 수치다. 또 지난 2월 투자 라운드에서 앤트로픽이 기록한 3800억달러에서 2배 이상 뛰어오른 평가액이다.이번 투자는 알티미터 캐피털"
     },
     {
+      "id": "56c396eb257e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "published": "2026-05-28T21:45:54+00:00",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation Comments URL: https://news."
+    },
+    {
       "id": "b1aa42532a0c",
       "source": "Ars Technica",
       "kind": "article",
@@ -619,6 +729,17 @@
       "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output."
     },
     {
+      "id": "d9b6fb6cbf10",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "link": "https://nick.winans.io/blog/nice-nano/",
+      "published": "2026-05-28T20:25:21+00:00",
+      "summary": "Article URL: https://nick.winans.io/blog/nice-nano/ Comments URL: https://news.ycombinator.com/item?id=48314951 Points: 450 # Comments: 68"
+    },
+    {
       "id": "40791b5fdb91",
       "source": "The Verge",
       "kind": "article",
@@ -639,6 +760,17 @@
       "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
       "published": "2026-05-28T20:06:07+00:00",
       "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
+    },
+    {
+      "id": "574ec143c3d2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "published": "2026-05-28T19:15:54+00:00",
+      "summary": "Article URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/ Comments URL: https://news.ycombinator.com/item?id=48314002 Points: 266 # Comments: 90"
     },
     {
       "id": "4f4cbc76201b",
@@ -958,6 +1090,17 @@
       "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
       "published": "2026-05-28T15:00:00+00:00",
       "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona today."
+    },
+    {
+      "id": "eb8859979367",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "link": "https://huggingface.co/blog/torch-profiler",
+      "published": "2026-05-28T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "ccc16f103c0a",
@@ -3633,6 +3776,17 @@
       "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers."
     },
     {
+      "id": "bf1a2a732d4a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "link": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "published": "2026-05-26T16:41:58+00:00",
+      "summary": "Article URL: https://taoofmac.com/space/blog/2026/05/26/1730 Comments URL: https://news.ycombinator.com/item?id=48282180 Points: 249 # Comments: 120"
+    },
+    {
       "id": "28c756ad49db",
       "source": "The Verge",
       "kind": "article",
@@ -4192,6 +4346,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260526170557",
       "published": "2026-05-26T08:05:57+00:00",
       "summary": "[지디넷코리아]개인정보위가 '2026년 가명정보 활용 경진대회'를 연다. 응모작을 이달 26일부터 오는 7월 3일까지 접수 받는다. 총 상금 규모는 2450만 원이다.26일 개인정보위에 따르면, 이번 경진대회는 가명정보를 활용해 ▲사회·경제적 문제를 해결하거나 새로운 가치를 창출한 우수사례 부문과 ▲공공·민간 데이터의 안전한 활용 가능성을 제시하는 아이디어 부문으로 나눠 모집한다.접수기간 내 완료하지는 않았지만, 경진대회 개최일(9월말)까지 사실상 완료 가능한 건도 제출이 가능하다. 특히 가명정보"
+    },
+    {
+      "id": "80d4c2ebd6e0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "published": "2026-05-26T08:02:52+00:00",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/ Comments URL: https://news.ycombinator.com/item?id=48276598 Points: 209 # Comments: 171"
     },
     {
       "id": "49465c72069f",
