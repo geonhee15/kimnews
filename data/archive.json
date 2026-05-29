@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-29T22:20:54.504126+00:00",
-  "count": 878,
+  "updated_at": "2026-05-29T23:50:57.955153+00:00",
+  "count": 881,
   "items": [
+    {
+      "id": "0b85363af464",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+      "link": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+      "published": "2026-05-29T23:03:29+00:00",
+      "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" ea"
+    },
     {
       "id": "87ef3f879968",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
       "published": "2026-05-29T22:14:22+00:00",
       "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them."
+    },
+    {
+      "id": "7ab7e784bb48",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[5월29일] 요미우리 감독 사건은 왜 ‘챗GPT의 비극’이 됐나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211089",
+      "published": "2026-05-29T22:00:00+00:00",
+      "summary": "일본 인기 프로야구팀 요미우리 자이언츠의 아베 신노스케 감독이 딸을 폭행한 혐의로 체포된 뒤 사임한 소식은 큰 화제가 됐습니다.일본 경찰청은 그가 도쿄 시부야구에 있는 자택에서 18세 딸을 붙잡아 바닥에 눕힌 혐의로 체포됐다고 밝혔으며, 아베 감독은 26일 석방된 뒤 기자회견을 열고 눈물을 흘리며 사임을 발표했습니다.그라운드에서도 엄격한 것으로 유명한 아베 감독은 조사관들에게 딸들의 다툼을 말리려다 화를 참지 못했다고 진술했습니다. 그는 현역 시절 이승엽의 팀 동료로, 국내 팬들에도 잘 알려진 인"
     },
     {
       "id": "62d82af40e56",
@@ -210,6 +232,17 @@
       "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "published": "2026-05-29T16:22:01+00:00",
       "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 245 # Comments: 60"
+    },
+    {
+      "id": "ac59965f2f30",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Notes from the Mistral AI Now Summit",
+      "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "published": "2026-05-29T16:22:01+00:00",
+      "summary": "Article URL: https://koenvangilst.nl/lab/mistral-ai-now-summit Comments URL: https://news.ycombinator.com/item?id=48325340 Points: 297 # Comments: 101"
     },
     {
       "id": "53c371157104",
