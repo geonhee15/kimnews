@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-05-29T11:52:09.398661+00:00",
-  "count": 837,
+  "updated_at": "2026-05-29T14:54:28.551496+00:00",
+  "count": 845,
   "items": [
+    {
+      "id": "f554137d364e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
+      "link": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
+      "published": "2026-05-29T14:46:58+00:00",
+      "summary": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, and you currently can buy two for $23.99 ($16 off) at Amazon"
+    },
+    {
+      "id": "a1b4f2263d3b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "published": "2026-05-29T13:00:00+00:00",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try."
+    },
+    {
+      "id": "2977d0ca7e09",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM",
+      "link": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
+      "published": "2026-05-29T13:00:00+00:00",
+      "summary": "Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699. The laptop will use Intel's lower-cost Core Series 3 \"Wildcat Lake\" chips - either Core 5 or Core 7 models, both of which are six-core processors. It comes i"
+    },
+    {
+      "id": "09e95983ed67",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "published": "2026-05-29T12:00:00+00:00",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory."
+    },
+    {
+      "id": "1defebbf129e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hundreds of prolific Wikipedia editors are threatening to go on strike",
+      "link": "https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike",
+      "published": "2026-05-29T12:00:00+00:00",
+      "summary": "Wikipedia is one of the last bastions of trust on the internet. But last week, volunteer editors and contributors were alarmed to hear that a small but important team of engineers at the nonprofit that supports it had been laid off. The layoffs didn't just threaten to sever an im"
+    },
+    {
+      "id": "e530bab5265f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This AI startup will clean your home for free to train future robots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "published": "2026-05-29T11:58:40+00:00",
+      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual"
+    },
     {
       "id": "dd40d37a39cf",
       "source": "The Verge",
@@ -564,12 +630,34 @@
       "summary": "[지디넷코리아]B2B 식자재 통합 유통 플랫폼 오더히어로가 인공지능(AI) 기술을 활용해 영업 생산성효율화에 나섰다.오더히어로는 매장·메뉴·브랜드·지역 데이터를 결합한 AI 영업 자동화 앱 시스템을 구축했다고 29일 밝혔다. 회사 측에 따르면 이같은 시스템을 도입한 이후 영업 대상 매장 대비 실제 앱 사용으로 이어진 영업 성공률은 기존 대비 12%p 상승했으며, AI가 선별한 우량 리드를 기반으로 프랜차이즈 단위 공급 협의 3건을 완료하고 2건을 추가로 논의하고 있다. 오더히어로가 구축한 AI 시"
     },
     {
+      "id": "7b6a729b0063",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "published": "2026-05-29T02:13:20+00:00",
+      "summary": "Article URL: https://buildingbetter.tech/p/i-read-the-claude-code-source-code Comments URL: https://news.ycombinator.com/item?id=48318174 Points: 250 # Comments: 51"
+    },
+    {
       "id": "66aa868c3b19",
       "source": "TechCrunch",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "published": "2026-05-29T00:44:37+00:00",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
+    },
+    {
+      "id": "799a4c2f4b77",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
       "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
       "published": "2026-05-29T00:44:37+00:00",
       "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
