@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-30T13:17:17.063311+00:00",
-  "count": 926,
+  "updated_at": "2026-05-30T14:52:04.913125+00:00",
+  "count": 929,
   "items": [
+    {
+      "id": "66b8ec57e65e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "published": "2026-05-30T14:49:27+00:00",
+      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly."
+    },
+    {
+      "id": "a0f3cb698e25",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
+      "link": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+      "published": "2026-05-30T14:00:00+00:00",
+      "summary": "As handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package. It manages to squeeze the best features of past models and some welcome upgrades into a handheld that’s still no lar"
+    },
     {
       "id": "36ac3ecc8b2c",
       "source": "TechCrunch",
@@ -89,6 +111,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211139",
       "published": "2026-05-30T10:49:58+00:00",
       "summary": "구글이 AI 검색에서도 사용자가 신뢰하는 출처와 고품질 콘텐츠를 쉽게 발견할 수 있도록 돕는 새로운 업데이트를 발표했다.구글은 27일(현지시간) AI 개요와 AI 모드에서 사용자가 즐겨 찾는 웹사이트를 지정할 수 있는 '선호 소스(Preferred Sources)’ 기능을 추가했다.사용자가 검색 개인 설정에서 소스 기본 설정을 찾아 자주 방문하거나 신뢰하는 미디어나 블로그 사이트를 등록하면, AI 답변에서 해당 소스의 링크가 먼저 노출된다. 구글은 사전 테스트 결과, 사용자가 선호하는 소스로 지정"
+    },
+    {
+      "id": "7bf7f93a2c16",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pandoc Templates",
+      "link": "https://pandoc-templates.org/",
+      "published": "2026-05-30T09:56:42+00:00",
+      "summary": "Article URL: https://pandoc-templates.org/ Comments URL: https://news.ycombinator.com/item?id=48334515 Points: 218 # Comments: 26"
     },
     {
       "id": "4ef0e8d1f68e",
