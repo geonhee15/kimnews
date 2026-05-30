@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-30T08:40:57.417225+00:00",
-  "count": 912,
+  "updated_at": "2026-05-30T10:29:08.417960+00:00",
+  "count": 915,
   "items": [
+    {
+      "id": "4ef0e8d1f68e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"페인트 모션 후 라보나 킥\"…현대차, RL로 구현한 휴머노이드 제어 기술 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211138",
+      "published": "2026-05-30T09:49:16+00:00",
+      "summary": "현대자동차가 월드컵을 앞두고 자회사 보스턴 다이내믹스의 휴머노이드 로봇 아틀라스의 축구 동작 학습 과정을 담은 '스쿨 오브 풋볼(School of Football)' 캠페인 영상을 29일 공개했다.이 중 프롤로그와 첫 번째 시리즈에 해당하는 '기초 동작'은 지난 25일 선보여 화제가 됐다. 여기에 두 번째 훈련인 '킥'과 세 번째인 '라보나 킥'를 추가했다. 특히 29일에는 아틀라스가 수비수를 속이는 페인트 동작과 라보나 킥을 결합한 고난도 기술 '고스트 라보나 킥'이 하이라이트로 소개됐다.현대차"
+    },
+    {
+      "id": "eb232456dc22",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Do You Actually Need to Pay for Transcription Software?",
+      "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+      "published": "2026-05-30T09:30:00+00:00",
+      "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services."
+    },
     {
       "id": "8f9d0ef07690",
       "source": "AI타임스",
@@ -4500,6 +4522,17 @@
       "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
       "published": "2026-05-26T19:50:33+00:00",
       "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
+    },
+    {
+      "id": "2e138468d29e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "link": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "published": "2026-05-26T19:12:59+00:00",
+      "summary": "Article URL: https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/ Comments URL: https://news.ycombinator.com/item?id=48284494 Points: 208 # Comments: 83"
     },
     {
       "id": "e1bab6a2c6e8",
