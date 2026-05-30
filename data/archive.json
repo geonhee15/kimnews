@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T17:21:05.691755+00:00",
-  "count": 936,
+  "updated_at": "2026-05-30T18:38:10.122617+00:00",
+  "count": 938,
   "items": [
     {
       "id": "4760d0a22145",
@@ -166,6 +166,17 @@
       "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
       "published": "2026-05-30T11:41:29+00:00",
       "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 232 # Comments: 169"
+    },
+    {
+      "id": "8d756187225e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "link": "https://github.com/kristapsdz/openrsync",
+      "published": "2026-05-30T10:51:48+00:00",
+      "summary": "Article URL: https://github.com/kristapsdz/openrsync Comments URL: https://news.ycombinator.com/item?id=48334854 Points: 225 # Comments: 98"
     },
     {
       "id": "d0a134f10845",
@@ -4797,6 +4808,17 @@
       "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
       "published": "2026-05-26T18:33:01+00:00",
       "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
+    },
+    {
+      "id": "d9ce5d941673",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "link": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "published": "2026-05-26T18:05:42+00:00",
+      "summary": "Article URL: https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/ Comments URL: https://news.ycombinator.com/item?id=48283410 Points: 208 # Comments: 66"
     },
     {
       "id": "a53ca8d4465d",
