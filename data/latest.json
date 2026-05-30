@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-05-31",
-  "generated_at": "2026-05-30T19:53:41.840353+00:00",
-  "count": 4,
+  "generated_at": "2026-05-30T20:51:24.248033+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "bcb945a99340",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "summary": "Article URL: https://openrouter.ai/announcements/series-b Comments URL: https://news.ycombinator.com/item?id=48338660 Points: 223 # Comments: 105",
+      "content": "OpenRouter · 5/28/2026\n\nToday we're announcing our $113M Series B, led by CapitalG (opens in new tab) (Alphabet's independent growth fund), with participation from NVentures (opens in new tab) (NVIDIA's venture capital arm), ServiceNow (opens in new tab) Ventures, MongoDB (opens in new tab) Ventures, Snowflake (opens in new tab) Ventures, Databricks (opens in new tab) Ventures, AMP PBC (opens in new tab) , and Pace Capital (opens in new tab) , alongside our existing investors Andreessen Horowitz (opens in new tab) and Menlo Ventures (opens in new tab) .\n\nOver the last six months, weekly volume on OpenRouter has grown from 5 trillion to 25 trillion tokens. We are on pace to process over a quadrillion tokens this year and serve 8M+ developers building across 400+ models. AI is rapidly shifting from experimentation into critical production apps and agents, and that transition requires infrastructure that works reliably at scale, across providers, across modalities, and across use cases. This growth reflects the simple fact that developers love building on OpenRouter.\n\nThe composition of this investor group is deliberate. CapitalG, NVentures, ServiceNow Ventures, MongoDB Ventures, Snowflake Ventures, and Databricks Ventures are more than financial backers; they are the infrastructure and platform companies that enterprises already depend on. Their participation reflects a shared view: as organizations move from single-model pilots to multi-model production systems, they need a routing and gateway layer purpose-built for that complexity.\n\nOpenRouter is that layer. We sit between agents and model providers, handling the routing, reliability, cost optimization, and compliance that production AI demands. The breadth of strategic investors in this round signals that the market has converged on this as a critical piece of the stack.\n\nThe past year has been focused on expanding what OpenRouter can do for production workloads:\n\nWe'll use this funding to continue scaling our infrastructure, deepen enterprise capabilities, and continue to invest in intelligent routing; teams need help finding the right model and provider for every request. We're grateful to our customers, partners, investors, and the developer community building with us as we continue scaling the infrastructure layer for the multi-model AI era.",
+      "published": "2026-05-30T17:27:28+00:00"
+    },
     {
       "id": "4760d0a22145",
       "source": "TechCrunch",

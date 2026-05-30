@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-30T19:53:41.847808+00:00",
-  "count": 938,
+  "updated_at": "2026-05-30T20:51:24.256067+00:00",
+  "count": 940,
   "items": [
+    {
+      "id": "bcb945a99340",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "published": "2026-05-30T17:27:28+00:00",
+      "summary": "Article URL: https://openrouter.ai/announcements/series-b Comments URL: https://news.ycombinator.com/item?id=48338660 Points: 223 # Comments: 105"
+    },
     {
       "id": "4760d0a22145",
       "source": "TechCrunch",
@@ -56,6 +67,17 @@
       "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
       "published": "2026-05-30T14:49:27+00:00",
       "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly."
+    },
+    {
+      "id": "503bd4e1fdd9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Voxel Space (2017)",
+      "link": "https://s-macke.github.io/VoxelSpace/",
+      "published": "2026-05-30T14:25:50+00:00",
+      "summary": "Article URL: https://s-macke.github.io/VoxelSpace/ Comments URL: https://news.ycombinator.com/item?id=48336564 Points: 212 # Comments: 47"
     },
     {
       "id": "a0f3cb698e25",
