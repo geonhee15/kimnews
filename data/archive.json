@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-05-30T02:38:10.470444+00:00",
-  "count": 904,
+  "updated_at": "2026-05-30T06:03:53.837807+00:00",
+  "count": 910,
   "items": [
+    {
+      "id": "dc349ec0cc5e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리퀴드 AI, 온디바이스용 모델 ‘LFM2.5-8B-A1B’ 공개…환각 줄고 추론 대폭 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211132",
+      "published": "2026-05-30T03:55:22+00:00",
+      "summary": "리퀴드 AI가 소비자용 하드웨어에서 실행할 수 있는 차세대 온디바이스 AI 모델을 공개했다. 리퀴드 AI는 28일(현지시간) 도구 호출과 에이전트 작업 수행에 최적화된 전문가 혼합(MoE) 모델 ‘LFM2.5-8B-A1B’를 공개했다. 새 모델은 최대 12만8000토큰의 장문 컨텍스트와 추론(reasoning) 기능을 새롭게 지원한다.LFM2.5-8B-A1B는 지난해 공개된 LFM2-8B-A1B의 후속 모델로, 총 83억개(8.3B)의 매개변수를 보유하고 있지만 실제 추론 과정에서는 15억개(1."
+    },
+    {
+      "id": "966f6f09bd1b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스텝펀, ‘스텝 3.7 플래시’ 공개...\"클로드 오퍼스 97% 성능인데 비용은 1/9\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211130",
+      "published": "2026-05-30T03:47:59+00:00",
+      "summary": "스텝펀이 멀티모달 기능과 에이전트 실행 능력을 대폭 강화한 차세대 모델을 공개했다. 이 모델은 이미지 이해 기능이 처음으로 탑재됐으며, 코딩과 도구 활용, 장기 작업 수행 능력에서 전작을 크게 뛰어넘는 성능을 기록했다. 스텝펀은 29일(현지시간) 총 1980억개(198B)의 매개변수를 갖춘 희소 전문가 혼합(MoE) 기반 비전-언어 모델 ‘스텝 3.7 플래시(Step 3.7 Flash)’를 오픈소스로 공개했다.1960개 규모의 언어 모델과 18억개 규모의 비전 인코더(ViT)를 결합해 이미지와 텍"
+    },
+    {
+      "id": "81494ed2735d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, 새 네트워크 아키텍처 'RNG' 공개…\"장비 69% 줄이고 속도 33% 향상\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211136",
+      "published": "2026-05-30T03:31:45+00:00",
+      "summary": "아마존이 수십 년간 데이터센터 업계의 표준으로 자리 잡아온 계층형 네트워크 구조를 대체하는 새로운 네트워크 아키텍처를 공개했다. 새로운 기술이 데이터 처리 속도를 최대 33% 높이고 네트워크 전력 소비를 40% 줄일 수 있으며, 전 세계 클라우드 인프라 운영 비용을 수십억달러 절감할 수 있을 것으로 기대하고 있다.아마존은 28일(현지시간) 새로운 데이터센터 네트워크 구조인 ‘RNG(Resilient Network Graphs)’를 공개했다. RNG는 랜덤 그래프(Random Graph) 이론을 기"
+    },
+    {
+      "id": "0b1a3a3b60cd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 윈도우용 코덱스에 ‘컴퓨터 유즈’ 도입…모바일 원격 제어 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211135",
+      "published": "2026-05-30T03:03:47+00:00",
+      "summary": "오픈AI가 코딩 에이전트 ‘코덱스(Codex)’의 기능을 대폭 확장하며 윈도우 11 환경에서도 AI가 직접 컴퓨터를 조작할 수 있는 ‘컴퓨터 유즈(Computer Use)’ 기능을 지원하기 시작했다. 또 아이폰과 안드로이드용 챗GPT 앱을 통해 윈도우 PC에서 실행 중인 코덱스 작업을 원격으로 제어할 수 있게 되면서, 장소에 구애받지 않는 AI 개발 환경 구축에 한 걸음 더 다가섰다는 평가가 나왔다.오픈AI는 29일(현지시간) 코덱스 데스크톱 애플리케이션 업데이트를 통해 윈도우 11 사용자에게 컴"
+    },
+    {
+      "id": "7a9de0091e94",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타의 AI 학습용 '마우스 추적', 유럽 개인정보 규정 위반 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211129",
+      "published": "2026-05-30T02:50:33+00:00",
+      "summary": "메타가 AI 에이전트 개발을 위해 미국 직원들의 컴퓨터 사용 기록을 광범위하게 수집하는 가운데, 해외 직원들의 이메일과 채팅 내용까지 수집 대상에 포함될 수 있다는 사실이 알려졌다. 이 때문에 유럽의 개인정보보호 규정(GDPR) 위반 논란으로 확대될 가능성이 제기됐다.로이터는 29일(현지시간) 내부 문건을 인용, 메타가 ‘모델 역량 이니셔티브(MCI·Model Capability Initiative)’라는 도구를 도입해 직원들의 컴퓨터 사용 패턴을 AI 학습 데이터로 수집하고 있다고 보도했다. 이"
+    },
     {
       "id": "a373b2d857d3",
       "source": "AI타임스",
@@ -122,6 +177,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211085",
       "published": "2026-05-30T00:30:00+00:00",
       "summary": "여수시가 미취업 청년의 실무 경험과 취업 역량 강화를 위해 하반기 여수형 청년 맞춤형 인턴사업 참여자 111명을 모집한다.여수는 청년들이 시청과 유관기관에서 1개월 동안 행정업무 보조 등 다양한 실무를 경험하도록 지원한다.이번 사업은 청년이 취업 전 현장 업무를 직접 접하고, 진로 탐색과 직무 이해를 넓힐 수 있도록 마련됐다. 공공기관 업무 경험을 통해 지역 청년의 취업 준비 과정을 돕는 일경험 지원 정책이다.신청 자격은 공고일 기준 여수에 거주 중이거나 부모가 5년 이상 여수에 거주 중인 만18"
+    },
+    {
+      "id": "78cf7731765f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What Is a Dickover?",
+      "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
+      "published": "2026-05-29T23:54:22+00:00",
+      "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover Comments URL: https://news.ycombinator.com/item?id=48330882 Points: 238 # Comments: 101"
     },
     {
       "id": "0b85363af464",
