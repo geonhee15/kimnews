@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-30T14:52:04.913125+00:00",
-  "count": 929,
+  "updated_at": "2026-05-30T16:02:02.864679+00:00",
+  "count": 935,
   "items": [
+    {
+      "id": "4ba01ea3457f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is reportedly developing an AI pendant",
+      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "published": "2026-05-30T15:59:58+00:00",
+      "summary": "Meta seems to be making big bets on AI-powered hardware."
+    },
+    {
+      "id": "eaf0e7fcc6ee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "published": "2026-05-30T15:30:00+00:00",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product."
+    },
+    {
+      "id": "fa70de784150",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is threatening legal action for disclosing exploits",
+      "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "published": "2026-05-30T15:19:50+00:00",
+      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what cau"
+    },
     {
       "id": "66b8ec57e65e",
       "source": "TechCrunch",
@@ -23,6 +56,17 @@
       "link": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
       "published": "2026-05-30T14:00:00+00:00",
       "summary": "As handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package. It manages to squeeze the best features of past models and some welcome upgrades into a handheld that’s still no lar"
+    },
+    {
+      "id": "deec1147433b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "link": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "published": "2026-05-30T13:56:34+00:00",
+      "summary": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 246 # Comments: 231"
     },
     {
       "id": "36ac3ecc8b2c",
@@ -102,6 +146,17 @@
       "summary": "Slots & Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuilding roguelikes with slot machines to create an engrossing loop, and there's steady meta"
     },
     {
+      "id": "b9c8fc219f97",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "published": "2026-05-30T11:41:29+00:00",
+      "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/ Comments URL: https://news.ycombinator.com/item?id=48335135 Points: 232 # Comments: 169"
+    },
+    {
       "id": "d0a134f10845",
       "source": "AI타임스",
       "kind": "article",
@@ -144,6 +199,17 @@
       "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
       "published": "2026-05-30T09:30:00+00:00",
       "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services."
+    },
+    {
+      "id": "0e42ae653925",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zig: Build System Reworked",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "published": "2026-05-30T08:38:28+00:00",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-05-26 Comments URL: https://news.ycombinator.com/item?id=48334048 Points: 228 # Comments: 138"
     },
     {
       "id": "8f9d0ef07690",
