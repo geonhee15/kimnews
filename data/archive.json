@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-31T07:53:51.033194+00:00",
-  "count": 961,
+  "updated_at": "2026-05-31T10:11:20.574429+00:00",
+  "count": 967,
   "items": [
+    {
+      "id": "35547417876e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+      "link": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+      "published": "2026-05-31T10:01:00+00:00",
+      "summary": "Forget the pricey, postpaid cell plans and two-year contracts. Save with one of these WIRED-tested options from US Mobile, Boost, and Google Fi."
+    },
+    {
+      "id": "63b245993f78",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - Opus 4.8, Dynamic Workflows, Codex 윈도우 PC, DeepSWE, Elevenlabs 더빙 v2, grok video 1.5 등",
+      "link": "https://www.youtube.com/watch?v=GHKzUKnwGXk",
+      "published": "2026-05-31T09:00:09+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2d3d4a7d755e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "published": "2026-05-31T09:00:00+00:00",
+      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation."
+    },
+    {
+      "id": "228f8f2e59af",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "가우디오랩, 'AI 오디오'로 모빌리티 시장 조준...\"차량용 인포테인먼트 사운드 고도화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211149",
+      "published": "2026-05-31T08:25:03+00:00",
+      "summary": "가우디오랩(대표 오현오)은 최근 자동차 전장 전문 모트렉스와 AI 오디오 기술 탑재 ‘차량용 인포테인먼트 사운드 솔루션 고도화’ MOU를 체결, 모빌리티 산업 진출을 확장한다고 31일 밝혔다.모트렉스는 가우디오랩의 AI 오디오 원천기술을 차량용 IVI(In-Vehicle Infortainment) 양산 제품에 적용하기 위한 기술 협력을 추진한다. 완성차 고객사의 차세대 SDV(Software Defined Vehicle) 요구에 대응하고, AI 사운드 사용자경험(UX)을 강화한다는 전략이다.가우디"
+    },
     {
       "id": "cd9ae67448c2",
       "source": "AI타임스",
@@ -179,6 +223,17 @@
       "summary": "Article URL: https://shantellsans.com/process Comments URL: https://news.ycombinator.com/item?id=48341062 Points: 209 # Comments: 16"
     },
     {
+      "id": "172c31fc069f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "link": "https://av2.aomedia.org",
+      "published": "2026-05-30T21:46:18+00:00",
+      "summary": "Article URL: https://av2.aomedia.org Comments URL: https://news.ycombinator.com/item?id=48340910 Points: 203 # Comments: 80"
+    },
+    {
       "id": "c196e874e81f",
       "source": "Hacker News",
       "kind": "article",
@@ -199,6 +254,17 @@
       "link": "https://gptzero.me/investigations/ey",
       "published": "2026-05-30T19:02:54+00:00",
       "summary": "Article URL: https://gptzero.me/investigations/ey Comments URL: https://news.ycombinator.com/item?id=48339580 Points: 227 # Comments: 98"
+    },
+    {
+      "id": "b047181b0640",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zig ELF Linker Improvements Devlog",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "published": "2026-05-30T17:29:22+00:00",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-05-30 Comments URL: https://news.ycombinator.com/item?id=48338673 Points: 205 # Comments: 70"
     },
     {
       "id": "bcb945a99340",
