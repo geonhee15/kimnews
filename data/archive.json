@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-05-31T10:11:20.574429+00:00",
-  "count": 967,
+  "updated_at": "2026-05-31T11:51:16.360896+00:00",
+  "count": 973,
   "items": [
+    {
+      "id": "50d62b6bfed8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“단순 감지 넘어 맥락까지 본다”…그렙, AI 시험감독 기술에 ‘에이전트’ 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211152",
+      "published": "2026-05-31T11:44:43+00:00",
+      "summary": "AI 테스팅 전문 그렙(대표 임성수)은 온라인 시험 감독 솔루션 '모니토'에 에이전트 시스템을 도입, 정확도를 향상했다고 31일 밝혔다.AI 시험감독 모니토는 ▲시선 추적 ▲얼굴 인증 ▲화면 복제 및 듀얼 모니터 사용 방지 등 AI 기반 부정행위 방지 기술과 ▲웹캠과 모바일, 화면 공유를 통한 3채널 실시간 모니터링 기능을 갖춘 온라인 시험 감독 솔루션이다. 오프라인 대비 최대 40% 수준의 운영 비용 절감 효과를 입증한 바 있다.하지만, 기존에는 ‘손이 화면 밖으로 나갔다’와 같은 단순한 동작 "
+    },
+    {
+      "id": "db4577d6e1f2",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] 조코딩의 바이브 코딩 1인 창업 출간 기념 라이브",
+      "link": "https://www.youtube.com/watch?v=QJPhb3ovZAU",
+      "published": "2026-05-31T11:41:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b9b6eccd1ecf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈 모델, 폐쇄형에 4개월 뒤져…에포크 \"격차 다시 확대\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211153",
+      "published": "2026-05-31T11:12:06+00:00",
+      "summary": "개방형 AI 모델과 폐쇄형 모델 간 성능 격차가 올해 들어 다시 소폭 벌어진 것으로 나타났다. 다만 격차는 여전히 수개월 수준에 그쳤다.비영리 연구 기관인 에포크 AI(Epoch AI)는 29일(현지시간) 보고서를 통해 최고 수준의 오픈웨이트 모델이 최고 수준의 폐쇄형 모델보다 평균 4개월 정도 뒤처져 있다고 밝혔다.이번 분석은 자체 개발한 '에포크 역량 지수(ECI)'를 기반으로 이뤄졌다. ECI는 다양한 AI 평가 결과를 종합해 모델의 전반적인 성능 수준을 측정하는 지표다.ECI 기준 최고 점"
+    },
+    {
+      "id": "fad24808f8a1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Mercedes CLA offers great EV specs for an average price",
+      "link": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
+      "published": "2026-05-31T11:00:00+00:00",
+      "summary": "Despite headwinds from the current administration, automakers continue to release well-equipped EVs with bigger battery packs and increasingly faster charging speeds. For those who want to travel further between plugging in, the future is still bright, just slightly tinted. But t"
+    },
     {
       "id": "35547417876e",
       "source": "Wired",
@@ -67,6 +111,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211148",
       "published": "2026-05-31T07:25:03+00:00",
       "summary": "■ 제조 문서를 AI가 읽는 순간, 보안은 생산 경쟁력의 문제가 된다기업 AI 도입 논의에서 가장 먼저 등장하는 질문은 대부분 ‘성능’입니다. 문서를 얼마나 정확하게 읽는가, 업무를 얼마나 빠르게 처리하는가, 사람이 검토하던 과정을 얼마나 줄일 수 있는가가 주요 평가 기준이 됩니다. 그러나, 실제 제조 현장에 들어가면 질문은 곧 달라집니다. 이 문서를 AI가 읽어도 되는가. AI가 읽은 결과는 어디에 저장되는가. 누가 그 결과를 볼 수 있는가. 협력사나 외부 시스템과 공유할 수 없는 문서는 무엇인"
+    },
+    {
+      "id": "a29309caa4dd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Website Specification",
+      "link": "https://specification.website/",
+      "published": "2026-05-31T07:09:50+00:00",
+      "summary": "Article URL: https://specification.website/ Comments URL: https://news.ycombinator.com/item?id=48343683 Points: 210 # Comments: 81"
     },
     {
       "id": "206da5a15756",
@@ -6378,6 +6433,17 @@
       "category": "AI",
       "lang": "en",
       "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "link": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "published": "2026-05-25T17:49:30+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b4132d35447a",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Demis Hassabis On What AI Will Do Next",
       "link": "https://www.youtube.com/watch?v=huAwz_BR8WM",
       "published": "2026-05-25T17:49:30+00:00",
       "summary": ""
