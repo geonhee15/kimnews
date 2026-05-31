@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-31T11:51:16.360896+00:00",
-  "count": 973,
+  "updated_at": "2026-05-31T13:25:51.988118+00:00",
+  "count": 979,
   "items": [
+    {
+      "id": "8dcecf5bd911",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+      "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "published": "2026-05-31T13:00:00+00:00",
+      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace."
+    },
+    {
+      "id": "622a611bdadb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "published": "2026-05-31T13:00:00+00:00",
+      "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtr"
+    },
+    {
+      "id": "7f599494efea",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“춤추는 젠슨 황, CEO 같지 않아”…직원 행사 영상 또 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211155",
+      "published": "2026-05-31T12:48:15+00:00",
+      "summary": "Jensen Huang is out there living his best life, dancing at the NVIDIA all-employee celebration event in Taipei, TaiwanYou'd never guess he's the CEO pic.twitter.com/LsLTsMfPqd— Mario Nawfal (@MarioNawfal) May 30, 2026젠슨 황 엔비디아 CEO가 직원들과 함께 춤을 추는 영상이 온라인에서 화제를 모으고 있다.30일 X에 게시물을 올"
+    },
     {
       "id": "50d62b6bfed8",
       "source": "AI타임스",
@@ -9,6 +42,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "“단순 감지 넘어 맥락까지 본다”…그렙, AI 시험감독 기술에 ‘에이전트’ 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211152",
+      "published": "2026-05-31T11:44:43+00:00",
+      "summary": "AI 테스팅 전문 그렙(대표 임성수)은 온라인 시험 감독 솔루션 '모니토'에 에이전트 시스템을 도입, 정확도를 향상했다고 31일 밝혔다.AI 시험감독 모니토는 ▲시선 추적 ▲얼굴 인증 ▲화면 복제 및 듀얼 모니터 사용 방지 등 AI 기반 부정행위 방지 기술과 ▲웹캠과 모바일, 화면 공유를 통한 3채널 실시간 모니터링 기능을 갖춘 온라인 시험 감독 솔루션이다. 오프라인 대비 최대 40% 수준의 운영 비용 절감 효과를 입증한 바 있다.하지만, 기존에는 ‘손이 화면 밖으로 나갔다’와 같은 단순한 동작 "
+    },
+    {
+      "id": "fc0654c25ec2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“단순 감지 넘어 맥락까지 본다”…그렙, 시험감독 기술에 ‘에이전트’ 도입",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211152",
       "published": "2026-05-31T11:44:43+00:00",
       "summary": "AI 테스팅 전문 그렙(대표 임성수)은 온라인 시험 감독 솔루션 '모니토'에 에이전트 시스템을 도입, 정확도를 향상했다고 31일 밝혔다.AI 시험감독 모니토는 ▲시선 추적 ▲얼굴 인증 ▲화면 복제 및 듀얼 모니터 사용 방지 등 AI 기반 부정행위 방지 기술과 ▲웹캠과 모바일, 화면 공유를 통한 3채널 실시간 모니터링 기능을 갖춘 온라인 시험 감독 솔루션이다. 오프라인 대비 최대 40% 수준의 운영 비용 절감 효과를 입증한 바 있다.하지만, 기존에는 ‘손이 화면 밖으로 나갔다’와 같은 단순한 동작 "
@@ -58,6 +102,17 @@
       "summary": "Forget the pricey, postpaid cell plans and two-year contracts. Save with one of these WIRED-tested options from US Mobile, Boost, and Google Fi."
     },
     {
+      "id": "66b9f600eaeb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“AI 서버 구축 전 미리 성능 검증”…KAIST, LLM 인프라 시뮬레이터 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211151",
+      "published": "2026-05-31T10:00:00+00:00",
+      "summary": "AI 인프라의 성능과 효율을 미리 테스트하고 검증해 볼 수 있는 ‘AI 가상 실험장’ 개발에 성공했다. 한국과학기술원(KAIST, 총장 이광형)은 박종세 전산학부 교수 연구팀이 개발한 대형언어모델(LLM) 서비스 인프라 시뮬레이터 연구가 국제적인 컴퓨터 시스템 학회 ‘ISPASS 2026’에서 최우수 논문상을 받았다고 31일 밝혔다.연구팀이 개발한 인프라 시뮬레이터의 정식 명칭은 ‘LLM서빙심 2.0(LLMServingSim 2.0)’이다. 대규모 AI 서버를 구축하기 전에 컴퓨터 안에서 성능과 "
+    },
+    {
       "id": "63b245993f78",
       "source": "조코딩",
       "kind": "youtube",
@@ -86,6 +141,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "가우디오랩, 'AI 오디오'로 모빌리티 시장 조준...\"차량용 인포테인먼트 사운드 고도화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211149",
+      "published": "2026-05-31T08:25:03+00:00",
+      "summary": "가우디오랩(대표 오현오)은 최근 자동차 전장 전문 모트렉스와 AI 오디오 기술 탑재 ‘차량용 인포테인먼트 사운드 솔루션 고도화’ MOU를 체결, 모빌리티 산업 진출을 확장한다고 31일 밝혔다.모트렉스는 가우디오랩의 AI 오디오 원천기술을 차량용 IVI(In-Vehicle Infortainment) 양산 제품에 적용하기 위한 기술 협력을 추진한다. 완성차 고객사의 차세대 SDV(Software Defined Vehicle) 요구에 대응하고, AI 사운드 사용자경험(UX)을 강화한다는 전략이다.가우디"
+    },
+    {
+      "id": "faeaa9fad5bb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "가우디오랩, 'AI 오디오'로 모빌리티 시장 조준...\"차량용 사운드 고도화\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211149",
       "published": "2026-05-31T08:25:03+00:00",
       "summary": "가우디오랩(대표 오현오)은 최근 자동차 전장 전문 모트렉스와 AI 오디오 기술 탑재 ‘차량용 인포테인먼트 사운드 솔루션 고도화’ MOU를 체결, 모빌리티 산업 진출을 확장한다고 31일 밝혔다.모트렉스는 가우디오랩의 AI 오디오 원천기술을 차량용 IVI(In-Vehicle Infortainment) 양산 제품에 적용하기 위한 기술 협력을 추진한다. 완성차 고객사의 차세대 SDV(Software Defined Vehicle) 요구에 대응하고, AI 사운드 사용자경험(UX)을 강화한다는 전략이다.가우디"
