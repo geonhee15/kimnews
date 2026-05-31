@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-31T04:16:00.413399+00:00",
-  "count": 955,
+  "updated_at": "2026-05-31T07:53:51.033194+00:00",
+  "count": 961,
   "items": [
+    {
+      "id": "cd9ae67448c2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "소프트뱅크, 프랑스에 최대 131조 투자…유럽 최대 AI 인프라 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211144",
+      "published": "2026-05-31T07:39:43+00:00",
+      "summary": "일본 소프트뱅크가 프랑스에 최대 750억유로(약 131조원)의 AI 데이터센터 인프라를 구축하는 초대형 투자 계획을 발표했다. 계획이 현실화하면 유럽 최대 규모의 AI 데이터센터 프로젝트가 탄생하게 된다.30일(현지시간) 라트리뷴 에 따르면, 소프트뱅크는 프랑스 북부 오드프랑스 지역을 중심으로 2031년까지 450억유로(약 79조원)를 우선 투자해 총 3.1기가와트(GW) 규모의 AI 데이터센터 컴퓨팅 용량을 구축할 계획이라고 밝혔다.대상 지역은 됭케르크, 보스켈, 부샹 등이며, 이후 추가 개발을"
+    },
+    {
+      "id": "e68d3e18b1b4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[기고] 한국딥러닝 “제조 AI 보안의 핵심: 원문은 이해하되, 활용은 통제하라”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211148",
+      "published": "2026-05-31T07:25:03+00:00",
+      "summary": "■ 제조 문서를 AI가 읽는 순간, 보안은 생산 경쟁력의 문제가 된다기업 AI 도입 논의에서 가장 먼저 등장하는 질문은 대부분 ‘성능’입니다. 문서를 얼마나 정확하게 읽는가, 업무를 얼마나 빠르게 처리하는가, 사람이 검토하던 과정을 얼마나 줄일 수 있는가가 주요 평가 기준이 됩니다. 그러나, 실제 제조 현장에 들어가면 질문은 곧 달라집니다. 이 문서를 AI가 읽어도 되는가. AI가 읽은 결과는 어디에 저장되는가. 누가 그 결과를 볼 수 있는가. 협력사나 외부 시스템과 공유할 수 없는 문서는 무엇인"
+    },
+    {
+      "id": "206da5a15756",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, PC CPU 시장 본격 진출…MS와 첫 ‘윈도우 AI PC’ 선보인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211142",
+      "published": "2026-05-31T07:04:10+00:00",
+      "summary": "AI 칩 시장을 주도하고 있는 엔비디아가 본격적으로 PC 프로세서 시장에 진출한다. 마이크로소프트(MS)와 손잡고 자사 칩을 메인 프로세서로 탑재한 첫 윈도우 PC를 공개할 예정이다.30일(현지시간) 악시오스에 따르면, 엔비디아와 MS는 다음 주 대만에서 열리는 '컴퓨텍스 2026'과 미국 샌프란시스코에서 개최되는 'MS 빌드 2026'에서 공동 개발한 차세대 AI PC를 발표할 예정이다.새 제품은 엔비디아의 프로세서를 주 CPU로 사용하는 최초의 윈도우 PC로 알려졌다. 또 MS의 '서피스(Su"
+    },
     {
       "id": "ee058239f714",
       "source": "AI타임스",
@@ -122,6 +155,28 @@
       "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
       "published": "2026-05-30T23:26:13+00:00",
       "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026) Comments URL: https://news.ycombinator.com/item?id=48341578 Points: 586 # Comments: 189"
+    },
+    {
+      "id": "b13ea75cde10",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "published": "2026-05-30T23:26:13+00:00",
+      "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026) Comments URL: https://news.ycombinator.com/item?id=48341578 Points: 806 # Comments: 284"
+    },
+    {
+      "id": "31f7c5536cbb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Shantell Sans (2023)",
+      "link": "https://shantellsans.com/process",
+      "published": "2026-05-30T22:06:38+00:00",
+      "summary": "Article URL: https://shantellsans.com/process Comments URL: https://news.ycombinator.com/item?id=48341062 Points: 209 # Comments: 16"
     },
     {
       "id": "c196e874e81f",
@@ -1750,6 +1805,17 @@
       "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
       "published": "2026-05-29T02:49:43+00:00",
       "summary": "Article URL: https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert Comments URL: https://news.ycombinator.com/item?id=48318402 Points: 255 # Comments: 67"
+    },
+    {
+      "id": "d416ebe3d875",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I found a seashell in the middle of the desert",
+      "link": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "published": "2026-05-29T02:49:43+00:00",
+      "summary": "https://shell.hawzen.me/ Comments URL: https://news.ycombinator.com/item?id=48318402 Points: 301 # Comments: 77"
     },
     {
       "id": "7608cb5b14b5",
