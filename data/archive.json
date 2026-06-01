@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-06-01T18:35:23.230797+00:00",
-  "count": 1066,
+  "updated_at": "2026-06-01T21:54:36.126165+00:00",
+  "count": 1083,
   "items": [
+    {
+      "id": "ca99c5a609b7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "published": "2026-06-01T21:40:35+00:00",
+      "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition."
+    },
+    {
+      "id": "cdb514c1a90a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "published": "2026-06-01T21:35:00+00:00",
+      "summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big."
+    },
+    {
+      "id": "42cd4466e266",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "레드불 베이스먼트 해커톤 결승 현장에 왔습니다! #redbull #redbullbasement @redbull",
+      "link": "https://www.youtube.com/shorts/dXiIZfCz_0E",
+      "published": "2026-06-01T21:34:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7f9db24ea7be",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 비공개 IPO 신청서 제출…오픈AI보다 먼저 주도권 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211223",
+      "published": "2026-06-01T21:17:39+00:00",
+      "summary": "앤트로픽이 미국 증시 상장을 위한 비공개 기업공개(IPO) 신청서를 제출했다. 오픈AI보다 먼저 상장 절차에 돌입함으로써 시장 주도권을 선점하겠다는 의도다.앤트로픽은 1일(현지시간) 공지를 통해 이날 미국 증권거래위원회(SEC)에 IPO를 위한 예비 등록신고서(S-1)를 제출했다고 발표했다. 주식 수와 가격은 아직 정해지지 않았다고 덧붙였다.이번 상장 추진에 앞서 앤트로픽은 몸값을 크게 끌어올렸다. 지난달 28일 발표한 시리즈 H 라운드에서는 650억달러(약 98조원)의 자금을 조달하며 기업 가치"
+    },
+    {
+      "id": "2079483c8067",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+      "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+      "published": "2026-06-01T20:59:14+00:00",
+      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint Martin"
+    },
+    {
+      "id": "818b93958884",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "published": "2026-06-01T20:03:40+00:00",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident."
+    },
+    {
+      "id": "3094fa7a49e7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "published": "2026-06-01T20:02:31+00:00",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't"
+    },
+    {
+      "id": "d42a62b6625c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "published": "2026-06-01T20:00:00+00:00",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take o"
+    },
+    {
+      "id": "00d1d747a758",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "published": "2026-06-01T19:20:47+00:00",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then res"
+    },
+    {
+      "id": "6f4dfd09c0f0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+      "published": "2026-06-01T19:07:58+00:00",
+      "summary": "Even Danish researchers think it's bizarre."
+    },
+    {
+      "id": "0284488371cc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "published": "2026-06-01T18:52:19+00:00",
+      "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says."
+    },
     {
       "id": "59866a7f6456",
       "source": "TechCrunch",
@@ -14,6 +135,17 @@
       "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts."
     },
     {
+      "id": "4de23182ee16",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+      "published": "2026-06-01T17:41:47+00:00",
+      "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization."
+    },
+    {
       "id": "d3c8addaae3a",
       "source": "Wired",
       "kind": "article",
@@ -23,6 +155,17 @@
       "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
       "published": "2026-06-01T17:17:58+00:00",
       "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement."
+    },
+    {
+      "id": "5501af80674d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+      "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+      "published": "2026-06-01T17:17:55+00:00",
+      "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests."
     },
     {
       "id": "054a8ebb947d",
@@ -45,6 +188,17 @@
       "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
       "published": "2026-06-01T16:42:22+00:00",
       "summary": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages."
+    },
+    {
+      "id": "ea90ae036279",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "published": "2026-06-01T16:41:49+00:00",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Points: 235 # Comments: 94"
     },
     {
       "id": "585abfcfa885",
@@ -199,6 +353,17 @@
       "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
       "published": "2026-06-01T14:16:41+00:00",
       "summary": "Article URL: https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/ Comments URL: https://news.ycombinator.com/item?id=48357154 Points: 320 # Comments: 137"
+    },
+    {
+      "id": "35ab3fe3616b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CS336: Language Modeling from Scratch",
+      "link": "https://cs336.stanford.edu/",
+      "published": "2026-06-01T14:10:32+00:00",
+      "summary": "Article URL: https://cs336.stanford.edu/ Comments URL: https://news.ycombinator.com/item?id=48357075 Points: 282 # Comments: 37"
     },
     {
       "id": "cc6609dc3cd7",
@@ -388,6 +553,17 @@
       "summary": "구글이 인기 AI 도구인 '노트북LM(NotebookLM)'의 기능을 대폭 확장할 것으로 알려졌다. 개인 맞춤형 인텔리전스 기능부터 외부 데이터 연동, 바이브 코딩(Vibe Coding) 방식의 결과물 생성 기능까지 추가되면서 노트북LM이 단순 문서 분석 도구를 넘어 종합 AI 워크스페이스로 진화할 전망이다.30일(현지시간) 테스팅 카탈로그에 따르면, 구글은 노트북LM에 '개인 설정(Personalization)', '커넥터(Connectors)', '캔버스(Canvas)' 등 세 가지 핵심 기능"
     },
     {
+      "id": "30805aadb7d3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"이젠 바이브 코딩까지\"…구글, 노트북LM에 '캔버스' 도입 예정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211179",
+      "published": "2026-06-01T09:28:42+00:00",
+      "summary": "구글이 인기 AI 도구인 '노트북LM(NotebookLM)'의 기능을 대폭 확장할 것으로 알려졌다. 개인 맞춤형 인텔리전스 기능부터 외부 데이터 연동, 바이브 코딩(Vibe Coding) 방식의 결과물 생성 기능까지 추가되면서 노트북LM이 단순 문서 분석 도구를 넘어 종합 AI 워크스페이스로 진화할 전망이다.30일(현지시간) 테스팅 카탈로그에 따르면, 구글은 노트북LM에 '개인 설정(Personalization)', '커넥터(Connectors)', '캔버스(Canvas)' 등 세 가지 핵심 기능"
+    },
+    {
       "id": "2227bb97e4c2",
       "source": "AI타임스",
       "kind": "article",
@@ -562,6 +738,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211196",
       "published": "2026-06-01T05:38:25+00:00",
       "summary": "스페이스X의 기업공개(IPO)를 앞두고 기업 가치와 지배구조를 둘러싼 우려가 잇따르고 있다.덴마크 연금기금인 아카데미커펜시온은 29일(현지시간) 지배구조에 대한 우려와 과대평가된 주가를 이유로 정책상 스페이스X를 투자 제외 대상 기업 목록에 올렸다고 발표했다.아카데미커펜션은 성명을 통해 시장 지표를 기준으로 스페이스X의 기업 가치가 최소 1조8000억달러(약 2722조원) 수준에 이를 것으로 추정되며, 1조달러를 초과하는 기업 가치는 정당화하기 어렵다고 밝혔다. 이처럼 투자자들이 불확실성이 매우 "
+    },
+    {
+      "id": "bf95690b95fb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia RTX Spark",
+      "link": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "published": "2026-06-01T05:24:40+00:00",
+      "summary": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x... https://finance.yahoo.com/markets/article/nvidia-debuts-rtx-... https://www.macrumors.com/2026/06/01/nvidia-challenges-apple... Comments URL: https://news.ycombinator.com/item?id=48352939 Points: 250 # Comments: 216"
     },
     {
       "id": "91d161acc010",
