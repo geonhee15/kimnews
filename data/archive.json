@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-06-01T07:11:13.076904+00:00",
-  "count": 1017,
+  "updated_at": "2026-06-01T12:50:11.736444+00:00",
+  "count": 1043,
   "items": [
+    {
+      "id": "230775f5f2c8",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "직장인 필수 확인! 윈도우에서도 Codex Computer Use 가능",
+      "link": "https://www.youtube.com/shorts/hIjz4AR1sQg",
+      "published": "2026-06-01T12:39:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ce99f7ff7b52",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: China’s brain implant ambitions",
+      "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "published": "2026-06-01T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan pr"
+    },
+    {
+      "id": "eb3e12f7c81e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Strava declares war on scrapers ahead of IPO",
+      "link": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+      "published": "2026-06-01T12:00:00+00:00",
+      "summary": "Strava will charge a flat monthly fee from developers to access its API"
+    },
+    {
+      "id": "46e863aa7bac",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These are the first Nvidia RTX Spark laptops",
+      "link": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+      "published": "2026-06-01T11:29:52+00:00",
+      "summary": "Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner "
+    },
+    {
+      "id": "cd0e0dc8eb2d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "published": "2026-06-01T11:00:00+00:00",
+      "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did."
+    },
+    {
+      "id": "276142292fe2",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+      "published": "2026-06-01T11:00:00+00:00",
+      "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars."
+    },
+    {
+      "id": "f708691e1843",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
+      "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
+      "published": "2026-06-01T10:30:00+00:00",
+      "summary": "In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barragán traces one scammer’s journey from flop to fortune."
+    },
+    {
+      "id": "a6b099fc8d75",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국 AI 업계서 'FDE' 확보 전쟁 확산...\"예상 연봉 2배 제안\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211192",
+      "published": "2026-06-01T10:20:54+00:00",
+      "summary": "기업 현장에 AI를 실제로 적용하는 '전방 배치 엔지니어(FDE)'가 새로운 고소득 직군으로 떠오르고 있다. 31일(현지시간) 디 인포메이션에 따르면, AI 도입 수요가 폭증하면서 미국에서는 FDE 채용 공고가 1년 새 3배 이상 증가했으며, 일부 경력자는 예상 연봉의 2배를 제안받는 사례까지 등장했다.FDE는 소프트웨어 엔지니어와 컨설턴트, 제품 관리자 역할을 동시에 수행하는 직군이다. 기업이 AI를 실제 업무에 적용하는 과정에서 데이터 통합, 모델 선택, 업무 자동화 설계 등을 담당하며, AI"
+    },
+    {
+      "id": "b190a26df077",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 상시 에이전트 '콘웨이' 개발...플랫폼 진화 시동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211177",
+      "published": "2026-06-01T10:09:58+00:00",
+      "summary": "앤트로픽이 '클로드'를 단순한 대화형 서비스에서 벗어나 자율형 에이전트 플랫폼으로 확장하기 위한 대규모 기능 개편을 준비 중인 것으로 나타났다. 31일(현지시간) 코드 분석과 테스트 카탈로그 등을 통해 드러난 내용에 따르면, 앤트로픽은 상시 접속 에이전트 '콘웨이(Conway)'를 비롯해 능동형 개인 비서 '오빗(Orbit)', 생명과학 연구용 데스크톱 환경 '오페론(Operon)', 지식 기반 메모리 시스템, 다국어 음성 모드 등 다양한 신규 기능을 개발하고 있다.이번 계획은 최근 공개된 '클로"
+    },
+    {
+      "id": "c468cdafc237",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"불규칙한 노끈·랩도 척척\"…아이벡스, 피지컬 AI로 '무인 자동화' 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211222",
+      "published": "2026-06-01T09:59:07+00:00",
+      "summary": "산업용 피지컬 AI 전문 아이벡스(AIVEX)는 AI 로보틱스 제어 플랫폼 ‘아이봇’을 바탕으로 국내 2차전지 소재 선도기업에 ‘포장 해체 공정 무인 자동화 솔루션 구축’을 성공했다고 1일 밝혔다.이번 프로젝트는 양극재 생산 과정에서 사용되는 ‘도가니(crucible) 팔레트’의 랩과 노끈 제거 작업을 자동화했다는 점에서 의미를 지닌다. 구체적으로는, ▲노끈 인식 및 작업 경로 생성 ▲노끈 접합부 검출 ▲수직 노끈 상하 방향 자동 판별 ▲각대 위치 검출 ▲도가니 위치 틀어짐 보정 기반 랩 커팅 경"
+    },
+    {
+      "id": "778133270dbe",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"LLM 비용 90% 줄인다\"…넷플릭스 엔지니어가 개발한 '토큰 다이어트' 도구 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211214",
+      "published": "2026-06-01T09:54:08+00:00",
+      "summary": "넷플릭스의 한 엔지니어가 개발한 오픈소스 프로젝트가 AI 운영 비용을 획기적으로 줄이는 해법으로 주목받고 있다.30일(현지시간) 더 레지스터에 따르면, 넷플릭스 수석 엔지니어인 테자스 초프라는 최근 오픈소스 서밋(Open Source Summit)에서 자신이 개발한 오픈소스 프로젝트 ‘헤드룸(Headroom)’을 소개했다.그는 이 도구가 사용자들에게 지금까지 70만달러(약 10억원)의 비용 절감 효과를 제공했다고 밝혔다. 절감된 토큰 규모는 2000억개에 달한다.초프라 수석 엔지니어는 AI 모델에"
+    },
+    {
+      "id": "270e2640b111",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "클로드 Opus 4.8 공개... GPT 5.5 따돌렸나?",
+      "link": "https://www.youtube.com/shorts/IduQonUNiCA",
+      "published": "2026-06-01T09:41:57+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a618376ffc0b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Websites Can Now Spy on You Through Your Hard Drive",
+      "link": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+      "published": "2026-06-01T09:30:00+00:00",
+      "summary": "Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript."
+    },
+    {
+      "id": "6ac132df031e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"이젠 바이브 코딩까지\"…구글, 노트북LM에 신규 기능 '캔버스' 도입 예정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211179",
+      "published": "2026-06-01T09:28:42+00:00",
+      "summary": "구글이 인기 AI 도구인 '노트북LM(NotebookLM)'의 기능을 대폭 확장할 것으로 알려졌다. 개인 맞춤형 인텔리전스 기능부터 외부 데이터 연동, 바이브 코딩(Vibe Coding) 방식의 결과물 생성 기능까지 추가되면서 노트북LM이 단순 문서 분석 도구를 넘어 종합 AI 워크스페이스로 진화할 전망이다.30일(현지시간) 테스팅 카탈로그에 따르면, 구글은 노트북LM에 '개인 설정(Personalization)', '커넥터(Connectors)', '캔버스(Canvas)' 등 세 가지 핵심 기능"
+    },
+    {
+      "id": "2227bb97e4c2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"가상 세계도 멀티플레이\"…엔비디아, 다중 에이전트 월드 모델 ‘감마 월드’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211203",
+      "published": "2026-06-01T09:18:28+00:00",
+      "summary": "엔비디아가 여러 AI 에이전트가 동시에 상호작용하는 가상 세계를 실시간으로 생성할 수 있는 새로운 월드 모델을 발표했다. 이번 연구는 기존의 단일 에이전트 중심 AI 시뮬레이션을 넘어 여러 플레이어와 로봇이 하나의 환경을 공유하는 ‘멀티플레이어 월드 모델’ 시대를 여는 기술로 평가받고 있다.엔비디아 연구진은 27일(현지시간) 기존의 단일 에이전트 중심 세계 모델을 넘어 다수의 플레이어와 로봇이 함께 활동하는 복잡한 환경을 효율적으로 시뮬레이션할 수 있는 월드 모델 ‘감마 월드(γ-World)’를 "
+    },
+    {
+      "id": "2c470216fe06",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "published": "2026-06-01T09:09:00+00:00",
+      "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write. Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but "
+    },
+    {
+      "id": "a89d15c426c1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'클로드 오퍼스 4.8' 딥SWE 벤치마크에 첫 등장...1위는 여전히 'GPT-5.5'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211211",
+      "published": "2026-06-01T09:00:00+00:00",
+      "summary": "앤트로픽의 최신 모델 '클로드 오퍼스 4.8'이 새로운 코딩 벤치마크에 처음 포함됐지만, 'GPT-5.5'를 제치지는 못했다.스타트업 데이터커브는 30일(현지시간) AI 코딩 평가 시스템 ‘딥SWE(DeepSWE)’의 업데이트를 통해 클로드 오퍼스 4.8을 포함했다.이에 따르면, 클로드 오퍼스 4.8은 58%의 정답률을 기록, 이전 버전인 '클로드 오퍼스 4.7'의 54%와 'GPT-5.4'의 56%를 뛰어 넘었다. 그러나 기존 1위인 GPT-5.5의 70%와는 12%포인트 격차를 보였다.특히 G"
+    },
+    {
+      "id": "50b7924c97f7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 윈도우용 DGX 스테이션 공개…”1조 매개변수 모델 로컬로 실행”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211219",
+      "published": "2026-06-01T08:55:35+00:00",
+      "summary": "엔비디아가 세계 최고 성능 데스크사이드 AI 슈퍼컴퓨터 ‘윈도우용 엔비디아 DGX 스테이션(DGX Station for Windows)’을 공개했다. 엔비디아는 1일 열린 ‘엔비디아 GTC 타이베이’에서 마이크로소프트(MS)와의 협력으로 개발된 윈도우용 DGX 스테이션이 전용 에이전트 인프라 역할을 수행한다고 발표했다.최대 1조 매개변수 규모의 AI 모델을 로컬에서 실행할 수 있다는 것이 강점이다. 기존에는 훈련과 미세조정, 대규모 추론, 멀티 에이전트 개발 등 고성능 엔터프라이즈 AI 워크로드에"
+    },
+    {
+      "id": "d0144f34e40e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI가 운영하는 '가상 사회' 실험 했더니...“제미나이는 혼란·그록은 4일 만에 멸망”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211216",
+      "published": "2026-06-01T08:37:13+00:00",
+      "summary": "AI 에이전트가 인간의 개입 없이 사회를 운영한다면 어떤 세상이 만들어질까. 기업용 AI 스타트업인 이머전스 AI(Emergence AI)가 진행한 대규모 시뮬레이션 실험이 흥미롭고도 우려스러운 결과를 내놓았다. 동일한 조건에서 운영된 가상 사회가 AI 모델에 따라 극단적으로 다른 모습을 보였기 때문이다.28일(현지시간) 포춘에 따르면, 에머전스 AI는 최근 자율적으로 작동하는 AI 시스템의 장기적인 안정성과 행동 특성을 연구하기 위해 ‘에머전스 월드(Emergence World)’라는 연구 프로"
+    },
+    {
+      "id": "1e43477b7af2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "프리윌린, AI로 ‘가상 물리·화학 실험’ 지원…”안전하게 원리 이해”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211220",
+      "published": "2026-06-01T08:15:00+00:00",
+      "summary": "AI 교육 전문 프리윌린(대표 권기성)은 지난 5월28일부터 30일까지 여수엑스포컨벤션센터에서 열린 ‘제22회 대한민국청소년박람회’에 참가해 풀리스쿨의 ‘과학 가상 실험 콘텐츠’를 선보였다고 밝혔다.프리윌린은 이번 박람회 AI·디지털존에 참가해 ‘풀리스쿨에서 만나는 나만의 물리·화학 실험실’ 부스를 운영했다. 현장에서는 풀리스쿨의 과학 가상 실험 콘텐츠인 '물리 실험도구'와 '화학 실험도구'를 소개했다. 황재철 풀리스쿨 본부장은 \"’디지털트윈 개념을 교육적으로 확장한 AI 가상 실험 콘텐츠’라고 "
+    },
+    {
+      "id": "c1ef14f5491c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, 직원들의 '토큰 맥싱' 경쟁 막기 위해 AI 순위표 폐지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211198",
+      "published": "2026-06-01T08:13:41+00:00",
+      "summary": "아마존이 직원들의 AI 사용량을 경쟁적으로 비교하던 내부 순위표를 폐지했다. 일부 직원들이 순위를 올리기 위해 불필요한 AI 작업을 대량 생성하면서 컴퓨팅 비용이 급증했기 때문이다.29일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 직원들에게 AI 개발 플랫폼 '키로(Kiro)' 사용 현황을 집계하던 내부 서비스 '키로랭크(KiroRank)'를 중단했다고 통보했다.이 서비스는 직원들의 AI 활동량을 점수화해 순위를 매기는 방식으로 운영됐다.그러나 순위 경쟁이 과열되면서 일부 직원들은 실제 업"
+    },
+    {
+      "id": "b80ffc12b481",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SKT, 'GTC'서 엔비디아 옴니버스 기반 디지털 트윈 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211217",
+      "published": "2026-06-01T08:08:20+00:00",
+      "summary": "SK텔레콤(대표 정재헌)은 엔비디아 '옴니버스(Omniverse)'를 활용해 SK하이닉스 반도체 팹에 디지털 트윈을 적용, 복잡한 대규모 제조 환경에 최적화했다고 1일 밝혔다.SKT는 1일(현지시간) 대만에서 열린 'GTC 타이베이(GTC Taipei)' 기조연설에서 제조 피지컬 AI 분야 엔비디아 주요 협력 파트너로 소개됐다. 대표 사례로 엔비디아 옴니버스를 활용한 SKT와 SK하이닉스의 반도체 제조 공정 디지털 트윈을 소개했다. SK하이닉스는 ‘자율형 공장 2030’ 구축 목표의 일부로, 지난"
+    },
     {
       "id": "c19f284ad292",
       "source": "AI타임스",
@@ -201,6 +443,17 @@
       "summary": ""
     },
     {
+      "id": "6d00b0b5c280",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Einstein vs Feynman, Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
+      "link": "https://www.youtube.com/shorts/vsKH3oPwss4",
+      "published": "2026-06-01T00:16:21+00:00",
+      "summary": ""
+    },
+    {
       "id": "fb5422b6ed16",
       "source": "AI타임스",
       "kind": "article",
@@ -267,6 +520,17 @@
       "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had"
     },
     {
+      "id": "7ff61aca1387",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s strategy for smart glasses is the same as for smart watches",
+      "link": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+      "published": "2026-05-31T21:33:11+00:00",
+      "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had"
+    },
+    {
       "id": "84f66ac500dc",
       "source": "TechCrunch",
       "kind": "article",
@@ -276,6 +540,17 @@
       "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
       "published": "2026-05-31T21:05:14+00:00",
       "summary": "Environmental activist Erin Brockovich has a new mission."
+    },
+    {
+      "id": "975dd7c5c015",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "link": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "published": "2026-05-31T20:35:38+00:00",
+      "summary": "Article URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration Comments URL: https://news.ycombinator.com/item?id=48349487 Points: 250 # Comments: 95"
     },
     {
       "id": "95888f4a42d3",
@@ -309,6 +584,17 @@
       "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
       "published": "2026-05-31T18:28:17+00:00",
       "summary": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme."
+    },
+    {
+      "id": "523139e78427",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "published": "2026-05-31T17:02:23+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 245 # Comments: 394"
     },
     {
       "id": "92d855410846",
