@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-01T21:54:36.126165+00:00",
-  "count": 1083,
+  "updated_at": "2026-06-01T23:24:30.559934+00:00",
+  "count": 1088,
   "items": [
+    {
+      "id": "7eb6625708f3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "published": "2026-06-01T22:55:09+00:00",
+      "summary": "The Google parent company plans to raise the funds by selling stock."
+    },
+    {
+      "id": "a973fd630679",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월1일] AI의 수학 난제 돌파에 충격받은 수학계…왜 인간은 실패하고 AI는 성공했나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211171",
+      "published": "2026-06-01T22:00:00+00:00",
+      "summary": "AI가 수십년간 인간 수학자들이 풀지 못했던 문제에서 잇달아 성과를 내며 학계를 놀라게 하는 것으로 알려졌습니다. 오픈AI는 지난달 20일(현지시간) 새로운 추론 모델이 폴 에르되시가 1946년 제기한 유명한 미해결 기하학 추측을 반박하는 독창적인 수학 증명을 만들어냈다고 주장했습니다.이어 21일에는 구글이 '알파프루프 넥서스(AlphaProof Nexus)' 모델로 역시 미해결 에르되시 문제 9개와 OEIS 추측 44개를 해결했다고 발표했습니다. 핵심은 AI가 답만 낸 게 아니라, 증명을 만들고"
+    },
     {
       "id": "ca99c5a609b7",
       "source": "TechCrunch",
@@ -56,6 +78,39 @@
       "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
       "published": "2026-06-01T20:59:14+00:00",
       "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint Martin"
+    },
+    {
+      "id": "8185fb472594",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo",
+      "link": "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
+      "published": "2026-06-01T20:58:34+00:00",
+      "summary": "Amid a raging Ebola outbreak, officials \"urgently accelerate development\" of vaccines."
+    },
+    {
+      "id": "032e22a8ef73",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+      "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+      "published": "2026-06-01T20:44:37+00:00",
+      "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit."
+    },
+    {
+      "id": "6aacdaf1e51c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
+      "published": "2026-06-01T20:13:09+00:00",
+      "summary": "It's Microsoft's least-weird attempt at a high-end mobile workstation."
     },
     {
       "id": "818b93958884",
