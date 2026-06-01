@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-06-01T12:50:11.736444+00:00",
-  "count": 1043,
+  "updated_at": "2026-06-01T18:35:23.230797+00:00",
+  "count": 1066,
   "items": [
+    {
+      "id": "59866a7f6456",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "published": "2026-06-01T18:34:32+00:00",
+      "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts."
+    },
+    {
+      "id": "d3c8addaae3a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "published": "2026-06-01T17:17:58+00:00",
+      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement."
+    },
+    {
+      "id": "054a8ebb947d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AMD extends Socket AM5 support through at least 2029; AM4 refuses to die",
+      "link": "https://arstechnica.com/gadgets/2026/06/amd-extends-socket-am5-support-through-at-least-2029-am4-refuses-to-die/",
+      "published": "2026-06-01T17:02:22+00:00",
+      "summary": "The 5800X3D returns at $349, while the 7700X3D debuts at $329."
+    },
+    {
+      "id": "197c8fdfc886",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+      "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+      "published": "2026-06-01T16:42:22+00:00",
+      "summary": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages."
+    },
+    {
+      "id": "585abfcfa885",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic has officially filed to go public",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "published": "2026-06-01T16:40:38+00:00",
+      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massi"
+    },
+    {
+      "id": "3fe74287d8ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic files to go public",
+      "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "published": "2026-06-01T16:36:55+00:00",
+      "summary": "The company said Monday it has filed confidentially for an IPO."
+    },
+    {
+      "id": "cd57723b6583",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "published": "2026-06-01T16:33:59+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/ Comments URL: https://news.ycombinator.com/item?id=48359130 Points: 207 # Comments: 103"
+    },
+    {
+      "id": "0db64eefcd8d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "published": "2026-06-01T16:31:42+00:00",
+      "summary": "Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco Comments URL: https://news.ycombinator.com/item?id=48359102 Points: 485 # Comments: 122"
+    },
+    {
+      "id": "18f2e5be29d3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "published": "2026-06-01T16:00:40+00:00",
+      "summary": "Article URL: https://www.anthropic.com/news/confidential-draft-s1-sec Comments URL: https://news.ycombinator.com/item?id=48358646 Points: 234 # Comments: 156"
+    },
+    {
+      "id": "bac476c8611b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "published": "2026-06-01T16:00:00+00:00",
+      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days."
+    },
+    {
+      "id": "26ff6794de3b",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+      "link": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+      "published": "2026-06-01T15:41:22+00:00",
+      "summary": ""
+    },
+    {
+      "id": "0b19f7c2b69d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
+      "link": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
+      "published": "2026-06-01T15:24:32+00:00",
+      "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen’s FineTrack 2 glows in the dark, and it has a loud 110-decibel alarm when you need"
+    },
+    {
+      "id": "76c444bcd3ad",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "published": "2026-06-01T14:49:10+00:00",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users."
+    },
+    {
+      "id": "6ae390ac2149",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
+      "link": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+      "published": "2026-06-01T14:47:22+00:00",
+      "summary": "Nvidia's new chips will power laptop workstations and mini desktop PCs at first."
+    },
+    {
+      "id": "e08493157124",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "published": "2026-06-01T14:39:03+00:00",
+      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to"
+    },
+    {
+      "id": "6987ce4f1b8c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Computex 2026: All the news and announcements",
+      "link": "https://www.theverge.com/tech/940844/computex-2026",
+      "published": "2026-06-01T14:33:02+00:00",
+      "summary": "Computex 2026 is kicking off in Taipei, Taiwan this week, where Nvidia, AMD, Qualcomm, Intel, and other tech brands are announcing new laptops, handhelds, chips, and more. Nvidia unveiled RTX Spark, its first family of consumer PC chips, arriving in laptops and mini PCs starting "
+    },
+    {
+      "id": "d07f30da66c0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "link": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "published": "2026-06-01T14:30:00+00:00",
+      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happ"
+    },
+    {
+      "id": "f11122d1cb1b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "published": "2026-06-01T14:16:41+00:00",
+      "summary": "Article URL: https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/ Comments URL: https://news.ycombinator.com/item?id=48357154 Points: 320 # Comments: 137"
+    },
+    {
+      "id": "cc6609dc3cd7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "link": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "published": "2026-06-01T14:06:44+00:00",
+      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In a"
+    },
+    {
+      "id": "1b7d256d0991",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+      "link": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+      "published": "2026-06-01T13:32:16+00:00",
+      "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory."
+    },
+    {
+      "id": "f316255242a9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - Opus 4.8, Dynamic Workflows, Codex 윈도우 PC, DeepSWE, Elevenlabs 더빙 v2, grok video 1.5 등",
+      "link": "https://www.youtube.com/watch?v=EpQwoNbmBkg",
+      "published": "2026-06-01T13:00:21+00:00",
+      "summary": ""
+    },
     {
       "id": "230775f5f2c8",
       "source": "조코딩",
@@ -245,6 +476,17 @@
       "summary": "SK텔레콤(대표 정재헌)은 엔비디아 '옴니버스(Omniverse)'를 활용해 SK하이닉스 반도체 팹에 디지털 트윈을 적용, 복잡한 대규모 제조 환경에 최적화했다고 1일 밝혔다.SKT는 1일(현지시간) 대만에서 열린 'GTC 타이베이(GTC Taipei)' 기조연설에서 제조 피지컬 AI 분야 엔비디아 주요 협력 파트너로 소개됐다. 대표 사례로 엔비디아 옴니버스를 활용한 SKT와 SK하이닉스의 반도체 제조 공정 디지털 트윈을 소개했다. SK하이닉스는 ‘자율형 공장 2030’ 구축 목표의 일부로, 지난"
     },
     {
+      "id": "e009f94eb5fa",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "published": "2026-06-01T06:45:17+00:00",
+      "summary": ""
+    },
+    {
       "id": "c19f284ad292",
       "source": "AI타임스",
       "kind": "article",
@@ -320,6 +562,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211196",
       "published": "2026-06-01T05:38:25+00:00",
       "summary": "스페이스X의 기업공개(IPO)를 앞두고 기업 가치와 지배구조를 둘러싼 우려가 잇따르고 있다.덴마크 연금기금인 아카데미커펜시온은 29일(현지시간) 지배구조에 대한 우려와 과대평가된 주가를 이유로 정책상 스페이스X를 투자 제외 대상 기업 목록에 올렸다고 발표했다.아카데미커펜션은 성명을 통해 시장 지표를 기준으로 스페이스X의 기업 가치가 최소 1조8000억달러(약 2722조원) 수준에 이를 것으로 추정되며, 1조달러를 초과하는 기업 가치는 정당화하기 어렵다고 밝혔다. 이처럼 투자자들이 불확실성이 매우 "
+    },
+    {
+      "id": "91d161acc010",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "published": "2026-06-01T04:51:18+00:00",
+      "summary": ""
     },
     {
       "id": "d83b7b40cbc4",
