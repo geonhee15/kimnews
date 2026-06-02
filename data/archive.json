@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-02T21:45:49.864897+00:00",
-  "count": 1169,
+  "updated_at": "2026-06-02T23:23:23.118350+00:00",
+  "count": 1175,
   "items": [
+    {
+      "id": "5496389deaa9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월2일] \"토큰인가 사람인가\"...AI 해고 논쟁의 새로운 국면",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211241",
+      "published": "2026-06-02T22:00:00+00:00",
+      "summary": "AI가 일자리를 빼앗고 있다는 주장은 이제 익숙한 이야기입니다. 일부 기업들도 공공연하게 AI 도입으로 인해 직원을 줄이겠다고 발표했습니다.하지만 그동안 AI 해고 논란은 주로 AI 투자 확대와 대규모 감원이 동시에 진행된 일부 빅테크 기업을 중심으로 제기돼 왔습니다. 이 때문에 많은 전문가들은 AI가 일자리를 줄인다는 직접적인 증거가 없다며, 경기 둔화나 조직 개편, 비용 절감 등 다른 이유를 들었습니다. 실제로 대부분 기업은 AI와 해고를 직접 연결하는 것은 과도한 해석으로 취급했으며, 상당수"
+    },
+    {
+      "id": "06cae681c337",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '미소스' 전 세계 150개 조직으로 확대...\"삼성·SK 포함\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211271",
+      "published": "2026-06-02T21:58:34+00:00",
+      "summary": "앤트로픽이 사이버보안 모델 '미소스'를 전 세계 150개 조직으로 확대 배포했다. 여기에는 국내 정부와 삼성, SK하이닉스, SK텔레콤 등이 포함된 것으로 알려졌다.앤트로픽은 2일(현지시간) '프로젝트 글래스윙'의 접근 제한을 풀어 전 세계 약 150개 기관으로 배포 대상을 확대했다고 발표했다. 새로 추가된 단체들이 15개국에 기반을 두고 있으며, 대부분은 전력과 의료, 통신 등 국가 필수 인프라를 제공한다고 밝혔다. 또 전 세계 수많은 정부와 기관에서 사용하는 코드베이스를 유지 관리하는 공급업체"
+    },
+    {
+      "id": "b15d6be1b5ac",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "published": "2026-06-02T20:47:54+00:00",
+      "summary": "Microsoft missed the boat on apps, so get ready for agents."
+    },
     {
       "id": "991c32bcaaa3",
       "source": "The Verge",
@@ -12,6 +45,17 @@
       "link": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
       "published": "2026-06-02T20:40:00+00:00",
       "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It’s coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sony’s b"
+    },
+    {
+      "id": "9a9a10375cf4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+      "published": "2026-06-02T20:17:41+00:00",
+      "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces."
     },
     {
       "id": "c8bda7176a52",
@@ -91,6 +135,17 @@
       "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure."
     },
     {
+      "id": "315150d1b43a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+      "link": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+      "published": "2026-06-02T18:19:06+00:00",
+      "summary": "International Mathematical Union endorses warning about tech industry influence."
+    },
+    {
       "id": "c01d7034339f",
       "source": "TechCrunch",
       "kind": "article",
@@ -141,6 +196,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Google announces deepfake call detection for Android, new AirDrop device support",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "published": "2026-06-02T18:00:46+00:00",
+      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI."
+    },
+    {
+      "id": "9aa70d6b3c57",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
       "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
       "published": "2026-06-02T18:00:46+00:00",
       "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI."
