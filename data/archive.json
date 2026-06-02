@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-06-02T11:04:03.740436+00:00",
-  "count": 1116,
+  "updated_at": "2026-06-02T15:11:15.005371+00:00",
+  "count": 1134,
   "items": [
+    {
+      "id": "2829f35d56e6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Europe’s AI strategy diverges from Silicon Valley’s",
+      "link": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
+      "published": "2026-06-02T15:05:00+00:00",
+      "summary": "The global AI race is often framed as a battle between the United States and China. But at VivaTech, Europe is expected to make the case for an entirely different model."
+    },
+    {
+      "id": "aa3ac3a66aa4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta tests ‘Series’ for episodic Reels on Instagram and Facebook",
+      "link": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+      "published": "2026-06-02T15:00:00+00:00",
+      "summary": "Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like."
+    },
+    {
+      "id": "c46150909711",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X caters to creators with new ‘React with Video’ feature",
+      "link": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
+      "published": "2026-06-02T14:46:28+00:00",
+      "summary": "X will now let you 'react with video' to posts."
+    },
+    {
+      "id": "0e555d97ef5a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "published": "2026-06-02T14:44:21+00:00",
+      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people."
+    },
+    {
+      "id": "0cadd924644b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
+      "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
+      "published": "2026-06-02T14:39:29+00:00",
+      "summary": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market."
+    },
+    {
+      "id": "6be955aab88c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "published": "2026-06-02T12:38:08+00:00",
+      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check "
+    },
+    {
+      "id": "2d3591fe81b7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "published": "2026-06-02T12:32:59+00:00",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem."
+    },
+    {
+      "id": "bd94fa141f71",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI can run your admin department now",
+      "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "published": "2026-06-02T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of ski"
+    },
+    {
+      "id": "f1c9d92d83da",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "published": "2026-06-02T12:00:00+00:00",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
+    },
+    {
+      "id": "cef6cff68f7b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "People are leaving a lot of weird stuff in their robotaxis",
+      "link": "https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride",
+      "published": "2026-06-02T12:00:00+00:00",
+      "summary": "A unicorn Beanie Baby. A 15-pound green bowling ball. A pair of dentures. These are just some of the items left behind in robotaxis in the past year, according to Uber's annual Lost and Found Index. For the first time, the company is expanding its annual of accounting of things f"
+    },
+    {
+      "id": "6e7e7d090ab0",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Rehumanizing global health care with agentic AI",
+      "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "published": "2026-06-02T11:23:34+00:00",
+      "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and hi"
+    },
     {
       "id": "6b97d98c3c41",
       "source": "The Verge",
@@ -34,6 +155,28 @@
       "link": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
       "published": "2026-06-02T10:31:00+00:00",
       "summary": "The air purifier giant’s P50 pedestal fan is whisper-quiet and surprisingly versatile, even if its built-in voice assistant feels stuck in beta."
+    },
+    {
+      "id": "d7c18e4d1f5d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "link": "https://blog.adafruit.com/",
+      "published": "2026-06-02T10:00:56+00:00",
+      "summary": "Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 343 # Comments: 117"
+    },
+    {
+      "id": "e5ffbc7e8a26",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why Janet? (2023)",
+      "link": "https://ianthehenry.com/posts/why-janet/",
+      "published": "2026-06-02T09:34:31+00:00",
+      "summary": "Article URL: https://ianthehenry.com/posts/why-janet/ Comments URL: https://news.ycombinator.com/item?id=48367907 Points: 291 # Comments: 136"
     },
     {
       "id": "7e3a91793677",
@@ -212,6 +355,17 @@
       "summary": "뉴로저니(대표 이현우)는 10~12일 서울 코엑스에서 열리는 'AI&빅데이터쇼'에 참가해 멀티모달 AI 리서치 플랫폼 '뉴트로픽(Neutropic)'을 처음 선보인다고 밝혔다.뉴로저니는 서울 AI 허브 공동관 참가기업으로 합류해, 공동관 내 부스에서 실제 연구 시나리오 바탕의 라이브 시연과 감성 분석 결과 리포트 생성 과정을 직접 체험할 수 있도록 지원할 예정이다. 대학·기업 연구자, 데이터 기반 의사결정이 필요한 산업 담당자를 주요 타깃으로 한다.특히, 처음 선보이는 '뉴트로픽'은 리서치 설계부"
     },
     {
+      "id": "88c957ee26d0",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "link": "https://huggingface.co/blog/Hcompany/holo31",
+      "published": "2026-06-02T05:13:23+00:00",
+      "summary": ""
+    },
+    {
       "id": "c780544899b5",
       "source": "AI타임스",
       "kind": "article",
@@ -276,6 +430,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211234",
       "published": "2026-06-02T02:59:03+00:00",
       "summary": "코난테크놀로지(대표 김영섬)는 법제처 '생성형 AI 법령검색 시스템 구축' 사업의 주관사업자로 선정됐다고 2일 밝혔다.총 사업비는 65억5000만원 규모로, 계약일로부터 550일에 걸쳐 진행된다. 컨소시엄은 코난테크놀로지, 사이냅소프트 등 4개사로 구성됐다.이번 사업은 기존 국가법령정보센터의 단어 유사도 매칭 방식과 수기 데이터 구축의 한계를 극복하는 데 초점을 맞췄다. 이를 통해 일반 국민이 자연어로도 법령·판례·해석례 등 종합 법령정보에 접근할 수 있는 AI 검색 환경 구현을 목표로 한다.코난"
+    },
+    {
+      "id": "98729d5d6f8e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "macOS needs its grid back",
+      "link": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "published": "2026-06-02T01:28:34+00:00",
+      "summary": "Article URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/ Comments URL: https://news.ycombinator.com/item?id=48364800 Points: 335 # Comments: 196"
+    },
+    {
+      "id": "d57a6e810350",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Chipotlai Max",
+      "link": "https://github.com/cyberpapiii/chipotlai-max",
+      "published": "2026-06-01T23:06:35+00:00",
+      "summary": "Article URL: https://github.com/cyberpapiii/chipotlai-max Comments URL: https://news.ycombinator.com/item?id=48363765 Points: 307 # Comments: 51"
     },
     {
       "id": "7eb6625708f3",
@@ -399,6 +575,17 @@
       "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit."
     },
     {
+      "id": "ae822cdfcb20",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Debug Project",
+      "link": "https://debug.com/",
+      "published": "2026-06-01T20:40:13+00:00",
+      "summary": "Article URL: https://debug.com/ Comments URL: https://news.ycombinator.com/item?id=48362347 Points: 256 # Comments: 100"
+    },
+    {
       "id": "6aacdaf1e51c",
       "source": "Ars Technica",
       "kind": "article",
@@ -496,6 +683,17 @@
       "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
       "published": "2026-06-01T17:41:47+00:00",
       "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization."
+    },
+    {
+      "id": "1dff5afa0cc0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "link": "https://30fps.net/pages/255-vs-256-division/",
+      "published": "2026-06-01T17:37:20+00:00",
+      "summary": "Article URL: https://30fps.net/pages/255-vs-256-division/ Comments URL: https://news.ycombinator.com/item?id=48360054 Points: 295 # Comments: 125"
     },
     {
       "id": "d3c8addaae3a",
