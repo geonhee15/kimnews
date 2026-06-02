@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-06-02T15:11:15.005371+00:00",
-  "count": 1134,
+  "updated_at": "2026-06-02T18:55:13.541092+00:00",
+  "count": 1156,
   "items": [
+    {
+      "id": "55a3874e20f3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "link": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "published": "2026-06-02T18:33:42+00:00",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure."
+    },
+    {
+      "id": "c01d7034339f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "published": "2026-06-02T18:16:53+00:00",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding."
+    },
+    {
+      "id": "1d5103f1baff",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+      "link": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
+      "published": "2026-06-02T18:15:00+00:00",
+      "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft's claims, the software giant is announcing Majorana 2 today, the next generation o"
+    },
+    {
+      "id": "87afc781af71",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "published": "2026-06-02T18:12:44+00:00",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's mode"
+    },
+    {
+      "id": "bf180cf86501",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "published": "2026-06-02T18:02:44+00:00",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
+    },
+    {
+      "id": "876e0e2a6bba",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google announces deepfake call detection for Android, new AirDrop device support",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "published": "2026-06-02T18:00:46+00:00",
+      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI."
+    },
+    {
+      "id": "82afd5ab86bd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "published": "2026-06-02T18:00:00+00:00",
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers."
+    },
+    {
+      "id": "31a585bfe85a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "published": "2026-06-02T18:00:00+00:00",
+      "summary": "The specification lets developer, compliance and security teams define their own policies for agents to follow in portable policy files."
+    },
+    {
+      "id": "4ef3d23105ec",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "link": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "published": "2026-06-02T18:00:00+00:00",
+      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organiz"
+    },
+    {
+      "id": "b76dd060b9ce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "link": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "published": "2026-06-02T18:00:00+00:00",
+      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you ca"
+    },
+    {
+      "id": "0f4bab57baa0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+      "published": "2026-06-02T18:00:00+00:00",
+      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks."
+    },
+    {
+      "id": "b06a52aee1f0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
+      "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
+      "published": "2026-06-02T18:00:00+00:00",
+      "summary": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be."
+    },
+    {
+      "id": "6d587cae078e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"",
+      "link": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
+      "published": "2026-06-02T17:34:10+00:00",
+      "summary": "Article URL: https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy Comments URL: https://news.y"
+    },
+    {
+      "id": "dbb7ca884504",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+      "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "published": "2026-06-02T17:31:02+00:00",
+      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concep"
+    },
+    {
+      "id": "d1f7453342f5",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "published": "2026-06-02T17:30:03+00:00",
+      "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "bcd9ce131095",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
+      "link": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+      "published": "2026-06-02T16:30:00+00:00",
+      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized"
+    },
+    {
+      "id": "ff1fb531a671",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s new developer-optimized Windows embraces Linux even more",
+      "link": "https://www.theverge.com/news/941314/microsoft-windows-11-developer-optimized-experience-linux",
+      "published": "2026-06-02T16:30:00+00:00",
+      "summary": "Microsoft is kicking off its Build developer conference today with a promise of making Windows a trusted platform for development. As the company continues to focus on performance and reliability fixes for Windows 11, it's also creating a developer-optimized experience that bundl"
+    },
+    {
+      "id": "57fe8a00d5c3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "published": "2026-06-02T16:23:08+00:00",
+      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models."
+    },
+    {
+      "id": "2b538402f5b1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "published": "2026-06-02T16:00:00+00:00",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow "
+    },
+    {
+      "id": "ee1b8b9bb672",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+      "published": "2026-06-02T15:30:00+00:00",
+      "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first."
+    },
     {
       "id": "2829f35d56e6",
       "source": "TechCrunch",
@@ -58,6 +278,17 @@
       "summary": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market."
     },
     {
+      "id": "600cfc4409a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A walking tour of surveillance infrastructure in Seattle",
+      "link": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "published": "2026-06-02T13:24:32+00:00",
+      "summary": "Article URL: https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/ Comments URL: https://news.ycombinator.com/item?id=48369980 Points: 261 # Comments: 131"
+    },
+    {
       "id": "6be955aab88c",
       "source": "The Verge",
       "kind": "article",
@@ -89,6 +320,17 @@
       "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
       "published": "2026-06-02T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of ski"
+    },
+    {
+      "id": "eb4bd7d281dd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple rejected my dictation app for using the accessibility API",
+      "link": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+      "published": "2026-06-02T12:00:03+00:00",
+      "summary": "Article URL: https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/ Comments URL: https://news.ycombinator.com/item?id=48369088 Points: 250 # Comments: 152"
     },
     {
       "id": "f1c9d92d83da",
