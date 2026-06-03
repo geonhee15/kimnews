@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-03T20:36:39.704072+00:00",
-  "count": 1252,
+  "updated_at": "2026-06-03T22:53:45.340247+00:00",
+  "count": 1263,
   "items": [
+    {
+      "id": "68ca66c7206c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is bringing age verification to Texas this week",
+      "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "published": "2026-06-03T21:49:51+00:00",
+      "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proc"
+    },
+    {
+      "id": "64588dfb92d4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+      "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+      "published": "2026-06-03T20:26:51+00:00",
+      "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\""
+    },
     {
       "id": "fbc2099179ed",
       "source": "The Verge",
@@ -36,6 +58,17 @@
       "summary": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs."
     },
     {
+      "id": "6afc1408f838",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+      "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+      "published": "2026-06-03T19:10:03+00:00",
+      "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight."
+    },
+    {
       "id": "be7f7a015d78",
       "source": "TechCrunch",
       "kind": "article",
@@ -45,6 +78,17 @@
       "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
       "published": "2026-06-03T19:07:42+00:00",
       "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
+    },
+    {
+      "id": "c5509b824898",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "published": "2026-06-03T19:02:26+00:00",
+      "summary": "Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/ Comments URL: https://news.ycombinator.com/item?id=48388324 Points: 405 # Comments: 134"
     },
     {
       "id": "ecc5c177e7ea",
@@ -67,6 +111,17 @@
       "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
       "published": "2026-06-03T18:49:32+00:00",
       "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit."
+    },
+    {
+      "id": "381fa22520c6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+      "published": "2026-06-03T18:11:15+00:00",
+      "summary": "Critics say Trump plan to test AI models is short-sighted, performative."
     },
     {
       "id": "3ae850b82596",
@@ -124,6 +179,17 @@
       "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus"
     },
     {
+      "id": "f976f1b9d9dd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MacBook Neo is so popular that Apple doubled production",
+      "link": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "published": "2026-06-03T16:33:17+00:00",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/ Comments URL: https://news.ycombinator.com/item?id=48386238 Points: 289 # Comments: 299"
+    },
+    {
       "id": "59e7e1c1cf14",
       "source": "TechCrunch",
       "kind": "article",
@@ -133,6 +199,17 @@
       "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
       "published": "2026-06-03T16:12:06+00:00",
       "summary": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts."
+    },
+    {
+      "id": "56915ebb53a5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ESP32-S31",
+      "link": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "published": "2026-06-03T16:10:25+00:00",
+      "summary": "Article URL: https://www.espressif.com/en/products/socs/esp32-s31 Comments URL: https://news.ycombinator.com/item?id=48385965 Points: 228 # Comments: 123"
     },
     {
       "id": "cda4b179ec36",
@@ -188,6 +265,17 @@
       "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
       "published": "2026-06-03T15:31:42+00:00",
       "summary": "The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation."
+    },
+    {
+      "id": "2e9f68ae6871",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Autonomous vehicles were supposed to cut traffic—what if they don't?",
+      "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
+      "published": "2026-06-03T15:13:03+00:00",
+      "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive."
     },
     {
       "id": "7350a2d8f18e",
@@ -300,6 +388,17 @@
       "summary": "WhatsApp will charge businesses for using its AI agent based on token usage"
     },
     {
+      "id": "dfc080ac5ab5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside Meta's attempts to play catch-up with AI",
+      "link": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+      "published": "2026-06-03T13:35:58+00:00",
+      "summary": "Doubts linger over whether Meta can close the gap with rivals."
+    },
+    {
       "id": "a6cb18eb1dc4",
       "source": "The Verge",
       "kind": "article",
@@ -353,6 +452,17 @@
       "link": "https://www.bbc.com/news/articles/c93x0k194yno",
       "published": "2026-06-03T12:42:07+00:00",
       "summary": "Article URL: https://www.bbc.com/news/articles/c93x0k194yno Comments URL: https://news.ycombinator.com/item?id=48383220 Points: 428 # Comments: 372"
+    },
+    {
+      "id": "7bcba474045c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "published": "2026-06-03T12:25:14+00:00",
+      "summary": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... ( https://archive.ph/ZrwAy ) Comments URL: https://news.ycombinator.com/item?id=48383056 Points: 302 # Comments: 381"
     },
     {
       "id": "645e5fef124e",
@@ -441,6 +551,17 @@
       "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
       "published": "2026-06-03T10:53:00+00:00",
       "summary": "Article URL: https://blog.nns.ee/2026/06/03/katana-badusb/ Comments URL: https://news.ycombinator.com/item?id=48382310 Points: 467 # Comments: 79"
+    },
+    {
+      "id": "6161328a741f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "link": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "published": "2026-06-03T10:53:00+00:00",
+      "summary": "Article URL: https://blog.nns.ee/2026/06/03/katana-badusb/ Comments URL: https://news.ycombinator.com/item?id=48382310 Points: 618 # Comments: 98"
     },
     {
       "id": "7986c1393424",
