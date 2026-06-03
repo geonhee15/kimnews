@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-03T02:06:56.562860+00:00",
-  "count": 1181,
+  "updated_at": "2026-06-03T07:08:26.696119+00:00",
+  "count": 1193,
   "items": [
+    {
+      "id": "d91516e6102c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "목소리를 똑같이 복사해서 더빙해주는 새로운 AI 모델 등장",
+      "link": "https://www.youtube.com/shorts/4bk39WmjoeU",
+      "published": "2026-06-03T06:00:25+00:00",
+      "summary": ""
+    },
+    {
+      "id": "049fcdc89597",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 \"1조달러 기업\" 전망에 마벨 주가 33% 폭등… 26년 만에 최대 상승폭",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211286",
+      "published": "2026-06-03T05:52:26+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 마벨 테크놀로지의 시가총액이 1조달러(약 1523조원)까지 치솟을 것이라고 예측했다. 그러자, 마벨의 주가는 26년 만에 가장 큰 폭으로 상승했다.황 CEO는 2일 타이베이에서 열린 '컴퓨텍스' 전시회에서 맷 머피 마벨 CEO와 무대에 올라 \"유용한 AI 시대가 도래했으므로 마벨의 기업 가치가 급등할 것\"이라고 말했다.그러자, 마벨 주가는 뉴욕 증시에서 33% 급등한 290.79달러(약 44만2870원)를 기록하며 2000년 6월 이후 최대 일일 상승폭을 경신했다. 올해"
+    },
+    {
+      "id": "9b5b129536f8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, AI로 설계한 양자 칩 '마요라나 2' 공개… \"2029년 상용화 목표\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211277",
+      "published": "2026-06-03T05:27:30+00:00",
+      "summary": "마이크로소프트(MS)가 AI의 도움으로 설계한 차세대 양자컴퓨팅 칩 ‘마요라나 2(Majorana 2)’를 공개하고, 상용 양자컴퓨터 개발 목표 시점을 2029년으로 제시했다. MS는 2일(현지시간) 미국 샌프란시스코에서 열린 '빌드' 개발자 컨퍼런스에서 차세대 양자 프로세서인 마요라나 2를 공개했다.특히 이번 칩은 MS의 과학·공학 연구용 에이전트 AI 플랫폼인 ‘디스커버리(Discovery)’를 활용해 설계된 첫 번째 주요 하드웨어 사례 중 하나다. MS는 디스커버리 AI가 새로운 소재 조합을"
+    },
+    {
+      "id": "9e40b2482c20",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dyson Promo Codes: 25% Off in June 2026",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "published": "2026-06-03T05:00:00+00:00",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more."
+    },
+    {
+      "id": "48ce21f3c660",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 개발자용 PC ‘서피스 RTX 스파크 데브 박스’ 출시… \"120B 모델 로컬 작동\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211278",
+      "published": "2026-06-03T04:56:42+00:00",
+      "summary": "마이크로소프트(MS)가 엔비디아의 최신 AI 슈퍼칩을 탑재한 소형 개발자용 PC ‘서피스 RTX 스파크 데브 박스(Surface RTX Spark Dev Box)’를 공개했다. 최대 1200억개 매개변수 규모의 AI 모델을 로컬 환경에서 실행할 수 있도록 설계된 것이 특징이다.MS는 2일(현지시간) 미국 샌프란시스코에서 열린 '빌드' 개발자 컨퍼런스에서 선보인 서피스 RTX 스파크 데브 박스는 클라우드 의존도를 낮추고 개발자가 책상 위에서 직접 AI 모델을 개발하고 학습하고 미세조정할 수 있는 새"
+    },
+    {
+      "id": "88c50b7a24bd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 상시 실행형 AI 비서 ‘스카우트’ 발표…'오픈클로' 보안 한계 넘었다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211274",
+      "published": "2026-06-03T04:33:56+00:00",
+      "summary": "마이크로소프트(MS)가 ‘오픈클로(OpenClaw)’에서 영감받은 새로운 AI 비서 ‘스카우트(Scout)’를 공개했다. 단순한 챗봇을 넘어 독립적인 신원을 갖고 이메일, 일정, 문서 관리 등을 사용자를 대신해 수행하는 상시 실행형(Always-on) 자율 AI 에이전트다. MS는 2일(현지시간) 미국 샌프란시스코에서 열린 열린 '빌드' 개발자 컨퍼런스에서 오픈클로의 개념을 기업 환경에 접목한 새로운 AI 비서 서비스 스카우트를 공개했다.스카우트는 독립된 앱으로도 존재하지만, 궁극적으로 이번에 개"
+    },
+    {
+      "id": "2fe8c2492bba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프, AI '사전 검토' 행정명령 서명…90일서 30일로 축소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211280",
+      "published": "2026-06-03T04:01:53+00:00",
+      "summary": "도널드 트럼프 미국 대통령은 2일(현지시간) 첨단 AI 모델에 대한 30일 사전 검토 체계를 도입하는 행정명령에 서명했다.이에 따라 최첨단 AI 모델을 개발하는 기업은 관련 정보와 접근 권한을 제공해 정부의 보안 평가 절차에 참여할 수 있게 된다. 이는 강제 허가제나 사전 승인제가 아니라, '자발적(voluntary)'인 기업 참여를 원칙으로 한다.이는 앞서 검토됐던 행정명령 초안에서 검토 기간을 단축한 결과물이다. 당초에는 모델 검토 기간을 최대 90일까지 연장하도록 요구하는 내용이 담겼다. A"
+    },
+    {
+      "id": "aeaf493ef559",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 기업 전용 자체 모델 7종 공개...\"앤트로픽과 격차 좁혔다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211273",
+      "published": "2026-06-03T02:56:34+00:00",
+      "summary": "마이크로소프트(MS)가 자체 개발한 차세대 AI 모델 제품군 ‘MAI(Microsoft AI)’를 공개하며 AI 주도권 경쟁에 본격적으로 뛰어들었다. 오픈AI나 앤트로픽 의존도를 낮추고, 기업 시장에서 본격적인 경쟁을 벌이겠다는 의도다. MS는 2일(현지시간) 샌프란시스코에서 열린 '빌드' 개발자 컨퍼런스에서 추론, 코딩, 이미지 생성, 음성 합성, 음성 인식 등 다양한 영역을 아우르는 7개의 신규 모델을 공개했다.대표 모델인 'MAI-싱킹-1(MAI-Thinking-1)'은 추론에 특화된 플래그"
+    },
     {
       "id": "8efd3ba2088c",
       "source": "AI타임스",
@@ -12,6 +100,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211275",
       "published": "2026-06-03T02:00:10+00:00",
       "summary": "오픈AI가 개발자의 전유물로 여겨졌던 '코덱스'를 일반 사무직 종사자를 위한 AI 에이전트 도구로 재정의, 대규모 기능 업데이트를 내놓았다. 앞서 앤트로픽이 출시한 '클로드 코워크'와 흡사한 형태로, 데이터 분석과 영업, 제품 디자인 등 특정 직무에 최적화된 플러그인과 인터랙티브 웹 호스팅 기능을 포함하고 있다.2일(현지시간) 공개한 업데이트는 코덱스로 비코딩 업무 워크플로우를 지원하는 것에 초점이 맞춰져 있다.오픈AI는 \"현재 코덱스 주간 활성 사용자 500만명 중 20%가 비개발자이며, 이들의"
+    },
+    {
+      "id": "f2586c596a15",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"환경 보전·지역 상생이 핵심\"…뉴욕 태양광 사업, 까다로운 허가 통과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211267",
+      "published": "2026-06-03T01:10:00+00:00",
+      "summary": "캐나다 재생에너지 기업 보랄렉스(Boralex)가 미국 뉴욕주에서 추진하는 100MW 규모 태양광 발전사업이 최종 허가를 받았다. 대규모 태양광 개발을 둘러싼 농지·습지 훼손과 조류 서식지 영향 우려가 제기됐지만, 사업자는 설계 조정과 지역사회 지원, 서식지 보전 방안을 반영해 인허가 관문을 넘었다.1일(현지시간) 뉴욕주 공공서비스부에 따르면, 뉴욕 재생에너지 입지·전력송전청은 워싱턴 카운티 포트에드워드 태양광 프로젝트에 최종 입지 허가를 발급했다.사업 부지는 약 214헥타아르(ha)로, 여의도 "
+    },
+    {
+      "id": "2ba628e8310b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "튀르키예, 태양광 설비용량 26.8GW 돌파…천연가스 제치고 2위 전원 등극",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211261",
+      "published": "2026-06-03T01:05:00+00:00",
+      "summary": "튀르키예 태양광 설비용량이 올해 들어 4개월 만에 약 2기가와트(GW) 늘며 천연가스를 제치고 수력에 이어 두 번째 전원이 됐다.튀르키예 에너지·천연자원부 자료에 따르면 2026년 4월 말 기준 튀르키예의 누적 태양광 설비용량은 26.8GW로 집계됐다고 밝혔다. 지난해 말 24.8GW에서 4개월 사이 약 2.0GW 증가한 규모다.같은 기간 튀르키예 전체 전력설비 용량은 125.4GW로 집계됐다. 태양광은 전체 설비의 21.3%를 차지했다. 수력은 32.3GW로 25.8%를 기록해 가장 큰 비중을 "
     },
     {
       "id": "f5405ac0dd78",
@@ -45,6 +155,17 @@
       "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
       "published": "2026-06-02T23:25:20+00:00",
       "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind."
+    },
+    {
+      "id": "5baaefd79619",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "published": "2026-06-02T22:55:33+00:00",
+      "summary": "Article URL: https://github.com/c0dejedi/nbd-vram Comments URL: https://news.ycombinator.com/item?id=48377404 Points: 250 # Comments: 65"
     },
     {
       "id": "8349895bf74d",
@@ -430,6 +551,17 @@
       "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
       "published": "2026-06-02T15:30:00+00:00",
       "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first."
+    },
+    {
+      "id": "8f012a6f767a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "link": "https://blog.ammaraskar.com/github-token-stealing/",
+      "published": "2026-06-02T15:29:05+00:00",
+      "summary": "Article URL: https://blog.ammaraskar.com/github-token-stealing/ Comments URL: https://news.ycombinator.com/item?id=48371562 Points: 281 # Comments: 35"
     },
     {
       "id": "2829f35d56e6",
