@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-04T12:18:19.676634+00:00",
-  "count": 1313,
+  "updated_at": "2026-06-04T15:57:15.785447+00:00",
+  "count": 1327,
   "items": [
+    {
+      "id": "49fd3d9664a6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
+      "link": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
+      "published": "2026-06-04T15:48:41+00:00",
+      "summary": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road."
+    },
+    {
+      "id": "30caa141e894",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+      "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+      "published": "2026-06-04T15:08:34+00:00",
+      "summary": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup."
+    },
+    {
+      "id": "eb64b03f3244",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "published": "2026-06-04T15:05:00+00:00",
+      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch."
+    },
+    {
+      "id": "df7c69cd3fb9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
+      "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "published": "2026-06-04T14:15:44+00:00",
+      "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support"
+    },
+    {
+      "id": "ae958bf5cc7c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+      "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+      "published": "2026-06-04T14:05:58+00:00",
+      "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods."
+    },
+    {
+      "id": "efd1ff7faa40",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "VoidZero Is Joining Cloudflare",
+      "link": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "published": "2026-06-04T13:00:51+00:00",
+      "summary": "Article URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=48398055 Points: 258 # Comments: 143"
+    },
+    {
+      "id": "01a7fe0b22a4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Let us filter AI slop, you cowards",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "published": "2026-06-04T12:30:00+00:00",
+      "summary": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generated i"
+    },
     {
       "id": "ce36af8b34df",
       "source": "The Verge",
@@ -12,6 +89,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
       "published": "2026-06-04T12:12:12+00:00",
       "summary": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing "
+    },
+    {
+      "id": "ed36f4624f53",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "published": "2026-06-04T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in C"
     },
     {
       "id": "000272fa1fa3",
@@ -34,6 +122,17 @@
       "link": "https://www.theverge.com/tech/942860/aura-frame-google-photos-api-update-auto-sync",
       "published": "2026-06-04T12:00:00+00:00",
       "summary": "Aura's digital photo frames will continue to automatically sync with your Google Photos albums, after API changes threatened to remove the feature. Aura is now rolling out a full migration to Google's new Ambient API, allowing your Aura frame slideshows to be automatically update"
+    },
+    {
+      "id": "4ca294c23b93",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "link": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "published": "2026-06-04T11:39:28+00:00",
+      "summary": "Article URL: https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56 Comments URL: https://news.ycombinator.com/item?id=48397233 Points: 235 # Comments: 59"
     },
     {
       "id": "e87de0e63303",
@@ -188,6 +287,17 @@
       "link": "https://www.wired.com/story/at4k-app-makes-google-tv-actually-usable/",
       "published": "2026-06-04T09:00:00+00:00",
       "summary": "The app AT4K turns the messy Google TV interface into something closer to the Apple TV interface, making it cleaner, more customizable, and less frustrating to use."
+    },
+    {
+      "id": "ff9455471457",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "link": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "published": "2026-06-04T08:45:36+00:00",
+      "summary": "Article URL: https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/ Comments URL: https://news.ycombinator.com/item?id=48395938 Points: 322 # Comments: 188"
     },
     {
       "id": "bf44888adf35",
@@ -377,6 +487,17 @@
       "summary": "메타가 고객 응대부터 예약 관리, 주문 처리, 판매 성사까지 수행할 수 있는 기업용 AI 에이전트를 전 세계에 출시하며 기업용 AI 시장 공략에 나섰다. 30억명에 달하는 왓츠앱 사용자를 비롯해, 전 세계 40억명에 달하는 메타 생태계를 통해 기업의 AI 비즈니스를 지원하는 것이다.메타는 3일(현지시간) 영국 런던에서 열린 왓츠앱 중심 행사인 컨버세이션즈 컨퍼런스에서 새로운 ‘메타 비즈니스 에이전트(Meta Business Agent)’를 공개했다.이 서비스는 왓츠앱을 비롯해 메신저와 인스타그램 "
     },
     {
+      "id": "06cadd06268a",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "link": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "published": "2026-06-04T03:59:35+00:00",
+      "summary": ""
+    },
+    {
       "id": "c2c30e912cef",
       "source": "AI타임스",
       "kind": "article",
@@ -419,6 +540,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211301",
       "published": "2026-06-04T03:26:07+00:00",
       "summary": "에임인텔리전스(대표 유상윤)는 다문화·다국어 환경에서 대형언어모델(LLM)의 안전성을 평가하는 벤치마크 'XL-세이프티벤치(XL-SafetyBench)'를 공개했다고 4일 밝혔다.이 벤치마크는 37개 주요 LLM을 대상으로 10개국에서 5500개의 현지화 테스트를 거쳐 각국의 법적·제도적·문화적 특수성을 반영하도록 설계됐다.'현지 리스크 트랙'과 '문화적 민감성 트랙'으로 나뉘며, 각국의 법률, 사기 유형, 사회 구조 등에 대한 위험 대응 능력과 지역 문화 요소를 반영한 윤리적 판단 여부를 평가한"
+    },
+    {
+      "id": "c8b0388a8251",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "published": "2026-06-04T03:24:58+00:00",
+      "summary": ""
     },
     {
       "id": "9a575e7dc864",
@@ -685,6 +817,17 @@
       "summary": "https://web.archive.org/web/20260603173839/https://www.theat... https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 416 # Comments: 731"
     },
     {
+      "id": "b7cfdbfb73d4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Artificial intelligence is not conscious",
+      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "published": "2026-06-03T17:51:37+00:00",
+      "summary": "https://web.archive.org/web/20260603173839/https://www.theat... https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 596 # Comments: 974"
+    },
+    {
       "id": "becce08f0372",
       "source": "The Verge",
       "kind": "article",
@@ -848,6 +991,17 @@
       "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
       "published": "2026-06-03T15:00:00+00:00",
       "summary": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks"
+    },
+    {
+      "id": "fe61a5125b10",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "link": "https://huggingface.co/blog/hf-cli-for-agents",
+      "published": "2026-06-03T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "2f4158e1e05e",
