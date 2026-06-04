@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-04T22:01:34.962204+00:00",
-  "count": 1354,
+  "updated_at": "2026-06-04T23:36:41.017073+00:00",
+  "count": 1362,
   "items": [
+    {
+      "id": "144687b31914",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "published": "2026-06-04T22:43:26+00:00",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though."
+    },
+    {
+      "id": "5e3478b77cd9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "published": "2026-06-04T22:29:50+00:00",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
+    },
+    {
+      "id": "b3a68c375b9d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "published": "2026-06-04T22:23:36+00:00",
+      "summary": "Robot demonstrations can distort public perceptions of robotic capabilities."
+    },
+    {
+      "id": "1a817a664c7f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월4일] 유엔이 AI 챗봇에 \"예의를 생략하라\"고 제안한 이유는",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211314",
+      "published": "2026-06-04T22:00:00+00:00",
+      "summary": "에너지 절약과 탄소 감축을 위한 정책은 이미 일상에 깊숙이 들어와 있습니다. 종이 빨대, 비닐봉투 유료화, 냉난방 온도 제한 등이 대표적입니다.그런데 앞으로는 AI 챗봇을 사용할 때도 이런 정책이 도입될지 모르겠습니다. \"챗봇에 공손한 말투를 사용하지 말라\"라는 것입니다.유엔 산하 유엔대학의 수자원·환경·보건연구소는 3일(현지시간) 발표한 연구를 통해 사용자들이 AI 챗봇 대화에서 공손한 표현을 생략하는 '간결 모드'를 채택할 것을 제안했습니다. \"부탁드립니다\"나 \"감사합니다\"와 같은 단어를 제거"
+    },
     {
       "id": "db2d371867f7",
       "source": "TechCrunch",
@@ -34,6 +78,28 @@
       "link": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
       "published": "2026-06-04T21:30:00+00:00",
       "summary": "The USDA this week confirmed the first known infection of the carnivorous fly larva, which feast on the flesh of living mammals, after the United States eradicated the nightmare bugs in the 1960s."
+    },
+    {
+      "id": "84c9ed56372a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These LLMs are the best at resisting Russian propaganda",
+      "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "published": "2026-06-04T20:44:31+00:00",
+      "summary": "Estonian government benchmark shows how dozens of models combat Russia's \"strategic narratives.\""
+    },
+    {
+      "id": "d690d7944775",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "link": "https://github.com/anthropics/defending-code-reference-harness",
+      "published": "2026-06-04T20:11:20+00:00",
+      "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 201 # Comments: 72"
     },
     {
       "id": "8835dae91151",
@@ -562,6 +628,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211316",
       "published": "2026-06-04T09:00:00+00:00",
       "summary": "메타가 소비자용 AI 에이전트 서비스 ‘해치(Hatch)’ 출시를 추진 중인 것으로 알려졌다. 바이브 코딩 기능을 포함한 메타 제품의 핵심 엔진으로 작동할 예정으로, 특히 월 최대 200달러에 달하는 프리미엄 구독 요금제까지 검토하는 것으로 알려졌다. 3일(현지시간) 디 인포메이션에 따르면, 메타는 현재 개발 중인 AI 에이전트 플랫폼 해치에 월 199.99달러 수준의 프리미엄 구독 상품을 도입하는 방안을 검토하고 있다. 최종 가격 정책은 아직 확정되지 않은 상태다.해치는 사용자가 자연어로 원하는"
+    },
+    {
+      "id": "3e8e9b4549fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "link": "https://uruky.com/?il=en",
+      "published": "2026-06-04T08:56:10+00:00",
+      "summary": "You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time. If you'd like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well. For the source code sharin"
     },
     {
       "id": "ff9455471457",
@@ -2212,6 +2289,17 @@
       "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
       "published": "2026-06-02T18:00:00+00:00",
       "summary": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be."
+    },
+    {
+      "id": "c5210a8fb810",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "link": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "published": "2026-06-02T17:50:00+00:00",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model Comments URL: https://news.ycombinator.com/item?id=48373642 Points: 201 # Comments: 52"
     },
     {
       "id": "6d587cae078e",
