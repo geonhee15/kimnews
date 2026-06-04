@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-04T20:27:02.179215+00:00",
-  "count": 1347,
+  "updated_at": "2026-06-04T22:01:34.962204+00:00",
+  "count": 1354,
   "items": [
+    {
+      "id": "db2d371867f7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "published": "2026-06-04T21:44:09+00:00",
+      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software."
+    },
+    {
+      "id": "0ec378f2f995",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "published": "2026-06-04T21:30:00+00:00",
+      "summary": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taki"
+    },
+    {
+      "id": "3dbc2d16ebaf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US",
+      "link": "https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/",
+      "published": "2026-06-04T21:30:00+00:00",
+      "summary": "The USDA this week confirmed the first known infection of the carnivorous fly larva, which feast on the flesh of living mammals, after the United States eradicated the nightmare bugs in the 1960s."
+    },
     {
       "id": "8835dae91151",
       "source": "Ars Technica",
@@ -69,6 +102,17 @@
       "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least "
     },
     {
+      "id": "1753232c55af",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The desperation of NYTimes",
+      "link": "https://rozumem.xyz/posts/16",
+      "published": "2026-06-04T17:39:13+00:00",
+      "summary": "Article URL: https://rozumem.xyz/posts/16 Comments URL: https://news.ycombinator.com/item?id=48401965 Points: 276 # Comments: 257"
+    },
+    {
       "id": "6d7e661586f7",
       "source": "Wired",
       "kind": "article",
@@ -124,6 +168,17 @@
       "summary": "Apple's WWDC nears: Here's what you can look forward to."
     },
     {
+      "id": "0ca634535b86",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "published": "2026-06-04T16:20:17+00:00",
+      "summary": "Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 206 # Comments: 245"
+    },
+    {
       "id": "e4c1f54b1be0",
       "source": "TechCrunch",
       "kind": "article",
@@ -133,6 +188,17 @@
       "link": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
       "published": "2026-06-04T16:16:37+00:00",
       "summary": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis."
+    },
+    {
+      "id": "a65877e0f40b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Retro-Tech Parenting",
+      "link": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "published": "2026-06-04T16:02:35+00:00",
+      "summary": "Article URL: https://havenweb.org/2026/05/28/retro-tech.html Comments URL: https://news.ycombinator.com/item?id=48400588 Points: 203 # Comments: 138"
     },
     {
       "id": "d1e71ecbb3d7",
@@ -309,6 +375,17 @@
       "link": "https://www.wired.com/story/best-smart-speakers/",
       "published": "2026-06-04T11:31:00+00:00",
       "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Google fan."
+    },
+    {
+      "id": "becd53772f40",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ian's Secure Shoelace Knot",
+      "link": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "published": "2026-06-04T11:17:34+00:00",
+      "summary": "Article URL: https://www.fieggen.com/shoelace/secureknot.htm Comments URL: https://news.ycombinator.com/item?id=48397028 Points: 438 # Comments: 164"
     },
     {
       "id": "752734d64cff",
