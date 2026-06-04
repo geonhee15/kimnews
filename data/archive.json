@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-04T18:14:52.997146+00:00",
-  "count": 1337,
+  "updated_at": "2026-06-04T20:27:02.179215+00:00",
+  "count": 1347,
   "items": [
+    {
+      "id": "8835dae91151",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk tries again to escape FTC audits of X data handling",
+      "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+      "published": "2026-06-04T19:49:12+00:00",
+      "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC."
+    },
+    {
+      "id": "7e822f9a8f4e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "published": "2026-06-04T19:33:09+00:00",
+      "summary": "Meta may have one found one way to slash its massive data center bill: tents."
+    },
+    {
+      "id": "5a1ae3d3b56d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "published": "2026-06-04T19:20:58+00:00",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
+    },
+    {
+      "id": "0a3682aeadda",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "published": "2026-06-04T18:54:08+00:00",
+      "summary": "Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that."
+    },
+    {
+      "id": "80f667e05fed",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+      "published": "2026-06-04T18:44:49+00:00",
+      "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock."
+    },
+    {
+      "id": "895be9528d07",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is letting social media stars customize their search result page",
+      "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+      "published": "2026-06-04T18:32:23+00:00",
+      "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least "
+    },
     {
       "id": "6d7e661586f7",
       "source": "Wired",
@@ -278,12 +344,34 @@
       "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope."
     },
     {
+      "id": "4fec72aca80d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "published": "2026-06-04T09:57:45+00:00",
+      "summary": ""
+    },
+    {
       "id": "48e9bf170f2d",
       "source": "AI타임스",
       "kind": "article",
       "category": "AI",
       "lang": "ko",
       "title": "\"매일 아침 나를 위한 스토리 생성\"... 구글, 맞춤형 AI 브리핑 '드림빈즈' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211327",
+      "published": "2026-06-04T09:48:36+00:00",
+      "summary": "구글이 사용자의 다양한 서비스 데이터를 바탕으로 매일 맞춤형 콘텐츠를 제공하는 새로운 AI 실험 앱을 공개했다. 실험적인 제품 개발 조직인 구글 랩스는 3일(현지시간) 안드로이드와 iOS용 신규 AI 앱 ‘드림빈즈(Dreambeans)’를 출시했다고 밝혔다.이 앱은 구글의 최신 AI 기술인 ‘퍼스널 인텔리전스(Personal Intelligence)’와 ‘나노 바나나 2(Nano Banana 2)’를 활용해 사용자의 관심사와 일정을 분석하고, 매일 새로운 맞춤형 스토리를 생성한다.드림빈즈의 핵심은"
+    },
+    {
+      "id": "f70107d7009a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"매일 아침 나를 위한 스토리 생성\"... 구글, AI 브리핑 '드림빈즈' 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211327",
       "published": "2026-06-04T09:48:36+00:00",
       "summary": "구글이 사용자의 다양한 서비스 데이터를 바탕으로 매일 맞춤형 콘텐츠를 제공하는 새로운 AI 실험 앱을 공개했다. 실험적인 제품 개발 조직인 구글 랩스는 3일(현지시간) 안드로이드와 iOS용 신규 AI 앱 ‘드림빈즈(Dreambeans)’를 출시했다고 밝혔다.이 앱은 구글의 최신 AI 기술인 ‘퍼스널 인텔리전스(Personal Intelligence)’와 ‘나노 바나나 2(Nano Banana 2)’를 활용해 사용자의 관심사와 일정을 분석하고, 매일 새로운 맞춤형 스토리를 생성한다.드림빈즈의 핵심은"
@@ -386,6 +474,17 @@
       "link": "https://www.wired.com/story/at4k-app-makes-google-tv-actually-usable/",
       "published": "2026-06-04T09:00:00+00:00",
       "summary": "The app AT4K turns the messy Google TV interface into something closer to the Apple TV interface, making it cleaner, more customizable, and less frustrating to use."
+    },
+    {
+      "id": "e9f477132932",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 출시 준비",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211316",
+      "published": "2026-06-04T09:00:00+00:00",
+      "summary": "메타가 소비자용 AI 에이전트 서비스 ‘해치(Hatch)’ 출시를 추진 중인 것으로 알려졌다. 바이브 코딩 기능을 포함한 메타 제품의 핵심 엔진으로 작동할 예정으로, 특히 월 최대 200달러에 달하는 프리미엄 구독 요금제까지 검토하는 것으로 알려졌다. 3일(현지시간) 디 인포메이션에 따르면, 메타는 현재 개발 중인 AI 에이전트 플랫폼 해치에 월 199.99달러 수준의 프리미엄 구독 상품을 도입하는 방안을 검토하고 있다. 최종 가격 정책은 아직 확정되지 않은 상태다.해치는 사용자가 자연어로 원하는"
     },
     {
       "id": "ff9455471457",
@@ -768,6 +867,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "published": "2026-06-03T22:09:41+00:00",
+      "summary": "Some quantum computing companies we've covered have done recent progress updates."
+    },
+    {
+      "id": "7cc6ba3cb08d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft, Atom Computing update their quantum computing progress",
       "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
       "published": "2026-06-03T22:09:41+00:00",
       "summary": "Some quantum computing companies we've covered have done recent progress updates."
