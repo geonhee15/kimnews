@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-06-04T05:23:33.319809+00:00",
-  "count": 1278,
+  "updated_at": "2026-06-04T09:10:47.809661+00:00",
+  "count": 1298,
   "items": [
+    {
+      "id": "7233b078d308",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 앱 없는 AI 에이전트용 플랫폼 '프로젝트 솔라라' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211337",
+      "published": "2026-06-04T09:02:46+00:00",
+      "summary": "마이크로소프트(MS)가 PC와 스마트폰 중심의 기존 컴퓨팅 패러다임을 넘어, AI 에이전트가 직접 구동되는 차세대 기업용 기기 플랫폼 ‘프로젝트 솔라라(Project Solara)’를 공개했다. 클라우드 기반 AI 에이전트를 웨어러블 배지와 데스크 허브 등 다양한 전용 디바이스에서 활용할 수 있도록 설계된 이 플랫폼은 AI 시대의 새로운 하드웨어 생태계 구축을 목표로 한다.MS는 2일(현지시간) 미국 샌프란시스코에서 열린 '빌드' 개발자 컨퍼런스에서 AI 에이전트 중심의 기업용 기기를 위한 칩-투"
+    },
+    {
+      "id": "141f9e72cc42",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "상상한 게 다 되는 AI 활용 사례 모음",
+      "link": "https://www.youtube.com/shorts/zyQRUyfX498",
+      "published": "2026-06-04T09:00:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4c8ee3becbbc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS가 촉발한 '미소스' 체급 논쟁...\"역대급 연산 자원 투입 가능성\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211348",
+      "published": "2026-06-04T09:00:00+00:00",
+      "summary": "베일에 싸여 있던 앤트로픽의 '클로드 미소스'에 대한 사양을 엿볼 수 있는 힌트가 등장했다. 만약 이와 관련한 추정이 사실이라면, 미소스는 전례 없는 규모의 연산 자원을 활용해 훈련했을 가능성을 시사한다.X에서 리산 알 가이브라는 이름으로 활동하는 유명 AI 분석가는 3일(현지시간) X를 통해 마이크로소프트(MS)가 '빌드' 컨퍼런스에서 공개한 슬라이드를 근거로 미소스를 분석했다.무스타파 술레이먼 MS AI CEO는 이날 기조연설에서 AI 성능을 끌어올리는 핵심 기술이 사전학습(Pretrainin"
+    },
+    {
+      "id": "e3db81246ed7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 준비...200달러 요금제도 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211316",
+      "published": "2026-06-04T09:00:00+00:00",
+      "summary": "메타가 소비자용 AI 에이전트 서비스 ‘해치(Hatch)’ 출시를 추진 중인 것으로 알려졌다. 바이브 코딩 기능을 포함한 메타 제품의 핵심 엔진으로 작동할 예정으로, 특히 월 최대 200달러에 달하는 프리미엄 구독 요금제까지 검토하는 것으로 알려졌다. 3일(현지시간) 디 인포메이션에 따르면, 메타는 현재 개발 중인 AI 에이전트 플랫폼 해치에 월 199.99달러 수준의 프리미엄 구독 상품을 도입하는 방안을 검토하고 있다. 최종 가격 정책은 아직 확정되지 않은 상태다.해치는 사용자가 자연어로 원하는"
+    },
+    {
+      "id": "4b5e4b4162ff",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This App Makes Google TV Actually Usable",
+      "link": "https://www.wired.com/story/at4k-app-makes-google-tv-actually-usable/",
+      "published": "2026-06-04T09:00:00+00:00",
+      "summary": "The app AT4K turns the messy Google TV interface into something closer to the Apple TV interface, making it cleaner, more customizable, and less frustrating to use."
+    },
+    {
+      "id": "bf44888adf35",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "와이즈넛, 멀티모달 AI 모델 출시…‘산업 현장형 AI 에이전트’ 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211343",
+      "published": "2026-06-04T08:30:47+00:00",
+      "summary": "와이즈넛(대표 강용성)은 멀티모달 기능이 강화된 ‘와이즈 로아 울트라(WISE LLOA Ultra)’를 출시, 산업 현장형 AI 에이전트 사업 강화에 나선다고 4일 밝혔다.기존의 와이즈 로아 라인업은 ▲기본형 AI 응답 중심의 ‘코어’ ▲업무 자동화 및 고도화 응답 중심의 ‘프로’ ▲심층 추론 및 대용량 데이터 분석 중심의 ‘맥스’ 등의 모델로 구성돼 있었다. 와이즈넛은 이에 멀티모달 기능이 강화된 ‘울트라’ 버전을 추가했다. 이미지·영상 데이터 분석과 시각 객체 인식, 동적 맥락 추론까지 지원하"
+    },
+    {
+      "id": "fec5298d0b91",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부, 퓨리오사AI·리벨리온 반도체 검증...\"‘서비스별 성능 만족\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211349",
+      "published": "2026-06-04T08:28:27+00:00",
+      "summary": "과학기술정보통신부(부총리 겸 장관 배경훈)는 4일 서울 소공동 롯데호텔 크리스탈볼룸에서 국산 AI 반도체 성과를 공유, 성장 전략을 논의하는 ‘K-AI 반도체 성장 포럼’을 개최했다고 밝혔다.특히, 국산 AI 반도체 공식 성능 측정 지표 ‘K-퍼프(Perf)’를 활용해 국내 기업 퓨리오사AI와 리벨리온의 반도체의 ‘성능 검증’을 진행했다고 소개했다. K-퍼프는 국산 AI 반도체 성능에 관한 신뢰성을 높이고, 수요 기업이 필요로 하는 성능 데이터를 객관적으로 제공하기 위한 공식 지표다. 지난해 12"
+    },
+    {
+      "id": "ba584ddc13d7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한국퀀텀컴퓨팅, LS ITC와 ‘양자보안 전환’ PoC 완료",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211344",
+      "published": "2026-06-04T08:23:54+00:00",
+      "summary": "양자컴퓨팅 전문 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 LS그룹의 IT서비스 기업 LS ITC와 양자내성암호(PQC) 보안 기술실증(PoC)을 성공적으로 완료했다고 4일 밝혔다.이번 PoC는 에이전트 AI를 사용한 해킹과 양자 컴퓨터의 위험에 대비하기 위해 스마트 인프라 및 제조 환경에서 요구되는 ‘보안 수준 고도화’를 목표로 한다. KQC는 인증·접속·운영 관리 전반에 걸쳐 양자보안 기술의 실제 적용 가능성을 검증하는 데 초점을 맞췄다.우선, PQC 기반 FIDO 인증 키를 적용해 LS그룹의 사"
+    },
+    {
+      "id": "21be0d5996af",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오션스마트, AI 해운 플랫폼으로 시드 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211345",
+      "published": "2026-06-04T08:05:00+00:00",
+      "summary": "오션스마트(대표 유창현)가 한국투자액셀러레이터로부터 시드 투자를 유치했다고 4일 밝혔다. 액수는 공개하지 않았다.오션스마트는 해운 산업이 항로 설계와 선복 배분, 일정 조율 등 핵심 의사결정을 이메일 및 수기 문서에 크게 의존한다는 점을 개선하기 위해 해운 플랫폼을 구축했다.대형 본선과 피더선의 정보를 통합해 선박 일정, 항만 슬롯, 화물·운임 데이터를 학습한 모델을 바탕으로 항로별 최적 배선 계획을 제시해 준다. 운항 중 발생하는 변동 요소를 실시간으로 반영해 일정과 비용을 재조정하는 구조다.그"
+    },
+    {
+      "id": "c4d565de9fb5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 스카이인텔리전스, 서울대 AI연구원과 피지컬 AI 연구 MOU 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211334",
+      "published": "2026-06-04T08:00:00+00:00",
+      "summary": "■ 스카이인텔리전스(대표 이재철)는 서울대학교 AI연구원(AIIS)과 로봇 비전 및 파지 기술 고도화를 위한 업무협약(MOU)을 체결했다고 밝혔다. 스카이인텔리전스는 엔비디아 옴니버스 기반 디지털 트윈 기술로 피지컬 AI 산업에 적용 가능한 합성 데이터를 생산하는 인프라를 포함해 로봇 파지 정확도와 안정성 향상을 위한 공동 연구를 추진하며, 고정밀 3차원 CAD 모델, 학습·평가용 데이터셋 등을 제공할 예정이다.■ 넵튠(대표 강율빈)의 기업용 채팅 솔루션 ‘클랫’이 출시 5년만에 누적 이용자 수 "
+    },
+    {
+      "id": "c10553997546",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부, 연구 도메인 특화 AI 모델 개발 나서…4년간 225억 투입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211351",
+      "published": "2026-06-04T07:40:00+00:00",
+      "summary": "과학기술정보통신부(부총리 겸 장관 배경훈)는 AI를 활용해 과학기술 연구방식을 혁신하기 위한 ‘신규 연구개발 사업’을 본격 추진한다고 4일 밝혔다.과기부는 앞으로 4년 간 ▲바이오 ▲재료, 화학 ▲지구과학 ▲에너지, 거대과학 ▲이차전지 등 6개 분야에서 도메인 특화 AI 모델 개발에 나선다. 총 225억원을 투입할 예정이다.각 과제에는 해당 분야 연구자와 AI, 데이터 전문 연구자가 참여한다. AI 모델 개발에 필요한 GPU 등 컴퓨팅 인프라를 지원하고 사업을 통해 확보된 연구데이터 및 AI 모델"
+    },
+    {
+      "id": "3824a3bef14a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Shokz upgraded its open earbuds with better sound and a lighter design",
+      "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "published": "2026-06-04T07:00:00+00:00",
+      "summary": "Shokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to the back of your ear with their drivers positioned to project sound toward your ea"
+    },
+    {
+      "id": "dc4477758627",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 6일 마동저수지서 ‘환경사랑 한마당’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211338",
+      "published": "2026-06-04T06:34:53+00:00",
+      "summary": "광양시가 제31회 환경의 날을 맞아 시민 참여형 환경행사를 연다고 4일 밝혔다. 광양은 오는 6월6일 마동저수지 생태공원에서 ‘광양사랑 환경사랑 한마당행사’를 개최한다.이번 행사는 6월5일 환경의 날을 기념해 환경오염과 기후위기의 심각성을 알리고 시민들의 환경보전 의식을 높이기 위해 마련됐다. 올해 행사는 ‘기후 행동으로 실현하는 녹색 대한민국’을 주제로 진행된다.행사에는 초·중·고등학생을 비롯한 시민과 민간 환경단체, 교육단체 등이 참여할 예정이다. 기념식에서는 환경보전 활동에 기여한 유공자에게"
+    },
+    {
+      "id": "c1081f1d1510",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 노트북용 멀티모달 '젬마 4 12B' 출시...\"인코더 빼고 경량화 성공\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211306",
+      "published": "2026-06-04T06:22:19+00:00",
+      "summary": "구글이 이미지와 오디오 인코더를 완전히 제거한 새로운 온디바이스 멀티모달 모델을 공개했다. 120억개 규모의 매개변수를 갖춘 이 모델은 텍스트, 이미지, 오디오, 비디오를 단일 아키텍처에서 처리하면서도 일반 소비자용 노트북에서 구동할 수 있도록 설계됐다.구글은 3일(현지시간) 최신 오픈웨이트 모델인 ‘젬마 4 12B(Gemma 4 12B)’를 출시하며, 이를 \"노트북을 위한 에이전트형 멀티모달 AI\"라고 소개했다.젬마 4 12B는 약 119억5000만개의 매개변수를 갖춘 디코더 전용 트랜스포머 모"
+    },
+    {
+      "id": "b0e387b35a9a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "??? : 전남친 스토리 몰래 봐드립니다",
+      "link": "https://www.youtube.com/shorts/EAunU6xME_w",
+      "published": "2026-06-04T06:00:08+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b19349bc6357",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, AI 자금 조달 129조로 확대… 35%는 '인재 유지' 세금으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211307",
+      "published": "2026-06-04T05:53:20+00:00",
+      "summary": "구글이 AI 인프라 투자 확대를 위해 추진 중인 대규모 주식 공모 규모를 당초 800억달러(약 122조원)에서 847억5000만달러(약 129조원)로 상향 조정했다. 투자자들의 강한 수요가 확인되면서 조달 규모를 약 50억달러 늘린 것이다. 다만 조달 자금의 상당 부분이 데이터센터 구축이 아닌 직원 주식 보상에 따른 세금 납부에 사용될 예정이다.구글은 3일(현지시간) 공시를 통해 총주식 발행 규모를 847억5000만달러로 확대한다고 밝혔다. 이는 지난 1일 발표한 800억달러 계획보다 47억500"
+    },
     {
       "id": "ef5f8fb8eff4",
       "source": "Wired",
@@ -133,6 +309,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211294",
       "published": "2026-06-04T02:20:00+00:00",
       "summary": "브라질 재생에너지 시장에서 출력제어가 주요 리스크로 떠올랐다. 태양광·풍력 발전설비는 빠르게 늘고 있지만, 전기를 실어 나를 송전망 확충은 이를 따라가지 못하고 있기 때문이라는 분석이다.에너지시장 분석 기관 오로라 에너지 리서치는 1일(현지시간) 브라질의 재생에너지 출력제어율이 2025년 약 21% 수준까지 높아졌다고 분석했다.다만 송전망 확충, 전력수요 증가, 배터리 에너지저장장치 도입이 진행되면 2030년까지 현재보다 8~12%포인트 낮아질 수 있다고 봤다.출력제어는 발전설비가 전기를 만들 수"
+    },
+    {
+      "id": "c827ad1791fa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "published": "2026-06-04T00:44:13+00:00",
+      "summary": "Article URL: https://e360.yale.edu/digest/trump-ooi-amoc Comments URL: https://news.ycombinator.com/item?id=48392232 Points: 467 # Comments: 302"
+    },
+    {
+      "id": "ad06aaf711fd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "published": "2026-06-04T00:18:02+00:00",
+      "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html Comments URL: https://news.ycombinator.com/item?id=48392004 Points: 261 # Comm"
+    },
+    {
+      "id": "2da66dd931d2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "They’re made out of weights",
+      "link": "https://maxleiter.com/blog/weights",
+      "published": "2026-06-03T23:37:18+00:00",
+      "summary": "Article URL: https://maxleiter.com/blog/weights Comments URL: https://news.ycombinator.com/item?id=48391611 Points: 623 # Comments: 232"
     },
     {
       "id": "814442cedcc1",
@@ -298,6 +507,17 @@
       "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
       "published": "2026-06-03T18:00:00+00:00",
       "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds."
+    },
+    {
+      "id": "fa1c190c12b6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "published": "2026-06-03T17:51:37+00:00",
+      "summary": "https://web.archive.org/web/20260603173839/https://www.theat... https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Points: 416 # Comments: 731"
     },
     {
       "id": "becce08f0372",
