@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-03T22:53:45.340247+00:00",
-  "count": 1263,
+  "updated_at": "2026-06-04T00:28:34.514222+00:00",
+  "count": 1266,
   "items": [
+    {
+      "id": "814442cedcc1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "published": "2026-06-03T22:56:51+00:00",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
+    },
+    {
+      "id": "1b90e8551887",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "published": "2026-06-03T22:09:41+00:00",
+      "summary": "Some quantum computing companies we've covered have done recent progress updates."
+    },
     {
       "id": "68ca66c7206c",
       "source": "The Verge",
@@ -276,6 +298,17 @@
       "link": "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
       "published": "2026-06-03T15:13:03+00:00",
       "summary": "Data shows Waymo's robotaxis are empty for almost half of the miles they drive."
+    },
+    {
+      "id": "535d74f269fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "link": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "published": "2026-06-03T15:06:09+00:00",
+      "summary": "Article URL: https://letsencrypt.org/2026/06/03/pq-certs Comments URL: https://news.ycombinator.com/item?id=48385114 Points: 213 # Comments: 116"
     },
     {
       "id": "7350a2d8f18e",
