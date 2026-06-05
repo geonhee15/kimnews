@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-05T16:18:19.258068+00:00",
-  "count": 1423,
+  "updated_at": "2026-06-05T18:21:33.671455+00:00",
+  "count": 1428,
   "items": [
+    {
+      "id": "f28c598c75b2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "published": "2026-06-05T17:17:06+00:00",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck cre"
+    },
+    {
+      "id": "8817fabbc0c9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This is your laptop… on AI",
+      "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "published": "2026-06-05T16:39:07+00:00",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a "
+    },
+    {
+      "id": "da14dc89f23c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Supabase doubles valuation to $10B in 8 months",
+      "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "published": "2026-06-05T16:32:27+00:00",
+      "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms."
+    },
     {
       "id": "1b6c9a3a1cbe",
       "source": "The Verge",
@@ -58,6 +91,17 @@
       "summary": ""
     },
     {
+      "id": "913e4eb534ae",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "published": "2026-06-05T15:40:48+00:00",
+      "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary."
+    },
+    {
       "id": "bc6f152b955e",
       "source": "Wired",
       "kind": "article",
@@ -67,6 +111,17 @@
       "link": "https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/",
       "published": "2026-06-05T15:07:11+00:00",
       "summary": "Former DOGE members and Elon Musk allies are backing a startup aimed at using AI to apply \"learnings\" from DOGE to the private sector."
+    },
+    {
+      "id": "b328aac96cf5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "published": "2026-06-05T15:00:31+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/live/c4g44ew3g1kt Comments URL: https://news.ycombinator.com/item?id=48413464 Points: 224 # Comments: 148"
     },
     {
       "id": "3fa92a133154",
