@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-06-05T13:38:21.815662+00:00",
-  "count": 1408,
+  "updated_at": "2026-06-05T16:18:19.258068+00:00",
+  "count": 1423,
   "items": [
+    {
+      "id": "1b6c9a3a1cbe",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What happens when your phone is confiscated at the airport",
+      "link": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
+      "published": "2026-06-05T16:15:00+00:00",
+      "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minnesota labor organizer Janette Zahia Corcelius returned home from a three-week tr"
+    },
+    {
+      "id": "689ce81a02e2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+      "published": "2026-06-05T16:07:46+00:00",
+      "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools."
+    },
+    {
+      "id": "dc4a7c75963e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
+      "link": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
+      "published": "2026-06-05T16:00:00+00:00",
+      "summary": "The actual eco-friendliness of ecotourism varies considerably. One research station in the Peruvian Amazon is out to prove it can bring visitors to the area without disrupting the environment."
+    },
+    {
+      "id": "a9ba07e14568",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
+      "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
+      "published": "2026-06-05T16:00:00+00:00",
+      "summary": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease."
+    },
+    {
+      "id": "e748dc66b61a",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "link": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "published": "2026-06-05T15:50:26+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bc6f152b955e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The DOGE Boys Get VC Funding to Support Their Latest Enterprise",
+      "link": "https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/",
+      "published": "2026-06-05T15:07:11+00:00",
+      "summary": "Former DOGE members and Elon Musk allies are backing a startup aimed at using AI to apply \"learnings\" from DOGE to the private sector."
+    },
+    {
+      "id": "3fa92a133154",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "published": "2026-06-05T15:00:00+00:00",
+      "summary": "Microsoft’s AI products aren’t selling and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode."
+    },
+    {
+      "id": "01c0598f08ef",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "published": "2026-06-05T14:49:12+00:00",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
+    },
+    {
+      "id": "d3c851aaa4dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+      "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+      "published": "2026-06-05T14:42:52+00:00",
+      "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module."
+    },
+    {
+      "id": "ab360c782a1b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+      "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "published": "2026-06-05T14:32:57+00:00",
+      "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker."
+    },
+    {
+      "id": "e76d219baa79",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside Madonna’s Horny, Full-Throttle Grindr Takeover",
+      "link": "https://www.wired.com/story/inside-madonnas-big-gay-grindr-takeover/",
+      "published": "2026-06-05T14:24:32+00:00",
+      "summary": "From talking about sex with JFK Jr. to a surprise show in Times Square, the queen of pop is leveraging Grindr’s “gayborhood” to sell her new album."
+    },
+    {
+      "id": "77a0d5570346",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "published": "2026-06-05T13:57:31+00:00",
+      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with al"
+    },
     {
       "id": "59f2ad747f3a",
       "source": "TechCrunch",
@@ -157,6 +289,17 @@
       "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into "
     },
     {
+      "id": "1a88c5c15e98",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "link": "https://arxiv.org/abs/2606.03673",
+      "published": "2026-06-05T08:32:16+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2606.03673 Comments URL: https://news.ycombinator.com/item?id=48409664 Points: 258 # Comments: 113"
+    },
+    {
       "id": "40918f19f2c5",
       "source": "AI타임스",
       "kind": "article",
@@ -210,6 +353,17 @@
       "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
       "published": "2026-06-05T07:26:33+00:00",
       "summary": "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/ Comments URL: https://news.ycombinator.com/item?id=48409191 Points: 237 # Comments: 140"
+    },
+    {
+      "id": "385520d3ae47",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Changing how we develop Ladybird",
+      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "published": "2026-06-05T07:26:33+00:00",
+      "summary": "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/ Comments URL: https://news.ycombinator.com/item?id=48409191 Points: 652 # Comments: 435"
     },
     {
       "id": "b1d325eaead6",
@@ -474,6 +628,17 @@
       "link": "https://github.com/alibaba/open-code-review",
       "published": "2026-06-05T00:04:29+00:00",
       "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 215 # Comments: 62"
+    },
+    {
+      "id": "e73be1f28bdc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "link": "https://arxiv.org/abs/2606.04032",
+      "published": "2026-06-04T23:11:56+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 201 # Comments: 36"
     },
     {
       "id": "e78c1befc640",
