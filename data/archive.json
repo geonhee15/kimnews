@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-05T18:21:33.671455+00:00",
-  "count": 1428,
+  "updated_at": "2026-06-05T20:23:27.648416+00:00",
+  "count": 1433,
   "items": [
+    {
+      "id": "95e1757d8012",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "published": "2026-06-05T18:57:20+00:00",
+      "summary": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO."
+    },
+    {
+      "id": "2ab09b8a1614",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published": "2026-06-05T18:45:20+00:00",
+      "summary": "SpaceX won’t get easy access to billions of dollars from passive investors."
+    },
+    {
+      "id": "f17e28afc716",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+      "link": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+      "published": "2026-06-05T18:23:00+00:00",
+      "summary": "Developer felt \"beaten up,\" with \"no choice\" but to shrink data center."
+    },
     {
       "id": "f28c598c75b2",
       "source": "TechCrunch",
@@ -80,6 +113,17 @@
       "summary": "As the conflict in Iran disrupts the world’s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease."
     },
     {
+      "id": "de02a7afe1a8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "link": "https://github.com/microsoft/pg_durable",
+      "published": "2026-06-05T15:59:57+00:00",
+      "summary": "Article URL: https://github.com/microsoft/pg_durable Comments URL: https://news.ycombinator.com/item?id=48414367 Points: 208 # Comments: 43"
+    },
+    {
       "id": "e748dc66b61a",
       "source": "Two Minute Papers",
       "kind": "youtube",
@@ -144,6 +188,17 @@
       "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "published": "2026-06-05T14:49:12+00:00",
       "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
+    },
+    {
+      "id": "3bd137ce537d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "link": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "published": "2026-06-05T14:48:44+00:00",
+      "summary": "Article URL: https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform Comments URL: https://news.ycombinator.com/item?id=48413295 Points: 202 # Comments: 65"
     },
     {
       "id": "d3c851aaa4dc",
