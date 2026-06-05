@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-05T20:23:27.648416+00:00",
-  "count": 1433,
+  "updated_at": "2026-06-05T21:56:13.069182+00:00",
+  "count": 1442,
   "items": [
+    {
+      "id": "7d2ebabf6d8f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Control Resonant is a sequel — and also a starting point",
+      "link": "https://www.theverge.com/games/944151/control-resonant-hands-on",
+      "published": "2026-06-05T21:45:44+00:00",
+      "summary": "Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When Resonant was first revealed last year, creative director Mikael Kasurinen said you"
+    },
+    {
+      "id": "c873e1589b21",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Congress still can’t decide what to do about warrantless surveillance",
+      "link": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
+      "published": "2026-06-05T21:15:48+00:00",
+      "summary": "The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance Act is coming up a week from now on June 12th, and legislators seem no closer to reaching a deal. If this sounds like deja vu, it's because we've been here before. Congress reauthorized Section 702 i"
+    },
+    {
+      "id": "d3f679891c57",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Highly reviewed speaker can be hacked over the air to infect connected devices",
+      "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+      "published": "2026-06-05T21:00:29+00:00",
+      "summary": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability."
+    },
+    {
+      "id": "a17030836d8e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Small modular nuclear reactor reaches criticality in first test",
+      "link": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+      "published": "2026-06-05T19:23:08+00:00",
+      "summary": "The reactor, from a startup called Antares, isn't ready to generate power yet."
+    },
+    {
+      "id": "93f7454b3f67",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+      "link": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+      "published": "2026-06-05T19:03:16+00:00",
+      "summary": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\""
+    },
     {
       "id": "95e1757d8012",
       "source": "TechCrunch",
@@ -20,6 +75,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "S&P 500 blocks fast SpaceX entry, won’t waive rule for unprofitable AI firms",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published": "2026-06-05T18:45:20+00:00",
+      "summary": "SpaceX won’t get easy access to billions of dollars from passive investors."
+    },
+    {
+      "id": "0cbc72825bf0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "published": "2026-06-05T18:45:20+00:00",
       "summary": "SpaceX won’t get easy access to billions of dollars from passive investors."
@@ -45,6 +111,17 @@
       "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
       "published": "2026-06-05T17:17:06+00:00",
       "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck cre"
+    },
+    {
+      "id": "251697067a56",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "published": "2026-06-05T16:55:30+00:00",
+      "summary": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m... https://www.adyen.com/press-and-media/adyen-payments-gov-uk Comments URL: https://news.ycombinator.com/item?id=48415217 Points: 227 # Comments: 74"
     },
     {
       "id": "8817fabbc0c9",
@@ -144,6 +221,17 @@
       "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
       "published": "2026-06-05T15:40:48+00:00",
       "summary": "The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary."
+    },
+    {
+      "id": "944bcb9d3f66",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "published": "2026-06-05T15:39:38+00:00",
+      "summary": "Article URL: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/ Comments URL: https://news.ycombinator.com/item?id=48414027 Points: 220 # Comments: 172"
     },
     {
       "id": "bc6f152b955e",
@@ -254,6 +342,17 @@
       "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
       "published": "2026-06-05T13:03:10+00:00",
       "summary": "The Australian data center operator plans to set up 5GW of capacity in India."
+    },
+    {
+      "id": "f3df5c0ba940",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Did Claude increase bugs in rsync?",
+      "link": "https://alexispurslane.github.io/rsync-analysis/",
+      "published": "2026-06-05T12:43:33+00:00",
+      "summary": "Article URL: https://alexispurslane.github.io/rsync-analysis/ Comments URL: https://news.ycombinator.com/item?id=48411635 Points: 203 # Comments: 205"
     },
     {
       "id": "7c0e32523321",
