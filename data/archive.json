@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-05T21:56:13.069182+00:00",
-  "count": 1442,
+  "updated_at": "2026-06-05T23:03:17.605918+00:00",
+  "count": 1447,
   "items": [
+    {
+      "id": "8dfbe8df4d18",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
+      "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "published": "2026-06-05T22:35:01+00:00",
+      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus."
+    },
+    {
+      "id": "099de4127eba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월5일] 테드 창이 'AI 의식'과 앤트로픽을 비판한 이유...\"문제는 인간의 착각\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211374",
+      "published": "2026-06-05T22:00:00+00:00",
+      "summary": "오래전부터 SF 작가들은 기술 업계에 많은 영향을 미쳤습니다. 이는 기술 문화 곳곳에서 발견됩니다.이들의 상상력은 단지 새로운 기술을 예고하는 데 그치지 않습니다. 철학적, 인문학적인 기반으로 기술의 도래에 따른 인간의 문제를 파헤치기도 합니다.AI를 둘러싼 철학적 논쟁에서 대표적인 작가 중 한 명은 테드 창입니다.국내에서도 단편 '당신 인생의 이야기(Stories of Your Life and Others)'로 잘 알려진 그는 AI와 관련된 소설도 쓴 적이 있습니다. 과학적 사실에 근거하면서도 "
+    },
     {
       "id": "7d2ebabf6d8f",
       "source": "The Verge",
@@ -144,6 +166,17 @@
       "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
       "published": "2026-06-05T16:32:27+00:00",
       "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms."
+    },
+    {
+      "id": "9c6115caf069",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "published": "2026-06-05T16:18:48+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/ Comments URL: https://news.ycombinator.com/item?id=48414653 Points: 213 # Comments: 66"
     },
     {
       "id": "1b6c9a3a1cbe",
@@ -311,6 +344,17 @@
       "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker."
     },
     {
+      "id": "f39f740c585c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I tested every IP KVM in my Homelab",
+      "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "published": "2026-06-05T14:30:50+00:00",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/ Comments URL: https://news.ycombinator.com/item?id=48413072 Points: 211 # Comments: 60"
+    },
+    {
       "id": "e76d219baa79",
       "source": "Wired",
       "kind": "article",
@@ -331,6 +375,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
       "published": "2026-06-05T13:57:31+00:00",
       "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with al"
+    },
+    {
+      "id": "632b47a2a848",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "published": "2026-06-05T13:18:46+00:00",
+      "summary": ""
     },
     {
       "id": "59f2ad747f3a",
