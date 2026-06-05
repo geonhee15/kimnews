@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-06-05T06:18:26.793689+00:00",
-  "count": 1377,
+  "updated_at": "2026-06-05T10:31:04.339234+00:00",
+  "count": 1397,
   "items": [
+    {
+      "id": "80da5b3f2368",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+      "published": "2026-06-05T10:00:00+00:00",
+      "summary": "From battery life to privacy, there are many hurdles to the idea taking off."
+    },
+    {
+      "id": "a128080faabe",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
+      "link": "https://www.wired.com/story/best-pool-accessories/",
+      "published": "2026-06-05T09:33:00+00:00",
+      "summary": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season."
+    },
+    {
+      "id": "6c985732fcbe",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "대화가 너무 자연스러워진 AI 근황",
+      "link": "https://www.youtube.com/shorts/EDsVoKiSS58",
+      "published": "2026-06-05T09:00:01+00:00",
+      "summary": ""
+    },
+    {
+      "id": "49cf9b7f856b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Has Come for Serif Fonts",
+      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+      "published": "2026-06-05T09:00:00+00:00",
+      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”"
+    },
+    {
+      "id": "ecb97083ed3c",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "published": "2026-06-05T09:00:00+00:00",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact"
+    },
+    {
+      "id": "a16cbc29c612",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "published": "2026-06-05T09:00:00+00:00",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into "
+    },
+    {
+      "id": "40918f19f2c5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211367",
+      "published": "2026-06-05T08:19:38+00:00",
+      "summary": "엔비디아가 장시간 실행되는 AI 에이전트 시대를 겨냥한 차세대 대형언어모델(LLM)을 공개했다. 엔비디아는 4일(현지시간) 플래그십 AI 모델 ‘네모트론 3 울트라(Nemotron 3 Ultra)’를 오픈소스로 출시했다.총 5500억개의 매개변수를 갖춘 이 모델은 단순 챗봇이 아닌 장시간 작업을 수행하는 AI 에이전트를 위해 설계됐으며, 기존 LLM 대비 최대 5~6배 높은 추론 처리량과 최대 30% 낮은 작업 비용을 제공하는 것이 특징이다.네모트론 3 울트라는 총 5500억개 매개변수를 가진 초"
+    },
+    {
+      "id": "da269b2ebbc5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 소송 중에도 미 국가안보국에 FDE 파견해 '미소스' 기술 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211387",
+      "published": "2026-06-05T07:50:44+00:00",
+      "summary": "앤트로픽이 미국 국가안보국(NSA)의 사이버 작전에 '클로드 미소스'를 활용할 수 있도록 지원하는 것으로 알려졌다. 이는 미 국방부와 AI 기술의 군사 활용 범위를 둘러싸고 법적 분쟁을 이어가는 가운데 이뤄진 행보다.파이낸셜타임스(FT)는 4일(현지시간) 소식통을 인용, 앤트로픽이 NSA 내부에 약 6명의 엔지니어를 '전방 배치 엔지니어(FDE)'를 파견했다고 보도했다.이들은 국방부 산하 NSA가 미소스를 효과적으로 활용할 수 있도록 지원하고 특정 임무에 맞게 모델을 최적화하는 역할을 수행하고 있"
+    },
+    {
+      "id": "5eeab7887d76",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리얼월드, 아시아 최대 스타트업 경연 대상...\"RFM 글로벌 리더십 확보\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211400",
+      "published": "2026-06-05T07:35:00+00:00",
+      "summary": "리얼월드(대표 류중희)는 대만 타이베이에서 열린 '이노벡스 피치 콘테스트 2026'에서 대상인 '그랜드 프라이즈(Grand Prize)'를 수상했다고 5일 밝혔다.이노벡스 피치 콘테스트는 아시아 최대 스타트업 전문 행사로 꼽힌다. 리얼월드는 이번 대회에서 'KONST 클라우드 어워드'까지 추가로 수상하며 2관왕에 올랐다.올해는 22개국 180개 기업이 지원해 15개 기업이 결선 무대에 올랐다. 리얼월드는 결선에서 독자 개발한 로보틱스 파운데이션 모델(RFM) 'RLDX-1'을 선보였다.RLDX-1"
+    },
+    {
+      "id": "e8139d8614d2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST “휴머노이드 조종사로 기존 항공기 자동화…조종 검증 완료”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211401",
+      "published": "2026-06-05T07:31:35+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 이광형)은 심현철 전기및전자공학부 교수 연구팀이 ‘인간형 조종사 로봇 ‘파이봇(PIBOT)’을 활용한 항공기 자율조종 프레임워크’ 논문을 통해 로보틱스 및 자동화 매거진 ‘IEEE RAM에서 최우수 논문에 선정됐다고 5일 밝혔다. IEEE RAM은 세계 최대 기술 학회인 ‘IEEE’ 산하 로보틱스 및 자동화 학회가 발행하는 학술 매거진이다. 이번 최우수 논문에 선정된 연구는 국방과학연구소(ADD) 미래도전국방기술 과제로 선정돼 57억원 규모(5년)의 지원을 받아 수"
+    },
+    {
+      "id": "f98dd8277284",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Changing How We Develop Ladybird",
+      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "published": "2026-06-05T07:26:33+00:00",
+      "summary": "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/ Comments URL: https://news.ycombinator.com/item?id=48409191 Points: 237 # Comments: 140"
+    },
+    {
+      "id": "b1d325eaead6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "골드만삭스 \"스페이스X, 2030년 AI 매출 100배 폭발…현금 소진은 541조\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211391",
+      "published": "2026-06-05T07:23:51+00:00",
+      "summary": "스페이스X가 기업공개(IPO)를 통해 1조7800억달러(약 2754조원)에 달하는 기업 가치에 도전하는 가운데, 초대형 밸류에이션의 핵심 근거는 로켓이나 위성 인터넷 사업이 아니라 AI 사업의 폭발적인 성장에 있다는 분석이 나왔다.4일(현지시간) 파이낸셜타임스(FT)와 디 인포메이션에 따르면, IPO 주관사인 골드만삭스는 투자자들에게 제시한 전망에서 스페이스X의 AI 사업 매출이 2025년 32억달러에서 2030년 3220억달러(약 498조원)로 약 100배 증가할 것으로 예상했다.같은 기간 스페"
+    },
+    {
+      "id": "cbca8d15fee7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, ‘BTS 더 시티 아리랑 부산’ 제미나이 체험 프로그램 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211397",
+      "published": "2026-06-05T07:07:33+00:00",
+      "summary": "구글은 오는 21일까지 부산에서 펼쳐지는 도시형 복합 문화 프로젝트 ‘BTS 더 시티 아리랑 부산(BTS THE CITY ARIRANG - BUSAN)’에 공식 AI 컴패니언으로 참여해 '제미나이'를 바탕으로 다양한 온오프라인 AI 체험 프로그램을 선보인다고 밝혔다.이번 프로젝트를 통해 부산의 여행지와 지역 문화를 쉽고 직관적으로 탐색하도록 지원할 예정이다. 부산역, 해운대, 블루라인파크 등 주요 관광 거점을 중심으로 ▲개인화된 여행 일정 설계 ▲음성 기반 실시간 현지 정보 안내 ▲참여형 디지털 "
+    },
+    {
+      "id": "383b05c32700",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아이엘, 휴머노이드 운영 데이터 43만건 확보…”연내 500만건 목표”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211390",
+      "published": "2026-06-05T07:03:20+00:00",
+      "summary": "미래 모빌리티 전문 아이엘은 휴머노이드 ‘아이엘봇(ILBOT)’ 운영을 통해 누적 운영시간 2389시간을 기록하는 등 운영 데이터 43만7403건을 확보했다고 5일 밝혔다.실제 산업 현장에서 휴머노이드를 운영하며 축적된 데이터다. 작업 수행 데이터와 이동 경로 데이터, 배터리 충전·방전 데이터, 장애 대응 및 복구 데이터 등을 포함한다. ▲작업 수행 데이터 21만432건 ▲이동 경로 데이터 21만432건 ▲배터리 충전·방전 데이터 1만4352건 ▲장애·복구 데이터 2187건 등 총 43만7403건"
+    },
+    {
+      "id": "74024eb71cff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 메가존클라우드, 스노우플레이크 '올해의 리셀 파트너' 수상 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211389",
+      "published": "2026-06-05T07:00:00+00:00",
+      "summary": "■ 메가존클라우드(대표 염동훈)는 미국 샌프란시스코에서 열린 ‘스노우플레이크 서밋 2026’에서 아시아태평양 및 일본 지역 ‘올해의 리셀 파트너상’을 수상했다고 밝혔다. 메가존클라우드는 고객별 비즈니스 환경과 데이터 활용 수준에 맞춘 제안과 구축 지원, 활용 확대 컨설팅을 통해 스노우플레이크 도입이 실제 업무 성과로 이어질 수 있도록 기여한 점을 높이 평가받았다고 설명했다. 메가존클라우드는 올해 4월 스노우플레이크의 최고 파트너 등급인 ‘엘리트(Elite)’ 자격을 2년 연속 획득했다.■ 인텔리빅"
+    },
+    {
+      "id": "3c3aa7c2d32a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "프로메디우스, 215억 시리즈 B 투자 유치…”AI 골다공증 선별 시장 확대”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211393",
+      "published": "2026-06-05T06:51:02+00:00",
+      "summary": "의료 AI 전문 프로메디우스(대표 배현진)는 AI 골다공증 위험 선별 솔루션 기술로 215억원 규모의 시리즈 B 투자 유치를 마무리했다고 5일 밝혔다. 누적 투자 유치액은 350억원을 넘어섰다. 이번 라운드에는 기존 투자사인 스타셋인베스트먼트와 우리벤처파트너스가 참여했으며, 대웅제약과 네이버가 전략적 투자자(SI)로 참여했다. 코오롱인베스트먼트, SL인베스트먼트, 쿼드자산운용, 유경PSG자산운용, 흥국증권-쿼크PE, IBK기업은행이 신규 투자자로 합류했다.프로메디우스의 주력 제품인 ‘오스테오 시그"
+    },
+    {
+      "id": "a990b73fce96",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼·아모데이·허사비스, 미 의회에 '생물학 무기 방지법' 촉구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211384",
+      "published": "2026-06-05T06:46:05+00:00",
+      "summary": "AI 업계를 대표하는 CEO들이 생물학 무기 확산 위험에 대응하기 위한 규제 마련을 미국 의회에 촉구하고 나섰다. 악의적인 행위자들이 새로운 병원체를 개발할 수 있다는 우려에 따라, 경쟁자들이 한목소리를 냈다는 사실로 주목받았다.월스트리트저널(WSJ)는 4일(현지시간) 샘 알트먼 오픈AI CEO와 다리오 아모데이 앤트로픽 CEO, 데미스 허사비스 구글 딥마인드 CEO 등이 최근 미 의회에 보낸 공개서한에 공동 서명했다고 보도했다.무스타파 술레이먼 마이크로소프트 AI CEO와 알렉산드르 왕 메타 C"
+    },
+    {
+      "id": "879200f8034d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MGK로보틱스, STK 2026서 적응형 로봇 '리즌' 국내 첫 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211385",
+      "published": "2026-06-05T06:22:36+00:00",
+      "summary": "MGK로보틱스(대표 박성현·민인식)는 오는 10일 서울 코엑스에서 열리는 '스마트테크 코리아(STK) 2026 로보테크쇼'에 참가한다고 밝혔다.이번 전시에서는 플렉시브(Flexiv)의 어댑티브(적응형) 로봇과 지능형 자동화 기술을 선보인다.주력 제품은 다관절 로봇 '리즌(RIZON)'이다. 첨단 로봇공학과 AI 기술에 포스 컨트롤(Force Control) 기반 촉각 능력과 힘 제어 기능을 결합한 것이 특징이다. 국내 시장에는 이번 전시를 통해 처음 공개한다.기존 협동 로봇 대비 높은 작업 유연성"
+    },
+    {
+      "id": "307af2172e14",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI '코덱스' 기습 프로모션…광고 속 게임하면 AI 크레딧 제공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211388",
+      "published": "2026-06-05T06:21:12+00:00",
+      "summary": "오픈AI가 NBA 결승전 중 방영된 광고를 통해 기습적인 '코덱스' 프로모션을 실시했다.오픈AI는 4일(현지시간) 뉴욕 닉스와 샌 안토니오 스퍼스의 NBA 결승 1차전 경기 중 '타임 투 플라이(Time to Fly)'라는 코덱스 광고를 내보냈다.여기에는 사용자들이 코덱스를 활용해 자신의 아이디어로 앱이나 비디오 게임을 개발하는 모습이 담겼다. 특히, 오픈AI 자체 제작 게임이 포함돼 있다.게임의 이름은 광고 제목과 같다. 눈썰미 좋은 일부 시청자들은 온라인에서 그 게임을 찾아 플레이했고, 무료 "
+    },
     {
       "id": "0f8c7b928bd1",
       "source": "조코딩",
@@ -155,6 +364,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211355",
       "published": "2026-06-05T03:49:37+00:00",
       "summary": "목포수산식품지원센터는 ‘전남일원 김 생산해역 시료 확보 및 전처리’ 연구용역 사업 수행기관으로 최종 선정돼 2028년까지 3년간 사업을 추진한다고 5일 밝혔다. 사업비는 총 4억5000만원 규모로 전액 국비가 투입된다.이번 사업은 김 수출 증가에 따라 생산해역 환경과 안전성을 과학적으로 관리하기 위해 추진된다. 센터는 전남지역 4개 권역 60개 정점을 대상으로 해수와 물김 시료를 연간 10차례 채취한다.채취된 시료는 환경기초항목 조사와 위해요소 분석을 위한 전처리 과정을 거쳐 생산해역 안전성 평가"
+    },
+    {
+      "id": "e78c1befc640",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "published": "2026-06-04T22:48:19+00:00",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation Comments URL: https://news.ycombinator.com/item?id=48405718 Points: 577 # Comments: 280"
     },
     {
       "id": "144687b31914",
