@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T22:07:52.355872+00:00",
-  "count": 1491,
+  "updated_at": "2026-06-06T23:17:43.784478+00:00",
+  "count": 1492,
   "items": [
     {
       "id": "6352353550d8",
@@ -12,6 +12,17 @@
       "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "published": "2026-06-06T20:32:24+00:00",
       "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+    },
+    {
+      "id": "165a9d4a111c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "link": "https://ntsc.rs/",
+      "published": "2026-06-06T19:17:46+00:00",
+      "summary": "Article URL: https://ntsc.rs/ Comments URL: https://news.ycombinator.com/item?id=48428025 Points: 203 # Comments: 34"
     },
     {
       "id": "abc7beae674d",
