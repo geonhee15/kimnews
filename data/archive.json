@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-06T14:27:43.671051+00:00",
-  "count": 1480,
+  "updated_at": "2026-06-06T15:51:06.688291+00:00",
+  "count": 1482,
   "items": [
+    {
+      "id": "a0bebf1cd670",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "전세계에서 모인 초대형 해커톤 미친 아이디어 직접 보러갔습니다. #redbull",
+      "link": "https://www.youtube.com/watch?v=H6FQTL7FeWo",
+      "published": "2026-06-06T15:30:29+00:00",
+      "summary": ""
+    },
     {
       "id": "d7882150980a",
       "source": "The Verge",
@@ -166,6 +177,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211421",
       "published": "2026-06-06T08:44:33+00:00",
       "summary": "구글이 스페이스X로부터 데이터센터 용량을 임대하기로 합의했다. 다음 주 상장을 앞둔 스페이스X는 앤트로픽에 이어 본격적인 클라우드 사업 확장에 나서게 됐다.스페이스X가 5일(현지시간) 미 증권거래위원회(SEC)에 제출한 증권신고서(S-1) 수정본에 따르면, 구글은 2026년 10월부터 2029년 6월까지 매달 9억2000만달러(약 1조4350억원)를 스페이스X에 지불하는 컴퓨팅 용량 계약을 맺었다. 이 계약에는 최소 11만개의 엔비디아 칩에 해당하는 컴퓨팅 성능이 포함돼 있다. 총계약 규모는 30"
+    },
+    {
+      "id": "bc328d772064",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Job Searcher",
+      "link": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+      "published": "2026-06-06T06:36:51+00:00",
+      "summary": ""
     },
     {
       "id": "3e7d23f0a08b",
