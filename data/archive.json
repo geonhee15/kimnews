@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-06T09:48:09.438662+00:00",
-  "count": 1466,
+  "updated_at": "2026-06-06T11:22:13.473305+00:00",
+  "count": 1474,
   "items": [
+    {
+      "id": "74c79ccf4933",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+      "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "published": "2026-06-06T11:00:00+00:00",
+      "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems."
+    },
+    {
+      "id": "15d454ef6131",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"한국, AI 비싸게 쓴다\"…한국어 토큰 소모, 영어 최대 2.59배 높아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211350",
+      "published": "2026-06-06T10:48:21+00:00",
+      "summary": "최근 글로벌 AI 기업이 사용량(토큰)만큼 비용을 청구하는 종량제 요금제를 확대하면서 이용자의 비용 부담이 커지고 있다.여기에 동일한 AI 모델이라도 한국어가 영어보다 토큰을 최대 3.5배 더 소모한다는 연구 결과가 나오면서 비영어권 이용자가 사실상 더 많은 비용을 치르는 '비영어권 언어세(Non-English Tax)' 문제가 실제로 확인됐다.■ 한국어 영어 대비 최대 3.5배 토큰 소모...\"앤트로픽 모델이 가장 비싸\"AI 연구원 아란 코마츠자키는 SNS를 통해 유명 AI 에세이 원문을 각국 "
+    },
+    {
+      "id": "5f8e26bc7d9e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "월마트가 직접 만든 AI 코딩 에이전트 인기...\"빅테크 종속 깬다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211414",
+      "published": "2026-06-06T10:36:40+00:00",
+      "summary": "월마트의 자체 개발 AI 코딩 에이전트가 사내에서 폭발적인 인기를 끌고 있다. 특정 AI 모델에 의존하지 않고 다양한 대형언어모델(LLM)을 자유롭게 활용할 수 있도록 설계된 점이 강점으로 꼽히며, AI 시대 최대 위험 요소 중 하나로 지목되는 '벤더 종속(Vendor Lock-in)' 문제를 해결하려는 시도로 주목받고 있다. 4일(현지시간) 비즈니스 인사이더에 따르면, 월마트 글로벌 테크 조직의 수석 엔지니어인 마이크 파펜버거가 AI 코딩 에이전트 '코드 퍼피(Code Puppy)'를 개발했다."
+    },
+    {
+      "id": "c32ebce3b0a3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "published": "2026-06-06T10:30:00+00:00",
+      "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more."
+    },
+    {
+      "id": "7b2bc1dc7000",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 연주자 입력에 실시간 반응하는 AI 악기 ‘마젠타 리얼타임 2’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211417",
+      "published": "2026-06-06T10:24:34+00:00",
+      "summary": "구글이 텍스트로 음악을 만드는 수준을 넘어, 연주자의 입력에 실시간으로 반응하며 악기처럼 사용할 수 있는 AI 음악 모델을 공개했다. 구글은 4일(현지시간) 음악가들이 실제 악기처럼 연주할 수 있는 차세대 실시간 AI 음악 생성 모델 ‘마젠타 리얼타임 2(MRT2·Magenta RealTime 2)’를 공개했다.기존 생성 음악 모델이 텍스트 프롬프트를 입력받아 완성된 곡을 만드는 데 초점을 맞췄다면, MRT2는 MIDI와 오디오, 텍스트 입력에 실시간으로 반응하며 연주 가능한 AI 악기를 구현하는"
+    },
+    {
+      "id": "84ebf72f334a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, ‘젬마 4' 온디바이스 버전 QAT 공개…“메모리 1GB로 압축”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211418",
+      "published": "2026-06-06T10:14:05+00:00",
+      "summary": "구글이 오픈소스 AI 모델 '젬마 4(Gemma 4)'를 스마트폰과 엣지 기기에서도 원활하게 구동할 수 있도록 최적화한 새로운 양자화 인식 학습(QAT·Quantization-Aware Training ) 버전을 공개했다. 모바일 전용 양자화 기술을 통해 모델 크기를 1기가바이트(GB) 수준까지 줄이면서도 성능 저하를 최소화해, 고성능 생성 AI의 온디바이스 실행 시대를 앞당길 수 있을 것으로 기대된다.구글은 5일(현지시간) '젬마 4' 제품군을 위한 QAT 체크포인트를 공개했다. 이를 통해 고성"
+    },
+    {
+      "id": "89f37c59fa55",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나델라 \"신규 에이전트 목표는 사용자 중독\" 내부 문건에 격노",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211416",
+      "published": "2026-06-06T09:46:41+00:00",
+      "summary": "사티아 나델라 마이크로소프트(MS) CEO가 최근 공개된 사내 문건을 통해 신규 AI 에이전트 ‘스카우트(Scout)’의 초기 목표로 “사용자를 중독시키는 것”이라는 표현이 사용된 데 대해 공개적으로 반박하고 나섰다. 그는 이를 “터무니없는 내용”이라고 비판하며, AI의 목적은 사용자 의존성을 높이는 것이 아니라 생산성과 경제적 가치를 창출하는 데 있다고 강조했다.4일(현지시간) 디 인포메이션에 따르면, 이번 논란은 MS가 연례 개발자 행사인 '빌드' 컨퍼런스에서 공개한 개인용 AI 에이전트 스카"
+    },
     {
       "id": "9c33b84203cc",
       "source": "AI타임스",
@@ -42,6 +119,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "스페이스X, 앤트로픽 이어 구글과도 컴퓨팅 임대 계약...3년간 47조 규모",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211421",
+      "published": "2026-06-06T08:44:33+00:00",
+      "summary": "구글이 스페이스X로부터 데이터센터 용량을 임대하기로 합의했다. 다음 주 상장을 앞둔 스페이스X는 앤트로픽에 이어 본격적인 클라우드 사업 확장에 나서게 됐다.스페이스X가 5일(현지시간) 미 증권거래위원회(SEC)에 제출한 증권신고서(S-1) 수정본에 따르면, 구글은 2026년 10월부터 2029년 6월까지 매달 9억2000만달러(약 1조4350억원)를 스페이스X에 지불하는 컴퓨팅 용량 계약을 맺었다. 이 계약에는 최소 11만개의 엔비디아 칩에 해당하는 컴퓨팅 성능이 포함돼 있다. 총계약 규모는 30"
+    },
+    {
+      "id": "0f84002fd789",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, 앤트로픽 이어 구글과도 컴퓨팅 임대 계약...\"3년간 47조\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211421",
       "published": "2026-06-06T08:44:33+00:00",
       "summary": "구글이 스페이스X로부터 데이터센터 용량을 임대하기로 합의했다. 다음 주 상장을 앞둔 스페이스X는 앤트로픽에 이어 본격적인 클라우드 사업 확장에 나서게 됐다.스페이스X가 5일(현지시간) 미 증권거래위원회(SEC)에 제출한 증권신고서(S-1) 수정본에 따르면, 구글은 2026년 10월부터 2029년 6월까지 매달 9억2000만달러(약 1조4350억원)를 스페이스X에 지불하는 컴퓨팅 용량 계약을 맺었다. 이 계약에는 최소 11만개의 엔비디아 칩에 해당하는 컴퓨팅 성능이 포함돼 있다. 총계약 규모는 30"
