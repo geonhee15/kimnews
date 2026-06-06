@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T21:00:07.152645+00:00",
-  "count": 1490,
+  "updated_at": "2026-06-06T22:07:52.355872+00:00",
+  "count": 1491,
   "items": [
     {
       "id": "6352353550d8",
@@ -12,6 +12,17 @@
       "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "published": "2026-06-06T20:32:24+00:00",
       "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+    },
+    {
+      "id": "abc7beae674d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "published": "2026-06-06T18:35:27+00:00",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 222 # Comments: 76"
     },
     {
       "id": "69469e1f7a52",
