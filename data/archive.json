@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-06T04:35:51.621778+00:00",
-  "count": 1459,
+  "updated_at": "2026-06-06T07:37:16.306026+00:00",
+  "count": 1461,
   "items": [
+    {
+      "id": "3e7d23f0a08b",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "link": "https://www.youtube.com/shorts/82m7YqosdgU",
+      "published": "2026-06-06T06:20:46+00:00",
+      "summary": ""
+    },
     {
       "id": "b1fc051d232c",
       "source": "AI타임스",
@@ -2113,6 +2124,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
       "published": "2026-06-03T20:26:51+00:00",
       "summary": "Google must change AI Overviews after claiming users don't want \"lots of sources.\""
+    },
+    {
+      "id": "f38aa3871d20",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How LLMs work",
+      "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "published": "2026-06-03T20:15:13+00:00",
+      "summary": "Article URL: https://www.0xkato.xyz/how-llms-actually-work/ Comments URL: https://news.ycombinator.com/item?id=48389360 Points: 203 # Comments: 55"
     },
     {
       "id": "fbc2099179ed",
