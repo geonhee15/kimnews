@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-06T19:53:30.668148+00:00",
-  "count": 1486,
+  "updated_at": "2026-06-06T21:00:07.152645+00:00",
+  "count": 1490,
   "items": [
+    {
+      "id": "6352353550d8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "published": "2026-06-06T20:32:24+00:00",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+    },
+    {
+      "id": "69469e1f7a52",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "link": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "published": "2026-06-06T18:21:06+00:00",
+      "summary": "Article URL: https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565 Comments URL: https://news.ycombinator.com/item?id=48427523 Points: 227 # Comments: 150"
+    },
     {
       "id": "0e56b1452d60",
       "source": "TechCrunch",
@@ -56,6 +78,17 @@
       "link": "https://www.youtube.com/watch?v=H6FQTL7FeWo",
       "published": "2026-06-06T15:30:29+00:00",
       "summary": ""
+    },
+    {
+      "id": "6acffd4a779b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Moving beyond fork() + exec()",
+      "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "published": "2026-06-06T14:34:20+00:00",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/ Comments URL: https://news.ycombinator.com/item?id=48425528 Points: 201 # Comments: 208"
     },
     {
       "id": "d7882150980a",
@@ -155,6 +188,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211418",
       "published": "2026-06-06T10:14:05+00:00",
       "summary": "구글이 오픈소스 AI 모델 '젬마 4(Gemma 4)'를 스마트폰과 엣지 기기에서도 원활하게 구동할 수 있도록 최적화한 새로운 양자화 인식 학습(QAT·Quantization-Aware Training ) 버전을 공개했다. 모바일 전용 양자화 기술을 통해 모델 크기를 1기가바이트(GB) 수준까지 줄이면서도 성능 저하를 최소화해, 고성능 생성 AI의 온디바이스 실행 시대를 앞당길 수 있을 것으로 기대된다.구글은 5일(현지시간) '젬마 4' 제품군을 위한 QAT 체크포인트를 공개했다. 이를 통해 고성"
+    },
+    {
+      "id": "69061d36e4a3",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "published": "2026-06-06T10:02:33+00:00",
+      "summary": ""
     },
     {
       "id": "89f37c59fa55",
