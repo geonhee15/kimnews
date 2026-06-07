@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T21:36:41.448800+00:00",
-  "count": 1565,
+  "updated_at": "2026-06-07T22:45:44.955575+00:00",
+  "count": 1568,
   "items": [
     {
       "id": "63c24bf7c49f",
@@ -12,6 +12,28 @@
       "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
       "published": "2026-06-07T20:26:13+00:00",
       "summary": "We're likely to see more price increases as the big AI companies plan to go public."
+    },
+    {
+      "id": "ca0393d029b8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How's Linear so fast? A technical breakdown",
+      "link": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "published": "2026-06-07T19:01:37+00:00",
+      "summary": "Article URL: https://performance.dev/how-is-linear-so-fast-a-technical-breakdown Comments URL: https://news.ycombinator.com/item?id=48437609 Points: 208 # Comments: 110"
+    },
+    {
+      "id": "271edea1405d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "published": "2026-06-07T18:33:07+00:00",
+      "summary": "Article URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony Comments URL: https://news.ycombinator.com/item?id=48437406 Points: 235 # Comments: 120"
     },
     {
       "id": "bf66440b92c5",
@@ -265,6 +287,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211435",
       "published": "2026-06-07T11:37:41+00:00",
       "summary": "샘 알트먼 오픈AI CEO와 팔머 럭키 안두릴 창립자 등 IT 업계 유명인들이 예능 프로그램에 출연, 마피아 게임을 펼쳤다.피터 틸이 창립한 벤처캐피털 파운더스 펀드는 4일(현지시간) 유튜브와 X를 통해 새로운 마피아 게임 프로그램을 공개했다.여기에는 알트먼과 럭키, 브라이언 존슨 바이오해커 창립자, 딜런 필드 피그마 창립자 등 기술 업계의 유명인과 투자자, 프로 포커 선수, 작가 등 셀럽 12명이 참여했다.33분 분량의 에피소드에서는 온갖 비난이 오가는 흥미진진한 경기가 펼쳐졌다. 특히 럭키는 "
+    },
+    {
+      "id": "8cd90fc28498",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "link": "https://github.com/devenjarvis/lathe",
+      "published": "2026-06-07T11:16:46+00:00",
+      "summary": "Hey HN! Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand ( gasp ) i"
     },
     {
       "id": "dd24d62cdfc3",
