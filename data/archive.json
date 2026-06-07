@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-07T09:36:00.382995+00:00",
-  "count": 1530,
+  "updated_at": "2026-06-07T11:26:55.872599+00:00",
+  "count": 1533,
   "items": [
+    {
+      "id": "bb04c781e345",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "월드컵, 축구공 속 ‘센서’와 ‘AI’가 판정 바꾼다… '반자동 오프사이드' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211433",
+      "published": "2026-06-07T10:42:09+00:00",
+      "summary": "다가오는 2026 FIFA 북중미 월드컵에서는 첨단 센서 기술과 AI가 경기장 안팎을 지배할 전망이다.BBC가 최근 공개한 영상에 따르면, 이번 대회 공인구 ‘트리온다(Trionda)’는 단순한 축구공이 아닌 첨단 전자 기기에 가까운 것으로 알려졌다. 공의 표면 아래에는 경기 중 발생하는 모든 충격을 견딜 수 있도록 특수 설계된 첨단 센서가 탑재됐다.이 스마트 공은 1초에 무려 500회(500Hz)에 달하는 속도로 공의 가속도와 회전, 3차원 공간에서의 움직임을 실시간으로 측정한다. 니콜라스 에반"
+    },
+    {
+      "id": "c6894c6b56d2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "거장 마틴 스코세지 \"AI로 창의적 자유 얻어\"…할리우드 논쟁 격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211432",
+      "published": "2026-06-07T10:09:18+00:00",
+      "summary": "세계적인 거장 마틴 스콜세지 감독이 영화 사전 제작 과정에 AI 도구 사용을 지지했다가 논쟁에 휘말렸다.스콜세지 감독은 2일(현지시간) 뉴욕타임스를 통해 이미지 생성 스타트업 블랙 포레스트 랩스의 파트너 겸 고문으로 합류했다고 발표했다.이와 함께 블랙 포레스트 랩스가 공개한 영상에서 그는 AI로 스토리보드 이미지를 즉시 생성하는 모습을 선보였다. 이처럼 사전 제작 단계에서 AI를 활용하는 것은 영화 본편에 특수 효과를 AI로 일부 대체하는 다른 감독들의 시도와 비교해 제작 효율성에 초점을 맞춘 차"
+    },
     {
       "id": "76fbbe602d7c",
       "source": "Wired",
@@ -297,6 +319,17 @@
       "title": "AI에게 친절해야 하는 이유 #RedBull #RedBullBasement",
       "link": "https://www.youtube.com/shorts/ebegBAsAXyY",
       "published": "2026-06-07T01:32:21+00:00",
+      "summary": ""
+    },
+    {
+      "id": "20c177145bd4",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Her · हेर — a detective for your Claude Code sessions",
+      "link": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "published": "2026-06-07T01:13:41+00:00",
       "summary": ""
     },
     {

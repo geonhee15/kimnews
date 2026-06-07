@@ -1,8 +1,43 @@
 {
   "issue_date": "2026-06-07",
-  "generated_at": "2026-06-07T09:36:00.370620+00:00",
-  "count": 30,
+  "generated_at": "2026-06-07T11:26:55.858379+00:00",
+  "count": 32,
   "items": [
+    {
+      "id": "e2b8cc511495",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - 앤트로픽 재귀개선, 컴퓨텍스 엔비디아, RTX Spark, 젠슨황 한국, MS Build 발표, Gemma 4 12B 및 QAT, OpenAI Sites 등",
+      "link": "https://www.youtube.com/watch?v=g9Ag1O4Wavw",
+      "summary": "",
+      "published": "2026-06-07T11:12:56+00:00"
+    },
+    {
+      "id": "bb04c781e345",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "월드컵, 축구공 속 ‘센서’와 ‘AI’가 판정 바꾼다… '반자동 오프사이드' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211433",
+      "summary": "다가오는 2026 FIFA 북중미 월드컵에서는 첨단 센서 기술과 AI가 경기장 안팎을 지배할 전망이다.BBC가 최근 공개한 영상에 따르면, 이번 대회 공인구 ‘트리온다(Trionda)’는 단순한 축구공이 아닌 첨단 전자 기기에 가까운 것으로 알려졌다. 공의 표면 아래에는 경기 중 발생하는 모든 충격을 견딜 수 있도록 특수 설계된 첨단 센서가 탑재됐다.이 스마트 공은 1초에 무려 500회(500Hz)에 달하는 속도로 공의 가속도와 회전, 3차원 공간에서의 움직임을 실시간으로 측정한다. 니콜라스 에반",
+      "content": "다가오는 2026 FIFA 북중미 월드컵에서는 첨단 센서 기술과 AI가 경기장 안팎을 지배할 전망이다.\n\nBBC가 최근 공개한 영상에 따르면, 이번 대회 공인구 ‘트리온다(Trionda)’는 단순한 축구공이 아닌 첨단 전자 기기에 가까운 것으로 알려졌다. 공의 표면 아래에는 경기 중 발생하는 모든 충격을 견딜 수 있도록 특수 설계된 첨단 센서가 탑재됐다.\n\n이 스마트 공은 1초에 무려 500회(500Hz)에 달하는 속도로 공의 가속도와 회전, 3차원 공간에서의 움직임을 실시간으로 측정한다. 니콜라스 에반스 FIFA 연구 책임자는 \"공 내부 밸브 반대편에 있는 이 센서는 3차원 공간에서 공이 무엇을 하고 있는지 정확하게 알려준다\"라며 \"육안이나 일반 중계 카메라로는 확인하기 힘든 미세한 굴절이나 선수의 터치 순간까지 완벽하게 잡아낸다\"라고 설명했다.\n\n트리온다 축구공은 경기당 15~20개가 준비되며, 한번 충전 시 약 6시간 동안 작동한다. 공에서 송출되는 실시간 데이터는 경기장 내에 설치된 고성능 추적 카메라들과 연동된다. 이번 대회에서 FIFA는 모든 출전 선수를 디지털로 정밀 스캔해 'AI 기반 3D 아바타'를 생성했다.\n\nAI는 경기장 카메라가 추적하는 선수의 위치 정보와 스마트 공의 임팩트 순간 데이터를 실시간으로 결합한다. 이를 통해 오프사이드나 핸드볼 같은 판정 상황이 발생하면 AI가 즉각적으로 판단해 비디오 판독심(VAR)에게 경고를 보낸다는 것이 가장 큰 변화로 꼽힌다.\n\n이런 반자동 오프사이드 등은 판정 시간을 크게 줄이는 것은 물론, 시각화 자료를 3D 애니메이션으로 구현해 명확한 근거를 제공할 수 있게 됐다. FIFA는 이를 통해 팬들과 선수들이 느끼는 불만을 다소 해소하고, 오프사이드 판정으로 인해 불필요한 플레이가 이어져 부상 위험을 줄이는 데 도움이 되기를 기대하고 있다.\n\n판정의 정확도뿐만 아니라 팬들의 보는 즐거움과 신뢰도를 높이기 위한 기술도 추가된다. 대표적인 것이 '레프 캠(Ref Cam)'이다. 심판의 이어폰이나 머리 부근에 장착, 심판의 시야에서 경기를 전달한다. 이를 통해 심판이 어떤 근거로 판정을 내렸는지를 시청자들도 경험할 수 있게 됐다는 설명이다.",
+      "published": "2026-06-07T10:42:09+00:00"
+    },
+    {
+      "id": "c6894c6b56d2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "거장 마틴 스코세지 \"AI로 창의적 자유 얻어\"…할리우드 논쟁 격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211432",
+      "summary": "세계적인 거장 마틴 스콜세지 감독이 영화 사전 제작 과정에 AI 도구 사용을 지지했다가 논쟁에 휘말렸다.스콜세지 감독은 2일(현지시간) 뉴욕타임스를 통해 이미지 생성 스타트업 블랙 포레스트 랩스의 파트너 겸 고문으로 합류했다고 발표했다.이와 함께 블랙 포레스트 랩스가 공개한 영상에서 그는 AI로 스토리보드 이미지를 즉시 생성하는 모습을 선보였다. 이처럼 사전 제작 단계에서 AI를 활용하는 것은 영화 본편에 특수 효과를 AI로 일부 대체하는 다른 감독들의 시도와 비교해 제작 효율성에 초점을 맞춘 차",
+      "content": "세계적인 거장 마틴 스콜세지 감독이 영화 사전 제작 과정에 AI 도구 사용을 지지했다가 논쟁에 휘말렸다.\n\n스콜세지 감독은 2일(현지시간) 뉴욕타임스를 통해 이미지 생성 스타트업 블랙 포레스트 랩스의 파트너 겸 고문으로 합류했다고 발표했다.\n\n이와 함께 블랙 포레스트 랩스가 공개한 영상에서 그는 AI로 스토리보드 이미지를 즉시 생성하는 모습을 선보였다. 이처럼 사전 제작 단계에서 AI를 활용하는 것은 영화 본편에 특수 효과를 AI로 일부 대체하는 다른 감독들의 시도와 비교해 제작 효율성에 초점을 맞춘 차별화된 접근 방식이다.\n\n그동안 '택시 드라이버' '굿펠라스' 등으로 거장 반열에 오른 스코세지는 새로운 기술 도입에 유연한 태도를 보여왔다. 지난 2011년 '휴고'에서는 3D 기술을, 2019년 '아이리시맨'에서는 배우들의 외모를 젊게 만드는 디에이징 기술을 활용한 바 있다.\n\n스콜세지 감독은 이번 AI 도입에 대해 \"그동안 머릿속에 있는 이미지를 배우와 제작진에게 명확히 전달하는 데 늘 어려움이 있었다\"라며 \"최근 한 장면에 이 기술을 적용해 봤는데, 스토리보드를 시각화하고 즉시 공유할 수 있다는 점에서 창의적인 면의 큰 자유를 얻었다\"라고 설명했다. AI를 통해 촬영감독, 미술감독 등 창작팀과 훨씬 효율적으로 소통할 수 있게 되었다는 취지다.\n\n그는 이어 \"영화는 역사가 125년 정도밖에 되지 않은 젊은 매체인 만큼 발전 가능성에 열려 있어야 한다\"라며 \"AI가 창의성의 한계를 어떻게 확장하고 관객에게 깊은 경험을 선사할 수 있을지 지켜보고 싶다\"라고 덧붙였다.\n\n그러나 그의 발언은 일부 팬들과 영화계 관계자들의 반발을 불러일으켰다.\n\n'어벤져스: 엔드게임' '블랙 팬서' '닥터 스트레인지' 등의 콘셉트 아티스트였던 칼라 오르티즈는 X를 통해 그를 비난했다. \"스콜세지는 자신과 함께 일했던 모든 스토리보드 아티스트들을 배신하고, 그들의 생계를 파괴했다. 그가 사용한 모델들은 아마도 그 스토리보드 아티스트들의 작품을 바탕으로 훈련됐을 것\"이라고 지적했다.\n\n애니메이션 감독 사무엘 디츠도 \"한 장면의 스토리보드를 만드는 데는 몇 초밖에 걸리지 않는다\"며 \"수백만명의 예술가 작품을 도용한 AI에 의존하지 말고 동료들을 존중하라\"라고 촉구했다.\n\n스콜세지 감독을 지지하는 입장도 적지 않다. 한 사용자는 \"AI를 사용하는 것은 사실상 CGI와 같은 특수 효과일 뿐\"이라고 밝혔으며, 다른 사용자는 \"스콜세지 감독 같은 사람이 촬영감독이나 제작팀에게 자신이 구상하는 바를 더 빠르게 보여주는 데 도움이 된다면, 딱히 문제 될 게 없다고 생각한다. 이 정도면 창의성을 대체하는 것으로 볼 수 없다\"라고 말했다.\n\n이처럼 할리우드에서 AI 도입을 둘러싼 시각은 아직 극명하게 갈리는 추세다. 대런 아로노프스키 감독의 스튜디오는 단편 영화 속 미국 독립 혁명 재현에 AI를 썼고, 스티븐 소더버그 감독은 존 레논 관련 다큐멘터리에 이를 활용했다. 앞서 지난해에는 제임스 카메론 감독이 블랙 포레스트 랩스 창립자들이 몸담았던 '스태빌리티 AI'의 이사회에 합류하기도 했다.\n\n최근 스티븐 스필버그 감독은 \"AI가 장소 섭외 같은 부가적 작업을 대신해 수고를 덜어줄 순 있지만, 창작의 최종 결정권을 가져서는 안 된다\"라며 제한적 도구로 활용을 강조했다. 하지만, 기예르모 델 토로 감독은 \"AI를 쓰느니 차라리 죽겠다\"라며 강한 거부감을 드러내는 등 논쟁은 지속될 전망이다.",
+      "published": "2026-06-07T10:09:18+00:00"
+    },
     {
       "id": "76fbbe602d7c",
       "source": "Wired",
@@ -26,17 +61,6 @@
       "summary": "“기존에 운영하던 AI 최적화 서비스와 기술을 바탕으로 피지컬 AI까지 영역을 넓혀 나가고 있습니다. AI가 더 많은 과업을 수행하게 될수록, 경량화 기술의 수요는 더 늘어날 것입니다.”AI 최적화 전문 스퀴즈비츠(대표 김형준)가 언어모델과 멀티모달모델을 넘어 월드모델로 사업 영역 확장에 나선다고 밝혔다.지난 2022년 설립된 스퀴즈비츠는 국내 대표 딥테크 스타트업으로, 임직원의 70%가 엔지니어로 구성됐다. 국내 AI 도입 초기부터 다양한 기업들과 현장 경험을 축적해 왔다. 지난해 12월에는 차",
       "content": "“기존에 운영하던 AI 최적화 서비스와 기술을 바탕으로 피지컬 AI까지 영역을 넓혀 나가고 있습니다. AI가 더 많은 과업을 수행하게 될수록, 경량화 기술의 수요는 더 늘어날 것입니다.”\n\nAI 최적화 전문 스퀴즈비츠(대표 김형준)가 언어모델과 멀티모달모델을 넘어 월드모델로 사업 영역 확장에 나선다고 밝혔다.\n\n지난 2022년 설립된 스퀴즈비츠는 국내 대표 딥테크 스타트업으로, 임직원의 70%가 엔지니어로 구성됐다. 국내 AI 도입 초기부터 다양한 기업들과 현장 경험을 축적해 왔다.\n\n지난해 12월에는 차세대 미세조정 기법 ‘그래롤라(GraLoRA)’로 ‘뉴립스(NeurIPS)’ 스포트라이트 논문에 선정되기도 했다. 이처럼 AI 원천 기술 연구에 상당한 역량을 기울이는 것으로도 유명하다.\n\n이러한 스퀴즈비츠의 기술력을 집약한 핵심 서비스가 ‘예터(Yetter)’다. 생성 AI를 경량화해 제공하는 API 서비스로, 별도 인프라 구축 없이 빠르고 저렴하게 AI 추론 기능을 활용할 수 있는 것이 장점이다.\n\n최신 모델 라인업도 빠르게 업데이트 중이다. 지난 1일 엔비디아의 월드모델 ‘코스모스3’가 공개되자마자, 바로 다음 날 3.3배 가량 빠르게 구동되도록 최적화 작업을 거쳤다. 현재 예터에서 ‘코스모스3-나노(Cosmos3‑Nano)’ API를 활용해 볼 수 있다.\n\n김형준 스퀴즈비츠 대표는 “AI 추론 시장은 점점 확대되고 있으며, 예터의 수요도 점점 증가하고 있다”라고 밝혔다. “예터는 특정 하드웨어에 한정되지 않고, 다양한 선택지에서 최적의 성능을 구현하는 것이 경쟁력”이라고 전했다.\n\n특히, 데이터센터부터 NPU까지 ‘규모’에 구애받지 않고 경량화 기술을 다루는 기업은 국내에서 스퀴즈비츠가 거의 유일하다고 강조했다. AI 활용이 늘어나면서 하드웨어 선택지도 점점 늘어나는 만큼, 엔비디아와 AMD, 인텔, 국내 NPU 등을 모두 아우르며 경량화 서비스를 제공 중이다.\n\n이제는 대형언어모델(LLM)과 이미지 및 영상 생성 모델을 넘어 월드 파운데이션 모델(WFM) 추론 최적화 영역까지 확대 중이라고 밝혔다.\n\n김형준 대표는 “WFM은 물리 법칙과 세계 구조 자체를 이해하기 때문에 피지컬 AI 분야에서 로봇의 행동 데이터를 구축하는 데 많이 활용되고 있다”라며 “즉, 월드모델의 추론을 최적화, 경량화하면 더 빠르고 저렴하게 로봇 데이터를 축적할 수 있게 된다는 의미”라고 말했다.\n\n이와 관련해 지난 4월9일 ‘피지컬 AI 컨퍼런스 2026’에서는 피지컬 AI 전용 데이터 증강 에이전트 ‘로부스트(RoBoost)’를 선보였다. 피지컬 AI의 난제 중 하나인 고비용 데이터 구축 문제를 최적화 기술로 돌파한다는 내용이다.\n\n실제로 로부스트를 활용해 내부 테스트를 진행한 결과, 월드모델 추론 속도는 3배로 증가했다. 같은 양의 데이터를 만들더라도 연산 비용을 3분의 1로 절약할 수 있는 것이다.\n\n‘증강 기법’에도 차별점이 있다. 원본 촬영 데이터(영상 소스)를 바탕으로 변주를 주는 식이다. 컵에 물을 따르는 영상 속에서 물병만 콜라병으로 바꾸는 등 부분 교체가 가능하다.\n\n핵심은 영상의 의미적인 맥락을 파악하는 것이다. 김 대표는 “대부분 자율주행 기업에서도 동영상 데이터를 이미지 프레임 단위로 파악하고 증강한다”라며 “이 경우, 일관된 맥락 파악에 한계가 발생할 수 있다”라고 지적했다.\n\n로봇 팔이 물을 따르는 상황에서 영상을 이미지 프레임 단위로 분석하면, 컵의 위치가 달라져도 이를 파악하는 속도가 늦어져 엉뚱한 위치에 물을 따를 수 있다는 설명이다. 하지만, 영상 프레임으로 파악하면 시간 축에서의 맥락을 고려해 ‘연속적’으로 상황을 인식하기 때문에 더 정확한 액션을 취할 수 있게 되는 것이다.\n\n이러한 원리로 스퀴즈비츠는 원본 영상 데이터의 정확한 맥락을 파악, 퀄리티 높은 데이터 합성과 증강이 가능해진다는 설명이다. 영상 속에서 가장 중요한 행동이 무엇인지 정확하게 인식할 수 있다는 것이다.\n\n결과적으로, 구축되는 데이터의 퀄리티 자체도 더 좋아진다고 강조했다. 로봇 학습에 활용이 가능한 ‘통과 데이터셋’을 15%에서 50%까지 확대할 수 있다는 설명이다.\n\n김 대표는 “만약 월드모델을 활용해 로봇 학습 데이터를 만들더라도, 결과물을 전부 학습에 사용할 수는 없다”라며 “데이터 퀄리티에 따라 폐기 및 활용 여부가 결정될 수밖에 없기 때문”이라고 말했다.\n\n이어 “로부스트를 활용하면 추론 속도를 극대화하고 비용을 줄이는 것뿐만 아니라 ‘실제 활용 가능한 데이터’까지 증가시킬 수 있기 때문에, 실질적으로는 3배 이상의 효율을 낼 수 있다”라고 설명했다.\n\n더불어, 로부스트로 증강한 데이터 중 활용 가능한 데이터를 선별하기 위해 ‘통과/실패(Pass/Fail)’ 여부를 자동으로 판단하는 파이프라인도 구축해 놓은 상태다. 또, 중복 데이터나 저퀄리티의 데이터를 방지하기 위해 각 기업이 원하는 데이터 증강 방향을 사전에 설정할 수 있다고 강조했다.\n\n이는 피지컬 AI 현장에서는 핵심적인 기술이다. 실제로 자율주행에서는 차종별로 높이와 폭이 천차만별이며, 그에 따라 필요한 데이터도 달라진다. 이때 필요 데이터를 매 상황에 맞게 빠르게 증강하는 것은 매우 중요해진다.\n\n로부스트를 공개한 뒤 로봇(하드웨어) 개발 기업을 포함해 여러 분야에서 협업 문의가 들어오고 있다. 김 대표는 “로부스트를 활용해 자율 로봇을 현실화하기 위해서는 하드웨어 개발 기업과의 파트너십이 필수적”이라며 “스퀴즈비츠 입장에서도 협력사를 적극적으로 모색하고, 레퍼런스를 확보해 나가는 데 중점을 두고 있다”라고 말했다.\n\n스퀴즈비츠는 앞으로도 경량화 기술을 바탕으로 단일 서비스 영역을 넘어 ‘종합 솔루션’ 공급도 적극 추진해 나갈 예정이다. 단일 API를 통해 업무 자동화를 시도하는 기업 중 API 조합부터 어려워하는 경우가 많기 때문에, 스퀴즈비츠가 검증을 마친 프로덕트 형태로 제공한다는 것이다.\n\n김형준 스퀴즈비츠 대표는 “피지컬 AI 시장에서도 경량화 기술을 적극 활용해 기업의 데이터 학습 고민을 줄여나가겠다”라며 “이는 곧 온디바이스 AI와도 연결될 수 있을 것”이라고 말했다.",
       "published": "2026-06-07T09:06:42+00:00"
-    },
-    {
-      "id": "e2b8cc511495",
-      "source": "조코딩",
-      "kind": "youtube",
-      "category": "DEV",
-      "lang": "ko",
-      "title": "IT뉴스 - 앤트로픽 재귀개선, 컴퓨텍스 엔비디아, RTX Spark, 젠슨황 한국, MS Build 발표, Gemma 4 12B 및 QAT, OpenAI Sites 등",
-      "link": "https://www.youtube.com/watch?v=g9Ag1O4Wavw",
-      "summary": "",
-      "published": "2026-06-07T08:57:26+00:00"
     },
     {
       "id": "9f031e9da68f",
@@ -218,6 +242,18 @@
       "published": "2026-06-07T01:32:21+00:00"
     },
     {
+      "id": "20c177145bd4",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Her · हेर — a detective for your Claude Code sessions",
+      "link": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "summary": "",
+      "content": "Her · हेर — Marathi for “detective.” A detective for your Claude Code sessions.\n\nTry it here: Her on Hugging Face\n\nEvery Claude Code session leaves a trace — a .jsonl file with every turn, tool call, and token. But in practice, that trace is write-only. Rarely anyone reads 4,000 lines of JSON to figure out why the agent reached for production , where the context budget actually went, or which subagent quietly burned half the run.\n\nHer reads it for you.\n\nThe premise is simple: drop a session file onto the page and let her investigate. She reconstructs what happened in plain English, flags the risky moves — deploys, config and production changes, secrets — and traces each one back to the exact turn where it happened.\n\nShe shows where the tokens went, which tools, subagents, skills, and MCP servers were used, and — only when a named, fixable pattern fires — what you could have done better, grounded in Anthropic’s and the community’s best practices. She suggests, never asserts , and stays silent when there’s nothing worth saying.\n\nThere’s also a built-in copilot: Ask Her . Ask “why was this tool used?” and she answers from the trace, cites the turns, and opens the exact tool call. Drop one file for a session view ; drop several to build a project view and hunt a question across many sessions at once.\n\nNo third-party AI API is ever called. The model — Nemotron-Mini-4B-Instruct — runs on the Space’s own GPU via ZeroGPU. Your session is uploaded only to a private, auto-deleted namespace that belongs to your run, and nothing about it leaves the box.\n\nThe split that makes this trustworthy: the evaluation engine is purely deterministic . The model is used only to write the English and propose softer suggestions. It never asserts a finding. The numbers don’t move when the model changes.\n\nOne nice detail: Her doesn’t just list the CLI tools a session used — she identifies them. A database of top tools from Homebrew, npm, and PyPI ships with the Space, so most tools are named offline with a one-line blurb. When deploy tools, database clients, or dev servers are actually executed, Her flags that activity for the second look it deserves.\n\nIt grew over a weekend. It started as an operator’s view — a journey graph where every query is a node sized by cost, the heaviest one glowing — built for a friend.\n\nI showed it to another friend who wanted it simpler, so the graph grew an executive Report that’s now the default. Then the first friend asked why their CLI tool didn’t show up — which is how the tool database was born.\n\nThe frontend is a React app served straight off a Gradio server, with the deterministic engine doing the forensics and Nemotron handling the prose.\n\nWhen Claude loses his mind, call Her . ;)\n\nMore from this author",
+      "published": "2026-06-07T01:13:41+00:00"
+    },
+    {
       "id": "3bc6d94747d7",
       "source": "AI타임스",
       "kind": "article",
@@ -254,18 +290,6 @@
       "published": "2026-06-07T00:00:00+00:00"
     },
     {
-      "id": "df0efb1a826b",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "영국 태양광 누적 설비 22.3GW 돌파… 최근 1년 사이 11% 성장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=211381",
-      "summary": "영국 태양광 누적 설비용량이 2026년 4월 말 기준 22.3기가와트(GW)에 도달했다. 설치 건수는 200만건을 넘었고, 최근 1년 동안 2.3GW가 새로 보급됐다.영국 에너지안보탄소중립부(DESNZ)가 지난 28일(현지시간) 발표한 4월 태양광 보급 통계에 따르면 영국 태양광 누적 설비는 22.3GW, 설치 건수는 202만6000건으로 집계됐다.최근 12개월 동안 추가된 설비는 2.3GW로, 같은 기간 누적 설비는 11.2% 늘었다. 2026년 4월 한 달 신규 설치는 2만2733건, 107메",
-      "content": "영국 태양광 누적 설비용량이 2026년 4월 말 기준 22.3기가와트(GW)에 도달했다. 설치 건수는 200만건을 넘었고, 최근 1년 동안 2.3GW가 새로 보급됐다.\n\n영국 에너지안보탄소중립부(DESNZ)가 지난 28일(현지시간) 발표한 4월 태양광 보급 통계에 따르면 영국 태양광 누적 설비는 22.3GW, 설치 건수는 202만6000건으로 집계됐다.\n\n최근 12개월 동안 추가된 설비는 2.3GW로, 같은 기간 누적 설비는 11.2% 늘었다. 2026년 4월 한 달 신규 설치는 2만2733건, 107메가와트(MW)였다.\n\n2025~2026 회계연도 태양광 설치비가 모든 구간에서 하락했다. 중간값 기준 0~4kW 설비는 전년보다 9%, 4~10kW는 8%, 10~50kW는 3% 낮아졌다. 설치비 하락은 주택용과 소형 상업용 지붕형 태양광의 투자 회수 기간을 줄이는 요인으로 작용할 수 있다는 분석이다.\n\n정책 지원도 이어지고 있다. 영국 정부는 2월 10일 차액계약제도 제7차 배분라운드에서 태양광 4.9GW, 157개 프로젝트에 계약을 부여했다. 태양광 낙찰가는 2024년 가격 기준 MWh당 65.23파운드(약 13만5000원)였다.\n\n영국 정부는 2030년 청정전력 목표 달성을 위해 태양광 설비를 최소 45GW까지 늘리는 것을 목표로 하고 있다.",
-      "published": "2026-06-06T23:45:00+00:00"
-    },
-    {
       "id": "6352353550d8",
       "source": "TechCrunch",
       "kind": "article",
@@ -285,7 +309,7 @@
       "lang": "en",
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "link": "https://ntsc.rs/",
-      "summary": "Article URL: https://ntsc.rs/ Comments URL: https://news.ycombinator.com/item?id=48428025 Points: 340 # Comments: 89",
+      "summary": "Article URL: https://ntsc.rs/ Comments URL: https://news.ycombinator.com/item?id=48428025 Points: 352 # Comments: 94",
       "content": "ntsc-rs is a free, open-source video effect which accurately emulates analog TV and VHS artifacts.\n\nOther popular effects eyeball the look of VHS tapes using simple color lookup tables and overlays. ntsc-rs uses algorithms that model how NTSC transmission and VHS encoding actually work, based on algorithms developed in composite-video-simulator , zhuker/ntsc , and ntscQT .\n\nntsc-rs is written in Rust, and is multithreaded and SIMD-accelerated. Unlike similar effects such as ntscQT, it can run in real time at much higher resolutions than actual NTSC footage.\n\nntsc-rs is available not just as a standalone and web application, but also as a plugin for After Effects, Premiere, and all OpenFX-compatible software. This includes DaVinci Resolve, Hitfilm, and Vegas.",
       "published": "2026-06-06T19:17:46+00:00"
     },
@@ -297,7 +321,7 @@
       "lang": "en",
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 584 # Comments: 208",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https://news.ycombinator.com/item?id=48427643 Points: 611 # Comments: 219",
       "content": "Meta is notifying thousands of people whose Instagram accounts were hijacked during the months-long abuse of the company's AI chatbot, which hackers repeatedly tricked into taking control of a person's account.\n\nIn a new data breach notification letter , seen by this week in security , Meta has revealed for the first time how many people had their accounts hijacked as part of the long-running hacking campaign, which was discovered earlier this week and first reported by 404 Media ($) and TechCrunch ($) . The number of affected accounts gives some clarity as to how widespread this hacking campaign was, and for how long it operated.\n\nAccording to the data breach notice filed with Maine's attorney general's office late on Friday, Meta notified at least 20,225 people that their accounts had been compromised, including 30 people in Maine.\n\nThe compromises allowed the hackers to take over the person's entire Instagram and any linked accounts, including obtaining contact information, dates of birth, and profile information, as well as the ability to access the person's posts, direct messages, and account activity, the notice reads.\n\nMeta's notice confirmed that the breach relates to \"a vulnerability in an AI-assisted account recovery system for Instagram,\" which was exploited to \"perform password resets on Instagram user accounts.\"\n\nAs previously reported, hackers abused a flaw in Meta's chatbot that allowed anyone to reset the password of any account that did not have two-factor authentication switched on. The bug tricked the chatbot into sending a verification code to an email address controlled by the hacker, rather than the account holder's email address on file, simply by asking it. The chatbot complied anyway.\n\n\"The tool itself worked properly and functioned as intended; however due to a bug in a separate code path, the system did not properly verify that the email address provided by the individual requesting a password reset matched the email address associated with that user’s Instagram account,\" said Meta in its breach notice.\n\n\"As a result, when an individual provided an email address not previously associated with the account, the system incorrectly sent a password reset link to that unassociated email rather than rejecting the request. This allowed unauthorized third parties to receive a password reset link for accounts they did not own,\" the company added.\n\nAt this point, Meta says, the hackers could reset someone's password and take over their account as if they were the rightful owner.\n\nOr, you can submit a one-time tip to show your support!\n\nMeta said that it is \"unaware\" of what, if any, personal information was accessed during the hacks. (An email to Meta's press line asking for clarity on this was unreturned as of early Saturday.)\n\nAccording to Maine's listing, the hacks began around April 17 and lasted until this week, when Meta said that it had secured the chatbot. Instagram reportedly started notifying affected individuals earlier this week by sending a password reset notification, even as some reported that the hacks were ongoing .\n\nMeta also confirmed in the notice that it alerted users to secure their accounts, saying it \"instructed impacted users to reset their passwords and re-authenticate through secure, verified channels.\"\n\nMeta said that it has disabled the AI chatbot for now and removed the code path that allowed the chatbot to reset user accounts, and said it's also checking other chatbots across its platforms to prevent a repeat incident. It's not yet clear what circumstances led up to the chatbot being abused, but comes soon after Meta laid off thousands of employees while rewarding top executives with stock incentives , as the company continues to double-down on AI.\n\nThank you so much for reading ~this week in security~. If you liked this article, please share it! Feel free to reach out with any feedback, questions, or comments about this article: this@weekinsecurity.com .",
       "published": "2026-06-06T18:35:27+00:00"
     },
