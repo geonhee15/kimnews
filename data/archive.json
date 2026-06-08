@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-06-08T08:29:17.051290+00:00",
-  "count": 1608,
+  "updated_at": "2026-06-08T12:46:55.673008+00:00",
+  "count": 1637,
   "items": [
+    {
+      "id": "d8b7d107b4a3",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "published": "2026-06-08T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever befo"
+    },
+    {
+      "id": "7dd1f54be3d5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황, 서울대 학생들과 소통…”AI 역량 갖춘 한국, 기회 열려 있어”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211496",
+      "published": "2026-06-08T12:06:10+00:00",
+      "summary": "젠슨 황 엔비디아 CEO는 8일 서울대학교 해동첨단공학관에서 열린 ‘빌드어클로(Build-a-Claw)’ 행사장을 찾아 학생들과 소통의 시간을 가졌다.그의 참석 소식이 알려지며 행사 사전 신청은 선착순 1000명 모집이 3시간 만에 마감될 정도로 높은 관심을 모았다. 황 CEO는 “한국은 AI 역량을 모두 갖추고 있는 몇 안 되는 나라”라며 “이런 나라에서 성장하고 있는 것이 부럽다”라고 말했다. 이어 “놀라운 기술을 손에 쥐고, 같은 출발 선에 서 있는 만큼 이 기술을 만들어가고, 적용하고, 활"
+    },
+    {
+      "id": "6bc58009ab28",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황, 현대차그룹 방문...”로보틱스 핵심 ‘새만금’에 데이터센터 설립 유력”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211495",
+      "published": "2026-06-08T11:55:33+00:00",
+      "summary": "젠슨 황 CEO가 8일 현대차그룹 양재사옥을 방문해 AI와 로보틱스, 데이터센터 협력을 논의했다.정의선 현대차그룹 회장이 동행했다. 황 CEO는 현대차그룹의 조경 관리 로봇 ‘달이 가드너(Dal-e Gaedner)’을 비롯해 사족보행 보안로봇 ‘스팟’ 등 로보틱스 제품군을 살펴봤다. 정의선 회장은 새만금 프로젝트에 황 CEO에게 동참과 투자를 제안했다. 이는 AI 데이터센터, 로봇 제조 클러스터, 수전해 플랜트, 태양광 발전, AI 수소 시티 등 신사업의 핵심 축을 이루는 ‘혁신성장거점’ 구축을 "
+    },
+    {
+      "id": "5f35b5dd95d4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber tells London to get ready for robotaxis",
+      "link": "https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london",
+      "published": "2026-06-08T11:26:42+00:00",
+      "summary": "Uber is getting ready to put robotaxis on London's streets, opening an interest list for riders who want to be among the first to hail one of Wayve's autonomous vehicles when the service goes live later this year. The rollout would be a milestone in one of Uber's biggest markets "
+    },
+    {
+      "id": "177f6fe227ee",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The weather and climate science AI revolution isn’t revolutionary",
+      "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+      "published": "2026-06-08T11:00:58+00:00",
+      "summary": "Machine learning has its limits—how is it being used?"
+    },
+    {
+      "id": "a771a6d1970e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
+      "link": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+      "published": "2026-06-08T11:00:00+00:00",
+      "summary": "Uber customers in the UK can now join an interest list to increase their chances of being matched with a Wayve robotaxi."
+    },
+    {
+      "id": "b5941b0bdeac",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WWDC 2026: How to watch and what to expect",
+      "link": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "published": "2026-06-08T11:00:00+00:00",
+      "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along liv"
+    },
+    {
+      "id": "28e5e76f0c3a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "전영현 부회장 \"삼성 파운드리 4·8나노서 엔비디아 자율주행 칩 생산\"",
+      "link": "https://zdnet.co.kr/view/?no=20260608193013",
+      "published": "2026-06-08T10:45:34+00:00",
+      "summary": "[지디넷코리아]삼성전자 파운드리가 엔비디아의 자율주행 칩을 생산한다. 전영현 삼성전자 부회장은 8일 서울 중구 신라호텔에서 젠슨 황 엔비디아 최고경영자(CEO)와 회동 후 취재진에 \"4나노미터(nm)와 8나노 공정에서 자율주행 칩과 그록칩 생산을 협력하고 있다\"고 말했다. 전영현 부회장은 \"자율주행 칩을 공급하고 있다\"며 \"그록의 다음 세대 칩도 같이 협력하고 있다\"고 설명했다. 엔비디아는 현재 자율주행 칩셋 '오린(Orin)'과 차세대 칩 '토르(Thor)'를 중심으로 자율주행 플랫폼을 지원하고"
+    },
+    {
+      "id": "6f65745ec762",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+      "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+      "published": "2026-06-08T10:30:00+00:00",
+      "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?"
+    },
+    {
+      "id": "e1f48d2f6e74",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple WWDC 2026 Live Blog: All the Updates, as They Happen",
+      "link": "https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/",
+      "published": "2026-06-08T10:00:00+00:00",
+      "summary": "Follow our WWDC 2026 live blog for all of the updates coming to iOS, macOS, watchOS, and more."
+    },
+    {
+      "id": "7b0c512899a7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "젠슨 황 옆 이해진...\"네이버는 'AI 팩토리' 이미 준비된 회사\"",
+      "link": "https://zdnet.co.kr/view/?no=20260608183538",
+      "published": "2026-06-08T09:54:04+00:00",
+      "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 글로벌 인공지능(AI) 팩토리 구축 파트너로 네이버를 선정한 배경에 대해 '클라우드 기술력'을 꼽았다. 그러면서 양사는 오픈 프런티어 AI 모델 개발, AI 클라우드·팩토리, 피지컬 AI 영역에서의 협력하겠다는 뜻을 강조했다.황 CEO는 8일 경기 성남시 분당구 제2사옥 네이버1784에서 “한국은 인적 자원을 포함한 많은 천연자원을 보유하고 있어 매우 특별하다. 천연자원에는 제조업, 중공업, 전자, 소프트웨어 분야의 놀라운 전문성이 포함된다”고"
+    },
+    {
+      "id": "641e85f106ea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "허원진 마리트 CTO, 클로드 새 기능 실무 적용 사례 소개한다",
+      "link": "https://zdnet.co.kr/view/?no=20260608184238",
+      "published": "2026-06-08T09:42:38+00:00",
+      "summary": "[지디넷코리아]허원진 마이리얼트립 최고개발책임자(CTO)가 이달 11일 일본 도쿄에서 열리는 앤트로픽 글로벌 개발자 컨퍼런스 '코드 위드 클로드: 익스텐디드' 무대에 강연자로 오른다. 올해 세 번째로 개최되는 코드 위드 클로드는 '익스텐디드'라는 별도 세션을 통해 인디 개발자와 초기 창업자를 대상으로 클로드의 새 기능이 실무 현장에 어떻게 적용되는지 소개한다. 앤트로픽이 자사 도구의 적용 사례로 국내 여행 플랫폼의 운영 경험을 택한 만큼, 한국 기업의 실전 사례가 글로벌 무대에 소개되는 자리이기도"
+    },
+    {
+      "id": "0a443fe64be5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배경훈 부총리, 젠슨황 만나 피지컬AI 생태계 성장 협력방안 논의",
+      "link": "https://zdnet.co.kr/view/?no=20260608175926",
+      "published": "2026-06-08T09:30:01+00:00",
+      "summary": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 젠슨황 엔비디아 CEO와 국내 AI 컴퓨팅 인프라 구축 가속화와 피지컬AI 생태계 성장을 위한 협력방안을 논의했다.8일 과기정통부에 따르면 배 부총리는 엔비디아의 코리아 AI 에코시스템 리셉션에 참석해 젠슨황 CEO와 만났다.이들은 지난해 APEC을 계기로 구축한 대한민국과 엔비디아의 협력을 구체적인 성과로 연결해야 한다는 점에 공감대를 형성하고, 엔비디아의 베라루빈 기반 AI 팩토리 도입, 국내 산학연과 엔비디아 간 피지컬 AI 협력 활성"
+    },
+    {
+      "id": "ec24c74e9211",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[인사] 분당서울대학교병원",
+      "link": "https://zdnet.co.kr/view/?no=20260608182433",
+      "published": "2026-06-08T09:24:33+00:00",
+      "summary": "[지디넷코리아]◇보직임용 ▲진료부원장 김태우 ▲의생명연구원장 김재용 ▲공공부원장 배희준 ▲기획조정실장 김홍빈 ▲교육인재개발실장 공현식 ▲홍보실장 윤유석 ▲대외협력실장 조유환 ▲경영혁신실장 김세중 ▲정보화실장 정세영"
+    },
+    {
+      "id": "05f8aabdab7e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '스스로 판단하고 재검색'하는 차세대 에이전틱 RAG 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211484",
+      "published": "2026-06-08T09:19:40+00:00",
+      "summary": "구글이 복잡한 기업용 질문에 답하기 위해 필요한 정보를 스스로 찾아나가는 차세대 검색·추론 기술인 ‘에이전틱 RAG(Agentic RAG)’를 공개했다. 구글은 5일(현지시간) 복잡한 기업용 질문에 답하기 위해 필요한 정보를 스스로 찾아나가는 차세대 검색·추론 기술인 '에이전틱 RAG'를 공개했다. 이 기술은 현재 제미나이 엔터프라이즈 에이전트 플랫폼(Gemini Enterprise Agent Platform)에서 공개 프리뷰 형태로 제공되고 있다.기존 검색증강생성(RAG)이 한 번의 검색 결과에"
+    },
+    {
+      "id": "b61e9f09facb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "코딩 180% 증가에도 배포는 30%뿐…AI 가로막는 '인간 병목' 현상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211456",
+      "published": "2026-06-08T09:13:19+00:00",
+      "summary": "생성 AI가 소프트웨어 개발 생산성을 폭발적으로 끌어올리고 있지만, 실제 시장에 출시되는 제품과 사용자 가치 창출로 이어지는 효과는 예상보다 훨씬 제한적이라는 연구 결과가 나왔다. AI가 코드를 빠르게 생성하더라도 검토, 테스트, 승인, 배포 등 인간이 담당하는 후속 과정에서 병목 현상이 발생하며 생산성 향상 효과가 상당 부분 상쇄된다는 분석이다.전미경제연구소(NBER)는 최근 논문 ‘코드 작성 대 코드 배포: AI 코딩 도구 세대별 생산성 효과(Writing Code vs. Shipping Co"
+    },
+    {
+      "id": "bcb875b9e4bd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "젠슨 황, '치지직' 생방…\"네이버와 오랜 파트너십은 소중한 자산\"",
+      "link": "https://zdnet.co.kr/view/?no=20260608175204",
+      "published": "2026-06-08T09:11:47+00:00",
+      "summary": "[지디넷코리아]글로벌 인공지능(AI) 팩토리 협력을 위해 제2사옥 네이버1784를 찾은 젠슨 황 엔비디아 최고경영자(CEO)가 이해진 의장과 함께 치지직 생방송에 출연했다. 이들은 방송에서 한국을 포함해 전 세계에 거대한 AI 클라우드를 구축하겠다는 뜻을 밝혔다.황 CEO는 8일 경기 성남시 분당구 네이버1784에서 마련된 비전스테이지에서 촬영되는 치지직 콘텐츠에 출연해 “엔비디아와 네이버는 오랜 시간 긴 우정을 바탕으로 함께 협력해왔다”며 \"양사 파트너십은 (저에게) 오랜 기간 매우 소중한 자산"
+    },
+    {
+      "id": "1ee322368b0d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"프롬프트도 안 쓴다\"…클로드 코드 개발자가 말하는 '자율 루프' 시대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211491",
+      "published": "2026-06-08T09:00:00+00:00",
+      "summary": "'클로드 코드'의 개발자인 보리스 체르니 앤트로픽 총괄이 개발 패러다임이 급격하게 전환 중이라고 밝혔다. 그는 자신이 직접 코드를 한 줄도 작성하지 않는 단계를 넘어, 이제는 AI에게 직접 프롬프트를 입력하는 행위마저 끝났다고 선언했다.체르니 총괄은 최근 공개된 어콰이더 언플러그드(Acquired Unplugged) 인터뷰에서 현재 개발 현장에서 일어나는 엔지니어의 역할 변화에 대해 설명했다.그는 지난 1년 동안 자신의 개발 방식이 2번의 거대한 패러다임 전환을 겪었다고 밝혔다.첫 번째 전환은 기"
+    },
+    {
+      "id": "184b18fa1e79",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"개인 비서에 불과한 AI…차세대 기업 에이전트는 '공유 메모리' 필요\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211477",
+      "published": "2026-06-08T09:00:00+00:00",
+      "summary": "기업들이 AI 에이전트를 빠르게 도입하고 있지만, 실제 생산성 향상으로 이어지는 사례는 기대에 크게 못 미치고 있다. 전문가들은 그 원인으로 AI 에이전트의 ‘기억 상실’을 지목하며, 앞으로 기업용 AI 시장의 승패는 ‘공유 메모리(Shared Memory)’ 구축 여부에 달려 있다고 분석했다.업무 관리 플랫폼 아사나(Asana)의 최근 조사에 따르면, 전체 지식 노동자의 75%가 업무에 AI를 활용하고 있지만 생산성 향상을 보고한 기업은 5%에 불과했다.아르나브 보스 아사나 최고 제품책임자(CP"
+    },
+    {
+      "id": "36ed96495956",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "깃허브 코파일럿 요금 개편에 '토큰 재앙' 비명...\"월 29달러가 750달러로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211449",
+      "published": "2026-06-08T09:00:00+00:00",
+      "summary": "마이크로소프트(MS) 깃허브가 AI 코딩 도우미 '깃허브 코파일럿(GitHub Copilot)'의 요금 체계를 전면 개편하며 커뮤니티에 적지 않은 파장을 일으키고 있다. 기존의 정액제 중심 구조를 폐기하고 실제 AI 사용량에 따라 비용을 부과하는 토큰 기반 과금 모델을 도입하면서, 일부 이용자 사이에서는 이른바 ‘토큰 재앙(Tokenpocalypse)’이라는 표현까지 등장했다.깃허브는 6월1일부터 모든 코파일럿 요금제를 사용량 기반 과금 체계로 전환했다.기존에는 프리미엄 요청(Premium Req"
+    },
+    {
+      "id": "7c22886945dd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버, 엔비디아와 GW급 AI 팩토리·서울판 월드 모델 구축 맞손",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211492",
+      "published": "2026-06-08T08:58:30+00:00",
+      "summary": "네이버(대표 최수연)는 엔비디아와 기가와트(GW)급 AI 팩토리를 구축한다고 8일 밝혔다. 이는 네이버의 국내 최대 하이퍼스케일 데이터센터 '각 세종'의 4배에 달한다.양사는 각 세종 데이터센터를 거점으로 2027년 상반기까지 55메가와트(MW)를 시작으로 같은 해 100MW, 2028년 200MW까지 단계적으로 확장해 최종적으로 GW급 AI 팩토리를 구축한다는 계획이다.여기에 엔비디아의 차세대 인프라 플랫폼 'DSX'를 결합해 데이터센터 운영 효율을 극대화한다는 방침이다.모델 개발 협력도 본격화"
+    },
+    {
+      "id": "b006957a1db4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "젠슨 황, 국내 AI·로봇 스타트업과 비공개 간담회…'피지컬 AI' 동맹 구축",
+      "link": "https://zdnet.co.kr/view/?no=20260608173636",
+      "published": "2026-06-08T08:56:21+00:00",
+      "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 방한 마지막 일정으로 국내 주요 인공지능(AI)·로봇 스타트업 경영진과 비공개 간담회를 갖는다. 황 CEO가 국내 로봇 스타트업과 별도 대화 자리를 마련한 것은 이번이 처음이다. 8일 업계에 따르면 황 CEO는 이날 저녁 서울 신라호텔 영빈관에서 국내 AI·로봇 분야 스타트업 대표들과 만날 예정이다. 간담회에는 업스테이지, 노타, 엑스와이지, 에이로봇 등 국내 주요 스타트업이 참석하는 것으로 알려졌다.비공개로 진행하는 이번 자리에선 피지컬 AI"
+    },
+    {
+      "id": "64cdf8e3a033",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"브랜드 대표, 마케팅 리더 모여\"...아임웹 '브랜드콘 26' 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260608163824",
+      "published": "2026-06-08T08:55:24+00:00",
+      "summary": "[지디넷코리아]\"브랜드 대표, 마케팅 리더 코엑스로 모여.\"아임웹(대표 이수모)이 7월 28일 서울 코엑스 그랜드볼룸에서 ‘브랜드콘 26’을 개최한다. ‘DEEP: 깊은 브랜드만 남는다’를 주제로 열리는 이번 컨퍼런스에는 브랜드 대표와 마케팅 리더 및 실무자 1000여 명이 참석할 예정이다. 이번 행사는 브랜드의 지속 가능한 경쟁력에 대해 함께 고민하고 경험을 나누는 자리다.브랜드콘 26의 메인 강연은 총 세 개 세션으로 구성된다. ▲시장의 신호를 읽고 기회를 발견하는 트렌드 세션 ▲고유한 방식으"
+    },
+    {
+      "id": "d696e55419fa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔닷라이트, 에이로봇·한화오션과 조선업 휴머노이드 실증 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211493",
+      "published": "2026-06-08T08:40:00+00:00",
+      "summary": "3D AI 전문 엔닷라이트(대표 박진영)는 휴머노이드 로봇 전문 에이로봇(대표 엄윤설)과 한화오션을 대상으로 ‘조선업 현장 적용을 위한 피지컬 AI 휴머노이드 실증’을 추진한다고 8일 밝혔다.엔비디아 인셉션 생태계 내 파트너사들이 각자 기술 역량을 연결해 피지컬 AI의 실제 산업 적용을 앞당기는 사례라는 설명이다. 특히, 조선업은 피지컬 AI와 휴머노이드 로봇의 실질적 적용 가능성을 검증하기에 매우 상징적인 산업이라고 전했다. 대형 블록과 복잡한 작업 동선, 협소한 선박 내부 공간, 고위험 점검 "
+    },
+    {
+      "id": "0504b3f3a695",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 주민등록 업무 빙자한 사칭 범죄 기승… 시민 주의 당부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211487",
+      "published": "2026-06-08T08:10:28+00:00",
+      "summary": "AI 생성 영상광양시가 최근 시청 공무원과 읍면동사무소 직원을 사칭한 전화와 물품 구매 요구 사례가 잇따라 확인되자 시민과 업체에 주의를 당부했다.광양은 최근 중마동·금호동·광영동에서 주민등록 관련 업무를 빙자한 공무원 사칭 전화가 접수됐다고 8일 밝혔다.사칭범은 주민등록증 재발급, 주민등록등본·인감증명서 발급과 관련한 허위 내용을 전달하며 시민 불안을 유도한 것으로 파악됐다.교통시설물 설치, 안전물품 선구매, 위조 명함 제시 등 공무원을 사칭한 다른 사례도 확인됐다. 일부는 업체에 물품 구매나 "
+    },
     {
       "id": "4c83193a8d2b",
       "source": "AI타임스",
@@ -23,6 +298,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260608093423",
       "published": "2026-06-08T08:00:01+00:00",
       "summary": "[지디넷코리아]인공지능(AI) 시대에 웹3 게임 흐름과 컴투스홀딩스 실무 경험 등을 엿볼 수 있는 기회가 마련된다.한국게임미디어협회는 오는 23일 경기도 성남시 판교 경기창조경제혁신센터 국제회의장에서 열리는 ‘제5회 대한민국 블록체인 웹3 게임 컨퍼런스’에 장종철 컴투스홀딩스 본부장이 연사로 나선다고 밝혔다.장종철 본부장은 이번 컨퍼런스에서 ‘AI 시대에 다시 묻는 웹3와 게임’을 주제로 강연한다. 장 본부장은 게임산업에서 웹3가 만들어온 변화와 흐름을 되짚고, 이 과정에서 컴투스홀딩스가 쌓아온 "
+    },
+    {
+      "id": "f35741de0f83",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 뉴엔AI-에너지정보문화재단, AI ‘에너지 이슈 조기 포착’ 협력 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211494",
+      "published": "2026-06-08T08:00:00+00:00",
+      "summary": "■ 산업 맞춤형 AI 분석 전문 뉴엔AI(대표 배성환)는 한국에너지정보문화재단(대표 이주수)과 협력해 ‘에너지 이슈 검증 사업’에 착수한다고 밝혔다. 에너지 이슈에 대한 상시 AI 모니터링부터 진단 및 동향 리포트 발행, 전문가 검증 협의체 운영까지 ‘원스톱 대응 AX 전략 체계’ 구축에 역량을 집중한다. 뉴엔AI의 데이터 분석 및 AI 기술 노하우를 투입해 ‘에너지 이슈 대응 통합 운영 프로토콜 표준화’를 구현할 예정이다.■ AI 모델 경량화 및 최적화 전문 노타(대표 채명수)는 과학기술정보통신"
     },
     {
       "id": "250b825fc46f",
@@ -256,6 +542,17 @@
       "summary": "LG가 엔비디아와 피지컬 AI, AI 인프라(AIDC), 모빌리티 등 산업 분야에서 전략적 협업 확대에 나선다. LG는 8일 서울 여의도 LG트윈타워에서 구광모 LG 대표와 젠슨 황 엔비디아 CEO가 참석한 가운데 최고경영진 회의를 열었다고 밝혔다.황 CEO는 “한국은 제조, 메카트로닉스, AI 분야에서 뛰어난 경쟁력을 갖추고 있으며, 로보틱스와 피지컬 AI를 한국의 핵심 성장 산업으로 만들어 나갈 수 있을 것”이라고 말했다.먼저, LG는 엔비디아의 '아이작 그루트' 생태계를 바탕으로 엔비디아의 "
     },
     {
+      "id": "bf107ede99ba",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+      "link": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+      "published": "2026-06-08T02:46:56+00:00",
+      "summary": ""
+    },
+    {
       "id": "88dec0edd629",
       "source": "Hacker News",
       "kind": "article",
@@ -386,6 +683,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260608110127",
       "published": "2026-06-08T02:04:39+00:00",
       "summary": "[지디넷코리아]누리하우스(대표 백아람)가 글로벌 K-컬처 이벤트 브랜드 ‘Haus of K(하우스 오브 케이)’를 공식 출시하고, 미국 뉴욕 브루클린에서 첫 시즌 프로젝트를 선보인다고 8일 밝혔다. 이번 행사는 6월 13일부터 약 3개월간 브루클린 다운타운 하나하우스(Hana House, 345 Adams Street, Brooklyn, NY 11201)에서 운영되며, K-뷰티와 K-웰니스, K-푸드를 아우르는 100여 개 브랜드를 한 공간에 모아 한국 라이프스타일을 입체적으로 소개하는 형태로 기"
+    },
+    {
+      "id": "6e77625aa716",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "published": "2026-06-08T00:28:37+00:00",
+      "summary": "Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48440064 Points: 219 # Comments: 39"
     },
     {
       "id": "01d221ae5db9",
@@ -2311,6 +2619,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211367",
       "published": "2026-06-05T08:19:38+00:00",
       "summary": "엔비디아가 장시간 실행되는 AI 에이전트 시대를 겨냥한 차세대 대형언어모델(LLM)을 공개했다. 엔비디아는 4일(현지시간) 플래그십 AI 모델 ‘네모트론 3 울트라(Nemotron 3 Ultra)’를 오픈소스로 출시했다.총 5500억개의 매개변수를 갖춘 이 모델은 단순 챗봇이 아닌 장시간 작업을 수행하는 AI 에이전트를 위해 설계됐으며, 기존 LLM 대비 최대 5~6배 높은 추론 처리량과 최대 30% 낮은 작업 비용을 제공하는 것이 특징이다.네모트론 3 울트라는 총 5500억개 매개변수를 가진 초"
+    },
+    {
+      "id": "d309c76d146e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "link": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+      "published": "2026-06-05T08:08:33+00:00",
+      "summary": "Article URL: https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix Comments URL: https://news.ycombinator.com/item?id=48409474 Points: 208 # Comments: 73"
     },
     {
       "id": "da269b2ebbc5",
