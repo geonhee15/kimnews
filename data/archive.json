@@ -1,7 +1,304 @@
 {
-  "updated_at": "2026-06-08T16:46:09.267472+00:00",
-  "count": 1669,
+  "updated_at": "2026-06-08T19:19:02.731214+00:00",
+  "count": 1698,
   "items": [
+    {
+      "id": "211f8afa3014",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "published": "2026-06-08T19:14:11+00:00",
+      "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It m"
+    },
+    {
+      "id": "63f35b73774f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "published": "2026-06-08T18:48:45+00:00",
+      "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps."
+    },
+    {
+      "id": "ba244196a06a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "published": "2026-06-08T18:45:12+00:00",
+      "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt."
+    },
+    {
+      "id": "ca3c81a16dc7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple WWDC 2026: The 7 biggest announcements",
+      "link": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
+      "published": "2026-06-08T18:43:56+00:00",
+      "summary": "Apple's keynote at this year's Worldwide Developers Conference was a big one. After months of delays, Apple reintroduced us to its AI-upgraded Siri, which will go beyond what the existing voice assistant can do by offering more personalized help. We also got a look at many other "
+    },
+    {
+      "id": "ac11ebf17a6f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
+      "link": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
+      "published": "2026-06-08T18:42:53+00:00",
+      "summary": "Fresh off the WWDC keynote presentation, The Verge has been invited to an \"on-the-record technical deep dive into the bold new architecture enabling Apple Intelligence capabilities.\" Apple SVP of Software Engineering Craig Federighi and his team will be there, and so will we. The"
+    },
+    {
+      "id": "1bd2bf31ff76",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+      "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
+      "published": "2026-06-08T18:40:32+00:00",
+      "summary": "Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images."
+    },
+    {
+      "id": "fba0d9260458",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s Image Playground doesn’t suck anymore",
+      "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "published": "2026-06-08T18:38:07+00:00",
+      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive."
+    },
+    {
+      "id": "579db7509256",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cameras get an Apple Intelligence boost in Apple Home",
+      "link": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
+      "published": "2026-06-08T18:37:31+00:00",
+      "summary": "Apple Intelligence is coming to cameras connected to Apple Home. At WWDC, Apple announced that with iOS27, its HomeKit Secure Video service will use Apple Intelligence to analyze footage and generate descriptions summarizing what the camera saw. You can also search footage with n"
+    },
+    {
+      "id": "d585a68c15dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s Photos app is getting new AI editing features",
+      "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "published": "2026-06-08T18:36:04+00:00",
+      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives."
+    },
+    {
+      "id": "0cc374229f42",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple gives Siri its own dedicated app",
+      "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "published": "2026-06-08T18:33:42+00:00",
+      "summary": "Siri is finally getting its own app."
+    },
+    {
+      "id": "d5745c410637",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces visionOS 27 with Siri AI",
+      "link": "https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026",
+      "published": "2026-06-08T18:32:00+00:00",
+      "summary": "Along with new software for Macs and iPhones, Apple announced visionOS 27 during its keynote presentation at WWDC on Monday. Like its other platforms, visionOS 27 will feature Apple's updated Siri AI assistant and the new dedicated Siri app. While wearing the Vision Pro, you can "
+    },
+    {
+      "id": "e5a168d42c97",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "published": "2026-06-08T18:23:04+00:00",
+      "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes."
+    },
+    {
+      "id": "fdfb51a23d66",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s New Siri AI Is Ready to Get Personal",
+      "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+      "published": "2026-06-08T18:17:44+00:00",
+      "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri."
+    },
+    {
+      "id": "fd0faa12e1ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple puts parents back in control of kids’ iPhone use",
+      "link": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
+      "published": "2026-06-08T18:07:32+00:00",
+      "summary": "Apple is putting control back into the hands of parents with more granular screen time features."
+    },
+    {
+      "id": "e028d2757369",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s Health app can now tell you if you’re in perimenopause",
+      "link": "https://techcrunch.com/2026/06/08/apples-health-app-can-now-tell-you-if-youre-in-perimenopause/",
+      "published": "2026-06-08T18:03:05+00:00",
+      "summary": "Cycle tracker will now notify women when their cycle patterns are suggestive of perimenopause."
+    },
+    {
+      "id": "e5b37fca3035",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple introduces systemwide dictation",
+      "link": "https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/",
+      "published": "2026-06-08T18:00:09+00:00",
+      "summary": "Apple's new dictation system could compete with Wispr Flow and others."
+    },
+    {
+      "id": "b1ff885c8bc6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "published": "2026-06-08T17:56:21+00:00",
+      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more."
+    },
+    {
+      "id": "083870874300",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is redesigning Screen Time and overhauling child controls",
+      "link": "https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026",
+      "published": "2026-06-08T17:55:30+00:00",
+      "summary": "At WWDC 2026, Apple announced an overhaul to its Screen Time parental control features that aim to improve its safeguarding features to protect children who use iPhone, iPad, and Mac devices. Some of the new features coming with Apple's iOS 27, iPadOS 27, and macOS 27 updates inc"
+    },
+    {
+      "id": "18dc34afbf6e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon is launching AI-generated custom merch",
+      "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "published": "2026-06-08T17:52:51+00:00",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed on to blanks for sale on Amazon. They can then "
+    },
+    {
+      "id": "6877d09e41ef",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces iPadOS 27",
+      "link": "https://www.theverge.com/tech/942546/apple-ipados-27-wwdc-2026",
+      "published": "2026-06-08T17:51:04+00:00",
+      "summary": "Today at Apple's Worldwide Developers Conference, the company announced new features coming to the iPad with iPadOS 27 including optimizations such as apps launching up to 30 percent faster by intelligently preloading needed info, and more responsive switching between multiple ap"
+    },
+    {
+      "id": "f5de99272d1c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+      "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+      "published": "2026-06-08T17:44:28+00:00",
+      "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups."
+    },
+    {
+      "id": "57393c75aadf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "published": "2026-06-08T17:34:24+00:00",
+      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both"
+    },
+    {
+      "id": "980cf15429ec",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+      "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "published": "2026-06-08T17:31:11+00:00",
+      "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back."
+    },
+    {
+      "id": "d0047b1903aa",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces iOS 27",
+      "link": "https://www.theverge.com/tech/941202/apple-ios-27-wwdc-2026",
+      "published": "2026-06-08T17:14:34+00:00",
+      "summary": "Apple announced its next major iOS update, iOS 27, at WWDC 2026 on Monday. Apple is highlighting performance and design improvements, trust and safety upgrades like a Screen Time redesign, and major upgrades to Siri and Apple Intelligence. The update will be supported all the way"
+    },
+    {
+      "id": "c88b82b5322d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces macOS 27 Golden Gate with Siri AI and revamped Liquid Glass controls",
+      "link": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
+      "published": "2026-06-08T17:07:30+00:00",
+      "summary": "Apple has announced macOS 27 Golden Gate, the next version of its desktop operating system. Alongside updates to Apple Intelligence, Siri, search, and parental controls, the new Golden Gate version of macOS brings a global slider to adjust the opacity of Liquid Glass UI effects, "
+    },
+    {
+      "id": "c7353910d123",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stop the Apple Music app from launching",
+      "link": "https://lowtechguys.com/musicdecoy/",
+      "published": "2026-06-08T17:01:43+00:00",
+      "summary": "Article URL: https://lowtechguys.com/musicdecoy/ Comments URL: https://news.ycombinator.com/item?id=48447935 Points: 262 # Comments: 91"
+    },
+    {
+      "id": "8948e03802b5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] Apple WWDC26 현장 둘러보기",
+      "link": "https://www.youtube.com/watch?v=p7ZX3zLN1iA",
+      "published": "2026-06-08T16:53:17+00:00",
+      "summary": ""
+    },
     {
       "id": "3e1dc31a2875",
       "source": "The Verge",
@@ -91,6 +388,17 @@
       "summary": "Apple's WWDC nears: Here's what you can look forward to."
     },
     {
+      "id": "cd1c6a4bde43",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "link": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "published": "2026-06-08T15:27:33+00:00",
+      "summary": "Article URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps Comments URL: https://news.ycombinator.com/item?id=48446639 Points: 343 # Comments: 242"
+    },
+    {
       "id": "498341f55995",
       "source": "The Verge",
       "kind": "article",
@@ -100,6 +408,17 @@
       "link": "https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale",
       "published": "2026-06-08T15:25:04+00:00",
       "summary": "The Pro 6E was Eero’s top-end mesh Wi-Fi router back in 2022, and it’s still a solid pick if you want fast, reliable Wi-Fi coverage around your multi-room or multi-story abode. It can also deliver beyond gigabit wired speeds if your internet plan supports it. Ahead of Prime Day 2"
+    },
+    {
+      "id": "458c27b42287",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
+      "link": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+      "published": "2026-06-08T15:14:29+00:00",
+      "summary": "Article URL: https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/ Comments URL: https://news.ycombinator.com/item?id=48446439 Points: 331 # Comments: 177"
     },
     {
       "id": "70cba70c90dc",
