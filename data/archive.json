@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-06-08T19:19:02.731214+00:00",
-  "count": 1698,
+  "updated_at": "2026-06-08T21:21:41.177885+00:00",
+  "count": 1714,
   "items": [
+    {
+      "id": "91357a8ea571",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple plays catch-up at WWDC",
+      "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "published": "2026-06-08T21:15:42+00:00",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software."
+    },
+    {
+      "id": "23e1b6d778f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "published": "2026-06-08T20:53:55+00:00",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads."
+    },
+    {
+      "id": "c33cc1cb929b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+      "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+      "published": "2026-06-08T20:50:55+00:00",
+      "summary": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County. Waymo acquired the property, which is located near other proving grounds"
+    },
+    {
+      "id": "dfb164b6ca1c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "44 things coming to your Apple devices that you might have missed",
+      "link": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+      "published": "2026-06-08T20:26:52+00:00",
+      "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating syst"
+    },
+    {
+      "id": "850769c677d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "published": "2026-06-08T20:03:44+00:00",
+      "summary": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack."
+    },
+    {
+      "id": "db98f33627a3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Everything Apple Announced at WWDC 2026",
+      "link": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
+      "published": "2026-06-08T20:00:10+00:00",
+      "summary": "Updates include a new souped-up Siri, lots of iOS enhancements, and some inkling on how an AI partnership with Google has come to power Apple’s products."
+    },
+    {
+      "id": "f0d5a537b0c5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple drops support for a long list of Apple Watches and iPads with latest OS updates",
+      "link": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
+      "published": "2026-06-08T19:45:00+00:00",
+      "summary": "I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but this year it's culling even more device generations than ever before. Apple is drop"
+    },
+    {
+      "id": "9be9e17fffea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces watchOS 27, now with Siri AI",
+      "link": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+      "published": "2026-06-08T19:34:10+00:00",
+      "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, thoug"
+    },
+    {
+      "id": "b6f30bd8cc87",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
+      "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+      "published": "2026-06-08T19:30:05+00:00",
+      "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul."
+    },
     {
       "id": "211f8afa3014",
       "source": "TechCrunch",
@@ -12,6 +111,17 @@
       "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "published": "2026-06-08T19:14:11+00:00",
       "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It m"
+    },
+    {
+      "id": "47c14b68f68d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "published": "2026-06-08T19:00:30+00:00",
+      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now."
     },
     {
       "id": "63f35b73774f",
@@ -102,6 +212,17 @@
       "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives."
     },
     {
+      "id": "176e3e41540d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "published": "2026-06-08T18:34:23+00:00",
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent."
+    },
+    {
       "id": "0cc374229f42",
       "source": "TechCrunch",
       "kind": "article",
@@ -155,6 +276,17 @@
       "link": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
       "published": "2026-06-08T18:07:32+00:00",
       "summary": "Apple is putting control back into the hands of parents with more granular screen time features."
+    },
+    {
+      "id": "f03268d68c78",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple's iOS 27, macOS 27 Golden Gate, and other updates focus on refinement",
+      "link": "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
+      "published": "2026-06-08T18:07:13+00:00",
+      "summary": "Apple's OSes come with Liquid Glass tweaks and performance optimizations."
     },
     {
       "id": "e028d2757369",
@@ -267,6 +399,17 @@
       "summary": "Apple announced its next major iOS update, iOS 27, at WWDC 2026 on Monday. Apple is highlighting performance and design improvements, trust and safety upgrades like a Screen Time redesign, and major upgrades to Siri and Apple Intelligence. The update will be supported all the way"
     },
     {
+      "id": "19c8a8c27c16",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple WWDC 2026",
+      "link": "https://www.apple.com/apple-events/event-stream/",
+      "published": "2026-06-08T17:14:24+00:00",
+      "summary": "Article URL: https://www.apple.com/apple-events/event-stream/ Comments URL: https://news.ycombinator.com/item?id=48448106 Points: 202 # Comments: 389"
+    },
+    {
       "id": "c88b82b5322d",
       "source": "The Verge",
       "kind": "article",
@@ -377,6 +520,17 @@
       "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers."
     },
     {
+      "id": "8f4be3a570b0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI is slowing down",
+      "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "published": "2026-06-08T15:46:37+00:00",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/ Comments URL: https://news.ycombinator.com/item?id=48446893 Points: 250 # Comments: 288"
+    },
+    {
       "id": "42d42d566532",
       "source": "TechCrunch",
       "kind": "article",
@@ -386,6 +540,17 @@
       "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
       "published": "2026-06-08T15:34:59+00:00",
       "summary": "Apple's WWDC nears: Here's what you can look forward to."
+    },
+    {
+      "id": "f1b7521c68a2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "기상청, ‘AX 인재 발굴을 위한 기상·기후 AI 해커톤 경진대회’ 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260609003125",
+      "published": "2026-06-08T15:31:25+00:00",
+      "summary": "[지디넷코리아]기상청은 기상·기후 데이터와 인공지능(AI)을 활용한 창의적인 교육 콘텐츠를 발굴하고, 기상·기후 분야 인공지능 전환(AX)을 이끌어갈 우수 인재 육성을 위해 ‘기상·기후 AI 해커톤 경진대회’를 개최한다.대회 참가자는 AI 기술·도구를 활용해 학습자가 직접 선택·입력·조작하며 기상·기후의 과학적 원리를 탐구할 수 있는 웹 기반 양방향 교육 콘텐츠 개발 계획을 담은 계획서를 제출해야 한다.경진대회는 만 19세 이상 내국인 1인 또는 4인 이하 팀으로 참여할 수 있다. 참가 신청은 대"
     },
     {
       "id": "cd1c6a4bde43",
@@ -419,6 +584,17 @@
       "link": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
       "published": "2026-06-08T15:14:29+00:00",
       "summary": "Article URL: https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/ Comments URL: https://news.ycombinator.com/item?id=48446439 Points: 331 # Comments: 177"
+    },
+    {
+      "id": "ed411a1bfd59",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "link": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "published": "2026-06-08T15:13:43+00:00",
+      "summary": "Article URL: https://martinalderson.com/posts/xais-new-rental-business/ Comments URL: https://news.ycombinator.com/item?id=48446428 Points: 271 # Comments: 207"
     },
     {
       "id": "70cba70c90dc",
