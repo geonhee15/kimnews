@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-09T19:15:33.668531+00:00",
-  "count": 1854,
+  "updated_at": "2026-06-09T21:10:12.924559+00:00",
+  "count": 1865,
   "items": [
+    {
+      "id": "6a5d55f67455",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "published": "2026-06-09T21:00:00+00:00",
+      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories."
+    },
+    {
+      "id": "e5da575a0323",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "published": "2026-06-09T21:00:00+00:00",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capab"
+    },
+    {
+      "id": "b2fcb84f583a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hey Siri, here’s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "published": "2026-06-09T20:50:17+00:00",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
+    },
+    {
+      "id": "c5bcbf7b9a23",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "published": "2026-06-09T20:37:49+00:00",
+      "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
+    },
+    {
+      "id": "4a95253a4865",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "published": "2026-06-09T20:24:25+00:00",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of specula"
+    },
+    {
+      "id": "3e3a69f49db8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "published": "2026-06-09T19:20:25+00:00",
+      "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries."
+    },
+    {
+      "id": "8ff0c2fae249",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "published": "2026-06-09T18:57:25+00:00",
+      "summary": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security."
+    },
     {
       "id": "d518cb7b0f4d",
       "source": "TechCrunch",
@@ -12,6 +89,17 @@
       "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "published": "2026-06-09T18:56:09+00:00",
       "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
+    },
+    {
+      "id": "6b556804340c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT-2: Too Dangerous To Release (2019)",
+      "link": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "published": "2026-06-09T18:21:43+00:00",
+      "summary": "Article URL: https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/ Comments URL: https://news.ycombinator.com/item?id=48465269 Points: 208 # Comments: 75"
     },
     {
       "id": "667c6b75cd5d",
@@ -487,6 +575,17 @@
       "summary": "Article URL: https://staniks.github.io/articles/catlantean-3d-blog-1/ Comments URL: https://news.ycombinator.com/item?id=48459294 Points: 449 # Comments: 61"
     },
     {
+      "id": "d6ebc6a4c7ad",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "published": "2026-06-09T10:38:28+00:00",
+      "summary": ""
+    },
+    {
       "id": "0fe258bb8cee",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -936,6 +1035,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260609153150",
       "published": "2026-06-09T06:58:49+00:00",
       "summary": "[지디넷코리아]국내 DBMS 전문기업 알티베이스(대표 박혜례나)가 금융권의 차세대 디지털 서비스 환경에 대응하기 위한 새로운 데이터 플랫폼 전략을 공개한다.알티베이스는 오는 11일 서울 여의도 페어몬트 앰배서더 서울에서 금융권 IT 관계자를 대상으로 '멈추지 않는 금융 서비스 전략 : 초고성능 데이터 처리와 디지털 자산 보호의 혁신' 세미나를 개최한다고 밝혔다.최근 금융 산업은 디지털 자산, 실시간 투자 서비스, 모바일 금융 서비스 확대와 함께 초당 수십만 건 이상의 거래를 안정적으로 처리해야 하"
+    },
+    {
+      "id": "41a35d15d4e3",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "published": "2026-06-09T06:56:23+00:00",
+      "summary": ""
     },
     {
       "id": "419bff96cec3",
@@ -2123,6 +2233,17 @@
       "title": "집중할 곳은 따로 있습니다. 쓸데없이 코딩 공부하며 시간낭비하지 마세요.",
       "link": "https://www.youtube.com/watch?v=JNvyySNetRo",
       "published": "2026-06-08T15:13:27+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f7594a7a838e",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "link": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "published": "2026-06-08T15:00:00+00:00",
       "summary": ""
     },
     {
