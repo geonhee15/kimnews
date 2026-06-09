@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-06-09T16:46:57.235235+00:00",
-  "count": 1841,
+  "updated_at": "2026-06-09T19:15:33.668531+00:00",
+  "count": 1854,
   "items": [
+    {
+      "id": "d518cb7b0f4d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "published": "2026-06-09T18:56:09+00:00",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
+    },
+    {
+      "id": "667c6b75cd5d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "published": "2026-06-09T18:04:24+00:00",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI."
+    },
+    {
+      "id": "cc8c74512c15",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+      "link": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+      "published": "2026-06-09T17:35:51+00:00",
+      "summary": "Whether you’re shopping for Father’s Day or trying to keep your kids entertained over summer break, you don’t need to spend a fortune to get a great Fitbit right now. You can currently pick up the Fitbit Charge 6 for $50 off at Amazon, Best Buy, and Target, the Fitbit Ace LTE for"
+    },
+    {
+      "id": "aa24bdc672af",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "MacOS 27 Golden Gate: Top New Features",
+      "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
+      "published": "2026-06-09T17:33:21+00:00",
+      "summary": "Apple has announced the latest version of macOS. It’s all about the reintroduction of Siri, which is now accessible from anywhere on the Mac desktop."
+    },
+    {
+      "id": "02a51c6f306d",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic is starting to panic…",
+      "link": "https://www.youtube.com/watch?v=0pgCBV8CTZY",
+      "published": "2026-06-09T17:32:30+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c6fc3e4d3beb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple wants Europe to blink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "published": "2026-06-09T17:13:14+00:00",
+      "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPad"
+    },
+    {
+      "id": "bbb56b8547ea",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+      "link": "https://www.wired.com/story/top-new-features-in-apples-ios-27-and-ipados-27/",
+      "published": "2026-06-09T17:03:37+00:00",
+      "summary": "Apple took the wraps off iOS 27 at its WWDC event, and the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri."
+    },
+    {
+      "id": "06e0dc9230de",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "published": "2026-06-09T17:00:46+00:00",
+      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks."
+    },
+    {
+      "id": "42aefc67c2e2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "published": "2026-06-09T17:00:00+00:00",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
+    },
+    {
+      "id": "c18859ef185a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "published": "2026-06-09T17:00:00+00:00",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models gro"
+    },
+    {
+      "id": "9ff26cd7ddd3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Fable 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published": "2026-06-09T16:58:01+00:00",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5 Comments URL: https://news.ycombinator.com/item?id=48463808 Points: 901 # Comments: 637"
+    },
+    {
+      "id": "44e9e75a4d75",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "link": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+      "published": "2026-06-09T16:31:10+00:00",
+      "summary": "Meta won't say why or whether it's coming back."
+    },
     {
       "id": "474d5c64e8c1",
       "source": "TechCrunch",
@@ -56,6 +188,17 @@
       "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
       "published": "2026-06-09T15:23:40+00:00",
       "summary": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users."
+    },
+    {
+      "id": "de54703fc18d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "link": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "published": "2026-06-09T15:21:46+00:00",
+      "summary": "Article URL: https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/ Comments URL: https://news.ycombinator.com/item?id=48462308 Points: 246 # Comments: 154"
     },
     {
       "id": "1abd60a925ec",
