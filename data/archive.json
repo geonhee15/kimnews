@@ -1,7 +1,260 @@
 {
-  "updated_at": "2026-06-09T08:21:25.398100+00:00",
-  "count": 1780,
+  "updated_at": "2026-06-09T11:38:16.688604+00:00",
+  "count": 1807,
   "items": [
+    {
+      "id": "97c8b745f4d4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Untold Story of the Google Buses That Took Over San Francisco",
+      "link": "https://www.wired.com/story/book-excerpt-city-on-the-edge-google-buses-san-francisco/",
+      "published": "2026-06-09T11:00:00+00:00",
+      "summary": "A decade ago, commuter buses attracted big protests in San Francisco. Years later, the city is still feeling the repercussions."
+    },
+    {
+      "id": "c79906c9f206",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"개인정보 전주기 보호\"...개보위, 기술R&D 로드맵 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260609195808",
+      "published": "2026-06-09T10:58:08+00:00",
+      "summary": "[지디넷코리아]개인정보보호위원회가 개인정보 전주기 보호체계를 담은 기술 연구개발 로드맵을 9일 내놨다. 기존 개인정보 보호·활용 기술 R&D 로드맵(’22~’26)과 개인정보 보호·활용 기술 표준화 로드맵(’23~’27)을 통합했다. 특히 개인정보 전주기 보호체계와 관련한 11대 핵심기술로 ▲AI 모델 안전성 평가 ▲에이전트‧도구‧로봇 실행 보안 ▲피지컬 AI 실시간 프라이버시 제어 ▲AI 기반 비정형데이터 비식별화(영상, 텍스트, 음성) 등을 선정했다. 개인정보 전문인력 양성도 로드맵에 처음으로"
+    },
+    {
+      "id": "48ba077bf4d6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플 WWDC 시연이 더 '진짜'처럼 보인 이유…3883억 원 허위광고 합의의 그림자",
+      "link": "https://zdnet.co.kr/view/?no=20260609195536",
+      "published": "2026-06-09T10:55:36+00:00",
+      "summary": "[지디넷코리아]애플(Apple)이 6월 8일(현지시간) WWDC 2026 기조연설에서 새 시리(Siri)와 iOS 27을 공개한 가운데, 정작 눈길을 끈 것은 '무엇을 발표했는가'가 아니라 '어떻게 보여줬는가'였다. 테크크런치(TechCrunch)에 따르면 이번 키노트는 지난해 '리퀴드 글래스(Liquid Glass)' 디자인 수정, 형편없던 검색 기능 개선, 이미지 플레이그라운드(Image Playground) 개선 등 그동안 미뤄둔 숙제를 하나씩 처리한 듯한 분위기였다.핵심은 시연 방식이었다."
+    },
+    {
+      "id": "b1c57b835505",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "맥OS 27, 애플 실리콘 전용으로…인텔 맥 시대 막 내린다",
+      "link": "https://zdnet.co.kr/view/?no=20260609195434",
+      "published": "2026-06-09T10:54:34+00:00",
+      "summary": "[지디넷코리아]애플(Apple)이 차세대 운영체제 'macOS 27'을 애플 실리콘(Apple Silicon) 전용으로 내놓으며 인텔(Intel) 맥 시대를 마무리한다. 아스 테크니카(Ars Technica)에 따르면 다음 macOS를 설치하려면 M1 이상의 M 시리즈 칩이나 A18 프로 칩을 탑재한 맥북 네오(MacBook Neo)가 필요하다.macOS 27의 공식 명칭은 '골든 게이트(Golden Gate)'로, 애플 실리콘에서만 작동하는 첫 번째 macOS이자 인텔 앱을 구동하는 로제타 2("
+    },
+    {
+      "id": "0fe258bb8cee",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "published": "2026-06-09T10:20:06+00:00",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of auto"
+    },
+    {
+      "id": "f63e1cbd5e96",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules",
+      "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+      "published": "2026-06-09T10:00:00+00:00",
+      "summary": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook."
+    },
+    {
+      "id": "4eb6160fc243",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 노트북LM 대규모 업데이트…\"스스로 웹 검색해 지식 구축\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211511",
+      "published": "2026-06-09T09:54:20+00:00",
+      "summary": "구글이 인기 AI 도구 노트북LM(NotebookLM)에 대규모 업데이트를 통해 연구 자동화 기능을 강화했다. 이번 업데이트를 통해 기본 모델이 제미나이 3.5로 전환됐으며, 사용자가 자료를 직접 준비하지 않아도 AI가 스스로 자료를 탐색하고 지식 기반을 구축할 수 있는 새로운 연구 기능이 추가됐다.구글은 8일(현지시간) 노트북LM의 최신 버전을 공개하며 AI 연구 지원 역량을 확대한다고 밝혔다.구글은 이번 업그레이드가 단순한 성능 향상을 넘어 복잡한 연구 프로젝트를 수행할 수 있는 새로운 단계의"
+    },
+    {
+      "id": "41e721fd793e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "ETRI, 이통3사+장비업계 손잡고 '6G AI-네이티브' 주도권 경쟁나서",
+      "link": "https://zdnet.co.kr/view/?no=20260609184638",
+      "published": "2026-06-09T09:46:38+00:00",
+      "summary": "[지디넷코리아]한국전자통신연구원(ETRI, 원장 박세웅)이 6G AI-네이티브 글로벌 주도권 경쟁에 뛰어 들었다.6G AI-네이티브는 무선 접속망 설계부터 운영까지 AI가 내재된 네트워크를 말한다.배정숙 ETRI 지능무선액세스연구실장은 9일 \"AI 기반 무선접속망 기술인 AI-랜(RAN, 무선접속네트워크) 핵심기술 확보를 위한 연구개발에 착수했다. 현판식은 지난 5월 진행했다\"고 말했다.과학기술정보통신부와 정보통신기획평가원(IITP)은 지난 4월 ETRI를 ‘국가지정 AI-랜 글로벌 선도 프로젝트"
+    },
+    {
+      "id": "c06ef9f99ecf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "케이카 품은 KG그룹, 신차·중고차·금융·결제 한데 묶는다",
+      "link": "https://zdnet.co.kr/view/?no=20260609184208",
+      "published": "2026-06-09T09:44:56+00:00",
+      "summary": "[지디넷코리아]KG그룹이 상장 계열사의 저평가 해소를 위한 중장기 밸류업 로드맵을 내놨다. 향후 5년간 총주주환원율을 50%까지 확대하고, 케이카 인수를 기반으로 신차 제조·중고차 유통·금융·결제를 아우르는 통합 모빌리티 생태계를 구축한다는 구상이다.KG그룹은 9일 서울 여의도 태영빌딩 T-아트홀에서 ‘KG그룹 기업가치 정상화 및 미래전략 기자간담회’를 열었다. 이날 행사에는 곽재선 KG그룹 회장을 비롯해 주요 계열사 최고경영자(CEO)와 최고재무책임자(CFO), 참여이사 등이 참석했다.KG그룹은"
+    },
+    {
+      "id": "0c9cf10e81a9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼, 오픈AI '3단계 비전' 선언...\"인간 대체 아닌 돕는 AGI로”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211506",
+      "published": "2026-06-09T09:40:40+00:00",
+      "summary": "'챗GPT' 출시 이후 3년 반이 지난 가운데, 오픈AI가 성장 전략과 비전을 담은 새로운 청사진을 공개했다. 오픈AI는 연구 중심 조직에서 제품 기업으로 진화한 데 이어 이제는 AI를 누구나 활용할 수 있는 풍부하고 안전한 인프라로 확산시키는 ‘제3단계’에 진입했다고 선언했다.샘 알트먼 오픈AI CEO와 야쿠브 파초키 수석 과학자는 8일(현지시간) 블로그를 통해 회사의 새로운 방향성을 발표했다.이들은 오픈AI의 발전 과정을 3단계로 구분했다. 첫 번째 단계는 인공일반지능(AGI) 연구에 집중하던"
+    },
+    {
+      "id": "26fc86cb7556",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "계열사 악재 겹친 한화, ‘캐나다 잠수함’ 더 절실해져",
+      "link": "https://zdnet.co.kr/view/?no=20260609181913",
+      "published": "2026-06-09T09:34:42+00:00",
+      "summary": "[지디넷코리아]한화그룹이 주요 계열사에서 잇따른 악재를 맞고 있다. 한화에어로스페이스 대전사업장 폭발 사고로 경찰과 노동당국 강제수사가 본격화된 데 이어, 한화솔루션은 대규모 유상증자 논란의 후폭풍에서 벗어나지 못하고 있다. 여기에 그룹에 편입된 아워홈에서도 중대 산업재해가 발생하면서 안전관리 체계에 대한 부담까지 커졌다.9일 업계에 따르면 한화그룹 주요 계열사에서 안전사고와 재무 부담 등 악재가 잇따르면서 한화오션이 추진 중인 캐나다 잠수함 사업 수주에 대한 그룹 안팎의 기대감이 커지고 있다. "
+    },
+    {
+      "id": "cca5ef322f0f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"20B로 GPT-5.4 검색 성능 능가\"...오픈소스 에이전트 '하네스-1' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211522",
+      "published": "2026-06-09T09:28:29+00:00",
+      "summary": "AI가 검색 과정에서 수행해야 했던 기억과 정리, 검증 작업 등을 외부 시스템으로 분리하는 새로운 접근법이 등장했다. 이를 통해 소형 오픈소스 모델로 첨단 모델의 검색 성능을 뛰어넘는 성과를 거뒀다.미국 일리노이대학교 어바나-샴페인, UC 버클리, 오픈소스 벡터 데이터베이스 기업 크로마 연구진은 최근 새로운 검색 AI 에이전트 ‘하네스-1(Harness-1)’을 온라인 아카이브를 통해 공개했다.하네스-1은 검색 과정에서 필요한 기억과 정보 관리 기능을 외부 시스템이 담당하고, AI는 검색과 추론에"
+    },
+    {
+      "id": "6cab63585f31",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "창사 20년 만에 카카오 첫 파업…노사 여전히 평행선",
+      "link": "https://zdnet.co.kr/view/?no=20260609181115",
+      "published": "2026-06-09T09:24:38+00:00",
+      "summary": "[지디넷코리아]창사 이래 처음으로 카카오 노조가 파업에 나선다.9일 IT업계에 따르면 카카오 노동조합은 오는 10일 오전 10시부터 4시까지 부분 파업에 돌입한다. 한 시간 이른 9시부터 오후 4시까지 판교역 광장 인근에서 결의대회와 행진도 진행된다. 파업 시간 중 오전 11시 30분부터 낮 12시 30분까지는 판교역에서 시작해 유스페이스까지 약 800m를 행진한다.이번 파업에는 카카오 본사, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개 법인이 참가한다.지난달 28일 경기 "
+    },
+    {
+      "id": "1d2ce6b19e09",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Five things you need to know about AI",
+      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "published": "2026-06-09T09:16:45+00:00",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…"
+    },
+    {
+      "id": "d7005b23b701",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷 AI, '키미' 상승세 앞세워 한달 만에 몸값 1.5배 노려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211526",
+      "published": "2026-06-09T09:10:09+00:00",
+      "summary": "중국의 문샷 AI가 최대 20억달러(약 3조원) 규모의 신규 투자 유치에 나섰다. 투자 유치가 성공적으로 마무리될 경우 기업 가치는 최대 300억달러(약 45조원)에 달해 중국 AI 업계의 핵심으로 자리매김할 전망이다.8일(현지시간) 블룸버그 등에 따르면, 문샷 AI는 최근 투자자들과 10억~20억달러 규모의 신규 자금 조달 방안을 논의하고 있다.특히 목표 기업 가치는 최대 300억달러로, 지난 5월 투자 라운드에서 인정받은 200억달러에서 불과 한달 만에 50% 상승했다.또 이는 최근 6개월 동"
+    },
+    {
+      "id": "6e61061472d0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"웹 위변조 방지\"...스틸리언, '웹수트' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260609180614",
+      "published": "2026-06-09T09:06:14+00:00",
+      "summary": "[지디넷코리아]사이버 보안 기업 스틸리언(대표 박찬암)이 AI 기반 행동 분석을 적용한 웹 위변조 방지 및 보호 솔루션 ‘웹수트(WebSuit)’를 출시했다. 기존 모바일 앱 보안 솔루션 ‘앱수트(AppSuit)’에 이어 웹 서비스 보호 영역으로 제품 포트폴리오를 확대했다.9일 회사에 따르면, 웹 서비스는 금융, 커머스, 공공서비스, 플랫폼 등 다양한 산업에서 핵심 고객 접점으로 활용하고 있다. 서비스 이용을 확대하고 클라우드·API 연동이 늘면서 외부에 노출되는 공격 표면도 함께 넓어지고 있다."
+    },
+    {
+      "id": "9af4176cba68",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“중국서 클로드 접근 가능?”…중국 당국, 불법 AI 프록시 서비스 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211527",
+      "published": "2026-06-09T09:00:00+00:00",
+      "summary": "중국 정부가 암시장에서 해외 AI 모델에 접근할 수 있도록 해주는 이른바 'API 중계 플랫폼' 이용에 따른 위험성을 공식 경고했다.국가안전부(MSS)는 8일 공식 위챗 계정을 통해 이러한 서비스들이 편리함과 저렴한 가격, 중국 내 거래 제한 우회 등의 이점을 제공하지만, 일부 무자격 사업자들로 인해 심각한 데이터 보안 위험이 초래되고 있다고 밝혔다. MSS는 \"일부 플랫폼이 취약한 보안 통제 속에 운영되면서 개인정보 유출 및 불법 데이터 거래 위험을 증가시키고 있다\"라고 설명했다.이번 경고는 중"
+    },
+    {
+      "id": "d8cb2a57d07b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
+      "link": "https://zdnet.co.kr/view/?no=20260609173128",
+      "published": "2026-06-09T08:55:11+00:00",
+      "summary": "[지디넷코리아]네이버와 카카오의 AI 협력 지도가 극명한 차이를 보이고 있다. 네이버는 엔비디아·AMD와 함께 데이터센터와 AI 팩토리 구축에 속도를 내고 있고, 카카오는 오픈AI·구글과 손잡고 카카오톡 기반 AI 서비스 확대에 주력하고 있다. 양사 모두 글로벌 빅테크와 협력하고 있지만, 인프라 경쟁력과 이용자 기반이라는 서로 다른 강점이 동맹 방향을 결정했다는 평가다.9일 IT업계에 따르면 젠슨 황 엔비디아 최고경영자(CEO)는 전날 제2사옥 네이버1784를 찾아 네이버와의 글로벌 AI 팩토리 "
+    },
+    {
+      "id": "f5cd95151225",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, 사파리에 '바이브 코딩' 도입...“말만 하면 확장 프로그램 생성”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211515",
+      "published": "2026-06-09T08:52:29+00:00",
+      "summary": "애플이 사파리(Safari) 브라우저에 사용자가 자연어로 설명만 하면 맞춤형 브라우저 확장 프로그램을 생성하는 ‘바이브 코딩’ 기능을 도입하며, 상대적으로 부족하다는 평가를 받던 확장 프로그램 생태계 강화에 나섰다.애플은 8일(현지시간) 연례 개발자 행사 'WWDC 2026'에서 웹 브라우저 사파리의 대대적인 AI 업그레이드를 공개했다.핵심은 애플 인텔리전스(Apple Intelligence)를 활용한 새로운 AI 기반 브라우징 경험이다. 그중 가장 주목받는 기능은 ‘확장 프로그램 설명(Descr"
+    },
+    {
+      "id": "da75dba39050",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 시대의 애플의 미래를 보는 WWDC26 핵심 총 정리 리뷰",
+      "link": "https://www.youtube.com/watch?v=zFX38OjVlW0",
+      "published": "2026-06-09T08:48:52+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f29863843323",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존·코닝, AI 데이터센터 확장 위해 수십억달러 광섬유 계약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211530",
+      "published": "2026-06-09T08:46:12+00:00",
+      "summary": "아마존이 미국 광섬유 제조업체 코닝과 장기 공급 계약을 체결하며 AI 데이터센터 인프라 확장에 본격 나섰다. 이번 협력을 통해 광섬유와 데이터센터 연결 장비 생산을 확대하고, 관련 제조 생태계와 인력 양성에도 투자할 계획이다.아마존은 8일(현지시간) 코닝과 다년간의 전략적 파트너십을 체결했다고 발표했다.구체적인 계약 규모는 공개하지 않았지만, 업계에서는 AI 데이터센터 구축 경쟁이 치열해지는 가운데 계약 규모가 수십억달러에 달할 것으로 예상했다.이에 따라 코닝은 미국 노스캐롤라이나주 생산 시설에서"
+    },
+    {
+      "id": "939046b0aa44",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황, 미 상원 '중국 수출' 청문회 거부…본사 초청 역제안",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211525",
+      "published": "2026-06-09T08:35:32+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 중국 사업 검증을 위한 미 상원 청문회 출석 요청을 거절하고, 본사 초청이라는 역제안을 던졌다.8일(현지시간) CNBC에 따르면, 황 CEO는 미 상원 은행위원회에 보낸 답신 서한을 통해 거부 의사를 공식적으로 밝혔다.미국 상원 은행위원회 소속인 엘리자베스 워런 상원의원은 오는 11일 열리는 'AI와 아메리칸 드림(AI and the American Dream)' 청문회에 황 CEO를 증인으로 초청했다. 이 청문회는 미국의 AI 혁신 경쟁력, 기술 주도권, AI 접근성 "
+    },
+    {
+      "id": "7711e65abec2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부, ‘피지컬 AI 핵심 기술 국산화’ 위해 국내 산학연 총결집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211532",
+      "published": "2026-06-09T08:14:49+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)는 9일 서울 마곡 LG 사이언스파크에서 정보통신기획평가원(원장 홍진배)과 ‘피지컬 AI 핵심 기술 국산화’를 위한 ‘피지컬 AI 선도기술개발 사업 착수보고회’를 개최했다고 밝혔다.이번 사업은 LG전자가 주관을 담당한다. 마음AI, 홀리데이로보틱스, 로보티즈, 크라우드웍스, 알체라, KT, 한국과학기술원(KAIST), 서울대학교, 한국정보통신기술협회 등 국내 최고 수준 10개 산학연이 총결집했다.과기부는 올해부터 2년간 총 340억원을 투입해 세계 최고 수준 성능 달"
+    },
     {
       "id": "02df742653be",
       "source": "AI타임스",
@@ -23,6 +276,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211523",
       "published": "2026-06-09T08:00:00+00:00",
       "summary": "■ 올거나이즈(대표 이창수)는 대형언어모델(LLM) 기반 올인원 AI 플랫폼 '알리 2.0.0'가 조달청 나라장터 디지털서비스몰에 등록됐다고 밝혔다. 이에 따라 정부 부처·공공기관은 공개입찰 없이 카탈로그계약(수의계약)으로 알리를 도입할 수 있다. 알리는 기업 문서·데이터베이스 기반 검색증강생성(RAG)과 노코드 앱빌더를 하나로 결합한 솔루션으로 행정 업무 자동화에 활용할 수 있다.■ 스노우플레이크는 글로벌 제약기업 사노피가 '스노우플레이크 코텍스 AI'로 영업사원용 AI 에이전트 '컨시어지 포 "
+    },
+    {
+      "id": "431132e75d6d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 스토어링크, AI로 체험단 모집 자동화 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211534",
+      "published": "2026-06-09T08:00:00+00:00",
+      "summary": "■ AI 마케팅 전문 스토어링크(대표 정용은)는 중소상공인도 쉽게 이용할 수 있는 AI 자동화 마케팅 플랫폼 ‘퍼그 제로’를 론칭했다고 밝혔다. 차별점은 전문 지식 없이도 누구나 3분 만에 체험단 마케팅을 시작할 수 있다는 점이다. 광고주가 상품 정보만 등록하면, 캠페인 정보 생성부터 체험단 모집 및 선정, 리뷰 검수까지 전 과정이 자동 진행된다. 광고주는 체험단이 구매할 상품의 원가와 배송비(실비)만 결제하면 캠페인을 열 수 있다.■ 모빌린트는 2~5일 대만 타이베이에서 열린 ‘컴퓨텍스 2026"
     },
     {
       "id": "f9d34e1b936a",
@@ -67,6 +331,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211529",
       "published": "2026-06-09T07:33:59+00:00",
       "summary": "생성 AI 전문 딥브레인AI(대표 장세영)는 주제 입력만으로 온라인 교육 과정 전체를 전문가 수준으로 자동 생성하는 ‘AI 커리큘럼 생성기’를 출시했다고 9일 밝혔다.‘AI 커리큘럼 생성기’는 AI 영상 합성 플랫폼 ‘AI스튜디오’의 신규 기능으로, 기획, 영상 제작, 학습 활동, 배포까지 교육 제작에 필요한 전 과정을 하나의 플랫폼에서 지원해준다는 설명이다. 교육 과정의 뼈대를 만드는 단계부터 실제 학습 콘텐츠 제작과 기존 교육 시스템 연동까지 통합 지원하는 것이 특징이다.구체적으로는 ▲AI 커"
+    },
+    {
+      "id": "f84a087ecead",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "published": "2026-06-09T07:33:16+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/ Comments URL: https://news.ycombinator.com/item?id=48457830 Points: 206 # Comments: 89"
     },
     {
       "id": "8137dd341d93",
@@ -432,6 +707,17 @@
       "summary": "[지디넷코리아]애플이 자사 핵심 인공지능(AI) 기능 '애플 인텔리전스' 경쟁력 강화를 위해 '적과의 동침'이란 카드를 꺼내 들었다. 애플이 8일(현지시간) 미국 캘리포니아 애플파크에서 열린 세계개발자회의(WWDC) 2026에서 구글과 협력해 개발한 파운데이션 모델 기반으로 구축된 새로운 애플 인텔리전스 아키텍처를 공개했다고 맥루머스 등 외신이 보도했다.새로운 아키텍처는 구글과 공동 개발한 애플 파운데이션 모델을 중심으로 구성됐다. 애플은 해당 모델이 기존 프라이빗 클라우드 컴퓨팅 인프라를 기반으"
     },
     {
+      "id": "c2368c6816e8",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "published": "2026-06-09T01:46:19+00:00",
+      "summary": ""
+    },
+    {
       "id": "02cf313a226d",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -694,6 +980,17 @@
       "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
       "published": "2026-06-08T20:50:55+00:00",
       "summary": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County. Waymo acquired the property, which is located near other proving grounds"
+    },
+    {
+      "id": "60d5a7c3a328",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "FrontierCode",
+      "link": "https://cognition.ai/blog/frontier-code",
+      "published": "2026-06-08T20:45:03+00:00",
+      "summary": "Article URL: https://cognition.ai/blog/frontier-code Comments URL: https://news.ycombinator.com/item?id=48451723 Points: 203 # Comments: 36"
     },
     {
       "id": "dfb164b6ca1c",
