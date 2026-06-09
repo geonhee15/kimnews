@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-09T21:10:12.924559+00:00",
-  "count": 1865,
+  "updated_at": "2026-06-09T22:49:22.527135+00:00",
+  "count": 1872,
   "items": [
+    {
+      "id": "b10c2b1c3b8c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월9일] 애플은 왜 '미래'를 말하지 않았나...WWDC 2026, 팀 쿡 시대의 결산",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211518",
+      "published": "2026-06-09T22:00:00+00:00",
+      "summary": "애플의 8일(현지시간) 세계개발자컨퍼런스(WWDC)가 끝나자, 일부에서는 비판적인 시각이 등장했습니다. 예를 들어, 테크크런치는 이번 행사를 \"뒤늦은 대처(catch-up)\"로 평가했습니다.그럴 만도 한 것이, 이번 행사에서는 새로운 발표가 거의 등장하지 않았습니다. 발표량은 적지 않았지만, 대부분은 기존 발표 내용을 구체화하거나 상용화하는 데 초점이 맞춰졌습니다. 특히 2024년 WWDC에서 공개했던 시리와 애플 인텔리전스가 실제로 작동한다는 점을 시연하는 무대에 가까웠다는 평입니다.여기에 구글"
+    },
+    {
+      "id": "dee883b7e875",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성, ‘AI 대전환’ 선언...챗GPT·클로드 등 업무에 본격 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211537",
+      "published": "2026-06-09T21:58:54+00:00",
+      "summary": "삼성은 9일 전 관계사의 모든 업무에 AI를 전면 도입하는 등 삼성의 일하는 방식과 조직문화를 근본적으로 혁신하는 ‘AI 대전환’에 나선다고 밝혔다.이재용 삼성전자 회장은 올해 신년사에서 “일하는 방식과 조직 DNA를 송두리째 바꿔야 한다”며 “R&D부터 생산∙마케팅∙지원 등 모든 업무 밸류체인에 AI를 접목해야 한다”고 강조했다.이처럼 AI 시대를 맞아 삼성은 업무의 모든 과정에 AI를 도입하는 것은 물론, 사장단과 임원, 직원들의 일하는 방식과 조직문화 등 조직 DNA 자체를 AI 중심으로 탈"
+    },
+    {
+      "id": "3083fc183156",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 미소스급 ‘페이블 5’ 출시…“위험시 하위 모델 자동 전환”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211536",
+      "published": "2026-06-09T21:32:37+00:00",
+      "summary": "앤트로픽이 예고한 대로 '미소스급' 모델을 일반에게 공개했다. 미소스를 뛰어넘는 역대 최강 성능을 갖춘 만큼, 위험한 요청이 들어오면 하위 모델로 전환하는 안전장치를 갖춘 것이 특징이다.앤트로픽은 9일(현지시간) '클로드 페이블 5(Claude Fable 5)'를 정식 출시했다고 발표했다. 페이블 5가 강력한 성능을 갖춘 만큼 오용 위험을 막기 위해 엄격한 분류장치(Classifier)를 도입했다고 강조했다. 사용자의 요청이 사이버보안이나 생물학, 화학, 심지어 모델 '증류'를 위한 시도라고 판단"
+    },
+    {
+      "id": "fe7051675bc9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The App Store is going to add subscription bundles soon",
+      "link": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
+      "published": "2026-06-09T21:30:48+00:00",
+      "summary": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar to streaming video bundles that have combined offers for Apple TV and Peacock, but"
+    },
     {
       "id": "6a5d55f67455",
       "source": "TechCrunch",
@@ -31,6 +75,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Hey Siri, here’s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "published": "2026-06-09T20:50:17+00:00",
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
+    },
+    {
+      "id": "2c2001b68a37",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "published": "2026-06-09T20:50:17+00:00",
       "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
@@ -89,6 +144,17 @@
       "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "published": "2026-06-09T18:56:09+00:00",
       "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
+    },
+    {
+      "id": "38d2c76875ab",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "published": "2026-06-09T18:45:59+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/ Comments URL: https://news.ycombinator.com/item?id=48465675 Points: 257 # Comments: 116"
     },
     {
       "id": "6b556804340c",
@@ -199,6 +265,17 @@
       "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
       "published": "2026-06-09T17:00:00+00:00",
       "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models gro"
+    },
+    {
+      "id": "06e4598c9450",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "published": "2026-06-09T17:00:00+00:00",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
     },
     {
       "id": "9ff26cd7ddd3",
