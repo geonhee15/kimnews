@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-06-09T14:04:19.026114+00:00",
-  "count": 1823,
+  "updated_at": "2026-06-09T16:46:57.235235+00:00",
+  "count": 1841,
   "items": [
+    {
+      "id": "474d5c64e8c1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s foldable iPhone could be just around the corner",
+      "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+      "published": "2026-06-09T16:22:56+00:00",
+      "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device."
+    },
+    {
+      "id": "3b58a95ae16f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "published": "2026-06-09T16:13:14+00:00",
+      "summary": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered "
+    },
+    {
+      "id": "43cb1ad9e909",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "published": "2026-06-09T16:09:14+00:00",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS."
+    },
+    {
+      "id": "7f2c6e55d234",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "published": "2026-06-09T16:00:00+00:00",
+      "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "38318dc7f69b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+      "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+      "published": "2026-06-09T15:23:40+00:00",
+      "summary": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users."
+    },
+    {
+      "id": "1abd60a925ec",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published": "2026-06-09T15:16:25+00:00",
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+    },
+    {
+      "id": "dd2d71d72f0a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iOS 27 features we didn’t see onstage",
+      "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+      "published": "2026-06-09T15:06:12+00:00",
+      "summary": "While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users."
+    },
+    {
+      "id": "f257dd808df7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta will use your activity on other websites to personalize your feeds",
+      "link": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+      "published": "2026-06-09T15:00:00+00:00",
+      "summary": "Meta is planning to use the data shared by other businesses to personalize your feed and its AI responses. In a blog post on Tuesday, Meta explains that it already uses your off-platform activity, like the games you play or your purchases on other websites, to serve you ads. But "
+    },
+    {
+      "id": "031f258f00be",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple brings streaming-style subscription bundles to the App Store",
+      "link": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
+      "published": "2026-06-09T14:55:36+00:00",
+      "summary": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages."
+    },
+    {
+      "id": "665ad8a3f0f2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "published": "2026-06-09T14:54:51+00:00",
+      "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, "
+    },
+    {
+      "id": "b98fc1808571",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s App Store rolls out personalized recommendations",
+      "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
+      "published": "2026-06-09T14:30:17+00:00",
+      "summary": "Apple will now recommend apps based on your downloads and behavior."
+    },
+    {
+      "id": "c698f84adc39",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s AI promises are finally, almost, sort of here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "published": "2026-06-09T14:18:18+00:00",
+      "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's possible.\" But its slew of announcements - centered on a brand-new \"Siri AI\" - had m"
+    },
+    {
+      "id": "3ecaddc1f0d5",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published": "2026-06-09T14:10:19+00:00",
+      "summary": ""
+    },
     {
       "id": "603a276069f1",
       "source": "Google DeepMind",
@@ -190,6 +333,17 @@
       "summary": "[지디넷코리아]애플(Apple)이 차세대 운영체제 'macOS 27'을 애플 실리콘(Apple Silicon) 전용으로 내놓으며 인텔(Intel) 맥 시대를 마무리한다. 아스 테크니카(Ars Technica)에 따르면 다음 macOS를 설치하려면 M1 이상의 M 시리즈 칩이나 A18 프로 칩을 탑재한 맥북 네오(MacBook Neo)가 필요하다.macOS 27의 공식 명칭은 '골든 게이트(Golden Gate)'로, 애플 실리콘에서만 작동하는 첫 번째 macOS이자 인텔 앱을 구동하는 로제타 2("
     },
     {
+      "id": "2e113d518702",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Making Graphics Like it's 1993",
+      "link": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "published": "2026-06-09T10:46:14+00:00",
+      "summary": "Article URL: https://staniks.github.io/articles/catlantean-3d-blog-1/ Comments URL: https://news.ycombinator.com/item?id=48459294 Points: 449 # Comments: 61"
+    },
+    {
       "id": "0fe258bb8cee",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -207,6 +361,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules",
+      "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+      "published": "2026-06-09T10:00:00+00:00",
+      "summary": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook."
+    },
+    {
+      "id": "d49e74e05608",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
       "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
       "published": "2026-06-09T10:00:00+00:00",
       "summary": "New research finds that in the six months after Meta relaxed rules in the name of free speech, violent threats against lawmakers—including President Donald Trump—surged on Facebook."
@@ -320,6 +485,17 @@
       "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
       "published": "2026-06-09T09:16:45+00:00",
       "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…"
+    },
+    {
+      "id": "b1a206101005",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cleaning up after AI rockstar developers",
+      "link": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "published": "2026-06-09T09:10:10+00:00",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 318 # Comments: 233"
     },
     {
       "id": "d7005b23b701",
@@ -793,6 +969,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260609115927",
       "published": "2026-06-09T03:21:00+00:00",
       "summary": "[지디넷코리아]\"인공지능(AI) 시장 무게중심이 'AI 실행'에서 'AI 운영'으로 이동하고 있습니다. 우리는 이에 발맞춰 기업이 AI 시스템 운영 전 과정을 한눈에 볼 수 있도록 제품군을 지속 강화할 것입니다. 그동안 파악하기 어려웠던 AI 서비스 성능부터 비용, 품질 문제를 통합 분석하는 시대를 열겠습니다.\"이동인 와탭랩스 대표는 9일 서울 서초구 본사에서 'LLM 옵저버빌리티 미디어 데이'를 열고 그래픽처리장치(GPU) 모니터링을 비롯한 LLM 옵저버빌리티, AI 적용 전략을 이같이 발표했다"
+    },
+    {
+      "id": "1142f677b661",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Job: Head of Stonehenge",
+      "link": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "published": "2026-06-09T03:20:40+00:00",
+      "summary": "Article URL: https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449 Comments URL: https://news.ycombinator.com/item?id=48455928 Points: 212 # Comments: 200"
     },
     {
       "id": "f66583fa04ee",
@@ -3906,6 +4093,17 @@
       "link": "https://www.youtube.com/shorts/82m7YqosdgU",
       "published": "2026-06-06T06:20:46+00:00",
       "summary": ""
+    },
+    {
+      "id": "2dcc36c17953",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "link": "https://opencv.org/opencv-5/",
+      "published": "2026-06-06T06:02:28+00:00",
+      "summary": "Article URL: https://opencv.org/opencv-5/ Comments URL: https://news.ycombinator.com/item?id=48421858 Points: 509 # Comments: 90"
     },
     {
       "id": "b1fc051d232c",
