@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-08T22:55:53.944243+00:00",
-  "count": 1730,
+  "updated_at": "2026-06-09T00:02:05.355249+00:00",
+  "count": 1736,
   "items": [
+    {
+      "id": "213dc720ba72",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instagram is finally letting everyone reorganize their profile grid",
+      "link": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "published": "2026-06-08T23:58:30+00:00",
+      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the po"
+    },
+    {
+      "id": "8ce5fdf2e1cb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s Screen Time updates are too little, too late",
+      "link": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "published": "2026-06-08T23:41:00+00:00",
+      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to cur"
+    },
+    {
+      "id": "976a0617cf31",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "5 things I already love from the iOS 27 beta",
+      "link": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "published": "2026-06-08T23:30:00+00:00",
+      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of "
+    },
     {
       "id": "9cca2e4b5347",
       "source": "TechCrunch",
@@ -146,6 +179,28 @@
       "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software."
     },
     {
+      "id": "d5ef33eedfdc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+      "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+      "published": "2026-06-08T21:03:56+00:00",
+      "summary": "You'll need an M1 or better to run the next release of macOS."
+    },
+    {
+      "id": "4a09be2dfeea",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads",
+      "link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+      "published": "2026-06-08T20:55:58+00:00",
+      "summary": "This promises to be a solid release for aging iPhones."
+    },
+    {
       "id": "23e1b6d778f5",
       "source": "TechCrunch",
       "kind": "article",
@@ -177,6 +232,17 @@
       "link": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
       "published": "2026-06-08T20:26:52+00:00",
       "summary": "This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across its new updates. I've rounded up a bunch of them right here. The new operating syst"
+    },
+    {
+      "id": "8559dfeec71c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "link": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+      "published": "2026-06-08T20:26:14+00:00",
+      "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt."
     },
     {
       "id": "850769c677d6",
