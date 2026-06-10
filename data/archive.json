@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-10T16:08:09.131905+00:00",
-  "count": 1977,
+  "updated_at": "2026-06-10T18:42:19.251516+00:00",
+  "count": 1986,
   "items": [
+    {
+      "id": "48abcf25ffc2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "published": "2026-06-10T17:38:00+00:00",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in "
+    },
+    {
+      "id": "a2bec4ebdb90",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "published": "2026-06-10T17:20:36+00:00",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to trai"
+    },
+    {
+      "id": "b10f1a728353",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "published": "2026-06-10T17:19:31+00:00",
+      "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry."
+    },
+    {
+      "id": "b49d4cd0d4f8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "published": "2026-06-10T17:07:35+00:00",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet."
+    },
+    {
+      "id": "3fcfd76fa92e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "published": "2026-06-10T16:50:23+00:00",
+      "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microso"
+    },
+    {
+      "id": "70a5b363c822",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "published": "2026-06-10T16:24:11+00:00",
+      "summary": ""
+    },
+    {
+      "id": "0d52eb6c3823",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "published": "2026-06-10T16:18:45+00:00",
+      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Googl"
+    },
+    {
+      "id": "a2ada7fbeecb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How memory tools can make AI models worse",
+      "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "published": "2026-06-10T16:11:08+00:00",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
+    },
     {
       "id": "7241cf2c900f",
       "source": "GitHub Blog",
@@ -78,6 +166,17 @@
       "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
       "published": "2026-06-10T14:31:30+00:00",
       "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
+    },
+    {
+      "id": "83a7d0639ad4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PgDog is funded and coming to a database near you",
+      "link": "https://pgdog.dev/blog/our-funding-announcement",
+      "published": "2026-06-10T14:02:59+00:00",
+      "summary": "Article URL: https://pgdog.dev/blog/our-funding-announcement Comments URL: https://news.ycombinator.com/item?id=48476466 Points: 244 # Comments: 118"
     },
     {
       "id": "bb5ed84a6ff2",
