@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-06-10T12:03:35.358904+00:00",
-  "count": 1951,
+  "updated_at": "2026-06-10T16:08:09.131905+00:00",
+  "count": 1977,
   "items": [
+    {
+      "id": "7241cf2c900f",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "published": "2026-06-10T16:00:00+00:00",
+      "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "5fb282f106a0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+      "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+      "published": "2026-06-10T15:53:07+00:00",
+      "summary": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent."
+    },
+    {
+      "id": "89a7a6c7ab4b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "published": "2026-06-10T15:41:22+00:00",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
+    },
+    {
+      "id": "2140b24f8462",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+      "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "published": "2026-06-10T15:16:00+00:00",
+      "summary": "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life."
+    },
+    {
+      "id": "1198795733fa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "published": "2026-06-10T15:00:00+00:00",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
+    },
+    {
+      "id": "6d8fc1b35a66",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Apple Watch Series 11 is back to its best price",
+      "link": "https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale",
+      "published": "2026-06-10T14:57:20+00:00",
+      "summary": "Apple’s upcoming watchOS 27 update will bring Siri AI and other exciting features to the Apple Watch Series 9 and newer Apple Watch models. If you’re contemplating an upgrade, all colorways of the GPS-enabled 42mm Apple Watch Series 11 — the latest model — are on sale for $299 ($"
+    },
+    {
+      "id": "f0ebf09ea981",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "published": "2026-06-10T14:31:30+00:00",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
+    },
+    {
+      "id": "bb5ed84a6ff2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
+      "link": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
+      "published": "2026-06-10T14:00:06+00:00",
+      "summary": "Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $179 at Walmart, presumably for a limited time. If you have an iPhone, these are the b"
+    },
+    {
+      "id": "697988a96155",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I’m relieved Siri AI isn’t trying to be a health coach",
+      "link": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
+      "published": "2026-06-10T14:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's WWDC coverage. You can exp"
+    },
+    {
+      "id": "913886601734",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Nest Cam with Floodlight is selling at its lowest price yet",
+      "link": "https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale",
+      "published": "2026-06-10T14:00:00+00:00",
+      "summary": "The Google Nest Cam with Floodlight is marked down to $179.99 ($100 off) at multiple retailers, including Amazon, Best Buy, Home Depot, and directly from Google. This weather-resistant outdoor camera captures 1080p video across a 130-degree diagonal field of view, with snappy not"
+    },
+    {
+      "id": "700708b9ab17",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "민기식 SK쉴더스 대표 취임 1년...\"보안 역할 확대할 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260610225752",
+      "published": "2026-06-10T13:57:52+00:00",
+      "summary": "[지디넷코리아]\"물리보안과 사이버보안 전반에서 축적한 경험을 바탕으로 고객이 필요로 하는 보안의 역할을 넓혀 나가겠습니다\"민기식 SK쉴더스는 대표는 10일 취임 1주년을 맞아 지난 1년간 추진해 온 주요 성과와 AI 시대에 대응하기 위한 미래 사업 방향을 공개하며 이 같이 밝혔다. 민 대표는 작년 6월말 부임했다. 앞서 30여 년간 보험과 금융업계에 몸담았다. 당시 SK쉴더스는 민 대표에 대해 \"채널 재편, 디지털 경영혁신, 조직 안정화 등에서 두각을 나타낸 전문경영인\"이라면서 \"푸르덴셜생명과 D"
+    },
+    {
+      "id": "afa8c50be754",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"투자사가 고객\"...에임인텔리전스, LG전자·네이버 D2SF서 투자 유치",
+      "link": "https://zdnet.co.kr/view/?no=20260610224349",
+      "published": "2026-06-10T13:43:49+00:00",
+      "summary": "[지디넷코리아]AI보안 전문기업 에임인텔리전스(대표 유상윤)가 삼성벤처투자 주도의 시리즈 A 라운드를 마친지 한 달 만에 LG전자, 현대차그룹 제로원벤처스, 네이버 D2SF로부터 전략적 투자를 유치했다.이번 투자는 AI 보안이 주요 산업의 공통 인프라로 부상하며 수요가 본격화된 데 따른 것으로 풀이된다. 이번 전략적 투자에는 피지컬 AI, 모빌리티, 플랫폼·커머스 등 각 분야를 대표하는 기업들이 참여했다. 이 중 일부는 투자에 그치지 않고 실제 고객사로 협력을 이어가고 있다. 에임인텔리전스는 인공"
+    },
+    {
+      "id": "60bcc83982ae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "published": "2026-06-10T13:33:09+00:00",
+      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor."
+    },
+    {
+      "id": "1c271d680806",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+      "published": "2026-06-10T13:31:37+00:00",
+      "summary": "Violent threats against lawmakers have also surged on Facebook."
+    },
+    {
+      "id": "02b1f4beb244",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
+      "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
+      "published": "2026-06-10T13:13:33+00:00",
+      "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already."
+    },
+    {
+      "id": "863b6672d356",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "published": "2026-06-10T13:07:56+00:00",
+      "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on."
+    },
+    {
+      "id": "3582d404596a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "리얼월드, 로봇 파운데이션 모델 'RLDX-1' 라이브 데모 시연",
+      "link": "https://zdnet.co.kr/view/?no=20260610191936",
+      "published": "2026-06-10T13:05:40+00:00",
+      "summary": "[지디넷코리아]리얼월드가 10일 서울 강남구에서 열린 '덱스터리티 나이트 인 서울(Dexterity Night in Seoul)'에서 자체 로봇 파운데이션 모델(RFM) 'RLDX-1' 라이브 데모를 시연했다.류중희 리얼월드 대표는 \"데모를 영상으로 보여주면 여러 차례 도전 중 성공한 모습만 보여주는 것 아니냐고 묻는다\"며 \"이 자리에서 라이브로 RLDX-1 성능을 보여주겠다\"고 말했다. 로봇 파운데이션 모델은 대규모 데이터로 사전학습해 다양한 로봇 형태와 작업에 범용적으로 적용할 수 있는 인공지"
+    },
+    {
+      "id": "538810f9aa8a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "유락, 맥OS 최적화 포렌식 솔루션 '디파스 프로 맥' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260610220058",
+      "published": "2026-06-10T13:00:58+00:00",
+      "summary": "[지디넷코리아]디지털 포렌식 전문기업 유락(대표 유봉석)이 맥 운영체제(macOS)에 최적화된 포렌식 솔루션 ‘디파스 프로 맥(DFAS Pro Mac)’을 출시했다. 윈도 중심이던 기존 포렌식 대응 범위를 맥 OS까지 넓혔다. 멀티 OS 기반 통합 포렌식 플랫폼 전략을 본격화한다.10일 회사에 따르면, '디파스 프로 맥'은 현장에서 디지털 데이터를 신속하게 선별·분석해 정확한 판단과 의사결정을 지원하는 실무형 포렌식 솔루션이다. 기존 윈도 버전에서 검증된 주요 기능과 서비스를 맥 OS 환경에서도 "
+    },
+    {
+      "id": "cb10881bd07d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "위베어소프트, SSL 자동화 솔루션 ‘서트베어' GS인증 1등급 획득",
+      "link": "https://zdnet.co.kr/view/?no=20260610214603",
+      "published": "2026-06-10T12:46:03+00:00",
+      "summary": "[지디넷코리아]API 관리 및 보안 전문기업 위베어소프트(대표 장영휘)는 자사의 SSL/TLS 인증서 자동화 관리 솔루션 ‘서트베어(CertBear)’가 소프트웨어 품질 인증인 ‘GS(Good Software) 인증 1등급’을 획득했다고 10일 밝혔다. 이번 성과로 위베어소프트는 제품의 품질 경쟁력을 공식적으로 입증하는 동시에 공공·금융 조달 시장 진입의 핵심 요건을 확보하게 됐다.GS인증은 한국화학융합시험연구원(KTR) 등 국가 공인 시험기관이 ISO/IEC 25023·25041·25051 국제"
+    },
+    {
+      "id": "0863a4888c64",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building an HTML-first site doubled our users overnight",
+      "link": "https://mohkohn.co.uk/writing/html-first/",
+      "published": "2026-06-10T12:45:47+00:00",
+      "summary": "Article URL: https://mohkohn.co.uk/writing/html-first/ Comments URL: https://news.ycombinator.com/item?id=48475483 Points: 466 # Comments: 205"
+    },
+    {
+      "id": "a79e331c2b1b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why everyone’s an energy company now",
+      "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+      "published": "2026-06-10T12:45:00+00:00",
+      "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business."
+    },
     {
       "id": "a0ab1769898e",
       "source": "AI타임스",
@@ -47,6 +278,17 @@
       "summary": "The RAMageddon crisis has got Microsoft rethinking its Xbox console hardware business. Xbox CEO Asha Sharma and Xbox strategy chief Matthew Ball have both revealed this week that Microsoft is reevaluating plans for its next-generation Project Helix console and exploring \"radicall"
     },
     {
+      "id": "f6c74caefb2b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "새 시리, 독립 앱으로…챗봇처럼 대화하고 작업을 이어간다",
+      "link": "https://zdnet.co.kr/view/?no=20260610195712",
+      "published": "2026-06-10T10:57:12+00:00",
+      "summary": "[지디넷코리아]애플이 WWDC 2026에서 시리(Siri)를 독립 앱으로 분리했다. 챗GPT·클로드(Claude)·제미나이 같은 챗봇 앱처럼, 별도 앱에서 텍스트나 음성으로 시리와 주고받을 수 있다. 'Ask Siri' 입력창에 질문을 직접 쳐 넣는 방식도 더해졌다.새 시리는 여러 요청을 순서대로 처리하고, 대화를 이어가며 작업을 다듬는다. 대화 기록과 개인 맥락을 활용해 사용자의 선호에 맞춰 반응하도록 설계됐다. 한 번의 명령으로 끝나던 음성비서에서, 맥락을 쌓아가며 일하는 도구로 바뀌었다.시리"
+    },
+    {
       "id": "2e5bf77d9834",
       "source": "AI타임스",
       "kind": "article",
@@ -56,6 +298,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211580",
       "published": "2026-06-10T10:41:28+00:00",
       "summary": "슈퍼브에이아이(대표 김현수)는 10일 서울 코엑스에서 열린 'AI&빅데이터쇼'에서 자체 산업용 비전 파운데이션 모델 '제로(ZERO)'와 이를 기반으로 한 'AI 영상 관제 솔루션'을 소개했다.이번 전시에는 AI 영상 관제 솔루션의 현장 반응이 가장 뜨거웠다. 최근 중대재해처벌법 관련 법적 리스크를 해소하고 산업 현장에서 발생 가능한 위험을 예방하고자 하는 중소기업들로부터 높은 관심을 받았다는 설명이다.특히 기존 일반 CCTV나 AI 솔루션은 오탐률이 높고 화재나 쓰러짐 등 제한적인 상황만 감지할"
+    },
+    {
+      "id": "eec9d9a6a5f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI스페라, '인포시큐리티 유럽 2026' 참여...차세대 ASM 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260610193927",
+      "published": "2026-06-10T10:39:27+00:00",
+      "summary": "[지디넷코리아]사이버 위협 인텔리전스 전문기업 AI스페라(AI SPERA, 대표 강병탁)가 지난 2일부터 4일까지(현지시간) 영국 런던에서 열린 유럽 대표 사이버보안 행사 '인포시큐리티 유럽 2026(Infosecurity Europe 2026)'에 참여, AI 기반 차세대 공격표면관리(ASM, Attack Surface Management) 전략을 발표했다.이 회사 강병탁 대표는 이번 행사 공식 컨퍼런스 프로그램의 케이스 스터디 세션 발표자로 나서 '가시성 확보에서 위협 헌팅까지: AI 기반 공"
     },
     {
       "id": "3501f7398709",
@@ -498,6 +751,17 @@
       "summary": "스페이스X가 우주 기반 AI 데이터센터 구축을 위한 초대형 생산 시설 ‘기가샛(Gigasat)’ 공장을 공개하며 우주 AI 인프라 시장에 본격적으로 뛰어들었다. 스페이스X는 2027년부터 ‘AI 위성’을 대량 생산해 궤도상 데이터센터를 구축하고, 장기적으로는 지상 데이터센터를 능가하는 규모의 우주 AI 컴퓨팅 네트워크를 조성하겠다는 구상을 제시했다.일론 머스크 CEO는 8일(현지시간) 공개된 사내 인터뷰에서 텍사스주 배스트롭에 건설 중인 1100만제곱피트(약 102만㎡) 규모의 기가샛 공장을 소개"
     },
     {
+      "id": "a5fe93200a8f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+      "link": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+      "published": "2026-06-10T05:50:07+00:00",
+      "summary": "Article URL: https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/ Comments URL: https://news.ycombinator.com/item?id=48471970 Points: 318 # Comments: 280"
+    },
+    {
       "id": "16a3c6715168",
       "source": "AI타임스",
       "kind": "article",
@@ -773,6 +1037,17 @@
       "summary": "[지디넷코리아]미국에서 처음으로 고위험 AI를 겨냥한 규제가 시행을 코앞에 두고 있다. 6월 8일 기준 22일 앞으로 다가온 6월 30일, 콜로라도주의 '인공지능 소비자 보호법(Colorado Consumer Protections for Artificial Intelligence Act)'이 발효된다. 미국 땅에서 실제 집행되는 첫 고위험 AI 규제라는 점에서 의미가 크다.적용 대상은 콜로라도 주민을 상대로 고위험 AI 시스템을 운영하는 개발자와 배포자다. 채용 결정, 의료, 금융 서비스, 교육 "
     },
     {
+      "id": "def4473d4711",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "published": "2026-06-09T22:35:57+00:00",
+      "summary": "Article URL: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/ Comments URL: https://news.ycombinator.com/item?id=48468766 Points: 244 # Comments: 121"
+    },
+    {
       "id": "59aa6a448587",
       "source": "Hacker News",
       "kind": "article",
@@ -782,6 +1057,17 @@
       "link": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
       "published": "2026-06-09T22:01:15+00:00",
       "summary": "Article URL: https://forestwalk.ai/blog/surprise-blacksmith-costs/ Comments URL: https://news.ycombinator.com/item?id=48468370 Points: 200 # Comments: 79"
+    },
+    {
+      "id": "c1ec5b3683e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Surprise, pay $1000",
+      "link": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+      "published": "2026-06-09T22:01:15+00:00",
+      "summary": "Article URL: https://forestwalk.ai/blog/surprise-blacksmith-costs/ Comments URL: https://news.ycombinator.com/item?id=48468370 Points: 305 # Comments: 147"
     },
     {
       "id": "b10c2b1c3b8c",
