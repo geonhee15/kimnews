@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-09T22:49:22.527135+00:00",
-  "count": 1872,
+  "updated_at": "2026-06-10T00:08:15.152714+00:00",
+  "count": 1878,
   "items": [
+    {
+      "id": "a4da35cdbb50",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I tried Siri AI, and so far it actually works",
+      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "published": "2026-06-09T23:43:00+00:00",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]"
+    },
+    {
+      "id": "054d7f4dce01",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+      "published": "2026-06-09T23:17:51+00:00",
+      "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX."
+    },
+    {
+      "id": "bbd14137be75",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국 첫 고위험 AI 규제 가동…콜로라도 AI법 6월 30일 시행 D-22",
+      "link": "https://zdnet.co.kr/view/?no=20260610081305",
+      "published": "2026-06-09T23:13:05+00:00",
+      "summary": "[지디넷코리아]미국에서 처음으로 고위험 AI를 겨냥한 규제가 시행을 코앞에 두고 있다. 6월 8일 기준 22일 앞으로 다가온 6월 30일, 콜로라도주의 '인공지능 소비자 보호법(Colorado Consumer Protections for Artificial Intelligence Act)'이 발효된다. 미국 땅에서 실제 집행되는 첫 고위험 AI 규제라는 점에서 의미가 크다.적용 대상은 콜로라도 주민을 상대로 고위험 AI 시스템을 운영하는 개발자와 배포자다. 채용 결정, 의료, 금융 서비스, 교육 "
+    },
     {
       "id": "b10c2b1c3b8c",
       "source": "AI타임스",
@@ -47,6 +80,17 @@
       "summary": "Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar to streaming video bundles that have combined offers for Apple TV and Peacock, but"
     },
     {
+      "id": "f4030a4bcc43",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "link": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "published": "2026-06-09T21:19:11+00:00",
+      "summary": "Article URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html Comments URL: https://news.ycombinator.com/item?id=48467896 Points: 302 # Comments: 140"
+    },
+    {
       "id": "6a5d55f67455",
       "source": "TechCrunch",
       "kind": "article",
@@ -67,6 +111,17 @@
       "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
       "published": "2026-06-09T21:00:00+00:00",
       "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capab"
+    },
+    {
+      "id": "d05ad3aa14ab",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "published": "2026-06-09T20:56:52+00:00",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well."
     },
     {
       "id": "b2fcb84f583a",
@@ -100,6 +155,17 @@
       "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
       "published": "2026-06-09T20:37:49+00:00",
       "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
+    },
+    {
+      "id": "125e8b51f41c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Commonwealth Fusion makes the physics case for its 400 MW reactor",
+      "link": "https://arstechnica.com/science/2026/06/__trashed-19/",
+      "published": "2026-06-09T20:25:56+00:00",
+      "summary": "Five peer-reviewed papers update the design and model its expected output."
     },
     {
       "id": "4a95253a4865",
