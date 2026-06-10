@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-10T21:15:06.601754+00:00",
-  "count": 1999,
+  "updated_at": "2026-06-10T22:58:40.449195+00:00",
+  "count": 2007,
   "items": [
+    {
+      "id": "d00237ff2524",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new Siri AI knows when to shut up",
+      "link": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "published": "2026-06-10T22:52:17+00:00",
+      "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more […]"
+    },
+    {
+      "id": "a6c420424acb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "published": "2026-06-10T22:31:19+00:00",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
+    },
+    {
+      "id": "e22287721a75",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "published": "2026-06-10T22:24:12+00:00",
+      "summary": "Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are "
+    },
+    {
+      "id": "bfb9db355251",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월10일] 시장은 실망했지만...전문가들이 WWDC를 다르게 평가한 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211557",
+      "published": "2026-06-10T22:00:00+00:00",
+      "summary": "애플의 올해 세계개발자컨퍼런스(WWDC)도 행사가 끝난 뒤 많은 이야깃거리를 남겼습니다.우선 주가만 보면 시장의 반응은 실망에 가깝습니다. 애플 주식은 행사 직후 이틀 연속 하락했고, 시장에서는 AI 전략이 경쟁사 대비 뒤처졌다는 평가가 이어졌습니다.그러나 기술 업계 전문가들의 시선은 조금 달랐습니다. 비즈니스 인사이더에 따르면, 상당수 전문가는 애플이 보여준 결과물에는 아쉬움을 나타냈지만, 방향 자체를 부정하지는 않았습니다. 오히려 애플이 제시한 방향성이 단순한 챗봇 개발보다 훨씬 복잡하다는 점"
+    },
+    {
+      "id": "2eb5df937e0d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox warns of a ‘reset’ as it prepares for layoffs",
+      "link": "https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma",
+      "published": "2026-06-10T21:28:53+00:00",
+      "summary": "Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, with Xbox CEO Asha Sharma hinting about \"making hard choices\" last month. Sources s"
+    },
     {
       "id": "224d1eea5e90",
       "source": "Wired",
@@ -89,6 +144,39 @@
       "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
       "published": "2026-06-10T19:29:21+00:00",
       "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster."
+    },
+    {
+      "id": "697dd608b27d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "link": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+      "published": "2026-06-10T19:06:50+00:00",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade Comments URL: https://news.ycombinator.com/item?id=48481126 Poin"
+    },
+    {
+      "id": "cdbf49682058",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "πFS",
+      "link": "https://github.com/philipl/pifs",
+      "published": "2026-06-10T18:54:54+00:00",
+      "summary": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 358 # Comments: 99"
+    },
+    {
+      "id": "010da7354c1a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic's model naming, extrapolated",
+      "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "published": "2026-06-10T18:45:20+00:00",
+      "summary": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated Comments URL: https://news.ycombinator.com/item?id=48480852 Points: 243 # Comments: 69"
     },
     {
       "id": "6d9fc30f0a96",
