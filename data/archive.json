@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-06-10T18:42:19.251516+00:00",
-  "count": 1986,
+  "updated_at": "2026-06-10T21:15:06.601754+00:00",
+  "count": 1999,
   "items": [
+    {
+      "id": "224d1eea5e90",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
+      "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+      "published": "2026-06-10T20:55:40+00:00",
+      "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday."
+    },
+    {
+      "id": "c6fdacaf6a44",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
+      "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
+      "published": "2026-06-10T20:28:58+00:00",
+      "summary": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most powerful surveillance tools."
+    },
+    {
+      "id": "9967a310ed9b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple, Google add support for Thread 1.4",
+      "link": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
+      "published": "2026-06-10T20:25:46+00:00",
+      "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the "
+    },
+    {
+      "id": "5fb2e1c14db6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Everyone wants a piece of Tesla’s battery business",
+      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "published": "2026-06-10T20:21:25+00:00",
+      "summary": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business."
+    },
+    {
+      "id": "9a74a0fa96cc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "published": "2026-06-10T20:19:31+00:00",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
+    },
+    {
+      "id": "f5e6a4a51ad8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "link": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+      "published": "2026-06-10T20:18:16+00:00",
+      "summary": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal would establish a stru"
+    },
+    {
+      "id": "c5ee2e33379c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "link": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+      "published": "2026-06-10T19:49:26+00:00",
+      "summary": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED."
+    },
+    {
+      "id": "c11e65501a85",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "published": "2026-06-10T19:29:21+00:00",
+      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster."
+    },
+    {
+      "id": "6d9fc30f0a96",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "published": "2026-06-10T18:43:34+00:00",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hand"
+    },
+    {
+      "id": "41a1841db954",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "link": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "published": "2026-06-10T18:43:12+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3acb3dc3607a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "published": "2026-06-10T17:45:11+00:00",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of vir"
+    },
     {
       "id": "48abcf25ffc2",
       "source": "The Verge",
@@ -34,6 +155,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
       "published": "2026-06-10T17:19:31+00:00",
       "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry."
+    },
+    {
+      "id": "73bdc9458384",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "link": "https://github.com/anthropics/claude-code/issues/29045",
+      "published": "2026-06-10T17:11:56+00:00",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/29045 Comments URL: https://news.ycombinator.com/item?id=48479452 Points: 261 # Comments: 170"
     },
     {
       "id": "b49d4cd0d4f8",
@@ -89,6 +221,17 @@
       "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
       "published": "2026-06-10T16:11:08+00:00",
       "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
+    },
+    {
+      "id": "f4293f46cad8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "published": "2026-06-10T16:09:37+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/ Comments URL: https://news.ycombinator.com/item?id=48478471 Points: 228 # Comments: 48"
     },
     {
       "id": "7241cf2c900f",
