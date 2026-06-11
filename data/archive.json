@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-11T19:38:06.684010+00:00",
-  "count": 2110,
+  "updated_at": "2026-06-11T21:50:42.083634+00:00",
+  "count": 2116,
   "items": [
+    {
+      "id": "29c9354ed512",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub availability report: May 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+      "published": "2026-06-11T21:30:15+00:00",
+      "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "6df7de0a0ab4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "published": "2026-06-11T21:21:04+00:00",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT."
+    },
+    {
+      "id": "13409f1bc909",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "published": "2026-06-11T20:27:25+00:00",
+      "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers."
+    },
+    {
+      "id": "7dd4eaec16de",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI&빅데이터쇼] 유니트리·애지봇·갤봇 총출동...중국 '빅3' 휴머노이드 전략은",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211632",
+      "published": "2026-06-11T20:11:29+00:00",
+      "summary": "19일까지 서울 코엑스에서 'AI&빅데이터쇼'와 동시에 열리는 '스마트테크코리아(STK) 2026' 로봇 테크쇼에서는 개인 서비스용 로봇부터 산업용 로봇, 자동화 소프트웨어까지 다양한 기술들이 각축전을 벌였다.그중 관람객의 발길을 사로잡은 곳은 중국의 ‘휴머노이드 3대 강자’ 유니트리, 애지봇, 갤봇 부스였다. 특히 유니트리와 애지봇은 전 세계 휴머노이드 생산량 80%에 육박하는 핵심 기업이다.■ 유니트리, 중국 휴머노이드 1위 기업 명성 지켜국내 파트너사 영인모빌리티와 함께 참가한 유니트리는 단"
+    },
     {
       "id": "584e78041c34",
       "source": "The Verge",
@@ -155,6 +199,17 @@
       "link": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
       "published": "2026-06-11T15:51:27+00:00",
       "summary": "Elon Musk, on the verge of becoming the world's first trillionaire, is whipping up anti-immigration tensions amid ongoing riots in Belfast, Northern Ireland. Following a knife attack in the city on Monday, Musk declared support for Restore Britain, a hard-right populist political"
+    },
+    {
+      "id": "00d0561928bf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성전자, 16~18일 글로벌전략회의...하반기 사업 점검",
+      "link": "https://zdnet.co.kr/view/?no=20260612002726",
+      "published": "2026-06-11T15:39:41+00:00",
+      "summary": "[지디넷코리아]삼성전자가 16~18일 상반기 글로벌전략회의를 열고 하반기 주요 사업을 점검한다. 11일 업계에 따르면 삼성전자는 16∼18일 스마트폰과 TV 등 완제품(DX) 부문, 18일 반도체(DS) 부문 글로벌전략회의를 개최한다. 삼성전자는 일반적으로 6월과 12월 각 부문장 주재로 주요 경영진과 해외법인장 등이 참석하는 글로벌전략회의를 개최한다. 회의에선 사업 부문·지역 현안을 공유하고 사업 목표와 영업 전략 등을 점검한다. DX부문은 노태문 DX부문장 사장 주재로 16일 모바일경험(MX)"
     },
     {
       "id": "d5dd5159bd39",
@@ -570,6 +625,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "\"미국 AI로 미국 데이터센터 반대 여론 조성\"…오픈AI, 중국계 여론 조작 계정 적발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211604",
+      "published": "2026-06-11T08:47:51+00:00",
+      "summary": "오픈AI가 중국과 연계된 것으로 추정되는 사용자들이 '챗GPT'를 활용해 미국 내 데이터센터 건설 반대 여론을 조성하고, 도널드 트럼프 행정부의 관세 정책을 비판하는 영향력 공작을 벌인 정황을 적발했다고 밝혔다.오픈AI는 10일(현지시간) 공개한 보고서에서 중국어 사용 계정들이 2025년 말부터 2026년 초 사이 챗GPT를 이용해 정치적 게시물과 만화, 댓글 등을 생성한 사실을 확인했으며, 관련 계정을 차단했다고 발표했다.하지만 활동은 소규모에 그쳤고, 실제 여론 형성에는 거의 영향을 미치지 못"
+    },
+    {
+      "id": "0808b61ce6b6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"미국 AI로 미국 데이터센터 반대 여론 조성\"…오픈AI, 중국계 계정 적발",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211604",
       "published": "2026-06-11T08:47:51+00:00",
       "summary": "오픈AI가 중국과 연계된 것으로 추정되는 사용자들이 '챗GPT'를 활용해 미국 내 데이터센터 건설 반대 여론을 조성하고, 도널드 트럼프 행정부의 관세 정책을 비판하는 영향력 공작을 벌인 정황을 적발했다고 밝혔다.오픈AI는 10일(현지시간) 공개한 보고서에서 중국어 사용 계정들이 2025년 말부터 2026년 초 사이 챗GPT를 이용해 정치적 게시물과 만화, 댓글 등을 생성한 사실을 확인했으며, 관련 계정을 차단했다고 발표했다.하지만 활동은 소규모에 그쳤고, 실제 여론 형성에는 거의 영향을 미치지 못"
