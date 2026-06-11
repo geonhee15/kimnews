@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-06-11T09:21:11.563815+00:00",
-  "count": 2056,
+  "updated_at": "2026-06-11T13:00:41.861120+00:00",
+  "count": 2081,
   "items": [
+    {
+      "id": "50e7f1360358",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps",
+      "link": "https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/",
+      "published": "2026-06-11T12:00:00+00:00",
+      "summary": "The new open-source project could serve as the basis for a future of apps with features as complex as Slack, Discord, or Google Docs—but with added protection against surveillance."
+    },
+    {
+      "id": "68cb757bcaad",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "published": "2026-06-11T11:48:55+00:00",
+      "summary": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers."
+    },
+    {
+      "id": "b00f95abfaa9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "published": "2026-06-11T11:40:43+00:00",
+      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restri"
+    },
+    {
+      "id": "65f7c02dc73a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI&빅데이터쇼] 뉴엔AI “대기업이 선택한 데이터 분석, 미국 출시 앞둬”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211630",
+      "published": "2026-06-11T11:08:54+00:00",
+      "summary": "뉴엔AI(대표 배성환)는 12일까지 열리는 ‘AI&빅데이터쇼’에 참가해 ‘퀘타아이(Quettai)’를 중심으로 AI 데이터 분석 기술을 선보였다.뉴엔AI는 20년 이상 축적해 온 데이터 분석 기술에 AI를 결합, 전 산업 분야의 인사이트 파악을 돕고 있다. 핵심 솔루션 퀘타아이는 SNS와 커뮤니티에서 매일 발생하는 비정형 구어체 데이터를 AI가 실시간 구조화해 고정밀 분석하는 플랫폼이다. 단순 키워드 추출을 넘어 단어와 개념 간의 관계성을 추론하는 온톨로지 기술을 적용해 브랜드 진단, 소비자 경험"
+    },
+    {
+      "id": "741611eae2f0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI&빅데이터쇼] 요슈아 벤지오의 MILA 연구소, AI 연구 성과 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211628",
+      "published": "2026-06-11T11:03:37+00:00",
+      "summary": "딥러닝 분야 선구자인 요슈아 벤지오가 ‘STK 2026(제15회 스마트테크 코리아)’ 부대 행사로 진행되는 ‘제8회 국제 스마트 기술 컨퍼런스(TechCon 2026)’에 인사를 전했다. 한국과의 국제적 협력을 중점적으로 언급했다.요슈아 벤지오가 이끄는 MILA 퀘벡 AI 연구소는 11일 ‘테크콘 2026’에서 AI 관련 연구 성과를 발표했다.특히, 이번 ‘STK 2026’의 주빈국으로 선정된 캐나다는 한국과의 협력을 강조했다. 세계적 석학 요슈아 벤지오가 영상으로 인사를 전하기도 했다. 벤지오 "
+    },
+    {
+      "id": "882ec5753792",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "published": "2026-06-11T11:00:45+00:00",
+      "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can car"
+    },
+    {
+      "id": "82d80af62e54",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+      "link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "published": "2026-06-11T11:00:32+00:00",
+      "summary": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements."
+    },
+    {
+      "id": "f4bd3cae30be",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 고성능 AI 페이블5, 대답을 거부한 이유",
+      "link": "https://zdnet.co.kr/view/?no=20260611095316",
+      "published": "2026-06-11T11:00:02+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. AI가 갑자기 대답을 거부했던 경험, 혹시 있으신가요? 단순한 안전장치라고 생각하기 쉬운데요, 그 뒤에 훨씬 복잡한 이야기가 숨어 있어요. 요즘 AI는 위험한 질문을 무려 98%나 차단하고 있는데, 마치 학교 앞 보안관처럼 단단히 막아서고 있는 거예요. 실제로 AI 회사들의 바이오 안전 성적표를 보면, 페이블5가 98%로 압도적인 1위를 차지했고, 2위인 경쟁사 A(82%)와는 무려 16%p나 차이가 났어요. 그리고 이 안전 규칙은 불과 2년 만에"
+    },
+    {
+      "id": "46ac21941c55",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI&빅데이터쇼] 홍보 없이 '성능'으로 증명…플리토, AI 통·번역 계약 논의 활발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211629",
+      "published": "2026-06-11T10:57:28+00:00",
+      "summary": "플리토(대표 이정수)는 12일까지 서울 코엑스에서 열리는 ‘AI&빅데이터쇼’에 참가, 현장에서 AI 통역 및 번역 솔루션에 대한 계약 논의가 활발하게 이뤄지고 있다고 밝혔다.플리토는 직접 구축한 언어 데이터를 바탕으로 AI 번역 및 통역 서비스를 선보였다. 컨퍼런스 등에서 실시간 통역, 번역을 지원하는 ‘라이브 트랜스레이션’과 일반 대중들이 앱으로 손쉽게 활용하는 ‘챗 트랜스레이션’, 그리고 광학문자인식(OCR) 바탕의 정확한 번역 및 통역을 지원하는 ‘이미지 번역 프로’ 등을 전시했다. 플리토 "
+    },
+    {
+      "id": "038a367283ba",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fiido Air Carbon Fiber Electric Bike Review: A Light, Quiet Ebike",
+      "link": "https://www.wired.com/review/fiido-air-carbon-fiber-electric-bike/",
+      "published": "2026-06-11T10:37:00+00:00",
+      "summary": "This impressively light carbon commuter makes switching to an ebike easier than ever."
+    },
+    {
+      "id": "c226f23ff8a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기고] 디지털자산 제도권 편입, 글로벌 규제는 어디로 가고 있나",
+      "link": "https://zdnet.co.kr/view/?no=20260611191011",
+      "published": "2026-06-11T10:17:07+00:00",
+      "summary": "[지디넷코리아]최근 미국과 유럽의 가상자산 규제 동향은 글로벌 정책 논의가 새로운 단계에 진입하고 있음을 보여준다. 과거 규제당국의 관심이 가상자산 위험성과 투자자 보호에 집중됐다면, 이제는 디지털자산을 어떻게 제도권 금융시장 안으로 편입할 것인지가 핵심 과제로 떠오르고 있다.미국에서는 최근 디지털자산 규제 체계 정비가 빠르게 진행되고 있다. 미국 상원에서 논의 중인 디지털자산시장 명확화법(CLARITY Act)은 디지털자산의 증권성 여부 및 증권거래위원회(SEC)와 상품선물거래위원회(CFTC) "
+    },
+    {
+      "id": "83359db19915",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[동정]공공과학기술연구노동조합 제2기 위원장에 박찬훈 건기연 지부장 당선",
+      "link": "https://zdnet.co.kr/view/?no=20260611190424",
+      "published": "2026-06-11T10:04:24+00:00",
+      "summary": "[지디넷코리아]박찬훈 한국건설기술연구원 지부장이 공공과학기술연구노동조합 제2기 위원장으로 11일 선출됐다.수석부위원장은 한수만 광주테크노파크지부장, 사무처장은 서성원 카이스트유니온지부장이 각각 박 지부장과 한 팀으로 이번 위원장 선거에 팀으로 나서 당선됐다.과기연구노조 선거관리위원회(위원장 장준혁)는 지난 9일부터 11일까지 사흘간 전자투표로 임원 선거를 진행했다. 박찬훈 후보조는 조합원 7,965명 중 5,745명이 투표(투표율 72.13%), 찬성5,340표(92.95%), 반대405표를 받았"
+    },
+    {
+      "id": "ca348e6b77ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김용범 \"AIDC 최적지로 한국 주목받아\"",
+      "link": "https://zdnet.co.kr/view/?no=20260611190042",
+      "published": "2026-06-11T10:00:42+00:00",
+      "summary": "[지디넷코리아]김용범 청와대 정책실장은 11일(현지시간) 한국이 AI 데이터센터(AIDC) 입지로는 최적화한 곳이라며 AIDC를 전략 산업으로 육성하겠다는 구상을 밝혔다.김 정책실장은 이날 이탈리아 로마에 마련된 프레스센터에서 브리핑을 통해 “기존 데이터센터와 AIDC는 규모 등 측면에서 차이가 많다. 최적지로서 한국이 주목 받고 있다”고 말했다.이어, “우리나라의 AIDC 전력이나 여러 가지 강점 때문에 단기간에 상당히 거대한 데이터센터들이 한국에 집중적으로 건설될 가능성이 있어 보인다”고 진단"
+    },
+    {
+      "id": "6ad6ebc3ef7a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Job titles of the future: Nature’s drug designer",
+      "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "published": "2026-06-11T10:00:00+00:00",
+      "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use. For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong na"
+    },
+    {
+      "id": "b58b2c821acf",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Why China is betting on big nuclear reactors",
+      "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "published": "2026-06-11T10:00:00+00:00",
+      "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-"
+    },
+    {
+      "id": "d443c5edcf1c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "전파진흥협회, AI글래스 개발자 아카데미 교육생 모집",
+      "link": "https://zdnet.co.kr/view/?no=20260611183922",
+      "published": "2026-06-11T09:39:22+00:00",
+      "summary": "[지디넷코리아]한국전파진흥협회(RAPA)는 생성형 AI와 AI 글래스를 활용한 서비스 개발 역량을 갖춘 실무형 개발자 양성을 위해 ‘AI 글래스 개발자 아카데미’ 교육생을 모집한다고 11일 밝혔다.AI 글래스 개발자 아카데미는 최근 확산되고 있는 AI 에이전트와 웨어러블 AI 디바이스 환경에 대응할 수 있는 실전형 교육 과정으로, 메타 AI 글래스를 활용해 음성 기반 AI 서비스와 다양한 산업 분야 활용 서비스를 직접 개발해 보는 프로젝트 중심 프로그램이다.교육은 오는 7월20일부터 8월31일까지"
+    },
+    {
+      "id": "1d1eed9b44ad",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "페레이라 주한 퀘벡 대표 \"한국은 아시아 관문…밀라 AI DNA 이식할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211611",
+      "published": "2026-06-11T09:32:47+00:00",
+      "summary": "캐나다는 세계 최초로 국가 AI 전략을 도입했다. 그중 퀘벡은 세계적인 AI 연구 중심지 밀라(Mila) AI 연구소를 보유, 'AI 메카'로 통한다.다미앙 페레이라 주한 퀘벡 정부 대표는 10일 '스마트테크코리아(STK) 2026'에서 퀘벡의 AI 생태계 현황과 한국과 협력 방향을 소개했다.페레이라 대표는 캐나다가 AI 강국으로 도약한 비결로 선구적인 투자를 꼽았다. \"1990년대 전 세계적으로 AI 투자가 위축됐을 때도 퀘벡 정부와 산업계, 학계는 미래를 내다보고 투자를 이어갔다\"라며 \"그 결"
+    },
+    {
+      "id": "3d30210342c4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 확산 기술 기반 LLM '디퓨전젬마' 공개…“텍스트 생성 4배 빨라”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211608",
+      "published": "2026-06-11T09:23:10+00:00",
+      "summary": "구글이 확산(Diffusion) 기술을 활용해 텍스트 생성 방식을 근본적으로 바꾼 새로운 언어모델을 공개했다. 구글은 10일(현지시간) 대다수 대형언어모델(LLM)이 사용하는 자기회귀(Autoregressive) 방식 대신, 이미지 생성 AI에서 널리 활용되는 확산 기법을 텍스트 생성에 적용한 오픈소스 언어모델 ‘디퓨전젬마(DiffusionGemma)’를 공개했다.이 모델은 아파치 2.0 라이선스로 허깅페이스를 통해 제공된다.이를 통해 GPU 환경에서 최대 4배 빠른 텍스트 생성 속도를 구현했다고"
+    },
+    {
+      "id": "a9806549ad27",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"컨베이어벨트 공장 시대 끝났다...피지컬AI가 제조 경쟁력 결정”",
+      "link": "https://zdnet.co.kr/view/?no=20260611182050",
+      "published": "2026-06-11T09:20:50+00:00",
+      "summary": "[지디넷코리아]피지컬AI가 빠르게 발전하면서 로봇이 스스로 판단해 24시간 가동하는 불 꺼진 무인공장, 즉 ‘다크팩토리’ 시대가 현실로 다가오고 있다.한국정보통신진흥협회(KAIT)는 11일 조선팰리스 서울 강남에서 국내 주요 AI 디지털 기업, ICT 유관 기관, 학계 전문가, 정부 관계자 등 60여 명이 참석한 가운데 제조 피지컬AI와 자율형 무인공장을 주제로 디지털 인사이트 포럼을 열었다.최재유 포럼 공동의장은 “글로벌 공급망 변화 속에서 반도체, 자동차, 조선, 국방 등 세계 최고 수준의 제"
+    },
+    {
+      "id": "86a908ce358a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI&빅데이터쇼] 내스타일 “레드오션 된 AI포토 체험…기술로 차별화”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211631",
+      "published": "2026-06-11T09:20:00+00:00",
+      "summary": "내스타일(대표 이용균)은 12일까지 서울 코엑스에서 열리는 ‘2026 AI&빅데이터쇼’에 참가해 ‘AI포토 체험 솔루션’을 선보였다.최근 몇 년 간 시장에는 생성 AI의 영향으로 ‘AI 프로필’ 형태의 서비스가 다수 출시됐다. 얼굴 사진에 AI 기술을 더해 새로운 사진을 생성해 내는 방식이다. 서비스가 반짝 나타났다가 사라진 경우도 부지기수다. 반면, 이러한 상황 속에서도 기술력으로 승부하며 시장을 꾸준히 확대 중인 국내 기업이 있다. 한국과학기술원(KAIST) AI 랩과 고려대학교 블록체인 연구"
+    },
+    {
+      "id": "851266699689",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"1500달러로 LLM 사전학습\"…사피언트, '트랜스포머' 넘는 새 아키텍처 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211613",
+      "published": "2026-06-11T09:01:58+00:00",
+      "summary": "10억개 규모의 매개변수와 1500달러(약 220만원) 수준의 학습 비용만으로도 훨씬 큰 공개 모델들과 경쟁할 수 있는 새로운 언어모델 아키텍처가 나왔다.싱가포르의 AI 스타트업 사피언트 인텔리전스는 10일(현지시간) 계층적 순환 모델(HRM·Hierarchical Recurrent Mode)을 적용한 언어모델 ‘HRM-텍스트(HRM-Text)’를 공개했다. 모델 크기와 학습 데이터, 컴퓨팅 자원을 무작정 늘리는 기존 트랜스포머(Transformer) 아키텍처 대신, 더 적은 데이터로도 효율적으로"
+    },
     {
       "id": "54fb28e993c2",
       "source": "조코딩",
@@ -12,6 +243,17 @@
       "link": "https://www.youtube.com/shorts/980ZKEQE52U",
       "published": "2026-06-11T09:00:25+00:00",
       "summary": ""
+    },
+    {
+      "id": "9cd826e53a76",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"의미 있는 성능 개선\"…오픈AI 'GPT-5.6' 출시 카운트다운",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211618",
+      "published": "2026-06-11T09:00:00+00:00",
+      "summary": "오픈AI가 곧 출시할 'GPT-5.6'를 두고 큰 성능 개선이 이뤄졌다고 밝혔다. 앤트로픽에 잠시 내줬던 최고 성능을 되찾는 것은 물론, '미소스'와 같은 임팩트를 줄 수 있을지 관심이 모인다.디 인포메이션에 따르면, 야쿠브 파초키 오픈AI 최고 과학자는 8일(현지시간) 직원들에게 보낸 메시지를 통해 GPT-5.6 출시를 준비 중이라고 공지했다.일정과 성능 등 자세한 내용은 알려지지 않았지만, 그는 현재 플래그십 모델인 GPT-5.5보다 \"의미 있는 개선이 이뤄졌다\"라고 말했다.또 정통한 관계자에"
     },
     {
       "id": "a2b375e37c93",
@@ -232,6 +474,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211602",
       "published": "2026-06-11T07:05:18+00:00",
       "summary": "AI 생성 영상목포문화재단이 운영하는 ‘꿈의 오케스트라 목포’가 전통예술과 오케스트라가 어우러진 기획공연을 선보였다고 11일 밝혔다.목포문화재단은 지난 7일 유달유원지 스카이워크 특설무대에서 열린 ‘2026 꿈의 향연’ 어울림 기획공연을 마무리했다. 이번 공연은 ‘목포의 내일은 어울림이다’를 주제로 진행됐다.공연은 오케스트라와 판소리, 사물놀이가 함께하는 무대로 구성됐다. 서로 다른 장르가 한 무대에서 어우러지며 세대와 예술 분야를 넘어선 화합의 메시지를 전했다.이번 공연은 한국문화예술교육진흥원의"
+    },
+    {
+      "id": "7a131a4e9007",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "published": "2026-06-11T06:42:06+00:00",
+      "summary": "Article URL: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/ Comments URL: https://news.ycombinator.com/item?id=48487029 Points: 418 # Comments: 179"
     },
     {
       "id": "fa7dd6dab0e7",
@@ -894,6 +1147,17 @@
       "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
     },
     {
+      "id": "2d0403414452",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "link": "https://huggingface.co/blog/torch-mlp-fusion",
+      "published": "2026-06-10T15:00:00+00:00",
+      "summary": ""
+    },
+    {
       "id": "6d8fc1b35a66",
       "source": "The Verge",
       "kind": "article",
@@ -1178,6 +1442,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211581",
       "published": "2026-06-10T10:39:15+00:00",
       "summary": "AI 모델 경량화 및 최적화 전문 노타(대표 채명수)는 10일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’ 현장에서 AI 모델 경량화 플랫폼 ‘넷츠프레소’와 영상 관제 솔루션 ‘NVA’를 중심으로 기업 수요가 증가하고 있다고 밝혔다.노타 관계자는 “넷츠프레소를 중심으로 기업 및 기관의 수요가 증가하고 있다”라며 “이번 전시에서도 통신사 및 휴머노이드(로보틱스) 기업 등 분야를 가리지 않고 많은 관계자들이 찾아주셨다”라고 말했다.특히, 과학기술정보통신부에서 주관하는 ‘독자 AI 파운데이션 모델 개발 프"
+    },
+    {
+      "id": "2502bf24bf60",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published": "2026-06-10T10:21:19+00:00",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
     },
     {
       "id": "55b30a9fa1b9",
