@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-11T16:59:00.697403+00:00",
-  "count": 2100,
+  "updated_at": "2026-06-11T19:38:06.684010+00:00",
+  "count": 2110,
   "items": [
+    {
+      "id": "584e78041c34",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date",
+      "link": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+      "published": "2026-06-11T17:42:29+00:00",
+      "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today. It’s down to just $269.99 ($280 off) at Wellbots when you apply promo code NEW10, which "
+    },
+    {
+      "id": "19018685e91e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "published": "2026-06-11T17:30:00+00:00",
+      "summary": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention."
+    },
+    {
+      "id": "1ad9c13d59ec",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
+      "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "published": "2026-06-11T17:26:57+00:00",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center constr"
+    },
+    {
+      "id": "ceb6481e6a21",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The bill that would let Jimmy Kimmel sue Brendan Carr is here",
+      "link": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
+      "published": "2026-06-11T17:23:02+00:00",
+      "summary": "Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whether the platform actually does it. Senate Commerce Committee Chair Ted Cruz (R-TX) "
+    },
+    {
+      "id": "abd110ceda1f",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic begged the world to stop AI… then shipped this",
+      "link": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+      "published": "2026-06-11T17:17:48+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ef0745ed390f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
+      "link": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "published": "2026-06-11T17:14:28+00:00",
+      "summary": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That’s why, in order to keep customers happy and prevent them from shopping elsewher"
+    },
+    {
+      "id": "c9aa4e7f5fd7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "published": "2026-06-11T17:00:00+00:00",
+      "summary": "Coinbase's agent can use x402 protocol to get access to data and APIs."
+    },
     {
       "id": "6253aac73328",
       "source": "TechCrunch",
@@ -23,6 +100,17 @@
       "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
       "published": "2026-06-11T16:17:50+00:00",
       "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+    },
+    {
+      "id": "9c692e90c894",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Solar generates more energy in US than coal for first time",
+      "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "published": "2026-06-11T16:10:05+00:00",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal Comments URL: https://news.ycombinator.com/item?id=48492306 Points: 269 # Comments: 118"
     },
     {
       "id": "95fb6a9c2c0c",
@@ -122,6 +210,17 @@
       "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
       "published": "2026-06-11T13:26:59+00:00",
       "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 217 # Comments: 183"
+    },
+    {
+      "id": "070cf6f2f99e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Homebrew 6.0.0",
+      "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "published": "2026-06-11T13:24:29+00:00",
+      "summary": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvemen"
     },
     {
       "id": "daefa60dcd77",
@@ -5248,6 +5347,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211492",
       "published": "2026-06-08T08:58:30+00:00",
       "summary": "네이버(대표 최수연)는 엔비디아와 기가와트(GW)급 AI 팩토리를 구축한다고 8일 밝혔다. 이는 네이버의 국내 최대 하이퍼스케일 데이터센터 '각 세종'의 4배에 달한다.양사는 각 세종 데이터센터를 거점으로 2027년 상반기까지 55메가와트(MW)를 시작으로 같은 해 100MW, 2028년 200MW까지 단계적으로 확장해 최종적으로 GW급 AI 팩토리를 구축한다는 계획이다.여기에 엔비디아의 차세대 인프라 플랫폼 'DSX'를 결합해 데이터센터 운영 효율을 극대화한다는 방침이다.모델 개발 협력도 본격화"
+    },
+    {
+      "id": "224f39bae516",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Doing nothing at work",
+      "link": "https://www.seangoedecke.com/doing-nothing-at-work/",
+      "published": "2026-06-08T08:57:11+00:00",
+      "summary": "Article URL: https://www.seangoedecke.com/doing-nothing-at-work/ Comments URL: https://news.ycombinator.com/item?id=48442880 Points: 234 # Comments: 65"
     },
     {
       "id": "b006957a1db4",
