@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-06-11T13:00:41.861120+00:00",
-  "count": 2081,
+  "updated_at": "2026-06-11T16:59:00.697403+00:00",
+  "count": 2100,
   "items": [
+    {
+      "id": "6253aac73328",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "published": "2026-06-11T16:36:20+00:00",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
+    },
+    {
+      "id": "9da31c4aafd0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+      "published": "2026-06-11T16:17:50+00:00",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+    },
+    {
+      "id": "95fb6a9c2c0c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
+      "link": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
+      "published": "2026-06-11T16:03:38+00:00",
+      "summary": "Congress has failed to pass a three-week extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), with the House voting 218-198 against reauthorizing the controversial warrantless wiretapping authority through July 2nd. After a short-term extension earlier th"
+    },
+    {
+      "id": "709471fa20c4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo introduces $30-a-month premium tier for riders who want faster pickups",
+      "link": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
+      "published": "2026-06-11T16:00:00+00:00",
+      "summary": "Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waymo customers who use the service most frequently, offering th"
+    },
+    {
+      "id": "7e4f6a7e9dc1",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+      "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+      "published": "2026-06-11T16:00:00+00:00",
+      "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "e088ef6e2d30",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk is encouraging race riots on the eve of SpaceX’s IPO",
+      "link": "https://www.theverge.com/policy/948426/elon-musk-belfast-riots-anti-immigration",
+      "published": "2026-06-11T15:51:27+00:00",
+      "summary": "Elon Musk, on the verge of becoming the world's first trillionaire, is whipping up anti-immigration tensions amid ongoing riots in Belfast, Northern Ireland. Following a knife attack in the city on Monday, Musk declared support for Restore Britain, a hard-right populist political"
+    },
+    {
+      "id": "d5dd5159bd39",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is Apple TV the new HBO?",
+      "link": "https://www.theverge.com/column/948295/apple-tv-new-hbo",
+      "published": "2026-06-11T15:30:00+00:00",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Severance. Pachinko. Silo. Ted Lasso. Over the past couple of years, a number of Apple TV shows have become hits wi"
+    },
+    {
+      "id": "febf48fc060c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "published": "2026-06-11T15:00:00+00:00",
+      "summary": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures."
+    },
+    {
+      "id": "dca3ec28d243",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "published": "2026-06-11T14:23:43+00:00",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart."
+    },
+    {
+      "id": "036f3980743a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
+      "link": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
+      "published": "2026-06-11T13:56:30+00:00",
+      "summary": "Brutal self-assessment paints a picture of a Microsoft gaming division in crisis."
+    },
+    {
+      "id": "1d745340c49c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "published": "2026-06-11T13:26:59+00:00",
+      "summary": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6 Comments URL: https://news.ycombinator.com/item?id=48490057 Points: 217 # Comments: 183"
+    },
+    {
+      "id": "daefa60dcd77",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스픽, '축구 영어' 테마 추가...\"영어로 응원하자\"",
+      "link": "https://zdnet.co.kr/view/?no=20260611221443",
+      "published": "2026-06-11T13:14:43+00:00",
+      "summary": "[지디넷코리아]\"스픽에서 골 환호부터 국가대표 선수 칭찬까지 영어로 말하자.\"스픽이지랩스코리아는 2026년 월드컵 시즌을 맞아 한국 '스픽' 학습자들이 축구 경기를 보며 느낀 감정을 영어로 표현할 수 있도록 ‘축구 특화 프리톡 테마’를 추가했다고 11일 밝혔다.이번 대회는 한국 경기가 모두 멕시코에서 열려 한국 시간 기준 12일 오전 10~11시에 시작된다. 팬들이 새벽 응원 대신 오전 시간대에 경기를 즐길 수 있게 된 가운데, 스픽은 월드컵 열기를 영어 말하기 학습으로 연결할 수 있는 다양한 학"
+    },
+    {
+      "id": "d9c84ff84d60",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "반도체용 고순도 중수소 암모니아 국산화…TRL 실증 7단계",
+      "link": "https://zdnet.co.kr/view/?no=20260611220627",
+      "published": "2026-06-11T13:06:27+00:00",
+      "summary": "[지디넷코리아]반도체용 고순도 중수소 암모니아 제조 기술이 국산화됐다. 기술성숙도(TRL)는 9단계(상용화) 중 7단계 이상인 제품 생산 실증을 완료한 상태다.한국에너지기술연구원은 윤형철 청정연료연구실 책임연구원 연구팀이 국내 최초로 고순도 중수소 암모니아(ND₃)를 생산하는 기술을 개발했다고 11일 밝혔다.중수소 암모니아(ND₃)는 반도체 제조 공정에서 고집적 DRAM 및 SONOS(실리콘–산화막–질화막–산화막–실리콘) 플래시 메모리 공정에 활용되는 고부가가치 동위원소 소재다.현재 국내에는 ND"
+    },
+    {
+      "id": "6eae9db5e5d5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Lines of code got a better publicist",
+      "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "published": "2026-06-11T12:26:42+00:00",
+      "summary": "Article URL: https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/ Comments URL: https://news.ycombinator.com/item?id=48489402 Points: 254 # Comments: 164"
+    },
+    {
+      "id": "bfe8530ebf39",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"코드생성-유통 안전성 확보해야 진정한 공급망 보안\"",
+      "link": "https://zdnet.co.kr/view/?no=20260611181635",
+      "published": "2026-06-11T12:12:21+00:00",
+      "summary": "[지디넷코리아]\"이제는 개발자라는 직책을 잘 사용하지 않습니다. '인공지능(AI) 네이티브 엔지니어'라고 부릅니다. 그만큼 AI 모델이나 에이전트를 잘 종합해서 운영해야 하며, AI를 얼마나 잘 활용하고 검증하는지에 대한 개념으로 변화하고 있습니다.\"장일수 스패로우 대표는 11일 개최한 고객 초청 행사 '스패로우 애플리케이션 인사이트(SAI) 2026' 현장에서 세션 발표자로 나서 이같이 밝혔다.이날 애플리케이션 보안 전문 기업 스패로우는 서울 용산구 나인트리 프리미어 로카우스 호텔에서 SAI 2"
+    },
+    {
+      "id": "a8928dbf5b48",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국식품연구원, 세포 이용 단맛 예측 모델 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260611211032",
+      "published": "2026-06-11T12:10:32+00:00",
+      "summary": "[지디넷코리아]세포 실험을 통해 단맛 정도를 숫자로 나타낼 수 있는 예측 모델이 개발됐다.한국식품연구원은 김민정 노화연구단 단원이 인체 단맛 수용체 반응을 이용해 감미료 단맛 강도를 정량적으로 추정할 수 있는 가능성을 알고리즘으로 만들어 확인했다고 11일 밝혔다.김민정 단원은 \"사람의 감각평가에 의존하던 단맛 평가 방식을 수용체 기반 데이터로 분석했다\"고 말했다.기존에도 단맛수용체를 활용한 세포 기반 연구는 있었지만, 대부분은 수용체 반응 여부를 파악하는데 머물렀다.연구팀은 수용체 반응과 사람이 "
+    },
     {
       "id": "50e7f1360358",
       "source": "Wired",
@@ -25,6 +201,17 @@
       "summary": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers."
     },
     {
+      "id": "4e2517ae2f18",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디캠프, 스타트업-금융권 협업 성공 사례 공유한다",
+      "link": "https://zdnet.co.kr/view/?no=20260611204723",
+      "published": "2026-06-11T11:47:23+00:00",
+      "summary": "[지디넷코리아]금융권과 스타트업 간 실질적인 협업 사례를 조명하고, 시상과 후속 사업 기회까지 연결하는 자리가 마련된다.디캠프(대표 박영훈)는 한국핀테크지원센터와 이달 24일 디캠프 마포에서 ‘스타트업 OI #금융권’ 행사를 연다고 밝혔다.이번 행사에는 9대 1의 경쟁률을 뚫고 선발된 ▲고이장례연구소 ▲테라파이 ▲티냅스 ▲왓섭 ▲웰로 5개 스타트업이 금융기관 측 협업 담당자와 함께 무대에 오른다. 각 팀은 협력 과정에서의 문제 해결 과정과 데이터·기술 기반의 시너지, 사업 성과, 향후 협력 비전을"
+    },
+    {
       "id": "b00f95abfaa9",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +221,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "published": "2026-06-11T11:40:43+00:00",
       "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restri"
+    },
+    {
+      "id": "206399b33176",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이노스페이스-카이로스페이스 \"발사·위성분리기술·마케팅 협력\"",
+      "link": "https://zdnet.co.kr/view/?no=20260611204005",
+      "published": "2026-06-11T11:40:05+00:00",
+      "summary": "[지디넷코리아]민간 발사체 기업 이노스페이스(대표 김수종)가 카이로스페이스와 발사 서비스 및 위성분리시스템 사업 협력을 위한 양해각서(MOU)를 11일 체결했다.협약은 ▲다중위성, 군집위성 등 위성 탑재 수요에 대응할 발사체-위성 인터페이스 기술 경쟁력 강화 ▲고객 맞춤형 통합 발사 서비스 역량 확대에 초점을 맞췄다.양사는 이 협약을 계기로 위성분리시스템, 발사관, 통합시험, 탑재 지원 등 발사 임무 등의 협력을 모색할 계획이다. 부품 공급망 구축을 넘어 발사체와 위성 탑재체, 위성분리시스템을 연"
     },
     {
       "id": "65f7c02dc73a",
@@ -386,6 +584,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211615",
       "published": "2026-06-11T07:55:00+00:00",
       "summary": "중국이 5년 동안 2조위안(약 450조원)을 투입해 전국 규모의 AI 데이터센터 네트워크를 구축하는 초대형 프로젝트를 추진하고 있다.9일(현지시간) 블룸버그 등에 따르면, 중국 국가발전개혁위원회(NDRC)를 비롯한 주요 정부 기관들은 전국 데이터센터를 통합 컴퓨팅 네트워크로 연결하는 방안을 추진 중이다. 운영은 국영 통신사인 차이나 모바일과 차이나 텔레콤이 맡을 것으로 알려졌다.특히 중국 정부는 데이터센터 구축에 사용되는 AI 칩과 서버 등 핵심 기술의 최소 80%를 자국 기업 제품으로 조달하는 "
+    },
+    {
+      "id": "928656afbc0a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "link": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "published": "2026-06-11T07:51:17+00:00",
+      "summary": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers Comments URL: https://news.ycombinator.com/item?id=48487540 Points: 227 # Comments: 272"
     },
     {
       "id": "f39f1cb94cbc",
