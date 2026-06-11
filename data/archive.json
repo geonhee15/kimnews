@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-11T21:50:42.083634+00:00",
-  "count": 2116,
+  "updated_at": "2026-06-11T23:18:43.859436+00:00",
+  "count": 2121,
   "items": [
+    {
+      "id": "aa0371ea7c4f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon’s Echo Hub gets a customizable new look and Ring’s AI features",
+      "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "published": "2026-06-11T22:06:32+00:00",
+      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more sma"
+    },
+    {
+      "id": "2cfd6d673b34",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월11일] '미소스'에 이어 '페이블'까지...AI 모델 이름에 숨은 의미",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211607",
+      "published": "2026-06-11T22:00:00+00:00",
+      "summary": "앤트로픽이 9일(현지시간) 출시한 '클로드 페이블 5'와 '클로드 미소스 5'는 역대 최강인 성능 못지않게 이름으로도 눈길을 끌었습니다.미소스(Mythos)는 그리스어로 신화나 서사를 뜻하고, 페이블(Fable)은 우화를 말합니다. 따라서 가장 널리 퍼진 해석은 미소스가 '원형'이라면, 페이블은 대중에게 전달하기 위해 가공한 좀더 가벼운 모델이라는 것입니다. 실제로 페이블은 미소스와 같은 모델이 기반이지만, 안전장치를 강화해 해로운 질문에 답변하지 못하도록 조치됐습니다. 이 때문에 레딧에서는 페이"
+    },
     {
       "id": "29c9354ed512",
       "source": "GitHub Blog",
@@ -20,6 +42,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "published": "2026-06-11T21:21:04+00:00",
+      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT."
+    },
+    {
+      "id": "170f96a4e319",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
       "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
       "published": "2026-06-11T21:21:04+00:00",
       "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT."
@@ -1818,6 +1851,17 @@
       "summary": "AI 모델 경량화 및 최적화 전문 노타(대표 채명수)는 10일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’ 현장에서 AI 모델 경량화 플랫폼 ‘넷츠프레소’와 영상 관제 솔루션 ‘NVA’를 중심으로 기업 수요가 증가하고 있다고 밝혔다.노타 관계자는 “넷츠프레소를 중심으로 기업 및 기관의 수요가 증가하고 있다”라며 “이번 전시에서도 통신사 및 휴머노이드(로보틱스) 기업 등 분야를 가리지 않고 많은 관계자들이 찾아주셨다”라고 말했다.특히, 과학기술정보통신부에서 주관하는 ‘독자 AI 파운데이션 모델 개발 프"
     },
     {
+      "id": "d556ab91ec84",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Emacs appearances in pop culture",
+      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "published": "2026-06-10T10:37:45+00:00",
+      "summary": "Article URL: https://ianyepan.github.io/posts/emacs-in-pop-culture/ Comments URL: https://news.ycombinator.com/item?id=48474274 Points: 215 # Comments: 48"
+    },
+    {
       "id": "2502bf24bf60",
       "source": "Google DeepMind",
       "kind": "article",
@@ -3048,6 +3092,17 @@
       "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
       "published": "2026-06-09T15:06:12+00:00",
       "summary": "While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users."
+    },
+    {
+      "id": "2ffa93fc5699",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "published": "2026-06-09T15:01:43+00:00",
+      "summary": "https://social.treehouse.systems/@AsahiLinux/116719749555082... Comments URL: https://news.ycombinator.com/item?id=48462070 Points: 200 # Comments: 92"
     },
     {
       "id": "f257dd808df7",
