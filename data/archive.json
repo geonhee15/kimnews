@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-06-12T17:15:04.508604+00:00",
-  "count": 2200,
+  "updated_at": "2026-06-12T19:24:04.272333+00:00",
+  "count": 2211,
   "items": [
+    {
+      "id": "b1cdfeeeaa4a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "published": "2026-06-12T18:36:19+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration "
+    },
+    {
+      "id": "3976519962fa",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "published": "2026-06-12T18:03:29+00:00",
+      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots."
+    },
+    {
+      "id": "1d0b693607a3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk Is the World’s First Trillionaire",
+      "link": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
+      "published": "2026-06-12T17:54:45+00:00",
+      "summary": "SpaceX’s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth."
+    },
+    {
+      "id": "2348bcb32dee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "published": "2026-06-12T17:38:11+00:00",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
+    },
+    {
+      "id": "554fc3e5cc5e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "published": "2026-06-12T17:26:08+00:00",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+    },
+    {
+      "id": "e16655d2185d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "published": "2026-06-12T17:18:49+00:00",
+      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\""
+    },
+    {
+      "id": "955781a7d4e4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China Didn't Make People Hate Data Centers",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "published": "2026-06-12T17:17:10+00:00",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that."
+    },
+    {
+      "id": "c5c1edea1135",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Siri is good now??",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "published": "2026-06-12T17:17:04+00:00",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a n"
+    },
+    {
+      "id": "3502532a97c7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "published": "2026-06-12T16:51:38+00:00",
+      "summary": "Even moderately sized data centers can have an outsized local impact."
+    },
+    {
+      "id": "f5a86befd0b0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "published": "2026-06-12T16:34:36+00:00",
+      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites."
+    },
     {
       "id": "6612eff53068",
       "source": "TechCrunch",
@@ -12,6 +122,17 @@
       "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
       "published": "2026-06-12T16:23:25+00:00",
       "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public marke"
+    },
+    {
+      "id": "6080db947e94",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "published": "2026-06-12T15:15:24+00:00",
+      "summary": "Article URL: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/ Comments URL: https://news.ycombinator.com/item?id=48505231 Points: 360 # Comments: 91"
     },
     {
       "id": "ae0ffc2633c1",
