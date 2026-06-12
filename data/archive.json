@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-12T14:07:40.857548+00:00",
-  "count": 2190,
+  "updated_at": "2026-06-12T17:15:04.508604+00:00",
+  "count": 2200,
   "items": [
+    {
+      "id": "6612eff53068",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "published": "2026-06-12T16:23:25+00:00",
+      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public marke"
+    },
+    {
+      "id": "ae0ffc2633c1",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+      "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "published": "2026-06-12T15:03:52+00:00",
+      "summary": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?"
+    },
+    {
+      "id": "797be0f984fa",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "published": "2026-06-12T14:35:48+00:00",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire. He’ll have more wealth, on paper at least, than the economies of nations li"
+    },
+    {
+      "id": "571f2445e0de",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "link": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "published": "2026-06-12T14:33:29+00:00",
+      "summary": "Article URL: https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/ Comments URL: https://news.ycombinator.com/item?id=48504697 Points: 225 # Comments: 145"
+    },
+    {
+      "id": "39f22122b91e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX IPO: Everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "published": "2026-06-12T14:08:54+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration "
+    },
     {
       "id": "5af3e0b24e40",
       "source": "The Verge",
@@ -47,6 +102,17 @@
       "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny."
     },
     {
+      "id": "beb093d140c4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "published": "2026-06-12T11:11:42+00:00",
+      "summary": "Article URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/ Comments URL: https://news.ycombinator.com/item?id=48502601 Points: 209 # Comments: 160"
+    },
+    {
       "id": "0ec7c7ac0d58",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -56,6 +122,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260612174347",
       "published": "2026-06-12T11:10:20+00:00",
       "summary": "[지디넷코리아]현대자동차 노동조합이 올해 임금 및 단체협약(임단협) 교섭 결렬을 선언하고 파업 찬반투표 절차에 돌입한다.현대차 노조는 12일 울산공장 본관에서 열린 11차 임금협상 교섭이 최종 결렬됐다고 밝혔다. 노조는 사측이 임금성 요구안을 포함한 12개 별도 요구 항목에 대한 일괄 제시를 거부하면서 협상이 더 이상 진전을 이루지 못했다고 설명했다.노조는 “현장의 정당한 요구를 바탕으로 성실하게 교섭에 임했지만 사측은 책임 있는 안 제시 없이 회피와 지연으로 일관했다”며 “교섭 결렬의 책임은 조"
+    },
+    {
+      "id": "f51ebf905687",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "published": "2026-06-12T10:42:50+00:00",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K2.7-Code Comments URL: https://news.ycombinator.com/item?id=48502347 Points: 293 # Comments: 150"
     },
     {
       "id": "88db80344065",
@@ -322,6 +399,17 @@
       "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As yo"
     },
     {
+      "id": "c108f549ecc2",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "published": "2026-06-12T06:56:10+00:00",
+      "summary": ""
+    },
+    {
       "id": "814209a192da",
       "source": "조코딩",
       "kind": "youtube",
@@ -331,6 +419,17 @@
       "link": "https://www.youtube.com/shorts/tlJeZb8Y8J4",
       "published": "2026-06-12T06:00:41+00:00",
       "summary": ""
+    },
+    {
+      "id": "4112cf9680fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AUR packages compromised with Infostealer and Rootkit",
+      "link": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "published": "2026-06-12T05:59:39+00:00",
+      "summary": "Article URL: https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577 Comments URL: https://news.ycombinator.com/item?id=48500447 Points: 209 # Comments: 130"
     },
     {
       "id": "a76858e23581",
@@ -3334,6 +3433,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260610081305",
       "published": "2026-06-09T23:13:05+00:00",
       "summary": "[지디넷코리아]미국에서 처음으로 고위험 AI를 겨냥한 규제가 시행을 코앞에 두고 있다. 6월 8일 기준 22일 앞으로 다가온 6월 30일, 콜로라도주의 '인공지능 소비자 보호법(Colorado Consumer Protections for Artificial Intelligence Act)'이 발효된다. 미국 땅에서 실제 집행되는 첫 고위험 AI 규제라는 점에서 의미가 크다.적용 대상은 콜로라도 주민을 상대로 고위험 AI 시스템을 운영하는 개발자와 배포자다. 채용 결정, 의료, 금융 서비스, 교육 "
+    },
+    {
+      "id": "97005af09faa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How we made hit video game Prince of Persia",
+      "link": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "published": "2026-06-09T22:44:28+00:00",
+      "summary": "Article URL: https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia Comments URL: https://news.ycombinator.com/item?id=48468852 Points: 229 # Comments: 88"
     },
     {
       "id": "def4473d4711",
