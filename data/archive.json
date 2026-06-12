@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-12T21:12:48.472883+00:00",
-  "count": 2217,
+  "updated_at": "2026-06-12T22:48:16.311007+00:00",
+  "count": 2227,
   "items": [
+    {
+      "id": "65c47b184c64",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How we made GitHub Copilot CLI more selective about delegation",
+      "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "published": "2026-06-12T22:26:23+00:00",
+      "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "eb2488e7de46",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글, 비면허 주파수 관리사업 철수",
+      "link": "https://zdnet.co.kr/view/?no=20260612200238",
+      "published": "2026-06-12T22:00:01+00:00",
+      "summary": "[지디넷코리아]구글이 주파수 사용 관리 사업을 종료하기로 했다. 기존 이용자를 다른 기업으로 전환시키고 1년 뒤에는 완전히 관련 사업에서 철수한다는 방침이다.피어스네트워크에 따르면 구글클라우드는 CBRS SAS 사업을 종료하기로 결정하고, 내년 6월10일까지 서비스를 제공한다고 웹사이트에 공지했다. 사업 철수와 함께 이용자 전환을 위해 다른 SAS 사업자 목록을 공유했다.시민 광대역 무선 서비스로 불리는 CBRS는 미국 연방통신위원회가 약 10년 전에 3.5GHz 대역의 주파수 일부를 민간에 개방"
+    },
+    {
+      "id": "3d0e7ec60a19",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "산단공, 하나금융·산단 경제단체와 산단 생산적 금융 확산 협약",
+      "link": "https://zdnet.co.kr/view/?no=20260613065719",
+      "published": "2026-06-12T21:57:19+00:00",
+      "summary": "[지디넷코리아]한국산업단지공단(이사장 이상훈)은 하나금융그룹(대표 함영주), 한국산업단지경영자연합회(회장 최철호), 글로벌선도기업협회(회장 이원해)와 함께 ‘산업단지 생산적 금융 협력 업무협약’을 체결했다고 밝혔다.이날 협약은 5극3특 기반 성장엔진을 육성하고, 산업단지 입주기업의 글로벌 경쟁력 강화와 혁신기업의 성장을 지원하기 위해 마련됐다. 특히 산업단지 현장과 금융기관·입주기업 경제단체 간 협력체계를 구축해 산업단지 내 생산적 금융을 확산하고, 모험자본 투자 활성화를 통해 기업 성장 기반을 "
+    },
+    {
+      "id": "0c687f98d706",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KTR, 음식물감량기협회와 협약…음식물 자원순환 생태계 조성 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260613064531",
+      "published": "2026-06-12T21:45:31+00:00",
+      "summary": "[지디넷코리아]KTR(한국화학융합시험연구원)은 음식물 감량기 제품 안전성 확보와 친환경 자원순환 생태계 조성을 돕기 위해 한국음식물감량기협회(회장 이현주)와 업무협약을 체결했다고 밝혔다.KTR은 업무협약에 따라 음식물감량기협회 회원사를 대상으로 시험평가·인증 획득을 돕고 전문 교육·세미나 등 제품 안전성과 신뢰성 확보를 위한 기업 지원 프로그램을 제공한다.KTR은 특히 수수료 할인 등 회원사 시험비용 부담 경감을 위해서도 협력하기로 했다.음식물 감량기는 음식 폐기물을 퇴비 등으로 재활용할 수 있게"
+    },
+    {
+      "id": "60dd2b114d14",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "published": "2026-06-12T21:16:25+00:00",
+      "summary": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED."
+    },
+    {
+      "id": "3028a254273a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"넷플릭스 구독자, 2031년 4억명 돌파 예상\"",
+      "link": "https://zdnet.co.kr/view/?no=20260612174808",
+      "published": "2026-06-12T21:00:03+00:00",
+      "summary": "[지디넷코리아]넷플릭스가 2031년까지 전 세계적으로 구독자 약 4억명을 확보할 것이란 전망이 나왔다. 인베스팅닷컴에 따르면, 시장조사기관 옴디아(Omdia)는 넷플릭스의 2031년 구독자 수가 약 4억명이 될 것이라고 예상했다.넷플릭스는 현재까지 약 3억 2500만명 구독자, 약 10억명 이용자를 확보했다. 회사는 지난 1분기 주주서한에서 \"10억명 이용자라는 수치가 전세계 TV 시청 점유율의 약 5%에 불과하고 초고속 인터넷 가입 가구 기준 침투율이 45% 미만인 만큼, 여전히 장기적으로 성장"
+    },
+    {
+      "id": "eb68c2e18d3b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바이낸스 스페이스X·삼전 주식 토큰 하루 거래액, 웬만한 '중견기업' 시총",
+      "link": "https://zdnet.co.kr/view/?no=20260612144618",
+      "published": "2026-06-12T21:00:02+00:00",
+      "summary": "[지디넷코리아]코스피 지수 급등과 스페이스X 기업공개(IPO) 열풍으로 국내외 증시로 자금이 이동하면서 글로벌 가상자산 거래소가 사업 영역을 주식시장으로 넓히고 있다. 반면 국내 거래소는 규제 공백에 막혀 현물 거래 서비스에 머물러 있다.13일 가상자산 업계에 따르면 바이낸스에서 거래되는 스페이스X 파생상품의 하루 거래대금은 3억 2304만 달러(약 4913억원)를 기록했다. 삼성전자와 SK하이닉스를 기초자산으로 한 파생상품 거래대금도 각각 2152만 달러(약 327억원), 1억 3052만 달러("
+    },
     {
       "id": "4c21ea83eda0",
       "source": "TechCrunch",
@@ -23,6 +100,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211685",
       "published": "2026-06-12T20:10:22+00:00",
       "summary": "샘 알트먼 오픈AI CEO의 방한이 연기됐다.오픈AI는 14~15일로 예정했던 알트먼 CEO의 방한 및 아시아 방문 일정은 개인 사정으로 미뤄졌다고 밝혔다.이번 방문은 국내 파트너십 확대를 강조하기 위한 자리였다. 알트먼 CEO는 삼성전자, 네이버, 카카오 등과의 회담을 포함한 이틀간의 일정을 소화할 예정이었다. AI 분야 협력 확대 방안이 중점적으로 논의될 것으로 예상됐다.오픈AI는 성명을 통해 \"한국은 매우 중요한 국가이자 전략적 파트너\"라며 \"국내 파트너와의 지속적인 협력은 계획대로 진행될 "
+    },
+    {
+      "id": "5e3a6f788be2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼, 다음주 방한 연기하고 프랑스 G7 정상회의 참석",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211685",
+      "published": "2026-06-12T20:10:22+00:00",
+      "summary": "샘 알트먼 오픈AI CEO의 다음 주 방한이 연기됐다. 대신 이 기간에는 프랑스에서 열리는 G7 정상회의에 참여하는 것으로 알려졌다.블룸버그 등 외신에 따르면, 오픈AI와 앤트로픽, 구글을 비롯한 AI 분야 임원들이 15~17일(현지시간) 프랑스 에비앙에서 열리는 G7 정상회의에 참석할 예정이다.프랑스 대통령실이 공개한 명단에는 알트먼 CEO와 다리오 아모데이 앤트로픽 CEO, 데미스 허사비스 구글 딥마인드 CEO 등이 포함됐다. 해당 기업들은 G7 정상회의 참석을 확인했다.오픈AI 대변인은 G7"
     },
     {
       "id": "515036ecf46f",
@@ -78,6 +166,28 @@
       "link": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
       "published": "2026-06-12T17:54:45+00:00",
       "summary": "SpaceX’s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth."
+    },
+    {
+      "id": "c8e1e47b3799",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I Am Not a Reverse Centaur",
+      "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "published": "2026-06-12T17:53:20+00:00",
+      "summary": "Article URL: https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur Comments URL: https://news.ycombinator.com/item?id=48507282 Points: 233 # Comments: 166"
+    },
+    {
+      "id": "33caf74b4bac",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "published": "2026-06-12T17:52:46+00:00",
+      "summary": "Article URL: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=48507278 Points: 233 # Comments: 205"
     },
     {
       "id": "2348bcb32dee",
