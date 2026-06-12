@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-12T19:24:04.272333+00:00",
-  "count": 2211,
+  "updated_at": "2026-06-12T21:12:48.472883+00:00",
+  "count": 2217,
   "items": [
+    {
+      "id": "4c21ea83eda0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "published": "2026-06-12T20:38:09+00:00",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+    },
+    {
+      "id": "4e2fc0daa9d0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼, 개인 사정으로 방한 연기...\"한국 협력은 계획대로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211685",
+      "published": "2026-06-12T20:10:22+00:00",
+      "summary": "샘 알트먼 오픈AI CEO의 방한이 연기됐다.오픈AI는 14~15일로 예정했던 알트먼 CEO의 방한 및 아시아 방문 일정은 개인 사정으로 미뤄졌다고 밝혔다.이번 방문은 국내 파트너십 확대를 강조하기 위한 자리였다. 알트먼 CEO는 삼성전자, 네이버, 카카오 등과의 회담을 포함한 이틀간의 일정을 소화할 예정이었다. AI 분야 협력 확대 방안이 중점적으로 논의될 것으로 예상됐다.오픈AI는 성명을 통해 \"한국은 매우 중요한 국가이자 전략적 파트너\"라며 \"국내 파트너와의 지속적인 협력은 계획대로 진행될 "
+    },
+    {
+      "id": "515036ecf46f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nothing CEO says phone prices are going to keep going up",
+      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
+      "published": "2026-06-12T20:02:48+00:00",
+      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less e"
+    },
+    {
+      "id": "9334e95055e5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+      "published": "2026-06-12T18:45:40+00:00",
+      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded."
+    },
     {
       "id": "b1cdfeeeaa4a",
       "source": "TechCrunch",
@@ -78,6 +122,17 @@
       "link": "https://www.wired.com/story/china-us-data-center-opposition/",
       "published": "2026-06-12T17:17:10+00:00",
       "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data center movement in the US to Chinese interference. Experts say it’s much more complicated than that."
+    },
+    {
+      "id": "85a156b27fc3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "published": "2026-06-12T17:17:10+00:00",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that."
     },
     {
       "id": "c5c1edea1135",
@@ -188,6 +243,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
       "published": "2026-06-12T14:03:39+00:00",
       "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical pro"
+    },
+    {
+      "id": "bdc36f0d0634",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "WASI 0.3",
+      "link": "https://bytecodealliance.org/articles/WASI-0.3",
+      "published": "2026-06-12T13:51:15+00:00",
+      "summary": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0 Comments URL: https://news.ycombinator.com/item?id=48504063 Points: 209 # Comments: 83"
     },
     {
       "id": "0c5fff2695c9",
