@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-13T18:59:14.104217+00:00",
-  "count": 2301,
+  "updated_at": "2026-06-13T20:18:56.567375+00:00",
+  "count": 2305,
   "items": [
+    {
+      "id": "e3c73ab969c2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[내면 지도 그리기] 20 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211700",
+      "published": "2026-06-13T19:42:28+00:00",
+      "summary": "내면 지도 그리기_ 우리가 바라는 행운숨은 보물은 왜 늘 같은 모양이어야 할까어릴 때 보물은 정해져 있었습니다.선생님은 늘 “이 보물을 찾으세요” 하고 모양과 크기를 알려주었지요.대개는 작게 접힌 하얀 쪽지였고, 가끔은 색종이나 번호표 같은 것이었습니다.우리는 그걸 찾으러 뛰어다녔습니다.하지만 그 놀이의 숨은 규칙은 거기 있었는지도 모릅니다.보물을 찾기 전에, 이미 보물의 모양을 먼저 배웠다는 것.이렇게 생긴 것, 이 정도 크기, 이런 색.그러니 발밑에 다른 것이 있어도 쉽게 지나쳤습니다.정답처럼"
+    },
+    {
+      "id": "292f5db5cfd3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "published": "2026-06-13T19:11:41+00:00",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+    },
     {
       "id": "0136a7a6ae63",
       "source": "TechCrunch",
@@ -78,6 +100,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
       "published": "2026-06-13T12:55:49+00:00",
       "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cu"
+    },
+    {
+      "id": "e22a86e988fe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "link": "https://github.com/tensorzero/tensorzero",
+      "published": "2026-06-13T12:10:47+00:00",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 209 # Comments: 140"
     },
     {
       "id": "e7296f1a0c0f",
@@ -177,6 +210,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211698",
       "published": "2026-06-13T09:08:58+00:00",
       "summary": "미국 정부가 국가 안보를 이유로 앤트로픽의 '페이블 5'와 '미소스 5'에 대한 외국인 접근을 전면 차단하는 행정명령을 내렸다. 앤트로픽은 12일(현지시간) \"미국 정부는 국가 안보 당국의 지침에 따라 모든 외국 국적자의 '페이블 5'와 '미소스 5' 접근을 전면 중단하는 수출 통제 지침을 발표했다\"라고 밝혔다. 이는 두 모델이 출시된 지 불과 사흘 만이다.이에 따라 해외에서 모델에 접속하는 것은 물론, 미국 내 외국 국적자의 접근까지 금지했다. 제한 대상에는 앤트로픽의 외국인 직원들도 포함된다."
+    },
+    {
+      "id": "4c8af9a28168",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "페이블 5·미소스 5 해외 서비스 중단...미국, 외국인 차단 명령",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211698",
+      "published": "2026-06-13T09:08:58+00:00",
+      "summary": "미국 정부가 국가 안보를 이유로 앤트로픽의 '페이블 5'와 '미소스 5'에 대한 외국인 접근을 전면 차단하는 조치를 취했다. 앤트로픽은 12일(현지시간) \"미국 정부는 국가 안보 당국의 지침에 따라 모든 외국 국적자의 '페이블 5'와 '미소스 5' 접근을 전면 중단하는 수출 통제 지침을 발표했다\"라고 밝혔다. 이는 두 모델이 출시된 지 불과 사흘 만이다.이에 따라 해외에서 모델에 접속하는 것은 물론, 미국 내 외국 국적자의 접근까지 금지했다. 제한 대상에는 앤트로픽의 외국인 직원들도 포함된다.앤트"
     },
     {
       "id": "c0467c4c1ff3",
