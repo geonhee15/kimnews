@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-13T16:04:58.646246+00:00",
-  "count": 2296,
+  "updated_at": "2026-06-13T17:45:21.058261+00:00",
+  "count": 2301,
   "items": [
+    {
+      "id": "0136a7a6ae63",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "published": "2026-06-13T16:47:18+00:00",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+    },
+    {
+      "id": "bb6c25c18030",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "link": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "published": "2026-06-13T16:29:47+00:00",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off int"
+    },
     {
       "id": "932a5d8b2074",
       "source": "The Verge",
@@ -12,6 +34,17 @@
       "link": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
       "published": "2026-06-13T15:00:00+00:00",
       "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've "
+    },
+    {
+      "id": "e452c233be87",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "US bans differential privacy in Census data",
+      "link": "https://desfontain.es/blog/banning-noise.html",
+      "published": "2026-06-13T13:54:56+00:00",
+      "summary": "Article URL: https://desfontain.es/blog/banning-noise.html Comments URL: https://news.ycombinator.com/item?id=48517377 Points: 357 # Comments: 153"
     },
     {
       "id": "a17c288302d7",
@@ -58,6 +91,17 @@
       "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]"
     },
     {
+      "id": "b671ae6bca5f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "published": "2026-06-13T11:55:30+00:00",
+      "summary": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500 Comments URL: https://news.ycombinator.com/item?id=48516379 Points: 201 # Comments: 119"
+    },
+    {
       "id": "89b0d31ca728",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -67,6 +111,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260613204117",
       "published": "2026-06-13T11:54:07+00:00",
       "summary": "[지디넷코리아]\"인공지능(AI)이 만들어내는 윤리적, 사회적 문제는 철학적 사고와 기술적 지식 모두를 필요로 합니다. 인문학과 기술을 결합한 개념은 더 나은 사회와 혁신적인 기술 발전을 이루고 지속 가능한 기술 발전을 이룰 수 있습니다.\"황진석 동국대 국제정보보호대학원 교수는 13일 사이버보안신기술융합학회와 인공지능산업법학회가 공동 개최한 하계 학술대회에서 이같이 강조했다. 이날 황 교수는 '윤리가 내재된 사이버보안 프레임워크(Embedded ethiCS Cyber Security Framwork"
+    },
+    {
+      "id": "9dc174f85883",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Every Frame Perfect",
+      "link": "https://tonsky.me/blog/every-frame-perfect/",
+      "published": "2026-06-13T11:40:20+00:00",
+      "summary": "Article URL: https://tonsky.me/blog/every-frame-perfect/ Comments URL: https://news.ycombinator.com/item?id=48516251 Points: 216 # Comments: 66"
     },
     {
       "id": "4ef28a18c68c",
