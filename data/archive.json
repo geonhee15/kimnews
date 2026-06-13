@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-13T12:17:13.993439+00:00",
-  "count": 2290,
+  "updated_at": "2026-06-13T14:36:37.696024+00:00",
+  "count": 2294,
   "items": [
+    {
+      "id": "337f638ab780",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My yard is dying, so I made an app for that",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "published": "2026-06-13T13:00:00+00:00",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the b"
+    },
+    {
+      "id": "9444c7bc541b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "published": "2026-06-13T12:55:49+00:00",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cu"
+    },
     {
       "id": "e7296f1a0c0f",
       "source": "The Verge",
@@ -12,6 +34,17 @@
       "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
       "published": "2026-06-13T12:00:00+00:00",
       "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]"
+    },
+    {
+      "id": "89b0d31ca728",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "황진석 교수 \"윤리, 보안·SW 설계 및 모듈에 내재화해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260613204117",
+      "published": "2026-06-13T11:54:07+00:00",
+      "summary": "[지디넷코리아]\"인공지능(AI)이 만들어내는 윤리적, 사회적 문제는 철학적 사고와 기술적 지식 모두를 필요로 합니다. 인문학과 기술을 결합한 개념은 더 나은 사회와 혁신적인 기술 발전을 이루고 지속 가능한 기술 발전을 이룰 수 있습니다.\"황진석 동국대 국제정보보호대학원 교수는 13일 사이버보안신기술융합학회와 인공지능산업법학회가 공동 개최한 하계 학술대회에서 이같이 강조했다. 이날 황 교수는 '윤리가 내재된 사이버보안 프레임워크(Embedded ethiCS Cyber Security Framwork"
     },
     {
       "id": "4ef28a18c68c",
@@ -991,6 +1024,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
       "published": "2026-06-12T15:03:52+00:00",
       "summary": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?"
+    },
+    {
+      "id": "2668a5fc34e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "published": "2026-06-12T14:48:38+00:00",
+      "summary": "Article URL: https://envs.net/~volpe/blog/posts/reduce-slop.html Comments URL: https://news.ycombinator.com/item?id=48504912 Points: 211 # Comments: 125"
     },
     {
       "id": "797be0f984fa",
