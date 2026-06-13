@@ -1,8 +1,68 @@
 {
   "issue_date": "2026-06-14",
-  "generated_at": "2026-06-13T20:18:56.550922+00:00",
-  "count": 5,
+  "generated_at": "2026-06-13T21:44:25.735657+00:00",
+  "count": 12,
   "items": [
+    {
+      "id": "bb7e3620727c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, t",
+      "content": "CEO Andy Jassy spoke with officials about security concerns shortly before the export control directive.\n\nAccording to the Wall Street Journal , the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment.\n\nShortly after Jassy shared the company’s findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of Anthropic’s researchers are foreign-born, meaning they were barred from accessing their own product.\n\nIn a statement , Anthropic disputed the government’s characterization of the issue as a “jailbreak.” It argued that many of the same vulnerabilities could be discovered using other publicly available models, including GPT 5.5. Some security researchers appear to back the company’s interpretation. Katie Moussouris, the founder and CEO of LutaSecurity posted on BlueSky that “I’ve seen the paper. It’s not a jailbreak.” Former Commerce Department official Kate Koren speculated to the WSJ that the White House’s dislike of Anthropic may have influenced the decision.\n\nAnthropic and the Trump administration have been at odds for some time over the company’s refusal to allow its AI to be used for mass surveillance of Americans or to power lethal autonomous weapons. In February, Trump instructed federal agencies to stop using Anthropic’s AI. And just hours later, Secretary of Defense Pete Hegseth designated the company a supply chain risk .\n\nThe government and the company seemed to have made amends , and the two had worked together to expand access to Mythos. However, now the two seem destined to clash again.\n\nThis is the title for the native ad",
+      "published": "2026-06-13T21:39:26+00:00"
+    },
+    {
+      "id": "eed1ad49981b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 최신 모델 해외 사용 중단은 아마존 제보가 발단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211701",
+      "summary": "앤트로픽의 최신 모델 '페이블 5'와 '미소스 5'에 대해 미국 정부가 전면적인 해외 사용 중단 조치를 내린 배경에는 아마존의 제보가 있었던 것으로 알려졌다.월스트리트저널(WSJ)은 13일(현지시간) 소통에 정통한 관계자들을 인용해 앤디 재시 아마존 CEO가 스콧 베선트 재무부 장관 등 미국 정부 고위 관계자들과 논의를 진행한 직후 이번 규제 조치가 촉발됐다고 보도했다.이에 따르면, 재시 CEO는 12일 당국자들과의 대화에서 아마존 연구원들이 일련의 조작(프롬프트)을 통해 페이블 5로부터 사이버 ",
+      "content": "앤트로픽의 최신 모델 '페이블 5'와 '미소스 5'에 대해 미국 정부가 전면적인 해외 사용 중단 조치를 내린 배경에는 아마존의 제보가 있었던 것으로 알려졌다.\n\n월스트리트저널(WSJ)은 13일(현지시간) 소통에 정통한 관계자들을 인용해 앤디 재시 아마존 CEO가 스콧 베선트 재무부 장관 등 미국 정부 고위 관계자들과 논의를 진행한 직후 이번 규제 조치가 촉발됐다고 보도했다.\n\n이에 따르면, 재시 CEO는 12일 당국자들과의 대화에서 아마존 연구원들이 일련의 조작(프롬프트)을 통해 페이블 5로부터 사이버 공격에 악용될 수 있는 금지된 정보를 유도해 냈다고 전했다. 기술 업계 경영진들은 최첨단 AI 도구의 잠재적 위험성과 관련해 정부 행정부와 정기적으로 소통해 온 것으로 알려졌다.\n\n아마존의 연구원들이 공유한 보고서에는 페이블 5는 특정 쿼리를 입력했을 때 최소 4개의 소프트웨어 프로그램에서 보안 취약점을 찾아냈다는 내용이 포함됐다. 기존의 많은 도구들도 이러한 취약점을 찾아낼 수 있지만, 페이블 5는 이 버그 정보를 바탕으로 실제 네트워크 침입에 쓰일 수 있는 '익스플로잇(Exploit)' 코드로 변환할 수 있다는 점이 지적됐다.\n\n재시 CEO의 경고 직후 베선트 장관과 션 케인크로스 국가사이버국장, 하워드 러트닉 상무부 장관 등은 긴급회의를 소집해 아마존의 주장을 검증하기 시작했다. 이들은 안보 위험에 대처하는 가장 직접적인 방법이 외국 정부나 기업, 개인의 접근을 원천 차단하는 것이라 결론 내렸으며, 도널드 트럼프 대통령 역시 혁신 저해 우려에도 불구하고 안보적 관점에서 이번 조치를 최종 승인한 것으로 전해졌다.\n\n하지만 사이버 보안업체 그레이노이즈 인텔리전스의 창립자 앤드류 모리스는 \"이는 페이블이 일반적인 상태에서 제공하지 않는 정보이기는 하나, 당장 매우 위험한 사이버 보안 정보라고 보기는 어렵다\"라고 평가했다. 그는 익스플로잇 코드가 악용될 소지는 있지만, 아마존 연구원들이 페이블의 보안 장치를 우회해 해당 기능에 실제로 접근했다는 증거는 없다고 덧붙였다.\n\n미국 행정부는 앤트로픽이 최신 모델의 보안 위험을 통제할 역량이 있는지에 대해 오랫동안 불신을 가져온 것으로 알려졌다. 그리고 12일 행정부 관리들과 다리오 아모데이 앤트로픽 CEO 간의 조치 통보를 위한 통화 과정에서 이러한 불신이 더 굳어졌다는 게 소식통들의 전언이다.\n\n이에 대해 앤트로픽은 규정 준수를 위해 페이블 5와 미소스에 대한 외국인 사용자의 접근을 즉각 차단하겠다고 밝혔다. 동시에 자사 연구원 중 상당수가 외국 출신이어서 이번 조치로 인해 최신 모델 연구에서 배제되는 차질을 빚게 됐다고 토로했다.\n\n이번 사태의 도화선이 된 아마존이 정작 앤트로픽의 핵심 투자자이자 데이터센터를 공급하는 파트너라는 점에서, 이번 사건은 정부와 빅테크 기업 간의 이해관계가 얼마나 복잡하게 얽혀 있는지를 단적으로 보여준다는 평이다.\n\n아마존 대변인은 \"선도적인 클라우드 제공업체로서 정부가 잠재적 보안 위험에 대해 자문을 구하는 것은 드문 일이 아니다\"라며 \"구체적인 논의 세부 내용은 공개하지 않는다\"라고 말했다.\n\n반면 앤트로픽은 아마존이 지적한 결함이 비교적 기본적인 수준이며 다른 모델로도 충분히 발견할 수 있는 버그라며, 이른바 '탈옥'을 의미하는 것은 아니라고 반박했다. 아마존의 연구 내용을 잘 아는 일부 외부 보안 전문가들도 이번 취약점을 대단한 안보 위협으로 보기는 어렵다는 입장이다.\n\n일부에서는 이번 제재가 트럼프 행정부가 주요 AI 기업의 지분 인수를 논의하는 상황에서 기업 통제력 강화 움직임을 의미한다고 해석했다. 싱크 탱크 R스트리트 연구소의 아담 티어러 선임 연구원은 \"미국 내에서 AI의 정치화와 첨단 컴퓨팅 통제권의 중앙집권화가 급격히 심화하고 있음을 보여주는 사례\"라고 평했다.\n\n이번 해외 사용 금지 조치는 올가을 기업공개(IPO)를 앞둔 앤트로픽에 상당한 타격이 될 전망이다. 글로벌 기업 고객들이 서비스가 중단된 앤트로픽 대신, 트럼프 행정부와 비교적 우호적인 관계를 유지하며 사이버 보안 모델을 개발 중인 오픈AI 등 경쟁사로 이탈할 가능성이 제기되기 때문이다.\n\n상무부 관료 출신인 케이트 코렌 전략국제연구센터(CSIS) 연구원은 안보 우려는 이해하지만, 백악관이 평소 앤트로픽에 가졌던 부정적 기류가 이번 전격적인 결정에 영향을 미쳤을 수 있다고 분석했다. 반면 백악관 고위 관계자는 이번 조치가 오직 모델의 안전성 문제 때문에 내려진 결정이며, 국방부 등은 깊이 관여하지 않았다고 밝혔다.",
+      "published": "2026-06-13T21:24:10+00:00"
+    },
+    {
+      "id": "c34949e65df2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "석창규 회장, 7년 만에 비즈플레이 경영 복귀...\"B2E·AI로 대기업 집중 공략\"",
+      "link": "https://zdnet.co.kr/view/?no=20260613204718",
+      "summary": "[지디넷코리아]비즈플레이가 석창규 웹케시그룹 회장 중심 경영 체제로 전환하며 임직원 대상 서비스(B2E) 사업 확대에 본격 나선다.비즈플레이는 석 회장이 6월 1일자로 대표를 맡고 경영 전면에 복귀했다고 14일 밝혔다. 이번 체제 전환을 계기로 기존 경비지출관리 사업과 함께 출장, 복지, 식대, 총무 등 B2E 영역을 한층 강화할 방침이다.석 회장은 비즈플레이 초기 성장을 이끈 인물이다. 이번 경영 복귀는 그가 직접 키워온 B2E 사업을 다시 핵심 성장 축으로 세우겠다는 의지가 반영된 것으로 풀이",
+      "content": "전 서비스에 AI 전면 내재화…'종합 B2E 플랫폼'으로 사업 영토 확장\n\n컴퓨팅 입력 :2026/06/14 06:00\n\n비즈플레이가 석창규 웹케시그룹 회장 중심 경영 체제로 전환하며 임직원 대상 서비스(B2E) 사업 확대에 본격 나선다.\n\n비즈플레이는 석 회장이 6월 1일자로 대표를 맡고 경영 전면에 복귀했다고 14일 밝혔다. 이번 체제 전환을 계기로 기존 경비지출관리 사업과 함께 출장, 복지, 식대, 총무 등 B2E 영역을 한층 강화할 방침이다.\n\n석 회장은 비즈플레이 초기 성장을 이끈 인물이다. 이번 경영 복귀는 그가 직접 키워온 B2E 사업을 다시 핵심 성장 축으로 세우겠다는 의지가 반영된 것으로 풀이된다.\n\n매출 10조 초대형 기업 정조준…통합 B2E 생태계 구축\n\n비즈플레이가 내세운 새 전략의 핵심은 '메가 엔터프라이즈' 시장 선점이다. 매출 10조원, 임직원 1만명 이상 규모 대기업을 최우선 타깃으로 삼고 사업 역량을 집중한다.\n\n단순한 솔루션 제공을 넘어 경비처리, 출장, 복지, 식대, 총무 등 5대 B2E 영역의 외부 서비스를 기업 내부 전사적자원관리(ERP) 시스템과 연동하는 '커넥터' 기반 온프레미스 사업을 전개한다. 이를 통해 기업 업무 전반의 디지털 자동화를 지원하는 거대한 '연결 허브'로 자리매김하겠다는 구상이다.\n\n이는 비즈플레이의 브랜드 정체성을 확장하려는 석 회장의 의지와도 맞닿아 있다. 시장 내 확고한 1위인 경비처리 전문 기업이라는 기존 이미지를 뛰어넘어 임직원 업무와 생활 전반을 아우르는 '종합 B2E 서비스 기업'으로 패러다임을 전환하겠다는 전략이다.\n\n이를 위해 비즈플레이는 2022년 B2E 혁신 모델을 선보인 이후 최근 3년간 300억원 규모 연구개발(R&D) 투자를 단행해 서비스를 고도화했다. 그 결과 현대자동차, 포스코DX, 세아창원특수강 등 주요 대기업과 공공기관을 핵심 고객사로 확보하는 성과를 거뒀다.\n\n'AI 에이전트' 전면 도입…기업 운영 고도화\n\n석 회장의 복귀와 함께 AI 내재화 전략도 한층 힘을 받을 전망이다. 석 회장은 그룹 안팎에서 AI 혁신가로 불릴 만큼 AI 활용과 업무 방식 전환에 강한 관심을 보여온 것으로 알려졌다. 비즈플레이 역시 이러한 기조에 맞춰 출장관리, 식권, 복지 등 주요 서비스 전반에 AI를 접목해 기업 운영 자동화를 고도화할 계획이다.\n\n대표 서비스인 'bzp출장관리 서비스'는 항공, 숙박, 열차, 렌터카 등 44개 제휴 인프라를 연계해 신청부터 정산까지 한 번에 처리할 수 있도록 설계됐다.\n\n여기에 AI가 기업 규정에 맞는 최적 노선과 최저가 항공편을 추천하고 이상 사용 패턴까지 감지해 비용 관리 효율을 높이는 구조다. 회사는 실제 공공 부문 도입 사례에서 예산 절감과 종이 영수증 감축 효과도 기대하고 있다.\n\n식대·복지 아우르는 종합 B2E 확장…ESG 경영 실현 박차\n\n식대와 복지 영역에서도 플랫폼 경쟁력 강화가 이어진다. 'bzp 비플식권 서비스'는 전국 80만개 제로페이 가맹점과 배달앱 요기요를 연계해 임직원이 원하는 곳에서 모바일로 식대를 사용할 수 있도록 했다.\n\n'bzp 복지 서비스'는 복지포인트를 사내 복지몰뿐 아니라 전국 200만개 제로페이 가맹점에서 사용할 수 있게 지원하며 기업이 업종별 사용처를 직접 제한할 수 있는 기능도 제공한다.\n\n비즈플레이는 이러한 서비스 확장을 통해 기업 운영 효율성과 임직원 편의성을 동시에 높이고, 궁극적으로는 ESG 경영 실현에도 기여하겠다는 목표다. 특히 기업 자금 흐름을 자동화하는 '이어카운팅(eACCOUNTING)' 플랫폼을 기반으로 경비지출, 정산, 회계 연동까지 원스톱으로 처리하는 구조를 강화할 방침이다.\n\n석창규 비즈플레이 대표는 \"비즈플레이는 3만2000여개 기업 경비지출과 임직원 대상 서비스를 선도하는 국내 1위 기업\"이라며 \"경비지출관리와 임직원 대상 서비스 두 축을 중심으로 본격적인 성장에 속도를 내겠다\"고 말했다.\n\n이어 \"출장, 복지, 식권 전반에 AI를 깊숙이 내재화해 기업과 임직원 모두의 일하는 방식을 바꾸는 글로벌 플랫폼으로 비즈플레이를 키워 나가겠다\"고 밝혔다.",
+      "published": "2026-06-13T21:00:03+00:00"
+    },
+    {
+      "id": "7aa3385ef1ae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "content": "Professional services firm KPMG has pulled a report titled, “Redefining excellence in the age of agentic AI,” after numerous organizations said the report’s claims about their AI usage were untrue.\n\nResearch group GPTZero identified a number of inaccuracies in the report, which was published in October 2025. GPTZero told the FT that the inaccuracies stemmed from AI hallucinations . In other words, the professional services firm appears to have used AI to help write a report about AI.\n\nUBS, the UK’s National Health Service, Swiss Federal Railways, and Transport for London all told the FT that the report’s claims about their AI usage were either untrue or misleading. A KPMG spokesperson said the firm removed the report from its websites while conducting its own investigation.\n\n“We expect all our people to follow our guidelines on the responsible use of AI, including human oversight to validate content and verify independent sources,” the spokesperson said.\n\nLast month, EY withdrew a report on loyalty rewards programs that appeared to include fake footnotes and AI hallucinations.\n\nGet an inside look at what it takes to scale and succeed from leaders at Mach Industries, Founders Fund, and Shinkei Systems. Through candid fireside chats and high-impact networking, you’ll walk away with valuable insights and new connections.",
+      "published": "2026-06-13T20:42:31+00:00"
+    },
+    {
+      "id": "fc7f6f7e9960",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MS, 엑스박스 사업부 합작·분사 시나리오 검토하나",
+      "link": "https://zdnet.co.kr/view/?no=20260613100325",
+      "summary": "[지디넷코리아]마이크로소프트가 엑스박스 사업부를 분사하거나 향후 매각이 쉬운 구조로 재편하고, 외부 파트너와 합작 형태로 전환하는 방안까지 검토하고 있다는 관측이 나왔다.미국 IT매체 Wccf테크는 12일(현지시간) 마이크로소프트가 게임 사업 전반 개편의 일환으로 엑스박스 조직 구조 변경을 들여다보고 있다고 전했다. 보도에 따르면 검토 대상에는 엑스박스를 별도 법인으로 떼어내는 방안, 링크드인이나 깃허브처럼 마이크로소프트 100% 자회사로 두는 방안, 외부와의 합작 형태를 만드는 방안이 포함됐다.",
+      "content": "게임 사업 전반 개편 일환으로 엑스박스 조직 구조 변경 검토\n\n게임 입력 :2026/06/14 05:00\n\n마이크로소프트가 엑스박스 사업부를 분사하거나 향후 매각이 쉬운 구조로 재편하고, 외부 파트너와 합작 형태로 전환하는 방안까지 검토하고 있다는 관측이 나왔다.\n\n미국 IT매체 Wccf테크는 12일(현지시간) 마이크로소프트가 게임 사업 전반 개편의 일환으로 엑스박스 조직 구조 변경을 들여다보고 있다고 전했다.\n\n보도에 따르면 검토 대상에는 엑스박스를 별도 법인으로 떼어내는 방안, 링크드인이나 깃허브처럼 마이크로소프트 100% 자회사로 두는 방안, 외부와의 합작 형태를 만드는 방안이 포함됐다.\n\n다만 이 같은 시나리오가 곧바로 실행 단계에 들어간 것은 아니라는 게 보도 내용이다. Wccf테크는 당장 결정이 임박한 것은 아니며, 여러 선택지가 테이블 위에 올라와 있는 상태라고 전했다.\n\n보도에 따르면 아샤 샤르마 엑스박스 최고경영자 취임 이후 100일 동안 여러 변화가 이어졌고, 최근에는 엑스박스 사업부의 3% 수준 마진을 개선하기 위한 대대적 리셋 필요성이 제기됐다. 이 과정에서 이달 말 추가 감원이 진행될 수 있다는 전망도 내놨다.\n\n게임 투자 방향도 바뀌고 있다고 Wccf테크는 전했다. Wccf테크에 따르면 사티아 나델라 마이크로소프트 최고경영자와 에이미 후드 최고재무책임자는 7월 시작 회계연도부터 ‘헤일로’, ‘폴아웃’, ‘엘더스크롤’ 같은 대형 프랜차이즈에 대한 투자 확대 계획에 서명했다.",
+      "published": "2026-06-13T20:00:01+00:00"
+    },
     {
       "id": "e3c73ab969c2",
       "source": "AI타임스",
@@ -50,6 +110,30 @@
       "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off int",
       "content": "Nothing is imminent, but nothing is off the table.\n\nMicrosoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It’s apparently also considering dramatically restructuring its relationship with Xbox, and hasn’t ruled out spinning it off into a separate company.\n\nA new report from The Information suggests that Microsoft has considered some dramatic measures to make its Xbox unit more sustainable. That includes turning it into a wholly owned subsidiary, a joint venture, or even spinning it off entirely, with the possibility of selling the business. The report doesn’t suggest anything is imminent, but it does seem that new Xbox CEO Asha Sharma and Microsoft CEO Satya Nadella haven’t taken anything off the table when it comes to the future of Xbox.\n\nSharma has won approval to invest heavily in tentpole titles like Halo and Fallout. The former hasn’t seen a new release since 2021, and the last mainline Fallout title was Fallout 4 in 2015. She has also said that major upcoming releases Gears of War: E-Day and Clockwork Revolution would be Xbox exclusive . Though this investment in its most popular franchises is likely to come at the expense of smaller studios and games that have failed to live up to sales expectations.\n\nThis is the title for the native ad",
       "published": "2026-06-13T16:29:47+00:00"
+    },
+    {
+      "id": "dc3f04806a8b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제네시스, 한국 브랜드 최초 르망 24시간 하이퍼카 클래스 출전",
+      "link": "https://zdnet.co.kr/view/?no=20260612222219",
+      "summary": "[지디넷코리아]제네시스가 세계 최고 권위 내구 레이스인 ‘르망 24시간’ 하이퍼카 클래스에 처음 출전하며 글로벌 모터스포츠 무대에 본격 도전한다.제네시스는 프랑스 르망 라 사르트 서킷에서 13일(현지시간)부터 14일까지 열리는 ‘르망 24시간’ 하이퍼카 클래스에 참가한다고 밝혔다. 제네시스 전담 모터스포츠팀인 제네시스 마그마 레이싱은 이번 대회를 통해 한국 브랜드 최초로 르망 하이퍼카 클래스에 도전한다.르망 24시간은 국제자동차연맹(FIA)이 주관하는 월드 인듀어런스 챔피언십(WEC) 대표 경기로",
+      "content": "마그마 GT3 콘셉트 세계 최초 공개…유럽 시장 공략에도 속도\n\n카테크 입력 :2026/06/14 00:55\n\n제네시스가 세계 최고 권위 내구 레이스인 ‘르망 24시간’ 하이퍼카 클래스에 처음 출전하며 글로벌 모터스포츠 무대에 본격 도전한다.\n\n제네시스는 프랑스 르망 라 사르트 서킷에서 13일(현지시간)부터 14일까지 열리는 ‘르망 24시간’ 하이퍼카 클래스에 참가한다고 밝혔다. 제네시스 전담 모터스포츠팀인 제네시스 마그마 레이싱은 이번 대회를 통해 한국 브랜드 최초로 르망 하이퍼카 클래스에 도전한다.\n\n르망 24시간은 국제자동차연맹(FIA)이 주관하는 월드 인듀어런스 챔피언십(WEC) 대표 경기로, 1923년 시작돼 100년이 넘는 역사를 지닌 세계 최고 권위의 내구 레이스다. 약 14㎞ 길이 서킷을 24시간 동안 주행해 가장 긴 거리를 달린 팀이 우승한다.\n\n제네시스는 올해 처음 WEC에 참가해 데뷔 시즌을 치르고 있다. 지난달 벨기에에서 열린 스파-프랑코샹 6시간 레이스에서 포인트를 획득하며 경쟁력을 입증한 데 이어 이번 르망 24시간에서는 완주를 최우선 목표로 삼고 의미 있는 성과를 노린다는 계획이다.\n\n호세 무뇨스 현대자동차 대표이사 사장은 “르망 24시간은 극한의 환경 속에서 퍼포먼스를 검증할 수 있는 중요한 무대”라며 “레이스를 통해 얻은 경험은 향후 마그마 퍼포먼스 차량 개발과 사업 운영 전반에 반영될 것”이라고 말했다.\n\n제네시스는 르망 24시간 데뷔를 앞두고 하이퍼카 ‘GMR-001’에 적용할 스페셜 리버리도 공개했다.\n\n이번 리버리는 지난해 공개된 GMR-001 하이퍼카 디자인을 기반으로 제작됐다. 차량 전면의 마그마 오렌지에서 후면의 짙은 레드로 이어지는 그라데이션을 적용해 고성능 레이스카의 속도감과 에너지를 시각적으로 표현했다. 차량 측면에는 한글 ‘마그마’ 레터링을 적용했다.\n\n출전 차량은 17번과 19번 두 대다. 17번 차량은 오렌지와 블랙 조합을 중심으로 디자인됐고, 19번 차량은 화이트 로고와 추가 하이라이트를 적용해 식별성을 높였다.\n\n제네시스는 르망 현장에서 ‘마그마 GT 콘셉트’의 실내 디자인과 ‘마그마 GT3 콘셉트’도 공개했다.\n\n마그마 GT 콘셉트는 2인승 럭셔리 그랜드 투어러로, 드라이버 중심 설계와 아날로그 감성을 강조한 실내 구성이 특징이다. 디지털 정보는 최소화하면서 직관적인 조작 환경을 구현했다.\n\n세계 최초로 공개된 마그마 GT3 콘셉트는 GT3 규정을 반영해 개발한 레이스 전용 콘셉트 모델이다. 공력 성능과 냉각 효율, 열 관리, 내구성 강화에 초점을 맞춰 설계됐다.\n\n루크 동커볼케 현대차그룹 글로벌디자인본부장 겸 최고크리에이티브책임자(CCO)는 “마그마 GT 콘셉트와 마그마 GT3 콘셉트는 제네시스가 지향하는 퍼포먼스 방향성을 각각 도로와 레이스 환경에서 보여주는 모델”이라며 “제네시스 퍼포먼스 브랜드의 확장 가능성을 보여준다”고 말했다.\n\n제네시스는 르망 시내에서 열린 드라이버 퍼레이드에서 ‘제네시스 X 그란 컨버터블 콘셉트’를 기반으로 발전시킨 콘셉트 모델 2종도 선보였다.\n\n‘리퀴드 티타늄’ 모델은 마그마 레이싱에서 영감을 받은 역동성을 강조했고, ‘미드나잇 틸’ 모델은 차분하고 고급스러운 감성을 담았다. 이번 퍼레이드에는 제네시스 브랜드 앰버서더이자 레이싱 어드바이저인 재키 익스와 리저브 드라이버 제이미 채드윅이 직접 차량을 운전했다.\n\n한편 제네시스는 모터스포츠 활동과 함께 유럽 시장 공략에도 속도를 내고 있다. 현재 영국, 독일, 프랑스, 이탈리아 등 7개국에서 판매 중이며, 내년에는 폴란드·오스트리아·포르투갈·덴마크에 진출해 유럽 11개국으로 판매 거점을 확대할 계획이다.",
+      "published": "2026-06-13T15:55:18+00:00"
+    },
+    {
+      "id": "caefc4e324a2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'TBH: 태스크바 히어로', 동접 50만 코앞…식지 않는 열기",
+      "link": "https://zdnet.co.kr/view/?no=20260613124822",
+      "summary": "[지디넷코리아]국산 인디 게임 'TBH: 태스크바 히어로(이하 TBH)'가 글로벌 PC 플랫폼 스팀에서 연일 신기록을 갈아치우며 주목받고 있다.14일 통계 사이트 스팀데이터베이스에 따르면, 지난달 27일 출시된 'TBH'는 약 2주 만에 최고 동시 접속자 수(이하 동접자) 50만명 돌파를 코앞에 두고 있다.이는 이례적인 흥행으로 평가된다. 출시 3일 만인 5월 30일 동접자 10만명을 돌파한 데 이어, 6월 5일에는 30만명을 넘어섰다. 현재 최고 동접자는 49만 8437명을 기록했다. 이는 스팀",
+      "content": "출시 2주 만에 최고 동접 49만명 돌파…스팀 역대 23위 기록\n\n게임 입력 :2026/06/14 00:54\n\n국산 인디 게임 'TBH: 태스크바 히어로(이하 TBH)'가 글로벌 PC 플랫폼 스팀에서 연일 신기록을 갈아치우며 주목받고 있다.\n\n14일 통계 사이트 스팀데이터베이스에 따르면, 지난달 27일 출시된 'TBH'는 약 2주 만에 최고 동시 접속자 수(이하 동접자) 50만명 돌파를 코앞에 두고 있다.\n\n이는 이례적인 흥행으로 평가된다. 출시 3일 만인 5월 30일 동접자 10만명을 돌파한 데 이어, 6월 5일에는 30만명을 넘어섰다. 현재 최고 동접자는 49만 8437명을 기록했다. 이는 스팀 역대 최다 동시 접속자 수 23위에 해당하는 성적으로, 글로벌 흥행작인 '발하임(50만 2387명)'과 '콜 오브 듀티(49만 1670명)' 사이에서 어깨를 나란히 하고 있다.\n\nTBH는 PC 화면 하단에 있는 작업 표시줄에 띄워두고 즐길 수 있는 초소형 방치형 RPG다. 도트 아트 캐릭터가 자동으로 성장하는 편리함을 갖췄다. 500종 이상의 아이템과 10단계의 전리품 등급, 스킬 조합을 통해 핵 앤 슬래시 본연의 깊이 있는 빌드 전략도 즐길 수 있다.\n\n업계에서는 인기 요인을 두 가지로 분석한다. 먼저 스팀 마켓을 통한 유저 간 자유 거래 시스템이 초반 흥행을 이끌었다. 게임을 하며 얻은 아이템을 사고팔 수 있어 최고 동접자 91만 명을 기록했던 '바나나'처럼, TBH 역시 거래 재미를 앞세워 전 세계 유저들을 빠르게 불러모았다.\n\n또 다른 흥행 요인은 게임 자체의 완성도다. '작업 표시줄에서 즐기는 방치형 RPG'라는 독창적인 콘셉트와 탄탄한 콘텐츠가 뒷받침되었기에 이용자들을 붙잡아둘 수 있었다는 평가다.\n\n이를 증명하듯 TBH는 지난 8일, 급격한 이용자 증가로 인한 서버 과부하와 버그 문제로 스팀 마켓 기능을 일시 중단했다. 그럼에도 불구하고 TBH는 이용자 수가 줄어들지 않고 오히려 증가했다. 13일 현재까지도 45만명대의 동시 접속자 수를 견고하게 유지하고 있다.\n\nTBH 개발팀은 서비스 안정화를 위해 대대적인 체질 개선을 준비 중이다. 지난 11일 공지에 따르면, 오는 15일 오후 4시(한국 시간) 핵심 데이터를 자체 서버에서 처리하는 마이그레이션 업데이트를 진행한다. 이를 통해 서버 과부하를 근본적으로 해결하고 비정상 생성 아이템 삭제, 핵 유저 제재 강화, 주요 버그 수정 등을 함께 처리할 계획이다.\n\n일시 중단된 스팀 마켓은 업데이트 이후 서버가 안정되는 대로 재개된다. 다만 무분별한 등록 부작용을 막기 위해 1인당 등록 슬롯을 4개로 제한하고, 슬롯당 8시간의 등록 대기 시간을 두는 새로운 규칙이 적용될 예정이다.",
+      "published": "2026-06-13T15:54:25+00:00"
     },
     {
       "id": "932a5d8b2074",

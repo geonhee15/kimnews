@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-13T20:18:56.567375+00:00",
-  "count": 2305,
+  "updated_at": "2026-06-13T21:44:25.751310+00:00",
+  "count": 2315,
   "items": [
+    {
+      "id": "bb7e3620727c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "published": "2026-06-13T21:39:26+00:00",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, t"
+    },
+    {
+      "id": "eed1ad49981b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 최신 모델 해외 사용 중단은 아마존 제보가 발단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211701",
+      "published": "2026-06-13T21:24:10+00:00",
+      "summary": "앤트로픽의 최신 모델 '페이블 5'와 '미소스 5'에 대해 미국 정부가 전면적인 해외 사용 중단 조치를 내린 배경에는 아마존의 제보가 있었던 것으로 알려졌다.월스트리트저널(WSJ)은 13일(현지시간) 소통에 정통한 관계자들을 인용해 앤디 재시 아마존 CEO가 스콧 베선트 재무부 장관 등 미국 정부 고위 관계자들과 논의를 진행한 직후 이번 규제 조치가 촉발됐다고 보도했다.이에 따르면, 재시 CEO는 12일 당국자들과의 대화에서 아마존 연구원들이 일련의 조작(프롬프트)을 통해 페이블 5로부터 사이버 "
+    },
+    {
+      "id": "c34949e65df2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "석창규 회장, 7년 만에 비즈플레이 경영 복귀...\"B2E·AI로 대기업 집중 공략\"",
+      "link": "https://zdnet.co.kr/view/?no=20260613204718",
+      "published": "2026-06-13T21:00:03+00:00",
+      "summary": "[지디넷코리아]비즈플레이가 석창규 웹케시그룹 회장 중심 경영 체제로 전환하며 임직원 대상 서비스(B2E) 사업 확대에 본격 나선다.비즈플레이는 석 회장이 6월 1일자로 대표를 맡고 경영 전면에 복귀했다고 14일 밝혔다. 이번 체제 전환을 계기로 기존 경비지출관리 사업과 함께 출장, 복지, 식대, 총무 등 B2E 영역을 한층 강화할 방침이다.석 회장은 비즈플레이 초기 성장을 이끈 인물이다. 이번 경영 복귀는 그가 직접 키워온 B2E 사업을 다시 핵심 성장 축으로 세우겠다는 의지가 반영된 것으로 풀이"
+    },
+    {
+      "id": "7aa3385ef1ae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "published": "2026-06-13T20:42:31+00:00",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI."
+    },
+    {
+      "id": "fc7f6f7e9960",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MS, 엑스박스 사업부 합작·분사 시나리오 검토하나",
+      "link": "https://zdnet.co.kr/view/?no=20260613100325",
+      "published": "2026-06-13T20:00:01+00:00",
+      "summary": "[지디넷코리아]마이크로소프트가 엑스박스 사업부를 분사하거나 향후 매각이 쉬운 구조로 재편하고, 외부 파트너와 합작 형태로 전환하는 방안까지 검토하고 있다는 관측이 나왔다.미국 IT매체 Wccf테크는 12일(현지시간) 마이크로소프트가 게임 사업 전반 개편의 일환으로 엑스박스 조직 구조 변경을 들여다보고 있다고 전했다. 보도에 따르면 검토 대상에는 엑스박스를 별도 법인으로 떼어내는 방안, 링크드인이나 깃허브처럼 마이크로소프트 100% 자회사로 두는 방안, 외부와의 합작 형태를 만드는 방안이 포함됐다."
+    },
     {
       "id": "e3c73ab969c2",
       "source": "AI타임스",
@@ -47,6 +102,28 @@
       "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off int"
     },
     {
+      "id": "dc3f04806a8b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제네시스, 한국 브랜드 최초 르망 24시간 하이퍼카 클래스 출전",
+      "link": "https://zdnet.co.kr/view/?no=20260612222219",
+      "published": "2026-06-13T15:55:18+00:00",
+      "summary": "[지디넷코리아]제네시스가 세계 최고 권위 내구 레이스인 ‘르망 24시간’ 하이퍼카 클래스에 처음 출전하며 글로벌 모터스포츠 무대에 본격 도전한다.제네시스는 프랑스 르망 라 사르트 서킷에서 13일(현지시간)부터 14일까지 열리는 ‘르망 24시간’ 하이퍼카 클래스에 참가한다고 밝혔다. 제네시스 전담 모터스포츠팀인 제네시스 마그마 레이싱은 이번 대회를 통해 한국 브랜드 최초로 르망 하이퍼카 클래스에 도전한다.르망 24시간은 국제자동차연맹(FIA)이 주관하는 월드 인듀어런스 챔피언십(WEC) 대표 경기로"
+    },
+    {
+      "id": "caefc4e324a2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'TBH: 태스크바 히어로', 동접 50만 코앞…식지 않는 열기",
+      "link": "https://zdnet.co.kr/view/?no=20260613124822",
+      "published": "2026-06-13T15:54:25+00:00",
+      "summary": "[지디넷코리아]국산 인디 게임 'TBH: 태스크바 히어로(이하 TBH)'가 글로벌 PC 플랫폼 스팀에서 연일 신기록을 갈아치우며 주목받고 있다.14일 통계 사이트 스팀데이터베이스에 따르면, 지난달 27일 출시된 'TBH'는 약 2주 만에 최고 동시 접속자 수(이하 동접자) 50만명 돌파를 코앞에 두고 있다.이는 이례적인 흥행으로 평가된다. 출시 3일 만인 5월 30일 동접자 10만명을 돌파한 데 이어, 6월 5일에는 30만명을 넘어섰다. 현재 최고 동접자는 49만 8437명을 기록했다. 이는 스팀"
+    },
+    {
       "id": "932a5d8b2074",
       "source": "The Verge",
       "kind": "article",
@@ -67,6 +144,17 @@
       "link": "https://desfontain.es/blog/banning-noise.html",
       "published": "2026-06-13T13:54:56+00:00",
       "summary": "Article URL: https://desfontain.es/blog/banning-noise.html Comments URL: https://news.ycombinator.com/item?id=48517377 Points: 357 # Comments: 153"
+    },
+    {
+      "id": "80cc83080fd3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "link": "https://desfontain.es/blog/banning-noise.html",
+      "published": "2026-06-13T13:54:56+00:00",
+      "summary": "Article URL: https://desfontain.es/blog/banning-noise.html Comments URL: https://news.ycombinator.com/item?id=48517377 Points: 602 # Comments: 327"
     },
     {
       "id": "a17c288302d7",
@@ -199,6 +287,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260613184949",
       "published": "2026-06-13T09:49:49+00:00",
       "summary": "[지디넷코리아]앤트로픽이 인공지능(AI)이 일자리에 미칠 충격을 정면으로 다루는 두 가지 프로그램을 내놨다. 테크타임스에 따르면 앤트로픽은 초기 경력자를 미국 전역의 비영리 단체에 배치하는 12개월 풀타임 유급 펠로십 '클로드 군단(Claude Corps)'을 시작한다. 펠로 참가자는 연 8만5,000달러의 보수와 복리후생을 받고, 클로드(Claude) 활용 교육도 함께 제공받는다.앤트로픽은 또 'AI 경제미래 연구기금(Economic Futures Research Fund)'에 2억 달러(약 3"
+    },
+    {
+      "id": "5a9751461ea0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A low-carbon computing platform from your retired phones",
+      "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "published": "2026-06-13T09:38:32+00:00",
+      "summary": "Article URL: https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/ Comments URL: https://news.ycombinator.com/item?id=48515336 Points: 210 # Comments: 120"
     },
     {
       "id": "8b243e2ba4b3",
@@ -4500,6 +4599,17 @@
       "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "published": "2026-06-10T01:44:13+00:00",
       "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 472 # Comments: 258"
+    },
+    {
+      "id": "bd3a35c6044a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The computer science degree isn’t dead",
+      "link": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+      "published": "2026-06-10T01:33:43+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/computer-science-degree-isnt-dead Comments URL: https://news.ycombinator.com/item?id=48470152 Points: 207 # Comments: 212"
     },
     {
       "id": "e86693d9c1af",
