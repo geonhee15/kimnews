@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-06-13T04:59:16.225864+00:00",
-  "count": 2260,
+  "updated_at": "2026-06-13T08:24:06.894872+00:00",
+  "count": 2278,
   "items": [
+    {
+      "id": "4ccd8417291a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 사내 AI 비용 폭증에 '토큰 제한'…'토큰맥싱' 부작용 후속 조치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211696",
+      "published": "2026-06-13T08:09:27+00:00",
+      "summary": "메타가 폭발적으로 증가하는 사내 AI 비용을 억제하기 위해 직원들의 AI 토큰 사용량 제한에 나선다. 지난해 말부터 사내 성과 지표까지 바꿔가며 AI 도입을 강력히 압박해 온 메타가 불과 반년 만에 '비용 통제'로 급선회한 것이다12일(현지시간) 디 인포메이션에 따르면, 메타는 최근 사내 내부 메모를 통해 6000명 직원을 대상으로 AI 사용량과 지출을 실시간으로 추적하고 예산을 책정하며 토큰 한도를 설정하는 내부 플랫폼을 구축 중이라고 밝혔다. 이는 비용 절감을 목표로 추진 중인 효율성 개선 프"
+    },
+    {
+      "id": "fdf51b8a1ef6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷 AI, 오픈소스 코딩 모델 ‘키미 K2.7-코드’ 공개…“추론 비용 30% 절감”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211691",
+      "published": "2026-06-13T07:29:20+00:00",
+      "summary": "문샷 AI가 새로운 코딩 모델을 공개했다. 불필요한 추론 과정에서 발생하는 과도한 사고(Overthinking)를 줄여 토큰 사용량을 30% 절감하면서도 코딩 성능을 향상시켰다고 주장했다. 문샷 AI가 12일(현지시간) 오픈소스 코딩 모델 ‘키미 2.7-코드(Kimi K2.7-Code)’를 공개했다. 이전 모델인 '키미 K2.6'과 동일한 1조 매개변수 규모의 전문가 혼합(MoE) 아키텍처를 기반으로 개발됐다. 오픈AI 호환 API를 지원해 기존에 K2.6을 사용하던 기업들이 별도의 인프라 변경 "
+    },
+    {
+      "id": "196c8fcbdc1f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "동국대 사이버보안신기술융합학회, 하계학술 대회 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260613153734",
+      "published": "2026-06-13T07:04:58+00:00",
+      "summary": "[지디넷코리아]사이버보안신기술융합학회와 인공지능산업법학회는 13일 오후 동국대 문화관에서 하계 공동 학술 대회를 개최했다. 이번 학술대회는 '인공지능과 사이버보안'을 주제로 열렸다.학술대회는 인공지능(AI)이 로봇과 드론 등 산업 생태계 변화를 주도하고 있는 가운데 취약점을 스스로 찾아내고 공격 코드까지 작성하는 등 우리 일상에도 위협이 되고 있는 만큼 선제적으로 대안을 모색하기 위한 학술교류의 장으로 자리매김했다.현장에는 사이버보안신기술융합학회 학회장을 맡고 있는 이재우 동국대 석좌교수를 비롯해"
+    },
+    {
+      "id": "331b00de1178",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개보위, KLID 방문...공공 개인정보보호 관리 실태 점검",
+      "link": "https://zdnet.co.kr/view/?no=20260613154446",
+      "published": "2026-06-13T06:44:46+00:00",
+      "summary": "[지디넷코리아]개인정보보호위원회(위원장 송경희, 이하 ‘개인정보위’)는 12일 오후 한국지역정보개발원(원장 직무대행 김석진 부원장, 이하 ‘KLID’)을 방문해 지방자치단체 개인정보처리시스템 관리 실태를 종합 점검하고 현장 의견을 청취했다.KLID는 지방자치단체 행정정보시스템, 주소정보관리시스템 등의 관리 업무를 위탁 운영하고 있다. 이번 실태 점검은 지난 5월 국무회의에서 보고한 '예방중심 개인정보 관리체계 전환계획'의 후속조치로, 개인정보위 내 전문성과 업무 경험이 풍부한 우수 인력으로 구성한"
+    },
+    {
+      "id": "c1b2d5be5c6e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마음AI, 천안시 도시안전망 구축 사업 참여",
+      "link": "https://zdnet.co.kr/view/?no=20260613153105",
+      "published": "2026-06-13T06:31:05+00:00",
+      "summary": "[지디넷코리아]피지컬AI 전문기업 마음AI(대표 유태준)는 천안시와 함께 추진하는 '환경적응형 다목적 온디바이스 AI 기반 도시안전망 실증·확산 사업'에 참여해 차세대 도시안전 서비스 구축에 나선다고 13일밝혔다.특히 이번 사업은 국산 AI반도체(NPU) 기반 온디바이스 AI 기술을 활용해 재난·안전 대응 체계를 지능화하고, 향후 전국 지자체로 확산 가능한 도시안전 모델을 구축하기 위한 것이다.사업은 충남테크노파크 주관으로 올 6월부터 내년 12월까지 추진한다. 마음AI는 이번 사업에서 약 16억"
+    },
+    {
+      "id": "c3ec970dad63",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s How AI Agents Can Protect EV Chargers",
+      "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+      "published": "2026-06-13T06:30:00+00:00",
+      "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them."
+    },
+    {
+      "id": "1e6a6e3c024c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"일본 보안시장 공략 가속\"...스콥정보통신, '인터롭 도쿄 2026’ 참가",
+      "link": "https://zdnet.co.kr/view/?no=20260613151419",
+      "published": "2026-06-13T06:14:19+00:00",
+      "summary": "[지디넷코리아]네트워크보안 전문기업 스콥정보통신(대표 김찬우)은 일본 지바현 마쿠하리 메세(Makuhari Messe)에서 10~12일 열린 일본 최대규모 정보통신기술(ICT) 전시회 ‘인터롭 도쿄(Interop Tokyo) 2026’에 참가해 자사의 차세대 네트워크 접근제어(NAC) 솔루션 ‘IPScan NAC’를 선보였다.‘인터롭 도쿄’는 1994년 처음 열렸다. 매년 국내외 약 500개 기업 및 단체가 참가한다. 일본 최고 권위 인터넷·네트워크 기술 종합 전시회로 자리잡았다. 최신 네트워크·"
+    },
+    {
+      "id": "7f60ae853924",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "초이스테크놀로지, 서울대 의복과건강연구실과 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260613145829",
+      "published": "2026-06-13T05:58:29+00:00",
+      "summary": "[지디넷코리아]초이스테크놀로지(대표 최순길)는 서울대학교 의류학과 의복과건강연구실과 업무협약을 체결하고, 비침습 무선 연속 체온 모니터링 체온계 ‘써모세이퍼’의 기술 고도화와 활용 영역 확대를 추진한다고 13일 밝혔다.이번 협약은 써모세이퍼의 기술 신뢰성을 강화하고, 기존 병원 중심의 활용 범위를 산업안전, 응급의료, 공공보건, 고령자 건강관리 등 다양한 분야로 확장하기 위한 것이다.'써모세이퍼 XST600'은 피부에 부착해 체온을 비침습적으로 연속 측정할 수 있는 IoMT 기반 무선 의료기기다."
+    },
+    {
+      "id": "7721779207bc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "샤오미, 오픈소스 코딩 에이전트 ‘미모 코드’ 공개…“장기 작업서 클로드 코드 능가”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211687",
+      "published": "2026-06-13T05:51:21+00:00",
+      "summary": "샤오미가 최근 상승세를 바탕으로 새로운 AI 코딩 에이전트를 공개하며 AI 소프트웨어 개발 도구 시장에 합류했다.샤오미는 10일(현지시간) 터미널 기반 AI 코딩 에이전트 ‘미모 코드(MiMo Code)’를 오픈소스로 공개했다.미모 코드는 오픈소스 프로젝트 오픈코드(OpenCode)를 기반으로 개발한 터미널 네이티브 AI 코딩 에이전트다. 깃허브를 통해 MIT 라이선스로 공개됐다.수십~수백 단계에 이르는 장기 자동화 프로그래밍 작업에서 의사결정 품질과 작업 상태를 지속적으로 유지하는 데 초점을 맞"
+    },
+    {
+      "id": "c13dc1597cbf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 자연어-SQL 변환 기술 '제미나이-SQL2' 공개...\"정확도 80% 돌파\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211690",
+      "published": "2026-06-13T05:20:00+00:00",
+      "summary": "구글이 자연어를 SQL 쿼리로 변환하는 차세대 텍스트-투-SQL(Text-to-SQL) 기술인 ‘제미나이-SQL2(Gemini-SQL2)’를 공개했다.구글은 12일(현지시간) '제미나이 3.1 프로'를 기반으로 개발된 제미나이-SQL2를 선보이며, 업계 대표 평가 지표인 BIRD 리더보드에서 80.04%의 실행 정확도를 기록하며 새로운 기록을 세웠다고 밝혔다.“복잡한 비즈니스 맥락과 미묘한 데이터 특성 때문에 자연어로부터 정확한 SQL을 생성하는 것은 매우 어려운 문제”라며 “SQL 이해 능력의 "
+    },
+    {
+      "id": "47a1ce73fd5f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷 AI, ‘키미 워크’ 공개…“300개 에이전트 스웜으로 내 PC 문서·웹 조작 자동화”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211693",
+      "published": "2026-06-13T05:18:23+00:00",
+      "summary": "문샷 AI가 사용자의 PC에서 직접 실행하는 데스크톱 AI 에이전트 ‘키미 워크(Kimi Work)’를 공개했다. 오픈클로 등의 방식과 비슷하지만, 일반 사무직도 쉽게 사용하도록 데스크톱 앱으로 패키징하고 대규모 병렬 처리를 구현한 점이 차이다문샷 AI는 8일(현지시간) 맥OS와 윈도우용 로컬 에이전트 '키미 워크'를 출시하고 다운로드를 공개했다. 로컬 파일 접근과 실제 브라우저 제어, 예약 작업 실행 기능을 결합한 지식 노동자와 개발자용 에이전트다.이 제품은 기존 오픈소스 개발자 중심의 복잡한 "
+    },
+    {
+      "id": "434c2247c003",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "공기로 식수 만드는 재킷 나왔다…\"야외 활동 대혁신\"",
+      "link": "https://zdnet.co.kr/view/?no=20260612165044",
+      "published": "2026-06-13T05:18:00+00:00",
+      "summary": "[지디넷코리아]대기 중에서 직접 식수를 추출할 수 있는 특수 섬유 재킷이 등장해 관심을 끌고 있다. 엔가젯 등 외신은 11일(현지시간) 미국 텍사스대학교 연구진이 이 같은 연구 결과를 담은 논문을 국제 학술지 '사이언스 어드밴시스'에 발표했다고 보도했다. 이 기술은 등산객, 캠핑족, 러너 등 야외 스포츠 애호가부터 농업 종사자, 응급 구조대원, 군인에 이르기까지 식수를 구하기 어려운 지역에서 오랜 시간을 보내는 이들에게 혁신적인 대안이 될 것으로 기대된다.대기 중 수분을 수집하는 기술은 그 동안 "
+    },
+    {
+      "id": "558f0edff4a6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스패로우, 'SAI 2026' 성료…AI시대 SW 공급망 보안 전략 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260613135303",
+      "published": "2026-06-13T04:53:03+00:00",
+      "summary": "[지디넷코리아]애플리케이션보안 전문기업 스패로우(대표 장일수)가 나인트리 프리미어 로카우스 호텔 서울 용산에서 11일 개최한 연례 고객 초청 행사 ‘SAI 2026(Sparrow application Insight)’이 성황리에 막을 내렸다. 스패로우는 이번 행사에서 오픈소스와 AI 코딩 중심의 최신 개발 환경이 직면한 보안 위협을 진단하고, 이에 대응하기 위한 소프트웨어(이하 SW) 공급망 보안 전략을 공유했다.'SAI'는 기존 스패로우 연례 행사인 ‘PUC(Power User Conferenc"
+    },
+    {
+      "id": "6b2939b52e86",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "피씨엔, 'STK 2026' 참가… AI·XR·우주 가상융합 기술 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260613133515",
+      "published": "2026-06-13T04:35:15+00:00",
+      "summary": "[지디넷코리아]AI 솔루션 및 가상융합 전문기업 피씨엔(PCN, 대표 송광헌)은 10일부터 12일까지 서울 코엑스에서 열린 ‘제15회 스마트테크 코리아 2026(STK 2026)’에 참가해 인공지능(AI), 확장현실(XR), 우주 디지털트윈 분야의 핵심 연구개발(R&D) 성과를 공개했다고 밝혔다.올해로 15회를 맞은 'STK 2026'은 ‘The Tech Nexus: 산업 전 과정을 연결하는 기술 생태계’를 주제로 개최된 테크 전시회다. 피씨엔은 이번 행사에서 자사 AI 에이전트 솔루션 ‘오즈에이"
+    },
+    {
+      "id": "e7258d374519",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211686",
+      "published": "2026-06-13T04:18:08+00:00",
+      "summary": "구글 연구진이 대형언어모델(LLM)의 환각 현상을 근본적으로 해결하기 위해서는 모델이 자신의 불확실성을 정확히 인식하고 표현하는 ‘메타인지(Metacognition)’ 능력이 필요하다는 새로운 주장을 내놓았다. 이를 ‘충실한 불확실성(Faithful Uncertainty)’이라고 정의하며, 앞으로 에이전트 AI의 핵심 기술이 될 것이라고 강조했다.구글 연구진은 최근 온라인 아카이브에 공개한 논문 ‘환각은 신뢰를 훼손한다; 메타인지가 해법이다 (Hallucinations Undermine Trust"
+    },
+    {
+      "id": "b617d63cc42e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서울대 학생 창업팀 시공간, 시각장애인 쇼핑개선 앱 '픽포미 v4.0' 곧 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260613130543",
+      "published": "2026-06-13T04:05:43+00:00",
+      "summary": "[지디넷코리아]서울대학교 학생 창업팀 시공간이 시각장애인을 위한 AI 쇼핑앱 '픽포미(Pick for Me)'의 4.0 버전을 조만간 출시한다. 다음주 중 선보일 예정이다. 13일 시공간에 따르면, 이번 4.0 업데이트는 △채팅형 AI&매니저 질문 기능 개편 △카테고리&필터 기반 상품 탐색 기능 추가 △상품 이미지 썸네일 도입 △접근성 제스처 지원 확대 등의 기능 향상을 이뤘다. 시각장애인 사용자들이 제기한 개선 요구를 반영해 쇼핑 독립성과 편리함을 한층 끌어올렸다.특히 기존 질문 기능을 채팅형 "
+    },
     {
       "id": "a1e7893dc6b8",
       "source": "AI타임스",
@@ -331,6 +507,17 @@
       "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
       "published": "2026-06-12T22:08:03+00:00",
       "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48510010 Points: 310 # Comments: 79"
+    },
+    {
+      "id": "b2964e7bd498",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Electric motors with no rare earths",
+      "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "published": "2026-06-12T22:08:03+00:00",
+      "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48510010 Points: 401 # Comments: 104"
     },
     {
       "id": "b25d75356a93",
@@ -2597,6 +2784,17 @@
       "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "published": "2026-06-11T00:10:08+00:00",
       "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 238 # Comments: 59"
+    },
+    {
+      "id": "4903e57934c3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+      "link": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "published": "2026-06-11T00:00:42+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul Comments URL: https://news.ycombinator.com/item?id=48484496 Points: 207 # Comments: 63"
     },
     {
       "id": "d00237ff2524",
