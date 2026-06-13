@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-12T22:48:16.311007+00:00",
-  "count": 2227,
+  "updated_at": "2026-06-13T00:17:28.725431+00:00",
+  "count": 2236,
   "items": [
+    {
+      "id": "9a0a14eff602",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "published": "2026-06-12T23:45:26+00:00",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff."
+    },
+    {
+      "id": "a542415da27f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "published": "2026-06-12T23:00:54+00:00",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
+    },
+    {
+      "id": "5fdc1d3f3914",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스페이스X 정규장서 19% 급등…일론 머스크 세계 첫 '1조달러' 부자",
+      "link": "https://zdnet.co.kr/view/?no=20260613073630",
+      "published": "2026-06-12T22:58:47+00:00",
+      "summary": "[지디넷코리아]스페이스 엑스(SpaceX)가 성공적인 데뷔를 치뤘다.12일(현지시간) 나스닥에 상장한 스페이스X는 공모가 135달러서 19% 급등한 약 161달러로 정규 거래를 마감했다.장중 최고가는 176.52달러로 5억주 이상이 거래됐다. 2012년 페이스북 상장 첫 날 거래량 약 5억8000만주에 근접한 수치다.스페이스X는 이번 기업공개(IPO)를 통해 750억달러를 조달했으며, 기업가치를 2조 1000억달러로 평가받았다.상장 당일 일론 머스크 스페이스X 사장은 \"(상장을 통해 스페이스X를)"
+    },
+    {
+      "id": "ae618c616a90",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국 정부, 지방 특화 6G 시범 서비스 프로그램 착수",
+      "link": "https://zdnet.co.kr/view/?no=20260613073135",
+      "published": "2026-06-12T22:31:35+00:00",
+      "summary": "[지디넷코리아]중국이 6G 통신 개발을 위해 중앙부처와 지방정부 간 공동 시범 프로그램을 시작했다. 지난달 6GHz 대역의 주파수를 6G 통신을 위한 필드 테스트 용도로 사용 승인한 데 이어 차세대 통신 기술에 대한 주도권 확보에 더욱 속도를 내는 모습이다.RCR와이어리스에 따르면 중국 공업정보화부(MIIT)는 지방정부 공동 시범 프로그램에 착수하며 6G 상용화를 위한 강력한 지원을 제공하기 위한 것이라고 강조했다.6G 시범 사업은 선정된 지역 전반에 연구개발(R&D), 시험 운영, 생태계 조성에"
+    },
     {
       "id": "65c47b184c64",
       "source": "GitHub Blog",
@@ -14,6 +58,28 @@
       "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog ."
     },
     {
+      "id": "db7d5d64b59c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
+      "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
+      "published": "2026-06-12T22:20:06+00:00",
+      "summary": "As of today, SpaceX is owned by investors who will want to see it make money."
+    },
+    {
+      "id": "b25d75356a93",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가스공사, 천연가스 인프라 확충…전국 안정적 공급망 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260613070705",
+      "published": "2026-06-12T22:07:05+00:00",
+      "summary": "[지디넷코리아]한국가스공사(대표 최연혜)는 안전하고 안정적인 전국 천연가스 공급을 위해 1일 기준 주배관 5346km, 공급관리소 445곳을 운영 중이라고 12일 밝혔다.지난해에는 신규 발전소 공급을 위한 배관 건설(구미복합)을 비롯해 전남 보성군 권역 가스 공급용 주배관(장흥~보성) 건설, 충청권(청주~사리) 환상 배관망 연장 등 인프라 확충에 매진한 결과, 주배관은 지난해 1월 보다 140km(5206km → 5346km), 공급관리소는 12곳(433곳 → 445곳)이 각각 증가했다.가스공사는"
+    },
+    {
       "id": "eb2488e7de46",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -23,6 +89,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260612200238",
       "published": "2026-06-12T22:00:01+00:00",
       "summary": "[지디넷코리아]구글이 주파수 사용 관리 사업을 종료하기로 했다. 기존 이용자를 다른 기업으로 전환시키고 1년 뒤에는 완전히 관련 사업에서 철수한다는 방침이다.피어스네트워크에 따르면 구글클라우드는 CBRS SAS 사업을 종료하기로 결정하고, 내년 6월10일까지 서비스를 제공한다고 웹사이트에 공지했다. 사업 철수와 함께 이용자 전환을 위해 다른 SAS 사업자 목록을 공유했다.시민 광대역 무선 서비스로 불리는 CBRS는 미국 연방통신위원회가 약 10년 전에 3.5GHz 대역의 주파수 일부를 민간에 개방"
+    },
+    {
+      "id": "81196cad5374",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월12일] AI 경쟁의 중심 이동...\"모델에서 시장으로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211648",
+      "published": "2026-06-12T22:00:00+00:00",
+      "summary": "지난 몇 주간 미국 AI 업계에서는 올해 들어 가장 굵직한 이벤트가 잇달아 발생했습니다. 구글과 애플은 연례행사인 'I/O'와 'WWDC'를 개최했고, 앤트로픽과 오픈AI는 기업공개(IPO) 신청서를 제출했습니다.그리고 이를 통해 각 기업의 행보가 엇갈린다는 평가가 등장했습니다. 앤트로픽과 오픈AI가 기업 시장에 집중하는 가운데, 구글과 애플은 소비자 시장을 겨냥한다는 분석입니다.CNBC는 11일(현지시간) 오픈AI와 앤트로픽이 무료 온라인 서비스에 익숙한 유료 소비자를 유치하기보다는, 기꺼이 비"
     },
     {
       "id": "3d0e7ec60a19",
@@ -75,6 +152,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "바이낸스 스페이스X·삼전 주식 토큰 하루 거래액, 웬만한 '중견기업' 시총",
+      "link": "https://zdnet.co.kr/view/?no=20260612144618",
+      "published": "2026-06-12T21:00:02+00:00",
+      "summary": "[지디넷코리아]코스피 지수 급등과 스페이스X 기업공개(IPO) 열풍으로 국내외 증시로 자금이 이동하면서 글로벌 가상자산 거래소가 사업 영역을 주식시장으로 넓히고 있다. 반면 국내 거래소는 규제 공백에 막혀 현물 거래 서비스에 머물러 있다.13일 가상자산 업계에 따르면 바이낸스에서 거래되는 스페이스X 파생상품의 하루 거래대금은 3억 2304만 달러(약 4913억원)를 기록했다. 삼성전자와 SK하이닉스를 기초자산으로 한 파생상품 거래대금도 각각 2152만 달러(약 327억원), 1억 3052만 달러("
+    },
+    {
+      "id": "649ef2e675a1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바이낸스 스페이스X·삼전 주식 토큰 하루 거래액, 웬만한 '중소기업' 시총",
       "link": "https://zdnet.co.kr/view/?no=20260612144618",
       "published": "2026-06-12T21:00:02+00:00",
       "summary": "[지디넷코리아]코스피 지수 급등과 스페이스X 기업공개(IPO) 열풍으로 국내외 증시로 자금이 이동하면서 글로벌 가상자산 거래소가 사업 영역을 주식시장으로 넓히고 있다. 반면 국내 거래소는 규제 공백에 막혀 현물 거래 서비스에 머물러 있다.13일 가상자산 업계에 따르면 바이낸스에서 거래되는 스페이스X 파생상품의 하루 거래대금은 3억 2304만 달러(약 4913억원)를 기록했다. 삼성전자와 SK하이닉스를 기초자산으로 한 파생상품 거래대금도 각각 2152만 달러(약 327억원), 1억 3052만 달러("
@@ -199,6 +287,17 @@
       "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
       "published": "2026-06-12T17:38:11+00:00",
       "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
+    },
+    {
+      "id": "456342852f99",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to setup a local coding agent on macOS",
+      "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "published": "2026-06-12T17:34:55+00:00",
+      "summary": "Article URL: https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos Comments URL: https://news.ycombinator.com/item?id=48507020 Points: 230 # Comments: 69"
     },
     {
       "id": "554fc3e5cc5e",
