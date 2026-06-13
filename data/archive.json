@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-06-13T00:17:28.725431+00:00",
-  "count": 2236,
+  "updated_at": "2026-06-13T04:59:16.225864+00:00",
+  "count": 2260,
   "items": [
+    {
+      "id": "a1e7893dc6b8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메모리 반도체 키옥시아, 도요타 제치고 일본 시총 1위…올해만 670% 폭등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211694",
+      "published": "2026-06-13T03:18:56+00:00",
+      "summary": "메모리 칩 기업 키옥시아 홀딩스가 전통의 강자 도요타 자동차를 제치고 일본 시가총액 1위 기업으로 올라섰다. 글로벌 AI 붐이 일본 증시까지 완전히 재편하고 있다는 평이다.12일 도쿄증시에서 키옥시아 주가는 7.6% 급등했다. 이로써 키옥시아는 상장 18개월 만에 시가총액 44조엔(약 417조2000억원)을 돌파하며 일본 증시 정상에 올랐다. 반면, 이달 초 소프트뱅크 그룹에 잠시 선두를 내줬던 도요타는 시가총액 43조8000억엔으로 장을 마감하며 2위로 밀려났다.키옥시아는 세계적인 AI 데이터센"
+    },
+    {
+      "id": "3442ce9ee2c2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+      "published": "2026-06-13T03:00:34+00:00",
+      "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+    },
+    {
+      "id": "216ab29f4af2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[유미's 픽] 월드컵 오른 세일즈포스…FIFA 손잡아도 마케팅 사업 반등 '미지수'",
+      "link": "https://zdnet.co.kr/view/?no=20260613115039",
+      "published": "2026-06-13T02:53:28+00:00",
+      "summary": "[지디넷코리아]세일즈포스가 35억 달러를 투입해 키운 마케팅 클라우드 사업에서 성장 둔화 신호가 뚜렷해지고 있다. 마케팅 클라우드 넥스트와 에이전트포스를 앞세워 인공지능(AI) 기반 고객 경험 플랫폼으로 전환을 추진하고 있지만, 기존 고객의 이전 부담과 마케팅 성과 입증이 새 변수로 떠올랐다.12일(현지시간) 세일즈포스 전문 매체 SF벤에 따르면 세일즈포스의 마케팅·커머스 부문 성장률은 지난 2024 회계연도 2분기에 10.4%를 기록한 뒤 지속적으로 하락세를 보였다. 결국 2026 회계연도 4분"
+    },
+    {
+      "id": "bb3d715fd862",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, ‘제미나이’ 악용한 중국 범죄 조직에 소송…FBI·통신사 공동 대응",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211692",
+      "published": "2026-06-13T02:35:27+00:00",
+      "summary": "구글이 ‘제미나이’를 이용해 피싱 사기를 벌여온 중국계 사이버 범죄 조직을 상대로 법적 대응에 나섰다. 구글이 이 문제로 소송을 제기한 것은 처음으로, 특히 미국 연방수사국(FBI)과 대형 이동통신사들까지 참여해 사이버 범죄 조직의 인프라 해체에 나섰다.구글은 12일(현지시간) 뉴욕남부지방법원에 사이버 범죄 네트워크인 '아웃사이더 엔터프라이즈(Outsider Enterprise)'를 상대로 민사 소송을 제기했다고 발표했다. 이들은 구글을 비롯한 글로벌 유명 회사를 사칭해 미국 전역의 수십만명에게 "
+    },
+    {
+      "id": "4e33062a55ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"손바닥 크기 로버가 해냈다\"…日 달 탐사선 도운 초소형 로봇 [우주로 간다]",
+      "link": "https://zdnet.co.kr/view/?no=20260612152833",
+      "published": "2026-06-13T02:30:01+00:00",
+      "summary": "[지디넷코리아]2024년 세계에서 다섯 번째로 달 착륙에 성공한 일본의 달 탐사선 ‘슬림(SLIM)’ 임무에서 핵심 역할을 수행한 초소형 로버의 활동 내용이 공개됐다.라이브사이언스, 기즈모도 등 외신은 일본 우주항공연구개발기구(JAXA)의 달 탐사선 SLIM에 탑재됐던 초소형 로버 ‘LEV-2’의 임무 수행 결과를 다룬 연구가 학술지 사이언스 로보틱스에 발표됐다고 최근 보도했다.SLIM은 2024년 1월 달 착륙 당시 ‘LEV-1’와 ‘LEV-2’ 두 대의 소형 탐사 로봇을 함께 배치했다. 그 중"
+    },
+    {
+      "id": "b044ca3ffd1a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "published": "2026-06-13T02:26:30+00:00",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+    },
+    {
+      "id": "830abf612d90",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "published": "2026-06-13T02:26:10+00:00",
+      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post."
+    },
+    {
+      "id": "99d8ee9ce281",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Open source AI must win",
+      "link": "https://opensourceaimustwin.com/?share=v2",
+      "published": "2026-06-13T02:14:24+00:00",
+      "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 466 # Comments: 153"
+    },
+    {
+      "id": "329c6c231246",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기경학회 AX칼럼] AI 혁신 본질, 기술이 아니라 조직 DNA와 루틴 재설계",
+      "link": "https://zdnet.co.kr/view/?no=20260613110846",
+      "published": "2026-06-13T02:08:46+00:00",
+      "summary": "[지디넷코리아]AI는 이제 단순한 업무 자동화 도구를 넘어 기업 연구개발(R&D) 환경 자체를 재구성하고 있다. 그러나 현장의 분위기는 기대만큼 단순하지 않다. 최근 산업계 논의에서 나타나는 공통된 흐름은 분명하다. 대기업은 “AI를 얼마나 통제할 수 있는가”를 고민하고, 중견기업은 “어떻게 실제 성과로 연결할 것인가”를 고민하며, 중소기업은 “도입 자체가 가능한가”를 고민하고 있다.AI 시대의 기업 혁신은 결국 기술의 문제가 아니라, 조직의 루틴과 실행 구조를 어떻게 재설계할 것인가의 문제로 이"
+    },
+    {
+      "id": "552b5534d118",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 차세대 ‘베라’ CPU로 중국 공략…GPU 규제 우회할 돌파구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211689",
+      "published": "2026-06-13T01:54:13+00:00",
+      "summary": "중국 내 입지가 좁아진 엔비디아가 차세대 AI 데이터센터용 CPU ‘베라(Vera)’를 앞세워 중국 시장 공략에 속도를 내는 것으로 알려졌다. GPU에 비해 규제 문턱이 낮은 CPU 시장을 파고들어, 급증하는 에이전트 수요를 선점하겠다는 전략이다.로이터는 12일(현지시간) 복수의 소식통을 인용, 엔비디아가 중국 고객사를 대상으로 베라의 주문 접수를 시작했다고 보도했다. 베라 CPU는 이르면 오는 8월 정식 출시될 예정이다.이번 행보는 엔비디아가 중국의 실적 둔화를 만회하기 위해 신제품 위주로 전략"
+    },
+    {
+      "id": "baf503bbc199",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X 상장 첫날 20% 급등…머스크, 세계 최초 '조만장자' 등극",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211688",
+      "published": "2026-06-13T01:09:25+00:00",
+      "summary": "스페이스X가 뉴욕 증시 데뷔 첫날 거의 20% 급등하며 시가총액 2조달러를 돌파했다. 이로써 일론 머스크 CEO는 세계 최초의 '조만장자' 반열에 올랐다.12일(현지시간) 스페이스X의 주가는 160.95달러로 마감하며 시가총액 약 2조1000억달러(약 3190조원)를 기록했다. 이날 거래량은 800억달러(약 122조원)를 상회하며 폭발적인 관심을 입증했다.이로써 엔비디아와 애플, 구글, 마이크로소프트, 아마존에 이어 세계 6위 규모의 상장 기업으로 올라섰다. 테슬라의 1조5000억달러 가치도 단번"
+    },
+    {
+      "id": "f64f21cbf111",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "published": "2026-06-13T00:51:30+00:00",
+      "summary": "Article URL: https://www.anthropic.com/news/fable-mythos-access Comments URL: https://news.ycombinator.com/item?id=48511072 Points: 1495 # Comments: 1024"
+    },
+    {
+      "id": "9e5973b7f732",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광주·대구 의용소방대, 11년째 달빛동맹 교류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211664",
+      "published": "2026-06-13T00:40:00+00:00",
+      "summary": "AI 생성 영상광주시 소방안전본부는 지난 11일부터 12일까지 광주 일원에서 광주의용소방대연합회와 대구의용소방대연합회가 참여한 제11회 달빛동맹 교류행사를 열었다. 행사에는 광주와 대구 의용소방대원 등 80여명이 참석했다.두 지역 의용소방대의 교류는 2015년 광주 하계유니버시아드대회 홍보와 관람을 계기로 시작됐다. 이후 양 단체는 매년 광주와 대구를 번갈아 방문하며 재난대응 경험을 공유해 왔다.참석자들은 11일 광주소방학교 환영식을 시작으로 국립아시아문화전당과 옛 전남도청을 방문했다. 이어 의용"
+    },
+    {
+      "id": "d693069bd2b1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아마존 AI 데이터센터는 전력을 어떻게 확보했나",
+      "link": "https://zdnet.co.kr/view/?no=20260613093400",
+      "published": "2026-06-13T00:34:00+00:00",
+      "summary": "[지디넷코리아]미국 전력회사 탈렌에너지(Talen Energy)가 아마존과의 원자력 공급 관계를 대폭 확대한다. CNBC 등에 따르면 탈렌에너지는 6월 11일 펜실베이니아 서스쿼해나 원자력 발전소에서 생산하는 무탄소 전력을 아마존웹서비스(AWS) 데이터센터에 공급하는 기존 계약을 넓힌다고 발표했다. 두 회사는 앞서 같은 발전소를 기반으로 전력 공급 관계를 맺어왔는데, 이번에 그 규모와 기간을 한층 늘렸다.이번 합의로 탈렌에너지는 아마존에 2042년까지 1,920메가와트(MW)의 무탄소 원자력 전력"
+    },
+    {
+      "id": "381ce5069e0a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "BNEF “세계 태양광 성장 둔화 가능성”…중국 속도 조절이 변수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211643",
+      "published": "2026-06-13T00:30:00+00:00",
+      "summary": "글로벌 태양광 시장이 고성장 국면을 지나 속도 조절에 들어설 수 있다는 전망이 나왔다. 중국의 신규 설치 증가세가 둔화되면서 올해 세계 태양광 신규 설치량이 2000년 이후 처음 감소할 수 있다는 분석이다.제니 체이스 블룸버그NEF(BNEF) 수석 태양광 애널리스트는 중국 상하이에서 열린 SNEC 2026 콘퍼런스에서 올해 태양광 보급 속도가 둔화된 뒤 더 보수적인 성장 흐름으로 돌아갈 수 있다고 11일(현지시간) 밝혔다.BNEF는 앞서 2025년 말에도 2026년 세계 태양광 신규 설치량이 20"
+    },
+    {
+      "id": "adb49261ef1c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전남, 벼 재해보험 19일까지 가입 당부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211634",
+      "published": "2026-06-13T00:25:00+00:00",
+      "summary": "AI 생성 영상전라남도가 농가에 오는 19일까지 벼 농작물재해보험에 가입할 것을 당부했다.벼 농작물재해보험은 태풍과 호우 등 자연재해로 인한 피해 발생 시 보험금을 지급해 농가 경영 안정을 지원하는 제도다. 올해부터는 벼멸구와 도열병 등 병해충 7종에 대한 보장이 주계약에 포함되면서 보장 범위가 확대됐다.보장 대상 병해충은 흰잎마름병, 벼멸구, 도열병, 줄무늬잎마름병, 깨씨무늬병, 먹노린재, 세균성벼알마름병 등 7종이다. 기상이변과 병해충 확산 위험이 커지는 상황에서 자연재해뿐 아니라 병해충 피해"
+    },
+    {
+      "id": "24a873daface",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "프랑스, 굴 양식장에 태양광 띄운다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211661",
+      "published": "2026-06-13T00:20:00+00:00",
+      "summary": "프랑스 남부 타우 석호에서 태양광 발전과 굴 양식을 결합한 부유식 실증 플랫폼이 시험에 들어간다. 프랑스 타우 유역 공동협의체(SMBT)는 지난 6일 솔라린토(SolarinThau) 실증 플랫폼이 7일 세트 항구를 출발해 토 석호 내 조개 양식 구역으로 이동한다고 밝혔다.플랫폼은 길이 53m, 폭 18m 규모의 부유식 조개 양식 구조물이다. 기존 양식 시설 인근에서 태양광 발전과 굴 양식이 같은 공간에서 가능한지 확인하는 데 쓰인다. 이동 과정에서는 세트 시내 주요 교량 5곳을 통과했다.실증은 2"
+    },
+    {
+      "id": "4c9661a968b0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 관광 매력 알릴 SNS 기자단 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211654",
+      "published": "2026-06-13T00:20:00+00:00",
+      "summary": "AI 생성 영상여수시는 여수의 관광지와 축제, 먹거리, 문화행사, 숨은 명소를 전국에 홍보할 ‘여수관광 SNS 기자단’을 공개 모집한다고 밝혔다. 이번 기자단은 시민이 직접 관광 홍보 콘텐츠를 제작하고 개인 SNS 채널을 통해 공유하는 시민 참여형 홍보단이다.모집 인원은 10명 내외다. 여수에 거주하는 시민이면 누구나 지원할 수 있으며, 인스타그램 릴스와 유튜브 쇼츠 등 짧은 영상 콘텐츠 제작 역량이 있거나 콘텐츠 노출과 반응도가 높은 지원자를 중심으로 선발할 예정이다.최종 선발된 기자단은 6월부"
+    },
+    {
+      "id": "6fd1fa323b37",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "더본코리아, 성장 재시동...백종원 카드·해외 사업에 힘",
+      "link": "https://zdnet.co.kr/view/?no=20260612173609",
+      "published": "2026-06-13T00:08:11+00:00",
+      "summary": "[지디넷코리아]더본코리아가 지난해 지역축제 논란 이후 한동안 주춤했던 주요 사업 추진에 재시동을 걸고 있다. 백종원 대표가 유튜브 활동을 재개한 데 이어, 회사도 지역개발사업과 해외 소스 사업을 앞세워 사업 확장에 나서는 모습이다. 다만 지난해 실적이 악화한 가운데, 새 성장동력으로 제시한 사업들이 반등을 이끌 수 있을지는 지켜봐야 한다는 평가가 나온다.13일 업계에 따르면 더본코리아는 지역개발사업과 가맹사업 등 주요 사업을 이어가고 있다. 회사는 지난달 안동 노국공주 축제 컨설팅을 진행하는 등 "
+    },
+    {
+      "id": "2035ccf379ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[써보고서] 멀티캠퍼스 'AI 스튜디오'가 낮춘 개발 문턱…설치·학습 부담 줄여",
+      "link": "https://zdnet.co.kr/view/?no=20260612091703",
+      "published": "2026-06-13T00:00:01+00:00",
+      "summary": "[지디넷코리아]\"별도 프로그램 설치 없이 바로 수업 시작하고, 막히는 순간마다 물어볼 곳이 있으니 인공지능(AI) 교육이 한결 쉽게 다가왔다.\"지난 10일 서울 선릉에 있는 멀티캠퍼스에서 'AI 스튜디오'를 활용한 강좌를 수강한 뒤 든 첫 생각이다. 이날 강좌는 소형언어모델(sLLM)을 직접 만들고, 이를 기반으로 AI 애플리케이션을 구축하는 과정을 다뤘다. 처음엔 흔히 접할 수 있는 강의 플랫폼일 것이라 생각했지만, 막상 들어보니 달랐다. 우선 AI 스튜디오에선 별도 프로그램을 설치하지 않아도 "
+    },
+    {
+      "id": "a1bdc0561cd8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'꿈의 배터리' 전기항공기 떴다…첫 유인 비행 달성",
+      "link": "https://zdnet.co.kr/view/?no=20260612223355",
+      "published": "2026-06-12T23:54:59+00:00",
+      "summary": "[지디넷코리아]전고체 배터리를 탑재한 전기 항공기가 처음으로 유인 비행에 성공했다.과학매체 인터레스팅엔지니어링은 미국의 비영리 단체 헬리오스 호라이즌이 전고체 배터리를 동력원으로 사용하는 전기 항공기 첫 유인 비행을 성공적으로 마쳤다고 최근 보도했다.이번 시험 비행은 지난 5일 미국 플로리다주 중부 제퍼힐스 시립공항에서 진행됐다. 헬리오스 호라이즌의 창업자이자 수석 시험 조종사인 미겔 이투르멘디가 직접 조종해 여러 차례 단거리 비행을 수행했다.이번 비행은 새 배터리 시스템의 무게 배분과 기체 균형"
+    },
+    {
+      "id": "2bdd4e94948d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 쿠팡에 6247억 벌금 폭탄",
+      "link": "https://zdnet.co.kr/view/?no=20260612120558",
+      "published": "2026-06-12T23:48:18+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 쿠팡이 무려 6247억 원이라는 역대 최대 규모의 벌금을 부과받았어요. 치킨 3100만 마리 값이라고 하면 얼마나 큰 금액인지 확 와닿죠? 하지만 이번 개인정보유출 사건이 사건이 단순한 기업 제재를 넘어 한미 무역 갈등으로 번질 수 있다는 점에서 더욱 주목받고 있어요. 사실 이런 빅테크 제재는 세계적인 흐름이기도 해요. EU에서 메타에 부과한 벌금이 1조 7,000억 원에 달하고, 국내에서도 구글이 2,000억 원을 받은 바 있죠. 알리익스프레스와"
+    },
     {
       "id": "9a0a14eff602",
       "source": "Wired",
@@ -9,6 +251,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Meta Employees Absolutely Hate Zuckerberg’s Plan for a Companywide AI Hackathon",
+      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+      "published": "2026-06-12T23:45:26+00:00",
+      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff."
+    },
+    {
+      "id": "75536c842a68",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
       "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
       "published": "2026-06-12T23:45:26+00:00",
       "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff."
@@ -67,6 +320,17 @@
       "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
       "published": "2026-06-12T22:20:06+00:00",
       "summary": "As of today, SpaceX is owned by investors who will want to see it make money."
+    },
+    {
+      "id": "b7b41ed48656",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Renault: Electric motors with no rare earths",
+      "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "published": "2026-06-12T22:08:03+00:00",
+      "summary": "Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/ Comments URL: https://news.ycombinator.com/item?id=48510010 Points: 310 # Comments: 79"
     },
     {
       "id": "b25d75356a93",
