@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-06-15",
-  "generated_at": "2026-06-14T18:10:37.200503+00:00",
-  "count": 3,
+  "generated_at": "2026-06-14T19:57:44.155098+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "34256513326c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China may have accessed Mythos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would ",
+      "content": "The White House reportedly has suspicions that a China-linked group had access to Anthropic’s powerful AI.\n\nAccording to a new report from Semafor , the White House’s decision to impose export restrictions on Anthropic’s Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation , a method in which a “student” AI is trained on a more advanced model to replicate its behavior.\n\nThe White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a reported ability for Fable and Mythos to be jailbroken , something that Anthropic has denied. Anthropic has not replied to a request for comment, though a spokesperson told Semafor that the government did not bring up China during its discussions around export controls.\n\nIf Mythos was accessed by the Chinese government, it wouldn’t be the first embarrassing breach of Anthropic’s most powerful model. The company has said that Mythos is too dangerous and powerful for public consumption, but a Discord group reportedly had access for two weeks before Anthropic discovered the breach and cut off access.\n\nThis is the title for the native ad",
+      "published": "2026-06-14T18:27:55+00:00"
+    },
     {
       "id": "2d57232fc457",
       "source": "TechCrunch",
