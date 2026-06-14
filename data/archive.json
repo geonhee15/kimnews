@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-14T11:27:16.493603+00:00",
-  "count": 2360,
+  "updated_at": "2026-06-14T13:14:08.443363+00:00",
+  "count": 2364,
   "items": [
+    {
+      "id": "256eeb2ac87b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[보안 리딩기업] 나루시큐리티 \"침해 대응 해결사...'제로티카'로 성장세\"",
+      "link": "https://zdnet.co.kr/view/?no=20260614210416",
+      "published": "2026-06-14T12:04:16+00:00",
+      "summary": "[지디넷코리아]\"보안 본질을 ‘제품 도입’이 아니라 현장 문제 해결과 침해 여부 검증으로 보고, 네트워크 기반으로 공격자 흔적을 추적해 위협을 찾아내는 기술에 집중해 왔습니다.\"김혁준 나루시큐리티 대표는 최근 서울 가락동 사무실에서 지디넷코리아와 가진 인터뷰에서 이 같이 밝히며 \"이미 내부에 들어온 공격자를 찾아내 비즈니스 피해로 이어지지 않게 하는 것을 목표로 삼고 있다\"고 말했다. 특히 그는 \"사고 대응을 하다 보안회사를 만든 곳은 우리밖에 없다\"면서 국내서 유일한 보안 침해사고대응 모델을 갖"
+    },
+    {
+      "id": "af377194045b",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "지금 가장 쉬운 AI 사업 아이디어",
+      "link": "https://www.youtube.com/watch?v=-DXhS_uAMIw",
+      "published": "2026-06-14T11:27:15+00:00",
+      "summary": ""
+    },
+    {
+      "id": "50c8b8b48162",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "틸론, 서울·제주서 대규모 전력 확보...\"AI 데이터센터 추진 탄력\"",
+      "link": "https://zdnet.co.kr/view/?no=20260614201134",
+      "published": "2026-06-14T11:11:34+00:00",
+      "summary": "[지디넷코리아]국내 대표 클라우드 가상화 기업 틸론(대표 최백준)이 서울 마곡에 위치한 본사 사옥에 한전으로부터 5MW 규모의 전력 공급방안 사전검토를 완료했다. 이에 따라 틸론은 AI 엣지데이터센터 전환을 추진할 수 있게 됐다.틸론은 최근 한국전력공사로부터 마곡사옥 내 데이터센터 운영을 위한 5MW(5000kW) 규모의 상용전력 공급방안 사전검토결과를 회신받았다고 14일 밝혔다. 한전 측은 마곡 변전소(마곡S/S)의 선로 부하전환을 통해 전력 공급이 가능하다는 검토 결과를 전달했으며, 예상 수전"
+    },
     {
       "id": "d96449b3e784",
       "source": "Wired",
@@ -276,6 +309,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260614083544",
       "published": "2026-06-14T04:00:01+00:00",
       "summary": "[지디넷코리아]비즈플레이가 석창규 웹케시그룹 회장 중심 경영 체제로 전환하며 임직원 대상 서비스(B2E) 사업 확대에 본격 나선다.비즈플레이는 석 회장이 6월 1일자로 대표를 맡고 경영 전면에 복귀했다고 14일 밝혔다. 이번 체제 전환을 계기로 기존 경비지출관리 사업과 함께 출장, 복지, 식대, 총무 등 B2E 영역을 한층 강화할 방침이다.석 회장은 비즈플레이 초기 성장을 이끈 인물이다. 이번 경영 복귀는 그가 직접 키워온 B2E 사업을 다시 핵심 성장 축으로 세우겠다는 의지가 반영된 것으로 풀이"
+    },
+    {
+      "id": "a66d9f0635de",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "link": "https://sqltoerdiagram.com/",
+      "published": "2026-06-14T03:43:30+00:00",
+      "summary": "Article URL: https://sqltoerdiagram.com/ Comments URL: https://news.ycombinator.com/item?id=48523992 Points: 238 # Comments: 44"
     },
     {
       "id": "d139115d2791",
