@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-13T22:47:39.290443+00:00",
-  "count": 2315,
+  "updated_at": "2026-06-14T00:02:50.980057+00:00",
+  "count": 2319,
   "items": [
+    {
+      "id": "0befc1c255fa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[SW키트] \"코딩만 잘해선 안 돼\"…기업 성과 돕는 'AI 엔지니어' 뜬다",
+      "link": "https://zdnet.co.kr/view/?no=20260612124029",
+      "published": "2026-06-13T23:00:02+00:00",
+      "summary": "[지디넷코리아]기업 인공지능(AI) 도입이 실험 단계를 지나 실제 성과를 요구하는 단계로 넘어가면서 개발자 역할도 확대되고 있다. 단순 코딩만 하는 업무에서 벗어나 고객 현장 문제를 이해하고 AI 시스템을 업무 성과로 연결하는 방향으로 바뀌고 있다. 14일 IT 업게에 따르면 최근 AI 기업 시장 수요 변화로 인해 회사에서 상주하던 개발자 엔지니어 역할이 이같이 확장하는 것으로 전해지고 있다. 마이그레이션과 데이터 파이프라인 구축을 도와달라거나 비즈니스 문제를 해결해달라는 고객 요구에 맞춰 개발자"
+    },
+    {
+      "id": "dd9f62d2cbae",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마일게이트 '크로스파이어' IP 콘솔 신작 공개…혁신 시스템에 전 세계 '열광'",
+      "link": "https://zdnet.co.kr/view/?no=20260613200259",
+      "published": "2026-06-13T22:00:01+00:00",
+      "summary": "[지디넷코리아]스마일게이트의 대표 지식재산권(IP) '크로스파이어'를 기반으로 한 콘솔 신작이 베일을 벗으며 글로벌 시장의 이목을 집중시키고 있다. 북미 개발사 댓츠 노 문이 개발 중인 이번 신작은 3인칭 슈팅 장르의 문법을 재정의하는 혁신적인 시스템을 대거 예고해 기대감을 키우고 있다는 평가다.북미 게임 매체 게임스팟은 신작 '크로스파이어'의 핵심 게임플레이 시스템과 개발 철학을 담은 인터뷰 영상을 지난 7일(현지시각) 공개했다. 영상에는 최근 개최된 '서머 게임 페스트 2026' 현장에서 진행"
+    },
     {
       "id": "bb7e3620727c",
       "source": "The Verge",
@@ -12,6 +34,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "published": "2026-06-13T21:39:26+00:00",
       "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, t"
+    },
+    {
+      "id": "5e4ee8484213",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 개발보다 활용…시·도지사 당선인 공약 뜯어보니",
+      "link": "https://zdnet.co.kr/view/?no=20260612184237",
+      "published": "2026-06-13T21:30:01+00:00",
+      "summary": "[지디넷코리아]지난 6.3 지방선거에서 선출된 민선9기 시·도지사 당선인들의 인공지능(AI) 공약이 기술 개발·보유보다 행정서비스와 주민 생활, 지역산업에 AI를 적용하는 데 무게를 둔 것으로 나타났다.최근 한국지역정보개발원(KLID)이 발간한 AI 이슈리포트에 따르면 16개 시·도 당선인의 AI 공약은 ▲시민체감·AI 행정혁신형 ▲산업혁신·클러스터형 ▲제조 AI전환(AX)·피지컬AI 전환형 ▲지역특화산업 융합형 등 네 가지 유형으로 분류된다. 과거 지자체 AI 정책이 행정 내부 시스템 구축과 산"
     },
     {
       "id": "eed1ad49981b",
@@ -89,6 +122,17 @@
       "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "published": "2026-06-13T16:47:18+00:00",
       "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+    },
+    {
+      "id": "023e552f7c48",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI coding at home without going broke",
+      "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "published": "2026-06-13T16:45:03+00:00",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 215 # Comments: 195"
     },
     {
       "id": "bb6c25c18030",
