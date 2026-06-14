@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-14T15:18:52.534071+00:00",
-  "count": 2367,
+  "updated_at": "2026-06-14T16:54:38.463730+00:00",
+  "count": 2371,
   "items": [
+    {
+      "id": "2d57232fc457",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "published": "2026-06-14T16:38:09+00:00",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+    },
+    {
+      "id": "d21dd17056fa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "published": "2026-06-14T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+    },
+    {
+      "id": "c821403cae93",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA's New Free Al - A Gift To All Of Us",
+      "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "published": "2026-06-14T15:27:17+00:00",
+      "summary": ""
+    },
     {
       "id": "2de9a3c34ee3",
       "source": "AI Explained",
@@ -221,6 +254,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211702",
       "published": "2026-06-14T07:33:45+00:00",
       "summary": "2024년 우크라이나 전장에서 AI가 인간 개입 없이 살상 여부를 스스로 결정한 완전 자율 드론이 사용된 것으로 알려지며 국제사회에 충격을 주고 있다. 10일(현지시간) 과학 전문 매체 뉴사이언티스트에 따르면, 우크라이나 드론 개발업체 고위 관계자인 알렉산더 코하노우스키는 최근 우크라이나 대사관이 주최한 행사에서 2024년 전선에 10대의 완전 자율 쿼드콥터 드론을 투입했다고 밝혔다.이 드론들은 우크라이나 전쟁에서 가장 치열한 격전지였던 바흐무트와 차시우 야르 인근으로 향했다. AI가 목표물을 탐"
+    },
+    {
+      "id": "26698bd76f41",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Don't trust large context windows",
+      "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "published": "2026-06-14T06:07:09+00:00",
+      "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows Comments URL: https://news.ycombinator.com/item?id=48524620 Points: 210 # Comments: 148"
     },
     {
       "id": "d46fb40b425d",
