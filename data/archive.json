@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-15T19:33:55.377571+00:00",
-  "count": 2457,
+  "updated_at": "2026-06-15T22:05:37.493972+00:00",
+  "count": 2466,
   "items": [
+    {
+      "id": "20ac61720e2e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "published": "2026-06-15T21:50:21+00:00",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference."
+    },
+    {
+      "id": "239e39cd129c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "published": "2026-06-15T21:33:46+00:00",
+      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale."
+    },
+    {
+      "id": "563ca538d0f6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "published": "2026-06-15T21:15:08+00:00",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out startin"
+    },
+    {
+      "id": "ea72913fbb38",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "published": "2026-06-15T21:13:35+00:00",
+      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Com"
+    },
+    {
+      "id": "1af64a5f97a3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "link": "https://www.wired.com/story/the-best-fans-2026/",
+      "published": "2026-06-15T20:46:39+00:00",
+      "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room."
+    },
+    {
+      "id": "bdcfa93aa2e1",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "published": "2026-06-15T20:15:31+00:00",
+      "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog ."
+    },
     {
       "id": "0c9562f6aeb7",
       "source": "GitHub Blog",
@@ -157,6 +223,17 @@
       "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
     },
     {
+      "id": "3837ce6f1c1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Typst 0.15.0",
+      "link": "https://typst.app/docs/changelog/0.15.0/",
+      "published": "2026-06-15T17:24:17+00:00",
+      "summary": "Article URL: https://typst.app/docs/changelog/0.15.0/ Comments URL: https://news.ycombinator.com/item?id=48544396 Points: 229 # Comments: 55"
+    },
+    {
       "id": "b80a3f70b7a4",
       "source": "Ars Technica",
       "kind": "article",
@@ -196,6 +273,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "published": "2026-06-15T14:34:45+00:00",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
+    },
+    {
+      "id": "d0f815bdec47",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "published": "2026-06-15T14:34:45+00:00",
       "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
@@ -298,6 +386,17 @@
       "link": "https://crankgpt.com",
       "published": "2026-06-15T13:20:13+00:00",
       "summary": "Article URL: https://crankgpt.com Comments URL: https://news.ycombinator.com/item?id=48540854 Points: 226 # Comments: 91"
+    },
+    {
+      "id": "a7b6a1ceeebf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hetzner Price Adjustment",
+      "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "published": "2026-06-15T13:19:39+00:00",
+      "summary": "https://www.hetzner.com/pressroom/standardization-and-price-... Comments URL: https://news.ycombinator.com/item?id=48540844 Points: 256 # Comments: 380"
     },
     {
       "id": "17f2918e2c0f",
