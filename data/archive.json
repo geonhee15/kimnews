@@ -1,7 +1,172 @@
 {
-  "updated_at": "2026-06-15T15:42:34.738305+00:00",
-  "count": 2441,
+  "updated_at": "2026-06-15T19:33:55.377571+00:00",
+  "count": 2457,
   "items": [
+    {
+      "id": "0c9562f6aeb7",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "published": "2026-06-15T19:17:30+00:00",
+      "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset"
+    },
+    {
+      "id": "161d6194af3e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "published": "2026-06-15T19:07:02+00:00",
+      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing."
+    },
+    {
+      "id": "d206a0aa3588",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "All the news about Anthropic’s new AI fight with the White House",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "published": "2026-06-15T19:04:53+00:00",
+      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable"
+    },
+    {
+      "id": "c592330d953e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Why do South Koreans love AI so much?",
+      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "published": "2026-06-15T18:46:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machin"
+    },
+    {
+      "id": "a4830f083028",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The best early Amazon Prime Day deals so far",
+      "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+      "published": "2026-06-15T18:39:37+00:00",
+      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s l"
+    },
+    {
+      "id": "e83ad02b33fb",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "One man just liberated Fable... and now it’s illegal",
+      "link": "https://www.youtube.com/watch?v=ey_GaPdC9zk",
+      "published": "2026-06-15T18:35:58+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e2e917858712",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "published": "2026-06-15T18:30:58+00:00",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
+    },
+    {
+      "id": "3cb8c5a05a9e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published": "2026-06-15T18:30:34+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration "
+    },
+    {
+      "id": "4d13b908d1b4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+      "published": "2026-06-15T18:29:47+00:00",
+      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services."
+    },
+    {
+      "id": "be1246a2a0d7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "published": "2026-06-15T18:10:27+00:00",
+      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the inci"
+    },
+    {
+      "id": "e57c8ce091a7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Chrome is closing the loopholes that let old ad blockers keep working",
+      "link": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
+      "published": "2026-06-15T18:06:18+00:00",
+      "summary": "Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google phased out support for ad-blocking extensions built for Manifest V2, like uBlock Orig"
+    },
+    {
+      "id": "b5a4c0179cbb",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+      "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+      "published": "2026-06-15T17:55:46+00:00",
+      "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move."
+    },
+    {
+      "id": "efbb43f9465e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "published": "2026-06-15T17:44:10+00:00",
+      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the leg"
+    },
+    {
+      "id": "8a3b9c6602c8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "published": "2026-06-15T17:41:02+00:00",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+    },
+    {
+      "id": "b80a3f70b7a4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+      "published": "2026-06-15T16:32:14+00:00",
+      "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down."
+    },
     {
       "id": "fcf472cdf236",
       "source": "TechCrunch",
@@ -12,6 +177,17 @@
       "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "published": "2026-06-15T15:29:51+00:00",
       "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products."
+    },
+    {
+      "id": "8cf7805e1783",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Iroh 1.0",
+      "link": "https://www.iroh.computer/blog/v1",
+      "published": "2026-06-15T15:13:06+00:00",
+      "summary": "Article URL: https://www.iroh.computer/blog/v1 Comments URL: https://news.ycombinator.com/item?id=48542480 Points: 627 # Comments: 208"
     },
     {
       "id": "9bf932b04431",
