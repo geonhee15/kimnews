@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-16T21:48:34.087337+00:00",
-  "count": 2585,
+  "updated_at": "2026-06-16T23:20:40.608764+00:00",
+  "count": 2594,
   "items": [
+    {
+      "id": "de247c9817cc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG이노텍, 패키지기판 '슈퍼사이클' 본궤도…5년후 영업익 1조 예고",
+      "link": "https://zdnet.co.kr/view/?no=20260616090353",
+      "published": "2026-06-16T23:00:02+00:00",
+      "summary": "[지디넷코리아]LG이노텍이 향후 5년간 패키지솔루션 사업의 폭발적인 성장세를 예고했다. 오는 2031년까지 매출액 3조원, 영업이익 1조원 이상을 달성하는 것이 목표다. 반도체 슈퍼사이클의 효과로 고부가 기판 수요가 함께 급증하면서, 고객사 수요가 생산능력을 크게 웃돌고 있기 때문이다.고객사들도 LG이노텍의 기판 물량을 선제 확보하기 위해 적극 나서고 있다. 현재 LG이노텍은 구미 및 베트남 패키지기판 양산 라인 증설을 위해, 복수의 고객사로부터 미리 선수금을 받는 방안을 논의 중인 것으로 나타났"
+    },
+    {
+      "id": "ab536d8e215e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "published": "2026-06-16T22:34:17+00:00",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+    },
+    {
+      "id": "518af0cc5173",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+      "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+      "published": "2026-06-16T22:09:32+00:00",
+      "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain."
+    },
+    {
+      "id": "640802c434ee",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인텔 \"인텔 18A-P 공정 리스크 생산 단계 진입\"",
+      "link": "https://zdnet.co.kr/view/?no=20260616163122",
+      "published": "2026-06-16T22:00:01+00:00",
+      "summary": "[지디넷코리아]인텔이 16일(현지시간) 1.8나노급 파생 공정 '인텔 18A-P'가 예정대로 '리스크 생산' 단계에 접어들었다고 밝혔다. 지난 해 공개한 로드맵을 일정대로 이행하며 파운드리 사업 신뢰 강화에 나선 것이다.인텔 18A-P는 지난해 4월 '인텔 파운드리 다이렉트 커넥트 2025'에서 처음 공개된 공정이다. 지난해 4분기 양산에 들어간 인텔 18A를 기반으로 데이터센터용 CPU와 AI·고성능컴퓨팅(HPC) 반도체 생산에 최적화했다.이번 발표는 지난 14일(현지시간)부터 18일까지 미국 "
+    },
+    {
+      "id": "b8457920e1b0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월16일] 나델라가 경고한 ‘AI 공동화’…“AI는 소수 모델이 아닌 모든 기업의 문제”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211764",
+      "published": "2026-06-16T22:00:00+00:00",
+      "summary": "AI 산업은 지난 몇년 동안 하나의 가설을 바탕으로 움직여 왔습니다. 가장 강력한 모델을 만드는 기업이 가장 많은 가치를 가져간다는 것입니다.실제로 오픈AI와 앤트로픽, 구글, 메타, xAI 등은 수백억달러를 쏟아부으며 AGI 경쟁을 펼치고 있습니다. 엔비디아와 마이크로소프트, 아마존 등 인프라 기업들도 천문학적인 규모의 파트너십으로 지원에 나서고, 이제는 기업공개(IPO)를 앞두고 시장도 이들의 가치를 1조달러 이상으로 평가하고 있습니다. 즉, 프론티어 모델 기업이 AI의 최종 승자가 될 것이라"
+    },
     {
       "id": "b1560f42dfe1",
       "source": "Google DeepMind",
@@ -12,6 +67,28 @@
       "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "published": "2026-06-16T21:29:50+00:00",
       "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
+      "id": "f22667ba2b1c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[비욘드IT] AI 성능 낮춘 앤트로픽, 결과값도 제어한다면",
+      "link": "https://zdnet.co.kr/view/?no=20260616181223",
+      "published": "2026-06-16T21:05:26+00:00",
+      "summary": "[지디넷코리아]최근 앤트로픽이 사용자 모르게 인공지능(AI) 성능을 고의로 낮춘 사실이 드러났다. 이 어 미국 정부 지침 단 한 번에 글로벌 서비스를 전면 중단하는 사태까지 발생하며 파장이 일고 있다.특정 대상을 향한 AI 무기화와 외부 통제 위험성이 가시화되면서 국가 안보와 산업 기밀을 보호하기 위한 소버린 AI 구축 중요성이 커지는 추세다.16일 관련 업계에 따르면 글로벌 AI 서비스가 특정 국가나 기업을 겨냥해 결과값을 의도적으로 제어할 수 있을 뿐만 아니라 언제든 서비스 자체가 차단될 수 "
+    },
+    {
+      "id": "9abfe59e5268",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "published": "2026-06-16T21:00:35+00:00",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs."
     },
     {
       "id": "55601d767328",
@@ -210,6 +287,28 @@
       "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
       "published": "2026-06-16T16:42:32+00:00",
       "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering Comments URL: https://news.ycombinator.com/item?id=48558045 Points: 274 # Comments: 229"
+    },
+    {
+      "id": "223fc72a2baa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Is Meta destroying its engineering organization?",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "published": "2026-06-16T16:42:32+00:00",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering Comments URL: https://news.ycombinator.com/item?id=48558045 Points: 342 # Comments: 307"
+    },
+    {
+      "id": "5f12d8e4beca",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "published": "2026-06-16T16:40:58+00:00",
+      "summary": "Article URL: https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/ Comments URL: https://news.ycombinator.com/item?id=48558018 Points: 214 # Comments: 115"
     },
     {
       "id": "23b2b5239dcb",
