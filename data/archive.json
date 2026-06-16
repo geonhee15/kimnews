@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-06-16T10:31:08.675061+00:00",
-  "count": 2526,
+  "updated_at": "2026-06-16T15:30:16.647477+00:00",
+  "count": 2552,
   "items": [
+    {
+      "id": "7dd9b1b190ac",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "published": "2026-06-16T15:05:03+00:00",
+      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
+    },
+    {
+      "id": "ced1d2aa195a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Cybercab is the lightest, most efficient Tesla ever made",
+      "link": "https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa",
+      "published": "2026-06-16T15:02:39+00:00",
+      "summary": "Against all odds, the Tesla Cybercab is in production. And while Elon Musk's company may not have a very coherent plan for the tiny, autonomous two-seater, it's still taking the necessary steps to certify the EV's legitimacy. As such, Tesla recently filed paperwork with the Envir"
+    },
+    {
+      "id": "7c83b9d9ee6c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "published": "2026-06-16T15:00:00+00:00",
+      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
+    },
+    {
+      "id": "5fb0e0b61a84",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "published": "2026-06-16T14:50:09+00:00",
+      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs."
+    },
+    {
+      "id": "2718e2bfa441",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My Father Wants to Age in Place. AI Will Be Watching",
+      "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+      "published": "2026-06-16T14:00:00+00:00",
+      "summary": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies."
+    },
+    {
+      "id": "a897d93b7773",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Traditional Home Insurance Is Collapsing. Here’s What Could Fill the Gap",
+      "link": "https://www.wired.com/story/ai-assisted-parametric-insurance-climate-change/",
+      "published": "2026-06-16T14:00:00+00:00",
+      "summary": "A new, AI-assisted model of insurance is quietly exploding in disaster-prone areas—and may be coming for FEMA too. Is it the answer to climate change, or a trap?"
+    },
+    {
+      "id": "b6a3b91e544a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 2030이 동대문으로 몰려간다, 젤리슈즈 꾸미기",
+      "link": "https://zdnet.co.kr/view/?no=20260616111150",
+      "published": "2026-06-16T13:22:52+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 동대문에 2030 세대가 몰려드는 이유, 혹시 눈치채셨나요? 핵심은 바로 '가격'이에요. 백화점에서 5만 원을 호가하는 신발이 동대문에선 단돈 2만 원에 팔리고 있는데요, AMEET 전문가 토론 결과 이 열풍의 진짜 원인은 힙한 문화(35%)보다 재고 덤핑(65%)이라는 분석이 압도적이었어요. 실제로 동대문은 전국 신발 유통의 무려 70%를 담당하던 유통 중심지였다가 팬데믹으로 최저점을 찍었는데, 지금 그 재고들이 파격가로 풀리면서 극적인 부"
+    },
+    {
+      "id": "93645d4b47ff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KISA 보안 업데이트 공지 갈수록 늘어...AI 때문",
+      "link": "https://zdnet.co.kr/view/?no=20260616160058",
+      "published": "2026-06-16T13:20:31+00:00",
+      "summary": "[지디넷코리아]글로벌 보안, 클라우드 인프라 기업들의 인공지능(AI) 활용이 늘어나면서 AI를 통한 취약점 발견도 눈에 띄게 늘어났다. AI로 취약점을 찾아내는 시대가 현실로 다가온 것이다. 이에 따라 전문가들은 효율적이고 신속한 대응이 필요하다고 주문했다.16일 한국인터넷진흥원(KISA) 보호나라에 따르면 올해 글로벌 보안·클라우드 인프라 제품의 보안 업데이트 공지가 전년 대비 크게 늘었다. 지난해 4분기(10월~12월) 보안 업데이트 공지는 총 26건에 그쳤으나, 올해 1분기 50건으로 2배 "
+    },
+    {
+      "id": "00b292392656",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "published": "2026-06-16T13:15:09+00:00",
+      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems."
+    },
+    {
+      "id": "bb3a1d1bf439",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미래에셋 MTS에서만 안보이는 신한자산운용 스페이스X 편입…미공개vs전산오류",
+      "link": "https://zdnet.co.kr/view/?no=20260616214241",
+      "published": "2026-06-16T13:07:52+00:00",
+      "summary": "[지디넷코리아]신한자산운용이 출시한 상장지수펀드(ETF) 'SOL 미국항공 TOP10'의 정보가 미래에셋증권 모바일트레이딩시스템(MTS)에서만 정확하지 않다는 정황이 포착됐다.16일 소셜네트워크서비스(SNS)에는 해당 ETF 상품이 카카오페이증권 MTS ETF 개요에는 스페이스엑스(Space X) 상품이 편입된 것으로 나왔지만 미래에셋증권 MTS ETF에는 이 같은 사실이 빠졌다는 내용이 게재됐다.확인한 결과 한국투자증권, 삼성증권은 물론이고 해당 ETF 내용을 볼 수 있는 한국거래소에서도 신한자"
+    },
+    {
+      "id": "9d7a385b3f00",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 정부, 미토스·페이블 폐쇄…'중국 연계' 한국 통신사 때문",
+      "link": "https://zdnet.co.kr/view/?no=20260616220606",
+      "published": "2026-06-16T13:06:06+00:00",
+      "summary": "[지디넷코리아]미국 행정부가 앤트로픽(Anthropic)의 최강 AI 모델 미토스(Mythos)와 그 일반 버전 페이블(Fable)을 사흘 만에 오프라인으로 내리게 한 배경에, 중국과 연계됐다고 의심받은 한 한국 통신사가 있었던 것으로 전해졌다. 악시오스(Axios) 등 미 언론에 따르면, 이번 수출통제는 단순한 모델 보안 결함을 넘어 '앤트로픽이 강력한 기술을 누구에게 줬는가'에 대한 신뢰 붕괴에서 비롯됐다.미 언론 보도를 종합하면, 앤트로픽은 미토스 접근 기관 111곳의 명단을 행정부에 제출해"
+    },
+    {
+      "id": "96a636d49fd2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips",
+      "link": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price",
+      "published": "2026-06-16T13:00:00+00:00",
+      "summary": "Microsoft is launching new Surface Laptops and a Surface Pro with Qualcomm Snapdragon X2 processors. These are direct follow-ups to the Surface Laptops and Surface Pro from 2024 that launched with Snapdragon X1 chips and jumpstarted Microsoft's Copilot Plus PC initiative with Win"
+    },
+    {
+      "id": "9bf4832ca943",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "published": "2026-06-16T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his b"
+    },
+    {
+      "id": "da6b60bc0bd6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mechanical Watch (2022)",
+      "link": "https://ciechanow.ski/mechanical-watch/",
+      "published": "2026-06-16T11:26:27+00:00",
+      "summary": "Article URL: https://ciechanow.ski/mechanical-watch/ Comments URL: https://news.ycombinator.com/item?id=48553550 Points: 369 # Comments: 60"
+    },
+    {
+      "id": "9cfe4d14f47e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
+      "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+      "published": "2026-06-16T11:25:00+00:00",
+      "summary": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys."
+    },
+    {
+      "id": "11f602c399eb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "published": "2026-06-16T11:21:41+00:00",
+      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
+    },
+    {
+      "id": "ee16703c524e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "published": "2026-06-16T11:15:46+00:00",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
+    },
+    {
+      "id": "73f0d9bd5900",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
+      "link": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
+      "published": "2026-06-16T11:00:00+00:00",
+      "summary": "The Meta-owned social platform announced a series of new features launching today, including a \"Your Algo\" tool that lets users control what they see in their feeds"
+    },
     {
       "id": "6e27cca05a6e",
       "source": "TechCrunch",
@@ -69,6 +267,39 @@
       "summary": "퀄컴이 AI 칩 스타트업 텐스토렌트 인수를 추진하는 것으로 알려졌다. 거래 규모는 80억~100억달러(약 12조~15조원)에 이를 것으로 예상되며, 성사되면 퀄컴의 AI와 데이터센터 칩 사업 확대 전략에 중요한 전환점이 될 전망이다.15일(현지시간) 디 인포메이션에 따르면, 퀄컴과 텐스토렌트는 최근 인수 협상을 진행해 왔다.거론되는 기업 가치는 텐스토렌트가 2024년 12월 투자 유치 당시 기록한 26억달러를 크게 웃도는 수준이다. 업계에서는 퀄컴이 현금과 주식을 혼합하는 방식으로 텐스토렌트를 인"
     },
     {
+      "id": "8342bb76c932",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김미섭·허선호 미래에셋 대표, 스페이스X 투자자에 사과…보상 검토",
+      "link": "https://zdnet.co.kr/view/?no=20260616183420",
+      "published": "2026-06-16T09:36:59+00:00",
+      "summary": "[지디넷코리아]미래에셋증권이 스페이스X 공모주 배정 실패에 대해 사과하고 보상 방안을 마련하겠다고 밝혔다.16일 금융투자업계에 따르면 김미섭·허선호 미래에셋증권 각자대표는 전날 스페이스X 청약 참여 투자자를 대상으로 사과 문자 메시지를 전달했다.두 대표는 “이번 스페이스X 기업공개(IPO) 청약에 큰 관심과 기대를 가지고 참여해 주신 고객님들께 매우 안타깝고 무거운 소식을 전해드리게 되어 고개 숙여 사과의 말씀을 드린다”고 말했다.피해 고객을 대상으로 금전적 보상도 검토 중이다.두 대표는 “이번 "
+    },
+    {
+      "id": "4d2b501fe21c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 4 '오리지널' 모델 2종 API서 즉시 퇴출…유예 기간 없어",
+      "link": "https://zdnet.co.kr/view/?no=20260616183028",
+      "published": "2026-06-16T09:30:28+00:00",
+      "summary": "[지디넷코리아]앤트로픽(Anthropic)이 6월 15일 클로드(Claude) 4세대 초기 모델 두 종을 API에서 전면 퇴출했다. 메이크(Make) 헬프센터와 엔터프라이즈DNA(Enterprise DNA) 등에 따르면, 이날 클로드 소네트 4(claude-sonnet-4-20250514)와 클로드 오퍼스 4(claude-opus-4-20250514)가 클로드 API에서 더 이상 호출되지 않는다. 점진적 축소나 별도의 유예 기간 없이 곧바로 사용이 중단됐다.두 모델은 지난해 5월 공개된 클로드 4"
+    },
+    {
+      "id": "5bc07d341940",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한-UAE, 원유 공급·원전·플랜트 분야 협력 심화",
+      "link": "https://zdnet.co.kr/view/?no=20260616160840",
+      "published": "2026-06-16T09:30:01+00:00",
+      "summary": "[지디넷코리아]한-UAE 협력 관계가 특별 전략적 동반자 관계를 바탕으로 더욱 강화딜 전망이다.산업통상부는 김정관 장관이 16일 자원안보 강화와 경제협력 확대를 위한 중동 3개국 방문 마지막 일정으로 아랍에미리트(UAE)를 방문, 아부다비 국영석유공사(ADNOC) CEO와 에너지인프라부 차관, 원자력공사(ENEC) 사장과 잇따라 만나 협력방안을 논의했다.김 장관은 원유 등 글로벌 자원·에너지 공급망에서 핵심 역할을 하는 ADNOC의 무사베 알 카비 상류 부분 CEO 등 주요 고위급 인사들과 회담을"
+    },
+    {
       "id": "4cab3db2155e",
       "source": "Wired",
       "kind": "article",
@@ -78,6 +309,17 @@
       "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
       "published": "2026-06-16T09:30:00+00:00",
       "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”"
+    },
+    {
+      "id": "2271ad15fcae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "published": "2026-06-16T09:26:09+00:00",
+      "summary": "Article URL: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827 Comments URL: https://news.ycombinator.com/item?id=48552687 Points: 348 # Comments: 196"
     },
     {
       "id": "0b70eea002c2",
@@ -100,6 +342,50 @@
       "link": "https://www.youtube.com/shorts/9U2A5qIAvIg",
       "published": "2026-06-16T09:18:25+00:00",
       "summary": ""
+    },
+    {
+      "id": "1b17dbf5cff9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SOOP, 태국·대만서 통했다…로컬 콘텐츠로 글로벌 시청자 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260616181621",
+      "published": "2026-06-16T09:17:48+00:00",
+      "summary": "[지디넷코리아]SOOP이 e스포츠를 넘어 스포츠와 엔터테인먼트 등 지역 맞춤형 콘텐츠를 앞세워 글로벌 이용자 확보에 속도를 내고 있다. 태국과 대만, 베트남 등에서 현지 콘텐츠와 전략적 파트너십을 확대하며 해외 플랫폼 경쟁력을 강화하는 모습이다.SOOP은 태국, 대만, 베트남 등을 중심으로 글로벌 콘텐츠 사업을 확대하고 있다고 16일 밝혔다.올해 초 국내 플랫폼과 글로벌 플랫폼을 통합한 SOOP은 리그 오브 레전드(LoL) 국제 대회 선발전 '로드 투 EWC'를 영어와 중국어로 단독 중계하며 해외"
+    },
+    {
+      "id": "d9ba36f1db30",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[강은성 보안칼럼] AI의 사이버 공격에 대응하기 위하여",
+      "link": "https://zdnet.co.kr/view/?no=20260616175741",
+      "published": "2026-06-16T08:57:42+00:00",
+      "summary": "[지디넷코리아]2026년 4월 7일, 앤트로픽(Anthropic)에서 프론티어 AI 모델인 클로드 미소스 프리뷰(Claude Mythos Preview)를 발표하면서 ‘보안 동네’에 한바탕 ‘폭풍’이 불어닥쳤다.앤트로픽은 리눅스의 27년 동안 찾아내지 못한 보안 취약점을 탐지하고, 그에 대한 공격 코드를 생성하는 등 미소스 프리뷰가 이전 AI 모델과는 질적으로 다른 탁월한 사이버 공격 능력을 가졌음을 밝혔다.영국 AI보안연구소(AISI)는 자체 사이버 보안 능력 평가 모델인 ‘The Last On"
+    },
+    {
+      "id": "cd5998b7f31a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, 지난해 개발·사업에 51조원 투입…순익 19조원 그쳐",
+      "link": "https://zdnet.co.kr/view/?no=20260616172636",
+      "published": "2026-06-16T08:50:38+00:00",
+      "summary": "[지디넷코리아]오픈AI가 지난해 인공지능(AI) 개발·사업 확장에 340억 달러(약 51조 3000억원)를 투입했지만 수익성은 이에 미치지 못한 것으로 나타났다.16일 파이낸셜타임스(FT) 등 외신에 따르면 오픈AI는 2025년 AI 연구·개발(R&D)에 약 190억 달러(약 28조 6700억원), 영업·마케팅에 약 60억 달러(약 9조 540억원)를 지출했다. 같은 기간 매출은 약 130억 달러(약 19조 6000억)원)인 것으로 나타났다. FT는 오픈AI 수익성이 비용 증가 속도를 따라가지 못"
+    },
+    {
+      "id": "0b7d073d517a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 시대, 비즈니스 혁신 전략 논한다…CIS 2026 17일 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260616163230",
+      "published": "2026-06-16T08:50:03+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 혁신의 무게 중심이 바뀌고 있다. 데이터 분석과 자동화로 운영을 보조하는 단계를 넘어 기술을 얼마나 빠르고 깊게 통합해 실제 성과로 전환하느냐가 핵심 과제로 떠오른 모습이다.기술 도입의 다음 단계로 업무·데이터·클라우드·보안을 하나로 묶는 통합 운영과 측정 가능한 성장이 지목된 가운데, 기술 혁신이 주도하는 미래와 핵심 과제를 조명하는 글로벌 기업 간 거래(B2B) 컨퍼런스가 열린다.지디넷코리아는 오는 17일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스 그랜드볼룸에"
     },
     {
       "id": "0f825c65e4af",
