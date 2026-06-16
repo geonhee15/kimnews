@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-06-16T15:30:16.647477+00:00",
-  "count": 2552,
+  "updated_at": "2026-06-16T19:04:06.604836+00:00",
+  "count": 2577,
   "items": [
+    {
+      "id": "d02bb6d79b59",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+      "link": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+      "published": "2026-06-16T18:30:00+00:00",
+      "summary": "Google’s Android 17 update includes highlights like new floating “Bubble” app windows for easier multitasking, a Screen Reaction recording mode, and a 50/50 split gaming mode for foldable phones. Meanwhile, Wear OS 7 brings Live Updates, better battery life for smart watches, and"
+    },
+    {
+      "id": "e30a4b2be2ca",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
+      "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
+      "published": "2026-06-16T18:22:24+00:00",
+      "summary": "Qualcomm's CEO said today that the company is working on over 40 new AI hardware designs"
+    },
+    {
+      "id": "f6dde9e22b16",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why the Reflecting Pool Is Full of Algae After Trump's Renovation",
+      "link": "https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/",
+      "published": "2026-06-16T18:14:59+00:00",
+      "summary": "Warm weather has fueled a bloom that National Park Service workers are trying to kill using everything from hydrogen peroxide to nanobubbles ahead of July 4 celebrations."
+    },
+    {
+      "id": "69dba869981b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+      "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "published": "2026-06-16T18:11:05+00:00",
+      "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools."
+    },
+    {
+      "id": "55afc23c0029",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android 17 starts hitting Pixel phones and watches today",
+      "link": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
+      "published": "2026-06-16T18:00:08+00:00",
+      "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes."
+    },
+    {
+      "id": "1e26dd221048",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "published": "2026-06-16T18:00:00+00:00",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices."
+    },
+    {
+      "id": "744249ee677c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android 17 arrives on Pixel phones today",
+      "link": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction",
+      "published": "2026-06-16T18:00:00+00:00",
+      "summary": "Following its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature announced alongside the OS at the pre-I/O Android Show is available today though. An"
+    },
+    {
+      "id": "34d5b1b25bc5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
+      "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
+      "published": "2026-06-16T18:00:00+00:00",
+      "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4 , adding a new Live Updates feature that tracks live events from your Android smart watch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal del"
+    },
+    {
+      "id": "2e8b33d84072",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "published": "2026-06-16T17:50:52+00:00",
+      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm."
+    },
+    {
+      "id": "4b4f93d87069",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business",
+      "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+      "published": "2026-06-16T17:50:23+00:00",
+      "summary": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to."
+    },
+    {
+      "id": "b44e1c8810a9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "published": "2026-06-16T17:04:05+00:00",
+      "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for "
+    },
+    {
+      "id": "6c7ef052fba8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+      "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "published": "2026-06-16T17:00:00+00:00",
+      "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a "
+    },
+    {
+      "id": "7907fb4ac066",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Google / Xreal Aura XR glasses are now available to preorder",
+      "link": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
+      "published": "2026-06-16T17:00:00+00:00",
+      "summary": "The Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for the second Android XR device, now dubbed the Xreal Aura, are available for $99 starting today, with a full launch in the US, UK, Japan, Canada, "
+    },
+    {
+      "id": "8ddbf61ab627",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "published": "2026-06-16T16:49:44+00:00",
+      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
+    },
+    {
+      "id": "23b2b5239dcb",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "published": "2026-06-16T16:37:45+00:00",
+      "summary": "Separately, neither could compete. Now they hope they can."
+    },
+    {
+      "id": "4b910037c8f1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+      "link": "https://www.wired.com/story/best-robot-vacuum/",
+      "published": "2026-06-16T16:27:18+00:00",
+      "summary": "Tired of vacuuming? Hand the reins to a robot vacuum."
+    },
+    {
+      "id": "e6e97a95df36",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "published": "2026-06-16T16:18:07+00:00",
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&D, other expenses."
+    },
+    {
+      "id": "e83e4ea02fa9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "link": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "published": "2026-06-16T16:12:06+00:00",
+      "summary": "Article URL: https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work Comments URL: https://news.ycombinator.com/item?id=48557530 Points: 201 # Comments: 68"
+    },
+    {
+      "id": "48dce89c504f",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Claude AI Knows More Than It Tells You",
+      "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+      "published": "2026-06-16T15:53:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d3a679b22786",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published": "2026-06-16T15:53:12+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration "
+    },
     {
       "id": "7dd9b1b190ac",
       "source": "TechCrunch",
@@ -45,6 +265,28 @@
       "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
       "published": "2026-06-16T14:50:09+00:00",
       "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs."
+    },
+    {
+      "id": "65ff8321eb8b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Running local models is good now",
+      "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "published": "2026-06-16T14:36:57+00:00",
+      "summary": "Article URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/ Comments URL: https://news.ycombinator.com/item?id=48555993 Points: 567 # Comments: 272"
+    },
+    {
+      "id": "19c71c531203",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mobileye is entering the US robotaxi market with standalone service",
+      "link": "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
+      "published": "2026-06-16T14:20:51+00:00",
+      "summary": "The service will leverage its Moovit platform to launch in an a US city in 2027."
     },
     {
       "id": "2718e2bfa441",
@@ -190,6 +432,17 @@
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
     },
     {
+      "id": "50adacdbe3d7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "published": "2026-06-16T11:15:46+00:00",
+      "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
+    },
+    {
       "id": "73f0d9bd5900",
       "source": "TechCrunch",
       "kind": "article",
@@ -256,6 +509,17 @@
       "summary": "사카나 AI가 기업의 최고 전략책임자(CSO)와 팀이 몇 주에 걸쳐 수행해야 할 정도의 방대한 전략 조사 업무를 대신 수행하도록 설계된 자율형 AI 에이전트를 공개했다. 사카나 AI는 15일(현지시간) 기업용 자율 연구 에이전트인 ‘사카나 마린(Sakana Marlin)’을 출시했다.이를 단순한 챗봇이 아닌 ‘가상 최고 전략책임자(Virtual CSO)’로 포지셔닝하며, 기업의 전략 수립과 시장 조사, 경쟁 분석을 자동화하는 B2B 플랫폼이라고 설명했다. 마린은 일반적인 챗봇과 달리, 몇초 안으로"
     },
     {
+      "id": "5ab79cfff3a8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Correlated randomness in Slay the Spire 2",
+      "link": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "published": "2026-06-16T09:46:49+00:00",
+      "summary": "Article URL: https://tck.mn/blog/correlated-randomness-sts2/ Comments URL: https://news.ycombinator.com/item?id=48552844 Points: 224 # Comments: 70"
+    },
+    {
       "id": "de6859acc9df",
       "source": "AI타임스",
       "kind": "article",
@@ -320,6 +584,17 @@
       "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
       "published": "2026-06-16T09:26:09+00:00",
       "summary": "Article URL: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827 Comments URL: https://news.ycombinator.com/item?id=48552687 Points: 348 # Comments: 196"
+    },
+    {
+      "id": "848fcefda080",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "published": "2026-06-16T09:26:09+00:00",
+      "summary": "Article URL: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827 Comments URL: https://news.ycombinator.com/item?id=48552687 Points: 488 # Comments: 292"
     },
     {
       "id": "0b70eea002c2",
