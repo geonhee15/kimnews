@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-16T19:04:06.604836+00:00",
-  "count": 2577,
+  "updated_at": "2026-06-16T21:48:34.087337+00:00",
+  "count": 2585,
   "items": [
+    {
+      "id": "b1560f42dfe1",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published": "2026-06-16T21:29:50+00:00",
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
+      "id": "55601d767328",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What are git worktrees, and why should I use them?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+      "published": "2026-06-16T20:58:54+00:00",
+      "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "c1389fedcaf1",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "published": "2026-06-16T20:35:02+00:00",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent d"
+    },
+    {
+      "id": "2460cf25f04a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple is about to make Hide My Email useless",
+      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "published": "2026-06-16T18:37:21+00:00",
+      "summary": "Article URL: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/ Comments URL: https://news.ycombinator.com/item?id=48559935 Points: 222 # Comments: 105"
+    },
     {
       "id": "d02bb6d79b59",
       "source": "The Verge",
@@ -157,6 +201,17 @@
       "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
     },
     {
+      "id": "043b6b9a7cc5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why is Meta destroying its engineering organization?",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "published": "2026-06-16T16:42:32+00:00",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering Comments URL: https://news.ycombinator.com/item?id=48558045 Points: 274 # Comments: 229"
+    },
+    {
       "id": "23b2b5239dcb",
       "source": "Ars Technica",
       "kind": "article",
@@ -207,6 +262,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Claude AI Knows More Than It Tells You",
+      "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+      "published": "2026-06-16T15:53:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c5734392bda7",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
       "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
       "published": "2026-06-16T15:53:17+00:00",
       "summary": ""
@@ -531,6 +597,17 @@
       "summary": "퀄컴이 AI 칩 스타트업 텐스토렌트 인수를 추진하는 것으로 알려졌다. 거래 규모는 80억~100억달러(약 12조~15조원)에 이를 것으로 예상되며, 성사되면 퀄컴의 AI와 데이터센터 칩 사업 확대 전략에 중요한 전환점이 될 전망이다.15일(현지시간) 디 인포메이션에 따르면, 퀄컴과 텐스토렌트는 최근 인수 협상을 진행해 왔다.거론되는 기업 가치는 텐스토렌트가 2024년 12월 투자 유치 당시 기록한 26억달러를 크게 웃도는 수준이다. 업계에서는 퀄컴이 현금과 주식을 혼합하는 방식으로 텐스토렌트를 인"
     },
     {
+      "id": "12e1664b56f1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퀄컴, 짐 켈러의 텐스토렌트 인수 추진…모바일 넘어 데이터센터로 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211782",
+      "published": "2026-06-16T09:39:55+00:00",
+      "summary": "퀄컴이 AI 칩 스타트업 텐스토렌트 인수를 추진하는 것으로 알려졌다. 거래 규모는 80억~100억달러(약 12조~15조원)에 이를 것으로 예상되며, 성사되면 퀄컴의 AI와 데이터센터 칩 사업 확대 전략에 중요한 전환점이 될 전망이다.15일(현지시간) 디 인포메이션에 따르면, 퀄컴과 텐스토렌트는 최근 인수 협상을 진행해 왔다.거론되는 기업 가치는 텐스토렌트가 2024년 12월 투자 유치 당시 기록한 26억달러를 크게 웃도는 수준이다. 업계에서는 퀄컴이 현금과 주식을 혼합하는 방식으로 텐스토렌트를 인"
+    },
+    {
       "id": "8342bb76c932",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -680,6 +757,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽, '클로드 맥스' 허위 광고 집단소송 직면...\"프로 요금제보다 20배 더 준다더니\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211752",
+      "published": "2026-06-16T08:30:46+00:00",
+      "summary": "앤트로픽이 고가의 AI 구독 서비스 사용 한도를 과장해 광고했다는 혐의로 집단소송에 직면했다. 원고 측은 앤트로픽이 프리미엄 요금제 가입자들에게 약속한 수준의 사용량을 실제로 제공하지 못하면서도 이를 충분히 설명하지 않았다고 주장하고 있다.월스트리트저널(WSJ)에 따르면, 이번 소송은 15일(현지시간) 워싱턴 D.C. 거주자인 칼 칸이 제기했으며, 미국 캘리포니아 북부 연방법원에 제출됐다.소송은 지난해 4월 이후 앤트로픽의 프리미엄 요금제를 구매한 이용자들을 대상으로 집단소송 승인을 요청하고 있다"
+    },
+    {
+      "id": "76a736ed2a52",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드 맥스' 허위 광고 집단소송 직면...\"토큰 용량 못 미쳐\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211752",
       "published": "2026-06-16T08:30:46+00:00",
       "summary": "앤트로픽이 고가의 AI 구독 서비스 사용 한도를 과장해 광고했다는 혐의로 집단소송에 직면했다. 원고 측은 앤트로픽이 프리미엄 요금제 가입자들에게 약속한 수준의 사용량을 실제로 제공하지 못하면서도 이를 충분히 설명하지 않았다고 주장하고 있다.월스트리트저널(WSJ)에 따르면, 이번 소송은 15일(현지시간) 워싱턴 D.C. 거주자인 칼 칸이 제기했으며, 미국 캘리포니아 북부 연방법원에 제출됐다.소송은 지난해 4월 이후 앤트로픽의 프리미엄 요금제를 구매한 이용자들을 대상으로 집단소송 승인을 요청하고 있다"
