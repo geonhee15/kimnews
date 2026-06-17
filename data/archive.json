@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-17T20:56:42.745604+00:00",
-  "count": 2709,
+  "updated_at": "2026-06-17T22:44:40.584066+00:00",
+  "count": 2716,
   "items": [
+    {
+      "id": "ae66b9f5d765",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월17일] 앤트로픽을 둘러싼 미국의 달라진 시선...\"AI 안전론의 역설\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211815",
+      "published": "2026-06-17T22:00:00+00:00",
+      "summary": "불과 몇달 전만 해도 앤트로픽은 미국 AI 업계에서 가장 많은 지지를 받는 기업 중 하나였습니다.지난 2월 트럼프 행정부와 갈등을 빚었을 당시만 해도, 실리콘 밸리와 AI 업계 상당수는 앤트로픽의 편이었습니다. 구글이나 오픈AI 등 경쟁사 연구원들과 업계 관계자들은 정부의 조치를 비판했고, 샘 알트먼 오픈AI CEO까지도 공개적으로 앤트로픽을 옹호했습니다. 당시에는 \"정부가 AI 혁신을 과도하게 제약하는 것 아니냐\"라는 문제의식이 있었습니다.하지만 최근 앤트로픽을 둘러싼 미국 내 분위기는 이전과는"
+    },
+    {
+      "id": "01ffcd4c9a43",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices",
+      "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+      "published": "2026-06-17T21:42:21+00:00",
+      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our best to mitigate the huge increases that are being passed to us, and we've been t"
+    },
+    {
+      "id": "0bcd7c3cc16a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+      "published": "2026-06-17T21:30:50+00:00",
+      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist."
+    },
+    {
+      "id": "58d7ff87164b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "워시 미 연준의장 첫 FOMC, 만장일치 금리 동결…한 차례 인상 '가능성'",
+      "link": "https://zdnet.co.kr/view/?no=20260618051816",
+      "published": "2026-06-17T21:00:52+00:00",
+      "summary": "[지디넷코리아]케빈 워시 미국 연방준비제도(연준)의장이 처음 참여한 공개시장위원회(FOMC)에서 금리를 종전과 같은 수준인 3.50~3.75%로 동결했다.이번 FOMC에서 케빈 워시 의장은 향후 금리 수준을 가늠할 수 있는 점도표에 참여하지 않았지만, 18명 위원 중 9명은 올해 금리 인상을 예측해 한 차례 금리 조정 가능성이 점쳐지고 있다.16~17일(현지시간) 열린 연준 FOMC에서는 위원 만장일치로 금리(3.50~3.75%)가 동결됐다. 연준이 2025년 하반기 0.75%p 인하한 이후 동결"
+    },
     {
       "id": "3cbea7c53453",
       "source": "The Verge",
@@ -78,6 +122,17 @@
       "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
       "published": "2026-06-17T19:25:19+00:00",
       "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents."
+    },
+    {
+      "id": "3fc726583b9c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "published": "2026-06-17T19:25:19+00:00",
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents."
     },
     {
       "id": "3a5d12b5f19a",
@@ -265,6 +320,28 @@
       "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
       "published": "2026-06-17T15:00:00+00:00",
       "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved."
+    },
+    {
+      "id": "2610d75ae779",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[종합] 앤트로픽, 한국 법인 본격 가동…\"수출통제 곧 해결\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617195811",
+      "published": "2026-06-17T14:59:03+00:00",
+      "summary": "[지디넷코리아]\"한국은 세계에서 가장 빠르게 성장하는 시장 중 하나입니다. 상업·기술·정책·운영을 아우르는 전담팀을 서울에 구축해 빠르게 규모를 키우겠습니다.\"크리스 차우리 앤트로픽 인터내셔널 총괄은 17일 서울 영등포구 콘래드호텔에서 열린 서울 오피스 개소 기념 기자간담회에서 이같이 밝혔다. 앤트로픽은 이날 한국 법인 운영을 공식화하며 국내 기업과 스타트업은 물론, 연구·공익 분야를 아우르는 전방위 파트너십을 가속하겠다고 발표했다. 국내 도입 사례를 보면 네이버가 아시아 최대 규모로 엔지니어링 "
+    },
+    {
+      "id": "0d15feb6f288",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 서울 상륙…기업·연구·공익 전방위 공략",
+      "link": "https://zdnet.co.kr/view/?no=20260617170159",
+      "published": "2026-06-17T14:59:02+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 서울 오피스를 열고 국내 고객·파트너 지원 강화를 비롯해 인공지능(AI) 생태계 전반과의 협력 확대에 나선다.앤트로픽은 17일 서울 영등포구 콘래드 호텔에서 기자 간담회를 열고 서울 오피스 개소를 공식화했다.이날 현장에는 크리스 차우리 앤트로픽 인터내셔널 총괄과 최기영 앤트로픽 한국 대표가 참석해 국내 유수 기업과 스타트업은 물론, 연구·공익 분야 기관 및 클로드 개발자 커뮤니티와의 파트너십 계획을 발표했다.앤트로픽에 따르면 한국 산업 전반에 걸쳐 자사 AI 모델인 클로드"
     },
     {
       "id": "e4c80474b3aa",
