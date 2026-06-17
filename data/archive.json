@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-06-17T18:33:18.021175+00:00",
-  "count": 2698,
+  "updated_at": "2026-06-17T20:56:42.745604+00:00",
+  "count": 2709,
   "items": [
+    {
+      "id": "3cbea7c53453",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "published": "2026-06-17T20:43:28+00:00",
+      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a reference image, and sharing images through VSCO Galleries. VSCO "
+    },
+    {
+      "id": "49d41914c188",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 서울 사무소 공식 개소...\"수출 통제 리스크 없을 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211840",
+      "published": "2026-06-17T20:31:04+00:00",
+      "summary": "앤트로픽은 18일 여의도 콘래드 호텔에서 미디어 브리핑을 열고, 국내 오피스 공식 개소에 따른 비즈니스 전략을 공개했다. 이날 행사는 최기영 앤트로픽 한국 대표의 최근 취임에 따른 것으로, 본사에서는 크리스 차우리 앤트로픽 인터내셔널 총괄이 참석했다.특히, 현장에서는 미국 정부의 페이블 5와 미소스 5 모델의 수출 통제에 관심이 집중됐다. 그러나 앤트로픽은 말을 아꼈다.이 문제로 이날 참석 예정이었던 톰 브라운 최고 컴퓨팅책임자(CCO)는 방한하지 않았다. 대신, 크리스 차우리 총괄은 “브라운을 "
+    },
+    {
+      "id": "c2d7c2d33512",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "published": "2026-06-17T20:17:38+00:00",
+      "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts "
+    },
+    {
+      "id": "8b20814e1bc1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 압축 시각 정보 ‘고해상도’로 복원하는 AI 개발…”온디바이스 메모리 효율 향상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211837",
+      "published": "2026-06-17T20:16:24+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 이광형)는 김창익 전기및전자공학부 교수 연구팀이 미국 MIT 및 마이크로소프트 연구진과의 공동 연구를 통해, 제한된 GPU 메모리만으로 AI 시각 성능을 높일 수 있는 범용 기술 ‘업샘플 애니띵(Upsample Anything)’을 개발했다고 18일 밝혔다. 논문은 AI 및 컴퓨터 비전 분야 국제 학회 ‘CVPR 2026’에 채택된 데 이어, 전체 1위인 ‘CVPR 컴퓨트 골드 스타’까지 수상했다.휴머노이드 로봇과 자율주행 시스템, 월드모델 등의 AI는 연산 속도를"
+    },
+    {
+      "id": "bf72b342148e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST “‘전력 10분의 1’ 액체 냉각 기술 개발…데이터센터 적용 가능”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211836",
+      "published": "2026-06-17T20:10:09+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 이광형)은 김성진 기계공학과 교수팀과 이익진 AX학과 교수팀이 공동 연구를 통해 기존 ‘매니폴드 마이크로채널(MMC)’ 냉각 기술의 한계를 극복하는 초고효율 액체 냉각 기술을 개발했다고 18일 밝혔다.매니폴드 마이크로채널은 머리카락보다 가는 미세 물길인 ‘마이크로채널’에 냉각수를 흘려 열을 제거하는 기술이다. 냉각수를 여러 지점에 동시 공급할 수 있어, 냉각 효율도 높일 수 있는 것이 특징이다.연구진은 기존에는 냉각수가 일부 채널에 집중되는 문제가 있었다고 지적했다"
+    },
+    {
+      "id": "45f4133ca82c",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Getting more from each token: How Copilot improves context handling and model routing",
+      "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "published": "2026-06-17T19:41:46+00:00",
+      "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "1492699f9128",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI coding agents can autonomously direct robot training",
+      "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "published": "2026-06-17T19:25:19+00:00",
+      "summary": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents."
+    },
+    {
+      "id": "3a5d12b5f19a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Epic wants to let you bring your Fortnite skins to other games",
+      "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+      "published": "2026-06-17T19:09:00+00:00",
+      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it wil"
+    },
+    {
+      "id": "12c656d3c642",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "published": "2026-06-17T19:01:19+00:00",
+      "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real."
+    },
     {
       "id": "adbffdf898ba",
       "source": "TechCrunch",
@@ -177,6 +276,17 @@
       "link": "https://lore.org/",
       "published": "2026-06-17T14:30:27+00:00",
       "summary": "Article URL: https://lore.org/ Comments URL: https://news.ycombinator.com/item?id=48571081 Points: 222 # Comments: 123"
+    },
+    {
+      "id": "826aa2a0c643",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Lore – Open source version control system designed for scalability",
+      "link": "https://lore.org/",
+      "published": "2026-06-17T14:30:27+00:00",
+      "summary": "Article URL: https://lore.org/ Comments URL: https://news.ycombinator.com/item?id=48571081 Points: 775 # Comments: 426"
     },
     {
       "id": "071daaf9cc05",
@@ -661,6 +771,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211832",
       "published": "2026-06-17T08:00:00+00:00",
       "summary": "■ LG CNS(대표 현신균)는 중소기업중앙회(KBIZ)와 '중소기업 AI 확산을 위한 대·중소 상생협력 모델 발굴'에 대한 업무협약(MOU)을 체결했다고 밝혔다. LG CNS는 AX 교육, 기술 지원, 유통·마케팅 지원 등 3개 분야에 2년간 총 42억원 규모의 지원을 돕는다. 중기중앙회가 선정한 중소 제조기업을 대상으로 제조 현장 데이터 수집체계 구축부터 AI 모델 개발·적용, 시스템 통합 등에 LG CNS의 기술력과 전문 인력을 투입할 예정이다.■ 에스투더블유(대표 서상덕)는 이파피루스와 파"
+    },
+    {
+      "id": "5703e2a99a7a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 카카오, ‘에이전틱 플레이어 10’ 공모전 개최 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211838",
+      "published": "2026-06-17T08:00:00+00:00",
+      "summary": "■ 카카오(대표 정신아)는 에이전틱 AI 생태계 활성화와 창의적인 AI 서비스 발굴을 위해 ‘에이전틱 플레이어 10’ 공모전을 개최한다고 밝혔다. 카카오의 ‘플레이MCP’를 활용해 다양한 AI 서비스와 도구를 개발하는 경진대회다. ■ 레디앤스타트(대표 조윤진)는 현직자 기반 커리어 플랫폼 ‘잇다’가 누적 가입 회원 40만명을 돌파했다고 밝혔다. 자체 개발 AI 진단 기술을 통해 구직자의 역량과 성향을 정교하게 분석하고, 현직자 네트워크를 활용해 현장 중심 맞춤형 지원 체계를 구축한 것이 주효했다는"
     },
     {
       "id": "5177ba530d30",
