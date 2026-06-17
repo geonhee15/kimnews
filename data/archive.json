@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-06-17T02:00:44.701182+00:00",
-  "count": 2603,
+  "updated_at": "2026-06-17T07:21:36.384036+00:00",
+  "count": 2629,
   "items": [
+    {
+      "id": "3184071c8df3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미 상무부, 앤트로픽에 '외국인 차단' 위반 시 민·형사 처벌 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211805",
+      "published": "2026-06-17T07:09:48+00:00",
+      "summary": "미국 정부가 앤트로픽에 최신 AI 모델을 외국인에게 제공하려면 정부 허가를 받아야 한다고 통보하고, 이를 위반할 경우 형사 및 민사 처벌에 직면할 수 있다고 경고한 것으로 밝혀졌다. 이에 따라 앤트로픽은 '페이블 5'와 '미소스 5'의 서비스를 전면 중단하게 됐다는 내용이다.블룸버그에 따르면, 하워드 러트닉 미국 상무부 장관은 지난 12일(현지시간) 다리오 아모데이 앤트로픽 CEO에게 보낸 서한에서 상무부의 개별 허가 없이 전 세계 어느 지역에서도 외국인에게 페이블 5와 미소스 5를 제공해서는 안"
+    },
+    {
+      "id": "bbff8f485940",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "STT GDC, 효성중공업과 국내 첫 데이터센터 개관",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211826",
+      "published": "2026-06-17T06:54:54+00:00",
+      "summary": "효성중공업과 싱가포르 데이터센터 운영기업 STT GDC의 합작법인 'STT GDC 코리아'가 국내 첫 데이터센터 'STT 서울 1'을 개관했다고 17일 밝혔다.STT 서울 1은 서울 금천구 가산동에 위치한 연면적 약 4만㎡, 30MW(메가와트) 규모의 하이퍼스케일 데이터센터다. 글로벌 '업타임 인스티튜트 티어 3' 설계인증(TCDD)을 획득했으며 무중단 운영과 에너지 효율성을 고려해 설계됐다.22.9킬로볼트(kV) 주·예비 2회선 이중화 전력 인입과 분산형 중복 구성(DR) 무정전전원장치(UPS)"
+    },
+    {
+      "id": "1bc691784c36",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "파수AI \"기업 AX 첫 단추, 비전·보안·인프라 설계\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617150013",
+      "published": "2026-06-17T06:54:21+00:00",
+      "summary": "[지디넷코리아]\"기업이 인공지능 전환(AX)으로 효과 보려면 도입 비전 설정과 보안 강화, 데이터 인프라 구축을 위한 컨설팅을 맞춤형으로 받아야 합니다. 이 과정을 거쳐야 '지속 가능한 AI 전환'을 실현할 수 있을 것입니다.\"최필준 파수AI 팀장은 17일 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '컨버전스 인사이트 서밋(CIS 2026)'에서 기업 AX 추진 전략을 이같이 밝혔다. 최 팀장은 AX 컨설팅이 단순 진단에 그쳐서는 안 된다고 봤다. 업무 환경과 프로세스, 페인 포인트, 데이터 준비"
+    },
+    {
+      "id": "11b08b501cb3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "소프트스퀘어드, 업스테이지 '솔라'에 FDE 결합해 기업 AX 시장 진출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211823",
+      "published": "2026-06-17T06:52:41+00:00",
+      "summary": "소프트스퀘어드(대표 이하늘)는 업스테이지와 AI 사업 협력 및 기업 AX 지원을 위한 업무협약(MOU)을 체결했다고 17일 밝혔다.업스테이지의 대형언어모델(LLM) '솔라'에 소프트스퀘어드의 전방 배치 엔지니어(FDE) 중심 개발 조직을 결합해 기업 맞춤형 AX 구축에 나선다는 내용이다.양사는 ▲고객사 업무 맥락 분석 ▲AI 적용 과업 설계 ▲API 통합 ▲UI/UX 구현 ▲기존 시스템 ▲연계 배포 및 운영 등 AX 전 과정을 담당한다.특히 업스테이지의 솔라 API와 광학문자인식(OCR) 기술을 "
+    },
+    {
+      "id": "d3eb6763399f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한국딥러닝, 1.2B 모델로 글로벌 '문서 파싱' 부문 1위...\"구글·오픈AI 제쳤다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211820",
+      "published": "2026-06-17T06:50:02+00:00",
+      "summary": "AI 문서 전문 한국딥러닝(대표 김지현)은 글로벌 문서 파싱 벤치마크 '파스벤치(ParseBench)'에서 비전언어모델(VLM) 부문 종합 1위를 기록했다고 17일 밝혔다.파스벤치는 AI 데이터 플랫폼 라마인덱스가 주관하는 문서 구조화 및 정보 추출 전문 벤치마크다. 보험·금융·정부 분야 실제 문서 2000여페이지를 바탕으로 AI가 문서를 정확히 읽고 구조화하는 능력을 5개 항목으로 평가한다.한국딥러닝은 이번 평가에서 76.4점으로 VLM 부문 1위에 올랐다. 구글의 '제미나이 3 플래시 씽킹 하"
+    },
+    {
+      "id": "000d54371f18",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "나무기술 \"AI 기반 VDI 포털로 하이브리드 업무환경 효율 높인다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617154505",
+      "published": "2026-06-17T06:48:27+00:00",
+      "summary": "[지디넷코리아]하이브리드 근무가 확산되면서 기업의 가상 데스크톱 인프라(VDI) 운영 방식도 바뀌고 있다. 보안 강화를 위해 도입된 VDI가 이제는 사용자 편의성과 운영 효율까지 함께 요구받는 핵심 업무 인프라로 진화하고 있다는 진단이다.김정재 나무기술 기술연구소 팀장은 17일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘커머스 이노베이션 서밋(CIS) 2026’에서 “VDI 포털은 단순한 웹서비스가 아니라 운영자를 수동 반복 업무에서 해방시키는 운영 혁신”이라고 강조했다.VDI는 과"
+    },
+    {
+      "id": "c97fb704457e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Arm \"GPU에 AI 가속기 접목, 중저가폰 게임 성능 향상\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617154405",
+      "published": "2026-06-17T06:45:03+00:00",
+      "summary": "[지디넷코리아]영국에 본사를 둔 반도체 설계자산(IP) 기업 Arm이 AI를 활용한 차세대 그래픽 기술 '뉴럴 렌더링(Neural Rendering)'을 공개했다. 모바일 게임 그래픽 품질 향상과 함께 Arm이 자체 개발한 GPU IP의 경쟁력 강화를 노렸다.모바일 게임 업계는 그래픽 품질을 높일수록 전력 소모와 발열이 증가하는 근본적 문제 해결을 위해 노력해 왔다. Arm이 15일 공개한 모바일 게임 '뉴럴 던(Neural Dawn)'은 이런 한계를 극복하기 위해 뉴럴 렌더링을 전면에 내세웠다."
+    },
+    {
+      "id": "3ffdf66cf29e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "신혜련 교수 \"UGC·AI가 바꾼 게임 패러다임…크로스플레이 전제 지원 절실\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617154430",
+      "published": "2026-06-17T06:44:30+00:00",
+      "summary": "[지디넷코리아]신혜련 명지대 디지털콘텐츠디자인학과 교수가 글로벌 게임 시장의 이용자 패러다임 변화에 대응하기 위해 멀티 플랫폼과 UGC(사용자 제작 콘텐츠) 플랫폼 중심의 산업 생태계 지원으로 정책 패러다임을 전환해야 한다고 제언했다.17일 서울 광화문 CKL 스테이지에서 열린 '2026 콘텐츠산업포럼'에서 신 교수는 '글로벌 이용자 패러다임 변화와 게임 플랫폼 다각화'를 주제로 발제에 나섰다. 신 교수는 소규모 인디 개발사들의 부상과 AI 기술 발전이 맞물려 글로벌 게임 시장의 문법이 급변하고 "
+    },
+    {
+      "id": "a0eb3106d719",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[단독] AI 수석에 AWS 이기혁 내정…李정부 'AI G3' 새 판 짠다",
+      "link": "https://zdnet.co.kr/view/?no=20260617153724",
+      "published": "2026-06-17T06:43:53+00:00",
+      "summary": "[지디넷코리아]하정우 전 청와대 인공지능(AI)미래기획수석 후임으로 이기혁 아마존웹서비스(AWS) 한국 스타트업 생태계 총괄이 낙점된 것으로 알려졌다. 한성숙 중소벤처기업부 장관이 국무총리 후보자로 지명되며 공석이 될 중기부 장관 후임에는 하 전 수석이, 임문영 국가AI전략위원회 상근 부위원장 후임에는 박태웅 국가AI전략위원회 공공AX분과장이 유력하게 거론되고 있어 'AI 3강(G3)' 달성을 위한 이재명 정부의 새 판 짜기 움직임이 본격 속도를 낼지 주목된다. 17일 업계와 정치권에 따르면 대통"
+    },
+    {
+      "id": "3b6fac4af194",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "비드래프트, GPQA 다이아몬드 90.9% 달성…\"AI 과학추론 기술 입증\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211828",
+      "published": "2026-06-17T06:40:51+00:00",
+      "summary": "비드래프트(대표 김민식)가 자체 개발한 과학추론 특화 인공지능 모델 ‘다윈(Darwin)-398B-JGOS’로 글로벌 AI 벤치마크에서 의미 있는 성과를 거뒀다.비드래프트는 다윈-398B-JGOS가 허깅페이스 공식 GPQA 다이아몬드 리더보드에서 90.9%의 점수를 기록하며 세계 1위를 차지했다고 17일 밝혔다. GPQA 다이아몬드는 생명과학, 물리학, 화학 등 전문 과학 지식을 바탕으로 한 고난도 문제들로 구성돼 있으며, 단순 암기보다 심층적인 추론 능력을 평가한다.이번 평가에서 다윈-398B-"
+    },
+    {
+      "id": "f0fc3aa16782",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HPE코리아 \"SDN, AI로 재정의…자율주행 네트워크가 미래 비전\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617151123",
+      "published": "2026-06-17T06:25:32+00:00",
+      "summary": "[지디넷코리아]\"오늘 SDN의 정의를 소프트웨어정의네트워크(Software-Defined Network)에서 셀프드라이빙네트워크(Self Driving Network)로 재정의한다.\"박정무 HPE코리아 매니저는 17일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '컨버전스 인사이트 서밋(CIS) 2026'에서 \"오늘 SDN을 셀프드라이빙네트워크로 정의내리고자 한다\"며 \"자율주행 네트워크야 말로 우리가 앞으로 나아가야 할 전략과 비전\"이라고 말했다.소프트웨어정의네트워크란 네트워크 제어 기"
+    },
+    {
+      "id": "80b95faac6f7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"넓은 폴더블 온다\"…갤럭시Z폴드8, 美 FCC 인증 통과",
+      "link": "https://zdnet.co.kr/view/?no=20260617140916",
+      "published": "2026-06-17T06:25:25+00:00",
+      "summary": "[지디넷코리아]삼성전자가 새롭게 선보이는 와이드형 폴더블 스마트폰 ‘갤럭시Z폴드8’이 미국 연방통신위원회(FCC) 인증 문서에 포착되면서 출시가 임박했다는 관측이 나오고 있다.16일(현지시간) 안드로이드오쏘리티 등 외신에 따르면, FCC 데이터베이스에 등록된 갤럭시Z폴드8(모델명 SM-F971U)은 대형 내부 디스플레이와 소형 커버 디스플레이를 갖춘 폴더블 스마트폰으로 확인됐다. 두 디스플레이 모두 카메라가 탑재됐으며, 공개된 도면 이미지를 통해 책처럼 안으로 접히는 폼팩터도 확인할 수 있다.FC"
+    },
+    {
+      "id": "871579d3820f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부가 제시한 AI 융합인재 육성 방안은",
+      "link": "https://zdnet.co.kr/view/?no=20260617151917",
+      "published": "2026-06-17T06:19:17+00:00",
+      "summary": "[지디넷코리아]정부가 기술뿐 아니라 인문사회 지식까지 갖춘 인공지능(AI) 융합인재 양성 방안을 논의했다. 국가AI전략위원회는 17일 오후 2시 전략위 회의실에서 '인문사회 기반 AI 융합교육 정책포럼'을 개최했다. 포럼은 위원회 교육·인재분과와 인문사회 융합인재양성사업 협의회가 공동 주관했다.이번 포럼에는 위원회 교육·인재분과 위원과 국가교육위원회 인문사회특별위원회 위원, 인문사회 융합인재양성사업 주관·참여대학 관계자 등이 참석했다. 교육부와 한국연구재단 관계자, 대학 AI 교육 전문가도 자리했"
+    },
+    {
+      "id": "01ef728d48a5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LG CNS, 프랑스 제네시스 AI와 산업용 로봇 '에노' 개발...연내 현장 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211813",
+      "published": "2026-06-17T06:14:27+00:00",
+      "summary": "LG CNS가 프랑스 로봇 기업과 손잡고 산업용 로봇 상용화에 나선다.16일(현지시간) 블룸버그에 따르면, LG CNS는 프랑스 로보틱스 기업 제네시스 AI와 전략적 파트너십을 체결한 것으로 알려졌다.제네시스 AI는 LG CNS와 산업용 로봇 '에노(Eno)' 개발에 나선다. 에노는 일반적인 이족보행 휴머노이드와 달리, 다리 대신 바퀴 달린 받침대, 접이식 상체, 사람 손과 동일한 구조의 핸드로 구성돼 있다.평평한 바닥 환경에서의 작업 효율을 극대화한 설계로, 창고 박스 운반부터 연구실 피펫팅 같"
+    },
+    {
+      "id": "6d1c880f361d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LG AI연구원, 디앤디파마텍과 AI 기반 펩타이드 신약 개발 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211817",
+      "published": "2026-06-17T06:09:28+00:00",
+      "summary": "LG AI연구원은 디앤디파마텍과 AI 기반 차세대 펩타이드 신약 공동 개발에 나선다고 17일 밝혔다.LG AI연구원은 질병 원인 물질 구조를 분석하는 AI 모델을 개발해 최적의 펩타이드 서열을 설계하고, 신약 후보 물질을 발굴한다. 디앤디파마텍은 AI가 도출한 후보물질의 구조 설계·합성·평가를 담당하며, 분자 모양을 최적화하는 기술을 적용해 경구 제형 개발부터 전임상·임상 시험, 글로벌 인허가 절차까지 수행한다.이를 통해 기존 주사제 중심에서 벗어나 알약 형태의 경구 치료제를 개발해 안전성과 흡수"
+    },
+    {
+      "id": "bed72f727e2d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "코드잇, AI 모의면접 서비스 ‘어센트’ 출시…AI 인재 인프라 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211824",
+      "published": "2026-06-17T06:08:40+00:00",
+      "summary": "AI 인재 채용 전문 코드잇(대표 강영훈, 이윤수)은 AI 모의면접 서비스 '어센트(Ascent)'를 정식 출시했다고 17일 밝혔다.어센트는 AI 기술을 활용해 목표 기업에 맞춘 다양한 모의 면접을 시간과 공간에 구애받지 않고 경험할 수 있는 AI 면접 서비스다. 구직자는 원하는 기업의 면접을 고르고, 이력서와 자기소개서를 업로드해 해당 내용을 토대로 모의면접을 진행할 수 있다. 100명 이상의 현직자 피드백과 수백건의 실제 합격 후기를 바탕으로 실제 면접 환경을 재현한 것이 특징이다. 임원·직무"
+    },
+    {
+      "id": "22b430bddbeb",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "통역사가 필요없는 세상이 왔다 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/kCAOVjZ3v9w",
+      "published": "2026-06-17T06:00:14+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f6d26e6bb1b6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, 옵션 거래 첫날 주가 폭발…아마존 시총 넘어 세계 5위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211804",
+      "published": "2026-06-17T05:50:35+00:00",
+      "summary": "스페이스X가 옵션 거래 개시와 함께 폭발적인 투자 수요를 끌어모으며 시가 총액 기준으로 아마존을 추월했다. 장중에는 마이크로소프트(MS)의 시가 총액마저 일시적으로 넘어서는 등 상장 직후 기록적인 상승세를 이어갔다.16일(현지시간) 스페이스X 주가는 전일 대비 4.8% 오른 201.80달러에 마감했다.이에 따라 시가 총액은 2조6550억달러(약 4016조원)로 확대되며, 아마존을 넘어 세계 5위 기업에 등극했다. 장중 한때 주가가 225.64달러까지 급등하면서 2조9400억달러를 기록, MS까지 "
+    },
+    {
+      "id": "fa84d7a1d71e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포, ‘책과 와인의 페어링’ 특강 연다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211814",
+      "published": "2026-06-17T05:37:40+00:00",
+      "summary": "AI 생성 영상목포청년센터 누리가 지역 청년을 대상으로 책과 와인을 함께 읽는 인문학 특강을 연다고 17일 밝혔다.누리는 24일 오후 4시 센터에서 청년 인문학 특강 ‘책은 핑계고: 책과 와인의 페어링’을 개최한다. 이번 강좌는 청년들의 문화적 감수성을 높이고 인문학적 소양을 넓히기 위해 마련됐다.프로그램은 와인에 담긴 역사와 문화, 문학 작품 속 이야기를 함께 살펴보는 방식으로 진행된다. 참가자들은 책과 와인이 지닌 공통점을 찾고, 문학 작품을 새로운 관점에서 이해하는 시간을 갖게 된다.강연은 "
+    },
+    {
+      "id": "2098625291ce",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 선암사 1박 2일 힐링캠프 ‘다시, 비움’ 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211811",
+      "published": "2026-06-17T05:37:29+00:00",
+      "summary": "AI 생성 영상순천시가 바쁜 일상과 업무로 지친 현대인을 위해 천년고찰 선암사에서 머물며 요가와 명상, 차담, 공양을 경험하는 힐링캠프 ‘다시, 비움’을 총 2회 운영한다고 17일 밝혔다.이번 프로그램은 선암사의 고즈넉한 자연환경과 천년의 역사를 배경으로 기획됐다. 단순 관람형 관광에서 벗어나 참가자가 직접 몸과 마음을 돌보며 회복의 시간을 갖는 능동형 치유관광 프로그램이다.운영 일정은 1차 7월 3일부터 4일까지, 2차 7월 4일부터 5일까지다. 회당 참가 인원은 20명으로 제한하며, 참가비는 "
+    },
+    {
+      "id": "4f7d03367c59",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 20일 한·일 핸드볼 클럽 최강전 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211803",
+      "published": "2026-06-17T05:37:19+00:00",
+      "summary": "AI 생성 영상여수시가 한·일 프로 핸드볼 정상급 클럽팀이 참가하는 국제 스포츠 대회를 개최하며 스포츠 관광도시로서의 위상 강화에 나선다고 17일 밝혔다.여수는 오는 20일 여수 진남체육관에서 ‘2026 한·일 핸드볼 클럽 챔피언결정전’을 개최한다. 이번 대회에는 한국과 일본 프로리그 남녀 우승팀 등 총 4개 팀이 참가해 양국 클럽 최강 자리를 놓고 맞붙는다.양국 정상급 선수단과 관계자, 핸드볼 팬들이 여수를 찾으면서 지역 스포츠 기반을 넓히고 국제 교류 분위기를 높이는 계기가 될 것으로 보인다."
+    },
+    {
+      "id": "e45dffb3374c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iRobot Promo Code: 15% Off",
+      "link": "https://www.wired.com/story/irobot-promo-code/",
+      "published": "2026-06-17T05:00:00+00:00",
+      "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration."
+    },
     {
       "id": "f815ec393656",
       "source": "ZDNet Korea",
@@ -113,6 +355,17 @@
       "summary": "[지디넷코리아]LG이노텍이 향후 5년간 패키지솔루션 사업의 폭발적인 성장세를 예고했다. 오는 2031년까지 매출액 3조원, 영업이익 1조원 이상을 달성하는 것이 목표다. 반도체 슈퍼사이클의 효과로 고부가 기판 수요가 함께 급증하면서, 고객사 수요가 생산능력을 크게 웃돌고 있기 때문이다.고객사들도 LG이노텍의 기판 물량을 선제 확보하기 위해 적극 나서고 있다. 현재 LG이노텍은 구미 및 베트남 패키지기판 양산 라인 증설을 위해, 복수의 고객사로부터 미리 선수금을 받는 방안을 논의 중인 것으로 나타났"
     },
     {
+      "id": "ef1a0aad74aa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "published": "2026-06-16T22:53:34+00:00",
+      "summary": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ Comments URL: https://news.ycombinator.com/item?id=48563394 Points: 210 # Comments: 49"
+    },
+    {
       "id": "ab536d8e215e",
       "source": "TechCrunch",
       "kind": "article",
@@ -122,6 +375,17 @@
       "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
       "published": "2026-06-16T22:34:17+00:00",
       "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+    },
+    {
+      "id": "f0af5b827653",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "published": "2026-06-16T22:22:44+00:00",
+      "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center."
     },
     {
       "id": "518af0cc5173",
@@ -333,6 +597,17 @@
       "summary": "Mobileye apparently wants to own some of the robotaxi market, even if that puts it in direct competition with companies it supplies its self-driving system to."
     },
     {
+      "id": "5e08a85a6a7c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "published": "2026-06-16T17:11:05+00:00",
+      "summary": "Article URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/ Comments URL: https://news.ycombinator.com/item?id=48558489 Points: 261 # Comments: 274"
+    },
+    {
       "id": "b44e1c8810a9",
       "source": "The Verge",
       "kind": "article",
@@ -364,6 +639,17 @@
       "link": "https://www.theverge.com/gadgets/950597/xreal-google-aura-xr-glasses-deposit-scheme",
       "published": "2026-06-16T17:00:00+00:00",
       "summary": "The Project Aura glasses collaboration between Xreal and Google is now one step closer to being something you can buy. Reservations for the second Android XR device, now dubbed the Xreal Aura, are available for $99 starting today, with a full launch in the US, UK, Japan, Canada, "
+    },
+    {
+      "id": "233dfa9eb41f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stop Using JWTs",
+      "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "published": "2026-06-16T16:49:46+00:00",
+      "summary": "Article URL: https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452 Comments URL: https://news.ycombinator.com/item?id=48558147 Points: 350 # Comments: 201"
     },
     {
       "id": "8ddbf61ab627",
