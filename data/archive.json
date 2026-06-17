@@ -1,7 +1,326 @@
 {
-  "updated_at": "2026-06-17T07:21:36.384036+00:00",
-  "count": 2629,
+  "updated_at": "2026-06-17T12:03:01.163996+00:00",
+  "count": 2662,
   "items": [
+    {
+      "id": "98475f166d81",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포스코, 광양에 국내 최대 전기로 준공…저탄소 고급강 승부수",
+      "link": "https://zdnet.co.kr/view/?no=20260617201334",
+      "published": "2026-06-17T11:13:34+00:00",
+      "summary": "[지디넷코리아]포스코가 전남 광양에 연산 250만톤 규모 대형 전기로를 준공하고 탄소저감 강재 생산에 본격적으로 나선다.포스코는 17일 광양제철소에서 대형 전기로 준공식을 열었다. 단일 설비 기준 국내 최대 규모로, 2024년 2월 착공 이후 약 6000억원이 투입됐다.전기로는 철스크랩을 재활용해 쇳물을 생산하는 설비로, 철광석과 석탄을 사용하는 고로 방식보다 탄소 배출량을 줄일 수 있다. 포스코는 전력 구성과 스크랩 수급 여건 등에 따라 차이가 있지만 고로 대비 최대 약 75% 탄소 감축이 가능"
+    },
+    {
+      "id": "9a623781d04e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber will bring its premium robotaxi service to Houston in 2027",
+      "link": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+      "published": "2026-06-17T11:00:00+00:00",
+      "summary": "This will be the second market to have an Uber robotaxi service outfitted with Lucid EVs equipped with a self-driving system from Nuro."
+    },
+    {
+      "id": "d3f87c264cb7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "published": "2026-06-17T11:00:00+00:00",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
+    },
+    {
+      "id": "d7ab35e14bcf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "기아, 60년 만에 버스 사업 철수 수순…노조 협의 전면 중단",
+      "link": "https://zdnet.co.kr/view/?no=20260617194403",
+      "published": "2026-06-17T10:50:35+00:00",
+      "summary": "[지디넷코리아]기아가 대형버스 생산 중단 방침을 노조에 공식 통보하면서 전국금속노동조합 기아자동차지부 광주지회가 노사 협의 전면 중단을 선언했다.광주지회는 17일 긴급 성명서를 내고 “고용대책 없는 버스 생산 중단은 받아들일 수 없다”며 모든 노사 협의와 7월 예정된 특별협의를 전면 중단하겠다고 밝혔다.광주지회에 따르면 기아는 이날 열린 고용안정위원회 실무협의 2차 회의에서 버스 생산 중단 계획을 공식화했다. 노조는 생산 중단 이후 생산 운영 계획과 미래 투자 계획, 고용안정 대책 등이 제시되지 "
+    },
+    {
+      "id": "30c748e93a36",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 의사도 대체할 수 있을까",
+      "link": "https://zdnet.co.kr/view/?no=20260617104840",
+      "published": "2026-06-17T10:16:33+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 'AI가 의사를 대체할 수 있을까?'라는 질문, 많이 들어보셨죠? 실제로 AI가 의사 국가시험을 응시했더니 무려 95점 이상을 받았다고 해요. 거의 시험지를 통째로 외운 수준인데요, 특히 영상 판독은 97%, 피부암 감별은 95%, 전염병 예측은 89%로 특정 분야에서는 이미 의사를 앞서는 성능을 보여주고 있어요. 다만 응급 상황 판단은 81%로 아직 사람 의사가 더 뛰어난 영역도 분명히 존재한답니다. 그렇다면 왜 아직 AI가 병원을 접수하지"
+    },
+    {
+      "id": "c08966069c01",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '페이블 5' 금지 이후 '코덱스' 용량 초과 시달려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211816",
+      "published": "2026-06-17T10:05:02+00:00",
+      "summary": "오픈AI의 '코덱스'가 일시적인 서비스 장애를 겪으며 일부 사용자들이 '모델 용량 초과(Model at Capacity)' 오류를 경험한 것으로 나타났다. 업계에서는 앤트로픽의 '페이블 5'와 '미소스 5'가 미국 정부의 수출 통제로 서비스가 중단된 이후, AI 코딩 도구 수요가 경쟁 서비스로 몰리면서 일시적인 부하가 발생했을 가능성에 주목하고 있다.티보 소티오 오픈AI 코덱스 총괄 책임자는 16일(현지시간) X를 통해 \"일부 코덱스 사용자들이 모델 용량 초과 오류로 높은 수준의 에러를 겪고 있다"
+    },
+    {
+      "id": "2fade68acaf6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'챗GPT' 독주 흔들…글로벌 점유율 사상 첫 50% 아래로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211810",
+      "published": "2026-06-17T09:57:22+00:00",
+      "summary": "오픈AI의 '챗GPT'가 처음으로 글로벌 점유율 50% 아래로 내려간 것으로 나타났다. 센서타워가 16일(현지시간) 공개한 '2026 AI 시장 보고서(State of AI Report 2026)'에 따르면, 구글 '제미나이'와 앤트로픽 '클로드'의 성장세로 경쟁이 심화하면서 사용자들이 여러 AI 비서 서비스를 오가는 현상이 뚜렷해지고 있다.챗GPT는 최근 성장세가 다시 빨라지며 월간 이용자 10억명을 돌파한 최초의 AI 애플리케이션이 됐다. 현재 월간 활성 사용자(MAU)는 11억명 이상으로 전"
+    },
+    {
+      "id": "341dc5a82aa1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥슨 데이터 플랫폼 '모노레이크' 비전은...\"초개인화 기능 내부 테스트\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617183657",
+      "published": "2026-06-17T09:51:58+00:00",
+      "summary": "[지디넷코리아]\"AI 시대에 모델은 빠르게 발전하지만, 우리 게임과 서비스 맥락이 담긴 데이터는 결코 대체할 수 없습니다. 결국 인공지능 전환(AX) 시대의 승부처는 데이터입니다.”'넥슨 개발자 콘퍼런스(NDC 26)'의 개막 이튿날 마련된 전문가 대담 시간에 넥슨의 전사 데이터 플랫폼 '모노레이크' 성과와 미래 비전이 공개됐다. 이날 오후 경기창조경제혁신센터 지하2층 국제회의장에서 열린 대담에는 류청훈 넥슨코리아 기술본부장, 배준영 넥슨코리아 플랫폼본부장, 임진식 스노우플레이크 코리아 SE 총괄"
+    },
+    {
+      "id": "d9069323aeb3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The next humanoid robot might not look human at all",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "published": "2026-06-17T09:46:56+00:00",
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup"
+    },
+    {
+      "id": "dc8242559577",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알리바바, 로봇 AI '큐원-로봇-스위트' 공개…챗봇 넘어 '피지컬 AI' 본격 진출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211827",
+      "published": "2026-06-17T09:42:22+00:00",
+      "summary": "알리바바가 로봇을 위한 차세대 기반 모델 제품군인 ‘큐원-로봇-스위트(Qwen-Robot-Suite)’를 공개했다. 이번에 발표된 모델은 로봇 조작과 월드 모델, 자율 내비게이션 등 다양한 로봇 문제를 해결하기 위한 3가지 독립 모델로 구성되며, 로봇 분야의 데이터 파편화 문제를 해결하는 데 초점을 맞췄다.알리바바는 16일(현지시간) ▲실제 물체 조작을 수행하는 '큐원-로봇매니프(Qwen-RobotManip)' ▲물리 환경의 변화를 예측·시뮬레이션하는 월드 모델 '큐원-로봇월드(Qwen-Robot"
+    },
+    {
+      "id": "2f46f37f03da",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오 노사 협상 다시 시작…연차 파업은 예정대로",
+      "link": "https://zdnet.co.kr/view/?no=20260617172020",
+      "published": "2026-06-17T09:13:40+00:00",
+      "summary": "[지디넷코리아]카카오 경영진과 노동조합이 중단됐던 교섭을 재개했다. 노사가 다시 협상에 나서면서 오는 29일 예고된 연차 파업 이전에 임금과 고용 안정 등을 둘러싼 이견을 좁힐 수 있을지 주목된다. 17일 관련업계에 따르면 민주노총 전국화학섬유식품산업노동조합 카카오지회(크루유니언)는 이번 주부터 카카오 본사와 교섭을 재개했다. 노사가 공식 교섭을 다시 진행하는 것은 지난 10일 경기 성남 판교에서 열린 부분 파업 이후 처음이다.노조도 교섭을 이어가고 있지만 오는 29일 예정된 연차 파업은 계획대로"
+    },
+    {
+      "id": "17936bb60f5c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI 지난해 51조 지출…'회계 착시' 빼면 실제 적자는 12조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211819",
+      "published": "2026-06-17T09:13:03+00:00",
+      "summary": "오픈AI가 지난해 연구개발과 인프라 구축에 막대한 자금을 투입하면서 총 340억달러(약 51조원)를 지출한 것으로 나타났다. 다만 회계상 순손실로 집계된 390억달러(약 59조원) 가운데 상당 부분이 일회성 평가손실에 따른 것으로, 실제 현금성 적자는 약 80억달러(약 12조원) 수준인 것으로 알려졌다.파이낸셜타임스(FT)는 16일(현지시간) 오픈AI의 2025년 감사 재무제표를 확인한 관계자를 인용, 오픈AI가 지난해 총 340억달러를 지출했다고 보도했다.이 가운데 연구개발(R&D) 비용이 19"
+    },
+    {
+      "id": "351dbf6dd0b1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "published": "2026-06-17T09:12:00+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index Comments URL: https://news.ycombinator.com/item?id=48567759 Points: 204 # Comments: 82"
+    },
+    {
+      "id": "a9a650499906",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "자율주행·UAM·AI시티 기술 총출동…‘국토교통기술대전’ 24일 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260617181044",
+      "published": "2026-06-17T09:10:44+00:00",
+      "summary": "[지디넷코리아]미래모빌리티와 첨단 인공지능(AI)시티 기술 등 정부와 기업이 함께 개발한 미래 국토교통기술을 체험할 수 있는 장이 서울 코엑스에 열린다.국토교통부와 국토교통과학기술진흥원(KAIA)는 자율주행·우주항공·스마트건설·AI 시티 등 미래성장동력을 직접 체험할 수 있는‘2026 국토교통기술대전’이 24일부터 26일까지 사흘간의 일정으로 서울 삼성동 코엑스에서 막을 올린다고 17일 밝혔다.올해로 15회째를 맞는 기술대전은 ‘미래를 바꾸는 기술(Move For Tomorrow)’을 주제로 열린"
+    },
+    {
+      "id": "37a5d3699e86",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"인간 출입 금지\"…'비커밍 샤크' 전시장서 AI 상어 돼보니",
+      "link": "https://zdnet.co.kr/view/?no=20260617151431",
+      "published": "2026-06-17T09:03:42+00:00",
+      "summary": "[지디넷코리아]\"인간 세상은 잠시 안녕! 뾰족이빨마을은 인간 출입 금지 구역이야. 상어가 돼보자.\"\"희정 상어! 와줘서 고마워~ 희정 상어는 어떤 상어를 만날 때 가장 좋은지 알려줘.\"5년 6개월 연속 전 세계 유튜브 조회수 1위를 기록한 '아기상어'가 생성형 AI를 만나 새로운 오프라인 체험 콘텐츠로 진화했다. 더핑크퐁컴퍼니는 AI 기술을 활용해 관람객마다 서로 다른 이야기가 전개되는 세계 최초의 인터랙티브 전시를 선보이며 글로벌 IP 확장에 나선다.더핑크퐁컴퍼니는 17일 서울 동대문디자인플라자"
+    },
+    {
+      "id": "add03c0e6b56",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI를 구독하는게 개이득인 이유",
+      "link": "https://www.youtube.com/shorts/cqNMflUpCCw",
+      "published": "2026-06-17T09:00:20+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c68b27fe8cb9",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "published": "2026-06-17T09:00:00+00:00",
+      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial je"
+    },
+    {
+      "id": "e0e9e0720c7b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "BTS 콘서트에 부산 우버 이용 급증…5건 중 4건 외국인",
+      "link": "https://zdnet.co.kr/view/?no=20260617173037",
+      "published": "2026-06-17T08:59:30+00:00",
+      "summary": "[지디넷코리아]부산에서 열린 방탄소년단(BTS) 콘서트 기간 우버 이용이 크게 늘었다. 콘서트 양일간 우버 이용 5건 가운데 4건은 외국인 승객이 이용한 것으로 나타났다.우버는 지난 12일부터 14일까지 부산 지역 이동 데이터를 분석한 결과 약 16만명의 국내외 이용자가 서비스를 이용했다고 17일 밝혔다.이 기간 한국을 포함한 전 세계 111개국 이용자가 부산에서 우버를 이용했다. 외국인 활성 이용자 수는 대만, 미국, 중국, 일본, 홍콩 순으로 많았다.우버는 공연장 주변 교통 혼잡을 줄이기 위해"
+    },
+    {
+      "id": "11a6dbde7ea5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"구직자 주목\"...코드잇, AI 모의면접 서비스 ‘어센트’ 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260617175755",
+      "published": "2026-06-17T08:57:55+00:00",
+      "summary": "[지디넷코리아]코드잇(대표 강영훈·이윤수)이 AI 모의면접 서비스 '어센트'를 정식 출시하면서, AI 인재 인프라 확장을 본격화 한다고 17일 밝혔다. 회사는 학습부터 채용까지, 구직자 취업 전반을 돕는다는 방침이다.어센트는 AI 기술을 활용해 목표 기업에 맞춘 다양한 모의 면접을 시간과 공간에 구애받지 않고 경험할 수 있는 AI 면접 서비스다. 구직자는 원하는 기업의 면접을 고르고, 이력서와 자기소개서를 업로드하면 해당 내용을 토대로 모의면접을 진행할 수 있다. 어센트는 100명 이상의 현직자 "
+    },
+    {
+      "id": "c2d41e8998ed",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퀄컴 \"새로운 AI 기기 40종 개발 중...에이전트가 앱 대체할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211833",
+      "published": "2026-06-17T08:56:41+00:00",
+      "summary": "퀄컴이 스마트폰 이후 시대를 겨냥한 차세대 AI 기기 개발에 속도를 내고 있다. 현재 40종이 넘는 AI 웨어러블 기기 설계를 진행 중이며, 앞으로 AI 에이전트가 기존 모바일 앱의 역할을 상당 부분 대체할 것으로 전망했다.크리스티아누 아몬 퀄컴 CEO는 16일(현지시간) CNBC와의 인터뷰에서 \"현재 40개가 넘는 AI 기기 디자인을 개발하고 있으며, 폼팩터도 매우 다양하다\"라고 밝혔다.그가 언급한 차세대 기기에는 보석 형태의 웨어러블, 카메라가 탑재된 이어버드, 브로치, 스마트워치 등이 포함된"
+    },
+    {
+      "id": "a5dcc40ae4d1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미 국방부, ‘그록’ 활용해 이란 공습 계획 수립…\"96시간 만에 2000개 표적 타격 지원\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211834",
+      "published": "2026-06-17T08:49:39+00:00",
+      "summary": "일론 머스크 CEO의 xAI가 개발한 ‘그록(Grok)’이 올해 초 미국과 이스라엘의 대이란 군사작전에서 실제 폭격 임무 계획 수립에 활용된 것으로 드러났다. 미국 국방부는 그록이 군의 표적 선정과 정보 분석을 지원하며 단기간에 대규모 공격 작전을 수행하는 데 핵심 역할을 했다고 밝혔다.16일(현지시간) 디 인포메이션에 따르면, 미 국방부 최고 디지털·AI 책임자인 캐머런 스탠리는 최근 법원에 제출된 서류에서 그록 기반 AI 모델이 국방부의 AI 플랫폼인 ‘메이븐 스마트 시스템(Maven Smar"
+    },
+    {
+      "id": "b4471d772df7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "장한용 NC AI 피지컬AI랩장 \"AI 립싱크 기술 완성, 음성만으로 표정 연출 제작\"",
+      "link": "https://zdnet.co.kr/view/?no=20260617173315",
+      "published": "2026-06-17T08:42:14+00:00",
+      "summary": "[지디넷코리아]\"게임 그래픽과 바디 애니메이션 기술이 상향 평준화되면서 이제 이용자들은 캐릭터의 세밀한 '얼굴 표정'을 바라보고 있습니다.\"장한용 NC AI 피지컬AI랩장은 17일 '2026 넥슨 개발자 컨퍼런스(NDC 26)'에서 이같이 말하며, 음성만으로 표정 애니메이션을 자동 생성하는 기술과 실무 적용 노하우를 공개했다.장 랩장에 따르면, 학계와 업계에서는 이미 디퓨전(Diffusion)과 트랜스포머(Transformer) 모델을 기반으로 오디오 기반 립싱크 기술 연구를 지속해 왔다. 엔비디"
+    },
+    {
+      "id": "2e31f279a7b7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷플릭스, 부산서 K콘텐츠 글로벌 성공 비결 알린다",
+      "link": "https://zdnet.co.kr/view/?no=20260617172907",
+      "published": "2026-06-17T08:41:00+00:00",
+      "summary": "[지디넷코리아]넷플릭스는 2026 코리아국제스트리밍페스티벌에 참여해 K콘텐츠 제작 과정과 글로벌 경쟁력에 관한 강연을 진행한다고 17일 밝혔다.페스티벌은 스트리밍 산업의 현재를 성찰하고 미래의 방향성을 제시하는 행사로, 과학기술정보통신부와 부산광역시가 주최한다.넷플릭스는 오는 20일 부산 영화의전당 하늘연극장에서 '콘텐츠의 경계를 넘다'라는 주제로 한국 특수시각효과(VFX) 업계와 작품의 완성도를 높여온 여정과 K콘텐츠의 글로벌 경쟁력을 소개한다.VFX에 대한 기술 투자와 인재 양성, 제작 생태계"
+    },
+    {
+      "id": "b980ae482c53",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '안드로이드 17' 정식 출시…'제미나이 옴니·리리아3'로 AI 경험 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211831",
+      "published": "2026-06-17T08:28:36+00:00",
+      "summary": "구글이 최신 모바일 운영체제(OS)인 '안드로이드 17(Android 17)'을 출시했다. 이번 업데이트는 멀티태스킹과 콘텐츠 제작, 보안 기능을 대폭 강화하는 한편, 연내 선보일 차세대 AI 기능의 기반을 마련하는 데 초점을 맞췄다.구글은 16일(현지시간) 안드로이드 17과 스마트워치용 운영체제 웨어 'OS 7(Wear OS 7)'을 공개했다.새로운 운영체제는 우선 구글 '픽셀(Pixel)' 기기부터 적용되며, 이후 삼성전자 등 주요 안드로이드 제조사 제품으로 확대될 예정이다.핵심은 앞으로 도입"
+    },
+    {
+      "id": "c3a176b5461a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 몸값 75조 인정...‘의결권 없는 투자’로 경영권 사수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211825",
+      "published": "2026-06-17T08:14:52+00:00",
+      "summary": "딥시크가 창사 이후 처음으로 외부 투자 유치에 나서 500억위안(약 11조1880억원) 이상을 조달했다. 특히 이번 투자 라운드는 일반적인 벤처 투자 방식과 달리 창업자인 량원펑 CEO가 절대적인 경영권을 유지할 수 있도록 설계된 독특한 구조를 채택해 주목받았다.16일(현지시간) 디 인포메이션에 따르면, 투자자들은 딥시크 본사에 직접 투자하는 대신 량원펑 CEO가 운용하는 유한책임파트너십(LP)에 자금을 출자하는 방식으로 참여했다. 기업 가치는 500억달러(약 75조6000억원) 수준이다.이 구조"
+    },
+    {
+      "id": "0cf2809471a5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] LG CNS, 중기중앙회와 중소 제조기업 AX 돕는다 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211832",
+      "published": "2026-06-17T08:00:00+00:00",
+      "summary": "■ LG CNS(대표 현신균)는 중소기업중앙회(KBIZ)와 '중소기업 AI 확산을 위한 대·중소 상생협력 모델 발굴'에 대한 업무협약(MOU)을 체결했다고 밝혔다. LG CNS는 AX 교육, 기술 지원, 유통·마케팅 지원 등 3개 분야에 2년간 총 42억원 규모의 지원을 돕는다. 중기중앙회가 선정한 중소 제조기업을 대상으로 제조 현장 데이터 수집체계 구축부터 AI 모델 개발·적용, 시스템 통합 등에 LG CNS의 기술력과 전문 인력을 투입할 예정이다.■ 에스투더블유(대표 서상덕)는 이파피루스와 파"
+    },
+    {
+      "id": "5177ba530d30",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "포라이즌, ‘MK골프장 평가’ 23년 정상 이어 전국 2위…호남권 1위 재확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211818",
+      "published": "2026-06-17T07:42:01+00:00",
+      "summary": "포스코와이드가 운영하는 프리미엄 골프장 ‘포라이즌’이 ‘2026 MK 대한민국 골프장 평가’에서 전국 회원제 골프장 종합 2위에 올랐다.포라이즌은 매일경제가 주관한 이번 평가에서 종합 점수 837.32점을 기록했다. 특히 라운드 경험을 바탕으로 한 전반적 만족도와 코스 레이아웃·관리 상태 부문에서 회원제 골프장 전체 1위를 차지했다. 2023년 첫 선정 이후 4년 연속 광주·전라권 최상위권을 유지하며 호남권 대표 골프장으로서의 입지를 재확인했다.이번 조사는 실제 골프 소비 흐름을 주도하는 40~6"
+    },
+    {
+      "id": "83db45bc5ee1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국 정부, AI 기업 '외국인 직원' 첨단 모델 접근 금지 검토...\"중국 기술 유출 우려\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211809",
+      "published": "2026-06-17T07:29:19+00:00",
+      "summary": "미국 정부가 앤트로픽의 최신 AI 모델에 대해 수출 통제를 적용하면서, 이번 조치가 특정 기업에 대한 제재를 넘어 미국 AI 산업 전반의 외국인 인재 활용을 제한하는 방향으로 확대될 수 있다는 우려가 커지고 있다. 업계에서는 사실상 AI 모델 출시 허가제와 외국인 연구자 접근 규제의 신호탄이 될 수 있다는 경계감이 커지는 분위기다.미국 상무부는 최근 앤트로픽에 최신 AI 모델인 '페이블 5'와 '미소스 5'를 외국인에게 제공하려면 정부 허가를 받아야 한다고 통보했다. 여기서 외국인은 해외 이용자뿐"
+    },
+    {
+      "id": "0d11d838bc22",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 클라우드, 국내에 ‘보안 운영 플랫폼’ 공식 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211829",
+      "published": "2026-06-17T07:12:05+00:00",
+      "summary": "구글 클라우드는 17일 구글 클라우드 서울 리전에서 ‘구글 보안 운영 플랫폼(Google SecOps)’의 로컬 데이터 레지던시 지원을 공식 발표하고 국내 기업을 지원하겠다고 밝혔다.구글 보안 운영 플랫폼은 구글의 위협 인텔리전스 및 AI 기반 보안 운영 플랫폼으로, 위협 대응에 필요한 속도∙규모∙인사이트를 제공하며 에이전틱 사이버 방어 역량 강화를 지원하게 될 예정이다. 금융·공공 등 규제 산업군에 유용할 것이라는 설명이다.서울 리전에서 구글 보안 운영 플랫폼을 공식 지원함에 따라, 국내 기업은"
+    },
     {
       "id": "3184071c8df3",
       "source": "AI타임스",
@@ -245,6 +564,28 @@
       "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration."
     },
     {
+      "id": "529143996ce9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+      "published": "2026-06-17T01:40:22+00:00",
+      "summary": "Article URL: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/ Comments URL: https://news.ycombinator.com/item?id=48564696 Points: 277 # Comments: 206"
+    },
+    {
+      "id": "48ea04f7bbea",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published": "2026-06-17T01:18:05+00:00",
+      "summary": ""
+    },
+    {
       "id": "f815ec393656",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -342,6 +683,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211793",
       "published": "2026-06-17T00:10:00+00:00",
       "summary": "AI 인프라 플랫폼 전문 텐(대표 오세진)은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 '2026 글로벌 ICT 미래 유니콘 육성사업(ICT GROWTH)' 지원 기업으로 선정됐다고 17일 밝혔다.이는 ICT 기업을 발굴해 유니콘 기업으로 육성하기 위한 국가 사업이다. 기술 우수성, 시장 확대 가능성, 투자유치 실적 등 기업의 성장 잠재력을 평가해 주식회사 텐과 리벨리온을 포함해 15개사가 최종 선정됐다.이번 선정을 통해 텐은 글로벌 시장 진출을 위한 현지 프로그램, 투자 및 금융"
+    },
+    {
+      "id": "15d4677dd299",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published": "2026-06-17T00:01:25+00:00",
+      "summary": ""
     },
     {
       "id": "de247c9817cc",
@@ -573,6 +925,17 @@
       "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
       "published": "2026-06-16T18:00:00+00:00",
       "summary": "Google's Wear OS 7 update is starting to roll out today for the Pixel Watch 2, 3, and 4 , adding a new Live Updates feature that tracks live events from your Android smart watch. Live Updates will now sync with Wear OS devices, so updates like sports scores or an ongoing meal del"
+    },
+    {
+      "id": "83b076d9d269",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "published": "2026-06-16T17:54:02+00:00",
+      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/ Comments URL: https://news.ycombinator.com/item?id=48559188 Points: 224 # Comments: 226"
     },
     {
       "id": "2e8b33d84072",
