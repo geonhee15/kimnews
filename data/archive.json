@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-06-17T16:02:04.769115+00:00",
-  "count": 2679,
+  "updated_at": "2026-06-17T18:33:18.021175+00:00",
+  "count": 2698,
   "items": [
+    {
+      "id": "adbffdf898ba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "published": "2026-06-17T18:30:56+00:00",
+      "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects."
+    },
+    {
+      "id": "4abf831745e0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic got hit by export rules nobody understands",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "published": "2026-06-17T18:28:50+00:00",
+      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fa"
+    },
+    {
+      "id": "e4243b2f7cce",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+      "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+      "published": "2026-06-17T18:25:35+00:00",
+      "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One."
+    },
+    {
+      "id": "1c045c960aec",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "\"Dangerous\" AI models are coming no matter what",
+      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "published": "2026-06-17T17:50:46+00:00",
+      "summary": "AI models with advanced hacking capabilities will soon be the norm."
+    },
+    {
+      "id": "461d70b8a076",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "published": "2026-06-17T17:43:07+00:00",
+      "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch."
+    },
+    {
+      "id": "b209ef559f9a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "published": "2026-06-17T17:20:24+00:00",
+      "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Spe"
+    },
+    {
+      "id": "8f969cfc9f01",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "published": "2026-06-17T17:00:01+00:00",
+      "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows."
+    },
+    {
+      "id": "48444b72c320",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+      "published": "2026-06-17T17:00:00+00:00",
+      "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done."
+    },
+    {
+      "id": "ea7b6c1c1cff",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "published": "2026-06-17T16:30:09+00:00",
+      "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions."
+    },
+    {
+      "id": "875c01c3a33c",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I read every major CS paper of the last 100 years...",
+      "link": "https://www.youtube.com/watch?v=ML3q7Ok4hJg",
+      "published": "2026-06-17T16:29:01+00:00",
+      "summary": ""
+    },
+    {
+      "id": "37b278bc5759",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "published": "2026-06-17T16:27:00+00:00",
+      "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the enti"
+    },
+    {
+      "id": "a8a16f1fc22a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PayPal Ventures shutters as company restructuring continues",
+      "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+      "published": "2026-06-17T16:10:13+00:00",
+      "summary": "The corporate venture arm ends after 10 years and 80 investments."
+    },
+    {
+      "id": "116bb08f5c8d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "published": "2026-06-17T15:57:14+00:00",
+      "summary": "Google's new smart speaker is more about Gemini than audio quality."
+    },
     {
       "id": "d6cb7e7863e7",
       "source": "The Verge",
@@ -47,6 +190,17 @@
       "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium."
     },
     {
+      "id": "e93e560b8481",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"N2SF 전환 대응\"...한싹, ‘시큐어게이트 V4.0’ 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260617230653",
+      "published": "2026-06-17T14:06:53+00:00",
+      "summary": "[지디넷코리아]한싹(대표 이주도)이 국가망보안체계(N2SF) 전환에 대응하는 망간자료전송(망연계) 솔루션 ‘시큐어게이트 V4.0(SecureGate V4.0)’을 출시했다. 이번 신제품을 앞세워 N2SF 전환으로 재편되는 망연계 시장 공략에 속도를 낸다.17일 회사에 따르면, '시큐어게이트 V4.0'은 제로 트러스트 원칙과 생성형 AI·클라우드 대응 기술을 결합한 차세대 망연계 플랫폼이다. 보안과 비보안 영역 사이에서 자료 전송, 실시간 스트림 연계, 메일 연계, 간접연동 등을 안전하게 지원한다."
+    },
+    {
       "id": "00e0e4be268f",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -89,6 +243,17 @@
       "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
       "published": "2026-06-17T13:05:03+00:00",
       "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars Comments URL: https://news.ycombinator.com/item?id=48569954 Points: 398 # Comments: 153"
+    },
+    {
+      "id": "c2864e40a209",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Want your images back? That'll be $5",
+      "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "published": "2026-06-17T13:05:03+00:00",
+      "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars Comments URL: https://news.ycombinator.com/item?id=48569954 Points: 503 # Comments: 217"
     },
     {
       "id": "d37df54f42e2",
@@ -223,6 +388,17 @@
       "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
     },
     {
+      "id": "2c2d0f86482f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RFC 10008: The new HTTP Query Method",
+      "link": "https://www.rfc-editor.org/info/rfc10008/",
+      "published": "2026-06-17T10:51:17+00:00",
+      "summary": "Article URL: https://www.rfc-editor.org/info/rfc10008/ Comments URL: https://news.ycombinator.com/item?id=48568502 Points: 230 # Comments: 108"
+    },
+    {
       "id": "d7ab35e14bcf",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -265,6 +441,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211810",
       "published": "2026-06-17T09:57:22+00:00",
       "summary": "오픈AI의 '챗GPT'가 처음으로 글로벌 점유율 50% 아래로 내려간 것으로 나타났다. 센서타워가 16일(현지시간) 공개한 '2026 AI 시장 보고서(State of AI Report 2026)'에 따르면, 구글 '제미나이'와 앤트로픽 '클로드'의 성장세로 경쟁이 심화하면서 사용자들이 여러 AI 비서 서비스를 오가는 현상이 뚜렷해지고 있다.챗GPT는 최근 성장세가 다시 빨라지며 월간 이용자 10억명을 돌파한 최초의 AI 애플리케이션이 됐다. 현재 월간 활성 사용자(MAU)는 11억명 이상으로 전"
+    },
+    {
+      "id": "c41abd5d6fa2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "U.S. science is in chaos",
+      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "published": "2026-06-17T09:54:21+00:00",
+      "summary": "Article URL: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/ Comments URL: https://news.ycombinator.com/item?id=48568058 Points: 295 # Comments: 324"
     },
     {
       "id": "341dc5a82aa1",
@@ -617,6 +804,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211828",
       "published": "2026-06-17T06:40:51+00:00",
       "summary": "비드래프트(대표 김민식)가 자체 개발한 과학추론 특화 인공지능 모델 ‘다윈(Darwin)-398B-JGOS’로 글로벌 AI 벤치마크에서 의미 있는 성과를 거뒀다.비드래프트는 다윈-398B-JGOS가 허깅페이스 공식 GPQA 다이아몬드 리더보드에서 90.9%의 점수를 기록하며 세계 1위를 차지했다고 17일 밝혔다. GPQA 다이아몬드는 생명과학, 물리학, 화학 등 전문 과학 지식을 바탕으로 한 고난도 문제들로 구성돼 있으며, 단순 암기보다 심층적인 추론 능력을 평가한다.이번 평가에서 다윈-398B-"
+    },
+    {
+      "id": "9e6cbda18486",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "link": "https://huggingface.co/blog/allenai/molmomotion",
+      "published": "2026-06-17T06:26:44+00:00",
+      "summary": ""
     },
     {
       "id": "f0fc3aa16782",
@@ -1354,6 +1552,17 @@
       "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
       "published": "2026-06-16T15:00:00+00:00",
       "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
+    },
+    {
+      "id": "c978de27c27d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "published": "2026-06-16T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "5fb0e0b61a84",
