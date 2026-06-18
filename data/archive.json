@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-18T18:41:37.244030+00:00",
-  "count": 2824,
+  "updated_at": "2026-06-18T21:13:32.813139+00:00",
+  "count": 2838,
   "items": [
+    {
+      "id": "a06efcf37d36",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "published": "2026-06-18T21:03:43+00:00",
+      "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong."
+    },
+    {
+      "id": "2d5efef136a3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "published": "2026-06-18T20:30:00+00:00",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development."
+    },
+    {
+      "id": "2f6452f8908e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "published": "2026-06-18T19:59:22+00:00",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
+    },
+    {
+      "id": "698179ec4b14",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "published": "2026-06-18T19:53:33+00:00",
+      "summary": "A new system service will roll out this month ahead of big changes starting in September."
+    },
+    {
+      "id": "c1b93afdb858",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+      "link": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+      "published": "2026-06-18T19:41:35+00:00",
+      "summary": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers."
+    },
+    {
+      "id": "7eec4adb31e3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+      "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+      "published": "2026-06-18T19:31:45+00:00",
+      "summary": "Plaintiffs in the class action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles."
+    },
+    {
+      "id": "6e7adba92a4d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+      "published": "2026-06-18T19:29:51+00:00",
+      "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground."
+    },
+    {
+      "id": "6dd1b80def63",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "published": "2026-06-18T18:51:46+00:00",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters."
+    },
     {
       "id": "78e79357ae73",
       "source": "TechCrunch",
@@ -45,6 +133,28 @@
       "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
       "published": "2026-06-18T17:49:23+00:00",
       "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
+    },
+    {
+      "id": "881139fdb6e8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+      "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+      "published": "2026-06-18T17:02:49+00:00",
+      "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund."
+    },
+    {
+      "id": "ddeaca5160d8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "link": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "published": "2026-06-18T16:55:25+00:00",
+      "summary": "Article URL: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html Comments URL: https://news.ycombinator.com/item?id=48588216 Points: 238 # Comments: 158"
     },
     {
       "id": "8f289f67bf1d",
@@ -300,6 +410,17 @@
       "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner Comments URL: https://news.ycombinator.com/item?id=48584135 Points: 251 # Comments: 111"
     },
     {
+      "id": "fde23c5a7920",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "published": "2026-06-18T12:10:53+00:00",
+      "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner Comments URL: https://news.ycombinator.com/item?id=48584135 Points: 374 # Comments: 204"
+    },
+    {
       "id": "db5283f195cd",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -377,6 +498,17 @@
       "summary": "Whether you need a travel-friendly slate or something affordable for the kids, we tested every model to find the right one for every occasion."
     },
     {
+      "id": "d9a4dc2dce6b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "published": "2026-06-18T11:04:31+00:00",
+      "summary": "Article URL: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/ Comments URL: https://news.ycombinator.com/item?id=48583606 Points: 245 # Comments: 38"
+    },
+    {
       "id": "c2d276131a49",
       "source": "Hacker News",
       "kind": "article",
@@ -386,6 +518,28 @@
       "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
       "published": "2026-06-18T10:33:22+00:00",
       "summary": "Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost Comments URL: https://news.ycombinator.com/item?id=48583386 Points: 214 # Comments: 88"
+    },
+    {
+      "id": "b76e9939d865",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "published": "2026-06-18T10:33:22+00:00",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost Comments URL: https://news.ycombinator.com/item?id=48583386 Points: 255 # Comments: 108"
+    },
+    {
+      "id": "594345b0c3e6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "link": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "published": "2026-06-18T10:29:20+00:00",
+      "summary": "Article URL: https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/ Comments URL: https://news.ycombinator.com/item?id=48583356 Points: 217 # Comments: 64"
     },
     {
       "id": "9204f3d8ec78",
