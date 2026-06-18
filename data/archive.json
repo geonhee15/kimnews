@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-17T22:44:40.584066+00:00",
-  "count": 2716,
+  "updated_at": "2026-06-18T00:04:32.862718+00:00",
+  "count": 2719,
   "items": [
+    {
+      "id": "f925ff9675ac",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+      "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+      "published": "2026-06-17T23:28:21+00:00",
+      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\""
+    },
+    {
+      "id": "ab887668c47b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "published": "2026-06-17T22:52:00+00:00",
+      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China."
+    },
     {
       "id": "ae66b9f5d765",
       "source": "AI타임스",
@@ -903,6 +925,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211805",
       "published": "2026-06-17T07:09:48+00:00",
       "summary": "미국 정부가 앤트로픽에 최신 AI 모델을 외국인에게 제공하려면 정부 허가를 받아야 한다고 통보하고, 이를 위반할 경우 형사 및 민사 처벌에 직면할 수 있다고 경고한 것으로 밝혀졌다. 이에 따라 앤트로픽은 '페이블 5'와 '미소스 5'의 서비스를 전면 중단하게 됐다는 내용이다.블룸버그에 따르면, 하워드 러트닉 미국 상무부 장관은 지난 12일(현지시간) 다리오 아모데이 앤트로픽 CEO에게 보낸 서한에서 상무부의 개별 허가 없이 전 세계 어느 지역에서도 외국인에게 페이블 5와 미소스 5를 제공해서는 안"
+    },
+    {
+      "id": "afd3a98e88d0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "link": "https://claude.com/blog/the-founders-playbook",
+      "published": "2026-06-17T07:04:42+00:00",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook Comments URL: https://news.ycombinator.com/item?id=48566832 Points: 205 # Comments: 152"
     },
     {
       "id": "bbff8f485940",
