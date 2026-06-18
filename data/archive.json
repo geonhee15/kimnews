@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-18T16:16:10.983394+00:00",
-  "count": 2815,
+  "updated_at": "2026-06-18T18:41:37.244030+00:00",
+  "count": 2824,
   "items": [
+    {
+      "id": "78e79357ae73",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "published": "2026-06-18T18:22:13+00:00",
+      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
+    },
+    {
+      "id": "21e550b20ab8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This robotic self-driving toilet comes to you",
+      "link": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+      "published": "2026-06-18T18:08:17+00:00",
+      "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was design"
+    },
+    {
+      "id": "2b10ce11f85e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rivian owners sue over false promises on self-driving features",
+      "link": "https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/",
+      "published": "2026-06-18T18:00:33+00:00",
+      "summary": "Plaintiffs in the class action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles."
+    },
+    {
+      "id": "939d3c9368dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "published": "2026-06-18T17:49:23+00:00",
+      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
+    },
+    {
+      "id": "8f289f67bf1d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "published": "2026-06-18T16:55:04+00:00",
+      "summary": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Bro"
+    },
     {
       "id": "214a754cc8bf",
       "source": "GitHub Blog",
@@ -47,6 +102,17 @@
       "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom."
     },
     {
+      "id": "a73c46de43c0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A website that lists websites to submit your website to",
+      "link": "https://www.submission.directory/",
+      "published": "2026-06-18T15:12:43+00:00",
+      "summary": "Article URL: https://www.submission.directory/ Comments URL: https://news.ycombinator.com/item?id=48586631 Points: 236 # Comments: 65"
+    },
+    {
       "id": "8e55e67c2d39",
       "source": "The Verge",
       "kind": "article",
@@ -56,6 +122,17 @@
       "link": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
       "published": "2026-06-18T14:32:16+00:00",
       "summary": "Running out of color options for events in Google Calendar shouldn't be an issue going forward. The previous limit of 11 predefined colors has now been expanded to give users access to up to 200 custom colors for individual events across the native Calendar web and mobile apps, a"
+    },
+    {
+      "id": "acfc959ede64",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "published": "2026-06-18T14:17:07+00:00",
+      "summary": "Article URL: https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html Comments URL: https://news.ycombinator.com/item?id=48585746 Points: 384 # Comments: 226"
     },
     {
       "id": "f91c9122f618",
@@ -300,6 +377,17 @@
       "summary": "Whether you need a travel-friendly slate or something affordable for the kids, we tested every model to find the right one for every occasion."
     },
     {
+      "id": "c2d276131a49",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "published": "2026-06-18T10:33:22+00:00",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost Comments URL: https://news.ycombinator.com/item?id=48583386 Points: 214 # Comments: 88"
+    },
+    {
       "id": "9204f3d8ec78",
       "source": "AI타임스",
       "kind": "article",
@@ -408,6 +496,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260618180943",
       "published": "2026-06-18T09:19:18+00:00",
       "summary": "[지디넷코리아]\"한국 제조 데이터와 노하우는 글로벌 빅테크에게도 매력적인 자산입니다. 협업을 하면서도 우리가 컨트롤할 수 있는 기술 통제권을 잃지 않아야 합니다.임우형 LG AI연구원장은 18일 강원 춘천 엘리시안 강촌에서 열린 '제3회 한국인공지능·소프트웨어산업협회(KOSA) 리더스 포럼' 기조강연을 발표했다.이 발표에서 그는 글로벌 빅테크 공세 속에서 제조 데이터 주권을 지켜내기 위한 '실리적 소버린 AI'가 필요하다고 강조했다.임 원장은 최근 글로벌 AI 트렌드로 '에이전틱 AI'와 '피지컬"
+    },
+    {
+      "id": "a0427113be46",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "published": "2026-06-18T09:13:13+00:00",
+      "summary": ""
     },
     {
       "id": "248d1fba146f",
