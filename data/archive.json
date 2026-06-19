@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T19:11:41.109344+00:00",
-  "count": 2928,
+  "updated_at": "2026-06-19T20:46:48.788127+00:00",
+  "count": 2933,
   "items": [
     {
       "id": "c603d245dad4",
@@ -25,6 +25,17 @@
       "summary": ""
     },
     {
+      "id": "4342156479f6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google workspace threatening to block Firefox access",
+      "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+      "published": "2026-06-19T16:30:49+00:00",
+      "summary": "Article URL: https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html Comments URL: https://news.ycombinator.com/item?id=48600345 Points: 277 # Comments: 94"
+    },
+    {
       "id": "90f939754c21",
       "source": "Hacker News",
       "kind": "article",
@@ -47,6 +58,17 @@
       "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an op"
     },
     {
+      "id": "3190d69ebf59",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Amateur may have cracked Linear A",
+      "link": "https://aiclambake.com/clamtakes/linear-a/",
+      "published": "2026-06-19T16:04:42+00:00",
+      "summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 308 # Comments: 127"
+    },
+    {
       "id": "d8c7e0d75526",
       "source": "GitHub Blog",
       "kind": "article",
@@ -67,6 +89,17 @@
       "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
       "published": "2026-06-19T15:23:28+00:00",
       "summary": "Reliance is weaving AI into telecom services used by more than 500 million people."
+    },
+    {
+      "id": "4fcb1c0f515b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "There are no instances in ATProto",
+      "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "published": "2026-06-19T15:10:02+00:00",
+      "summary": "Article URL: https://overreacted.io/there-are-no-instances-in-atproto/ Comments URL: https://news.ycombinator.com/item?id=48599515 Points: 229 # Comments: 145"
     },
     {
       "id": "3ff4b98325dc",
@@ -405,6 +438,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "published": "2026-06-19T07:59:12+00:00",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+    },
+    {
+      "id": "028c90040937",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
       "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "published": "2026-06-19T07:59:12+00:00",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
@@ -793,6 +837,17 @@
       "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "published": "2026-06-19T00:51:11+00:00",
       "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
+    },
+    {
+      "id": "253514a5cd61",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "published": "2026-06-19T00:51:11+00:00",
+      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
     },
     {
       "id": "6e7c48e8ab85",
