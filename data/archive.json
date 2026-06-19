@@ -1,7 +1,304 @@
 {
-  "updated_at": "2026-06-19T07:26:46.484112+00:00",
-  "count": 2878,
+  "updated_at": "2026-06-19T11:47:50.891548+00:00",
+  "count": 2908,
   "items": [
+    {
+      "id": "f9e45f08f2dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 100년 뒤 지구, 어떻게 될까",
+      "link": "https://zdnet.co.kr/view/?no=20260619095203",
+      "published": "2026-06-19T11:03:16+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 100년 뒤 지구, 과연 어떻게 변해 있을까요? 다양한 모델과 관점으로 선발된 AI 패널들이 내린 결론이 꽤 충격적인데요. 논의에 참여한 AI패널들 중 무려 83%가 AI 낙관론에 회의적이라는 입장을 밝혔어요. 'AI가 다 해결해 줄 거야'라는 기대와 달리, 현실과 제약을 직시해야 한다는 목소리가 압도적으로 높았던 거죠. 마차에서 자동차, 자동차에서 우주선으로 이어진 것처럼 세상은 100년마다 통째로 뒤집혀왔고, 변화의 속도는 점점 더 빨라지고 있"
+    },
+    {
+      "id": "ee5e2f4b8876",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
+      "link": "https://www.wired.com/story/solomaxxing/",
+      "published": "2026-06-19T11:00:00+00:00",
+      "summary": "For young people, the trend removes the stigma of being unmarried and alone, and recasts it as something to aim for, not avoid."
+    },
+    {
+      "id": "5e862b23bce0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GIST, 전력망 시뮬레이션 모델 홈페이지에 오픈",
+      "link": "https://zdnet.co.kr/view/?no=20260619195205",
+      "published": "2026-06-19T10:52:05+00:00",
+      "summary": "[지디넷코리아]국내 전력망 플랫폼이 처음 공개됐다.김윤수 광주과학기술원 차세대에너지연구소 전력망연구센터장은 우리나라 전력망 전체를 컴퓨터상에 구현한 시뮬레이션 모델 ‘GIST 2217모선 시험 계통 시스템'을 개발하고 홈페이지에 무료로 공개했다고 19일 밝혔다.전력망 정보는 국가 기반 시설에 해당되기 때문에 보안상 공개가 어려웠다. 이에 국내 연구진들은 미국 전기전자공학회(IEEE)가 제공하는 해외 시험 계통 모델에 의존해왔다.이 모델은 모선(전력망 접속지점) 2,217개와 송전선로 약 3,700"
+    },
+    {
+      "id": "168c2d3ca859",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국산 들여와 조립하면 국산…해상풍력 업계, 원산지 검증 촉구",
+      "link": "https://zdnet.co.kr/view/?no=20260619195000",
+      "published": "2026-06-19T10:50:00+00:00",
+      "summary": "[지디넷코리아]한국해상그리드산업협회가 2026년 상반기 해상풍력 고정가격계약 경쟁입찰과 관련해 원산지와 공급망, 에너지 안보 요소를 엄격히 검증해야 한다고 촉구했다. 중국계 기자재 활용 가능성과 국내 조립을 통한 ‘국산화’ 인정 논란, 외국 인력·장비의 핵심 공정 참여 우려 등이 제기되는 만큼 단순 가격 경쟁만으로 사업자를 평가해서는 안 된다는 주장이다.협회는 19일 성명을 내고 “해상풍력 고정가격 입찰은 국민 부담과 전기요금 체계에 직결될 수 있는 공적 성격의 제도”라며 “정부와 한국에너지공단은"
+    },
+    {
+      "id": "777eca1b72f4",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "published": "2026-06-19T10:40:24+00:00",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But "
+    },
+    {
+      "id": "2099b45e3e9d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Try One of macOS 27’s Best Features Right Now",
+      "link": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
+      "published": "2026-06-19T10:30:00+00:00",
+      "summary": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait."
+    },
+    {
+      "id": "719f1314f184",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
+      "link": "https://www.wired.com/story/best-fitness-trackers/",
+      "published": "2026-06-19T10:01:00+00:00",
+      "summary": "Find the right wearable for your lifestyle, workouts, and goals."
+    },
+    {
+      "id": "0972ae0cb97c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SIIS, \"25㎝급 초고해상도 광학위성 수천만달러 받고 해외 임대 계약\"",
+      "link": "https://zdnet.co.kr/view/?no=20260619190004",
+      "published": "2026-06-19T10:00:04+00:00",
+      "summary": "[지디넷코리아]쎄트렉아이 자회사, 에스아이아이에스 (SIIS)가 25cm급 초고해상도 광학위성 ‘스페이스아이-티(SpaceEye-T)’를 기반으로 해외 기관과 수천만 달러 규모 위성 임대 서비스 (Satellite-as-a-Service, Sat-aaS) 계약을 체결했다고 19일 밝혔다.위성 임대 서비스는 고객이 위성을 직접 개발하거나 소유하지 않고도 특정 지역에 대한 독점 운영권을 확보 할 수 있다. 에스아이아이에스는 고객이 원하는 지역 25cm급 초고해상도 광학 영상을 준실시간으로 제공하게 된"
+    },
+    {
+      "id": "c15f3241b6fa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "판교서 열린 '인디크래프트' 네트워킹데이, 72개 개발사 한자리",
+      "link": "https://zdnet.co.kr/view/?no=20260619181707",
+      "published": "2026-06-19T09:25:30+00:00",
+      "summary": "[지디넷코리아]'2026 인디크래프트' 1차 심사 통과 개발사 72곳이 한자리에 모였다.성남산업진흥원은 19일 오후 경기 성남시 판교 그래비티 서울 오토그래프 컬렉션에서 '2026 인디크래프트 네트워킹데이'를 개최했다. 행사에는 1차 심사를 통과한 국내·커뮤니티 부문 52개사, 챌린저 부문 20개사와 후원사·관계사 등 130여명이 참석했다.올해 인디크래프트에는 국내·커뮤니티 부문 296개사, 챌린저 부문 122개사 등 총 418개사가 지원해 역대 최다를 기록했다. 이 중 72개사가 1차 심사를 통"
+    },
+    {
+      "id": "765c2117cf85",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"미소스 5는 막혔지만 프리뷰는 사용 가능\"...일부는 차단돼 '혼란 가중'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211926",
+      "published": "2026-06-19T09:20:38+00:00",
+      "summary": "미국 정부의 명령으로 앤트로픽의 '페이블 5'와 '미소스 5'의 서비스는 중단됐지만, 앞서 출시된 '미소스 프리뷰'는 아직도 접근 권한이 유지되는 것으로 나타났다.19일 블룸버그에 따르면, '프로젝트 글래스윙'을 통해 미소스 프리뷰 사용 권한을 승인받은 일부 기업들은 현재까지도 모델에 접근할 수 있는 것으로 알려졌다. 프로젝트 글래스윙에는 200여개의 기업과 기관이 참여하고 있으며, 그중 시스코와 드라고스(Dragos), 그리고 익명을 요구한 일부 기업들은 미소소 프리뷰에 아직 접근 중이라고 밝혔"
+    },
+    {
+      "id": "74318e9fd11f",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "천재적인 앱 만들어서 애플 본사 초청되어 CEO 앞에서 직접 시연한 한국 대학생",
+      "link": "https://www.youtube.com/watch?v=3cIT7BBOEeE",
+      "published": "2026-06-19T09:00:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c704656ea043",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "신종 구걸 방법",
+      "link": "https://www.youtube.com/shorts/XVZbwPkBLLw",
+      "published": "2026-06-19T09:00:12+00:00",
+      "summary": ""
+    },
+    {
+      "id": "87acecf9b9a4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CJ ENM, KISF서 'K콘텐츠' 글로벌 성공 전략 공유",
+      "link": "https://zdnet.co.kr/view/?no=20260619170259",
+      "published": "2026-06-19T08:46:51+00:00",
+      "summary": "[지디넷코리아]\"AI는 단순한 지원 도구를 넘어 콘텐츠 제작 패러다임을 바꾸는 핵심 기술이다.\"CJ ENM은 2026 코리아국제스트리밍페스티벌(KISF) 핵심 프로그램 '국제 스트리밍 서밋'에 참가해 K콘텐츠 글로벌 확장 전략을 공유했다고 19일 밝혔다.지난 18일 부산 영화의전당 하늘연극장에서 열린 특별 세션 '글로벌에서 통하는 K예능 성공 전략'엔 장세희 CJ ENM 부장의 진행을 맡았다. 패널로는 이선영 엠넷 CP, 이원웅 tvN CP, 김정환 고려대학교 미디어학부 교수가 참석했다.김 교수는"
+    },
+    {
+      "id": "0fde5c0d31f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔비디아 성공 공식, 구글이 따라 쓴다…TPU로 'GPU 장벽' 넘을까",
+      "link": "https://zdnet.co.kr/view/?no=20260619174149",
+      "published": "2026-06-19T08:45:13+00:00",
+      "summary": "[지디넷코리아]구글이 자체 인공지능(AI) 반도체인 텐서처리장치(TPU) 사업을 앞세워 엔비디아 중심 AI 컴퓨팅 시장에서 영역 확장에 본격 나섰다. 엔비디아가 그래픽처리장치(GPU) 판매 확대에 활용해온 데이터센터 금융 지원 방식을 본격 적용하며 외부 고객 확보에 속도를 내는 모습이다.18일(현지시간) 월스트리트저널(WSJ)에 따르면 구글은 미국 뉴욕주 서부 온타리오호 인근 AI 데이터센터 클러스터 '레이크 매리너' 프로젝트에 32억 달러(약 4조9000억원) 규모 금융보증을 제공했다. 이 프로"
+    },
+    {
+      "id": "780b3fec8f01",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "베스핀글로벌, 구글 보안 파트너 선정…AI-SOC 고도화 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260619162105",
+      "published": "2026-06-19T08:42:45+00:00",
+      "summary": "[지디넷코리아]베스핀글로벌이 구글 클라우드의 보안 플랫폼을 활용해 차세대 인공지능(AI) 기반 보안 시장 공략을 본격화한다.베스핀글로벌이 구글 클라우드의 구글 시큐리티 오퍼레이션스 공식 매니지드 보안 서비스 제공사(MSSP)로 선정됐다고 19일 밝혔다.MSSP는 고객사의 보안 컨설팅부터 솔루션 구축, 24시간 통합 관제까지 보안 전반을 책임지는 전문 사업자다. 이번 선정은 베스핀글로벌이 구글 클라우드 프리미어 파트너로서 축적해온 기술력을 인정받은 결과다. 베스핀글로벌은 이번 자격 획득을 계기로 기"
+    },
+    {
+      "id": "0ef6df7e88c4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 스스로 가설 세우고 실험·검증하는 'AI 화학자' 프로젝트 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211903",
+      "published": "2026-06-19T08:35:00+00:00",
+      "summary": "오픈AI가 'AI 과학자' 시대를 열 새로운 시스템을 공개했다. AI가 단순히 연구를 위한 보조 역할 넘어, 스스로 가설을 만들고 이를 실험으로 연결하고 결과를 검증하는 '자율 연구 시스템'을 갖췄다는 것이 특징이다.오픈AI는 17일(현지시간) 화학 및 제약 전문 AI 스타트업 몰레큘 원(Molecule.one)과 협력해 개발한 '자율 AI 화학자' 시스템을 공개했다. 이는 ▲GPT-5.4 ▲마리아 AI(Maria AI) ▲마리아 랩(Maria Lab) 등 3부분으로 구성된다. 우선 GPT-5.4"
+    },
+    {
+      "id": "0ce9ca8a308a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 코드에 ‘아티팩트’ 도입…\"실시간 공유로 협업 강화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211911",
+      "published": "2026-06-19T08:28:08+00:00",
+      "summary": "앤트로픽이 AI 코딩 에이전트 '클로드 코드'에 새로운 ‘아티팩트(Artifacts)’ 기능을 도입했다. 이를 통해 개발 과정에서 생성되는 작업 내용을 실시간으로 시각화하고 팀원들과 공유할 수 있게 되며, 소프트웨어 개발 협업 방식에도 변화가 예상된다.앤트로픽은 18일(현지시간) 클로드 코드가 세션 내 작업 진행 상황을 자동으로 웹 페이지 형태의 아티팩트로 생성할 수 있도록 지원한다고 발표했다.아티팩트는 단순한 결과물 요약을 넘어 코드베이스, 외부 커넥터, 대화 내용 등 세션 전체 컨텍스트를 활용"
+    },
+    {
+      "id": "81d16832ea99",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '챗GPT 엔터프라이즈'에 사용량 분석·비용 통제 기능 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211908",
+      "published": "2026-06-19T08:23:36+00:00",
+      "summary": "오픈AI가 기업 고객들의 AI 운영 비용 관리와 사용 현황 파악을 지원하기 위해 '챗GPT 엔터프라이즈' 플랫폼에 새로운 사용량 분석 기능과 비용 통제 기능을 도입했다.오픈AI는 18일(현지시간) 기업용 서비스인 챗GPT 엔터프라이즈를 대상으로 고도화된 사용량 분석(Usage Analytics)과 업데이트된 비용 통제(Spend Controls) 기능을 출시했다고 밝혔다.최근 기업 내 AI 활용이 급증하면서 일부 고사용자를 중심으로 AI 사용 비용이 빠르게 증가하는 가운데, 기업들이 효율적으로 예"
+    },
+    {
+      "id": "e5e0edceb7f5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 생명과학 AI 벤치마크 '라이프사이벤치' 공개...\"실제 연구 역량 측정\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211895",
+      "published": "2026-06-19T08:17:38+00:00",
+      "summary": "오픈AI가 최근 생명과학 특화 모델 'GPT-로절린드(GPT-Rosalind)'를 선보인 데 이어, 이번에는 실제 연구 현장에서 AI가 얼마나 유용한지를 측정할 수 있는 평가 체계까지 내놨다.오픈AI는 17일(현지시간) 실제 생명과학 연구 환경에서 AI의 활용 능력을 평가하기 위한 새로운 벤치마크 ‘라이프사이벤치(LifeSciBench)’를 공개했다. 라이프사이벤치는 기존 생물학 벤치마크가 사실 암기나 정답이 명확한 문제 위주로 구성돼 있다는 한계를 극복하기 위해 개발됐다. 실제 연구에서는 과학자"
+    },
+    {
+      "id": "83e16505e24a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 베스핀글로벌, 구글 시큐리티 오퍼레이션스 'MSSP' 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211924",
+      "published": "2026-06-19T08:00:00+00:00",
+      "summary": "■ 베스핀글로벌(대표 김써니·허양호)은 구글 시큐리티 오퍼레이션스 공식 관리형 보안 서비스 사업자(MSSP)로 선정됐다고 밝혔다. MSSP는 고객사의 보안 컨설팅부터 솔루션 구축, 통합 운영·관제를 아우르는 전문 사업자를 의미한다. 베스핀글로벌은 자체 보안 운영 센터(SOC) 전문 에이전트인 '헬프나우 AI SOC'를 통해 AI-SOC를 구축하는 기업을 지원할 예정이다.■ 빅밸류는 구름 대표가 서울 코엑스에서 열린 '넥스트라이즈'의 연계 프로그램인 한국프롭테크포럼에서 AI 부동산 비서 '복덕방 가"
+    },
+    {
+      "id": "6dcd6df6f72d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "published": "2026-06-19T07:59:12+00:00",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+    },
+    {
+      "id": "a14846faf0c0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, ‘AI+소비’ 지침 발표...휴머노이드·스마트가전 집중 육성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211916",
+      "published": "2026-06-19T07:52:33+00:00",
+      "summary": "중국 정부가 AI를 소비 시장 전반에 확산하기 위한 종합 지원책을 내놓으며 휴머노이드 로봇과 스마트 가전, 스마트홈 등 차세대 소비 산업 육성에 나섰다.중국 국영방송 CCTV에 따르면, 중국 상무부는 18일 국가발전개혁위원회 등 8개 부처와 ‘AI+소비’ 발전을 가속하기 위한 시행 지침을 발표했다.이번 지침에는 AI와 소비 시장의 융합을 촉진하기 위한 5개 분야, 17개 세부 조치가 담겼다.중국 정부는 우선 상품 소비 부문에서 AI 기반 제품 공급을 확대하고, 기존 소비자 전자기기와 가전제품, 생"
+    },
+    {
+      "id": "8a42c4b2ec29",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "EU, 자금난에 데이터센터 구축 계획 축소...'미국 추격'에 제동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211919",
+      "published": "2026-06-19T07:46:35+00:00",
+      "summary": "유럽연합(EU)이 AI 경쟁력 강화를 위해 추진해 온 대규모 데이터센터 구축 계획을 축소했다. 미국과 중국을 추격하려는 유럽의 AI 전략에 차질이 불가피할 전망이다.18일(현지시간) 블룸버그에 따르면, EU는 최근 데이터센터 건설 입찰 계획을 발표하면서 기존 구상보다 규모를 크게 낮춘 방안을 제시했다.1단계 사업에서는 최소 2만5000개의 GPU를 갖춘 데이터센터 4곳과 최소 4만개의 프로세서를 탑재한 데이터센터 3곳에 대한 입찰을 진행할 예정이다.이는 당초 논의됐던 계획보다 크게 축소된 규모다."
+    },
+    {
+      "id": "1d3dc647dc6e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 크루소와 1.6GW 컴퓨팅 공급 계약...AI 인프라 확장 가속",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211909",
+      "published": "2026-06-19T07:36:14+00:00",
+      "summary": "메타가 대규모 AI 인프라 확장을 위해 데이터센터 개발업체 크루소와 새로운 계약을 체결하며 컴퓨팅 자원 확보에 속도를 내고 있다. 블룸버그에 따르면, 메타는 18일(현지시간) 크루소가 개발 중인 미국 텍사스주 차일드레스와 미주리주 워런턴의 데이터센터 두 곳에서 AI 컴퓨팅 용량을 공급받기로 계약했다.구체적인 계약 규모와 공급 시점을 공개하지 않았지만, 관계자들은 메타가 시설 두 곳에서 총 1.6기가와트(GW) 규모의 컴퓨팅 용량을 확보할 예정이라고 전했다. 1GW는 미국 가정 75만 가구에 전력을"
+    },
+    {
+      "id": "a1e02a22e375",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 섬박람회 앞두고 국내외 여행사 팸투어 진행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211898",
+      "published": "2026-06-19T07:29:49+00:00",
+      "summary": "AI 생성 영상여수시가 2026여수세계섬박람회를 앞두고 국내외 여행업계를 상대로 섬 관광과 체류형 관광 콘텐츠 알리기에 나섰다고 19일 밝혔다. 여수는 18일부터 19일까지 국내 여행사와 미국·중국·동남아 등 외국인 관광객 유치 전문 여행사 관계자를 초청해 팸투어를 진행했다.팸투어는 여수의 역사문화, 미식, 해양관광 자원을 함께 소개하는 방식으로 구성됐다. 참가자들은 진남관, 고소대, 하멜전시관 등 역사문화 관광지를 둘러본 뒤 요트와 유람선을 이용해 낭도부터 추도까지 이어지는 섬 투어를 체험했다."
+    },
+    {
+      "id": "193d4bc37dab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 제6기 지역사회보장계획 수립 절차 돌입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211905",
+      "published": "2026-06-19T07:29:35+00:00",
+      "summary": "AI 생성 영상순천시가 2027년부터 2030년까지 적용할 제6기 지역사회보장계획 수립 절차에 들어갔다고 19일 밝혔다.순천은 지난 17일 순천육아종합지원센터에서 공무원과 읍·면·동 지역사회보장협의체 위원 등 82명이 참석한 가운데 워크숍을 열고 일자리·돌봄·건강·문화 등 시민 생활과 맞닿은 복지 의제를 다뤘다.이번 워크숍은 제6기 지역사회보장계획의 비전과 추진전략을 마련하기 위해 열렸다. 참석자들은 지역사회보장계획에 대한 이해를 넓히고, 조별 공감 투표 등을 통해 현장 의견을 나누는 방식으로 지"
+    },
+    {
+      "id": "1ae47fa0106c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LG CNS, 두산과 AI·로봇·데이터센터 분야 협력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211922",
+      "published": "2026-06-19T07:28:33+00:00",
+      "summary": "LG CNS(대표 현신균)는 두산과 'AX·로봇 전환(RX)·데이터센터 및 클라우드 등 신사업 글로벌 경쟁력 확보를 위한 업무협약(MOU)'을 체결했다고 19일 밝혔다.LG CNS의 기업용 에이전틱 AI 플랫폼 '에이전틱웍스'를 기반으로 두산의 에이전틱 AI 경쟁력 강화를 위한 사업 로드맵을 수립하고, RX 분야 협업도 검토할 계획이다.데이터센터 및 클라우드 사업에서는 LG CNS의 클라우드·데이터센터 기술력을 활용해 두산의 IT 인프라를 고도화하고, 수소연료전지를 LG CNS 데이터센터 사업에 "
+    },
     {
       "id": "b1442ad17ab9",
       "source": "AI타임스",
@@ -364,6 +661,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211859",
       "published": "2026-06-18T22:00:00+00:00",
       "summary": "현재 프랑스에서 열리는 G7 정상 회담에서는 조금 특이한 모습이 연출됐습니다. 도널드 트럼프 미국 대통령은 오픈AI와 앤트로픽, 구글 등 미국 AI 기업 경영진을 대거 동반했고, 정상들은 AI를 주요 의제로 논의했습니다.불과 1~2년 전만 해도 반도체와 에너지 안보가 주요 기술 의제였다면, 이번 G7에서는 첨단 AI 모델 자체가 논의의 중심에 섰습니다. 이란-이스라엘 전쟁과 미국의 개입 여부, 우크라이나 지원, 무역 갈등 등 굵직한 현안이 산적한 가운데서도 AI는 정상들이 별도로 논의할 만큼 중요"
+    },
+    {
+      "id": "b9422e1a6bfb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zero-Touch OAuth for MCP",
+      "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "published": "2026-06-18T21:54:10+00:00",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ Comments URL: https://news.ycombinator.com/item?id=48592163 Points: 205 # Comments: 75"
     },
     {
       "id": "f7cf2ec4eaf0",
@@ -3732,6 +4040,17 @@
       "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over."
     },
     {
+      "id": "07c238374450",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "published": "2026-06-16T11:07:08+00:00",
+      "summary": "Article URL: https://www.greybeam.ai/blog/duckdb-internals-part-1 Comments URL: https://news.ycombinator.com/item?id=48553388 Points: 211 # Comments: 70"
+    },
+    {
       "id": "73f0d9bd5900",
       "source": "TechCrunch",
       "kind": "article",
@@ -4742,6 +5061,17 @@
       "link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
       "published": "2026-06-15T16:32:14+00:00",
       "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down."
+    },
+    {
+      "id": "95ae739f98ca",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "link": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "published": "2026-06-15T16:06:22+00:00",
+      "summary": "Article URL: https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610 Comments URL: https://news.ycombinator.com/item?id=48543311 Points: 207 # Comments: 28"
     },
     {
       "id": "fcf472cdf236",
