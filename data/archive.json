@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-19T22:01:37.026166+00:00",
-  "count": 2936,
+  "updated_at": "2026-06-19T23:14:17.983536+00:00",
+  "count": 2939,
   "items": [
+    {
+      "id": "404b2b1c01f3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "published": "2026-06-19T22:40:14+00:00",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
+    },
     {
       "id": "ff7762f99010",
       "source": "TechCrunch",
@@ -34,6 +45,17 @@
       "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
       "published": "2026-06-19T18:41:48+00:00",
       "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and crui"
+    },
+    {
+      "id": "28bf83eb207b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "link": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "published": "2026-06-19T17:34:28+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech Comments URL: https://news.ycombinator.com/item?id=48600950 Points: 207 # Comments: 114"
     },
     {
       "id": "75ba17abccc4",
@@ -185,6 +207,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "published": "2026-06-19T13:00:00+00:00",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
+    },
+    {
+      "id": "69d39297e1f8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "published": "2026-06-19T13:00:00+00:00",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
