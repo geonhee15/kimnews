@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-19T14:52:53.184276+00:00",
-  "count": 2917,
+  "updated_at": "2026-06-19T17:14:15.068793+00:00",
+  "count": 2922,
   "items": [
+    {
+      "id": "a09f7477cb7c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "published": "2026-06-19T16:08:17+00:00",
+      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an op"
+    },
+    {
+      "id": "d8c7e0d75526",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How we built an internal data analytics agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "published": "2026-06-19T16:00:00+00:00",
+      "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "ed43e9adf25d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "published": "2026-06-19T15:23:28+00:00",
+      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people."
+    },
+    {
+      "id": "3ff4b98325dc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "published": "2026-06-19T14:53:53+00:00",
+      "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services "
+    },
     {
       "id": "dbf2f0b030c8",
       "source": "The Verge",
@@ -20,6 +64,17 @@
       "category": "AI",
       "lang": "en",
       "title": "This is OpenClaw On Steroids",
+      "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "published": "2026-06-19T14:06:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1ed21ed7cc27",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI Agents Just Learned A Language Humans Can’t Read",
       "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
       "published": "2026-06-19T14:06:00+00:00",
       "summary": ""
