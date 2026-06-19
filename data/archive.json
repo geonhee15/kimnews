@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-19T17:14:15.068793+00:00",
-  "count": 2922,
+  "updated_at": "2026-06-19T19:11:41.109344+00:00",
+  "count": 2928,
   "items": [
+    {
+      "id": "c603d245dad4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars",
+      "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+      "published": "2026-06-19T18:41:48+00:00",
+      "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and crui"
+    },
+    {
+      "id": "75ba17abccc4",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The most trusted code on Earth is being rewritten in Rust",
+      "link": "https://www.youtube.com/watch?v=Sntj4HmuykI",
+      "published": "2026-06-19T17:24:47+00:00",
+      "summary": ""
+    },
+    {
+      "id": "90f939754c21",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hyundai buys Boston Dynamics",
+      "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "published": "2026-06-19T16:28:20+00:00",
+      "summary": "Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/ Comments URL: https://news.ycombinator.com/item?id=48600312 Points: 227 # Comments: 118"
+    },
     {
       "id": "a09f7477cb7c",
       "source": "TechCrunch",
@@ -75,6 +108,17 @@
       "category": "AI",
       "lang": "en",
       "title": "AI Agents Just Learned A Language Humans Can’t Read",
+      "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "published": "2026-06-19T14:06:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "841f6684c1a7",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Scientists Found A Better Language For AI Agents",
       "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
       "published": "2026-06-19T14:06:00+00:00",
       "summary": ""
@@ -4887,6 +4931,17 @@
       "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspe"
     },
     {
+      "id": "116f3033e0fd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zen and the Art of Machine Learning Research",
+      "link": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "published": "2026-06-16T00:45:50+00:00",
+      "summary": "Article URL: https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning Comments URL: https://news.ycombinator.com/item?id=48549118 Points: 200 # Comments: 68"
+    },
+    {
       "id": "b5c0535ab061",
       "source": "TechCrunch",
       "kind": "article",
@@ -5006,6 +5061,17 @@
       "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
       "published": "2026-06-15T21:13:35+00:00",
       "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Com"
+    },
+    {
+      "id": "17969773582d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ten years of ClickHouse in open source",
+      "link": "https://clickhouse.com/blog/open-source-10",
+      "published": "2026-06-15T20:51:54+00:00",
+      "summary": "Article URL: https://clickhouse.com/blog/open-source-10 Comments URL: https://news.ycombinator.com/item?id=48546890 Points: 225 # Comments: 65"
     },
     {
       "id": "1af64a5f97a3",
