@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-06-20T01:29:33.100742+00:00",
-  "count": 2953,
+  "updated_at": "2026-06-20T05:56:01.586049+00:00",
+  "count": 2971,
   "items": [
+    {
+      "id": "713d75fd7a5c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메모리 시장, 올해 4배 성장 전망...AI 수요가 견인",
+      "link": "https://zdnet.co.kr/view/?no=20260619204511",
+      "published": "2026-06-20T05:00:03+00:00",
+      "summary": "[지디넷코리아]전 세계 메모리 반도체 시장이 인공지능(AI) 인프라 수요에 힘입어 올해 폭발적 성장세를 보이고 있다. 서버용 메모리가 전체 메모리에서 차지하는 비중도 절반을 넘어설 것으로 예상된다. 20일 시장조사업체 카운터포인트리서치에 따르면 올해 전 세계 메모리 시장은 전년(360조원) 대비 4배 증가한 1500조원에 이를 것으로 관측된다.가장 큰 요인은 AI 인프라 투자를 위한 서버용 메모리 수요 확대다. 전체 메모리 제품에서 서버용 제품 비중은 지난해 37%에서 올해 56%까지 확대될 전망"
+    },
+    {
+      "id": "f46b4549a22c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "우주청, 우주신기술로 비츠로·페리지·파이버·두시텍 등 8건 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260620134952",
+      "published": "2026-06-20T04:49:52+00:00",
+      "summary": "[지디넷코리아]스페이스X의 나스닥 진입으로 우주분야 관심이 급증한 가운데 우주항공청이 2차로 지정한 우주 신기술 8곤에 관심이 모아졌다. 특히, 위성 분야 경쟁이 치열했다.선정된 8건은 발사체 분야 4건, 위성분야 4건이 각각 선정됐다. 우주관측탐사 및 기타분야에선 6건이 접수됐으나, 선정된 기술은 나오지 않았다.발사체 분야 응모는 총 5건, 경쟁률은 1.25대 1이었다. 선정 기술은 주로 엔진 성능 향상과 제조 기술로 신청했다.4건은 ▲비츠로넥스텍 '액체로켓 엔진용 금속 발화방지 내산화 코팅 기"
+    },
+    {
+      "id": "ea045e3ac556",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퍼플렉시티, 밤마다 스스로 학습하는 AI 에이전트 메모리 '브레인' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211932",
+      "published": "2026-06-20T04:39:19+00:00",
+      "summary": "퍼플렉시티가 기존 AI 메모리 개념을 뒤집는 새로운 기억 시스템 '브레인(Brain)'을 공개했다. 사용자 취향과 선호도를 기억하는 대신, AI 에이전트가 수행한 업무 자체를 학습하고 개선하는 방식으로, AI 에이전트의 장기적인 학습 능력 향상이 목표다.퍼플렉시티는 18일(현지시간) 자체 에이전트 서비스 '컴퓨터(Computer)'를 위한 자기개선형 메모리 시스템 브레인을 연구 프리뷰 형태로 출시했다고 발표했다. 맥스와 엔터프라이즈 맥스 구독자를 대상으로 차례로 제공된다.지금까지 대부분의 AI 메"
+    },
+    {
+      "id": "ac87eea78c43",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글·MS, AI 에이전트 연결 표준 'ARD' 발표…오픈AI·앤트로픽 견제 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211930",
+      "published": "2026-06-20T04:23:16+00:00",
+      "summary": "구글과 마이크로소프트(MS), 세일즈포스, 스노우플레이크, 서비스나우 등 주요 기업용 소프트웨어 업체들이 새로운 AI 표준인 '에이전틱 리소스 디스커버리(ARD)'를 공동 추진하며 AI 시장 주도권 경쟁에 나섰다. '사스포칼립스'를 유발한 앤트로픽과 오픈AI의 'AI 슈퍼에이전트' 전략에 맞선 대응으로 해석되고 있다.ARD는 18일(현지시간) 오픈소스 플랫폼인 깃허브와 데이터 플랫폼 기업 데이터브릭스에 공개됐다.ARD는 기업이 사용하는 다양한 업무용 애플리케이션과 AI 기능을 하나의 인터페이스에서"
+    },
+    {
+      "id": "f9dd53e2dd15",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "트럼프 \"앤트로픽, 지금은 국가안보 위협 존재 아냐\"",
+      "link": "https://zdnet.co.kr/view/?no=20260620131742",
+      "published": "2026-06-20T04:18:38+00:00",
+      "summary": "[지디넷코리아]“일주일 전에는 그랬는데, 지금은 아니다.”도널드 트럼프 미국 대통령은 19일(현지시간) 온라인 매체 악시오스와 인터뷰에서 “앤트로픽이 이젠 미국 국가안보에 위협이 되는 존재가 아니다”고 말했다.보도에 따르면 트럼프는 이날 앤트로픽이나 다리오 아모데이 최고경영자(CEO)가 국가안보에 위협이 되는 존재냐는 악시오스의 질문에 대해 “일주일 전에는 그랬을 지 모르지만, 지금은 아니다”고 말했다.미국 상무부는 지난 12일 국가 안보를 이유로 앤트로픽의 최신 인공지능(AI) 모델 '페이블 5"
+    },
+    {
+      "id": "e865322dbaa7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, 자체 AI 칩 외부 공급 추진…엔비디아 독주에 '가장 실질적 도전'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211938",
+      "published": "2026-06-20T04:03:57+00:00",
+      "summary": "아마존이 자체 개발 AI 칩 '트레이니엄(Trainium)'을 외부 데이터센터에 직접 판매하는 방안을 추진하고 있다. 그동안 클라우드 서비스 내부에서만 활용하던 자체 AI 칩을 독립 사업으로 확대하려는 움직임으로, 엔비디아 등과의 경쟁 구도에 적지 않은 변수가 될 것으로 예상됐다.피터 드산티스 아마존웹서비스(AWS) AI 총괄은 18일(현지시간) 프랑스 파리에서 진행된 블룸버그와의 인터뷰에서 \"자체 개발 칩을 외부 기업의 데이터센터에 공급하는 방안을 논의하고 있다\"라고 밝혔다. 잠재 고객사 명단은"
+    },
+    {
+      "id": "65d57ac17c16",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미드저니, AI 이미지 생성 넘어 의료기기 도전…'수중 전신 스캐너' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211934",
+      "published": "2026-06-20T03:35:42+00:00",
+      "summary": "AI 이미지 생성 서비스로 유명한 미드저니가 의료 분야에 진출한다. 초음파 기반의 수중 전신 스캐너를 공개하며 질병 진단과 건강 관리 시장에 도전장을 내밀었다.디 인포메이션에 따르면 데이비드 홀츠 미드저니 CEO는 17일(현지시간) 미국 샌프란시스코 소마 지역의 회원제 클럽 '비타 브레비스(Vita Brevis)'에서 열린 행사에서 새로운 의료 프로젝트인 '미드저니 메디컬(Midjourney Medical)'을 발표했다.홀츠 CEO는 이 장비가 자기공명영상(MRI)보다 더 상세한 정보를 제공할 수"
+    },
+    {
+      "id": "09da4f632c15",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "노르웨이, 초등학교 생성 AI 사실상 금지...\"읽기·쓰기·수학이 먼저\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211940",
+      "published": "2026-06-20T02:58:55+00:00",
+      "summary": "노르웨이 정부가 어린이들의 학업 성취도 하락에 대응하기 위해 초등학교에서 생성 AI 사용을 사실상 금지하기로 했다. 스마트폰 금지에 이어 교실 내 디지털 기기 의존도를 낮추고 전통적인 학습 방식을 강화하겠다는 취지다.요나스 가르 스토레 노르웨이 총리는 19일(현지시간) 오는 8월 말 시작되는 새 학년도부터 새로운 AI 교육 기준을 적용한다고 발표했다.이에 따르면, 초등학교 1학년부터 7학년(6세~13세)까지는 원칙적으로 생성 AI 도구 사용을 허용하지 않는다. 중학교 저학년(14세~16세)은 교사"
+    },
+    {
+      "id": "a611e7d4ae03",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 \"앤트로픽, 한때 국가 안보 위협으로 간주…현재는 관계 회복 중\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211939",
+      "published": "2026-06-20T02:34:05+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 앤트로픽을 국가 안보 위협으로 판단해 강력한 제재를 검토했으나, 현재는 갈등이 봉합 국면에 접어들었다고 밝혔다.트럼프 대통령은 최근 진행된 액시오스와의 인터뷰에서 \"일주일 전쯤만 해도 앤트로픽을 국가 안보에 대한 위협으로 보았을 수 있다\"라고 시인하면서도 \"하지만 지금은 아니다\"라며 기류 변화를 시사했다.트럼프 행정부는 지난 12일 미국 외 국가와 미국 내 외국인의 '페이블 5' 및 '미소스 5' 접근을 제한하는 고강도 규제를 단행한 바 있다. 이는 앤트로픽의 주요 투"
+    },
+    {
+      "id": "7d46e2121a4b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "피씨엔, SSAFY 채용박람회 참가... AI·SW 인재 채용 나서",
+      "link": "https://zdnet.co.kr/view/?no=20260620110544",
+      "published": "2026-06-20T02:05:44+00:00",
+      "summary": "[지디넷코리아]AI 솔루션 전문기업 피씨엔(PCN, 대표 송광헌)이 17~18일 이틀간 SSAFY(삼성청년SW·AI아카데미) 채용박람회에 참가, SW·AI 인재를 대상으로 채용 면접을 시행했다.SSAFY는 삼성의 소프트웨어 교육 경험과 고용노동부의 취업지원 노하우를 바탕으로 청년들의 SW 역량 향상과 취업을 지원하는 대표적인 인재 양성 프로그램이다.19일 회사에 따르면, 이번 채용박람회는 SSAFY 교육생과 수료생들에게 다양한 취업 기회를 제공하고, 기업과 구직자 간 직접적인 만남의 장을 마련하기"
+    },
+    {
+      "id": "e860e42c6ff8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'알파폴드' 노벨상 존 점퍼, 구글 떠나 앤트로픽 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211937",
+      "published": "2026-06-20T01:57:22+00:00",
+      "summary": "알파폴드 개발로 2024년 노벨 화학상을 받은 존 점퍼 구글 딥마인드 부사장이 앤트로픽에 합류한다.점퍼 부사장은 20일(현지시간) X를 통해 \"거의 9년 만에 구글 딥마인드를 떠나 앤트로픽에 합류하기로 했다\"라고 밝혔다.이어 \"데미스 허사비스는 내가 박사 학위를 마친 지 불과 6개월 만에 알파폴드 팀을 이끌도록 큰 기회를 줬다\"라며 감사를 표시했다.구글 딥마인드 대변인은 성명을 통해 점퍼의 퇴사를 확인하고, 그의 공로에 감사를 표했다. 앤트로픽 대변인은 그가 회사에 합류할 예정이라고 밝혔다. 허사"
+    },
+    {
+      "id": "49a68be0bf9f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기경학회 AX칼럼] AI 시대, 제조 강국의 세 가지 착각",
+      "link": "https://zdnet.co.kr/view/?no=20260620102542",
+      "published": "2026-06-20T01:25:42+00:00",
+      "summary": "[지디넷코리아]클로드를 만든 앤트로픽 최상위 모델 '페이블5'가 미국의 수출통제로 막혔다. 한국 기업과 기관마저 하루아침에 접근이 끊겼고, 다시 모두가 '소버린 AI'를 말하며 거대 언어 모델(LLM) 자체를 가지려 애쓴다. 옳은 방향이다. 그러나 그 소란 속에서 우리가 잊고 있는 핵심이 있다. 누구도 통제할 수 없는 우리만의 진짜 무기, 바로 제조 데이터다. 우리나라는 세계적 제조강국이다. 제조 데이터도 마찬가지다. 우리만의 세계적 무기가 될 수 있다. 짚고 넘어갈 게 있다. '어떤' 데이터가 "
+    },
+    {
+      "id": "378f4cbffa54",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "복사해서 붙여넣은 듯…우주서 포착된 '쌍둥이 화산' [우주서 본 지구]",
+      "link": "https://zdnet.co.kr/view/?no=20260620002021",
+      "published": "2026-06-20T01:20:01+00:00",
+      "summary": "[지디넷코리아]인도네시아 자바섬 중심부에 위치한 쌍둥이 화산이 우주에서 촬영된 사진으로 다시 주목받고 있다.과학매체 라이브사이언스는 최근 인도네시아 자바섬의 순도로산과 숨빙산이 거울에 비친 듯 대칭을 이루고 있는 모습을 담은 사진을 재조명해 보도했다. 해당 사진은 2021년 5월 국제우주정거장(ISS)에 체류 중이던 우주비행사가 촬영한 것이다.사진 왼쪽에 위치한 순도로산은 해발 3149m, 오른쪽의 숨빙산은 해발 3370m로 순도로산보다 약간 더 높다. 두 화산의 정상은 약 12㎞ 떨어져 있으며,"
+    },
     {
       "id": "2d7e79ff54e7",
       "source": "AI타임스",
@@ -23,6 +166,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211929",
       "published": "2026-06-20T01:01:53+00:00",
       "summary": "한국과학기술원(KAIST, 총장 이광형)은 김민수 전산학부 교수 연구팀이 교원창업기업인 그래파이와 협력해 차세대 데이터베이스 기술 ‘아카식DB(AkasicDB)’와 이를 바탕으로 하는 새로운 검색증강생성(RAG) 기법 ‘옴니RAG’를 개발했다고 20일 밝혔다.아카식DB는 벡터 DB, 그래프DB, 관계형 DB의 기능을 하나의 데이터베이스 관리시스템에서 통합 실행할 수 있도록 설계됐다. 이를 바탕으로 개발한 옴니RAG는 문서 의미 정보와 개체 간 관계, 구조화된 데이터를 동시 활용해 생성AI의 답변 "
+    },
+    {
+      "id": "8e43bd4e7c67",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마크애니, 'AI DLP'로 프롬프트 유출 문제 해결",
+      "link": "https://zdnet.co.kr/view/?no=20260620095022",
+      "published": "2026-06-20T00:50:22+00:00",
+      "summary": "[지디넷코리아]생성형 AI가 업무에 빠르게 자리 잡으면서, 기업의 기밀과 고객 데이터가 새는 경로도 함께 넓어지고 있다. 서드파티 AI 도구를 충분한 검증 없이 연동하거나 임직원의 AI 활용이 늘어나는 과정에서 위험이 공급망 전반으로 번지는 양상이다.최근 공개된 웹 인프라 기업 버셀(Vercel)의 침해 사고가 대표적이다. 직원이 쓰던 서드파티 AI 도구 '컨텍스트(Context.ai)'의 계정 연동이 뚫리면서 내부 환경 변수와 자격증명이 노출됐고, AI 시대의 보안 리스크를 다시 한번 환기시켰다"
     },
     {
       "id": "038d4fb76265",
@@ -56,6 +210,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211923",
       "published": "2026-06-20T00:40:00+00:00",
       "summary": "폭염이 스페인 전력시장의 저녁 피크 부담을 키우고 있다. 낮에는 태양광 발전이 전력 수요를 흡수하지만, 해가 진 뒤에도 냉방 수요가 이어지면서 전력가격과 계통 운영 부담이 저녁 시간대로 옮겨간다는 분석이다. 스페인 전력시장 운영기관 OMIE에 따르면, 19일(현지시간) 스페인 하루 전 시장 최고 가격은 메가와트시(MWh)당 150유로(26만 2700원), 최저가격은 0.84유로(1471원)였다.최저와 최고 가격 차가 150유로(26만 2700원) 가까이 벌어졌다는 점에서 시간대별 수급 여건이 가격"
+    },
+    {
+      "id": "455c348bba7c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마음AI, '피지컬 AI 얼라이언스 2기' 출범식서 기술 시연",
+      "link": "https://zdnet.co.kr/view/?no=20260620093645",
+      "published": "2026-06-20T00:36:45+00:00",
+      "summary": "[지디넷코리아]\"피지컬AI는 공장 로봇만 의미하지 않습니다. 컴퓨터 안에서 작동하던 AI가 현실로 나와 제조, 공장, 의료계, 공공 영역 등 모든 현장에 적용되는 개념으로 진화했습니다. 대한민국이 피지컬AI 글로벌 1강으로 가기 위한 도전을 하겠습니다.\"배경훈 부총리 겸 과학기술정보통신부 장관이 19일 서울 더플라자 호텔에서 열린'피지컬 AI 얼라이언스 2기 출범식'에서 이 같이 강조했다. 특히 이날 마음AI(대표 유태준, 한국피지컬AI협회 회장사)는 행사 시작에 앞서 진행한 기술 전시에서 리얼월"
     },
     {
       "id": "9d837d973170",
@@ -157,6 +322,17 @@
       "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
     },
     {
+      "id": "97e48dbfdfb7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "published": "2026-06-19T22:40:14+00:00",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
+    },
+    {
       "id": "ff7762f99010",
       "source": "TechCrunch",
       "kind": "article",
@@ -177,6 +353,17 @@
       "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
       "published": "2026-06-19T21:28:39+00:00",
       "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they "
+    },
+    {
+      "id": "7300b7523d33",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "link": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "published": "2026-06-19T19:35:15+00:00",
+      "summary": "Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll Comments URL: https://news.ycombinator.com/item?id=48602352 Points: 292 # Comments: 32"
     },
     {
       "id": "c603d245dad4",
@@ -658,6 +845,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "published": "2026-06-19T07:59:12+00:00",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+    },
+    {
+      "id": "dd52b3c756ea",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US says ASML’s top chip tool may be in China, but how?",
       "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "published": "2026-06-19T07:59:12+00:00",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
