@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-20T19:55:57.980126+00:00",
-  "count": 2997,
+  "updated_at": "2026-06-20T21:11:32.878350+00:00",
+  "count": 2999,
   "items": [
+    {
+      "id": "1b6b85d2797f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "published": "2026-06-20T20:32:29+00:00",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
+    },
     {
       "id": "03dc6824e91b",
       "source": "TechCrunch",
@@ -78,6 +89,17 @@
       "link": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
       "published": "2026-06-20T14:14:35+00:00",
       "summary": "Article URL: https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063 Comments URL: https://news.ycombinator.com/item?id=48609385 Points: 233 # Comments: 243"
+    },
+    {
+      "id": "490980c5f871",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "link": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+      "published": "2026-06-20T14:08:30+00:00",
+      "summary": "Article URL: https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video Comments URL: https://news.ycombinator.com/item?id=48609343 Points: 202 # Comments: 112"
     },
     {
       "id": "3cd883f5058f",
