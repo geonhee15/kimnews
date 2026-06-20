@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-20T12:59:12.108557+00:00",
-  "count": 2983,
+  "updated_at": "2026-06-20T15:05:16.623785+00:00",
+  "count": 2990,
   "items": [
+    {
+      "id": "4c3b80b2815b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "published": "2026-06-20T15:00:00+00:00",
+      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at."
+    },
+    {
+      "id": "3cd883f5058f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211798",
+      "published": "2026-06-20T13:40:45+00:00",
+      "summary": "지구촌 전체가 극심한 GPU 공급 부족(Shortage) 상태에 빠졌다. 단기간에 공급량을 늘릴 수 없는 구조적 한계 속에서 인프라 시장에는 기존 자원을 아껴 나눠 쓰는 일종의 ‘아나바다’ 바람이 불고 있다.전 세계에 흩어진 유휴 GPU 자원을 발굴해 실시간 연결하는 네오클라우드 기업 베슬AI의 박준우 GTM(Go-To-Market) 리더를 만나 쇼티지의 현실과 해법을 들었다.■ 쇼티지보다 무서운 건 확보한 GPU 100% 활용 못 하는 현실베슬AI는 현재의 쇼티지를 물량 자체가 부족하기도 하지만"
+    },
+    {
+      "id": "e94185d5f000",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이로운솔루션 \"유럽 비파괴검사 시장 공략\"...'2026 ECNDT' 참가",
+      "link": "https://zdnet.co.kr/view/?no=20260620222904",
+      "published": "2026-06-20T13:29:04+00:00",
+      "summary": "[지디넷코리아]이로운솔루션(영문명 ERSolution, 대표 이정호)은 지난 15~19일 이탈리아 베로나에서 열린 '2026 ECNDT(European Conference on Non-Destructive Testing, 유럽 비파괴검사 학술대회)'에 참가해 자사의 ERUT 솔루션을 전시 및 공개했다.회사의 이번 참가는 프랑스 글로벌 초음파 검사 장비 제조사 TPAC와 UTIS(TPAC, IMASONIC의 합작 원자력발전 전문 비파괴검사 솔루션 개발 회사) 초청으로 이뤄졌다.이로운솔루션은 무선 초"
+    },
+    {
+      "id": "1c9a2bac13f8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "지역거점 정보보호 클러스터 3호에 대구·경북 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260620214121",
+      "published": "2026-06-20T12:41:21+00:00",
+      "summary": "[지디넷코리아]과기정통부가 올해 시행한 '지역 거점 정보보호 클러스터 구축 사업'에 대구·경북권 컨소시엄이 선정됐다. 대구광역시와 경상북도를 비롯해 대구디지털혁신진흥원, 포항테크노파크, 한국로봇산업진흥원, 한국로봇융합연구원으로 컨소시엄이 구성됐다.20일 과기정통부와 한국인터넷진흥원(KISA)에 따르면 이번 ‘지역 거점 정보보호 클러스터’는 수도권에 집중된 정보보호 기업과 인력으로 인한 지역 간 격차를 완화, 지역 기반의 정보보호 산업 생태계 조성과 자생력 강화를 위한 것으로, 현재 동남권(부산(주"
+    },
     {
       "id": "6bb11a9c44e8",
       "source": "ZDNet Korea",
@@ -12,6 +56,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260620201326",
       "published": "2026-06-20T11:13:26+00:00",
       "summary": "[지디넷코리아]우리나라 삼성을 포함해 세계 주요 기업들이 사용하는 미국 대형 보안기업 포티넷(Fortinet)의 방화벽과 VPN 장비 수만 대가 해킹당한 것으로 나타났다.근착 미국 IT 전문매체 테크크런치 등 외신은 미국 사이버보안기업 허드슨록(Hudson Rock)과 소크레이더(SOCRadar) 분석을 인용, 이 같이 보도했다. 허드슨록에 따르면 피해를 입은 기업에는 액센추어(Accenture), 컴캐스트(Comcast), 폭스콘(Foxconn), 레노버(Lenovo), 오라클(Oracle), "
+    },
+    {
+      "id": "fe4bb737be0a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"삼성 등 사용 미국 포티넷 보안장비 해킹당했다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260620201326",
+      "published": "2026-06-20T11:13:26+00:00",
+      "summary": "[지디넷코리아]우리나라 삼성을 포함해 세계 주요 기업들이 사용하는 미국 대형 보안기업 포티넷(Fortinet)의 방화벽과 VPN 장비 수만 대가 해킹당한 것으로 나타났다.IT 전문매체 테크크런치 등 외신은 19일(현지시간) 미국 사이버보안기업 허드슨록과 소크레이더(SOCRadar) 분석을 인용, 이 같이 보도했다. 허드슨록에 따르면 피해를 입은 기업에는 액센추어, 컴캐스트, 폭스콘, 레노버, 오라클, 삼성, 지멘스, 프라이스워터하우스쿠퍼스 등이 포함됐다. 허드슨록은 7만3000개가 넘는 고유한 포"
     },
     {
       "id": "e53040a2a6e9",
@@ -111,6 +166,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211945",
       "published": "2026-06-20T06:45:00+00:00",
       "summary": "광주과학기술원(GIST·총장 임기철)은 ‘GIST-Arm 스쿨 반도체 설계 교육 프로그램’을 본격 운영한다고 19일 밝혔다.이 프로그램은 GIST가 지난 2월 Arm과 체결한 MOU의 후속 사업으로, Arm의 공식 교육 콘텐츠와 설계 자산을 활용해 반도체 설계 분야의 실무형 전문 인력을 양성하는 데 목적이 있다.교육 대상은 반도체 분야 취업을 희망하는 학부 4학년 이상 학생과 졸업(예정)자, 재직자이며, 트랙별 30명을 선발한다.현재 전체 7개 트랙 중 ‘Arm 기반 컴퓨터 아키텍처 입문(1트랙)"
+    },
+    {
+      "id": "448f016b1c22",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I Stored a Website in a Favicon",
+      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "published": "2026-06-20T05:33:59+00:00",
+      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 229 # Comments: 80"
     },
     {
       "id": "713d75fd7a5c",
@@ -2432,6 +2498,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211880",
       "published": "2026-06-18T08:30:00+00:00",
       "summary": "▲전영덕(향년 75세)씨 별세, 전진 브릴스 대표 부친상, 이혜원 시부상, 전인애·용애 부친상, 이희영 빙장상=인천 청기와장례식장(송림점) VIP 101호실 (인천 동구 방축로177번길 23), 발인 20일 오전 5시30분, 인천가족공원. 032-583-4444AI타임스 news@aitimes.com"
+    },
+    {
+      "id": "0388375c4098",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Can you see three trees?",
+      "link": "https://www.not-ship.com/can-you-see-three-trees/",
+      "published": "2026-06-18T08:16:20+00:00",
+      "summary": "Article URL: https://www.not-ship.com/can-you-see-three-trees/ Comments URL: https://news.ycombinator.com/item?id=48582374 Points: 221 # Comments: 105"
     },
     {
       "id": "6c6aa9842bd9",
