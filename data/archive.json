@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-20T11:12:41.234367+00:00",
-  "count": 2980,
+  "updated_at": "2026-06-20T12:59:12.108557+00:00",
+  "count": 2983,
   "items": [
+    {
+      "id": "6bb11a9c44e8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"해커, 삼성 등 사용 미국 포티넷 보안 장비 대규모 침해\"",
+      "link": "https://zdnet.co.kr/view/?no=20260620201326",
+      "published": "2026-06-20T11:13:26+00:00",
+      "summary": "[지디넷코리아]우리나라 삼성을 포함해 세계 주요 기업들이 사용하는 미국 대형 보안기업 포티넷(Fortinet)의 방화벽과 VPN 장비 수만 대가 해킹당한 것으로 나타났다.근착 미국 IT 전문매체 테크크런치 등 외신은 미국 사이버보안기업 허드슨록(Hudson Rock)과 소크레이더(SOCRadar) 분석을 인용, 이 같이 보도했다. 허드슨록에 따르면 피해를 입은 기업에는 액센추어(Accenture), 컴캐스트(Comcast), 폭스콘(Foxconn), 레노버(Lenovo), 오라클(Oracle), "
+    },
     {
       "id": "e53040a2a6e9",
       "source": "Wired",
@@ -166,6 +177,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211938",
       "published": "2026-06-20T04:03:57+00:00",
       "summary": "아마존이 자체 개발 AI 칩 '트레이니엄(Trainium)'을 외부 데이터센터에 직접 판매하는 방안을 추진하고 있다. 그동안 클라우드 서비스 내부에서만 활용하던 자체 AI 칩을 독립 사업으로 확대하려는 움직임으로, 엔비디아 등과의 경쟁 구도에 적지 않은 변수가 될 것으로 예상됐다.피터 드산티스 아마존웹서비스(AWS) AI 총괄은 18일(현지시간) 프랑스 파리에서 진행된 블룸버그와의 인터뷰에서 \"자체 개발 칩을 외부 기업의 데이터센터에 공급하는 방안을 논의하고 있다\"라고 밝혔다. 잠재 고객사 명단은"
+    },
+    {
+      "id": "beaea8d6d9e1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "published": "2026-06-20T03:36:49+00:00",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ Comments URL: https://news.ycombinator.com/item?id=48606140 Points: 211 # Comments: 51"
     },
     {
       "id": "65d57ac17c16",
@@ -529,6 +551,17 @@
       "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "published": "2026-06-19T16:28:20+00:00",
       "summary": "Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/ Comments URL: https://news.ycombinator.com/item?id=48600312 Points: 227 # Comments: 118"
+    },
+    {
+      "id": "0c8ea72d9ffb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "link": "https://arrowtsx.dev/bigger-models/",
+      "published": "2026-06-19T16:11:25+00:00",
+      "summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 276 # Comments: 109"
     },
     {
       "id": "a09f7477cb7c",
