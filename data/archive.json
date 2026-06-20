@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-20T08:47:21.546169+00:00",
-  "count": 2973,
+  "updated_at": "2026-06-20T11:12:41.234367+00:00",
+  "count": 2980,
   "items": [
+    {
+      "id": "e53040a2a6e9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "published": "2026-06-20T10:00:00+00:00",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful."
+    },
+    {
+      "id": "617f68a766b0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에버퓨어 \"단순 저장 넘어 ‘데이터 인텔리전스’ 역량 강화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211942",
+      "published": "2026-06-20T09:49:05+00:00",
+      "summary": "에버퓨어(Everpure)가 사명 변경과 원터치(1touch) 인수를 완료하고, 미국과 한국을 중심으로 ‘데이터센트릭 스토리지’ 전략을 본격화한다.에버퓨어(전 퓨어스토리지)는 18일 강남구 아셈타워에서 사명 변경 이후 첫 국내 공식 간담회를 진행, ‘데이터 중심 구독형 스토리지’ 전략을 설명했다.AI 시대에서 ‘데이터 중심’ 스토리지를 갖추면, 데이터의 물리적 용량을 줄일 수 있는 것은 물론, 비용 효율적인 관리가 가능해진다고 강조했다. 데이터 중심 생태계란, 애플리케이션 별로 산재한 데이터의 단"
+    },
+    {
+      "id": "3f5852ea4214",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
+      "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
+      "published": "2026-06-20T09:30:00+00:00",
+      "summary": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more."
+    },
+    {
+      "id": "81b54204a11e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "헤르메스, 신규 기여자 수에서 오픈클로 역전...'하네스' 최적화의 승리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211931",
+      "published": "2026-06-20T09:21:36+00:00",
+      "summary": "누스 리서치의 오픈소스 AI 에이전트 '헤르메스(Hermes)'이 사용량에서 '오픈클로'를 앞지른 데 이어, 개발자 관심도 측면에서 1위에도 오른 것으로 확인됐다.디 인포메이션은 18일(현지시간) 오픈소스 AI 에이전트 생태계 분석 플랫폼 클로차트(ClawCharts)의 깃허브 통계를 인용, '헤르메스 에이전트'가 최근 30일 기준 신규 깃허브 기여자 수에서 오픈클로를 앞질렀다고 보도했다.신규 기여자 수는 오픈소스 프로젝트에 대한 개발자 참여도를 보여주는 주요 지표로 평가된다.이에 앞서 지난 5월"
+    },
+    {
+      "id": "987faf264a04",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 중국 기업에 오픈AI API 판매로 수익 올려…’증류’ 위험 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211936",
+      "published": "2026-06-20T08:56:11+00:00",
+      "summary": "마이크로소프트(MS)가 중국 주요 기술 기업들에 오픈AI 모델을 제공하며 상당한 규모의 AI 사업을 구축한 것으로 나타났다. 그러나 이 과정에서 중국 기업들이 AI 모델을 모방·학습하는 ‘증류(distillation)’ 위험이 제기되면서 논란도 커지고 있다.18일(현지시간) 블룸버그에 따르면, 중국의 바이트댄스는 최근 수년간 MS의 최대 AI 고객으로 자리 잡았다.바이트댄스는 주로 애저(Azure) 클라우드를 통해 오픈AI 모델을 사용해 왔으며, AI 및 클라우드 서비스에 연간 10억달러(약 1조"
+    },
+    {
+      "id": "08e68aa49d3a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 월드컵 열기 속 미·이란 종전 MOU와 스페이스X 상장 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211941",
+      "published": "2026-06-20T08:45:16+00:00",
+      "summary": "AI타임스와 이스트에이드의 6월 셋째 주(6월12일~18일) 이슈 분석 결과, 국제 정세 변화와 지방선거 후속 파장 및 금융 시장 변동 등이 상위권을 차지했다.이번 주 검색량 1위 키워드는 ‘미·이란 종전 MOU(8.53%)’이다.미국과 이란의 종전 양해각서(MOU) 체결 직후 이스라엘의 레바논 공습으로 후속 협상이 차질을 빚었으나, 미국 특사들이 스위스로 이동하면서 주말 간 협상 재개 가능성이 커졌다.한편, 트럼프 대통령은 60일 이내 최종 합의에 도달하지 않을 경우, 군사 대응을 하겠다는 강경"
+    },
     {
       "id": "4382e054f15b",
       "source": "The Verge",
@@ -23,6 +89,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260620154935",
       "published": "2026-06-20T06:49:35+00:00",
       "summary": "[지디넷코리아]한국지능정보사회진흥원(NIA)이 19일 재정경제부가 발표한 2025년도 공공기관 경영실적 평가'에서 양호(B) 등급을 받았다. 또 한국방송통신전파진흥원(KCA)은 보통 등급(C)을, 한국인터넷진흥원(KISA)은 미흡 등급(D)을 각각 받았다. 재경부가 매년 발표하는 '공공기관 경영 실적 평가'는 등급이 우수(A), 양호(B), 보통(C), 미흡(D), 아주 미흡(E) 등 5단계로 이뤄져 있다.NIA는 작년(C)에 비해 한 단계 올라간 반면, KISA는 한 단계 하락했다. 작년에 잇달"
+    },
+    {
+      "id": "3c00e3cace71",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'GIST-Arm 스쿨' 22일까지 첫 교육생 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211945",
+      "published": "2026-06-20T06:45:00+00:00",
+      "summary": "광주과학기술원(GIST·총장 임기철)은 ‘GIST-Arm 스쿨 반도체 설계 교육 프로그램’을 본격 운영한다고 19일 밝혔다.이 프로그램은 GIST가 지난 2월 Arm과 체결한 MOU의 후속 사업으로, Arm의 공식 교육 콘텐츠와 설계 자산을 활용해 반도체 설계 분야의 실무형 전문 인력을 양성하는 데 목적이 있다.교육 대상은 반도체 분야 취업을 희망하는 학부 4학년 이상 학생과 졸업(예정)자, 재직자이며, 트랙별 30명을 선발한다.현재 전체 7개 트랙 중 ‘Arm 기반 컴퓨터 아키텍처 입문(1트랙)"
     },
     {
       "id": "713d75fd7a5c",
