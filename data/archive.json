@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T18:49:40.259846+00:00",
-  "count": 3059,
+  "updated_at": "2026-06-21T20:21:59.838562+00:00",
+  "count": 3062,
   "items": [
     {
       "id": "7eb6b14a5069",
@@ -23,6 +23,17 @@
       "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
       "published": "2026-06-21T16:08:23+00:00",
       "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction Comments URL: https://news.ycombinator.com/item?id=48620090 Points: 224 # Comments: 152"
+    },
+    {
+      "id": "09e07d29b24b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "published": "2026-06-21T16:08:23+00:00",
+      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction Comments URL: https://news.ycombinator.com/item?id=48620090 Points: 319 # Comments: 230"
     },
     {
       "id": "b55de6b5b906",
@@ -56,6 +67,17 @@
       "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
       "published": "2026-06-21T14:40:28+00:00",
       "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+    },
+    {
+      "id": "e0070cdcf770",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Identity verification on Claude",
+      "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "published": "2026-06-21T12:44:13+00:00",
+      "summary": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_... Comments URL: https://news.ycombinator.com/item?id=48618455 Points: 301 # Comments: 262"
     },
     {
       "id": "db4b298c9bb6",
@@ -2740,6 +2762,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260618213137",
       "published": "2026-06-18T12:31:37+00:00",
       "summary": "[지디넷코리아]세계 최대 전자제품 위탁생산업체 폭스콘(Foxconn·훙하이정밀)이 6월 17일 파리 비바테크 2026에서 휴머노이드(humanoid·인간형) 로봇을 유럽에 처음 선보였다. 폭스콘은 엔비디아의 베라루빈 NVL72 연산 랙부터 아이작 GR00T로 학습한 조립 로봇까지 이어지는 '폐쇄 루프 피지컬 AI 스택'을 시연했다. 폭스콘은 2025년 3월 GTC에서 휴머노이드 로봇 개발 현황을 처음 공개했는데, 산업용 휴머노이드를 유럽 무대에 올린 것은 이번이 처음이다. 모델을 학습시키는 연산 "
+    },
+    {
+      "id": "d2b5c61539dd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "15-minute at-home Lyme disease tick test",
+      "link": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "published": "2026-06-18T12:22:36+00:00",
+      "summary": "https://archive.ph/cNwmN Comments URL: https://news.ycombinator.com/item?id=48584261 Points: 207 # Comments: 142"
     },
     {
       "id": "25a540b87d70",
