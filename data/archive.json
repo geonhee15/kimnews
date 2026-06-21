@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-06-21T08:17:21.933468+00:00",
-  "count": 3031,
+  "updated_at": "2026-06-21T11:28:40.126637+00:00",
+  "count": 3045,
   "items": [
+    {
+      "id": "9c876ecb1a9e",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "실시간 음성 AI 에이전트 구현 5분컷",
+      "link": "https://www.youtube.com/watch?v=ifbY2C5OXlM",
+      "published": "2026-06-21T11:15:14+00:00",
+      "summary": ""
+    },
+    {
+      "id": "8711b0eba15d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'최초·최다 AI 더빙' 허드슨에이아이 “에이전틱 더빙 시대 열 것”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211946",
+      "published": "2026-06-21T11:00:38+00:00",
+      "summary": "“AI 음성 기술은 결국 우리가 나아가는 방향과 맞닿아있다고 생각합니다. 현재는 콘텐츠 더빙에만 활용되고 있지만, 앞으로는 실시간 소통 영역에서도 주력 기술로 자리 잡을 것입니다. AI나 로봇과 소통할 때도 텍스트 중심에서 음성 중심으로 고도화될 것으로 봅니다.”허드슨에이아이는 지난 2022년부터 AI 더빙 분야에 집중하고 있다. 당시에는 전 세계적으로도 AI 더빙 레퍼런스가 전무한 상태였으며, 공식적인 자료에 의하면 허드슨에이아이가 최초로 AI 더빙을 활용한 사업 모델을 선보인 것으로 알려져 있"
+    },
+    {
+      "id": "6684c6ea36c0",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - GLM-5.2 열풍, 구글의 위기, GPT-5.6 소식, Codex Record & Replay, Mythos 논란, 미드저니 근황 등",
+      "link": "https://www.youtube.com/watch?v=tnIFBDyOlGE",
+      "published": "2026-06-21T10:51:59+00:00",
+      "summary": ""
+    },
+    {
+      "id": "112b51bbfc52",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "英, 유튜브 등에 공영방송 뉴스 ‘우선 노출’ 방안 검토",
+      "link": "https://zdnet.co.kr/view/?no=20260621102237",
+      "published": "2026-06-21T10:30:01+00:00",
+      "summary": "[지디넷코리아]영국 정부가 유튜브, 메타 등 사회관계망서비스(SNS)에 공영방송 뉴스 콘텐츠를 보다 눈에 띄게 노출하는 방안을 추진한다.20일(현지시간) 파이낸셜타임스 등 외신에 따르면 영국 정부는 BBC, ITV, 채널4 등 공영 방송의 뉴스 채널과 콘텐츠 노출을 확대하는 규정에 대한 의견 수렴을 이달 중 시작할 계획이다.이번 조치는 신뢰할 수 있는 영국 뉴스가 해외 기업의 알고리즘에 의해 가려지고 있다는 우려를 해소하기 위한 것이다. 현재 젊은 층이 TV 대신 SNS를 통해 뉴스를 소비하는 만"
+    },
+    {
+      "id": "d1b11191642a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best NAS Devices for Your Home After Months of Testing",
+      "link": "https://www.wired.com/story/best-nas-devices/",
+      "published": "2026-06-21T10:30:00+00:00",
+      "summary": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices."
+    },
+    {
+      "id": "5d2bd3e9128d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "published": "2026-06-21T10:30:00+00:00",
+      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results."
+    },
+    {
+      "id": "c20fcb2206ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미니맥스, 초장문 컨텍스트 해결한 'MSA' 공개…추론 속도 14배↑·연산량 28배↓",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211948",
+      "published": "2026-06-21T10:18:23+00:00",
+      "summary": "미니맥스가 초장문 컨텍스트 처리 과정에서 발생하는 막대한 연산 비용 문제를 해결하기 위한 새로운 희소 어텐션(Sparse Attention) 기술을 공개했다.미니맥스는 11일(현지시간) 연산 비용을 획기적으로 줄이면서도 성능 저하를 최소화한 '미니맥스 희소 어텐션(MSA·MiniMax Sparse Attention)'를 온라인 아카이브를 통해 공개했다.이를 서비스 모델인 '미니맥스-M3'에 적용했으며, 관련 추론 커널도 오픈소스로 공개했다.MSA는 최대 100만 토큰 규모의 장기 컨텍스트에서도 성"
+    },
+    {
+      "id": "bfbf718ec6ac",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Buying a Used iPhone Makes More Sense Than Ever",
+      "link": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+      "published": "2026-06-21T10:00:00+00:00",
+      "summary": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it'll last longer than ever."
+    },
+    {
+      "id": "f20915a35952",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"RAG도 미세조정도 한계\"... 실시간 모델 만드는 '하이퍼네트워크' 뜬다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211947",
+      "published": "2026-06-21T09:39:23+00:00",
+      "summary": "장시간 업무에서 한계를 드러내는 자율형 에이전트 문제를 해결하기 위해 '하이퍼네트워크(Hypernetworks)' 기반 전문 모델이 떠오르는 것으로 알려졌다. 기업 맞춤형 지식을 실시간으로 모델에 반영, 높은 자율성과 낮은 운영 비용을 동시에 달성할 수 있을지 관심이 집중되고 있다.벤처비트는 19일(현지시간) 기업들이 원하는 것은 장시간 독립적으로 업무를 수행한 뒤 사람이 최종 결과의 일부만 검토하는 ‘고자율성 에이전트’이지만, 실제 운영 환경에서는 기대만큼 자율적으로 작동하지 못한다고 지적했다."
+    },
+    {
+      "id": "5aefca9122a9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "쿠팡이츠서비스, 배달파트너 폭염 대응 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260621141020",
+      "published": "2026-06-21T09:30:01+00:00",
+      "summary": "[지디넷코리아]쿠팡이츠서비스가 여름철 배달파트너 온열질환 예방을 위해 폭염 대응 지원을 확대한다. 고용노동부와 지방자치단체, 한국노동공제회 등과 협력해 현장 캠페인과 쉼터 운영을 병행한다.쿠팡이츠서비스는 고용노동부의 ‘폭염안전 5대 기본수칙’을 바탕으로 배달파트너 대상 현장 지원을 강화한다고 21일 밝혔다.폭염안전 5대 기본수칙은 물, 냉방, 휴식, 보냉장구, 119 신고 등으로 구성된다. 쿠팡이츠서비스는 이를 기준으로 배달파트너가 폭염 상황에서 수분을 보충하고 휴식할 수 있는 지원 체계를 운영한"
+    },
+    {
+      "id": "6e1dae4819fb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "손으로 작동하는 '크랭크GPT'...\"AI 답변 받으려면 직접 전력 생산\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211953",
+      "published": "2026-06-21T08:48:07+00:00",
+      "summary": "사용자가 직접 손으로 전력을 만들어 구동하는 독특한 AI 기기가 등장했다. 막대한 전력 소비와 환경 문제를 일으키는 거대한 데이터센터에 의존하지 않고 필요한 용도에 맞춰 전력 소비량을 최적화한 장치라는 설명이다.더 레지스터 등 외신에 따르면, 컴퓨터 과학자 카트린 토마넥과 전 구글 첨단 기술 및 프로젝트(ATAP) 그룹의 리더 알렉스 카우프만은 최근 수동 크랭크 구동식 음성 AI 비서 '크랭크GPT(CrankGPT)'를 공개했다.이 장치는 사용자가 직접 손잡이(크랭크)를 돌려 전기를 공급해야만 작"
+    },
     {
       "id": "70b2fb52ffd1",
       "source": "ZDNet Korea",
@@ -179,6 +300,17 @@
       "summary": "[지디넷코리아]LG에너지솔루션은 지난달 기준 글로벌 특허가 등록 기준 약 5만9000건, 출원 기준 10만건을 넘어섰다고 21일 밝혔다.회사는 특허를 미래 성장 동력이자 사업 경쟁력을 좌우하는 핵심 전략 자산으로 보고 기술 주도권 강화를 위해 연구개발 투자를 지속적으로 확대해왔다. 지난 2023년 처음으로 연간 연구개발(R&D) 비용 1조원을 돌파한 뒤, 지난해 역대 최대 규모인 1조 3277억원을 R&D에 투자했다. 기술 특허 다수는 소재·셀·팩·제조공정 분야에 상용화됐다. 분리막 표면에 세라믹"
     },
     {
+      "id": "2e3055474108",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Developers don't understand CORS (2019)",
+      "link": "https://fosterelli.co/developers-dont-understand-cors",
+      "published": "2026-06-21T01:35:40+00:00",
+      "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors Comments URL: https://news.ycombinator.com/item?id=48614844 Points: 222 # Comments: 130"
+    },
+    {
       "id": "143509a522c1",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -289,6 +421,17 @@
       "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland Comments URL: https://news.ycombinator.com/item?id=48613755 Points: 209 # Comments: 106"
     },
     {
+      "id": "1f3ebc2ddb48",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+      "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "published": "2026-06-20T20:59:40+00:00",
+      "summary": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin... Comments URL: https://news.ycombinator.com/item?id=48612943 Points: 217 # Comments: 205"
+    },
+    {
       "id": "1b6b85d2797f",
       "source": "TechCrunch",
       "kind": "article",
@@ -353,6 +496,17 @@
       "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
       "published": "2026-06-20T18:05:31+00:00",
       "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/ Comments URL: https://news.ycombinator.com/item?id=48611411 Points: 210 # Comments: 75"
+    },
+    {
+      "id": "ae4327622bd2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "link": "https://www.lispm.net/apps/uhf-x11/",
+      "published": "2026-06-20T17:04:24+00:00",
+      "summary": "Article URL: https://www.lispm.net/apps/uhf-x11/ Comments URL: https://news.ycombinator.com/item?id=48610853 Points: 208 # Comments: 43"
     },
     {
       "id": "7e6fcba4c7c4",
