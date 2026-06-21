@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-21T13:22:21.892991+00:00",
-  "count": 3051,
+  "updated_at": "2026-06-21T15:22:50.031030+00:00",
+  "count": 3053,
   "items": [
+    {
+      "id": "2a68f488f0da",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "published": "2026-06-21T14:40:28+00:00",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+    },
     {
       "id": "db4b298c9bb6",
       "source": "The Verge",
@@ -463,6 +474,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260620231038",
       "published": "2026-06-21T00:10:32+00:00",
       "summary": "[지디넷코리아]가상머신(VM) 시장이 인공지능(AI) 시대 인프라 경쟁으로 확산하고 있다. 기업들이 기존 VM 환경을 유지하면서 AI 워크로드와 컨테이너까지 함께 운영해야 하는 상황에 놓이면서, 업체들은 서로 다른 전략으로 시장 공략에 나섰다.21일 IT 업계에 따르면 기업들은 가상머신(VM)을 단순한 비용 절감 수단이 아니라 차세대 인프라 운영 기반으로 보고 있다. 기존 VM 환경을 유지하면서도 쿠버네티스, 컨테이너, 생성형 AI 서비스를 함께 운영할 수 있는 플랫폼 수요가 커지고 있다.레드햇은"
+    },
+    {
+      "id": "196f8b4ca30f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Epoll vs. io_uring in Linux",
+      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "published": "2026-06-20T23:07:09+00:00",
+      "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/ Comments URL: https://news.ycombinator.com/item?id=48613872 Points: 209 # Comments: 51"
     },
     {
       "id": "64810160cc8a",
