@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-22T21:59:39.189644+00:00",
-  "count": 3163,
+  "updated_at": "2026-06-22T23:24:18.053422+00:00",
+  "count": 3167,
   "items": [
+    {
+      "id": "cebe28516c9a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월22일] \"내 치즈를 옮긴 것은 챗GPT\"… 종이책에서 AI로 이동하는 '조언 산업'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=211972",
+      "published": "2026-06-22T22:00:00+00:00",
+      "summary": "AI의 급격한 발전과 간편한 요약 기능이 자기계발서 판매 감소의 원인 중 하나라는 분석이 나왔습니다. 핵심 내용만 빠르게 요약해 주는 AI 기술이 '○가지 방법'처럼 요점을 압축한 '처방형 자기계발서'를 위협하고 있다는 지적입니다.파이낸셜타임스는 20일(현지시간) \"챗GPT가 내 치즈를 옮겼다\"라는 제목의 칼럼을 게재했습니다.이에 따르면, 유명 자기계발 전문가이자 2007년 출간된 베스트셀러 '4시간 근무(The 4-Hour Work Week)'의 저자인 팀 페리스는 최근 블로그를 통해 AI 세대"
+    },
+    {
+      "id": "cf5fbc09cd26",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "published": "2026-06-22T21:52:39+00:00",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms."
+    },
     {
       "id": "55f1ec6722cd",
       "source": "Wired",
@@ -111,6 +133,17 @@
       "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
       "published": "2026-06-22T19:16:52+00:00",
       "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips."
+    },
+    {
+      "id": "ec685386a01a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "link": "https://ipvm.com/reports/police-chiefs-track",
+      "published": "2026-06-22T19:13:46+00:00",
+      "summary": "Article URL: https://ipvm.com/reports/police-chiefs-track Comments URL: https://news.ycombinator.com/item?id=48634694 Points: 231 # Comments: 76"
     },
     {
       "id": "929a6692ea6c",
@@ -364,6 +397,17 @@
       "link": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
       "published": "2026-06-22T14:00:00+00:00",
       "summary": "Today, I’m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creator landscape since then, so I was very excited to talk to him again, especially sinc"
+    },
+    {
+      "id": "0cafee8178f1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "link": "https://hustvl.github.io/Moebius/",
+      "published": "2026-06-22T13:53:02+00:00",
+      "summary": "Article URL: https://hustvl.github.io/Moebius/ Comments URL: https://news.ycombinator.com/item?id=48630171 Points: 207 # Comments: 61"
     },
     {
       "id": "9b602761dbaa",
