@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-22T23:24:18.053422+00:00",
-  "count": 3167,
+  "updated_at": "2026-06-23T01:29:58.866922+00:00",
+  "count": 3172,
   "items": [
+    {
+      "id": "6037100df758",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "2026-06-23T01:27:55+00:00",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "id": "a919638f2fcc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "published": "2026-06-23T00:11:31+00:00",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community."
+    },
+    {
+      "id": "b169271bf13b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "published": "2026-06-22T23:24:32+00:00",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all wat"
+    },
+    {
+      "id": "b0552ed4d36c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KETI·로봇진흥원·두산로보틱스, 유럽 로봇시장 진출 협약",
+      "link": "https://zdnet.co.kr/view/?no=20260623070845",
+      "published": "2026-06-22T22:08:45+00:00",
+      "summary": "[지디넷코리아]한국전자기술연구원(KETI·원장 노건기)은 20일(현지 시간) 독일 프랑크푸르트 소재 두산로보틱스 유럽지사에서 한국로봇산업진흥원(KIRIA·원장 조영훈), 두산로보틱스(대표 김민표)와 첨단로봇 분야 연구개발(R&D) 협력을 위한 업무협약을 체결했다고 밝혔다.세 기관은 협약에 따라 체코 프라하공과대학교 안에 구축하는 ‘한-체코 첨단로봇산업 협력센터’를 협력 기반으로 활용해 국내 로봇 및 관련 제조기업의 유럽 시장 진출 지원을 확대하고 첨단로봇 분야 국제공동연구와 기술협력에 나서기로 했"
+    },
     {
       "id": "cebe28516c9a",
       "source": "AI타임스",
@@ -2740,6 +2784,17 @@
       "link": "https://www.wired.com/gallery/the-best-ipad/",
       "published": "2026-06-19T12:00:00+00:00",
       "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you."
+    },
+    {
+      "id": "e99d77fa20c7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "My Mathematical Regression",
+      "link": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "published": "2026-06-19T11:06:04+00:00",
+      "summary": "Article URL: https://blog.dahl.dev/posts/my-mathematical-regression/ Comments URL: https://news.ycombinator.com/item?id=48597221 Points: 200 # Comments: 69"
     },
     {
       "id": "f9e45f08f2dd",
