@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-23T17:06:07.227361+00:00",
-  "count": 3273,
+  "updated_at": "2026-06-23T19:19:36.123368+00:00",
+  "count": 3286,
   "items": [
+    {
+      "id": "3d5481866ed8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla claims driver ‘manually overrode self-driving’ in deadly Texas crash",
+      "link": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+      "published": "2026-06-23T19:11:04+00:00",
+      "summary": "Tesla is pushing back on claims that its Full Self-Driving (FSD) system caused a fatal Texas crash, where a speeding Model 3 barreled into a home, killing a 76-year-old woman inside. In a reply on X, Tesla AI head Ashok Elluswamy says the driver \"manually overrode self-driving by"
+    },
+    {
+      "id": "e8fd6d57a0db",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Eufy’s Omni C28 is one of the best Prime Day deals on robot vacuums",
+      "link": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
+      "published": "2026-06-23T19:00:00+00:00",
+      "summary": "If you’re in the market for a robot vacuum, Amazon Prime Day has brought a ton of discounts that we’re tracking, but the Eufy Omni C28 is one of the best deals we’ve spotted so far. It’s a great robot vacuum and mop hybrid that offers a number of flagship features without the fla"
+    },
+    {
+      "id": "043bf2be2adc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zuckerberg reportedly wants a Polymarket clone — but without real money",
+      "link": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
+      "published": "2026-06-23T18:31:25+00:00",
+      "summary": "Meta CEO Mark Zuckerberg has tasked a small team at the company with making an app that works like the prediction markets Polymarket and Kalshi, according to The New York Times. The app, internally called \"Arena\" won't let users wager real money, but instead will \"probably rely\" "
+    },
+    {
+      "id": "7277d6fcbbce",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212031",
+      "published": "2026-06-23T17:00:23+00:00",
+      "summary": "“팀스파르타는 AI를 실제 업무 흐름에 반영해 성과를 낼 수 있도록 전 과정을 지원합니다. 대부분의 글로벌 기업에서도 갖추지 못한 역량이라는 점에서, 가능성과 차별점을 긍정적으로 평가해 합류를 결정하게 됐습니다.”팀스파르타는 2019년부터 코딩 교육 서비스 ‘스파르타코딩클럽’으로 잘 알려져 있다. 이제는 교육 역량을 활용해 기업과 개인의 AX를 담당하고 있다. 브랜드와 사업 명칭도 코딩을 뺀 ‘스파르타클럽’으로 바꿨다.박영진 팀스파르타 AX사업본부장은 이에 맞춰 지난 3월 합류했다. 마이크로소프트"
+    },
     {
       "id": "fca4f8a7216a",
       "source": "TechCrunch",
@@ -14,12 +58,34 @@
       "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows."
     },
     {
+      "id": "fca9dafb6c9d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "F3",
+      "link": "https://github.com/future-file-format/f3",
+      "published": "2026-06-23T16:53:32+00:00",
+      "summary": "Article URL: https://github.com/future-file-format/f3 Comments URL: https://news.ycombinator.com/item?id=48647799 Points: 409 # Comments: 110"
+    },
+    {
       "id": "2914a2a8dcd6",
       "source": "Fireship",
       "kind": "youtube",
       "category": "DEV",
       "lang": "en",
       "title": "Midjourney's next product wants to get inside you...",
+      "link": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
+      "published": "2026-06-23T16:46:50+00:00",
+      "summary": ""
+    },
+    {
+      "id": "991bed42f24e",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Midjourney wants to delete 30% of all death...",
       "link": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
       "published": "2026-06-23T16:46:50+00:00",
       "summary": ""
@@ -45,6 +111,17 @@
       "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
       "published": "2026-06-23T16:00:00+00:00",
       "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "d06659496b0f",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+      "published": "2026-06-23T15:48:00+00:00",
+      "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open so"
     },
     {
       "id": "c004eae39e2c",
@@ -102,6 +179,17 @@
       "summary": "Article URL: https://pluralistic.net/2026/06/23/destroy-the-village/ Comments URL: https://news.ycombinator.com/item?id=48645173 Points: 324 # Comments: 206"
     },
     {
+      "id": "f3f903e53e5d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What we call \"age verification\" is actually mass surveillance",
+      "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "published": "2026-06-23T14:04:43+00:00",
+      "summary": "Article URL: https://pluralistic.net/2026/06/23/destroy-the-village/ Comments URL: https://news.ycombinator.com/item?id=48645173 Points: 565 # Comments: 311"
+    },
+    {
       "id": "ed605960d3ac",
       "source": "Hacker News",
       "kind": "article",
@@ -111,6 +199,17 @@
       "link": "https://mistral.ai/news/ocr-4/",
       "published": "2026-06-23T14:03:19+00:00",
       "summary": "Article URL: https://mistral.ai/news/ocr-4/ Comments URL: https://news.ycombinator.com/item?id=48645152 Points: 213 # Comments: 60"
+    },
+    {
+      "id": "de55f5f1a91e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "link": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "published": "2026-06-23T13:36:10+00:00",
+      "summary": "Article URL: https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48644781 Points: 241 # Comments: 66"
     },
     {
       "id": "5de024f7347e",
@@ -256,6 +355,17 @@
       "summary": "Article URL: https://github.com/baidu/Unlimited-OCR Comments URL: https://news.ycombinator.com/item?id=48643426 Points: 303 # Comments: 79"
     },
     {
+      "id": "162451a9a793",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "link": "https://github.com/baidu/Unlimited-OCR",
+      "published": "2026-06-23T11:35:05+00:00",
+      "summary": "Article URL: https://github.com/baidu/Unlimited-OCR Comments URL: https://news.ycombinator.com/item?id=48643426 Points: 359 # Comments: 88"
+    },
+    {
       "id": "35d72d2d3341",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -265,6 +375,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260623201003",
       "published": "2026-06-23T11:10:03+00:00",
       "summary": "[지디넷코리아] 로봇 축구 선수부터 업계 선도 연사들, 포뮬러 E 및 몰입형 존에 이르기까지 MWC26 상하이, 6월 24일 개막하여 글로벌 연결성의 미래를 형성하는 혁신과 아이디어 선보여 상하이, 2026년 6월 23일 /PRNewswire/ -- 글로벌 연결성 커뮤니티가 MWC26 상하이(MWC26 Shanghai)에서 만날 준비를 하는 가운데, GSMA가 중국이 전 세계 5G 연결의 40% 이상을 차지한다는 새로운 연구를 발표했다. 행사에 앞서 GSMA는 모바일 이코노미 차이나 2026(Mo"
+    },
+    {
+      "id": "c8b55011988c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Coming Loop",
+      "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "published": "2026-06-23T11:06:41+00:00",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/6/23/the-coming-loop/ Comments URL: https://news.ycombinator.com/item?id=48643180 Points: 207 # Comments: 161"
     },
     {
       "id": "356d939ff46c",
@@ -1484,6 +1605,17 @@
       "lang": "en",
       "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
       "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "published": "2026-06-22T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bbc778a87aa5",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
       "published": "2026-06-22T15:00:00+00:00",
       "summary": ""
     },
@@ -4016,6 +4148,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=211926",
       "published": "2026-06-19T09:20:38+00:00",
       "summary": "미국 정부의 명령으로 앤트로픽의 '페이블 5'와 '미소스 5'의 서비스는 중단됐지만, 앞서 출시된 '미소스 프리뷰'는 아직도 접근 권한이 유지되는 것으로 나타났다.19일 블룸버그에 따르면, '프로젝트 글래스윙'을 통해 미소스 프리뷰 사용 권한을 승인받은 일부 기업들은 현재까지도 모델에 접근할 수 있는 것으로 알려졌다. 프로젝트 글래스윙에는 200여개의 기업과 기관이 참여하고 있으며, 그중 시스코와 드라고스(Dragos), 그리고 익명을 요구한 일부 기업들은 미소소 프리뷰에 아직 접근 중이라고 밝혔"
+    },
+    {
+      "id": "248630592b51",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Plotnine",
+      "link": "https://plotnine.org/",
+      "published": "2026-06-19T09:08:00+00:00",
+      "summary": "Article URL: https://plotnine.org/ Comments URL: https://news.ycombinator.com/item?id=48596488 Points: 222 # Comments: 67"
     },
     {
       "id": "74318e9fd11f",
