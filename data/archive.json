@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-06-23T11:57:22.855340+00:00",
-  "count": 3243,
+  "updated_at": "2026-06-23T14:43:04.943237+00:00",
+  "count": 3263,
   "items": [
+    {
+      "id": "68c2bb895920",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
+      "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+      "published": "2026-06-23T14:11:23+00:00",
+      "summary": "The smart glasses are available in several countries starting today in a variety of color and lens combinations."
+    },
+    {
+      "id": "5de024f7347e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "published": "2026-06-23T13:25:42+00:00",
+      "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here t"
+    },
+    {
+      "id": "911bce02bfe3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok."
+    },
+    {
+      "id": "23fdc6e7f477",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My go-to Kindle is back at its best price yet for Prime Day",
+      "link": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "If you’ve been thinking about picking up a Kindle, Amazon’s Prime Day sale is a great time to do it. The retailer is currently offering steep discounts on several of its e-readers, including the latest Kindle Paperwhite with 16GB of storage and ads, which is down to $124.99 ($35 "
+    },
+    {
+      "id": "f37f34232305",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Valve confirms it’s working with Intel and Nvidia on SteamOS for more GPUs",
+      "link": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming PC. But now, both Valve and Intel tell The Verge that they're working with each oth"
+    },
+    {
+      "id": "10ecf88b83f3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I’m not giving up my Steam Deck for MSI’s new Claw",
+      "link": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "This is not a review of the MSI Claw 8 EX AI Plus, the first gaming handheld available with Intel's new Arc G3 Extreme handheld gaming chip. Now that my colleague Sean Hollister is done reviewing the Steam Machine, I'll let him go deep on the new Claw at some point in the future."
+    },
+    {
+      "id": "b92a817341bc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiast"
+    },
+    {
+      "id": "dfe3d53d8621",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Very Own Smart Glasses Go on Sale Today for $299",
+      "link": "https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "The new Meta-branded glasses have the same camera, microphones, and chatbot as the Ray-Bans. They come in three styles, one of which was codesigned with Kylie Jenner."
+    },
+    {
+      "id": "381121fc6e97",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔비디아, 데이터센터 IREN에 3.2조 원 투자…5GW AI 인프라 함께 깐다",
+      "link": "https://zdnet.co.kr/view/?no=20260623214716",
+      "published": "2026-06-23T12:47:16+00:00",
+      "summary": "[지디넷코리아]엔비디아(NVIDIA)가 데이터센터 기업 IREN과 전략적 파트너십을 맺고 대규모 AI 인프라를 함께 구축한다고 5월 7일 발표했다. 두 회사는 IREN의 글로벌 데이터센터 파이프라인 전반에 걸쳐 엔비디아 DSX 기반 AI 인프라를 최대 5기가와트(GW)까지 배치할 계획이다. 칩 공급을 넘어 데이터센터 용량 자체를 선제적으로 확보하려는 행보다.투자 구조도 함께 공개됐다. IREN은 엔비디아에 5년간 보통주 최대 3,000만 주를 주당 70달러에 매입할 수 있는 권리를 부여했다. 이 "
+    },
+    {
+      "id": "a9116476aaff",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+      "link": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+      "published": "2026-06-23T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the s"
+    },
+    {
+      "id": "8edf226ede3d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK하이닉스, 나스닥 ADR 상장 추진…최대 22조 원 조달",
+      "link": "https://zdnet.co.kr/view/?no=20260623210957",
+      "published": "2026-06-23T12:09:57+00:00",
+      "summary": "[지디넷코리아]SK하이닉스가 미국 나스닥(Nasdaq)에 미국주식예탁증서(ADR) 상장을 추진한다. 로이터(Reuters)는 6월 10일 SK하이닉스가 이번 상장에서 전체 발행 주식의 약 2.5%를 공모해 최대 140억 달러(약 22조 원)를 조달할 것이라고 보도했다. 상장 시점은 이르면 7월 말에서 8월 초로 점쳐진다.준비는 상당히 진척된 상태다. SK하이닉스는 지난 3월 미국 증권거래위원회(SEC)에 비공개로 상장 신청 서류를 제출하고 주관사 선정을 마쳤다. 주관사로는 시티그룹, JP모건, 골"
+    },
+    {
+      "id": "49af3d60c762",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 러브버그, 죽여야 할까\"",
+      "link": "https://zdnet.co.kr/view/?no=20260623092929",
+      "published": "2026-06-23T12:02:21+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 길을 걷다 보면 쌍쌍이 붙어 날아다니는 러브버그 때문에 깜짝 놀라신 분들 많으시죠? 징그럽다는 이유로 바로 살충제를 찾게 되는데요, 전문가들은 오히려 약을 치면 더 큰일이 날 수 있다고 경고하고 있어요. 실제로 전문가 6명이 모여 방역 방제 방법을 토론한 결과, 무려 83%가 '기다리는 것'이 최선이라는 데 동의했답니다. 살충제를 뿌리면 러브버그만 사라지는 게 아니라 우리 생태계에 꼭 필요한 꿀벌까지 함께 죽어버리는 부작용이 생기거든요. 그렇"
+    },
+    {
+      "id": "a02069b1699f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "published": "2026-06-23T12:00:34+00:00",
+      "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI ."
+    },
+    {
+      "id": "35d72d2d3341",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GSMA MWC26 상하이, 글로벌 모바일 커뮤니티 집결 예정… 모바일, 2030년까지 중국 경제에 2조 달러 이상 기여할 것으로 예측",
+      "link": "https://zdnet.co.kr/view/?no=20260623201003",
+      "published": "2026-06-23T11:10:03+00:00",
+      "summary": "[지디넷코리아] 로봇 축구 선수부터 업계 선도 연사들, 포뮬러 E 및 몰입형 존에 이르기까지 MWC26 상하이, 6월 24일 개막하여 글로벌 연결성의 미래를 형성하는 혁신과 아이디어 선보여 상하이, 2026년 6월 23일 /PRNewswire/ -- 글로벌 연결성 커뮤니티가 MWC26 상하이(MWC26 Shanghai)에서 만날 준비를 하는 가운데, GSMA가 중국이 전 세계 5G 연결의 40% 이상을 차지한다는 새로운 연구를 발표했다. 행사에 앞서 GSMA는 모바일 이코노미 차이나 2026(Mo"
+    },
     {
       "id": "356d939ff46c",
       "source": "Wired",
@@ -78,6 +232,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260623191003",
       "published": "2026-06-23T10:10:03+00:00",
       "summary": "[지디넷코리아] 뮌헨, 2026년 6월 23일 /PRNewswire/ -- 플러그인 HEMS의 글로벌 개척자와 같은 기업인 젠듀어(Zendure)가 뮌헨 인터솔라 2026(Intersolar 2026)에서 최신 홈 에너지 비전 ZEN+ HOME을 선보이고 있다(부스 C1.280). '내일의 전력, 가정에서 시작하다(Power Tomorrow, Start at Home)'라는 전시 주제 하에 젠듀어는 AI, 지능형 에너지 오케스트레이션 및 유연한 저장 솔루션이 어떻게 가정을 수동적인 에너지 소비자에"
+    },
+    {
+      "id": "a8329d50d176",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "link": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "published": "2026-06-23T10:04:04+00:00",
+      "summary": "Article URL: https://www.stephendiehl.com/posts/bad_place_2026/ Comments URL: https://news.ycombinator.com/item?id=48642699 Points: 216 # Comments: 237"
     },
     {
       "id": "0aef67dee149",
@@ -240,6 +405,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "삼성SDS·LG CNS·카카오 등 총출동…공공 행정도 '에이전틱 AI' 시대 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260623173831",
+      "published": "2026-06-23T08:48:35+00:00",
+      "summary": "[지디넷코리아]삼성SDS, LG CNS, 카카오, NHN두레이 등 국내 소프트웨어(SW) 기업이 공공 인공지능(AI) 시장을 둘러싼 경쟁에 주도권 경쟁에 본격 나섰다생성형 AI 도입을 넘어 행정 업무를 직접 수행하는 에이전틱 AI와 공공 특화 인프라 구축이 새로운 경쟁력으로 떠오르면서 공공부문 인공지능 전환(AX) 시장이 빠르게 확대되고 있다.23일 행정안전부가 주최하고 한국지능정보사회진흥원(NIA)이 주관하는 '제9회 전자정부의 날 기념식 및 2026 공공 AI 박람회'가 일산 킨텍스 제2전시장"
+    },
+    {
+      "id": "64f62057c65d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성SDS·LG CNS·카카오 등 총출동…공공 행정도 '에이전틱 AI' 시대",
       "link": "https://zdnet.co.kr/view/?no=20260623173831",
       "published": "2026-06-23T08:48:35+00:00",
       "summary": "[지디넷코리아]삼성SDS, LG CNS, 카카오, NHN두레이 등 국내 소프트웨어(SW) 기업이 공공 인공지능(AI) 시장을 둘러싼 경쟁에 주도권 경쟁에 본격 나섰다생성형 AI 도입을 넘어 행정 업무를 직접 수행하는 에이전틱 AI와 공공 특화 인프라 구축이 새로운 경쟁력으로 떠오르면서 공공부문 인공지능 전환(AX) 시장이 빠르게 확대되고 있다.23일 행정안전부가 주최하고 한국지능정보사회진흥원(NIA)이 주관하는 '제9회 전자정부의 날 기념식 및 2026 공공 AI 박람회'가 일산 킨텍스 제2전시장"
@@ -619,6 +795,28 @@
       "summary": "오픈AI가 사이버 보안 분야에 특화된 최신 AI 모델 ‘GPT-5.5-사이버’의 정식 버전을 공개하며, 취약점 발견을 넘어 패치 자동화 시대를 본격적으로 열겠다는 청사진을 제시했다. 오픈AI는 22일(현지시간) GPT-5.5-사이버 정식 버전을 출시했다.이 모델은 지난 5월7일 제한된 환경에서 신뢰할 수 있는 보안 전문가들을 대상으로 미리보기 버전으로 제공됐으며, 이번에 더 강력한 기능을 갖춘 정식 모델로 공개됐다.GPT-5.5-사이버는 보안 AI 벤치마크인 '사이버짐(CyberGym)'에서 85"
     },
     {
+      "id": "b35f2086594a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Will It Mythos?",
+      "link": "https://swelljoe.com/post/will-it-mythos/",
+      "published": "2026-06-23T04:15:04+00:00",
+      "summary": "Article URL: https://swelljoe.com/post/will-it-mythos/ Comments URL: https://news.ycombinator.com/item?id=48640196 Points: 227 # Comments: 156"
+    },
+    {
+      "id": "4282eba0245d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "published": "2026-06-23T03:51:55+00:00",
+      "summary": ""
+    },
+    {
       "id": "014ed97ae949",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -749,6 +947,17 @@
       "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "published": "2026-06-23T01:27:55+00:00",
       "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "id": "15def1a6814e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "In praise of memcached",
+      "link": "https://jchri.st/blog/in-praise-of-memcached/",
+      "published": "2026-06-23T01:15:05+00:00",
+      "summary": "Article URL: https://jchri.st/blog/in-praise-of-memcached/ Comments URL: https://news.ycombinator.com/item?id=48638886 Points: 218 # Comments: 86"
     },
     {
       "id": "a919638f2fcc",
@@ -925,6 +1134,17 @@
       "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
       "published": "2026-06-22T19:25:00+00:00",
       "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains."
+    },
+    {
+      "id": "433842f4d560",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "link": "https://github.com/dorukkumkumoglu/optocamzero",
+      "published": "2026-06-22T19:19:55+00:00",
+      "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero Comments URL: https://news.ycombinator.com/item?id=48634778 Points: 205 # Comments: 53"
     },
     {
       "id": "8b3a57e1e32a",
