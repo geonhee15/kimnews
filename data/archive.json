@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-24T16:37:28.599855+00:00",
-  "count": 3423,
+  "updated_at": "2026-06-24T18:23:19.048205+00:00",
+  "count": 3433,
   "items": [
+    {
+      "id": "3d63457388de",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is finally opening the Play Store to outside payments",
+      "link": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+      "published": "2026-06-24T17:36:44+00:00",
+      "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to the way it handles billing for developers "
+    },
+    {
+      "id": "be821e35ce5d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "published": "2026-06-24T17:25:00+00:00",
+      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12t"
+    },
+    {
+      "id": "aa4851153b9b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Facebook rolls out an AI companion app for creators",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "published": "2026-06-24T17:16:24+00:00",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it."
+    },
+    {
+      "id": "db64fa3bde9e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Deezer says its new feature lets fans remix songs with artist consent",
+      "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
+      "published": "2026-06-24T17:14:33+00:00",
+      "summary": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs."
+    },
+    {
+      "id": "b26259d0d5a7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
+      "link": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
+      "published": "2026-06-24T17:00:17+00:00",
+      "summary": "A few additional markets will get the lower fees this year ahead of a global rollout in 2027."
+    },
+    {
+      "id": "a21ef441554a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "UK staff at the foundation that runs Wikipedia seeks union recognition",
+      "link": "https://www.theverge.com/news/956237/wikipedia-wikimedia-foundation-staff-unionization-volunteer-editor-strike",
+      "published": "2026-06-24T16:51:10+00:00",
+      "summary": "UK-based staff at the Wikimedia Foundation (WMF), the nonprofit that supports Wikipedia, are pushing forward with their unionization drive. On Wednesday, the staff sent a letter to WMF management requesting the organization voluntarily recognize the union. \"The WMF has undergone "
+    },
+    {
+      "id": "a004a50e277f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "published": "2026-06-24T16:48:43+00:00",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds."
+    },
+    {
+      "id": "4248f3bf2002",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published": "2026-06-24T16:30:01+00:00",
+      "summary": ""
+    },
     {
       "id": "2197d82cf52c",
       "source": "TechCrunch",
@@ -122,6 +210,17 @@
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "published": "2026-06-24T14:54:46+00:00",
       "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+    },
+    {
+      "id": "10cb9f4c7a4c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "link": "https://rubyllm.com/",
+      "published": "2026-06-24T14:41:41+00:00",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 222 # Comments: 27"
     },
     {
       "id": "cd3325eba74b",
@@ -1596,6 +1695,17 @@
       "link": "https://www.wired.com/story/yeti-tundra-coolers-are-on-rare-sale-today-apd/",
       "published": "2026-06-23T15:36:47+00:00",
       "summary": "Yeti coolers are very nice and very expensive. Three very different models are on sale right now."
+    },
+    {
+      "id": "a257e1cf2ad8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "link": "https://www.krea.ai/blog/krea-2-technical-report",
+      "published": "2026-06-23T15:31:21+00:00",
+      "summary": "Article URL: https://www.krea.ai/blog/krea-2-technical-report Comments URL: https://news.ycombinator.com/item?id=48646659 Points: 205 # Comments: 25"
     },
     {
       "id": "8f8fa652692a",
