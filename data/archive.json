@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-06-24T14:16:01.066023+00:00",
-  "count": 3404,
+  "updated_at": "2026-06-24T16:37:28.599855+00:00",
+  "count": 3423,
   "items": [
+    {
+      "id": "2197d82cf52c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "published": "2026-06-24T16:15:00+00:00",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI."
+    },
+    {
+      "id": "67fb8b19ac1f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Figma now has AI motion graphics and shader tools",
+      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "published": "2026-06-24T16:15:00+00:00",
+      "summary": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according t"
+    },
+    {
+      "id": "cdd00efd0a93",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The best Prime Day deals on LG, Samsung, and more 4K TVs",
+      "link": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "published": "2026-06-24T16:00:00+00:00",
+      "summary": "There are three times of year that are best for buying a new TV: leading up to the Super Bowl, Black Friday, and of course now, during Amazon Prime Day. Many of the new 2026 models have been released, and while some will be seeing discounts, the majority of the best deals are goi"
+    },
+    {
+      "id": "7d2f3a6605a0",
+      "source": "ThePrimeagen",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Layout is harder than you think..",
+      "link": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "published": "2026-06-24T15:55:24+00:00",
+      "summary": ""
+    },
+    {
+      "id": "852db7c8714d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The SwitchBot battery-powered fan we love is $90 for Prime Day",
+      "link": "https://www.theverge.com/gadgets/953766/switchbot-circulating-fan-prime-day-deal-sale",
+      "published": "2026-06-24T15:45:00+00:00",
+      "summary": "If you’re looking for a circulating fan that can move air around your home better than the average model, Amazon has marked down the SwitchBot Standing Circulator Fan to $89.99 (usually $129.99) for Prime Day. The battery-powered upright fan tilts vertically and oscillates horizo"
+    },
+    {
+      "id": "79f9b0a548ca",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 16 best robot vacuum deals available during Prime Day",
+      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "published": "2026-06-24T15:26:54+00:00",
+      "summary": "If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day two of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts […]"
+    },
+    {
+      "id": "abc657198c7f",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Europe’s extreme heat is shutting down power plants",
+      "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "published": "2026-06-24T15:25:28+00:00",
+      "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keepi"
+    },
+    {
+      "id": "454d28cb6e61",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+      "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "published": "2026-06-24T15:15:00+00:00",
+      "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown."
+    },
+    {
+      "id": "256c8ee3f3f9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
+      "link": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
+      "published": "2026-06-24T15:01:49+00:00",
+      "summary": "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support."
+    },
+    {
+      "id": "f652f3a6f226",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zoox’s purpose-built robotaxi is getting a refresh",
+      "link": "https://www.theverge.com/transportation/955822/zoox-robotaxi-refresh-updates-seats-audio-color",
+      "published": "2026-06-24T15:00:00+00:00",
+      "summary": "Zoox, the autonomous vehicle company owned by Amazon, unveiled a new look for its boxy, bidirectional robotaxi, calling it the \"next evolution\" of the vehicle intended for mass production. The company is currently operating a free robotaxi service in San Francisco, Las Vegas, Aus"
+    },
+    {
+      "id": "c4546c44a3f0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "published": "2026-06-24T14:54:46+00:00",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+    },
+    {
+      "id": "cd3325eba74b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "published": "2026-06-24T14:36:47+00:00",
+      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC (Application-Spe"
+    },
+    {
+      "id": "762ff04f5142",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "리프로셀, 척수소뇌성 운동실조증(SCA3 및 SCA6) 대상 줄기세포 치료제 스템키말의 일본 제조 및 판매 승인 신청 제출",
+      "link": "https://zdnet.co.kr/view/?no=20260624231002",
+      "published": "2026-06-24T14:10:02+00:00",
+      "summary": "[지디넷코리아] 요코하마, 일본, 2026년 6월 24일 /PRNewswire/ -- 리프로셀(REPROCELL Inc.)이 6월 24일, 회사가 일본 내 독점 상업화 권리를 보유한 재생 의료 제품 스템키말(Stemchymal®)에 대한 일본 제조 및 판매 승인 신청을 제출했다고 발표했다. 이 신청은 척수소뇌성 운동실조증(SCA3 및 SCA6) 환자의 운동실조 진행 억제를 위한 스템키말 사용 승인을 구하는 것이다. 확립된 프레임워크에 따라 스템키말은 대만 기반 스테미넌트 바이오테라퓨틱스(Stemi"
+    },
     {
       "id": "e0821ad93800",
       "source": "Wired",
@@ -9,6 +152,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "The Samsung 990 Pro SSD Is on Sale for the Lowest Price You’re Likely to See This Year.",
+      "link": "https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/",
+      "published": "2026-06-24T14:07:04+00:00",
+      "summary": "These Prime Day specials on a Samsung SSD and Lexar SD card represent the best digital storage deals you're likely to find this year."
+    },
+    {
+      "id": "7ab2ac9a661b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Samsung 990 Pro SSD Is on Sale for the Lowest Price I’ve Seen in 2026",
       "link": "https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/",
       "published": "2026-06-24T14:07:04+00:00",
       "summary": "These Prime Day specials on a Samsung SSD and Lexar SD card represent the best digital storage deals you're likely to find this year."
@@ -113,6 +267,17 @@
       "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit."
     },
     {
+      "id": "5daac487b5b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "link": "https://paolino.me/founding-a-company-in-germany/",
+      "published": "2026-06-24T12:31:43+00:00",
+      "summary": "Article URL: https://paolino.me/founding-a-company-in-germany/ Comments URL: https://news.ycombinator.com/item?id=48658718 Points: 403 # Comments: 456"
+    },
+    {
       "id": "1835538bc147",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -122,6 +287,17 @@
       "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
       "published": "2026-06-24T12:00:00+00:00",
       "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a "
+    },
+    {
+      "id": "13b336261997",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "published": "2026-06-24T12:00:00+00:00",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a n"
     },
     {
       "id": "8feaa8482c54",
@@ -355,6 +531,17 @@
       "summary": "Article URL: https://bunny.net/blog/were-making-bunny-dns-free/ Comments URL: https://news.ycombinator.com/item?id=48657030 Points: 444 # Comments: 149"
     },
     {
+      "id": "b3442bea7b54",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We’re making Bunny DNS free",
+      "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "published": "2026-06-24T08:50:41+00:00",
+      "summary": "Article URL: https://bunny.net/blog/were-making-bunny-dns-free/ Comments URL: https://news.ycombinator.com/item?id=48657030 Points: 610 # Comments: 199"
+    },
+    {
       "id": "25f5620a52be",
       "source": "AI타임스",
       "kind": "article",
@@ -518,6 +705,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260624160627",
       "published": "2026-06-24T07:06:27+00:00",
       "summary": "[지디넷코리아]김형철 한국지능정보사회진흥원(NIA) 원장이 취임 후 첫 산업 현장 행보로 인공지능(AI) 정책 법제 분야 강화에 나섰다. NIA는 한국인공지능·소프트웨어산업협회(KOSA)를 방문해 AI 정책과 법제 분야 협력을 강화한다고 24일 밝혔다. 이번 협력은 AI 기본법 현장 안착과 공공 AX 확산을 위한 민관 협력 기반을 넓히기 위한 목표로 이뤄졌다. 이번 방문은 김 원장 취임 이후 첫 산업 현장 행보다. NIA는 AI·SW 산업계를 대표하는 KOSA와의 소통을 통해 산업 현장 의견을 A"
+    },
+    {
+      "id": "889ffa894731",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "published": "2026-06-24T07:00:13+00:00",
+      "summary": ""
     },
     {
       "id": "9752270f3a80",
@@ -1409,6 +1607,17 @@
       "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
       "published": "2026-06-23T15:09:38+00:00",
       "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists."
+    },
+    {
+      "id": "b0672d247cc0",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "link": "https://huggingface.co/blog/ffasr-leaderboard",
+      "published": "2026-06-23T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "68c2bb895920",
