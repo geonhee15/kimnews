@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-24T21:53:25.810103+00:00",
-  "count": 3454,
+  "updated_at": "2026-06-24T23:01:11.506964+00:00",
+  "count": 3460,
   "items": [
+    {
+      "id": "8aef1c93fc6d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "published": "2026-06-24T22:41:41+00:00",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors."
+    },
+    {
+      "id": "c6243dd265b8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+      "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+      "published": "2026-06-24T22:36:16+00:00",
+      "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models."
+    },
+    {
+      "id": "3f89be5be011",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 자체 개발 '추론 칩' 공개… \"9개월 만에 테이프아웃\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212074",
+      "published": "2026-06-24T21:59:31+00:00",
+      "summary": "오픈AI가 브로드컴과 손잡고 최신 대형언어모델(LLM)과 에이전트형 AI 워크로드에 특화된 맞춤형 추론 프로세서를 전격 공개했다. 개발 착수 후 단 9개월 만에 테이프아웃(Tape-out·설계 완료 후 제조 공정 이관)을 달성한 오픈AI의 첫 번째 자체 칩이다.오픈AI는 24일(현지시간) 브로드컴이 맞춤형 추론 전용 주문형반도체(ASIC)인 '할라피뇨(Jalapeño)'를 개발했다고 발표했다.오픈AI는 할라피뇨가 단순히 기존 훈련 가속기나 범용 AI 프로세서를 재활용한 것이 아닌, 처음부터 추론("
+    },
+    {
+      "id": "faa6c40a9962",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "published": "2026-06-24T21:56:41+00:00",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data."
+    },
     {
       "id": "1e929bd50785",
       "source": "TechCrunch",
@@ -36,6 +80,17 @@
       "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
     },
     {
+      "id": "8504104e898d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The memory chip crunch is paying off for this US company",
+      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "published": "2026-06-24T21:30:55+00:00",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
+    },
+    {
       "id": "26db5436b4b7",
       "source": "Wired",
       "kind": "article",
@@ -56,6 +111,17 @@
       "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
       "published": "2026-06-24T21:05:51+00:00",
       "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood."
+    },
+    {
+      "id": "fda220276cf6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스위스서도 나타난 AI 충격파…첫 직장 사다리 흔든다",
+      "link": "https://zdnet.co.kr/view/?no=20260625004333",
+      "published": "2026-06-24T21:00:03+00:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI)이 업무 현장에 빠르게 확산되면서 신입 직원 채용 시장에도 변화가 나타나고 있다. 스위스에서는 AI 활용도가 높은 직군을 중심으로 신입 채용 공고가 크게 줄어든 것으로 조사됐다.24일(현지시간) IT 전문매체 더넥스트웹에 따르면 스위스 채용 플랫폼 잡스닷컴은 최근 발표한 'AI 리포트 2026'에서 지난해 신입·주니어 직군 채용 공고 수가 생성형 AI 등장 이전인 2019~2022년 평균 대비 약 30% 감소했다고 밝혔다.이번 조사는 2019년부터 2025년까지"
     },
     {
       "id": "c2a4f86b7288",
