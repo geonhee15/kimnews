@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-25T22:06:18.185568+00:00",
-  "count": 3593,
+  "updated_at": "2026-06-25T23:44:18.891920+00:00",
+  "count": 3602,
   "items": [
+    {
+      "id": "c7acf2f862f1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "published": "2026-06-25T23:34:39+00:00",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to."
+    },
+    {
+      "id": "0759bf27294a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "published": "2026-06-25T23:13:45+00:00",
+      "summary": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where this is all headed."
+    },
+    {
+      "id": "4e5c2e14e912",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+      "published": "2026-06-25T22:59:45+00:00",
+      "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness "
+    },
+    {
+      "id": "01efaa4e269d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android 17’s new foldable gaming mode could make flippy phones more fun",
+      "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "published": "2026-06-25T22:33:54+00:00",
+      "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emu"
+    },
     {
       "id": "b0d1ef31d74a",
       "source": "The Verge",
@@ -14,6 +58,17 @@
       "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5"
     },
     {
+      "id": "b090df6325b1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "published": "2026-06-25T21:44:55+00:00",
+      "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet Comments URL: https://news.ycombinator.com/item?id=48679608 Points: 206 # Comments: 72"
+    },
+    {
       "id": "638e2f82f26f",
       "source": "AI타임스",
       "kind": "article",
@@ -23,6 +78,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212092",
       "published": "2026-06-25T21:15:00+00:00",
       "summary": "AI 업계는 지난 2년 동안 에이전트를 새로운 경쟁의 중심으로 여겨 왔습니다. 특히, 최근에는 대형언어모델(LLM) 자체보다 이를 활용해 외부 도구를 연결하고, 여러 작업을 오케스트레이션하며, 실제 업무를 수행하는 에이전트 계층이 새로운 가치를 만들 것이라는 목소리가 커졌습니다.하지만 구글 딥마인드의 로건 킬패트릭 AI 스튜디오 책임자는 최근 팟캐스트에서 이 같은 통념에 의문을 제기했습니다. 현재 수많은 스타트업과 개발사들이 경쟁적으로 구축하고 있는 에이전트 하네스(harness)와 스캐폴딩(sc"
+    },
+    {
+      "id": "ea493aa7db6a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI 도입 늦으면 뒤처진다…한국 기업, 지금 시작해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260626060427",
+      "published": "2026-06-25T21:06:00+00:00",
+      "summary": "[지디넷코리아][팔로알토(미국)=한정호 기자] 인공지능(AI) 기술 경쟁이 모델 개발을 넘어 실제 기업 도입 단계로 옮겨가면서 한국·일본 기업들도 AI 활용을 더 이상 미룰 수 없다는 진단이 나왔다. 실리콘밸리 투자자와 AI 인프라 기업들은 AI 경쟁력이 뛰어난 모델보다 빠른 도입과 현장 적용에서 갈릴 것이라며 지금부터 AI 활용 경험을 축적해야 한다고 입을 모았다.밥 고엘 NTTVC 공동창업자는 25일(현지시간) 미국 팔로알토 젠스파크 본사에서 진행한 미디어 투어에서 \"AI가 완벽해질 때까지 기"
+    },
+    {
+      "id": "6bedc0044d97",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Om Malik has died",
+      "link": "https://om.co/2026/06/24/1966-2026/",
+      "published": "2026-06-25T20:33:37+00:00",
+      "summary": "Article URL: https://om.co/2026/06/24/1966-2026/ Comments URL: https://news.ycombinator.com/item?id=48678852 Points: 256 # Comments: 23"
+    },
+    {
+      "id": "c6d94f4ff45e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft adds another year to Windows 10 extended update program",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "published": "2026-06-25T20:24:09+00:00",
+      "summary": "About a quarter of PCs are still running Microsoft's previous operating system."
     },
     {
       "id": "848db8a0fbe3",
@@ -364,6 +452,17 @@
       "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "published": "2026-06-25T14:22:59+00:00",
       "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in searc"
+    },
+    {
+      "id": "03c6298ac549",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "published": "2026-06-25T14:19:28+00:00",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-06-25 Comments URL: https://news.ycombinator.com/item?id=48673825 Points: 202 # Comments: 79"
     },
     {
       "id": "df0705f5f21e",
