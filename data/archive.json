@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-25T20:30:15.486095+00:00",
-  "count": 3589,
+  "updated_at": "2026-06-25T22:06:18.185568+00:00",
+  "count": 3593,
   "items": [
+    {
+      "id": "b0d1ef31d74a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "published": "2026-06-25T21:57:06+00:00",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release GPT-5"
+    },
+    {
+      "id": "638e2f82f26f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월25일] \"모델이 하네스를 먹어 치울 것\"...구글이 본 AI 경쟁의 다음 단계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212092",
+      "published": "2026-06-25T21:15:00+00:00",
+      "summary": "AI 업계는 지난 2년 동안 에이전트를 새로운 경쟁의 중심으로 여겨 왔습니다. 특히, 최근에는 대형언어모델(LLM) 자체보다 이를 활용해 외부 도구를 연결하고, 여러 작업을 오케스트레이션하며, 실제 업무를 수행하는 에이전트 계층이 새로운 가치를 만들 것이라는 목소리가 커졌습니다.하지만 구글 딥마인드의 로건 킬패트릭 AI 스튜디오 책임자는 최근 팟캐스트에서 이 같은 통념에 의문을 제기했습니다. 현재 수많은 스타트업과 개발사들이 경쟁적으로 구축하고 있는 에이전트 하네스(harness)와 스캐폴딩(sc"
+    },
     {
       "id": "848db8a0fbe3",
       "source": "TechCrunch",
@@ -190,6 +212,17 @@
       "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
     },
     {
+      "id": "10f3ebb102cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 투자자들이 주목한 젠스파크…\"엔터프라이즈 시장 바꿀 기업\"",
+      "link": "https://zdnet.co.kr/view/?no=20260626013347",
+      "published": "2026-06-25T16:39:42+00:00",
+      "summary": "[지디넷코리아][팔로알토(미국)=한정호 기자] 인공지능(AI) 에이전트가 실제 기업 업무를 수행하는 단계로 진화하면서 'AI 워크스페이스' 플랫폼을 서비스하는 젠스파크가 주목을 받고 있다. 글로벌 투자자들은 젠스파크의 빠른 제품 개발 속도와 글로벌 확장성, 엔터프라이즈 시장 적용 가능성을 높게 평가하며 후속 투자 의사를 드러냈다.에릭 징 젠스파크 공동창업자 겸 최고경영자(CEO)는 25일(현지시간) 미국 팔로알토 본사에서 진행한 투자자 패널 토의에서 \"AI 시대에는 모델 역량을 일반 사용자가 활용"
+    },
+    {
       "id": "c138d56f725c",
       "source": "The Verge",
       "kind": "article",
@@ -243,6 +276,17 @@
       "link": "https://scrollprize.org/firstscroll",
       "published": "2026-06-25T15:48:07+00:00",
       "summary": "Preprint: https://scrollprize.org/pdf/main.pdf https://github.com/ScrollPrize/villa Comments URL: https://news.ycombinator.com/item?id=48675179 Points: 513 # Comments: 126"
+    },
+    {
+      "id": "7fe7a8996766",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "published": "2026-06-25T15:33:37+00:00",
+      "summary": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology Comments URL: https://news.ycombinator.com/item?id=48674967 Points: 208 # Comments: 119"
     },
     {
       "id": "7a63efb096fb",
