@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-06-26T09:50:56.689496+00:00",
-  "count": 3652,
+  "updated_at": "2026-06-26T12:08:14.732042+00:00",
+  "count": 3664,
   "items": [
+    {
+      "id": "0abf520ca7e6",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Transitioning as a hubber",
+      "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
+      "published": "2026-06-26T12:00:00+00:00",
+      "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a hubber appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "d464cc84d492",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung will soon start charging to access its smart home API",
+      "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
+      "published": "2026-06-26T11:38:11+00:00",
+      "summary": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though. Some more advanced smart home users are l"
+    },
+    {
+      "id": "615d79106131",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
+      "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
+      "published": "2026-06-26T11:14:44+00:00",
+      "summary": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"fast-track technologies that it originally planned to release later\" with the M7 "
+    },
+    {
+      "id": "050517641f1e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Which MacBook to Buy (2026): Neo, Air, or Pro?",
+      "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "published": "2026-06-26T11:00:00+00:00",
+      "summary": "After testing each of the MacBooks myself, here's my honest advice on which is right for you."
+    },
+    {
+      "id": "edc01d68514b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 드라마 '참교육'의 교권보호국, 신설 가능할까",
+      "link": "https://zdnet.co.kr/view/?no=20260626095918",
+      "published": "2026-06-26T10:27:51+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 드라마 '참교육'이 뜨거운 반향을 일으키면서, 현실 속 교권 문제도 다시금 수면 위로 떠올랐는데요. 최근 교권보호과 신설 논의가 본격화된 것도 이런 사회적 관심과 무관하지 않아요. 실제로 교권 침해 건수는 불과 3년 사이에 무려 두 배나 급증했고, 악성 민원에 지쳐 교단을 떠나는 선생님들도 해마다 늘고 있는 실정이에요. 그동안 교권 정책은 큰 사건이 터질 때마다 땜질식으로 법을 고치는 패턴이 반복되어 왔어요. 그래서인지 현장 선생님들의 목소리는 더"
+    },
+    {
+      "id": "ae0f616babf1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+      "link": "https://www.wired.com/story/best-prime-day-headphone-deals-06-26-2026/",
+      "published": "2026-06-26T10:17:23+00:00",
+      "summary": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event."
+    },
+    {
+      "id": "81d26be6028c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI가 알아서 학습\"…아이벡스, 고객 20여곳 확보",
+      "link": "https://zdnet.co.kr/view/?no=20260626162428",
+      "published": "2026-06-26T09:39:40+00:00",
+      "summary": "[지디넷코리아]산업용 피지컬 인공지능(AI) 기업 아이벡스가 스스로 재학습하는 인공지능(AI) 솔루션으로 고객 확보에 속도를 낸다. 현재 확보한 고객은 20여곳이다. 아이벡스는 AI와 산업용 로봇을 결합해 제품 이상 유무를 파악하고, 정밀 공정을 수행하는 솔루션을 제공한다. 소프트웨어는 자체 개발하고, 로봇 하드웨어는 두산로보틱스와 뉴로메카 등 국내외 기업 제품을 사용한다. 26일 아이벡스 관계자는 \"HD현대삼호, 테네코, 국내 디스플레이 업체 등 국내외 20여곳에 솔루션을 판매했다\"고 밝혔다. "
+    },
     {
       "id": "b948ab174127",
       "source": "AI타임스",
@@ -12,6 +89,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212155",
       "published": "2026-06-26T09:15:15+00:00",
       "summary": "생성 AI 서비스 이용이 빠르게 확산되는 가운데 일부 기업 고객들이 앤트로픽과 오픈AI의 AI 서비스 이용 요금을 실제 사용량보다 더 많이 청구받았다는 주장이 제기됐다. AI 사용량 검증 전문 스타트업 보딧(Vaudit)은 최근 감사를 통해 수백만달러 규모의 과다 청구 사례를 발견했다고 밝혔다.25일(현지시간) 디 인포메이션에 따르면, 마이클 한 보딧 CEO는 지난 3월부터 6월까지 총 60개 기업이 지불한 3400만달러(약 520억원) 규모의 AI 이용 요금을 감사해 170만달러(약 26억원)에"
+    },
+    {
+      "id": "c2c71f4bd7dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "“초등생도 안 할 비약”...한성숙 청문회, 플랫폼 정책·헐값 임대 의혹 공방",
+      "link": "https://zdnet.co.kr/view/?no=20260626173607",
+      "published": "2026-06-26T09:14:52+00:00",
+      "summary": "[지디넷코리아]한성숙 국무총리 후보자가 인사청문회 이틀째 플랫폼 규제와 소상공인 보호, 반도체 산업 지원, 인공지능(AI) 데이터센터 전력 대책 등 주요 정책 현안에 대해 \"적극 검토하겠다\"는 입장을 밝혔다. 반면 '지인 헐값 임대' 의혹에 대해서는 \"과한 주장\"이라며 강하게 반박했고, 여야 의원들 간 고성이 오가는 공방도 이어졌다.26일 서울 영등포구 국회에서 열린 인사청문회에서 한 후보자에게 청년·부동산·교육·IT 분야를 아우르는 다양한 질문이 이어졌다. 그 중에서도 IT 분야에서는 플랫폼 관"
+    },
+    {
+      "id": "7c037aea8340",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제4회 중국국제공급망엑스포: 건강 생활 체인, 글로벌 헬스케어 공급망 혁신의 전 스펙트럼 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260626181002",
+      "published": "2026-06-26T09:10:02+00:00",
+      "summary": "[지디넷코리아]베이징 2026년 6월 26일 /PRNewswire/ -- 제4회 중국국제공급망엑스포(China International Supply Chain Expo, CISCE)가 건강 생활 체인(Healthy Life Chain)을 개막했다. 이 부문에는 의료기술(Medical Technology), 양질의 생활(Quality Living), 전통 웰니스(Heritage Wellness) 등 3대 핵심 구역에 걸쳐 100개 이상의 선도 기업이 참가해 인간 전체 생애 주기를 아우르는 디지털 및"
     },
     {
       "id": "cba804e6f991",
@@ -212,6 +311,17 @@
       "summary": "구글이 '제미나이 3.5 플래시(Gemini 3.5 Flash)'에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 기본 탑재하며 기업용 AI 에이전트 시장 공략을 강화했다. 기존에는 별도의 전용 모델에서만 제공되던 기능을 핵심 모델에 통합함으로써 브라우저와 모바일, 데스크톱 환경을 넘나드는 자율형 AI 에이전트 개발을 지원한다는 전략이다.구글은 24일(현지시간) 컴퓨터 유즈 기능이 이제 제미나이 3.5 플래시에 기본 내장되면서 에이전트 기반 컴퓨터 작업에서 지금까지 가장 "
     },
     {
+      "id": "8056071bd1ac",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "link": "https://akrites.org/letter/",
+      "published": "2026-06-26T05:40:36+00:00",
+      "summary": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 234 # Comments: 120"
+    },
+    {
       "id": "999476c4bbae",
       "source": "AI타임스",
       "kind": "article",
@@ -386,6 +496,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212143",
       "published": "2026-06-26T02:50:29+00:00",
       "summary": "IBM이 세계 최초로 1나노미터(nm) 미만 반도체 기술을 공개하며 차세대 AI 반도체 시대를 겨냥한 새로운 아키텍처를 선보였다. IBM은 25일(현지시간) 손톱 크기의 실리콘 칩에 약 1000억개의 트랜지스터를 집적할 수 있는 새로운 반도체 기술을 발표했다.이는 IBM이 2021년 공개했던 2나노 기술보다 약 두 배 높은 트랜지스터 밀도로, AI 연산에 필요한 컴퓨팅 성능을 크게 향상시키면서도 에너지 소비를 줄이는 것이 핵심이다.IBM은 이번 기술을 '세계 최초의 1나노 미만(sub-1nm) 칩"
+    },
+    {
+      "id": "d8fd32959638",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "published": "2026-06-26T02:29:23+00:00",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 207 # Comments: 75"
+    },
+    {
+      "id": "06b6a93b7a4b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "published": "2026-06-26T01:10:52+00:00",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/ Comments URL: https://news.ycombinator.com/item?id=48681220 Points: 207 # Comments: 104"
     },
     {
       "id": "045f2ba0fd34",
