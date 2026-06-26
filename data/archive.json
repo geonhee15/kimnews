@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-06-25T23:44:18.891920+00:00",
-  "count": 3602,
+  "updated_at": "2026-06-26T01:53:18.062479+00:00",
+  "count": 3615,
   "items": [
+    {
+      "id": "045f2ba0fd34",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 핵심 AI 인재 연쇄 이탈에 주가 급락...\"IPO 지분 대박 유혹 때문\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212124",
+      "published": "2026-06-26T00:54:01+00:00",
+      "summary": "구글의 생성 AI 개발을 이끌던 핵심 연구진이 잇달아 경쟁사로 이탈하면서 주가가 급락했다. 25일(현지시간) 월스트리트저널(WSJ)과 비즈니스 인사이더 등에 따르면, 업계에서는 단순한 연구 환경이나 전략 차이보다 상장을 앞둔 AI 스타트업의 막대한 지분 보상이 인재 이동을 부추기는 핵심 요인으로 분석하고 있다.구글의 '제미나이' 개발을 주도해온 핵심 연구원 요나스 아들러 알렉산더 프리첼이 회사를 떠나 경쟁사인 앤트로픽으로 합류할 예정이다. 두 연구원은 제미나이 모델의 핵심 개발자로 평가받는 인물들"
+    },
+    {
+      "id": "1e7c071ceff6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "published": "2026-06-26T00:49:13+00:00",
+      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like."
+    },
+    {
+      "id": "a006330beebb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 행정부, 안보 우려로 \"GPT-5.6 순차적 출시\" 압박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212122",
+      "published": "2026-06-26T00:49:09+00:00",
+      "summary": "도널드 트럼프 미국 행정부가 차세대 AI 모델의 국가안보 위험성을 이유로 오픈AI의 최신 모델 'GPT-5.6' 공개를 사실상 통제하면서, 미국 AI 업계 전반에 새로운 출시 관행이 자리 잡고 있다. 자율적인 사전 검토를 표방했던 정부 방침과 달리 실제로는 정부 승인 없이는 최첨단 AI 모델을 공개하기 어려운 분위기가 형성되면서 '사실상의 허가제' 논란도 커지고 있다.디 인포메이션에 따르면, 샘 알트먼 오픈AI CEO는 지난 25일(현지시간) 사내 질의응답에서 GPT-5.6을 일반에 즉시 공개하지"
+    },
+    {
+      "id": "bc135914a78b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "블리자드, '블리즈컨 2026' 폐막 공연 아티스트로 르세라핌 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260626094907",
+      "published": "2026-06-26T00:49:07+00:00",
+      "summary": "[지디넷코리아]블리자드 엔터테인먼트가 '블리즈컨'의 피날레 무대 주인공으로 글로벌 K-팝 걸그룹 르세라핌을 선정했다.블리자드 엔터테인먼트는 르세라핌이 오는 9월 미국 애너하임 컨벤션 센터에서 열리는 '블리즈컨 2026' 메인 스테이지에 올라 행사의 마지막을 장식하는 폐막 공연을 선보인다고 26일 밝혔다.앞서 르세라핌은 '블리즈컨 2023'에서 K-팝 아티스트 최초로 해당 행사 무대에 올라 주목받은 바 있다. 이들은 다가올 미국 투어에 앞서 9월 13일(태평양 표준시 기준) 메인 스테이지에서 글로벌"
+    },
+    {
+      "id": "19c7484cd7e1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, 메모리 폭등에 맥·아이패드 최대 25% 인상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212123",
+      "published": "2026-06-26T00:48:54+00:00",
+      "summary": "애플이 AI 데이터센터 확산으로 촉발된 메모리 반도체 공급난과 부품 가격 급등을 이유로 맥과 아이패드를 비롯한 주요 제품 가격을 전격 인상했다. 월스트리트저널(WSJ)에 따르면, 애플은 25일(현지시간) 온라인 스토어를 일시적으로 닫은 뒤 인상된 가격을 적용했다.이번 인상으로 맥 제품은 약 15~20%, 아이패드는 15~25%가량 가격이 올랐다. 아이폰과 애플워치, 에어팟은 이번에는 가격을 유지했지만, 애플은 추가 인상 가능성을 시사했다.이번 조치는 최근 팀 쿡 CEO가 \"부품 가격 상승을 더 이"
+    },
+    {
+      "id": "a4696bc0a840",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아트코리아랩, AI 창작 과정 공유하는 ‘오픈 프롬프트 커뮤니티’ 운영",
+      "link": "https://zdnet.co.kr/view/?no=20260626094622",
+      "published": "2026-06-26T00:46:22+00:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI)을 활용한 예술 창작에서 결과물뿐 아니라 작업 과정과 시행착오, 프롬프트 활용법까지 함께 나누는 커뮤니티 프로그램이 마련된다. 예술경영지원센터는 문화체육관광부와 오는 28일까지 ‘오픈 프롬프트 커뮤니티 콜로키엄’ 1차 참가자를 모집한다고 26일 밝혔다.오픈 프롬프트 커뮤니티는 예술가와 창작자가 생성형 AI를 활용하며 축적한 프롬프트와 시행착오, 창작 방법론을 공유하는 프로그램이다. 아트코리아랩은 AI 도구 사용법을 일방적으로 전달하는 교육을 넘어 예술 현장의 A"
+    },
+    {
+      "id": "de97052382f6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "파키스탄, 지붕형 태양광 급증…정부 통계가 속도 못 따라간다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212126",
+      "published": "2026-06-26T00:44:02+00:00",
+      "summary": "파키스탄에서 가정과 공장, 농가가 직접 설치한 분산형 태양광이 38기가와트(GW)에 이를 수 있다는 분석이 나왔다.높은 전기요금과 반복되는 전력난을 피하려는 소비자 투자가 빠르게 늘면서, 정부와 전력회사의 공식 통계가 실제 태양광 확산 속도를 따라가지 못하고 있다는 지적이다.에너지 싱크탱크 엠버는 25일(현지시간) 공개한 보고서에서 파키스탄의 태양광 확대가 정부 주도 대형 발전소보다 소비자와 기업의 자발적 투자로 빠르게 진행되고 있다고 밝혔다. 전력비 부담을 줄이려는 가정과 기업이 지붕형 태양광을"
+    },
+    {
+      "id": "afbaa7c862c3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "네이버 검색창, 대화형 검색 'AI탭'으로 개편",
+      "link": "https://zdnet.co.kr/view/?no=20260626090942",
+      "published": "2026-06-26T00:31:33+00:00",
+      "summary": "[지디넷코리아]네이버는 검색 경험을 확대하는 생성형 인공지능(AI) 기반 대화형 검색 서비스 'AI탭'을 전체 사용자를 대상으로 공개한다고 26일 밝혔다.검색과 AI 도구를 담아온 '그린닷'이 AI탭 중심으로 재편된다. 그린닷의 기능 중 멀티모달 검색의 핵심 도구 '스마트렌즈'는 검색창에서 바로 이용할 수 있도록 AI탭 버튼 옆에 배치해 접근성을 높였고, '음악 검색'은 AI탭 안으로 통합됐다.AI탭은 사용자의 검색 의도와 맥락을 이해해 답변을 제공하는 것을 넘어 ▲쇼핑 ▲장소 탐색 ▲예약 등 실"
+    },
+    {
+      "id": "63e371bf640c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오게임즈 '오딘', 5주년 업데이트 효과로 앱스토어 매출 1위 기록",
+      "link": "https://zdnet.co.kr/view/?no=20260626083429",
+      "published": "2026-06-26T00:22:19+00:00",
+      "summary": "[지디넷코리아]카카오게임즈의 MMORPG '오딘: 발할라 라이징'이 서비스 5주년 대규모 업데이트에 힘입어 모바일 앱 마켓 매출 순위 최상위권에 재진입했다.26일 게임업계에 따르면 '오딘: 발할라 라이징'은 지난 25일 애플 앱스토어 매출 순위 1위를 기록했다. 구글 플레이 매출 순위 역시 이날 기준 2위까지 가파르게 상승했다. 5주년 이벤트와 신규 콘텐츠가 이용자들의 높은 관심과 긍정적인 반응을 이끌어내며 지표 반등에 성공한 것으로 분석된다.카카오게임즈는 이번 5주년 업데이트를 통해 신규 전직 "
+    },
+    {
+      "id": "6758165880d3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국 패키지 게임 매출, 17년 만에 전년대비 증가세",
+      "link": "https://zdnet.co.kr/view/?no=20260626083628",
+      "published": "2026-06-26T00:22:00+00:00",
+      "summary": "[지디넷코리아]닌텐도 스위치2가 미국 패키지 게임 시장 반등을 이끌었다고 미국 IT 매체 Wccf테크가 25일(현지시간) 보도했다.시장조사 업체 서카나 발표를 인용한 보도에 따르면 지난 2026년 미국 패키지 게임시장 매출은 17년 만에 처음으로 전년대비 증가했다.맷 피스카텔라 서카나 전무는 자신의 SNS 계정에 블루스카이 계정에 2007년 5월부터 2026년 5월까지 미국 패키지 게임 소프트웨어 매출 추이를 담은 그래프를 공개하며 닌텐도 스위치2가 미국 패키지 게임 시장 반등을 이끌었다고 설명했"
+    },
+    {
+      "id": "7a3eddfd5d40",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[SW키트] 데이터이쿠, 에이전트 개발 '시각화' 전략 제시…\"비용·리스크 통제\"",
+      "link": "https://zdnet.co.kr/view/?no=20260625154149",
+      "published": "2026-06-26T00:21:34+00:00",
+      "summary": "[지디넷코리아]데이터이쿠가 인공지능(AI) 에이전트 개발 과정을 시각적하는 전략으로 사업을 강화하고 있다. AI가 어떤 데이터·과정을 거쳐 결과를 도출하는지 시각적으로 보여줌으로써 기업이 에이전트 개발 과정을 더 투명하게 통제할 수 있게 돕는 방식이다.26일 IT 업계에 따르면 데이터이쿠는 지난 18일 공개한 코딩 에이전트 '데이터이쿠 코빌드' 시각화 기능을 앞세워 고객사 공략에 나섰다. 코빌드는 현업 사용자가 자연어로 입력한 비즈니스 목표를 운영 가능한 AI 프로젝트로 자동 전환하는 플랫폼이다."
+    },
+    {
+      "id": "0128c3af1148",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+      "link": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
+      "published": "2026-06-26T00:07:57+00:00",
+      "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing."
+    },
     {
       "id": "c7acf2f862f1",
       "source": "TechCrunch",
@@ -320,6 +452,17 @@
       "link": "https://www.theverge.com/gadgets/956635/apple-watch-series-11-amazon-prime-day-2026-deal-sale",
       "published": "2026-06-25T16:38:39+00:00",
       "summary": "We’ve seen a lot of great Prime Day deals on wearables this year, from the Fitbit Charge 6 to the latest Apple Watch SE. But if you’re looking for advanced health features, the Apple Watch Series 11 is the one to check out, and it’s now down to its best price ever: $279 ($120 off"
+    },
+    {
+      "id": "a72897949829",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "link": "https://github.com/inkeep/open-knowledge",
+      "published": "2026-06-25T16:04:46+00:00",
+      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS. We built this because"
     },
     {
       "id": "311b4a684991",
