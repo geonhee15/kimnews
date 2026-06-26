@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-26T16:57:20.806315+00:00",
-  "count": 3686,
+  "updated_at": "2026-06-26T18:51:56.076663+00:00",
+  "count": 3693,
   "items": [
+    {
+      "id": "31106294adda",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "published": "2026-06-26T18:32:14+00:00",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”"
+    },
+    {
+      "id": "fdffd6f7e9ab",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "published": "2026-06-26T18:19:36+00:00",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+    },
+    {
+      "id": "548946ac91bf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Prime Day MacBook Deals I Recommend (2026)",
+      "link": "https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/",
+      "published": "2026-06-26T18:07:38+00:00",
+      "summary": "Apple has warned about MacBook prices rising, making these Prime Day deals even more worthwhile to consider."
+    },
+    {
+      "id": "fd223371eb62",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "published": "2026-06-26T17:43:22+00:00",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies build"
+    },
+    {
+      "id": "a86dcf610044",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "published": "2026-06-26T17:05:40+00:00",
+      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline."
+    },
+    {
+      "id": "9e5fc6a395e0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "published": "2026-06-26T17:00:00+00:00",
+      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-ti"
+    },
     {
       "id": "128a5b9440b4",
       "source": "GitHub Blog",
@@ -4387,6 +4453,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "Midjourney wants to delete 30% of all death...",
+      "link": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
+      "published": "2026-06-23T16:46:50+00:00",
+      "summary": ""
+    },
+    {
+      "id": "261de9d009ad",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Midjourney has a new side quest... death",
       "link": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
       "published": "2026-06-23T16:46:50+00:00",
       "summary": ""
