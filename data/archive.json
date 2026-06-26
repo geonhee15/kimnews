@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-26T12:08:14.732042+00:00",
-  "count": 3664,
+  "updated_at": "2026-06-26T14:45:50.427307+00:00",
+  "count": 3672,
   "items": [
+    {
+      "id": "dbed63ef0406",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Of course Meta thinks gambling is the future",
+      "link": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
+      "published": "2026-06-26T14:16:29+00:00",
+      "summary": "Meta is, by and large, a company built on other companies' ideas. It has almost perfected the strategy: wait for a new platform or social mechanic to take off, then either buy or clone it, put it next to Meta's unmatched user base and advertising engine, and watch the money pile "
+    },
+    {
+      "id": "6993546ffdde",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Mythos mess is only getting worse",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "published": "2026-06-26T14:07:03+00:00",
+      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with"
+    },
+    {
+      "id": "15cb496fce3d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s AirPods Max 2 headphones are still $150 off — for now",
+      "link": "https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale",
+      "published": "2026-06-26T13:06:02+00:00",
+      "summary": "One of the best deals this ongoing Prime Day has been on Apple’s latest flagship headphones. The AirPods Max 2 are still available for a heavily discounted price of $399 ($150 off) at Walmart, even though they sold out at Amazon. Since the Amazon deal kicked and Walmart is out of"
+    },
+    {
+      "id": "91db8a263d89",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+      "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others."
+    },
+    {
+      "id": "b680b505abbf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글, 제미나이 통합 API '인터랙션스' 정식 출시…모델·에이전트를 하나로",
+      "link": "https://zdnet.co.kr/view/?no=20260626213355",
+      "published": "2026-06-26T12:33:55+00:00",
+      "summary": "[지디넷코리아]구글이 제미나이(Gemini) 모델과 AI 에이전트를 하나의 창구로 다루는 통합 인터페이스 '인터랙션스 API(Interactions API)'를 정식 출시(GA)했다고 6월 22일 밝혔다. 2025년 12월 베타로 공개한 뒤 개발자들이 가장 선호하는 방식으로 자리 잡았고, 이번 정식 출시로 제미나이를 다루는 구글의 기본 API가 됐다.인터랙션스 API는 모델 호출과 에이전트 실행을 한 엔드포인트로 묶는다. 모델 ID를 넘기면 추론을, 에이전트 ID를 넘기면 자율 작업을 실행하고, "
+    },
+    {
+      "id": "6ea007a24c59",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "published": "2026-06-26T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A d"
+    },
     {
       "id": "0abf520ca7e6",
       "source": "GitHub Blog",
@@ -322,6 +388,17 @@
       "summary": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 234 # Comments: 120"
     },
     {
+      "id": "7d773e36e661",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We all depend on open source. We will defend it together",
+      "link": "https://akrites.org/letter/",
+      "published": "2026-06-26T05:40:36+00:00",
+      "summary": "Article URL: https://akrites.org/letter/ Comments URL: https://news.ycombinator.com/item?id=48682737 Points: 352 # Comments: 167"
+    },
+    {
       "id": "999476c4bbae",
       "source": "AI타임스",
       "kind": "article",
@@ -463,6 +540,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212142",
       "published": "2026-06-26T03:39:09+00:00",
       "summary": "AI 생성 영상여수시가 2026여수세계섬박람회 기간 돌산지역 교통 혼잡을 줄이기 위해 여수예술랜드와 임시주차장 활용 협약을 맺었다고 26일 밝혔다.여수예술랜드는 박람회 기간 주차장 500면을 무상 제공하고, 여수는 셔틀버스와 시내버스를 연계해 관람객 이동 편의를 높일 계획이다.협약식에는 정현구 여수시 부시장과 김현철 여수예술랜드 대표가 참석해 박람회 교통대책 추진을 위한 민관 협력 방안을 확인했다.이번 협약의 핵심은 돌산권 민간 관광시설 주차장을 박람회 기간 교통 분산 거점으로 활용하는 것이다. "
+    },
+    {
+      "id": "a2acb5e6c0f7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Libre Barcode Project",
+      "link": "https://graphicore.github.io/librebarcode/",
+      "published": "2026-06-26T03:12:42+00:00",
+      "summary": "Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 222 # Comments: 36"
     },
     {
       "id": "5b3ba704c52b",
