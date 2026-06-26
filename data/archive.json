@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-26T20:44:01.092054+00:00",
-  "count": 3697,
+  "updated_at": "2026-06-26T21:53:55.525033+00:00",
+  "count": 3704,
   "items": [
+    {
+      "id": "cf16ab06a480",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
+      "link": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+      "published": "2026-06-26T21:02:54+00:00",
+      "summary": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram."
+    },
+    {
+      "id": "fb3d739d4027",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "published": "2026-06-26T20:58:02+00:00",
+      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions."
+    },
+    {
+      "id": "1e23cf2e55d8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 월드컵 충격패 속 마이크론·스페이스X 증시 변동성 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212172",
+      "published": "2026-06-26T20:50:00+00:00",
+      "summary": "AI타임스와 이스트에이드의 6월 넷째 주(6월19일~25일) 이슈 분석 결과, 메모리 반도체 기업 실적 발표와 주요 증시, 월드컵 조별리그 결과 등이 상위권을 차지했다.이번 주 검색량 1위 키워드는 '마이크론 실적 발표(4.70%)'가 차지했다. 마이크론은 회계연도 3분기 매출 414억5600만달러(약 63조8000억원)로 전년 동기 대비 4.5배 증가한 역대 최대 실적을 거뒀다.고대역폭메모리(HBM)와 서버용 D램이 실적을 견인함에 따라 다음달 실적 발표를 앞둔 삼성전자와 SK하이닉스에 대한 시"
+    },
     {
       "id": "69f680a577af",
       "source": "AI타임스",
@@ -12,6 +45,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212175",
       "published": "2026-06-26T20:25:24+00:00",
       "summary": "오픈AI가 지능과 비용 측면에서 한 단계 진화한 차세대 모델 제품군 'GPT-5.6' 시리즈를 선보였다. 하지만, 미국 정부의 요청에 따라 초기에는 일부 파트너들로 출시를 제한했다.오픈AI는 26일(현지시간) 플래그십 모델인 'GPT-5.6 솔(Sol)'과 일상적인 작업에 최적화된 균형 잡힌 모델인 '테라(Terra)', 그리고 빠르고 경제적인 '루나(Luna)' 3가지 모델을 공개했다.특히 테라는 기존 'GPT-5.5'와 경쟁할 수 있는 성능을 제공하면서도 가격은 2배 저렴하며, 루나는 역대 가"
+    },
+    {
+      "id": "70e97e8c0079",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "published": "2026-06-26T20:04:55+00:00",
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony."
     },
     {
       "id": "b59a736c4dca",
@@ -331,6 +375,17 @@
       "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
       "published": "2026-06-26T12:00:00+00:00",
       "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "6e848f29288d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ultrasound imaging of the brain",
+      "link": "https://alephneuro.com/blog/ultrasound-brain",
+      "published": "2026-06-26T11:51:11+00:00",
+      "summary": "Article URL: https://alephneuro.com/blog/ultrasound-brain Comments URL: https://news.ycombinator.com/item?id=48685558 Points: 202 # Comments: 71"
     },
     {
       "id": "d464cc84d492",
@@ -4942,6 +4997,17 @@
       "summary": "사티아 나델라 마이크로소프트(MS) CEO가 AI 산업의 권력이 소수 기업에 집중되는 현상을 강하게 비판하며, 오픈AI와 앤트로픽 중심으로 전개되고 있는 현재의 AI 경쟁 구도에 공개적으로 문제를 제기했다. 얼마 전 X를 통해 발표한 에세이의 내용을 인터뷰로 재차 옮기며, AI의 미래는 특정 기업의 초거대 모델이 지배하는 구조가 아니라 더 저렴하고 개방적이며 사용자가 통제권을 갖는 방향으로 나아가야 한다고 강조했다.나델라 CEO는 21일(현지시간) 월스트리트저널(WSJ)과의 인터뷰에서 \"대중은 소"
     },
     {
+      "id": "ff1dbfc93b5b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "link": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "published": "2026-06-23T09:39:35+00:00",
+      "summary": "Article URL: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/ Comments URL: https://news.ycombinator.com/item?id=48642510 Points: 209 # Comments: 121"
+    },
+    {
       "id": "05049a44a386",
       "source": "조코딩",
       "kind": "youtube",
@@ -7624,6 +7690,17 @@
       "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "published": "2026-06-20T16:39:57+00:00",
       "summary": "Jumper isn't the only big name leaving Google DeepMind."
+    },
+    {
+      "id": "aee1f226ff50",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "link": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "published": "2026-06-20T15:50:37+00:00",
+      "summary": "Article URL: https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/ Comments URL: https://news.ycombinator.com/item?id=48610137 Points: 248 # Comments: 85"
     },
     {
       "id": "497c96f3eb6d",
