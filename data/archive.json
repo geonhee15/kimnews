@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-27T04:33:02.422541+00:00",
-  "count": 3736,
+  "updated_at": "2026-06-27T07:39:53.537798+00:00",
+  "count": 3742,
   "items": [
+    {
+      "id": "6908b737eed1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"중국 CXMT 칩 구매 허용해달라\"…애플, 美정부에 로비",
+      "link": "https://zdnet.co.kr/view/?no=20260627144635",
+      "published": "2026-06-27T05:46:35+00:00",
+      "summary": "[지디넷코리아]애플이 미국 정부 블랙리스트 대상 기업인 중국 회사의 칩 구매를 위해 대대적인 로비를 하고 있다고 파이낸셜타임스가 26일(현지시간) 보도했다.보도에 따르면 애플은 트럼프 행정부에 중국 기업 CXMT의 메모리 칩을 구매할 수 있도록 해달라는 로비를 하고 있다. 중국 기업인 CXMT는 현재 미국 국방부의 블랙리스트 목록에 올라가 있다. 중국 인민군과의 연계 의혹이 블랙리스트 선정 이유다. 애플이 중국 기업 CXMT의 칩 구매를 추진하는 것은 최근 글로벌 메모리 부족 사태 때문이다.애플은"
+    },
+    {
+      "id": "8a7efbb179e7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제미나이 3.5 플래시에 '컴퓨터 유즈' 내장…화면 조작·검색·지도 한 번에",
+      "link": "https://zdnet.co.kr/view/?no=20260627135408",
+      "published": "2026-06-27T04:54:08+00:00",
+      "summary": "[지디넷코리아]구글이 현지 시각 6월 25일 AI 에이전트가 사람 없이 화면을 보고 클릭·입력·탐색하는 '컴퓨터 유즈(Computer Use)' 기능을 제미나이 3.5 플래시에 기본 도구로 내장한다고 밝혔다. 개발자는 제미나이 API와 제미나이 엔터프라이즈 에이전트 플랫폼에서 이 기능을 바로 쓸 수 있다. 컴퓨터 유즈는 AI가 마우스·키보드를 다루듯 소프트웨어를 직접 조작하는 기능으로, 사람을 대신해 화면 위 작업을 끝까지 수행하는 에이전트의 핵심 능력으로 꼽힌다.기존에는 2025년 10월 출시된"
+    },
+    {
+      "id": "1167b364aa44",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이두, '언리미티드 OCR' 공개… \"메모리 한계 깨고 수십 페이지 문서도 한 번에\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212177",
+      "published": "2026-06-27T04:45:19+00:00",
+      "summary": "대용량 문서를 한 번에 처리할 수 있는 새로운 광학문자인식(OCR) 기술이 등장했다. 바이두는 22일 오픈소스 OCR 모델 '언리미티드 OCR(Unlimited OCR)'을 온라인 아카이브를 통해 공개했다.기존 대형언어모델(LLM) 기반 OCR의 가장 큰 한계였던 메모리 사용량 증가와 속도 저하 문제를 해결해 수십 페이지에 달하는 문서를 단 한 번의 추론으로 처리할 수 있다는 것이 핵심이다. 모델 코드와 가중치도 깃허브와 허깅페이스를 통해 오픈소스로 공개했다. 최근 OCR 분야는 '딥시크 OCR'"
+    },
+    {
+      "id": "250e251bc0e3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에이전트 장기 프로젝트 벤치마크 'AA-브리프케이스' 공개...1위는 '페이블 5'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212179",
+      "published": "2026-06-27T04:36:05+00:00",
+      "summary": "AI 모델의 실제 업무 수행 능력을 평가하기 위한 새로운 벤치마크가 등장했다. 단일 질문에 답하는 기존 평가 방식을 넘어, 몇주에 걸친 장기 프로젝트를 얼마나 완성도 있게 수행하는지를 측정하는 것이 핵심이다. AI 모델 평가 기관 아티피셜 애널리시스는 18일(현지시간) 장기 프로젝트 기반 AI 벤치마크 'AA-브리프케이스(AA-Briefcase)'를 공개했다.기존 AI 벤치마크가 하나의 질문이나 짧은 작업을 해결하는 능력을 측정했다면, AA-브리프케이스는 여러 주에 걸쳐 진행되는 프로젝트를 기반으"
+    },
     {
       "id": "fca6639839db",
       "source": "AI타임스",
@@ -45,6 +89,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212181",
       "published": "2026-06-27T03:52:21+00:00",
       "summary": "앤트로픽이 급증하는 AI 서비스 수요에 대응하기 위해 아시아·태평양(APAC) 지역 데이터센터 인프라 확충에 속도를 내고 있다. 호주와 일본을 중심으로 데이터센터 전문 인력을 대거 채용하는 한편, 장기적으로는 민주주의 국가를 중심으로 글로벌 AI 컴퓨팅 거점을 확대한다는 전략이다.25일(현지시간) CNBC에 따르면, 최근 앤트로픽은 AI 데이터센터 구축과 운영을 담당하는 컴퓨트(Compute) 부문에서 총 13개의 채용 공고를 게시했다. 이 가운데 8개가 호주와 일본 근무를 대상으로 한다.일본에서"
+    },
+    {
+      "id": "cfd66111fd74",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, GPT-5.6 출시…미국 정부 요청에 제한 배포",
+      "link": "https://zdnet.co.kr/view/?no=20260627102728",
+      "published": "2026-06-27T03:30:01+00:00",
+      "summary": "[지디넷코리아]오픈AI가 차세대 인공지능(AI) 모델 'GPT-5.6' 시리즈를 공개하면서 코딩·생물학·사이버 보안 전 영역에서 성능을 끌어올렸다. 다만 미국 정부 요청으로 즉각적인 일반 배포 대신 신뢰 파트너를 대상으로 한 제한 공개를 먼저 진행하기로 했다.오픈AI는 26일(현지시간) 공식 블로그를 통해 GPT-5.6을 최상위 모델 '솔', 중위 모델 '테라', 하위 모델 '루나' 세 갈래로 구성해 출시한다고 발표했다. 테라는 전작 GPT-5.5와 유사한 성능을 유지하면서도 가격을 절반으로 낮췄"
     },
     {
       "id": "39186b763d0c",
@@ -309,6 +364,17 @@
       "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "published": "2026-06-26T22:48:28+00:00",
       "summary": "https://archive.md/ArXuF https://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 299 # Comments: 302"
+    },
+    {
+      "id": "c4c1b43a9388",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "published": "2026-06-26T22:43:29+00:00",
+      "summary": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed Comments URL: https://news.ycombinator.com/item?id=48692946 Points: 213 # Comments: 97"
     },
     {
       "id": "d7e9e5e97b27",
