@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-06-27T12:51:03.986260+00:00",
-  "count": 3757,
+  "updated_at": "2026-06-27T14:25:18.337867+00:00",
+  "count": 3763,
   "items": [
+    {
+      "id": "a571e54c17fc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "published": "2026-06-27T14:00:00+00:00",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude."
+    },
+    {
+      "id": "db13c149d893",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "published": "2026-06-27T14:00:00+00:00",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat "
+    },
+    {
+      "id": "e462a165abb2",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "전세계 기업들을 관찰한 OpenAI 내부자가 알려주는 진짜 AX와 AI Native 되는 방법",
+      "link": "https://www.youtube.com/watch?v=0l5oJsjCPus",
+      "published": "2026-06-27T13:30:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "382c2908976f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "published": "2026-06-27T13:30:00+00:00",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed t"
+    },
+    {
+      "id": "46d2d1093a5c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside the room where the smart home industry is still betting on Matter",
+      "link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+      "published": "2026-06-27T13:00:00+00:00",
+      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is th"
+    },
     {
       "id": "367fc73c315d",
       "source": "AI타임스",
@@ -188,6 +243,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212179",
       "published": "2026-06-27T04:36:05+00:00",
       "summary": "AI 모델의 실제 업무 수행 능력을 평가하기 위한 새로운 벤치마크가 등장했다. 단일 질문에 답하는 기존 평가 방식을 넘어, 몇주에 걸친 장기 프로젝트를 얼마나 완성도 있게 수행하는지를 측정하는 것이 핵심이다. AI 모델 평가 기관 아티피셜 애널리시스는 18일(현지시간) 장기 프로젝트 기반 AI 벤치마크 'AA-브리프케이스(AA-Briefcase)'를 공개했다.기존 AI 벤치마크가 하나의 질문이나 짧은 작업을 해결하는 능력을 측정했다면, AA-브리프케이스는 여러 주에 걸쳐 진행되는 프로젝트를 기반으"
+    },
+    {
+      "id": "71f48048b356",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenTTD 16.0-Beta1",
+      "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "published": "2026-06-27T04:31:06+00:00",
+      "summary": "Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1 Comments URL: https://news.ycombinator.com/item?id=48695149 Points: 201 # Comments: 35"
     },
     {
       "id": "fca6639839db",
