@@ -1,8 +1,32 @@
 {
   "issue_date": "2026-06-28",
-  "generated_at": "2026-06-27T18:17:59.809747+00:00",
-  "count": 2,
+  "generated_at": "2026-06-27T19:52:15.385883+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "8547c5560ef4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Dead",
+      "content": "The Handmaid’s Tale author tried Claude exactly once, and wasn’t impressed.\n\nMaraget Atwood, the storied author of The Handmaid’s Tale and The Blind Assassin , was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn’t mince words.\n\nAccording to Deadline’s recap, Atwood said she’d used an AI chatbot exactly once, Anthropic’s Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well:\n\n”Claude gave me the wrong answer, or it lied. Of course, it didn’t know it was lying because it’s not a human being; it’s a large language model... It had skimmed and sampled a lot of television reviews, but they never give away the ending in online criticism, so it was misled by the things it had read about the show.”\n\nShe didn’t have particularly kind words for the people who rely on AI either, calling them “opportunists” looking for the easy way out. But of course, as she pointed out, all LLMs are only as good as the data they’re fed, and putting your faith in a machine trained on scraped, previously published, and possibly out-of-date information isn’t the best idea.\n\n“Human beings are not robots, but they are opportunists, so if there’s an easy way to cheat and it’s hard to detect, people will do it... But the thing about AI is that it’s garbage in, garbage out. Even people who use it for business reasons have to check it because it makes mistakes.”\n\nThis is the title for the native ad",
+      "published": "2026-06-27T18:39:32+00:00"
+    },
+    {
+      "id": "c38571cdda20",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocke",
+      "content": "The company can legally buy RAM from CXMT, but it would carry serious reputational risks.\n\nApple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People’s Liberation Army, according to the Financial Times . The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources.\n\nLegally, Apple isn’t barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It’s possible that CXMT could still find itself the target of export controls for undermining US security. The company was on a list of proposed additions to the so-called “Entity List” by the Commerce Department, but held off because the White House was in the middle of trade negotiations with China.\n\nIt’s unclear if the administration would give its blessing to Apple. Tim Cook has spent significant time trying to build bridges with the Trump administration, presenting the president with gaudy statues and attending a screening of the Melania movie, directed by accused rapist Brett Ratner. But if the White House granted Apple permission, such a decision would likely face significant blowback. John Moolenaar, Republican chair of the House China committee, told the Financial Times that:\n\n“Apple choosing to partner with a Chinese military company would be a grave mistake... Helping the [Chinese Communist Party] succeed in its plans to dominate critical supply chains will make our country’s tech industry and economy more dependent on China at a time when we must build secure tech supply chains with our allies,”\n\nThis is the title for the native ad",
+      "published": "2026-06-27T17:28:18+00:00"
+    },
     {
       "id": "e502f7ee039e",
       "source": "TechCrunch",
