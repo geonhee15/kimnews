@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-28T20:00:21.306020+00:00",
-  "count": 3842,
+  "updated_at": "2026-06-28T21:09:40.094951+00:00",
+  "count": 3846,
   "items": [
+    {
+      "id": "b308020832c7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "published": "2026-06-28T20:27:36+00:00",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need t"
+    },
     {
       "id": "cb6772d6b26e",
       "source": "TechCrunch",
@@ -36,6 +47,17 @@
       "summary": "최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다. GPU 가격 상승과 추론 수요 확대로 기업들의 AI 인프라 복잡성이 커진 데다, 저전력 NPU 등 하드웨어 선택지도 다양해졌기 때문이다.이러한 상황 속에서 2015년 설립 이후 ‘GPU 가상화’ 시장을 개척해 온 래블업(대표 신정규)이 기존 '모델 개발 및 사전 훈련' 중심에서 최근 수요가 급증한 '추론과 에이전트' 영역으로 비즈니스를 본격 확장하고 나섰다.그 중심에는 래블업의 ‘백엔드닷에이아이(Backen"
     },
     {
+      "id": "b8b6cb342987",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "published": "2026-06-28T16:35:19+00:00",
+      "summary": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus Comments URL: https://news.ycombinator.com/item?id=48708941 Points: 223 # Comments: 323"
+    },
+    {
       "id": "59833bf05cb0",
       "source": "TechCrunch",
       "kind": "article",
@@ -56,6 +78,17 @@
       "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "published": "2026-06-28T15:00:00+00:00",
       "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+    },
+    {
+      "id": "0396e4d5b378",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "link": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "published": "2026-06-28T14:46:03+00:00",
+      "summary": "Article URL: https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/ Comments URL: https://news.ycombinator.com/item?id=48707769 Points: 205 # Comments: 145"
     },
     {
       "id": "0756e3edb57a",
@@ -122,6 +155,17 @@
       "link": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
       "published": "2026-06-28T12:02:44+00:00",
       "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to have an experience tha"
+    },
+    {
+      "id": "5278d83361e2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The KIDS Act would require age checks to get online",
+      "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "published": "2026-06-28T11:56:16+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online Comments URL: https://news.ycombinator.com/item?id=48706560 Points: 200 # Comments: 201"
     },
     {
       "id": "e183e4e94bae",
