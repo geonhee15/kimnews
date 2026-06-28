@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-28T14:45:46.745826+00:00",
-  "count": 3833,
+  "updated_at": "2026-06-28T15:59:01.331098+00:00",
+  "count": 3836,
   "items": [
+    {
+      "id": "58e14d1969ee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "published": "2026-06-28T15:00:00+00:00",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+    },
     {
       "id": "99462e73d233",
       "source": "The Verge",
@@ -487,6 +498,17 @@
       "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 212 # Comments: 118"
     },
     {
+      "id": "227960d99100",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "published": "2026-06-28T00:46:52+00:00",
+      "summary": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md Comments URL: https://news.ycombinator.com/item?id=48703258 Points: 202 # Comments: 60"
+    },
+    {
       "id": "0c3133354c30",
       "source": "AI타임스",
       "kind": "article",
@@ -584,6 +606,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260628024529",
       "published": "2026-06-27T22:41:25+00:00",
       "summary": "[지디넷코리아]생성형 인공지능(AI) 확산으로 데이터센터 전력 소비가 급증하는 가운데, AI 전력 사용량을 현재 대비 1000분의 1 수준으로 줄이겠다는 목표를 제시한 차세대 컴퓨팅 아키텍처가 등장했다.28일 데이터브릭스 AI 부문 총괄 출신 나빈 라오 최고경영자(CEO)가 설립한 언컨벤셔널AI는 지난 25일 첫 번째 AI 모델 'Un-0'를 공개했다.언컨벤셔널AI는 새로운 컴퓨팅 아키텍처를 통해 AI 추론에 필요한 전력 소비를 최대 1000배까지 줄일 수 있다고 주장했다.현재 챗GPT를 비롯한 "
+    },
+    {
+      "id": "0b31e569674a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Choosing a Public DNS Resolver",
+      "link": "https://evilbit.de/dns-resolver-guide.html",
+      "published": "2026-06-27T22:11:28+00:00",
+      "summary": "Article URL: https://evilbit.de/dns-resolver-guide.html Comments URL: https://news.ycombinator.com/item?id=48702273 Points: 235 # Comments: 102"
     },
     {
       "id": "7f58e791750f",
