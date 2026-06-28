@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-28T21:09:40.094951+00:00",
-  "count": 3846,
+  "updated_at": "2026-06-28T22:15:01.771775+00:00",
+  "count": 3847,
   "items": [
+    {
+      "id": "0f2cc1554600",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "published": "2026-06-28T21:42:51+00:00",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dram"
+    },
     {
       "id": "b308020832c7",
       "source": "The Verge",
