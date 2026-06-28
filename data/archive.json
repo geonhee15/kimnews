@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-28T06:02:50.065232+00:00",
-  "count": 3807,
+  "updated_at": "2026-06-28T09:31:38.130785+00:00",
+  "count": 3816,
   "items": [
+    {
+      "id": "eb888be1c699",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
+      "link": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+      "published": "2026-06-28T09:00:00+00:00",
+      "summary": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs."
+    },
+    {
+      "id": "9cd5ae83fd16",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - GPT‑5.6, Bidi 1, 할라피뇨, Unite Seoul 2026, Claude Tag, 애플 가격, Wan Streamer, 시댄스 2.5, Krea 2 등",
+      "link": "https://www.youtube.com/watch?v=us35t0LTyV4",
+      "published": "2026-06-28T08:15:25+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4df341d49376",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "공장형 AI 뷰티 인플루언서 만들었습니다 (ft. Higgsfield MCP)",
+      "link": "https://www.youtube.com/watch?v=oiZJO1_P_bk",
+      "published": "2026-06-28T07:30:21+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4acc96c99443",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 국방부, 2031년말까지 모든 시스템에 양자내성암호 적용",
+      "link": "https://zdnet.co.kr/view/?no=20260628160834",
+      "published": "2026-06-28T07:08:34+00:00",
+      "summary": "[지디넷코리아]미국 국방부((DoW)는 오는 2030년 12월 31일까지 모든 시스템에 양자내성암호(PQC, Post-Quantum Cryptography)를 지원한다고 밝혔다. 그렇지 않으면 퇴출한다. 이를 위해 현재 사용중인 암호기술 현황을 전수 조사(Baseline Inventory)한다. 이어 1년후인 2031년 12월 31일까지는 별도 명시가 없는 한 모든 시스템에 PQC를 반드시 적용(사용)한다. 이와 별도로, 양자키분배(QKD)는 보안 수단에서 제외했다.산업계 등에 따르면 미 국방부는"
+    },
+    {
+      "id": "8cdc7d1fcba2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI·앤트로픽·MS와 함께…젠스파크, 'AI 워크스페이스' 생태계 키운다",
+      "link": "https://zdnet.co.kr/view/?no=20260627023326",
+      "published": "2026-06-28T06:01:03+00:00",
+      "summary": "[지디넷코리아][팔로알토(미국)=한정호 기자] 미국 인공지능(AI) 스타트업 젠스파크가 오픈AI, 앤트로픽, 마이크로소프트(MS)와의 협력을 앞세워 'AI 워크스페이스' 생태계 확장에 나선다. 프론티어 AI 모델과 클라우드 인프라, 기업용 업무 플랫폼을 결합해 지식 노동자를 위한 AI 에이전트 활용 범위를 넓힌다는 전략이다.젠스파크는 26일(현지시간) 미국 팔로알토 본사에서 진행한 미디어 투어에서 오픈AI·앤트로픽·MS와의 기술 파트너십 현황과 엔터프라이즈 AI 워크스페이스 확장 전략을 발표했다."
+    },
+    {
+      "id": "9c086fa4101c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD e게임] 중세시대 좀비 생존의 잠재력…'갓 세이브 버밍엄' CBT 해보니",
+      "link": "https://zdnet.co.kr/view/?no=20260628143746",
+      "published": "2026-06-28T05:53:54+00:00",
+      "summary": "[지디넷코리아]카카오게임즈가 퍼블리싱하고 오션드라이브 스튜디오가 개발 중인 중세 좀비 생존 시뮬레이션 게임 '갓 세이브 버밍엄'이 비공개 베타 테스트를 진행했다.이번 테스트는 생존 및 좀비 장르 팬들의 피드백을 수렴하고, 그간 수정된 편의성과 밸런스를 점검하기 위해 마련됐다. 한국 시간으로는 오는 30일 오전 2시에 종료된다.게임의 배경은 중세 시대 영국의 버밍엄이다. 이용자는 좀비 사태가 터진 마을의 유일한 생존자가 돼, 좀비로 변해버린 주민들을 피해 처절한 사투를 벌여야 한다.직접 참여해 본 "
+    },
     {
       "id": "0766fc2ba641",
       "source": "ZDNet Korea",
@@ -201,6 +267,17 @@
       "summary": "애플이 메모리 반도체 가격 압박을 이기지 못하고, 미국 정부의 블랙리스트에 오른 중국 메모리 반도체 기업으로부터 칩을 조달하기 위해 로비를 벌이는 것으로 알려졌다.파이낸셜타임스(FT)는 27일(현지시간) 관계자 6명을 인용, 중국 창신메모리테크놀로지(CXMT)로부터 메모리 칩을 구매할 수 있도록 도널드 트럼프 행정부의 승인을 얻기 위해 로비 활동을 펼치고 있다고 보도했다.애플이 이 같은 전략적 선택을 강행하는 배경에는 글로벌 빅테크 기업들이 AI 데이터센터 구축에 수천억달러를 쏟아부으면서, 고대역"
     },
     {
+      "id": "01018ed8b2e1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "published": "2026-06-28T02:23:08+00:00",
+      "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points: 214 # Comments: 56"
+    },
+    {
       "id": "c68a916ab017",
       "source": "AI타임스",
       "kind": "article",
@@ -210,6 +287,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212193",
       "published": "2026-06-28T02:15:28+00:00",
       "summary": "테슬라가 운전자 보조 시스템인 'FSD' 작동 중 발생한 치명적인 보행자 사망 사고 소송을 최근 합의로 종결했다. 일론 머스크 CEO가 로보택시와 AI 중심의 미래 비전을 가속화하는 시점에서, 이번 합의가 카메라 기반 자율주행 시스템의 기술적 결함 논란에 어떤 파장을 미칠지 주목된다.블룸버그에 따르면, 테슬라는 지난 2023년 애리조나 고속도로에서 FSD를 활성화한 채 주행 중이던 '모델 Y'가 도로 위의 71세 보행자를 충돌해 사망에 이르게 한 사건의 유족 측 소송을 해결했다. 이는 테슬라 FS"
+    },
+    {
+      "id": "3a76207bbfb5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "link": "https://jayacunzo.com/blog/your-move-chief",
+      "published": "2026-06-28T01:28:10+00:00",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 212 # Comments: 118"
     },
     {
       "id": "0c3133354c30",
@@ -342,6 +430,17 @@
       "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
       "published": "2026-06-27T17:28:18+00:00",
       "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocke"
+    },
+    {
+      "id": "0de3b32b43eb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "published": "2026-06-27T17:11:20+00:00",
+      "summary": "Related: Show HN: TownSquare, a tiny presence layer for websites - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments) Comments URL: https://news.ycombinator.com/item?id=48699928 Points: 224 # Comments: 93"
     },
     {
       "id": "e502f7ee039e",

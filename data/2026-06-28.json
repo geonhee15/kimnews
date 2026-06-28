@@ -1,8 +1,78 @@
 {
   "issue_date": "2026-06-28",
-  "generated_at": "2026-06-28T06:02:50.037510+00:00",
-  "count": 27,
+  "generated_at": "2026-06-28T09:31:38.103825+00:00",
+  "count": 33,
   "items": [
+    {
+      "id": "eb888be1c699",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
+      "link": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+      "summary": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.",
+      "content": "China now has the world's fastest supercomputer , overtaking the United States. The system, known as LineShine and installed at the National Supercomputing Center in Shenzhen, displaced the US system El Capitan from the top spot in the TOP500 ranking in terms of computing power.\n\nThe breakthrough comes amid an intense competition between Beijing and Washington for technological supremacy, marked by high tariffs and restrictions on a wide range of hardware components and software.\n\nSince 1993, the TOP500 ranking has identified the world's most powerful supercomputers every six months through a series of standardized benchmarks that evaluate each system's performance, taking into account both its theoretical speed and its real-world performance, as well as its energy efficiency.\n\nHistorically, the ranking has been dominated by US-developed systems. However, LineShine has returned China to the top after nearly a decade out of first place.\n\nEl Capitan, located in Livermore, California, had held the top position since 2024. Now, benchmark results have confirmed that LineShine exceeds the US system's processing capacity by more than 20 percent.\n\nWith a power consumption of approximately 42.2 megawatts, the Chinese supercomputer delivers 2,198 exaflops, meaning it can perform more than 2 quintillion operations per second.\n\nOne of LineShine's most striking features is that, unlike most next-generation supercomputers, it does not use graphics processing units (GPUs). Instead, it relies exclusively on central processing units (CPUs), components widely used in smartphones, desktop computers, and laptops but rarely found in large-scale scientific computing systems.\n\nAnother notable feature is that its entire infrastructure is built with hardware and software developed in China. LineShine's architecture is based on the LingKun platform and consists of roughly 45,000 LX2 processors. Each processor has 304 cores and operates at a clock speed of 1.55 GHz.\n\nThe nodes are connected through a high-speed network called LingQi, designed to minimize latency and accelerate data exchange. The entire system runs on Kylin OS, a Linux-based operating system widely used in China's scientific and government computing infrastructure.\n\nChina's return to the top of the TOP500 ranking has been interpreted as an achievement that goes beyond simply possessing the world's fastest supercomputer, as the country is eager to show the world its tech industry can thrive despite lacking access to key US technologies.\n\nDuring Donald Trump's first administration and throughout Joe Biden's presidency, the United States imposed strict export controls on components, software, and platforms related to advanced computing in an effort to slow China's technological progress. In response, Beijing adopted similar measures.\n\nThose restrictions have intensified during Trump's current administration, particularly through tariffs and limits on imports of GPUs, advanced chips, and other components related to artificial intelligence (AI), a technology that now underpins a significant share of the world's most powerful supercomputers.\n\nThese restrictions have forced China to invest in developing new architectures and technologies capable of building supercomputers that can compete with the highest-performing US systems despite lacking access to certain state-of-the-art resources.\n\nThis story originally appeared in WIRED en Español and has been translated from Spanish.\n\nIn your inbox: Inside WIRED’s newsroom with Katie Drummond\n\nPeter Thiel’s secretive ‘Dialog’ society\n\nBig Story: 'Fishtank' is the OnlyFans of reality TV\n\nHow Apple is making your old iPhone run faster and live longer\n\nSpecial edition: The future of home",
+      "published": "2026-06-28T09:00:00+00:00"
+    },
+    {
+      "id": "9cd5ae83fd16",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - GPT‑5.6, Bidi 1, 할라피뇨, Unite Seoul 2026, Claude Tag, 애플 가격, Wan Streamer, 시댄스 2.5, Krea 2 등",
+      "link": "https://www.youtube.com/watch?v=us35t0LTyV4",
+      "summary": "",
+      "published": "2026-06-28T08:15:25+00:00"
+    },
+    {
+      "id": "4df341d49376",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "공장형 AI 뷰티 인플루언서 만들었습니다 (ft. Higgsfield MCP)",
+      "link": "https://www.youtube.com/watch?v=oiZJO1_P_bk",
+      "summary": "",
+      "published": "2026-06-28T07:30:21+00:00"
+    },
+    {
+      "id": "4acc96c99443",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 국방부, 2031년말까지 모든 시스템에 양자내성암호 적용",
+      "link": "https://zdnet.co.kr/view/?no=20260628160834",
+      "summary": "[지디넷코리아]미국 국방부((DoW)는 오는 2030년 12월 31일까지 모든 시스템에 양자내성암호(PQC, Post-Quantum Cryptography)를 지원한다고 밝혔다. 그렇지 않으면 퇴출한다. 이를 위해 현재 사용중인 암호기술 현황을 전수 조사(Baseline Inventory)한다. 이어 1년후인 2031년 12월 31일까지는 별도 명시가 없는 한 모든 시스템에 PQC를 반드시 적용(사용)한다. 이와 별도로, 양자키분배(QKD)는 보안 수단에서 제외했다.산업계 등에 따르면 미 국방부는",
+      "content": "국방 정책 및 기술전략 공개...QKD는 보안 수단서 제외\n\n컴퓨팅 입력 :2026/06/28 16:08 수정: 2026/06/28 17:11\n\n미국 국방부((DoW)는 오는 2030년 12월 31일까지 모든 시스템에 양자내성암호(PQC, Post-Quantum Cryptography)를 지원한다고 밝혔다. 그렇지 않으면 퇴출한다. 이를 위해 현재 사용중인 암호기술 현황을 전수 조사(Baseline Inventory)한다. 이어 1년후인 2031년 12월 31일까지는 별도 명시가 없는 한 모든 시스템에 PQC를 반드시 적용(사용)한다. 이와 별도로, 양자키분배(QKD)는 보안 수단에서 제외했다.\n\n산업계 등에 따르면 미 국방부는 지난 4월 16일 이 같은 내용의 국방 정책 및 기술 전략을 마련( 아래 이미지 ), 최근 공개했다.\n\nPQC는 현재 인터넷과 정보시스템에서 사용하는 RSA나 ECC 같은 공개키 암호를 양자컴퓨터로도 풀기 어려운 새로운 수학적 알고리즘으로 대체하는 기술을 말한다. 양자컴퓨터 시대에도 안전하게 데이터를 암호화하고 전자서명을 수행할 수 있게 설계한 차세대 암호기술이다. 기존 인터넷과 네트워크 인프라를 그대로 활용할 수 있는 장점이 있다. 별도의 양자 통신 장비를 설치할 필요 없이 소프트웨어나 펌웨어를 업데이트하는 방식으로 적용할 수 있는 것이다.\n\n반면 QKD는 데이터를 암호화하는 기술이 아니라, 암호화에 사용할 비밀키를 안전하게 전달하는 기술이다. 양자의 '관측하면 상태가 변한다'는 성질과 '복제할 수 없다'는 성질을 이용, 키를 전송하는 과정에서 제3자가 도청하면 즉시 이를 탐지할 수 있게 한다. 이론적으로는 매우 높은 수준의 보안을 제공하지만, 양자 광원과 단일광자 검출기, 전용 광섬유 또는 위성 통신망 등 특수한 장비와 통신 환경이 필요하기 때문에 구축 비용이 높고 적용 범위에도 제약이 있다.\n\n미 국방부는 이번 전략 마련에 따라, 높은 수준의 보안을 제공하는 차세대 고신뢰 종단 암호장비(High Assurance End Cryptographic Units, HAECU)와 다양한 무기체계에 탑재되는 임베디드 암호모듈을 설계·개발·배치한다.\n\n미 국방부는 PQC로 전환에 대해 \"전장 환경에서 전투원의 통신을 안정적으로 유지하고, 분쟁 발생 시 발생할 수 있는 통신 및 정보보호 혼란을 최소화하며, 국내외에 배치된 지휘통제(C2) 체계를 양자컴퓨터 기반의 위협으로부터 보호하기 위한 것\"이라면서 \"현재 이러한 핵심 임무를 보호하기 위해 운용 중인 암호체계는 양자컴퓨팅을 악용하려는 적대 세력의 기술 발전으로 점차 심각한 위험에 직면하고 있다\"고 진단했다.\n\n이어 \"이러한 양자 위협 속에서도 임무 수행 능력을 지속적으로 보장하기 위해 PQC 전략을 발표했다\"면서 \"이 전략은 전투 수행 체계와 이를 지원하는 모든 시스템을 포스트 양자 암호 체계로 전환하기 위해 반드시 달성해야 할 구체적이고 실행 가능한 목표를 제시하고 있다\"고 설명했다. 앞으로 미 국방부는 관련 상용 기술을 보다 신속히 검증할 수 있는 절차를 마련하고 시험·평가 과정을 효율화할 계획이다. 산업계의 기술력과 국방부의 체계적인 PQC 협력 체계를 결합, 양자 위협에 대한 방어 능력을 보다 신속히 강화하고, PQC로의 전략적인 전환을 추진할 수 있는 토대를 마련할 예정이라고 덧붙였다.\n\n하지만 미 국방부는 이러한 포스트 양자 암호 전환이 \"결코 쉬운 과제가 아니다\"고 전제하며 \"현재 운용 중인 거의 모든 군사 자산이 어떤 형태로든 영향을 받게 될 것이다. 적대 세력은 지속적으로 취약점을 탐색하고 공격을 시도할 것이다. 또한 이 과정에서는 상당한 비용도 수반될 수밖에 없다\"고 짚었다. 그럼에도, 이 전략에 따라 치밀하고 신중하게 계획을 수립하고 이행한다면, 이러한 도전을 성공적으로 극복할 수 있을 것이라고 확신한다면서 \"이를 통해 장병들이 자신의 생명을 맡기는 전투 시스템이 결정적인 순간에도 안전하게 보호되고 안정적으로 운용될 것이라는 신뢰를 제공할 수 있을 것\"이라고 밝혔다.",
+      "published": "2026-06-28T07:08:34+00:00"
+    },
+    {
+      "id": "8cdc7d1fcba2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI·앤트로픽·MS와 함께…젠스파크, 'AI 워크스페이스' 생태계 키운다",
+      "link": "https://zdnet.co.kr/view/?no=20260627023326",
+      "summary": "[지디넷코리아][팔로알토(미국)=한정호 기자] 미국 인공지능(AI) 스타트업 젠스파크가 오픈AI, 앤트로픽, 마이크로소프트(MS)와의 협력을 앞세워 'AI 워크스페이스' 생태계 확장에 나선다. 프론티어 AI 모델과 클라우드 인프라, 기업용 업무 플랫폼을 결합해 지식 노동자를 위한 AI 에이전트 활용 범위를 넓힌다는 전략이다.젠스파크는 26일(현지시간) 미국 팔로알토 본사에서 진행한 미디어 투어에서 오픈AI·앤트로픽·MS와의 기술 파트너십 현황과 엔터프라이즈 AI 워크스페이스 확장 전략을 발표했다.",
+      "content": "한국·일본 기업 공략 추진…AI 업무 플랫폼 공동 확장\n\n컴퓨팅 입력 :2026/06/28 15:01\n\n[팔로알토(미국)=한정호 기자] 미국 인공지능(AI) 스타트업 젠스파크가 오픈AI, 앤트로픽, 마이크로소프트(MS)와의 협력을 앞세워 'AI 워크스페이스' 생태계 확장에 나선다. 프론티어 AI 모델과 클라우드 인프라, 기업용 업무 플랫폼을 결합해 지식 노동자를 위한 AI 에이전트 활용 범위를 넓힌다는 전략이다.\n\n젠스파크는 26일(현지시간) 미국 팔로알토 본사에서 진행한 미디어 투어에서 오픈AI·앤트로픽·MS와의 기술 파트너십 현황과 엔터프라이즈 AI 워크스페이스 확장 전략을 발표했다.\n\n2023년 12월 설립한 젠스파크는 특정 AI 모델을 직접 개발하기보다 주요 AI 기업의 모델과 인프라를 업무 목적에 맞게 조합하는 전략을 택하고 있다. 사용자가 어떤 모델을 써야 할지 직접 고르지 않아도 문서 작성, 자료 조사, 발표자료 제작, 실시간 통화, 에이전트 자동화 등 업무별로 적합한 AI를 제공하는 플랫폼 방식이다.\n\n오픈AI와 젠스파크의 협력은 약 1년 반 전부터 시작됐다. 마크 마나라 오픈AI 스타트업 총괄은 젠스파크가 초기부터 오픈AI 모델을 실제 제품에 적용하며 모델 개선에 필요한 피드백을 제공해왔다고 설명했다.\n\n마나라 총괄은 \"젠스파크처럼 실제 사용자가 있는 애플리케이션 기업과 일하는 것은 벤치마크 성능을 높이는 것과 다르다\"며 \"모델이 제품 안에서 어떻게 동작하는지, 어떤 부분이 충분하지 않은지에 대한 피드백이 연구 방향을 정하는 데 도움이 된다\"고 말했다.\n\n양사는 실시간 API, 음성 기반 인터페이스, 슈퍼 에이전트, 이미지 생성, 프레젠테이션 제작 등 다양한 영역에서 협업 중이다. 젠스파크는 오픈AI의 실시간 음성 모델을 활용해 사용자가 AI 에이전트와 대화하며 업무를 지시할 수 있는 기능을 구현했다.\n\n에릭 징 젠스파크 공동창업자 겸 최고경영자(CEO)는 \"우리는 오픈AI의 프론티어 모델을 지식 노동자가 쉽게 사용할 수 있는 제품 경험으로 바꾸는 데 집중해왔다\"며 \"실시간 API와 이미지 생성 모델은 우리 제품의 새로운 사용 시나리오를 열어줬다\"고 밝혔다.\n\n마나라 총괄은 오픈AI가 앞으로도 스타트업과 개발자, 기업이 모델 위에서 다양한 애플리케이션을 만들 수 있도록 플랫폼 역할을 강화하겠다고 강조했다. 그는 \"오픈AI는 플랫폼이 되고자 한다\"며 \"좋은 모델을 만들고 고객과 스타트업의 피드백을 반영해 더 나은 사용자 경험을 만들 수 있도록 지원하는 것이 우리의 역할\"이라고 설명했다.\n\n앤트로픽과 AI 에이전트 함께 키운다\n\n앤트로픽과의 협력은 젠스파크의 슈퍼 에이전트와 내부 개발 생산성 향상에 초점이 맞춰져 있다. 대니 스타인 앤트로픽 AI 네이티브 전략 GTM 담당은 젠스파크를 앤트로픽의 핵심 AI 네이티브 파트너 가운데 하나로 소개했다.\n\n스타인 담당은 \"젠스파크는 AI 이전에는 존재하기 어려웠던 AI 네이티브 기업의 대표 사례\"라며 \"모델이 현재 수준의 지능에 도달했기 때문에 이런 기업이 나올 수 있었다\"고 말했다.\n\n케이 주 젠스파크 공동창업자 겸 최고기술책임자(CTO)는 앤트로픽과의 협력이 단순한 API 사용 관계가 아니라고 짚었다. 그는 모델 방향성, 초기 모델 테스트, 연구 기반 협업, 제품 적용 방식 등을 놓고 앤트로픽과 긴밀히 소통하고 있다고 설명했다.\n\n그는 \"앤트로픽과는 모델 방향성과 초기 테스트 단계부터 매우 깊게 협력하고 있다\"며 \"우리는 모델의 능력을 제품 안에서 최대한 잘 활용하기 위해 함께 실험하고 피드백을 주고받고 있다\"고 덧붙였다.\n\n젠스파크는 앤트로픽의 클로드 코드 등 AI 코딩 도구를 내부 개발 과정에도 적극 활용 중이다. 케이 CTO는 AI 기반 코드 생성과 리뷰, 테스트 자동화를 통해 소규모 엔지니어 조직으로도 빠르게 기능을 출시할 수 있게 됐다고 밝혔다.\n\n스타인 담당은 \"가장 혁신적인 AI 기업들은 내부 업무에 AI를 먼저 적용하고 그 경험을 다시 고객용 제품으로 확장한다\"며 \"젠스파크는 이런 내부 활용과 외부 제품화의 선순환을 잘 보여주는 사례\"라고 강조했다.\n\nMS와 한국·일본 엔터프라이즈 AI 시장 공략\n\nMS와의 협력은 인프라와 제품 통합, 시장 확대를 아우른다. 젠스파크는 창업 초기부터 MS 팀즈를 내부 협업 도구로 사용하고 제품 인프라도 MS 애저 클라우드 위에 구축해왔다.\n\n마얀크 와드화 MS 아세안 사장은 양사 협력을 제품 통합, 고투마켓, 고객 참여 등 세 축으로 설명했다. MS 365와 엑셀, 파워포인트 등 업무 도구 안에서 젠스파크의 AI 기능을 활용할 수 있도록 하는 동시에 한국과 일본 등 핵심 시장에서 공동으로 기업 고객을 공략한다는 구상이다.\n\n와드화 사장은 \"젠스파크는 단순히 프레젠테이션을 만드는 단계에서 복잡한 워크플로를 AI 에이전트로 처리하는 단계로 이동하고 있다\"며 \"MS는 신뢰할 수 있는 클라우드와 보안, 거버넌스, 협업 도구를 제공해 기업이 AI를 실험 단계에서 실제 확산 단계로 옮길 수 있도록 돕고 있다\"고 말했다.\n\n젠스파크는 MS의 주요 고객 브리핑 공간인 이그제큐티브 브리핑 센터(EBC)에도 소개되고 있다. 에릭 CEO는 MS EBC에 젠스파크 부스가 마련돼 있으며 코파일럿 조직과도 제품 통합 방안을 논의하고 있다고 설명했다.\n\n그는 \"MS는 제품 회사이자 플랫폼 회사, 인프라 회사\"라며 \"기업 고객이 데이터 저장 위치를 물을 때 MS 애저 기반이라고 설명할 수 있다는 점은 우리가 신뢰를 얻는 데 중요한 요소\"라고 말했다.\n\n젠스파크는 향후 오픈AI·앤트로픽·MS와의 협력을 바탕으로 한국과 일본 등 아시아 엔터프라이즈 시장 공략도 강화할 계획이다. 프론티어 모델과 안전한 클라우드 인프라, 업무 애플리케이션을 결합해 기업이 AI 에이전트를 실제 업무에 적용할 수 있도록 지원한다는 목표다.\n\n와드화 사장은 \"한국과 일본은 가장 흥미로운 AI 시장 가운데 두 곳\"이라며 \"젠스파크와 MS가 함께 엔터프라이즈 플랫폼을 제공하면 기업들이 AI를 실험에서 실제 업무 확산 단계로 더 빠르게 옮길 수 있을 것\"이라고 강조했다.",
+      "published": "2026-06-28T06:01:03+00:00"
+    },
+    {
+      "id": "9c086fa4101c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD e게임] 중세시대 좀비 생존의 잠재력…'갓 세이브 버밍엄' CBT 해보니",
+      "link": "https://zdnet.co.kr/view/?no=20260628143746",
+      "summary": "[지디넷코리아]카카오게임즈가 퍼블리싱하고 오션드라이브 스튜디오가 개발 중인 중세 좀비 생존 시뮬레이션 게임 '갓 세이브 버밍엄'이 비공개 베타 테스트를 진행했다.이번 테스트는 생존 및 좀비 장르 팬들의 피드백을 수렴하고, 그간 수정된 편의성과 밸런스를 점검하기 위해 마련됐다. 한국 시간으로는 오는 30일 오전 2시에 종료된다.게임의 배경은 중세 시대 영국의 버밍엄이다. 이용자는 좀비 사태가 터진 마을의 유일한 생존자가 돼, 좀비로 변해버린 주민들을 피해 처절한 사투를 벌여야 한다.직접 참여해 본 ",
+      "content": "중세 버밍엄 배경의 처절한 사투…확실한 코어 재미와 독창성 입증\n\n게임 입력 :2026/06/28 14:53\n\n카카오게임즈가 퍼블리싱하고 오션드라이브 스튜디오가 개발 중인 중세 좀비 생존 시뮬레이션 게임 '갓 세이브 버밍엄'이 비공개 베타 테스트를 진행했다.\n\n이번 테스트는 생존 및 좀비 장르 팬들의 피드백을 수렴하고, 그간 수정된 편의성과 밸런스를 점검하기 위해 마련됐다. 한국 시간으로는 오는 30일 오전 2시에 종료된다.\n\n게임의 배경은 중세 시대 영국의 버밍엄이다. 이용자는 좀비 사태가 터진 마을의 유일한 생존자가 돼, 좀비로 변해버린 주민들을 피해 처절한 사투를 벌여야 한다.\n\n직접 참여해 본 '갓 세이브 버밍엄'은 개발사가 추구하는 코어 콘텐츠의 방향성을 확실히 보여주는 동시에, 향후 '앞서 해보기(얼리 액세스)' 출시를 위해 다듬어야 할 과제도 명확히 남겼다.\n\n이번 테스트 버전은 캐릭터의 움직임이나 조작 반응 속도 면에서 만족스러웠다. 좀비물 특유의 긴박한 상황에서도 조작감에 불편함이 없어 이용자의 의도대로 기민하게 대처할 수 있었다.\n\n특히 이번 빌드는 별도의 저장(세이브) 기능을 제공하지 않는다. 단 한 번의 죽음이 세이브 포인트 없는 '처음부터 다시 시작'으로 이어지기 때문에, 플레이하는 내내 극도의 신중함과 팽팽한 긴장감이 유지된다.\n\n저장 기능이 없는 대신 게임 플레이 중 자원이 부족하지 않도록 여유 있게 구성돼 있었으며, 일종의 튜토리얼이자 퀘스트 역할을 하는 '일지'의 안내에 따라 차근차근 서바이벌에 적응할 수 있도록 설계된 점이 돋보였다.\n\n기본적인 조작감은 훌륭했으나, 환경 및 오브젝트와 상호작용하는 과정에서는 아직 다듬어지지 않은 투박함에 아쉬움이 남는다. 예를 들어 문을 당겨서 열 때 문이 캐릭터에 걸려 열리다 마는 등 자연스럽지 못한 물리적 충돌 현상이 여럿 발견됐다. 이러한 디테일 부족은 몰입감을 깨뜨리는 요소가 될 수 있어 개선이 필요해 보인다.\n\n테스트 목적을 고려했을 때 '저장 기능의 부재'는 명백한 양날의 검이었다. 개발사의 의도인지는 알 수 없으나 생존의 긴장감만큼은 확실히 극대화됐다. 그러나 테스터 입장에서는 다양한 환경을 탐색하고 콘텐츠를 검증하기에 피로감과 불편함으로 다가왔다.\n\n이번 테스트는 올해 1월부터 5월까지 개발된 빌드를 바탕으로 편의성 개선과 밸런스 조정, 버그 수정을 거쳐 공개된 자리였다. 개발사 측은 이번 테스트를 통해 이용자 피드백을 전폭적으로 수렴하고, 게임의 방향성을 공고히 하여 앞서 해보기 출시 전까지 개발에 전념하겠다는 확신을 전했다.\n\n'갓 세이브 버밍엄'은 중세 좀비 서바이벌이라는 독창적인 세계관과 코어 재미의 잠재력을 충분히 입증했다.\n\n다만, 이번에 공개된 버전은 유저 피드백을 받기 위한 준비 단계라기엔 다소 섣부른 감이 없지 않다. 순수한 게임성 검증을 위한 피드백 수집 목적이었는지, 혹은 시장의 관심도를 파악하기 위한 전략적 노출이었는지에 대해 여러 생각이 스치게 만든다.\n\n확실한 매력을 보여준 만큼, 이번 테스트를 통해 한층 완성도 높은 모습으로 앞서 해보기 무대에 서기를 기대해 본다.",
+      "published": "2026-06-28T05:53:54+00:00"
+    },
     {
       "id": "0766fc2ba641",
       "source": "ZDNet Korea",
@@ -148,18 +218,6 @@
       "published": "2026-06-28T03:54:18+00:00"
     },
     {
-      "id": "f5e0c8b84713",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "美 정부 AI 개입에 오픈AI·앤트로픽 전략 갈렸다",
-      "link": "https://zdnet.co.kr/view/?no=20260628120509",
-      "summary": "[지디넷코리아]오픈AI와 앤트로픽의 최신 인공지능(AI) 모델 공개 전략이 엇갈리고 있다. 오픈AI는 미국 정부 요청을 수용하며 출시 속도를 조절한 반면, 앤트로픽은 최신 모델 '페이블'을 둘러싼 행정부 압박에 공개를 철회했다. 샘 알트먼 오픈AI 최고경영자(CEO)의 실용주의와 다리오 아모데이 앤트로픽 CEO의 원칙론이 AI 규제 국면에서 서로 다른 선택으로 드러난 셈이다.제시카 레신 디인포메이션 창업자 겸 CEO는 28일 칼럼을 통해 주요 기술 기업 CEO들의 공통점으로 실용주의를 꼽았다. 그",
-      "content": "오픈AI '단계적 공개 수용' vs 앤트로픽 '출시 철회'…AI 규제 국면서 전략 시험대\n\n컴퓨팅 입력 :2026/06/28 12:53\n\n오픈AI와 앤트로픽의 최신 인공지능(AI) 모델 공개 전략이 엇갈리고 있다. 오픈AI는 미국 정부 요청을 수용하며 출시 속도를 조절한 반면, 앤트로픽은 최신 모델 '페이블'을 둘러싼 행정부 압박에 공개를 철회했다. 샘 알트먼 오픈AI 최고경영자(CEO)의 실용주의와 다리오 아모데이 앤트로픽 CEO의 원칙론이 AI 규제 국면에서 서로 다른 선택으로 드러난 셈이다.\n\n제시카 레신 디인포메이션 창업자 겸 CEO는 28일 칼럼을 통해 주요 기술 기업 CEO들의 공통점으로 실용주의를 꼽았다. 그는 20년간 기술 기업을 취재하며 가장 성공한 CEO들은 신념에만 기대기보다 시장과 정치, 고객 환경 변화에 맞춰 선택을 바꿔 왔다고 평가했다.\n\n레신 CEO는 마크 저커버그 메타 CEO와 일론 머스크 테슬라 CEO를 대표 사례로 들었다. 저커버그 CEO는 페이스북을 사람 연결 서비스에서 메타버스 기업으로, 다시 초지능 AI 기업으로 전환해 왔다. 콘텐츠 조정 정책도 정치적 환경에 따라 달라졌다는 비판을 받았지만, 레신 CEO는 이를 기술 기업 CEO가 보여 온 실용주의의 한 단면으로 봤다.\n\n머스크 CEO 역시 비슷한 사례로 언급됐다. 스페이스X는 한때 화성 이주를 핵심 비전으로 내세웠지만, 현실적 제약이 커지면서 사업 메시지와 우선순위를 계속 바꿔 왔다고 설명했다. 레신 CEO는 이런 변화가 약점으로 보일 수 있지만, 세계에서 가장 가치 있는 기업을 만들기 위해서는 불가피한 선택일 수 있다고 짚었다.\n\n이번 논의의 중심에는 알트먼 CEO가 있다. 디인포메이션은 전날 알트먼 CEO가 미국 연방정부 요청에 따라 오픈AI 최신 모델을 단계적으로 공개하는 데 동의했다고 보도했다. 레신 CEO는 이를 알트먼 CEO가 실용주의를 강점으로 활용하는 사례로 해석했다.\n\n알트먼 CEO는 그동안 말과 행동이 다르다는 비판을 받아 왔다. 비영리 조직으로 출발한 오픈AI를 영리 구조로 전환하고, 마이크로소프트(MS)와 대규모 컴퓨팅 계약을 성사시키며 AI 개발 자금과 인프라를 확보한 과정도 논란을 낳았다. 레신 CEO는 다수 투자자가 알트먼 CEO의 이 같은 선택을 대규모 AI 개발을 지속하기 위한 현실적 판단으로 받아들이고 있을 것으로 봤다.\n\n아모데이 CEO의 대응 방식도 AI 업계의 주요 변수로 떠올랐다. 그는 AI 위험성과 안전성에 대한 문제의식이 강한 기술자로 평가받는다. 특히 최신 모델 페이블 공개를 둘러싸고 미국 정부와 갈등을 빚은 뒤 AI 연구자와 엔지니어들 사이에서 원칙을 지켰다는 평가를 받고 있다.\n\n그러나 앤트로픽은 페이블 출시를 철회해 아쉬움을 남겼다. 아마존 앤디 재시 CEO 등이 해당 모델의 보안 취약성을 미국 행정부에 경고한 뒤 정부가 사실상 시장 철수를 압박한 것으로 알려졌다. 앤트로픽은 모델 문제가 중대하지 않다는 입장을 보였지만, 정부 압박 속에서 공개를 되돌린 것으로 전해졌다.\n\n앤트로픽 입장에선 정부 요구에 따라 모델 공개 방식이 바뀐 사례로 남을 수 있다는 점이 부담이다. AI 모델 통제권이 정부 개입에 흔들릴 수 있다는 우려가 커질 수 있기 때문이다. 반대로 경쟁사들이 정부와 타협해 모델을 먼저 시장에 내놓는 구도가 이어질 경우 원칙론이 기업 경쟁력 약화로 이어질 수 있다는 지적도 나온다.\n\n레신 CEO는 \"알트먼은 비영리 조직이 AI 개발 자금을 댈 수 없다는 점을 보고 친구이자 투자자인 비노드 코슬라를 설득해 이를 영리 구조로 바꿨다\"며 \"이후 마이크로소프트가 당시 세계에서 가장 유리한 컴퓨팅 계약 중 하나를 맺도록 설득했다\"고 평가했다.\n\n이어 \"앤트로픽이 원칙론을 고수하는 동안 더 실용적인 경쟁사들이 정부와 타협해 시장을 선점할 수 있다\"며 \"전례 없는 영향력을 가진 기술을 이끄는 아모데이도 승리하려면 실용적인 선택을 피하기 어려울 것\"이라고 덧붙였다.",
-      "published": "2026-06-28T03:53:17+00:00"
-    },
-    {
       "id": "14dc8dee3d50",
       "source": "AI타임스",
       "kind": "article",
@@ -170,30 +228,6 @@
       "summary": "스페이스X가 위성 인터넷 서비스 '스타링크(Starlink)'를 앞세워 미국 소비자 모바일 시장 직접 진출을 타진 중인 것으로 알려졌다. 그동안 통신사들과의 협력을 통한 보조적 역할에 머물렀던 것을 넘어, 독자적인 지상 이동통신망 구축까지 검토하며 새로운 수익원을 창출하겠다는 전략이다.파이낸셜타임스(FT)는 26일(현지시간) 소식통에 인용, 그윈 샷웰 스페이스X 사장이 최근 진행된 기업공개(IPO) 설명회에서 투자자들에게 이 같은 계획을 밝혔다고 보도했다.샷웰 사장은 스타링크의 일반 소비자 대상 ",
       "content": "스페이스X가 위성 인터넷 서비스 '스타링크(Starlink)'를 앞세워 미국 소비자 모바일 시장 직접 진출을 타진 중인 것으로 알려졌다. 그동안 통신사들과의 협력을 통한 보조적 역할에 머물렀던 것을 넘어, 독자적인 지상 이동통신망 구축까지 검토하며 새로운 수익원을 창출하겠다는 전략이다.\n\n파이낸셜타임스(FT)는 26일(현지시간) 소식통에 인용, 그윈 샷웰 스페이스X 사장이 최근 진행된 기업공개(IPO) 설명회에서 투자자들에게 이 같은 계획을 밝혔다고 보도했다.\n\n샷웰 사장은 스타링크의 일반 소비자 대상 모바일 상품 출시를 고려하고 있으며, 이를 지원하기 위한 자체 미국 지상 이동통신망 구축 방안도 검토 중이라고 전했다.\n\n이어 27일에는 스페이스X가 차터 커뮤니케이션즈와 소비자용 휴대폰 서비스 제공을 위한 파트너십에 대해 고위급 회담을 가졌다고 블룸버그가 전했다.\n\n이에 따르면, 미국 최대 가정용 인터넷 제공업체인 차터는 스페이스X의 전화 트래픽 일부를 자신들의 지상 인터넷 인프라를 통해 처리할 수 있다고 밝혔다.\n\n이번 움직임은 최근 250억달러(약 38조4500억원) 규모의 대형 채권 발행 성공 직후 나온 것으로, IPO 이후 급격한 성장과 새로운 수익원 창출을 요구하는 투자자들의 압박에 대응하기 위한 전략으로 해석됐다. 실제로 스타링크 모바일 사업은 단기 및 중장기 매출을 견인할 핵심 성장 축으로 꼽힌다.\n\n또 스페이스X의 모바일 소매 시장 진출 조짐은 지난해부터 포착됐다. 지난해 9월 경쟁사인 에코스타(EchoStar)로부터 170억달러를 들여 무선 주파수 라이선스를 매입한 바 있다. 전문가들은 당시 이 거래가 독자적인 소매 통신 서비스를 출시하기 위한 사전 작업으로 봤다.\n\n그동안 스페이스X는 T-모바일 등 기존 통신사들과 제휴해 지상 기지국이 닿지 않는 산간·오지 등에 위성 신호를 보완해 주는 기업 간 거래(B2B) 방식에 집중해 왔다.\n\n그러나 채권 발행 투자 설명서에 따르면, 스페이스X는 궁극적으로 농촌과 교외, 도심 등 사용자의 위치와 상관없이 가장 선호되는 연결 경험을 제공하며 미국의 3대 이동통신 사업자인 버라이즌 와이어리스, AT&T, T-모바일과 직접 경쟁하겠다는 뜻을 밝혔다. 지난 3월 기준 세계적으로 1030만명의 가입자를 확보한 기존 초고속 위성 인터넷 인프라에 모바일 서비스까지 더해 시너지를 내겠다는 구상이다.\n\n전문가들은 막대한 비용과 기술적 한계를 지적했다. 뉴스트리트 리서치의 데이터에 따르면, 미국의 기존 3대 이동통신사가 보유한 주파수 대역폭은 총 1020MHz에 달하지만, 스페이스X는 65MHz에 불과하다. 도심과 밀집 지역에서 원활한 모바일 서비스를 제공하기에는 대역폭이 턱없이 부족하다는 지적이다.\n\n또 전국 단위의 지상 모바일 네트워크를 새롭게 구축하고 무선 주파수를 추가로 확보하려면 수십억달러 이상의 막대한 자본이 지속적으로 투입돼야 한다는 점도 문제로 꼽혔다.\n\n이 때문에 이번 소매 시장 진출 선언이 기존 통신 파트너사들과의 수익 배분 협상에서 더 유리한 고지를 차지하기 위한 전략적 카드일 수 있다는 분석도 나왔다.\n\n데이비드 바든 뉴스트리트 리서치 파트너는 \"이미 포화 상태인 글로벌 이동통신 시장에서 독자적인 무선 네트워크를 구축하는 것은 믿기 힘들 정도로 어려운 일\"이라며 \"다만 이동통신사 파트너들과 최상의 수익 배분 계약을 이끌어내기 위한 '협상 시작점'으로 본다면 이 전략은 대단히 타당하며 영리한 움직임\"이라고 평가했다.",
       "published": "2026-06-28T03:39:29+00:00"
-    },
-    {
-      "id": "890e21636eb0",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "멀티모달 AI가 더 정확한 이유, 수학적으로 풀어보니…",
-      "link": "https://zdnet.co.kr/view/?no=20260628121529",
-      "summary": "[지디넷코리아]당연한 얘기 같지만, 멀티모달 인공지능(AI)은 한 종류 데이터만 학습한 AI보다 더 정확하다. 그러나 이게 왜 그런지, 수학적으로 설명하는 연구결과는 없었다.UNIST는 윤성환 인공지능대학원 교수팀이 이를 ‘손실 지형’ 평탄화 관점으로 규명했다고 28일 밝혔다.멀티모달 학습은 이미지, 음성, 텍스트처럼 서로 다른 ‘모달리티’ 데이터를 함께 활용하기 때문에 보통의 AI보다 대상이나 상황 인식이 더 뛰어난 학습 방식이다.연구팀에 따르면, 음성이나 이미지와 같은 여러 모달리티 데이터를 ",
-      "content": "UNIST, 손실지형 평탄화 관점으로 접근…DML 제안도\n\n과학 입력 :2026/06/28 12:15\n\n당연한 얘기 같지만, 멀티모달 인공지능(AI)은 한 종류 데이터만 학습한 AI보다 더 정확하다. 그러나 이게 왜 그런지, 수학적으로 설명하는 연구결과는 없었다.\n\nUNIST는 윤성환 인공지능대학원 교수팀이 이를 ‘손실 지형’ 평탄화 관점으로 규명했다고 28일 밝혔다.\n\n멀티모달 학습은 이미지, 음성, 텍스트처럼 서로 다른 ‘모달리티’ 데이터를 함께 활용하기 때문에 보통의 AI보다 대상이나 상황 인식이 더 뛰어난 학습 방식이다.\n\n연구팀에 따르면, 음성이나 이미지와 같은 여러 모달리티 데이터를 함께 학습하는 경우 '손실 지형'이 더 평탄해져 학습 과정에서 배우지 못한 상황에 대응하는 능력인 ‘강건성’이 향상된다.\n\n'손실 지형'은 AI 모델 학습 오차가 모델 파라미터에 따라 어떻게 변하는지를 지형처럼 나타내는 것을 말한다. 손실지형이 날카로우면, 성능이 크게 흔들릴 수 있다. 반면 넓고 평탄하게 나타나면, 데이터나 잡음에 상대적으로 안정적인 성능을 유지한다.\n\n연구팀은 멀티모달 학습이 '손실지형'을 평탄화하는 이유를 '합성곱 스무딩 효과' 발생으로 설명했다. 서로 다른 모달리티 정보가 학습 과정에서 다양한 변화를 제공하면서 '손실지형'의 급격한 굴곡을 완화하는 이론으로 설명한 것.\n\n윤성환 교수는 \"멀티모달 학습 손실함수가 단일 모달리티 손실 함수에 다른 모달리티 데이터 분포를 합성곱한 형태로 표현될 수 있음을 이론적으로 밝힌 것\"이라고 설명했다.\n\n연구팀은 또 멀티모달 손실 지형의 최대 곡률이 단일 모달리티보다 커지지 않으며, 주파수 관점에서도 불규칙한 고주파 성분이 감소한다는 사실도 증명했다. 이는 멀티모달 학습이 별도의 평탄화 기법 없이도 모델을 더 완만하고 안정적인 손실 지형으로 유도할 수 있음을 의미한다.\n\n연구팀은 이같은 연구를 바탕으로 분포적 멀티모달 학습(DML) 방법을 제안했다. 기존 방식이 정확하게 대응하는 이미지와 문장, 영상과 음성만을 고정된 쌍으로 사용했다면, DML은 동일한 정답이나 의미를 공유하는 샘플들 사이에서 서로 다른 모달리티를 확률적으로 다시 조합한다.\n\n윤성환 교수는 “향후 데이터를 보다 효율적으로 활용하면서도, 외부 노이즈나 교란에도 흔들림 없이 안정적으로 작동하는 강건한 AI를 설계하는 중요한 기반 기술이 될 것”이라고 말했다.",
-      "published": "2026-06-28T03:15:29+00:00"
-    },
-    {
-      "id": "101984d85734",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "카카오 노조, 29일 ‘로그아웃데이’ 돌입…노사 협상 끝내 불발",
-      "link": "https://zdnet.co.kr/view/?no=20260628113102",
-      "summary": "[지디넷코리아]카카오 노사가 성과급·경영진 관련 갈등을 해소하지 못하면서, 노동조합이 예정대로 파업 수순을 밟게 됐다. 노조는 파업 참여 인원을 파악 중인 상태로, 회사는 대응 체계를 가동해 안정적인 서비스를 이어간다는 방침이다.28일 IT업계에 따르면, 카카오 노조는 오는 29일 ‘로그아웃데이’를 진행한다. 로그아웃데이는 전일 연차 또는 전일 오프를 통해 하루 동안 업무를 진행하지 않는 방식을 뜻한다.카카오 노조와 회사 측은 지난 10일 부분 파업 이후 교섭을 실시했으나 합의할 수 있는 수준에 ",
-      "content": "노조 \"파업 참여 인원 파악 중\"...회사 \"대응 체계 가동\"\n\n인터넷 입력 :2026/06/28 12:03\n\n카카오 노사가 성과급·경영진 관련 갈등을 해소하지 못하면서, 노동조합이 예정대로 파업 수순을 밟게 됐다. 노조는 파업 참여 인원을 파악 중인 상태로, 회사는 대응 체계를 가동해 안정적인 서비스를 이어간다는 방침이다.\n\n28일 IT업계에 따르면, 카카오 노조는 오는 29일 ‘로그아웃데이’를 진행한다. 로그아웃데이는 전일 연차 또는 전일 오프를 통해 하루 동안 업무를 진행하지 않는 방식을 뜻한다.\n\n카카오 노조와 회사 측은 지난 10일 부분 파업 이후 교섭을 실시했으나 합의할 수 있는 수준에 이르지 못하면서 이번 파업이 현실화됐다. 교섭의 경우 법인별로, 사안별로 차이는 있으나 본사와는 3~4차례 가량 진행됐다.\n\n이번 파업 참여 대상은 ▲ 카카오 본사 ▲카카오페이 ▲카카오엔터프라이즈 ▲디케이테크인 ▲엑스엘게임즈 5개 법인 조합원이다. 노조에 따르면 이들이 가입된 카카오지회 소속 조합원 수는 5000명 이상이다.\n\n이달 10일 열린 부분 파업에는 카카오 본사에서만 1000명, 그룹사 전체에서는 1500여 명이 참여한 것으로 노조는 추산하고 있다. 반면 경찰은 정오 기준 500명이 행진에 참여한 것으로 보고 있다.\n\n노조는 이번 파업 참여 인원을 아직 파악 중인 상태다.\n\n이번 파업은 성과급 및 보상체계, 경영진 책임 소재를 둘러싼 갈등에서 노사 간 합의점을 찾지 못하면서 시작됐다. 지난달 27일 경기 지방노동위원회에서 열린 2차 조정이 결렬된 것이 시발점으로, 회사와 노조는 지난해 영업이익의 13~14%를 성과급으로 보상하는 방안과 500만원 규모의 양도제한조건부주식(RSU)를 성과급으로 산입할 것인지를 두고 의견 차이를 보였던 것으로 알려졌다.\n\n이와 관련해 카카오 본사는 “현재 노조가 요구하는 성과 보상안의 총 규모는 영업이익 기준으로 고려할 때 회사 경영에 큰 부담이 되는 수준”이라는 입장을 밝히기도 했다. 반대로 노조는 “(노조의 요구안이) 만약 정말 어려웠다면 이전에 말했어야 한다. 그럴 거면 임원 급여는 왜 그렇게 많이 올렸냐”며 팽팽히 맞서고 있다.\n\n노조의 파업이 회사가 운영하는 카카오톡에도 영향을 미칠지에 시선이 쏠리는 가운데, 영향은 크지 않을 전망이다.\n\n부분 파업 당시 서승욱 카카오 노조 지회장은 “그날 중요한 행사가 있거나 이러지 않는 이상 이를 피해 파업 일자를 잡을 것”이라는 입장을 견지해왔다.\n\n카카오 본사도 기존과 같이 필요한 대응 시스템을 가동하며 안정적인 서비스 운영을 위해 노력한다는 방침이다. 카카오 관계자는 “대응 체계를 가동하고 있고, 협의를 위해 성실히 대화에 임하겠다”고 말했다.",
-      "published": "2026-06-28T03:03:07+00:00"
     },
     {
       "id": "f977793dfe86",
@@ -220,6 +254,18 @@
       "published": "2026-06-28T02:44:40+00:00"
     },
     {
+      "id": "01018ed8b2e1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points: 214 # Comments: 56",
+      "content": "Marfa Public Radio is literally never asleep. It operates 24/7 (except when lightning strikes) and there’s so much that goes on behind the scenes to make this happen– fundraising, compliance, protocols, emergency response, maintenance…the list goes on and on.\n\nDo you lay awake wondering what FCC compliance entails? Ever wondered what NPR's code of journalistic ethics involves for the newsroom?\n\nWe may never be able to explain what it takes to operate the station, but we can put you to sleep trying to.\n\nFor this fall membership drive we bring you Marfa Public Radio Puts You to Sleep. It's a sleep podcast wherein we read you the boring documents essential to our jobs, in the hopes we might lull you into slumber.\n\nWe do actually hope that you fall asleep listening to this, but when you wake up, help us continue to read our boring documents and keep Marfa Public Radio awake by donating to the station at marfapublicradio.org/donate .",
+      "published": "2026-06-28T02:23:08+00:00"
+    },
+    {
       "id": "c68a916ab017",
       "source": "AI타임스",
       "kind": "article",
@@ -230,6 +276,18 @@
       "summary": "테슬라가 운전자 보조 시스템인 'FSD' 작동 중 발생한 치명적인 보행자 사망 사고 소송을 최근 합의로 종결했다. 일론 머스크 CEO가 로보택시와 AI 중심의 미래 비전을 가속화하는 시점에서, 이번 합의가 카메라 기반 자율주행 시스템의 기술적 결함 논란에 어떤 파장을 미칠지 주목된다.블룸버그에 따르면, 테슬라는 지난 2023년 애리조나 고속도로에서 FSD를 활성화한 채 주행 중이던 '모델 Y'가 도로 위의 71세 보행자를 충돌해 사망에 이르게 한 사건의 유족 측 소송을 해결했다. 이는 테슬라 FS",
       "content": "테슬라가 운전자 보조 시스템인 'FSD' 작동 중 발생한 치명적인 보행자 사망 사고 소송을 최근 합의로 종결했다. 일론 머스크 CEO가 로보택시와 AI 중심의 미래 비전을 가속화하는 시점에서, 이번 합의가 카메라 기반 자율주행 시스템의 기술적 결함 논란에 어떤 파장을 미칠지 주목된다.\n\n블룸버그에 따르면, 테슬라는 지난 2023년 애리조나 고속도로에서 FSD를 활성화한 채 주행 중이던 '모델 Y'가 도로 위의 71세 보행자를 충돌해 사망에 이르게 한 사건의 유족 측 소송을 해결했다.\n\n이는 테슬라 FSD 기술과 관련된 최초의 보행자 사망 사고다. 유족 대리인인 더스틴 버치 변호사는 26일(현지시간) 사건이 합의로 마무리되었음을 밝혔으나, 구체적인 조건은 비공개에 부쳤다. 테슬라도 논평을 거부했다.\n\n이번 사고는 개별 소송을 넘어 미 도로교통안전국(NHTSA)의 고강도 조사를 촉발하는 계기가 됐다. NHTSA는 올해 조사 단계를 리콜 직전 단계인 '엔지니어링 분석'으로 격상하며 FSD의 센서 취약점을 정조준하고 있다.\n\n규제 당국이 지적한 핵심은 테슬라가 고집해 온 카메라 전용 시스템 '테슬라 비전'의 물리적 한계다. 테슬라는 다른 회사와 달리, 레이더나 라이더 등 센서 시스템을 사용하지 않고 비전 AI에 의존한다.\n\nNHTSA는 역광, 먼지, 안개 등 카메라 시야를 방해하는 일반적인 도로 환경에서 시스템이 성능 저하를 감지하지 못하거나, 운전자가 개입할 충분한 경고 시간을 제공하지 못했다고 발표했다. 특히 테슬라의 답변서 분석 결과 유사한 환경에서 앞 차량을 추적하지 못해 발생한 추가 충돌 사고들이 무더기로 드러나기도 했다.\n\n일부 자동차 안전 전문가들이 시스템 결함을 지속해서 경고하는 가운데, 테슬라 경영진은 지난 4월 실적 발표에서 구형 차량의 카메라 부품 교체 작업을 진행 중이라고 밝히며 진화에 나선 상태다.\n\n그러나 글로벌 규제 당국의 정밀 조사와 기술적 신뢰도 의문이 이어지면서, FSD의 글로벌 승인과 완전 자율주행 상용화 시점은 당초 예상보다 지연될 가능성이 제기됐다.",
       "published": "2026-06-28T02:15:28+00:00"
+    },
+    {
+      "id": "3a76207bbfb5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "link": "https://jayacunzo.com/blog/your-move-chief",
+      "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 212 # Comments: 118",
+      "content": "There's a moment in the movie Good Will Hunting which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.\n\nSean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area is impossibly green, surrounded by willow trees and a sparkling pond and parents chasing their kids who are chasing some mallards who are chasing their ducklings.\n\nIf you pause the movie scene at just the right moment, you can actually see the exact spot my wife and I took our wedding photos as we tortured 14 of our closest friends in 96-degree humidity one July afternoon.\n\nIn this particular moment of the film, Robin Williams delivers a legendary speech.\n\nThe entire thing is worth watching (allow for five minutes of sitting still afterwards), but in addition to the video, I’ve placed the transcript below with my own emphasis added.\n\nIf I asked you about art, you’d probably give me the skinny on every art book ever written. Michelangelo? You know a lot about him. Life’s work, political aspirations, him and the pope, sexual orientation, the whole works, right? But I bet you can’t tell me what it smells like in the Sistine Chapel. You’ve never actually stood there and looked up at that beautiful ceiling. Seen that.\n\nIf I asked you about women, you’d probably give me a syllabus of your personal favorites. You may have even been laid a few times. But you can’t tell me what it feels like to wake up next to a woman and feel truly happy. ​\n\nYou’re a tough kid. I ask you about war, and you’d probably, uh, throw Shakespeare at me, right? “Once more into the breach, dear friends.” But you’ve never been near one. You’ve never held your best friend’s head in your lap and watched him gasp his last breath, looking to you for help.\n\nAnd if I asked you about love you probably quote me a sonnet. But you’ve never looked at a woman and been totally vulnerable. Known someone could level you with her eyes. Feeling like God put an angel on earth just for you, who could rescue you from the depths of hell.\n\nAnd you wouldn’t know what it’s like to be her angel and to have that love for her to be there forever. Through anything. Through cancer. You wouldn’t know about sleeping sitting up in a hospital room for two months holding her hand because the doctors could see in your eyes that the term \"visiting hours\" doesn't apply to you.\n\nYou don’t know about real loss, because that only occurs when you love something more than you love yourself. I doubt you’ve ever dared to love anybody that much.\n\nI look at you; I don’t see an intelligent, confident man; I see a cocky, scared shitless kid. But you’re a genius, Will. No one denies that. No one could possibly understand the depths of you. But you presume to know everything about me because you saw a painting of mine and you ripped my fuckin’ life apart.\n\nYou’re an orphan right? Do you think I’d know the first thing about how hard your life has been, how you feel, who you are because I read Oliver Twist? Does that encapsulate you?\n\nPersonally, I don’t give a shit about all that, because you know what? I can’t learn anything from you I can’t read in some fuckin’ book. Unless you wanna talk about you. Who you are. And I’m fascinated. I’m in. But you don’t wanna do that, do you, sport? You’re terrified of what you might say.\n\n(Five minutes of stillness later...)\n\nOkay, I'm ready to talk about it.\n\nWithout saying it, he's saying it. There's a difference.\n\nThere's a difference between expertise and wisdom, between theory and experience, between knowing and living. Will has the first in spades. He's the human equivalent of ChatGPT, that's for sure. That gives him a smug attitude that because he's read the books and knows the theories, he's smart and capable and good. But Sean has something Will lacks. Experience. He's actually lived all those things firsthand. War, love, sickness, loss, hopes, dreams, failures, successes. Meanwhile, Will has never been outside Boston, and he's scared to let himself get close to anyone enough to get hurt.\n\nThat's this moment, summed up. That's what WE do as humans and why YOU matter right now, arguably more than ever.\n\nAI has read the internet. It can't read the room. It hasn't lived a life.\n\nIt knows. It does not feel nor experience. Because it does not live.\n\nBut you do, and right now, there are endless voices convincing you to stop living, mostly so they can sell you their \"secrets\" to success or their \"magic\" tools which profess to know the answers you couldn't possibly know yourself.\n\nWe've reached a dangerous moment. This moment threatens to convince too many of us that our lived experiences do not matter. I see it often. An artist will claim something like, \"AI has never fallen in love. It has never failed then persisted, with scar tissue emerging and dreams still in tact.\" Then people roll their eyes. I get it. I hear it. I know it feels squishy and easy to dismiss.\n\nLike a gnat buzzing your ear on a park bench.\n\nSo let's make it more concrete, shall we?\n\nThere is a very real difference between reading about war and being in war. Can we agree?\n\nReading about love and being in love are fundamentally different things. Yes?\n\nReading Oliver Twist [giant \"Not Equal To\" symbol] being an orphan.\n\nKnowing and living are different. And right now, the mere idea of \"knowing\" is winning out, when it's hilariously insufficient to do anything effective or meaningful or good. The internet and many voices using it would have us convinced that because there's so much to know and because someone else knows more and because a software tool can tell you things it \"knows,\" then all of that should cause you to sit down, shut up, stop feeling confident in what you've done or seen or felt. Because what's your life in the face of infinite knowledge?\n\nTurns out, everything.",
+      "published": "2026-06-28T01:28:10+00:00"
     },
     {
       "id": "0c3133354c30",
@@ -302,6 +360,18 @@
       "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocke",
       "content": "The company can legally buy RAM from CXMT, but it would carry serious reputational risks.\n\nApple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People’s Liberation Army, according to the Financial Times . The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources.\n\nLegally, Apple isn’t barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It’s possible that CXMT could still find itself the target of export controls for undermining US security. The company was on a list of proposed additions to the so-called “Entity List” by the Commerce Department, but held off because the White House was in the middle of trade negotiations with China.\n\nIt’s unclear if the administration would give its blessing to Apple. Tim Cook has spent significant time trying to build bridges with the Trump administration, presenting the president with gaudy statues and attending a screening of the Melania movie, directed by accused rapist Brett Ratner. But if the White House granted Apple permission, such a decision would likely face significant blowback. John Moolenaar, Republican chair of the House China committee, told the Financial Times that:\n\n“Apple choosing to partner with a Chinese military company would be a grave mistake... Helping the [Chinese Communist Party] succeed in its plans to dominate critical supply chains will make our country’s tech industry and economy more dependent on China at a time when we must build secure tech supply chains with our allies,”\n\nThis is the title for the native ad",
       "published": "2026-06-27T17:28:18+00:00"
+    },
+    {
+      "id": "0de3b32b43eb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "summary": "Related: Show HN: TownSquare, a tiny presence layer for websites - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments) Comments URL: https://news.ycombinator.com/item?id=48699928 Points: 224 # Comments: 93",
+      "content": "Published: June 12, 2026\n\nMaking , Internet , Town Square\n\nA few weeks ago, I added a silly, funny experiment on this website. I talked about it on this blog post . It was a tiny Town Square at the bottom of every page 2 .\n\nWhen you visit the site, you'll see a small strip populated by stick figures. Each figure represents another visitor currently browsing the website. You can see what page people are reading, walk around and send messages. For example, you could see someone reading the same article as you and start a discussion about it.\n\nThe goal wasn't to build another social network.\n\nIt was to bring back a small feeling that the web used to have: the sense that there are actual people on the other side of the screen.\n\nTown Square is intentionally tiny and forgetful. There are no accounts, no profiles, no follower counts, no permanent chat history. Messages exist only while people are there to read them.\n\nAfter several people asked me how they could add this to their own websites, I decided to open source it and provide a public server, so anyone can easily integrate Town Square into their site with no self-hosting required. I hope it encourages a few more websites to feel like places instead of pages.\n\nIf you would like to host it yourself, fork it or contribute with the project, the repo is https://github.com/cauenapier/TownSquare/\n\nIf you don't want to (or don't know how to) host it yourself, you can register your website on Town Square .\n\nI have a lot of ideas for what I could to next. It has been a fun, relaxing, small project so far.\n\nLike adding more props for the characters to interact and improving overal user experience on the chat feature. But I'm also very excited about the idea of implementing the functionality to connect your TownSquare with another website, like a neighbour. You would walk to the edge of the site and transport to the neighbour website, creating a network of townsquares. Like a Webring 1\n\nIf you like the idea and have requests, changes, or ideas for what Town Square could become, send me an email . I'd genuinely love to hear from you.\n\nOr the Indie Webring , as I have in the bottom of my page. ↩\n\nCheck it at the bottom of this page. ↩",
+      "published": "2026-06-27T17:11:20+00:00"
     },
     {
       "id": "e502f7ee039e",
