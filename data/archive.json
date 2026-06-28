@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-28T22:15:01.771775+00:00",
-  "count": 3847,
+  "updated_at": "2026-06-28T23:20:38.387543+00:00",
+  "count": 3851,
   "items": [
+    {
+      "id": "69f011c96a6e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AWS 현직 전문가들이 생각하는 피지컬 AI와 AI 커리어의 미래",
+      "link": "https://www.youtube.com/watch?v=TDWE59K_Df4",
+      "published": "2026-06-28T23:00:17+00:00",
+      "summary": ""
+    },
     {
       "id": "0f2cc1554600",
       "source": "The Verge",
@@ -47,6 +58,17 @@
       "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”"
     },
     {
+      "id": "2c879e84b563",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Librepods: AirPods liberated",
+      "link": "https://github.com/librepods-org/librepods",
+      "published": "2026-06-28T18:48:53+00:00",
+      "summary": "Article URL: https://github.com/librepods-org/librepods Comments URL: https://news.ycombinator.com/item?id=48710232 Points: 219 # Comments: 65"
+    },
+    {
       "id": "0e681b4d17f5",
       "source": "AI타임스",
       "kind": "article",
@@ -56,6 +78,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212203",
       "published": "2026-06-28T17:50:53+00:00",
       "summary": "최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다. GPU 가격 상승과 추론 수요 확대로 기업들의 AI 인프라 복잡성이 커진 데다, 저전력 NPU 등 하드웨어 선택지도 다양해졌기 때문이다.이러한 상황 속에서 2015년 설립 이후 ‘GPU 가상화’ 시장을 개척해 온 래블업(대표 신정규)이 기존 '모델 개발 및 사전 훈련' 중심에서 최근 수요가 급증한 '추론과 에이전트' 영역으로 비즈니스를 본격 확장하고 나섰다.그 중심에는 래블업의 ‘백엔드닷에이아이(Backen"
+    },
+    {
+      "id": "04b3752f254e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "published": "2026-06-28T17:50:47+00:00",
+      "summary": "Article URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/ Comments URL: https://news.ycombinator.com/item?id=48709670 Points: 295 # Comments: 125"
     },
     {
       "id": "b8b6cb342987",
@@ -900,6 +933,17 @@
       "category": "DEV",
       "lang": "ko",
       "title": "전세계 기업들을 관찰한 OpenAI 내부자가 알려주는 진짜 AX와 AI Native 되는 방법",
+      "link": "https://www.youtube.com/watch?v=0l5oJsjCPus",
+      "published": "2026-06-27T13:30:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "76e4ad8465d5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "‘재귀개선 시작됐습니다.’ OpenAI 내부자가 알려주는 AI 시대에 살아남는 방법과 AGI",
       "link": "https://www.youtube.com/watch?v=0l5oJsjCPus",
       "published": "2026-06-27T13:30:33+00:00",
       "summary": ""
