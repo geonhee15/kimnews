@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-29T17:44:55.558224+00:00",
-  "count": 3932,
+  "updated_at": "2026-06-29T19:27:13.248949+00:00",
+  "count": 3942,
   "items": [
+    {
+      "id": "396edcae95ae",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "published": "2026-06-29T18:52:03+00:00",
+      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn'"
+    },
+    {
+      "id": "253a48f3e884",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "published": "2026-06-29T18:21:31+00:00",
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks."
+    },
+    {
+      "id": "85bf1c227372",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "published": "2026-06-29T18:10:26+00:00",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+    },
+    {
+      "id": "d634097d91d4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "published": "2026-06-29T18:07:48+00:00",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country."
+    },
+    {
+      "id": "407645c88b74",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI agents are not your “coworkers”",
+      "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "published": "2026-06-29T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company no"
+    },
+    {
+      "id": "e98a7da165ac",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "At $499, Apple’s M3-powered iPad Air is a good deal",
+      "link": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
+      "published": "2026-06-29T17:49:12+00:00",
+      "summary": "Most of Apple’s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn’t a good time to consider buying an iPad, we found a deal worth considering that’s just under $500 r"
+    },
     {
       "id": "7d240ccd4da1",
       "source": "TechCrunch",
@@ -23,6 +89,17 @@
       "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
       "published": "2026-06-29T17:25:25+00:00",
       "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "5cabb2ba6bc8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "published": "2026-06-29T17:05:16+00:00",
+      "summary": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/ Comments URL: https://news.ycombinator.com/item?id=48721903 Points: 254 # Comments: 187"
     },
     {
       "id": "04fa67a6b27e",
@@ -58,6 +135,17 @@
       "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared "
     },
     {
+      "id": "6466789f1fa5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "published": "2026-06-29T16:07:15+00:00",
+      "summary": "Article URL: https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/ Comments URL: https://news.ycombinator.com/item?id=48721072 Points: 201 # Comments: 44"
+    },
+    {
       "id": "63283a88f4cf",
       "source": "The Verge",
       "kind": "article",
@@ -67,6 +155,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
       "published": "2026-06-29T16:00:00+00:00",
       "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are plann"
+    },
+    {
+      "id": "c8c2c04781f8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "published": "2026-06-29T15:54:24+00:00",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision Comments URL: https://news.ycombinator.com/item?id=48720924 Points: 221 # Comments: 83"
     },
     {
       "id": "7a73046531d7",
@@ -375,6 +474,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260629181003",
       "published": "2026-06-29T09:10:03+00:00",
       "summary": "[지디넷코리아]홍콩, 2026년 6월 29일 /PRNewswire/ -- 이콘 그룹(EACON Group Co., Ltd., 이하 이콘, 주식 코드: 07687.HK)이 6월 29일, H주 글로벌 공모를 개시하며 홍콩 상장 프로세스를 공식 시작했다. 홍콩거래소(HKEX) 웹사이트의 공고에 따르면 이콘은 전 세계적으로 2613만 2000주를 공모하여 약 홍콩달러 21억 2000만 달러에서 23억 달러의 총공모 수익을 목표로 한다. 세계 최대 광산 자율주행 솔루션 제공업체인 이콘은 홍콩 상장을 위해 "
+    },
+    {
+      "id": "1e7217d11136",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "link": "https://huggingface.co/blog/allenai/discoformer",
+      "published": "2026-06-29T09:02:48+00:00",
+      "summary": ""
     },
     {
       "id": "43bb8c22a68f",
