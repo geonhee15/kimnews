@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-29T19:27:13.248949+00:00",
-  "count": 3942,
+  "updated_at": "2026-06-29T21:07:56.007467+00:00",
+  "count": 3948,
   "items": [
+    {
+      "id": "8bc6d6d731ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "published": "2026-06-29T20:55:50+00:00",
+      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor, Chamath Palihapitiya, is no exception."
+    },
+    {
+      "id": "9342b3b384a2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "published": "2026-06-29T20:18:26+00:00",
+      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-c"
+    },
+    {
+      "id": "d5886a215f23",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "published": "2026-06-29T20:12:59+00:00",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
+    },
+    {
+      "id": "16ff2b99f16d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "published": "2026-06-29T19:47:35+00:00",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon."
+    },
     {
       "id": "396edcae95ae",
       "source": "The Verge",
@@ -12,6 +56,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "published": "2026-06-29T18:52:03+00:00",
       "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn'"
+    },
+    {
+      "id": "5b87e882f53c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "published": "2026-06-29T18:45:12+00:00",
+      "summary": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner."
     },
     {
       "id": "253a48f3e884",
@@ -650,6 +705,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212237",
       "published": "2026-06-29T06:13:34+00:00",
       "summary": "AI 생성 영상광양시가 제4기 청년정책협의체 위원을 공개 모집한다고 29일 밝혔다.모집 인원은 35명 내외다. 신청 기간은 7월3일부터 7월20일 오후 6시까지다. 광양시에 거주하거나 광양에서 직장, 학교, 청년단체, 비영리단체 활동을 하는 청년이면 신청할 수 있다.광양시 청년정책협의체는 청년 의견을 시정과 정책에 반영하기 위해 운영하는 청년 참여기구다. 청년들이 지역 문제를 발굴하고 정책을 제안하며, 정책 추진 과정에 참여하는 역할을 맡는다.협의체는 그동안 청년 정책과제 발굴, 정책 제안, 추진"
+    },
+    {
+      "id": "20383f7bba1d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST 제18대 총장에 배충식 교수 선임",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212247",
+      "published": "2026-06-29T06:05:00+00:00",
+      "summary": "한국과학기술원(KAIST) 이사회는 제18대 총장으로 배충식 기계공학과 교수를 선임했다고 29일 밝혔다.배 신임 총장은 서울대학교 항공공학과를 졸업하고 영국 임페리얼 칼리지 런던에서 기계공학 박사 학위를 취득했다.1998년 KAIST에 부임한 이후 기계항공공학부장, 공과대학 학장을 역임했으며, 에너지·탄소중립 분야의 연구 성과를 인정받아 한국전력공사 석좌교수로 선정됐다.코로나대응 과학기술 뉴딜사업단 단장과 탄소중립연료기술연구회 회장으로 활동하며 과학기술 기반 위기 대응 체계와 미래 에너지 전환 기"
     },
     {
       "id": "455353d18c38",
