@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-29T21:07:56.007467+00:00",
-  "count": 3948,
+  "updated_at": "2026-06-29T22:20:49.831786+00:00",
+  "count": 3952,
   "items": [
+    {
+      "id": "4b9e20f5d42d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월29일] '챗GPT' 비밀번호를 공유하면 안 되는 이유...\"넷플릭스와는 달라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212217",
+      "published": "2026-06-29T22:00:00+00:00",
+      "summary": "AI 챗봇의 대중화로 최근 국내외에서 챗GPT와 클로드, 제미나이 등의 유료 요금제 계정을 공유하는 사례가 늘고 있습니다. 마치 넷플릭스처럼, 가족이나 친구, 커플, 심지어 같은 프로젝트를 진행하는 직장인들이 아이디와 비밀번호를 공유하는 것입니다.그러나 이는 오픈AI나 앤트로픽이 엄격하게 금지하는 행위일뿐더러, 실제로 문제가 될 소지가 크다는 분석이 등장했습니다.월스트리트저널(WSJ)에 따르면, 전문가들은 AI 챗봇이 사용자의 '두 번째 뇌' 역할을 하는 만큼, 넷플릭스와 같은 OTT 계정 공유와"
+    },
+    {
+      "id": "e32e1896f892",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "published": "2026-06-29T21:49:26+00:00",
+      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found."
+    },
+    {
+      "id": "94c53b7e9240",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "published": "2026-06-29T21:09:43+00:00",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028."
+    },
     {
       "id": "8bc6d6d731ed",
       "source": "TechCrunch",
@@ -221,6 +254,17 @@
       "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
       "published": "2026-06-29T15:54:24+00:00",
       "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision Comments URL: https://news.ycombinator.com/item?id=48720924 Points: 221 # Comments: 83"
+    },
+    {
+      "id": "1b8781ee0938",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "published": "2026-06-29T15:42:17+00:00",
+      "summary": "Article URL: https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html Comments URL: https://news.ycombinator.com/item?id=48720758 Points: 200 # Comments: 87"
     },
     {
       "id": "7a73046531d7",
