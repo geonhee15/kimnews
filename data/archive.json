@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-06-29T11:30:56.872363+00:00",
-  "count": 3907,
+  "updated_at": "2026-06-29T15:00:23.143933+00:00",
+  "count": 3924,
   "items": [
+    {
+      "id": "57277b5a8d62",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Agent confidence on the technical frontier",
+      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "published": "2026-06-29T14:44:01+00:00",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the meas"
+    },
+    {
+      "id": "5a709ac142c3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "published": "2026-06-29T14:00:08+00:00",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands."
+    },
+    {
+      "id": "98b72a7ce43c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - GPT‑5.6, Bidi 1, 할라피뇨, Unite Seoul 2026, Claude Tag, 애플 가격, Wan Streamer, 시댄스 2.5, Krea 2 등",
+      "link": "https://www.youtube.com/watch?v=Jx8zMUI1pU8",
+      "published": "2026-06-29T14:00:08+00:00",
+      "summary": ""
+    },
+    {
+      "id": "46d0911b5ce3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
+      "link": "https://zdnet.co.kr/view/?no=20260629222727",
+      "published": "2026-06-29T13:27:27+00:00",
+      "summary": "[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다. 직접적 계기는 구글(Google) 모회사 알파벳(Alphabet)의 인재 이탈 소식이었지만, 더 근본적인 원인은 ‘AI 자본지출이 과연 언제 돈을 버느냐’는 회의였다.마이크로소프트(Microsoft·약 1,900억 달러), 알파벳(1,800억~1,900억"
+    },
+    {
+      "id": "34bff09b11e7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔키화이트햇, 오펜시브 보안 기술로 코스닥 기술성 평가 통과",
+      "link": "https://zdnet.co.kr/view/?no=20260629222500",
+      "published": "2026-06-29T13:25:00+00:00",
+      "summary": "[지디넷코리아]공격(오펜시브) 보안 전문기업 엔키화이트햇(대표 이성권)이 코스닥 기술특례 상장을 위한 기술성평가를 통과했다. 본격적인 기업공개(IPO) 절차에 돌입한다.기술성평가는 코스닥 기술특례 상장을 위한 핵심 관문이다. 기업의 기술력과 사업화 가능성을 종합적으로 검증하는 절차다. 한국거래소가 지정한 전문평가기관에서 일정 등급 이상을 획득해야 한다.29일 회사에 따르면, 엔키화이트햇은 주관사인 신영증권과 함께 상장을 준비 중이며, 최근 나이스디앤비와 한국기술신용평가(KTCB) 두 곳의 평가 기"
+    },
+    {
+      "id": "7c561cc656d9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+      "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "published": "2026-06-29T13:16:00+00:00",
+      "summary": "Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items."
+    },
+    {
+      "id": "a708630746b1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "금보원, ASM '아틀라스' 웹서비스로 29일 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260629221437",
+      "published": "2026-06-29T13:14:37+00:00",
+      "summary": "[지디넷코리아]금융보안원(원장 박상원)은 금융권 공격표면관리 도구인 '아틀라스(Atlas) ASM' 웹서비스를 29일부터 제공한다. 고성능·초지능형 AI 모델을 악용한 사이버위협에 선제적으로 대응하기 위한 조치다. ASM(Attack Surface Management, 공격표면관리)은 외부에 노출된 자산, 취약점 및 위협정보를 지속적으로 식별·분석해 보안 사각지대를 사전 관리하는 활동이다.최근 사이버 공격은 외부에 방치된 자산이나 취약점을 노리는 형태로 진화하고 있어, 사후 대응 중심의 기존 보안"
+    },
+    {
+      "id": "b547a0409136",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DJI, Osmo Pocket 4P 출시… 전문가 수준 촬영 경험으로 짐벌 카메라 기준 재정의",
+      "link": "https://zdnet.co.kr/view/?no=20260629221003",
+      "published": "2026-06-29T13:10:03+00:00",
+      "summary": "[지디넷코리아] DJI 최초의 듀얼 렌즈 짐벌 카메라, 17스톱 다이내믹 레인지 및 10-bit D-Log 2로 시네마틱 영상 제작 지원 중국 선전, 2026년 6월 29일 /PRNewswire/ -- 민간용 드론 및 창의적인 카메라 기술 분야의 글로벌 리더 DJI가 'Osmo Pocket 4P'를 공식 출시했다. DJI는 2015년 첫 Osmo 짐벌 카메라로 짐벌 카메라 카테고리를 개척한 데 이어, 2018년 첫 Osmo Pocket을 통해 포켓 카메라 시대를 열었다. 새롭게 출시되는 Osmo "
+    },
+    {
+      "id": "63f055de0f32",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "published": "2026-06-29T13:00:00+00:00",
+      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers."
+    },
+    {
+      "id": "9c91036fb228",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "지니언스, 버그바운티 포상금 상반기 1046% 증가",
+      "link": "https://zdnet.co.kr/view/?no=20260629215601",
+      "published": "2026-06-29T12:56:01+00:00",
+      "summary": "[지디넷코리아]사이버보안 전문기업 지니언스(대표 이동범)가 2026년 상반기 자사의 ‘보안 취약점 신고 포상제’를 운영한 결과, 취약점 접수 건수가 전년 동기 대비 약 129%, 지급 포상금은 약 1046% 증가한 것으로 나타났다.AI 기술 대중화와 고위험 취약점 출현이 맞물린 결과다. AI 기술이 급격히 발전하면서 화이트해커들의 AI 활용도 역시 크게 높아졌다. 특히 AI를 활용해 보안 취약점을 자동으로 찾아내는 탐지 활동이 새로운 트렌드로 자리매김하고 있다.보안 취약점 신고 포상제(이하 버그 "
+    },
+    {
+      "id": "1d70b57f35de",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국정보산업연합회-SK AX, AI인재 양성 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260629212919",
+      "published": "2026-06-29T12:29:19+00:00",
+      "summary": "[지디넷코리아]한국정보산업연합회(회장 양승욱, 정산연)는 29일 SK AX(사장 김완종)와 'AI 인재양성 사업 협력을 위한 업무협약(MOU)'을 체결했다.협약은 인공지능(AI) 분야 전문 인재를 체계적으로 양성하기 위해 마련됐다. 양 기관은 상호 협력 체계를 구축하고 AI 관련 교육·실습·역량 평가 등 인재육성 활동을 공동으로 추진, 산업 현장이 요구하는 실무형 AI 역량을 갖춘 인재를 양성하고 지속 가능한 AI 산업 생태계 조성에 기여한다.협약에 따라 ▲AI 역량을 갖춘 전문 인재 양성을 위한"
+    },
+    {
+      "id": "7e891cc41f0d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "법무법인 지평, AI인프라 센터 출범...센터장 송도영 변호사",
+      "link": "https://zdnet.co.kr/view/?no=20260629211300",
+      "published": "2026-06-29T12:13:00+00:00",
+      "summary": "[지디넷코리아]법무법인 지평이 인공지능 데이터센터(AI Data Center, 이하 AIDC)를 포함한 AI 인프라의 구축 및 운영 전반에 대한 통합 자문을 제공하는 ‘AI인프라(AI-Infra) 센터'를 출범시켰다.AIDC와 AIDC 운영에 필수인 전력, 용수 등 인공지능 인프라에 관한 포괄적인 자문을 제공하는 전문 센터를 설립한 것은 지평이 최초라고 29일 밝혔다. \"AI 산업 경쟁력이 개별모델 개발을 넘어 이를 뒷받침하는 AIDC의 신속한 구축과 안정적인 운영으로 빠르게 이동하는 가운데, 지"
+    },
+    {
+      "id": "8d6a36141a14",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "published": "2026-06-29T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. "
+    },
+    {
+      "id": "c68209fb6b72",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "수자원공사 \"서남권, 안정적 용수 공급 가능\"",
+      "link": "https://zdnet.co.kr/view/?no=20260629161444",
+      "published": "2026-06-29T12:08:31+00:00",
+      "summary": "[지디넷코리아]한수자원공사가 서남권에 메모리 반도체 클러스터 조성을 추진 중인 가운데, 산업용수 공급 계획에 대해 차질 없는 이행을 자신했다.윤석대 한국수자원공사 사장은 29일 청와대에서 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회' 토론 시간에 서남권 반도체 클러스터 구축에 필요한 용수 공급 대책에 대해 \"안정적인 공급이 가능하다\"고 밝혔다.윤 사장은 \"현재 서남권에 확보하고 있는 댐의 여유량과 조정량을 활용하면 40만~50만 톤 정도의 용수를 확보할 수 있다\"며 \"지자체 보유 댐과 발전"
+    },
+    {
+      "id": "863358b6d635",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI의 분석…한국 축구와 양궁, 결정적 차이는",
+      "link": "https://zdnet.co.kr/view/?no=20260629095359",
+      "published": "2026-06-29T12:07:42+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. '뽑는 방법이 결과를 바꾼다'는 말이 이렇게 실감 나게 다가온 적이 있을까요? 최근 홍명보 감독의 사퇴가 화제가 됐는데요, 그 배경에는 면접도 없이 인맥으로 선발됐다는 공정성 논란이 있었어요. 그렇게 뽑힌 감독이 이끈 대표팀은 월드컵에서 34위로 탈락했고, 결국 사퇴로 이어졌죠. 국민 여론도 차가웠어요. 현재 축구협회의 신뢰도는 단 12%에 불과한 반면, 같은 체육 분야인 양궁협회는 무려 94%의 신뢰를 받고 있거든요. 같은 나라, 같은 스포츠 생"
+    },
+    {
+      "id": "b9faa0ca88cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[리뷰] 듀얼 카메라로 구현한 브이로그 촬영 '올라운더'...오즈모 포켓 4P",
+      "link": "https://zdnet.co.kr/view/?no=20260625161005",
+      "published": "2026-06-29T12:00:01+00:00",
+      "summary": "[지디넷코리아]가벼운 일상 브이로그부터 전문가급 시네마 영상까지. 손안에 들어오는 작은 카메라 하나만 있으면 어떤 촬영이든 문제 없겠다. DJI의 최신형 포켓 짐벌 카메라 'DJI 오즈모 포켓(OSMO POCKET) 4P'를 기자가 일주일 간 직접 사용해 본 소감이다.오즈모 포켓 4P을 처음 마주한 순간, 가장 먼저 시선을 사로잡는 건 헤드 부분에 자리한 '듀얼 카메라'다. 풍경 촬영에 최적화된 광각용 렌즈와 최대 12배 줌으로 인물 및 장거리 촬영을 지원하는 중망원 렌즈가 각각 탑재됐다.그러면서"
+    },
     {
       "id": "7ff731f7393e",
       "source": "The Verge",
@@ -78,6 +254,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260629182851",
       "published": "2026-06-29T09:28:51+00:00",
       "summary": "[지디넷코리아]스팟파이어가 인공지능(AI)과 통합 분석 플랫폼으로 반도체 제조 공정 최적화 전략을 제시했다. 29일 IT 업계에 따르면 데이터 분석 플랫폼 기업 스팟파이어는 지난 16일까지 서울 여의도 콘래드 서울 호텔 6층 스튜디오 7에서 '스팟파이어 이노베이션 데이'를 열고 반도체 제조 산업을 위한 AI 기반 문제 해결 전략과 스마트 제조 혁신 방안을 소개했다.이번 세미나에서는 반도체 제조 현장에서 발생하는 복잡한 공정 문제를 AI와 데이터 분석 기술로 해결하는 방안이 집중적으로 다뤄졌다. 특"
+    },
+    {
+      "id": "1c8e1ddf44cb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "published": "2026-06-29T09:28:08+00:00",
+      "summary": "Article URL: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/ Comments URL: https://news.ycombinator.com/item?id=48716902 Points: 570 # Comments: 81"
     },
     {
       "id": "83130b4fe019",
