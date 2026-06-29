@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-06-29T15:00:23.143933+00:00",
-  "count": 3924,
+  "updated_at": "2026-06-29T17:44:55.558224+00:00",
+  "count": 3932,
   "items": [
+    {
+      "id": "7d240ccd4da1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "published": "2026-06-29T17:39:17+00:00",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September."
+    },
+    {
+      "id": "24a13fa1d9d3",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Highlights from Git 2.55",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "published": "2026-06-29T17:25:25+00:00",
+      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "04fa67a6b27e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "published": "2026-06-29T17:03:50+00:00",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents."
+    },
+    {
+      "id": "a0a3a6ceb4f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "published": "2026-06-29T16:29:04+00:00",
+      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service."
+    },
+    {
+      "id": "6afe4c31c977",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+      "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+      "published": "2026-06-29T16:10:20+00:00",
+      "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared "
+    },
+    {
+      "id": "63283a88f4cf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are plann"
+    },
+    {
+      "id": "7a73046531d7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Think tank games out how to respond to disaster scenarios in space warfare",
+      "link": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
+      "published": "2026-06-29T15:21:40+00:00",
+      "summary": "\"Where does the threshold live that an action necessitates some proportional reaction?\""
+    },
+    {
+      "id": "be916e84ed37",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These camera-free smart glasses made me feel like Tony Stark",
+      "link": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
+      "published": "2026-06-29T15:16:24+00:00",
+      "summary": "Xgimi, the Chinese company known for its all-in-one smart projectors, is expanding its portfolio with a new line of screen-equipped smart glasses that first debuted at CES 2026. Unlike AR glasses from companies like Meta and Snap, Xgimi’s new privacy-focused MemoMind One skip cam"
+    },
     {
       "id": "57277b5a8d62",
       "source": "MIT Tech Review",
