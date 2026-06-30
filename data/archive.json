@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-30T20:27:56.171738+00:00",
-  "count": 4073,
+  "updated_at": "2026-06-30T21:56:02.083828+00:00",
+  "count": 4082,
   "items": [
+    {
+      "id": "cae67d19dd28",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "published": "2026-06-30T21:53:28+00:00",
+      "summary": "The free open source agentic program is finally invading your phone."
+    },
+    {
+      "id": "cd0fb79dfb51",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires | Lex Fridman Podcast #498",
+      "link": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "published": "2026-06-30T21:16:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "6e58780123bd",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "link": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+      "published": "2026-06-30T20:38:51+00:00",
+      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs."
+    },
+    {
+      "id": "0bb2d91f32f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "published": "2026-06-30T20:33:48+00:00",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
+    },
+    {
+      "id": "2e3e73d50441",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "link": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "published": "2026-06-30T20:20:29+00:00",
+      "summary": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”"
+    },
+    {
+      "id": "2adb21bf69ca",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "published": "2026-06-30T20:03:14+00:00",
+      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions."
+    },
     {
       "id": "7d7360fe449c",
       "source": "The Verge",
@@ -223,6 +289,17 @@
       "summary": "A year in, National Design Studio delays plan to update government web standards."
     },
     {
+      "id": "1f89aa02b246",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nano Banana 2 Lite",
+      "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "published": "2026-06-30T16:48:37+00:00",
+      "summary": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/ Comments URL: https://news.ycombinator.com/item?id=48735444 Points: 241 # Comments: 90"
+    },
+    {
       "id": "405e6d9e72b1",
       "source": "Hacker News",
       "kind": "article",
@@ -386,6 +463,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260630220714",
       "published": "2026-06-30T13:07:14+00:00",
       "summary": "[지디넷코리아]한국정보보호산업협회(KISIA, 회장 김진수)는 서울 송파구 사무국에서 'AI 보안 인텔리전스 협의체(의장 박찬암 스틸리언 대표)' 회의를 29일 개최했다.국내 정보보호 산업계의 AI 보안 위협에 대응하기 위한 협력 방향성을 논의하고, 선제적으로 대응해야 할 주요 어젠다를 발굴하기 위해 마련했다. 회의에는 AI 기반 모의해킹 기술을 보유한 보안 인텔리전스 전문 기업을 비롯해 분야별 국내 주요 정보보호 기업의 임원급 책임자들이 참석했다.박찬암 의장은 논의에 앞서 정보보호 산업계가 민간"
+    },
+    {
+      "id": "07eaa54d5724",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Knoppix",
+      "link": "https://www.knopper.net/knoppix/index-en.html",
+      "published": "2026-06-30T12:54:01+00:00",
+      "summary": "Article URL: https://www.knopper.net/knoppix/index-en.html Comments URL: https://news.ycombinator.com/item?id=48732056 Points: 211 # Comments: 89"
     },
     {
       "id": "f45b7cc10e5d",
@@ -815,6 +903,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212279",
       "published": "2026-06-30T08:15:25+00:00",
       "summary": "구글이 '제미나이'의 개인화 이미지 생성 기능을 무료 이용자에게도 확대 제공한다. 사용자의 취향과 생활 방식, 사진까지 AI가 이해해 별도의 상세한 설명 없이도 맞춤형 이미지를 생성할 수 있는 것이 특징이다.구글은 29일(현지시간) 미국의 모든 사용자에게 제미나이 앱의 '퍼스널 인텔리전스(Personal Intelligence)' 기반 이미지 생성 기능을 무료로 제공한다고 발표했다.이 기능은 그동안 제미나이 플러스, 프로, 울트라 구독자만 사용할 수 있었지만, 이번부터 일반 무료 사용자도 이용할 "
+    },
+    {
+      "id": "b7c4f0afed5a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성, 호남에 425조 투자… 반도체·AI 데이터센터 거점 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212289",
+      "published": "2026-06-30T08:15:00+00:00",
+      "summary": "삼성은 30일 광주광역시 김대중컨벤션센터에서 열린 ‘서남권 첨단산업 발전비전 국민보고회’에서 호남 지역 투자 계획을 밝혔다.삼성은 ▲글로벌 최첨단 반도체 클러스터 ▲AI 데이터센터 ▲미래 에너지 등을 육성하기 위해 잠재력이 풍부한 호남에 총 425조원을 투자할 예정이다.우선, 광주에 삼성전자가 약 400조원을 투자해 신규 반도체 Fab 2개를 건설, 글로벌 반도체 거점으로 조성하겠다는 계획이다.급증할 것으로 예상되는 글로벌 반도체 수요에 대응하기 위해 기흥·화성·평택에 이어 용인국가산단 투자 일정"
     },
     {
       "id": "fc59bf16b642",
