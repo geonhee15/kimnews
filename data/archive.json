@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-06-30T16:36:01.612639+00:00",
-  "count": 4047,
+  "updated_at": "2026-06-30T18:24:26.342857+00:00",
+  "count": 4061,
   "items": [
+    {
+      "id": "6465881a8556",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "007 First Light’s developer lays off staff but claims its next franchise will continue",
+      "link": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+      "published": "2026-06-30T18:14:05+00:00",
+      "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has described Project Fantasy as an \"online fantasy "
+    },
+    {
+      "id": "9d849b4ba736",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "published": "2026-06-30T18:13:02+00:00",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip."
+    },
+    {
+      "id": "6f3817a6e9ce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "published": "2026-06-30T18:00:00+00:00",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
+    },
+    {
+      "id": "d1d51e6ec864",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "published": "2026-06-30T17:52:46+00:00",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language."
+    },
+    {
+      "id": "143bdfd74074",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Moto’s Tag 2 tracker is $20 for a limited time",
+      "link": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+      "published": "2026-06-30T17:38:23+00:00",
+      "summary": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola’s site at a special $19.99 launch price (originally $29.99). Ther"
+    },
+    {
+      "id": "3c980dd250b9",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How GitHub maintains compliance for open source dependencies",
+      "link": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+      "published": "2026-06-30T17:28:16+00:00",
+      "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "ee508877d5ae",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "published": "2026-06-30T17:19:15+00:00",
+      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not som"
+    },
+    {
+      "id": "8f4877e391fe",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rockstar workers push to unionize ahead of GTA VI’s launch",
+      "link": "https://www.theverge.com/games/959668/rockstar-games-workers-union-gta-vi",
+      "published": "2026-06-30T17:04:14+00:00",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games have submitted a request for their union, the IWGB Game Workers Union, to be voluntarily recognized, according to a press release. The request follows Rockstar firing more than 30 staffers last year in a move accused of bein"
+    },
+    {
+      "id": "f616ef366a8b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s killing off Tenor GIF searches in other apps",
+      "link": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+      "published": "2026-06-30T17:00:05+00:00",
+      "summary": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API today. While the Tenor website, along with its searchable GIF library, will remain live, platforms like X, Discord, Bluesky, and "
+    },
+    {
+      "id": "ecf4eaae9d3a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "published": "2026-06-30T17:00:00+00:00",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
+    },
+    {
+      "id": "8265e7ea0bc0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox weighs canceling Blade game and shuttering Arkane",
+      "link": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+      "published": "2026-06-30T17:00:00+00:00",
+      "summary": "Microsoft is set to announce a wave of layoffs for its Xbox studios and employees next week. Sources familiar with Microsoft's plans tell The Verge that the layoffs will lead to studio closures or spinoffs, potential mergers of studios, and canceled games. I understand Microsoft "
+    },
+    {
+      "id": "9ae7b47088e8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+      "published": "2026-06-30T16:59:02+00:00",
+      "summary": "A year in, National Design Studio delays plan to update government web standards."
+    },
     {
       "id": "30566a3c7fb8",
       "source": "Google DeepMind",
@@ -12,6 +144,17 @@
       "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "published": "2026-06-30T16:02:40+00:00",
       "summary": ""
+    },
+    {
+      "id": "40dbf0bfef5c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "published": "2026-06-30T15:44:24+00:00",
+      "summary": "Article URL: https://thereallo.dev/blog/claude-code-prompt-steganography Comments URL: https://news.ycombinator.com/item?id=48734373 Points: 631 # Comments: 194"
     },
     {
       "id": "445f1d8afe1d",
@@ -56,6 +199,17 @@
       "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
       "published": "2026-06-30T15:08:42+00:00",
       "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API."
+    },
+    {
+      "id": "7ed819b9440e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
+      "link": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "published": "2026-06-30T15:01:42+00:00",
+      "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity."
     },
     {
       "id": "110b25bb61e0",
