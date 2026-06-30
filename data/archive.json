@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-30T18:24:26.342857+00:00",
-  "count": 4061,
+  "updated_at": "2026-06-30T20:27:56.171738+00:00",
+  "count": 4073,
   "items": [
+    {
+      "id": "7d7360fe449c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Acer’s Swift Go 16 is a lot of laptop for $900",
+      "link": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+      "published": "2026-06-30T20:00:00+00:00",
+      "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep discount from its usual list pri"
+    },
+    {
+      "id": "5e5852a7465a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "published": "2026-06-30T19:24:51+00:00",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example sh"
+    },
+    {
+      "id": "eda6d519ce48",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+      "published": "2026-06-30T19:12:43+00:00",
+      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added."
+    },
+    {
+      "id": "b1804e5cad10",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "published": "2026-06-30T19:02:38+00:00",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content."
+    },
+    {
+      "id": "bd0cdc79eb2d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+      "link": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+      "published": "2026-06-30T18:42:00+00:00",
+      "summary": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal considering this is one of LG’s Primary RGB Tandem "
+    },
+    {
+      "id": "38cf9f0f5167",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "published": "2026-06-30T18:36:10+00:00",
+      "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create."
+    },
     {
       "id": "6465881a8556",
       "source": "The Verge",
@@ -34,6 +100,17 @@
       "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
       "published": "2026-06-30T18:00:00+00:00",
       "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
+    },
+    {
+      "id": "2c35ae22493d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published": "2026-06-30T17:59:52+00:00",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5 Comments URL: https://news.ycombinator.com/item?id=48736605 Points: 558 # Comments: 296"
     },
     {
       "id": "d1d51e6ec864",
@@ -78,6 +155,17 @@
       "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
       "published": "2026-06-30T17:19:15+00:00",
       "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not som"
+    },
+    {
+      "id": "05d7da46b1ee",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Science",
+      "link": "https://claude.com/product/claude-science",
+      "published": "2026-06-30T17:07:41+00:00",
+      "summary": "Article URL: https://claude.com/product/claude-science Comments URL: https://news.ycombinator.com/item?id=48735770 Points: 223 # Comments: 81"
     },
     {
       "id": "8f4877e391fe",
@@ -135,6 +223,17 @@
       "summary": "A year in, National Design Studio delays plan to update government web standards."
     },
     {
+      "id": "405e6d9e72b1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+      "link": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+      "published": "2026-06-30T16:05:46+00:00",
+      "summary": "Article URL: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/ Comments URL: https://news.ycombinator.com/item?id=48734699 Points: 320 # Comments: 146"
+    },
+    {
       "id": "30566a3c7fb8",
       "source": "Google DeepMind",
       "kind": "article",
@@ -155,6 +254,17 @@
       "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "published": "2026-06-30T15:44:24+00:00",
       "summary": "Article URL: https://thereallo.dev/blog/claude-code-prompt-steganography Comments URL: https://news.ycombinator.com/item?id=48734373 Points: 631 # Comments: 194"
+    },
+    {
+      "id": "9b9f878941fe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code is steganographically marking requests",
+      "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "published": "2026-06-30T15:44:24+00:00",
+      "summary": "Article URL: https://thereallo.dev/blog/claude-code-prompt-steganography Comments URL: https://news.ycombinator.com/item?id=48734373 Points: 963 # Comments: 256"
     },
     {
       "id": "445f1d8afe1d",
@@ -232,6 +342,17 @@
       "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "published": "2026-06-30T15:00:00+00:00",
       "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
+    },
+    {
+      "id": "59f4bf642752",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"팔로알토, 미토스 이후 주가 두 배 상승 2330억달러\"",
+      "link": "https://zdnet.co.kr/view/?no=20260630234220",
+      "published": "2026-06-30T14:42:20+00:00",
+      "summary": "[지디넷코리아]\"고객 환경을 테스트하면서 얻은 초기 결과를 보면, 여전히 공격자가 너무 쉽게 침투할 수 있는 환경이 많다는 사실을 확인하고 있습니다. 발견되는 문제의 상당수는 신원관리(Identity Management) 취약점이나 잘못된 시스템 설정(Misconfiguration)입니다. 일부 AI 관련 문제도 존재하지만, 여전히 가장 큰 원인은 기본적인 보안 관리 미흡입니다.\"헬렌 타이세이라(Helen Teixeira) 팔로알토네트웍스(Palo Alto Networks, 이하 팔로알토) 유닛4"
     },
     {
       "id": "55300d4525bd",
@@ -430,6 +551,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260630183701",
       "published": "2026-06-30T09:37:01+00:00",
       "summary": "[지디넷코리아]미사일 창정비 기업으로 출발한 LIG 디펜스&에어로스페이스가 창립 50주년을 계기로 육·해·공·우주·사이버를 아우르는 종합 방산기업으로의 도약 의지를 밝혔다.LIG 디펜스&에어로스페이스(LIG D&A)가 창립 50주년을 맞아 지난 26일 구미하우스 운동장에서 기념행사를 열었다고 30일 밝혔다. 행사에는 임직원 2000여 명이 참석해 회사의 반세기 역사를 돌아보고 미래 성장 방향을 공유했다.LIG D&A는 1976년 미국산 나이키·호크 미사일 창정비를 위해 금성정밀공업으로 출발했다. "
+    },
+    {
+      "id": "ce6aac3f2062",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published": "2026-06-30T09:32:50+00:00",
+      "summary": ""
     },
     {
       "id": "c7903046bccf",
