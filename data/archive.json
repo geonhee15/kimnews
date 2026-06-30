@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-30T21:56:02.083828+00:00",
-  "count": 4082,
+  "updated_at": "2026-06-30T23:06:39.513389+00:00",
+  "count": 4084,
   "items": [
+    {
+      "id": "c9ecb31cc952",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월30일] 90개의 프로토타입을 만들어낸 AI...이제 인간의 경쟁력은 '선택'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212264",
+      "published": "2026-06-30T22:00:00+00:00",
+      "summary": "AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 'AI 루프'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다. 오픈AI에서 '코덱스' 데스크톱 앱 개발을 이끄는 앤드류 암브로시노는 29일(현지시간) '레니의 팟캐스트'에 출연, 흥미로운 사례를 소개했습니다.그는 AI 루프에 대한 질문을 받자, \"루프 시스템 같은 것은 이미 지"
+    },
     {
       "id": "cae67d19dd28",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
       "published": "2026-06-30T21:53:28+00:00",
       "summary": "The free open source agentic program is finally invading your phone."
+    },
+    {
+      "id": "32e0b9983944",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "published": "2026-06-30T21:50:04+00:00",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Scienc"
     },
     {
       "id": "cd0fb79dfb51",
