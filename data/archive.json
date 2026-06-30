@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-06-30T09:25:15.268893+00:00",
-  "count": 4007,
+  "updated_at": "2026-06-30T11:58:15.352684+00:00",
+  "count": 4022,
   "items": [
+    {
+      "id": "2cbb749fec39",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This motor could be the future of e-bikes",
+      "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+      "published": "2026-06-30T10:30:04+00:00",
+      "summary": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Pr"
+    },
+    {
+      "id": "954918fb5712",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bernie Sanders Saw This Coming",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+      "published": "2026-06-30T10:30:00+00:00",
+      "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point."
+    },
+    {
+      "id": "bfa1e5bb0dc2",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Building tech in the world’s secret R&D hub",
+      "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+      "published": "2026-06-30T10:23:30+00:00",
+      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past t"
+    },
+    {
+      "id": "8c1a3a846c0d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Our best look yet at Samsung’s new wide foldable",
+      "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+      "published": "2026-06-30T09:54:44+00:00",
+      "summary": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy"
+    },
+    {
+      "id": "04df50c3eaf7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] \"韓 모델 또 누락\"…'AI 3강' 노린 정부, 스탠포드 지표 정조준",
+      "link": "https://zdnet.co.kr/view/?no=20260630184431",
+      "published": "2026-06-30T09:53:50+00:00",
+      "summary": "[지디넷코리아]정부가 미국 스탠포드대학교 인공지능(AI) 인덱스에서 반복된 한국 AI 모델 누락 사례를 계기로 글로벌 평가 지표 대응 강화에 본격 나섰다. 국내 기업과 연구기관이 개발한 AI 모델 성과를 국가 차원에서 정리하고 해외 평가기관에 제공하는 체계를 갖추려는 움직임이다.30일 업계에 따르면 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 이날 문을 연 인공지능정책센터를 통해 국내외 AI 동향 분석과 정책 지원 기능을 본격화한다. 센터는 AI기본법 제11조에 따라 AI 정책 개발과 국제"
+    },
+    {
+      "id": "8c4b9119d291",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미사일 정비서 글로벌 방산기업으로…LIG D&A 50년",
+      "link": "https://zdnet.co.kr/view/?no=20260630183701",
+      "published": "2026-06-30T09:37:01+00:00",
+      "summary": "[지디넷코리아]미사일 창정비 기업으로 출발한 LIG 디펜스&에어로스페이스가 창립 50주년을 계기로 육·해·공·우주·사이버를 아우르는 종합 방산기업으로의 도약 의지를 밝혔다.LIG 디펜스&에어로스페이스(LIG D&A)가 창립 50주년을 맞아 지난 26일 구미하우스 운동장에서 기념행사를 열었다고 30일 밝혔다. 행사에는 임직원 2000여 명이 참석해 회사의 반세기 역사를 돌아보고 미래 성장 방향을 공유했다.LIG D&A는 1976년 미국산 나이키·호크 미사일 창정비를 위해 금성정밀공업으로 출발했다. "
+    },
+    {
+      "id": "c7903046bccf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"SMR 속도전…韓 5년 격차 좁히려면 PPA·선발주 열어야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260630165204",
+      "published": "2026-06-30T09:30:25+00:00",
+      "summary": "[지디넷코리아]소형모듈원전(SMR) 시장을 둘러싼 글로벌 경쟁이 기술 개발 단계를 넘어 상용화 속도전으로 옮겨가고 있다. 국내 혁신형 SMR, i-SMR은 2035년 첫 호기 준공을 목표로 하고 있지만, 해외 주요 노형은 2030년 전후 상용화를 추진하고 있어 한국이 시장 선점 경쟁에서 뒤처질 수 있다는 우려가 제기됐다. 30일 국회의원회관에서 열린 '대한민국 SMR 경쟁력 확보를 위한 국회 토론회'에서는 한국형 SMR 기술 개발 자체보다 초기 시장을 누가 먼저 확보하느냐가 향후 표준과 공급망 경"
+    },
+    {
+      "id": "ed5297340fbd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "커서, iOS 모바일 앱 출시...스마트폰으로 AI 코딩 에이전트 실시간 제어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212262",
+      "published": "2026-06-30T09:18:05+00:00",
+      "summary": "스페이스X에 인수된 커서가 iOS용 모바일 앱을 공개 베타로 출시하며 AI 코딩 에이전트를 스마트폰에서 직접 제어하는 시대를 열었다. 데스크톱 중심이었던 AI 개발 환경이 모바일로 확장되면서, 개발자는 언제 어디서나 AI 에이전트에게 작업을 지시하고 진행 상황을 확인할 수 있게 됐다.커서는 29일(현지시간) iOS용 모바일 앱 '커서 포 iOS(Cursor for iOS)'를 발표하고, 모든 유료 플랜 이용자를 대상으로 iOS 앱 공개 베타를 시작했다고 밝혔다.이번 앱은 지난해 10월 공개된 '커"
+    },
+    {
+      "id": "3a52715c0bb9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "비전에서 행동으로: GECC, 글로벌 에너지 순환 경제 연합 및 순환 배터리 설계 가이드라인 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260630181003",
+      "published": "2026-06-30T09:10:03+00:00",
+      "summary": "[지디넷코리아]런던, 영국 2026년 6월 30일 /PRNewswire/ -- 6월 22일 CATL과 엘런 맥아더 재단(Ellen MacArthur Foundation)이 엘런 맥아더 재단과의 전략적 파트너십으로 개발된 CATL의 글로벌 에너지 순환 약속(Global Energy Circularity Commitment, GECC)을 통해 런던 기후 행동 주간 2026(London Climate Action Week 2026)의 주요 행사인 기후 혁신 포럼(Climate Innovation For"
+    },
+    {
+      "id": "9150cd01b725",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"고객사 정보 AI에 물어도 될까\"...PR 현직자들 머리 맞대",
+      "link": "https://zdnet.co.kr/view/?no=20260630155619",
+      "published": "2026-06-30T09:08:17+00:00",
+      "summary": "[지디넷코리아]AI PR 포럼이 지난 26일 첫 모임을 갖고, AI 시대 PR 커뮤니케이션 변화와 실무 기준에 대해 논의했다.30일 AI PR 포럼에 따르면, 이번 모임에는 인하우스 PR·대기업·스타트업·MCN·NGO·글로벌 기업 등 다양한 조직의 PR 및 콘텐츠 마케팅 실무자 등이 참여했다. 참석자들은 PR 업무 전반에 AI가 빠르게 도입되는 상황에서, AI 활용의 가능성과 한계를 현업 관점에서 얘기나눴다.키노트 강연은 이중대 메시지하우스 대표가 맡았다. 이중대 대표는 \"AI는 PR을 다시 쓰고"
+    },
+    {
+      "id": "fb065381dee3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 개발자 겨냥 ‘코덱스’ 전용 첫 하드웨어 티저 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212261",
+      "published": "2026-06-30T09:05:50+00:00",
+      "summary": "오픈AI가 AI 코딩 에이전트 코덱스(Codex) 사용 경험을 개선하기 위한 첫 번째 전용 하드웨어를 공개했다. 오픈AI는 29일(현지시간) X를 통해 여러 개의 버튼이 배치된 정사각형 형태의 기기를 공개하며 \"당신이 가장 좋아하는 코덱스 단축키가 업그레이드된다\"라는 메시지를 남겼다.이번 제품은 소비자 기기가 아니라, 개발자의 생산성을 높이는 데 초점을 맞춘 매크로 패드 형태의 장치다. 전 애플 최고 디자인책임자 조니 아이브가 개발 중인 AI 장치와는 별개의 제품이다.개발에는 캐나다 하드웨어 스타"
+    },
+    {
+      "id": "a8e3e03124f0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] AI G3 이끌 싱크탱크 첫발…NIA '인공지능정책센터' 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260630175559",
+      "published": "2026-06-30T09:00:51+00:00",
+      "summary": "[지디넷코리아]한국지능정보사회진흥원(NIA)이 국가 인공지능(AI) 정책 개발과 법·제도 연구, 사회적 영향 평가를 종합적으로 전담하는 정부 지정 전문 싱크탱크인 '인공지능정책센터'를 공식 출범했다. AI기본법 시행에 맞춰 정부 AI 정책 수립과 공공부문 AI 전환을 지원하는 정책 허브 역할을 맡고 국가 AI 정책 추진을 뒷받침하는 전문기관으로 자리매김한다는 구상이다.류제명 과학기술정보통신부 제2차관은 30일 NIA 서울 광화문 사무소에서 열린 인공지능정책센터 개소식에서 \"AI 3대 강국(G3)을"
+    },
     {
       "id": "edfd69bbf21a",
       "source": "조코딩",
@@ -603,6 +735,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "published": "2026-06-29T19:47:35+00:00",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon."
+    },
+    {
+      "id": "77abee3e6506",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "published": "2026-06-29T19:47:35+00:00",
       "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon."
@@ -3974,6 +4117,17 @@
       "summary": "네이버(대표 최수연)는 생성 AI 대화형 검색 서비스 ‘AI탭’을 전체 사용자를 대상으로 정식 출시하고 AI 검색 경험을 전면 확대한다고 26일 밝혔다.AI탭은 사용자 검색 의도와 맥락을 이해해 답변을 제공하는 것을 넘어 쇼핑, 장소 탐색, 예약 등 실제 행동까지 연결하는 에이전틱 검색 서비스다. 이번 정식 출시를 통해, 일평균 5000만명의 방문자가 모바일과 PC 검색창의 AI탭 버튼을 통해 서비스를 쉽게 이용할 수 있게 됐다. 오는 7월부터는 AI 브리핑 하단 대화창에서도 AI탭으로 진입해 탐"
     },
     {
+      "id": "f190dfaee97b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Open Source Low Tech",
+      "link": "https://opensourcelowtech.org/",
+      "published": "2026-06-26T06:35:17+00:00",
+      "summary": "Article URL: https://opensourcelowtech.org/ Comments URL: https://news.ycombinator.com/item?id=48683098 Points: 317 # Comments: 65"
+    },
+    {
       "id": "9d736b6a277c",
       "source": "조코딩",
       "kind": "youtube",
@@ -4698,6 +4852,17 @@
       "link": "https://www.theverge.com/gadgets/956635/apple-watch-series-11-amazon-prime-day-2026-deal-sale",
       "published": "2026-06-25T16:38:39+00:00",
       "summary": "We’ve seen a lot of great Prime Day deals on wearables this year, from the Fitbit Charge 6 to the latest Apple Watch SE. But if you’re looking for advanced health features, the Apple Watch Series 11 is the one to check out, and it’s now down to its best price ever: $279 ($120 off"
+    },
+    {
+      "id": "5a358ccd9f2e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dark Sky Lighting",
+      "link": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+      "published": "2026-06-25T16:19:19+00:00",
+      "summary": "Article URL: https://www.savingourstars.org/darkskylighting#whatisdarkskylighting Comments URL: https://news.ycombinator.com/item?id=48675653 Points: 217 # Comments: 40"
     },
     {
       "id": "a72897949829",
