@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-06-30T05:56:24.496505+00:00",
-  "count": 3981,
+  "updated_at": "2026-06-30T09:25:15.268893+00:00",
+  "count": 4007,
   "items": [
+    {
+      "id": "edfd69bbf21a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "슬랙에 팀원으로 들어온 클로드 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/4jKcvBC82EA",
+      "published": "2026-06-30T09:00:24+00:00",
+      "summary": ""
+    },
+    {
+      "id": "417633d035e7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents."
+    },
+    {
+      "id": "1574dd64c5ac",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, '클로드·코덱스' 사내 사용 제한…“AI 증류 우려 사전 차단”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212263",
+      "published": "2026-06-30T08:59:41+00:00",
+      "summary": "메타가 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 등 외부 AI 코딩 도구에 대한 사내 사용을 대폭 제한했다. 자체 AI 코딩 플랫폼 메타코드(MetaCode)에 무게를 싣는 동시에, 경쟁사로부터 제기될 수 있는 'AI 증류(distillation)' 논란을 사전에 차단하려는 조치다.디 인포메이션이 입수한 내부 지침에 따르면, 메타는 지난 5월부터 응용 AI 엔지니어링(Applied AI Engineering) 조직에서 클로드 코드와 코덱스 사용에 엄격한 제한을 적용하고 있다.일부 업무는 "
+    },
+    {
+      "id": "bd796e9f0228",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "위메이드, 9200억 지분 매각…박관호 의장 '글로벌 생존' 승부수 통할까",
+      "link": "https://zdnet.co.kr/view/?no=20260630174927",
+      "published": "2026-06-30T08:57:43+00:00",
+      "summary": "[지디넷코리아]위메이드가 창업자의 지분 매각과 함께 글로벌 자본을 유치하며 지배구조의 대변혁을 맞이했다. 2000년 회사 설립 이후 위메이드를 이끌어온 박관호 의장이 경영권을 넘김에 따라, 향후 차세대 인공지능(AI) 기술과 글로벌 자본 생태계를 융합한 체질 개선이 본격화될 전망이다.30일 위메이드에 따르면 최대주주인 박관호 의장은 보유 지분 전량인 39.33%(1335만738주)를 총 9200억 원에 매각하는 주식매매계약(SPA)을 체결했다. 계약 당일 10%의 계약금이 납입됐으며, 오는 10월"
+    },
+    {
+      "id": "17df4fc499f4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 뇌 신호 해독 ‘브레인투쿼티 v2’ 공개…\"비침습 BCI 성능 한계 넘어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212282",
+      "published": "2026-06-30T08:43:06+00:00",
+      "summary": "메타가 사람의 뇌 활동만으로 머릿속에서 떠올린 문장을 실시간으로 텍스트로 변환하는 비침습형 두뇌-컴퓨터 인터페이스(BCI) 기술을 공개했다. 이 기술은 뇌에 전극을 이식하는 수술 없이도 신경 신호를 해독할 수 있어, 뇌 손상 등으로 말하거나 몸을 움직이기 어려운 환자의 의사소통을 지원할 차세대 기술로 주목받고 있다. 메타는 29일(현지시간) 뇌에 전극을 삽입하는 수술 없이 사람의 뇌 활동을 문장으로 실시간 변환하는 차세대 BCI 기술 '브레인투쿼티 v2(Brain2Qwerty v2)'를 공개했다."
+    },
+    {
+      "id": "4e8f4477eff1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이-차이나모바일 후베이, ‘AI 추론 가속 솔루션’ 상용망 검증",
+      "link": "https://zdnet.co.kr/view/?no=20260630171105",
+      "published": "2026-06-30T08:41:49+00:00",
+      "summary": "[지디넷코리아]화웨이가 장문 AI 추론의 토큰 처리량을 최대 3.7배 끌어올리는 AI 추론 가속 솔루션을 중국 통신 업계 최초로 상용망에서 검증하는 데 성공했다.화웨이는 지난 24일부터 26일까지 중국 상하이에서 열린 'MWC 상하이 2026'에서 차이나모바일 후베이와 이같은 성과를 공개했다고 30일 밝혔다.솔루션은 화웨이 오션스토(OceanStor) A800 스토리지와 어센드 A3 슈퍼팟, 통합 캐시 관리자(UCM)가 기반이다. 이를 통해 통신사가 AI 컴퓨팅 서비스를 배포할 수 있는 토대를 마"
+    },
+    {
+      "id": "86482f8782c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오아시스, 티몬 인수 1년 지났는데…언제 문 여나",
+      "link": "https://zdnet.co.kr/view/?no=20260630163150",
+      "published": "2026-06-30T08:34:33+00:00",
+      "summary": "[지디넷코리아]티몬이 오아시스마켓에 인수된 지 1년이 지났지만, 아직 문을 열 조짐이 보이지 않고 있다. 소비자 신뢰 회복이 더뎌지며 카드사 합류가 요원해진 것이 원인이다. 티몬의 법인명을 변경한 오아시스마켓은 무리한 정상화보다는 모회사와 연계할 수 있는 사업을 찾아가겠다는 전략이다.30일 이커머스업계에 따르면 티몬은 2024년 7월 발생한 대규모 미정산 사태 이후 여전히 영업 정상화를 하지 못하고 있다. 지난해 6월 23일 오아시스마켓이 티몬을 인수한 후 여러 차례 영업 재개를 추진했지만, 성사"
+    },
+    {
+      "id": "44c9f1bedb2d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마일게이트 신작 '이클립스', 성장지원 시스템 '성소' 공개…7월23일 쇼케이스 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260630173351",
+      "published": "2026-06-30T08:33:51+00:00",
+      "summary": "[지디넷코리아]스마일게이트가 대형 MMORPG 신작의 정식 출시를 앞둔 가운데, 플레이 부담을 낮출 핵심 성장지원 시스템을 공개했다.스마일게이트는 엔픽셀이 개발한 신작 MMORPG '이클립스: 더 어웨이크닝(이하 이클립스)'의 공식 홈페이지를 통해 게임의 주요 콘텐츠 정보를 공개했다고 30일 밝혔다.스마일게이트는 이번 업데이트로 홈페이지에 이클립스의 세계관과 주요 지역, 핵심 성장지원 콘텐츠인 '성소' 정보를 공개했다.성소는 이클립스가 추구하는 MMORPG의 방향성을 보여주는 핵심 콘텐츠며, 캐릭"
+    },
+    {
+      "id": "488ce55ceccf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자, TSMC 공정 기반 디자인 서비스 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260630151008",
+      "published": "2026-06-30T08:30:09+00:00",
+      "summary": "[지디넷코리아]LG전자가 독자 시스템 반도체 설계 역량을 바탕으로 주문형 반도체(ASIC) 디자인 서비스 시장에 진출한다. LG전자는 2000년대 초반부터 시스템온칩(SoC)을 설계해서 자체 제품에 적용해왔는데, 이를 외부 서비스로 확대하는 것이다. 미국 반도체 기업 브로드컴, 마벨과 같은 사업 모델로, 대상은 국내외 팹리스다. 30일 반도체 업계에 따르면 LG전자는 최고기술책임자(CTO) 산하 SoC(시스템온칩) 센터를 중심으로 디자인 서비스 사업을 시작했다. 디자인 서비스는 반도체 설계회로를 "
+    },
+    {
+      "id": "6116871f781f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이브컴퍼니, ‘에이전트 플랫폼’ 출시…“업무별 맞춤형 AI 모델 조합”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212287",
+      "published": "2026-06-30T08:29:41+00:00",
+      "summary": "AI 전문 바이브컴퍼니(대표 김경서)는 단일 플랫폼에서 맞춤형 AI 에이전트를 초고속으로 구축, 운영할 수 있는 '바이브 에이전트 플랫폼(VAIV Agent Platform)'을 공식 출시했다고 30일 밝혔다.바이브 에이전트 플랫폼은 업무 복잡도와 성격에 따라 세 가지 맞춤형 빌더(단일 노드/워크플로우/딥 에이전트)를 제공한다. 비개발자부터 고급 개발자까지 에이전트를 신속하게 생성, 배포할 수 있도록 지원하는 것이 가장 큰 특징이다.에이전트 확산에 따른 관리·통제 문제도 해결했다고 전했다. 역할 "
+    },
+    {
+      "id": "d3a04d737220",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엘앤에프, LFP 재활용 광물 확보 본격화…CIS케미칼에 전략적 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260630094502",
+      "published": "2026-06-30T08:28:36+00:00",
+      "summary": "[지디넷코리아]엘앤에프는 CIS케미칼에 전략적 투자를 결정, 계약을 체결하고 배터리 재활용(리사이클링) 분야 협력을 한층 강화한다고 30일 밝혔다. 투자 규모는 밝히지 않았다.이번 투자는 지난 5월 체결한 리튬인산철(LFP)·니켈코발트망간(NCM) 리사이클링 협력 업무협약(MOU)에 대한 후속 조치다.엘앤에프는 CIS케미칼의 재활용 전문 역량을 기반으로 LFP·NCM 재활용 광물을 안정적으로 확보한다. 내년 내 고객사의 LFP 배터리 재활용에 필요한 생산능력(CAPA)도 우선 배정받기로 했다.양극"
+    },
+    {
+      "id": "65ce044b7987",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"김밥 보고 한국 왔어요\"...넷플릭스가 말하는 'K콘텐츠' 흥행 비결",
+      "link": "https://zdnet.co.kr/view/?no=20260630160522",
+      "published": "2026-06-30T08:28:29+00:00",
+      "summary": "[지디넷코리아]넷플릭스를 통해 K콘텐츠를 시청한 외국인이 한국을 방문해 삼겹살 등 K푸드를 소비하며 경제 효과를 일으키고 있다. 넷플릭스는 전 세계 가입자를 K콘텐츠에 끌어들이는 비결로 '팬덤 마케팅'과 '개인 맞춤형 화면 설계'를 꼽았다.한정훈 K엔터테크허브 대표는 30일 서울 서대문구 연세대 대우관에서 열린 ‘K컬처 익스플레인드’ 행사에서 “외국인 105명을 대상으로 소규모 조사를 한 결과, 넷플릭스로 한국 작품을 본 외국인 10명 중 8명이 콘텐츠 때문에 한국을 찾았다”며 “K콘텐츠 시청은 "
+    },
+    {
+      "id": "1ee9992f4372",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대오토에버, SDV·로보틱스 고도화…\"미래 모빌리티 사업 확대\"",
+      "link": "https://zdnet.co.kr/view/?no=20260630172719",
+      "published": "2026-06-30T08:28:19+00:00",
+      "summary": "[지디넷코리아]현대오토에버가 소프트웨어(SW) 기술을 앞세워 미래 모빌리티 사업을 확대한다. 현대오토베어가 30일 공개한 '2026 지속가능경영보고서'에 따르면 류석문 현대오토베어 대표는 소프트웨어 정의 차량(SDV)과 로보틱스를 핵심 축으로 삼아 글로벌 사업 경쟁력을 강화하겠다고 이같이 강조했다. 보고서는 차량 SW 품질과 기능 안정성 강화를 주요 과제로 제시했다. 현대오토에버는 차량 SW 플랫폼을 비롯한 통합 개발환경 플랫폼, 가상 검증 기술, 내비게이션 SW, 지도 데이터 등 기반으로 미래차"
+    },
+    {
+      "id": "51dae152010e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 샌드박스AQ의 'LQM' 도입…\"과학 연구 AI 지원\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212275",
+      "published": "2026-06-30T08:25:36+00:00",
+      "summary": "구글이 과학 연구에 특화된 AI 모델을 자체 클라우드 플랫폼을 통해 제공하며 기업과 연구 기관을 위한 AI 포트폴리오를 확대한다. 일반적인 대형언어모델(LLM)과 달리 화학·생물학·물리학 등 과학 계산에 최적화된 AI를 제공함으로써 신약 개발과 반도체 제조, 신소재 연구의 효율성을 높인다는 전략이다.구글은 29일(현지시간) 소프트웨어 기업 샌드박스AQ의 '대형양적모델(LQM·Large Quantitative Models)'을 구글 클라우드 마켓플레이스를 통해 제공한다고 발표했다.이에 따라 연구자들"
+    },
+    {
+      "id": "bdce2a3e90de",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK하이닉스, 서남권에 400조원 투자…반도체·AI 데이터센터 거점 구축",
+      "link": "https://zdnet.co.kr/view/?no=20260630171621",
+      "published": "2026-06-30T08:23:15+00:00",
+      "summary": "[지디넷코리아]SK하이닉스가 글로벌 인공지능(AI) 메모리 수요에 대응하기 위해 서남권 지역에 400조원을 투자한다.곽노정 SK하이닉스 대표이사 사장은 30일 광주 김대중컨벤션센터에서 열린 '서남권 첨단산업 발전비전 국민보고회'에 참석해 서남권 반도체·AI 투자 계획을 발표했다.곽 사장은 AI 산업이 학습 단계를 넘어 실제 서비스가 본격 확산되는 시대로 진입함에 따라 메모리 수요가 기하급수적으로 증가하고 있다고 진단했다. 그는 \"AI 시대의 메모리는 단순한 부품을 넘어 AI 성능 자체를 결정하는 "
+    },
+    {
+      "id": "a06b7cdef88d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '제미나이' 개인화 이미지 생성 기능 무료 개방…미국부터 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212279",
+      "published": "2026-06-30T08:15:25+00:00",
+      "summary": "구글이 '제미나이'의 개인화 이미지 생성 기능을 무료 이용자에게도 확대 제공한다. 사용자의 취향과 생활 방식, 사진까지 AI가 이해해 별도의 상세한 설명 없이도 맞춤형 이미지를 생성할 수 있는 것이 특징이다.구글은 29일(현지시간) 미국의 모든 사용자에게 제미나이 앱의 '퍼스널 인텔리전스(Personal Intelligence)' 기반 이미지 생성 기능을 무료로 제공한다고 발표했다.이 기능은 그동안 제미나이 플러스, 프로, 울트라 구독자만 사용할 수 있었지만, 이번부터 일반 무료 사용자도 이용할 "
+    },
+    {
+      "id": "fc59bf16b642",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, AI 사이버 위협에 선제 대응…iOS 보안 패치 '조기 배포'로 전환",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212285",
+      "published": "2026-06-30T08:06:54+00:00",
+      "summary": "AI로 인해 사이버 공격 도구 개발 속도가 빨라지는 환경에 대응하기 위해 애플이 iOS 보안 업데이트 배포 방식을 대폭 변경한다. 그동안 새로운 운영체제 버전에 포함해 제공하던 보안 패치를 앞으로는 별도로 먼저 배포, 사용자들을 더 빠르게 보호한다는 방침이다.로이터에 따르면, 애플은 29일(현지시간) AI 기술의 발전으로 악성 해킹 도구 개발 속도가 크게 빨라지고 있는 현실을 반영해 보안 업데이트 공개 시점과 실제 사용자 기기에 적용되는 시점 사이의 간격을 줄이기로 했다고 밝혔다.이는 애플이 오랫"
+    },
+    {
+      "id": "eda20424420b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 프리윌린, 홍콩 교육박람회서 AI 코스웨어 공개 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212288",
+      "published": "2026-06-30T08:00:00+00:00",
+      "summary": "■ AI 교육 전문 프리윌린(대표 권기성)은 25~27일 홍콩 컨벤션 및 전시센터에서 열린 ‘러닝 앤 티칭 엑스포 2026(LTE 2026)’에 참가해 AI 코스웨어를 선보였다고 밝혔다. 교사 수업 설계와 학습 관리를 지원하는 수학 AI 코스웨어 ‘스쿨플랫’, 학생의 자기주도 학습을 돕는 K-12 AI 학습 솔루션 ‘풀리스쿨’, 대학 교육에 특화된 AI 코스웨어 ‘풀리캠퍼스’를 소개했다.■ 서울 AI 허브(센터장 변우석)는 26일 서울 AI 허브 메인센터에서 '산업별 클러스터 연계 AX 확산 네트"
+    },
+    {
+      "id": "1bdeb07872d6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] SKT, AI 영상 합성 기술로 글로벌 학회 논문 채택 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212278",
+      "published": "2026-06-30T08:00:00+00:00",
+      "summary": "■ SK텔레콤(대표 정재헌)은 KAIST 주재걸 교수 연구팀과 공동 연구한 AI 영상 합성 기술 '인서트애니웨어(InsertAnywhere)' 논문이 유럽 컴퓨터 비전 학회 'ECCV 2026'에 채택됐다고 밝혔다. 영상 속 원하는 위치에 새로운 사물 이미지를 자연스럽게 삽입하는 기술이다. 3차원 공간 구조와 시간 흐름을 함께 반영하는 '4D 장면 이해 기법'을 적용해 영상 후반 작업, 광고 제작 등에 활용이 기대된다는 설명이다. ■ 스카이월드와이드(대표 신재혁)는 티에스아이디와 AI·데이터 솔루"
+    },
+    {
+      "id": "d2ffdf9e9c6c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KQC, 전문 지식 없이 쓸 수 있는 양자 AI 플랫폼 ‘큐비티어’ 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212277",
+      "published": "2026-06-30T07:53:06+00:00",
+      "summary": "양자컴퓨팅 전문 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 차세대 양자 AI 하이브리드 플랫폼 '큐비티어(KQC Qubiteer)’를 정식 출시했다고 30일 밝혔다. 큐비티어는 사용자가 해결하려는 문제를 입력하면, AI 에이전트가 수학적 모델링과 최적의 솔버 선택, 계산 실행까지 원스톱으로 처리하는 하이브리드 양자컴퓨팅 플랫폼이다. 전문 지식이 필요한 복잡한 작업 과정을 AI가 대신 처리, 일반 사용자도 쉽게 양자컴퓨터를 쓸 수 있게 됐다는 설명이다. 실제로 기존 양자컴퓨팅 솔루션은 사용자가 직접 변"
+    },
+    {
+      "id": "2b0554de9fc0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "캘리포니아주, 앤트로픽과 '클로드' 반값 계약...연방정부 제재와 대조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212272",
+      "published": "2026-06-30T07:45:41+00:00",
+      "summary": "미국 캘리포니아주가 앤트로픽과 전략적 협약을 체결하고 '클로드'를 주정부 전 기관과 지방정부에서 활용할 수 있도록 했다. 이는 캘리포니아의 첫 번째 공식 AI 플랫폼 계약으로, 연방정부의 블랙리스트 조치와는 대조적인 행보다.개빈 뉴섬 캘리포니아 주지사는 29일(현지시간) 이번 계약을 통해 주정부 기관과 클로드 도입을 원하는 시·카운티는 기존보다 50% 할인된 가격으로 서비스를 이용할 수 있다고 발표했다. 앤트로픽은 공무원을 대상으로 한 무료 교육과 기술 지원도 제공한다.크리스 기븐 캘리포니아주 기"
+    },
+    {
+      "id": "e60aae81e69f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나우로보틱스, 한양로보틱스 합병…”산업용 로봇 라인업 완성”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212286",
+      "published": "2026-06-30T07:40:00+00:00",
+      "summary": "나우로보틱스가 한양로보틱스와의 흡수합병 절차를 완료하고 통합 운영 체계를 본격화한다고 30일 밝혔다.1997년 설립된 한양로보틱스는 국내 취출로봇 및 사출자동화 분야에서 30여년의 력과 기술력을 축적해 왔다. 국내외 3000여 고객사를 기반으로 사출 성형 공정에 특화된 취출자동화 솔루션을 공급해 왔으며, 이를 통해 생산·영업 네트워크를 보유하고 있다.이번 합병을 통해 나우로보틱스는 취출로봇, 다관절로봇, 스카라로봇, 자율주행 물류로봇(AMR), 공장자동화(FA) 시스템까지 산업용 로봇 전 분야를 "
+    },
+    {
+      "id": "7f2c3dc80a5a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포어린이도서관, 여름방학 프로그램 7월3일부터 선착순 접수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212266",
+      "published": "2026-06-30T07:16:10+00:00",
+      "summary": "AI 생성 영상목포어린이도서관이 여름방학을 맞아 어린이 대상 체험프로그램을 7월28일부터 4주간 운영한다.목포어린이도서관은 2026년 여름방학 체험프로그램을 운영한다고 30일 밝혔다. 이번 프로그램은 어린이들이 방학 동안 유익하고 즐거운 시간을 보낼 수 있도록 마련됐으며, 학년별 수준에 맞춰 진행된다.강좌는 모두 4개로 구성됐다. 맛있는 동화 쿠킹클래스, 창의보드, 헬로메이플 코딩으로 만드는 나만의 세상, 지구사랑 공예탐험대가 운영된다. 각 강좌는 4회 과정으로 진행돼 어린이들이 한 가지 활동을 "
+    },
+    {
+      "id": "ca281b6c9407",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "트럼프가 막아버린 GPT-5.6 출시",
+      "link": "https://www.youtube.com/shorts/H25hDhaTG-M",
+      "published": "2026-06-30T06:00:00+00:00",
+      "summary": ""
+    },
     {
       "id": "93eff573095a",
       "source": "AI타임스",
@@ -443,6 +707,17 @@
       "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog ."
     },
     {
+      "id": "fcd1f91c269b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "link": "https://github.com/deepreinforce-ai/Ornith-1",
+      "published": "2026-06-29T17:16:17+00:00",
+      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1 Comments URL: https://news.ycombinator.com/item?id=48722052 Points: 209 # Comments: 39"
+    },
+    {
       "id": "5cabb2ba6bc8",
       "source": "Hacker News",
       "kind": "article",
@@ -551,6 +826,17 @@
       "link": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
       "published": "2026-06-29T15:16:24+00:00",
       "summary": "Xgimi, the Chinese company known for its all-in-one smart projectors, is expanding its portfolio with a new line of screen-equipped smart glasses that first debuted at CES 2026. Unlike AR glasses from companies like Meta and Snap, Xgimi’s new privacy-focused MemoMind One skip cam"
+    },
+    {
+      "id": "4cede1ae332a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "link": "https://humphri.es/blog/WATaBoy/",
+      "published": "2026-06-29T15:02:00+00:00",
+      "summary": "Article URL: https://humphri.es/blog/WATaBoy/ Comments URL: https://news.ycombinator.com/item?id=48720190 Points: 205 # Comments: 34"
     },
     {
       "id": "57277b5a8d62",
