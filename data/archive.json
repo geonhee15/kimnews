@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-30T23:06:39.513389+00:00",
-  "count": 4084,
+  "updated_at": "2026-07-01T00:21:16.374649+00:00",
+  "count": 4091,
   "items": [
+    {
+      "id": "85ae8f491158",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "published": "2026-07-01T00:03:55+00:00",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has li"
+    },
+    {
+      "id": "b99d65acec6e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서울시, 위례성심병원 개설 승인…700병상 규모 종합병원 설립 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260701082623",
+      "published": "2026-06-30T23:26:23+00:00",
+      "summary": "[지디넷코리아]서울시가 위례성심병원 개설을 승인한 것으로 알려졌다.SH공사는 송파구 거여동 272 일원 4만4004㎡에 대형병원을 중심으로 업무·상업시설이 결합된 의료복합용지 개발사업을 추진해 왔는데, 민간사업자 공모 절차를 거쳐 지난해 위례성심병원 컨소시엄을 우선협상대상자로 선정했고, 위례성심병원 컨소시엄은 700병상 규모의 종합병원 개설 계획을 수립했다.보건복지부는 서울시가 올해 1월30일 위례성심병원 사전 승인을 요청함에 따라 병상수급관리계획을 검토하고, 서울시와 경기도간 병상조정협의를 통해"
+    },
+    {
+      "id": "0ac840208031",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "published": "2026-06-30T23:23:04+00:00",
+      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals."
+    },
+    {
+      "id": "82720be82e04",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개보위, 국제무대서 영국 등에 AI대응 정책 '훈수'",
+      "link": "https://zdnet.co.kr/view/?no=20260630215442",
+      "published": "2026-06-30T22:30:01+00:00",
+      "summary": "[지디넷코리아]우리나라는 세계 최대규모 개인정보 감독기구 협의체 글로벌 프라이버시 총회(GPA) 산하의 인공지능 작업반(AIWG) 공동의장이다.개인정보보호위원회(개인정보위)는 30일 오후 8시 AIWG와 국제집행 작업반(IEWG) 회원국을 대상으로 ‘AI 프라이버시 정책’ 온라인 화상회의(webinar)를 개최했다. 특히 인공지능 작업반 공동의장으로서 우리나라가 기획 단계부터 주도적으로 참여한 첫 번째 화상회의라는 점에서 의미가 크다. 인공지능 및 국제집행 작업반은 2019년 출범 이후 40개 이"
+    },
     {
       "id": "c9ecb31cc952",
       "source": "AI타임스",
@@ -9,6 +53,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "[6월30일] 90개의 프로토타입을 만들어낸 AI...이제 인간의 경쟁력은 '선택'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212264",
+      "published": "2026-06-30T22:00:00+00:00",
+      "summary": "AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 'AI 루프'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다. 오픈AI에서 '코덱스' 데스크톱 앱 개발을 이끄는 앤드류 암브로시노는 29일(현지시간) '레니의 팟캐스트'에 출연, 흥미로운 사례를 소개했습니다.그는 AI 루프에 대한 질문을 받자, \"루프 시스템 같은 것은 이미 지"
+    },
+    {
+      "id": "696a8f735cd2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[6월30일] 프로토타입 90개 만든 AI...이제 인간 경쟁력은 '선택'",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212264",
       "published": "2026-06-30T22:00:00+00:00",
       "summary": "AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 'AI 루프'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다. 오픈AI에서 '코덱스' 데스크톱 앱 개발을 이끄는 앤드류 암브로시노는 29일(현지시간) '레니의 팟캐스트'에 출연, 흥미로운 사례를 소개했습니다.그는 AI 루프에 대한 질문을 받자, \"루프 시스템 같은 것은 이미 지"
@@ -42,6 +97,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires | Lex Fridman Podcast #498",
+      "link": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "published": "2026-06-30T21:16:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2875ee5bff2f",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
       "link": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
       "published": "2026-06-30T21:16:13+00:00",
       "summary": ""
@@ -647,6 +713,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "[AI는 지금] \"韓 모델 또 누락\"…'AI 3강' 노린 정부, 스탠퍼드 지표 정조준",
+      "link": "https://zdnet.co.kr/view/?no=20260630184431",
+      "published": "2026-06-30T09:53:50+00:00",
+      "summary": "[지디넷코리아]정부가 미국 스탠퍼드대학교 인공지능(AI) 인덱스에서 반복된 한국 AI 모델 누락 사례를 계기로 글로벌 평가 지표 대응 강화에 본격 나섰다. 국내 기업과 연구기관이 개발한 AI 모델 성과를 국가 차원에서 정리하고 해외 평가기관에 제공하는 체계를 갖추려는 움직임이다.30일 업계에 따르면 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 이날 문을 연 인공지능정책센터를 통해 국내외 AI 동향 분석과 정책 지원 기능을 본격화한다. 센터는 AI기본법 제11조에 따라 AI 정책 개발과 국제"
+    },
+    {
+      "id": "e88dc29f395e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] \"韓 모델 누락 방지\"…글로벌 지표 대응 'AI 3강' 다진다",
       "link": "https://zdnet.co.kr/view/?no=20260630184431",
       "published": "2026-06-30T09:53:50+00:00",
       "summary": "[지디넷코리아]정부가 미국 스탠퍼드대학교 인공지능(AI) 인덱스에서 반복된 한국 AI 모델 누락 사례를 계기로 글로벌 평가 지표 대응 강화에 본격 나섰다. 국내 기업과 연구기관이 개발한 AI 모델 성과를 국가 차원에서 정리하고 해외 평가기관에 제공하는 체계를 갖추려는 움직임이다.30일 업계에 따르면 과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 이날 문을 연 인공지능정책센터를 통해 국내외 AI 동향 분석과 정책 지원 기능을 본격화한다. 센터는 AI기본법 제11조에 따라 AI 정책 개발과 국제"
