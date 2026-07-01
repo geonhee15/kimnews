@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-01T18:59:13.590803+00:00",
-  "count": 4212,
+  "updated_at": "2026-07-01T20:49:05.066516+00:00",
+  "count": 4217,
   "items": [
+    {
+      "id": "29b31d27190b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+      "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "published": "2026-07-01T20:10:21+00:00",
+      "summary": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. T"
+    },
+    {
+      "id": "c63585aeb0e4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "published": "2026-07-01T19:18:07+00:00",
+      "summary": "Research appears to reveal a bug that could render the feature effectively useless."
+    },
+    {
+      "id": "1fa75d0f3812",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US home battery installations hit record high on rising electricity costs",
+      "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+      "published": "2026-07-01T19:11:15+00:00",
+      "summary": "Record home battery installations unlock options for grids—and AI data centers."
+    },
     {
       "id": "5a4c89b85432",
       "source": "TechCrunch",
@@ -12,6 +45,17 @@
       "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "published": "2026-07-01T18:54:18+00:00",
       "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+    },
+    {
+      "id": "0ac2ff48a990",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "published": "2026-07-01T18:47:22+00:00",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them."
     },
     {
       "id": "e6512ba17570",
@@ -265,6 +309,17 @@
       "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
       "published": "2026-07-01T13:29:29+00:00",
       "summary": "Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html Comments URL: https://news.ycombinator.com/item?id=48746445 Points: 516 # Comments: 401"
+    },
+    {
+      "id": "fa5b90934d13",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Internal Combustion Engine",
+      "link": "https://ciechanow.ski/internal-combustion-engine/",
+      "published": "2026-07-01T13:04:16+00:00",
+      "summary": "Article URL: https://ciechanow.ski/internal-combustion-engine/ Comments URL: https://news.ycombinator.com/item?id=48746076 Points: 212 # Comments: 45"
     },
     {
       "id": "d285b773f412",
