@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-01T20:49:05.066516+00:00",
-  "count": 4217,
+  "updated_at": "2026-07-01T22:15:48.279266+00:00",
+  "count": 4223,
   "items": [
+    {
+      "id": "798acf9969c7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WhatsApp usernames are already raising impersonation red flags",
+      "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+      "published": "2026-07-01T22:02:24+00:00",
+      "summary": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation."
+    },
+    {
+      "id": "0a4ac619ed4f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월1일] \"AI 시대 최대 리스크는 기술이 아닌 불평등\"…다시 거론된 '엥겔스의 정체'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212308",
+      "published": "2026-07-01T22:00:00+00:00",
+      "summary": "AI 시대의 최대 걸림돌은 컴퓨팅 성능이나 전력 부족이 아니라, AI가 만들어낼 불평등에 대한 사회적·정치적 반발이라는 분석이 나왔습니다. 경제학 및 기술 정책 분석가인 라이언 아벤트는 29일(현지시간) 파이낸셜타임스(FT)를 통해 AI 산업이 앞으로도 성장하려면 데이터센터와 발전소, 반도체 공장, 로봇 생산시설 등 막대한 자본 투자가 지속돼야 하는데, 이 과정에서 성장의 과실이 노동보다 자본에 집중될 가능성이 높다고 진단했습니다.이를 두고 산업혁명 초기 생산성은 크게 높아졌지만, 노동자들의 생활"
+    },
+    {
+      "id": "51da8961d7d9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+      "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+      "published": "2026-07-01T21:34:03+00:00",
+      "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems."
+    },
+    {
+      "id": "8085fecb46b7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures",
+      "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "published": "2026-07-01T21:00:00+00:00",
+      "summary": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an “Xbox reset.” The business, they said, is facing significant challenges, including a "
+    },
     {
       "id": "29b31d27190b",
       "source": "The Verge",
@@ -210,6 +254,28 @@
       "link": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
       "published": "2026-07-01T15:20:34+00:00",
       "summary": "A timely tale about a 50-year-old robotic arm..."
+    },
+    {
+      "id": "fd3b17ca4284",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "유비테크, 세계 최초 풀사이즈 양산형 울트라 바이오닉 휴머노이드 로봇 UWORLD U1 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260702001014",
+      "published": "2026-07-01T15:10:14+00:00",
+      "summary": "[지디넷코리아]유비테크, 1만 건 이상의 주문 기록 및 정신 건강 프로그램 지원을 위한 휴머노이드 로봇 100대 기부 이니셔티브 출범 선전, 중국 2026년 7월 1일 /PRNewswire/ -- 2026년 6월 30일, 유비테크(UBTECH)가 선전에서 2026 글로벌 출시 행사를 개최하여 인간과 로봇의 공생에 대한 장기적 비전을 소개하고, 세계 최초로 양산을 위해 설계된 풀사이즈 울트라 바이오닉 휴머노이드 로봇인 UWORLD U1 시리즈를 공식 공개했다. 라인업에는 U1 Lite 반신 에디션,"
+    },
+    {
+      "id": "5095e5c47bb1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DXC, DXC Private Cloud+ 출시…엔터프라이즈 클라우드의 제어 능력과 보안, 유연성 제고 기대",
+      "link": "https://zdnet.co.kr/view/?no=20260702001003",
+      "published": "2026-07-01T15:10:03+00:00",
+      "summary": "[지디넷코리아] Private Cloud+는 Dell 인프라를 기반으로 DXC OASIS가 운영하는 하이브리드 프라이빗 클라우드로서 민감하고 규제를 받는 워크로드를 운영하는 기업과 정부용으로 구축 퍼블릭 클라우드의 유연성과 프라이빗 클라우드의 보안, 거버넌스 및 제어를 결합해 기존 워크로드와 AI 워크로드를 모두 지원하는 솔루션 금융 서비스, 의료, 공공 부문, 제조 등 규제 대상 및 데이터 집약 산업에 적합하며 주권, 준법, AI 준비 환경을 기본적으로 지원. 애슈번, 버지니아, 2026년 7월"
     },
     {
       "id": "e74896384de3",
