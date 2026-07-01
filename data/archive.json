@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-01T14:30:22.832985+00:00",
-  "count": 4184,
+  "updated_at": "2026-07-01T16:56:16.644859+00:00",
+  "count": 4198,
   "items": [
+    {
+      "id": "cf7cf735fe18",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freights",
+      "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "published": "2026-07-01T16:48:58+00:00",
+      "summary": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money’s flowing back, and it’s the people wh"
+    },
+    {
+      "id": "b8d303788de4",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The weird history of the internet...",
+      "link": "https://www.youtube.com/watch?v=7B0ydm64cV8",
+      "published": "2026-07-01T16:33:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2835c3a795f8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "published": "2026-07-01T16:00:00+00:00",
+      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached."
+    },
+    {
+      "id": "718f9d2be6bc",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "link": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "published": "2026-07-01T15:59:29+00:00",
+      "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable thi"
+    },
+    {
+      "id": "c80be792ebe2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
+      "link": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
+      "published": "2026-07-01T15:20:34+00:00",
+      "summary": "A timely tale about a 50-year-old robotic arm..."
+    },
+    {
+      "id": "e74896384de3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The best Switch 2 case I’ve tried is cheaper than usual",
+      "link": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
+      "published": "2026-07-01T15:00:00+00:00",
+      "summary": "Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better "
+    },
+    {
+      "id": "1ce8a9f87000",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "published": "2026-07-01T14:35:16+00:00",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every t"
+    },
     {
       "id": "1c75ad71478d",
       "source": "TechCrunch",
@@ -12,6 +89,17 @@
       "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "published": "2026-07-01T14:25:23+00:00",
       "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
+    },
+    {
+      "id": "1306b097aaba",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "published": "2026-07-01T14:20:52+00:00",
+      "summary": "https://biotic.org/research/spudcell/ Comments URL: https://news.ycombinator.com/item?id=48747304 Points: 240 # Comments: 66"
     },
     {
       "id": "879e5cf7fbe4",
@@ -25,6 +113,17 @@
       "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
     },
     {
+      "id": "043bd7f3d0d9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브랜드 인게이지먼트 네트워크, 카타네오 인수 완료",
+      "link": "https://zdnet.co.kr/view/?no=20260701231002",
+      "published": "2026-07-01T14:10:02+00:00",
+      "summary": "[지디넷코리아] 이번 인수는 반복 수익을 창출하는 수익성 있는 기업용 소프트웨어 사업을 추가해 글로벌 AI 배포 플랫폼을 확장한다. 델라웨어주 윌밍턴 및 뮌헨, 2026년 7월 1일 /PRNewswire/ -- 기업용 AI 소프트웨어 기업 브랜드 인게이지먼트 네트워크(Brand Engagement Network, Inc., NASDAQ: BNAI, 이하 'BEN' 또는 '회사')가 6월 30일, 2025년 매출 860만 유로 이상을 달성하고 1000개 이상의 미디어 브랜드와 200개 이상의 방송 "
+    },
+    {
       "id": "30faaf883f55",
       "source": "TechCrunch",
       "kind": "article",
@@ -34,6 +133,17 @@
       "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
       "published": "2026-07-01T13:43:07+00:00",
       "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure."
+    },
+    {
+      "id": "88c78fc015c4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Most arguments are about ego, not ideas",
+      "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "published": "2026-07-01T13:29:29+00:00",
+      "summary": "Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html Comments URL: https://news.ycombinator.com/item?id=48746445 Points: 516 # Comments: 401"
     },
     {
       "id": "d285b773f412",
@@ -144,6 +254,17 @@
       "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
       "published": "2026-07-01T11:38:00+00:00",
       "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future."
+    },
+    {
+      "id": "9a9ea391de31",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "published": "2026-07-01T11:35:20+00:00",
+      "summary": "Article URL: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/ Comments URL: https://news.ycombinator.com/item?id=48745113 Points: 362 # Comments: 186"
     },
     {
       "id": "d322c2620352",
@@ -652,6 +773,17 @@
       "summary": ""
     },
     {
+      "id": "35f0e3757c9c",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI Just Entered A New Era",
+      "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "published": "2026-07-01T05:23:54+00:00",
+      "summary": ""
+    },
+    {
       "id": "6be67d75ef43",
       "source": "Wired",
       "kind": "article",
@@ -881,6 +1013,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260701101553",
       "published": "2026-07-01T03:00:02+00:00",
       "summary": "[지디넷코리아]기후에너지환경부는 '전기차 공공충전요금 체계 개편안'을 1일 확정하고 내달 1일부터 시행한다고 밝혔다.이번 개편으로 공공충전요금 체계는 기존 2단계에서, 완속 구간과 초급속 구간을 포함한 5단계로 세분화됐다. 요금 단가는 충전기 운영에 소요되는 전기요금, 운영비, 법정검사비 등을 반영해 산정됐다.전체 충전기의 약 90%를 차지하는 30kW 미만 완속충전기는 이번 개편으로 기존 공공충전요금 체계보다 kWh당 29.4원(약 9.1%)의 요금이 인하됐다.급속충전기는 설치·운영 비용이 높고"
+    },
+    {
+      "id": "44cbe93a4bb8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ArXiv's Next Chapter",
+      "link": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "published": "2026-07-01T02:51:36+00:00",
+      "summary": "Article URL: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/ Comments URL: https://news.ycombinator.com/item?id=48741748 Points: 237 # Comments: 74"
     },
     {
       "id": "6e7fc47a1ff1",
@@ -1508,6 +1651,17 @@
       "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "published": "2026-06-30T15:00:00+00:00",
       "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
+    },
+    {
+      "id": "7198c6cfd105",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published": "2026-06-30T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "59f4bf642752",
