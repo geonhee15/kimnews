@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-02T21:00:01.070687+00:00",
-  "count": 4340,
+  "updated_at": "2026-07-02T22:12:44.127635+00:00",
+  "count": 4347,
   "items": [
+    {
+      "id": "89c649b03c21",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "published": "2026-07-02T22:09:33+00:00",
+      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving h"
+    },
+    {
+      "id": "bd07f5b287b1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월2일] 'VLA vs 월드 모델' 경쟁의 의미…피지컬 AI 전쟁의 핵심은",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212351",
+      "published": "2026-07-02T22:00:00+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)가 1일 공개한 ‘피지컬 AI 핵심 경쟁력 확보 전략’에는 국내에서 갖춰야 할 핵심 기술로 '피지컬 AI 파운데이션 모델'과 '월드 모델'이 나란히 꼽혔습니다. 피지컬 AI 파운데이션 모델은 '로봇이 계획·추론·행동을 통합적으로 수행하도록 설계된 범용 모델'로 소개됐습니다. 그중 하나로는 대형언어모델(LLM)을 기반으로 하는 '비전-언어-행동(VLA) 모델'이 포함됩니다. 이처럼 로봇의 '행동'을 도출해 내는 것에 초점이 맞춰집니다.반면, 월드 모델은 '세상의 변화를"
+    },
+    {
+      "id": "9baf6ce7eeff",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+      "link": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "published": "2026-07-02T21:09:06+00:00",
+      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"gizmos\" built from an AI prompt, as reported by Business Insi"
+    },
     {
       "id": "db7e0ceb7857",
       "source": "TechCrunch",
@@ -78,6 +111,17 @@
       "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
       "published": "2026-07-02T17:29:37+00:00",
       "summary": "New US rules would legalize quiet supersonic flights without the sonic boom."
+    },
+    {
+      "id": "26cee3f0330d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메티스 글로벌 그룹, 블룸버그 비즈니스위크 금융기관 어워드 수상 격변의 시대를 위한 새로운 '자산 회복탄력성' 기준을 제시하다",
+      "link": "https://zdnet.co.kr/view/?no=20260703021004",
+      "published": "2026-07-02T17:10:04+00:00",
+      "summary": "[지디넷코리아]홍콩, 2026년 7월 2일 /PRNewswire/ -- 메티스 글로벌 그룹(\"메티스\")은 블룸버그 비즈니스위크/중국어판 금융기관 어워드에서 \"Trustee Service Excellence Award(수탁 서비스 우수상)\"을 7회째 수상했습니다. 이번 수상은 아시아-태평양 지역 신탁 산업에서 메티스의 선도적 위치를 다시 한번 확인시켜주며, 자회사 메티스 글로벌 (쿡 아일랜드) 리미티드(\"메티스 CI\")의 10주년과 맞물려 2026년 글로벌 경제 변혁 속에서 그룹의 장기 지속가능성과"
     },
     {
       "id": "220fb9d34581",
@@ -177,6 +221,28 @@
       "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "published": "2026-07-02T15:02:26+00:00",
       "summary": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv Comments URL: https://news.ycombinator.com/item?id=48762725 Points: 287 # Comments: 78"
+    },
+    {
+      "id": "2076ff0d0a1f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "라온시큐어 \"보안 3대 화두 ZT·에이전틱 AI·PQC 적극 대응\"",
+      "link": "https://zdnet.co.kr/view/?no=20260702232152",
+      "published": "2026-07-02T14:56:36+00:00",
+      "summary": "[지디넷코리아]라온시큐어(대표 이순형, 이정아)가 제로트러스트, 에이전틱 AI 보안, 양자내성암호(PQC) 등 중요성이 부각되고 있는 보안업계 이슈에 적극적으로 대응하고 있다.라온시큐어는 2일 자사 회의실에서 '라온시큐어 미디어 스터디 세션'을 개최하고, 취재진에 제로트러스트, 에이전틱 AI 보인, PQC 등을 중심으로 강연을 진행했다. 이번 행사는 보안 분야에 출입하는 기자들을 대상으로 부각되고 있는 보안 이슈에 대해 설명하고, 라온시큐어의 대응 방향을 소개하기 위해 2024년에 이어 올해 다시"
+    },
+    {
+      "id": "fb21940f8ef7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배환국 소프트캠프 대표 \"AI 권한관리로 사업 확장…고객사 호평\"",
+      "link": "https://zdnet.co.kr/view/?no=20260702214329",
+      "published": "2026-07-02T14:53:22+00:00",
+      "summary": "[지디넷코리아]소프트캠프가 인공지능(AI) 시대에 대응하는 보안 패러다임 전환을 제시했다. 에이전틱 AI 시대가 도래하면서 AI 에이전트는 내부 직원처럼 행동하기 때문에 AI 에이전트에 대한 신원 및 권한 관리, 가시성 확보가 점차 중요해진다는 판단이다.배환국 소프트캠프 대표는 2일 매년 개최하는 고객 초청 세미나인 '소프트캠프 솔루션데이'를 개최하기에 앞서 취재진과 오찬회를 진행하며, 소프트캠프의 비전에 대해 소개했다.그는 \"AI 보안이라고 하면 기존에는 허용할 것인지, 차단할 것인지 등에만 초"
     },
     {
       "id": "2c6b3749a8b1",
@@ -727,6 +793,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212350",
       "published": "2026-07-02T08:05:14+00:00",
       "summary": "마이크로소프트(MS)가 AI 투자 확대에 따른 비용을 통제하기 위해 수천명 규모의 추가 구조조정을 단행한다. 감원 규모는 전체 직원의 2.5% 미만으로 예상되며, 이르면 다음 주 공식 발표될 전망이다.1일(현지시간) 비즈니스 인사이더에 따르면, MS는 다음 주 중 대규모 감원 계획을 발표할 예정이다.정확한 시점은 확정되지 않았지만, 판매·컨설팅 조직을 비롯해 엔지니어링 부문과 X박스 게임 사업부까지 수천개의 일자리가 영향받을 것으로 알려졌다.이번 감원 규모는 지난해보다 작은 수준이다. MS의 전체"
+    },
+    {
+      "id": "e0bc55fa649e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성, 충청에 140조 투자해 HBM 팹 등 소재·부품 중심지 육성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212371",
+      "published": "2026-07-02T08:05:00+00:00",
+      "summary": "삼성은 2일 삼성디스플레이 아산사업장에서 개최된 ‘충청권 첨단산업 발전비전 국민보고회’에서 충청을 초격차 소재∙부품의 중심지로 육성하기 위해 140조원을 투자할 계획이라고 밝혔다.삼성은 미래 먹거리인 ▲최첨단 디스플레이 ▲HBM 팹 ▲차세대 배터리 ▲AI 서버용 패키지 기판을 중심으로 투자할 계획이다. 충청을 글로벌 최첨단 소재∙부품 기지로 조성해 양질의 일자리 25만개를 창출한다는 목표이다.이를 통해, 삼성은 소재∙부품 산업의 미래를 충청에서 실현해 나갈 예정이라고 전했다.우선, 삼성디스플레이는"
     },
     {
       "id": "000128df0ff1",
