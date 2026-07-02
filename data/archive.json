@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-02T19:50:55.641879+00:00",
-  "count": 4338,
+  "updated_at": "2026-07-02T21:00:01.070687+00:00",
+  "count": 4340,
   "items": [
+    {
+      "id": "db7e0ceb7857",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "published": "2026-07-02T20:11:59+00:00",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold."
+    },
     {
       "id": "d69390a9a70f",
       "source": "TechCrunch",
@@ -177,6 +188,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
       "published": "2026-07-02T14:39:17+00:00",
       "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns."
+    },
+    {
+      "id": "67bfb7419162",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Podman v6.0.0",
+      "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "published": "2026-07-02T14:23:09+00:00",
+      "summary": "Article URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/ Comments URL: https://news.ycombinator.com/item?id=48762098 Points: 209 # Comments: 74"
     },
     {
       "id": "4f89f252c63a",
