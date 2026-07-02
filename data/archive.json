@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-02T13:51:57.649918+00:00",
-  "count": 4308,
+  "updated_at": "2026-07-02T16:03:26.211971+00:00",
+  "count": 4321,
   "items": [
+    {
+      "id": "9ba0954fcfd8",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How GitHub used secret scanning to reach inbox zero",
+      "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "published": "2026-07-02T16:00:00+00:00",
+      "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "b1b2af342043",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Achieving operational excellence with AI",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "published": "2026-07-02T15:37:08+00:00",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-t"
+    },
+    {
+      "id": "ef865540540a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "published": "2026-07-02T15:20:51+00:00",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom."
+    },
+    {
+      "id": "8a655aab8613",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "published": "2026-07-02T15:14:03+00:00",
+      "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products."
+    },
+    {
+      "id": "4f89f252c63a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US government says it got hacked — again",
+      "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
+      "published": "2026-07-02T14:22:36+00:00",
+      "summary": "A top Democrat on the Senate's Intelligence Committee warned that the information accessed on a Homeland Security intelligence-sharing network may risk national security."
+    },
+    {
+      "id": "3192c2e33a98",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla’s Q2 sales jump 25 percent",
+      "link": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
+      "published": "2026-07-02T14:14:48+00:00",
+      "summary": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,758 vehicles between April and June of this year, including 44"
+    },
+    {
+      "id": "c4d10a4e4218",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Woman's puzzling decline turns out to be cobalt poisoning from hip replacement",
+      "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+      "published": "2026-07-02T14:04:28+00:00",
+      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip."
+    },
+    {
+      "id": "1257e97c9749",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
+      "link": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
+      "published": "2026-07-02T14:00:00+00:00",
+      "summary": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France. I know, it’s a hard gig, but I do it for you. […]"
+    },
+    {
+      "id": "d853d7a5392c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "published": "2026-07-02T13:53:00+00:00",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+    },
     {
       "id": "e158600615c9",
       "source": "Wired",
@@ -12,6 +111,17 @@
       "link": "https://www.wired.com/story/7-google-account-settings-you-should-change/",
       "published": "2026-07-02T13:30:00+00:00",
       "summary": "Adjust your options for things like account recovery, ad personalization, and which parts of your Google profile are shared publicly."
+    },
+    {
+      "id": "60521ebb8a17",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글, EU서 7조 3천억 과징금…반독점 소송 졌다",
+      "link": "https://zdnet.co.kr/view/?no=20260702222358",
+      "published": "2026-07-02T13:24:33+00:00",
+      "summary": "[지디넷코리아]구글이 8년 여에 걸친 법정 공방 끝에 유럽연합(EU)에서 7조원 규모 과징금을 부과받았다.유럽사법재판소(ECJ)가 2일(현지시간) 구글과 모회사 알파벳이 유럽연합집행위원회(EC)를 상대로 제기한 안드로이드 반독점 소송 상고를 기각했다고 CNBC를 비롯한 외신들이 보도했다.이 같은 판결로 안드로이드 운영체제(OS) 끼워팔기로 구글에 부과된 41억 2500만 유로(약 7조 2900억원) 과징금이 최종 확정됐다.ECJ는 이날 공식 보도자료를 통해 “구글과 모회사 알파벳이 일반 법원 판결"
     },
     {
       "id": "8870be421b24",
@@ -34,6 +144,17 @@
       "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "published": "2026-07-02T12:51:44+00:00",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are p"
+    },
+    {
+      "id": "17a98675930a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
+      "link": "https://zdnet.co.kr/view/?no=20260702214601",
+      "published": "2026-07-02T12:46:01+00:00",
+      "summary": "[지디넷코리아]오픈AI가 AI 모델 추론(inference) 비용을 절반 이상 줄이는 최적화 기술을 개발한 것으로 알려졌다. 데이터센터와 GPU 확보 경쟁이 치열한 가운데, 기존 인프라의 효율을 끌어올리는 '컴퓨트 멀티플라이어(Compute Multiplier)' 전략이 새 경쟁력으로 떠올랐다.디 인포메이션은 30일(현지시간) 오픈AI 엔지니어들이 이달 초 새 추론 최적화 기법으로 모델 실행 비용을 절반 이상 줄였다고 내부에 공유했다고 보도했다. 특히 로그인하지 않은 이용자용 챗GPT에는 이 기술"
     },
     {
       "id": "56b8db13c496",
@@ -130,6 +251,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "\"2030년까지 100큐비트 양자프로세서 실증\"",
+      "link": "https://zdnet.co.kr/view/?no=20260702190521",
+      "published": "2026-07-02T10:05:21+00:00",
+      "summary": "[지디넷코리아]오는 2030년까지 국가R&D 중장기 투자를 위한 4대 전략(NEST) 및 8대 과제, 20개 분야가 처음 공개됐다. 목표는 AI 3대 강국 및 과학기술 5대 강국 실현이다.과학기술정보통신부는 2일 서울 양재동 엘타워에서 제2차 국가연구개발 중장기 투자전략(안)(2026~2030) 마련을 위한 공청회를 개최했다. 전략안은 김영수 연구개발투자기획과장이 발표했다.과기정통부는 여론을 추가로 수렴, 최종 투자전략안을 확정할 계획이다.목표는 정부R&D 총지출 대비 5%를 투입해 기술경쟁력 최"
+    },
+    {
+      "id": "8b4ba4e50711",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "과기정통부 \"2030년까지 100큐비트 양자프로세서 실증\"",
       "link": "https://zdnet.co.kr/view/?no=20260702190521",
       "published": "2026-07-02T10:05:21+00:00",
       "summary": "[지디넷코리아]오는 2030년까지 국가R&D 중장기 투자를 위한 4대 전략(NEST) 및 8대 과제, 20개 분야가 처음 공개됐다. 목표는 AI 3대 강국 및 과학기술 5대 강국 실현이다.과학기술정보통신부는 2일 서울 양재동 엘타워에서 제2차 국가연구개발 중장기 투자전략(안)(2026~2030) 마련을 위한 공청회를 개최했다. 전략안은 김영수 연구개발투자기획과장이 발표했다.과기정통부는 여론을 추가로 수렴, 최종 투자전략안을 확정할 계획이다.목표는 정부R&D 총지출 대비 5%를 투입해 기술경쟁력 최"
@@ -694,6 +826,17 @@
       "link": "https://f-droid.org/2026/07/01/adv-malware.html",
       "published": "2026-07-02T03:00:15+00:00",
       "summary": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html Comments URL: https://news.ycombinator.com/item?id=48755965 Points: 972 # Comments: 397"
+    },
+    {
+      "id": "b034a3ea94c6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "published": "2026-07-02T03:00:15+00:00",
+      "summary": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html Comments URL: https://news.ycombinator.com/item?id=48755965 Points: 1236 # Comments: 506"
     },
     {
       "id": "5be9699f062d",
