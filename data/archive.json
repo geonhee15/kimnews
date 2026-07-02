@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-02T16:03:26.211971+00:00",
-  "count": 4321,
+  "updated_at": "2026-07-02T18:02:18.061613+00:00",
+  "count": 4328,
   "items": [
+    {
+      "id": "220fb9d34581",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+      "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+      "published": "2026-07-02T16:30:37+00:00",
+      "summary": "Early reports indicate there may be another case, but spread is thought to be localized."
+    },
+    {
+      "id": "3dd861295a72",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "link": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "published": "2026-07-02T16:27:26+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3047d337a168",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
+      "published": "2026-07-02T16:15:41+00:00",
+      "summary": "The EU went after Google for the practice of bundling its search engine and browser with Android."
+    },
     {
       "id": "9ba0954fcfd8",
       "source": "GitHub Blog",
@@ -47,6 +80,28 @@
       "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products."
     },
     {
+      "id": "54171ac83802",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "published": "2026-07-02T15:12:25+00:00",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration."
+    },
+    {
+      "id": "2c6b3749a8b1",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "link": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "published": "2026-07-02T14:39:17+00:00",
+      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns."
+    },
+    {
       "id": "4f89f252c63a",
       "source": "TechCrunch",
       "kind": "article",
@@ -75,6 +130,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Woman's puzzling decline turns out to be cobalt poisoning from hip replacement",
+      "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+      "published": "2026-07-02T14:04:28+00:00",
+      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip."
+    },
+    {
+      "id": "1887f68965f0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
       "link": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
       "published": "2026-07-02T14:04:28+00:00",
       "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip."
@@ -111,6 +177,17 @@
       "link": "https://www.wired.com/story/7-google-account-settings-you-should-change/",
       "published": "2026-07-02T13:30:00+00:00",
       "summary": "Adjust your options for things like account recovery, ad personalization, and which parts of your Google profile are shared publicly."
+    },
+    {
+      "id": "37360091bad9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "link": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "published": "2026-07-02T13:25:25+00:00",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a Comments URL: https://news.ycombinator.com/item?id=48761229 Points: 230 # Comments: 97"
     },
     {
       "id": "60521ebb8a17",
