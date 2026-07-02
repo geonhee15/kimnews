@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-02T18:02:18.061613+00:00",
-  "count": 4328,
+  "updated_at": "2026-07-02T19:50:55.641879+00:00",
+  "count": 4338,
   "items": [
+    {
+      "id": "d69390a9a70f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "published": "2026-07-02T19:14:46+00:00",
+      "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges."
+    },
+    {
+      "id": "60b25e9b5cad",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "published": "2026-07-02T18:44:02+00:00",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+    },
+    {
+      "id": "148b484a5cdd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "published": "2026-07-02T18:31:09+00:00",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
+    },
+    {
+      "id": "6888b8c2ff3b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
+      "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
+      "published": "2026-07-02T18:19:03+00:00",
+      "summary": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big discounts ahead of the July 4th holiday. It makes a bunch o"
+    },
+    {
+      "id": "a66b730d9af9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "published": "2026-07-02T18:01:20+00:00",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs."
+    },
+    {
+      "id": "643fe9f76dd8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "published": "2026-07-02T17:29:37+00:00",
+      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom."
+    },
     {
       "id": "220fb9d34581",
       "source": "Ars Technica",
@@ -89,6 +155,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
       "published": "2026-07-02T15:12:25+00:00",
       "summary": "Insiders say Sam Altman is in active talks with the Trump administration."
+    },
+    {
+      "id": "a1894bfaaaf6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "published": "2026-07-02T15:02:26+00:00",
+      "summary": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv Comments URL: https://news.ycombinator.com/item?id=48762725 Points: 287 # Comments: 78"
     },
     {
       "id": "2c6b3749a8b1",
@@ -212,6 +289,17 @@
       "summary": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck."
     },
     {
+      "id": "92adc2e7aa34",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to ask for help from people who don't know you",
+      "link": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "published": "2026-07-02T13:19:22+00:00",
+      "summary": "Article URL: https://pradyuprasad.com/writings/how-to-ask-for-help/ Comments URL: https://news.ycombinator.com/item?id=48761118 Points: 230 # Comments: 33"
+    },
+    {
       "id": "354f7f794ca5",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -276,6 +364,17 @@
       "link": "https://www.youtube.com/watch?v=ThYV4Kpf9Bk",
       "published": "2026-07-02T11:30:23+00:00",
       "summary": ""
+    },
+    {
+      "id": "186a2200b2f6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "link": "https://github.com/Chocobozzz/PeerTube",
+      "published": "2026-07-02T11:17:45+00:00",
+      "summary": "Article URL: https://github.com/Chocobozzz/PeerTube Comments URL: https://news.ycombinator.com/item?id=48759634 Points: 313 # Comments: 121"
     },
     {
       "id": "8aa401f1fa45",
@@ -1351,6 +1450,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "The weird history of the internet...",
+      "link": "https://www.youtube.com/watch?v=7B0ydm64cV8",
+      "published": "2026-07-01T16:33:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "91506bf79d59",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Who really invented the internet...?",
       "link": "https://www.youtube.com/watch?v=7B0ydm64cV8",
       "published": "2026-07-01T16:33:28+00:00",
       "summary": ""
