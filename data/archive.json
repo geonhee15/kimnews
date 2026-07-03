@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-03T20:59:05.323511+00:00",
-  "count": 4434,
+  "updated_at": "2026-07-03T22:07:20.874238+00:00",
+  "count": 4439,
   "items": [
+    {
+      "id": "8ec725a01b47",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월3일] \"비싼 모델만 쓸 필요 없다\"…AI 토큰 비용 절감이 보여주는 변화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212386",
+      "published": "2026-07-03T22:00:00+00:00",
+      "summary": "최근 해외 AI 업계에서 가장 큰 화두 중 하나는 기업의 'AI 토큰 비용 줄이기'입니다. AI 에이전트가 여러 단계를 거쳐 작업을 수행하면서 토큰 사용량이 급증하고, AI 예산이 예상보다 빠르게 소진되는 사례가 잇따르고 있습니다.이에 따라 해외의 주요 기업들은 과거 클라우드 컴퓨팅에서 활용했던 '핀옵스(FinOps)' 개념을 AI 운영에도 적용하기 시작한 것으로 알려졌습니다. 단순히 더 저렴한 모델을 찾는 것이 아니라, 업무 특성에 맞게 모델을 배치하고 토큰 사용량을 관리하는 'AI 핀옵스'가 "
+    },
+    {
+      "id": "f9b54c3dabc8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-07-03T21:20:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
     {
       "id": "f9564bb53b47",
       "source": "TechCrunch",
@@ -67,6 +89,28 @@
       "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
       "published": "2026-07-03T16:30:00+00:00",
       "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization."
+    },
+    {
+      "id": "1127b5c0ad3b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Costco is the anti-Amazon",
+      "link": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "published": "2026-07-03T15:14:55+00:00",
+      "summary": "Article URL: https://phenomenalworld.org/analysis/the-anti-amazon/ Comments URL: https://news.ycombinator.com/item?id=48776044 Points: 215 # Comments: 191"
+    },
+    {
+      "id": "2cec83a116e5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "link": "https://github.com/jamesob/local-llm",
+      "published": "2026-07-03T15:03:43+00:00",
+      "summary": "Article URL: https://github.com/jamesob/local-llm Comments URL: https://news.ycombinator.com/item?id=48775921 Points: 225 # Comments: 103"
     },
     {
       "id": "a443d18aa4bf",
@@ -375,6 +419,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212409",
       "published": "2026-07-03T08:00:00+00:00",
       "summary": "■ 딥엑스(대표 김녹원)는 일본 유통기업 고시다테크와 협력해 딥엑스의 신경망처리장치(NPU)를 활용한 엣지 AI 확산에 나선다고 밝혔다. 일본 진출의 주력 NPU로 활용되는 '디엑스-M1(DX-M1)'은 5나노 공정 기반 초저전력 AI 반도체로 25TOPS급 AI 연산 성능과 3~5W 수준의 저전력 구동을 제공하는 것이 특징이다. NPU와 소프트웨어 개발 환경, 레퍼런스 플랫폼, 기술 지원 등을 제공해 일본 고객사의 제품 개발과 양산을 지원할 계획이다.■ 인핸스(대표 이승현)는 NICE평가정보로부"
+    },
+    {
+      "id": "c93f728cd78d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성, 영남에 60조 투자…‘글로벌 피지컬 AI 혁신 클러스터’ 선언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212420",
+      "published": "2026-07-03T07:55:00+00:00",
+      "summary": "삼성은 3일 경남 진주시 경상국립대에서 열린 ‘영남권 첨단산업 발전비전 국민보고회’에서 영남 지역을 ‘글로벌 피지컬 AI 혁신 클러스터’로 조성하기 위해 총 60조원을 투자하겠다고 발표했다.이번 투자는 AX와 로봇 기술을 활용해 기존의 전통 제조 산업을 최첨단 스마트 산업으로 체질을 개선하는 데 초점이 맞춰졌다. 삼성은 이를 통해 고부가가치 중심의 양질의 일자리 20만개를 창출할 수 있을 것으로 기대하고 있다.삼성은 계열사별 역량을 동원해 영남권 주요 거점 도시를 고도화된 AI·로봇·모빌리티 기지"
     },
     {
       "id": "5c5786b32643",
