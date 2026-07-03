@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-03T16:44:44.868403+00:00",
-  "count": 4425,
+  "updated_at": "2026-07-03T18:03:34.816365+00:00",
+  "count": 4429,
   "items": [
+    {
+      "id": "578d32ca444a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+      "published": "2026-07-03T17:33:55+00:00",
+      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but "
+    },
+    {
+      "id": "37fbd4690748",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Game Physics Just Got 170 Times Faster",
+      "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+      "published": "2026-07-03T17:19:59+00:00",
+      "summary": ""
+    },
     {
       "id": "0cc751c0e463",
       "source": "Wired",
@@ -45,6 +67,17 @@
       "link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
       "published": "2026-07-03T13:12:35+00:00",
       "summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in any conspiracy or coordinated scheme\" for the \"purpose of in"
+    },
+    {
+      "id": "f74db9718255",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "published": "2026-07-03T13:01:49+00:00",
+      "summary": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/ Comments URL: https://news.ycombinator.com/item?id=48774518 Points: 352 # Comments: 54"
     },
     {
       "id": "4603185f6a95",
@@ -771,6 +804,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212377",
       "published": "2026-07-03T01:54:45+00:00",
       "summary": "자체 AI 칩 개발에 착수한 앤트로픽이 생산 파트너로 삼성전자와 협력하는 방안을 검토 중인 것으로 알려졌다. 2일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 현재 자체 AI 서버용 프로세서 개발을 위한 초기 기획 단계로 삼성전자와 칩 생산 협력 가능성을 논의하고 있다.프로젝트는 아직 초기 단계로, 칩의 용도와 성능, 서버 내 구성 방식 등을 결정하는 수준에 머물러 있으며, 세부 설계나 검증, 양산 단계에는 아직 진입하지 않은 것으로 전해졌다.AI 칩 개발은 연산 성능뿐 아니라 전력 소비, 메모"
+    },
+    {
+      "id": "3ba77cf327f8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Safari MCP server for web developers",
+      "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "published": "2026-07-03T01:37:11+00:00",
+      "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/ Comments URL: https://news.ycombinator.com/item?id=48769639 Points: 219 # Comments: 63"
     },
     {
       "id": "2b9124fd6888",
