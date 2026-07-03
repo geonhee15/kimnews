@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-03T18:03:34.816365+00:00",
-  "count": 4429,
+  "updated_at": "2026-07-03T19:48:20.851686+00:00",
+  "count": 4434,
   "items": [
+    {
+      "id": "f9564bb53b47",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published": "2026-07-03T18:43:00+00:00",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "id": "a4f63d7807b0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
+      "link": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
+      "published": "2026-07-03T18:13:15+00:00",
+      "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale."
+    },
     {
       "id": "578d32ca444a",
       "source": "The Verge",
@@ -20,6 +42,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Game Physics Just Got 170 Times Faster",
+      "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+      "published": "2026-07-03T17:19:59+00:00",
+      "summary": ""
+    },
+    {
+      "id": "0b183e1740de",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "They Said This Will Never Run In Real Time",
       "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
       "published": "2026-07-03T17:19:59+00:00",
       "summary": ""
@@ -78,6 +111,17 @@
       "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
       "published": "2026-07-03T13:01:49+00:00",
       "summary": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/ Comments URL: https://news.ycombinator.com/item?id=48774518 Points: 352 # Comments: 54"
+    },
+    {
+      "id": "8941578d434c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "published": "2026-07-03T13:01:49+00:00",
+      "summary": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/ Comments URL: https://news.ycombinator.com/item?id=48774518 Points: 428 # Comments: 72"
     },
     {
       "id": "4603185f6a95",
@@ -243,6 +287,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212399",
       "published": "2026-07-03T08:57:10+00:00",
       "summary": "마이크로소프트(MS)가 소비자용과 기업용으로 나뉘어 있던 AI 서비스 '코파일럿(Copilot)'을 하나의 플랫폼으로 통합하고, AI 코딩과 자율형 에이전트를 포함한 '슈퍼 앱' 형태로 전면 개편한다. 최근 AI 경쟁 심화 속에서 낮은 활용도와 복잡한 제품 구조를 개선하고, 고객에게 실질적인 생산성을 제공하는 AI 플랫폼으로 재정비하겠다는 전략이다.2일(현지시간) 디 인포메이션에 따르면, MS는 오는 8월 출시를 목표로 소비자용 코파일럿과 기업용 코파일럿을 하나의 통합 애플리케이션으로 개편하고 있"
+    },
+    {
+      "id": "4050286ab535",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+      "link": "https://wordgard.net/",
+      "published": "2026-07-03T08:50:47+00:00",
+      "summary": "Article URL: https://wordgard.net/ Comments URL: https://news.ycombinator.com/item?id=48772573 Points: 205 # Comments: 76"
     },
     {
       "id": "0c2c9f6c6c1a",
