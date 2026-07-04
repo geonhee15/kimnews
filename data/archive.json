@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-04T09:52:14.359444+00:00",
-  "count": 4480,
+  "updated_at": "2026-07-04T11:22:42.304746+00:00",
+  "count": 4492,
   "items": [
+    {
+      "id": "1d3d05ea5390",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 '가죽 재킷', 소더비 경매에 등장...낙찰가 9000만원 예상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212433",
+      "published": "2026-07-04T10:33:56+00:00",
+      "summary": "젠슨 황 엔비디아 CEO의 상징적인 검은색 가죽 재킷이 글로벌 미술품 경매사 소더비의 자선 경매에 부쳐진다.소더비는 최근 황 CEO가 착용한 가죽 재킷의 경매를 진행하며, 예상 낙찰가를 4만~6만달러(약 6120만~9180만원)으로 책정했다.이번 경매에 출품된 의류는 톰 포드 제품으로, 황 CEO가 2023년 10월18일 타이베이에서 열린 '폭스콘 테크 데이'에서 실제 착용했던 것이다. 글로벌 인증 기관인 PSA가 사진 대조법을 통해 진품임을 확인했으며, 재킷 안쪽에 포함된 젠슨 황의 친필 서명도"
+    },
+    {
+      "id": "d19400bf4978",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone",
+      "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "published": "2026-07-04T10:30:00+00:00",
+      "summary": "Apple built a tool for people with cognitive disabilities, but I accidentally discovered it’s also the best kids’ phone setup no one is talking about—not even Apple."
+    },
+    {
+      "id": "addf3a7c42db",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
+      "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
+      "published": "2026-07-04T10:30:00+00:00",
+      "summary": "Plus: Alleged Scattered Spider hacking member extradited, dozens of license plate reader errors, and Indian officials are concerned about WhatsApp’s username rollout."
+    },
+    {
+      "id": "6d3268981c73",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 앤트로픽 '클로드' 직접 서비스 추진...\"클라우드 진입 준비\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212432",
+      "published": "2026-07-04T10:10:39+00:00",
+      "summary": "메타가 네오클라우드 시장에 진입할 수 있다는 최근 보도에 이어, 이번에는 앤트로픽의 '클로드'를 직접 서비스할 수 있다는 예측이 제기됐다. 마이크로소프트(MS)의 'AI 파운드리'나 아마존웹서비스(AWS)의 '베드록', 구글의 '버텍스 AI'처럼 타사의 최고 모델을 자체 데이터센터 인프라에 탑재해 시장에 판매하겠다는 전략이다.IT 인프라 분석 전문 세미애널리시스(SemiAnalysis)는 3일(현지시간) 메타가 현재 앤트로픽과 클로드의 '프라이빗 인스턴스(Private Instance) 접근 권한"
+    },
+    {
+      "id": "e303ea704983",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "투비유니콘 재난 현장 영상 처리용 시맨틱 AI, '미션 브레인' 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260704184349",
+      "published": "2026-07-04T09:43:49+00:00",
+      "summary": "[지디넷코리아]재난·안전분야 AI 전문기업 투비유니콘(대표 윤진욱)이 재난 현장 영상 데이터를 의미있는 정보로 변환하는 미션 크리티컬(필수불가결) AI 플랫폼과 솔루션을 공개했다.이 기술의 핵심은 '시맨틱 AI'다. 위성이나 드론이 촬영한 1GB 이상 대용량 영상에서 화재, 연기, 토사 유출 등 위험 요소를 손쉽게 자동 식별한다. 단순한 영상 인식을 넘어 위치와 규모, 확산 방향 등 핵심 데이터를 바탕으로 상황이 발생한 현장의 맥락을 이해하고, 이를 수백분의 1에 해당하는 수 MB 용량 핵심 프롬"
+    },
+    {
+      "id": "cbdbd2e6c82a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "샌드위치 체인 상장 서류에 'AI' 22번…저지 마익스 IPO 신청",
+      "link": "https://zdnet.co.kr/view/?no=20260704183001",
+      "published": "2026-07-04T09:30:01+00:00",
+      "summary": "[지디넷코리아]미국 샌드위치 체인 저지 마익스(Jersey Mike's)가 7월 2일(현지시간) 뉴욕증권거래소 상장을 신청했다. 티커는 JMKE다. 블랙스톤이 소유한 이 회사는 최근 수년간 동일 점포 매출이 50% 성장했다고 밝혔다.저지 마익스는 1956년 설립된 미국 2위 샌드위치 체인으로, 매장 수는 3,100곳이 넘는다. 블랙스톤은 2024년 11월 부채를 포함해 80억 달러(약 12조 4천억 원)에 경영권을 인수했고, 회사는 지난 4월 비공개로 상장 서류를 낸 뒤 이번에 이를 공개했다.저지"
+    },
+    {
+      "id": "0ddbc2e0c301",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"한반도 전체 15분이내 촬영하려면 군집위성 92기 필요\"",
+      "link": "https://zdnet.co.kr/view/?no=20260704181042",
+      "published": "2026-07-04T09:10:42+00:00",
+      "summary": "[지디넷코리아]우리나라 관심지역 모두를 15분 이내 감시하거나 정밀 추적하기 위해서는 IR(적외선)센서를 기반으로 하는 GEO(정지궤도) 상시감시 위성 2기와 LEO(저궤도) 고빈도 정밀관측 위성 90기가 필요하다는 주장이 제기됐다.이상철 한국항공우주연구원장은 김현 의원실과 공동으로 국회 의원회관 2층 대회의실에서 개최한 '제1회 KARI 항공우주기술 포럼'에서 연사로 나서 이같이 주장했다.이 행사는 '공공·안보와 우주경제의 새로운 지평, K-군집위성(Constellation)'을 주제로 산·학·"
+    },
     {
       "id": "0e7f1abc409f",
       "source": "조코딩",
@@ -12,6 +89,17 @@
       "link": "https://www.youtube.com/watch?v=5iRf37Z8Wd4",
       "published": "2026-07-04T09:00:08+00:00",
       "summary": ""
+    },
+    {
+      "id": "265d7cb40804",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, 30일 3분기 실적 발표…핵심 내용 '이것'",
+      "link": "https://zdnet.co.kr/view/?no=20260703131215",
+      "published": "2026-07-04T09:00:03+00:00",
+      "summary": "[지디넷코리아]애플이 오는 30일(현지시간) 2026회계연도 3분기(4~6월) 실적을 발표할 예정이라고 애플인사이더 등 외신이 2일(현지시간) 보도했다.실적 발표 후에는 팀 쿡 애플 최고경영자(CEO)와 케반 파레크 최고재무책임자(CFO)가 참석하는 콘퍼런스콜이 오후 5시(미국 동부시간)에 진행된다. 이번 3분기 실적 발표는 팀 쿡 CEO가 CEO 자격으로 진행하는 마지막 실적 발표가 될 전망이다. 애플은 오는 10월 예정된 4분기 실적 발표부터 차기 CEO인 존 터너스가 직접 콘퍼런스콜을 진행할"
     },
     {
       "id": "403e3c1ec809",
@@ -36,6 +124,17 @@
       "summary": ""
     },
     {
+      "id": "32ee8a28d30c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미스트랄, 수학 증명·코드 검증 특화 ‘린스트랄 1.5’ 전격 공개…“퍼트넘벤치서 역대 최고 성적”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212428",
+      "published": "2026-07-04T08:22:39+00:00",
+      "summary": "미스트랄 AI는 3일(현지시간) 수학 증명과 코드 검증를 위한 오픈소스 AI 모델 ‘린스트랄 1.5(Leanstral 1.5)’를 출시했다고 발표했다. 린스트랄 1.5는 기존 린스트랄-2603의 후속 모델로, 미스트랄 스몰 4 계열을 기반으로 개발됐다. 수학 정리와 프로그램의 논리적 정확성을 기계적으로 검증하는 증명 보조 시스템 '린 4(Lean 4)'에 최적화된 AI 코드 에이전트로 설계됐으며, 수학 정리 증명과 코드 검증을 주요 목표로 한다.린 4은 수학 증명을 위해 개발된 프로그래밍 언어 린"
+    },
+    {
       "id": "443aa24a7e50",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -47,6 +146,17 @@
       "summary": "[지디넷코리아]세계 최대 규모 이스포츠 축제인 '이스포츠 월드컵 2026(이하 EWC26)'이 공식 개막을 앞두고 전 세계 팬들의 이목을 집중시키고 있다.EWC26은 오는 8일(현지시간) 프랑스 파리 파리 포르트 드 베르사유에서 공식 개막식을 개최한다. 해당 경기장은 2024년 파리 올림픽 예선전과 본 경기를 치룬 장소다. 경기장 면적은 일산에 위치한 킨텍스의 2배 수준이다.이번 대회는 원래 사우디아라비아 리야드에서 개최될 예정이었으나 중동 지역의 정세 불안으로 인해 개최지가 변경됐다. 이에 따라"
     },
     {
+      "id": "9eabb44ef590",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 차세대 '루빈 울트라' 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212421",
+      "published": "2026-07-04T07:49:07+00:00",
+      "summary": "엔비디아가 2027년 출시를 목표로 개발 중인 차세대 AI 가속기 '루빈 울트라(Rubin Ultra)'의 설계를 기존 4개 GPU 칩렛(chiplet) 구성에서 2개 칩렛 구성으로 변경한 것으로 알려졌다. 제조 난이도와 생산성을 고려한 결정으로 전해지며, 사실일 경우 차세대 AI 반도체와 고대역폭 메모리(HBM) 시장에도 적지 않은 영향을 미칠 것으로 전망된다.지난 30일(현지시간) 세미애널리시스에 따르면, 엔비디아는 당초 루빈 울트라에 4개의 GPU 연산 칩렛을 탑재하는 방안을 추진했다. 이는"
+    },
+    {
       "id": "bd1d575e8402",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -56,6 +166,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260704164616",
       "published": "2026-07-04T07:46:16+00:00",
       "summary": "[지디넷코리아]정부가 달 자원 확보전에 뛰어들었다. 이를 준비하기 위해 달 궤도 통신위성을 띄워 탐사부터 하기로 했다. 달착륙선 발사는 예정보다 2년 앞당기기로 했다.우주항공청은 경상국립대학교에서 제5회 국가우주위원회를 열고, '대한민국 우주항공 산업육성 전략'을 심의·의결했다고 4일 밝혔다.우주항공 산업 육성 전략 핵심은 '방향전환'이다. 우주청이 R&D 주도에서 수요창출로 전략을 수정하기로 했다. 존리 우주항공임무본부장이 떠난 뒤, 혼란을 겪던 우주청이 오태석 원장 체제를 맞아 R&D 수행 체"
+    },
+    {
+      "id": "ce395a5c5c8d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인텔, 코어 울트라·제온 CPU 일부 가격 인상...\"공급망 비용·강한 수요 반영\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212422",
+      "published": "2026-07-04T07:41:47+00:00",
+      "summary": "인텔이 일부 소비자용 및 데이터센터용 프로세서의 권장 판매가격(RCP)을 인상했다. 공급망 비용 상승과 강한 수요 등 시장 환경 변화를 이유로 들었지만, 가격 인상이 특정 제품군에만 집중된 점을 고려하면 실제로는 수요가 높은 제품의 수익성을 높이기 위한 전략이라는 분석도 제기된다.인텔은 3일(현지시간) 일부 소비자용과 서버용 CPU의 가격을 인상했다고 공식 확인했다.\"최근 가격 조정은 공급망 비용 상승과 인텔 코어 울트라 200S 플러스(Core Ultra 200S Plus) 프로세서에 대한 강한"
     },
     {
       "id": "8af32df59aa9",
@@ -375,6 +496,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260704072822",
       "published": "2026-07-04T00:10:03+00:00",
       "summary": "[지디넷코리아]오랜 기간 터치스크린 맥 출시를 꺼려왔던 애플이 OLED 터치스크린을 탑재한 '맥북 울트라'를 선보일 가능성이 커지고 있다. 이 제품은 터치스크린 기반 윈도 노트북과 경쟁하며, 애플이 그 동안 공략하지 못했던 고성능 크리에이터 시장을 겨냥할 것으로 전망된다.IT매체 엔가젯은 최근에 나온 보도와 공급망 정보를 종합해 맥북 울트라의 예상 사양과 출시 시기, 가격 등을 최근 보도했다.터치스크린 맥에 대한 소문은 2023년 초부터 이어져 왔다. 과거 스티브 잡스는 인체공학과 사용성을 이유로"
+    },
+    {
+      "id": "001e3a3c686b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "published": "2026-07-03T22:40:29+00:00",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/ Comments URL: https://news.ycombinator.com/item?id=48780870 Points: 211 # Comments: 97"
     },
     {
       "id": "641ab1baafa5",
