@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-04T17:45:03.172209+00:00",
-  "count": 4505,
+  "updated_at": "2026-07-04T18:43:19.265260+00:00",
+  "count": 4508,
   "items": [
+    {
+      "id": "1bbc87c926dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published": "2026-07-04T18:00:05+00:00",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
     {
       "id": "1037eb13b071",
       "source": "TechCrunch",
@@ -58,6 +69,17 @@
       "summary": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers."
     },
     {
+      "id": "cdc69d444119",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "link": "https://github.com/anthropics/claude-code/issues/74066",
+      "published": "2026-07-04T14:03:40+00:00",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/74066 Comments URL: https://news.ycombinator.com/item?id=48785485 Points: 210 # Comments: 99"
+    },
+    {
       "id": "e58288a78b2f",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -78,6 +100,17 @@
       "link": "https://peteris.rocks/blog/htop/",
       "published": "2026-07-04T12:00:57+00:00",
       "summary": "Article URL: https://peteris.rocks/blog/htop/ Comments URL: https://news.ycombinator.com/item?id=48784777 Points: 239 # Comments: 30"
+    },
+    {
+      "id": "32e8b39e6cdf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "link": "https://peteris.rocks/blog/htop/",
+      "published": "2026-07-04T12:00:57+00:00",
+      "summary": "Article URL: https://peteris.rocks/blog/htop/ Comments URL: https://news.ycombinator.com/item?id=48784777 Points: 266 # Comments: 30"
     },
     {
       "id": "13d7abe34802",
