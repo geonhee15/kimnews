@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-05T09:39:25.589518+00:00",
-  "count": 4556,
+  "updated_at": "2026-07-05T11:19:42.457202+00:00",
+  "count": 4563,
   "items": [
+    {
+      "id": "0559aa398d46",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+      "published": "2026-07-05T10:55:02+00:00",
+      "summary": "The heat of the Hadean may have come from impacts as well as the interior."
+    },
+    {
+      "id": "b61dc5acafe3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212448",
+      "published": "2026-07-05T10:42:13+00:00",
+      "summary": "국내 AI 산업이 데이터, 파운데이션 모델, GPU 등 인프라 확보에 속도를 내고 있지만, 정작 이를 검증할 'AI 신뢰성' 논의와 전문 인력 양성은 뒤처져 있다는 지적이 나왔다.박지환 씽크포비엘 대표는 \"국제적으로 중요한 표현은 무조건적인 믿음을 뜻하는 ‘Trust AI’가 아니라, 안전장치를 갖췄는지 묻는 ‘Trustworthy AI(신뢰할 수 있는 AI)’\"라며 \"AI 신뢰성은 기술 고도화와 대립하는 규제가 아닌, 같은 선상에서 다뤄야 할 논의\"라고 강조했다.■ 인증은 보증이 아니다…'전 주"
+    },
+    {
+      "id": "2f75fb38b9b5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Review: TCL RM9L RGB-Mini LED (2026)",
+      "link": "https://www.wired.com/review/tcl-rm9l/",
+      "published": "2026-07-05T10:34:00+00:00",
+      "summary": "This massive 85-inch model is highly customizable but jaw-droppingly expensive."
+    },
+    {
+      "id": "872d2d1998ea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대백화점, ESG 평가서 'AA' 등급...\"6회 연속 최고\"",
+      "link": "https://zdnet.co.kr/view/?no=20260705185412",
+      "published": "2026-07-05T09:54:12+00:00",
+      "summary": "[지디넷코리아]현대백화점이 6회 연속 ‘ESG 경영 모범 기업’ 영예를 안았다.현대백화점은 국내 ESG 평가 기관인 서스틴베스트가 최근 발표한 ‘2026년 상반기 ESG 평가’에서 최고 등급인 ‘AA등급’을 획득했다고 5일 밝혔다. 서스틴베스트는 주요 연기금과 자산운용사 등 기관투자자의 의뢰를 받아 매년 상·하반기에 상장 및 비상장 국내 기업을 대상으로 ESG 평가를 진행하고 있다. 올 상반기에는 총 1305개 기업을 평가했으며, 최고 등급인 AA등급은 전체 기업 중 11.7%밖에 되지 않는다.현"
+    },
     {
       "id": "b25b472df93c",
       "source": "조코딩",
@@ -102,12 +146,34 @@
       "summary": "엔비디아가 미국 원자력 스타트업 발라 아토믹스(Valar Atomics)와 손잡고 차세대 원자로를 활용한 AI 데이터센터 구축에 나선다. 양사는 미국에서 처음으로 차세대 소형 원자로를 이용해 엔비디아의 최신 AI 칩을 구동하는 데 성공했으며, 물 사용을 최소화하는 차세대 AI 데이터센터 기술 개발도 공동 추진하기로 했다.발라는 1일(현지시간) 미국 유타주에서 열린 행사를 통해 '워드 250(Ward 250)' 마이크로 원자로를 이용해 엔비디아의 블랙웰 AI 칩에 전력을 공급하는 데 성공했다고 발표"
     },
     {
+      "id": "fcd250e330bd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 차세대 원자로로 블랙웰 구동…발라와 데이터센터 파트너십",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212442",
+      "published": "2026-07-05T07:17:49+00:00",
+      "summary": "엔비디아가 미국 원자력 스타트업 발라 아토믹스(Valar Atomics)와 손잡고 차세대 원자로를 활용한 AI 데이터센터 구축에 나선다. 양사는 미국에서 처음으로 차세대 소형 원자로를 이용해 엔비디아의 최신 AI 칩을 구동하는 데 성공했으며, 물 사용을 최소화하는 차세대 AI 데이터센터 기술 개발도 공동 추진하기로 했다.발라는 1일(현지시간) 미국 유타주에서 열린 행사를 통해 '워드 250(Ward 250)' 마이크로 원자로를 이용해 엔비디아의 블랙웰 AI 칩에 전력을 공급하는 데 성공했다고 발표"
+    },
+    {
       "id": "473fbd362d54",
       "source": "ZDNet Korea",
       "kind": "article",
       "category": "TECH",
       "lang": "ko",
       "title": "이재용 회장, 美선밸리 컨퍼런스 참석...'억만장자 여름캠프'",
+      "link": "https://zdnet.co.kr/view/?no=20260705160950",
+      "published": "2026-07-05T07:09:50+00:00",
+      "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자 여름캠프' 미국 선밸리 컨퍼런스에 참석할 예정이다. 5일 뉴스1과 외신 등에 따르면 미국 투자은행 앨런앤드컴퍼니는 7~11일(현지시간) 미국 아이다호주 선밸리 리조트에서 선밸리 컨퍼런스를 개최한다. 선밸리 콘퍼런스는 애플과 구글, 메타, 아마존 등 빅테크 최고경영자(CEO)가 참석하는 비공개 네트워킹 행사다. 이재용 회장은 지난 2002년부터 선밸리 컨퍼런스에 참석했다. 이 회장 참석은 인공지능(AI) 산업 확대 등으로 관심을 받고 있다.삼성전자는 "
+    },
+    {
+      "id": "01f447ab42fc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재용 회장, '억만장자 여름캠프' 美선밸리 컨퍼런스 참석",
       "link": "https://zdnet.co.kr/view/?no=20260705160950",
       "published": "2026-07-05T07:09:50+00:00",
       "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자 여름캠프' 미국 선밸리 컨퍼런스에 참석할 예정이다. 5일 뉴스1과 외신 등에 따르면 미국 투자은행 앨런앤드컴퍼니는 7~11일(현지시간) 미국 아이다호주 선밸리 리조트에서 선밸리 컨퍼런스를 개최한다. 선밸리 콘퍼런스는 애플과 구글, 메타, 아마존 등 빅테크 최고경영자(CEO)가 참석하는 비공개 네트워킹 행사다. 이재용 회장은 지난 2002년부터 선밸리 컨퍼런스에 참석했다. 이 회장 참석은 인공지능(AI) 산업 확대 등으로 관심을 받고 있다.삼성전자는 "
@@ -284,6 +350,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "KAIST, AI 에이전트의 전력 비용 규명...\"챗봇보다 최대 136배 에너지 사용\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212437",
+      "published": "2026-07-05T03:00:00+00:00",
+      "summary": "한국과학기술연구원(KAIST) 연구진이 AI 에이전트의 계산 비용과 에너지 소비를 분석한 결과, 기존 생성 AI보다 질문 한 건당 최대 136.5배 많은 에너지를 사용하는 것으로 나타났다. 이번 연구는 AI 시대의 경쟁력이 모델 성능을 넘어 데이터센터와 전력 인프라의 효율성으로 확대되고 있음을 보여준다.KAIST(총장 배충식) 전기및전자공학부 유민수 석좌교수 연구팀은 AI 에이전트가 실제 서비스 환경에서 얼마나 많은 계산 자원과 전력을 사용하는지를 체계적으로 분석했다고 5일 밝혔다.최근 대형언어모"
+    },
+    {
+      "id": "b8bd9d4af51c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 에이전트 전력 비용 규명...\"챗봇보다 136배 에너지 사용\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212437",
       "published": "2026-07-05T03:00:00+00:00",
       "summary": "한국과학기술연구원(KAIST) 연구진이 AI 에이전트의 계산 비용과 에너지 소비를 분석한 결과, 기존 생성 AI보다 질문 한 건당 최대 136.5배 많은 에너지를 사용하는 것으로 나타났다. 이번 연구는 AI 시대의 경쟁력이 모델 성능을 넘어 데이터센터와 전력 인프라의 효율성으로 확대되고 있음을 보여준다.KAIST(총장 배충식) 전기및전자공학부 유민수 석좌교수 연구팀은 AI 에이전트가 실제 서비스 환경에서 얼마나 많은 계산 자원과 전력을 사용하는지를 체계적으로 분석했다고 5일 밝혔다.최근 대형언어모"
