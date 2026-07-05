@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-07-05T06:54:04.192348+00:00",
-  "count": 4541,
+  "updated_at": "2026-07-05T09:39:25.589518+00:00",
+  "count": 4556,
   "items": [
+    {
+      "id": "b25b472df93c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - Fable 5 복귀, Sonnet 5, OpenAI 미국에 지분 넘김, Codex shortcuts, 메타 클라우드, Gemini 업데이트, UBTech 로봇 등",
+      "link": "https://www.youtube.com/watch?v=UJCKwYTUpMw",
+      "published": "2026-07-05T09:02:47+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fb2018fc7def",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"모델 다변화는 성공, 거버넌스는 낙제점\"…기업 AI '통제 격차' 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212446",
+      "published": "2026-07-05T08:16:07+00:00",
+      "summary": "앤트로픽의 '클로드 페이블 5' 서비스 중단 사태가 발생하기 전부터 글로벌 기업의 3분의 2는 이미 특정 모델에만 의존하지 않는 멀티 모델 전략을 채택하고 있었던 것으로 나타났다. 이는 연초부터 지적된 AI 비용 문제에 따른 선제적 조치였으나, 이와 동시에 또 다른 내부적 취약점도 함께 드러났다벤처비트 펄스 리서치가 발간한 ‘통제 격차(The Control Gap)’ 보고서에 따르면, 미국 정부의 수출 통제 명령으로 인해 페이블 5의 서비스가 예고 없이 전면 중단되었을 당시 이미 많은 기업은 유연"
+    },
+    {
+      "id": "ee082151b21c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SKT, 15GW AI 데이터센터 구축 \"아시아 AI 인프라 허브 도약\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212447",
+      "published": "2026-07-05T08:15:56+00:00",
+      "summary": "SK텔레콤(대표 정재헌)은 최대 15기가와트(GW) 규모의 AI 데이터센터를 구축해 아시아 AI 인프라 허브로 도약하겠다고 5일 밝혔다.우선 울산에 건설 중인 1호 AI 데이터센터를 시작으로 영남권 전체에 2GW 이상 규모의 클러스터를 조성한다. 여기에 서남권 1GW를 추가해 국내에 총 5GW 규모의 AI 데이터센터를 2029년부터 단계적으로 열 계획이다.SKT는 초기 투자 부담과 사업 위험을 최소화하기 위해 2035년까지 15GW 규모로 순차 확대하며, SK 계열사들이 참여해 그룹 차원의 풀스택"
+    },
+    {
+      "id": "52681e306b3c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이트댄스, ‘시댄스 2.5’ 이번 주 출시 예정...최대 3분 영상 생성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212441",
+      "published": "2026-07-05T08:15:20+00:00",
+      "summary": "바이트댄스가 최대 3분 길이의 영상을 생성할 수 있는 차세대 AI 영상 모델 ‘시댄스 2.5(Seedance)'를 곧 공개할 것으로 알려졌다. 4일(현지시간) 테스팅카탈로그에 따르면, 바이트댄스는 이르면 오는 9일 ‘시댄스 2.5’를 출시할 것으로 예상된다.공식 출시 일정은 발표되지 않았지만, 드리미나와 캡컷의 홈페이지에는 이미 새로운 모델에 대한 내용이 등장했으며 여러 외부 정보에서도 7월 초 출시 가능성이 제기되고 있다. 새 모델은 드리미나와 캡컷은 물론 바이트댄스의 AI 영상 플랫폼과 연동되"
+    },
+    {
+      "id": "94f9a7fbc73a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "광해광업공단, AI로 광산안전 관리…유플리트와 업무협약",
+      "link": "https://zdnet.co.kr/view/?no=20260705170103",
+      "published": "2026-07-05T08:01:03+00:00",
+      "summary": "[지디넷코리아]한국광해광업공단(사장 황영식)은 인공지능(AI) 안전관리 솔루션 전문기업 유플리트(대표 최근화)와 ‘AI기반 광산안전관리 솔루션 도입’을 위한 업무협약을 체결했다고 5일 밝혔다.광해광업공단은 광산 안전관리 업무부담을 줄이고 체계적인 사고예방 시스템을 구축하기 위해 광산안전관리 시스템에 광산 특성을 반영한 AI 기술 도입을 추진해 왔다.광해공업공단은 유플리트와 협업해 광산 안전자료를 AI에 내재화해 현장에 최적화한다. 광산관리자와 근로자가 스마트폰으로 현장을 촬영하면 AI가 작업공정을"
+    },
+    {
+      "id": "a7c0bd98409e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 평가 플랫폼 아레나, 상용화 8개월 만에 연매출 1500억 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212444",
+      "published": "2026-07-05T07:47:33+00:00",
+      "summary": "연구 프로젝트로 시작한 AI 모델 평가 플랫폼 '아레나(Arena)'가 상용 서비스 출시 8개월 만에 연 매출 1억달러(약 1500억원)를 달성했다. 새로운 AI 벤치마크로 큰 인기를 끈 아레나는 기업 대상 AI 성능 평가 서비스의 폭발적인 수요를 바탕으로 AI 사후 학습(Post-training) 시장의 핵심 기업으로 빠르게 성장하고 있다.아레나는 최근 연간 반복 매출(ARR) 1억달러를 돌파했다고 발표했다. 이는 지난해 9월 기업용 서비스를 시작한 지 불과 8개월 만에 달성한 성과다.아레나는 "
+    },
+    {
+      "id": "2f6e2a876265",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 에이전트, 하루 199GWh 전기사용 예상…미국 반나절 소비 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260705164630",
+      "published": "2026-07-05T07:46:30+00:00",
+      "summary": "[지디넷코리아]KAIST는 유민수 전기및전자공학부 석좌교수 연구팀이 AI 에이전트 계산 자원과 전력 사용량을 체계적으로 분석한 결과를 컴퓨터 시스템 설계 분야 국제학회인 32회 IEEE HPCA(하이-퍼포먼스 컴퓨터 아키텍처)에 지난 2월 발표했다고 5일 밝혔다.AI에이전트는 스스로 계획을 세우고, 인터넷 검색이나 계산기, 코드 실행 등 다양한 외부 도구를 활용해 복잡한 문제를 해결하는 인공지능이다. 소프트웨어 개발, 연구, 업무 자동화 등 다양한 분야에서 활용이 확대되고 있다.연구팀은 우선 AI"
+    },
+    {
+      "id": "d062fcdfe5bd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "자체 칩 생산 속도 내는 머스크...'테라팹' 책임자로 인텔 베테랑 영입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212443",
+      "published": "2026-07-05T07:31:38+00:00",
+      "summary": "테슬라가 인텔에서 차세대 18A 공정의 양산 공장 구축을 이끌었던 핵심 제조 전문가를 영입하며 일론 머스크 CEO의 반도체 생산 프로젝트 '테라팹(Terafab)' 구축에 속도를 내고 있다. 톰스하드웨어에 따르면, 테슬라는 지난 6월 인텔에서 17년 이상 근무한 게리 장을 디렉터로 영입했다.그는 인텔에서 최근까지 공장 책임자(Factory Manager)를 맡아 미국 오리건주 개발 공장에서 애리조나 대량생산 공장으로 18A 첨단 공정을 이전하는 작업을 총괄한 핵심 인물이다.게리 장은 인텔 재직 당"
+    },
+    {
+      "id": "e990ddb95e89",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 차세대 원자로로 블랙웰 구동 성공…발라와 AI 데이터센터 파트너십",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212442",
+      "published": "2026-07-05T07:17:49+00:00",
+      "summary": "엔비디아가 미국 원자력 스타트업 발라 아토믹스(Valar Atomics)와 손잡고 차세대 원자로를 활용한 AI 데이터센터 구축에 나선다. 양사는 미국에서 처음으로 차세대 소형 원자로를 이용해 엔비디아의 최신 AI 칩을 구동하는 데 성공했으며, 물 사용을 최소화하는 차세대 AI 데이터센터 기술 개발도 공동 추진하기로 했다.발라는 1일(현지시간) 미국 유타주에서 열린 행사를 통해 '워드 250(Ward 250)' 마이크로 원자로를 이용해 엔비디아의 블랙웰 AI 칩에 전력을 공급하는 데 성공했다고 발표"
+    },
+    {
+      "id": "473fbd362d54",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재용 회장, 美선밸리 컨퍼런스 참석...'억만장자 여름캠프'",
+      "link": "https://zdnet.co.kr/view/?no=20260705160950",
+      "published": "2026-07-05T07:09:50+00:00",
+      "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자 여름캠프' 미국 선밸리 컨퍼런스에 참석할 예정이다. 5일 뉴스1과 외신 등에 따르면 미국 투자은행 앨런앤드컴퍼니는 7~11일(현지시간) 미국 아이다호주 선밸리 리조트에서 선밸리 컨퍼런스를 개최한다. 선밸리 콘퍼런스는 애플과 구글, 메타, 아마존 등 빅테크 최고경영자(CEO)가 참석하는 비공개 네트워킹 행사다. 이재용 회장은 지난 2002년부터 선밸리 컨퍼런스에 참석했다. 이 회장 참석은 인공지능(AI) 산업 확대 등으로 관심을 받고 있다.삼성전자는 "
+    },
+    {
+      "id": "1c776c8fc4d8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "트럼프 AI 정책 설계자 \"미국 AI 혁신 가로막는 규제 없을 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260705135236",
+      "published": "2026-07-05T07:03:00+00:00",
+      "summary": "[지디넷코리아]트럼프 2기 행정부에서 인공지능(AI) 정책 설계를 주도했던 스리람 크리슈난 전 백악관 AI 정책 고문이 미국 AI 산업이 과도한 규제 대신 혁신 중심 정책을 유지해야 한다고 밝혔다. 최근 미국 정부가 첨단 AI 모델에 대한 사전 보안 검증 제도를 도입했지만, 이를 상시 허가제로 확대하는 일은 없을 것이라는 입장도 드러냈다.스리람 크리슈난 전 백악관 AI 정책 고문은 4일(현지시간) 파이낸셜타임즈와의 인터뷰에서 \"AI를 대상으로 한 미국 식품의약국(FDA) 같은 규제기관은 생기지 않"
+    },
+    {
+      "id": "d7cc87175de8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국내 넘어 해외로…K-게임, 올여름 글로벌 마케팅 행보 가속화",
+      "link": "https://zdnet.co.kr/view/?no=20260705123235",
+      "published": "2026-07-05T07:01:01+00:00",
+      "summary": "[지디넷코리아]국내 주요 게임사들이 글로벌 시장을 겨냥한 오프라인 현지 마케팅을 활발히 이어가고 있다. 올여름에도 북미와 일본의 대형 서브컬처 행사부터 유럽 최대 게임쇼까지, 각사가 신작 라인업을 앞세워 현지 공략에 나서는 모습이다.스마일게이트는 북미 서브컬처 시장 공략에 나섰다. 지난 2일(현지시간)부터 미국 LA 컨벤션센터에서 열린 북미 최대 서브컬처 페스티벌 '2026 애니메 엑스포(AX)'에 참가해 현지 팬덤을 겨냥한 체험형 마케팅에 집중했다.이번 행사에서는 '카오스 제로 나이트메어(이하 "
+    },
+    {
+      "id": "8c0d0e9911be",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 이 대통령, '韓 대도약 3대 메가프로젝트' 세부전략 들여다본다",
+      "link": "https://zdnet.co.kr/view/?no=20260705135034",
+      "published": "2026-07-05T06:59:10+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이재명 대통령이 6일 청와대에서 서남권 반도체 클러스터 민관합동점검회의를 "
+    },
     {
       "id": "e82a5e0c6035",
       "source": "AI타임스",
@@ -144,6 +287,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212437",
       "published": "2026-07-05T03:00:00+00:00",
       "summary": "한국과학기술연구원(KAIST) 연구진이 AI 에이전트의 계산 비용과 에너지 소비를 분석한 결과, 기존 생성 AI보다 질문 한 건당 최대 136.5배 많은 에너지를 사용하는 것으로 나타났다. 이번 연구는 AI 시대의 경쟁력이 모델 성능을 넘어 데이터센터와 전력 인프라의 효율성으로 확대되고 있음을 보여준다.KAIST(총장 배충식) 전기및전자공학부 유민수 석좌교수 연구팀은 AI 에이전트가 실제 서비스 환경에서 얼마나 많은 계산 자원과 전력을 사용하는지를 체계적으로 분석했다고 5일 밝혔다.최근 대형언어모"
+    },
+    {
+      "id": "50bbcf56fb63",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "If you're a button, you have one job",
+      "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "published": "2026-07-05T02:01:03+00:00",
+      "summary": "Article URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/ Comments URL: https://news.ycombinator.com/item?id=48790689 Points: 210 # Comments: 102"
     },
     {
       "id": "39230c75e252",
@@ -386,6 +540,17 @@
       "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "published": "2026-07-04T16:32:08+00:00",
       "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "id": "735ba18501a5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "link": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "published": "2026-07-04T16:30:10+00:00",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-06-30 Comments URL: https://news.ycombinator.com/item?id=48786638 Points: 201 # Comments: 64"
     },
     {
       "id": "fc83353b87c7",
