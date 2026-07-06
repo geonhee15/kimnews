@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-06T21:01:21.462733+00:00",
-  "count": 4661,
+  "updated_at": "2026-07-06T22:36:50.978652+00:00",
+  "count": 4666,
   "items": [
+    {
+      "id": "1072ec0a344b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월6일] AI의 숨은 청구서…데이터센터 밖에서 더 커지는 환경 비용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212455",
+      "published": "2026-07-06T22:00:00+00:00",
+      "summary": "빅테크 기업들은 매년 지속가능성 보고서(Sustainability Report)를 통해 데이터센터의 물 사용량과 탄소 배출량 등을 공개하고 있습니다. 최근 구글과 아마존도 새 보고서를 발표했습니다. 두 보고서는 AI 데이터센터 확산에 따른 환경 부담이 커지고 있음을 보여줍니다. 구글과 아마존은 지난해 총 탄소 배출량이 각각 전년 대비 25%, 16% 증가했다고 밝혔습니다.탄소 배출 증가의 주요 원인으로 공급망에서 발생하는 '스코프 3(Scope 3)'를 지목했습니다. 탄소 배출량은 스코프 1(직접"
+    },
     {
       "id": "a5dd73f13c15",
       "source": "TechCrunch",
@@ -25,6 +36,17 @@
       "summary": "The new controls let you control how quickly Siri speaks and expressive its voice is."
     },
     {
+      "id": "760d5504721f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CoMaps – FOSS Offline Maps",
+      "link": "https://www.comaps.app/",
+      "published": "2026-07-06T18:55:07+00:00",
+      "summary": "Article URL: https://www.comaps.app/ Comments URL: https://news.ycombinator.com/item?id=48808928 Points: 210 # Comments: 39"
+    },
+    {
       "id": "30c23c8d51ce",
       "source": "TechCrunch",
       "kind": "article",
@@ -45,6 +67,17 @@
       "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "published": "2026-07-06T18:35:00+00:00",
       "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "id": "cc4d860d05e0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenWrt One – Open Hardware Router",
+      "link": "https://openwrt.org/toh/openwrt/one",
+      "published": "2026-07-06T18:23:12+00:00",
+      "summary": "Article URL: https://openwrt.org/toh/openwrt/one Comments URL: https://news.ycombinator.com/item?id=48808482 Points: 308 # Comments: 135"
     },
     {
       "id": "919bc8ceb058",
@@ -135,6 +168,17 @@
       "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
     },
     {
+      "id": "bbe88ec1aaf5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "published": "2026-07-06T15:01:18+00:00",
+      "summary": "Article URL: https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo Comments URL: https://news.ycombinator.com/item?id=48805624 Points: 250 # Comments: 179"
+    },
+    {
       "id": "372a4f75dc01",
       "source": "Hugging Face",
       "kind": "article",
@@ -210,6 +254,17 @@
       "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "published": "2026-07-06T13:30:00+00:00",
       "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts ar"
+    },
+    {
+      "id": "933c8fb25e3a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Aluminum foil (2021)",
+      "link": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "published": "2026-07-06T13:28:57+00:00",
+      "summary": "Article URL: https://dernocua.github.io/notes/aluminum-foil.html Comments URL: https://news.ycombinator.com/item?id=48804297 Points: 218 # Comments: 101"
     },
     {
       "id": "895694f88581",
