@@ -1,7 +1,293 @@
 {
-  "updated_at": "2026-07-06T05:51:47.553465+00:00",
-  "count": 4600,
+  "updated_at": "2026-07-06T10:07:05.926220+00:00",
+  "count": 4628,
   "items": [
+    {
+      "id": "30422bc9ae2b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212456",
+      "published": "2026-07-06T09:37:29+00:00",
+      "summary": "'메타 AI'에 사용자의 반복적인 작업을 자동으로 수행하는 '예약 작업(Scheduled Tasks)' 기능이 도입될 것으로 확인됐다. 이번 기능이 추가되면 메타 AI는 단순히 질문에 답하는 챗봇을 넘어, 사용자를 대신해 비동기적으로 업무를 수행하는 AI 에이전트 형태로 한 단계 진화할 것으로 기대된다.4일(현지시간) 테스팅카탈로그에 따르면, 메타 AI 웹 버전의 개발 빌드에서는 '예약 작업(Scheduled Tasks)' 메뉴가 새롭게 추가된 정황이 발견됐다.아직 일반 사용자에게는 공개되지 않았"
+    },
+    {
+      "id": "11be61277db9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "샌프란시스코 '해커 하우스'로 향하는 대학생들…\"졸업장보다 AI 창업\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212451",
+      "published": "2026-07-06T09:30:51+00:00",
+      "summary": "미국 명문대 학생들의 여름방학은 빅테크 기업이나 투자은행, 컨설팅 회사에서 인턴십을 수행하며 안정적인 취업을 준비하는 시기였다. 그러나 AI 시대가 본격화하면서 이러한 공식이 빠르게 무너지고 있다. 5일(현지시간) 월스트리트저널(WSJ)에 따르면, 일부 대학생들은 방학 시즌을 맞아 샌프란시스코의 '해커 하우스(Hacker House)'와 스타트업 인큐베이터로 몰려가 창업에 뛰어들고 있다. 일부는 휴학이나 자퇴까지 감수하며 AI 스타트업 창업에 인생을 걸고 있다.이 같은 변화의 배경에는 AI가 촉발"
+    },
+    {
+      "id": "90a469d52182",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이트댄스·알리바바, ‘AI 페르소나’ 서비스 중단…정부 규제 앞두고 선제 조치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212452",
+      "published": "2026-07-06T09:03:18+00:00",
+      "summary": "중국의 대표적인 생성 AI 서비스인 바이트댄스의 '더우바오'와 알리바바의 '큐원'이 사용자 맞춤형 AI 에이전트와 AI 페르소나(Persona) 기능을 잇달아 종료한다. 오는 15일 시행되는 중국 정부의 새로운 AI '의인화' 규제에 대응하려는 조치다.사우스차이나모닝포스트에 따르면, 더우바오는 3일(현지시간) 공지를 통해 \"제품 기능 조정을 이유로 15일부터 사용자 맞춤형 AI 에이전트 기능을 종료한다\"라 밝혔다.또 10월15일 이후에는 관련 사용자 데이터가 개인정보 처리방침에 따라 관리되며, 앱"
+    },
+    {
+      "id": "e4b4270ac3c1",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "국내 1위 회계 법인이 AI에 진심인 이유 | AX 인재전쟁 5화 PWC 삼일회계법인",
+      "link": "https://www.youtube.com/watch?v=y0SsTKDt8tQ",
+      "published": "2026-07-06T09:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "173ecdecac3f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "published": "2026-07-06T09:00:00+00:00",
+      "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation."
+    },
+    {
+      "id": "df7d301033bb",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "link": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "published": "2026-07-06T09:00:00+00:00",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says"
+    },
+    {
+      "id": "433bd2715feb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"아이 여섯 키우며 창업\"…미국 스타트업 문턱 낮춘 AI",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212458",
+      "published": "2026-07-06T08:57:05+00:00",
+      "summary": "AI가 전문적인 비즈니스 교육이나 창업 경험이 없는 일반인들의 창업 장벽을 크게 낮추며 미국 스타트업 생태계와 고용 시장의 지형을 바꾸고 있다. 단순한 생산성 도구를 넘어 사업 전략 수립과 투자 유치, 경영 의사결정을 지원하는 '가상 경영 자문역' 역할까지 수행하면서 AI가 초기 스타트업을 이끄는 핵심 동력으로 떠오르고 있다는 평가다.4일(현지시간) 로이터에 따르면, 최근 미국에서는 AI를 활용해 창업 초기의 복잡한 과정을 해결하는 사례가 빠르게 늘고 있다.창업자들은 사업계획서 작성과 시장 조사,"
+    },
+    {
+      "id": "b8e75b0c8deb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK쉴더스, 에코프로 공장서 OT 보안 실증 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260706175107",
+      "published": "2026-07-06T08:51:07+00:00",
+      "summary": "[지디넷코리아]SK쉴더스(대표 민기식)는 이상징후 탐지부터 분석·대응까지 전 과정을 통합한 제어시스템(OT/ICS) 침해대응 플랫폼을 기반으로 이차전지 기업 에코프로에서 이를 실증한다고 6일 밝혔다.이번 실증은 에코프로가 생산 공정 전반을 아우르는 보안 체계를 선제적으로 강화하는 과정에서 마련됐다. 에코프로는 그간 국내외 공장을 중심으로 인프라 및 통합 보안관제 체계를 고도화해 왔으며, 최근에는 생산 설비 영역까지 보안 적용 범위를 확대하고 있다.이차전지 산업은 생산 안정성이 핵심 경쟁력인 만큼 "
+    },
+    {
+      "id": "9e8f148df4ae",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "과방위 민주당 간사에 '한준호' 의원...국힘 불참에 반쪽 국회",
+      "link": "https://zdnet.co.kr/view/?no=20260706172244",
+      "published": "2026-07-06T08:51:06+00:00",
+      "summary": "[지디넷코리아]국회 과학기술정보방송통신위원회 여당 간사에 한주호 의원이 6일 선임됐다.과방위는 이날 오전 전체회의를 열어 22개 국회 후반기 상임위 여당 몫 간사로 한준호 의원을 선임하는 안건을 더불어민주당 의원 주도로 처리했다.국민의힘은 간사 후보는 물론 회의에도 참여하지 않았다. 민주당의 일방적인 원 구성이라고 주장하면서 국회 일정 전면 보이콧을 선언한 상황이다.과방위 외에 정무위, 국방위도 민주당 의원만 참여한 가운데 여당 간사를 선임했고 법사위는 지난주에 간사 선임 안건을 마쳤다.민주당 몫"
+    },
+    {
+      "id": "56f1190c0d7d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤앤에스피, '직무발명보상 우수기업' 인증 획득",
+      "link": "https://zdnet.co.kr/view/?no=20260706174548",
+      "published": "2026-07-06T08:45:48+00:00",
+      "summary": "[지디넷코리아]앤앤에스피(대표 김일용)가 한국발명진흥회가 주관한 ‘직무발명보상 우수기업 인증(아래 사진)’을 획득했다. 한국발명진흥회는 기업이 임직원의 직무발명을 정당하게 보상하고, 이를 체계적으로 관리하고 있는지를 평가해 직무발명보상 우수기업을 인증한다. 인증을 받은 기업은 정부지원사업 참여 시 인센티브를 받을 수 있다.6일 회사에 따르면, 앤앤에스피는 국가기반시설, 공공, 국방, 금융, 제조 등 주요 산업 현장에 필요한 보안솔루션을 개발하는 기업이다. 특히 산업제어시스템과 운영기술 환경에서 안"
+    },
+    {
+      "id": "a36f764560a5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI가 인간 트레이더 압도\"…중국 양적 펀드에 수십억달러 몰려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212464",
+      "published": "2026-07-06T08:45:13+00:00",
+      "summary": "AI가 중국 자산운용 업계의 판도를 빠르게 바꾸고 있다. AI 기반 양적(Quant) 펀드가 인간 펀드매니저의 투자 성과를 크게 앞지르면서 투자자 자금이 대형 양적 운용사로 몰리고 있다. 불과 2년 전만 해도 과도한 변동성을 유발한다는 이유로 규제의 집중 표적이었던 양적 펀드 업계는 이제 중국 헤지펀드 시장의 주류로 떠오르고 있으며, 전통적인 주식 운용사들까지 AI 중심으로 사업 모델을 전환하는 모습이다.3일(현지시간) 블룸버그에 따르면, 중국 대표 양적 운용사인 유비퀀트는 지난 5월 신규 펀드 "
+    },
+    {
+      "id": "18e6d984f163",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화물차 유가보조금 관리체계, AI로 더 투명해진다",
+      "link": "https://zdnet.co.kr/view/?no=20260706173806",
+      "published": "2026-07-06T08:38:06+00:00",
+      "summary": "[지디넷코리아]국토교통부는 유가보조금 부정수급을 근절하기 위해 인공지능(AI) 탐지체계를 도입하고 주유소 현장 점검을 확대하는 등 제도 투명성과 신뢰성을 높인다고 6일 밝혔다.국토부에 따르면 지난해 화물차주 유류비 부담을 완화하기 위해 화물자동차 유가보조금을 약 43만대에 1조 2700억원을 지원했으나 부정수급으로 732건(약 5억원)이 적발됐다.국토부 관계자는 “단속 유형이 정형화하면서 새로운 방식의 부정행위가 발생하고 있다”며 “특히, 과거 주유소와 공모하는 등 주유소가 가담하는 형태의 부정수"
+    },
+    {
+      "id": "106bb710d53d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포티넷코리아 \"스타트업을 잡아라\"...교육·컨설팅 시행",
+      "link": "https://zdnet.co.kr/view/?no=20260706173628",
+      "published": "2026-07-06T08:36:28+00:00",
+      "summary": "[지디넷코리아]포티넷코리아가 스타트업 성장 파트너 디캠프(dcamp)와 협력해 초기·성장 단계 스타트업을 대상으로 사이버보안 교육·컨설팅 프로그램을 공동 운영한다. 오는 14일 온라인 웨비나를 시작으로 23일 오프라인 세미나까지 두 차례에 걸쳐 진행한다. 스타트업이 마주한 실질적인 보안 고민을 함께 짚는다.AI 기술이 스타트업 서비스와 운영 환경 전반에 빠르게 적용되면서 데이터 보호, 서비스 안정성, AI 활용에 따른 리스크 관리 등 새로운 보안 과제가 부상했다. 이에, 초기·성장 단계 스타트업일"
+    },
+    {
+      "id": "532799394902",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 미성년 위장해 경쟁사 AI에 '극단적 프롬프트' 테스트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212470",
+      "published": "2026-07-06T08:23:04+00:00",
+      "summary": "메타가 수백명의 외부 계약직 인력을 동원해 경쟁사의 AI 챗봇을 대상으로 미성년자로 위장한 계정을 사용해 수만 건의 극단적인 프롬프트를 입력하는 비공개 프로젝트를 운영한 사실이 드러났다. 이를 AI 안전성 평가를 위한 업계 표준 절차라고 주장했지만, 전문가들은 경쟁사에 알리지 않은 채 비밀리에 진행된 대규모 테스트는 일반적인 안전성 검증의 범위를 벗어난다고 지적하고 있다.와이어드에 따르면, 이 프로젝트는 메타의 협력업체 코베일런이 수행했으며 내부적으로 '칸(Cannes)'이라는 이름으로 운영됐다."
+    },
+    {
+      "id": "d6188a234b91",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부, 거브테크 스타트업 18곳에 AI 실증 무대 깔아준다",
+      "link": "https://zdnet.co.kr/view/?no=20260706171849",
+      "published": "2026-07-06T08:18:49+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부가 민간의 첨단 인공지능(AI) 기술을 공공에 도입해 대국민 공공서비스 고도화, 지역·사회문제 해결, 공공 인프라 혁신에 나선다.과기정통부는 '2026년 거브테크(GovTech) 창업기업 AI 실증·사업화 지원사업' 지원 과제 18개를 최종 선정했다고 6일 밝혔다.올해 사업은 수요 기반 매칭 방식으로, 공공이 현장 수요를 제시하고 이에 적합한 기술·솔루션을 보유한 거브테크 창업기업이 참여하는 형식이다. 지난 3월 공고 이후 총 82건의 과제가 접수됐으며 서류·발표 심"
+    },
+    {
+      "id": "c356594ad500",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"생산지 현지화해라\"…말레이시아 규제 강화에 현대차·기아 '방긋'",
+      "link": "https://zdnet.co.kr/view/?no=20260706141710",
+      "published": "2026-07-06T08:15:51+00:00",
+      "summary": "[지디넷코리아]말레이시아가 전기차 수입 규제를 강화하면서 현지 생산 기반을 갖춘 완성차 업체에 유리한 환경이 조성되고 있다. 저가 중국산 완전수입차(CBU)의 진입 장벽이 높아지면서 현대자동차와 기아의 현지 조립(CKD) 전략도 새로운 기회를 맞고 있다.6일 업계에 따르면 말레이시아 투자통상산업부(MITI)는 이달부터 CBU 전기차 수입 요건을 강화했다. 새 기준은 말레이시아에 들여오는 CBU 전기차의 CIF 기준 가격을 20만 링깃(7516만원) 이상, 모터 출력은 180㎾ 이상으로 규정했다.이"
+    },
+    {
+      "id": "ded4d3ecc8e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG이노텍·LX세미콘, 애플 아이패드 OLED DDI 공급망 진입",
+      "link": "https://zdnet.co.kr/view/?no=20260706170215",
+      "published": "2026-07-06T08:15:50+00:00",
+      "summary": "[지디넷코리아]LG이노텍과 LX세미콘이 애플 아이패드 유기발광다이오드(OLED)용 디스플레이 드라이버 IC(DDI) 공급망에 진입했다. LX세미콘이 만든 DDI를 LG이노텍이 만든 칩온필름(CoF)으로 패널에 연결한다. DDI는 박막트랜지스터(TFT)를 통해 디스플레이 화소 구동을 제어하는 칩이다. CoF는 DDI를 열압착 방식으로 필름에 부착하고, 해당 필름은 패널에 DDI 신호를 전달한다. 6일 업계에 따르면 최근 LG이노텍과 LX세미콘이 애플로부터 아이패드 OLED용 CoF와 DDI 승인을 "
+    },
+    {
+      "id": "5d8d231cce31",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 로봇이 보고·이해하고·예측하는 ‘피지컬 AI’ 기술 개발…ICLR·CVPR서 인정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212474",
+      "published": "2026-07-06T08:03:18+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)는 윤성의 전산학부 교수 연구팀이 유리나 물처럼 투명한 물체를 정확히 인식하는 기술 등 피지컬 AI 관련 기술을 개발했다고 6일 밝혔다.이번 연구는 시각 인식부터 물리적 이해, 미래 예측, 행동 계획까지 하나의 기술 흐름으로 연결하는 데 초점을 맞췄다. AI가 보고(인식) 이해하고(물리 이해) 예측하고(미래 예측) 행동하는(계획) 과정을 수행하는 기반을 제시했으며, 다양한 자율 시스템의 성능과 활용 범위를 한층 넓힐 것으로 전망했다.성과는 글로벌 AI 학회인"
+    },
+    {
+      "id": "9301239d9f2c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 크몽, 기업 AX 전담 조직 신설 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212475",
+      "published": "2026-07-06T08:00:00+00:00",
+      "summary": "■ 크몽(대표 박현호, 김태헌)은 기업 고객 AX를 지원하는 전담 조직을 신설하고 서장원 대표를 팀 리더로 영입했다고 밝혔다. 크몽 AX팀은 AI 전략 컨설팅부터 업무 프로세스 진단, 솔루션 도입, 실행 지원까지 기업 AX 전 과정을 담당한다. 이번 전담팀 신설은 AX 사업을 조직 차원에서 본격적으로 확대 및 체계화하기 위한 경영 전략이다.■ 플리토(대표 이정수)는 AI 통역-번역 솔루션 ‘라이브 트랜스레이션’의 의료 학회 행사 도입 수가 누적 100건을 넘었다고 밝혔다. 의료 학회 특유의 전문성"
+    },
+    {
+      "id": "4a09b66e377c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 로보티즈 'AI 워커' 휴머노이드 로봇 챌린지서 대상 수상 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212472",
+      "published": "2026-07-06T08:00:00+00:00",
+      "summary": "■ 로보티즈(대표 김병수)는 산업통상자원부가 개최한 '휴머노이드 로봇 챌린지'에서 자사 휴머노이드 하드웨어 플랫폼 'AI 워커'를 채택한 서울대 ROBI팀이 대상을 받았다고 밝혔다. 참가한 국내 대학 12개 팀 중 7개 팀이 로보티즈의 AI 워커를 플랫폼으로 채택했다. 참가 로봇은 부품 선별, 운반, 조립 등 실제 현장의 고난도 미션을 수행했으며, 서울대 팀은 전 종목에서 안정적인 작업 능력으로 대상을 수상했다.■ 딥엑스(대표 김녹원)는 일본 도쿄에서 열린 '피지컬 AI 엑스포'에서 현지 기업들을"
+    },
+    {
+      "id": "d66cd672e78a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "마이크론, 히로시마 공장 증설…14조 투입해 HBM 생산 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212473",
+      "published": "2026-07-06T07:54:04+00:00",
+      "summary": "미국 메모리 반도체 기업 마이크론 테크놀로지가 93억달러(약 14조원) 규모의 일본 히로시마 공장 증설에 착공하며 AI용 고대역폭메모리(HBM) 생산 확대에 나섰다.블룸버그에 따르면, 마이크론은 4일(현지시간) 일본 히로시마 공장 증설 기공식을 열고 차세대 메모리 생산시설 구축을 공식 시작했다.새 공장에서는 엔비디아의 AI 가속기 등에 사용되는 HBM을 비롯한 첨단 DRAM 제품이 생산될 예정이다.생산설비 반입과 설치는 2028년 하반기부터 시작되며, 일본 경제산업성은 이번 사업에 최대 5000억"
+    },
+    {
+      "id": "db8d488860cd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존 '메카니컬 터크', 21년 만에 신규 가입 중단…\"AI 데이터 오염에 발목\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212467",
+      "published": "2026-07-06T07:33:49+00:00",
+      "summary": "AI 데이터 라벨링과 크라우드소싱 시대를 연 아마존의 '메카니컬 터크(Mechanical Turk)'가 사실상 역사 속으로 사라지는 수순에 들어갔다. 생성 AI 확산으로 인간 작업자가 수행해야 할 업무를 AI가 대신하기 시작하면서 데이터 신뢰성이 흔들렸고, 사기와 자동화 계정까지 늘어나며 플랫폼의 존재 이유 자체가 약화됐다는 분석이 나온다.아마존웹서비스(AWS)는 4일(현지시간) 메카니컬 터크 홈페이지를 통해 오는 7월 30일부터 신규 고객의 서비스 가입을 중단한다고 밝혔다.\"신중한 검토 끝에 내"
+    },
+    {
+      "id": "9c595ed27472",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AIIA, 2027 이머징 AI+X 톱100 후보기업 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212471",
+      "published": "2026-07-06T07:25:37+00:00",
+      "summary": "한국인공지능산업협회(AIIA, 회장 최용진)는 AI 기술을 바탕으로 산업 혁신과 AI전환(AX)을 선도할 ‘2027 이머징 AI+X 톱100’ 후보기업 등록을 시작한다고 6일 밝혔다.올해로 7회째를 맞는 ‘2027 이머징 AI+X 톱100(Emerging AI+X Top100)’은 AI 기술과 다양한 산업 영역(X)의 융합 가능성을 중심으로 국내 유망 AI 기업을 발굴·조명하는 프로젝트다. 특히, 2027년 선정에서는 ▲제조·로봇·자율주행·스마트시티 등 현실 공간과 결합하는 피지컬 AI ▲스스로 "
+    },
+    {
+      "id": "21b178f1fde4",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "최대 30명 채용 채널톡이 AI 인재 보는 기준",
+      "link": "https://www.youtube.com/shorts/UjDQvj2C0ss",
+      "published": "2026-07-06T06:42:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "52b3cfb5a528",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "30명 채용 중 AI 시대의 귀한 인재는",
+      "link": "https://www.youtube.com/shorts/UFNrKp50zzQ",
+      "published": "2026-07-06T06:41:06+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3e7040a08347",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "published": "2026-07-06T06:05:29+00:00",
+      "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC."
+    },
     {
       "id": "60566dbf6a28",
       "source": "AI타임스",
@@ -201,6 +487,17 @@
       "summary": "AI 생성 영상여수시가 시민 안전과 생활 소음 불편을 줄이기 위해 이륜자동차 합동단속을 실시해 위반 행위 31건을 적발했다고 3일 밝혔다.단속은 1일 여수경찰서, 한국교통안전공단 광주전남본부와 함께 여서동 해양경찰서 앞 등 2개소에서 진행됐다.이번 단속은 이륜자동차 배기·경적소음 허용기준 초과 여부와 불법 구조변경, 무등록 운행 등을 중심으로 이뤄졌다. 배달 수요 증가와 함께 이륜차 운행이 늘면서 도심 소음과 교통안전에 대한 시민 불편이 커진 데 따른 조치다.단속 결과 적발된 위반 행위는 모두 3"
     },
     {
+      "id": "3aedaf7a9cd2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Has_not_been_viewed_much",
+      "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "published": "2026-07-05T23:49:00+00:00",
+      "summary": "Article URL: https://iamwillwang.com/notes/has-not-been-viewed-much/ Comments URL: https://news.ycombinator.com/item?id=48799155 Points: 306 # Comments: 80"
+    },
+    {
       "id": "01a8566deb0e",
       "source": "The Verge",
       "kind": "article",
@@ -221,6 +518,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260704102307",
       "published": "2026-07-05T22:00:02+00:00",
       "summary": "[지디넷코리아]사이버 위협 인텔리전스(CTI) 전문기업 AI스페라(AI SPERA, 대표 강병탁)는 오는 8일 오후 3시 ‘우리 회사는 지금 인터넷에 얼마나 노출돼 있을까?’를 주제로 무료 온라인 웨비나를 개최한다.이번 웨비나는 발표자가 일방적으로 내용을 전달하는 기존 강연 형식에서 벗어나, 참석자들이 사전에 남긴 질문을 중심으로 함께 답을 찾아가는 Q&A 방식으로 진행한다. AI스페라는 이번 웨비나를 통해 기업이 외부에서 어떻게 보이고 있는지, 보안팀이 인지하지 못한 자산이 어떤 방식으로 공격의"
+    },
+    {
+      "id": "e740d088d44f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Completing a computer science degree on Coursera",
+      "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "published": "2026-07-05T21:20:49+00:00",
+      "summary": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera Comments URL: https://news.ycombinator.com/item?id=48798061 Points: 211 # Comments: 130"
     },
     {
       "id": "56cef46f311b",
