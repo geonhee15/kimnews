@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-06T17:14:46.827850+00:00",
-  "count": 4649,
+  "updated_at": "2026-07-06T19:07:14.917134+00:00",
+  "count": 4659,
   "items": [
+    {
+      "id": "a8794b1621e5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "published": "2026-07-06T19:01:59+00:00",
+      "summary": "The new controls let you control how quickly Siri speaks and expressive its voice is."
+    },
+    {
+      "id": "30c23c8d51ce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "2026-07-06T18:35:00+00:00",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "id": "919bc8ceb058",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Your family’s $300 stake in OpenAI",
+      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "published": "2026-07-06T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,"
+    },
     {
       "id": "6c019b416a0d",
       "source": "TechCrunch",
@@ -12,6 +45,17 @@
       "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "published": "2026-07-06T17:04:58+00:00",
       "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out."
+    },
+    {
+      "id": "f728e4c31330",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "published": "2026-07-06T16:44:18+00:00",
+      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over."
     },
     {
       "id": "ac602232e744",
@@ -34,6 +78,17 @@
       "link": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
       "published": "2026-07-06T16:21:03+00:00",
       "summary": "Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework."
+    },
+    {
+      "id": "cb51544730a4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
+      "link": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
+      "published": "2026-07-06T16:01:54+00:00",
+      "summary": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises."
     },
     {
       "id": "023d7b8aa627",
@@ -80,6 +135,17 @@
       "summary": "We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators division at United Talent Agency. UTA is an enormous talent agency. Half the people"
     },
     {
+      "id": "651491da8cd4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Resetting Xbox",
+      "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "published": "2026-07-06T14:18:23+00:00",
+      "summary": "Article URL: https://news.xbox.com/en-us/2026/07/06/resetting-xbox/ Comments URL: https://news.ycombinator.com/item?id=48804993 Points: 230 # Comments: 176"
+    },
+    {
       "id": "8b3bb7550195",
       "source": "Ars Technica",
       "kind": "article",
@@ -89,6 +155,17 @@
       "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
       "published": "2026-07-06T14:17:42+00:00",
       "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions."
+    },
+    {
+      "id": "28bc74830d72",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔피 '무아홈', 공무원 마음건강 챙긴다",
+      "link": "https://zdnet.co.kr/view/?no=20260706224250",
+      "published": "2026-07-06T13:42:50+00:00",
+      "summary": "[지디넷코리아]엔피(대표 백승업·최지훈)가 공무원 대상으로 AI 마인드케어 솔루션 '무아홈'을 서비스 실증을 1년 간 진행한다.엔피는 전국공무원노동조합 경기지역본부 부천시지부와 공무원 마음건강 증진을 위한 업무협약(MOU)을 체결했다고 6일 밝혔다.이번 실증은 업무 과정에서 심리적 피로와 스트레스를 겪는 공무원을 대상으로 진행된다. 엔피는 무아홈을 통해 공공 근로환경에서의 디지털 마인드케어 솔루션의 효과와 활용 가능성을 검증할 계획이다.양측은 이번 협약을 통해 단순 복지 프로그램 도입을 넘어, 공"
     },
     {
       "id": "05183529ff55",
@@ -111,6 +188,39 @@
       "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "published": "2026-07-06T13:30:00+00:00",
       "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts ar"
+    },
+    {
+      "id": "895694f88581",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "link": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "published": "2026-07-06T13:18:16+00:00",
+      "summary": "Article URL: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html Comments URL: https://news.ycombinator.com/item?id=48804193 Points: 239 # Comments: 154"
+    },
+    {
+      "id": "69a95642eda8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "동서발전, 내화·시공성 높인 건물일체형 태양광 실증 착수",
+      "link": "https://zdnet.co.kr/view/?no=20260706221622",
+      "published": "2026-07-06T13:16:22+00:00",
+      "summary": "[지디넷코리아]한국동서발전(사장 권명호)은 내화성과 안전성을 갖춘 차세대 건물일체형 태양광(BIPV) 기술 현장 실증에 착수했다고 6일 밝혔다.동서발전은 2023년부터 포항산업과학연구원(RIST)과 공동으로 ‘내화특성 메탈패널일체형 BIPV’를 개발 중이다. 지난 5월 음성복합발전소에 17.7kW규모 시제품을 설치 완료하고 실증에 돌입했다.BIPV는 건물 외벽·지붕·창호 등 건축자재를 태양광 패널로 활용해 전기를 생산하는 방식으로, 별도 구조물을 옥상에 설치하는 기존 태양광과 달리 건물 외장재 자"
+    },
+    {
+      "id": "09ca8f1cfbd2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "팔란티어 카프 \"AI 업계가 기업에 '부의 세금' 물린다\"…토큰 과금 비판",
+      "link": "https://zdnet.co.kr/view/?no=20260706221217",
+      "published": "2026-07-06T13:12:17+00:00",
+      "summary": "[지디넷코리아]알렉스 카프 팔란티어 CEO가 7월 1일(현지시간) CNBC 인터뷰에서 AI 업계를 강하게 비판했다. 그는 업계 상황을 두고 말도 안 되게 미쳤다(effing insane)고 표현했다.카프의 핵심 주장은 이렇다. AI 기업들이 기업 고객에게 부의 세금을 물린다는 것이다. 프런티어 AI 기업들은 높은 토큰 비용을 받는다. 그러면서 정작 고객 기업의 데이터와 노하우를 거둬 자사 모델을 키운다. 그는 기업들이 가치를 만들지 못하는 토큰에 돈을 내고 있다고 말했다.그는 미국이 국방을 실리콘"
     },
     {
       "id": "f7c5810c174d",
