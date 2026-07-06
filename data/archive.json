@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-07-06T10:07:05.926220+00:00",
-  "count": 4628,
+  "updated_at": "2026-07-06T14:02:47.335324+00:00",
+  "count": 4641,
   "items": [
+    {
+      "id": "372a4f75dc01",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "published": "2026-07-06T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "05183529ff55",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+      "link": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
+      "published": "2026-07-06T13:31:24+00:00",
+      "summary": "Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every part of Xbox and also involve four game studios being spun off to be run independently from Microsoft"
+    },
+    {
+      "id": "ad61d9919b7c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is laying off 4,800 employees",
+      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "published": "2026-07-06T13:30:00+00:00",
+      "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts ar"
+    },
+    {
+      "id": "f7c5810c174d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups."
+    },
+    {
+      "id": "844233d3b1d9",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "link": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolle"
+    },
+    {
+      "id": "62a15263e205",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - Fable 5 복귀, Sonnet 5, OpenAI 미국에 지분 넘김, Codex shortcuts, Gemini 업데이트, 북프린트 API, UBTech 로봇 등",
+      "link": "https://www.youtube.com/watch?v=fI0F7roKo-g",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "80a6041d21d8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 페이블5 사이버 탈옥 신고 '해커원 버그바운티' 개설",
+      "link": "https://zdnet.co.kr/view/?no=20260706203507",
+      "published": "2026-07-06T11:35:07+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 최신 모델 페이블5의 사이버 탈옥을 신고받는 버그바운티를 열었다. 해커원(HackerOne) 플랫폼에서 운영한다. 6월 페이블5를 다시 배포하며 미 정부와 맺은 합의의 일부다.방식은 이렇다. 검증된 보안 연구자가 페이블5의 사이버보안 분류기를 우회하는 기법을 찾아 신고한다. 성공한 신고에는 금전 보상을 준다. 적대적 공격이 아닌 책임 있는 공개로 처리한다. 신고 범위는 사이버 탈옥으로 한정된다. 시스템 프롬프트 추출 같은 비(非)사이버 문제는 앤트로픽이 이미 자체 공개하고"
+    },
+    {
+      "id": "df3f6637c80d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bentley teases its first EV, the Torcal",
+      "link": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
+      "published": "2026-07-06T11:30:38+00:00",
+      "summary": "The new model will be officially unveiled in late September."
+    },
+    {
+      "id": "543f450084ef",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony Bravia 7 Mark II: Midrange but Priced High (2026)",
+      "link": "https://www.wired.com/review/sony-bravia-7-mark-ii/",
+      "published": "2026-07-06T10:31:00+00:00",
+      "summary": "This midrange mini RGB LED television has a high-end price but doesn’t match the brightness and contrast of more advanced models."
+    },
+    {
+      "id": "e3ba59efb1ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 한국 책, 일본에서 떴다",
+      "link": "https://zdnet.co.kr/view/?no=20260706101358",
+      "published": "2026-07-06T10:24:17+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 일본에서 한국 책이 인기라는 이야기, 다들 한 번쯤 들어보셨죠? 실제로 숫자로 확인해보니 일본에서 팔린 한국 책이 벌써 500만 부를 넘어섰다고 해요. 드라마 팬으로 시작했던 독자들이 이제는 찐 독자로 자리 잡으면서, 천천히지만 확실하게 시장에 뿌리를 내리고 있는 모습인데요. 하지만 이 인기를 마냥 낙관적으로만 볼 수는 없다는 목소리도 있어요. 전문가들 사이에서도 의견이 엇갈리는데, 괜찮다는 의견이 40%인 반면 아직 조심해야 한다는 의견이 "
+    },
     {
       "id": "30422bc9ae2b",
       "source": "AI타임스",
@@ -23,6 +133,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212451",
       "published": "2026-07-06T09:30:51+00:00",
       "summary": "미국 명문대 학생들의 여름방학은 빅테크 기업이나 투자은행, 컨설팅 회사에서 인턴십을 수행하며 안정적인 취업을 준비하는 시기였다. 그러나 AI 시대가 본격화하면서 이러한 공식이 빠르게 무너지고 있다. 5일(현지시간) 월스트리트저널(WSJ)에 따르면, 일부 대학생들은 방학 시즌을 맞아 샌프란시스코의 '해커 하우스(Hacker House)'와 스타트업 인큐베이터로 몰려가 창업에 뛰어들고 있다. 일부는 휴학이나 자퇴까지 감수하며 AI 스타트업 창업에 인생을 걸고 있다.이 같은 변화의 배경에는 AI가 촉발"
+    },
+    {
+      "id": "5cece04900b3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "야놀자리서치, 빅데이터로 글로벌 관광도시 경쟁력 분석한다",
+      "link": "https://zdnet.co.kr/view/?no=20260706182359",
+      "published": "2026-07-06T09:28:55+00:00",
+      "summary": "[지디넷코리아]야놀자리서치가 빅데이터를 활용해 전 세계 관광도시의 경쟁력을 분석한다. 기존 인프라 중심 평가에서 벗어나 실제 관광객의 온라인 반응과 경험 데이터를 기반으로 도시 매력도를 진단하고, 한국 관광도시의 글로벌 경쟁력 강화 방안을 모색한다.야놀자리서치는 미국 퍼듀대학교 CHRIBA 연구소, 경희대학교 H&T 애널리틱스센터와 공동으로 오는 16일 서울글로벌센터에서 ‘2026 글로벌 관광도시 매력도 평가’ 세미나를 개최한다고 6일 밝혔다.이번 세미나는 글로벌 관광 시장 회복과 인바운드 관광 "
+    },
+    {
+      "id": "ee3b487035c9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "업의 본질 집중하는 KT...'제로트러스트' 기반 네트워크 초격차 천명",
+      "link": "https://zdnet.co.kr/view/?no=20260706164438",
+      "published": "2026-07-06T09:04:05+00:00",
+      "summary": "[지디넷코리아]KT가 총 18조원의 투자 계획을 밝히면서 절반이 넘는 12조원은 '네트워크'와 '정보보안'에 할애했다. 박윤영 KT 대표가 취임 약 100일을 맞아 내놓은 경영 전략의 일환이다.AI 시대가 본격화 되면서 모델 개발과 모델 학습을 위한 대규모 컴퓨팅 인프라 등에 시선이 쏠리는 가운데 KT는 ‘AX 플랫폼 컴퍼니’라는 새 비전을 제시했다. 동시에 현재와 미래를 위한 투자는 기본기인 '통신'에 집중하기로 했다.박 대표가 그간 강조해 온 ‘단단한 본질’이 우선이란 뜻이다.지난해 벌어진 사"
     },
     {
       "id": "90a469d52182",
@@ -430,6 +562,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260706111225",
       "published": "2026-07-06T02:12:25+00:00",
       "summary": "[지디넷코리아]이스트소프트가 인공지능 전환(AX) 사업 부문의 가파른 성장에 힘입어 올해 누적 수주 규모가 100억원을 넘어설 것으로 전망된다.이스트소프트는 올해 상반기 AX 사업에서 전년 대비 6배에 달하는 63억원 수주를 달성했다고 6일 밝혔다. 회사는 작년 초 AX 사업본부를 공식 출범한 후 통합 인공지능(AI) 솔루션 전략에 따라 대형 시스템 구축 사업을 비롯해 자체 개발한 AI 에이전트 '앨런', 실시간 대화형 서비스 '페르소 인터랙티브', 영상 제작툴 '페르소 스튜디오', '페르소 더빙"
+    },
+    {
+      "id": "d1e10bf7d410",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "link": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "published": "2026-07-06T02:06:49+00:00",
+      "summary": "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Comments URL: https://news.ycombinator.com/item?id=48799929 Points: 230 # Comments: 145"
     },
     {
       "id": "29dbf4ba5e9b",
