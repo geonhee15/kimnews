@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-07T16:25:14.385067+00:00",
-  "count": 4769,
+  "updated_at": "2026-07-07T18:28:53.579678+00:00",
+  "count": 4781,
   "items": [
+    {
+      "id": "758e6e09cf83",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+      "link": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+      "published": "2026-07-07T17:52:51+00:00",
+      "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-6"
+    },
+    {
+      "id": "f1cb707ee432",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ABC tells the government to get out of its newsrooms",
+      "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
+      "published": "2026-07-07T17:47:38+00:00",
+      "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to editorial independence by targeting program"
+    },
+    {
+      "id": "a6b9455199dc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "published": "2026-07-07T17:46:59+00:00",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessibl"
+    },
+    {
+      "id": "b5aa7020c7ce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google announces Pixel 11 launch event in August",
+      "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+      "published": "2026-07-07T17:22:48+00:00",
+      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. The email also includes a bri"
+    },
+    {
+      "id": "0e2038735b9d",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepSeek's New AI Speed Hack Is Amazing",
+      "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "published": "2026-07-07T16:33:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2665fcfe8c57",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "published": "2026-07-07T16:27:18+00:00",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
+    },
+    {
+      "id": "0bd123f6c27f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "published": "2026-07-07T16:14:53+00:00",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei."
+    },
     {
       "id": "56cf2ff3d279",
       "source": "The Verge",
@@ -36,6 +113,17 @@
       "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog ."
     },
     {
+      "id": "5338f3d1445b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dragonflies maneuver like fighter pilots",
+      "link": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+      "published": "2026-07-07T15:54:18+00:00",
+      "summary": "Male dragonflies' dramatic aerial combat maneuvers emerge from relatively simple vision-based rules."
+    },
+    {
       "id": "b16bcf163747",
       "source": "TechCrunch",
       "kind": "article",
@@ -45,6 +133,17 @@
       "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
       "published": "2026-07-07T15:19:33+00:00",
       "summary": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools."
+    },
+    {
+      "id": "2c46c322284f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Chat Control passed first round in EU Parliament",
+      "link": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "published": "2026-07-07T15:16:15+00:00",
+      "summary": "Article URL: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html Comments URL: https://news.ycombinator.com/item?id=48819008 Points: 305 # Comments: 133"
     },
     {
       "id": "338bd3c23730",
@@ -124,6 +223,17 @@
       "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/ Comments URL: https://news.ycombinator.com/item?id=48816959 Points: 301 # Comments: 226"
     },
     {
+      "id": "0ce7d2e3a031",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "98% isn't much",
+      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "published": "2026-07-07T12:45:14+00:00",
+      "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/ Comments URL: https://news.ycombinator.com/item?id=48816959 Points: 369 # Comments: 250"
+    },
+    {
       "id": "1fcc29806293",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -155,6 +265,17 @@
       "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
       "published": "2026-07-07T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, wit"
+    },
+    {
+      "id": "56bce68a805f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Europe's company websites are mostly served by US vendors",
+      "link": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "published": "2026-07-07T12:08:25+00:00",
+      "summary": "Article URL: https://ciphercue.com/blog/european-web-hosting-vendor-share-2026 Comments URL: https://news.ycombinator.com/item?id=48816612 Points: 219 # Comments: 143"
     },
     {
       "id": "618117884e62",
@@ -1308,6 +1429,17 @@
       "lang": "en",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "published": "2026-07-06T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c214bf884b86",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
       "published": "2026-07-06T15:00:00+00:00",
       "summary": ""
     },
