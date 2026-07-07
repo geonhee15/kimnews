@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-07-07T08:54:37.273615+00:00",
-  "count": 4721,
+  "updated_at": "2026-07-07T11:43:36.827890+00:00",
+  "count": 4746,
   "items": [
+    {
+      "id": "a5a7bab24b79",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best iPhone 17 Cases (2026): Our Picks After Testing 100+",
+      "link": "https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/",
+      "published": "2026-07-07T11:30:00+00:00",
+      "summary": "Protect your expensive iPhone 17, iPhone Air, iPhone Pro, or iPhone 17e with our favorite cases and screen protectors."
+    },
+    {
+      "id": "5786331c6dbd",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "published": "2026-07-07T11:10:52+00:00",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six m"
+    },
+    {
+      "id": "7b3f14ab5f36",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Are you ready for what it takes to stop ghost guns?",
+      "link": "https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns",
+      "published": "2026-07-07T11:00:00+00:00",
+      "summary": "In the summer of 2024, former Army National Guard member Andrew Scott Hastings spent a sweaty afternoon carefully packing boxes with parts he made using his 3D printer. These weren't novelty figurines or replacement Ikea pieces. The boxes were instead filled with a handful of hom"
+    },
+    {
+      "id": "01d5877378f0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "업스테이지 \"솔라 오픈 2로 3D 게임까지 빌드\"...자체 모델 성능 입증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212517",
+      "published": "2026-07-07T10:06:53+00:00",
+      "summary": "김성훈 업스테이지 대표가 최근 소셜미디어에서 유행 중인 'AI 모델로 실시간 게임 빌드하기' 트렌드에 동참했다. 자체 모델 ‘솔라 오픈 2’의 성능을 보여주려는 의도다. 김성훈 대표는 7일 X를 통해 자체 모델 '솔라 오픈 2'를 활용해 개발한 게임 결과물을 공개했다.처음에는 프롬프트 한 번, 즉 ‘원샷’만으로 간단한 벽돌깨기 게임 개발에 성공했으며, 이후로는 흩어진 과녁에 활을 쏘는 3D 게임을 개발하는 데도 성공했다고 밝혔다.김 대표는 “3D 게임은 원샷은 아니지만, 조금 더 가이드를 해주니 "
+    },
+    {
+      "id": "0b8acaf0f374",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI",
+      "link": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+      "published": "2026-07-07T10:00:00+00:00",
+      "summary": "Norwegian striker Erling Haaland isn’t just a footballer anymore. He’s become an internet character perpetuated by fans and AI."
+    },
+    {
+      "id": "522c1c493731",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "link": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "published": "2026-07-07T10:00:00+00:00",
+      "summary": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reve"
+    },
+    {
+      "id": "8464c6d9d293",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+      "published": "2026-07-07T09:57:12+00:00",
+      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave."
+    },
+    {
+      "id": "62c3b5db45dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[유미's 픽] SI 넘어선 LG CNS, LG전자 로봇 두뇌 키운다…'원 LG' 핵심축 부상",
+      "link": "https://zdnet.co.kr/view/?no=20260707185204",
+      "published": "2026-07-07T09:55:00+00:00",
+      "summary": "[지디넷코리아]LG CNS가 LG전자의 로봇 데이터팩토리에 피지컬 인공지능(AI) 인프라를 공급한다. LG전자가 최고경영자(CEO) 직속 로보틱스사업센터를 신설하고 로봇 상용화 체계를 갖추는 가운데, LG CNS가 GPU와 스토리지, 로봇 파운데이션 모델(RFM) 고도화 인프라를 맡으며 그룹 내 피지컬 AI 협업의 핵심 축으로 떠오른 모습이다.7일 금융감독원 전자공시시스템에 따르면 LG CNS는 LG전자와 1897억4724만원 규모의 'LG전자 피지컬 AI 인프라 계약'을 체결했다. 계약기간은 오"
+    },
+    {
+      "id": "1e0a23d4a60f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버·KAI, 방산 특화 소버린 AI 개발…‘무기 자율화’ 피지컬 AI 조준",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212516",
+      "published": "2026-07-07T09:46:57+00:00",
+      "summary": "네이버가 한국항공우주산업(KAI)과 손잡고 독자적인 방산 특화 AI 모델 개발에 나선다. 단순한 소프트웨어 공급을 넘어 전투기 등 무기체계를 직접 제어하고 운용하는 ‘피지컬 AI’ 단계까지 확장하는 것이 목표라 주목된다.네이버(대표 최수연)와 네이버클라우드(대표 김유원)는 KAI(대표 김종출)와 국내 독자 기술을 바탕으로 ‘방산 특화 AI 모델 개발 및 피지컬 AI 미래전투체계 플랫폼 개발 공동 추진’ MOU를 체결했다고 7일 밝혔다.3사는 팀네이버의 독자 AI 기술력과 KAI의 항공우주·방산 시"
+    },
+    {
+      "id": "279f81b917b8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "텐센트, 'Hy3' 오픈소스 정식 출시…'GLM-5.2' 절반 크기로 코딩 외 성능 압도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212492",
+      "published": "2026-07-07T09:37:09+00:00",
+      "summary": "텐센트가 플래그십 모델 'Hy3'의 정식 버전을 오픈소스로 공개했다. 2950억개 매개변수 규모의 비교적 작은 모델임에도 코딩을 제외한 검색·에이전트·장문 이해 등 대부분의 핵심 영역에서 중국 최고 수준의 모델 'GLM-5.2'와 경쟁하거나 앞서는 성능을 강조했다. 텐센트는 6일(현지시간) 최신 오픈웨이트 모델 '훈위안 Hy3(Hunyuan Hy3)'를 공개했다.지난 4월 공개된 프리뷰 버전과 달리, 지역 제한이나 사용 목적 제한이 없는 아파치 2.0 라이선스로 배포된다. 그동안 일부 중국 오픈 "
+    },
+    {
+      "id": "bda8b7d9ef32",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 사용자 '렌즈·음성' 검색 기록까지 AI 학습에 쓴다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212488",
+      "published": "2026-07-07T09:29:31+00:00",
+      "summary": "구글이 이용자들의 이미지와 음성 등 AI 검색 과정에서 생성되는 미디어 데이터를 모델 학습에 활용하는 새로운 개인정보 정책을 기본값으로 적용한 것으로 나타났다. 이용자가 별도로 설정을 변경하지 않는 한 구글 렌즈(Google Lens)나 음성 검색(Search Live) 기능 등을 통해 생성된 데이터가 AI 모델 학습에 사용될 수 있어, 개인정보 활용 범위를 둘러싼 논란을 예고했다.테크크런치와 와이어드 등에 따르면, 구글은 지난 6월 말 이용자들에게 이메일을 발송해 새로운 '검색 서비스 기록(Se"
+    },
+    {
+      "id": "4e668b970a8f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 \"클로드 내부서 인간 '의식' 닮은 생각 공간 발견\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212502",
+      "published": "2026-07-07T09:16:28+00:00",
+      "summary": "앤트로픽이 '클로드' 내부에서 인간의 의식적으로 접근 가능한 사고(conscious access)와 유사한 기능을 수행하는 내부 구조를 발견했다고 발표했다. 이 구조가 인간의 의식을 설명하는 대표적인 신경과학 이론 '글로벌 워크스페이스(Global Workspace)'과 놀라울 정도로 비슷한 특성을 보인다고 주장했다. 다만 이는 AI가 인간처럼 실제 의식을 갖고 있다는 의미는 아니며, 언어모델 내부의 정보 처리 방식을 이해하고 안전성을 높이는 새로운 도구가 될 수 있다는 점을 강조했다.앤트로픽은 "
+    },
+    {
+      "id": "65f21efc7fc3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"국내 대규모 AIDC 구축에 국산 NPU 활용 늘려야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260707180227",
+      "published": "2026-07-07T09:10:06+00:00",
+      "summary": "[지디넷코리아]대한민국 대도약 3대 메가 프로젝트에 따라 대대적인 AI 데이터센터 구축이 예정된 가운데, 국산 AI 반도체 사용 비중 목표를 정해야 한다는 정책 건의가 나와 이목을 끈다. 엔비디아 GPU 외에 NPU 사용을 늘려 국산 AI 반도체 생태계를 더욱 빠르게 확장시킬 수 있다는 이유에서다.백준호 퓨리오사AI 대표는 7일 과학기술정보통신부가 K-AI반도체 기술지원센터 개소식을 열고 류제명 차관 주재로 열린 간담회에서 “국산 칩 포션(비중)을 30~40% 목표로 하고 자체적인 엔진을 만들어 "
+    },
+    {
+      "id": "faf7d6e63fe8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"공격 기획부터 수행까지 스스로\"...최초의 자율형 AI 랜섬웨어 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212506",
+      "published": "2026-07-07T09:01:32+00:00",
+      "summary": "대형언어모델(LLM)이 공격 전 과정을 스스로 계획하고 실행한 것으로 추정되는 최초의 AI 에이전트 기반 랜섬웨어 사례가 발견됐다. 사이버 보안 업계는 생성 AI가 단순한 공격 도구를 넘어 독자적으로 사이버 공격을 수행하는 단계에 진입했다며 새로운 위협이 현실화하고 있다고 경고했다.사이버 보안 전문 시스디그(Sysdig)의 위협 연구팀은 최근 공개한 보고서를 통해 LLM이 직접 공격을 기획하고 수행한 최초의 에이전트형 AI 랜섬웨어 공격 사례를 확인했으며, 이를 '제이드 퍼퍼(Jade Puffer"
+    },
+    {
+      "id": "b0ec48f8217b",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "얼마나 규제가 싫은지 감도안옴",
+      "link": "https://www.youtube.com/shorts/m9PV55tg9pU",
+      "published": "2026-07-07T09:00:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "0843d3c8e034",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "투자 업계에서 AI를 활용하는 방법과 원하는 인재 | AX 인재전쟁 6화 카카오페이증권",
+      "link": "https://www.youtube.com/watch?v=aBuoojGjyf4",
+      "published": "2026-07-07T09:00:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "cea87c03d061",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "published": "2026-07-07T09:00:00+00:00",
+      "summary": "Forterra has deployed more than 100"
+    },
+    {
+      "id": "a4624e25eec9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이력서·연봉 정보 쌓인 HR 플랫폼, 개인정보 관리 시험대 올랐다",
+      "link": "https://zdnet.co.kr/view/?no=20260707171048",
+      "published": "2026-07-07T08:57:45+00:00",
+      "summary": "[지디넷코리아]이력서와 연봉 등 방대한 개인정보를 보유한 HR 플랫폼들이 정부의 개인정보 처리방침 평가 대상에 오르며 관리 체계 점검을 받게 됐다. 최근 수년간 일부 채용 플랫폼에서 개인정보 유출 사고가 반복된 데다, 기업 인수합병(M&A)에 따른 개인정보 해외 이전 우려까지 제기되면서 관리 체계 전반에 대한 점검 필요성이 커지고 있기 때문이다.국내 HR 플랫폼들은 보안 투자 확대와 관리 체계 강화에 나서고 있다. 다만 개인정보보호위원회 평가 결과에 따른 조치가 개선 권고에 그친다는 점에서 실효성"
+    },
+    {
+      "id": "f33276ffd8d3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "빅테크 'AI 실업 대란' 경고 급감... 비관론서 생산성 낙관론으로 선회",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212510",
+      "published": "2026-07-07T08:51:10+00:00",
+      "summary": "생성 AI가 대규모 일자리를 대체할 것이라는 빅테크 경영진의 경고가 눈에 띄게 잦아들고 있다. 지난해까지만 해도 AI가 대규모 감원을 불러올 것이라는 전망이 주를 이뤘지만, 최근에는 AI를 생산성 향상과 신규 일자리 창출의 도구로 보는 시각이 늘어나는 분위기다.글로벌 컨설팅 기관 EY-파르테논이 최근 실시한 조사에 따르면, AI 투자로 인해 대규모 인력 감축이 발생할 것으로 예상한 CEO의 비율은 2025년 1월 46%에서 올해 5월 20%로 절반 이하로 감소했다. AI가 노동시장을 급격히 뒤흔들"
+    },
+    {
+      "id": "7cc25b138929",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재용 회장, '선밸리 컨퍼런스' 출국… 글로벌 빅테크와 AI 공급망 논의",
+      "link": "https://zdnet.co.kr/view/?no=20260707173406",
+      "published": "2026-07-07T08:42:43+00:00",
+      "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자들의 여름캠프'로 불리는 미국 '선밸리 컨퍼런스'에 참석하기 위해 출국했다. 2분기 사상 최대 실적을 갈아치우며 세계 영업이익 1위를 달성한 직후 출장인 만큼, 빅테크 기업과 인공지능(AI) 반도체 공급망 협력 논의에 속도가 붙을 전망이다.7일 재계에 따르면 이 회장은 이날 오후 5시쯤 서울 강서구 김포비지니스항공센터(SGBAC)를 통해 미국 시애틀로 출국했다. 미국 아이다호주 선밸리 리조트에서 열리는 선밸리 컨퍼런스에 참석하기 위해서다. 미 투자은행"
+    },
+    {
+      "id": "886879e044e7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, iOS 27 최신 버전서 ‘시리 AI’ 목소리 제어 기능 활성화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212513",
+      "published": "2026-07-07T08:36:39+00:00",
+      "summary": "애플이 차세대 '시리(Siri) AI'의 음성 맞춤 기능을 본격적으로 활성화했다. 사용자는 시리의 말하는 속도와 감정 표현 수준을 직접 조절할 수 있게 됐으며, 설정한 음성은 시스템 전반에 일괄 적용된다.애플은 6일(현지시간) 개발자에게 배포한 iOS 27 베타 3에서 그동안 '곧 제공 예정(Coming soon)'으로 표시됐던 시리의 '말하는 속도(Pace)'와 '표현력(Expressivity)' 조절 기능을 공식 활성화했다. 지난 6월 세계개발자회의 WWDC 2026에서 처음 공개된 이후 실제"
+    },
     {
       "id": "66fe3590c4b6",
       "source": "AI타임스",
@@ -12,6 +243,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212505",
       "published": "2026-07-07T08:32:05+00:00",
       "summary": "생성 AI가 광고 제작의 문턱을 크게 낮추면서 이제는 AI가 만든 광고 영상마저 '표절 논란'에 휘말렸다. 경쟁 관계인 동영상 AI 스타트업 피카와 힉스필드가 불과 5일 간격으로 거의 동일한 구성의 홍보 영상을 공개하면서, 생성 AI 시대에 창의성과 모방의 경계가 더욱 흐려지고 있다는 지적이 나왔다.인포메이션에 따르면, 논란은 힉스필드가 지난 6월2일(현지시간) AI 영상 생성 플랫폼과 앤트로픽의 '클로드 코드' 통합 기능을 소개하는 AI 생성 마케팅 영상을 공개하면서 시작됐다.영상에는 한 스타트"
+    },
+    {
+      "id": "47e3bf0c593f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서강현 현대차그룹 사장 \"2028년부터 로봇 양산…협력사 참여 지원\"",
+      "link": "https://zdnet.co.kr/view/?no=20260707171614",
+      "published": "2026-07-07T08:25:21+00:00",
+      "summary": "[지디넷코리아]현대자동차그룹이 1차 협력사를 넘어 2·3차 협력사까지 포괄하는 공급망 상생 강화에 나선다. 전동화와 로보틱스 등 미래 신사업 전환 과정에서 기존 자동차 협력사들이 함께 성장할 수 있는 기반을 마련하겠다는 구상이다.서강현 현대자동차그룹 기획조정담당 사장은 7일 경기도 성남시 판교 더블트리 호텔에서 열린 ‘현대자동차그룹 상생협약 체결식’에서 기자들과 만나 \"현대차그룹은 상생협력을 위해 노력하고 있지만 앞으로 공급망 개선을 더욱 강화하고, 1차 협력사뿐 아니라 2·3차 협력사까지 공급망"
     },
     {
       "id": "e248b14a1193",
@@ -25,6 +267,17 @@
       "summary": "화웨이가 차세대 스마트폰 프로세서에서 반도체 미세공정의 한계를 새로운 설계 기술로 극복하겠다는 전략을 구체적인 생산 데이터와 함께 공개했다. 미국의 첨단 반도체 장비 수출 규제로 최첨단 극자외선(EUV) 노광장비를 확보하지 못하는 상황에서, 칩 구조 자체를 재설계해 성능과 전력 효율을 크게 높였다는 것이 핵심이다.화웨이는 3일(현지시간) 중국 논문 공개 플랫폼인 차이나카이브(ChinaXiv)에 발표한 최신 연구를 통해 자체 개발한 '로직폴딩(LogicFolding)' 아키텍처를 적용한 차세대 모바"
     },
     {
+      "id": "858a8ab51a4d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "YMTC, 레노버 일부 노트북에 QLC SSD 공급",
+      "link": "https://zdnet.co.kr/view/?no=20260707160246",
+      "published": "2026-07-07T08:10:57+00:00",
+      "summary": "[지디넷코리아]낸드 플래시메모리 공급난과 가격 상승 속 중국 제조사 '양쯔메모리테크놀로지(YMTC)'가 존재감을 키우고 있다. 최근 국내 일반 소비자용 SSD 시장에 진출한 데 이어 레노버 노트북 제품 중 일부에도 기본 탑재된 것이 드러났다.오스트리아에 본사를 둔 글로벌 IT매체 '노트북체크'가 올해 독일 지역에 출시된 레노버 업무용 노트북 '씽크북 14 G9 IPL'을 테스트한 결과, 윈도11 운영체제와 응용프로그램 저장·실행용으로 YMTC의 PCI 익스프레스 4.0 NVMe SSD가 장착된 것"
+    },
+    {
       "id": "894aa674c11f",
       "source": "AI타임스",
       "kind": "article",
@@ -34,6 +287,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212512",
       "published": "2026-07-07T08:08:23+00:00",
       "summary": "미국 사이버 보안 당국이 앤트로픽의 '미소스(Mythos)'를 활용해 정부 소프트웨어의 보안 취약점을 점검하는 것으로 알려졌다. 백악관과의 갈등으로 공급망 위험 지정 대상에 올랐지만, 미국 정보·안보 기관에서 잇달아 AI 기술을 채택하며 앤트로픽 기술에 대한 정부의 신뢰가 여전히 높다는 점을 보여주는 사례로 평가됐다.로이터는 6일(현지시간) 미국 사이버보안 및 인프라 보안국(CISA)이 미소스를 이용해 정부의 소스코드 저장소를 분석하고 있으며, 외국 정보기관이나 사이버 범죄자들이 악용할 수 있는 "
+    },
+    {
+      "id": "cf79d6cf5a55",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국데이터산업진흥원, '2026 AI·데이터 문제해결은행 맞춤 지원' 참여기업 모집",
+      "link": "https://zdnet.co.kr/view/?no=20260707170812",
+      "published": "2026-07-07T08:08:12+00:00",
+      "summary": "[지디넷코리아]한국데이터산업진흥원(K-DATA, 원장 양재수)이 ’2026년 AI·데이터 문제해결은행 맞춤 지원 사업' 참여기업을 모집한다. 오는 21일까지 접수를 받는다. 데이터·AI 활용 실사례 및 맞춤형 전문가 지원을 기반으로 중소·소상공인 및 예비창업자의 경영적 애로사항 해결 및 인공지능·디지털 전환을 촉진하기 위해서 시행하는 사업이다.기업별 문제를 데이터·AI 관점에서 진단하고, 기업의 경영적 문제해결 및 데이터 기반 자생적 혁신을 위해 필요한 기업 역량 강화와 데이터·AI 활용 실습을 "
+    },
+    {
+      "id": "15fdff80d08b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 사이냅소프트, NIPA 'SaaS 개발·사업화 지원 사업' 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212518",
+      "published": "2026-07-07T08:00:00+00:00",
+      "summary": "■ 사이냅소프트(대표 전경헌)는 과학기술정보통신부가 주최하고 정보통신산업진흥원(NIPA)이 주관하는 ‘2026 AI 기반 지능형 SaaS 개발·사업화 지원 사업’에 최종 선정됐다고 밝혔다. 사이냅소프트는 이번 사업을 통해 'AI-네이티브 지능형 비정형 문서 전처리·가공 및 고품질 데이터화 SaaS 플랫폼'을 개발한다. 기업과 기관의 다양한 비정형 문서를 AI가 즉시 활용할 수 있는 구조화 데이터로 자동 전환하는 플랫폼을 구축할 계획이다.■ 스카이랩스(대표 이병환)는 금융위원회에 코스닥 상장을 위한"
     },
     {
       "id": "b11742d49cbd",
