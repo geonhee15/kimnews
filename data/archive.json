@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-07T13:53:22.699970+00:00",
-  "count": 4756,
+  "updated_at": "2026-07-07T16:25:14.385067+00:00",
+  "count": 4769,
   "items": [
+    {
+      "id": "56cf2ff3d279",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Doom developer id reportedly cut in half as part of Xbox layoffs",
+      "link": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
+      "published": "2026-07-07T16:09:48+00:00",
+      "summary": "As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication that the cuts equate to more than 90 redundancies. Another source said that id's QA department was "
+    },
+    {
+      "id": "9d26191b6378",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "published": "2026-07-07T16:00:00+00:00",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents."
+    },
+    {
+      "id": "7fe62bdefd02",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "published": "2026-07-07T16:00:00+00:00",
+      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "b16bcf163747",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "published": "2026-07-07T15:19:33+00:00",
+      "summary": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools."
+    },
+    {
+      "id": "338bd3c23730",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "published": "2026-07-07T14:35:42+00:00",
+      "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion."
+    },
+    {
+      "id": "beea4e4c3d58",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iRobot’s newest floor cleaner isn’t a robot",
+      "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
+      "published": "2026-07-07T14:00:00+00:00",
+      "summary": "iRobot just announced its first-ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacu"
+    },
+    {
+      "id": "dffb703ec758",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft fixes storage-hogging Windows 11 folder",
+      "link": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder",
+      "published": "2026-07-07T13:52:58+00:00",
+      "summary": "Microsoft is addressing a Windows 11 bug that caused a folder to take up several gigabytes of storage space. As spotted earlier by Windows Latest, Microsoft included the patch in its optional June 2026 update (KB5095093), which \"improves disk space usage for the CapabilityAccessM"
+    },
+    {
+      "id": "a4bb9c9cce1e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국 AI 동반자법 시행…더우바오·큐원, AI 에이전트 종료",
+      "link": "https://zdnet.co.kr/view/?no=20260707224246",
+      "published": "2026-07-07T13:42:46+00:00",
+      "summary": "[지디넷코리아]중국의 'AI 의인화 상호작용 서비스 관리 잠정 규정'이 7월 15일 시행된다. 이에 맞춰 바이트댄스의 더우바오(Doubao)와 알리바바의 큐원(Qwen)은 시행 전에 개인화 AI 에이전트 기능을 접는다. 개인화 기능은 이용자가 직접 성격과 역할을 설정해 만드는 맞춤형 AI 동반자 기능이다. 챗GPT에도 비슷한 설정이 있으나 중국의 두 앱은 더욱 적극적으로 페르소나 설정을 할 수 있는 것으로 알려져 있다.이 규정은 국가인터넷정보판공실(CAC)이 국가발전개혁위원회·공업정보화부·공안부·"
+    },
     {
       "id": "9a4e6005eb6e",
       "source": "The Verge",
@@ -23,6 +111,17 @@
       "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
       "published": "2026-07-07T13:00:00+00:00",
       "summary": "Google is going to give content creators and website owners a better idea of how people find their social media profiles and YouTube content through Search. With a new feature in the Google Search Console called \"platform properties,\" Google says that you'll be able to \"easily tr"
+    },
+    {
+      "id": "22f202cf023a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "98% Isn't Much",
+      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "published": "2026-07-07T12:45:14+00:00",
+      "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/ Comments URL: https://news.ycombinator.com/item?id=48816959 Points: 301 # Comments: 226"
     },
     {
       "id": "1fcc29806293",
@@ -133,6 +232,17 @@
       "link": "https://www.theverge.com/tech/960802/3d-printed-gun-laws-ghost-guns",
       "published": "2026-07-07T11:00:00+00:00",
       "summary": "In the summer of 2024, former Army National Guard member Andrew Scott Hastings spent a sweaty afternoon carefully packing boxes with parts he made using his 3D printer. These weren't novelty figurines or replacement Ikea pieces. The boxes were instead filled with a handful of hom"
+    },
+    {
+      "id": "5ec8b2a6b45a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "link": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "published": "2026-07-07T10:47:33+00:00",
+      "summary": "Article URL: https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland Comments URL: https://news.ycombinator.com/item?id=48816003 Points: 260 # Comments: 195"
     },
     {
       "id": "01d5877378f0",
@@ -298,6 +408,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260707171048",
       "published": "2026-07-07T08:57:45+00:00",
       "summary": "[지디넷코리아]이력서와 연봉 등 방대한 개인정보를 보유한 HR 플랫폼들이 정부의 개인정보 처리방침 평가 대상에 오르며 관리 체계 점검을 받게 됐다. 최근 수년간 일부 채용 플랫폼에서 개인정보 유출 사고가 반복된 데다, 기업 인수합병(M&A)에 따른 개인정보 해외 이전 우려까지 제기되면서 관리 체계 전반에 대한 점검 필요성이 커지고 있기 때문이다.국내 HR 플랫폼들은 보안 투자 확대와 관리 체계 강화에 나서고 있다. 다만 개인정보보호위원회 평가 결과에 따른 조치가 개선 권고에 그친다는 점에서 실효성"
+    },
+    {
+      "id": "c6950137c30e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "published": "2026-07-07T08:54:03+00:00",
+      "summary": "Article URL: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device Comments URL: https://news.ycombinator.com/item?id=48815196 Points: 271 # Comments: 113"
     },
     {
       "id": "f33276ffd8d3",
@@ -608,6 +729,17 @@
       "summary": "마이크로소프트(MS)가 전 세계 직원의 2.1%에 해당하는 4800명을 감원하는 대규모 구조조정에 나서며, 이번 감원이 AI가 사람의 일자리를 직접 대체한 결과는 아니라고 강조했다. 다만 AI 확산으로 업무 방식이 빠르게 변화하고 있으며, 이에 맞춰 조직과 사업을 재편하는 과정이라는 점을 강조했다.6일(현지시간) 로이터 등에 따르면, 이번 구조조정의 중심은 게임 사업부인 X박스다.MS는 X박스 조직에서 전체 인력의 약 20%에 해당하는 3200명을 감축한다. 이 가운데 1600명은 즉시 해고되며,"
     },
     {
+      "id": "f7cdb69e3114",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published": "2026-07-07T06:20:06+00:00",
+      "summary": ""
+    },
+    {
       "id": "cf7d98b76cfd",
       "source": "조코딩",
       "kind": "youtube",
@@ -881,6 +1013,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260706170703",
       "published": "2026-07-07T00:00:01+00:00",
       "summary": "[지디넷코리아]큐네스티가 주택도시보증공사(HUG)와 사회서비스 분야 창업에 도전할 청년 예비창업 6개팀을 찾는다. 지역은 부산이다.HUG가 주최하고 큐네스티가 주관한다. 모집기간은 오는 31일까지다.모집 대상은 복지·보건·교육·고용·주거 등 사회서비스 분야에서 창업을 희망하는 18~39세 청년이다. 전국 누구나 지원 가능하지만, 창업은 부산서 해야한다.선발된 팀에게는 창업지원금 1,000만원이 지원된다. 자금은 시장조사 및 고객 검증, 프로토타입·시제품 개발, 초기 운영자금, 마케팅·홍보, 인건비"
+    },
+    {
+      "id": "22871385fa60",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "published": "2026-07-06T23:59:54+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals Comments URL: https://news.ycombinator.com/item?id=48812055 Points: 241 # Comments: 72"
     },
     {
       "id": "7f8afca011bb",
