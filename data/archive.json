@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-07T11:43:36.827890+00:00",
-  "count": 4746,
+  "updated_at": "2026-07-07T13:53:22.699970+00:00",
+  "count": 4756,
   "items": [
+    {
+      "id": "9a4e6005eb6e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "published": "2026-07-07T13:00:00+00:00",
+      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Par"
+    },
+    {
+      "id": "0595eac6c898",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Search lets creators know more about their reach",
+      "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "published": "2026-07-07T13:00:00+00:00",
+      "summary": "Google is going to give content creators and website owners a better idea of how people find their social media profiles and YouTube content through Search. With a new feature in the Google Search Console called \"platform properties,\" Google says that you'll be able to \"easily tr"
+    },
+    {
+      "id": "1fcc29806293",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "박원재 SW정책연구소장 \"연구 질과 생산성 획기적으로 높일 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260707213302",
+      "published": "2026-07-07T12:33:02+00:00",
+      "summary": "[지디넷코리아]\"(소프트웨어) 연구의 질과 생산성을 획기적으로 높이자.\"소프트웨어정책연구소(SPRI, 스프리로 발음) 신임(5대) 소장으로 6일 취임한 박원재 소장은 연구원과 직원에게 보낸 '소프트웨어정책연구소(SPRI) 일원으로서의 다짐과 당부의 말씀'이란 메시지에서 이 같이 주창했다.소프트웨어(SW)정책연구소는 2014년 3월 개소한 SW관련 국내 최고 싱크탱크다. 정보통신(ICT) 특별법(정식 명칭은 정보통신 진흥 및 융합 활성화 등에 관한 특별법)'에 따라 만들어진 공공기관이다. 정보통신산"
+    },
+    {
+      "id": "b41a0fff340b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "타타 커뮤니케이션즈, AI 지원 연결성 투자로 인도-싱가포르 디지털 회랑 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260707211002",
+      "published": "2026-07-07T12:10:02+00:00",
+      "summary": "[지디넷코리아] 안전하고 빠른 동적•자가 관리형•저지연 인프라를 통해 기업들을 도와 대륙 간 원활한 연결을 실현할 계획 뭄바이, 인도, 2026년 7월 7일 /PRNewswire/ -- 글로벌 커뮤니케이션 기술을 선도하는 기업 타타 커뮤니케이션즈(Tata Communications)가 7월 6일 해저 케이블 인프라에 대한 전략적 투자를 발표했다. 이번 투자는 상당한 규모의 광섬유 용량을 확보하는 방식으로 진행되며, 인도의 신흥 AI 허브인 뭄바이와 첸나이, 그리고 아시아를 대표하는 클라우드 및 A"
+    },
+    {
+      "id": "c170d471e8f2",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "published": "2026-07-07T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, wit"
+    },
+    {
+      "id": "618117884e62",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "published": "2026-07-07T12:00:00+00:00",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
+    },
+    {
+      "id": "77235de94834",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox’s bold plan for the future sounds nearly impossible",
+      "link": "https://www.theverge.com/entertainment/961924/xbox-billion-users",
+      "published": "2026-07-07T12:00:00+00:00",
+      "summary": "It's another bad week for the video game industry. Microsoft outlined a series of layoffs on Monday that Xbox CEO Asha Sharma described as \"the most significant restructure in Xbox history.\" But buried in Sharma's memo was a curiously optimistic statement: \"I want Xbox to be one "
+    },
     {
       "id": "a5a7bab24b79",
       "source": "Wired",
@@ -14,6 +91,17 @@
       "summary": "Protect your expensive iPhone 17, iPhone Air, iPhone Pro, or iPhone 17e with our favorite cases and screen protectors."
     },
     {
+      "id": "eae5efe33f61",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 가짜뉴스 잡는 법, 오늘 시작",
+      "link": "https://zdnet.co.kr/view/?no=20260707092404",
+      "published": "2026-07-07T11:11:39+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘부터 가짜뉴스를 막기 위한 새로운 법이 본격 시행됐다는 소식 전해드릴게요. 3년이라는 긴 시간에 걸쳐 만들어진 이 법은 그동안 거짓 정보로 많은 사람들이 피해를 봤던 상황을 개선하기 위해 마련됐는데요, 이제는 거짓말로 남을 속이면 무려 5배나 되는 금액을 물어줘야 하는 강력한 내용을 담고 있어요. 다만 모두가 이 법을 반기는 건 아니에요. 전문가들을 대상으로 조사한 결과 무려 83%가 부작용을 걱정한다고 답했고, 괜찮다는 응답은 17%에 그쳤어"
+    },
+    {
       "id": "5786331c6dbd",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -23,6 +111,17 @@
       "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "published": "2026-07-07T11:10:52+00:00",
       "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six m"
+    },
+    {
+      "id": "dd6c7be79e7e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "published": "2026-07-07T11:00:18+00:00",
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving."
     },
     {
       "id": "7b3f14ab5f36",
@@ -760,6 +859,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212483",
       "published": "2026-07-07T01:40:00+00:00",
       "summary": "독일 튀링겐주 배전망에 기존 선로 증설 없이 태양광 접속 여력을 높이는 중전압 전압조정 장비가 투입됐다. 태양광 보급 확대로 배전망 여유가 줄어드는 가운데 기존 전력망 활용도를 높이는 기술 실증이다.독일 에너지기업 튀가(Thüga AG)는 1일(현지시간) 튀링겐에너지네트워크(TEN), 히타치에너지(Hitachi Energy)와 공동 개발한 중전압 선로 전압조정기(MSLR)를 튀링겐주 바이마르 인근 홉프가르텐 배전망에 적용했다고 밝혔다.MSLR은 배전망 전압을 조정해 기존 전력선의 태양광 수용 능력"
+    },
+    {
+      "id": "2bdabcaec41c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "published": "2026-07-07T00:14:21+00:00",
+      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Comments URL: https://news.ycombinator.com/item?id=48812156 Points: 302 # Comments: 109"
     },
     {
       "id": "d77397ded70e",
