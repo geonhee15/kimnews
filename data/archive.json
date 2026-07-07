@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-07T21:52:24.732857+00:00",
-  "count": 4796,
+  "updated_at": "2026-07-07T22:56:42.683114+00:00",
+  "count": 4799,
   "items": [
+    {
+      "id": "0378c0615cb5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "published": "2026-07-07T22:18:10+00:00",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities."
+    },
+    {
+      "id": "ed6cab37fa9b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월7일] AI가 벌어준 돈, 82%는 '인프라'의 몫...모델은 11% 불과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212495",
+      "published": "2026-07-07T22:00:00+00:00",
+      "summary": "생성 AI 시장은 기술 사상 유례없는 성장 속도를 이어가고 있습니다. 하지만 그 핵심인 오픈AI와 앤트로픽이 속한 '파운데이션 모델' 분야가 AI 경제에서 차지하는 가치 비중은 11%에 그친다는 분석이 나왔습니다.AI·기술 전문 리서치 플랫폼 엑스포넨셜 뷰(Exponential View)는 최근 발간한 'AI 경제 현황(The State of the AI Economy) 2026' 보고서를 통해 생성 AI 산업의 성장 규모뿐 아니라 AI 생태계 내 가치가 실제 어디에 귀속되는지를 정량적으로 분석했"
+    },
+    {
+      "id": "36e29dc88771",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "published": "2026-07-07T21:59:29+00:00",
+      "summary": "As part of Meta’s Muse Image model rollout, Instagram users with public accounts need to opt out to block AI generations of their content."
+    },
     {
       "id": "ff1ef4588669",
       "source": "Wired",
