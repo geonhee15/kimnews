@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-08T20:43:13.821153+00:00",
-  "count": 4946,
+  "updated_at": "2026-07-08T21:48:53.651271+00:00",
+  "count": 4948,
   "items": [
+    {
+      "id": "86749a65738a",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+      "published": "2026-07-08T21:11:56+00:00",
+      "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "989dc91cce1a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "published": "2026-07-08T21:08:26+00:00",
+      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football."
+    },
     {
       "id": "1c5c24b5ce9a",
       "source": "TechCrunch",
