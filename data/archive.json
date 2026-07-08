@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-08T16:20:59.549214+00:00",
-  "count": 4914,
+  "updated_at": "2026-07-08T17:58:21.559323+00:00",
+  "count": 4929,
   "items": [
+    {
+      "id": "35ca06dcf12a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "published": "2026-07-08T17:47:55+00:00",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill "
+    },
+    {
+      "id": "90e757b91c6a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "published": "2026-07-08T17:11:18+00:00",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use."
+    },
+    {
+      "id": "29101961cbf0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "If Microsoft sold off Xbox, who would even buy it?",
+      "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+      "published": "2026-07-08T17:10:05+00:00",
+      "summary": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she's making such dramat"
+    },
+    {
+      "id": "6dbfb636aba1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Twelve South’s AirFly Pro is a great travel companion, and it’s on sale for $40",
+      "link": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+      "published": "2026-07-08T17:09:28+00:00",
+      "summary": "If you’ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones with in-flight entertainment systems, and right now it’s on sale for $39.99 ($15 off) at"
+    },
+    {
+      "id": "e6c1a2d2b8df",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "published": "2026-07-08T17:00:00+00:00",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
+    },
+    {
+      "id": "3e4eb64bc015",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "published": "2026-07-08T17:00:00+00:00",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI r"
+    },
+    {
+      "id": "4a867cd60af0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+      "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+      "published": "2026-07-08T16:29:35+00:00",
+      "summary": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI."
+    },
+    {
+      "id": "5819779d0eda",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "published": "2026-07-08T16:26:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "16d2f95a3037",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "published": "2026-07-08T16:22:38+00:00",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs."
+    },
     {
       "id": "bd9d4c41d713",
       "source": "GitHub Blog",
@@ -23,6 +122,39 @@
       "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
       "published": "2026-07-08T15:41:06+00:00",
       "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+    },
+    {
+      "id": "e5a514c98b44",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Two teens learn the hard way not to do toy gun drive-bys from a Waymo",
+      "link": "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
+      "published": "2026-07-08T15:40:44+00:00",
+      "summary": "The robotaxi stopped, called 911, and waited for the San Mateo Police to show up."
+    },
+    {
+      "id": "3d1bbf385809",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Chatto is now Open Source",
+      "link": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "published": "2026-07-08T15:19:50+00:00",
+      "summary": "Article URL: https://www.hmans.dev/blog/chatto-is-open-source Comments URL: https://news.ycombinator.com/item?id=48833116 Points: 240 # Comments: 47"
+    },
+    {
+      "id": "bd2d1778d0eb",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ocean rift zone saw spreading happen in a sudden burst",
+      "link": "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
+      "published": "2026-07-08T15:09:38+00:00",
+      "summary": "The crust expands at mid-ocean rifts. But how?"
     },
     {
       "id": "9f05e05cb5e2",
@@ -100,6 +232,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260708231003",
       "published": "2026-07-08T14:10:03+00:00",
       "summary": "[지디넷코리아] 플레이노, 텍사스, 2026년 7월 8일 /PRNewswire/ -- 글로벌 표준화 네트워크 API 분야를 선도하는 기업 아두나(Aduna)가 미국 모바일 생태계 전반의 사기 피해를 줄여 주는 디지털 보안에서 중대한 진전을 이뤘다고 7월 8일 발표했다. 아두나는 AT&T, 티모바일(T-Mobile), 버라이즌(Verizon)과의 협력을 통해 AI 기반 신원 도용의 급증으로부터 수백만 명의 미국 모바일 사용자를 보호하도록 설계된 네트워크 솔루션을 공급하는 기업이다. SMS 일회용 비"
+    },
+    {
+      "id": "487e616cfce6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "link": "https://mistral.ai/news/robostral-navigate/",
+      "published": "2026-07-08T14:09:17+00:00",
+      "summary": "Article URL: https://mistral.ai/news/robostral-navigate/ Comments URL: https://news.ycombinator.com/item?id=48832212 Points: 230 # Comments: 55"
     },
     {
       "id": "daab76f28009",
@@ -210,6 +353,17 @@
       "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
       "published": "2026-07-08T12:00:00+00:00",
       "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
+    },
+    {
+      "id": "11d8286f9348",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "published": "2026-07-08T11:30:56+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/ Comments URL: https://news.ycombinator.com/item?id=48830565 Points: 227 # Comments: 171"
     },
     {
       "id": "a815cd376197",
@@ -584,6 +738,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212551",
       "published": "2026-07-08T08:16:22+00:00",
       "summary": "AI 생성 영상나주시가 핵융합 연구시설과 연계한 연구개발특구 지정 전략을 마련했다고 8일 밝혔다.나주는 지난 6일 시청 소회의실에서 ‘나주시 에너지 핵융합 연구개발특구 지정 전략 수립 용역’ 최종보고회를 열었다. 보고회에서는 핵융합 연구개발특구 지정 전략과 단계별 추진방안이 공유됐다.이번 용역은 인공태양 연구시설 구축사업과 연계해 연구개발특구 지정을 준비하기 위해 지난 4월 착수됐다. 3개월간 핵융합 산업과 정책환경 분석, 특구 지정 전략, 연구기관·기업 유치 방안, 단계별 실행 로드맵 등이 검토"
+    },
+    {
+      "id": "ceae6d6523c3",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Data for Agents",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published": "2026-07-08T08:16:05+00:00",
+      "summary": ""
     },
     {
       "id": "1a514be2ae11",
