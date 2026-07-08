@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-08T21:48:53.651271+00:00",
-  "count": 4948,
+  "updated_at": "2026-07-08T23:00:05.177306+00:00",
+  "count": 4953,
   "items": [
+    {
+      "id": "0db7c6969aaa",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+      "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+      "published": "2026-07-08T22:37:25+00:00",
+      "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Me"
+    },
+    {
+      "id": "849ff8388c53",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월8일] \"최고 모델이 공짜\"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212534",
+      "published": "2026-07-08T22:00:00+00:00",
+      "summary": "최근 미국 AI 업계에서는 새로운 가격 경쟁이 시작됐습니다. 이번에는 요금 인하가 아니라, 아예 최고 성능 AI를 '무료'로 제공하는 경쟁입니다.더 주목할 점은 이를 주도하는 곳이 가장 비싸고 성능이 뛰어난 프론티어 모델 기업인 오픈AI와 앤트로픽이라는 것입니다.물론, 이들이 모든 사용자를 대상으로 무료 서비스에 나선 것은 아닙니다. 최근 세계 최대 스타트업 액셀러레이터인 Y 콤비네이터(YC) 참여 기업들을 대상으로 수십억원 규모의 토큰 크레딧을 제공하는 경쟁에 들어갔습니다. 샘 알트먼 오픈AI "
+    },
+    {
+      "id": "03d2e95494f0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+      "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+      "published": "2026-07-08T21:49:33+00:00",
+      "summary": "The National Highway Traffic Safety Administration said emergency scenes are not \"edge cases.\""
+    },
+    {
+      "id": "6e5af34d6159",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "published": "2026-07-08T21:42:44+00:00",
+      "summary": "AI cheating leads to \"a failed society,\" professor says."
+    },
     {
       "id": "86749a65738a",
       "source": "GitHub Blog",
@@ -111,6 +155,17 @@
       "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "published": "2026-07-08T19:19:15+00:00",
       "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+    },
+    {
+      "id": "db562e51c56b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+      "published": "2026-07-08T19:01:19+00:00",
+      "summary": "Both vulnerabilities allow untrusted users to gain root privileges."
     },
     {
       "id": "03e8ee449c69",
