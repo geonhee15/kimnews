@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-07-08T02:09:22.662094+00:00",
-  "count": 4812,
+  "updated_at": "2026-07-08T05:31:29.790386+00:00",
+  "count": 4835,
   "items": [
+    {
+      "id": "6f9423513adb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페인, 청정에너지 프로젝트 40건에 2800억 지원...\"기술 공급망 전반 강화\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212535",
+      "published": "2026-07-08T05:19:40+00:00",
+      "summary": "스페인이 배터리, 전력망 기술, 태양광 등 청정기술 제조 프로젝트 40건에 1억6200만유로(약 2791억원)를 배정했다. 재생에너지 발전 확대를 넘어 관련 장비와 핵심 부품을 자국에서 생산하는 산업 기반을 키우려는 조치라는 평이다.스페인 생태전환·인구문제부(MITECO)는 3일(현지시간) 레노발 2(RENOVAL 2) 프로그램 최종 지원 대상을 발표했다. 레노발 2는 스페인 내 청정기술과 핵심 부품 생산능력을 키우기 위한 제조 지원 사업으로, 배터리·전력망 기술·태양광·풍력·재생수소 분야 프로젝"
+    },
+    {
+      "id": "6872d05c8742",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"올리브영에 AI 알바생 있다\"...이스트소프트, 쇼핑 어시스턴트 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212536",
+      "published": "2026-07-08T05:00:42+00:00",
+      "summary": "이스트소프트(대표 정상원)는 CJ올리브영에 ‘AI 쇼핑 어시스턴트’를 선보인다고 8일 밝혔다.AI 쇼핑 어시스턴트는 이스트소프트의 실시간 대화형 AI 아바타 서비스 '페르소 인터랙티브'를 리테일 산업에 특화해 개발한 서비스다.핵심 기능은 ▲8개 국어 기반 AI 아바타 응대 ▲AI 기반 화장품 추천 ▲바코드 스캔을 통한 다국어 상품 정보 안내 ▲텍스리펀·매장 이용 문의 응대 ▲고객 행동 데이터 기반 운영 대시보드 지원 등이다.이스트소프트의 자체 AI 추천 엔진 'AURA'를 탑재해 고객의 피부 고민"
+    },
+    {
+      "id": "fde5fb43a63e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크·지푸도 자체 AI 칩 개발 검토...엔비디아·화웨이 탈피 가속",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212532",
+      "published": "2026-07-08T04:59:24+00:00",
+      "summary": "중국의 대표 AI 기업인 딥시크와 지푸 AI가 자체 AI 반도체 개발을 추진하고 있는 것으로 알려졌다. 미국의 반도체 수출 규제가 장기화하고 AI 서비스 확산으로 추론(Inference) 연산 수요가 급증하는 가운데, 엔비디아와 화웨이 등 외부 칩 공급업체 의존도를 줄이고 AI 인프라를 직접 확보하려는 전략에 따른 것이다.7일(현지시간) 로이터에 따르면, 딥시크는 AI 모델의 추론 작업에 특화된 자체 칩을 개발 중이다.새 칩은 모델 학습이 아니라 서비스 단계에서 사용자 요청에 응답하는 추론용 프로"
+    },
+    {
+      "id": "03394388cf2a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이용자 보호로 개념 확장…네이버, 'AI 안전성 체계 2.0' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260708100846",
+      "published": "2026-07-08T04:55:01+00:00",
+      "summary": "[지디넷코리아]네이버는 이용자 보호까지 개념을 확장한 AI 안전성 관리 체계 'ASF 2.0'을 선보였다고 8일 밝혔다. ASF 2.0은 네이버가 2024년 AI 서울 서밋에서 공개한 ASF을 최신화해 이용자 보호 측면까지 확장된 개념을 담아낸 AI 안전성 관리 체계다. AI 기술 모델의 성능과 위험 수준을 중점적으로 관리해왔던 기존 ASF의 안전성 관리 범위를 확대해 사용자들이 실제로 경험하는 서비스를 중심으로 안전성을 관리한다는 점이 골자다.네이버는 AI안전 서울 포럼(SFASS)을 통해 AS"
+    },
+    {
+      "id": "500ee1669026",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "지그재그, 뷰티 브랜드 지분 투자 탄력...VR와 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260708110010",
+      "published": "2026-07-08T04:50:13+00:00",
+      "summary": "[지디넷코리아]지그재그는 벤처캐피털(VC)과 협업해 뷰티 브랜드 지분 투자에 속도를 내는 한편 오는 20일 '뷰티 인큐베이팅 컨퍼런스'를 개최한다고 8일 밝혔다.지그재그가 VC와 손잡고 뷰티 브랜드를 대상으로 지분 투자에 나서는 것은 이번이 처음이다. 지그재그는 초기 단계 뷰티·라이프스타일 브랜드 투자를 전문으로 하는 VC와 협업해 뷰티 브랜드의 성장을 적극 지원한다는 계획이다.직잭뷰티에는 현재 약 3500개 브랜드가 입점해 있으며, 거래액은 최근 3년간 연평균 60%대 성장세를 이어오고 있다. "
+    },
+    {
+      "id": "fa6aca25bf4f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GS네오텍, AI 에이전트 품은 클라우드 보안 플랫폼 '시큐리티 렌즈' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260708133905",
+      "published": "2026-07-08T04:39:34+00:00",
+      "summary": "[지디넷코리아]GS네오텍이 인공지능(AI) 기반 차세대 클라우드 보안 플랫폼을 출시하며 시장 공략을 강화한다. 국내 규제 환경에 최적화한 통합 보안 관리와 AI 에이전트를 결합해 기업의 컴플라이언스 대응과 보안 운영 효율성을 높인다는 전략이다.GS네오텍은 '시큐리티 렌즈'를 출시했다고 8일 밝혔다.최근 기업 IT 환경은 클라우드 전환과 AI 도입 확산으로 복잡성이 커지고 있다. 특히 신규 취약점을 노린 사이버 공격 주기가 수일, 수시간 단위로 짧아지면서 위협을 탐지하고 대응해야 하는 보안 골든타임"
+    },
+    {
+      "id": "ac3d7304ce1a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이동범 지니언스 대표, 정보보호 유공 국민훈장 석류장 수훈",
+      "link": "https://zdnet.co.kr/view/?no=20260708133423",
+      "published": "2026-07-08T04:34:23+00:00",
+      "summary": "[지디넷코리아]사이버보안 전문기업 지니언스 이동범 대표가 8일 서울 신라호텔에서 열린 '제15회 정보보호의 날 기념식'에서 정부포상인 국민훈장 석류장을 받았다.이동범 대표는 국산 보안 기술로 수입 대체 효과를 실현하고, 국가 주요 시설의 보안 수준을 강화하는 등 국내 정보보호 시장 발전에 기여한 핵심 공로를 인정받아 이번 훈장 수훈자로 선정됐다.이 대표는 2005년 지니언스를 설립했다. 이후 순수 국내 기술을 기반으로 NAC·EDR·ZTN 등 다수의 혁신적인 보안 솔루션을 개발·공급했다. 2025"
+    },
+    {
+      "id": "c925b8051737",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "네이버클라우드, 미스트랄AI와 제조 특화 소버린 AI '동맹'",
+      "link": "https://zdnet.co.kr/view/?no=20260708132926",
+      "published": "2026-07-08T04:29:56+00:00",
+      "summary": "[지디넷코리아]네이버클라우드가 미스트랄AI와 손잡고 제조 특화 소버린 인공지능(AI) 시장 공략에 나선다. 양사 AI 모델과 클라우드 인프라를 결합해 국내 제조기업을 대상으로 AI 서비스를 공동 제공하고 이를 발판으로 글로벌 소버린 AI 시장까지 사업을 확대한다는 구상이다.네이버클라우드는 미스트랄AI와 제조 AI 혁신을 위한 전방위 파트너십을 체결했다고 8일 밝혔다.이번 협약은 미국 빅테크 중심으로 재편되는 AI 시장에서 아시아와 유럽의 대표 AI 기업이 협력하는 사례로 평가된다. 양측은 제조 산"
+    },
+    {
+      "id": "a5877c3efb3e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KT ‘믿음K 2.5 프로’, TTA 인공지능 신뢰성 인증",
+      "link": "https://zdnet.co.kr/view/?no=20260708094256",
+      "published": "2026-07-08T04:16:47+00:00",
+      "summary": "[지디넷코리아]KT 자체 개발한 320억 파라미터 규모 기업용 초거대 언어모델이 한국정보통신기술협회(TTA)로부터 ‘인공지능 신뢰성 인증 2.0(CAT)’을 받았다.KT는 초거대 언어모델 320억 파라미터(32B) 규모 대형 언어모델 믿음K 2.5 프로가 TTA ‘인공지능 신뢰성 인증 2.0’을 획득했다고 8일 밝혔다. 믿음K 2.5 프로는 업무 자동화, 고객 응대, 내부 업무 등 B2B 서비스 활용을 전제로 설계된 기업용 중심 비공개 모델이다.CAT는 AI 도입과 운영 전반에서 거버넌스 신뢰성을"
+    },
+    {
+      "id": "a044aea01484",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 차세대 이미지·동영상 AI 공개...\"검색·코딩까지 스스로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212526",
+      "published": "2026-07-08T04:10:40+00:00",
+      "summary": "메타가 차세대 이미지 모델 '뮤즈 이미지(Muse Image)'와 동영상 모델 '뮤즈 비디오(Muse Video)'를 공개하며 생성 AI 경쟁에 본격적으로 뛰어들었다. 메타 슈퍼인텔리전스 랩스(MSL)가 개발한 최초의 미디어 생성 모델로, 단순한 이미지 제작을 넘어 추론과 도구 활용 능력을 갖춘 '에이전트형 생성 AI'를 표방한 것이 특징이다.메타는 7일(현지시간) 뮤즈 이미지를 메타 AI 앱과 웹사이트, 미국 인스타그램 스토리, 일부 국가의 왓츠앱에서 제공한다고 밝혔다. 앞으로 페이스북과 메신저"
+    },
+    {
+      "id": "48d0e4125a00",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하이크비전, 네트워크 카메라로 업계 최초 EUCC 인증 획득",
+      "link": "https://zdnet.co.kr/view/?no=20260708131003",
+      "published": "2026-07-08T04:10:03+00:00",
+      "summary": "[지디넷코리아]항저우, 중국 2026년 7월 8일 /PRNewswire/ -- 하이크비전(Hikvision)이 자사의 DeepinView 네트워크 카메라 시리즈(iDS-2CD7x)가 유럽 공통 평가기준 기반의 사이버보안 인증제도(The European Cybersecurity Scheme on Common Criteria, 이하 EUCC) 인증을 성공적으로 획득했다고 발표했다. 이번 이정표는 CCTV 카메라 부문에서 세계 최초로 이 권위 있는 인증을 획득한 제품이 탄생했음을 의미하며, 강력한 제품"
+    },
+    {
+      "id": "d84a77bf7e19",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "랜섬웨어부터 개인정보 유출까지…올해도 계속된 침해사고",
+      "link": "https://zdnet.co.kr/view/?no=20260708012913",
+      "published": "2026-07-08T04:08:26+00:00",
+      "summary": "[지디넷코리아]지난해에 이어 올 상반기에도 국내 산업계와 공공 부문은 고도화된 사이버 공격과 보안 위협으로 몸살을 앓았다. 1월 교원그룹의 대규모 랜섬웨어 감염을 시작으로, 3월에는 현대엘리베이터가 랜섬웨어 공격을 당했고, 티빙 등 정보 유출 사고까지 빚어졌다.특히 이번 상반기 연쇄 침해사고들은 단순히 외부 해커의 기술적 고도화에만 기인한 것이 아니라, 개발 인프라 내 자격증명 노출, API 권한 검증 미흡, 등 이른바 ‘내부 관리 부실’과 클라우드 환경의 취약점이 결합해 피해를 키웠다는 점에서 "
+    },
+    {
+      "id": "2f46018abfe7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마크애니, '2026 국방 C5I & AI 융합발전 컨퍼런스' 참가 성료",
+      "link": "https://zdnet.co.kr/view/?no=20260708130214",
+      "published": "2026-07-08T04:02:14+00:00",
+      "summary": "[지디넷코리아]마크애니는 최근 서울 국방컨벤션에서 열린 '2026 국방 C5I & AI 융합발전 컨퍼런스’에 참가해 자사 차세대 화면 보안 표준 체계 ‘SDR(Screen Detection & Response)’ 솔루션을 성공적으로 선보였다고 8일 밝혔다.국방정보통신협회, 육군협회, 조지메이슨대학교가 공동 주최한 이번 컨퍼런스는 ‘국방혁신의 정점, AI와 C5I의 위대한 만남’을 주제로 열렸다. 군 지휘부 및 방산 전문가들이 대거 참석했다. 마크애니는 전시 부스를 운영, 자사 지능형 리스크 관리 "
+    },
+    {
+      "id": "788d1a598b1a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스XAI, 커서 합작 첫 모델 출시 초읽기...\"첨단 성능 따라붙어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212525",
+      "published": "2026-07-08T03:51:20+00:00",
+      "summary": "스페이스XAI가 AI 코딩 플랫폼 커서(Cursor)와 공동 개발한 첫 번째 AI 모델을 이르면 8일(현지시간) 공개할 것으로 알려졌다. 디 인포메이션은 7일 내부 직원들에게 전달된 메모를 인용, 스페이스XAI와 커서가 공동 개발한 AI 모델이 수요일 출시될 예정이라고 보도했다.메모에 따르면, 양사는 이 모델을 주초에 출시할 계획이었다. 그러나, 모델의 효율성을 높이기 위해 날짜를 미루고 최종 성능 개선 작업을 진행해 왔다.새 모델은 빠른 정보 처리 속도가 강점인 것으로 전해졌다. 또 일부 벤치마"
+    },
+    {
+      "id": "db4432d7fdf2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버클라우드, 미스트랄 AI와 제조 AX 위한 '소버린 AI' 동맹",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212527",
+      "published": "2026-07-08T03:38:14+00:00",
+      "summary": "네이버클라우드(대표 김유원)는 프랑스의 미스트랄 AI와 제조 AI 시장을 공략하기 위한 전방위 파트너십 계약을 체결했다고 8일 밝혔다.양사는 공동 연구개발(R&D)과 기술 교류를 통해 유럽과 아시아 제조 현장의 데이터 주권을 보장하는 소버린 AI 솔루션으로 글로벌 제조 기업 공략에 나선다는 방침이다.국내 비즈니스도 추진한다. 네이버클라우드 플랫폼을 통해 미스트랄 AI의 최신 모델과 플랫폼 등이 공급되며, 국내에 미스트랄 AI의 현장 전담 엔지니어(FDE)가 파견돼 기술 지원과 이슈 해결을 담당할 "
+    },
+    {
+      "id": "70e611cdaac0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리얼월드, AWS 출신 GTM·전략 파트너십 총괄 영입 \"RFM 상용화 속도\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212529",
+      "published": "2026-07-08T03:36:47+00:00",
+      "summary": "리얼월드(대표 류중희)는 아마존웹서비스(AWS) 출신 카르틱 크리슈나무르티를 글로벌 시장 진출(GTM) 및 전략 파트너십 총괄 리더로 영입했다고 8일 밝혔다.크리슈나무르티 리더는 도요타 생산 라인의 기계공학자로 커리어를 시작해 EY 미국 법인에서 자문 컨설턴트를 거친 뒤 AWS에 합류했다. 리비안, 도요타, 현대자동차, 폭스바겐 등 주요 고객사 경영진의 핵심 자문역을 맡았으며, AWS에서는 10년간 자동차 및 스마트 제조·공급망 산업의 글로벌 전략과 사업 개발 총괄을 담당했다.리얼월드의 미국 리더"
+    },
+    {
+      "id": "164065ca579f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자, 엔비디아 베라루빈 탑재 eSSD 'PM1763' 양산 돌입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212523",
+      "published": "2026-07-08T03:34:47+00:00",
+      "summary": "삼성전자는 AI 인프라에 최적화된 기업용 솔리드 스테이트 드라이브(eSSD) 'PM1763' 양산을 시작했다고 8일 밝혔다.기업용 SSD는 데이터센터와 서버 환경에 최적화된 스토리지다. AI 학습·추론 과정에서 CPU와 GPU에 데이터를 끊김 없이 공급, 연산 장치가 대기하는 병목 현상을 방지하는 역할을 한다.PM1763은 엔비디아의 차세대 AI 가속기 '베라 루빈'에 탑재될 예정이며, 기존에 비해 데이터 전송 대역폭이 2배 향상된 PCIe 6.0 규격으로 출시된다.4테라바이트(TB), 8TB, "
+    },
+    {
+      "id": "2ec469acb2c6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문화산수 고곡관광길 조성사업 조형물, 운선구곡의 역사와 자연을 잇는 문화경관 완성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212533",
+      "published": "2026-07-08T03:33:04+00:00",
+      "summary": "충청북도 단양군 문화산수 고곡관광길에 조성된 운선구곡 안내 조형물이 지역의 역사와 자연경관을 함께 담아낸 문화관광 콘텐츠로 새롭게 주목받고 있다. 관광길 곳곳에 설치된 조형물은 운선구곡의 대표 명소와 역사적 의미를 방문객에게 알기 쉽게 전달하며, 단순한 안내시설을 넘어 지역의 이야기를 연결하는 상징적 공간으로 자리매김하고 있다.이번 사업은 운선구곡을 이루는 주요 경승지를 따라 각각의 장소가 지닌 역사와 문화, 자연환경을 체계적으로 소개하기 위해 기획됐다. 조형물에는 대은담, 황정동, 수운정, 절벽"
+    },
+    {
+      "id": "62b7d54478d3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오만, 폴리실리콘 공장 자금 조달 완료...중국 의존 낮출 태양광 거점 될까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212521",
+      "published": "2026-07-08T03:30:00+00:00",
+      "summary": "중동 산유국 오만이 태양광 원료 공급망에 본격 진입했다. 오만 소하르 자유구역의 유나이티드 솔라(United Solar) 대규모 폴리실리콘 공장이 16억달러(약 2조4177억원) 규모 자본 조달을 마무리하며, 중국 중심의 태양광 소재 공급망을 다변화할 새 거점으로 주목받고 있다.유나이티드 솔라는 6일(현지시간) 국제금융공사(IFC)의 5000만달러(755억원) 지분투자를 마무리했다고 밝혔다.이번 투자는 소하르 폴리실리콘 공장에 투입되는 16억달러 자본 조달의 마지막 단계다.소하르 공장은 연산 10"
+    },
+    {
+      "id": "22abe16d825a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "비드래프트, LLM 추론 가속 엔진 ‘VKAE’ 리더보드·통합 컨테이너 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212528",
+      "published": "2026-07-08T02:24:20+00:00",
+      "summary": "AI 전문 비드래프트(대표 김민식)는 자체 개발 대형언어모델(LLM) 추론 가속 엔진 ‘VKAE(VIDRAFT Kernel Acceleration Engine)’의 성능 리더보드를 공개하고 모델 가중치와 최적화된 서빙 환경을 하나로 묶은 통합 도커(Docker) 컨테이너를 배포한다고 8일 밝혔다.VKAE는 똑같은 GPU 환경에서 기존 표준 서빙 방식보다 데이터 처리량을 최대 23.4배까지 끌어올린 커널 레벨의 추론 가속 엔진이다. 답변 퀄리티는 유지하면서 응답 속도와 처리량을 높인 것이 강점이다."
+    },
+    {
+      "id": "ca85825ddadc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국도 최고 AI '해외 접근' 막는다…알리바바·지푸 규제 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212524",
+      "published": "2026-07-08T02:14:36+00:00",
+      "summary": "중국 정부가 최첨단 AI 기술을 국가 핵심 전략 자산으로 관리하기 위해 최고 성능 AI 모델에 대한 해외 접근을 제한하는 방안을 검토하고 있다. 미국이 첨단 AI 모델의 해외 이용을 국가안보 차원에서 규제하는 데 이어, 중국도 AI 기술의 해외 유출을 막기 위한 통제에 나선 것이다.7일(현지시간) 로이터에 따르면, 중국 상무부와 국가발전개혁위원회(NDRC)는 최근 한 달 동안 알리바바, 바이트댄스, 지푸AI 등 주요 AI 기업 관계자들과 회의를 열고 최고 성능 모델에 대한 해외 접근 제한 방안을 "
+    },
     {
       "id": "519a53332431",
       "source": "ZDNet Korea",
@@ -705,6 +936,17 @@
       "link": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
       "published": "2026-07-07T10:47:33+00:00",
       "summary": "Article URL: https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland Comments URL: https://news.ycombinator.com/item?id=48816003 Points: 260 # Comments: 195"
+    },
+    {
+      "id": "9cdd5479dee3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why skilled workers come to Germany and then leave again",
+      "link": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "published": "2026-07-07T10:42:59+00:00",
+      "summary": "Article URL: https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162 Comments URL: https://news.ycombinator.com/item?id=48815982 Points: 217 # Comments: 542"
     },
     {
       "id": "01d5877378f0",
@@ -6073,6 +6315,17 @@
       "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "published": "2026-07-02T04:32:41+00:00",
       "summary": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ Comments URL: https://news.ycombinator.com/item?id=48756602 Points: 249 # Comments: 105"
+    },
+    {
+      "id": "92cdcab7d818",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Herdr: One terminal to rule them all",
+      "link": "https://herdr.dev/",
+      "published": "2026-07-02T04:28:39+00:00",
+      "summary": "Article URL: https://herdr.dev/ Comments URL: https://news.ycombinator.com/item?id=48756578 Points: 218 # Comments: 102"
     },
     {
       "id": "4d380d2da9aa",
