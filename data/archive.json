@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-08T19:25:36.705863+00:00",
-  "count": 4938,
+  "updated_at": "2026-07-08T20:43:13.821153+00:00",
+  "count": 4946,
   "items": [
+    {
+      "id": "1c5c24b5ce9a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "published": "2026-07-08T20:37:03+00:00",
+      "summary": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
+    },
+    {
+      "id": "5011bb6239cf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "published": "2026-07-08T20:29:50+00:00",
+      "summary": "The race to produce more chips is on, and Europe is in. ASML, the Dutch company that has a near-monopoly on manufacturing the machines used for chipmaking, may soon no longer be an isolated success story. Like its U.S. counterpart, the European Chips Act aims to foster the semico"
+    },
+    {
+      "id": "e248911bc2bf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "published": "2026-07-08T20:09:21+00:00",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs."
+    },
+    {
+      "id": "7516ba7d1491",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "published": "2026-07-08T20:06:54+00:00",
+      "summary": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people."
+    },
+    {
+      "id": "a2a4ad1d053b",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub availability report: June 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+      "published": "2026-07-08T19:35:51+00:00",
+      "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "160a30949e69",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "published": "2026-07-08T19:30:16+00:00",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+    },
     {
       "id": "fe9a8d20aaa1",
       "source": "TechCrunch",
@@ -243,6 +309,28 @@
       "link": "https://www.hmans.dev/blog/chatto-is-open-source",
       "published": "2026-07-08T15:19:50+00:00",
       "summary": "Article URL: https://www.hmans.dev/blog/chatto-is-open-source Comments URL: https://news.ycombinator.com/item?id=48833116 Points: 240 # Comments: 47"
+    },
+    {
+      "id": "32d249750664",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아사나 파트너스와 노르웨스 뱅크 인베스트먼트 매니지먼트, 전략적 근린 리테일 벤처 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260709001014",
+      "published": "2026-07-08T15:10:14+00:00",
+      "summary": "[지디넷코리아] 미국 내 고품질 근린 리테일 자산을 목표로 하는 신규 파트너십 샬럿, 노스캐롤라이나, 2026년 7월 8일 /PRNewswire/ -- 아사나 파트너스(Asana Partners)가 노르웨스 뱅크 인베스트먼트 매니지먼트(Norges Bank Investment Management, \"NBIM\")와 파트너십을 체결하고 아사나 파트너스 스트래티직 파트너스 I(Asana Partners Strategic Partners I, \"APSP I\")을 설립했다고 7월 7일 발표했다. 이 신규 "
+    },
+    {
+      "id": "6acde68a2966",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "셀레브라이트, 독점 스카이세이프 파트너십 확대 통해 대규모 디지털 수사에 즉시 드론 탐지 및 공역 인텔리전스 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260709001003",
+      "published": "2026-07-08T15:10:03+00:00",
+      "summary": "[지디넷코리아] 같은 수사 워크플로에서 하늘에서 일어나는 일과 드론에 저장된 정보를 통합해 주는 파트너십 버지니아 타이슨스 및 이스라엘 페타티크바, 2026년 7월 8일 /PRNewswire/ -- 공공 및 민간 부문을 대상으로 하는 AI 기반 디지털 수사와 인텔리전스 솔루션 분야를 선도하는 글로벌 기업 셀레브라이트 DI(Cellebrite DI Ltd.)(Nasdaq: CLBT)가 드론 탐지 및 공역 인텔리전스 분야 선도 기업 스카이세이프(SkySafe)와의 파트너십을 확대한다고 7월 8일 발표"
     },
     {
       "id": "bd2d1778d0eb",
