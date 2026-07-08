@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-08T17:58:21.559323+00:00",
-  "count": 4929,
+  "updated_at": "2026-07-08T19:25:36.705863+00:00",
+  "count": 4938,
   "items": [
+    {
+      "id": "fe9a8d20aaa1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon",
+      "link": "https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/",
+      "published": "2026-07-08T19:22:11+00:00",
+      "summary": "This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture."
+    },
+    {
+      "id": "a5e5181dc891",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "published": "2026-07-08T19:19:15+00:00",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+    },
+    {
+      "id": "03e8ee449c69",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+      "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+      "published": "2026-07-08T18:50:27+00:00",
+      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer World"
+    },
+    {
+      "id": "50e4d40b0b2a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "published": "2026-07-08T18:46:20+00:00",
+      "summary": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation."
+    },
+    {
+      "id": "021bc2897e31",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published": "2026-07-08T18:30:08+00:00",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
+    },
+    {
+      "id": "e0a7a5e536e2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
+      "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+      "published": "2026-07-08T17:57:53+00:00",
+      "summary": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank? The Fiat Topolino i"
+    },
+    {
+      "id": "8ad6a0b9917a",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude is definitely not conscious…",
+      "link": "https://www.youtube.com/watch?v=KGtko3y2RXQ",
+      "published": "2026-07-08T17:53:47+00:00",
+      "summary": ""
+    },
     {
       "id": "35ca06dcf12a",
       "source": "TechCrunch",
@@ -12,6 +89,17 @@
       "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
       "published": "2026-07-08T17:47:55+00:00",
       "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill "
+    },
+    {
+      "id": "f89c49e76d49",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
+      "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+      "published": "2026-07-08T17:30:00+00:00",
+      "summary": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch acro"
     },
     {
       "id": "90e757b91c6a",
@@ -67,6 +155,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
       "published": "2026-07-08T17:00:00+00:00",
       "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI r"
+    },
+    {
+      "id": "e758bf22cd52",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "published": "2026-07-08T16:39:48+00:00",
+      "summary": "Android Bench is evolving, and developers can help guide that process."
     },
     {
       "id": "4a867cd60af0",
