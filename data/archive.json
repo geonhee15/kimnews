@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-07-08T07:58:24.050185+00:00",
-  "count": 4853,
+  "updated_at": "2026-07-08T10:20:33.794282+00:00",
+  "count": 4879,
   "items": [
+    {
+      "id": "6a828c6c4651",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+      "published": "2026-07-08T09:30:00+00:00",
+      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape."
+    },
+    {
+      "id": "02be58073639",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 엑셀·아웃룩에 자체 'MAI' 모델 도입...오픈AI·앤트로픽 의존도 낮춘다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212531",
+      "published": "2026-07-08T09:06:46+00:00",
+      "summary": "마이크로소프트(MS)가 AI 서비스 운영 비용 절감을 위해 자체 개발한 AI 모델 'MAI(Microsoft AI)'의 활용 범위를 확대하고 있다. 그동안 오픈AI와 앤트로픽의 모델에 크게 의존해 왔던 엑셀, 워드, 아웃룩 등 핵심 생산성 소프트웨어에서 자체 모델 비중을 늘리며 외부 AI 의존도를 낮추겠다는 전략이다.블룸버그는 7일(현지시간) 정통한 관계자를 인용, 현재 엑셀과 아웃룩에서는 매주 수만건의 AI 프롬프트가 MS의 MAI 모델을 통해 처리되고 있다고 보도했다.이전에는 이들 애플리케이션"
+    },
+    {
+      "id": "fad280763002",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] OpenAI 내부자가 직접 알려주는 신규 업데이트 및 Codex 사용법",
+      "link": "https://www.youtube.com/watch?v=8io9vuqtdPI",
+      "published": "2026-07-08T09:04:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "609325ca4585",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "언제 사라질지 모르는 클로드 토큰 절약법",
+      "link": "https://www.youtube.com/shorts/waqL9iuFwcM",
+      "published": "2026-07-08T09:00:38+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a400c20b188f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI 재귀적 자기 개선, '하네스 시스템' 자동 최적화가 첫 단추\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212539",
+      "published": "2026-07-08T09:00:00+00:00",
+      "summary": "모델 자체의 성능 향상보다 실행 환경인 '하네스(harness)'가 차세대 AI 발전의 핵심 동력이 될 것이라는 분석이 제기됐다. 특히 하네스 엔지니어링이 발전하면서 AI가 자신의 실행 방식과 워크플로를 스스로 개선하는 '재귀적 자기 개선(RSI)' 시대가 현실화될 수 있다는 전망이다.릴리언 웽 싱킹머신즈랩(TML) 공동 창립자는 4일(현지시간) 공개한 기술 분석에서 AI의 재귀적 자기 개선이 모델 가중치를 직접 수정하는 방식보다 모델을 운영하는 하네스 시스템을 지속적으로 개선하는 방향으로 발전할"
+    },
+    {
+      "id": "83dc9fbc1140",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Free Waymo Rides in California? You Can Thank a Regulatory Quirk",
+      "link": "https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/",
+      "published": "2026-07-08T09:00:00+00:00",
+      "summary": "A key delay from a state agency means robotaxi rides in the company’s new Ojai vehicle might be free for a few more months."
+    },
+    {
+      "id": "c2bcc08d1404",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리퀴드 AI, 추론 모델 ‘무한 루프’ 잡는 ‘안티둠’ 훈련 기법 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212545",
+      "published": "2026-07-08T08:58:23+00:00",
+      "summary": "리퀴드 AI가 추론형 AI 모델이 동일한 문장을 반복하다가 응답을 끝내지 못하는 '둠 루프(Doom Loop)' 문제를 해결할 학습 기법 '안티둠(Antidoom)'을 오픈소스로 공개했다. 새로운 지식이나 추론 능력을 추가로 학습하지 않고도 반복 오류만 선택적으로 제거해 모델 성능을 크게 높일 수 있다는 점이 특징이다.리퀴드 AI는 7일(현지시간) 깃허브를 통해 안티둠과 함께 학습 데이터 생성, 반복 탐지, 최종 토큰 선호도 최적화(FTPO·Final Token Preference Optimiza"
+    },
+    {
+      "id": "f77f7288b725",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재용 회장, '선밸리'에 한진만 파운드리 사장 동행…빅테크 수주 노린다",
+      "link": "https://zdnet.co.kr/view/?no=20260708174855",
+      "published": "2026-07-08T08:58:09+00:00",
+      "summary": "[지디넷코리아]이재용 삼성전자 회장이 미국 선밸리 콘퍼런스에 한진만 파운드리사업부장(사장)을 동행시키며 빅테크 기업을 상대로 인공지능(AI) 반도체 수주전에 본격 드라이브를 걸었다. 글로벌 마케팅 책임자를 동행했던 지난해와 달리, 올해는 반도체 위탁생산(파운드리)의 수장을 전면에 내세워 빅테크 고객 확보에 집중하겠다는 의지로 풀이된다.8일 재계에 따르면 이 회장은 7~11일(현지시간) 미국 아이다호주 선밸리 리조트에서 개최되는 선밸리 콘퍼런스에 한 사장과 함께 모습을 드러냈다.미국 투자은행 앨런앤"
+    },
+    {
+      "id": "bca948395cf0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "조각수박 잘나가네...컬리, 간편과일 매출 55%↑",
+      "link": "https://zdnet.co.kr/view/?no=20260708174356",
+      "published": "2026-07-08T08:53:41+00:00",
+      "summary": "[지디넷코리아]무더위가 이어지면서 손질 없이 바로 먹을 수 있는 간편과일 수요가 늘고 있다. 리테일 테크 기업 컬리는 6월 간편과일 카테고리 매출이 전년 동기 대비 55% 증가했다고 8일 밝혔다. 전월과 비교해서도 41% 늘었다.간편과일은 껍질과 씨를 제거하거나 먹기 좋은 크기로 손질해 바로 섭취할 수 있도록 포장한 상품이다. 1~2인 가구 증가와 간편식을 선호하는 소비 트렌드에 힘입어 수요가 확대되고 있다는 설명이다.특히 수박 판매가 크게 늘었다. 컬리는 '껍질 없는 반통 수박'과 '조각 블랙망"
+    },
+    {
+      "id": "dd3e9a25c938",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "3000억원 손실 또 반복되나…현대차 2년 연속 파업 기로",
+      "link": "https://zdnet.co.kr/view/?no=20260708171724",
+      "published": "2026-07-08T08:50:36+00:00",
+      "summary": "[지디넷코리아]현대자동차 노사가 15차 임금 단체협약(임단협) 본교섭에서도 끝내 접점을 찾지 못했다. 회사가 기본급과 성과금을 추가로 올린 3차 임금성 제시안을 내놨지만 노동조합이 이를 거부하면서 2년 연속 파업 가능성이 한층 커졌다.8일 업계에 따르면 현대차 노사는 이날 울산공장 본관에서 15차 본교섭을 진행했지만 핵심 쟁점인 임금 인상과 성과급 규모에서 이견을 좁히지 못한 채 교섭을 종료했다. 차기 교섭 일정도 아직 정해지지 않았다.현대차는 이날 기본급 8만9000원 인상, 성과금 350%+1"
+    },
+    {
+      "id": "3b58344dfea5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "투모로로보틱스 '타이디보이', 로보컵 2026 홈서비스 부문 우승",
+      "link": "https://zdnet.co.kr/view/?no=20260708110816",
+      "published": "2026-07-08T08:44:17+00:00",
+      "summary": "[지디넷코리아]피지컬 인공지능(AI) 플랫폼 스타트업 투모로로보틱스는 자사 최고 과학자(Chief Scientist)인 이승준 부산대학교 교수가 이끄는 로봇 팀 '타이디보이(Tidyboy)'가 '로보컵(RoboCup) 2026' 홈서비스 부문(RoboCup@Home)에서 우승을 차지했다고 8일 밝혔다. 로보컵 2026은 이달 2일부터 6일까지 인천 송도에서 열렸다.이번 우승으로 이승준 교수팀은 대회 통산 5회 우승을 달성했다. 지난해 브라질 대회에 이어 2년 연속 정상 자리를 지켰다. 올해 대회에"
+    },
+    {
+      "id": "a6a7fcc87a8c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트그룹, '유리'까지 인식하는 차세대 비전 AI 공개...12개 벤치마크서 SOTA",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212542",
+      "published": "2026-07-08T08:38:27+00:00",
+      "summary": "중국 앤트그룹이 공간 인식과 로봇 공학에 특화된 차세대 '공간 네이티브(Spatial-Native)' 비전 AI 모델을 공개했다. 11억개 매개변수의 경량 모델임에도 메타의 70억개 매개변수 비전 모델을 뛰어넘는 성능을 기록했으며, 특히 유리와 거울, 투명 물체까지 안정적으로 인식하는 기술을 구현한 것으로 알려졌다.앤트그룹은 7일(현지시간) 공간 인식 비전 파운데이션 모델 '링봇-비전(LingBot-Vision)'과 이를 기반으로 한 공간 인식 모델 '링봇-뎁스 2.0(LingBot-Depth 2"
+    },
+    {
+      "id": "ab0fb97f3f2d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "산단공, ‘M.AX 표준·인증센터’ 신설…산업단지 제조AI 확산 박차",
+      "link": "https://zdnet.co.kr/view/?no=20260708173612",
+      "published": "2026-07-08T08:36:12+00:00",
+      "summary": "[지디넷코리아]한국산업단지공단(이사장 이상훈)은 산업단지 제조AI 전환(M.AX)을 가속하기 위해 제조데이터·인프라·솔루션 등의 표준·인증 업무를 추진하는 ‘M.AX 표준·인증센터’ 를 신설한다고 8일 밝혔다.M.AX 표준·인증센터 신설은 기업마다 다른 설비와 솔루션를 사용함에 따른 제조데이터 연계와 AI 활용 제한 문제를 해소하고, 산업단지 전반에 제조 AI를 확산하기 위한 기반을 마련하기 위해 추진됐다.M.AX 표준·인증센터는 산업단지 제조 현장에서 활용되는 소재·부품·장비 등 하드웨어와 AI"
+    },
+    {
+      "id": "b092ec523a78",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"휴대폰 회사는 옛말\"...노키아, AI 데이터센터 핵심 기업으로 변신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212548",
+      "published": "2026-07-08T08:31:37+00:00",
+      "summary": "한때 전 세계 휴대폰 시장을 지배했던 노키아가 AI 시대를 맞아 데이터센터 네트워크 기업으로 성공적인 변신을 이어가고 있다. AI 데이터센터 인프라 시장 확대에 힘입어 올해 주가가 약 90% 급등하는 등 투자자들로부터 새로운 AI 수혜주로 주목받고 있다.7일(현지시간) 월스트리트저널(WSJ)에 따르면, 노키아는 현재 휴대폰을 직접 생산하지 않는다. 대신, AI 데이터센터 내부에서 서버를 연결하는 스위치와 데이터 흐름을 제어하는 라우터와 광통신 장비, 네트워크 소프트웨어 등을 공급하며 AI 인프라 "
+    },
+    {
+      "id": "f87084575b8f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "NIPA, 베트남과 ICT 교류 넘어 'AI' 협력 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260708172808",
+      "published": "2026-07-08T08:28:28+00:00",
+      "summary": "[지디넷코리아]정보통신산업진흥원(NIPA)이 베트남과의 정보통신기술(ICT) 협력을 인공지능(AI) 중심으로 확대하며 양국 AI 생태계 협력 강화에 나섰다.정보통신산업진흥원 하노이IT지원센터(KICC)는 지난 3일 베트남 하노이에서 '2026 하노이센터(KICC) 파트너스 데이'를 개최했다고 8일 밝혔다. 행사에는 한국과 베트남 정부 기관, 대학, ICT 기업 관계자 등 50여 명이 참석했다.이번 행사는 기존 ICT 교류를 AI 기반 협력으로 전환하기 위한 자리로 마련됐다. 주베트남 한국대사관과 "
+    },
+    {
+      "id": "e57af7909a85",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "뉴욕주, 모든 법원서 스마트 안경 착용 금지...“불법 촬영·녹음 차단”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212550",
+      "published": "2026-07-08T08:25:14+00:00",
+      "summary": "미국 뉴욕주가 AI 기능을 탑재한 스마트 안경의 법원 반입을 전면 금지한다. 메타와 구글 등 빅테크 기업들이 카메라와 음성 인식 기능을 갖춘 스마트 안경을 잇달아 출시하는 가운데, 법정 내 불법 촬영과 녹음을 원천 차단하기 위한 조치다.시러큐스닷컴에 따르면, 뉴욕주 법원행정처는 오는 20일(현지시간)부터 뉴욕주 통합법원 산하 모든 법원 시설에서 카메라와 마이크 등 녹화 및 녹음 기능이 탑재된 안경과 머리 착용형 기기의 반입을 금지한다고 밝혔다.이번 조치는 뉴욕주 전역의 1240개가 넘는 주·카운티"
+    },
+    {
+      "id": "7da46c3fcf4b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부, ‘실무진 즉시 활용 가능’ AI 보안 위협 대응 가이드 발간",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212554",
+      "published": "2026-07-08T08:20:24+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)는 한국인터넷진흥원(원장 이상중)과 ‘AI 보안 위협 대응 매뉴얼’과 ‘AI 보안 레드티밍 가이드’를 발간했다고 8일 밝혔다.이번에 발간된 2종의 가이드는 AI 환경에서 발생 가능한 주요 보안 위협과 사례를 체계적으로 정리, 실제 현장에서 활용할 수 있는 점검 및 대응 방안과 레드팀 운영 방안을 제시하는데 중점을 두고 있다.AI 보안 위협 대응 매뉴얼은 ▲AI 보안위협 분류 및 진단 ▲산업별 위협 시나리오 ▲AI 보안 위협별 대응 방안 등의 내용을 담고 있다. AI에"
+    },
+    {
+      "id": "a878a1898de4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LG, 엑사원 디스커버리로 신소재 발굴 성공…액침 냉각유 소재 최초 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212547",
+      "published": "2026-07-08T08:18:28+00:00",
+      "summary": "LG는 6일부터 서울 코엑스에서 진행 중인 머신러닝·AI 분야 세계 최고 권위 국제 학회 ‘국제머신러닝학회(ICML) 2026’에 참가해 ‘엑사원’의 산업 현장 혁신 사례를 공개했다.ICML이 한국에서 열린 것은 이번이 처음이다. 머신러닝과 AI 연구의 최신 동향을 확인할 수 있는 세계 3대 AI 학회로, 학계와 산업계가 주목하는 최대 규모 행사다. LG AI연구원은 이번 학회에서 신소재부터 금융, 데이터 등 엑사원을 활용한 성과를 공개했다. 먼저, 신소재 발굴 AI 플랫폼 ‘엑사원 디스커버리(E"
+    },
+    {
+      "id": "af8a4e396639",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포영어도서관, 8월 여름 영어프로그램 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212537",
+      "published": "2026-07-08T08:17:07+00:00",
+      "summary": "AI 영상 생성목포영어도서관이 여름방학을 맞아 어린이와 성인을 대상으로 영어프로그램 10개 과정을 운영한다고 8일 밝혔다.8월4일부터 21일까지 영어 게임, 독서 활동, 일상 회화, 영화·애니메이션 활용 수업 등을 진행하며, 참여 신청은 13일부터 목포시통합도서관 누리집에서 선착순으로 받는다.이번 여름 영어프로그램은 연령과 학년별 수준에 맞춰 운영된다. 어린이 프로그램은 원어민과 함께 게임과 다양한 활동을 하며 영어를 배우는 Think & Play, 영어 도서를 읽고 만들기 활동을 이어가는 사부작"
+    },
+    {
+      "id": "64ce55d15933",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 농업인 크리에이터 농업촬영 심화반 15명 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212549",
+      "published": "2026-07-08T08:16:50+00:00",
+      "summary": "AI 생성 영상광양시가 농업인의 온라인 홍보와 판매 역량 강화를 위해 ‘농업인 크리에이터 5기 농업촬영 심화반’ 교육생을 모집한다고 8일 밝혔다.모집 기간은 13일부터 27일까지이며, 대상은 광양 농업인이다. 모집 인원은 15명이다. 신청은 신청서를 작성해 방문 또는 전자우편으로 접수하면 된다.교육은 8월3일부터 9월28일까지 광양 창농미디어센터에서 진행된다. 매주 월요일과 목요일 운영되며, 모두 15회 과정이다.이번 과정은 농업인이 직접 생산한 농산물과 농가공품을 촬영하고, 이를 온라인 홍보와 "
+    },
+    {
+      "id": "e8b1f9eea196",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CISA \"사이버 위협 단일 국가 대응 불가…한·미 협력 확대\"",
+      "link": "https://zdnet.co.kr/view/?no=20260708135325",
+      "published": "2026-07-08T08:16:40+00:00",
+      "summary": "[지디넷코리아]\"사이버 위협은 국경을 초월하며, 어느 한 국가도 홀로 대응할 수 없습니다. 미국 사이버보안 및 인프라 보안국(CISA)은 미국과 한국, 양국 간 협력을 더욱 강화하는 것이 최우선 과제입니다. CISA는 대한민국 과학기술정보통신부, 국가정보원 등 여러 한국 핵심 협력기관과의 협력을 더욱 확대할 수 있는 중요한 기회를 보고 있습니다.\"닉 앤더슨 CISA 청장 직무대행은 8일 개최한 '제15회 정보보호의 날 기념식'에서 미국 현지에서 온라인으로 기조연설을 하며 CISA와 한국 부처 간 "
+    },
+    {
+      "id": "0a66c8487a3c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수 쌍봉도서관, 어린이 여름방학 독서 프로그램 접수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212546",
+      "published": "2026-07-08T08:16:36+00:00",
+      "summary": "AI 생성 영상여수시립쌍봉도서관이 여름방학을 맞아 어린이들이 책과 가까워질 수 있는 독서 프로그램 수강생을 모집한다고 8일 밝혔다.운영 강좌는 ‘생각이 쑥쑥, 독서 탐험대’와 ‘여름아 놀자!’ 총 2개다. 책을 매개로 한 활동을 통해 어린이들이 독서에 부담 없이 접근할 수 있도록 구성됐다.참여를 원하는 어린이는 13일부터 21일 까지 여수시립도서관 누리집에서 접수하면 된다.모집은 선착순으로 진행되며, 수강료와 재료비는 강좌별로 다르게 적용된다. 세부 운영 내용과 신청 방법은 도서관 누리집 공지사항"
+    },
+    {
+      "id": "5d752cd5fb84",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나주, 인공태양 연구개발특구 지정 전략 구체화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212551",
+      "published": "2026-07-08T08:16:22+00:00",
+      "summary": "AI 생성 영상나주시가 핵융합 연구시설과 연계한 연구개발특구 지정 전략을 마련했다고 8일 밝혔다.나주는 지난 6일 시청 소회의실에서 ‘나주시 에너지 핵융합 연구개발특구 지정 전략 수립 용역’ 최종보고회를 열었다. 보고회에서는 핵융합 연구개발특구 지정 전략과 단계별 추진방안이 공유됐다.이번 용역은 인공태양 연구시설 구축사업과 연계해 연구개발특구 지정을 준비하기 위해 지난 4월 착수됐다. 3개월간 핵융합 산업과 정책환경 분석, 특구 지정 전략, 연구기관·기업 유치 방안, 단계별 실행 로드맵 등이 검토"
+    },
+    {
+      "id": "1a514be2ae11",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "published": "2026-07-08T08:00:00+00:00",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    },
     {
       "id": "f1f92351d33e",
       "source": "TechCrunch",
@@ -333,6 +597,17 @@
       "summary": ""
     },
     {
+      "id": "2fb77766abc4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "published": "2026-07-08T03:59:35+00:00",
+      "summary": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ Comments URL: https://news.ycombinator.com/item?id=48827325 Points: 201 # Comments: 121"
+    },
+    {
       "id": "788d1a598b1a",
       "source": "AI타임스",
       "kind": "article",
@@ -529,6 +804,17 @@
       "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
       "published": "2026-07-07T23:55:19+00:00",
       "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who "
+    },
+    {
+      "id": "862c6690df1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "link": "https://www.gao.gov/products/gao-26-108193",
+      "published": "2026-07-07T22:23:58+00:00",
+      "summary": "Article URL: https://www.gao.gov/products/gao-26-108193 Comments URL: https://news.ycombinator.com/item?id=48824826 Points: 208 # Comments: 98"
     },
     {
       "id": "0378c0615cb5",
