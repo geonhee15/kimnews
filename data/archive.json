@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-07-08T14:40:08.846489+00:00",
-  "count": 4902,
+  "updated_at": "2026-07-08T16:20:59.549214+00:00",
+  "count": 4914,
   "items": [
+    {
+      "id": "bd9d4c41d713",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+      "published": "2026-07-08T16:00:00+00:00",
+      "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "eaa56077f850",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "published": "2026-07-08T15:41:06+00:00",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+    },
+    {
+      "id": "9f05e05cb5e2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "published": "2026-07-08T15:00:00+00:00",
+      "summary": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II."
+    },
+    {
+      "id": "db173dfe6297",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This jumping $800 robot camera dog filled me with joy",
+      "link": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+      "published": "2026-07-08T15:00:00+00:00",
+      "summary": "What if you had a drone that wasn't a buzzy, annoying fly people wanted to swat - but rather a cute dog that runs and jumps? What if it could do tricks on command, and film your tricks as well? What if it could get right back up after a nasty-looking crash, dozens of times […]"
+    },
+    {
+      "id": "2dbf4d132b29",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The whole Pixel line could get more expensive this year",
+      "link": "https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase",
+      "published": "2026-07-08T14:43:13+00:00",
+      "summary": "Google's upcoming Pixel lineup might cost more than last year's. A report from Dealabs spotted by 9to5Google suggests that Google could raise the starting price of its 41mm Pixel Watch 5 to $399, while adding LTE could bump the price to $499. That's a $50 jump from the base Pixel"
+    },
+    {
+      "id": "913bf68b61c4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple to produce Made in America wireless chips with Broadcom",
+      "link": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+      "published": "2026-07-08T14:43:00+00:00",
+      "summary": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products."
+    },
+    {
+      "id": "89c2c014bc35",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gaming laptops are too expensive right now, but this one’s a good value",
+      "link": "https://www.theverge.com/gadgets/962754/msi-gaming-laptop-ethernet-switch-pc-steam-game-deal-sale",
+      "published": "2026-07-08T14:43:00+00:00",
+      "summary": "It’s not a great time to shop for a gaming laptop. The unprecedented rise in cost for RAM (and storage to a slightly lesser extent) has made laptops with low-to-midrange specs cost much more than they should. Recent deals on gaming laptops worth your attention have been uninspiri"
+    },
+    {
+      "id": "85c15a9637cc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "크릿벤처스, 박수만 전 '밴드' 운영총괄이 세운 벗뷰리풀에 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260708194708",
+      "published": "2026-07-08T14:25:18+00:00",
+      "summary": "[지디넷코리아]크릿벤처스가 AI 네이티브 소셜 앱 ‘츄룹’ 운영사 벗뷰리풀에 약 8억원을 투자했다고 8일 밝혔다.벗뷰리풀은 마이크로블로그 서비스 ‘미투데이’ 창업자이자 네이버에서 SNS ‘밴드’의 운영 총괄을 맡은 박수만 대표가 2025년 미국 로스엔젤레스에서 설립한 기업이다. 네이버웹툰 미국 총괄대표를 지낸 김형일 CBO를 비롯해 주요 IT 기업 출신 개발자들과 함께 츄룹을 개발 및 운영 중이다.츄룹은 모임의 생성부터 일정 조율, 만남, 기록, 회상까지 전 과정을 하나의 앱 안에서 관리할 수 있"
+    },
+    {
+      "id": "b9bd0add48d1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아두나, 미국 주요 이동통신사와 함께 SMS 코드를 대신할 네트워크 기반 인증 도입",
+      "link": "https://zdnet.co.kr/view/?no=20260708231003",
+      "published": "2026-07-08T14:10:03+00:00",
+      "summary": "[지디넷코리아] 플레이노, 텍사스, 2026년 7월 8일 /PRNewswire/ -- 글로벌 표준화 네트워크 API 분야를 선도하는 기업 아두나(Aduna)가 미국 모바일 생태계 전반의 사기 피해를 줄여 주는 디지털 보안에서 중대한 진전을 이뤘다고 7월 8일 발표했다. 아두나는 AT&T, 티모바일(T-Mobile), 버라이즌(Verizon)과의 협력을 통해 AI 기반 신원 도용의 급증으로부터 수백만 명의 미국 모바일 사용자를 보호하도록 설계된 네트워크 솔루션을 공급하는 기업이다. SMS 일회용 비"
+    },
+    {
+      "id": "daab76f28009",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개발원, 정보보호 날 맞아 인식 제고 전사 캠페인",
+      "link": "https://zdnet.co.kr/view/?no=20260708230529",
+      "published": "2026-07-08T14:05:29+00:00",
+      "summary": "[지디넷코리아]한국지역정보개발원(이하 개발원)은 제15회 정보보호의 날(7월 8일)을 맞아 임직원과 입주사 직원을 대상으로 정보보안 인식 제고와 실천문화 확산을 위한 전사 캠페인을 실시한다.개발원은 지역정보화 전문기관이다. 매년 정보보호의 날에 맞춰 정보보안 실천 문화를 확산하고 임직원의 보안 역량 강화를 위한 다양한 활동을 추진하고 있다.특히 올해는 ‘안전한 AI 시대, 한국지역정보개발원이 함께 하겠습니다’라는 캠페인 슬로건을 내걸고, AI 시대 더욱 중요해진 정보보호 역량을 높이고 안전한 디지"
+    },
     {
       "id": "287141dd09b0",
       "source": "ZDNet Korea",
@@ -1431,6 +1541,17 @@
       "link": "https://knockoff.shopping/",
       "published": "2026-07-07T15:13:01+00:00",
       "summary": "Article URL: https://knockoff.shopping/ Comments URL: https://news.ycombinator.com/item?id=48818963 Points: 263 # Comments: 183"
+    },
+    {
+      "id": "ad87120d951f",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published": "2026-07-07T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "338bd3c23730",
@@ -5017,6 +5138,17 @@
       "link": "https://www.wafer.ai/blog/glm52-amd",
       "published": "2026-07-03T21:49:06+00:00",
       "summary": "Article URL: https://www.wafer.ai/blog/glm52-amd Comments URL: https://news.ycombinator.com/item?id=48780417 Points: 211 # Comments: 66"
+    },
+    {
+      "id": "a4bf5b7e9cf1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "published": "2026-07-03T21:46:07+00:00",
+      "summary": "Article URL: https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why Comments URL: https://news.ycombinator.com/item?id=48780387 Points: 242 # Comments: 80"
     },
     {
       "id": "f9b54c3dabc8",
