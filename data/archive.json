@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-09T13:59:42.850646+00:00",
-  "count": 5037,
+  "updated_at": "2026-07-09T16:30:25.382433+00:00",
+  "count": 5047,
   "items": [
+    {
+      "id": "fdd6c60bdcca",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How GitHub gave every repository a durable owner",
+      "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "published": "2026-07-09T16:29:37+00:00",
+      "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a "
+    },
+    {
+      "id": "33497dcd8d2a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 1X Neo Robot Has Freaky Fast Fingers",
+      "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "published": "2026-07-09T16:01:22+00:00",
+      "summary": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands."
+    },
+    {
+      "id": "9e93ef95173c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "published": "2026-07-09T14:53:09+00:00",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
+    },
+    {
+      "id": "07e3ce8896f8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "published": "2026-07-09T14:51:00+00:00",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000."
+    },
+    {
+      "id": "67d3d2466f06",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DXC와 윌튼 리, 20년 파트너십 기념 및 40만 건 포트폴리오 클라우드 전환 완료",
+      "link": "https://zdnet.co.kr/view/?no=20260709231003",
+      "published": "2026-07-09T14:10:03+00:00",
+      "summary": "[지디넷코리아] 회사 최대 규모이자 가장 복잡한 변환 중 하나를 완료하며, DXC는 40만 건 이상의 윌튼 리 정책을 단일 현대적 클라우드 플랫폼으로 이관했다. 이번 전환은 윌튼 리의 미래 AI 역량과 운영 효율성을 위한 기반을 마련한다. 2005년 약 5000건에서 현재 50만 건 이상으로 윌튼 리의 성장을 지원해 온 20년 파트너십을 기념하며, DXC는 핵심 보험 기능을 엔드투엔드로 운영하고 있다. 애슈번, 버지니아, 2026년 7월 9일 /PRNewswire/ -- 선도적인 기업 기술 및 혁"
+    },
+    {
+      "id": "5a979df1f0c6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"대한민국 미래성장 전략 제시\"...기경학회, '2026 하계학술대회' 성료",
+      "link": "https://zdnet.co.kr/view/?no=20260709230314",
+      "published": "2026-07-09T14:03:14+00:00",
+      "summary": "[지디넷코리아]기술경영경제학회(기경학회, 학회장 안준모 고려대 교수)는 2~4일 제주 메종글래드 호텔에서 개최한 '2026 하계학술대회' 를 성공적으로 마무리했다고 밝혔다.이번 학술대회는 '에이전틱AI와 혁신생태계: 제조에서 서비스까지'를 주제로 열렸다.산·학·연·정 전문가 1000여 명이 참석했다. 약 40개 학술세션과 100여 편 이상의 연구성과를 공유, AI 시대 국가 혁신전략과 기술경영의 미래를 논의했다.특히 제조와 서비스를 함께 조명했다. 한국 경제의 구조적 특성 때문이다. 미국과 영국은"
+    },
+    {
+      "id": "258406e8be91",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony brings back the superzoom RX10 with a stacked sensor and a high price",
+      "link": "https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on",
+      "published": "2026-07-09T14:00:00+00:00",
+      "summary": "Sony is bringing back the RX10 superzoom camera after a nearly nine-year gap between models. The newly announced RX10 V retains the same 24-600mm equivalent f/2.4-4 Zeiss Vario-Sonnar 25x zoom lens of its last two predecessors, but it has lots of upgrades elsewhere. The new 20.1-"
+    },
+    {
+      "id": "8ff9881cc33a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "published": "2026-07-09T14:00:00+00:00",
+      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first gener"
+    },
     {
       "id": "5048691d96a4",
       "source": "The Verge",
@@ -12,6 +100,17 @@
       "link": "https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech",
       "published": "2026-07-09T13:45:00+00:00",
       "summary": "A few hours after checking into a hotel in New York City, David Streever woke up to a call from the front desk saying someone was looking for him. Streever had just landed on a return trip from Finland, where he'd vacationed with his daughter. Though Streever didn't know it yet, "
+    },
+    {
+      "id": "fc0d8db35687",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
+      "link": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+      "published": "2026-07-09T13:31:00+00:00",
+      "summary": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months."
     },
     {
       "id": "861d7dab929c",
@@ -2894,6 +2993,17 @@
       "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
       "published": "2026-07-07T15:00:00+00:00",
       "summary": ""
+    },
+    {
+      "id": "37d81f32e63f",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing GPT-Live",
+      "link": "https://openai.com/index/introducing-gpt-live",
+      "published": "2026-07-07T15:00:00+00:00",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
     },
     {
       "id": "338bd3c23730",
