@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-09T18:20:00.981605+00:00",
-  "count": 5054,
+  "updated_at": "2026-07-09T20:17:24.058810+00:00",
+  "count": 5063,
   "items": [
+    {
+      "id": "901bad835c88",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will now tell you if an ad was made with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "published": "2026-07-09T20:11:38+00:00",
+      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was "
+    },
+    {
+      "id": "cc88667df518",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "published": "2026-07-09T19:40:45+00:00",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide."
+    },
+    {
+      "id": "9b6dbd14294e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "published": "2026-07-09T19:05:58+00:00",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
+    },
+    {
+      "id": "d7b7e66dac2c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "published": "2026-07-09T18:57:53+00:00",
+      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight."
+    },
+    {
+      "id": "d873fa991018",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will now disclose which ads are made with AI",
+      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "published": "2026-07-09T18:40:51+00:00",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose."
+    },
+    {
+      "id": "b31cbe3cdac9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "published": "2026-07-09T18:34:35+00:00",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
+    },
+    {
+      "id": "a4c0050376ed",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "published": "2026-07-09T18:30:00+00:00",
+      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending."
+    },
+    {
+      "id": "96af8e89ad5a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "published": "2026-07-09T18:22:39+00:00",
+      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
+    },
     {
       "id": "20147561ba40",
       "source": "TechCrunch",
@@ -12,6 +100,17 @@
       "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
       "published": "2026-07-09T17:56:47+00:00",
       "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that."
+    },
+    {
+      "id": "9e88dca81e18",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "published": "2026-07-09T17:56:47+00:00",
+      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation."
     },
     {
       "id": "a3e762c66e3e",
