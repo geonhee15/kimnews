@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-09T21:55:34.381660+00:00",
-  "count": 5075,
+  "updated_at": "2026-07-09T23:07:46.991159+00:00",
+  "count": 5086,
   "items": [
+    {
+      "id": "91a708a5ea81",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "published": "2026-07-09T22:24:24+00:00",
+      "summary": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity."
+    },
+    {
+      "id": "0e5935d12035",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "published": "2026-07-09T22:08:58+00:00",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+    },
+    {
+      "id": "a10f49694556",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "published": "2026-07-09T22:03:54+00:00",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
+    },
+    {
+      "id": "774d2a45a347",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월9일] AX의 숨은 주역 'AI 챔피언'...동료가 동료를 설득한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212566",
+      "published": "2026-07-09T22:00:00+00:00",
+      "summary": "국내외 많은 기업이 AI 전환(AX)을 추진하고 있습니다. 하지만 AI 도구를 도입하는 것과 직원들이 이를 실제 업무에 활용하는 것은 다른 문제입니다.실제로 메타와 같은 기업은 AI 사용량을 인사 평가와 연결하겠다고 밝혔으며, 상당수 기업도 직원들의 AI 활용을 늘리기 위해 다양한 방안을 내놓고 있습니다.그러나 보스턴 컨설팅 그룹(BCG)의 지난해 보고서에 따르면, 전 세계 기업의 60%는 상당한 AI 투자를 했음에도 아직 의미 있는 가치를 창출하지 못하고 있습니다. BCG는 그 이유를 'AI 채"
+    },
+    {
+      "id": "28b4f7de544f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "published": "2026-07-09T21:57:42+00:00",
+      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
+    },
+    {
+      "id": "c4448a8a4404",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"우리가 안전성 증명해야\"…알트먼, '정부 규제 반대'서 한발 물러섰다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212605",
+      "published": "2026-07-09T21:52:10+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 'GPT-5.6'의 정식 출시가 미국 정부와의 긴밀한 사전 협력을 거쳐 이뤄졌다고 밝혔다. 정부의 모델 출시 규제에 동의하지 않는다던 기존 모습에서 한발 물러선 모습을 보였다.알트먼 CEO는 9일(현지시간) CNBC와의 인터뷰에서 하워드 러트닉 상무장관, 스콧 베선트 재무장관, 숀 케언크로스 국가사이버보안 국장 등 트럼프 행정부 고위 관리들과 새로운 모델 승인 절차를 진행했다고 밝혔다. 이를 “정부가 테스트를 수행하고 회사가 문제를 해결하는 공동의 상호 작용 과정”이라"
+    },
     {
       "id": "a9e075891c92",
       "source": "Wired",
@@ -34,6 +100,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212604",
       "published": "2026-07-09T21:28:02+00:00",
       "summary": "오픈AI가 ‘GPT-5.6 솔(Sol)’과 ‘테라(Terra)’ ‘루나(Luna)’를 시장에 정식 출시했다.외부 벤치마크 평가 결과, 최상위권 지능을 유지하면서도 비용을 획기적으로 낮추며 역대 최고의 가성비(파레토 최적화)를 갖춘 것으로 드러났다.오픈AI는 9일(현지시간) GPT-5.6을 챗GPT와 코덱스, API를 통해 전 세계에 배포하기 시작했다. 24시간 동안 단계적으로 전체 사용자에게 제공될 예정이다.이중 GPT-5.6 솔은 챗GPT 플러스와 프로, 비즈니스, 엔터프라이즈 사용자가 중간 및"
+    },
+    {
+      "id": "952dec05674d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "published": "2026-07-09T21:25:55+00:00",
+      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\""
     },
     {
       "id": "8604524b9147",
@@ -265,6 +342,17 @@
       "link": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
       "published": "2026-07-09T16:01:22+00:00",
       "summary": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands."
+    },
+    {
+      "id": "bab55920fe0e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A possible future for Damn Interesting",
+      "link": "https://www.damninteresting.com/a-possible-future/",
+      "published": "2026-07-09T15:25:25+00:00",
+      "summary": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 204 # Comments: 23"
     },
     {
       "id": "9e93ef95173c",
@@ -839,6 +927,17 @@
       "summary": "온톨로지 초기 설계를 넘어 전체 구축 과정을 자동화한 사례가 등장했다. AI 전문 바이브컴퍼니(대표 김경서)는 기업 문서에서 온톨로지 지식그래프를 자동으로 설계·구축하고, 이를 바탕으로 근거가 검증된 답변까지 제공하는 ‘온톨로지 자동화 솔루션’을 9일 공개했다. 이는 ‘바이브 온톨로지 RAG 플랫폼’ 내에 탑재됐다.온톨로지는 최근 AI 에이전트가 급부상하며 필요성이 부각되는 기술이다. 개념과 관계 중심으로 데이터를 구조화해, 생성 AI의 환각을 줄이기 때문이다. 하지만, 그간 기업 내 방대한 비정"
     },
     {
+      "id": "58ae79cd472b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "link": "https://github.com/JustVugg/colibri",
+      "published": "2026-07-09T08:05:04+00:00",
+      "summary": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me. But then I thought, \"I wonder how it woul"
+    },
+    {
       "id": "5aa84fff96b1",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -1013,6 +1112,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212585",
       "published": "2026-07-09T06:27:27+00:00",
       "summary": "미스트랄 AI가 로봇을 위한 첫 내비게이션 전용 AI 모델 '로보스트랄 내비게이트(Robostral Navigate)'를 공개했다. 별도의 라이다(LiDAR)나 깊이 센서 없이 일반 RGB 카메라 하나만으로 복잡한 실내외 환경을 자율적으로 이동할 수 있는 것이 특징으로, 산업용 로봇과 물류 자동화 시장을 겨냥한 피지컬 AI 전략이 본격화됐다는 평가다.미스트랄 AI는 8일(현지시간) 자연어 명령만으로 로봇이 복잡한 공간을 스스로 이동하도록 설계된 첫 로봇 내비게이션 모델 ‘로보스트랄 내비게이트’를 "
+    },
+    {
+      "id": "5152484158ef",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "link": "https://github.com/malisper/pgrust",
+      "published": "2026-07-09T06:18:19+00:00",
+      "summary": "Article URL: https://github.com/malisper/pgrust Comments URL: https://news.ycombinator.com/item?id=48841676 Points: 258 # Comments: 314"
     },
     {
       "id": "13ec0e76cee9",
@@ -4797,6 +4907,17 @@
       "link": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
       "published": "2026-07-06T11:30:38+00:00",
       "summary": "The new model will be officially unveiled in late September."
+    },
+    {
+      "id": "39ede00ff81b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "published": "2026-07-06T10:53:51+00:00",
+      "summary": "https://archive.is/LV6Cw Comments URL: https://news.ycombinator.com/item?id=48803004 Points: 233 # Comments: 149"
     },
     {
       "id": "543f450084ef",
