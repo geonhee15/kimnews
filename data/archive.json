@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-09T16:30:25.382433+00:00",
-  "count": 5047,
+  "updated_at": "2026-07-09T18:20:00.981605+00:00",
+  "count": 5054,
   "items": [
+    {
+      "id": "20147561ba40",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "published": "2026-07-09T17:56:47+00:00",
+      "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that."
+    },
+    {
+      "id": "a3e762c66e3e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Nest Thermostat has hit its best price of the year",
+      "link": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
+      "published": "2026-07-09T17:33:46+00:00",
+      "summary": "If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right now it’s on sale in white for $79 ($50 off), which is its best price of the year, at Amazon. Th"
+    },
+    {
+      "id": "b5f78512cb76",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s new AI chips will begin production in September",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "published": "2026-07-09T17:17:37+00:00",
+      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production."
+    },
+    {
+      "id": "36f687a2d083",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "published": "2026-07-09T17:06:11+00:00",
+      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines."
+    },
+    {
+      "id": "8495d637bdd8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s patch Tuesdays are about to get bigger",
+      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "published": "2026-07-09T17:00:00+00:00",
+      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security rel"
+    },
+    {
+      "id": "acfb4b85e153",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "published": "2026-07-09T17:00:00+00:00",
+      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Alt"
+    },
     {
       "id": "fdd6c60bdcca",
       "source": "GitHub Blog",
@@ -276,6 +342,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260709191003",
       "published": "2026-07-09T10:10:03+00:00",
       "summary": "[지디넷코리아] 언브로커리지, 울란바토르에서의 대담한 리더십과 함께 26번째 국가로 확장하며 글로벌 모멘텀 지속 라구나 니겔, 캘리포니아, 2026년 7월 9일 /PRNewswire/ -- 현대적이고 목적 지향적인 라이프스타일 브랜드이자 세계에서 가장 빠르게 성장하는 프랜차이즈 중 하나인 리얼티 원 그룹 인터내셔널(Realty ONE Group International)이 새로운 진출 국가인 몽골의 마스터 프랜차이즈 권리를 공식적으로 판매했다. 언브로커리지(UNBrokerage)는 검증된 에이전트"
+    },
+    {
+      "id": "6ad33f880d9c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
+      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+      "published": "2026-07-09T10:01:30+00:00",
+      "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state."
     },
     {
       "id": "089cf7035528",
