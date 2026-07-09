@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-09T20:17:24.058810+00:00",
-  "count": 5063,
+  "updated_at": "2026-07-09T21:55:34.381660+00:00",
+  "count": 5075,
   "items": [
+    {
+      "id": "a9e075891c92",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
+      "published": "2026-07-09T21:47:57+00:00",
+      "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner."
+    },
+    {
+      "id": "21be52740837",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "published": "2026-07-09T21:47:50+00:00",
+      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences."
+    },
+    {
+      "id": "895c54dc5a93",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AA 순위 뒤흔든 GPT-5.6 시리즈…‘루나’, 대세 GLM-5.2 위협",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212604",
+      "published": "2026-07-09T21:28:02+00:00",
+      "summary": "오픈AI가 ‘GPT-5.6 솔(Sol)’과 ‘테라(Terra)’ ‘루나(Luna)’를 시장에 정식 출시했다.외부 벤치마크 평가 결과, 최상위권 지능을 유지하면서도 비용을 획기적으로 낮추며 역대 최고의 가성비(파레토 최적화)를 갖춘 것으로 드러났다.오픈AI는 9일(현지시간) GPT-5.6을 챗GPT와 코덱스, API를 통해 전 세계에 배포하기 시작했다. 24시간 동안 단계적으로 전체 사용자에게 제공될 예정이다.이중 GPT-5.6 솔은 챗GPT 플러스와 프로, 비즈니스, 엔터프라이즈 사용자가 중간 및"
+    },
+    {
+      "id": "8604524b9147",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+      "link": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+      "published": "2026-07-09T20:52:55+00:00",
+      "summary": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon."
+    },
+    {
+      "id": "a15c10ed54d9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The ChatGPT browser is already dead",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "published": "2026-07-09T20:34:05+00:00",
+      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\""
+    },
+    {
+      "id": "e6e3b3e482e2",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "published": "2026-07-09T20:22:28+00:00",
+      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company buil"
+    },
+    {
+      "id": "23cded97c821",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "published": "2026-07-09T20:12:03+00:00",
+      "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery."
+    },
     {
       "id": "901bad835c88",
       "source": "The Verge",
@@ -212,6 +289,17 @@
       "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000."
     },
     {
+      "id": "a733c081422f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Muse Spark 1.1",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "published": "2026-07-09T14:10:22+00:00",
+      "summary": "https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio... [pdf] https://developer.meta.com/ai/resources/blog/build-with-muse... https://www.bloomberg.com/news/articles/2026-07-09/meta-star... , https://archive.is/3ccKa Comments URL: https://news.ycombinator.com/item?id=4884"
+    },
+    {
       "id": "67d3d2466f06",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -289,6 +377,17 @@
       "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of th"
     },
     {
+      "id": "23ff34ca2ae3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "published": "2026-07-09T13:24:43+00:00",
+      "summary": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/ Comments URL: https://news.ycombinator.com/item?id=48845442 Points: 227 # Comments: 291"
+    },
+    {
       "id": "fb8e04853860",
       "source": "The Verge",
       "kind": "article",
@@ -333,6 +432,17 @@
       "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in "
     },
     {
+      "id": "91cd0636c02f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: 18 Words",
+      "link": "https://18words.com/",
+      "published": "2026-07-09T12:48:52+00:00",
+      "summary": "Article URL: https://18words.com/ Comments URL: https://news.ycombinator.com/item?id=48845049 Points: 712 # Comments: 260"
+    },
+    {
       "id": "13a8ea1e598c",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -375,6 +485,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260709102145",
       "published": "2026-07-09T11:27:04+00:00",
       "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 전 세계가 고민하고 있는 '청소년 SNS 규제' 이야기를 들고 왔어요. 과연 SNS를 뺏으면 모든 문제가 해결될까요? 이 질문에 세계 최초로 답을 내놓은 나라가 있는데요, 바로 호주예요. 호주는 16세 미만 청소년의 SNS 사용을 아예 법으로 막아버렸답니다. 하지만 모든 나라가 호주처럼 강경한 건 아니에요. 규제 강도를 살펴보면 호주는 100%로 꽉 막은 반면, 프랑스와 영국은 75% 수준, 한국은 아직 50% 정도로 고민 중인 단계라고 해"
+    },
+    {
+      "id": "0783211cb6f8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "published": "2026-07-09T11:03:54+00:00",
+      "summary": "Article URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/ Comments URL: https://news.ycombinator.com/item?id=48843923 Points: 793 # Comments: 393"
     },
     {
       "id": "de30a32bf404",
@@ -6810,6 +6931,17 @@
       "link": "https://github.com/searxng/searxng",
       "published": "2026-07-03T20:15:49+00:00",
       "summary": "Article URL: https://github.com/searxng/searxng Comments URL: https://news.ycombinator.com/item?id=48779454 Points: 212 # Comments: 57"
+    },
+    {
+      "id": "a1135e14847d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "link": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "published": "2026-07-03T19:27:05+00:00",
+      "summary": "Article URL: https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html Comments URL: https://news.ycombinator.com/item?id=48778956 Points: 270 # Comments: 186"
     },
     {
       "id": "f9564bb53b47",
