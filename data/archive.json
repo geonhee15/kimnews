@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-10T20:42:19.076035+00:00",
-  "count": 5188,
+  "updated_at": "2026-07-10T21:42:03.690680+00:00",
+  "count": 5192,
   "items": [
+    {
+      "id": "c89802fd483e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "published": "2026-07-10T21:36:51+00:00",
+      "summary": "Apple has sued OpenAI, alleging that former employees that now work for the AI company have stolen Apple's trade secrets \"for the benefit of OpenAI.\" In its complaint, Apple alleges that it has uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were fo"
+    },
+    {
+      "id": "27b136047c64",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SK하이닉스, 나스닥 상장 첫날 13% 급등…\"로봇·에이전트로 수요 폭발\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212651",
+      "published": "2026-07-10T20:48:31+00:00",
+      "summary": "SK하이닉스가 미국 나스닥 시장 데뷔 첫날 주가가 13% 이상 급등하며 글로벌 AI 반도체 시장의 핵심 공급망으로서의 위상을 입증했다.10일(현지시간) 나스닥 시장에 상장된 SK하이닉스의 미국 예탁증권(ADR)은 공모가인 149달러보다 13% 상승한 168.01달러(약 25만2400원)로 거래를 마쳤다. 장중 한때는 170달러까지 치솟기도 했다.SK하이닉스는 이번 나스닥 상장을 통해 총 265억달러(약 39조8136억원) 규모의 재원을 조달하는 데 성공했다. 이 자금을 차세대 AI 메모리 신공장 "
+    },
+    {
+      "id": "187600e92ec9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "published": "2026-07-10T20:44:05+00:00",
+      "summary": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details."
+    },
     {
       "id": "d13d346b4629",
       "source": "TechCrunch",
@@ -23,6 +56,17 @@
       "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
       "published": "2026-07-10T19:20:00+00:00",
       "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in t"
+    },
+    {
+      "id": "93e062e15d77",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New York City to become first in US to ban deceptive subscription practices",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "published": "2026-07-10T18:26:24+00:00",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 242 # Comments: 90"
     },
     {
       "id": "34100d2742e1",
