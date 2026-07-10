@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-10T19:04:49.335722+00:00",
-  "count": 5184,
+  "updated_at": "2026-07-10T20:42:19.076035+00:00",
+  "count": 5188,
   "items": [
+    {
+      "id": "d13d346b4629",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "published": "2026-07-10T20:32:00+00:00",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+    },
+    {
+      "id": "4ee70ce65778",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ICE is threatening to deport witnesses of its latest shooting",
+      "link": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+      "published": "2026-07-10T19:20:00+00:00",
+      "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved in t"
+    },
     {
       "id": "34100d2742e1",
       "source": "The Verge",
@@ -75,6 +97,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "published": "2026-07-10T15:46:18+00:00",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms."
+    },
+    {
+      "id": "356b1cdbd9cd",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
       "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
       "published": "2026-07-10T15:46:18+00:00",
       "summary": "Digital Services Act may force Meta to make big changes on its platforms."
@@ -537,6 +570,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 용량 14GW로 2배 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212614",
+      "published": "2026-07-10T06:55:40+00:00",
+      "summary": "메타가 자체 개발한 차세대 AI 칩 '아이리스(Iris)'의 양산을 오는 9월 시작한다. AI 데이터센터 규모를 내년 14기가와트(GW)까지 두 배로 확대하는 동시에 엔비디아와 AMD 등 외부 반도체 업체 의존도를 낮추기 위한 전략에 따른 것이다.9일(현지시간) 로이터가 입수한 메타 내부 문건에 따르면, 메타는 코드명 아이리스로 개발 중인 AI 데이터센터용 칩의 생산을 9월부터 시작할 계획이다.아이리스는 메타가 자체 설계하는 MTIA(Meta Training and Inference Acceler"
+    },
+    {
+      "id": "92c78d04dc71",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 14GW로 2배 확대",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212614",
       "published": "2026-07-10T06:55:40+00:00",
       "summary": "메타가 자체 개발한 차세대 AI 칩 '아이리스(Iris)'의 양산을 오는 9월 시작한다. AI 데이터센터 규모를 내년 14기가와트(GW)까지 두 배로 확대하는 동시에 엔비디아와 AMD 등 외부 반도체 업체 의존도를 낮추기 위한 전략에 따른 것이다.9일(현지시간) 로이터가 입수한 메타 내부 문건에 따르면, 메타는 코드명 아이리스로 개발 중인 AI 데이터센터용 칩의 생산을 9월부터 시작할 계획이다.아이리스는 메타가 자체 설계하는 MTIA(Meta Training and Inference Acceler"
