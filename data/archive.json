@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-10T11:18:42.152346+00:00",
-  "count": 5156,
+  "updated_at": "2026-07-10T13:24:17.693114+00:00",
+  "count": 5166,
   "items": [
+    {
+      "id": "c08f7157da9c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Would you host part of an AI data center in your home?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "published": "2026-07-10T13:20:25+00:00",
+      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"plac"
+    },
+    {
+      "id": "adbdf653223d",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "link": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "published": "2026-07-10T12:40:15+00:00",
+      "summary": ""
+    },
+    {
+      "id": "47a96e0deb1b",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "published": "2026-07-10T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really goin"
+    },
+    {
+      "id": "1ce1c56155cd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Doom’s new expansion shows just what makes id Software special",
+      "link": "https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review",
+      "published": "2026-07-10T12:00:00+00:00",
+      "summary": "This week should have been a celebration for Doom developer id Software. The studio just launched Revelations, a meaty expansion for Doom: The Dark Ages that adds a powerful new weapon and more demonic levels to blast through. Even though I hadn't picked up The Dark Ages for more"
+    },
+    {
+      "id": "3401e33d3617",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
+      "link": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
+      "published": "2026-07-10T12:00:00+00:00",
+      "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are."
+    },
+    {
+      "id": "377c8c07534c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Which MacBook to Buy (2026): My Honest Advice on Which to Buy",
+      "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "published": "2026-07-10T11:31:00+00:00",
+      "summary": "MacBooks are now more expensive than ever, and having tested all the latest models, here’s my honest advice on which to buy."
+    },
+    {
+      "id": "9a260703ed61",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 범인 얼굴, 미리 공개해도 될까",
+      "link": "https://zdnet.co.kr/view/?no=20260710101359",
+      "published": "2026-07-10T11:22:28+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 '범인 얼굴, 미리 공개해도 될까?'라는 주제로 준비된 카드뉴스 내용을 전해드릴게요. 최근 경산에서 발생한 사건에서는 사건 발생 후 단 5일 만에 피의자의 이름과 사진이 SNS를 통해 빠르게 퍼져나갔는데요, 아직 죄가 확정되지 않은 상태에서의 신상 공개가 얼마나 빠르게 진행되는지를 잘 보여주는 사례였어요. 이와 관련해 전문가들이 모여 치열한 토론을 벌인 결과, 무려 83%가 '무죄추정 원칙이 알 권리보다 우선되어야 한다'는 데 손을 들었다고"
+    },
+    {
+      "id": "8ef995097e71",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is an air-conditioning revolution coming to Europe?",
+      "link": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+      "published": "2026-07-10T11:10:08+00:00",
+      "summary": "The AC culture wars may be solved by advances in environmentally friendly technology."
+    },
+    {
+      "id": "a52ea1c1e402",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Like a cheat code for your car: We investigate ECU tuning",
+      "link": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+      "published": "2026-07-10T11:00:32+00:00",
+      "summary": "Now it's an arms race between OEMs locking down chips and tuners trying to crack them."
+    },
     {
       "id": "3863d1941f7c",
       "source": "The Verge",
@@ -658,6 +757,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "published": "2026-07-09T23:38:00+00:00",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market."
+    },
+    {
+      "id": "24bf4d6ae070",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "published": "2026-07-09T23:38:00+00:00",
       "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market."
