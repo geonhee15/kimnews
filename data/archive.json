@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-10T22:41:03.504017+00:00",
-  "count": 5194,
+  "updated_at": "2026-07-10T23:38:04.737881+00:00",
+  "count": 5198,
   "items": [
+    {
+      "id": "ad3d989588d4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
+      "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
+      "published": "2026-07-10T23:16:56+00:00",
+      "summary": "Data centers are driving up the company’s use of electricity—and carbon pollution."
+    },
     {
       "id": "1e965795dc73",
       "source": "AI타임스",
@@ -47,6 +58,17 @@
       "summary": "SK하이닉스가 미국 나스닥 시장 데뷔 첫날 주가가 13% 이상 급등하며 글로벌 AI 반도체 시장의 핵심 공급망으로서의 위상을 입증했다.10일(현지시간) 나스닥 시장에 상장된 SK하이닉스의 미국 예탁증권(ADR)은 공모가인 149달러보다 13% 상승한 168.01달러(약 25만2400원)로 거래를 마쳤다. 장중 한때는 170달러까지 치솟기도 했다.SK하이닉스는 이번 나스닥 상장을 통해 총 265억달러(약 39조8136억원) 규모의 재원을 조달하는 데 성공했다. 이 자금을 차세대 AI 메모리 신공장 "
     },
     {
+      "id": "a4c1159390a9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "published": "2026-07-10T20:47:09+00:00",
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 202 # Comments: 105"
+    },
+    {
       "id": "187600e92ec9",
       "source": "Wired",
       "kind": "article",
@@ -89,6 +111,17 @@
       "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
       "published": "2026-07-10T18:26:24+00:00",
       "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 242 # Comments: 90"
+    },
+    {
+      "id": "66aa870a428c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New York City to to ban deceptive subscription practices",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "published": "2026-07-10T18:26:24+00:00",
+      "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani... Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 340 # Comments: 184"
     },
     {
       "id": "34100d2742e1",
@@ -562,6 +595,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260710172715",
       "published": "2026-07-10T08:27:36+00:00",
       "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆ 오케스트로, 과기정통부 ‘2026년 우수 기업부설연구소’ 지정오케스트로의 제1기업부설연구소인 인공지능연구소가 과학기술정보통신부의 ‘2026년 상반기 우수 기업부설연구소’로 지정됐다.우수 "
+    },
+    {
+      "id": "b46507858c7d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "In Emacs, everything looks like a service",
+      "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "published": "2026-07-10T08:21:10+00:00",
+      "summary": "Article URL: http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html Comments URL: https://news.ycombinator.com/item?id=48857230 Points: 226 # Comments: 97"
     },
     {
       "id": "f0121378d7c7",
