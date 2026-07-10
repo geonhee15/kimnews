@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-10T17:29:42.643631+00:00",
-  "count": 5177,
+  "updated_at": "2026-07-10T19:04:49.335722+00:00",
+  "count": 5184,
   "items": [
+    {
+      "id": "34100d2742e1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+      "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "published": "2026-07-10T17:31:35+00:00",
+      "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign comp"
+    },
+    {
+      "id": "adda70b5f00c",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI is so back... GPT 5.6 Sol first look",
+      "link": "https://www.youtube.com/watch?v=URKml8lgw8Y",
+      "published": "2026-07-10T17:25:44+00:00",
+      "summary": ""
+    },
     {
       "id": "e445f3f9ab59",
       "source": "TechCrunch",
@@ -23,6 +45,17 @@
       "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
       "published": "2026-07-10T17:11:51+00:00",
       "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website."
+    },
+    {
+      "id": "dd7295406a37",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "published": "2026-07-10T15:59:53+00:00",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/ Comments URL: https://news.ycombinator.com/item?id=48861717 Points: 211 # Comments: 76"
     },
     {
       "id": "c71ce6e82e21",
@@ -80,6 +113,17 @@
       "summary": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said."
     },
     {
+      "id": "798601448a5e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "published": "2026-07-10T14:00:00+00:00",
+      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the sa"
+    },
+    {
       "id": "43cb78801576",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -122,6 +166,17 @@
       "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
       "published": "2026-07-10T13:45:02+00:00",
       "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I t"
+    },
+    {
+      "id": "1bc12b6acbab",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Write code like a human will maintain it",
+      "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "published": "2026-07-10T13:33:00+00:00",
+      "summary": "Article URL: https://unstack.io/write-code-like-a-human-will-maintain-it Comments URL: https://news.ycombinator.com/item?id=48859701 Points: 262 # Comments: 216"
     },
     {
       "id": "c08f7157da9c",
@@ -179,6 +234,17 @@
       "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are."
     },
     {
+      "id": "d2537f3d6d4f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Late Bronze Age Collapse",
+      "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "published": "2026-07-10T11:59:55+00:00",
+      "summary": "Article URL: https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/ Comments URL: https://news.ycombinator.com/item?id=48858737 Points: 247 # Comments: 155"
+    },
+    {
       "id": "377c8c07534c",
       "source": "Wired",
       "kind": "article",
@@ -232,6 +298,17 @@
       "link": "https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa",
       "published": "2026-07-10T10:52:53+00:00",
       "summary": "Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the \"addictive\" design of Instagram and Facebook. It's likely to be forced to redesign both apps, and could face a fine of up to $12 billion. The European Commission said Meta \"d"
+    },
+    {
+      "id": "843fddf2bca6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Good Tools Are Invisible",
+      "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "published": "2026-07-10T10:32:41+00:00",
+      "summary": "Article URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/ Comments URL: https://news.ycombinator.com/item?id=48858121 Points: 225 # Comments: 125"
     },
     {
       "id": "70d77cac1c74",
