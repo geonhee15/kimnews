@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-10T15:44:29.415200+00:00",
-  "count": 5172,
+  "updated_at": "2026-07-10T17:29:42.643631+00:00",
+  "count": 5177,
   "items": [
+    {
+      "id": "e445f3f9ab59",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "published": "2026-07-10T17:17:12+00:00",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories."
+    },
+    {
+      "id": "b354fe37fbfc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "published": "2026-07-10T17:11:51+00:00",
+      "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website."
+    },
+    {
+      "id": "c71ce6e82e21",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "published": "2026-07-10T15:57:47+00:00",
+      "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog"
+    },
+    {
+      "id": "4355edf31856",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "published": "2026-07-10T15:46:18+00:00",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms."
+    },
     {
       "id": "3b8263331022",
       "source": "The Verge",
@@ -53,6 +97,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "VW Group and unions disagree on plan to streamline the automaker",
+      "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+      "published": "2026-07-10T13:51:10+00:00",
+      "summary": "VW's plan calls for half as many models but didn't mention closures or job cuts."
+    },
+    {
+      "id": "56b5fcfe450f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Volkswagen Group tells its board how to fix it, unions disagree",
       "link": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
       "published": "2026-07-10T13:51:10+00:00",
       "summary": "VW's plan calls for half as many models but didn't mention closures or job cuts."
