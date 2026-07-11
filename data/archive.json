@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-11T13:52:01.184379+00:00",
-  "count": 5246,
+  "updated_at": "2026-07-11T14:47:53.843197+00:00",
+  "count": 5251,
   "items": [
+    {
+      "id": "8796cdb40b37",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+      "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+      "published": "2026-07-11T14:18:33+00:00",
+      "summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provide scientific reports and advice to the U"
+    },
+    {
+      "id": "d67124abc5a1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "published": "2026-07-11T14:13:00+00:00",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+    },
+    {
+      "id": "caa12d4f1f76",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'같은 말 무한반복' AI 고질병 해결…리퀴드 AI, '안티둠' 오픈소스 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260711220316",
+      "published": "2026-07-11T13:03:16+00:00",
+      "summary": "[지디넷코리아]작은 AI 추론 모델이 같은 문장을 끝없이 반복하다 멈추지 못하는 '둠 루프(doom loop)' 문제를 겨냥한 해결책이 나왔다. 리퀴드 AI(Liquid AI)가 7월 7일 이를 고치는 학습 기법 '안티둠(Antidoom)'을 오픈소스로 공개했다.둠 루프는 모델이 한 구간을 내놓은 뒤 그 구간을 계속 되풀이하는 현상이다. 출력이 멈추지 않고 이어져 문맥 창을 다 써 버릴 때까지 반복된다. 크기가 작은 추론 모델일수록, 그리고 어려운 문제로 긴 사고 과정을 거칠수록 이 현상에 더 취"
+    },
+    {
+      "id": "bb47a96d0255",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메타, 남의 AI도 판다…앤트로픽 '클로드' 직접 서비스 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260711220157",
+      "published": "2026-07-11T13:01:57+00:00",
+      "summary": "[지디넷코리아]메타가 앤트로픽의 AI 모델 클로드를 자체 데이터센터에서 직접 서비스하는 방안을 추진하는 것으로 전해졌다. IT 인프라 분석업체 세미애널리시스(SemiAnalysis)가 7월 3일(현지시간) 전했다. 메타가 클로드의 '프라이빗 인스턴스(Private Instance)' 접근 권한을 놓고 앤트로픽과 최종 협상 단계에 있다는 것이다.프라이빗 인스턴스는 API로 데이터를 주고받는 일반 방식과 다르다. 메타가 자사 데이터센터 안에 클로드 전용 독립 서버 환경을 격리해 구축하는 것을 말한다."
+    },
     {
       "id": "7844fcfd55bb",
       "source": "The Verge",
@@ -683,6 +727,17 @@
       "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
       "published": "2026-07-10T16:48:41+00:00",
       "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/ Comments URL: https://news.ycombinator.com/item?id=48862365 Points: 205 # Comments: 71"
+    },
+    {
+      "id": "e8bcc76cc469",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "link": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "published": "2026-07-10T16:37:52+00:00",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/ Comments URL: https://news.ycombinator.com/item?id=48862252 Points: 211 # Comments: 159"
     },
     {
       "id": "dd7295406a37",
