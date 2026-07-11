@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-11T04:27:10.342555+00:00",
-  "count": 5221,
+  "updated_at": "2026-07-11T06:34:28.384823+00:00",
+  "count": 5225,
   "items": [
+    {
+      "id": "1fae7d34ffe3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'추론 칩' 삼바노바, 5개월 만에 몸값 5배 상승…16조 가치로 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212662",
+      "published": "2026-07-11T06:17:37+00:00",
+      "summary": "AI 칩 스타트업 삼바노바 시스템(SambaNova Systems) 기업 가치 110억달러(약 16조원)를 인정받으며 10억달러(약 1조5000억원) 규모의 신규 투자를 유치했다. 지난해 인텔의 인수 제안을 거절한 이 회사는 AI 추론 시장의 성장으로 빠른 성장을 기록 중이다.삼바노바는 8일(현지시간) 제너럴 애틀랜틱이 주도한 시리즈F 투자 라운드의 1차 자금 조달을 완료했다고 발표했다. 몇주 안으로 추가 투자자들이 합류, 투자 유치를 최종 마무리할 예정이다.이번 투자에는 셀리그먼 벤처스, T. "
+    },
+    {
+      "id": "78f5a08c8b1e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK하이닉스, 나스닥 상장 첫날 마이크론 시총 추월",
+      "link": "https://zdnet.co.kr/view/?no=20260711143318",
+      "published": "2026-07-11T05:48:41+00:00",
+      "summary": "[지디넷코리아]SK하이닉스가 상장 첫날 미국 반도체업체 마이크론테크놀로지의 시가총액을 뛰어넘으면서 나스닥에 성공적으로 안착했다.월스트리트저널을 비롯한 외신들에 따르면 10일(현지시간) 미국 주식예탁증서(ADR)를 통해 나스닥에 상장한 SK하이닉스는 168.01달러로 첫날 거래를 마감했다.SK하이닉스는 상장 첫날 종가기준 시가총액 1조 2000억 달러를 기록하면서 마이크론과 AMD를 넘어섰다고 월스트리트저널이 전했다. 마이크론과 AMD의 이날 종가기준 시가총액은 각각 1조 1000억 달러와 9090"
+    },
     {
       "id": "0752fc1fdc9f",
       "source": "AI타임스",
@@ -419,6 +441,17 @@
       "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
       "published": "2026-07-10T17:11:51+00:00",
       "summary": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website."
+    },
+    {
+      "id": "b76297595f94",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "published": "2026-07-10T16:48:41+00:00",
+      "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/ Comments URL: https://news.ycombinator.com/item?id=48862365 Points: 205 # Comments: 71"
     },
     {
       "id": "dd7295406a37",
@@ -1772,6 +1805,17 @@
       "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
       "published": "2026-07-09T16:29:37+00:00",
       "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a "
+    },
+    {
+      "id": "4bc756dba1e2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI 2040: Plan A",
+      "link": "https://ai-2040.com/",
+      "published": "2026-07-09T16:21:44+00:00",
+      "summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 215 # Comments: 222"
     },
     {
       "id": "33497dcd8d2a",
