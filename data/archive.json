@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-11T09:57:52.656162+00:00",
-  "count": 5235,
+  "updated_at": "2026-07-11T11:06:02.776428+00:00",
+  "count": 5242,
   "items": [
+    {
+      "id": "0a6746fb5d48",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung Micro RGB R95H Review (2026): Not the Brightest",
+      "link": "https://www.wired.com/review/samsung-micro-rgb-r95h/",
+      "published": "2026-07-11T10:31:00+00:00",
+      "summary": "There’s a new fleet of TVs using new mini and micro RBG display tech, and Samsung’s R95H model isn’t as impressive as it should be."
+    },
+    {
+      "id": "70b07e73282e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+      "link": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+      "published": "2026-07-11T10:30:00+00:00",
+      "summary": "Plus: The Pentagon is training amateurs to become part of its hacker army, a Flock license plate reader error led to cops surrounding a car reviewer, and more."
+    },
+    {
+      "id": "08db65988b37",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SW엔지니어링진흥협회, 인공지능SW엔지니어링진흥협회로 명칭 변경",
+      "link": "https://zdnet.co.kr/view/?no=20260711185301",
+      "published": "2026-07-11T09:53:01+00:00",
+      "summary": "[지디넷코리아]사단법인 소프트웨어엔지니어링진흥협회가 협회 명칭을 '인공지능소프트웨어엔지니어링진흥협회’로 변경했다. 인공지능(AI) 시대로의 급격한 패러다임 변화에 발맞춘 조치다. 소관 부처인 과기정통부에서 법인 명칭 변경 승인도 획득했다.(아래 이미지 참조)이번 명칭 변경은 최근 인공지능(AI) 기술이 소프트웨어 전 분야에 걸쳐 핵심 기반 기술로 자리매김함에 따라, 협회의 실질적인 활동 범위와 기술적 전문성을 대외적으로 명확히 공고히 하기 위해 마련됐다. 협회는 본래 소프트웨어 산업 발전과 엔지니"
+    },
+    {
+      "id": "a38feb7a0c20",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한컴위드 1조원대 그룹...한컴 지분 4.47% 추가 매수",
+      "link": "https://zdnet.co.kr/view/?no=20260711181233",
+      "published": "2026-07-11T09:12:33+00:00",
+      "summary": "[지디넷코리아]한컴그룹의 실질적 지주회사인 한컴위드가 당초 계획보다 25% 많은 한컴 주식을 취득했다. 시장 변동성이 커진 국면에서도 한컴의 미래 성장성에 대한 확신 속에 지분을 적극적으로 늘리며, 최대주주로서 책임경영 행보를 보였다.회사에 따르면, 한컴위드는 지난 6월 4일부터 7월 3일까지 한컴 보통주 108만 1666주를 장내에서 매수했다. 지분 4.47%에 해당한다. 투입 금액은 약 206억 원이다.이는 4월 30일 사전 공시한 취득 계획을 웃도는 규모다. 당초 계획은 79만 2000주, "
+    },
+    {
+      "id": "1e190ceb4bff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "WYF, 착한 인공지능 글로벌 서밋 2026에서 글로벌 AI 인재 협약 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260711181002",
+      "published": "2026-07-11T09:10:02+00:00",
+      "summary": "[지디넷코리아]제네바 2026년 7월 11일 /PRNewswire/ -- 7월 10일 30여 개 국가에서 도전 과제 기반 학습과 청년 발전을 지원하는 국제 비영리단체 세계청년포럼(World Youth Forum, WYF)이 제네바에서 열린 착한 인공지능 글로벌 서밋 2026(AI for Good Global Summit 2026)에서 글로벌 AI 인재 협약(Global AI Talent Compact)을 출범시켰다. WYF는 이번 행사에서 공식 세션 파트너로 참여했다. 이번 서밋은 국제전기통신연합"
+    },
     {
       "id": "1ab2e773e117",
       "source": "Wired",
@@ -12,6 +67,17 @@
       "link": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
       "published": "2026-07-11T09:00:00+00:00",
       "summary": "As the climate phenomenon sends warm water surging across the eastern Pacific, some parts of the fishing industry are suffering—but other regions are seeing a windfall."
+    },
+    {
+      "id": "a97900fd2c2c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기경학회 AX칼럼] 중전기기 슈퍼사이클 이제 시작",
+      "link": "https://zdnet.co.kr/view/?no=20260711174825",
+      "published": "2026-07-11T08:48:25+00:00",
+      "summary": "[지디넷코리아]세계 AI 데이터센터 투자가 폭증하고 노후 전력망 교체 수요가 겹치면서, 초고압 변압기·차단기·GIS(가스절연개폐장치) 등 중전기기 시장이 역사적 ‘슈퍼사이클’에 진입했다. 효성중공업, LS일렉트릭, HD현대일렉트릭 등 국내 주요 기업의 수주 잔고는 수년 치를 넘어섰고, 주가와 실적 모두 전례 없는 고점을 기록하고 있다. 그런데 이 호황의 이면에 역설이 있다. 수주는 넘치는데 납기가 밀린다. 공장을 늘려도 생산이 따라가지 못한다. 문제는 설비가 아니다. 사람이다.중전기기는 반도체나 "
     },
     {
       "id": "7ab88d05bda6",
@@ -463,6 +529,17 @@
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "published": "2026-07-10T20:32:00+00:00",
       "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+    },
+    {
+      "id": "7a9eac7da3ba",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "An update on residential proxies and the scraper situation",
+      "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "published": "2026-07-10T19:38:34+00:00",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Comments URL: https://news.ycombinator.com/item?id=48864252 Points: 205 # Comments: 200"
     },
     {
       "id": "4ee70ce65778",
