@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-07-11T01:07:26.150560+00:00",
-  "count": 5202,
+  "updated_at": "2026-07-11T04:27:10.342555+00:00",
+  "count": 5221,
   "items": [
+    {
+      "id": "0752fc1fdc9f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "프리즘ML, 270억 매개변수 모델 아이폰 구동 성공…성능 저하 없는 온디바이스 AI 구현",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212656",
+      "published": "2026-07-11T03:28:22+00:00",
+      "summary": "미국 스타트업 프리즘ML(PrismML)이 270억 매개변수 규모의 대형언어모델(LLM)을 아이폰에서 구동하는 데 성공했다. 이는 지금까지 스마트폰에서 실행된 AI 모델 가운데 가장 큰 규모로, 클라우드 의존도를 줄이고 기기 자체에서 AI를 처리하려는 애플의 온디바이스 AI 전략에도 새로운 전환점이 될 수 있다는 평가가 나온다. 디 인포메이션에 따르면, 프리즘ML은 9일(현지시간) 알리바바의 오픈소스 모델 '큐원 3.6' 270억 매개변수 버전을 자체 압축 기술을 활용해 아이폰 17 프로에서 실행"
+    },
+    {
+      "id": "79208d5fc6de",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "주가 80% 폭락 미니맥스 CEO \"AGI 달성 때까지 무급 근무\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212660",
+      "published": "2026-07-11T03:16:13+00:00",
+      "summary": "미니맥스가 주가 급락과 치열한 경쟁 속에서도 AGI 개발 의지를 재확인했다. 사우스차이나모닝포스트에 따르면, 옌쥔제 미니맥스 창립자 겸 CEO는 AGI를 달성할 때까지 급여를 받지 않겠다고 10일 선언했다. 또, 개인 보유 지분 일부를 직원과 오픈소스 생태계에 환원하겠다고 밝혔다.미니맥스는 차세대 AI 모델 개발을 위해 약 20억달러(약 3조원) 규모의 신규 투자 유치에도 착수했다.옌 CEO는 직원들에게 보낸 내부 메모를 통해 \"오늘부터 AGI를 달성하는 날까지 회사로부터 어떠한 급여도 받지 않겠"
+    },
+    {
+      "id": "9eec407721c3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 에이전트 스타트업, AI 에이전트로 1500억 투자 유치…\"130여 투자자 응대\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212659",
+      "published": "2026-07-11T03:00:37+00:00",
+      "summary": "기업용 AI 에이전트 플랫폼 스타트업 라이저(Lyzr)가 자체 AI 에이전트를 활용해 1억달러(약 1500억원) 규모의 투자 유치를 진행하며 제품의 실효성을 직접 입증했다. AI가 투자자 응대부터 투자 설명 자료 작성, 투자자 행동 분석까지 수행하면서 자금 조달 과정의 효율성을 크게 높였다는 점에서 AI가 기업 경영 전반으로 확산하는 새로운 사례로 주목받고 있다.블룸버그에 따르면, 라이저는 9일(현지시간) 5억달러(약 7500억원) 기업 가치로 진행 중인 시리즈B 투자 라운드에서 자체 AI 에이전"
+    },
+    {
+      "id": "6e6a7d70cd20",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, '반복 퍼즐' 프레임워크로 추론 효율 극대화…\"거대 모델 운영 비용 절반으로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212657",
+      "published": "2026-07-11T02:36:34+00:00",
+      "summary": "엔비디아가 대형언어모델(LLM) 배포와 추론 과정에서 발생하는 막대한 인프라 비용 문제를 해결할 최적화 모델을 선보였다. 하이브리드 맘바-트랜스포머 아키텍처 기반의 기존 모델을 성능 저하 없이 최적화해 서버 처리량을 최대 4.6배까지 끌어올렸으며, 고성능 GPU 한 장으로도 초장문맥 요청을 동시 처리할 수 있는 길을 열었다.엔비디아는 7일(현지시간) 기존 1207억 매개변수급 모델 '네모트론-3-슈퍼(Nemotron-3-Super)'를 750억 매개변수 규모로 압축한 '네모트론-랩스-3-퍼즐-75"
+    },
+    {
+      "id": "5be08a146078",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 한화오션 수주 불발 속 반도체주 변동·장윤기 유착 의혹 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212654",
+      "published": "2026-07-11T02:08:14+00:00",
+      "summary": "AI타임스와 이스트에이드의 7월 첫째 주(7월2일~8일) 이슈 분석 결과, 한화오션의 캐나다 잠수함 수주 불발 소식과 반도체주 변동성 등이 상위권을 차지했다.이번 주 검색량 1위를 차지한 '캐나다 잠수함 수주 불발(7.13%)'은 캐나다 정부가 60조원 규모의 차세대 잠수함 사업(CPSP)의 우선협상대상자로 독일 티센크루프마린시스템즈(TKMS)를 선정함에 따라 HD현대중공업과 한화오션 컨소시엄의 수주가 최종 무산된 일이다.독일이 북대서양조약기구(나토, NATO) 동맹국이라는 점이 영향을 미쳤다는 "
+    },
+    {
+      "id": "d97465cbdda6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 알아서 추적·격추…스웨덴, '지능형 요격 드론' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260711064242",
+      "published": "2026-07-11T02:00:02+00:00",
+      "summary": "[지디넷코리아]스웨덴의 한 방산 스타트업이 근거리에서 공중 위협을 효과적으로 격추할 수 있는 '지능형' 요격 드론을 공개했다고 과학 기술 전문매체 인터레스팅엔지니어링이 최근 보도했다.스웨덴 노르딕에어디펜스(NAD)는 최근 실제 운용 환경과 유사한 조건에서 요격 드론 'K100XR'의 시연 행사를 진행했다. 이 행사에서 K100XR은 가상 표적 드론을 실시간으로 탐지하고 요격하는 데 성공했다.칼 로산더 NAD 최고경영자(CEO)는 “K100XR은 적의 무인항공기(UAV)를 격추하는 데 사용되는 고가"
+    },
+    {
+      "id": "1a06d6ae18f5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "육사 AI·데이터과학과, 국제학술지 성과 잇따라…국방 AI 인재 양성 결실",
+      "link": "https://zdnet.co.kr/view/?no=20260711103844",
+      "published": "2026-07-11T01:38:57+00:00",
+      "summary": "[지디넷코리아]육군사관학교 인공지능(AI)·데이터과학과가 설립 이후 축적해 온 교육·연구 역량을 바탕으로 국제 학술지 논문 게재와 각종 AI 경진대회 수상 성과를 이어가며 국방 인공지능(AI) 전문인력 양성의 성과를 입증하고 있다.육군사관학교는 AI·데이터과학과가 2021년 7월 신설된 이후 2022년부터 본격적인 교육·연구 체계를 운영하며 학술 연구와 실무 역량을 동시에 강화해 왔다고 11일 밝혔다. 특히 생도가 수업과 졸업연구 과정에서 수행한 연구를 국내외 학술대회와 학술지 논문으로 발전시키면"
+    },
+    {
+      "id": "746d05eb828b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "published": "2026-07-11T01:07:26+00:00",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams."
+    },
+    {
+      "id": "15f3c9038c8d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[내면 지도 그리기] 24 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212650",
+      "published": "2026-07-11T01:05:00+00:00",
+      "summary": "내면지도_세계인구의 날 특집: 숫자로 셀 수 없는 사람들의 지도7월 11일은 세계인구의 날입니다. 1987년 7월 11일, 세계 인구가 50억 명을 넘어선 것을 계기로 만들어진 날입니다. 인구수와 인구분포, 고령화와 저출산, 이주와 도시화처럼 우리가 함께 살아가는 방식에 대해 생각해보자는 뜻이 담겨 있습니다.세계인구의 날이라고 하면 먼저 숫자와 그래프가 떠오릅니다. 몇 명이 태어났는지, 그래서 세계 인구는 모두 몇 명이 되었는지. 고령화는 얼마나 진행되었고, 어느 도시에 사람이 몰리고 있으며, 어"
+    },
+    {
+      "id": "f3ba3d7c0317",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+      "published": "2026-07-11T01:01:28+00:00",
+      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded."
+    },
+    {
+      "id": "9866ef2aefab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 섬박람회 앞두고 대형버스 교통 시뮬레이션 실시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212631",
+      "published": "2026-07-11T00:35:00+00:00",
+      "summary": "AI 생성 영상여수시가 2026여수세계섬박람회를 앞두고 단체방문객 수송에 투입될 대형버스 교통 흐름을 현장에서 점검했다.여수는 9일 돌산 진모지구에서 대형버스 3대를 동원해 주차와 진출입 동선, 승하차 구역 운영을 확인하는 교통 시뮬레이션을 실시했다고 10일 밝혔다.섬박람회 기간 단체관광객 이동이 집중될 수 있는 만큼, 행사장 주변 교통 혼잡과 안전 문제를 사전에 줄이기 위한 조치다.현장에는 섬박람회조직위원회와 운수업계 관계자 등이 참석해 실제 대형버스 이동 상황을 함께 확인했다. 여수는 모의 운"
+    },
+    {
+      "id": "e3fb9fd40b7f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포, 장마철 앞두고 영산강 하구 하천쓰레기 저감대책 점검",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212626",
+      "published": "2026-07-11T00:35:00+00:00",
+      "summary": "AI 생성 영상강성휘 목포시장이 장마철 집중호우를 앞두고 영산강 하구 생태복원 현장을 점검했다.목포는 강 시장이 9일 영산강 카누경기장을 찾아 영산강 생태복원과 집중호우 대비 하천쓰레기 저감대책, 녹조 제거 현장을 점검했다고 10일 밝혔다.이번 방문은 본격적인 장마철을 앞두고 영산강 하구로 유입되는 하천쓰레기를 사전에 차단하고 수질 관리 대응체계를 확인하기 위해 마련됐다.강 시장은 영산강 하류의 수질과 생태환경 관리 현황을 보고받고, 영산강 하구로 유입되는 초목류와 생활쓰레기 발생 실태를 확인했다"
+    },
+    {
+      "id": "5d407c259d9f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천문화재단, 시민 예술 프로젝트 ‘아쉬움을 예술로’ 참가팀 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212619",
+      "published": "2026-07-11T00:35:00+00:00",
+      "summary": "AI 생성 영상순천문화재단이 시민이 직접 일상 속 불편과 아쉬움을 문화예술 방식으로 풀어내는 프로젝트 참가팀을 모집한다.순천문화재단은 오는 22일까지 2026 일상문화예술실험실 아쉬움을 예술로 참가팀을 공개 모집한다고 10일 밝혔다. 이 사업은 문화예술을 관람하는 데서 나아가 시민이 주체가 돼 생활 속 문제를 발견하고, 이를 예술적 방법으로 개선해 보는 과정을 지원하기 위해 마련됐다.참가 대상은 문화예술 아이디어 제안과 프로젝트 실행이 가능한 만 19세 이상 전남광주통합특별시민이다. 2~5명 이내"
+    },
+    {
+      "id": "c2479a0d4d2b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이폰18 프로, 디자인 바뀐다…달라지는 3가지",
+      "link": "https://zdnet.co.kr/view/?no=20260710144452",
+      "published": "2026-07-11T00:34:20+00:00",
+      "summary": "[지디넷코리아]아이폰18 프로는 전작에 비해 크게 세 가지 디자인이 달라질 것이란 전망이 제기됐다. 애플이 오는 9월 플래그십 스마트폰 '아이폰18 프로'를 출시할 예정인 가운데, 구매자들의 호불호가 갈릴 수 있는 세 가지 디자인 변화가 적용될 것이라는 전망이 나왔다고 IT매체 나인투파이브맥이 최근 보도했다.1. 더 두꺼워지나아이폰18 프로와 아이폰18 프로 맥스는 전작보다 두꺼워질 것이라는 전망이 우세하다. 하지만 정확한 두께를 놓고는 분석가들의 의견이 엇갈리고 있다.IT 팁스터 픽스드포커스디지"
+    },
+    {
+      "id": "64b23429c3a0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“태양광보다 가스발전이 싸다는 착시”…숨은 인프라 비용 최대 30% 빠졌다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212611",
+      "published": "2026-07-11T00:15:00+00:00",
+      "summary": "미국의 신규 가스발전소에 필요한 연료 공급 인프라가 실제 사업비를 기존 산정액보다 30% 이상 끌어올릴 수 있다는 분석이 나왔다. 데이터센터발 전력 수요 증가에 대응해 미국 전역에서 가스발전소 건설이 추진되는 가운데, 파이프라인과 가스 저장시설 등의 비용이 발전원 비교 과정에서 제대로 반영되지 않고 있다는 지적이다.에너지 컨설팅 기관 커런트에너지그룹(CEG)과 비영리 연구단체 그리드랩은 지난달 29일(현지시간) ‘발전소 너머: 가스화력발전의 숨은 비용’ 보고서를 공동 발표했다.보고서는 가스 운송과"
+    },
+    {
+      "id": "b834641e1e19",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인도 태양광 26GW 급증…송전망 병목이 ‘전력 공급’ 가른다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212608",
+      "published": "2026-07-11T00:15:00+00:00",
+      "summary": "인도가 2026년 상반기에 태양광 26기가와트(GW)를 새로 설치하며 세계 태양광 시장의 주요 수요처로 입지를 넓혔다. 대규모 발전소와 주택용 옥상 태양광이 함께 늘었고, 빠른 설비 확대를 뒷받침할 송전망과 저장장치 확충이 다음 과제로 떠올랐다.인도 에너지시장 조사기관 JMK리서치는 9일(현지시간) 공개한 분석에서 올해 1~6월 태양광 약 26GW와 풍력 2.9GW가 신규 설치됐다고 밝혔다.태양광 설치량은 지난해 같은 기간보다 43% 증가했으며, 2025년 연간 설치량의 약 70%를 반년 만에 채"
+    },
+    {
+      "id": "927c2573293f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "태양 수명 다해도 지구는 살아남는다...\"기존 가설 뒤집혔다\" [우주로 간다]",
+      "link": "https://zdnet.co.kr/view/?no=20260710203156",
+      "published": "2026-07-11T00:01:59+00:00",
+      "summary": "[지디넷코리아]수십 년 동안 천문학자들은 50억년 후 태양이 수명을 다해 핵융합에 필요한 수소를 모두 소진하면 거대한 적색거성으로 팽창해 수성과 금성은 물론 지구까지 삼킬 수 있을 것으로 예측해 왔다.하지만 태양이 수명을 다한 뒤에도 지구가 예상보다 높은 확률로 살아남을 수 있다는 연구 결과가 나왔다고 우주과학매체 스페이스닷컴이 최근 보도했다. 이번 연구는 지난달 국제학술지 천문학 및 천체물리학(Astronomy & Astrophysics)에 실렸다.벨기에 루벤대학교 천문학과 마츠 에셀데르스가 이"
+    },
     {
       "id": "0eaea001479d",
       "source": "TechCrunch",
@@ -12,6 +199,17 @@
       "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "published": "2026-07-10T23:55:07+00:00",
       "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\""
+    },
+    {
+      "id": "a56bbc3e48d6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260711084121",
+      "published": "2026-07-10T23:53:17+00:00",
+      "summary": "[지디넷코리아]애플은 영업비밀 침해 혐의로 오픈AI를 전격 제소했다고 10일(현지시간) 나인투파이브맥을 비롯한 주요 외신들이 일제히 보도했다.이번 소송에서 애플은 오픈AI가 핵심 인력을 빼가고 하드웨어 기밀과 지식재산권(IP)을 불법 도용했다고 주장했다.애플은 “(애플의) 전직 직원이 오픈AI를 위해 영업비밀을 훔쳐간 것이 이번 사건의 핵심”이라면서 “이 같은 행위를 막기 위해 소송을 제기하게 됐다”고 밝혔다.애플 이번 소송에서 제품 디자인 담당 부사장으로 아이폰·애플워치 디자인을 총괄했던 탕 탄"
     },
     {
       "id": "7e4d344695e2",
@@ -166,6 +364,17 @@
       "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
       "published": "2026-07-10T18:26:24+00:00",
       "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani... Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 340 # Comments: 184"
+    },
+    {
+      "id": "488e014acfc1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New York City to ban deceptive subscription practices",
+      "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "published": "2026-07-10T18:26:24+00:00",
+      "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani... Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 463 # Comments: 230"
     },
     {
       "id": "34100d2742e1",
