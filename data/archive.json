@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-11T06:34:28.384823+00:00",
-  "count": 5225,
+  "updated_at": "2026-07-11T08:27:22.206246+00:00",
+  "count": 5232,
   "items": [
+    {
+      "id": "7ab88d05bda6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"여러 모델 섞어 써도 한계 명확\"…통념 깨진 '오케스트레이션' 효과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
+      "published": "2026-07-11T08:04:28+00:00",
+      "summary": "여러 AI 모델을 함께 활용하면 서로의 약점을 보완해 더 높은 성능을 낼 수 있다는 '오케스트레이션' 통념에 제동을 거는 연구 결과가 나왔다. 여러 모델이 같은 문제에서 동시에 틀리는 '공동 실패(Co-failure)' 현상이 문제로, 단순히 더 많은 모델을 결합하거나 복잡한 라우팅 시스템을 구축하는 것만으로는 기대한 성능 향상을 얻기 어렵다는 내용이다.영국의 로봇 공학 스타트업 카이카쿠(KAIKAKU)를 비롯한 공동 연구진은 멀티 모델 오케스트레이션의 성능 한계를 분석한 연구 논문 ‘언어 모델을"
+    },
+    {
+      "id": "6e41bfccae79",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 검색, 월드컵 '아르헨 역전극'에 사상 최고 트래픽 기록",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212658",
+      "published": "2026-07-11T07:40:34+00:00",
+      "summary": "AI로 강화된 구글 검색이 지난 7일(현지시간) 아르헨티나의 극적인 승리가 확정된 직후 사상 가장 많은 초당 검색량(QPS)을 기록하며 역대 최고 사용량을 경신했다.AI 챗봇 기반 검색이 빠르게 확산하는 가운데서도, 실시간 스포츠 경기와 최신 정보를 확인하는 주요 창구는 여전히 구글 검색이라는 점을 보여준 사례로 평가된다.구글의 지식 정보(Knowledge & Information) 부문 총괄 닉 폭스 수석 부사장은 \"아르헨티나가 결승 골을 넣은 직후 구글 검색이 이전의 모든 사용 기록을 넘어 역"
+    },
+    {
+      "id": "e1056fa115e7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Are you filthy enough for a $700 portable shower?",
+      "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "published": "2026-07-11T07:00:00+00:00",
+      "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams"
+    },
+    {
+      "id": "3dbafb5fbb95",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "캐릭터닷AI, '마이크로드라마' 공개…엔터테인먼트 플랫폼으로 진화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212661",
+      "published": "2026-07-11T06:51:58+00:00",
+      "summary": "캐릭터닷AI가 자체 제작한 오리지널 마이크로드라마를 선보이며 대화형 AI 서비스를 넘어 종합 엔터테인먼트 플랫폼으로의 변신에 본격적으 나섰다. 특히 AI를 통해 마이크로드라마 주인공들과 사용자가 대화를 나누고 새로운 이야기를 만들어가는 '인터렉티브 콘텐츠' 생성이 가능하게 됐다.캐릭터닷AI는 9일(현지시간) 모바일 애플리케이션에 새롭게 추가된 엔터테인먼트 탭을 통해 오리지널 숏폼 세로형 드라마인 'c.ai 시리즈(c.ai series)'를 공식 출시했다고 밝혔다.이번 콘텐츠는 캐릭터닷AI의 자체 "
+    },
     {
       "id": "1fae7d34ffe3",
       "source": "AI타임스",
@@ -36,6 +80,17 @@
       "summary": "미국 스타트업 프리즘ML(PrismML)이 270억 매개변수 규모의 대형언어모델(LLM)을 아이폰에서 구동하는 데 성공했다. 이는 지금까지 스마트폰에서 실행된 AI 모델 가운데 가장 큰 규모로, 클라우드 의존도를 줄이고 기기 자체에서 AI를 처리하려는 애플의 온디바이스 AI 전략에도 새로운 전환점이 될 수 있다는 평가가 나온다. 디 인포메이션에 따르면, 프리즘ML은 9일(현지시간) 알리바바의 오픈소스 모델 '큐원 3.6' 270억 매개변수 버전을 자체 압축 기술을 활용해 아이폰 17 프로에서 실행"
     },
     {
+      "id": "fad6552c1e34",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "270억 매개변수 모델 아이폰서 구동…\"성능 저하 없는 온디바이스 AI\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212656",
+      "published": "2026-07-11T03:28:22+00:00",
+      "summary": "미국 스타트업 프리즘ML(PrismML)이 270억 매개변수 규모의 대형언어모델(LLM)을 아이폰에서 구동하는 데 성공했다. 이는 지금까지 스마트폰에서 실행된 AI 모델 가운데 가장 큰 규모로, 클라우드 의존도를 줄이고 기기 자체에서 AI를 처리하려는 애플의 온디바이스 AI 전략에도 새로운 전환점이 될 수 있다는 평가가 나온다. 디 인포메이션에 따르면, 프리즘ML은 9일(현지시간) 알리바바의 오픈소스 모델 '큐원 3.6' 270억 매개변수 버전을 자체 압축 기술을 활용해 아이폰 17 프로에서 실행"
+    },
+    {
       "id": "79208d5fc6de",
       "source": "AI타임스",
       "kind": "article",
@@ -64,6 +119,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "엔비디아, '반복 퍼즐' 프레임워크로 추론 효율 극대화…\"거대 모델 운영 비용 절반으로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212657",
+      "published": "2026-07-11T02:36:34+00:00",
+      "summary": "엔비디아가 대형언어모델(LLM) 배포와 추론 과정에서 발생하는 막대한 인프라 비용 문제를 해결할 최적화 모델을 선보였다. 하이브리드 맘바-트랜스포머 아키텍처 기반의 기존 모델을 성능 저하 없이 최적화해 서버 처리량을 최대 4.6배까지 끌어올렸으며, 고성능 GPU 한 장으로도 초장문맥 요청을 동시 처리할 수 있는 길을 열었다.엔비디아는 7일(현지시간) 기존 1207억 매개변수급 모델 '네모트론-3-슈퍼(Nemotron-3-Super)'를 750억 매개변수 규모로 압축한 '네모트론-랩스-3-퍼즐-75"
+    },
+    {
+      "id": "962fdb076e85",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, '반복 퍼즐' 기술로 추론 효율 극대화…\"운영 비용 절반으로\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212657",
       "published": "2026-07-11T02:36:34+00:00",
       "summary": "엔비디아가 대형언어모델(LLM) 배포와 추론 과정에서 발생하는 막대한 인프라 비용 문제를 해결할 최적화 모델을 선보였다. 하이브리드 맘바-트랜스포머 아키텍처 기반의 기존 모델을 성능 저하 없이 최적화해 서버 처리량을 최대 4.6배까지 끌어올렸으며, 고성능 GPU 한 장으로도 초장문맥 요청을 동시 처리할 수 있는 길을 열었다.엔비디아는 7일(현지시간) 기존 1207억 매개변수급 모델 '네모트론-3-슈퍼(Nemotron-3-Super)'를 750억 매개변수 규모로 압축한 '네모트론-랩스-3-퍼즐-75"
@@ -276,6 +342,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260711081021",
       "published": "2026-07-10T23:15:46+00:00",
       "summary": "[지디넷코리아]미국 나스닥에 입성한 SK하이닉스가 첫날 거래부터 13% 급등하는 강세를 보였다.10일(현지시간) 미국 주식예탁증서(ADR)를 통해 나스닥에 상장한 SK하이닉스는 168.01달러로 첫날 거래를 마감했다고 CNBC를 비롯한 주요 외신들이 보도했다.이는 ADR 공모가보다 13% 상승한 수치다.이날 나스닥 시장에 170달러로 거래를 시작한 SK하이닉스는 장중 한때 177달러까지 치솟기도 했다. 하지만 오후 들어 상승폭을 반납하면서 결국 168.01달러로 첫날 거래를 마감했다.최태원 회장은"
+    },
+    {
+      "id": "a20a700c5a3a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "published": "2026-07-10T22:30:44+00:00",
+      "summary": "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 210 # Comments: 76"
     },
     {
       "id": "1e965795dc73",
