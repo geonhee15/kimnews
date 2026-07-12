@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-11T23:09:50.615554+00:00",
-  "count": 5254,
+  "updated_at": "2026-07-12T00:10:17.076068+00:00",
+  "count": 5255,
   "items": [
+    {
+      "id": "35ddfab5ad82",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세레브라스·업스테이지, 국내에 ‘초당 2000토큰’ 초고속 추론 제공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212665",
+      "published": "2026-07-11T23:54:13+00:00",
+      "summary": "미국의 AI 반도체 기업 세레브라스(Cerebras)와 국내 대표 AI 기업 업스테이지가 전 세계 개발자와 기업들을 대상으로 초고속 상용 AI 서비스를 제공하기 위해 협력한다.세레브라스는 10일(현지시간) 업스테이지와의 파트너십을 체결하고, 추론 클라우드(Cerebras Inference Cloud)에서 업스테이지의 대형언어모델(LLM) '솔라(Solar) 31B'를 구동한다고 발표했다.세레브라스의 독자적인 '웨이퍼 스케일 엔진(WSE)' 기반 인프라와 업스테이지의 기업용 AI 모델 기술이 결합하"
+    },
     {
       "id": "74f463645dd5",
       "source": "ZDNet Korea",
