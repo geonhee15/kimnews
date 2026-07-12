@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-12T19:49:52.457797+00:00",
-  "count": 5315,
+  "updated_at": "2026-07-12T20:38:57.127994+00:00",
+  "count": 5321,
   "items": [
+    {
+      "id": "acb3d027cb96",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "published": "2026-07-12T20:10:19+00:00",
+      "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Me"
+    },
+    {
+      "id": "52f75760fe3a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+      "link": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+      "published": "2026-07-12T19:55:37+00:00",
+      "summary": "In at least two places, Uber has pushed a policy that could give it an advantage over developers of self-driving cars. The company says it’s fighting monopolies."
+    },
+    {
+      "id": "afadd9cff1c2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이앤드, 59억 5000만 달러 규모 보다폰 지분 매각 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260713041002",
+      "published": "2026-07-12T19:10:02+00:00",
+      "summary": "[지디넷코리아] 아부다비, 아랍에미리트, 2026년 7월 12일 /PRNewswire/ -- 에미리트 통신 그룹(Emirates Telecommunications Group Company PJSC, 이하 '이앤드')이 국제 투자 포트폴리오에 대한 종합적인 전략 검토를 거쳐 보다폰 그룹(Vodafone Group PLC, 이하 '보다폰')과 체결한 관계 협약(Relationship Agreement)을 종료한다고 발표했다. 이에 따라 이앤드의 이사회 대표도 보다폰의 비상임 이사직에서 사임했다. e&"
+    },
+    {
+      "id": "4e831c47eb41",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "published": "2026-07-12T18:25:51+00:00",
+      "summary": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode. This was the initial anecdotal evidence, but we un"
+    },
+    {
+      "id": "5edc2766355d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중부발전, 유니슨과 고창해상풍력 발전사업 ‘맞손’",
+      "link": "https://zdnet.co.kr/view/?no=20260713025148",
+      "published": "2026-07-12T17:51:48+00:00",
+      "summary": "[지디넷코리아]한국중부발전(사장 이영조)는 풍력터빈 제조업체인 유니슨과 ‘해상풍력 발전단지 운영 및 유지보수 협력을 위한 업무협약’을 체결했다.중부발전과 유니슨은 협약에 따라 해상풍력 발전사업의 안정적인 추진을 위한 발전단지 운영과 유지보수 계획 수립, 기술 교류, 전문 인력 양성 등의 분야에서 협력하기로 했다.중부발전은 2024년 제주 한림 해상풍력(100MW) 준공·운영에 이어 올해 신안우이 해상풍력(390MW) 등 대규모 사업 추진 과정에서 축적한 사업개발과 운영 노하우를 공유한다. 유니슨은"
+    },
     {
       "id": "d20381ad7ac4",
       "source": "The Verge",
@@ -394,6 +449,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "오픈서베이, '합성 소비자' 대화 기능 도입...“비용 줄이고 타깃 분석 정밀”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212677",
+      "published": "2026-07-12T02:55:33+00:00",
+      "summary": "AI 리서치 테크 전문 오픈서베이(대표 황희영)는 컨슈머 인텔리전스 플랫폼 ‘데이터스페이스(Dataspace)’에 AI 기술로 구현한 ‘합성 소비자와 대화 기능’을 도입했다고 12일 밝혔다.실제 소비자의 디지털 트윈을 구축하고 이를 통해 설문을 진행하려는 시도는 미국에서 몇년 전부터 시작됐다. 이에 대해 오픈서베이 관계자는 \"국내에도 합성 응답을 활용하려는 시도는 있지만, 자체적으로 보유한 대규모 소비자 응답 데이터를 바탕으로 합성 소비자를 생성하고 대화까지 지원하는 형태까지는 아직 없는 것으로 "
+    },
+    {
+      "id": "dcca5bab80cf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈서베이, '합성 소비자' 기능 도입...“비용 줄이고 정밀 타깃 분석”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212677",
       "published": "2026-07-12T02:55:33+00:00",
       "summary": "AI 리서치 테크 전문 오픈서베이(대표 황희영)는 컨슈머 인텔리전스 플랫폼 ‘데이터스페이스(Dataspace)’에 AI 기술로 구현한 ‘합성 소비자와 대화 기능’을 도입했다고 12일 밝혔다.실제 소비자의 디지털 트윈을 구축하고 이를 통해 설문을 진행하려는 시도는 미국에서 몇년 전부터 시작됐다. 이에 대해 오픈서베이 관계자는 \"국내에도 합성 응답을 활용하려는 시도는 있지만, 자체적으로 보유한 대규모 소비자 응답 데이터를 바탕으로 합성 소비자를 생성하고 대화까지 지원하는 형태까지는 아직 없는 것으로 "
