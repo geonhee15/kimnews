@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-12T15:16:38.815086+00:00",
-  "count": 5304,
+  "updated_at": "2026-07-12T16:26:44.412253+00:00",
+  "count": 5309,
   "items": [
+    {
+      "id": "b3aaa95763ac",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "published": "2026-07-12T16:07:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+    },
+    {
+      "id": "6e31c3111598",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "New AI Just Reinvented Minecraft Worlds",
+      "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "published": "2026-07-12T15:48:43+00:00",
+      "summary": ""
+    },
     {
       "id": "e8af39efb97e",
       "source": "The Verge",
@@ -34,6 +56,17 @@
       "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "published": "2026-07-12T12:00:00+00:00",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before"
+    },
+    {
+      "id": "e979d85f1ef5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "published": "2026-07-12T11:09:42+00:00",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=48880170 Points: 243 # Comments: 62"
     },
     {
       "id": "0d5401e9dc81",
@@ -2245,6 +2278,17 @@
       "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "published": "2026-07-10T00:16:54+00:00",
       "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
+    },
+    {
+      "id": "8ad8f847db4c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Vint Cerf, a “father of the Internet”, is retiring",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "published": "2026-07-10T00:06:59+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/ Comments URL: https://news.ycombinator.com/item?id=48854168 Points: 221 # Comments: 127"
     },
     {
       "id": "2cd06eacd679",
@@ -5446,6 +5490,17 @@
       "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
       "published": "2026-07-07T21:30:00+00:00",
       "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial."
+    },
+    {
+      "id": "245787d4be4a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "An agent in 100 lines of Lisp",
+      "link": "https://thebeach.dev/posts/lisp-agent/",
+      "published": "2026-07-07T21:21:09+00:00",
+      "summary": "Article URL: https://thebeach.dev/posts/lisp-agent/ Comments URL: https://news.ycombinator.com/item?id=48823981 Points: 209 # Comments: 61"
     },
     {
       "id": "d039328e5ba6",
