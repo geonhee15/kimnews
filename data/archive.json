@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-12T06:28:46.810668+00:00",
-  "count": 5287,
+  "updated_at": "2026-07-12T08:39:19.577588+00:00",
+  "count": 5291,
   "items": [
+    {
+      "id": "f224c3bbdd22",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중기부 \"전국 어디서나 아이디어 보호 상담\"",
+      "link": "https://zdnet.co.kr/view/?no=20260712154335",
+      "published": "2026-07-12T06:43:35+00:00",
+      "summary": "[지디넷코리아]중소벤처기업부(중기부)는 '모두의 창업 프로젝트' 진출자와 아이디어 보호를 희망하는 예비창업자 및 창업기업을 대상으로 전국 17개 시·도에서 '아이디어 컨설팅 데이'를 개최한다. 세부 일정은 창업지원포털의 공지사항에서 확인할 수 있다.이번 지역별 '아이디어 컨설팅 데이'는 스타트업 원스톱 지원센터의 창업 지원 프로그램의 일환으로 마련했다. '스타트업 원스톱 지원센터'는 지난해 12월 개소 이후 7개월 간 예비창업자 및 창업기업의 애로를 약 1만 5000건 해소했다. 창업 과정에서 발"
+    },
+    {
+      "id": "4685fc7820c7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국, 해저케이블 기술도 수출한다",
+      "link": "https://zdnet.co.kr/view/?no=20260712141546",
+      "published": "2026-07-12T05:15:46+00:00",
+      "summary": "[지디넷코리아]중국이 자체 개발한 해저케이블 탐지 기술로 동남아시아와 중동, 유럽 시장 공략에 나선다. 해저케이블 설치와 운영, 유지보수 분야에서 글로벌 영향력을 넓히는 전략이다.라이트리딩닷컴에 따르면 중국 과학기술일보는 최근 다롄교통대학교 연구진이 해저케이블 위치를 탐지하고 매설까지 수행할 수 있는 차세대 수중 로봇을 개발했다.이 로봇은 음파탐지기와 전자기 센서를 결합한 이중 탐지 시스템을 적용해 케이블의 정확한 경로를 추적할 수 있다. 연구진은 시스템의 위치 오차를 5% 미만이라고 설명했다.연"
+    },
     {
       "id": "b0815b76fecd",
       "source": "ZDNet Korea",
@@ -355,6 +377,17 @@
       "summary": "[지디넷코리아]프랑스 통신사 '일리아드' 창립자 자비엘 니엘이 영국 보다폰 최대 주주가 된다.10일(현지시간) 로이터는 니엘 가문이 전액 출자한 인수법인 '베가'가 아랍에미리트(UAE) 통신그룹 E&의 보다폰 지분 16.2%를 약 44억 파운드(약 8조원 8817억원)에 인수하는 계약을 체결했다고 보도했다.계약 승인이 이루어지면 베가는 보다폰의 최대 주주가 된다. 승인은 올해 연말 이루어질 것으로 예상된다.니엘은 프랑스 통신사 '일리아드' 창립자로, 니엘 가문 그룹은 유럽 통신 분야 최대 민간 투"
     },
     {
+      "id": "e02dd5872f42",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "link": "https://www.iroh.computer/blog/mesh-llm",
+      "published": "2026-07-11T22:38:57+00:00",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 236 # Comments: 51"
+    },
+    {
       "id": "8edf70ed54f0",
       "source": "Hacker News",
       "kind": "article",
@@ -386,6 +419,17 @@
       "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "published": "2026-07-11T17:03:23+00:00",
       "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey Comments URL: https://news.ycombinator.com/item?id=48873692 Points: 213 # Comments: 76"
+    },
+    {
+      "id": "f16dcd0005af",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "published": "2026-07-11T15:28:02+00:00",
+      "summary": "Article URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres Comments URL: https://news.ycombinator.com/item?id=48872874 Points: 204 # Comments: 44"
     },
     {
       "id": "8796cdb40b37",
