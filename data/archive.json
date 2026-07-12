@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-12T03:55:28.138059+00:00",
-  "count": 5276,
+  "updated_at": "2026-07-12T06:28:46.810668+00:00",
+  "count": 5287,
   "items": [
+    {
+      "id": "b0815b76fecd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 최태원 회장이 밝히는 美 나스닥 ADR 상장 이후 청사진은",
+      "link": "https://zdnet.co.kr/view/?no=20260712130850",
+      "published": "2026-07-12T04:08:50+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]최태원 SK 회장이 오늘 밤 11시 글로벌 기술산업 분석가 다니엘 뉴먼 퓨"
+    },
+    {
+      "id": "0620ca3a8dda",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코스포 \"한국에 정말 글로벌 유니콘 있나\"",
+      "link": "https://zdnet.co.kr/view/?no=20260712125831",
+      "published": "2026-07-12T03:58:31+00:00",
+      "summary": "[지디넷코리아]\"국내 최초 음원 스트리밍 서비스 멜론은 스포티파이보다 4년 먼저 출시됐지만 현재 월간 이용자 수(MAU)는 약 620만명으로 7억6100만명의 스포티파이와 122배 차이가 벌어졌다.왓츠앱과 불과 7개월 차이로 출발한 카카오톡은 해외 이용자가 500만명에 그친 반면 왓츠앱은 30억명이 사용하는 글로벌 플랫폼으로 성장했다.\"최지영 코리아스타트업포럼(코스포, 의장 김재원)은 10일 국회 연구단체 'AI와 우리의 미래'(공동대표 김건·최보윤·최수진 의원, 연구책임의원 박충권 의원)와 국회"
+    },
+    {
+      "id": "c56a7b04f6ab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 행정부, 중국산 오픈소스 AI 규제 '행정명령' 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212674",
+      "published": "2026-07-12T03:57:09+00:00",
+      "summary": "미국 트럼프 행정부가 중국산 오픈소스 AI 모델의 급속한 성장에 대응하기 위한 정책 검토에 착수한 것으로 알려졌다. 아직 초기 논의 단계이지만, 중국 기업이 개발한 오픈소스 AI 모델의 정부 사용을 제한하는 행정명령 가능성까지 거론되고 있다.폴리티코는 10일(현지시간) 복수 관계자를 인용, 트럼프 행정부 관계자들이 기존 미국 정책으로는 충분히 대응하기 어려운 보안 위험을 초래할 수 있는 오픈소스 AI를 어떻게 규제할지 논의를 진행하고 있다고 보도했다.이는 중국 오픈소스 AI 모델이 가격 경쟁력과 "
+    },
+    {
+      "id": "cbc749f9d752",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MS, 타입스크립트 7.0 출시…전체 빌드 성능 8~12배 향상",
+      "link": "https://zdnet.co.kr/view/?no=20260712051747",
+      "published": "2026-07-12T03:49:26+00:00",
+      "summary": "[지디넷코리아]마이크로소프트가 프로그래밍 언어 타입스크립트(Typescript)의 차세대 버전인 '타입스크립트 7.0'을 공식 출시했다. 기존 자바스크립트 기반 구현을 Go 언어로 네이티브 포팅해 전체 빌드 성능을 기존 대비 8~12배 향상시킨 것이 핵심이다.12일 다니엘 로젠워서 마이크로소프트 수석 제품관리자는 \"타입스크립트 7은 네이티브 코드 속도와 공유 메모리 기반 멀티스레드 기술을 활용해 개발 생산성을 크게 높였다\"고 공식 블로그를 통해 밝혔다.타입스크립트는 자바스크립트에 정적 타입 시스템"
+    },
+    {
+      "id": "34f102b331b9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스포티파이 AI 음악에 'AI 생성' 표시 붙나…음악업계 투명성 요구",
+      "link": "https://zdnet.co.kr/view/?no=20260712105504",
+      "published": "2026-07-12T03:47:32+00:00",
+      "summary": "[지디넷코리아]음악업계가 인공지능(AI) 기술 자체를 막는 대신, AI가 활용된 음악임을 소비자에게 명확히 알리는 방향으로 대응 전략을 바꾸고 있다.11일(현지시간) 월스트리트저널(WSJ) 등에 따르면 미국음반산업협회(RIAA)와 국제음반산업협회(IFPI)는 스포티파이와 애플뮤직 등 음악 스트리밍 서비스에 AI 활용 여부를 표시하는 라벨 도입을 제안했다.이는 AI로 만든 음악이 사람의 창작물과 구별하기 어려울 정도로 정교해지면서, 청취자가 어떤 방식으로 제작된 음악인지 알 권리가 있다는 판단에 따"
+    },
+    {
+      "id": "27f4727eaff6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "유비소프트 신작 '어쌔신 크리드', 출시 초반 동접자 10만명 근접",
+      "link": "https://zdnet.co.kr/view/?no=20260712115830",
+      "published": "2026-07-12T03:44:55+00:00",
+      "summary": "[지디넷코리아]유비소프트의 대형 신작 '어쌔신 크리드 블랙 플래그 리싱크드'가 출시 초반부터 글로벌 이용자들을 사로잡으며 흥행세를 이어가고 있다.12일 스팀 데이터베이스에 따르면 이번 신작은 스팀 플랫폼에서 최고 동시 접속자 수 9만 9451명을 기록했다. 개발팀은 공지를 통해 출시 당일(7월10일) 기준 200만장 판매 소식을 전하며 순조로운 출발을 알렸다.'어쌔신 크리드 블랙 플래그 리싱크드'는 2013년작 '어쌔신 크리드 4 블랙 플래그'를 리메이크한 작품이다. 유비소프트 싱가포르가 개발을 "
+    },
+    {
+      "id": "1e1582564be1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서클, 美 국가 신탁은행 승인…기관 대상 수탁 서비스 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260712105312",
+      "published": "2026-07-12T03:44:08+00:00",
+      "summary": "[지디넷코리아]USDC 발행사 서클이 미국 통화감독청(OCC)으로부터 국가 신탁은행 설립에 대한 최종 승인을 받았다고 가상자산 전문 매체 코인데스크가 10일(현지시간) 보도했다. 이번 승인으로 서클은 ‘서클 내셔널 트러스트(Circle National Trust)’를 설립하게 된다. 이를 통해 연방 규제를 받는 신탁기관을 운영하고 디지털자산 수탁 인프라를 확대할 수 있게 됐다. 초기에는 서클과 계열사를 대상으로 서비스를 제공하며, 향후에는 은행과 기타 기관 고객을 위한 디지털자산 수탁 서비스로 사"
+    },
+    {
+      "id": "9525e01e6acd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "레드햇, RHEL 지원기간 사실상 무기한 연장…'롱라이프 애드온' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260712115630",
+      "published": "2026-07-12T03:43:42+00:00",
+      "summary": "[지디넷코리아]레드햇이 장기간 안정성이 필요한 기업 고객을 대상으로 레드햇 엔터프라이즈 리눅스(RHEL) 무기한 지원을 제공한다.12일 레드햇은 RHEL 롱라이프 애드온을 선보인다고 공식 홈페이지를 통해 밝혔다.롱라이프 애드온은 사전 확정된 종료 시점 없이 RHEL 지원을 연장할 수 있도록 지원하는 연간 단위의 선택형 유지보수 서비스다.기업은 이를 통해 벤더의 정해진 업그레이드 일정에 맞춰 인프라를 강제로 전환해야 하는 부담을 줄이고 자체적인 기술·규제·사업 일정에 따라 시스템 수명주기를 운영할 "
+    },
+    {
+      "id": "9e78bb3a0a4d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오염 식품 공급 민원에…印, 스위기 인스타마트에 시정 명령",
+      "link": "https://zdnet.co.kr/view/?no=20260712094502",
+      "published": "2026-07-12T03:42:51+00:00",
+      "summary": "[지디넷코리아]인도 식품 안전 규제당국이 소비자들로부터 유통기한이 지난 식품과 변질·오염된 식품을 공급했다는 민원이 제기되자 스위기의 퀵커머스 사업부인 인스타마트에 9건의 시정 통지서를 발부했다.11일(현지시간) 블룸버그 등 외신에 따르면 인도 식품안전기준청(FSSAI)은 사회관계망서비스(SNS)를 통해 플랫폼에서 판매된 일부 계란 브랜드 등 일부 제품 유통기한이 지났거나 부패됐으며, 사람이 섭취하기에 부적합할 가능성이 확인됐다고 밝혔다.FSSAI는 일부 민원에서 신고가 접수되거나 상급 기관으로 "
+    },
     {
       "id": "38a534cd7fe9",
       "source": "AI타임스",
@@ -157,6 +256,17 @@
       "summary": "[지디넷코리아]1. 기(起): 불을 훔친 자의 고독, 혹은 책임의 원점인류는 오래전부터 창조의 욕망과 그 대가를 신화의 언어로 서사해 왔다. 그리스 신화에서 프로메테우스는 제우스로부터 불을 훔쳐 인간에게 건넸다. 제우스는 이 행위에 분노해 프로메테우스를 코카서스 산의 바위에 쇠사슬로 묶고 독수리가 날마다 그의 간을 파먹게 하는 형벌을 내렸다(Hesiod, 1988).그러나 보다 근원적인 물음은 프로메테우스가 인간에게 불과 함께 무엇을 해방시켰는가에 있다. 불은 도구이되 그것을 받은 인간이 어떤 용"
     },
     {
+      "id": "714d5cb84d45",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "published": "2026-07-12T01:09:50+00:00",
+      "summary": "Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547 Comments URL: https://news.ycombinator.com/item?id=48877371 Points: 225 # Comments: 110"
+    },
+    {
       "id": "28c345f2073e",
       "source": "AI타임스",
       "kind": "article",
@@ -254,6 +364,17 @@
       "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
       "published": "2026-07-11T17:33:55+00:00",
       "summary": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48873940 Points: 236 # Comments: 117"
+    },
+    {
+      "id": "b517c56273a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "published": "2026-07-11T17:21:49+00:00",
+      "summary": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 219 # Comments: 71"
     },
     {
       "id": "d5181d836346",
