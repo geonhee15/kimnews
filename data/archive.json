@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-12T08:39:19.577588+00:00",
-  "count": 5291,
+  "updated_at": "2026-07-12T10:13:50.594577+00:00",
+  "count": 5295,
   "items": [
+    {
+      "id": "3fa2d38cfe4a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "published": "2026-07-12T10:00:00+00:00",
+      "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases."
+    },
+    {
+      "id": "edf6909f4e7b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"오픈AI 의존도 낮춘다더니\"...MS가 'GPT-5.6'을 권장 모델로 채택한 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212678",
+      "published": "2026-07-12T09:25:43+00:00",
+      "summary": "마이크로소프트(MS)가 오픈AI나 앤트로픽 모델의 의존도를 줄이기 위해 자체 MAI 모델을 제품군에 투입했다는 소식이 전해진 가운데, 오픈AI가 최신 모델 'GPT-5.6'이 MS 365 코파일럿의 권장 모델(Preferred Model) 로 채택됐다고 발표했다. 언뜻 상반되는 이야기처럼 보이지만, 이는 작업의 성격에 따라 서로 다른 AI 모델을 활용하는 '멀티모델 라우팅' 전략으로 해석되고 있다.오픈AI는 9일(현지시간) GPT-5.6 정식 서비스를 시작하며 별도로 \"GPT-5.6은 이제 MS "
+    },
+    {
+      "id": "d9936f742ea3",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - GPT-5.6, GPT‑Live, Work, Grok 4.5, Muse Spark 1.1, Lingbot-World-2, Google 커스텀 URL 등",
+      "link": "https://www.youtube.com/watch?v=Xxuv8AkPS4Y",
+      "published": "2026-07-12T09:03:45+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d79a4ec5e21b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI \"GPT-5.6 솔 울트라, 50년 수학 난제 1시간 만에 증명\"",
+      "link": "https://zdnet.co.kr/view/?no=20260712163409",
+      "published": "2026-07-12T07:58:55+00:00",
+      "summary": "[지디넷코리아]오픈AI가 최신 인공지능(AI) 모델 GPT-5.6 솔 울트라(Sol Ultra)가 그래프 이론 분야의 50년 난제를 1시간 만에 증명했다고 주장하며 수학계의 관심이 쏠리고 있다.12일 에단 나이트 오픈AI 연구원은 소셜 플랫폼 엑스(X)를 통해 GPT-5.6 솔 울트라가 그래프 이론 분야의 대표적 미해결 문제인 '사이클 더블 커버 추측(Cycle Double Cover Conjecture)'을 증명한 논문과 프롬프트를 공개했다고 밝혔다.사이클 더블 커버 추측은 1973년 조지 세케"
+    },
     {
       "id": "f224c3bbdd22",
       "source": "ZDNet Korea",
