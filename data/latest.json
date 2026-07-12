@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-07-13",
-  "generated_at": "2026-07-12T16:26:44.381887+00:00",
-  "count": 2,
+  "generated_at": "2026-07-12T17:32:33.169468+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "d20381ad7ac4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. Whi",
+      "content": "The company is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM.\n\nThe Neural Engine made its debut with the iPhone X and the A11 Bionic . In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and augmented reality features. But by laying the groundwork for on-device AI processing, Apple established itself as an early leader by bringing the Neural Engine to desktops with the M-series chips . While Apple’s AI software efforts have lagged behind the rest of the industry, its hardware has been impressive. It’s also what has allowed Apple to tout its privacy features, since less data is sent to the cloud.\n\nApple is making its AI hardware a cornerstone of its strategy going forward. According to Gurman, the company is skipping the Pro, Max, and Ultra versions of its upcoming M6 chip. Instead, it’s accelerating development of the M7, which should arrive in the first half of 2027 with significant Neural Engine upgrades. The M7 Ultra is expected to be the basis for a new server product from Apple as well, with support for up to 1.5TB of RAM.\n\nThis is the title for the native ad",
+      "published": "2026-07-12T16:27:06+00:00"
+    },
     {
       "id": "b3aaa95763ac",
       "source": "TechCrunch",
@@ -16,12 +28,12 @@
       "published": "2026-07-12T16:07:00+00:00"
     },
     {
-      "id": "6e31c3111598",
+      "id": "ef4ba4750081",
       "source": "Two Minute Papers",
       "kind": "youtube",
       "category": "AI",
       "lang": "en",
-      "title": "New AI Just Reinvented Minecraft Worlds",
+      "title": "Minecraft Was Missing One Brilliant Idea",
       "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
       "summary": "",
       "published": "2026-07-12T15:48:43+00:00"
