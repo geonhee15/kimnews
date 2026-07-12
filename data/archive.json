@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-12T11:32:23.209137+00:00",
-  "count": 5297,
+  "updated_at": "2026-07-12T12:36:21.716055+00:00",
+  "count": 5300,
   "items": [
+    {
+      "id": "1e2efb8d2879",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "Cloudflare에 꽂혔더니 역대급 AI 에이전트 만들었음 ⭐",
+      "link": "https://www.youtube.com/watch?v=wQDHSDvgU54",
+      "published": "2026-07-12T12:15:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "684ce8a8089a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "published": "2026-07-12T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before"
+    },
     {
       "id": "0d5401e9dc81",
       "source": "Wired",
@@ -474,6 +496,17 @@
       "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "published": "2026-07-11T17:03:23+00:00",
       "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey Comments URL: https://news.ycombinator.com/item?id=48873692 Points: 213 # Comments: 76"
+    },
+    {
+      "id": "f4166d14c88c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "link": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "published": "2026-07-11T16:33:42+00:00",
+      "summary": "Article URL: https://timeseriesofindia.com/economy/reads/upi-architecture/ Comments URL: https://news.ycombinator.com/item?id=48873457 Points: 207 # Comments: 92"
     },
     {
       "id": "d2e62f3e1d67",
