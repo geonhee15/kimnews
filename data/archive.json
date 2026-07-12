@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T18:36:51.735449+00:00",
-  "count": 5314,
+  "updated_at": "2026-07-12T19:49:52.457797+00:00",
+  "count": 5315,
   "items": [
     {
       "id": "d20381ad7ac4",
@@ -155,6 +155,17 @@
       "link": "https://www.youtube.com/watch?v=Xxuv8AkPS4Y",
       "published": "2026-07-12T09:03:45+00:00",
       "summary": ""
+    },
+    {
+      "id": "1d9a52e2c943",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "link": "https://dakra.github.io/ghostel/",
+      "published": "2026-07-12T08:52:59+00:00",
+      "summary": "Article URL: https://dakra.github.io/ghostel/ Comments URL: https://news.ycombinator.com/item?id=48879504 Points: 236 # Comments: 39"
     },
     {
       "id": "d79a4ec5e21b",
