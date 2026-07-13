@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-13T19:47:55.759183+00:00",
-  "count": 5438,
+  "updated_at": "2026-07-13T20:53:43.532199+00:00",
+  "count": 5441,
   "items": [
+    {
+      "id": "3358a6e3d6f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "published": "2026-07-13T20:00:17+00:00",
+      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI."
+    },
+    {
+      "id": "75c9ca44884e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "published": "2026-07-13T19:17:51+00:00",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets."
+    },
     {
       "id": "0e3d12ddb03b",
       "source": "TechCrunch",
@@ -122,6 +144,17 @@
       "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
       "published": "2026-07-13T16:05:03+00:00",
       "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\""
+    },
+    {
+      "id": "d14c6ed6bc54",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "최태원 \"AI는 안보 문제…정부 지속 투자해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260714003534",
+      "published": "2026-07-13T15:59:19+00:00",
+      "summary": "[지디넷코리아]최태원 SK그룹 회장이 \"범용인공지능(AGI) 시대가 올 때까지 정부가 지속 투자해야 한다\"고 밝혔다. 13일(한국시간) 밤 방송된 미국 '더 식스 파이브(The Six Five)' 프로그램에서 진행자 다니엘 뉴먼 퓨처럼그룹 대표가 '메모리 반도체 사이클이 언제까지 지속될 것으로 보느냐'고 묻자, 최 회장은 \"이건 사이클 문제가 아니다\"라며 \"설령 경제나 금융이 투자를 뒷받침하지 못하더라도 완벽한 AI를 볼 때까지 이 사이클을 유지해야 하고, 계속 (자금을) 쏟아부어야 한다\"고 답했"
     },
     {
       "id": "3bca7a1fe66b",
