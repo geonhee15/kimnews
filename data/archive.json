@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-13T16:12:32.201494+00:00",
-  "count": 5422,
+  "updated_at": "2026-07-13T18:07:59.944911+00:00",
+  "count": 5433,
   "items": [
+    {
+      "id": "8316a86cf4d2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+      "published": "2026-07-13T17:18:25+00:00",
+      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty."
+    },
+    {
+      "id": "bf94d6c3eb2b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla Says It’s Building a Wheelchair-Accessible Robotaxi",
+      "link": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/",
+      "published": "2026-07-13T17:15:35+00:00",
+      "summary": "A Tesla representative at a DC hearing said the vehicle is “an active product being built.” But its timeline isn’t clear."
+    },
+    {
+      "id": "062f05bde147",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "published": "2026-07-13T17:00:14+00:00",
+      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences."
+    },
+    {
+      "id": "7bff059377c1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "published": "2026-07-13T17:00:00+00:00",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses Open"
+    },
+    {
+      "id": "0af67d007825",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "published": "2026-07-13T16:31:23+00:00",
+      "summary": "What does a world of total user-aligned AI actually look like?"
+    },
     {
       "id": "269349a9f02a",
       "source": "Wired",
@@ -14,6 +69,28 @@
       "summary": "From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away."
     },
     {
+      "id": "948bd5d95611",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
+      "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+      "published": "2026-07-13T16:05:03+00:00",
+      "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\""
+    },
+    {
+      "id": "3bca7a1fe66b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DOGE is done. What happened to its records?",
+      "link": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
+      "published": "2026-07-13T15:56:39+00:00",
+      "summary": "Article URL: https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia Comments URL: https://news.ycombinator.com/item?id=48894641 Points: 227 # Comments: 177"
+    },
+    {
       "id": "1f164a6fb5d3",
       "source": "TechCrunch",
       "kind": "article",
@@ -23,6 +100,28 @@
       "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
       "published": "2026-07-13T15:34:59+00:00",
       "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
+    },
+    {
+      "id": "9560e8a106b5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "published": "2026-07-13T15:11:50+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/ Comments URL: https://news.ycombinator.com/item?id=48893947 Points: 212 # Comments: 127"
+    },
+    {
+      "id": "5d422bedc62e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "published": "2026-07-13T15:06:34+00:00",
+      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm."
     },
     {
       "id": "d72c2eed1749",
@@ -144,6 +243,17 @@
       "link": "https://jivx.com/densha",
       "published": "2026-07-13T11:18:30+00:00",
       "summary": "Article URL: https://jivx.com/densha Comments URL: https://news.ycombinator.com/item?id=48890959 Points: 204 # Comments: 22"
+    },
+    {
+      "id": "d86f5f840f4c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Simulating everything, sort of: The promise and limits of world models",
+      "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "published": "2026-07-13T11:00:51+00:00",
+      "summary": "Experts explain how they work, what they can do, and what's still unsettled."
     },
     {
       "id": "3ff2b4ac1d83",
@@ -529,6 +639,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212702",
       "published": "2026-07-13T06:28:54+00:00",
       "summary": "오픈AI가 가족과 보호자, 노년층을 위한 AI 서비스 개발에 나서며 개인용 생산성 도구를 넘어 '가정용 AI(Household AI)' 시장 공략에 속도를 낸다. '챗GPT' 이용자층이 빠르게 고령화되는 가운데, 가족 구성원 모두가 함께 사용하는 AI 플랫폼으로 진화하기 위한 전략이라는 분석이다.10일(현지시간) 테크크런치에 따르면, 최근 오픈AI는 미국 샌프란시스코에서 근무할 '가족 담당 제품 관리자(Product Manager, Families)' 채용을 시작했다.채용 공고에 따르면 이 직무는"
+    },
+    {
+      "id": "ff71c9715b42",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Backtrack-Free Cursive",
+      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "published": "2026-07-13T06:08:12+00:00",
+      "summary": "Article URL: https://mmapped.blog/posts/52-backtrack-free-cursive Comments URL: https://news.ycombinator.com/item?id=48888518 Points: 221 # Comments: 99"
     },
     {
       "id": "7abbed64bd51",
