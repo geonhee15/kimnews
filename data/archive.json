@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-13T20:53:43.532199+00:00",
-  "count": 5441,
+  "updated_at": "2026-07-13T21:52:11.600807+00:00",
+  "count": 5450,
   "items": [
+    {
+      "id": "3530b5958bf3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OnePlus is reportedly bailing on the US",
+      "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+      "published": "2026-07-13T21:48:43+00:00",
+      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors about"
+    },
+    {
+      "id": "4ebeb5080d52",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Siri AI Is Becoming Apple’s Everything Tool",
+      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "published": "2026-07-13T21:39:09+00:00",
+      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta."
+    },
+    {
+      "id": "7922651303e7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "published": "2026-07-13T20:59:00+00:00",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses."
+    },
+    {
+      "id": "7b4c40b9ec5e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Pixel colors might rule this year",
+      "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+      "published": "2026-07-13T20:52:27+00:00",
+      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus), vibrant green Moss (Pistachio), and Midnight "
+    },
+    {
+      "id": "7f1cd900d4f6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s public betas for iOS 27 and more are out now",
+      "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+      "published": "2026-07-13T20:45:40+00:00",
+      "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other be"
+    },
+    {
+      "id": "967eb7fc5b7d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+      "published": "2026-07-13T20:44:20+00:00",
+      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I ge"
+    },
+    {
+      "id": "dec709fc7adb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Siri AI is already changing how I use my iPhone",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "published": "2026-07-13T20:43:20+00:00",
+      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might c"
+    },
+    {
+      "id": "20f73c8b8111",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+      "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+      "published": "2026-07-13T20:43:15+00:00",
+      "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on"
+    },
     {
       "id": "3358a6e3d6f5",
       "source": "TechCrunch",
@@ -12,6 +100,17 @@
       "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
       "published": "2026-07-13T20:00:17+00:00",
       "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI."
+    },
+    {
+      "id": "1e52b929b6af",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "published": "2026-07-13T19:57:55+00:00",
+      "summary": "Article URL: https://werd.io/climate-gov-was-destroyed-open-data-saved-it/ Comments URL: https://news.ycombinator.com/item?id=48897945 Points: 253 # Comments: 106"
     },
     {
       "id": "75c9ca44884e",
