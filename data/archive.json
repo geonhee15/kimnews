@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-13T22:51:55.951984+00:00",
-  "count": 5453,
+  "updated_at": "2026-07-13T23:49:56.191484+00:00",
+  "count": 5457,
   "items": [
+    {
+      "id": "1bd9596fdce0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "published": "2026-07-13T23:31:18+00:00",
+      "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors."
+    },
     {
       "id": "dc7e0e8ed619",
       "source": "AI타임스",
@@ -113,6 +124,17 @@
       "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on"
     },
     {
+      "id": "c3e8b7dbe448",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "link": "https://neow.in/cWsyMTV3",
+      "published": "2026-07-13T20:01:43+00:00",
+      "summary": "Article URL: https://neow.in/cWsyMTV3 Comments URL: https://news.ycombinator.com/item?id=48897991 Points: 216 # Comments: 58"
+    },
+    {
       "id": "3358a6e3d6f5",
       "source": "TechCrunch",
       "kind": "article",
@@ -155,6 +177,17 @@
       "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "published": "2026-07-13T18:22:16+00:00",
       "summary": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/ Comments URL: https://news.ycombinator.com/item?id=48896665 Points: 200 # Comments: 89"
+    },
+    {
+      "id": "7c27e2e24c3d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "published": "2026-07-13T18:22:16+00:00",
+      "summary": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/ Comments URL: https://news.ycombinator.com/item?id=48896665 Points: 242 # Comments: 112"
     },
     {
       "id": "0e3d12ddb03b",
@@ -342,6 +375,17 @@
       "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
       "published": "2026-07-13T15:00:00+00:00",
       "summary": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia. Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is als"
+    },
+    {
+      "id": "1b0763def928",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "link": "https://fabiensanglard.net/silpheed/index.html",
+      "published": "2026-07-13T14:52:33+00:00",
+      "summary": "Article URL: https://fabiensanglard.net/silpheed/index.html Comments URL: https://news.ycombinator.com/item?id=48893639 Points: 202 # Comments: 39"
     },
     {
       "id": "e4c57e9daea2",
