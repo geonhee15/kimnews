@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-13T11:29:15.068929+00:00",
-  "count": 5400,
+  "updated_at": "2026-07-13T13:34:49.109886+00:00",
+  "count": 5416,
   "items": [
+    {
+      "id": "86fb6929b45e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - GPT-5.6, GPT‑Live, Work, Grok 4.5, Muse Spark 1.1, Lingbot-World-2, Google 커스텀 URL 등",
+      "link": "https://www.youtube.com/watch?v=bnxXaSwtCfw",
+      "published": "2026-07-13T13:00:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7f06647cb633",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "published": "2026-07-13T12:30:00+00:00",
+      "summary": "Washington, D.C. has become a battleground for Uber and Waymo's competing views."
+    },
+    {
+      "id": "db940e036309",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "published": "2026-07-13T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceiv"
+    },
+    {
+      "id": "8f3a6a20b1a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화학연, 엘케이켐에 페로브스카이트 탠덤 소재 기술이전",
+      "link": "https://zdnet.co.kr/view/?no=20260713205709",
+      "published": "2026-07-13T11:57:09+00:00",
+      "summary": "[지디넷코리아]한국화학연구원(KRICT)은 엘케이켐(대표 이창엽)에 고효율 실리콘-페로브스카이트 탠덤(적층형) 태양전지용 소재 조성 및 제조 기술을 이전하는 계약을 체결했다고 13일 밝혔다.이 기술은 실리콘 태양전지 위에 페로브스카이트 박막을 얹는 탠덤 구조의 소재 합성으로 안정성이 향상됐다. 기존 페로브스카이트 탠덤 소재가 빛, 습기, 열 같은 요인에 약해 안정성이 떨어지는 단점을 보완한 기술이다.엘케이켐은 완제품 태양전지의 성능을 좌우하는 핵심 소재를 전문적으로 개발·생산하는 기업이다.이번 기"
+    },
+    {
+      "id": "043ced39c535",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔키화이트햇, '핵테온 2026' 출제·운영 성료",
+      "link": "https://zdnet.co.kr/view/?no=20260713205252",
+      "published": "2026-07-13T11:52:52+00:00",
+      "summary": "[지디넷코리아]오펜시브 보안 전문 기업 엔키화이트햇(대표 이성권)은 지난 9일부터 10일까지 정부세종컨벤션센터에서 열린 ‘2026 핵테온 세종 국제 대학생 사이버보안 경진대회’의 문제 출제 및 대회 운영을 성공적으로 마쳤다고 13일 밝혔다.이번 대회는 국가정보원과 세종시가 공동 주최한 사이버보안 행사로, 47개국 216개 대학에서 548개 팀, 총 1799명이 참여해 역대 최대 규모를 기록했다.엔키화이트햇은 이번 대회 공식 운영사로서 고도화된 실전 해킹 역량이 반영된 문제들을 기획 및 출제했다. "
+    },
+    {
+      "id": "11d7748eda57",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "美 상무부, UAE에 AI칩 무허가 수출 허용…A:5 국가로 격상",
+      "link": "https://zdnet.co.kr/view/?no=20260713201918",
+      "published": "2026-07-13T11:19:18+00:00",
+      "summary": "[지디넷코리아]미국 상무부 산업안보국(BIS)이 7월 10일 아랍에미리트(UAE)를 국가군 A:5로 재분류했다. 첨단 AI칩과 고성능 서버, 상업용 위성, 일부 군수 품목을 개별 허가 없이 수출할 수 있게 된 것이다. 그동안 건별 허가가 필요했던 거래가 통상적인 상거래로 바뀌었다.이번 조치로 인해 무허가 대상 기업 수도 늘었다. UAE 정부와 함께 아부다비의 AI 대기업 G42, 클라우드 자회사 코어42(Core42)가 포함된다. UAE에서 사업하는 미국 기업인 아마존·애플·xAI도 이제 AI칩과"
+    },
+    {
+      "id": "45d644ebfeef",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 페이블5 제공 19일까지 연장",
+      "link": "https://zdnet.co.kr/view/?no=20260713201832",
+      "published": "2026-07-13T11:18:32+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 7월 13일 클로드 페이블 5의 유료 플랜 포함 제공을 7월 19일까지 연장한다고 밝혔다. 프로·맥스·팀과 일부 엔터프라이즈 플랜이 대상이며, 마감은 태평양시간 7월 19일 밤 11시 59분이다. 당초 7월 7일이던 기한을 12일로, 다시 19일로 미룬 세 번째 연장이다.이용 조건은 그대로다. 가입자는 주간 사용 한도의 최대 50%까지 페이블 5를 추가 비용 없이 쓸 수 있다. 따로 신청하거나 활성화할 필요는 없고, 페이블 5는 다른 클로드 모델과 같은 주간 사용량에서 함"
+    },
+    {
+      "id": "3ff2b4ac1d83",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 박물관, 이제 돈 내고 볼까요",
+      "link": "https://zdnet.co.kr/view/?no=20260713100055",
+      "published": "2026-07-13T11:00:03+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 국립박물관 무료 관람 정책이 18년 만에 다시 바뀔 수도 있다는 소식, 들어보셨나요? 정부가 유료화를 재검토하고 있는데요, 전문가들은 이 사안의 위험 점수를 7.5점으로 평가하면서 신중한 접근이 필요하다고 경고하고 있어요. 무작정 밀어붙였다가는 큰 반발에 부딪힐 수 있다는 거죠. 검토 중인 요금은 5천 원 수준으로, 루브르 박물관(5만2천 원)이나 바티칸 박물관(3만5천 원), 뉴욕 MET(3만 원)에 비하면 훨씬 저렴한 편이에요. 하지만 문제는 "
+    },
     {
       "id": "fb1e8072998b",
       "source": "Wired",
@@ -12,6 +100,61 @@
       "link": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
       "published": "2026-07-13T11:00:00+00:00",
       "summary": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language."
+    },
+    {
+      "id": "18d9bec79c53",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "공영홈쇼핑, AI 모델 '공영희·영언니' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260713193122",
+      "published": "2026-07-13T10:35:01+00:00",
+      "summary": "[지디넷코리아]공영홈쇼핑은 공공기관 정체성을 반영한 AI 모델 '공영희'와 '영언니'를 새롭게 선보인다고 13일 밝혔다.'공영희'는 40대 'K-장녀' 콘셉트로 신뢰와 공감을 상징하는 모델이며, '영언니'는 30대 'K-손녀' 콘셉트로 소비자와의 접점을 넓히는 프로모션 모델 역할을 맡는다. 두 모델은 브랜드 필름과 프로모션, 숏폼 콘텐츠, 사회관계망서비스(SNS) 홍보 등에 활용될 예정이다.공영홈쇼핑은 AI 모델 도입을 통해 브랜드 이미지를 일관되게 구축하는 동시에 콘텐츠 제작 비용을 절감하고, "
+    },
+    {
+      "id": "620b7dd33e09",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "시큐웨이브, AI 시대 엔드포인트 운영 전략 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260713192632",
+      "published": "2026-07-13T10:26:32+00:00",
+      "summary": "[지디넷코리아]오픈베이스 자회사이자 팀뷰어(TeamViewer) DEX 국내 총판인 시큐웨이브는 지난 7일 서울 용산구 피스앤파크(로얄파크) 컨벤션에서 열린 'CISO KOREA 2026'에 팀뷰어 코리아와 함께 참가해 AI 기반 엔드포인트 운영 및 디지털 워크플레이스 전략을 소개했다고 13일 밝혔다.한국정보보호최고책임자(CISO)협의회가 주최하고 과학기술정보통신부와 한국인터넷진흥원이 후원한 이번 행사는 'AI 시대의 CISO 실전노트'를 주제로 개최됐다. AI 확산으로 공격 표면이 빠르게 확대되"
+    },
+    {
+      "id": "b2c03b5ab152",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스노우, 첫 AI 톱티어 학회 논문 채택…ECCV 2026 진출",
+      "link": "https://zdnet.co.kr/view/?no=20260713192206",
+      "published": "2026-07-13T10:23:35+00:00",
+      "summary": "[지디넷코리아]스노우가 세계 최고 권위의 컴퓨터 비전 학회인 ECCV 2026에 창사 이래 처음으로 연구 논문을 채택시키며 AI 연구 경쟁력을 입증했다. 올해 처음 도입한 연구인턴 프로그램에서 나온 성과로, AI 헤어스타일 변환 기술의 정확도를 높인 알고리즘을 선보였다.스노우는 컴퓨터 비전 분야 국제 학술대회인 ECCV(European Conference on Computer Vision) 2026에 연구 논문이 채택됐다고 밝혔다.ECCV는 CVPR, ICCV와 함께 컴퓨터 비전 분야 3대 국제 "
+    },
+    {
+      "id": "2cf6e2444a6f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "美 증시 첫날 13% 오른 SK하이닉스, 국내선 15% 급락…왜",
+      "link": "https://zdnet.co.kr/view/?no=20260713135435",
+      "published": "2026-07-13T10:16:12+00:00",
+      "summary": "[지디넷코리아]지난 주말 미국 나스닥에 성공적으로 데뷔한 SK하이닉스 주가가 국내 증시에서는 큰 폭으로 하락해 그 배경에 관심이 쏠리고 있다. 13일 SK하이닉스 주가는 15.37% 하락한 184만 5000원에 장을 마감하면서 약 한 달 만에 최저치를 기록했다. 지난 10일(현지시간) 미국 예탁주식(ADR) 방식으로 나스닥에 도전한 SK하이닉스는 168.01달러에 첫날 거래를 마감하면서 강한 인상을 남겼다. 공모가인 149달러에 비해 12.76% 상승한 양호한 수치였다.반면 미국 상장 이후 첫 국"
+    },
+    {
+      "id": "07b74aeb134c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "닌텐도, 스위치2 'OLED' 출시 검토",
+      "link": "https://zdnet.co.kr/view/?no=20260713182948",
+      "published": "2026-07-13T10:09:15+00:00",
+      "summary": "[지디넷코리아]일본 닌텐도가 하이브리드 게임기 스위치2 시리즈에 유기발광다이오드(OLED) 적용을 검토 중인 것으로 13일 파악됐다. 해당 OLED는 전작 스위치1 OLED처럼 삼성디스플레이가 납품할 가능성이 있다. OLED 적용에 따른 제품 가격 인상폭은 변수다.스위치는 가정용 비디오 게임기와 휴대용 게임기 모두로 활용할 수 있는 하이브리드 게임기다. 가정용 비디오 게임기는 TV에 연결해 즐길 수 있다. 13일 업계 관계자 A는 \"닌텐도가 해상도를 스위치1 OLED 모델의 HD(1280x720)"
     },
     {
       "id": "bc6c24235893",
@@ -322,6 +465,17 @@
       "summary": "오픈AI가 가족과 보호자, 노년층을 위한 AI 서비스 개발에 나서며 개인용 생산성 도구를 넘어 '가정용 AI(Household AI)' 시장 공략에 속도를 낸다. '챗GPT' 이용자층이 빠르게 고령화되는 가운데, 가족 구성원 모두가 함께 사용하는 AI 플랫폼으로 진화하기 위한 전략이라는 분석이다.10일(현지시간) 테크크런치에 따르면, 최근 오픈AI는 미국 샌프란시스코에서 근무할 '가족 담당 제품 관리자(Product Manager, Families)' 채용을 시작했다.채용 공고에 따르면 이 직무는"
     },
     {
+      "id": "7abbed64bd51",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sam Neill has died",
+      "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "published": "2026-07-13T06:02:11+00:00",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78 Comments URL: https://news.ycombinator.com/item?id=48888468 Points: 274 # Comments: 63"
+    },
+    {
       "id": "560230da28e3",
       "source": "AI타임스",
       "kind": "article",
@@ -386,6 +540,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260713143603",
       "published": "2026-07-13T05:36:19+00:00",
       "summary": "[지디넷코리아]오케스트로 클라우드가 모로코 관세청을 대상으로 인공지능(AI)·클라우드 네이티브 전환 노하우를 공유하며 글로벌 공공 디지털 전환 시장 공략을 강화한다. 모로코 관세행정 현대화 컨설팅 사업을 계기로 AI 기반 관세행정과 클라우드 네이티브 전환 전략을 제시하며 해외 공공사업 확대에 속도를 낸다는 목표다.오케스트로 클라우드는 모로코 관세청의 디지털 전환을 담당하는 고위 공무원과 IT 전문가 10명을 초청해 'AI·클라우드 네이티브 기반 관세행정 고도화 연수 프로그램'을 진행했다고 13일 "
+    },
+    {
+      "id": "e9563d2c1a0b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Graph That Should Be Front-Page News",
+      "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "published": "2026-07-13T05:35:27+00:00",
+      "summary": "Article URL: https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news Comments URL: https://news.ycombinator.com/item?id=48888331 Points: 233 # Comments: 147"
     },
     {
       "id": "d629d7986f6c",
@@ -793,6 +958,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260713090951",
       "published": "2026-07-13T00:09:51+00:00",
       "summary": "[지디넷코리아]카카오페이증권이 리테일을 넘어 투자금융(IB)으로 사업영역 확장에 나선다.카카오페이증권은 투자매매업(증권) 인가를 취득했다고 13일 밝혔다.이로써 카카오페이증권은 유가증권 중개를 넘어 직접 상품 인수·매매·판매를 할 수 있게 됐다.그동안 위탁매매(브로커리지)를 중심으로 축적해 온 리테일 사용자 기반을 바탕으로, 자기자본을 활용한 상품인수 공급에 나설 방침이다.특히 기업공개(IPO) 주관 인수 사업이 가능해지면서 신규 사용자 유입, IB·리테일을 연결할 수 있을 것으로 보인다.사용자에"
+    },
+    {
+      "id": "95b14037c58e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "link": "https://shellzine.net/cyberpunk-comics/",
+      "published": "2026-07-12T22:45:31+00:00",
+      "summary": "Article URL: https://shellzine.net/cyberpunk-comics/ Comments URL: https://news.ycombinator.com/item?id=48885643 Points: 239 # Comments: 91"
     },
     {
       "id": "af20c654181a",
