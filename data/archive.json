@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-13T21:52:11.600807+00:00",
-  "count": 5450,
+  "updated_at": "2026-07-13T22:51:55.951984+00:00",
+  "count": 5453,
   "items": [
+    {
+      "id": "dc7e0e8ed619",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월13일] 서울 ICML 화두는 '재귀적 자기 개선'…\"AI 연구자의 정체성 위기\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212694",
+      "published": "2026-07-13T22:00:00+00:00",
+      "summary": "서울 코엑스에서 열린 '국제 머신러닝 컨퍼런스(ICML 2026)'이 11일 막을 내렸습니다. 이번 행사에는 전 세계 AI 연구자와 기업 관계자 2만여명이 참가했으며, 수십여개의 강연과 워크숍, 패널 토크 등이 진행됐습니다. 여기에는 오픈AI와 구글, 메타, 마이크로소프트, 아마존 등 글로벌 빅테크와 LG AI연구원, 네이버 등 국내 기업도 대거 참여했습니다.이런 행사의 핵심 화두를 한 가지로 꼽기는 쉽지 않습니다. 워낙 다양한 분야의 기술들이 다뤄지기 때문입니다. 그리고 현장에서 다뤄지는 실제 "
+    },
+    {
+      "id": "4e320c5cd604",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "published": "2026-07-13T21:53:20+00:00",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks "
+    },
     {
       "id": "3530b5958bf3",
       "source": "The Verge",
@@ -122,6 +144,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
       "published": "2026-07-13T19:17:51+00:00",
       "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets."
+    },
+    {
+      "id": "b3f1f81f53f6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "published": "2026-07-13T18:22:16+00:00",
+      "summary": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/ Comments URL: https://news.ycombinator.com/item?id=48896665 Points: 200 # Comments: 89"
     },
     {
       "id": "0e3d12ddb03b",
