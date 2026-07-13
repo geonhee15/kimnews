@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-13T18:07:59.944911+00:00",
-  "count": 5433,
+  "updated_at": "2026-07-13T19:47:55.759183+00:00",
+  "count": 5438,
   "items": [
+    {
+      "id": "0e3d12ddb03b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "published": "2026-07-13T18:22:10+00:00",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims."
+    },
+    {
+      "id": "339246500333",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
+      "link": "https://www.wired.com/story/what-is-wi-fi-8/",
+      "published": "2026-07-13T18:05:25+00:00",
+      "summary": "Chipset makers and router manufacturers are talking about Wi-Fi 8, but what is the new standard, and when will it arrive?"
+    },
+    {
+      "id": "5ac468313677",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "published": "2026-07-13T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and head"
+    },
     {
       "id": "8316a86cf4d2",
       "source": "Ars Technica",
@@ -67,6 +100,17 @@
       "link": "https://www.wired.com/gallery/gift-for-the-home-chef-2025/",
       "published": "2026-07-13T16:08:23+00:00",
       "summary": "From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away."
+    },
+    {
+      "id": "db86ade1bf8a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "published": "2026-07-13T16:06:08+00:00",
+      "summary": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html Comments URL: https://news.ycombinator.com/item?id=48894752 Points: 274 # Comments: 125"
     },
     {
       "id": "948bd5d95611",
@@ -339,6 +383,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "프롬프트·카르파시 루프 넘어 AI가 연구 방법 바꾸는 '이중 루프' 시대 개막",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212703",
+      "published": "2026-07-13T10:00:45+00:00",
+      "summary": "생성 AI 활용 방식이 단순히 프롬프트를 입력하고 답변을 받는 단계를 넘어, AI가 스스로 실험과 검증을 반복하며 결과를 개선하는 '루프 엔지니어링(Loop Engineering)' 시대로 빠르게 진화하고 있다. 안드레이 카르파시가 공개한 '오토리서치(Autoresearch)'가 자율적인 코드 최적화 가능성을 증명한 데 이어, 최근에는 AI가 연구 방법 자체를 실시간으로 개선하는 '이중 루프' 아키텍처까지 등장해 AI 성능 향상의 새로운 패러다임을 제시하고 있다.목표만 설정하면 AI가 스스로 계획"
+    },
+    {
+      "id": "6dea2d7f5485",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'카르파시 루프' 넘어 '이중 루프' 시대로...AI가 스스로 연구 방법 바꾼다",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212703",
       "published": "2026-07-13T10:00:45+00:00",
       "summary": "생성 AI 활용 방식이 단순히 프롬프트를 입력하고 답변을 받는 단계를 넘어, AI가 스스로 실험과 검증을 반복하며 결과를 개선하는 '루프 엔지니어링(Loop Engineering)' 시대로 빠르게 진화하고 있다. 안드레이 카르파시가 공개한 '오토리서치(Autoresearch)'가 자율적인 코드 최적화 가능성을 증명한 데 이어, 최근에는 AI가 연구 방법 자체를 실시간으로 개선하는 '이중 루프' 아키텍처까지 등장해 AI 성능 향상의 새로운 패러다임을 제시하고 있다.목표만 설정하면 AI가 스스로 계획"
