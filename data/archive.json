@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-07-14T09:16:44.508578+00:00",
-  "count": 5533,
+  "updated_at": "2026-07-14T11:04:45.510661+00:00",
+  "count": 5549,
   "items": [
+    {
+      "id": "9ed98c04d3d6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212728",
+      "published": "2026-07-14T10:31:17+00:00",
+      "summary": "오픈AI의 AI 코딩 에이전트 '코덱스'와 '챗GPT 워크(ChatGPT Work)'의 활성 사용자가 700만명을 돌파했다. 코덱스는 지난 2월 정식 출시 이후 반년 만에 달성한 성과로, 최근 'GPT-5.6' 출시를 계기로 사용자 증가세가 더 가속화되는 추세다.티보 소티오 오픈AI 코덱스 책임자는 13일(현지시간) 소셜미디어 X를 통해 \"현재 코덱스와 챗GPT 워크를 사용하는 활성 사용자가 700만명에 도달했다\"라고 밝혔다.또 샘 알트먼 오픈AI CEO는 \"우리 사용자들을 사랑한다(We love"
+    },
+    {
+      "id": "6f195a69030e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212736",
+      "published": "2026-07-14T10:26:45+00:00",
+      "summary": "사티아 나델라 마이크로소프트(MS) CEO가 오픈AI와 앤트로픽 등 폐쇄형 AI 모델 업체들의 사업 방식을 정면으로 비판하며 기업들에게 AI 데이터 주권을 확보해야 한다고 촉구했다. AI 서비스를 사용할수록 기업의 고유한 업무 노하우와 지적 자산이 모델 제공업체로 축적되는 '역정보의 역설(Reverse Information Paradox)'이 나타나고 있다며, 이를 막기 위해 기업 내부의 학습 정보와 데이터를 보호하는 '신뢰 경계(Trust Boundary)'를 구축해야 한다고 주장했다.나델라 C"
+    },
+    {
+      "id": "e24907f3417e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"실패 원인만 골라 강화학습\"…4분의 1 데이터로 상용 모델 넘은 '트레이스' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212746",
+      "published": "2026-07-14T10:18:28+00:00",
+      "summary": "AI 에이전트가 같은 실수를 반복하는 문제를 스스로 진단하고, 부족한 역량만 집중적으로 강화하는 새로운 학습 시스템이 등장했다. 스탠포드대학교 연구진은 최근 에이전트의 실패 원인을 자동 분석한 뒤 해당 역량만을 훈련할 수 있는 오픈소스 프레임워크 '트레이스(TRACE·Turning Recurrent Agent failures into Capability-targeted training Environments)'를 온라인 아카이브를 통해 공개했다.이 시스템을 적용한 270억개(27B) 규모의 오픈웨"
+    },
+    {
+      "id": "293dc0c6329b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"한국어 쓰는 클로드, 더 다정하다\"…앤트로픽, 언어·모델별 가치 분석 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212765",
+      "published": "2026-07-14T10:04:59+00:00",
+      "summary": "사용하는 언어에 따라 '클로드'가 표현하는 가치 성향이 크게 달라진다는 연구 결과가 나왔다. 특히 한국어는 글로벌 평균과 비교해 사용자의 감정에 공감하고 위로를 건네는 ‘따뜻함’과 ‘수용성’이 가장 두드러지는 것으로 나타났다.앤트로픽은 14일 '모델과 언어에 따른 클로드의 가치 표현' 연구를 공개했다. 실제 사용자와의 대화를 바탕으로 클로드가 모델별, 언어별로 어떤 가치를 표현하는지 측정한 결과다.개인정보 보호 기법을 적용해 약 31만건의 익명 대화를 분석했으며, 클로드 3개 모델(소네트 4.6,"
+    },
+    {
+      "id": "3a1c88b3e200",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "published": "2026-07-14T10:00:00+00:00",
+      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come."
+    },
+    {
+      "id": "d8964b230b22",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "실행 결과 학습해 진화하는 '동적 피드백' 라우터 등장...\"AI 비용 2.6배 절감\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212744",
+      "published": "2026-07-14T09:48:08+00:00",
+      "summary": "기업들이 여러 대형언어모델(LLM)을 동시에 활용하는 시대가 되면서 가장 적합한 AI 모델을 자동으로 선택하는 '모델 라우팅(Model Routing)' 기술이 AI 인프라의 핵심 요소로 떠오르고 있다. 싱가포르 국립대와 알리바바 DAMO 아카데미 등의 연구진은 최근 기존의 정적인 라우팅 방식을 넘어 실행 결과를 학습하며 스스로 최적화하는 새로운 오픈소스 프레임워크 '라우터형 에이전트(Agent-as-a-Router)'와 이를 구현한 'AC라우터(ACRouter)'를 온라인 아카이브를 통해 공개했"
+    },
+    {
+      "id": "db4abb2d74d8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "박영훈 디캠프 대표 \"나가겠다\"...사임 의사 밝혀",
+      "link": "https://zdnet.co.kr/view/?no=20260714184645",
+      "published": "2026-07-14T09:46:45+00:00",
+      "summary": "[지디넷코리아]내부 직원들과 갈등을 빚으며 내부 감사를 받아온 박영훈 디캠프 대표가 사임 의사를 밝혔다. 설립 14년 만에 노동조합이 결성되는 등 내홍이 커진 데 따른 책임을 지고 물러나겠다는 뜻으로 풀이된다. 14일 디캠프에 따르면 박 대표는 지난 10일 디캠프 재단 측에 사임 의사를 전달한 뒤, 오늘 전직원들에게 이 같은 소식을 알렸다. 디캠프 관계자는 \"박영훈 대표가 사임 의사를 밝힌 것은 사실\"이라면서 \"오늘 전체 직원들한테 경영 안정화를 위해 사임하는 것이 좋겠다는 뜻을 전달했다\"고 말했"
+    },
+    {
+      "id": "381b60b1cecb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "충남도-방사청-논산시, AI 국방로봇 방산혁신클러스터 '시동'...2031년까지 499억 투입",
+      "link": "https://zdnet.co.kr/view/?no=20260714182645",
+      "published": "2026-07-14T09:27:02+00:00",
+      "summary": "[지디넷코리아]충남도는 대한민국 미래 국방산업의 핵심 분야인 인공지능(AI) 국방로봇 산업 육성을 위한 방산 혁신 지구 조성에 본격 착수했다고 14일 밝혔다.이날 충남도는 도청 상황실에서 방위사업청, 논산시와 ‘충남·논산 방산혁신클러스터 조성사업 협약식’을 개최했다.도와 방위사업청, 논산시, 국방기술진흥연구소 등 관계자 20여 명이 참석한 가운데, 이번 행사는 사업·협약 내용 소개, 협약 서명 등의 순으로 진행했다.이번 협약은 지난달 방위사업청이 주관한 ‘2026년 방산혁신클러스터 조성사업’ 공모"
+    },
+    {
+      "id": "51abf2efc6b6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '엔비디아 우군' 네오클라우드 상대로 TPU 공세 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212737",
+      "published": "2026-07-14T09:25:27+00:00",
+      "summary": "구글이 엔비디아의 AI 칩 공급망을 정면으로 겨냥하며 자체 AI 칩 TPU 확장 전략에 속도를 내고 있다. 엔비디아 GPU를 임대하는 네오클라우드를 직접 공략하는 것은 물론, 데이터센터 투자 보증과 재임대까지 제안하며 TPU 생태계 확대에 나섰다. 12일(현지시간) 디 인포메이션에 따르면, 구글은 최근 엔비디아가 주요 투자자로 참여한 네오클라우드 기업 엔스케일(Nscale)을 비롯한 여러 신생 클라우드 사업자들에게 TPU 도입을 제안했다.지금까지 TPU는 대부분 구글 내부 시설이나 구글 클라우드를"
+    },
+    {
+      "id": "dd3d0b197660",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 데이터센터가 불러온 '메모리 쇼크'…2분기 세계 스마트폰 출하량 13년 만에 최저",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212756",
+      "published": "2026-07-14T09:18:26+00:00",
+      "summary": "AI 데이터센터로 메모리 반도체 공급이 집중되면서 발생한 메모리 칩 부족 사태가 스마트폰 시장에도 직격탄을 날렸다. 메모리 가격 급등으로 스마트폰 제조사들이 제품 가격을 인상하면서 수요가 위축, 올해 2분기 전 세계 스마트폰 출하량이 2013년 이후 최저치를 기록했다.13일(현지시간) 시장조사 전문 카운터포인트리서치(Counterpoint Research)의 잠정 집계에 따르면, 올해 2분기 글로벌 스마트폰 출하량은 전년 동기 대비 11% 감소했다. 이는 2분기 기준으로 2013년 이후 가장 낮은"
+    },
+    {
+      "id": "af4b6ede2e19",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "조승래 의원 공들이는 글로벌 아트 앤 테크 허브 밑그림 나와",
+      "link": "https://zdnet.co.kr/view/?no=20260714181357",
+      "published": "2026-07-14T09:13:57+00:00",
+      "summary": "[지디넷코리아]과학과 예술을 결합한 글로벌 아트앤테크 허브 구축이 추진된다.한국과학기술원(KAIST) 문화기술대학원은 14일 조승래 의원(더불어민주당, 유성구갑) 지원을 받아 ‘대전 Art & Tech 센터 건립 타당성 검토 연구용역 중간보고회’를 개최했다.이날 공개된 사업 추진 일정은 ▲올해 말 기본 구상 ▲2027년 내 기본 계획 및 타당성 연구 ▲2029년 설계 공모 ▲2030~2032년 공사 및 완공으로 짜여졌다.조승래 의원은 이날 행사에서 \"7월 용역 결과를 서두르는 이유는 스케쥴 때문\""
+    },
+    {
+      "id": "304d22f91166",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[디엘지 law 인사이트] 지분율, 투자자와 창업자가 다르게 이해할 수 있어",
+      "link": "https://zdnet.co.kr/view/?no=20260714181017",
+      "published": "2026-07-14T09:10:17+00:00",
+      "summary": "[지디넷코리아]스타트업 투자 협상에서 가장 자주 등장하는 단어 중 하나가 ‘지분율’이다. 투자자는 투자 후 몇 퍼센트를 갖게 되는지 묻고, 창업자는 이번 투자로 자신의 지분이 얼마나 희석되는지 계산한다. 그런데 의외로 이 지분율이라는 말은 생각보다 단순하지 않다. 같은 회사, 같은 투자금, 같은 기업가치를 두고도 어떤 기준으로 계산하느냐에 따라 투자자의 지분율과 창업자의 희석률은 달라질 수 있다.한국 실무에서 지분율이라고 하면 대체로 현재 발행된 주식을 기준으로 계산한다. 등기부와 주주명부에 적힌"
+    },
     {
       "id": "1549cc570c79",
       "source": "AI타임스",
@@ -25,6 +157,17 @@
       "summary": ""
     },
     {
+      "id": "d25e58bbfa87",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷마블 '아스달연대기', 유료 패키지 없앤 신규 서버 '뉴월드' 개설",
+      "link": "https://zdnet.co.kr/view/?no=20260714175653",
+      "published": "2026-07-14T09:00:04+00:00",
+      "summary": "[지디넷코리아]넷마블(대표 김병규)이 기존 MMORPG에 과금 부담을 대폭 낮추고 인게임 플레이 가치를 높인 독립 형태의 신규 서버를 선보인다.넷마블은 MMORPG '아스달 연대기: 세 개의 세력'에 유료 패키지를 전면 배제하고 콘텐츠 플레이 중심의 성장 구조를 채택한 신규 서버 '뉴월드'를 개설했다고 14일 밝혔다.이번 개편은 지난해 12월부터 추진해 온 합리적인 비즈니스 모델(BM) 구축과 이용자 중심 경제 구현 노력의 일환이다.총 4개 서버로 구성된 뉴월드는 기존 서버와 차별화된 상품 구조를"
+    },
+    {
       "id": "e7702116a2be",
       "source": "Wired",
       "kind": "article",
@@ -36,6 +179,17 @@
       "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist."
     },
     {
+      "id": "ee47b6d3a49e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] SKT, 차세대 AI 네트워크 'AI-RAN' 구축사업 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212763",
+      "published": "2026-07-14T09:00:00+00:00",
+      "summary": "■ SK텔레콤(대표 정재헌)은 과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 주관하는 '하이퍼 AI(Hyper-AI) 네트워크 기반조성' 실증사업의 수행기관으로 선정됐다고 밝혔다. SKT는 이번 사업을 통해 'AI-RAN 선도망'을 구축하고, 피지컬 AI 융합 서비스 개발과 실증을 추진한다. AI-RAN은 기지국이 통신 기능뿐 아니라 AI 연산 자원까지 제공하는 네트워크로 피지컬 AI의 연산 부담을 네트워크가 분담함으로써 단말의 부담을 줄이고 성능을 높이는 데 주력할 예정이다.■ 드롭박스는 "
+    },
+    {
       "id": "147aca450b0b",
       "source": "AI타임스",
       "kind": "article",
@@ -45,6 +199,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212760",
       "published": "2026-07-14T08:54:35+00:00",
       "summary": "앤트로픽이 한국 무료 요금제 사용자에게 무려 1660만달러(약 250억원)에 달하는 유령 청구서를 발송했다는 문제가 제기됐다. 앤트로픽은 “당사자와 잘 해결한 상태”라는 공식 입장을 내놓았다.한 클로드 국내 이용자는 지난 9일 스레드를 통해 앤트로픽으로부터 250억원 규모의 사용 청구서를 받았다고 밝혔다. 이는 피싱이나 가상 계정이 아닌 앤트로픽의 공식 이메일 계정에서 왔다고 전했다. 특히, 자신은 무료 요금제 이용자로, API를 사용한 적이 없었다고 설명했다.이 글이 퍼지자, 클로드 맥스 등 유"
+    },
+    {
+      "id": "37eacf61d42b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"엔비디아 '쿠다' 철벽 깬다\"…K-NPU, 공공 마중물 타고 비상",
+      "link": "https://zdnet.co.kr/view/?no=20260714161639",
+      "published": "2026-07-14T08:46:40+00:00",
+      "summary": "[지디넷코리아]글로벌 인공지능(AI) 패권 경쟁이 격화되는 가운데, 빅테크 소프트웨어 생태계 벽에 막혀 있던 국산 AI 반도체가 공공 부문이라는 '테스트베드'를 발판으로 도약의 날개를 단다. 레퍼런스와 생태계 부재로 고전하던 K-팹리스 업계를 위해 정부와 기업이 밸류체인을 구축할 예정이다.퓨리오사AI가 14일 총판 시스원과 서울 중구 더 플라자 호텔에서 개최한 '2026 K-NPU 테크 웨이브'의 최대 화두는 생태계 자립이었다. 김은주 한국지능정보사회진흥원(NIA) 지능기술인프라본부장은 기조연설에"
+    },
+    {
+      "id": "f6346bb2d2f7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"국내 ICT기업들 위성데이터 활용 서비스 시장 선제 대응해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260714174410",
+      "published": "2026-07-14T08:44:10+00:00",
+      "summary": "[지디넷코리아]한국정보산업연합회(회장 양승욱)는 14일 서울 양재 엘타워에서 '제 25회 디지털 리더십 포럼’ 조찬강연회를 개최, 우주산업이 열어가는 새로운 경제적 기회른 논의했다.이번 포럼 강연은 한국항공우주연구원 위성활용연구팀장 김현옥 박사가 ‘스페이스X가 쏘아 올린 ‘우주경제’와 새로운 기회’를 주제로 진행했다. 김 박사는 K-우주시대가 맞이한 기회를 짚으며 \"국내 ICT 기업들이 위성 데이터 활용 서비스 시장에 선제적으로 대응해야 한다\"고 제언했다.국토교통부 국가공간정보전문위원회 위원인 김"
     },
     {
       "id": "4477c4c07da6",
