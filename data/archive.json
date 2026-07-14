@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-14T14:27:54.047535+00:00",
-  "count": 5570,
+  "updated_at": "2026-07-14T15:56:40.458542+00:00",
+  "count": 5574,
   "items": [
+    {
+      "id": "3b5ad2ca6ebf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spotify is now an AI chatbot, too",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "published": "2026-07-14T15:47:36+00:00",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can i"
+    },
+    {
+      "id": "3f7c21005926",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New York State halts construction of all new data centers",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "published": "2026-07-14T15:17:59+00:00",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control."
+    },
+    {
+      "id": "708946eba56a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "published": "2026-07-14T14:37:48+00:00",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology."
+    },
     {
       "id": "5fcadf0cf2ff",
       "source": "TechCrunch",
@@ -3598,6 +3631,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260711174825",
       "published": "2026-07-11T08:48:25+00:00",
       "summary": "[지디넷코리아]세계 AI 데이터센터 투자가 폭증하고 노후 전력망 교체 수요가 겹치면서, 초고압 변압기·차단기·GIS(가스절연개폐장치) 등 중전기기 시장이 역사적 ‘슈퍼사이클’에 진입했다. 효성중공업, LS일렉트릭, HD현대일렉트릭 등 국내 주요 기업의 수주 잔고는 수년 치를 넘어섰고, 주가와 실적 모두 전례 없는 고점을 기록하고 있다. 그런데 이 호황의 이면에 역설이 있다. 수주는 넘치는데 납기가 밀린다. 공장을 늘려도 생산이 따라가지 못한다. 문제는 설비가 아니다. 사람이다.중전기기는 반도체나 "
+    },
+    {
+      "id": "6c623bd299ed",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "link": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "published": "2026-07-11T08:21:27+00:00",
+      "summary": "Article URL: https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/ Comments URL: https://news.ycombinator.com/item?id=48869989 Points: 225 # Comments: 193"
     },
     {
       "id": "7ab88d05bda6",
