@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-14T15:56:40.458542+00:00",
-  "count": 5574,
+  "updated_at": "2026-07-14T17:12:38.729095+00:00",
+  "count": 5583,
   "items": [
+    {
+      "id": "43ddc48e85c0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Boston Dynamics tries using ‘robot dogs’ for deliveries",
+      "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
+      "published": "2026-07-14T16:52:47+00:00",
+      "summary": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries?. The company is testing a new conveyor belt accessory that allows Spot to carry packages from a vehicle and autonomousl"
+    },
+    {
+      "id": "09ca267660c3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "published": "2026-07-14T16:45:23+00:00",
+      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
+    },
+    {
+      "id": "b96b1e438a52",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "published": "2026-07-14T16:22:15+00:00",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools."
+    },
+    {
+      "id": "a8c25ff377fb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "published": "2026-07-14T16:00:00+00:00",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history."
+    },
+    {
+      "id": "6587a4c09ae4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "published": "2026-07-14T16:00:00+00:00",
+      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching"
+    },
     {
       "id": "3b5ad2ca6ebf",
       "source": "The Verge",
@@ -23,6 +78,17 @@
       "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
       "published": "2026-07-14T15:17:59+00:00",
       "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control."
+    },
+    {
+      "id": "309d88ef6ed4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "published": "2026-07-14T15:06:28+00:00",
+      "summary": "New York’s data center moratorium may become the blueprint for anti-AI movement."
     },
     {
       "id": "708946eba56a",
@@ -144,6 +210,17 @@
       "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
       "published": "2026-07-14T12:00:00+00:00",
       "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker."
+    },
+    {
+      "id": "447b91083552",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "published": "2026-07-14T11:49:48+00:00",
+      "summary": "Article URL: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695 Comments URL: https://news.ycombinator.com/item?id=48905290 Points: 213 # Comments: 133"
     },
     {
       "id": "1eb06cf0c804",
@@ -485,6 +562,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212759",
       "published": "2026-07-14T08:38:51+00:00",
       "summary": "삼성전자가 미국 주식예탁증서(ADR) 발행을 검토하고 있는 것으로 알려졌다.블룸버그는 14일 소식통을 인용, 삼성전자가 최근 일부 투자은행들과 예비 논의를 진행했다고 보도했다. 구체적인 상장 계획 수립이나 주관사 선정 단계에 이르지 않은 초기 단계인 것으로 전해졌다.이에 따르면, 상장 여부는 변동성이 큰 메모리 칩 시황에 따라 좌우될 것으로 내다봤다. 방대한 사업 포트폴리오와 노사 분쟁도 상장 구조 설계의 변수로 꼽히는 만큼 실제 상장으로 이어지지 않을 가능성도 있다고 덧붙였다.삼성전자는 이와 관"
+    },
+    {
+      "id": "8bb2932de1ee",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "published": "2026-07-14T08:34:57+00:00",
+      "summary": "Article URL: https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19 Comments URL: https://news.ycombinator.com/item?id=48903777 Points: 249 # Comments: 151"
     },
     {
       "id": "b62b18539323",
@@ -914,6 +1002,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260714115149",
       "published": "2026-07-14T04:45:25+00:00",
       "summary": "[지디넷코리아]틱톡이 AI 생성 콘텐츠의 투명성을 강화하고 AI 스팸 콘텐츠 단속을 확대한다. AI 생성 콘텐츠에 대한 이용자 교육을 강화하는 동시에 정치·의료·금융 등 민감한 분야에서 AI 스팸 콘텐츠를 대량 유포하는 계정에 대한 탐지·삭제도 적극 임하겠다는 방침이다.틱톡은 14일 아시아태평양 지역 온라인 기자간담회를 열고 AI 투명성과 리터러시(AI 이해 역량)를 강화하기 위한 새로운 정책과 기능을 공개했다. 이날 발표를 맡은 톰 바르게세 틱톡 글로벌 공공정책팀 AI 리드는 \"AI가 콘텐츠를 "
+    },
+    {
+      "id": "e4597155a7b3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "published": "2026-07-14T04:31:48+00:00",
+      "summary": "Article URL: https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/ Comments URL: https://news.ycombinator.com/item?id=48902320 Points: 219 # Comments: 304"
     },
     {
       "id": "a1630c63b1d7",
