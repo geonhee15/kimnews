@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-14T20:55:31.034518+00:00",
-  "count": 5599,
+  "updated_at": "2026-07-14T21:54:09.383711+00:00",
+  "count": 5605,
   "items": [
+    {
+      "id": "bfcac77e664c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "published": "2026-07-14T21:50:11+00:00",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June."
+    },
+    {
+      "id": "01edab312b81",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Windows 11’s big patch Tuesday allows you to hold off on updates for longer",
+      "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+      "published": "2026-07-14T21:32:04+00:00",
+      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you"
+    },
+    {
+      "id": "ca8407261002",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "published": "2026-07-14T21:26:32+00:00",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after App"
+    },
+    {
+      "id": "72328f403ea3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "published": "2026-07-14T20:05:53+00:00",
+      "summary": "Meta denies using AI to terminate workers with disabilities and medical problems."
+    },
     {
       "id": "f9d57c2e3a03",
       "source": "TechCrunch",
@@ -56,6 +100,17 @@
       "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
       "published": "2026-07-14T18:33:31+00:00",
       "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions."
+    },
+    {
+      "id": "b017aa4d00ee",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "published": "2026-07-14T17:50:48+00:00",
+      "summary": "Article URL: https://prismml.com/news/bonsai-27b Comments URL: https://news.ycombinator.com/item?id=48910545 Points: 249 # Comments: 83"
     },
     {
       "id": "9653cf34876e",
@@ -210,6 +265,17 @@
       "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
       "published": "2026-07-14T15:17:59+00:00",
       "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control."
+    },
+    {
+      "id": "6ca789760f12",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "새로운 로크웰 오토메이션 보고서에 따르면, 제조업체의 93%가 MES를 보유하고 있지만, 완전히 통합한 곳은 23%에 불과함",
+      "link": "https://zdnet.co.kr/view/?no=20260715001004",
+      "published": "2026-07-14T15:10:04+00:00",
+      "summary": "[지디넷코리아] 제조업체는 설치된 MES를 전사적 성능으로 전환하고 있지만 대부분은 확장에 어려움을 겪고 있습니다. 밀워키, 2026년 7월 14일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 전환 전문 기업인 Rockwell Automation, Inc.(NYSE: ROK)가 오늘 17개국 1,560명의 제조 및 산업 운영 의사 결정권자들의 의견을 바탕으로 한 업계 인사이트 보고서인 \"전사적 MES 확장\"을 발표했습니다. 연구에 따르면 제조 실행 시스템(MES)이 널리 도입되"
     },
     {
       "id": "309d88ef6ed4",
