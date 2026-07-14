@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-14T17:12:38.729095+00:00",
-  "count": 5583,
+  "updated_at": "2026-07-14T18:17:32.888929+00:00",
+  "count": 5589,
   "items": [
+    {
+      "id": "9653cf34876e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "published": "2026-07-14T17:45:55+00:00",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release."
+    },
+    {
+      "id": "af3de2a41f52",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These painted e-tattoos could be the future of wearable biosensors",
+      "link": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+      "published": "2026-07-14T17:31:58+00:00",
+      "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes."
+    },
+    {
+      "id": "c470be444a50",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "published": "2026-07-14T17:18:11+00:00",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data col"
+    },
     {
       "id": "43ddc48e85c0",
       "source": "The Verge",
@@ -23,6 +56,17 @@
       "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
       "published": "2026-07-14T16:45:23+00:00",
       "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
+    },
+    {
+      "id": "ac33d9b1a084",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+      "published": "2026-07-14T16:28:14+00:00",
+      "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery."
     },
     {
       "id": "b96b1e438a52",
@@ -67,6 +111,17 @@
       "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
       "published": "2026-07-14T15:47:36+00:00",
       "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can i"
+    },
+    {
+      "id": "af6d09ed4642",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "published": "2026-07-14T15:18:13+00:00",
+      "summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 206 # Comments: 191"
     },
     {
       "id": "3f7c21005926",
@@ -221,6 +276,17 @@
       "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
       "published": "2026-07-14T11:49:48+00:00",
       "summary": "Article URL: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695 Comments URL: https://news.ycombinator.com/item?id=48905290 Points: 213 # Comments: 133"
+    },
+    {
+      "id": "228a422e2c3c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to stop Claude from saying load-bearing",
+      "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "published": "2026-07-14T11:46:02+00:00",
+      "summary": "Article URL: https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing Comments URL: https://news.ycombinator.com/item?id=48905248 Points: 200 # Comments: 306"
     },
     {
       "id": "1eb06cf0c804",
