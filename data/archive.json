@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-14T12:39:07.935065+00:00",
-  "count": 5560,
+  "updated_at": "2026-07-14T14:27:54.047535+00:00",
+  "count": 5570,
   "items": [
+    {
+      "id": "5fcadf0cf2ff",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The real AI race may no longer be at the frontier",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "published": "2026-07-14T14:24:53+00:00",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?"
+    },
+    {
+      "id": "1cb594f2dcff",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "published": "2026-07-14T14:06:47+00:00",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, and audiobooks, and more."
+    },
+    {
+      "id": "92820c33d8d0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "published": "2026-07-14T14:01:07+00:00",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. "
+    },
+    {
+      "id": "e03faf68fc80",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "published": "2026-07-14T14:00:00+00:00",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing."
+    },
+    {
+      "id": "078223432413",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pixel Watch 5 leak shows off four different finishes",
+      "link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes",
+      "published": "2026-07-14T13:39:36+00:00",
+      "summary": "A new leak may have just spoiled the Pixel Watch 5 and its finishes ahead of Google's launch event next month. Leaked press renders provided to The Tide Chart by OnLeaks appear to show the upcoming watch with four case finishes: black (Dark Anthracite), polished silver (Natural S"
+    },
+    {
+      "id": "1e6f07043c27",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "EverQuest’s biggest fans are leading its revival",
+      "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+      "published": "2026-07-14T13:00:00+00:00",
+      "summary": "Live-service games and the companies that run them are in big trouble. Games and their developers are getting shut down and gutted, and publishers' huge promises are dubious. Meanwhile, EverQuest, one of the original live-service games, is thundering back more than 25 years later"
+    },
+    {
+      "id": "cadd0e59a46b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한컴위드, 금 RWA 도전...ADGT·캐스트홀딩스와 3자 업무협약",
+      "link": "https://zdnet.co.kr/view/?no=20260714212832",
+      "published": "2026-07-14T12:28:32+00:00",
+      "summary": "[지디넷코리아]한컴위드가 금 기반 실물자산 토큰화(Gold RWA) 사업에 나선다. RWA는 Real World Asset의 약자로 부동산과 금같은 실물자산을 말한다. 한컴위드는 한컴그룹의 실질적 지주회사다.14일 한컴위드는 아랍에미리트(UAE) 금 거래 기업 '알 다프라 알 가르비아 골드 트레이딩(Al Dhafra Al Gharbia Gold Trading, 이하 ADGT)' 및 글로벌 사업 개발 기업 '캐스트홀딩스(Cast Holdings)'와 Gold RWA 사업 추진을 위한 3자 업무협약("
+    },
+    {
+      "id": "d997a40297cd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HCL테크, 사상 최대 24억 달러 수주에 힘입어 견조한 1분기 실적 달성",
+      "link": "https://zdnet.co.kr/view/?no=20260714211002",
+      "published": "2026-07-14T12:10:02+00:00",
+      "summary": "[지디넷코리아] 첨단 AI 매출 62.1% 증가한 1억 7100만 달러…AI 데이터센터 구축에 최대 350억 루피 투자 계획 미국 뉴욕 및 인도 노이다, 2026년 7월 14일 /PRNewswire/ -- 세계적인 기술 기업 HCL테크(HCLTech, NSE: HCLTECH, BSE: HCLTECH)가 2026년 6월 30일 종료된 1분기 재무 실적을 발표했다. 미화 기준 매출은 전년 동기 대비 3% 증가한 36억 5000만 달러를 기록했으며, 고정환율(CC) 기준 매출은 전년 동기 대비 2.6%"
+    },
     {
       "id": "22663ec0af21",
       "source": "MIT Tech Review",
@@ -23,6 +111,17 @@
       "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
       "published": "2026-07-14T12:00:00+00:00",
       "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker."
+    },
+    {
+      "id": "1eb06cf0c804",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "금감원, 에코프로비엠 유상증자 정정 요구",
+      "link": "https://zdnet.co.kr/view/?no=20260714201947",
+      "published": "2026-07-14T11:44:22+00:00",
+      "summary": "[지디넷코리아]금융감독원이 에코프로비엠의 유상증자 추진에 제동을 걸었다.14일 전자공시시스템에 따르면 금융감독원은 지난달 30일 에코프로비엠이 제출한 유상증자 관련 증권신고서에 정정신고서 제출을 요구했다.정정신고서 제출 요구는 ▲증권신고서가 형식을 제대로 갖추지 않았거나 ▲중요사항에 관해 거짓을 기재했거나 ▲중요사항이 기재되지 않았거나 ▲중요사항의 기재나 표시내용이 불분명해 투자 판단을 저해하거나 오해를 일으킬 수 있는 경우 이뤄진다.앞서 에코프로비엠은 1조 2000억원 규모 유상증자 진행을 위한"
     },
     {
       "id": "1503531f9b20",
@@ -56,6 +155,17 @@
       "link": "https://www.wired.com/story/best-rgb-tvs/",
       "published": "2026-07-14T11:30:00+00:00",
       "summary": "RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy."
+    },
+    {
+      "id": "a559761913d4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Codex starts encrypting sub-agent prompts",
+      "link": "https://github.com/openai/codex/issues/28058",
+      "published": "2026-07-14T11:21:32+00:00",
+      "summary": "Article URL: https://github.com/openai/codex/issues/28058 Comments URL: https://news.ycombinator.com/item?id=48905028 Points: 277 # Comments: 173"
     },
     {
       "id": "89be4caa424b",
