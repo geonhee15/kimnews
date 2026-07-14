@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-14T11:04:45.510661+00:00",
-  "count": 5549,
+  "updated_at": "2026-07-14T12:39:07.935065+00:00",
+  "count": 5560,
   "items": [
+    {
+      "id": "22663ec0af21",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "published": "2026-07-14T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window "
+    },
+    {
+      "id": "e0462b1762d9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
+      "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
+      "published": "2026-07-14T12:00:00+00:00",
+      "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker."
+    },
+    {
+      "id": "1503531f9b20",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "published": "2026-07-14T11:43:29+00:00",
+      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set g"
+    },
+    {
+      "id": "9bd5a5fa0bc9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "9 Tips to Get More Out of Google Chat",
+      "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
+      "published": "2026-07-14T11:30:00+00:00",
+      "summary": "There’s more to Google’s messaging app than you might realize."
+    },
+    {
+      "id": "8d1ec400c98a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
+      "link": "https://www.wired.com/story/best-rgb-tvs/",
+      "published": "2026-07-14T11:30:00+00:00",
+      "summary": "RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy."
+    },
+    {
+      "id": "89be4caa424b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "published": "2026-07-14T11:10:39+00:00",
+      "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in l"
+    },
+    {
+      "id": "c122162acccb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 지구가 더워지면 커피가격도 오른다!",
+      "link": "https://zdnet.co.kr/view/?no=20260714101849",
+      "published": "2026-07-14T11:00:02+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 커피값이 심상치 않다는 이야기, 다들 들어보셨죠? 실제로 최근 단 20일 만에 커피 값이 무려 26.8%나 뛰어올랐다고 하는데요, 다들 \"지구온난화 때문에 원두 수확이 줄어서 그런가?\" 하고 생각하실 수도 있어요. 하지만 진짜 이유는 조금 다르다고 해요. AI패널들 분석에 따르면 커피값 폭등의 원인 중 기후 변화는 40% 정도의 책임밖에 없고, 나머지 60%는 바로 투기 매수 때문이라고 해요. 처음엔 날씨 걱정으로 값이 슬금슬금 오르기 시작했"
+    },
+    {
+      "id": "e13ded6e8f1c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "IITP, '양자 플래그십' R&D 기술교류회 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260714195230",
+      "published": "2026-07-14T10:52:30+00:00",
+      "summary": "[지디넷코리아]정보통신기획평가원(IITP, 원장 홍진배)이 13일부터 14일까지 이틀간 대전컨벤션센터(DCC)에서 '양자 플래그십(양자통신·센서) R&D 인사이트 교류회'를 개최했다.교류회는 양자통신 및 양자센싱 분야 연구개발을 수행 중인 산·학·연 전문가들이 모여 연구 추진현황과 성과를 공유하고, 기술 간 연계 및 협력 방안을 논의하기 위해 마련했다. 행사에는 50여 개 기관, 100여 명의 전문가들이 참석했다.과학기술정보통신부는 지난 1월 '제1차 양자과학기술 및 양자산업 육성 종합계획'을 수"
+    },
+    {
+      "id": "fe28d7c11a3e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"'녹인 소금' 배터리 대신한다\"…中, 세계 최대 하이브리드 태양광 발전소 가동",
+      "link": "https://zdnet.co.kr/view/?no=20260714104455",
+      "published": "2026-07-14T10:35:24+00:00",
+      "summary": "[지디넷코리아]중국이 세계 최대 규모 태양광 발전과 집광형 태양열 발전(CSP)을 결합한 하이브리드 발전 시스템을 고비 사막에서 시범 운영하고 있다고 일렉트렉 등 외신이 최근 보도했다.중국 국영 에너지 기업 삼협집단공사(CTG)가 신장 지역에서 가동 중인 1GW(기가와트) 규모의 '하미(Hami) 프로젝트'는 리튬 배터리 없이도 일몰 후에 전력을 공급할 수 있다는 것이 가장 큰 장점이다. 낮 동안 태양 에너지를 녹인 소금(용융염)에 열 형태로 저장해 두었다가, 해가 진 후에도 최대 8시간 동안 전"
+    },
     {
       "id": "9ed98c04d3d6",
       "source": "AI타임스",
@@ -34,6 +133,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212746",
       "published": "2026-07-14T10:18:28+00:00",
       "summary": "AI 에이전트가 같은 실수를 반복하는 문제를 스스로 진단하고, 부족한 역량만 집중적으로 강화하는 새로운 학습 시스템이 등장했다. 스탠포드대학교 연구진은 최근 에이전트의 실패 원인을 자동 분석한 뒤 해당 역량만을 훈련할 수 있는 오픈소스 프레임워크 '트레이스(TRACE·Turning Recurrent Agent failures into Capability-targeted training Environments)'를 온라인 아카이브를 통해 공개했다.이 시스템을 적용한 270억개(27B) 규모의 오픈웨"
+    },
+    {
+      "id": "34a813c69bcc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘, 롤스로이스, 리버레인, 에든버러대학교, 산업 설계 및 시뮬레이션을 위한 양자 컴퓨팅 탐구 협약 체결",
+      "link": "https://zdnet.co.kr/view/?no=20260714191003",
+      "published": "2026-07-14T10:10:03+00:00",
+      "summary": "[지디넷코리아] 협력을 통해 가스터빈 설계를 포함한 복잡한 유체 역학 시뮬레이션 발전에 결함 허용 양자 컴퓨팅이 기여할 수 있는 방식 탐구 이 프로젝트는 세계에서 가장 정확한 상업용 양자 컴퓨터[1]인 퀀티넘의 헬리오스 플랫폼, 롤스로이스의 산업 응용, 리버레인의 양자 오류 정정 및 결함 허용 알고리즘 전문성, EPCC의 슈퍼컴퓨팅 전문성을 결합하는 것을 목표로 함 협력을 통해 미래 산업 응용 분야에 필요한 양자 기술과 하이브리드 컴퓨팅 역량을 개발함으로써 영국 양자 전략 발전에 기여할 예정 콜로"
     },
     {
       "id": "293dc0c6329b",
@@ -867,6 +977,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "published": "2026-07-14T00:45:00+00:00",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
+    },
+    {
+      "id": "303b12910559",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
       "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "published": "2026-07-14T00:45:00+00:00",
       "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
