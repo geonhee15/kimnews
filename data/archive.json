@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-15T16:01:10.111322+00:00",
-  "count": 5730,
+  "updated_at": "2026-07-15T17:37:57.545660+00:00",
+  "count": 5738,
   "items": [
+    {
+      "id": "ad7dc399abfc",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+      "published": "2026-07-15T17:29:31+00:00",
+      "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "73aa4923e537",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "published": "2026-07-15T17:09:37+00:00",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red "
+    },
+    {
+      "id": "212e01f95b95",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "published": "2026-07-15T17:00:34+00:00",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio."
+    },
+    {
+      "id": "1424a0f10b0c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "published": "2026-07-15T17:00:00+00:00",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
+    },
+    {
+      "id": "f762c94995af",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
+      "link": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
+      "published": "2026-07-15T16:37:08+00:00",
+      "summary": "Netflix just can't let Stranger Things go. Since the final episode aired on New Year's Eve there's been a behind-the-scenes documentary, an animated series that expands the story, and now, on the 10th anniversary of the show's original release, Netflix has released a new version "
+    },
+    {
+      "id": "b625fb85ef11",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "published": "2026-07-15T16:20:18+00:00",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
+    },
     {
       "id": "2a481e390648",
       "source": "The Verge",
@@ -507,6 +573,28 @@
       "link": "https://zdnet.co.kr/view/?no=20260715172445",
       "published": "2026-07-15T08:30:02+00:00",
       "summary": "[지디넷코리아]컴투스의 차기 대작 MMORPG가 단순한 배경 묘사를 넘어 게임 전반의 시스템과 연출에 그리스 신화의 정체성을 고스란히 이식한다.컴투스(대표 남재관)는 에이버튼이 개발하는 신작 MMORPG '제우스: 오만의 신'의 공식 유튜브 채널을 통해 개발자 영상 콘텐츠 '디렉터스 인사이트' 3화를 공개했다고 15일 밝혔다.이번 영상은 '몰입을 위한 집착'이라는 주제 아래, 이용자가 인게임 플레이 과정에서 세계관에 유기적으로 동화될 수 있도록 설계한 장치들을 상세히 다뤘다.제우스: 오만의 신은 "
+    },
+    {
+      "id": "90e8471e2274",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "What building Shippy taught us about building agents",
+      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published": "2026-07-15T08:29:41+00:00",
+      "summary": ""
+    },
+    {
+      "id": "8e53a6ae752d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published": "2026-07-15T08:27:01+00:00",
+      "summary": ""
     },
     {
       "id": "b6317e623cd8",
