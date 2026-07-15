@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-15T18:45:15.299722+00:00",
-  "count": 5748,
+  "updated_at": "2026-07-15T19:54:07.541337+00:00",
+  "count": 5755,
   "items": [
+    {
+      "id": "676e93e2fc30",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "published": "2026-07-15T19:41:38+00:00",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
+    },
+    {
+      "id": "393b9c2f5070",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "published": "2026-07-15T18:47:01+00:00",
+      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite."
+    },
     {
       "id": "5fb774b7ad8a",
       "source": "Wired",
@@ -14,12 +36,34 @@
       "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains."
     },
     {
+      "id": "fffca5910dd7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Something’s glowing on the Pixel 11’s camera bar",
+      "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+      "published": "2026-07-15T18:24:22+00:00",
+      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of the "
+    },
+    {
       "id": "a8a5855893f5",
       "source": "TechCrunch",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "published": "2026-07-15T18:21:22+00:00",
+      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with seve"
+    },
+    {
+      "id": "de3d34297c26",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple bans home services from its upcoming Maps ads",
       "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
       "published": "2026-07-15T18:21:22+00:00",
       "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with seve"
@@ -124,6 +168,17 @@
       "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
     },
     {
+      "id": "6f9321b091f3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+      "link": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
+      "published": "2026-07-15T16:55:12+00:00",
+      "summary": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies."
+    },
+    {
       "id": "f762c94995af",
       "source": "The Verge",
       "kind": "article",
@@ -144,6 +199,17 @@
       "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
       "published": "2026-07-15T16:20:18+00:00",
       "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
+    },
+    {
+      "id": "d444db96ee6d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "published": "2026-07-15T16:00:33+00:00",
+      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance."
     },
     {
       "id": "2a481e390648",
@@ -694,6 +760,17 @@
       "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
       "published": "2026-07-15T08:27:01+00:00",
       "summary": ""
+    },
+    {
+      "id": "938c22f20292",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"일회성 AI 경험 조직 역량으로\" 에이블런, 현장 중심 AX 교육 성과 공유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212815",
+      "published": "2026-07-15T08:25:00+00:00",
+      "summary": "에이블런(대표 박진아)은 기업·기관 현장 중심 AX 교육 성과를 공유했다고 15일 밝혔다.에이블런은 지난 8일 서울 한국광고문화회관에서 한국HRD협회와 함께 '에이블런 특별포럼'을 열고, 현장 중심 AX 사례와 현업 구성원의 AI 활용 경험을 공유했다. 이날 행사에는 중견·대기업·공공기관 팀장급 이상 리더 200명이 참석했다.에이블런은 이번 포럼에서 AI 리터러시부터 AI 에이전트 활용까지 아우르는 전사 단위 AX 실행 방식을 제시했다.강유진 에이블런 연구원은 재직자 401명의 데이터를 바탕으로 "
     },
     {
       "id": "b6317e623cd8",
