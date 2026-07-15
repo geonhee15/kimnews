@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-15T14:26:57.112654+00:00",
-  "count": 5724,
+  "updated_at": "2026-07-15T16:01:10.111322+00:00",
+  "count": 5730,
   "items": [
+    {
+      "id": "2a481e390648",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "published": "2026-07-15T16:00:00+00:00",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. Th"
+    },
+    {
+      "id": "6e94c378fa68",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "published": "2026-07-15T15:29:33+00:00",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into o"
+    },
     {
       "id": "79c8be5f8224",
       "source": "TechCrunch",
@@ -23,6 +45,28 @@
       "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
       "published": "2026-07-15T13:58:27+00:00",
       "summary": ""
+    },
+    {
+      "id": "5509e3385459",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "published": "2026-07-15T13:58:27+00:00",
+      "summary": ""
+    },
+    {
+      "id": "db753cc6172c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "티오리, 온디멘드 AI 모의해킹 솔루션 ‘진트 펄스' 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20260715223932",
+      "published": "2026-07-15T13:39:32+00:00",
+      "summary": "[지디넷코리아]공격형(오펜시브) 사이버 보안 기업 티오리(Theori, 대표 박세준)가 자사 AI 기반 취약점 탐지 플랫폼 ‘진트(Xint)’의 온디멘드(On-Demand)형 ‘진트 펄스(Xint Pulse)’를 15일 출시했다.'진트 펄스'는 AI 기반 블랙박스 모의해킹 솔루션 '진트 웹(Xint Web)'의 점검 성능을 그대로 담는 한편 개별 웹 애플리케이션 대상으로 필요한 만큼 유연히 도입할 수 있게 설계한 제품이다. 대규모 상시 방어 체계 구축을 위한 진트 웹과 달리, 특정 애플리케이션 하"
     },
     {
       "id": "03f8c29bdfc9",
@@ -188,6 +232,17 @@
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
       "published": "2026-07-15T12:00:00+00:00",
       "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test."
+    },
+    {
+      "id": "02e6b4c6b6c7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+      "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test."
     },
     {
       "id": "2bbd2317f102",
@@ -1134,6 +1189,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212774",
       "published": "2026-07-15T02:05:00+00:00",
       "summary": "유럽연합(EU) 전력시장에서 태양광이 월간 기준 처음으로 전체 발전량의 25%를 차지했다.에너지 싱크탱크 엠버는 14일(현지시간) 발표한 분석에서 2026년 6월 EU 태양광 발전량이 52테라와트시(TWh)를 기록해 전체 전력 생산의 25%를 차지했다고 밝혔다. 5월(47TWh·23%)을 넘어선 월간 최고치다.태양광은 같은 달 원자력(21%), 가스(15%), 풍력(14%), 수력(12%), 석탄(8%)을 모두 앞서 EU 최대 발전원이 됐다. 태양광이 월간 최대 전원이 된 것은 2025년 6월과 "
+    },
+    {
+      "id": "e8ff3c7048da",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "link": "https://tailscale.com/security-bulletins",
+      "published": "2026-07-15T01:08:26+00:00",
+      "summary": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 200 # Comments: 127"
     },
     {
       "id": "9c5c14f2f1ed",
