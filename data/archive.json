@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-15T17:37:57.545660+00:00",
-  "count": 5738,
+  "updated_at": "2026-07-15T18:45:15.299722+00:00",
+  "count": 5748,
   "items": [
+    {
+      "id": "5fb774b7ad8a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Isn’t Smarter Than a Baby—Yet",
+      "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "published": "2026-07-15T18:30:00+00:00",
+      "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains."
+    },
+    {
+      "id": "a8a5855893f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "published": "2026-07-15T18:21:22+00:00",
+      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with seve"
+    },
+    {
+      "id": "60ceb50b3097",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "link": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "published": "2026-07-15T18:05:00+00:00",
+      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI."
+    },
+    {
+      "id": "93f75d4a33a2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "published": "2026-07-15T18:04:06+00:00",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
+    },
+    {
+      "id": "00e1cd9f5408",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "published": "2026-07-15T17:48:01+00:00",
+      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its t"
+    },
+    {
+      "id": "8d2f3fcd9868",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "published": "2026-07-15T17:39:54+00:00",
+      "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant."
+    },
+    {
+      "id": "8fd2f1fcc3b7",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The most controversial rewrite in history just shipped...",
+      "link": "https://www.youtube.com/watch?v=CXSvKcLovAk",
+      "published": "2026-07-15T17:39:02+00:00",
+      "summary": ""
+    },
     {
       "id": "ad7dc399abfc",
       "source": "GitHub Blog",
@@ -89,6 +166,17 @@
       "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "published": "2026-07-15T15:29:33+00:00",
       "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into o"
+    },
+    {
+      "id": "96e25e85519b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "published": "2026-07-15T15:00:00+00:00",
+      "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and othe"
     },
     {
       "id": "79c8be5f8224",
@@ -309,6 +397,17 @@
       "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
       "published": "2026-07-15T12:00:00+00:00",
       "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test."
+    },
+    {
+      "id": "a4aff4f355ad",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Prioritize mental health, and why communication is so important",
+      "link": "https://ramones.dev/posts/mental-health/",
+      "published": "2026-07-15T11:27:35+00:00",
+      "summary": "Article URL: https://ramones.dev/posts/mental-health/ Comments URL: https://news.ycombinator.com/item?id=48919198 Points: 207 # Comments: 131"
     },
     {
       "id": "2bbd2317f102",
@@ -1715,6 +1814,17 @@
       "lang": "en",
       "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
       "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "published": "2026-07-14T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d82cae84e9d9",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Welcome Inkling by Thinking Machines",
+      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
       "published": "2026-07-14T15:00:00+00:00",
       "summary": ""
     },
