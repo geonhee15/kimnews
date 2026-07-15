@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-15T20:55:10.298390+00:00",
-  "count": 5757,
+  "updated_at": "2026-07-15T21:54:27.838570+00:00",
+  "count": 5764,
   "items": [
+    {
+      "id": "1e70f1150525",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
+      "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+      "published": "2026-07-15T21:00:00+00:00",
+      "summary": "The Trump administration has not disclosed its cost estimates for the Iran war."
+    },
+    {
+      "id": "c9b8f4545e53",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
+      "link": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
+      "published": "2026-07-15T20:58:16+00:00",
+      "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence."
+    },
     {
       "id": "eb9c78eb5cb8",
       "source": "The Verge",
@@ -91,6 +113,17 @@
       "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with seve"
     },
     {
+      "id": "a61f9835d8cb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Inkling: Our Open-Weights Model",
+      "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "published": "2026-07-15T18:12:45+00:00",
+      "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 431 # Comments: 106"
+    },
+    {
       "id": "60ceb50b3097",
       "source": "Wired",
       "kind": "article",
@@ -155,6 +188,17 @@
       "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
       "published": "2026-07-15T17:29:31+00:00",
       "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "4e3189c23ff0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "NABR: 미 어류야생동물관리국, 멸종위기종법에 근거한 긴꼬리 마카크 원숭이 등재 청원 재차 기각",
+      "link": "https://zdnet.co.kr/view/?no=20260716021003",
+      "published": "2026-07-15T17:10:03+00:00",
+      "summary": "[지디넷코리아] 워싱턴, 2026년 7월 16일 /PRNewswire/ -- 미 어류야생동물관리국(U.S. Fish and Wildlife Service, USFWS)이 동물의 윤리적 대우를 지향하는 사람들(People for the Ethical Treatment of Animals, PETA)과 기타 활동가 단체들이 긴꼬리 마카크(long-tailed macaque, 학명 Macaca fascicularis) 원숭이를 미국 멸종위기종법(U.S. Endangered Species Act, ESA"
     },
     {
       "id": "73aa4923e537",
@@ -267,6 +311,28 @@
       "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and othe"
     },
     {
+      "id": "c8633ced3d67",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "위지윅스튜디오-엔피 통합법인 '컴투스엔' 공식 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260715235246",
+      "published": "2026-07-15T14:52:46+00:00",
+      "summary": "[지디넷코리아]위지윅스튜디오와 엔피의 합병 절차가 마무리 됨으로써 종합 미디어 콘텐츠 기업 '컴투스엔'이 됐다.위지윅스튜디오와 엔피는 지난 6월 12일 임시주주총회에서 합병을 승인한 데 이어 7월 14일 통합법인 컴투스엔으로 새롭게 출범했다. 8월 14일 합병신주 상장을 마치면 통합법인 출범을 위한 주요 절차가 모두 완료될 예정이다.컴투스엔(COM2US N)의 ‘N’은 Narrative(이야기), Network(연결), Next(미래)를 의미한다. 콘텐츠와 기술, 사람과 경험을 연결해 콘텐츠의 가"
+    },
+    {
+      "id": "289433b22ddc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "PC 카카오톡에서도 '챗GPT 포 카톡' 된다",
+      "link": "https://zdnet.co.kr/view/?no=20260715165219",
+      "published": "2026-07-15T14:45:03+00:00",
+      "summary": "[지디넷코리아]카카오가 6차 정기 업데이트를 진행함에 따라 이제는 챗GPT 포 카카오를 카카오톡에서도 사용할 수 있게 됐다. 채팅방 내 메시지 요약 기능도 추가해 밀린 메시지를 빠르게 파악하는 것도 가능해졌다. 카카오는 이용자 편의를 위한 다양한 기능을 담아 카카오톡 6차 정기 업데이트를 진행했다고 15일 밝혔다.이용자가 밀린 메시지를 빠르게 파악할 수 있도록 채팅방 내 메시지 요약 기능을 추가했다. 개별 채팅방 안에서 '대화 요약' 버튼을 누르면 쌓인 메시지의 핵심 내용을 한눈에 정리해 보여준다"
+    },
+    {
       "id": "79c8be5f8224",
       "source": "TechCrunch",
       "kind": "article",
@@ -320,6 +386,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260715222701",
       "published": "2026-07-15T13:27:01+00:00",
       "summary": "[지디넷코리아]통합 IT보안 전문기업 SGA솔루션즈(대표 최영철)의 안티바이러스 솔루션 '바이러스체이서(VirusChaser) 10 AI'가 12회 연속 글로벌 안티바이러스 인증 'VB100'을 획득했다.'VB100'은 글로벌 보안 전문 평가기관 '바이러스 블러틴(Virus Bulletin)'이 운영하는 대표적인 안티바이러스 성능 인증이다. 독립적인 테스트 환경에서 실제 악성코드 탐지 성능과 오탐(False Positive) 여부를 엄격히 검증, 일정 기준을 충족한 제품에만 인증을 부여한다. 세계"
+    },
+    {
+      "id": "fa134bdaf28f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mysteries of Telegram Data Centers (2022)",
+      "link": "https://dev.moe/en/3025",
+      "published": "2026-07-15T13:22:00+00:00",
+      "summary": "Article URL: https://dev.moe/en/3025 Comments URL: https://news.ycombinator.com/item?id=48920475 Points: 221 # Comments: 110"
     },
     {
       "id": "8d7efbc0be12",
