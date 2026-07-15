@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-15T21:54:27.838570+00:00",
-  "count": 5764,
+  "updated_at": "2026-07-15T22:54:37.141859+00:00",
+  "count": 5770,
   "items": [
+    {
+      "id": "cba030df353b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+      "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+      "published": "2026-07-15T22:47:11+00:00",
+      "summary": "With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip 2 in 1 for $999.99 (usually $1,649.99) with an Intel Core 7 Ultra CPU, 16GB […]"
+    },
+    {
+      "id": "a52da9868528",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+      "link": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+      "published": "2026-07-15T22:39:40+00:00",
+      "summary": "An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, according to Bloomberg's Mark Gurman. Gurman says that under the new AppleCare Plus pri"
+    },
+    {
+      "id": "a3d7e4f6c5d5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월15일] 구글의 차례가 왔다…시장이 '제미나이 3.5 프로'를 기다리는 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212785",
+      "published": "2026-07-15T22:00:00+00:00",
+      "summary": "최근 첨단 AI 모델 경쟁은 숨 돌릴 틈이 없습니다. 앤트로픽은 '페이블 5'를 선보였고, 오픈AI는 'GPT-5.6'으로 곧바로 맞불을 놓았습니다. 중국 지푸 AI의 'GLM-5.2'는 뛰어난 가격 경쟁력을 앞세워 미국 시장에서도 존재감을 키우고 있으며, 스페이스XAI도 차세대 모델 '그록 4.5'를 출시했습니다.이처럼 거의 매주 새로운 모델이 등장하는 가운데, 오히려 가장 조용했던 기업은 구글입니다.구글은 지난 5월 I/O에서 '제미나이 3.5 플래시'를 공개했지만, 플래그십 모델은 지난 2월"
+    },
+    {
+      "id": "ac35b8d21132",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "published": "2026-07-15T21:33:20+00:00",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent saf"
+    },
+    {
+      "id": "02316520c89e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+      "link": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+      "published": "2026-07-15T21:30:17+00:00",
+      "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national"
+    },
     {
       "id": "1e70f1150525",
       "source": "Wired",
@@ -287,6 +342,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
       "published": "2026-07-15T16:00:00+00:00",
       "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. Th"
+    },
+    {
+      "id": "13868c289e57",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "published": "2026-07-15T15:34:05+00:00",
+      "summary": "Article URL: https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/ Comments URL: https://news.ycombinator.com/item?id=48922434 Points: 206 # Comments: 131"
     },
     {
       "id": "6e94c378fa68",
