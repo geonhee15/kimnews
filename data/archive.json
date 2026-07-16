@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-16T16:42:33.297720+00:00",
-  "count": 5894,
+  "updated_at": "2026-07-16T17:52:45.363085+00:00",
+  "count": 5901,
   "items": [
+    {
+      "id": "1f7e5a1377de",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "published": "2026-07-16T17:37:03+00:00",
+      "summary": "BP Ventures is shutting down, ending a nearly 20 year run that was marked by reportedly lackluster returns."
+    },
+    {
+      "id": "8b028f04907e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "published": "2026-07-16T17:00:00+00:00",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics"
+    },
+    {
+      "id": "dbc91a6c0f8a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is better at playing the EU regulations game",
+      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-16T16:55:54+00:00",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting ex"
+    },
+    {
+      "id": "fba19db86d75",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roblox will let people use AI to make games on their phone",
+      "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "published": "2026-07-16T16:45:29+00:00",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on "
+    },
     {
       "id": "31bf777b0e5b",
       "source": "TechCrunch",
@@ -289,6 +333,17 @@
       "summary": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/ Comments URL: https://news.ycombinator.com/item?id=48933419 Points: 298 # Comments: 163"
     },
     {
+      "id": "2a108c0167b7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sony deletes a movies from the accounts of people who ‘bought’ them",
+      "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+      "published": "2026-07-16T12:13:43+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/ Comments URL: https://news.ycombinator.com/item?id=48933419 Points: 375 # Comments: 213"
+    },
+    {
       "id": "e7abbaee617c",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -364,6 +419,17 @@
       "link": "https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/",
       "published": "2026-07-16T12:06:00+00:00",
       "summary": "Whether you’re climbing peaks or taking the family to the local park, we’ve found the best sleeping bags for every temperature, budget, and camping expedition."
+    },
+    {
+      "id": "a936917bf6f5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "link": "https://rtfeldman.com/rust-to-zig",
+      "published": "2026-07-16T11:39:27+00:00",
+      "summary": "Article URL: https://rtfeldman.com/rust-to-zig Comments URL: https://news.ycombinator.com/item?id=48933149 Points: 220 # Comments: 115"
     },
     {
       "id": "62b7a414922e",
@@ -1156,6 +1222,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260716115241",
       "published": "2026-07-16T03:17:01+00:00",
       "summary": "[지디넷코리아]국내 기업들이 아마존웹서비스(AWS)가 설계한 인공지능(AI) 기반 개발 방법론 'AI-DLC'를 활용해 개발 기간을 단축하고 협업 효율을 높인 사례를 공개했다. 단순히 AI로 코드를 작성하는 수준을 넘어 요구사항 정의·설계·구현·검증 전 과정을 AI와 함께 수행하면서 개발 생산성과 결과물의 일관성을 동시에 확보했다는 평가다.AWS코리아는 16일 서울 강남구 센터필드 오피스에서 기자간담회를 열고 지난 5월 진행한 'AWS 서밋 서울 2026' AI-DLC 챌린지 우승팀인 현대해상·L"
+    },
+    {
+      "id": "45e682eb6dc9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "published": "2026-07-16T03:12:47+00:00",
+      "summary": "Article URL: https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html Comments URL: https://news.ycombinator.com/item?id=48929945 Points: 203 # Comments: 37"
     },
     {
       "id": "3fc933c92032",
