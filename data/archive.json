@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-16T11:29:02.292371+00:00",
-  "count": 5853,
+  "updated_at": "2026-07-16T13:01:27.908065+00:00",
+  "count": 5861,
   "items": [
+    {
+      "id": "2138713777a3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude can now use your 1Password credentials for you",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "published": "2026-07-16T13:00:00+00:00",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking trave"
+    },
+    {
+      "id": "307a241c676d",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "published": "2026-07-16T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a "
+    },
+    {
+      "id": "99f04ebdc261",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "published": "2026-07-16T12:06:51+00:00",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control "
+    },
+    {
+      "id": "bcd849a66e26",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "11 Best Sleeping Bags (2026): Ultralight, Warm Weather, for Kids",
+      "link": "https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/",
+      "published": "2026-07-16T12:06:00+00:00",
+      "summary": "Whether you’re climbing peaks or taking the family to the local park, we’ve found the best sleeping bags for every temperature, budget, and camping expedition."
+    },
+    {
+      "id": "62b7a414922e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "published": "2026-07-16T11:30:00+00:00",
+      "summary": "Aina is going to pilot a new device in the coming weeks."
+    },
+    {
+      "id": "780d615f47a3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+      "published": "2026-07-16T11:00:21+00:00",
+      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative."
+    },
     {
       "id": "34d664379bbc",
       "source": "TechCrunch",
@@ -727,6 +793,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260716115241",
       "published": "2026-07-16T03:17:01+00:00",
       "summary": "[지디넷코리아]국내 기업들이 아마존웹서비스(AWS)가 설계한 인공지능(AI) 기반 개발 방법론 'AI-DLC'를 활용해 개발 기간을 단축하고 협업 효율을 높인 사례를 공개했다. 단순히 AI로 코드를 작성하는 수준을 넘어 요구사항 정의·설계·구현·검증 전 과정을 AI와 함께 수행하면서 개발 생산성과 결과물의 일관성을 동시에 확보했다는 평가다.AWS코리아는 16일 서울 강남구 센터필드 오피스에서 기자간담회를 열고 지난 5월 진행한 'AWS 서밋 서울 2026' AI-DLC 챌린지 우승팀인 현대해상·L"
+    },
+    {
+      "id": "3fc933c92032",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Newer Models, Same Advantage",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "published": "2026-07-16T02:49:48+00:00",
+      "summary": ""
     },
     {
       "id": "4b7d8f0b95b1",
@@ -2729,6 +2806,17 @@
       "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
       "published": "2026-07-14T19:39:39+00:00",
       "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
+    },
+    {
+      "id": "ef4cb9ac3844",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I also filed the corners off my MacBook",
+      "link": "https://www.brt.fyi/posts/mac-book-filing/",
+      "published": "2026-07-14T19:25:41+00:00",
+      "summary": "Article URL: https://www.brt.fyi/posts/mac-book-filing/ Comments URL: https://news.ycombinator.com/item?id=48911803 Points: 234 # Comments: 127"
     },
     {
       "id": "000cd6dd981c",
