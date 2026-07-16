@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-16T17:52:45.363085+00:00",
-  "count": 5901,
+  "updated_at": "2026-07-16T19:02:32.219242+00:00",
+  "count": 5909,
   "items": [
+    {
+      "id": "2b59438fdbe0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "published": "2026-07-16T18:35:18+00:00",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated."
+    },
+    {
+      "id": "599c0a716e83",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "published": "2026-07-16T18:32:54+00:00",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images."
+    },
+    {
+      "id": "b2bb050d3022",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published": "2026-07-16T18:22:06+00:00",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
+    },
+    {
+      "id": "cac7235299df",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "published": "2026-07-16T17:58:37+00:00",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, "
+    },
+    {
+      "id": "e49b5494eb43",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ecovacs’ self-cleaning Deebot X11 has hit a new low price",
+      "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "published": "2026-07-16T17:57:15+00:00",
+      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon a"
+    },
     {
       "id": "1f7e5a1377de",
       "source": "TechCrunch",
@@ -36,6 +91,17 @@
       "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting ex"
     },
     {
+      "id": "5fe99309ba06",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is better at playing the AI regulations game",
+      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-16T16:55:54+00:00",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting ex"
+    },
+    {
       "id": "fba19db86d75",
       "source": "The Verge",
       "kind": "article",
@@ -56,6 +122,17 @@
       "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
       "published": "2026-07-16T16:40:36+00:00",
       "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait."
+    },
+    {
+      "id": "5daf6cb76508",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Microsoft Comic Chat is now open source",
+      "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "published": "2026-07-16T16:06:27+00:00",
+      "summary": "Article URL: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/ Comments URL: https://news.ycombinator.com/item?id=48936426 Points: 225 # Comments: 60"
     },
     {
       "id": "ee995dfaeea8",
@@ -342,6 +419,17 @@
       "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
       "published": "2026-07-16T12:13:43+00:00",
       "summary": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/ Comments URL: https://news.ycombinator.com/item?id=48933419 Points: 375 # Comments: 213"
+    },
+    {
+      "id": "7cf772569fdd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
+      "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+      "published": "2026-07-16T12:13:43+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/ Comments URL: https://news.ycombinator.com/item?id=48933419 Points: 413 # Comments: 252"
     },
     {
       "id": "e7abbaee617c",
