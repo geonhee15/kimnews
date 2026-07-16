@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-16T21:15:47.248307+00:00",
-  "count": 5921,
+  "updated_at": "2026-07-16T22:17:37.470237+00:00",
+  "count": 5928,
   "items": [
+    {
+      "id": "c4774359a106",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월16일] AI 비용 부담의 중심에 선 앤트로픽, 어떤 돌파구를 준비할까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212823",
+      "published": "2026-07-16T22:00:00+00:00",
+      "summary": "생성 AI가 기업 업무에 본격적으로 도입되면서 성능 못지않게 중요한 화두로 떠오른 것이 비용입니다. 최근에는 비용 부담을 이유로 고가의 폐쇄형 모델 대신 오픈소스나 저렴한 중국산 모델을 선택하는 사례가 잇따르고 있습니다.특히 최고 성능을 앞세운 앤트로픽은 이 문제에서 자유롭지 않습니다. 클로드나 페이블은 대표적인 고가 모델로 분류됩니다. 기업의 비용 부담이 커질수록 사용량 조정 대상에는 앤트로픽 모델이 포함될 가능성이 큽니다.그렇다면 앤트로픽은 이 문제를 어떻게 바라보고 있을까요. 앤트로픽 개발자"
+    },
+    {
+      "id": "23b8cdb40103",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+      "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+      "published": "2026-07-16T21:30:35+00:00",
+      "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" t"
+    },
     {
       "id": "70b2400b64fd",
       "source": "The Verge",
@@ -12,6 +34,17 @@
       "link": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
       "published": "2026-07-16T20:47:30+00:00",
       "summary": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and its"
+    },
+    {
+      "id": "6ee3049df3e0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "published": "2026-07-16T20:41:45+00:00",
+      "summary": "Google says these changes could endanger user privacy and security."
     },
     {
       "id": "1d4f272c719c",
@@ -36,6 +69,28 @@
       "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher qu"
     },
     {
+      "id": "4f679f5f1b23",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "published": "2026-07-16T20:26:23+00:00",
+      "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images."
+    },
+    {
+      "id": "069f56ce73af",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "published": "2026-07-16T20:09:48+00:00",
+      "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028."
+    },
+    {
       "id": "ce0a31bf662b",
       "source": "TechCrunch",
       "kind": "article",
@@ -56,6 +111,28 @@
       "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
       "published": "2026-07-16T20:07:14+00:00",
       "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner."
+    },
+    {
+      "id": "9b2ab6dd9d0f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
+      "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
+      "published": "2026-07-16T19:55:46+00:00",
+      "summary": "If only someone could have predicted it."
+    },
+    {
+      "id": "80605caac92b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "published": "2026-07-16T19:18:23+00:00",
+      "summary": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools."
     },
     {
       "id": "2b59438fdbe0",
