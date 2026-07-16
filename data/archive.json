@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-16T19:02:32.219242+00:00",
-  "count": 5909,
+  "updated_at": "2026-07-16T20:11:46.884063+00:00",
+  "count": 5914,
   "items": [
+    {
+      "id": "ce0a31bf662b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "published": "2026-07-16T20:07:14+00:00",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner."
+    },
     {
       "id": "2b59438fdbe0",
       "source": "Wired",
@@ -31,6 +42,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published": "2026-07-16T18:22:06+00:00",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
+    },
+    {
+      "id": "0a9f73ea5208",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "published": "2026-07-16T18:22:06+00:00",
       "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
@@ -97,6 +119,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Google is better at playing the AI regulations game",
+      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-16T16:55:54+00:00",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting ex"
+    },
+    {
+      "id": "2e72ae39c5bd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is better than Apple at playing the AI regulations game",
       "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
       "published": "2026-07-16T16:55:54+00:00",
       "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting ex"
@@ -196,6 +229,17 @@
       "category": "AI",
       "lang": "en",
       "title": "The Dangerous Illusion of AI Coding Skills",
+      "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "published": "2026-07-16T15:39:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fbc10c746dad",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Claude Just Revealed AI's Biggest Problem",
       "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
       "published": "2026-07-16T15:39:17+00:00",
       "summary": ""
@@ -702,6 +746,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "CIA \"우크라이나 AI 드론 위력에 러시아 신병 생존 시간 20~30분 불과'\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212867",
+      "published": "2026-07-16T08:53:57+00:00",
+      "summary": "우크라이나가 AI 기반 공격 드론을 전장에 대거 투입하면서 러시아군의 전투 손실이 급격히 늘어나고 있다는 미국의 분석이 나왔다. 미국 중앙정보국(CIA)은 우크라이나 전선에 새로 투입된 러시아 병사의 평균 생존 시간이 20~30분에 불과할 정도로 AI 드론이 전쟁 양상을 바꾸고 있다고 밝혔다.블룸버그에 따르면, 존 랫클리프 CIA 국장은 15일(현지시간) 미국 펜실베이니아에서 열린 국방혁신 정상회의에서 \"우크라이나 전장에서 새로 투입된 러시아 병사의 평균 생존 시간은 20~30분으로 추정된다\"라며"
+    },
+    {
+      "id": "c8d1128293a5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "CIA \"우크라이나 AI 드론 위력에 러시아 신병 생존 시간 30분 불과'\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212867",
       "published": "2026-07-16T08:53:57+00:00",
       "summary": "우크라이나가 AI 기반 공격 드론을 전장에 대거 투입하면서 러시아군의 전투 손실이 급격히 늘어나고 있다는 미국의 분석이 나왔다. 미국 중앙정보국(CIA)은 우크라이나 전선에 새로 투입된 러시아 병사의 평균 생존 시간이 20~30분에 불과할 정도로 AI 드론이 전쟁 양상을 바꾸고 있다고 밝혔다.블룸버그에 따르면, 존 랫클리프 CIA 국장은 15일(현지시간) 미국 펜실베이니아에서 열린 국방혁신 정상회의에서 \"우크라이나 전장에서 새로 투입된 러시아 병사의 평균 생존 시간은 20~30분으로 추정된다\"라며"
