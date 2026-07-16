@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-16T22:17:37.470237+00:00",
-  "count": 5928,
+  "updated_at": "2026-07-16T23:24:24.962682+00:00",
+  "count": 5930,
   "items": [
+    {
+      "id": "20c89cbacc98",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "published": "2026-07-16T22:17:27+00:00",
+      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic."
+    },
     {
       "id": "c4774359a106",
       "source": "AI타임스",
@@ -287,6 +298,17 @@
       "link": "https://www.mixfont.com/experiments/decoy-font",
       "published": "2026-07-16T16:18:21+00:00",
       "summary": "Article URL: https://www.mixfont.com/experiments/decoy-font Comments URL: https://news.ycombinator.com/item?id=48936584 Points: 261 # Comments: 75"
+    },
+    {
+      "id": "4dcff5fa6f54",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "NotebookLM is now Gemini Notebook",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "published": "2026-07-16T16:08:13+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/ Comments URL: https://news.ycombinator.com/item?id=48936451 Points: 203 # Comments: 114"
     },
     {
       "id": "5daf6cb76508",
