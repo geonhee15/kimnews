@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-07-15T23:55:08.829079+00:00",
-  "count": 5772,
+  "updated_at": "2026-07-16T02:05:09.981788+00:00",
+  "count": 5784,
   "items": [
+    {
+      "id": "84f124dc95e7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국민성장펀드 1호 투자사업 390MW 규모 ‘신안우이 해상풍력’ 착공",
+      "link": "https://zdnet.co.kr/view/?no=20260716061236",
+      "published": "2026-07-16T00:30:01+00:00",
+      "summary": "[지디넷코리아]국민성장펀드 1호 투자사업인 ‘신안우이 해상풍력’ 사업이 16일 착공식을 열고 본격적인 건설작업에 들어갔다.총사업비 3조 4000억원이 투입되는 신안우이 해상풍력은 신안군 우이도 남동측 해상에 390MW급 해상풍력 발전단지를 조성하는 사업이다. 2029년 1월 상업 운전이 목표다. 현재 가동중인 해상풍력으로는 제주한림 해상풍력(100.08MW)이, 건설 중인 해상풍력으로는 영광낙월 해상풍력(364.8MW)이 가장 크다.신안우이 해상풍력은 순수 국내 자본으로 추진되는 국내 최초 대규모"
+    },
+    {
+      "id": "6c070006e525",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "토스, 빅테크 금융 기업 중 첫 '금융복합기업집단' 지정",
+      "link": "https://zdnet.co.kr/view/?no=20260716092940",
+      "published": "2026-07-16T00:29:40+00:00",
+      "summary": "[지디넷코리아]토스가 빅테크 금융 기업 중 처음으로 금융복합기업집단에 지정됐다.금융위원회는 지난 15일 정례회의를 열고 ‘금융복합기업집단의 감독에 관한 법률’ 요건에 충족한 삼성·한화·미래에셋·교보·현대차·DB·다우키움·토스 등 8개 기업을 올해 금융복합기업집단으로 지정했다고 밝혔다.금융복합기업집단 지정 요건은 ▲여수신 보헙 금융투자업 중 두개 이상 금융업 영위 ▲금융위 인허가 등록 회사 한 개 이상 ▲자산총액 5조원 이상일 경우에 해당된다. 다만 ▲비주력업종 자산총액 5조원 미만일 경우 지정이 "
+    },
+    {
+      "id": "56e93ac39105",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "published": "2026-07-16T00:20:42+00:00",
+      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders."
+    },
+    {
+      "id": "b81aee689d21",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KF-21 ‘마지막 퍼즐’ 맞춘다…LIG D&A, 장거리공대공유도탄 논의",
+      "link": "https://zdnet.co.kr/view/?no=20260716091723",
+      "published": "2026-07-16T00:17:23+00:00",
+      "summary": "[지디넷코리아]LIG D&A가 KF-21에 탑재할 장거리공대공유도탄 체계개발 전략과 항공무장 국산화 방안을 논의했다. 단거리공대공·장거리공대지유도탄에 이어 장거리공대공유도탄까지 확보해 국산 전투기 무장체계를 완성한다는 구상이다.LIG D&A는 지난 15일 청주 오스코 컨벤션센터에서 ‘K-방산의 마지막 퍼즐’을 주제로 제6회 항공유도무기·항공전자 발전 세미나를 개최했다고 16일 밝혔다.행사에는 공군과 국방부, 방위사업청 등 민·관·군 관계자 약 350명이 참석해 장거리공대공유도탄 체계개발과 미래 항"
+    },
+    {
+      "id": "4256e9ae55b0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 음악 생성 개발사 수노, 유튜브 음원 불법 수집 의혹 '일파만파'",
+      "link": "https://zdnet.co.kr/view/?no=20260716090026",
+      "published": "2026-07-16T00:16:50+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 음악 생성기 개발사 수노가 유튜브 등에서 대규모 음원을 불법으로 수집했다는 외신 보도가 잇따르고 있다. 해킹으로 내부 소스 코드가 유출되면서 AI 학습 데이터를 확보한 경로가 드러난 것이다.15일(현지시간) 테크크런치 등 외신에 따르면 한 해커는 공급망 공격 과정서 발견한 소스 코드에 이같은 기록이 남았다고 주장했다. 해당 소스 코드에는 수노가 유튜브 뮤직, 디저, 지니어스, 스톡 음악 라이브러리, 팟캐스트 RSS 피드에서 수십 년치 오디오를 수집한 정황이 담겼다. "
+    },
+    {
+      "id": "4c67ee3c1cf9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"특가 상품 알려줘\"…롯데면세점, 챗GPT 쇼핑 서비스 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260716085727",
+      "published": "2026-07-16T00:14:15+00:00",
+      "summary": "[지디넷코리아]롯데면세점이 국내 면세업계 중 처음으로 생성형 AI 플랫폼 챗GPT 기반 쇼핑 서비스를 선보인다고 16일 밝혔다.이번 서비스는 롯데그룹이 추진 중인 전사적 인공지능 전환(AX) 전략의 일환이다. 롯데그룹은 최근 유통·호텔·서비스 등 주요 계열사를 중심으로 생성형 AI 기반 고객 서비스를 확대하며 AI를 새로운 고객 접점으로 활용하는 데 속도를 내고 있다.이번 서비스는 별도 앱 설치나 웹사이트 접속 없이 챗GPT 내에서 상품과 쇼핑 정보를 확인할 수 있는 것이 특징이다. 챗GPT 메뉴"
+    },
+    {
+      "id": "c3b7addbf94c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글 플레이스토어 개방…다음 주부터 타사 앱마켓 허용",
+      "link": "https://zdnet.co.kr/view/?no=20260716083826",
+      "published": "2026-07-16T00:13:03+00:00",
+      "summary": "[지디넷코리아]구글이 다음 주부터 미국 이용자들이 자사 플레이스토어 안에서 제3자 앱 마켓을 내려받을 수 있도록 허용한다.15일(현지시간) 블룸버그 등 외신에 따르면 구글은 캘리포니아 연방법원에 제출한 서류를 통해 에픽게임즈와의 반독점 소송의 최종 판결을 변경해달라는 요청을 철회한다고 밝혔다.이를 통해 장기간 이어져 온 양 사간의 소송은 마무리 수순을 밟게 됐다. 앞서 제임스 도나토 미국 연방지방법원 판사는 안드로이드 이용자들이 구글의 대안을 쉽게 선택할 수 있도록 구글 플레이스토어 내에서 경쟁 "
+    },
+    {
+      "id": "d66aea362226",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아톤, AI보안 연합 '캐노피' 합류…'디펜딩 파트너'로",
+      "link": "https://zdnet.co.kr/view/?no=20260716090809",
+      "published": "2026-07-16T00:08:09+00:00",
+      "summary": "[지디넷코리아]금융보안에 강점이 있는 아톤(대표 우길수)이 캐노피 프로젝트(Project Canopy)에 디펜딩 파트너(Defending Partners)로 합류했다. 국내 기업 및 기관이 만든 '캐노피'는 AI 기반 취약점 방어 기술을 사회 전반으로 확산하기 위한 공익 이니셔티브다. 미국 앤트로픽의 '글래스윙 프로젝트' 이후 결성했다.'캐노피' 프로젝트는 사단법인 프로젝트 플라즈마가 지난 6월 공식 출범한 공익 AI 보안 연합체다. 보안 여력이 부족한 국내 공익·민생 인프라의 방어력 강화에 초점"
+    },
+    {
+      "id": "c3bd4ebee1a8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[유미's 픽] 대한항공 품에 안기는 아시아나IDT…한진정보통신과 통합할까",
+      "link": "https://zdnet.co.kr/view/?no=20260714114244",
+      "published": "2026-07-16T00:05:17+00:00",
+      "summary": "[지디넷코리아]대한항공이 아시아나IDT 지분을 직접 취득하는 방안을 검토하면서 한진그룹 정보기술(IT) 계열사 통합 논의가 다시 수면 위로 떠올랐다. 아시아나IDT와 한진정보통신이 대한항공 직계 자회사로 나란히 놓일 수 있게 됐지만, 어느 회사를 중심으로 합칠지는 과거보다 셈법이 더 복잡해진 분위기다.16일 금융감독원 전자공시시스템에 따르면 대한항공은 공정거래법상 지주회사 행위제한 규정을 해소하기 위해 아시아나항공이 보유한 아시아나IDT 지분 76.22%를 직접 취득하는 방안을 검토하고 있다. 에"
+    },
+    {
+      "id": "1f951088d4c6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "published": "2026-07-15T23:59:44+00:00",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+    },
     {
       "id": "bd69d1000de0",
       "source": "Wired",
@@ -12,6 +122,17 @@
       "link": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
       "published": "2026-07-15T23:05:03+00:00",
       "summary": "Roughly 100 wildfires are raging out of control in Ontario, sending smoke streaming more than 1,000 miles from their origin."
+    },
+    {
+      "id": "599756ef8448",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the Eastern US",
+      "link": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
+      "published": "2026-07-15T23:05:03+00:00",
+      "summary": "Roughly 100 fires are raging out of control in Ontario, sending smoke streaming 1,000 miles to the south and east."
     },
     {
       "id": "e096e359080a",
@@ -100,6 +221,17 @@
       "link": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
       "published": "2026-07-15T20:58:16+00:00",
       "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence."
+    },
+    {
+      "id": "6582783f7c05",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Grok Build is open source",
+      "link": "https://github.com/xai-org/grok-build",
+      "published": "2026-07-15T20:24:58+00:00",
+      "summary": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 270 # Comments: 313"
     },
     {
       "id": "eb9c78eb5cb8",
