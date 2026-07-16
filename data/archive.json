@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-07-16T15:13:07.092365+00:00",
-  "count": 5880,
+  "updated_at": "2026-07-16T16:42:33.297720+00:00",
+  "count": 5894,
   "items": [
+    {
+      "id": "31bf777b0e5b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X cracks down on creators who steal content",
+      "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "published": "2026-07-16T16:40:36+00:00",
+      "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait."
+    },
+    {
+      "id": "ee995dfaeea8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "published": "2026-07-16T16:00:00+00:00",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
+    },
+    {
+      "id": "c9d701aef2bf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "published": "2026-07-16T16:00:00+00:00",
+      "summary": "Google said users can soon access their notebooks through AI Mode in Search."
+    },
+    {
+      "id": "748b31199483",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "published": "2026-07-16T16:00:00+00:00",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then call"
+    },
+    {
+      "id": "1aca91708406",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "published": "2026-07-16T15:48:21+00:00",
+      "summary": "Companies coming to market are raising money at fastest pace this century."
+    },
+    {
+      "id": "1818c2d0e80e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator ‘100 percent,’ investigators confirm",
+      "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
+      "published": "2026-07-16T15:41:09+00:00",
+      "summary": "The Tesla driver who fatally struck a woman after crashing into her home \"manually overrode\" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB) confirmed in a preliminary report on Wednesday. "
+    },
+    {
+      "id": "51ec3d2f9104",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Dangerous Illusion of AI Coding Skills",
+      "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "published": "2026-07-16T15:39:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "05500741cd29",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "published": "2026-07-16T15:38:55+00:00",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans."
+    },
+    {
+      "id": "6fe2ee4bb1cb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch",
+      "link": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/",
+      "published": "2026-07-16T15:37:09+00:00",
+      "summary": "Swatch’s latest MoonSwatch is the Mission to the Moon 1969, a limited-edition model with components crafted from Omega’s 18K Moonshine Gold. To get one, you'll have to join a lottery."
+    },
+    {
+      "id": "20e6ac861349",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "published": "2026-07-16T15:31:09+00:00",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball."
+    },
     {
       "id": "501eb16d43e9",
       "source": "The Verge",
@@ -67,6 +177,17 @@
       "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
       "published": "2026-07-16T14:00:00+00:00",
       "summary": "Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for Proton Mail, which is encrypted by default"
+    },
+    {
+      "id": "d0489cd8d888",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "윈스테크넷, ‘SNIPER AIVAX’ 기반 N2SF 대응 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260716224539",
+      "published": "2026-07-16T13:45:39+00:00",
+      "summary": "[지디넷코리아]윈스테크넷이 최근 출시한 생성형 AI 데이터 보안 솔루션 ‘SNIPER AIVAX(아래 사진)’를 앞세워 국가망보안체계(N2SF) 대응 시장 공략에 본격 나선다.최근 한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 국가·공공기관의 국가망보안체계 도입을 지원하기 위한 6개 컨소시엄을 선정하고 관련 사업을 추진한다고 밝혔다. 국가망보안체계(N2SF)는 기존 망 분리 중심의 보안 정책에서 벗어나 정보 중요도에 따라 보안 수준을 차등 적용하는 새로운 보안 체계로, 생성형 AI와 클라우"
     },
     {
       "id": "c1c218eee645",
@@ -155,6 +276,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260716085321",
       "published": "2026-07-16T12:21:46+00:00",
       "summary": "[지디넷코리아]엔켐은 미국 자회사 엔켐아메리카와, TGHL이 100% 보유한 특수목적회사(SPC)가 합병한 뒤 엔켐이 TGHL 신주를 취득해 지분 85%를 확보할 예정이라고 지난 15일 밝혔다.TGHL은 블록체인 기반 농식품 공급망 솔루션 기업이다. 합병이 완료되면 SPC는 소멸하고 엔켐아메리카가 존속법인으로 남는다.이에 따라 지배구조는 ‘엔켐-TGHL-엔켐아메리카’ 체제로 재편된다. 엔켐은 TGHL 최대 주주 지위와 미국 사업에 대한 경영권을 유지한다. 엔켐은 합병 이후 TGHL을 통해 최대 2"
+    },
+    {
+      "id": "b2078e0d0d9e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+      "link": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+      "published": "2026-07-16T12:13:43+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/ Comments URL: https://news.ycombinator.com/item?id=48933419 Points: 298 # Comments: 163"
     },
     {
       "id": "e7abbaee617c",
@@ -652,6 +784,17 @@
       "summary": "오픈AI가 최근 힘을 싣고 있는 AI 코딩 에이전트 서비스 '코덱스'의 브랜드 마케팅을 위해 첫 오프라인 굿즈를 선보였다. 본격적인 하드웨어 진출이라기보다는 기성 제조사의 제품을 활용한 일회성 협업 프로모션 이벤트다.오픈AI는 15일(현지시간) 기계식 키보드 제조사 워크 라우더(Work Louder)와 공동 개발한 AI 코딩 에이전트 전용 매크로패드 '코덱스 마이크로(Codex Micro)'를 출시했다. 가격은 230달러(약 34만원)다.이 제품은 여러 AI 코딩 에이전트를 한곳에서 관리하고 제어"
     },
     {
+      "id": "127d1e1b2961",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published": "2026-07-16T07:01:21+00:00",
+      "summary": ""
+    },
+    {
       "id": "e05732fc8204",
       "source": "AI타임스",
       "kind": "article",
@@ -914,6 +1057,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212818",
       "published": "2026-07-16T03:50:33+00:00",
       "summary": "오픈AI 최고기술책임자(CTO) 출신 미라 무라티가 이끄는 AI 스타트업 싱킹 머신즈 랩(TML)이 첫 자체 인공지능(AI) 모델을 공개하며 오픈소스 생태계에 승부수를 던졌다. 최첨단 성능 경쟁에 매달리기보다, 강력한 오픈소스 라이선스를 기반으로 추론 비용을 획기적으로 낮춰 기업들이 실무에 투입할 수 있는 실용적 모델이라는 점을 전면에 내세웠다.TML은 15일(현지시간) 자체 개발한 첫 대형언어모델(LLM) '잉클링(Inkling)'을 출시했다.잉클링은 텍스트와 이미지, 음성을 동시에 이해하는 네"
+    },
+    {
+      "id": "c75a73fa840d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "published": "2026-07-16T03:48:43+00:00",
+      "summary": "Article URL: https://madcampos.dev/blog/2026/07/accessibility-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48930136 Points: 209 # Comments: 101"
     },
     {
       "id": "80f037152cf3",
