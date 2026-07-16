@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-16T20:11:46.884063+00:00",
-  "count": 5914,
+  "updated_at": "2026-07-16T21:15:47.248307+00:00",
+  "count": 5921,
   "items": [
+    {
+      "id": "70b2400b64fd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
+      "link": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
+      "published": "2026-07-16T20:47:30+00:00",
+      "summary": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and its"
+    },
+    {
+      "id": "1d4f272c719c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
+      "link": "https://www.wired.com/story/wildfire-smoke-safety-guide/",
+      "published": "2026-07-16T20:41:10+00:00",
+      "summary": "As wildfire smoke threatens air quality and safety for millions, here’s your playbook to keep your family safe from the damaging effects of smoke."
+    },
+    {
+      "id": "ead131fbc111",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Netflix says around 300 titles used generative AI",
+      "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "published": "2026-07-16T20:29:27+00:00",
+      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher qu"
+    },
     {
       "id": "ce0a31bf662b",
       "source": "TechCrunch",
@@ -9,6 +42,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "published": "2026-07-16T20:07:14+00:00",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner."
+    },
+    {
+      "id": "50fee67c2e67",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
       "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
       "published": "2026-07-16T20:07:14+00:00",
       "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner."
@@ -155,6 +199,17 @@
       "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
       "published": "2026-07-16T16:40:36+00:00",
       "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait."
+    },
+    {
+      "id": "08e6c68274c7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Decoy Font",
+      "link": "https://www.mixfont.com/experiments/decoy-font",
+      "published": "2026-07-16T16:18:21+00:00",
+      "summary": "Article URL: https://www.mixfont.com/experiments/decoy-font Comments URL: https://news.ycombinator.com/item?id=48936584 Points: 261 # Comments: 75"
     },
     {
       "id": "5daf6cb76508",
@@ -309,6 +364,17 @@
       "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
       "published": "2026-07-16T15:00:00+00:00",
       "summary": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage."
+    },
+    {
+      "id": "5cc1841851e1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "link": "https://www.kimi.com/blog/kimi-k3",
+      "published": "2026-07-16T14:46:05+00:00",
+      "summary": "https://www.kimi.com/en Kimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3 Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 772 # Comments: 463"
     },
     {
       "id": "fe9f9e1060df",
@@ -617,6 +683,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
       "published": "2026-07-16T11:00:00+00:00",
       "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with "
+    },
+    {
+      "id": "17000074ca1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ente – Opening Our Books",
+      "link": "https://ente.com/open/",
+      "published": "2026-07-16T10:37:17+00:00",
+      "summary": "Article URL: https://ente.com/open/ Comments URL: https://news.ycombinator.com/item?id=48932697 Points: 208 # Comments: 78"
     },
     {
       "id": "dfe4529d358e",
