@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-17T18:40:53.292435+00:00",
-  "count": 6010,
+  "updated_at": "2026-07-17T19:46:54.981318+00:00",
+  "count": 6014,
   "items": [
+    {
+      "id": "81e1699be3c7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "published": "2026-07-17T19:34:30+00:00",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verg"
+    },
+    {
+      "id": "a52c8ba45dbf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+      "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
+      "published": "2026-07-17T19:17:46+00:00",
+      "summary": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border."
+    },
+    {
+      "id": "7dfbb6f98ba3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+      "link": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "published": "2026-07-17T19:14:42+00:00",
+      "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an inte"
+    },
     {
       "id": "fbc9b7385a2d",
       "source": "Wired",
@@ -64,6 +97,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "My Game Programming",
+      "link": "https://www.youtube.com/watch?v=G8vdu30EEfw",
+      "published": "2026-07-17T17:09:03+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ebbedf46c369",
+      "source": "ThePrimeagen",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I like Game Programming",
       "link": "https://www.youtube.com/watch?v=G8vdu30EEfw",
       "published": "2026-07-17T17:09:03+00:00",
       "summary": ""
