@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-17T14:56:21.852035+00:00",
-  "count": 5993,
+  "updated_at": "2026-07-17T16:12:49.864520+00:00",
+  "count": 5999,
   "items": [
+    {
+      "id": "707867b0e203",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "published": "2026-07-17T15:21:17+00:00",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training."
+    },
     {
       "id": "a90d0c834e60",
       "source": "TechCrunch",
@@ -25,6 +36,17 @@
       "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders."
     },
     {
+      "id": "74bea5d0fffa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HCL테크와 가디언, 기술 및 운영 전반의 AI 기반 현대화를 위한 파트너십 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260717231002",
+      "published": "2026-07-17T14:10:02+00:00",
+      "summary": "[지디넷코리아] 뉴욕 및 인도 노이다, 2026년 7월 17일 /PRNewswire/ -- 글로벌 선도 기술 기업 HCL테크(HCLTech)(NSE: HCLTECH)(BSE: HCLTECH)가 7월 16일 미국 최대 상호보험회사 중 하나이자 보험, 은퇴, 자산 관리 및 직원 복지 솔루션의 선도적 제공업체인 가디언 생명보험회사(The Guardian Life Insurance Company of America®•Guardian)와 새로운 7년 계약을 체결했다고 발표했다. 이번 계약은 양사가 앞서 발"
+    },
+    {
       "id": "3c91fc83ba8d",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +56,17 @@
       "link": "https://www.theverge.com/entertainment/966724/fallout-5-bethesda",
       "published": "2026-07-17T14:00:37+00:00",
       "summary": "Xbox is currently in a \"reset\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an attempt to show that things are still running fine, the company has announced a"
+    },
+    {
+      "id": "f4739844d264",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] (메모리) 잠그는 미국, (모델) 여는 중국...한국 선택은",
+      "link": "https://zdnet.co.kr/view/?no=20260717225520",
+      "published": "2026-07-17T13:55:20+00:00",
+      "summary": "[지디넷코리아]지난주 서울에서 막을 내린 ICML(국제머신러닝학회) 현장에서, 필자는 세계 각지의 연구자들과 인사를 나눴다. 그러다 묘하게 반복되는 동선 하나가 눈에 들어왔다. 적잖은 이들이 서울 일정을 마치면 곧장 상하이로 넘어간다고 했다. 7월 17일 개막한 세계인공지능대회(WAIC) 때문이었다. 지난 칼럼에서 필자는 ICML 서울의 진짜 무대가 낮의 발표장이 아니라 밤의 네트워킹에 있다고 적었는데, 그 밤의 발걸음은 이미 다음 목적지를 향하고 있었던 셈이다.그 자체로는 자연스러운 동선이다. "
     },
     {
       "id": "d26e3d2a653b",
@@ -256,6 +289,17 @@
       "summary": "[지디넷코리아]지난 13일(현지시간) 독일 뮌헨의 옛 도심에 자리잡은 막스플랑크협회 본부. 지혜의 여신 미네르바 조형물을 지나 독일 기초과학 연구의 상징인 이곳에 들어서자 줄줄이 세워진 노벨상 수상자 흉상들 너머로 관계자들이 분주히 오가는 모습이 보였다.이날은 협회 역사상 최대 건설사업인 뮌헨 인근 '마르틴스리트 캠퍼스' 설계 공모 결과가 발표된 날이었다. 반세기 넘게 사용한 막스플랑크 생화학연구소와 생물지능연구소 연구단지를 허물고 독일 바이에른주가 최대 5억유로(약 8천510억원)를 투입해 세계"
     },
     {
+      "id": "df1ecc02fb96",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published": "2026-07-17T06:57:54+00:00",
+      "summary": ""
+    },
+    {
       "id": "515ce14308d0",
       "source": "조코딩",
       "kind": "youtube",
@@ -265,6 +309,17 @@
       "link": "https://www.youtube.com/shorts/WcDBmbowpRs",
       "published": "2026-07-17T06:00:21+00:00",
       "summary": ""
+    },
+    {
+      "id": "d056772afd9c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "published": "2026-07-17T05:51:10+00:00",
+      "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876 Comments URL: https://news.ycombinator.com/item?id=48943745 Points: 204 # Comments: 129"
     },
     {
       "id": "a15ed6b9ffe9",
@@ -353,6 +408,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260717110816",
       "published": "2026-07-17T04:01:52+00:00",
       "summary": "[지디넷코리아]세계 최대 배터리 기업인 중국 CATL이 소듐(나트륨)이온배터리 기반 에너지저장장치(ESS)를 출시한 지 약 한 달 만에 유럽 수주를 따냈다.CATL은 유럽 신재생 에너지 통합 업체 알펜과 내년부터 네덜란드를 포함한 서유럽 국가에 5GWh 규모의 소듐 ESS를 구축하는 양해각서를 체결했다고 지난 16일 밝혔다.CATL은 지난달 22일 소듐 배터리 ESS ‘테너’를 출시했는데, 채 한 달도 되지 않아 유럽 수주를 확보한 것이다.CATL에 따르면 테너는 용량 30MWh에 전력 저장 시간"
+    },
+    {
+      "id": "5fa276565f73",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pebble Mega Update – July 2026",
+      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "published": "2026-07-17T03:53:38+00:00",
+      "summary": "Article URL: https://repebble.com/blog/pebble-mega-update-july-2026 Comments URL: https://news.ycombinator.com/item?id=48943174 Points: 211 # Comments: 117"
     },
     {
       "id": "3f7d3534f5ff",
