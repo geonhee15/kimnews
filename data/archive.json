@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-17T16:12:49.864520+00:00",
-  "count": 5999,
+  "updated_at": "2026-07-17T17:31:38.148553+00:00",
+  "count": 6004,
   "items": [
+    {
+      "id": "e559288750da",
+      "source": "ThePrimeagen",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "My Game Programming",
+      "link": "https://www.youtube.com/watch?v=G8vdu30EEfw",
+      "published": "2026-07-17T17:09:03+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7da70ff3033a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+      "link": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+      "published": "2026-07-17T16:47:13+00:00",
+      "summary": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&H Photo have this model on "
+    },
+    {
+      "id": "45d674045a2a",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The cost of saying yes has changed",
+      "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "published": "2026-07-17T16:46:47+00:00",
+      "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "1754be0c121c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "published": "2026-07-17T16:10:05+00:00",
+      "summary": "Official estimates Google and Apple likely made millions in nudify app fees."
+    },
+    {
+      "id": "4576ecc38d7b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ars is looking for a senior technology reporter, and you might be it!",
+      "link": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+      "published": "2026-07-17T15:52:28+00:00",
+      "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!"
+    },
     {
       "id": "707867b0e203",
       "source": "TechCrunch",
