@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-17T17:31:38.148553+00:00",
-  "count": 6004,
+  "updated_at": "2026-07-17T18:40:53.292435+00:00",
+  "count": 6010,
   "items": [
+    {
+      "id": "fbc9b7385a2d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
+      "link": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+      "published": "2026-07-17T18:30:00+00:00",
+      "summary": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents."
+    },
+    {
+      "id": "372bd84a98a6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Music is getting a price hike",
+      "link": "https://www.theverge.com/tech/967379/apple-music-price-increase",
+      "published": "2026-07-17T18:14:26+00:00",
+      "summary": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Mu"
+    },
+    {
+      "id": "e33cdd0ca6fc",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI is being sued for stealing, again…",
+      "link": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "published": "2026-07-17T17:56:42+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a66f4bb0381f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "published": "2026-07-17T17:45:46+00:00",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s "
+    },
+    {
+      "id": "ec1e955bf638",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s plot to crush OpenAI",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "published": "2026-07-17T17:41:32+00:00",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On thi"
+    },
     {
       "id": "e559288750da",
       "source": "ThePrimeagen",
@@ -67,6 +122,17 @@
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
       "published": "2026-07-17T15:21:17+00:00",
       "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training."
+    },
+    {
+      "id": "123b6b92dabe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mozilla: The state of open source AI",
+      "link": "https://stateofopensource.ai/",
+      "published": "2026-07-17T14:31:10+00:00",
+      "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 235 # Comments: 166"
     },
     {
       "id": "a90d0c834e60",
