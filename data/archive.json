@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-18T04:13:53.235455+00:00",
-  "count": 6044,
+  "updated_at": "2026-07-18T06:19:42.191476+00:00",
+  "count": 6048,
   "items": [
+    {
+      "id": "1fd4b7ac2f87",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "published": "2026-07-18T04:47:25+00:00",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
+    },
+    {
+      "id": "4369fdd0ac88",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"올해 노트북 OLED 출하량 66% 상승 전망\"",
+      "link": "https://zdnet.co.kr/view/?no=20260718131816",
+      "published": "2026-07-18T04:28:43+00:00",
+      "summary": "[지디넷코리아]올해 노트북과 모니터 유기발광다이오드(OLED) 출하량이 각각 전년비 66%, 34% 늘어날 것이라고 시장조사업체 옴디아가 최근 전망했다.옴디아는 올해 중대형(large area) OLED 출하량이 전년비 18.8% 늘어난 3880만대를 기록할 것이라고 예상했다. 여기서 '중대형' 패널은 노트북과 모니터, TV, 9인치 이상 태블릿, 사이니지 등을 가리킨다. 올해 중대형 OLED 출하량 성장동력인 노트북과 모니터 OLED 시장은 삼성디스플레이와 LG디스플레이가 이끌고 있다. BOE와"
+    },
+    {
+      "id": "428c3176e7c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, 美 법무부와 '슈퍼앱' 반독점 소송 합의 시도",
+      "link": "https://zdnet.co.kr/view/?no=20260718131548",
+      "published": "2026-07-18T04:15:59+00:00",
+      "summary": "[지디넷코리아]애플이 ‘슈퍼앱’을 비롯한 아이폰 관련 반독점 소송을 합의로 마무리하기 위해 미국 법무부와 협상을 진행하고 있다고 블룸버그가 17일(현지시간) 보도했다.이번 소송은 지난 2024년 미국 법무부 제소로 시작됐다. 당시 법무부 소송에서 제기한 쟁점은 크게 네 가지였다.첫째. '슈퍼 앱' 제한둘째. 폐쇄적인 메시징 서비스셋째. 클라우드 스트리밍 차단넷째. 타사 디지털 지갑 및 스마트워치 연동 제한법무부는 애플의 이 같은 행위가 미국 독점금지법 위반에 해당된다고 판단하고 있다. 슈퍼앱이란 "
+    },
     {
       "id": "4c3a47e1ac22",
       "source": "AI타임스",
@@ -353,6 +386,17 @@
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "published": "2026-07-17T17:45:46+00:00",
       "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s "
+    },
+    {
+      "id": "fba68f74c227",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Learning a few things about running SQLite",
+      "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "published": "2026-07-17T17:45:41+00:00",
+      "summary": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48950122 Points: 208 # Comments: 52"
     },
     {
       "id": "ec1e955bf638",
