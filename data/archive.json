@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-18T20:41:09.421368+00:00",
-  "count": 6080,
+  "updated_at": "2026-07-18T21:33:31.112439+00:00",
+  "count": 6084,
   "items": [
+    {
+      "id": "dfab4eb60b53",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "published": "2026-07-18T20:54:42+00:00",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly."
+    },
     {
       "id": "8aca71d31f25",
       "source": "TechCrunch",
@@ -23,6 +34,17 @@
       "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
       "published": "2026-07-18T18:25:08+00:00",
       "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typical"
+    },
+    {
+      "id": "732cf10bbba0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CGTN: 중국, 커지는 AI 격차 속 AI를 공동 번영의 동력으로 삼겠다고 다짐",
+      "link": "https://zdnet.co.kr/view/?no=20260719031003",
+      "published": "2026-07-18T18:10:03+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 7월 19일 /PRNewswire/ -- 파키스탄이 연례 몬순기에 접어들면서, 국민의 생명과 생계를 보호하기 위해 정확한 기상 예보가 매우 중요해졌다. 인공지능(AI)을 기반으로 하는 중국의 MAZU 기상 시스템은 파키스탄이 조기 경보 신호를 포착하고 잠재적인 극한 기상 현상에 대해 더 신속하게 경보를 발령할 수 있도록 지원하고 있다. 파키스탄 기상청(Pakistan Meteorological Department) 연구개발부의 푸루크 바시르(Furrukh Bashi"
     },
     {
       "id": "e6fb3921dafd",
@@ -240,6 +262,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "영국 AISI 경고 “중국 오픈 모델, 미국과 사이버 보안 격차 4개월로 단축”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212900",
+      "published": "2026-07-18T08:06:56+00:00",
+      "summary": "중국의 오픈웨이트 AI 모델이 사이버 보안 능력에서 미국 선도 AI 모델을 빠르게 따라잡고 있다는 연구 결과가 나왔다. 특히 중국 AI 모델과 미국 최첨단 모델 간 성능 격차가 불과 4개월 수준으로 좁혀지면서, 저렴하면서도 강력한 AI 모델이 사이버 공격에 악용될 위험이 커지고 있다는 경고도 제기됐다.영국 AI 보안연구소(AISI)는 17일(현지시간) 공개한 보고서를 통해 중국 오픈웨이트 AI 모델의 사이버 보안 역량을 분석한 결과, 미국 최첨단 폐쇄형 AI 모델과의 성능 차이가 지난해 6~10개"
+    },
+    {
+      "id": "23ab6edcc775",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "영국 AISI 경고 “중국 오픈 모델, 미국과 보안 격차 4개월로 단축”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212900",
       "published": "2026-07-18T08:06:56+00:00",
       "summary": "중국의 오픈웨이트 AI 모델이 사이버 보안 능력에서 미국 선도 AI 모델을 빠르게 따라잡고 있다는 연구 결과가 나왔다. 특히 중국 AI 모델과 미국 최첨단 모델 간 성능 격차가 불과 4개월 수준으로 좁혀지면서, 저렴하면서도 강력한 AI 모델이 사이버 공격에 악용될 위험이 커지고 있다는 경고도 제기됐다.영국 AI 보안연구소(AISI)는 17일(현지시간) 공개한 보고서를 통해 중국 오픈웨이트 AI 모델의 사이버 보안 역량을 분석한 결과, 미국 최첨단 폐쇄형 AI 모델과의 성능 차이가 지난해 6~10개"
@@ -584,6 +617,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212896",
       "published": "2026-07-17T21:45:57+00:00",
       "summary": "메타가 막대한 비용을 투자해 구축한 데이터센터의 컴퓨팅 파워를 경쟁사인 앤트로픽에 임대하는 계약을 추진 중이다. 이번 거래가 성사되면 메타는 처음으로 클라우드 시장에 진출하게 된다.뉴욕타임스(NYT)는 18일 정통한 소식통을 인용, 메타가 고성능 AI 컴퓨팅 자원을 앤트로픽에 임대하는 초기 논의를 진행 중이라고 보도했다.이에 따르면 이번 파트너십 제안은 지난 6월 앤트로픽이 먼저 메타에 제안하면서 시작됐다. 규모는 2년간 최대 100억달러(약 14조9000억원)에 달할 것으로 추산된다. 앤트로픽은"
+    },
+    {
+      "id": "e864ee07a05e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "published": "2026-07-17T21:42:43+00:00",
+      "summary": "Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md Comments URL: https://news.ycombinator.com/item?id=48952565 Points: 208 # Comments: 84"
     },
     {
       "id": "fafaa99fd861",
