@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-18T16:35:50.526198+00:00",
-  "count": 6075,
+  "updated_at": "2026-07-18T17:40:16.478455+00:00",
+  "count": 6077,
   "items": [
+    {
+      "id": "e6fb3921dafd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is open-sourcing its 3D emoji",
+      "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "published": "2026-07-18T16:40:55+00:00",
+      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration sudde"
+    },
     {
       "id": "749f923b033d",
       "source": "TechCrunch",
@@ -658,6 +669,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "OpenAI is being sued for stealing, again…",
+      "link": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "published": "2026-07-17T17:56:42+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bc6c29ec2f6e",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI gets sued for stealing, again…",
       "link": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
       "published": "2026-07-17T17:56:42+00:00",
       "summary": ""

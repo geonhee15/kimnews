@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-07-19",
-  "generated_at": "2026-07-18T16:35:50.487044+00:00",
-  "count": 2,
+  "generated_at": "2026-07-18T17:40:16.439950+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "e6fb3921dafd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is open-sourcing its 3D emoji",
+      "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration sudde",
+      "content": "The company also gave a bit of insight into the design process for World Emoji Day.\n\nNow, if you want to, you can use Google’s 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when you’re talking about a 3D model. Is a smiley face a sphere? A mask? A flat disc?\n\nIn addition to offering a behind-the-scenes look at Google’s design process, it also announced that it would be completely open-sourcing the emoji set:\n\nWe’re handing over raw .OBJ files to the community so they can use them to build immersive VR worlds, indie apps or weird memes.\n\nExactly what kind of “immersive VR worlds” someone might want to build with a bunch of emojis is a bit of a mystery to me. But if the Emoji Movie is any indication, it won’t be good. Google’s Noto Emoji 3D made their debut in May and were met with 😬 reactions .\n\nThis is the title for the native ad",
+      "published": "2026-07-18T16:40:55+00:00"
+    },
     {
       "id": "749f923b033d",
       "source": "TechCrunch",
