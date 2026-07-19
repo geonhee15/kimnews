@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-19T14:34:25.692035+00:00",
-  "count": 6138,
+  "updated_at": "2026-07-19T15:37:13.034403+00:00",
+  "count": 6144,
   "items": [
+    {
+      "id": "a6a16a6ca548",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Birdfy’s solar-powered smart feeder is down to one of its best prices",
+      "link": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+      "published": "2026-07-19T15:00:00+00:00",
+      "summary": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is its second-best price to date. The bundl"
+    },
+    {
+      "id": "497839e9f924",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published": "2026-07-19T14:52:08+00:00",
+      "summary": "\"Everybody knows the Greeks are inside.\""
+    },
     {
       "id": "b46bf6973963",
       "source": "TechCrunch",
@@ -12,6 +34,39 @@
       "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "published": "2026-07-19T14:00:00+00:00",
       "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
+    },
+    {
+      "id": "4594deb856f4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스페인 vs 아르헨티나, 누가 이길까…AI에 물었더니",
+      "link": "https://zdnet.co.kr/view/?no=20260719214000",
+      "published": "2026-07-19T12:40:43+00:00",
+      "summary": "[지디넷코리아]축구 황제 리오넬 메시(39·아르헨티나)가 또 다시 화려한 라스트댄스를 완성할까. 아니면 신동 라민 야말(19·스페인)이 새로운 축구 황제로 등극할까.19일 오후 3시(미국 중부시간, 한국 시간 20일 오전 4시) 뉴욕 뉴저지 스타디움에서 열리는 아르헨티나와 스페인의 월드컵 결승전에 전 세계 축구팬의 시선이 집중되고 있다.전문가들의 예상은 스페인 승리 쪽으로 기울고 있다. 그렇다면 인공지능(AI) 모델들의 예상은 어떨까?미국 씨넷은 AI 모델 5개에 월드컵 결승전 승부 예측을 시킨 "
+    },
+    {
+      "id": "aaba02e21162",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "복지부, 공공의료체계 확충 및 지역의료에 획기적 투자로 5극·3특 뒷받침",
+      "link": "https://zdnet.co.kr/view/?no=20260719213234",
+      "published": "2026-07-19T12:32:34+00:00",
+      "summary": "[지디넷코리아]보건복지부는 ‘생명존중 복지국가, 함께 도약하는 대한민국’을 실현하기 위해 생명 살리고, 돌봄 넓히고, 지역의료를 키우는 정책을 추진한다.보건복지부는 지난 16일 대통령 업무보고에서 ‘생명존중 복지국가, 함께 도약하는 대한민국’을 비전으로 ▲목숨을 살리는 사회안전망 ▲국가책임 돌봄 ▲지속가능한 연금체계 ▲청년 도약 복지 ▲5극·3특 지역의료 ▲바이오·AI기반 성장동력 ▲신뢰받는 보건복지체계 등 7대 핵심 추진과제를 추진하겠다고 밝혔다.보건의료와 관련해 우선 골든타임을 지키는 응급·분"
+    },
+    {
+      "id": "1d9a14370bce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "published": "2026-07-19T10:34:58+00:00",
+      "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard Comments URL: https://news.ycombinator.com/item?id=48966713 Points: 202 # Comments: 101"
     },
     {
       "id": "9e60f0fe6ad9",
@@ -507,6 +562,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260719012320",
       "published": "2026-07-18T22:12:30+00:00",
       "summary": "[지디넷코리아]애플이 엔화 약세 현상이 지속됨에 따라 일본 시장에서 아이폰 등 주요 제품군의 판매 가격을 전격 인상했다. 현지 통화 가치가 40년 만에 최저 수준에 근접하면서 수익성 방어를 위해 가격 조정을 단행한 것으로 풀이된다.블룸버그 통신은 애플 공식 웹사이트를 인용해 일본 내 아이폰 17 기본 모델(256GB 저장용량 기준)의 시작 가격이 기존 12만9800엔(119만720원)에서 약 10% 인상된 14만2800엔(약 130만9975원)으로 책정됐다고 현지시간 18일 보도했다.고급형 라인업"
+    },
+    {
+      "id": "3bc61c18cace",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "link": "https://www.neatnik.net/hardcore-indieweb",
+      "published": "2026-07-18T21:45:12+00:00",
+      "summary": "Article URL: https://www.neatnik.net/hardcore-indieweb Comments URL: https://news.ycombinator.com/item?id=48962758 Points: 208 # Comments: 169"
     },
     {
       "id": "dfab4eb60b53",
