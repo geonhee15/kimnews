@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-19T16:35:08.517785+00:00",
-  "count": 6145,
+  "updated_at": "2026-07-19T17:40:55.592871+00:00",
+  "count": 6149,
   "items": [
+    {
+      "id": "9b24b627226c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "published": "2026-07-19T17:35:54+00:00",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that […"
+    },
+    {
+      "id": "f4de9a2d37ab",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The FBI reportedly won’t investigate ICE anymore",
+      "link": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+      "published": "2026-07-19T16:42:10+00:00",
+      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE a"
+    },
     {
       "id": "65db770e9df4",
       "source": "TechCrunch",
@@ -100,6 +122,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260719190845",
       "published": "2026-07-19T10:08:52+00:00",
       "summary": "[지디넷코리아]제48차 유네스코 세계유산위원회 회의가 부산 벡스코에서 개막했다.세계유산위원회 회의가 우리나라에서 열린 것은 1988년 세계유산협약 가입 이후 38년 만에 처음이다.국가유산청(청장 허민)은 유네스코와 함께 19일 오후 6시 부산 벡스코에서 열린 제48차 유네스코 세계유산위원회의 개회식을 열었다.세계유산위원회는 세계유산 등재와 보존·관리 정책을 결정하는 유네스코 세계유산협약의 최고 의사결정기구다. 올해 회의는 오는 29일까지 부산 벡스코 일대에서 열리며, 위원국 21개국을 비롯해 세계"
+    },
+    {
+      "id": "29e8876d3039",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "published": "2026-07-19T10:03:23+00:00",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/ Comments URL: https://news.ycombinator.com/item?id=48966569 Points: 227 # Comments: 311"
     },
     {
       "id": "5676bae699ac",
@@ -5952,6 +5985,17 @@
       "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
       "published": "2026-07-14T18:33:31+00:00",
       "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions."
+    },
+    {
+      "id": "15ef1d24c69c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Blender 5.2 LTS",
+      "link": "https://www.blender.org/download/releases/5-2/",
+      "published": "2026-07-14T18:22:47+00:00",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-2/ Comments URL: https://news.ycombinator.com/item?id=48911021 Points: 225 # Comments: 91"
     },
     {
       "id": "eaeb5c33daac",
