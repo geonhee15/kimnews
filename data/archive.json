@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-19T07:14:57.126627+00:00",
-  "count": 6125,
+  "updated_at": "2026-07-19T09:18:08.741354+00:00",
+  "count": 6131,
   "items": [
+    {
+      "id": "d718588fabb3",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - Kimi K3 열풍, Fable 5 구독제 계속, 오픈AI 하드웨어, grok-build 오픈소스, Gemini Spark, Lucy 2.5 등",
+      "link": "https://www.youtube.com/watch?v=mxSVL5fOtyU",
+      "published": "2026-07-19T09:00:38+00:00",
+      "summary": ""
+    },
+    {
+      "id": "981757130920",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 기반 커넥티비티: 아시아•태평양, 더 스마트한 디지털 미래를 향한 길 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260719171003",
+      "published": "2026-07-19T08:10:03+00:00",
+      "summary": "[지디넷코리아]아시아•태평양 최초의 광대역 발전 서밋, 규제기관과 통신사업자들이 방콕에 모여 미래 의제 설정 방콕 2026년 7월 19일 /PRNewswire/ -- 정부 관계자와 표준화 기구, 통신사업자들이 7월 14일 방콕에 모여 세계광대역협회(World Broadband Association, WBBA)가 주최한 제1회 아시아•태평양 광대역 발전 서밋 2026(Broadband Development Summit APAC 2026)에 참석하고, AI 시대 네트워크에 대한 공감대 형성에 나섰다."
+    },
+    {
+      "id": "93b5e57d1dc6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212914",
+      "published": "2026-07-19T07:35:35+00:00",
+      "summary": "엔비디아 내부에서도 GPU 확보를 위한 치열한 경쟁이 벌어지고 있는 것으로 확인됐다. 세계적인 AI 열풍으로 데이터센터용 칩 주문이 폭주하는 가운데, 정작 엔비디아의 미래 핵심 사업인 자율주행 사업부조차 컴퓨팅 자원을 배정받기 위해 젠슨 황 CEO의 중재를 거쳐야 하는 실정으로 알려졌다.신조 우 엔비디아 차량용 반도체 부문 부사장은 최근 '디코더(Decoder)' 팟캐스트에 출연해 \"전 세계 모든 GPU가 예약돼 있어, 우리는 내부적으로도 컴퓨팅 자원 확보를 위한 치열한 다툼을 벌이고 있다\"라고 "
+    },
+    {
+      "id": "3f9601849173",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MDT, CGM 기기서 2년 이상 대기 작동 지원하는 초저전력 자기 스위치 IC TMR1370 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260719161003",
+      "published": "2026-07-19T07:10:03+00:00",
+      "summary": "[지디넷코리아] — 최대 공급 전류 50nA의 차세대 초저전력 TMR 자기 스위치로 검증된 MDT CGM 센서 포트폴리오 확대 장자강, 중국, 2026년 7월 19일 /PRNewswire/ -- 자기 센서 분야의 선도적 공급업체이자 터널링 자기 저항(Tunneling Magnetoresistance, TMR) 기술의 선구자인 MultiDimension Technology Co., Ltd.(MDT)가 연속 혈당 측정(Continuous Glucose Monitoring, CGM) 기기용 자기 센서 "
+    },
     {
       "id": "c83001176082",
       "source": "AI타임스",
@@ -12,6 +56,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212909",
       "published": "2026-07-19T06:40:51+00:00",
       "summary": "중국 정부가 자국 AI 기업들이 미국 AI 모델의 기술을 불법적으로 추출해 활용하고 있다는 미국 기업들의 주장을 정면으로 반박했다. 중국은 AI 기술 발전은 개방과 협력을 통해 이뤄져야 한다며 미국의 문제 제기가 기술 경쟁을 정치화하고 있다고 비판했다.류빈 중국 외교부 부부장은 18일(현지시간) 상하이에서 열린 세계인공지능대회(WAIC)에서 \"일부 국가들이 AI 증류(distillation) 문제를 지나치게 부각하고 있다\"라며 \"이는 잘못된 접근이며 생산적이지도 않다\"라고 말했다.그는 미국을 직접"
+    },
+    {
+      "id": "70dc23378286",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한화필리조선소, 美 ‘골든돔’ 지원선 건조…방산 진출 속도",
+      "link": "https://zdnet.co.kr/view/?no=20260719153926",
+      "published": "2026-07-19T06:39:26+00:00",
+      "summary": "[지디넷코리아]한화필리조선소가 미국의 차세대 미사일 방어체계 ‘골든돔’을 지원하는 해상 미사일 시험 계측선 건조를 맡는다. 국가안보 다목적 선박에 이어 미국 핵심 안보 프로젝트까지 수주하면서 한화의 현지 조선·방산 시장 진출도 본격화할 전망이다.18일 한화에 따르면 미국 해사청은 17일(현지시간) 한화필리조선소에서 열린 국가안보 다목적 선박(NSMV) 4호선 ‘론스타 스테이트’ 명명식에서 해상 미사일 시험 계측선(MRIV) 건조 계약 체결을 발표했다.18일 한화에 따르면 미국 해사청은 17일(현지"
     },
     {
       "id": "b8eb6a794d32",
@@ -353,6 +408,17 @@
       "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "published": "2026-07-18T22:13:39+00:00",
       "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 336 # Comments: 159"
+    },
+    {
+      "id": "8b0c45184540",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "published": "2026-07-18T22:13:39+00:00",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 464 # Comments: 205"
     },
     {
       "id": "57f6681d9dd9",
