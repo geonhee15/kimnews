@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-07-20T07:55:27.206340+00:00",
-  "count": 6205,
+  "updated_at": "2026-07-20T10:46:33.687877+00:00",
+  "count": 6229,
   "items": [
+    {
+      "id": "37a9ad3ea798",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China delivers a one-two punch to America’s AI dominance",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "published": "2026-07-20T10:16:33+00:00",
+      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is"
+    },
+    {
+      "id": "b4d95bc3edbb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
+      "link": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
+      "published": "2026-07-20T10:15:00+00:00",
+      "summary": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July."
+    },
+    {
+      "id": "973ae6b85717",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+      "published": "2026-07-20T10:00:00+00:00",
+      "summary": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports."
+    },
+    {
+      "id": "4345cb4a07b2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "팀스파르타 초경량 언어모델, 'K-AI 리더보드' 초고난도 추론 1위",
+      "link": "https://zdnet.co.kr/view/?no=20260720183030",
+      "published": "2026-07-20T09:30:30+00:00",
+      "summary": "[지디넷코리아]팀스파르타(대표 이범규)가 자체 개발한 초경량 언어모델 ‘K-AX 스파르탄 1.8B’가 과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 운영하는 ‘K-AI 리더보드’의 초고난도 추론 평가인 ‘HLE(Ko)’ 분야에서 1위를 차지했다.이번 성과에 대해 회사는 \"대형 모델 중심의 AI 시장에서 독자적인 초경량 모델의 압도적인 효율성과 고난도 추론 성능을 입증했다는 점에서 의의가 크다\"고 밝혔다.HLE(Humanity’s Last Exam)는 미국 AI안전센터와 스케일AI가 공동 개발"
+    },
+    {
+      "id": "dad40e3711f6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바이버, 거래액 4000억원 넘었다…해외 거래도 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260720181708",
+      "published": "2026-07-20T09:18:39+00:00",
+      "summary": "[지디넷코리아]명품시계 거래 플랫폼 바이버가 누적 거래액 4000억원을 돌파했다. 이용자와 판매 상품이 함께 늘어나며 거래 규모가 확대된 가운데 해외 거래도 빠르게 증가하면서 글로벌 시장 공략에 속도를 내고 있다.명품시계 거래 플랫폼 바이버(VIVER)는 누적 거래액 4000억원을 돌파했다고 20일 밝혔다.바이버는 2022년 8월 서비스 출시 이후 지난 2월 누적 거래액 3000억원을 기록한 데 이어 약 5개월 만에 4000억원을 넘어섰다. 회사는 서비스 출시 이후 가장 빠른 성장 속도라고 설명했"
+    },
+    {
+      "id": "a99ccc34fc66",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국방 LLM 개발…LIG D&A·한화시스템 컨소시엄 맞붙는다",
+      "link": "https://zdnet.co.kr/view/?no=20260720180732",
+      "published": "2026-07-20T09:09:35+00:00",
+      "summary": "[지디넷코리아]군 지휘통제 현장에 국방 특화 인공지능(AI)을 직접 투입하는 242억원 규모 국방 거대언어모델(LLM) 사업에 나설 민간 기업이 이르면 이달 가려진다. 20일 업계에 따르면 국방부가 발주한 '초거대 인공지능 기반 지휘통제체계 기술 개발 사업'은 LIG 디펜스&에어로스페이스(D&A)와 한화시스템을 각각 주축으로 한 두 컨소시엄이 지원했다. 제안서 평가가 진행 중인 가운데 LIG D&A 컨소시엄에는 삼성SDS·SK텔레콤·LG AI연구원 등이, 한화시스템 컨소시엄에는 네이버클라우드 등이"
+    },
+    {
+      "id": "2da2f1503d3a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배 부총리 \"누리호 연 1회 발사로는 2035년 저궤도 위성 통신망 구축 어려워\"",
+      "link": "https://zdnet.co.kr/view/?no=20260720180814",
+      "published": "2026-07-20T09:08:14+00:00",
+      "summary": "[지디넷코리아]\"오는 2035년까지 저궤도위성(LEO) 통신 망을 구축하기 위해서는 누리호 연 1회 발사로는 어려울 것이다.\"취임 1년을 갓 넘긴 배경훈 부총리 겸 과학기술정보통신부장관은 20일 세종 과학기술정보통신부 4층 복합커뮤니티에서 열린 기자간담회에서 이같이 언급했다.이날 진행된 기자간담회는 전반적인 설명과 질문이 AI에 집중됐다. 과학기술 관련해서 김 부총리 설명과 기자단 질문 및 대답을 중심으로 정리했다.배 부총리는\"저궤도 위성 통신을 완성하기 위해서는 대략 200개 이상 위성을 쏘아 "
+    },
+    {
+      "id": "6964b160160a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[기고] 슈퍼브에이아이 “피지컬 AI 데이터 팩토리, '몇 개 짓느냐'보다 '어떻게 돌리느냐'”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212953",
+      "published": "2026-07-20T09:05:00+00:00",
+      "summary": "'피지컬 AI 데이터 팩토리'가 올해 정책의 핵심 언어가 됐다. 업계에서는 전국 권역별 데이터 팩토리 구축이 과제로 논의되고 있다. 과기정통부 차관이 관련 시연을 직접 참관했다는 소식도 들린다. 피지컬 AI의 가장 큰 병목이 ‘데이터’라는 인식이 정부와 업계에도 자리 잡았다는 의미다. 데이터를 업으로 삼아 온 입장에서는 반가운 변화다. 하지만, 논의가 본격하되는 현시점에서 반드시 짚어야 할 지점이 하나 있다. 해외 사례든 국내 구상이든, 현재의 데이터 팩토리 담론은 '시설'로 수렴하는 경향이 있다"
+    },
+    {
+      "id": "3e55bff2ff3f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 모델들의 월드컵 베팅 결과는...제미나이 1위·클로드 최하위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212958",
+      "published": "2026-07-20T09:00:00+00:00",
+      "summary": "지식 측정 중심의 기존 평가 체계를 넘어, 시시각각 변하는 실전 데이터 속에서 AI 모델들의 의사결정 능력을 겨루는 '2026 월드컵 베팅 벤치마크'가 등장해 눈길을 끌었다.비즈니스 인사이더(BI)에 따르면, AI 스타트업 옵사이드(Obside)는 대표 AI 모델을 7종을 대상으로 2026 월드컵 경기 결과를 예측하고 실시간 배당률에 따라 베팅하는 독특한 실험을 진행했다.AI 베팅 아레나라는 이름의 벤치마크에는 'GPT-5.5'와 '클로드 오퍼스 4.8', '제미나이 3.5 플래시', '딥시크- "
+    },
+    {
+      "id": "e9ead43a5c07",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나델라, 앤트로픽 비판…“페이블 5, 지나친 편집 통제 타당하지 않아”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212941",
+      "published": "2026-07-20T09:00:00+00:00",
+      "summary": "사티아 나델라 마이크로소프트(MS) CEO가 파트너사인 앤트로픽의 '페이블 5'의 이용 제한 정책을 두고 비판적인 견해를 드러냈다. 과도한 안전 조치가 도구로서의 유용성을 저해한다는 지적이다.16일(현지시간) CNBC가 입수한 MS 내부 발언록에 따르면, 나델라 CEO는 ‘코파일럿’ 개발 엔지니어들과의 회의에서 “페이블을 사용하다가 어떤 이유로든 답변 거부가 발생할 때면, '이렇게 편집을 완벽하게 제어할 수 있는 제작 도구가 언제 마지막으로 나왔던가'라는 생각이 든다”라며 “도무지 말이 되지 않는"
+    },
+    {
+      "id": "38d9fff43078",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 'GPT-5.6 솔' 사용자 후기 공개…\"생성 넘어 워크플로우 중심으로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212937",
+      "published": "2026-07-20T09:00:00+00:00",
+      "summary": "오픈AI가 'GPT-5.6 솔(sol)' 출시 이후 전 세계 실제 사용자들이 제출한 1만개 이상의 활용 후기를 한데 모은 대규모 데이터베이스를 공개했다. 이번 데이터는 총 100만달러 상당의 크레딧 보상을 내건 대형 캠페인을 통해 수집된 것으로, AI가 단순한 문장 및 코드 작성을 넘어 산업별 실제 워크플로우(Workflow)에 어떻게 파고들었는지를 보여준다.오픈AI는 18일(현지시간) '사람들이 GPT-5.6 솔을 사랑하는 1만가지 이유'라는 웹사이트를 오픈했다. 이는 지난 15일 티보 소티오 "
+    },
+    {
+      "id": "a65aea0a061f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"대학생팀 vs AI 금융보안 대결\"...금보원 캠프 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260720174652",
+      "published": "2026-07-20T08:46:52+00:00",
+      "summary": "[지디넷코리아]금융보안원(원장 박상원)이 20~22일 2박 3일간 경기도 용인 카카오 AI 캠퍼스에서 대학(원)생을 대상으로 '2026년 금융보안 AI 아카데미 캠프'를 개최한다.금융권 전반에 생성형AI 도입이 빠르게 확산하면서 AI 서비스 안전성, 신뢰성을 검증할 수 있는 ‘AI 레드티밍(Red Teaming)' 역량을 갖춘 전문 인재를 조기에 발굴 및 양성하기 위해 마련됐다. AI레드티밍은 공격자 관점에서 AI 모델의 취약점을 능동적으로 찾아내 안전성을 검증하는 활동을말한다.정보보호 및 AI "
+    },
+    {
+      "id": "bca3d5ea1c81",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "넘즈에이아이, ‘정형 데이터 파운데이션 모델’로 40억 시드 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212957",
+      "published": "2026-07-20T08:46:09+00:00",
+      "summary": "넘즈에이아이(Nums AI, 대표 유재민)가 정형 데이터 파운데이션 모델(TFM) 기술력을 통해 40억원 규모의 첫 투자를 유치했다고 20일 밝혔다. 이번 투자는 스톤브릿지벤처스가 리드했으며 SBVA, KT인베스트먼트 및 베이스벤처스가 참여했다. 이번 투자를 계기로 GPU 인프라와 연구 조직을 확대하고, TFM 개발을 가속할 계획이다.‘정형 데이터’란 행과 열로 정리된 표 형태의 수치 데이터를 뜻한다. 매출 기록, 거래 내역, 고객 정보처럼 기업이 다루는 데이터의 상당수가 이에 해당한다. 대형언어"
+    },
+    {
+      "id": "52012c2f441f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브룩필드 찾는 네이버 이해진·최수연…AI 조단위 투자 유치하나",
+      "link": "https://zdnet.co.kr/view/?no=20260720172121",
+      "published": "2026-07-20T08:46:02+00:00",
+      "summary": "[지디넷코리아]이해진 창업자와 최수연 대표를 포함한 네이버 최고경영진이 글로벌 대체자산 운용사 브룩필드의 캐나다 본사를 방문한다. 이를 통해 네이버는 데이터센터 등 인공지능(AI) 팩토리 구축에 필요한 자금을 수혈할 것으로 보인다.20일 IT업계에 따르면 이 의장과 최 대표는 이번 주 초 캐나다 토론토에 있는 브룩필드 본사를 방문할 계획이다. 이번 방문에는 김희철 네이버 최고재무책임자(CFO)와 관련 계열사 주요 임원도 동행한다.이번 방문에서 네이버 경영진은 브룩필드 최고위급 인사들을 만나 데이터"
+    },
+    {
+      "id": "3e264eff2898",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"챗봇과 바람피우면 이혼\"…'AI 불륜 조항' 넣는 신혼부부들",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212960",
+      "published": "2026-07-20T08:45:00+00:00",
+      "summary": "최근 미국 혼전 계약 서비스 업계에서 배우자와 AI의 ‘외도’ 조항에 대한 문의가 급증하는 것으로 나타났다.18일(현지시간) 비즈니스인사이더에 따르면, 온라인 혼전 계약 서비스 ‘헬로 프리넙(Hello Prenups)’의 줄리아 로저스 CEO는 일부 고객들로부터 “AI와의 관계를 ‘외도’에 포함할 수 있도록 혼전 계약 범위를 확대해 달라”는 요청을 지속적으로 받고 있다고 전했다.실제 계약서에 사용된 내용을 바탕으로 공개된 예시 조항에 따르면, AI와의 외도는 다음과 같이 정의된다.“AI 챗봇, 가"
+    },
+    {
+      "id": "5ff2f03b71ce",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'쥬라기 공원' 속 컴퓨터, 소품 아닌 실제 작동 시스템…하드웨어 규모만 59억",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212954",
+      "published": "2026-07-20T08:40:00+00:00",
+      "summary": "1993년 개봉한 영화 '쥬라기 공원(Jurassic Park)'에 등장한 컴퓨터 장비들은 단순한 소품이 아니라 당시 최첨단 워크스테이션과 소프트웨어로 구성된 실제 시스템이었던 것으로 밝혀졌다. 구글 소프트웨어 엔지니어 파비앙 상글라르가 13일(현지시간) 공개한 분석에 따르면, 영화 제작에는 현재 가치로 400만달러(약 59억원)에 달하는 컴퓨터 하드웨어가 투입됐으며, 대부분 실제로 작동하는 장비였다.상글라르 엔지니어는 영화 쥬라기 공원에 등장하는 모든 컴퓨터 하드웨어와 소프트웨어를 하나씩 식별해"
+    },
+    {
+      "id": "f28c1248a4cc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퍼플렉시티, 연구 에이전트 벤치마크 'WANDR' 출시…\"최고 AI도 실무는 한계\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212949",
+      "published": "2026-07-20T08:39:50+00:00",
+      "summary": "AI 연구 에이전트가 실제 업무에서 경쟁사 분석과 시장조사, 기업 실사 등을 수행하는 사례가 늘어나고 있지만, 현재의 성능은 방대한 정보를 빠짐없이 수집하고 이를 모두 신뢰할 수 있는 근거로 입증하는 수준에 크게 미치지 못하는 것으로 나타났다. 퍼플렉시티는 14일(현지시간) AI 연구 에이전트의 실제 지식 노동 수행 능력을 평가하기 위한 새로운 오픈 벤치마크 'WANDR(Wide ANd Deep Research)'를 공개했다. 이를 통해 현재 최고 성능의 AI 시스템조차 완전한 리서치 수행에는 크"
+    },
+    {
+      "id": "f150b8c37675",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "published": "2026-07-20T08:39:01+00:00",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also "
+    },
+    {
+      "id": "e132394e6f84",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "원스토어, 무설치 미니게임 '원플레이' 서비스 본격화…'검투사 키우기' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260720173651",
+      "published": "2026-07-20T08:36:51+00:00",
+      "summary": "[지디넷코리아]앱마켓 원스토어가 앱 설치 없이 곧바로 게임을 즐길 수 있는 '원플레이' 서비스를 본격화하며 미니게임 시장 공략에 나선다.원스토어는 앱 내 즉시 플레이가 가능한 원플레이 게임에 '검투사 키우기'를 선보였다고 20일 밝혔다.검투사 키우기는 중국 위챗 미니게임 매출 차트 상위권에 안착한 흥행 RPG다. 수많은 장비 수집과 전략적 조합 등 다채로운 콘텐츠를 하나의 게임에서 즐길 수 있도록 구성됐다.원플레이는 다운로드와 설치 과정 없이 원스토어 앱 안에서 다양한 게임을 즉시 실행할 수 있는"
+    },
+    {
+      "id": "b4c783e8295e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에잇퍼센트, 토큰증권 기업 에이판다파트너스 인수",
+      "link": "https://zdnet.co.kr/view/?no=20260720143248",
+      "published": "2026-07-20T08:34:48+00:00",
+      "summary": "[지디넷코리아]온라인투자연계금융 기업 에잇퍼센트가 토큰증권(ST) 기업 에이판다파트너스의 최대주주로 올라섰다.에잇퍼센트는 에이판다파트너스의 전략적 투자를 단행했다고 20일 밝혔다.이번 투자에는 신한투자증권, 엔에이치44도 참여했다. 다만 에잇퍼센트는 인수 지분 규모, 금액 등 구체적인 내용은 공개하지 않았다.회사는 이번 인수를 계기로 그간 쌓아온 자산발굴, 신용평가 노하우를 활용해 에이판다파트너스의 중장기 사업전략 마련을 지원할 방침이다. 신한투자증권은 에이판다파트너스가 추진하는 혁신금융 서비스의"
+    },
+    {
+      "id": "9693bd321e0d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 일레븐랩스, LOT 폴란드항공과 음성 AI 에이전트 실증 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212959",
+      "published": "2026-07-20T08:00:00+00:00",
+      "summary": "■ 일레븐랩스는 폴란드의 플래그 캐리어(국적기)인 LOT 폴란드항공과 손잡고 차세대 엔터프라이즈용 대화형 AI 플랫폼 ‘일레븐에이전트(ElevenAgents)’를 활용한 음성 AI 어시스턴트 실증 실험을 개시했다고 밝혔다. 전 세계 항공사들이 공통으로 겪고 있는 성수기의 폭발적인 문의 증가, 기상 악화로 인한 항공편 지연 및 결항 사태 등에 따른 다국어 대응 한계로 인한 고객 센터의 업무 과부하 문제를 해결하기 위한 것이다.■ 네이버클라우드(대표 김유원)는 HD한국조선해양(대표 김형관)과 조선 산"
+    },
+    {
+      "id": "c03bb0483020",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 셀바스AI, 인천공항 안내로봇에 AI 음성기술 탑재 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212955",
+      "published": "2026-07-20T08:00:00+00:00",
+      "summary": "■ 셀바스AI(대표 곽민철)는 로봇 전문기업 클로봇과 AI 음성 인터페이스 '셀바스 트리거'를 인천공항 안내로봇 '에어스타' 20여대에 탑재했다고 밝혔다. 공항 이용객은 간단한 호출어를 통해 항공편 탑승구와 공항 내 주요 시설 위치를 안내받고 필요 시 목적지까지 길안내 서비스를 받을 수 있다.■ 코난테크놀로지(대표 김영섬)는 한국가스안전공사의 AI 업무지원 시스템 '가스안전 AI 어드바이저'를 구축하고 정식 운영에 돌입했다고 밝혔다. 내부 법령, KGS 코드, 기술 자료 등 3만여건의 데이터베이스"
+    },
     {
       "id": "2cabaf4c63d0",
       "source": "AI타임스",
@@ -221,6 +463,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212936",
       "published": "2026-07-20T04:53:21+00:00",
       "summary": "문샷 AI가 ‘키미 K3(Kimi K3)’의 돌풍과 가파른 매출 성장세를 발판 삼아 이르면 6개월 내 홍콩 증시 상장(IPO)을 추진한다.블룸버그는 19일(현지시간) 문샷 AI가 최근 투자자들에게 홍콩 상장에 대한 승인을 요청하는 주주 결의안을 발송했다고 보도했다. 이를 위해 문샷 AI는 홍콩 증시 상장에 걸림돌이 되지 않도록 기존 외국인 투자 제한을 피하기 위해 구축했던 복잡한 우회 지배구조를 정리하고 지분 관계를 투명하게 바꾸는 작업에 착수했다. 또 상장 주관사로는 중국국제금융공사(CICC)와"
+    },
+    {
+      "id": "41322a2796a5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Xiaomi-Robotics-1",
+      "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "published": "2026-07-20T04:45:15+00:00",
+      "summary": "Article URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html Comments URL: https://news.ycombinator.com/item?id=48974454 Points: 231 # Comments: 167"
     },
     {
       "id": "eb0251f8aeff",
@@ -573,6 +826,17 @@
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "published": "2026-07-19T19:24:45+00:00",
       "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+    },
+    {
+      "id": "b9ea3ce78114",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Orion Browser by Kagi",
+      "link": "https://orionbrowser.com/",
+      "published": "2026-07-19T19:13:29+00:00",
+      "summary": "Article URL: https://orionbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=48970894 Points: 210 # Comments: 146"
     },
     {
       "id": "0e04bfa88ed7",
