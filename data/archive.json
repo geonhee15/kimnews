@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-20T20:17:58.566328+00:00",
-  "count": 6267,
+  "updated_at": "2026-07-20T21:40:42.622348+00:00",
+  "count": 6274,
   "items": [
+    {
+      "id": "0a8de00f0ac8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "published": "2026-07-20T21:21:15+00:00",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+    },
+    {
+      "id": "acd74db06f7a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+      "link": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+      "published": "2026-07-20T21:00:00+00:00",
+      "summary": "Directly added to your Samsung Wallet account, it’s yet another cash-back credit card, this time tailored for Samsung stans."
+    },
+    {
+      "id": "08a526c47b59",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "published": "2026-07-20T20:50:40+00:00",
+      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead "
+    },
     {
       "id": "4bf265c03496",
       "source": "The Verge",
@@ -89,6 +122,28 @@
       "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
       "published": "2026-07-20T17:58:50+00:00",
       "summary": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences."
+    },
+    {
+      "id": "eee8917855e1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi Work",
+      "link": "https://www.kimi.com/products/kimi-work",
+      "published": "2026-07-20T17:13:23+00:00",
+      "summary": "Article URL: https://www.kimi.com/products/kimi-work Comments URL: https://news.ycombinator.com/item?id=48981703 Points: 232 # Comments: 113"
+    },
+    {
+      "id": "b43bd57bc5e7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "link": "https://jelly-ui.com/",
+      "published": "2026-07-20T17:07:39+00:00",
+      "summary": "Article URL: https://jelly-ui.com/ Comments URL: https://news.ycombinator.com/item?id=48981620 Points: 204 # Comments: 83"
     },
     {
       "id": "fda85947f634",
@@ -234,6 +289,17 @@
       "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 449 # Comments: 376"
     },
     {
+      "id": "9cd81b18137e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "China’s open-weights AI strategy is winning",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "published": "2026-07-20T14:21:47+00:00",
+      "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 744 # Comments: 622"
+    },
+    {
       "id": "750338b7b541",
       "source": "The Verge",
       "kind": "article",
@@ -254,6 +320,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260720224751",
       "published": "2026-07-20T13:47:51+00:00",
       "summary": "[지디넷코리아]개인정보보호위원회(개인정보위)가 ‘개인정보 이노베이션 존’ 운영기관을 모집한다. 이번 지정 공모는 오는 9월 4일까지 약 30여일간 진행한다.20일 개보위에 따르면, '이노베이션 존'은 데이터 처리 환경 안전성을 높여 가명정보를 보다 유연하게 활용할 수 있게 지원하는 공간이다. 연구자와 기업이 양질의 데이터를 보다 안전하게 활용할 수 있는 기반을 마련하기위해 지난 2024년 도입했다. 지금까지 이노베이션 존 운영기관으로 지정한 곳은 총 8곳이다. 국가데이터처(구.통계청), 국립암센터"
+    },
+    {
+      "id": "a5963329c81f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+      "link": "https://www.phoronix.com/news/Firefox-153-Downloads",
+      "published": "2026-07-20T13:47:13+00:00",
+      "summary": "Article URL: https://www.phoronix.com/news/Firefox-153-Downloads Comments URL: https://news.ycombinator.com/item?id=48978835 Points: 210 # Comments: 50"
     },
     {
       "id": "5f8c091f1b91",
