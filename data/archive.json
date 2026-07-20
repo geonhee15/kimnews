@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-20T10:46:33.687877+00:00",
-  "count": 6229,
+  "updated_at": "2026-07-20T13:02:22.112908+00:00",
+  "count": 6233,
   "items": [
+    {
+      "id": "1238ec6f48d3",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "published": "2026-07-20T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it"
+    },
+    {
+      "id": "5312689ecb43",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "published": "2026-07-20T11:20:10+00:00",
+      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context."
+    },
     {
       "id": "37a9ad3ea798",
       "source": "The Verge",
@@ -221,6 +243,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260720143248",
       "published": "2026-07-20T08:34:48+00:00",
       "summary": "[지디넷코리아]온라인투자연계금융 기업 에잇퍼센트가 토큰증권(ST) 기업 에이판다파트너스의 최대주주로 올라섰다.에잇퍼센트는 에이판다파트너스의 전략적 투자를 단행했다고 20일 밝혔다.이번 투자에는 신한투자증권, 엔에이치44도 참여했다. 다만 에잇퍼센트는 인수 지분 규모, 금액 등 구체적인 내용은 공개하지 않았다.회사는 이번 인수를 계기로 그간 쌓아온 자산발굴, 신용평가 노하우를 활용해 에이판다파트너스의 중장기 사업전략 마련을 지원할 방침이다. 신한투자증권은 에이판다파트너스가 추진하는 혁신금융 서비스의"
+    },
+    {
+      "id": "f8e297ce09ae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "published": "2026-07-20T08:13:36+00:00",
+      "summary": "Article URL: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/ Comments URL: https://news.ycombinator.com/item?id=48975665 Points: 212 # Comments: 117"
     },
     {
       "id": "9693bd321e0d",
@@ -683,6 +716,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260720090807",
       "published": "2026-07-20T00:19:34+00:00",
       "summary": "[지디넷코리아]HD현대가 네이버클라우드와 손잡고 조선 산업에 특화된 인공지능(AI)를 개발한다.HD현대 조선 부문 중간지주사인 HD한국조선해양은 최근 네이버클라우드와 ‘피지컬 AI 기반 조선 사업 혁신 업무협약’을 체결했다고 20일 밝혔다.협약에 따라 양사는 ▲조선업 특화 AI·클라우드 인프라 구축 ▲데이터센터 및 통합 전력 인프라 구축 ▲소프트웨어 중심 선박(SDV) 및 조선 AX 기술 협력 ▲피지컬 AI·로봇 기술 활용 ▲디지털 교육 등 다양한 분야서 협력을 이어갈 계획이다.양사는 조선업 맞춤"
+    },
+    {
+      "id": "1f5e956aa648",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "link": "https://github.com/hgaiser/moonshine",
+      "published": "2026-07-20T00:16:50+00:00",
+      "summary": "Article URL: https://github.com/hgaiser/moonshine Comments URL: https://news.ycombinator.com/item?id=48972970 Points: 245 # Comments: 102"
     },
     {
       "id": "9ab288023d0c",
