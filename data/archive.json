@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-21T22:00:48.036668+00:00",
-  "count": 6433,
+  "updated_at": "2026-07-21T23:04:18.988973+00:00",
+  "count": 6436,
   "items": [
+    {
+      "id": "a221d93c8b47",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "published": "2026-07-21T22:50:01+00:00",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack."
+    },
+    {
+      "id": "91a7f3d8ad87",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월21일] AI가 부활시킨 '테일러리즘 2.0'...다음 경쟁력은 직원의 '암묵적 지식'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212976",
+      "published": "2026-07-21T22:00:00+00:00",
+      "summary": "1911년 미국의 기업가 프레더릭 테일러는 '과학적 관리법(The Principles of Scientific Management)'을 발표했습니다. 그는 공장 노동자들의 작업을 일일이 관찰하고 시간을 측정해 가장 효율적인 작업 방식을 표준화했습니다. 숙련공들의 경험과 노하우를 기업의 자산으로 바꿔 생산성을 높인 이 방법은 훗날 '테일러리즘(Taylorism)'으로 불리며 현대 경영학의 대표적인 출발점으로 꼽히게 됐습니다.그리고 100년이 훨씬 지난 지금, 테일러리즘이 사무직에서 새로운 형태로 부"
+    },
     {
       "id": "b3838f6b50fc",
       "source": "The Verge",
@@ -34,6 +56,17 @@
       "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
       "published": "2026-07-21T20:56:55+00:00",
       "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+    },
+    {
+      "id": "1efc9501c874",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "published": "2026-07-21T19:43:59+00:00",
+      "summary": "Article URL: https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling Comments URL: https://news.ycombinator.com/item?id=48997221 Points: 269 # Comments: 46"
     },
     {
       "id": "fd5f98f37d5d",
