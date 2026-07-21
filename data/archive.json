@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-21T20:48:48.048803+00:00",
-  "count": 6430,
+  "updated_at": "2026-07-21T22:00:48.036668+00:00",
+  "count": 6433,
   "items": [
+    {
+      "id": "b3838f6b50fc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "published": "2026-07-21T21:48:54+00:00",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment"
+    },
+    {
+      "id": "e1e8fdcb073d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These are the countries moving to ban social media for children",
+      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "published": "2026-07-21T20:57:35+00:00",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+    },
+    {
+      "id": "e0416b1777c9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "published": "2026-07-21T20:56:55+00:00",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+    },
     {
       "id": "fd5f98f37d5d",
       "source": "TechCrunch",
