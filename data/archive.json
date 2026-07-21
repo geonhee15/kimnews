@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-07-21T15:00:59.915433+00:00",
-  "count": 6400,
+  "updated_at": "2026-07-21T16:36:58.034892+00:00",
+  "count": 6413,
   "items": [
+    {
+      "id": "f25137e7696f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instagram will let users endlessly swap the audio on old posts",
+      "link": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
+      "published": "2026-07-21T16:15:00+00:00",
+      "summary": "There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to keep consumers on their apps; the creators, in turn, need to be able to reach those audiences to ju"
+    },
+    {
+      "id": "71c2c70da318",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla Robotaxis go to Florida",
+      "link": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
+      "published": "2026-07-21T16:11:41+00:00",
+      "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested cust"
+    },
+    {
+      "id": "550d505afb0f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+      "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "published": "2026-07-21T16:08:44+00:00",
+      "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users."
+    },
+    {
+      "id": "0fc4d90c7d34",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to build interactive experiences with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+      "published": "2026-07-21T16:00:00+00:00",
+      "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "81ae9109d1bc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "published": "2026-07-21T15:37:05+00:00",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
+    },
+    {
+      "id": "319b8f0baeb0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung can’t afford to play it safe with Apple’s first foldable looming",
+      "link": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
+      "published": "2026-07-21T15:20:33+00:00",
+      "summary": "Tomorrow's foldable-centric Galaxy Unpacked event looks like it will be Samsung's biggest in years. The company is expected to launch new versions of its Fold and Flip phones while also introducing a brand new Fold form factor that's shorter and wider. It would be the second uphe"
+    },
+    {
+      "id": "f6d0d9ac89b3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "published": "2026-07-21T15:17:16+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/ Comments URL: https://news.ycombinator.com/item?id=48993414 Points: 212 # Comments: 150"
+    },
+    {
+      "id": "10245400c8ee",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "published": "2026-07-21T15:16:30+00:00",
+      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+    },
+    {
+      "id": "99cc0ffa8af2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "published": "2026-07-21T15:00:00+00:00",
+      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensiv"
+    },
+    {
+      "id": "8627a8d53ca6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Light Flip Is the Stylish Dumb Flip Phone of Your Dreams",
+      "link": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/",
+      "published": "2026-07-21T15:00:00+00:00",
+      "summary": "A flip phone with 5G, USB-C, a headphone jack, and a removable battery? Say it ain’t so."
+    },
+    {
+      "id": "61d84dd0400e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "published": "2026-07-21T15:00:00+00:00",
+      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure."
+    },
+    {
+      "id": "e555013ba1c7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "After TikTok, Snap settles social media addiction case",
+      "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+      "published": "2026-07-21T14:54:19+00:00",
+      "summary": "TikTok recently settled its portion of the case with the plaintiff ahead of a jury trial that starts next week in Los Angeles. YouTube has also reached a deal, leaving Meta as the only remaining defendant."
+    },
     {
       "id": "7a996e29fc0e",
       "source": "TechCrunch",
@@ -4313,6 +4445,17 @@
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
       "published": "2026-07-17T15:21:17+00:00",
       "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training."
+    },
+    {
+      "id": "21f752877350",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "published": "2026-07-17T15:00:11+00:00",
+      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
     },
     {
       "id": "123b6b92dabe",
