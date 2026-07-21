@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-21T19:36:21.804401+00:00",
-  "count": 6426,
+  "updated_at": "2026-07-21T20:48:48.048803+00:00",
+  "count": 6430,
   "items": [
+    {
+      "id": "fd5f98f37d5d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "published": "2026-07-21T19:43:41+00:00",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+    },
+    {
+      "id": "83ccefac3f92",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI and the rise of the universal entertainment app",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "published": "2026-07-21T19:39:30+00:00",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, "
+    },
     {
       "id": "85ac7953d702",
       "source": "The Verge",
@@ -300,6 +322,17 @@
       "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 218 # Comments: 188"
     },
     {
+      "id": "6f6fcb8dd617",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple defeats liability for not scanning iCloud for CSAM",
+      "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "published": "2026-07-21T14:31:41+00:00",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 245 # Comments: 220"
+    },
+    {
       "id": "b6889f12786b",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -474,6 +507,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
       "published": "2026-07-21T11:08:56+00:00",
       "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar lan"
+    },
+    {
+      "id": "8a7834963698",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "published": "2026-07-21T11:00:27+00:00",
+      "summary": ""
     },
     {
       "id": "29a306a2d789",
