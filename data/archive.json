@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-21T09:40:53.887912+00:00",
-  "count": 6359,
+  "updated_at": "2026-07-21T11:29:09.289341+00:00",
+  "count": 6378,
   "items": [
+    {
+      "id": "f142bd1f2775",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "published": "2026-07-21T11:08:56+00:00",
+      "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar lan"
+    },
+    {
+      "id": "29a306a2d789",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "OpenAI 내부자가 직접 알려주는 GPT-5.6과 Codex 활용법",
+      "link": "https://www.youtube.com/watch?v=le-jtop9tLk",
+      "published": "2026-07-21T11:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d53b65741cd2",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "published": "2026-07-21T10:37:34+00:00",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every n"
+    },
+    {
+      "id": "2ebb5cbf90b8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+      "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+      "published": "2026-07-21T10:30:00+00:00",
+      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why."
+    },
+    {
+      "id": "e57bb62fe40d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Who’s afraid of the big, bad GPU?",
+      "link": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "published": "2026-07-21T10:00:01+00:00",
+      "summary": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you’ll start to question the actual value of the GPUs that underpin all the leaps and"
+    },
+    {
+      "id": "c995a23cd1a4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "published": "2026-07-21T10:00:00+00:00",
+      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites."
+    },
+    {
+      "id": "9f76ac790502",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212975",
+      "published": "2026-07-21T09:53:10+00:00",
+      "summary": "문샷 AI의 '키미 K3' 출시로 투자자들이 미국 AI 선두인 오픈AI와 앤트로픽의 기업가치를 낮춰 평가하기 시작했다는 분석이 등장했다. 또, 반도체 시장에서는 메모리 업체가 최대 수혜주로 부상하고 AI 모델 개발사와 고성능 GPU 업체들의 독점 프리미엄에는 의문이 제기되는 등 글로벌 업계에 큰 영향을 미친다는 평이다.시장분석 전문 IG의 토니 시카모어 분석가는 19일(현지시간) 키미 K3 공개 이후 비상장 기업의 상장 전 가치(Pre-IPO)를 거래하는 IG 프리IPO 시장에서 오픈AI와 앤트로"
+    },
+    {
+      "id": "dccd4ae1e68d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미세조정 없이 토큰 38% 절감…라이터, '에이전트 하네스' 비용 혁신 기술 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212983",
+      "published": "2026-07-21T09:41:54+00:00",
+      "summary": "AI 에이전트 서비스가 보편화되며 기업들은 성능 향상보다 급증하는 토큰 비용을 더 큰 고민으로 떠안고 있다. 이런 가운데 대형언어모델(LLM) 자체를 바꾸거나 미세조정을 하지 않고도 AI를 감싸는 오케스트레이션 계층인 '하네스(Harness)'만 최적화해 토큰 소비를 약 40% 줄이고 비용은 41% 절감할 수 있다는 연구 결과가 나왔다. AI 기업 라이터(Writer) 연구진은 최근 논문 ‘하네스 효과: 오케스트레이션 디자인이 기업용 에이전트 AI의 토큰 경제를 설정하는 방법(The Harness"
+    },
+    {
+      "id": "fd529338a336",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "고려아연, 9월 임시주총서 이사회 재편…영풍·MBK와 표 대결",
+      "link": "https://zdnet.co.kr/view/?no=20260721183908",
+      "published": "2026-07-21T09:39:08+00:00",
+      "summary": "[지디넷코리아]고려아연이 오는 9월 임시주주총회를 열고 분리선출 감사위원과 독립이사를 추가 선임해 이사회 재정비에 나선다. 주요 안건이 MBK파트너스·영풍 측의 주주제안과 맞물린 만큼 후보 구성과 의결권 확보를 둘러싼 양측의 신경전도 재개될 전망이다.고려아연은 21일 임시이사회를 열고 9월 9일 서울 용산구 몬드리안호텔에서 임시주주총회를 개최하기로 의결했다고 밝혔다.임시주총에는 ▲분리선출 감사위원 확대를 위한 정관 변경 ▲집중투표에 따른 이사 4명 선임 ▲감사위원이 되는 독립이사 선임 안건이 상정"
+    },
     {
       "id": "e2a14e6e0857",
       "source": "Wired",
@@ -25,6 +124,28 @@
       "summary": ""
     },
     {
+      "id": "62b884307ac4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 빚쟁이 된 중학생 10대 도박의 늪",
+      "link": "https://zdnet.co.kr/view/?no=20260721100745",
+      "published": "2026-07-21T09:26:47+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 학생들 사이에서 조용히 퍼져 있던 도박 문제가 수면 위로 드러난 이야기를 전해드리려고 해요. 최근 한 달 사이 무려 806명의 친구들이 용기를 내어 자신의 도박 사실을 스스로 털어놨다고 하는데요, 전달인 294건과 비교하면 최근 한 달간 512건으로 거의 2배 가까이 늘어난 수치라고 해요. 숫자만 보면 놀랄 수 있지만, 사실 이 급증에는 반가운 배경이 숨어있었어요. 바로 '혼내지 않고 도와주기'로 방향을 바꾼 프로젝트가 시작된 거였는데요, "
+    },
+    {
+      "id": "25c12aae96d5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"보스턴다이나믹스 지분, 정의선 아닌 HMG글로벌이 인수해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721182514",
+      "published": "2026-07-21T09:25:14+00:00",
+      "summary": "[지디넷코리아]한국기업거버넌스포럼이 정의선 현대자동차그룹 회장과 현대차 이사회를 향해 보스턴다이나믹스 잔여 지분 인수구조를 재검토하고, 고려아연·KT 지분 매각과 글로벌비즈니스콤플렉스(GBC) 유동화, 우선주 중심의 자사주 소각에 나서야 한다고 촉구했다. 대규모 부동산과 비핵심 자산보다 미래 모빌리티와 주주환원에 자본을 우선 배분해야 한다는 주장이다.한국기업거버넌스포럼(이하 포럼)은 21일 현대차 이사회를 향해 ▲보스턴다이나믹스 잔여 지분 인수구조 재검토 ▲고려아연 지분 매각 ▲KT 지분 매각 ▲"
+    },
+    {
       "id": "3380c2bb6ad9",
       "source": "AI타임스",
       "kind": "article",
@@ -36,6 +157,17 @@
       "summary": "오픈AI가 최근 차세대 AI 모델과 코딩 에이전트 '코덱스'의 성공에 힘입어 비상장 주식(세컨더리) 시장에서 투자자들의 관심을 빠르게 회복하는 것으로 알려졌다. 올해부터 투자자들의 선택이 앤트로픽에만 집중됐던 흐름에서 벗어나고 있지만, 여전히 전체 수요에서는 앤트로픽이 크게 앞서는 것으로 나타났다.20일(현지시간) 비즈니스 인사이더에 따르면, 비상장 기업 지분을 거래하는 2차 시장에서 오픈AI에 대한 투자 수요가 최근 한 달 사이 눈에 띄게 증가하고 있다.올해 상반기까지만 해도 투자자들은 앤트로픽"
     },
     {
+      "id": "84f2ead2529d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "머리카락 2개 두께 우드 스크롤 증발기…\"볕없는 밤에도 담수\" 확인",
+      "link": "https://zdnet.co.kr/view/?no=20260721181812",
+      "published": "2026-07-21T09:18:12+00:00",
+      "summary": "[지디넷코리아]원목을 종이처럼 150마이크로미터 두께로 켠 나무판(베니어)을 돌돌 말아 담수로 쓸 수 있는 기술이 개발됐다.전상민 POSTECH 화학공학과 교수는 전화통화에서 \"얇은 나무판을 돌돌 만 원통형 증발기를 개발, 실험결과 밤에도 담수화가 진행되는 것을 확인했다\"며 \"특히, 나무판 간격이 작을수록 모세관 현상이 커질 것 같지만, 실제는 아니라는 새로운 사실을 규명한 것이 의미가 있다\"고 설명했다.실제 연구팀은 나무판이 50~100마이크로미터 갭에서 물의 증발과 해수 순환이 가장 원활했다고"
+    },
+    {
       "id": "5dbd5b77ab95",
       "source": "AI타임스",
       "kind": "article",
@@ -45,6 +177,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=212986",
       "published": "2026-07-21T09:06:16+00:00",
       "summary": "알리바바가 실시간 대화형 AI와 콘텐츠 제작 시장을 동시에 겨냥한 차세대 텍스트 음성 변환(TTS) 모델을 공개했다. 알리바바는 20일(현지시간) 실시간 대화와 고품질 음성 생성을 모두 지원하는 ‘큐원-오디오-3.0-TTS(Qwen-Audio-3.0-TTS)’를 공개했다.실시간 응답에 최적화된 ‘플래시(Flash)’와 음질 중심의 ‘플러스(Plus)’ 두 가지 모델을 동시에 선보였다. 특히, 플러스 모델은 독립 벤치마크인 아티피셜 애널리시스 TTS 리더보드에서 1위를 차지하며 성능을 입증했다.이번"
+    },
+    {
+      "id": "1f8f824a3847",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "신진서, 최강 바둑 AI '카타고'에 2연승…역전 우승",
+      "link": "https://zdnet.co.kr/view/?no=20260721175512",
+      "published": "2026-07-21T09:01:19+00:00",
+      "summary": "[지디넷코리아]신진서 9단이 세계 최고 수준의 바둑 인공지능(AI)으로 평가받는 카타고 상대로 역전 우승을 거뒀다. 신진서는 21일 서울 중구 한국경제TV 스튜디오에서 열린 '쎈수학·한경 기신전' 최종 3국에서 221수 만에 11집 반 차이로 카타고를 제압한 것으로 전해졌다. 이에 따라 최종 성적 2승 1패로 대회를 마쳤다.최종국은 신진서가 흑돌 두 점을 미리 놓는 접바둑 방식으로 치러졌다. 대신 카타고에는 18집 반의 덤이 주어졌다.카타고는 앞선 두 차례 대국과 달리 좌상귀 소목에 첫 수를 뒀다"
     },
     {
       "id": "3e751ff32c35",
@@ -78,6 +221,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213002",
       "published": "2026-07-21T08:53:53+00:00",
       "summary": "중국 정부가 AI 핵심 기술의 해외 유출을 막기 위해 오픈소스 AI 모델의 가중치 다운로드를 제한하고, 해외 반도체 위탁생산까지 통제하는 방안을 검토하고 있는 것으로 알려졌다. 미국의 AI 규제에 맞서 중국도 첨단 AI 기술을 전략 자산으로 관리하려는 움직임이 본격화하고 있다는 분석이다.파이낸셜타임스(FT)는 20일(현지시간) 중국 상무부를 중심으로 한 규제 당국이 AI와 반도체 기술에 대한 수출 통제를 대폭 강화하는 방안을 마련하기 위해 주요 기업들과 협의를 진행하고 있다고 보도했다.이에 따르면"
+    },
+    {
+      "id": "589ff0c72373",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한화솔루션, 유증 강행에도 5300억 공백…자금 충원 어떻게",
+      "link": "https://zdnet.co.kr/view/?no=20260721164719",
+      "published": "2026-07-21T08:52:52+00:00",
+      "summary": "[지디넷코리아]한화솔루션 유상증자 조달액이 당초 계획의 절반 수준인 1조 1700억원대로 확정되면서 재무구조 개선 계획에도 차질이 불가피해졌다. 성장 투자를 예정대로 유지하면 유상증자 자금 가운데 채무 상환에 쓸 수 있는 금액은 약 2600억원에 그친다. 회사가 상환전환우선주(RCPS) 발행과 투자자산 매각 등 자구책을 병행하고 있지만, 당초 목표한 채무 상환액을 채우려면 추가 재원 마련이 필요한 상황이다. 21일 금융감독원 전자공시시스템에 따르면 한화솔루션 유상증자 최종 발행가액은 주당 2만 2"
     },
     {
       "id": "3133b4cb24f7",
@@ -146,6 +300,17 @@
       "summary": "[지디넷코리아]한화그룹이 미국 토큰화 인프라 기업 시큐리타이즈(Securitize)의 단일 주주 기준 최대주주인 것으로 확인됐다. 다만, 이번 지분 확보는 재무적 투자 성격으로 향후 지분 매각 가능성도 나온다. 21일 미국 증권거래위원회(SEC) 공시에 따르면, 한화그룹이 보유한 시큐리타이즈 주식은 총 1568만 9509주로 전체 지분의 9.6%를 차지한다.시큐리타이즈는 금융사가 주식·채권·펀드 등 실물연계자산(RWA)을 블록체인에서 발행·관리·유통할 수 있도록 지원하는 토큰화 인프라 기업이다. "
     },
     {
+      "id": "9a34dcb25562",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한화, 美 토큰화 기업 '시큐리타이즈' 최대주주였다…\"재무적 투자 목적\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721165506",
+      "published": "2026-07-21T08:01:39+00:00",
+      "summary": "[지디넷코리아]한화그룹 계열사 세 곳이 미국 토큰화 인프라 기업 시큐리타이즈(Securitize)의 주요 주주인 것으로 확인됐다. 다만, 이번 지분 확보는 재무적 투자 성격으로 향후 지분 매각 가능성도 나온다. 21일 미국 증권거래위원회(SEC) 공시에 따르면, 한화그룹이 보유한 시큐리타이즈 주식은 총 1568만 9509주로 전체 지분의 9.6%를 차지한다.시큐리타이즈는 금융사가 주식·채권·펀드 등 실물연계자산(RWA)을 블록체인에서 발행·관리·유통할 수 있도록 지원하는 토큰화 인프라 기업이다. "
+    },
+    {
       "id": "57dc7f1c6981",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -166,6 +331,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213012",
       "published": "2026-07-21T08:00:00+00:00",
       "summary": "■ 파수 AI(대표 조규곤)는 ‘2026 AX 원스톱 바우처 지원사업’의 주관기업으로 선정된 리안헤어(회장 유상준)와 협력해 K-뷰티 분야까지 AI 사업을 확대한다고 밝혔다. 리안헤어는 이번 사업을 통해 ‘AI 초개인화 뷰티경험 플랫폼’을 구축할 계획이다. 파수 AI는 에이전틱 AX 플랫폼 ‘엘름(Ellm)’을 바탕으로 AI 개발을 담당하고, 네이버클라우드와 랩큐가 각각 클라우드 인프라와 데이터 부문을 담당한다.■ 씨이랩은 한국데이터센터에너지효율협회(KDCEA)에 회원사로 가입하며, AI 데이터센"
+    },
+    {
+      "id": "0a589117f477",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 포티투마루, 디지털 포럼서 K-팔란티어 전략 공유 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213010",
+      "published": "2026-07-21T08:00:00+00:00",
+      "summary": "■ 포티투마루(대표 김동환)는 대한상공회의소에서 열린 ‘제2차 글로벌 디지털 포럼’에 참가해 한국 국방 AX 전략을 발표했다고 밝혔다. 포티투마루는 'AI 기업의 국방 진출, K-팔란티어는 가능한가'를 주제로 세션을 진행했다. 팔란티어의 방법론은 도메인 지식과 개발 역량을 결합한 AI 전방배치 엔지니어(FDE)가 핵심이라며 이를 현지화하기 위한 3단계 전략을 제안했다. ▲방산 실무자에게 대형언어모델(LLM) 기반 개발 권한을 부여하는 ‘방산 FDE 육성’ ▲개별 FDE가 개발한 솔루션을 방위산업계"
     },
     {
       "id": "53af5423b395",
@@ -529,6 +705,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260721125217",
       "published": "2026-07-21T03:52:17+00:00",
       "summary": "[지디넷코리아]클라우드플레어가 사용자 행동을 분석해 인공지능(AI) 봇을 차단하는 방어 시스템을 내놨다.클라우드플레어는 봇 매니지먼트용 행동 기반 검증 엔진 '프리커서'를 정식 출시했다고 21일 밝혔다. 프리커서는 클라우드플레어 엣지 네트워크에서 작동한다. 브라우저 이용 과정에서 발생하는 다양한 행동 신호를 분석한다.기존 캡차는 로그인이나 결제 같은 특정 시점에 사용자가 사람인지 확인하는 방식이다. 프리커서는 사용자가 웹사이트에 접속한 뒤 이동하고 입력하고 머무는 과정 전체를 분석해 자동화된 활동"
+    },
+    {
+      "id": "4adce81116d6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Incremental – A library for incremental computations",
+      "link": "https://github.com/janestreet/incremental",
+      "published": "2026-07-21T03:50:53+00:00",
+      "summary": "Article URL: https://github.com/janestreet/incremental Comments URL: https://news.ycombinator.com/item?id=48987822 Points: 232 # Comments: 40"
     },
     {
       "id": "8be65890ddcd",
@@ -982,6 +1169,17 @@
       "summary": "Article URL: https://blaizzy.github.io/nativ/ Comments URL: https://news.ycombinator.com/item?id=48982681 Points: 218 # Comments: 80"
     },
     {
+      "id": "342e85116e9f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Agent swarms and the new model economics",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "published": "2026-07-20T18:06:13+00:00",
+      "summary": "Article URL: https://cursor.com/blog/agent-swarm-model-economics Comments URL: https://news.ycombinator.com/item?id=48982535 Points: 208 # Comments: 95"
+    },
+    {
       "id": "fb0a6f639061",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -1167,6 +1365,17 @@
       "link": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
       "published": "2026-07-20T15:00:00+00:00",
       "summary": "Today, I’m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25. Jill is one of the best writers there is at identifying institutional patterns in history, and Decode"
+    },
+    {
+      "id": "e7fe6548d71d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "link": "https://huggingface.co/blog/grabette",
+      "published": "2026-07-20T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "235016bd80ca",
