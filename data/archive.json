@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-21T17:59:34.868751+00:00",
-  "count": 6418,
+  "updated_at": "2026-07-21T19:36:21.804401+00:00",
+  "count": 6426,
   "items": [
+    {
+      "id": "85ac7953d702",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "published": "2026-07-21T19:22:28+00:00",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according t"
+    },
+    {
+      "id": "394b91e7e23d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "published": "2026-07-21T19:05:00+00:00",
+      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
+    },
+    {
+      "id": "6cc9adc1f6f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+      "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+      "published": "2026-07-21T18:18:43+00:00",
+      "summary": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products."
+    },
+    {
+      "id": "0ad415e51379",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
+      "link": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
+      "published": "2026-07-21T18:12:02+00:00",
+      "summary": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The problem is, strapping a finder tag to a […]"
+    },
+    {
+      "id": "9f80183cddaf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "published": "2026-07-21T18:05:10+00:00",
+      "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised."
+    },
+    {
+      "id": "db15c14e8b0a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "published": "2026-07-21T17:33:14+00:00",
+      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
+    },
     {
       "id": "7a0298fa0485",
       "source": "The Verge",
@@ -89,6 +155,17 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
       "published": "2026-07-21T16:00:00+00:00",
       "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "b560370f127f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "link": "https://e360.yale.edu/digest/benin-coral-reef",
+      "published": "2026-07-21T15:41:51+00:00",
+      "summary": "Article URL: https://e360.yale.edu/digest/benin-coral-reef Comments URL: https://news.ycombinator.com/item?id=48993816 Points: 205 # Comments: 29"
     },
     {
       "id": "81ae9109d1bc",
@@ -210,6 +287,17 @@
       "link": "https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist",
       "published": "2026-07-21T14:42:38+00:00",
       "summary": "Stellantis will use technology from Intel's Mobileye to power its Level 2 hands-free driving features for its vehicle brands, the companies announced Tuesday. Starting in 2027, Stellantis will begin using Mobileye's EyeQ system-on-a-chip and a data crowdsourcing program called th"
+    },
+    {
+      "id": "e4a691e25c3b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "published": "2026-07-21T14:31:41+00:00",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm Comments URL: https://news.ycombinator.com/item?id=48992870 Points: 218 # Comments: 188"
     },
     {
       "id": "b6889f12786b",
