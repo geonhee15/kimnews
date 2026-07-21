@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-21T11:29:09.289341+00:00",
-  "count": 6378,
+  "updated_at": "2026-07-21T12:55:38.309232+00:00",
+  "count": 6385,
   "items": [
+    {
+      "id": "0394458fea1b",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "published": "2026-07-21T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI p"
+    },
+    {
+      "id": "81897f587d1b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "8 Best Smartwatches (2026): Apple, Google, and Hybrid Watches",
+      "link": "https://www.wired.com/gallery/best-smartwatches/",
+      "published": "2026-07-21T12:02:00+00:00",
+      "summary": "These WIRED-tested wearables reduce your reliance on a phone while keeping you connected."
+    },
+    {
+      "id": "5b1de3df02ba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전 국민 무료 '모두의 AI' 윤곽...\"개발 기간·운영비·수익 모델은 숙제\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213013",
+      "published": "2026-07-21T11:31:16+00:00",
+      "summary": "과학기술정보통신부외 정보통신산업진흥원(NIPA)은 21일 서울 마포구 프론트원에서 '모두의 AI 서비스' 사업설명회를 열고, 지원 요건, GPU 배분 방식, 무료 서비스 범위 등 세부 요건을 소개했다.모두의 AI는 전 국민이 무료로 쓸 수 있는 국산 AI 서비스를 목표로 전 국민 대상 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.선정 기업은 오는 9월 베타서비스를 시작하고, 12월 정식 출시해야 한다. 과기정통부는 이번 사업이 모델을 새로 개발하는 것이 아니라 개"
+    },
     {
       "id": "f142bd1f2775",
       "source": "The Verge",
@@ -45,6 +78,39 @@
       "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
       "published": "2026-07-21T10:30:00+00:00",
       "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why."
+    },
+    {
+      "id": "509b929c8f7d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "재즈 힙스터, 밀폐형 베이스를 탑재한 3웨이 북셀프 스피커 도입으로 데스크톱 오디오 재정의",
+      "link": "https://zdnet.co.kr/view/?no=20260721191002",
+      "published": "2026-07-21T10:10:02+00:00",
+      "summary": "[지디넷코리아]타이베이, 2026년 7월 21일 /PRNewswire/ -- 재즈 힙스터(Jazz Hipster)가 컴팩트 스튜디오 모니터, 데스크톱 하이파이 시스템, 프리미엄 라이프스타일 오디오 사이에 위치한 새로운 3웨이 북셀프 오디오 플랫폼을 도입했다. 재즈 힙스터의 벤 슈(Ben Hsu) 제품 매니저는 이 플랫폼이 컴팩트한 크기, 깊은 저음 확장, 디지털 연결성이라는 세 가지 핵심 아이디어를 중심으로 개발되었다고 밝혔다. 많은 컴팩트 액티브 스피커에서 사용되는 기존의 2웨이 베이스 리플렉스"
+    },
+    {
+      "id": "89bde7fbe0d5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"당신들이 교사를 못 버티게 만들었다\"…오픈AI 사옥서 쏟아진 소설가의 작심 발언",
+      "link": "https://zdnet.co.kr/view/?no=20260721190537",
+      "published": "2026-07-21T10:05:37+00:00",
+      "summary": "[지디넷코리아]파이낸셜타임스 보도에 따르면, 소설가 데이브 에거스가 오픈AI 본사에서 직원 약 200명을 앞에 두고 챗GPT를 비판했다. 샘 알트만이 직접 초청한 자리였다.에거스는 \"챗GPT가 교육자들의 삶에 미친 영향은 파국적\"이라며 \"의도했든 아니든 당신들은 모든 교사의 일을 감당할 수 없게 만들었다\"고 말했다. 그는 챗GPT가 미국 모든 공립학교 교사에게 주당 20시간의 업무를 더하고 있다고 주장했다.그는 챗GPT가 \"한 세대 전체를 침묵시키고 있다\"며 젊은 글쓴이가 받는 영향을 \"묵시록적\""
+    },
+    {
+      "id": "567a8f94eaeb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
+      "link": "https://zdnet.co.kr/view/?no=20260721190432",
+      "published": "2026-07-21T10:04:32+00:00",
+      "summary": "[지디넷코리아]현지 시각 7월 19일 블룸버그 보도에 따르면, 중국 AI 기업 문샷이 이르면 6개월 안에 홍콩 증시 상장을 추진한다. 회사는 투자자들에게 이런 계획을 알렸고, 상장 승인을 위한 주주 결의안도 이미 발송했다.마무리 단계에 있는 펀딩 라운드에서 문샷이 인정받는 기업가치는 300억 달러(약 44조 6,400억 원)를 넘는다. 5월 메이투안이 주도한 라운드에서의 약 200억 달러(약 29조 7,600억 원)에서 두 달 만에 오른 수치다. 연간반복매출은 4월 2억 달러(약 2,976억 원)"
     },
     {
       "id": "e57bb62fe40d",
@@ -1299,6 +1365,17 @@
       "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
       "published": "2026-07-20T15:59:18+00:00",
       "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars."
+    },
+    {
+      "id": "1be5d247f08b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I Stopped “Creating Content”",
+      "link": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "published": "2026-07-20T15:47:28+00:00",
+      "summary": "Article URL: https://refactoringenglish.com/blog/why-i-stopped-creating-content/ Comments URL: https://news.ycombinator.com/item?id=48980520 Points: 210 # Comments: 170"
     },
     {
       "id": "e52490798cc9",
