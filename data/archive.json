@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-07-21T01:07:52.286379+00:00",
-  "count": 6293,
+  "updated_at": "2026-07-21T04:31:06.104681+00:00",
+  "count": 6318,
   "items": [
+    {
+      "id": "8e47ccfeea34",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국 AI 안전 기관 수장 또 사임…트럼프 AI 정책 불확실성 증폭",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212970",
+      "published": "2026-07-21T04:24:17+00:00",
+      "summary": "미국 행정부의 AI 안전·평가 정책을 총괄하는 AI 표준혁신센터(CAISI)의 소장이 취임 3개월 만에 사임했다. 트럼프 행정부가 AI 안전성 평가와 규제 체계를 재정비하는 과정에서 핵심 기관의 수장이 갑작스럽게 물러나면서 미국 AI 정책의 방향성을 둘러싼 불확실성이 커지고 있다는 평이다. 악시오스 등에 따르면, 미국 상무부는 20일(현지시간) 크리스 폴 소장이 사임했다고 공식 확인했다.사임 이유를 공개하지 않았으며, 후임이 임명될 때까지 미국 국립표준기술연구소(NIST) 소장인 아르빈드 라만이 "
+    },
+    {
+      "id": "6eec41345d59",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 애저 클라우드에 AMD '헬리오스' AI 가속기 도입...엔비디아 의존도 낮춘다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212969",
+      "published": "2026-07-21T04:07:19+00:00",
+      "summary": "마이크로소프트(MS)가 AMD의 차세대 랙 스케일 AI 시스템 '헬리오스(Helios)'를 애저(Azure) 클라우드 인프라에 대규모 도입한다. AMD와 MS는 20일(현지시간) 전략적 협력 확대를 발표하며, MS 데이터센터와 애저 AI 서비스, 애저 고객을 위한 AI 인프라에 헬리오스 랙 스케일 AI 가속기를 도입한다고 밝혔다. AMD는 2026년 하반기부터 MS를 포함한 주요 고객사에 헬리오스를 공급할 예정이다.헬리오스는 AMD가 처음 선보이는 통합 랙형 AI 시스템으로, 인스팅트(Instin"
+    },
+    {
+      "id": "0794594cfa15",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "팀뷰어, '티아 스크립팅' 출시…\"자연어로 디바이스 스크립트 생성\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721125756",
+      "published": "2026-07-21T03:57:56+00:00",
+      "summary": "[지디넷코리아]팀뷰어가 자연어만으로 디바이스 관리용 자동화 스크립트를 만드는 인공지능(AI) 기능을 내놨다.팀뷰어는 디지털직원경험 솔루션 '팀뷰어 DEX'에 AI 기반 기능 '티아 스크립팅'을 추가했다고 21일 밝혔다. IT팀이 해결하려는 문제나 원하는 결과를 자연어로 입력하면 검토와 배포가 가능한 자동화 스크립트를 생성하는 기능이다. 기존 IT 자동화 솔루션은 사전에 정의된 템플릿이나 표준 운영 절차를 중심으로 작동했다. 이 때문에 조직마다 다른 설정 문제와 규제 준수 요건을 비롯해 반복되는 장"
+    },
+    {
+      "id": "f6d6e01b7281",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI가 만들었는지는 중요하지 않죠...재미만 있다면 지갑 엽니다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721105227",
+      "published": "2026-07-21T03:57:26+00:00",
+      "summary": "[지디넷코리아]인공지능(AI)이 콘텐츠 제작부터 마케팅, 글로벌 사업 전략까지 콘텐츠 플랫폼의 성장 방식을 바꾸고 있다. AI로 제작한 숏폼 드라마가 실제 매출을 올리고, 광고 운영도 AI가 실시간으로 분석하는 시대가 열리면서 콘텐츠 기업들의 경쟁력도 기술 활용과 실행 속도에서 갈리고 있다는 분석이다.최혁재 스푼랩스 대표는 21일 서울 강남구 웨스틴 조선 서울에서 열린 '모던 그로스 스택(MGS) 2026'에서 남성필 에이비일팔공 대표와 대담을 갖고 AI 콘텐츠 제작과 글로벌 사업 경험을 소개하며"
+    },
+    {
+      "id": "25749f58a5c7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 제미나이 전용 추론 칩 '프로즌 v2' 개발...\"TPU보다 10배 효율\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212967",
+      "published": "2026-07-21T03:56:44+00:00",
+      "summary": "구글이 AI 모델 '제미나이'를 위해 설계된 차세대 AI 서버 칩 '프로즌 v2(Frozen v2)'를 개발 중인 것으로 알려졌다. AI 모델의 일부 구조를 칩에 직접 새겨 넣는 새로운 설계를 적용해 기존 TPU보다 최대 10배 높은 전력 효율을 구현하는 것이 목표다.20일(현지시간) 디 인포메이션에 따르면, 구글은 프로즌 v2라는 이름의 전용 AI 추론 칩을 개발 중이다. 2028년 출시가 목표다.이 칩은 제미나이 모델의 아키텍처 일부를 실리콘에 영구적으로 구현하는 방식으로 제작된다. AI 모델"
+    },
+    {
+      "id": "1a0e8435efca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미군 자율비행 군용기, 아파치와 함께 전장 누빈다",
+      "link": "https://zdnet.co.kr/view/?no=20260721105203",
+      "published": "2026-07-21T03:54:44+00:00",
+      "summary": "[지디넷코리아]미국 방위산업체 안두릴이 유인 헬리콥터와 함께 비행하며 작전 범위를 확장하도록 설계된 자율비행 군용기 '썬더'를 공개했다고 파이낸셜타임스(FT), CNBC 등 외신이 20일(현지시간) 보도했다.안두릴은 이날 영국에서 개막한 판버러 국제 에어쇼에서 실물 크기의 썬더 모형을 처음 공개했다. 썬더는 하이브리드 전기 추진 방식을 적용한 항공기로, 헬리콥터처럼 수직 이륙한 뒤 일반 고정익 항공기처럼 비행할 수 있는 것이 특징이다. 수천 해리에 달하는 항속거리를 바탕으로 적진 깊숙한 곳까지 임"
+    },
+    {
+      "id": "727944b99483",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "클라우드플레어, '프리커서' 출시…\"사용자 행동 분석해 봇 차단\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721125217",
+      "published": "2026-07-21T03:52:17+00:00",
+      "summary": "[지디넷코리아]클라우드플레어가 사용자 행동을 분석해 인공지능(AI) 봇을 차단하는 방어 시스템을 내놨다.클라우드플레어는 봇 매니지먼트용 행동 기반 검증 엔진 '프리커서'를 정식 출시했다고 21일 밝혔다. 프리커서는 클라우드플레어 엣지 네트워크에서 작동한다. 브라우저 이용 과정에서 발생하는 다양한 행동 신호를 분석한다.기존 캡차는 로그인이나 결제 같은 특정 시점에 사용자가 사람인지 확인하는 방식이다. 프리커서는 사용자가 웹사이트에 접속한 뒤 이동하고 입력하고 머무는 과정 전체를 분석해 자동화된 활동"
+    },
+    {
+      "id": "8be65890ddcd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "맷 브롬버그 유니티 CEO \"미래는 팀 규모 아닌, 기술 주도하는 크리에이터의 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721123415",
+      "published": "2026-07-21T03:50:50+00:00",
+      "summary": "[지디넷코리아]\"미래는 가장 큰 팀의 것이 아니다. 기술을 자신에게 맞게 활용함으로써 스스로의 운명을 주도할 수 있는 크리에이터들의 것이다.\"맷 브롬버그 유니티 사장 겸 최고경영자(CEO)가 21일 서울 강남구 코엑스에서 개최된 유니티의 개발자 컨퍼런스 '유나이트 서울 2026' 키노트 연설에서 이같이 말했다.이번 '유나이트 서울 2026'은 유니티의 최신 기술 트렌드와 게임 개발 솔루션을 공유하고 국내외 개발자 간의 네트워크를 형성하기 위해 마련된 연례 개발자 행사다.이날 키노트 스피커로 단상에"
+    },
+    {
+      "id": "2a1eed76ce08",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인디게임 전문 레드브릭하우스, 재무적 투자 유치...카카오벤처스 등 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260721124415",
+      "published": "2026-07-21T03:44:22+00:00",
+      "summary": "[지디넷코리아]인디게임 전문 퍼블리셔 레드브릭하우스(공동대표 김혁진·홍지철)는 재무적 투자를 유치했다고 21일 밝혔다. 투자에는 카카오벤처스를 비롯해, 데브시스터즈벤처스, 스마트스터디벤처스, 메인스트리트벤처스, 지온인베스트먼트가 참여했다. 레드브릭하우스는 위메이드맥스로부터 전략적 투자를 유치한 데 이어 이번 재무적 투자자를 확보하며 인디게임 퍼블리싱 사업의 성장 가능성과 확장성을 인정받았다는 평가다. 이 회사는 지난 6월 설립된 스타트업이다. 잠재력 있는 국내외 개발사를 발굴해 게임 개발과 퍼블리"
+    },
+    {
+      "id": "39fded1dd6b5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "픽스업헬스, 美 하버드 스타트업 지원 프로그램 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260721124340",
+      "published": "2026-07-21T03:43:40+00:00",
+      "summary": "[지디넷코리아]픽스업헬스가 하버드대학교 산하 창업 지원 기관인 하버드 이노베이션 랩스의 스타트업 지원 프로그램 ‘써머 X 액셀러레이터’에 선정됐다고 21일 밝혔다.써머 X 액셀러레이터는 하버드 졸업생이 창업한 초기 스타트업을 대상으로 운영하는 프리 액셀러레이팅 프로그램이다. 이를 통해 픽스업헬스는 사업 전략, 시장 검증, 성장 방향성 등을 고도화하게 됐다는 입장이다.픽스업헬스는 주력 사업 분야의 잠재력은 물론 보유한 기술의 경쟁력, 수익 모델의 지속 가능성, 제품-시장 적합성(PMF) 수준 등을 "
+    },
+    {
+      "id": "7ecfffeb2d8a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버클라우드, 고려대와 국방 AX 맞손… 200억 규모 사업 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212979",
+      "published": "2026-07-21T03:43:34+00:00",
+      "summary": "네이버클라우드(대표 김유원)는 고려대학교 기술경영전문대학원 국방기술경영학과 C5ISRT융합연구센터와 국방 C5ISRT(지휘·통제·통신·컴퓨터·사이버·정보·감시·정찰·표적처리) 분야 산학협력을 위한 MOU를 체결했다고 21일 밝혔다.고려대 C5ISRT연구센터는 국방기술 전문 연구조직으로, 40년 가까이 연구 업적을 쌓아온 강석중 교수가 이끌고 있다. 강 교수는 국방획득체계와 지휘통제체계, 방산안보 등 국방 기술경영 전반을 오랜 시간 연구하며 국방 정책 및 기술 분야에서 다양한 연구와 자문 활동을 수"
+    },
+    {
+      "id": "72bdf989b578",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "룰루랩, 기술신용평가 최고등급 'TI-1' 획득…”AI 피부 분석 기술 입증”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212978",
+      "published": "2026-07-21T03:41:14+00:00",
+      "summary": "AI 피부 분석 전문 룰루랩(대표 최용준)은 NICE평가정보로부터 투자용 기술신용평가(TCB) 최고 등급인 ‘TI-1’을 획득했다고 21일 밝혔다.투자용 기술평가등급은 기업 기술력과 사업화 역량, 시장성, 성장 잠재력 등을 종합적으로 평가하는 제도다. TI-1 등급은 기술력과 미래 성장 가능성이 최상위 수준으로 평가된 기업에 부여되는 최고 등급이다.NICE평가정보는 평가 보고서를 통해 룰루랩의 핵심 기술인 'AI 기반 피부 분석 및 진단기술'에 대해 높은 평가를 내렸다. 특히, 고해상도·고정밀 3"
+    },
+    {
+      "id": "07f7b52cf575",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "씨이랩, 한국데이터센터에너지효율협회 가입",
+      "link": "https://zdnet.co.kr/view/?no=20260721122353",
+      "published": "2026-07-21T03:23:53+00:00",
+      "summary": "[지디넷코리아]AI 인프라 소프트웨어 전문기업 씨이랩이 한국데이터센터에너지효율협회(KDCEA)의 회원사로 가입했다. AI 데이터센터 관련 사업 행보를 본격화한다.21일 회사에 따르면, 한국데이터센터에너지효율협회(KDCEA)는 산업통상자원부 산하 비영리 사단법인이다. 데이터센터 운영사·설계사·투자사·솔루션 공급사 등 100여 개 주요 기업이 참여하는 국내 대표 데이터센터 산업단체다. 에너지 효율화와 지속가능성을 중심으로 인력 양성, 컨설팅, 정부 정책 대응, 연구개발(R&D) 등 다양한 사업을 수행"
+    },
+    {
+      "id": "59d811344525",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "팬티형 생리대 7종 비교해보니…가격 2배 차이, 착용감도 제각각",
+      "link": "https://zdnet.co.kr/view/?no=20260721104810",
+      "published": "2026-07-21T03:00:03+00:00",
+      "summary": "[지디넷코리아]일회용 팬티형 생리대 제품 간 가격이 최대 2배 차이 나는 것으로 나타났다. 흡수성능과 착용감, 치수 맞음새도 제품별로 달라 구매 전 비교가 필요한 것으로 조사됐다.한국소비자원은 소비자 사용 경험이 많은 일회용 팬티형 생리대 7개 브랜드 제품을 대상으로 흡수성능, 착용감, 기본 품질, 안전성, 가격 등을 시험·평가한 결과를 21일 공개했다.시험 대상은 내츄럴코튼, 리버티, 순수한면, 쏘피, 템포, 라엘, 좋은느낌 등 7개 브랜드의 팬티형 생리대다.조사 결과 개당 가격은 리버티 ‘센시"
+    },
+    {
+      "id": "1cdaf8b519c8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국제해킹방어대회 '코드게이트 2026' 23일 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260721115134",
+      "published": "2026-07-21T02:51:34+00:00",
+      "summary": "[지디넷코리아]국제해킹방어대회이자 글로벌 보안 컨퍼런스인 '코드게이트 2026'이 막을 열었다.코드게이트보안포럼은 세계적인 국제 해킹방어대회 겸 글로벌 컨퍼런스인 ‘코드게이트 2026’을 오는 23일부터 24일까지 이틀간 서울 코엑스 그랜드볼룸에서 개최한다고 21일 밝혔다. '코드게이트 2026'은 한컴그룹이 주관했다.올해로 18회를 맞이한 이번 행사는 'AI 세계 3대 강국으로 가는 길: 시큐리티'를 주제로, 갈수록 고도화되는 공격형 AI에 대응하기 위한 국가 차원의 보안 역량 강화 방안을 모색"
+    },
+    {
+      "id": "3fd665187d70",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "모티프, 독파모 프리뷰로 AAII 44점 달성…'딥시크-V4 프로'와 동급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212971",
+      "published": "2026-07-21T02:26:45+00:00",
+      "summary": "AI 전문 모티프테크놀로지스(대표 임정환)는 정부 독자 AI 파운데이션 모델(독파모) 사업을 통해 개발 중인 대형언어모델(LLM) '모티프 3(Motif-3)'의 중간 평가 결과를 21일 공개했다.매개변수 3140억개(314B) 규모의 파운데이션 모델인 모티프 3는 아티피셜 애널리시스의 종합 성능 지표(AAII)에서 중국의 최신 모델인 ‘딥시크-V4 프로’와 동일한 44점을 기록했다. 이는 미국과 중국 외 국가 모델 중에서는 최고 점수다. 미라 무라티의 싱킹 머신즈 랩(TML)이 최근 출시한 '잉"
+    },
+    {
+      "id": "89259825f16e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "호주 재생에너지·배터리 9.1GW 전력망 연결…1년 새 두 배",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212966",
+      "published": "2026-07-21T01:55:00+00:00",
+      "summary": "호주 국가전력시장(NEM)에서 2025년 7월부터 올해 6월까지 재생에너지·저장장치(BESS) 34개 사업, 총 9.1기가와트(GW)가 계통 연결 절차를 마치고 정격출력에 도달했다. 전년 4.4GW보다 두 배 이상 늘어난 규모로, BESS가 증가세를 주도했다.호주 에너지시장운영기관(AEMO)이 20일(현지시간) 공개한 보고서에 따르면, 이들 사업은 발전·충방전 용량 9.1GW와 함께 저장용량 12.9기가와트시(GWh)를 확보했다. 시운전 중 일부 출력까지 포함한 신규 공급 능력은 10.5GW로 집"
+    },
+    {
+      "id": "ba45ae7fa55e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국 1분기 태양광 수입 50% 감소…태양광·배터리 공급망 재편",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212962",
+      "published": "2026-07-21T01:55:00+00:00",
+      "summary": "미국과 유럽의 현지화 정책과 무역장벽이 태양광·풍력·배터리 공급망을 구조적으로 바꾸고 있다는 분석이 나왔다. 미국의 올해 1분기 태양광 제품 수입은 전년 동기보다 약 50% 감소했다.우드맥킨지는 19일(현지시간) 공개한 보고서에서 연초 제기됐던 지정학적 충격과 공급망 위험이 일시적인 변수가 아니라 제조사의 생산·조달 전략을 바꾸는 구조적 변화로 이어지고 있다고 밝혔다. 현지 생산 여부뿐 아니라 원재료와 부품의 조달 경로, 탄소배출량과 물류 안정성까지 사업 경쟁력을 좌우하기 시작했다는 분석이다.미국"
+    },
+    {
+      "id": "ebde41feec18",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "정부, 태양광·풍력·BESS 맞춰 전력망 운영기준 손본다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212965",
+      "published": "2026-07-21T01:35:00+00:00",
+      "summary": "정부가 태양광과 풍력, 배터리에너지저장장치(BESS) 확대에 맞춰 전력망 운영·접속 기준을 정비하는 논의에 들어간다. 재생에너지 설비 증가에 따라 발전량 확대뿐 아니라 전압과 주파수 등 전력계통을 안정적으로 유지할 기술기준의 중요성이 커진 데 따른 조치다.산업통상자원부 소속 전기위원회는 21일 오후 2시 서울 종로구 석탄회관에서 ‘제1차 그리드코드 전문위원회’를 개최한다고 밝혔다.그리드코드는 정부의 전력계통 신뢰도·전기품질 유지기준과 전력거래소의 시장운영규칙, 한국전력의 송·배전설비 이용규정 등을"
+    },
+    {
+      "id": "a1ead39e4afc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "글로벌 AI 트렌드 조망… ‘AI 서밋 서울 & 엑스포 2026’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212961",
+      "published": "2026-07-21T01:00:00+00:00",
+      "summary": "생성 AI를 넘어 스스로 판단하고 업무를 수행하는 에이전틱 AI 시대로 진화하는 가운데, 최신 AI 기술과 산업 동향을 한자리에서 살펴볼 수 있는 'AI 서밋 서울 & 엑스포 2026(AISE 2026)'가 다음 달 서울에서 열린다.디엠케이글로벌과 코엑스, 한국무역협회(KITA)는 오는 8월19일부터 21일까지 서울 코엑스에서 AI 서밋 서울 & 엑스포 2026을 개최한다고 밝혔다. 컨퍼런스는 그랜드볼룸에서, 전시는 B홀에서 동시에 진행된다.AISE는 2018년 첫 개최 이후 올해로 9회째를 맞는"
+    },
+    {
+      "id": "a29ffcb4a1f9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "link": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "published": "2026-07-21T00:33:53+00:00",
+      "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country Comments URL: https://news.ycombinator.com/item?id=48986731 Points: 214 # Comments"
+    },
     {
       "id": "5b99cd010f18",
       "source": "TechCrunch",
@@ -278,6 +509,28 @@
       "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions."
     },
     {
+      "id": "0750d21c9bd7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Human mathematicians are being outcounterexampled",
+      "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "published": "2026-07-20T19:03:37+00:00",
+      "summary": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/ Comments URL: https://news.ycombinator.com/item?id=48983382 Points: 266 # Comments: 92"
+    },
+    {
+      "id": "12da345054eb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "link": "https://blaizzy.github.io/nativ/",
+      "published": "2026-07-20T18:16:08+00:00",
+      "summary": "Article URL: https://blaizzy.github.io/nativ/ Comments URL: https://news.ycombinator.com/item?id=48982681 Points: 218 # Comments: 80"
+    },
+    {
       "id": "fb0a6f639061",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -342,6 +595,17 @@
       "link": "https://www.youtube.com/watch?v=M51asSwRLxA",
       "published": "2026-07-20T17:02:30+00:00",
       "summary": ""
+    },
+    {
+      "id": "d0d7d7162e30",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "published": "2026-07-20T16:36:36+00:00",
+      "summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 201 # Comments: 145"
     },
     {
       "id": "641a3c1b77f7",
@@ -485,6 +749,17 @@
       "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "published": "2026-07-20T14:21:47+00:00",
       "summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 744 # Comments: 622"
+    },
+    {
+      "id": "07b66dcfee0b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Perfection is not over-engineering",
+      "link": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "published": "2026-07-20T14:10:30+00:00",
+      "summary": "Article URL: https://var0.xyz/posts/perfection-is-not-over-engineering.html Comments URL: https://news.ycombinator.com/item?id=48979120 Points: 214 # Comments: 92"
     },
     {
       "id": "750338b7b541",
