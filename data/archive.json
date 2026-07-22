@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-22T22:40:16.103552+00:00",
-  "count": 6592,
+  "updated_at": "2026-07-22T23:40:05.717211+00:00",
+  "count": 6597,
   "items": [
+    {
+      "id": "090c3abf8081",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "노태문 사장 \"갤Z폴드8·울트라 UTG 두께, 티타늄·크기 따라 다르다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260723042306",
+      "published": "2026-07-22T23:00:02+00:00",
+      "summary": "[지디넷코리아][런던(영국)=이기종 기자] 노태문 삼성전자 사장이 북 타입 폴더블폰 갤럭시Z폴드8과 Z폴드8울트라의 커버윈도 울트라신글래스(UTG) 두께가 서로 다른 이유에 대해 \"UTG와 플렉스 티타늄, 제품 크기 등을 모두 반영한 결과\"라고 답했다. 삼성전자가 22일(현지시간) 영국 런던 올드 빌링스게이트(Old Billingsgate)에서 개최한 갤럭시 언팩에서 공개한 폴더블폰 3종의 UTG 두께는 모두 다르다. 갤럭시Z폴드의 UTG 두께는 60마이크로미터(μm) 내외, Z폴드8울트라는 45"
+    },
+    {
+      "id": "3b09a50f2524",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성, 갤럭시 언팩서 구글·퀄컴 협력과 개방성 부각...애플 겨냥",
+      "link": "https://zdnet.co.kr/view/?no=20260723074822",
+      "published": "2026-07-22T22:49:13+00:00",
+      "summary": "[지디넷코리아][런던(영국)=이기종 기자] 삼성전자가 22일(현지시간) 영국 런던 올드 빌링스게이트(Old Billingsgate)에서 개최한 '갤럭시 언팩 2026'에서 구글과 퀄컴 협력을 부각했다. '개방성'을 강조하며 폐쇄적 생태계를 구축한 애플도 겨냥했다. 올해 삼성전자 폴더블폰 3종은 갤럭시 인공지능(AI)과 구글 제미나이 인텔리전스를 기반으로 사용자 상황을 이해하고 필요한 작업을 연결하는 에이전트형 AI 경험을 제공한다. 삼성전자는 구글과 협업해 제미나이 인텔리전스를 모바일폰에 처음 탑"
+    },
     {
       "id": "654e8be9e516",
       "source": "The Verge",
@@ -111,6 +133,17 @@
       "link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
       "published": "2026-07-22T20:36:19+00:00",
       "summary": "First four compatible titles can be run with an 11-year-old graphics card."
+    },
+    {
+      "id": "76a5208095c6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "published": "2026-07-22T20:33:44+00:00",
+      "summary": "Article URL: https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/ Comments URL: https://news.ycombinator.com/item?id=49013036 Points: 216 # Comments: 47"
     },
     {
       "id": "b827ea8f8679",
@@ -243,6 +276,17 @@
       "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
       "published": "2026-07-22T17:54:14+00:00",
       "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
+    },
+    {
+      "id": "fe9ff17ec643",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Everyone Should Know SIMD",
+      "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "published": "2026-07-22T17:48:18+00:00",
+      "summary": "Article URL: https://mitchellh.com/writing/everyone-should-know-simd Comments URL: https://news.ycombinator.com/item?id=49010648 Points: 200 # Comments: 60"
     },
     {
       "id": "d694d22d66f1",
@@ -639,6 +683,17 @@
       "link": "https://hatchet.run/blog/postgres-survival-guide",
       "published": "2026-07-22T12:36:08+00:00",
       "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 208 # Comments: 108"
+    },
+    {
+      "id": "ef4e464e5e04",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "link": "https://www.cole-k.com/2026/07/21/reddit/",
+      "published": "2026-07-22T12:32:48+00:00",
+      "summary": "Article URL: https://www.cole-k.com/2026/07/21/reddit/ Comments URL: https://news.ycombinator.com/item?id=49005747 Points: 208 # Comments: 216"
     },
     {
       "id": "ce8af169b892",
