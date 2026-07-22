@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-22T16:27:46.549227+00:00",
-  "count": 6555,
+  "updated_at": "2026-07-22T17:49:21.080268+00:00",
+  "count": 6559,
   "items": [
+    {
+      "id": "a6167305b7c6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is making it easier to switch from iPhone to Android",
+      "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+      "published": "2026-07-22T17:08:03+00:00",
+      "summary": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app."
+    },
+    {
+      "id": "5f9518de73e4",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "link": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "published": "2026-07-22T16:36:53+00:00",
+      "summary": ""
+    },
+    {
+      "id": "23850d4427f7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is reportedly testing a MacBook Neo with more RAM",
+      "link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+      "published": "2026-07-22T16:35:58+00:00",
+      "summary": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Following a similar report from analyst Tim Culpan earlier thi"
+    },
+    {
+      "id": "b16663dbf7c0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s what Samsung’s smart glasses actually look like",
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "published": "2026-07-22T16:35:34+00:00",
+      "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Mo"
+    },
     {
       "id": "7062850c89f8",
       "source": "TechCrunch",
