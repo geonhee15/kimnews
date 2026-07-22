@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-22T19:06:06.794768+00:00",
-  "count": 6571,
+  "updated_at": "2026-07-22T20:21:03.495033+00:00",
+  "count": 6577,
   "items": [
+    {
+      "id": "1760b778ea55",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Price-hiked iPads are a little cheaper right now",
+      "link": "https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale",
+      "published": "2026-07-22T19:14:31+00:00",
+      "summary": "A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently happening is on the 13-inch iPad Pro M5 with 512GB of storage. Normally $1,699, it"
+    },
+    {
+      "id": "d786ec1bed7c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+      "link": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+      "published": "2026-07-22T19:13:21+00:00",
+      "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing prog"
+    },
+    {
+      "id": "65e3e8235d66",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "published": "2026-07-22T19:11:46+00:00",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible."
+    },
     {
       "id": "e3c5b4da0800",
       "source": "Wired",
@@ -100,6 +133,28 @@
       "link": "https://www.youtube.com/watch?v=YP73B9D20V4",
       "published": "2026-07-22T17:43:52+00:00",
       "summary": ""
+    },
+    {
+      "id": "6ab19a5077fc",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Open-weight AI just hit 2.8 trillion parameters…",
+      "link": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "published": "2026-07-22T17:43:52+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b4b16f888f3a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "link": "https://github.com/marcelroed/gigatoken/",
+      "published": "2026-07-22T17:20:38+00:00",
+      "summary": "Article URL: https://github.com/marcelroed/gigatoken/ Comments URL: https://news.ycombinator.com/item?id=49010167 Points: 200 # Comments: 37"
     },
     {
       "id": "a6167305b7c6",
@@ -210,6 +265,17 @@
       "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
       "published": "2026-07-22T15:47:10+00:00",
       "summary": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who bought last year's model; Aside from a few "
+    },
+    {
+      "id": "e153fb4fe557",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Making",
+      "link": "https://beej.us/blog/data/ai-making/",
+      "published": "2026-07-22T15:33:48+00:00",
+      "summary": "Article URL: https://beej.us/blog/data/ai-making/ Comments URL: https://news.ycombinator.com/item?id=49008440 Points: 205 # Comments: 81"
     },
     {
       "id": "27d81d4d83e2",
