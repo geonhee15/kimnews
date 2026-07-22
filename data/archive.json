@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-22T17:49:21.080268+00:00",
-  "count": 6559,
+  "updated_at": "2026-07-22T19:06:06.794768+00:00",
+  "count": 6571,
   "items": [
+    {
+      "id": "e3c5b4da0800",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "published": "2026-07-22T19:01:38+00:00",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable."
+    },
+    {
+      "id": "86f443684cce",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "published": "2026-07-22T19:00:00+00:00",
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "281c0447d376",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "published": "2026-07-22T18:50:44+00:00",
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
+    },
+    {
+      "id": "26c86aa0f947",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "published": "2026-07-22T18:18:12+00:00",
+      "summary": "Union previously warned automaker that any robot deployment must be negotiated."
+    },
+    {
+      "id": "7b7d7f3c41f9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Science Corporation’s vision-restoring chip wins EU approval",
+      "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+      "published": "2026-07-22T18:18:02+00:00",
+      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said."
+    },
+    {
+      "id": "78e1b313512b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "published": "2026-07-22T18:13:58+00:00",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by "
+    },
+    {
+      "id": "63dbb995ba1a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "published": "2026-07-22T18:02:57+00:00",
+      "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthr"
+    },
+    {
+      "id": "c9ff1aa01440",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "published": "2026-07-22T17:54:14+00:00",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
+    },
+    {
+      "id": "d694d22d66f1",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi K3 just parameter mogged every open-weight model…",
+      "link": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "published": "2026-07-22T17:43:52+00:00",
+      "summary": ""
+    },
     {
       "id": "a6167305b7c6",
       "source": "TechCrunch",
@@ -12,6 +111,17 @@
       "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
       "published": "2026-07-22T17:08:03+00:00",
       "summary": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app."
+    },
+    {
+      "id": "291249d4542b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "published": "2026-07-22T16:47:49+00:00",
+      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says."
     },
     {
       "id": "5f9518de73e4",
@@ -298,6 +408,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260722214457",
       "published": "2026-07-22T12:44:57+00:00",
       "summary": "[지디넷코리아]글로벌 네트워크 보안기업 포티넷(CEO 켄 지)이 인텔(Intel)과 협력해 차세대 보안 프로세서 '포티넷 시큐리티 프로세서 6(Fortinet Security Processor 6, SP6)'을 개발한다.양사는 기존 협력 관계를 확대, 포티넷의 맞춤형 보안 프로세서 기술과 인텔의 반도체 설계, 패키징, 제조 역량을 결합해 SP6 개발 속도를 높인다. 이번 협력은 포티넷의 글로벌 공급망 안정성을 높이는 데에도 기여할 전망이다.포티넷의 맞춤형 보안 프로세서 기술에 인텔의 폭넓은 생태계"
+    },
+    {
+      "id": "fe802ae3b2c0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The startup's Postgres survival guide",
+      "link": "https://hatchet.run/blog/postgres-survival-guide",
+      "published": "2026-07-22T12:36:08+00:00",
+      "summary": "Article URL: https://hatchet.run/blog/postgres-survival-guide Comments URL: https://news.ycombinator.com/item?id=49005787 Points: 208 # Comments: 108"
     },
     {
       "id": "ce8af169b892",
@@ -4500,6 +4621,17 @@
       "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
       "published": "2026-07-19T16:05:00+00:00",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+    },
+    {
+      "id": "2f18e7897e98",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Introduction to Formal Verification with Lean Part 1",
+      "link": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+      "published": "2026-07-19T15:49:58+00:00",
+      "summary": "Article URL: https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1) Comments URL: https://news.ycombinator.com/item?id=48969200 Points: 205 # Comments: 40"
     },
     {
       "id": "a6a16a6ca548",
