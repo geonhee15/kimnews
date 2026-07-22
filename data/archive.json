@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-21T23:04:18.988973+00:00",
-  "count": 6436,
+  "updated_at": "2026-07-22T00:05:18.455039+00:00",
+  "count": 6444,
   "items": [
+    {
+      "id": "dba5c0bfa15f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "published": "2026-07-21T23:55:10+00:00",
+      "summary": "Meta's StoryKit app is only available in certain regions while the company tests how parents react to it."
+    },
+    {
+      "id": "1c64ae270c4d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"SKT, AI팩토리에 가장 적극적인 통신사...풀스택AI·전국망 경쟁력\"",
+      "link": "https://zdnet.co.kr/view/?no=20260721191819",
+      "published": "2026-07-21T22:53:00+00:00",
+      "summary": "[지디넷코리아]영국 통신 전문매체 텔레콤TV(TelecomTV)가 SK텔레콤을 글로벌 통신사 가운데 AI 팩토리 구축을 가장 적극적으로 추진하는 사업자 중 하나로 소개했다. AI 인프라를 넘어 모델과 서비스까지 아우르는 '풀스택 AI' 전략과 전국 통신망을 활용한 AI 인프라 구축이 핵심 경쟁력으로 꼽혔다.텔레콤TV는 최근 발간한 '통신사의 AI 인프라 동향(Trends in Telco AI Infrastructure)' 보고서에서 SK텔레콤과 스위스콤, 텔레노르, 텔리아, 텔러스 등 5개 통신사"
+    },
     {
       "id": "a221d93c8b47",
       "source": "Wired",
@@ -12,6 +34,50 @@
       "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
       "published": "2026-07-21T22:50:01+00:00",
       "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack."
+    },
+    {
+      "id": "0cfcb8a062ed",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "published": "2026-07-21T22:50:01+00:00",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack."
+    },
+    {
+      "id": "6a13f8893c77",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "웨카, 엔터프라이즈 및 에이전틱 AI 워크로드의 실제 운영 규모 지원하는 NeuralMesh 6 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260722071013",
+      "published": "2026-07-21T22:10:13+00:00",
+      "summary": "[지디넷코리아] 역사상 가장 중요한 이번 소프트웨어 출시는 에이전틱 AI와 기타 가속 컴퓨팅 워크로드의 가능성을 한층 확장한다. NeuralMesh 6는 네이티브 멀티테넌시, NVMe 기반 통합 파일 및 객체 프로토콜 스택, 복제 및 원격 캐싱을 지원하는 지능형 데이터 이동성, 성능을 보장하는 상시 데이터 절감, Kubernetes 네이티브 운영, 통합 관측성을 통해 추론 경제성을 새롭게 정의한다. 캠벨, 캘리포니아주, 2026년 7월 22일 /PRNewswire/ -- AI 데이터•메모리 인프라"
+    },
+    {
+      "id": "e4f777e75d6b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "웨카, WEKApod 3 공개: 에이전틱 워크로드 위한 세계 최고 집적도의 AI 스토리지 및 메모리 시스템",
+      "link": "https://zdnet.co.kr/view/?no=20260722071003",
+      "published": "2026-07-21T22:10:03+00:00",
+      "summary": "[지디넷코리아] 웨카가 자체 설계한 신형 시스템은 에너지 소비와 인프라 비용, 운영 복잡성, 데이터센터 설치 면적을 획기적으로 줄이면서 단일 랙에서 시장 대안보다 유효 용량 밀도를 267%, 성능 밀도를 114% 높여, 획기적인 경제성을 제공하는 고효율의 상용 배포 준비 완료 AI 팩토리 및 추론 인프라를 구현한다. 캠벨, 캘리포니아, 2026년 7월 22일 /PRNewswire/ -- AI 데이터 및 메모리 인프라 기업 웨카(WEKA)가 자체 설계한 맞춤형 섀시와 특허 출원 중인 하드웨어 혁신 "
+    },
+    {
+      "id": "27b4ca0c5c7e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "published": "2026-07-21T22:06:43+00:00",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, "
     },
     {
       "id": "91a7f3d8ad87",
@@ -34,6 +100,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
       "published": "2026-07-21T21:48:54+00:00",
       "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment"
+    },
+    {
+      "id": "5dcca241d446",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "표준협회, 두 번째 사내 AI 경진대회…실무형 AI 아이디어 12개 팀 본선 진출",
+      "link": "https://zdnet.co.kr/view/?no=20260722063452",
+      "published": "2026-07-21T21:34:52+00:00",
+      "summary": "[지디넷코리아]한국표준협회(회장 문동민)는 최근 임직원의 인공지능(AI) 역량 내재화와 업무 혁신 성과를 공유하기 위한 사내 경진대회 ‘2026 KSA AI Challenge’ 본선을 개최했다고 21일 밝혔다.지난해 10월 첫 대회 이후 두 번째로 열린 이번 대회는 ▲업무 자동화 ▲고객 서비스의 지능형 고도화 ▲신규 AX 사업 모델 제안 등 참가팀이 자유롭게 설정한 주제로 예선을 거쳐 최종 12팀이 본선 대회에 진출했다.표준협회 관계자는 “경진대회는 AI 기술 경험을 실제 업무에 적용할 수 있도록"
     },
     {
       "id": "e1e8fdcb073d",
@@ -155,6 +232,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
       "published": "2026-07-21T17:33:14+00:00",
       "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
+    },
+    {
+      "id": "5bf1b1b55511",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Laguna S 2.1",
+      "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "published": "2026-07-21T17:17:06+00:00",
+      "summary": "Article URL: https://poolside.ai/blog/introducing-laguna-s-2-1 Comments URL: https://news.ycombinator.com/item?id=48995261 Points: 211 # Comments: 42"
     },
     {
       "id": "7a0298fa0485",
