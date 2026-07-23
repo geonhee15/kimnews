@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-23T21:11:46.250653+00:00",
-  "count": 6741,
+  "updated_at": "2026-07-23T22:14:21.245456+00:00",
+  "count": 6745,
   "items": [
+    {
+      "id": "446f9adaed10",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월23일] \"제미나이가 누구?\"...출시 늦어진 구글, 경쟁사 놀림감 됐다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213085",
+      "published": "2026-07-23T22:00:00+00:00",
+      "summary": "지난해 11월 '제미나이 3'를 출시하며 구글은 AI 모델 경쟁의 선두 자리를 되찾았다는 평가를 받았습니다. 여기에 자체 칩 TPU와 클라우드 인프라, 그리고 검색과 안드로이드, 애플리케이션 등 전 분야에 걸쳐 풀스택을 갖춘 거의 유일한 기업이라는 점에서 구글의 독주를 예상하는 시각도 적지 않았습니다.그러나 최근에는 상황이 급격하게 바뀌었습니다. 21일(현지시간)에는 빠르고 효율적인 '플래시' 모델군을 출시했지만, 플래그십 모델인 '제미나이 3.5 프로'의 출시는 또 지연됐습니다.이미 시장의 관심"
+    },
+    {
+      "id": "b56b2331f191",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "published": "2026-07-23T21:15:06+00:00",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and ot"
+    },
+    {
+      "id": "8be6ac040f75",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엘리멘타, '실버팰리스' 2차 글로벌 테스트로 게임성 검증 나서",
+      "link": "https://zdnet.co.kr/view/?no=20260724010138",
+      "published": "2026-07-23T21:00:03+00:00",
+      "summary": "[지디넷코리아]엘리멘타가 신작을 개발 중인 가운데, 2차 비공개 베타 테스트를 열어 게임성 검증에 나선다.엘리멘타는 오픈월드 추리 어드벤처 ARPG '실버 팰리스' 제2차 클로즈 베타 테스트인 '이분법 테스트'를 실시한다고 24일 밝혔다.이번 테스트는 전날부터 다음달 13일까지 PC 플랫폼을 통해 진행된다. 한정 인원을 대상으로 한 무과금·데이터 초기화 방식으로 운영되며, 테스터로 선정된 이용자는 도시 실버니아를 탐험하며 40시간 이상 분량의 신규 오픈월드 콘텐츠와 추리 시스템을 경험할 수 있다."
+    },
     {
       "id": "f699f91cf19a",
       "source": "Ars Technica",
@@ -20,6 +53,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "published": "2026-07-23T20:33:02+00:00",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+    },
+    {
+      "id": "1aebbe635d3d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "published": "2026-07-23T20:33:02+00:00",
       "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
