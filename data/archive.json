@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-07-23T01:11:59.492898+00:00",
-  "count": 6608,
+  "updated_at": "2026-07-23T04:33:25.352074+00:00",
+  "count": 6630,
   "items": [
+    {
+      "id": "a7a66f5e79a8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "백악관 \"문샷 '키미 K3'는 미국 칩과 모델 훔친 결과\"…강력 제재 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213068",
+      "published": "2026-07-23T04:01:18+00:00",
+      "summary": "미국 트럼프 행정부가 연일 중국 문샷 AI의 '키미 3'를 겨냥해 공세를 높이고 있다. 이번에는 앤트로픽의 '페이블 5'를 무단으로 활용한 것은 물론, 미국의 수출 규제를 받는 엔비디아의 최신 AI 칩까지 우회 확보했다는 의혹을 제기하며 강력한 제재를 시사했다.마이클 크라치오스 백악관 과학기술정책실(OSTP) 실장은 22일(현지시간) X를 통해 \"문샷 AI가 앤트로픽의 최첨단 모델 '페이블'을 증류(distillation)해 키미 K3 개발에 활용했다는 정보를 확보했다\"라며 \"미국의 독점 기술을 "
+    },
+    {
+      "id": "3628b6715340",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, AGI 조직 인력 감축...\"실용 AI 서비스에 자원 집중\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213086",
+      "published": "2026-07-23T03:49:24+00:00",
+      "summary": "아마존이 AI 투자 기조는 유지하면서도 최첨단 AGI 연구 조직 일부를 대상으로 인력 감축에 나섰다. 막대한 AI 인프라 투자 속에서 장기적인 AGI 연구보다는 고객 수요와 사업 성과를 직접 창출하는 실용적인 AI 서비스에 자원을 집중하기 위한 전략으로 풀이된다.아마존은 23일(현지시간) AGI 조직 일부 직무를 없애는 구조조정을 단행했다고 밝혔다.구체적인 감원 규모는 공개하지 않았지만, 모델 맞춤화(model customization)와 사후 학습(post-training) 등을 담당하던 일부 "
+    },
+    {
+      "id": "6ad724087d35",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 '제미나이' 월간 사용자 9.5억명 돌파...챗GPT에 '5000만명' 차 추격",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213071",
+      "published": "2026-07-23T03:41:37+00:00",
+      "summary": "구글의 AI 서비스 '제미나이'가 월간 활성 사용자(MAU) 9억5000만명을 돌파하며 오픈AI의 '챗GPT'를 바짝 추격하고 있다. 불과 반년 만에 2억명 이상 사용자가 늘어나면서 구글이 AI 서비스 시장에서 빠르게 영향력을 확대하고 있다는 평가가 나온다.구글은 22일(현지시간) 발표한 2026년 2분기 실적 발표 자료를 통해 제미나이 앱의 MAU가 9억5000만명에 도달했다고 밝혔다.순다르 피차이 구글 CEO는 실적 발표 컨퍼런스 콜에서 \"제미나이의 일간 활성 사용자 수는 지난 1년 동안 3배"
+    },
+    {
+      "id": "8f269b91b119",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엘리스그룹, 부산 산업단지 내 국내 최초 '엣지 AI 데이터센터' 짓는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213070",
+      "published": "2026-07-23T03:31:38+00:00",
+      "summary": "엘리스그룹(대표 김재원)은 산업통상자원부의 '2026년 산업단지 엣지 AI 데이터센터(AIDC) 실증 시범사업'에 선정, 한국산업단지공단 부산본부의 '부산 조선·해양 엣지 AIDC 구축사업'에 참여한다고 23일 밝혔다.이번 사업은 전국 산업단지 최초로 그래픽저장장치(GPU)와 국산 신경망처리장치(NPU) 기반의 엣지 AIDC를 구축하는 프로젝트다.엘리스그룹은 자체 모듈형 AI 데이터센터(PMDC) '엘리스 AI PMDC'와 AI 클라우드 인프라 가상화 솔루션 'ECI'를 패키지로 공급한다.이번 사"
+    },
+    {
+      "id": "c26364757697",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SKT, 로봇 학습 데이터 표준화 나선다...ITU-T 신규 과제 채택",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213083",
+      "published": "2026-07-23T03:29:15+00:00",
+      "summary": "SK텔레콤(대표 정재헌)은 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화부문(ITU-T) 국제표준화 회의에서 '로봇 데이터 생산·활용 체계에 관한 신규 표준화 과제'가 채택됐다고 23일 밝혔다.ITU-T는 UN 전문기구인 국제전기통신연합(ITU) 산하 전기통신표준화 부문으로 정보통신 분야의 국제표준을 개발한다.SKT는 휴머노이드 등 로봇 동작에 필요한 AI 학습 데이터를 체계적으로 생산·활용하기 위한 '로봇 데이터 팩토리(RDF) 연동 구조 및 방식'을 제안했다.그동안은 로봇마다 기종과 탑"
+    },
+    {
+      "id": "8ff06f382f44",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리벨리온, 국산 NPU로 SKT 독자 모델 'A.X K1' 구동 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213074",
+      "published": "2026-07-23T03:28:39+00:00",
+      "summary": "리벨리온(대표 박성현)은 SK텔레콤의 독자 AI 파운데이션 모델 '에이닷엑스 케이원(A.X K1)'을 자체 신경망처리장치(NPU) 서버에서 구동하는 데 성공했다고 23일 밝혔다.A.X K1은 5190억개 매개변수의 대형언어모델(LLM)로 추론 시 330억개만 활성화되는 전문가 혼합(MoE) 구조로 설계됐다.리벨리온은 이에 맞춰 소프트웨어를 최적화하고, 반도체 칩에 효율적인 방식으로 병렬 처리하는 분산 기술을 구현했다. 그 결과, NPU 단일 서버만으로도 고성능 GPU 서버에 준하는 인프라 역량을 "
+    },
+    {
+      "id": "9d2c0001632d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한컴, 한수원에 문서작성 AI 솔루션 '한컴어시스턴트' 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213077",
+      "published": "2026-07-23T03:27:28+00:00",
+      "summary": "한컴(대표 김연수)은 한국수력원자력에 AI 문서작성 솔루션 '한컴어시스턴트'를 공급했다고 23일 밝혔다.한컴은 한수원의 원자력발전 특화 AI 플랫폼 '하이누리'에 한컴어시스턴트를 연계해 문서 작성 및 정보 검색 효율화를 진행했다. 이를 통해 사용자는 자연어 명령만으로 원전 정비 지침, 발전·건설 및 안전 자료 등 내부 데이터를 검색할 수 있으며, 표준 템플릿을 적용한 보고서 작성과 문서 요약 등이 가능하다는 설명이다.특히 공공기관의 특성을 반영해 외부망과 분리된 폐쇄망 환경에서도 AI를 안전하게 "
+    },
+    {
+      "id": "87f37a4e908e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "금융 AI 전문 알프레드, 배달의 민족 출신 조영호 CTO 영입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213080",
+      "published": "2026-07-23T03:24:55+00:00",
+      "summary": "금융 에이전틱 AI 전문 알프레드(대표 옥형석)는 조영호 개발 전문가를 최고 기술책임자(CTO)로 영입했다고 23일 밝혔다.조영호 CTO는 네이버, 카카오, 배달의민족 등에서 기술 이사로 재직했으며, '오브젝트'의 저자로도 알려져 있다.조 CTO는 AI 중심 기술 전략과 제품 개발을 이끌며, AI 네이티브 조직 전환과 에이전틱 비즈니스 프로세스 아웃소싱(BPO) 고도화를 담당한다.특히 회의 기록과 업무 문서, 의사결정 이력 등 조직 내 데이터를 AI가 이해하고 활용할 수 있도록 구조화하는 '컨텍스"
+    },
+    {
+      "id": "27e51bda0ca3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "그리스, 아파트 발코니 태양광 허용 추진…최대 800W",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213072",
+      "published": "2026-07-23T03:20:00+00:00",
+      "summary": "그리스가 아파트 발코니에 설치하는 최대 800와트(W) 소형 태양광과 태양광 설비 없이 사용하는 독립형 배터리를 자가소비 제도에 포함하는 방안을 추진한다. 지붕이나 별도 부지를 확보하기 어려운 공동주택 거주자도 태양광으로 생활전력 일부를 직접 충당할 수 있도록 제도를 넓히려는 조치라는 평가다.그리스 환경에너지부는 10일(현지시간) 재생에너지 자가소비 설비의 개발·설치·접속 절차를 개편하는 장관 결정 개정안을 공개하고 20일까지 의견을 받았다. 생산한 전력은 주택이나 사업장의 자체 수요를 충당하는 "
+    },
+    {
+      "id": "c289881d8952",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[기고] K-우주항공의 미래, 영·호남 상생과 ‘특별법’ 제정에 달렸다.",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213066",
+      "published": "2026-07-23T03:15:40+00:00",
+      "summary": "글로벌 우주 시장의 주도권을 확보하기 위한 세계 각국의 경쟁이 치열하게 전개 되고 있다. 정부 역시 우주항공청 개청을 계기로 2045년 우주경제 강국 도약을 위한 구체적 구상을 제시하며, 우주항공산업을 대한민국의 미래 핵심 성장동력 으로 육성하겠다는 의지를 명확히 했다.그러나 단순한 정부 전담 조직의 신설이나 개별 R&D 지원만으로는 글로벌 경 쟁을 이겨낼 수 없다. 우주항공산업의 경쟁력은 기술개발을 넘어 연구(R&D), 제조·생산, 시험·발사는 물론 우수한 인재들이 모여들고 정착할 수 있는 최고"
+    },
+    {
+      "id": "ed6390461a71",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "플루 딥 클렌징 스크럽, 이마트 초저가 단독런칭",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212878",
+      "published": "2026-07-23T02:45:00+00:00",
+      "summary": "바디스크럽 전문 브랜드 플루(PLU)가 이마트를 통해 ‘플루 딥 클렌징 스크럽 5종을 새롭게 선보인다고 23일 밝혔다.이번 신제품은 ‘도시를 비워내는 각질 딥클렌징’​을 콘셉트로, 도시 생활 중 피부와 두피에 쌓이기 쉬운 미세먼지와 각종 노폐물을 깨끗하게 세정하고 사용 부위에 맞는 각질 관리를 제공하기 위해 기획됐다.바디부터 얼굴, 두피, 발까지 부위별 피부 특성과 사용 목적을 고려한 제품을 한 번에 만나볼 수 있도록 구성한 것이 특징이다. 소비자는 자신의 피부 고민과 사용 부위에 따라 필요한 제"
+    },
+    {
+      "id": "b67f7d0c3244",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이노그리드, xPU부터 서비스까지 잇는다…파트너와 AI 플랫폼 확장",
+      "link": "https://zdnet.co.kr/view/?no=20260723112122",
+      "published": "2026-07-23T02:21:51+00:00",
+      "summary": "[지디넷코리아]이노그리드가 그래픽처리장치(GPU)와 신경망처리장치(NPU) 등 이기종 컴퓨팅 자원부터 인공지능(AI) 서비스까지 단일 플랫폼에서 통합 관리하는 기술 로드맵을 공개하고 파트너사와 AI 사업 확대에 나선다.이노그리드는 지난 22일 서울드래곤시티에서 '이노그리드 파트너스 데이 2026'을 개최하고 xPU 인프라부터 AI 서비스까지 통합하는 기술 로드맵과 파트너 공동 사업 전략을 발표했다고 23일 밝혔다.이번 행사는 '프롬 xPU 투 AI 플랫폼: 투게더 위드 파트너스(From xPU t"
+    },
+    {
+      "id": "b182073fc5ac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "EU, 알리익스프레스에 9300억원 과징금…\"추천 알고리즘이 위험·위조 상품 노출\"",
+      "link": "https://zdnet.co.kr/view/?no=20260723110644",
+      "published": "2026-07-23T02:06:44+00:00",
+      "summary": "[지디넷코리아]현지 시각 7월 20일 유럽연합 집행위원회 발표와 포춘 등 외신에 따르면, 집행위가 알리익스프레스에 5억 5,000만 유로(약 9,300억 원)의 과징금을 부과했다. 유럽 소비자에게 불법·위조 상품이 팔리는 것을 충분히 막지 못했다는 이유다.이번 금액은 디지털서비스법(DSA) 위반으로 부과된 역대 최대 과징금으로, 지난 5월 같은 사유로 테무에 부과된 2억 유로보다 큰 규모다.집행위는 알리익스프레스가 위법·위험·위조 상품과 관련한 위험을 성실히 평가하고 줄여야 할 의무를 어겼다고 판"
+    },
+    {
+      "id": "63ae942394de",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에코프로 \"인니 BNSI 제련소 반응기 입고\"…내년 2분기 가동",
+      "link": "https://zdnet.co.kr/view/?no=20260723102037",
+      "published": "2026-07-23T02:06:13+00:00",
+      "summary": "[지디넷코리아]에코프로는 인도네시아 술라웨시 BNSI 제련소 건설 현장에서 반응기 입고식 행사를 22일 개최했다고 23일 밝혔다.연산 9만톤의 니켈을 생산할 BNSI 제련소에는 기당 연 3만톤을 생산하는 반응기 3기가 설치될 예정이다. 현재 2기가 입고됐으며 나머지 1기는 9월 입고될 예정이다. 제련소는 빠르면 올해 말 준공 및 시험생산을 거쳐 내년 2분기 본격 가동될 것으로 전망된다.BNSI 제련소는 에코프로가 지분 39%를 보유해 대주주로 참여하고, 인도네시아 국영 광산기업 PTVI 30%, "
+    },
+    {
+      "id": "597f58735260",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부 “미소스·GPT 잡을 국산 AI 보안 모델 개발 본격화”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213073",
+      "published": "2026-07-23T02:03:36+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)가 정보통신산업진흥원(NIPA)과 손잡고 국내 AI 및 보안 기술 역량을 결집한다. 과기부는 ‘사이버 보안 특화 AI 파운데이션 모델 개발’ 사업 공모에 본격 착수한다고 23일 밝혔다.이번 사업은 고성능 AI 모델 발달에 따라 급증하는 사이버 보안 위협에 대응하고, 국내 환경에 최적화된 독자 보안 AI 모델을 확보하는 것이 목표다. 멀티 에이전트 방식의 서비스 연계가 가능하도록 설계되며, 기존 독자 파운데이션 모델 사업과 마찬가지로 '오픈소스' 형태를 지향한다.참여 "
+    },
+    {
+      "id": "4bd67efb4887",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 콘텐츠 홍수 시대…플랫폼 새 고민은 'AI 슬롭'",
+      "link": "https://zdnet.co.kr/view/?no=20260722152055",
+      "published": "2026-07-23T01:58:42+00:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI)이 콘텐츠 제작 문턱을 크게 낮추면서 글로벌 플랫폼들이 새로운 과제에 직면했다. 누구나 손쉽게 이미지와 영상, 음성을 만들 수 있게 된 반면, 반복적이고 완성도가 낮은 이른바 ‘AI 슬롭’(AI로 만든 디지털 쓰레기)과 AI 스팸 콘텐츠도 빠르게 늘고 있기 때문이다.22일 관련 업계에 따르면 유튜브와 틱톡 등 글로벌 플랫폼들은 최근 AI 슬롭과 AI 스팸 확산에 대응하기 위해 콘텐츠 관리 정책을 잇달아 손질하고 있다.유튜브는 최근 크리에이터 대상 공식 채널 ‘크"
+    },
+    {
+      "id": "8bc83365762c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'반도체 올인' 한국 경제 괜찮을까...AI에게 토론시켰더니",
+      "link": "https://zdnet.co.kr/view/?no=20260723104139",
+      "published": "2026-07-23T01:58:10+00:00",
+      "summary": "[지디넷코리아]안녕하세요 AMEET 기자입니다. 최근 우리 경제를 바라보는 시선에는 설렘과 불안이 공존하고 있습니다. 반도체 수출이 역대급 실적을 갈아치우며 성장을 견인하고 있지만, 한편으로는 특정 산업에 너무 많은 것을 걸고 있는 것 아니냐는 목소리도 커지고 있죠. AMEET는 챗GPT, 제미나이, 클로드 등 각기 다른 관점을 가진 AI 모델들로 패널을 구성해 토론을 시켜봤습니다. 각 AI 모델들에게 산업, 기술, 거시경제 전문가 역할을 맡도록 한 뒤 현안을 심층 분석하라고 명령했습니다. 이번 "
+    },
+    {
+      "id": "2754ea5e1aa7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LS일렉, 2분기 영업익 1785억·전년비 64.4%↑…분기 사상 최대",
+      "link": "https://zdnet.co.kr/view/?no=20260723105035",
+      "published": "2026-07-23T01:54:54+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 데이터센터 확대와 노후 전력망 교체 수요가 LS일렉트릭의 분기 최대 실적으로 이어졌다. 데이터센터 배전 솔루션과 초고압 변압기 사업을 앞세워 북미를 비롯한 글로벌 시장에서 성장세를 이어갔다.LS일렉트릭은 올해 2분기 매출과 영업이익 모두 사상 최대를 기록했다고 23일 밝혔다.LS일렉트릭은 2분기 연결 기준 매출 1조 5770억원, 영업이익 1785억원을 기록했다. 전년 동기보다 각각 32.2%, 64.4% 증가했으며, 전 분기와 비교해도 매출은 14.6%, 영업이익은"
+    },
     {
       "id": "1659798b41ce",
       "source": "ZDNet Korea",
@@ -410,6 +608,17 @@
       "summary": "Article URL: https://mitchellh.com/writing/everyone-should-know-simd Comments URL: https://news.ycombinator.com/item?id=49010648 Points: 200 # Comments: 60"
     },
     {
+      "id": "a7647bc19c56",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Everyone should know SIMD",
+      "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "published": "2026-07-22T17:48:18+00:00",
+      "summary": "Article URL: https://mitchellh.com/writing/everyone-should-know-simd Comments URL: https://news.ycombinator.com/item?id=49010648 Points: 311 # Comments: 97"
+    },
+    {
       "id": "d694d22d66f1",
       "source": "Fireship",
       "kind": "youtube",
@@ -452,6 +661,17 @@
       "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "published": "2026-07-22T17:17:54+00:00",
       "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 241 # Comments: 102"
+    },
+    {
+      "id": "b3da0cdc2383",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Are AI labs pelicanmaxxing?",
+      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "published": "2026-07-22T17:17:54+00:00",
+      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 427 # Comments: 165"
     },
     {
       "id": "a6167305b7c6",
@@ -696,6 +916,17 @@
       "summary": "[지디넷코리아]상하이, 2026년 7월 22일 /PRNewswire/ -- 중국남방전력망공사(China Southern Power Grid, CSG)가 상하이에서 열린 2026 세계인공지능대회(World AI Conference, WAIC)와 글로벌 AI 거버넌스 고위급 회의(High-Level Meeting on Global AI Governance)에서 전력, 탄소 및 컴퓨팅을 통합한 최신 AI 기반 전력 시스템 및 기술을 선보였다. 이 대회의 하이라이트에는 CSG가 개발한 AI 네이티브 배전"
     },
     {
+      "id": "affe94e38fcf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Back to Kagi",
+      "link": "https://blog.melashri.net/micro/back-to-kagi/",
+      "published": "2026-07-22T13:08:19+00:00",
+      "summary": "Article URL: https://blog.melashri.net/micro/back-to-kagi/ Comments URL: https://news.ycombinator.com/item?id=49006195 Points: 222 # Comments: 171"
+    },
+    {
       "id": "e1d2f9ce84c8",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -782,6 +1013,17 @@
       "link": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
       "published": "2026-07-22T13:00:00+00:00",
       "summary": "Samsung's annual summer event kicked off on Wednesday morning with the company unveiling a new lineup of watches and foldables. Following weeks of rumors and leaks, Samsung announced the Galaxy Z Fold 8 with a completely new design that's shorter and wider than last year's Fold, "
+    },
+    {
+      "id": "87c5bf045e5b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Businesses with ugly AI menu redesigns",
+      "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "published": "2026-07-22T12:49:45+00:00",
+      "summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 211 # Comments: 160"
     },
     {
       "id": "ffe67496f780",
