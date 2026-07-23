@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-23T15:44:35.162391+00:00",
-  "count": 6702,
+  "updated_at": "2026-07-23T17:05:11.090072+00:00",
+  "count": 6716,
   "items": [
+    {
+      "id": "da07eba267bb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "published": "2026-07-23T17:00:00+00:00",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
+    },
+    {
+      "id": "4335a43e533b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
+      "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
+      "published": "2026-07-23T16:51:52+00:00",
+      "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors."
+    },
+    {
+      "id": "20049025b8b7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video",
+      "link": "https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming",
+      "published": "2026-07-23T16:39:32+00:00",
+      "summary": "The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Amazon Game Studios, and Luna now combined into one organization, it's aiming at the "
+    },
+    {
+      "id": "1bf8edb7f1ea",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla’s robotaxis are moving in reverse",
+      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
+      "published": "2026-07-23T16:29:59+00:00",
+      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures."
+    },
+    {
+      "id": "d3f2f3dbbc31",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "published": "2026-07-23T16:28:50+00:00",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
+    },
+    {
+      "id": "3d0ef7905b8a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will now let you sign in to your account with a selfie video",
+      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
+      "published": "2026-07-23T16:01:03+00:00",
+      "summary": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer."
+    },
+    {
+      "id": "8cee7e2d55f2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
+      "link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+      "published": "2026-07-23T16:00:00+00:00",
+      "summary": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only play \"before sessions begin.\" It's also op"
+    },
+    {
+      "id": "b6c5c206393f",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "published": "2026-07-23T16:00:00+00:00",
+      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first o"
+    },
     {
       "id": "bf43e77fa553",
       "source": "TechCrunch",
@@ -102,6 +190,17 @@
       "summary": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems."
     },
     {
+      "id": "c478c3be925d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "EU, 구글에 1조 5000억 과징금…\"검색서 자사 우대\"",
+      "link": "https://zdnet.co.kr/view/?no=20260723223652",
+      "published": "2026-07-23T13:53:39+00:00",
+      "summary": "[지디넷코리아]구글이 검색에서 쇼핑, 호텔 예약 등 자사 서비스를 우대한 혐의로 유럽연합(EU)에서 1조 5000억원에 이르는 거액의 벌금 폭탄을 맞았다.EU 행정부 격인 유럽연합집행위원회(EC)는 13일(현지시간) 디지털시장법(DMA)을 위반한 구글에 8억 9000만 유로(약 1조 4700억원) 과징금을 부과했다고 CNBC를 비롯한 외신들이 일제히 보도했다.EC는 이날 “구글이 쇼핑, 호델 예약 같은 자사 서비스를 검색 결과에서 좀 더 잘 보이게 표출했다”면서 “반면 비슷한 타사 서비스는 이런 "
+    },
+    {
       "id": "20c9296025d5",
       "source": "The Verge",
       "kind": "article",
@@ -111,6 +210,17 @@
       "link": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
       "published": "2026-07-23T13:49:51+00:00",
       "summary": "Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford says it will use Apple Maps to offer \"turn-by-turn directions using natural lan"
+    },
+    {
+      "id": "2c819c79df98",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
+      "link": "https://zdnet.co.kr/view/?no=20260723222405",
+      "published": "2026-07-23T13:24:05+00:00",
+      "summary": "[지디넷코리아]중기부가 '스마트제조기술산업 특수분류'를 제정, 24일부터 시행한다. 중소 제조현장의 스마트공장 구축에 활용하는 핵심 제품·서비스를 체계적으로 분류하기 위해서다.최근 제조업은 인공지능(AI), 디지털트윈, 산업용 로봇, 스마트센서 등 디지털·인공지능 기술 중심으로 빠르게 전환하고 있다. 제조현장의 지능화를 구현하는 핵심 기술은 여러 분야 기술이 융합되는 특성이 있으나, 그동안 스마트제조기술 공급기업을 식별할 수 있는 산업분류가 없어 별도의 특수분류가 필요하다는 요구가 지속적으로 제기"
     },
     {
       "id": "669b54dc1136",
@@ -124,6 +234,28 @@
       "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 230 # Comments: 111"
     },
     {
+      "id": "2afd764f16c6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "전국 지방정부 정보시스템, '중앙 예방점검체계’로 전환",
+      "link": "https://zdnet.co.kr/view/?no=20260723220749",
+      "published": "2026-07-23T13:07:49+00:00",
+      "summary": "[지디넷코리아]한국지역정보개발원(이하 개발원)은 전국 245개 지방정부의 공통기반 및 재해복구시스템을 대상으로 중앙 원격자동화 예방점검 체계를 구축, 오는 8월 1일부터 본격 운영한다.이번 사업은 행정안전부의 범정부 정보시스템 예방점검 체계 도입에 맞춰 추진한 것으로, 지방행정의 안정성을 한층 높이기 위해 마련됐다. 그동안은 기관별 개별 관리로 예방 관리에 한계가 있었으나, 지방정부 정보시스템을 중앙에서 상시 점검하는 체계로 전환해 장애를 사전에 감지하고 신속하게 대응할 수 있게 했다.또 현장 방"
+    },
+    {
+      "id": "eee9f76e11a9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "머스크, xAI '그록 4.6' 예고…2조 매개변수로 키미 K3보다 낫다고 주장",
+      "link": "https://zdnet.co.kr/view/?no=20260723220142",
+      "published": "2026-07-23T13:01:42+00:00",
+      "summary": "[지디넷코리아]일론 머스크(Elon Musk)가 xAI의 차세대 모델 '그록 4.6(Grok 4.6)'을 예고했다. 머스크는 7월 18일(현지시간) 엑스(X)에서 그록 4.6이 2조 매개변수(parameter) 규모로 최종 학습 단계에 들어갔다고 밝혔다.머스크에 따르면 그록 4.6은 이전 모델 그록 4.5와 비슷한 생성 속도와 토큰 효율을 유지하면서, 중국 문샷AI(Moonshot AI)의 키미 K3(Kimi K3) 성능을 넘어설 수 있다.이번 예고는 키미 K3 공개에 대한 대응 성격이 짙다. 문"
+    },
+    {
       "id": "7435941d67c2",
       "source": "The Verge",
       "kind": "article",
@@ -133,6 +265,28 @@
       "link": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
       "published": "2026-07-23T13:00:00+00:00",
       "summary": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen happens: A freak accident takes your son away. But as it turns"
+    },
+    {
+      "id": "fe97035eebd7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 한국, 반도체에 다 걸었다",
+      "link": "https://zdnet.co.kr/view/?no=20260723104550",
+      "published": "2026-07-23T12:56:47+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 한국 경제의 뜨거운 화두, 'AI 반도체 올인 전략'에 대해 짚어봤어요. 최근 반도체 훈풍에 힘입어 코스피가 고공행진 중인데요, 과연 이 상승세가 계속될 수 있을지 궁금해하시는 분들 많으실 거예요. 사실 한국은 메모리 반도체 분야에서는 세계 최고 수준이지만, 성장 속도만 놓고 보면 안심할 상황은 아니에요. 중국이 3.3~4.5%의 성장률을 보이는 반면 한국은 1.9~2.0%에 그치고 있거든요. 미국(1.8~1.9%)과는 비슷한 수준이지만, "
+    },
+    {
+      "id": "f18b23a870ae",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "안랩, 차세대 위협 인텔리전스 API로 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260723213403",
+      "published": "2026-07-23T12:34:03+00:00",
+      "summary": "[지디넷코리아]안랩(대표 강석균)이 자사 차세대 위협 인텔리전스 플랫폼 ‘안랩 TIP’의 다양한 위협 정보를 애플리케이션 프로그래밍 인터페이스(API) 형태로 제공한다. 위협 인텔리전스를 다양한 보안 솔루션에 연동하려는 고객 수요가 증가, 기존 포털 서비스와 함께 제공 중인 API 기능을 별도 상품으로 선보였다. 상품 이름은 'AhnLab TIP API(안랩 TIP API)’다.'안랩 TIP'는 안랩이 수집·분석한 위협 인텔리전스를 제공, 고객의 합리적인 보안 의사결정을 지원하는 플랫폼이다. 이번"
     },
     {
       "id": "c2fa91b0147a",
