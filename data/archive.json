@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-23T22:14:21.245456+00:00",
-  "count": 6745,
+  "updated_at": "2026-07-23T23:12:56.233030+00:00",
+  "count": 6748,
   "items": [
+    {
+      "id": "4980a70ef883",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "published": "2026-07-23T22:40:08+00:00",
+      "summary": "Shashua has been invited to take the chairman of the board seat."
+    },
     {
       "id": "446f9adaed10",
       "source": "AI타임스",
@@ -12,6 +23,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213085",
       "published": "2026-07-23T22:00:00+00:00",
       "summary": "지난해 11월 '제미나이 3'를 출시하며 구글은 AI 모델 경쟁의 선두 자리를 되찾았다는 평가를 받았습니다. 여기에 자체 칩 TPU와 클라우드 인프라, 그리고 검색과 안드로이드, 애플리케이션 등 전 분야에 걸쳐 풀스택을 갖춘 거의 유일한 기업이라는 점에서 구글의 독주를 예상하는 시각도 적지 않았습니다.그러나 최근에는 상황이 급격하게 바뀌었습니다. 21일(현지시간)에는 빠르고 효율적인 '플래시' 모델군을 출시했지만, 플래그십 모델인 '제미나이 3.5 프로'의 출시는 또 지연됐습니다.이미 시장의 관심"
+    },
+    {
+      "id": "6ef02858d7fe",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "문체부, 영상·방송업계와 간담회 개최…'AI 문화강국 전략' 수립 박차",
+      "link": "https://zdnet.co.kr/view/?no=20260724012606",
+      "published": "2026-07-23T21:20:01+00:00",
+      "summary": "[지디넷코리아]문화체육관광부(이하 문체부)가 영상 및 방송업계와 만나 '인공지능(AI) 문화강국' 도약을 위한 현장 목소리를 들었다.문체부는 최근 최휘영 장관이 서울 마포구 CJ 4DPLEX와 한국문화정보원을 찾아 영상·방송업계 전문가들과 간담회를 열고 AI 시대 K-콘텐츠 경쟁력 강화 방안을 논의했다고 24일 밝혔다.이날 현장에서는 영상 분야 AI 기술 도입 현황을 점검하고 업계의 애로사항과 제언을 수렴했다. 문체부는 이를 통해 '글로벌 AI 문화강국 전략(가칭)'에 적극 반영할 계획이다.CJ "
     },
     {
       "id": "b56b2331f191",
@@ -724,6 +746,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "\"과도한 가드레일로 미국 모델 무용지물\"…허깅페이스,해킹 분석에 GLM 사용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213088",
+      "published": "2026-07-23T09:34:29+00:00",
+      "summary": "미국 AI 기업들이 안전성을 위해 도입한 강력한 '가드레일(Guardrails)'이 실제 사이버보안 현장에서는 오히려 발목을 잡는 역설적인 상황이 벌어졌다. 허깅페이스는 22일(현지시간) 오픈AI의 자율 AI 에이전트가 회사 시스템에 침입한 사건을 분석하는 과정에서 미국의 최신 AI 모델들이 보안 관련 작업을 거부했고, 결국 중국 지푸AI(Z.AI)의 오픈소스 모델 'GLM-5.2'가 사고 원인 규명에 활용했다고 밝혔다.미국 AI 기업들이 사이버 보안 관련 기능을 엄격히 제한하면서 정작 보안 전문"
+    },
+    {
+      "id": "11da5fd56a10",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"과도한 가드레일로 미국 모델 무용지물\"…허깅페이스,해킹 분석에 지푸 사용",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213088",
       "published": "2026-07-23T09:34:29+00:00",
       "summary": "미국 AI 기업들이 안전성을 위해 도입한 강력한 '가드레일(Guardrails)'이 실제 사이버보안 현장에서는 오히려 발목을 잡는 역설적인 상황이 벌어졌다. 허깅페이스는 22일(현지시간) 오픈AI의 자율 AI 에이전트가 회사 시스템에 침입한 사건을 분석하는 과정에서 미국의 최신 AI 모델들이 보안 관련 작업을 거부했고, 결국 중국 지푸AI(Z.AI)의 오픈소스 모델 'GLM-5.2'가 사고 원인 규명에 활용했다고 밝혔다.미국 AI 기업들이 사이버 보안 관련 기능을 엄격히 제한하면서 정작 보안 전문"
