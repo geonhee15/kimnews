@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-23T18:37:37.284535+00:00",
-  "count": 6727,
+  "updated_at": "2026-07-23T20:00:28.045005+00:00",
+  "count": 6732,
   "items": [
+    {
+      "id": "4c1efd330912",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+      "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+      "published": "2026-07-23T19:41:54+00:00",
+      "summary": "Meta has made significant investments in natural gas over the past year. Now, it's dropping out of an industry renewable energy group."
+    },
+    {
+      "id": "c69307b977c8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "published": "2026-07-23T19:00:00+00:00",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email."
+    },
+    {
+      "id": "1b983632c136",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "published": "2026-07-23T19:00:00+00:00",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice m"
+    },
+    {
+      "id": "4811257faebc",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+      "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+      "published": "2026-07-23T18:45:52+00:00",
+      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”"
+    },
+    {
+      "id": "bcacffde7f4b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "published": "2026-07-23T18:38:34+00:00",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch."
+    },
     {
       "id": "fb98de7ebb6d",
       "source": "The Verge",
