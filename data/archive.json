@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-23T20:00:28.045005+00:00",
-  "count": 6732,
+  "updated_at": "2026-07-23T21:11:46.250653+00:00",
+  "count": 6741,
   "items": [
+    {
+      "id": "f699f91cf19a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "published": "2026-07-23T20:47:33+00:00",
+      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC."
+    },
+    {
+      "id": "79ad8c7490de",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "published": "2026-07-23T20:33:02+00:00",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+    },
+    {
+      "id": "a71e70ae9d01",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "published": "2026-07-23T20:13:24+00:00",
+      "summary": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out."
+    },
     {
       "id": "4c1efd330912",
       "source": "TechCrunch",
@@ -12,6 +45,28 @@
       "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
       "published": "2026-07-23T19:41:54+00:00",
       "summary": "Meta has made significant investments in natural gas over the past year. Now, it's dropping out of an industry renewable energy group."
+    },
+    {
+      "id": "fb20ce903e7c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "published": "2026-07-23T19:14:25+00:00",
+      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification."
+    },
+    {
+      "id": "491bfa2f1f35",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "published": "2026-07-23T19:08:01+00:00",
+      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down."
     },
     {
       "id": "c69307b977c8",
@@ -155,6 +210,17 @@
       "link": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
       "published": "2026-07-23T16:53:37+00:00",
       "summary": ""
+    },
+    {
+      "id": "f8915c74d82d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What happened to TheNumbers.com",
+      "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "published": "2026-07-23T16:53:33+00:00",
+      "summary": "Article URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all Comments URL: https://news.ycombinator.com/item?id=49024691 Points: 205 # Comments: 85"
     },
     {
       "id": "4335a43e533b",
@@ -320,6 +386,17 @@
       "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
       "published": "2026-07-23T14:45:05+00:00",
       "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models."
+    },
+    {
+      "id": "c3acffe62a1a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Software rendering in 500 lines of bare C++",
+      "link": "https://haqr.eu/tinyrenderer/",
+      "published": "2026-07-23T14:17:40+00:00",
+      "summary": "Article URL: https://haqr.eu/tinyrenderer/ Comments URL: https://news.ycombinator.com/item?id=49022038 Points: 203 # Comments: 34"
     },
     {
       "id": "51a5d6408131",
@@ -597,6 +674,17 @@
       "summary": "미국 AI 기업들이 안전성을 위해 도입한 강력한 '가드레일(Guardrails)'이 실제 사이버보안 현장에서는 오히려 발목을 잡는 역설적인 상황이 벌어졌다. 허깅페이스는 22일(현지시간) 오픈AI의 자율 AI 에이전트가 회사 시스템에 침입한 사건을 분석하는 과정에서 미국의 최신 AI 모델들이 보안 관련 작업을 거부했고, 결국 중국 지푸AI(Z.AI)의 오픈소스 모델 'GLM-5.2'가 사고 원인 규명에 활용했다고 밝혔다.미국 AI 기업들이 사이버 보안 관련 기능을 엄격히 제한하면서 정작 보안 전문"
     },
     {
+      "id": "a9a537f5c6f1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"과도한 가드레일로 미국 모델 무용지물\"…허깅페이스,해킹 분석에 GLM 사용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213088",
+      "published": "2026-07-23T09:34:29+00:00",
+      "summary": "미국 AI 기업들이 안전성을 위해 도입한 강력한 '가드레일(Guardrails)'이 실제 사이버보안 현장에서는 오히려 발목을 잡는 역설적인 상황이 벌어졌다. 허깅페이스는 22일(현지시간) 오픈AI의 자율 AI 에이전트가 회사 시스템에 침입한 사건을 분석하는 과정에서 미국의 최신 AI 모델들이 보안 관련 작업을 거부했고, 결국 중국 지푸AI(Z.AI)의 오픈소스 모델 'GLM-5.2'가 사고 원인 규명에 활용했다고 밝혔다.미국 AI 기업들이 사이버 보안 관련 기능을 엄격히 제한하면서 정작 보안 전문"
+    },
+    {
       "id": "4fd655f6da4e",
       "source": "Wired",
       "kind": "article",
@@ -713,6 +801,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "스페이스XAI, 텍사스에 초대형 데이터센터 신설 추진…컴퓨팅 임대 사업 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213108",
+      "published": "2026-07-23T08:52:33+00:00",
+      "summary": "스페이스XAI가 미국 텍사스에 최소 1개의 초대형 AI 데이터센터를 구축하는 방안을 추진하며 AI 인프라 확장에 속도를 내고 있다. 기존 테네시주 멤피스 데이터센터를 넘어 새로운 거점을 확보해 자체 AI 역량을 강화하는 동시에 외부 기업을 대상으로 한 클라우드 사업까지 본격 확대하려는 전략으로 풀이된다.22일(현지시간) 디 인포메이션에 따르면, 스페이스XAI는 최근 수개월 동안 텍사스 내 여러 후보지를 검토해 왔으며, 신축 데이터센터를 건설하는 방안과 기존 대형 창고를 개조하는 방안을 함께 검토 "
+    },
+    {
+      "id": "a5329a83df26",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스XAI, 텍사스에 데이터센터 신설 추진…컴퓨팅 임대 본격화",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213108",
       "published": "2026-07-23T08:52:33+00:00",
       "summary": "스페이스XAI가 미국 텍사스에 최소 1개의 초대형 AI 데이터센터를 구축하는 방안을 추진하며 AI 인프라 확장에 속도를 내고 있다. 기존 테네시주 멤피스 데이터센터를 넘어 새로운 거점을 확보해 자체 AI 역량을 강화하는 동시에 외부 기업을 대상으로 한 클라우드 사업까지 본격 확대하려는 전략으로 풀이된다.22일(현지시간) 디 인포메이션에 따르면, 스페이스XAI는 최근 수개월 동안 텍사스 내 여러 후보지를 검토해 왔으며, 신축 데이터센터를 건설하는 방안과 기존 대형 창고를 개조하는 방안을 함께 검토 "
