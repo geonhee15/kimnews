@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-07-23T13:43:45.454148+00:00",
-  "count": 6691,
+  "updated_at": "2026-07-23T15:44:35.162391+00:00",
+  "count": 6702,
   "items": [
+    {
+      "id": "bf43e77fa553",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "published": "2026-07-23T15:00:00+00:00",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+    },
+    {
+      "id": "35b90ff342c5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia is sending GPUs to the moon",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "published": "2026-07-23T15:00:00+00:00",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+    },
+    {
+      "id": "bc5034818f21",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new Halo remake is a reminder of what Xbox used to be",
+      "link": "https://www.theverge.com/entertainment/969563/halo-campaign-evolved-review-xbox-ps5-pc",
+      "published": "2026-07-23T15:00:00+00:00",
+      "summary": "It's impossible to talk about a new Xbox game without also talking about the state of Xbox. Microsoft's gaming division is in freefall: Recent headlines are dominated by extensive layoffs, decimated studios, and confusing strategies, most of which stem from years of bad decisions"
+    },
+    {
+      "id": "32ba19b9165a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon’s best 4K streaming sticks are up to 40 percent off",
+      "link": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale",
+      "published": "2026-07-23T15:00:00+00:00",
+      "summary": "There’s no shortage of great shows and movies to watch, but discovering something new isn’t always easy. Amazon’s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned software that aims to make it easier to finding something you’ll like, and both 4K-ready streaming"
+    },
+    {
+      "id": "161e23893bcf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "published": "2026-07-23T14:52:44+00:00",
+      "summary": "Gemini had over 750 million monthly users in February."
+    },
+    {
+      "id": "61ada1707df1",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "published": "2026-07-23T14:45:05+00:00",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models."
+    },
+    {
+      "id": "51a5d6408131",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "published": "2026-07-23T14:13:35+00:00",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expect"
+    },
+    {
+      "id": "5231cf09b3d6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "published": "2026-07-23T14:00:00+00:00",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case."
+    },
+    {
+      "id": "207334f13359",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ford bets on Apple for its next-generation of EVs",
+      "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+      "published": "2026-07-23T13:58:37+00:00",
+      "summary": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems."
+    },
+    {
+      "id": "20c9296025d5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ford picks Apple Maps for its next EV platform and updated BlueCruise",
+      "link": "https://www.theverge.com/transportation/969919/ford-apple-maps-bluecruise-driver-assist",
+      "published": "2026-07-23T13:49:51+00:00",
+      "summary": "Ford plans to embed Apple Maps directly into its Universal Electric Vehicle Platform, which will start with a $30,000 midsize pickup truck set for release in 2027. In an announcement on Thursday, Ford says it will use Apple Maps to offer \"turn-by-turn directions using natural lan"
+    },
+    {
+      "id": "669b54dc1136",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "published": "2026-07-23T13:09:10+00:00",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 230 # Comments: 111"
+    },
     {
       "id": "7435941d67c2",
       "source": "The Verge",
