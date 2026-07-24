@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-24T17:25:30.254879+00:00",
-  "count": 6861,
+  "updated_at": "2026-07-24T18:55:58.994616+00:00",
+  "count": 6866,
   "items": [
+    {
+      "id": "e9c4dd7ea1cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "published": "2026-07-24T18:07:32+00:00",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief t"
+    },
+    {
+      "id": "71a99e3b3745",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "published": "2026-07-24T17:53:01+00:00",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use."
+    },
+    {
+      "id": "70aeb549c966",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can’t ignore Google Zero anymore",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "published": "2026-07-24T17:29:48+00:00",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems t"
+    },
     {
       "id": "eb73b37f6c7b",
       "source": "TechCrunch",
@@ -45,6 +78,17 @@
       "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "published": "2026-07-24T17:00:00+00:00",
       "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research tha"
+    },
+    {
+      "id": "50c33b3bd858",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "published": "2026-07-24T16:57:41+00:00",
+      "summary": "https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 654 # Comments: 361"
     },
     {
       "id": "72178a8f7345",
@@ -133,6 +177,17 @@
       "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
       "published": "2026-07-24T14:43:55+00:00",
       "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same ti"
+    },
+    {
+      "id": "620d03d2264f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "published": "2026-07-24T14:41:59+00:00",
+      "summary": "Article URL: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece Comments URL: https://news.ycombinator.com/item?id=49036433 Points: 263 # Comments: 169"
     },
     {
       "id": "2ec5699cc9c3",
