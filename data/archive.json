@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-24T18:55:58.994616+00:00",
-  "count": 6866,
+  "updated_at": "2026-07-24T20:16:44.062255+00:00",
+  "count": 6872,
   "items": [
+    {
+      "id": "779824274da0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta just created a moderation nightmare for its smart glasses",
+      "link": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+      "published": "2026-07-24T19:23:44+00:00",
+      "summary": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to film themselves \"pranking\" random strange"
+    },
+    {
+      "id": "5a6795c021fd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "published": "2026-07-24T19:06:58+00:00",
+      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free ap"
+    },
     {
       "id": "e9c4dd7ea1cd",
       "source": "TechCrunch",
@@ -23,6 +45,17 @@
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
       "published": "2026-07-24T17:53:01+00:00",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use."
+    },
+    {
+      "id": "8d305437befe",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "published": "2026-07-24T17:31:26+00:00",
+      "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes."
     },
     {
       "id": "70aeb549c966",
@@ -100,6 +133,17 @@
       "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
       "published": "2026-07-24T16:50:08+00:00",
       "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a"
+    },
+    {
+      "id": "60b42f969f80",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "published": "2026-07-24T16:33:31+00:00",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 266 # Comments: 124"
     },
     {
       "id": "3e6aad670ef6",
@@ -212,6 +256,17 @@
       "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
     },
     {
+      "id": "b927185db7c7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "published": "2026-07-24T13:32:30+00:00",
+      "summary": "Letter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf] https://x.com/JensenHuang/status/2080643682408321103 , https://xcancel.com/JensenHuang/status/2080643682408321103 https://www.wired.com/story/silicon-valley-is-completely-div... , https://archive.ph/LAk"
+    },
+    {
       "id": "6b7962157c3f",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -243,6 +298,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260724215411",
       "published": "2026-07-24T12:54:11+00:00",
       "summary": "[지디넷코리아]구글이 7월 22일 프랑스에 AI 오버뷰를 도입했다. 여러 검색어에서 일반 검색 결과 위에 AI가 생성한 요약을 보여 주는 기능이다. 후속 질문과 이미지, 문서, 실시간 영상 입력을 지원하는 확장된 AI 모드도 함께 제공된다. 구글은 복잡한 검색을 더 쉽게 만들면서도 인용과 출처 링크로 이용자를 관련 사이트로 연결한다고 밝혔다.프랑스 언론사들은 완전한 답이 검색 안에서 제공되면 뉴스 사이트로 넘어오는 방문자가 줄어든다고 우려했다. 르몽드가 인용한 조사에 따르면 다른 유럽 시장에서 A"
+    },
+    {
+      "id": "92799865054c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "published": "2026-07-24T12:53:59+00:00",
+      "summary": "Article URL: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18 Comments URL: https://news.ycombinator.com/item?id=49034868 Points: 207 # Comments: 32"
     },
     {
       "id": "97f0e6b38025",
