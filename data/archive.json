@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-24T20:16:44.062255+00:00",
-  "count": 6872,
+  "updated_at": "2026-07-24T21:35:46.583572+00:00",
+  "count": 6877,
   "items": [
+    {
+      "id": "71250cad6b30",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "published": "2026-07-24T21:25:15+00:00",
+      "summary": "\"Here’s a more natural, flowing version of that section...\""
+    },
+    {
+      "id": "51c42ebf6fc1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+      "link": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+      "published": "2026-07-24T21:15:00+00:00",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
+    },
+    {
+      "id": "9ab631faa23a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "published": "2026-07-24T21:05:51+00:00",
+      "summary": "Models are improving quickly, but the cheaper options are often good enough."
+    },
     {
       "id": "779824274da0",
       "source": "The Verge",
@@ -432,6 +465,17 @@
       "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”"
     },
     {
+      "id": "564de019a7ea",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "published": "2026-07-24T09:52:58+00:00",
+      "summary": "Article URL: https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/ Comments URL: https://news.ycombinator.com/item?id=49033240 Points: 203 # Comments: 242"
+    },
+    {
       "id": "f7b6ab19513c",
       "source": "AI타임스",
       "kind": "article",
@@ -540,6 +584,17 @@
       "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
       "published": "2026-07-24T09:08:17+00:00",
       "summary": "Article URL: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/ Comments URL: https://news.ycombinator.com/item?id=49033004 Points: 202 # Comments: 154"
+    },
+    {
+      "id": "658e30518d0e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "published": "2026-07-24T09:08:17+00:00",
+      "summary": "Article URL: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/ Comments URL: https://news.ycombinator.com/item?id=49033004 Points: 324 # Comments: 260"
     },
     {
       "id": "aced319ab0b6",
