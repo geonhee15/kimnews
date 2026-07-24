@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-24T14:19:53.775251+00:00",
-  "count": 6845,
+  "updated_at": "2026-07-24T15:52:57.744275+00:00",
+  "count": 6855,
   "items": [
+    {
+      "id": "3e6aad670ef6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "published": "2026-07-24T15:51:49+00:00",
+      "summary": "AI companies including Nvidia and Mistral urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
+    },
+    {
+      "id": "1e91ef1369af",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
+      "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "published": "2026-07-24T15:23:06+00:00",
+      "summary": "\"These are things that tend to be really hard.\""
+    },
+    {
+      "id": "aa837664127c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "published": "2026-07-24T15:13:57+00:00",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
+    },
+    {
+      "id": "2dc4485a767b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "published": "2026-07-24T15:09:55+00:00",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+    },
+    {
+      "id": "f4137c75317b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Boox is taking on Xteink with its own tiny e-reader",
+      "link": "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
+      "published": "2026-07-24T15:00:03+00:00",
+      "summary": "Boox's new Tile lineup will take on Xteink's popular e-readers that are small enough to stick on the back of an iPhone with MagSafe. As spotted by Good E-Reader, the first one is the Picco, which will feature a 3.97-inch front-lit, black-and-white e-paper display and expandable s"
+    },
+    {
+      "id": "354e43b894d3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "published": "2026-07-24T15:00:00+00:00",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take."
+    },
+    {
+      "id": "5e575fba9097",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The tech-broification of American science has officially begun",
+      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "published": "2026-07-24T14:43:55+00:00",
+      "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same ti"
+    },
+    {
+      "id": "2ec5699cc9c3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "published": "2026-07-24T13:49:38+00:00",
+      "summary": "Rule would allow states to decide how much—if any—public input there can be."
+    },
     {
       "id": "66c9d4c5bc16",
       "source": "TechCrunch",
@@ -78,6 +166,17 @@
       "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
       "published": "2026-07-24T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon "
+    },
+    {
+      "id": "d03395537fe5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "link": "https://hhh.hn/hanwha-github-token/",
+      "published": "2026-07-24T11:54:41+00:00",
+      "summary": "Article URL: https://hhh.hn/hanwha-github-token/ Comments URL: https://news.ycombinator.com/item?id=49034292 Points: 236 # Comments: 80"
     },
     {
       "id": "196a7d599b23",
@@ -738,6 +837,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213132",
       "published": "2026-07-24T05:14:00+00:00",
       "summary": "마이크로소프트(MS)가 자체 개발 AI 모델 전략을 강화했다. 최고 품질의 이미지 생성 모델 'MAI-이미지-2.5-프로(MAI-Image-2.5-Pro)'을 출시하며 빙(Bing)과 파워포인트(PowerPoint), 원드라이브(OneDrive) 등 주요 서비스에서 오픈AI의 이미지 모델을 자체 모델로 대체했다.MS는 23일(현지시간) MAI-이미지-2.5-프로와 고속 음성 생성 모델 'MAI-보이스-2-플래시(MAI-Voice-2-Flash)'를 공개(public) 프리뷰로 출시했다고 발표했다."
+    },
+    {
+      "id": "1ed0e5dd8e5d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Cookbook",
+      "link": "https://platform.claude.com/cookbook/",
+      "published": "2026-07-24T05:09:15+00:00",
+      "summary": "Article URL: https://platform.claude.com/cookbook/ Comments URL: https://news.ycombinator.com/item?id=49031409 Points: 223 # Comments: 114"
     },
     {
       "id": "485ebd1e0c79",
