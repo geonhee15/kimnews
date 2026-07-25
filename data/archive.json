@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-25T10:23:54.703244+00:00",
-  "count": 6940,
+  "updated_at": "2026-07-25T11:42:29.903771+00:00",
+  "count": 6942,
   "items": [
+    {
+      "id": "2162c87c587b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "published": "2026-07-25T10:30:00+00:00",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more."
+    },
     {
       "id": "6cae1fb5bab1",
       "source": "AI타임스",
@@ -1200,6 +1211,17 @@
       "link": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
       "published": "2026-07-24T09:30:00+00:00",
       "summary": "If you’re tired of sponsored and AI-summarized search results, Kagi gives you a curated—and human-centric—way to find what you’re looking for."
+    },
+    {
+      "id": "b5d4a1ef3765",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Future euro banknote design proposals",
+      "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+      "published": "2026-07-24T09:29:44+00:00",
+      "summary": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/ht... Comments URL: https://news.ycombinator.com/item?id=49033110 Points: 214 # Comments: 199"
     },
     {
       "id": "ce9c5e3d709b",
