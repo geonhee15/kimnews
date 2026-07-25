@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-25T19:55:58.675232+00:00",
-  "count": 6949,
+  "updated_at": "2026-07-25T20:43:43.534726+00:00",
+  "count": 6953,
   "items": [
+    {
+      "id": "e16458d2ac77",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "김동환 포티투마루 대표 \"국내 AI, 단순 추격 넘어 전략적 AX 필요\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=212917",
+      "published": "2026-07-25T20:34:06+00:00",
+      "summary": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 '3대 메가프로젝트'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 '모두의 AI'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 '시간과 자본력 싸움'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 "
+    },
     {
       "id": "1f8808bdb206",
       "source": "The Verge",
@@ -25,6 +36,17 @@
       "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
     },
     {
+      "id": "f293b4799747",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "published": "2026-07-25T14:49:49+00:00",
+      "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 212 # Comments: 155"
+    },
+    {
       "id": "fbae780cd142",
       "source": "TechCrunch",
       "kind": "article",
@@ -34,6 +56,17 @@
       "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "published": "2026-07-25T13:05:00+00:00",
       "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+    },
+    {
+      "id": "09dd43c61fe5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[내면 지도 그리기] 26 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213177",
+      "published": "2026-07-25T12:15:00+00:00",
+      "summary": "내면지도_무엇을 그릴까보다, 무엇으로 그릴까간단한 지도를 그린다고 해볼까요?아마 우리는 내용부터 떠올릴 겁니다. 어떤 걸 그릴지, 몇 개의 길을 표시할지, 어떤 건물을 넣을지. 하지만 지도는 내용만으로 완성되지 않습니다.무엇을 그리느냐 못지않게, 무엇으로 어디에 그리느냐도 중요합니다.생각과 마음을 기록하는 일도 비슷합니다. 우리는 대개 '무엇을 쓸까'를 고민하지만, '무엇으로 쓰고 있는가'는 잘 돌아보지 않습니다. 그런데 도구가 달라지면 생각이 나오는 속도와 모양도 함께 달라집니다.니체가 말링한센"
     },
     {
       "id": "5570454de840",
@@ -4005,6 +4038,17 @@
       "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
       "published": "2026-07-22T18:13:58+00:00",
       "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by "
+    },
+    {
+      "id": "1ddb3432f7d8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+      "link": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+      "published": "2026-07-22T18:09:26+00:00",
+      "summary": "Article URL: https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld Comments URL: https://news.ycombinator.com/item?id=49010993 Points: 205 # Comments: 16"
     },
     {
       "id": "63dbb995ba1a",
