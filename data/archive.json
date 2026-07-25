@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-24T23:43:53.689970+00:00",
-  "count": 6884,
+  "updated_at": "2026-07-25T01:12:08.863666+00:00",
+  "count": 6895,
   "items": [
+    {
+      "id": "682f29af7fcf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아·MS·메타 \"오픈소스 막지 마라\"...미국 정부에 공동 서한",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213165",
+      "published": "2026-07-25T01:08:43+00:00",
+      "summary": "엔비디아와 마이크로소프트(MS), 메타, IBM, 팔란티어 등 미국 주요 기술 기업들이 미국 정부에 오픈웨이트(Open-weight) AI 모델에 대한 규제를 자제해 달라고 공개적으로 촉구했다. 최근 중국 문샷 AI의 '키미 K3' 등 오픈웨이트 모델이 급부상하는 가운데, 미국의 AI 경쟁력을 유지하려면 폐쇄형 모델뿐 아니라 개방형 생태계도 함께 육성해야 한다는 주장이다.젠슨 황 엔비디아 CEO는 24일(현지시간) X를 통해 '오픈웨이트 모델과 미국의 AI 리더십'이라는 제목의 서한을 공개했다. "
+    },
+    {
+      "id": "5846843d50b1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 세계섬박람회 개막 45일 앞두고 교통·안전·관광대책 점검",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213100",
+      "published": "2026-07-25T00:35:00+00:00",
+      "summary": "AI 생성 영상여수시가 2026여수세계섬박람회 개막 15일을 앞두고 전시관과 교통, 안전, 보건, 관광수용태세 등 행사 전 분야의 준비 상황을 점검했다고 23일 밝혔다.박람회장을 찾는 시민과 방문객의 불편을 줄이기 위해 행사장 시운전과 사전 리허설, 관광객 수용 대책을 개막 전까지 집중적으로 보완할 계획이다.여수시는 지난 22일 시청 상황실에서 서영학 시장 주재로 2026여수세계섬박람회 현안 대책 토론회를 열었다. 회의에는 부시장과 섬박람회 조직위원회 사무총장, 국·소·단장 등 30여 명이 참석했"
+    },
+    {
+      "id": "8bb96a989b00",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 장안창작마당서 29일 ‘한여름 밤의 재즈 여행’ 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213092",
+      "published": "2026-07-25T00:35:00+00:00",
+      "summary": "AI 생성 영상순천시가 오는 29일 오후 7시 원도심 생활문화공간인 장안창작마당에서 시민을 위한 재즈 공연과 토크 콘서트를 연다.순천은 ‘2026 장안살롱’의 첫 행사로 ‘한여름 밤의 재즈 여행’을 운영하며, 시민 누구나 무료로 참여할 수 있다고 23일 밝혔다. 참여 인원은 사전 신청자 30명으로 제한된다.장안살롱은 장안창작마당의 공간적 특성을 활용해 시민들이 일상 가까이에서 문화예술을 접할 수 있도록 마련한 생활문화 프로그램이다. 재즈를 시작으로 문학과 인문, 공예 등 다양한 주제를 다루며 오는"
+    },
+    {
+      "id": "c22f40312ff2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드 오퍼스 5' 출시...\"페이블 5 성능에 가격은 절반\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213161",
+      "published": "2026-07-25T00:24:09+00:00",
+      "summary": "앤트로픽이 최상위 모델 수준의 지능을 대폭 낮춘 비용으로 제공하는 ‘클로드 오퍼스 5(Claude Opus 5)’를 출시했다. 코딩과 에이전트 벤치마크에서 '페이블 5'를 앞서는 성능을 절반 가격에 구현, 프론티어 모델 경쟁의 축을 비용 효율성과 일상적 기업 워크플로우로 전환했다는 평가를 받고 있다. 앤트로픽은 24일(현지시간) 클로드 오퍼스 5을 공개하고 '클로드 맥스'와 '클로드 프로' 요금제 사용자들에게 제공한다고 발표했다. 클로드 API를 비롯해 아마존 베드록, 구글 클라우드, 마이크로소프"
+    },
+    {
+      "id": "603e7d8702d0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "published": "2026-07-25T00:23:11+00:00",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+    },
+    {
+      "id": "f28e7c5c7404",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나주 다도면, 취약계층 25가구에 9개월간 밑반찬·부식 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213106",
+      "published": "2026-07-25T00:15:00+00:00",
+      "summary": "AI 생성 영상나주시 다도면이 식사 준비에 어려움을 겪는 독거노인과 장애인 등 취약계층 25가구를 대상으로 밑반찬과 부식을 지원하고 있다.다도면지역사회보장협의체는 4월부터 12월까지 9개월간 총 1000만원을 투입해 ‘다가치 다도맘 밑반찬 배달지원사업’을 운영한다고 23일 밝혔다.이번 사업은 취약계층의 영양 불균형을 줄이고 정기적인 방문을 통해 건강 상태와 안부를 확인하기 위해 마련됐다. 지역사회보장협의체 위원들은 대상 가정을 직접 찾아 먹거리를 전달하고 생활에 불편한 점이 없는지 함께 살피고 있"
+    },
+    {
+      "id": "3e64c3cecf38",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MBO의 종말과 '정보 역전':..왜 1월 세운 KPI가 오늘의 혁신 막을까",
+      "link": "https://zdnet.co.kr/view/?no=20260724152720",
+      "published": "2026-07-24T23:30:01+00:00",
+      "summary": "[지디넷코리아]최근 글로벌 비즈니스 현장에서 관찰되는 서늘하고도 명확한 변화는 기업들이 설정하는 '목표 단위' 자체가 근본적으로 달라지고 있다는 점이다.과거의 비즈니스 환경에서 성장이란, 전년 대비 10~20% 매출 증대나 점진적인 비용 절감을 의미했다. 하지만 생성형 AI가 기업의 핵심 인프라로 자리 잡으면서 상황은 완전히 뒤바뀌었다. 스웨덴의 핀테크 유니콘 기업 클라르나가 AI 어시스턴트 도입 한 달만에 정규직 700명분의 고객 서비스 업무를 처리하며 이익률을 극적으로 끌어올린 사례는 빙산의 "
+    },
+    {
+      "id": "8eb4778be46e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "中 \"3년 내 AI 칩 자립\"…엔비디아 추격 총력전 내막",
+      "link": "https://zdnet.co.kr/view/?no=20260724140449",
+      "published": "2026-07-24T22:39:37+00:00",
+      "summary": "[지디넷코리아]중국이 미국 정부의 인공지능(AI) 칩과 제조장비 통제 조치에 맞서 '3년내 자립'을 목표로 총력 체제를 가동하고 있다는 것은 공공연한 비밀이다. 월스트리트저널은 25일(현지시간) 중국의 AI 총력전이 어떻게 진행되는 지 자세하게 소개하는 기사를 게재했다. 이 신문은 중국 'AI 총력전' 대표적인 사례 중 하나로 지난 해 중국 통신장비회사 화웨이와 정부 고위 관계자 간 회동 사례를 소개했다. 보도에 따르면 지난해 여름 화웨이는 중국 기술 정책을 총괄하는 최고위 인사를 상대로 비공개 "
+    },
     {
       "id": "2c0a21d43e7f",
       "source": "The Verge",
@@ -45,6 +133,17 @@
       "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
       "published": "2026-07-24T22:10:00+00:00",
       "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression."
+    },
+    {
+      "id": "d7976f0082a7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI발 메모리 대란, 자동차 업계도 덮쳤다",
+      "link": "https://zdnet.co.kr/view/?no=20260724215649",
+      "published": "2026-07-24T22:06:21+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 열풍으로 촉발된 메모리 부족 현상이 컴퓨터와 스마트폰, 게임 콘솔에 이어 자동차 업계까지 영향을 미치고 있다고 IT매체 기즈모도가 23일(현지시간) 보도했다.보도에 따르면 최근 전 세계 자동차 제조업체들은 메모리 가격 상승과 공급 부족에 대응하기 시작했다. 제너럴모터스(GM)는 최근 2분기 실적 발표에서 북미 지역 차량 가격이 올해 약 0.5% 인상될 것으로 전망했다. 폴 제이콥슨 GM 최고재무책임자(CFO)도 D램 가격을 비롯한 원자재 가격 상승으로 올해 15억~2"
     },
     {
       "id": "f4b9a10cc534",
@@ -130,6 +229,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "published": "2026-07-24T17:53:01+00:00",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use."
+    },
+    {
+      "id": "efed4a0771a1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
       "published": "2026-07-24T17:53:01+00:00",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use."
@@ -5028,6 +5138,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
       "published": "2026-07-21T17:33:14+00:00",
       "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute."
+    },
+    {
+      "id": "a9f65df7d33a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Firefox Containers Preview",
+      "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "published": "2026-07-21T17:27:59+00:00",
+      "summary": "Article URL: https://blog.mozilla.org/en/firefox/firefox-containers-preview/ Comments URL: https://news.ycombinator.com/item?id=48995409 Points: 216 # Comments: 78"
     },
     {
       "id": "5bf1b1b55511",
