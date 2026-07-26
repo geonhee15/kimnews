@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-26T16:29:09.827152+00:00",
-  "count": 7016,
+  "updated_at": "2026-07-26T17:34:08.953270+00:00",
+  "count": 7019,
   "items": [
+    {
+      "id": "7bfddb19ee00",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "published": "2026-07-26T16:33:13+00:00",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+    },
     {
       "id": "6fbcfdf7d992",
       "source": "TechCrunch",
@@ -23,6 +34,17 @@
       "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
       "published": "2026-07-26T15:00:00+00:00",
       "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba tha"
+    },
+    {
+      "id": "d01d7aa5f12f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kill The Cookie Banner",
+      "link": "https://killthecookiebanner.eu/",
+      "published": "2026-07-26T11:53:17+00:00",
+      "summary": "Article URL: https://killthecookiebanner.eu/ Comments URL: https://news.ycombinator.com/item?id=49057175 Points: 244 # Comments: 136"
     },
     {
       "id": "6a2682f01ae0",
@@ -606,6 +628,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260726023107",
       "published": "2026-07-25T23:00:03+00:00",
       "summary": "[지디넷코리아][런던(영국)=이기종 기자] 삼성전자가 연내 출시 예정인 인공지능(AI) 글래스(인텔리전트 아이웨어)는 스마트폰 경험 확장에 초점을 맞췄다고 밝혔다. AI 글래스가 스마트폰을 대체하는 것이 아니라, AI 경험을 확장하면서 스마트폰을 더 많이 사용할 수 있는 계기가 되길 바라는 목표로 제품을 만들었다. 주요 스마트폰 업체 중에선 AI 글래스 출시가 처음이고, 스마트폰을 만들지 않는 업체 제품과 다를 것이란 점도 부각했다. 올해 출시할 AI 글래스는 디스플레이를 탑재하지 않지만, 향후 "
+    },
+    {
+      "id": "e0194832ac42",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "published": "2026-07-25T22:51:10+00:00",
+      "summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 201 # Comments: 266"
     },
     {
       "id": "961c9f5a803e",
