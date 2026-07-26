@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-26T07:21:10.462771+00:00",
-  "count": 6993,
+  "updated_at": "2026-07-26T09:31:45.710410+00:00",
+  "count": 6999,
   "items": [
+    {
+      "id": "70f9f5809bd5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등",
+      "link": "https://www.youtube.com/watch?v=-CDz4HTz5Iw",
+      "published": "2026-07-26T09:02:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ec9c6b5619e3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "안두릴, 146조 몸값으로 투자 추진…방산 공룡 '록히드 마틴' 턱밑 추격",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213188",
+      "published": "2026-07-26T08:00:32+00:00",
+      "summary": "안두릴 인더스트리가 기업 가치 1000억달러(약 146조원)를 목표로 새로운 자금 조달을 추진 중인 것으로 알려졌다. 이는 불과 1년 전 평가액의 3배가 넘는 수준으로, 지난 5월 610억달러 가치로 자금을 조달한 지 두 달 만에 추진되는 파격적인 행보다.로이터는 24일(현지시간) 소식통을 인용, 안두릴이 현재 투자자들과 신규 자금 조달을 위한 초기 협상을 진행 중이라고 보도했다.이번 투자 라운드는 안두릴이 특정 재무적 성과 지표를 달성하는 조건에 따라 투자자들이 1년 이내에 더 높은 가치로 추가"
+    },
+    {
+      "id": "b1529c374ce4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 5 ‘컨텍스트 엔지니어링’ 공개...“규칙 줄여야 성능 올라간다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213178",
+      "published": "2026-07-26T07:30:23+00:00",
+      "summary": "AI의 성능을 높이는 핵심이 '프롬프트를 얼마나 정교하게 작성하느냐'에서 '모델이 필요한 정보를 적절한 시점에 활용할 수 있도록 컨텍스트를 설계하느냐'로 이동하고 있다. 앤트로픽도 최신 '클로드 5' 계열 모델이 과도한 규칙보다 자율적인 판단을 더 효과적으로 활용한다고 밝히며 AI 활용 전략에 새로운 변화를 예고했다.앤트로픽은 24일(현지시간) 클로드 5 계열 모델을 위한 새로운 컨텍스트 엔지니어링 원칙을 공개했다. 핵심은 과거처럼 세부 규칙을 촘촘히 나열하기보다 모델의 자체 판단 능력을 적극 활"
+    },
+    {
+      "id": "9e9da6b04c1b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 2차 투자 유치 돌연 중단...\"IPO 준비하며 AI 연구 집중\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213180",
+      "published": "2026-07-26T06:28:03+00:00",
+      "summary": "딥시크가 수조원 규모의 2차 투자 유치 절차를 돌연 중단했다. 량원펑 창립자의 미·중 AI 경쟁 관련 발언이 온라인에서 퍼진 직후 내려진 결정으로, 딥시크는 당분간 투자 계약 체결을 보류하는 한편 기업공개(IPO) 준비를 병행하며 장기적인 AI 연구 개발에 집중할 것으로 알려졌다.블룸버그는 25일(현지시간) 복수의 소식통을 인용, 중국의 대표 AI 기업 딥시크가 진행 중이던 두 번째 투자 유치 라운드를 일시 중단했다고 보도했다.딥시크는 일부 투자자들에게 당초 예정됐던 투자 계약이 당분간 체결되지 "
+    },
     {
       "id": "ed3efe63d721",
       "source": "AI타임스",
@@ -410,6 +454,17 @@
       "summary": "[지디넷코리아][런던(영국)=이기종 기자] 삼성전자가 연내 출시 예정인 인공지능(AI) 글래스(인텔리전트 아이웨어)는 스마트폰 경험 확장에 초점을 맞췄다고 밝혔다. AI 글래스가 스마트폰을 대체하는 것이 아니라, AI 경험을 확장하면서 스마트폰을 더 많이 사용할 수 있는 계기가 되길 바라는 목표로 제품을 만들었다. 주요 스마트폰 업체 중에선 AI 글래스 출시가 처음이고, 스마트폰을 만들지 않는 업체 제품과 다를 것이란 점도 부각했다. 올해 출시할 AI 글래스는 디스플레이를 탑재하지 않지만, 향후 "
     },
     {
+      "id": "961c9f5a803e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Turn And Face The Strange",
+      "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "published": "2026-07-25T20:43:11+00:00",
+      "summary": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/ Comments URL: https://news.ycombinator.com/item?id=49051369 Points: 200 # Comments: 127"
+    },
+    {
       "id": "957fa6dfe0cd",
       "source": "Hacker News",
       "kind": "article",
@@ -595,6 +650,17 @@
       "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "published": "2026-07-25T06:57:14+00:00",
       "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Points: 224 # Comments: 112"
+    },
+    {
+      "id": "3b9e44e113cb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Android may soon restrict on-device ADB",
+      "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "published": "2026-07-25T06:57:14+00:00",
+      "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/ Comments URL: https://news.ycombinator.com/item?id=49045159 Points: 927 # Comments: 453"
     },
     {
       "id": "9319866e0802",
