@@ -1,7 +1,7 @@
 {
   "issue_date": "2026-07-26",
-  "generated_at": "2026-07-26T11:08:31.354190+00:00",
-  "count": 32,
+  "generated_at": "2026-07-26T12:15:48.570442+00:00",
+  "count": 34,
   "items": [
     {
       "id": "27151112ea23",
@@ -12,7 +12,18 @@
       "title": "[LIVE] 한빛미디어x조코딩 바이브 코딩으로 서비스 만들기 챌린지",
       "link": "https://www.youtube.com/watch?v=_cz7JeXRkfg",
       "summary": "",
-      "published": "2026-07-26T10:47:17+00:00"
+      "published": "2026-07-26T11:25:56+00:00"
+    },
+    {
+      "id": "70f9f5809bd5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등",
+      "link": "https://www.youtube.com/watch?v=-CDz4HTz5Iw",
+      "summary": "",
+      "published": "2026-07-26T11:16:11+00:00"
     },
     {
       "id": "d2d52891b409",
@@ -61,17 +72,6 @@
       "summary": "[지디넷코리아]유진테크와 반도체 공정용 원자층증착(ALD) 장비 특허분쟁 중인 일본 코쿠사이가 특허 1건에 대해 유효라는 판단을 받았다. 쟁점 특허 4건 중 특허심판원 판단이 나오지 않은 마지막 특허였다. 하지만 이 특허는 4차례 정정으로 권리범위가 좁혀졌기 때문에, 코쿠사이가 유진테크의 특허침해를 입증하기 쉽지 않을 것으로 예상된다.특허심판원은 지난 22일 코쿠사이의 특허 '기판 처리장치, 반도체 장치의 제조방법, 플라스마 생성부, 프로그램, 플라스마 생성방법, 전극 및 반응관'(등록번호 214",
       "content": "반도체ㆍ디스플레이 입력 :2026/07/26 18:27\n\n유진테크와 반도체 공정용 원자층증착(ALD) 장비 특허분쟁 중인 일본 코쿠사이가 특허 1건에 대해 유효라는 판단을 받았다. 쟁점 특허 4건 중 특허심판원 판단이 나오지 않은 마지막 특허였다. 하지만 이 특허는 4차례 정정으로 권리범위가 좁혀졌기 때문에, 코쿠사이가 유진테크의 특허침해를 입증하기 쉽지 않을 것으로 예상된다.\n\n특허심판원은 지난 22일 코쿠사이의 특허 '기판 처리장치, 반도체 장치의 제조방법, 플라스마 생성부, 프로그램, 플라스마 생성방법, 전극 및 반응관'(등록번호 2149644, 아래 '644 특허) 무효심판에서 유진테크 청구에 대해 '일부기각·일부각하' 심결했다. 유진테크 청구를 모두 받아들이지 않은 것으로, 특허심판원은 '644 특허가 유효라고 판단했다.\n\n하지만 코쿠사이의 '644 특허는 권리범위가 좁혀졌다. 코쿠사이가 '644 특허 무효심판 과정에서 특허를 4차례 정정했기 때문이다. 일반적으로 정정심판은 특허가 무효가 될 가능성이 있을 때 특허권자가 청구한다. 이번 특허심판원 무효심판 심결에 대해 유진테크는 특허법원에 항소(심결취소소송)할 수 있다.\n\n유진테크와 코쿠사이가 다투는 코쿠사이 특허는 모두 4건이다. 코쿠사이가 유진테크를 상대로 특허 4건을 사용해 지난 2024년 서울중앙지방법원에 특허침해소송을 제기하자, 유진테크는 대응 차원에서 쟁점 특허 4건에 대해 특허심판원에 무효심판을 청구했다.\n\n특허심판원에서 시작한 무효분쟁에선 유진테크가 대체로 앞서고 있다.\n\n유진테크는 이달 중순 특허법원에서 코쿠사이의 특허 '반도체 장치의 제조방법, 기판 처리장치 및 프로그램'(등록번호 2472052, 아래 '052 특허)가 유효라는 판결을 받았다. 앞서 특허심판원이 '052 특허는 유효라고 심결했지만 특허법원이 이를 뒤집었다. 또, 특허법원은 '052 특허에 대한 코쿠사이의 정정심판 청구를 기각했던 특허심판원 심결을 유지했다.\n\n특허법원은 지난 5월 코쿠사이의 또 다른 특허 '기판 처리장치 및 반도체 장치의 제조방법'(등록번호 1037961, 아래 '961 특허)에 대해서 일무 무효(일부성립일부기각)라는 특허심판원 판단을 유지한 바 있다.\n\n앞서 특허심판원은 지난 2024년 12월 코쿠사이의 '961 특허 청구항 2~6항, 8~18항, 20항이 무효라고 판단했다. 유진테크의 주장 중 7항을 빼고는 특허심판원이 모두 받아들였다. 특허법원도 유효라고 판결한 7항은 변수가 될 수 있다. 코쿠사이는 '961 특허도 정정하려고 했지만 특허법원은 받아들이지 않았다.\n\n'961 특허의 쟁점 청구항이 대부분 무효라고 판단한 특허법원 판결에 대해 코쿠사이는 대법원에 상고했다. 특허사건은 대법원에서 결론이 바뀌는 경우가 많진 않다.\n\n코쿠사이의 또 다른 특허 '기판 처리장치, 반도체 장치의 제조방법 및 기록매체'(등록번호 1969277)에 대해 특허심판원은 2025년 12월 일부 청구항이 무효라고 심결했다. 특허심판원 심결에 대해 쌍방이 특허법원에 항소했다.\n\n코쿠사이는 과거 삼성전자의 특정 공정용 ALD 장비를 독점 공급해왔는데, 유진테크가 이 시장에 진입하면서 특허분쟁이 시작됐다.",
       "published": "2026-07-26T09:27:36+00:00"
-    },
-    {
-      "id": "70f9f5809bd5",
-      "source": "조코딩",
-      "kind": "youtube",
-      "category": "DEV",
-      "lang": "ko",
-      "title": "IT뉴스 - Claude Opus 5, Hugging Face 해킹, 오픈웨이트 규제, Gemini 3.6 Flash, FLUX 3, 샌프란 AI Summit 등",
-      "link": "https://www.youtube.com/watch?v=-CDz4HTz5Iw",
-      "summary": "",
-      "published": "2026-07-26T09:02:29+00:00"
     },
     {
       "id": "965981035d6e",
@@ -273,7 +273,7 @@
       "lang": "en",
       "title": "JetZero",
       "link": "https://www.jetzero.aero",
-      "summary": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 209 # Comments: 168",
+      "summary": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 210 # Comments: 186",
       "content": "250 seats | International range | Superior aerodynamics\n\nAlaska Star Ventures investment includes options for future airplane orders.\n\nJetZero announces it has raised approximately $175 million in its Series B financing, led by B Capital, a global multi-stage investment firm.\n\nInvestment includes path to purchase up to 200 airplanes.\n\nJetZero broke ground on its first manufacturing and final assembly campus in Greensboro, North Carolina.\n\nDefense industry veteran and seasoned tech CEO join board of directors as JetZero advances toward first flight of all-wing demonstrator.\n\nPotential financing support for development of advanced aerospace manufacturing campus in Greensboro, NC.\n\nSatellite office to be located at National Institute for Aviation Research (NIAR) at Wichita State University.\n\nJapan Airlines Co., Ltd. (JAL) announces its support and interest in JetZero’s Z4 program.\n\nZ4 puts all of Europe and Asia in reach from the Kingdom of Bahrain, with up to 50% better fuel performance and elevated passenger experience.\n\nThe low-drag, lightweight, all-wing Z4 uses up to 50% less fuel than today’s commercial jets.\n\nMore of what you've always wanted\n\nTackling the industry’s toughest challenge\n\nMade up of leaders from aerospace, technology, and mobility from around the world. Half of the team is located at our Long Beach CA campus, with other teammates working remotely near our suppliers, future customers, and partners.",
       "published": "2026-07-26T02:55:50+00:00"
     },
@@ -357,9 +357,21 @@
       "lang": "en",
       "title": "The new rules of context engineering for Claude 5 generation models",
       "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 348 # Comments: 236",
+      "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 358 # Comments: 254",
       "content": "We removed over 80% of Claude Code's system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents.\n\nI’ve written previously about how to best prompt the newest generation of Claude 5 models and work with them iteratively to discover what you want to build.\n\nBut when you send a message to Claude, the prompt is only a small part of the context it gets. Much of your context is assembled from your system prompt, Skills, CLAUDE.md files, memory, and other sources. We call this context engineering , and it makes a big impact on the results you generate when using Claude Code or in building your own agents.\n\nUnlike a prompt, context is used generally across many requests, so it cannot be as specific. How do you build these general prompts and guidance for Claude, especially when you don’t know what a user’s prompt might be?\n\nThis can be surprisingly difficult as Claude’s own capabilities evolve. Most recently, we noticed a large jump in the way we prompt the newest generation of Claude models. We removed over 80% of Claude Code’s system prompt for models like Claude Opus 5 and Claude Fable 5 with no measurable loss on our coding evaluations.\n\nHere’s what we’ve learned about prompting this new class of models, and how you can utilize it to update your context engineering. We’ve put these best practices in `claude doctor;` use the command /doctor in Claude Code to rightsize your skills, and CLAUDE.md files.\n\nOverall, we found that we were overconstraining Claude Code, both through our system prompt and in our CLAUDE.md files and skills.\n\nFor example, when we read transcripts of our own internal usage of Claude Code, we see several conflicting messages in a single request like “leave documentation as appropriate,” or “DO NOT add comments” as our system prompt, skills, and user requests clash with each other.\n\nGenerally, Claude can interpret the user’s intent to get to the right answer, but Claude must think more carefully about these overlapping and conflicting messages before deciding what to do.\n\nAnd while these constraints were once needed to avoid worst case scenarios, we have since found we can delete many of them and let the model use surrounding context and judgement instead.\n\nAdditionally, Claude Code now has many more tools. Claude used to rely on CLAUDE.md as a source of memory, information, and guidance. Now we have memory, artifacts, and skills, which Claude can use to create new ways of loading and sharing context across sessions.\n\nThere were a number of previous context engineering best practices that had become myths. Including:.\n\nWhen we first rolled out Claude Code, we needed to be sure that Claude avoided worst case scenarios, such as deleting files. This meant we would give particularly strong guidance that might not always be true, For example, in the system prompt we used to say:\n\nIn code: default to writing no comments. Never write multi-paragraph docstrings or multi-line comment blocks — one short line max. Don't create planning, decision, or analysis documents unless the user asks for them — work from conversation context, not intermediate files.\n\nBut for a certain subset of prompts, this guidance would be wrong. In the case of documentation, the user may have their own preferences, or specific parts of very complex code might need multi-line comment blocks.\n\nStill, without these guardrails for older models, the comments Claude wrote would be incorrect in many cases and we had to accept this tradeoff. But newer models have better judgement and can handle these decisions well without explicit rules.\n\nIn the new system prompt we say: Write code that reads like the surrounding code: match its comment density, naming, and idiom.\n\nThe number one rule for tool usage was to give Claude examples on how to use them. With our newest models, we’ve found that giving examples actually constrains them to a certain exploration space.\n\nInstead of using examples, think more about the design of your tools, scripts and files- what parameters does Claude have and how can they be more expressive?\n\nFor example, in the Todo tool example, just listing status as an enumeration between pending, in_progress, and completed, hints to Claude about how to use it. The instruction on keeping one item in_progress helps define our requested behavior.\n\nBecause Claude Code was focused on coding, our system prompt included detailed information on how to do code review and verification. These were not always needed, but when they were, it was crucial information.\n\nSince then, Claude Code has gotten very competent at using progressive disclosure- loading the right context at the right times. For example, we moved verification and code review into their own skills that Claude Code could selectively call.\n\nBut progressive disclosure is not just for skills, we also use it for tools. Some of our tools are ‘deferred loading,’ which means the agent must search for their full definitions using ToolSearch before using them. This allows us to have more tools (such as our Task tools) that don’t take up context until they’re needed.\n\nThe same can be applied to your own CLAUDE.md and Skill.md files. A common myth is that you want to make these a central repository for every known practice that you might run into, because Claude would not find it otherwise. Instead, consider having a tree of files that can be loaded at the right time .\n\nEarlier Claude models could sometimes need repeated instructions or be more likely to listen to instructions at the end of their context window than at the start. This meant our system prompt would sometimes have references to tools in the main system prompt as well as instructions in the tool description.\n\nWe found we could delete these repeat examples and put instructions on how to use tools in the tool descriptions rather than the system prompt.",
       "published": "2026-07-25T20:42:35+00:00"
+    },
+    {
+      "id": "9a0ac0f6bd95",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "link": "https://github.com/slvDev/esp32-ai",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 208 # Comments: 50",
+      "content": "Open to Work · 𝕏 slvDev · LinkedIn\n\nThis is a 28.9 million parameter language model that generates text on an ESP32-S3, a microcontroller that costs about $8. It runs on the chip itself, with nothing sent to a server, and it writes each word to a small screen wired to the chip at roughly 9 tokens per second. The last language model people ran on a chip like this had 260 thousand parameters, so this one holds about a hundred times more. It fits because most of the model lives in flash instead of RAM, using an idea from Google's Gemma models called Per-Layer Embeddings.\n\nA microcontroller has very little fast memory. The ESP32-S3 gives you 512KB of SRAM. Normally the whole model has to be reachable from there, which keeps you stuck with tiny models, and that is why the previous model on a chip like this had only 260 thousand parameters.\n\nThe way around it is to stop putting the model in fast memory at all. Most of a language model's parameters sit in an embedding table, which the model reads from rather than computes on. So you can leave that 25 million row table in slow flash and pull only the few rows each token needs, about 450 bytes, while the small part that does the actual work stays in fast memory. The large model then costs almost nothing to run, because you never load most of it. It just sits in flash and gets sampled a little at a time.\n\nThat idea is Google's Per-Layer Embeddings, from Gemma 3n and Gemma 4. Here it runs on the memory layout of a microcontroller instead of a phone or a GPU. As far as I can tell, nobody had tried it on a chip this small.\n\nThe model was trained on TinyStories, so it writes short, simple stories and mostly keeps them coherent. It will not answer questions, follow instructions, write code, or know facts. That limit comes from the small part of the model that does the reasoning, and the memory trick does not change it. What is interesting here is the architecture, fitting a large model onto a tiny chip, rather than what a 28.9 million parameter model can say.\n\nThe firmware, the wiring, and the flashing steps live in firmware/esp32_llm/README.md . The training, ablation, and quantization code is in src/ and experiments/ . The full method, the ablations, and the on-chip measurements are written up in RESULTS.md .\n\nTinyStories is the dataset this trains on: short synthetic stories simple enough that a small model can still learn to write coherently (Ronen Eldan and Yuanzhi Li, Microsoft Research, arXiv:2305.07759 ). The other half is Per-Layer Embeddings, Google's design from the Gemma models, which is what lets a big model fit on a small chip.\n\nAndrej Karpathy's llama2.c is why a lot of people, me included, believe you can train a tiny language model and run it in plain C at all. This grew out of that.\n\nI left the messy history in the repo on purpose. That includes a bug I found in my own parameter accounting, which had inflated an early number, and the corrected result that followed once I fixed it. The commit history and RESULTS.md show where the numbers moved and why.",
+      "published": "2026-07-25T18:59:50+00:00"
     },
     {
       "id": "1f8808bdb206",
@@ -372,6 +384,18 @@
       "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hik",
       "content": "It’s just the latest victim of RAMageddon.\n\nGoogle’s Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from Apple to Nintendo , Microsoft to Roku , have all raised their prices in response to the soaring cost of memory.\n\nBarkat said that Google had “shielded our consumers from supply fluctuations for as long as possible,” but that the “economics have fundamentally shifted and we’re not immune to that.” He went on to tell 9to5 that the Pixel lineup would see pricing “adjustments,” accordingly, that “will be rolled out dynamically to match supply realities.”\n\nThe base model Pixel 11 is expected to cost $899 , but would come with 256GB of storage, instead of 128GB. It’s also rumored that the Pixel 11 Pro could go from 16GB of RAM to 12GB. We won’t have to wait too long to find out for sure, though. Google’s scheduled to announce the next generation of Pixel devices on August 12th .\n\nThis is the title for the native ad",
       "published": "2026-07-25T18:13:36+00:00"
+    },
+    {
+      "id": "b4d5190afdde",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "link": "https://brolly.sh/forecast/RWFP2qW8",
+      "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. I made https://brolly.sh , a minimalist, plain text weather fore",
+      "content": "plain text weather forecast\n\n=============================================\n\ntemperature 20.4C (feels 17.2C)\n\nwind 15 (30) mph / uv 4.0 / aqi 18\n\ntemperature 16C - 20C\n\nwind avg 12 mph (gusts 24 mph)\n\n< Yesterday Today Mon 27/07 >\n\n---------------------------------------------\n\npeak 0mm (45%) @ 13:00-23:00\n\npeak 4.35 (moderate) @ 12:00\n\npeak 22 (fair) @ 17:00-19:00\n\nnow grass 8.9 (medium)\n\nnow mugwort 1.5 (low)\n\npeak grass 14 @ 22:00\n\npeak mugwort 5.7 @ 01:00\n\nweather data last fetched at: 13:13\n\nbrolly.sh /search /stats /about /privacy\n\nsearch / weather / air quality / uv / pollen data: open-meteo.com\n\nmade by Jacob in York, UK",
+      "published": "2026-07-25T17:34:34+00:00"
     },
     {
       "id": "1d8d47049785",

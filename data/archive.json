@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T11:08:31.400810+00:00",
-  "count": 7009,
+  "updated_at": "2026-07-26T12:15:48.617902+00:00",
+  "count": 7011,
   "items": [
     {
       "id": "27151112ea23",
@@ -586,6 +586,17 @@
       "summary": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 '3대 메가프로젝트'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 '모두의 AI'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 '시간과 자본력 싸움'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 "
     },
     {
+      "id": "9a0ac0f6bd95",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "link": "https://github.com/slvDev/esp32-ai",
+      "published": "2026-07-25T18:59:50+00:00",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 208 # Comments: 50"
+    },
+    {
       "id": "1f8808bdb206",
       "source": "The Verge",
       "kind": "article",
@@ -595,6 +606,17 @@
       "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
       "published": "2026-07-25T18:13:36+00:00",
       "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hik"
+    },
+    {
+      "id": "b4d5190afdde",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "link": "https://brolly.sh/forecast/RWFP2qW8",
+      "published": "2026-07-25T17:34:34+00:00",
+      "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. I made https://brolly.sh , a minimalist, plain text weather fore"
     },
     {
       "id": "1d8d47049785",
