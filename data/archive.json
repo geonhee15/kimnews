@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-26T14:06:51.861894+00:00",
-  "count": 7012,
+  "updated_at": "2026-07-26T15:19:34.897754+00:00",
+  "count": 7015,
   "items": [
+    {
+      "id": "323e33ffe00f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+      "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+      "published": "2026-07-26T15:00:00+00:00",
+      "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba tha"
+    },
     {
       "id": "6a2682f01ae0",
       "source": "ZDNet Korea",
@@ -78,6 +89,17 @@
       "link": "https://www.youtube.com/watch?v=-CDz4HTz5Iw",
       "published": "2026-07-26T09:02:29+00:00",
       "summary": ""
+    },
+    {
+      "id": "f7ce384ef2cd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "link": "https://astral.sh/blog/ruff-v0.16.0",
+      "published": "2026-07-26T09:01:39+00:00",
+      "summary": "Article URL: https://astral.sh/blog/ruff-v0.16.0 Comments URL: https://news.ycombinator.com/item?id=49056112 Points: 224 # Comments: 128"
     },
     {
       "id": "965981035d6e",
@@ -364,6 +386,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213184",
       "published": "2026-07-26T02:47:31+00:00",
       "summary": "스페이스X가 기업공개(IPO)를 실시한 이후 처음이자 통산 13번째 스타십 시험비행을 성공적으로 수행했다. 이번 시험비행은 기상 악화와 기술적 문제로 일정이 지연된 끝에 미국 텍사스주 스타베이스 발사장에서 24일(현지시간) 진행됐다.발사 후 약 2분 만에 스타십 우주선과 분리된 슈퍼 헤비 부스터는 착륙 연소를 시도하며 멕시코만에 착수했다. 스페이스X는 부스터 착륙 과정에서 일부 엔진만 점화돼 강한 해상 착수가 이뤄졌으나, 우주선 상단부는 인도양에 온전한 상태로 소프트 스플래시 다운을 완료했다고 밝"
+    },
+    {
+      "id": "a2926518865d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "An ESP32 based plane radar for my desk",
+      "link": "https://blog.ktz.me/esp32-plane-radar/",
+      "published": "2026-07-26T02:35:43+00:00",
+      "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 212 # Comments: 42"
     },
     {
       "id": "34398220b0bd",
