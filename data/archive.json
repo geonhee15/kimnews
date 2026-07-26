@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-26T18:41:46.374331+00:00",
-  "count": 7019,
+  "updated_at": "2026-07-26T19:53:28.445068+00:00",
+  "count": 7024,
   "items": [
+    {
+      "id": "eb269d5f1351",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "published": "2026-07-26T19:40:57+00:00",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+    },
+    {
+      "id": "ea17dafd09ca",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "published": "2026-07-26T19:36:38+00:00",
+      "summary": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses i"
+    },
+    {
+      "id": "ef86a8524c25",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US is charging an American citizen for wiping his phone at the border",
+      "link": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+      "published": "2026-07-26T18:45:50+00:00",
+      "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedl"
+    },
     {
       "id": "7bfddb19ee00",
       "source": "TechCrunch",
@@ -34,6 +67,28 @@
       "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
       "published": "2026-07-26T15:00:00+00:00",
       "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba tha"
+    },
+    {
+      "id": "f69b8d30aca3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "published": "2026-07-26T14:40:27+00:00",
+      "summary": "Article URL: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/ Comments URL: https://news.ycombinator.com/item?id=49058669 Points: 226 # Comments: 172"
+    },
+    {
+      "id": "c638bb679c93",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "published": "2026-07-26T12:00:11+00:00",
+      "summary": "Article URL: https://swag.htmx.org/en-cad/products/htmx-4-the-game Comments URL: https://news.ycombinator.com/item?id=49057241 Points: 204 # Comments: 68"
     },
     {
       "id": "d01d7aa5f12f",
