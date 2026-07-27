@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-27T20:42:53.743221+00:00",
-  "count": 7150,
+  "updated_at": "2026-07-27T21:47:53.393438+00:00",
+  "count": 7157,
   "items": [
+    {
+      "id": "2a8249365844",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 글로벌 개방형 AI 보안 연합 출범...네이버·SKT 등 40곳 참여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213231",
+      "published": "2026-07-27T21:33:39+00:00",
+      "summary": "엔비디아가 글로벌 주요 빅테크, 사이버 보안 기업, 연구기관 등과 개방형 AI 보안 생태계 구축을 위한 연합체를 출범했다.엔비디아는 27일 AI 안전과 사이버 보안을 강화하기 위한 '오픈 시큐어 AI 얼라이언스'를 출범한다고 밝혔다.오픈 시큐어 AI 얼라이언스는 AI 시대의 소프트웨어와 에이전트를 보호하기 위한 개방형 기술, 보안 기술·도구를 공동 개발하고 공유하는 연합체다.최근 AI의 확산으로 새로운 보안 위협이 커지는 상황에서 오픈 모델과 에이전트 하네스, 보안 도구 등을 공동 개발해 AI 취"
+    },
+    {
+      "id": "eb7f2fb6ace7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "published": "2026-07-27T21:17:11+00:00",
+      "summary": "Businesses that rely wholly on the major AI labs ultimately won't survive, Microsoft CEO Satya Nadella predicts."
+    },
     {
       "id": "dca6b3145821",
       "source": "TechCrunch",
@@ -179,6 +201,17 @@
       "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
     },
     {
+      "id": "83d7f887c48f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "트라이넷엑스, 어거스트 캘훈 최고경영자 선임",
+      "link": "https://zdnet.co.kr/view/?no=20260728011002",
+      "published": "2026-07-27T16:10:02+00:00",
+      "summary": "[지디넷코리아] CEO 승계 작업 완료에 따라 제프 마골리스 이사회 의장직 복귀 케임브리지, 매사추세츠, 2026년 7월 28일 /PRNewswire/ -- '더 나은 인류 건강을 위한 글로벌 진실 엔진(The Global Truth Engine for Better Human Health™)'이자 세계적인 연합 보건 데이터 네트워크 운영사인 트라이넷엑스(TriNetX)가 7월 27일 어거스트 캘훈(August Calhoun)을 신임 최고경영자(CEO)로 즉시 선임한다고 발표했다. 2024년 12월"
+    },
+    {
       "id": "2b948e417e68",
       "source": "GitHub Blog",
       "kind": "article",
@@ -287,6 +320,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260727222037",
       "published": "2026-07-27T13:20:37+00:00",
       "summary": "[지디넷코리아]사단법인 코드게이트보안포럼이 전문적인 교육 인프라를 결합한 AI 보안 인재 양성 생태계 조성에 나선다.코드게이트보안포럼은 지난 24일 열린 '코드게이트 2026' 개회식에서 차세대 AI 화이트해커를 육성하기 위한 핵심 프로젝트인 '글로벌 펠로우십(Global Fellowship)'을 도입, 오는 9월 1기를 모집한다고 27일 밝혔다.단순히 시스템 취약점을 찾는 기존의 보안 교육을 넘어, 인공지능(AI) 기술을 실제 방어 체계에 접목하고 활용할 수 있는 차세대 융합 보안 전문가를 길러"
+    },
+    {
+      "id": "51446b20c62a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Should you wash your solar panels?",
+      "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "published": "2026-07-27T13:04:11+00:00",
+      "summary": "Article URL: https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html Comments URL: https://news.ycombinator.com/item?id=49069132 Points: 212 # Comments: 199"
     },
     {
       "id": "08cb6f10e766",
@@ -553,6 +597,17 @@
       "summary": "[지디넷코리아]'3N1K'로 불리는 국내 대형 게임 4사(넥슨, 넷마블, 엔씨, 크래프톤)의 정보보호 부문 투자액을 조사한 결과, 넥슨이 가장 많은 금액을 투입하고 있는 것으로 나타났다. 2024년 대비 지난해 투자액을 가장 많이 늘린 곳은 크래프톤으로 조사됐다. 반면 넷마블, 엔씨 등 게임사는 같은 기간 정보보호 투자액을 줄였다.27일 한국인터넷진흥원(KISA) 정보보호 공시 종합 포털에 따르면 지난해 넥슨은 정보보호 부문에 265억5302만원을 투자한 것으로 집계됐다. 이는 2024년(227억"
     },
     {
+      "id": "902ffde5b67f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한전KDN, ‘2026 빛가람 AI·ICT 경진대회’ 개최, 10월11일까지 작품 공모",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213230",
+      "published": "2026-07-27T09:25:00+00:00",
+      "summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)이 산·학 연계 ESG 활동을 통한 사회적 가치 실현과 에너지ICT 맞춤형 인재 발굴을 위해 ‘제12회 2026 빛가람 AI·ICT 경진대회’를 개최한다고 밝혔다.이번 대회는 지난 11회까지 ‘빛가람 에너지밸리 SW 작품 경진대회’로 개최되어온 대회의 명칭을 ‘빛가람 AI·ICT 경진대회’로 변경하여 진행되는 것으로 미래 에너지 산업을 이끌 디지털 인재 발굴을 목표로 추진됐다.한전KDN은 그간 AI, IoT, 빅데이터 등 최신 기술을 활용한 출품작을"
+    },
+    {
       "id": "59be998eb144",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -614,6 +669,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "중국 CXMT, 상하이 증시 상장 첫날 466% 폭등…중국 시총 1위 등극",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213229",
+      "published": "2026-07-27T09:05:12+00:00",
+      "summary": "중국 최대 메모리 반도체 제조업체 창신메모리(CXMT)가 상하이 증시 상장 첫날 폭발적인 상승세를 기록하며 단숨에 중국 시가총액 1위 상장 기업으로 도약했다. 27일 상하이 증권거래소에 데뷔한 창신메모리는 공모가인 주당 8.66위안 대비 466% 급등한 49위안으로 거래를 마감했다.장중 한때 55.03위안까지 치솟았던 주가 상승에 힘입어 시가총액은 3조3000억위안(약 716조7930억원)으로 급증했으며, 이는 오랫동안 중국 증시 시가총액 정상 자리를 지켜온 중국공상은행을 제친 수치다.이번 기업공"
+    },
+    {
+      "id": "42accfb7f1a9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "CXMT, 상하이 증시 상장 첫날 466% 폭등…중국 시총 1위 등극",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213229",
       "published": "2026-07-27T09:05:12+00:00",
       "summary": "중국 최대 메모리 반도체 제조업체 창신메모리(CXMT)가 상하이 증시 상장 첫날 폭발적인 상승세를 기록하며 단숨에 중국 시가총액 1위 상장 기업으로 도약했다. 27일 상하이 증권거래소에 데뷔한 창신메모리는 공모가인 주당 8.66위안 대비 466% 급등한 49위안으로 거래를 마감했다.장중 한때 55.03위안까지 치솟았던 주가 상승에 힘입어 시가총액은 3조3000억위안(약 716조7930억원)으로 급증했으며, 이는 오랫동안 중국 증시 시가총액 정상 자리를 지켜온 중국공상은행을 제친 수치다.이번 기업공"
@@ -735,6 +801,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "머스크 \"그록 4.6은 2주, 4.7은 4주 내 출시\"...2조 매개변수로 본격 경쟁 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213211",
+      "published": "2026-07-27T08:16:23+00:00",
+      "summary": "일론 머스크 CEO가 스페이스XAI의 차세대 대형언어모델(LLM) '그록(Grok) 4.6'과 '그록 4.7'의 출시 일정을 공개했다. 2주 안에 그록 4.6을, 4주 안에 그록 4.7을 선보이겠다고 밝히며 글로벌 프론티어 AI 모델 경쟁에 속도를 내고 있다.머스크 CEO는 24일(현지시간) X를 통해 \"그록 4.6은 2주 내, 그록 4.7은 4주 내 출시될 예정\"이라고 밝혔다.이번에 언급된 모델은 현재 플래그십인 그록 4.5의 후속 모델로, 특히 매개변수가 기존 1조5000억(1.5T) 개에서 "
+    },
+    {
+      "id": "653735a71eb0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크 \"그록 4.6은 2주, 4.7은 4주 내 출시\"...2조 매개변수로 경쟁",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213211",
       "published": "2026-07-27T08:16:23+00:00",
       "summary": "일론 머스크 CEO가 스페이스XAI의 차세대 대형언어모델(LLM) '그록(Grok) 4.6'과 '그록 4.7'의 출시 일정을 공개했다. 2주 안에 그록 4.6을, 4주 안에 그록 4.7을 선보이겠다고 밝히며 글로벌 프론티어 AI 모델 경쟁에 속도를 내고 있다.머스크 CEO는 24일(현지시간) X를 통해 \"그록 4.6은 2주 내, 그록 4.7은 4주 내 출시될 예정\"이라고 밝혔다.이번에 언급된 모델은 현재 플래그십인 그록 4.5의 후속 모델로, 특히 매개변수가 기존 1조5000억(1.5T) 개에서 "
