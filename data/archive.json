@@ -1,7 +1,293 @@
 {
-  "updated_at": "2026-07-27T06:06:34.316016+00:00",
-  "count": 7067,
+  "updated_at": "2026-07-27T10:08:08.072458+00:00",
+  "count": 7098,
   "items": [
+    {
+      "id": "269f41fc385a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "published": "2026-07-27T10:00:00+00:00",
+      "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. Wit"
+    },
+    {
+      "id": "753bb5164025",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "published": "2026-07-27T10:00:00+00:00",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped."
+    },
+    {
+      "id": "dc02c048f08c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "4대 게임사 보안 투자 넥슨 1위 265억…넷마블·엔씨 감소",
+      "link": "https://zdnet.co.kr/view/?no=20260727164544",
+      "published": "2026-07-27T09:30:00+00:00",
+      "summary": "[지디넷코리아]'3N1K'로 불리는 국내 대형 게임 4사(넥슨, 넷마블, 엔씨, 크래프톤)의 정보보호 부문 투자액을 조사한 결과, 넥슨이 가장 많은 금액을 투입하고 있는 것으로 나타났다. 2024년 대비 지난해 투자액을 가장 많이 늘린 곳은 크래프톤으로 조사됐다. 반면 넷마블, 엔씨 등 게임사는 같은 기간 정보보호 투자액을 줄였다.27일 한국인터넷진흥원(KISA) 정보보호 공시 종합 포털에 따르면 지난해 넥슨은 정보보호 부문에 265억5302만원을 투자한 것으로 집계됐다. 이는 2024년(227억"
+    },
+    {
+      "id": "59be998eb144",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'삼전닉스' 보안 투자는...4121억 vs 685억",
+      "link": "https://zdnet.co.kr/view/?no=20260727172731",
+      "published": "2026-07-27T09:23:06+00:00",
+      "summary": "[지디넷코리아]국내 대표 종합 반도체 기업 삼성전자와 SK하이닉스가 지난해 정보보호 부문 투자액 전년보다 10% 이상 늘렸다. 투자 규모만 놓고 보면 삼성전자가 SK하이닉스 대비 6배 이상 더 많이 투자했다. 하지만 정보기술(IT) 투자 대비 정보보호 부문 투자는 SK하이닉스가 삼성전자보다 높았다. 27일 한국인터넷진흥원(KISA) 정보보호 공시 종합 포털에 따르면 지난해 삼성전자는 4121억2905만원, SK하이닉스는 684억6402만원을 정보보호 부문에 각각 투자했다. 이는 각각 전년 대비 1"
+    },
+    {
+      "id": "a2d47dc86e52",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자, 600kW CDU 엔비디아 인증…대용량 규격 대응",
+      "link": "https://zdnet.co.kr/view/?no=20260727165411",
+      "published": "2026-07-27T09:18:17+00:00",
+      "summary": "[지디넷코리아]LG전자가 국내 기업 최초로 엔비디아의 600kW(킬로와트)급 냉각수분배장치(CDU) 인증을 획득했다. LG전자는 이번 인증을 발판으로 1MW(메가와트)·2.5MW·4MW 등 대용량 CDU 인증을 확대하며 AI 데이터센터 액체냉각 시장 공략에 나설 예정이다. AI 가속기 성능 향상으로 서버 전력밀도가 높아지면서 데이터센터 냉각 인프라도 수백kW에서 MW급으로 빠르게 대형화하고 있다. LG전자는 엔비디아로부터 600kW급 CDU 최종 품질 인증을 받았다고 27일 밝혔다. CDU는 데이"
+    },
+    {
+      "id": "b2b5bf8a7a46",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에코프로에이치엔, 삼성E&A에 반도체 공정 RCS 공급…330억 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260727180551",
+      "published": "2026-07-27T09:16:18+00:00",
+      "summary": "[지디넷코리아]에코프로에이치엔이 삼성E&A에 중앙식 온실가스 저감 시스템(RCS)을 공급한다. 이번 계약은 330억원 규모로, 공급된 설비는 국내 반도체사에 도입될 예정이다.에코프로에이치엔은 삼성E&A와 RCS 공급 계약을 체결했다고 27일 공시했다.RCS는 반도체 공정에서 발생하는 과불화화합물(PFCs)을 처리하는 대용량 온실가스 저감 시스템이다. PFCs는 CO2 대비 수천~수만 배 이상 높은 지구온난화지수(GWP)를 지니고 있어, 반도체 제조 현장에서 반드시 해결해야 할 핵심 환경 과제로 꼽"
+    },
+    {
+      "id": "e8a0aa9eb8b7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[신간] 김대종 2027 머니트렌드...부자 되는 3가지 전략 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260727181449",
+      "published": "2026-07-27T09:14:49+00:00",
+      "summary": "[지디넷코리아]김대종 세종대 경영학부 교수가 신간 '김대종 2027 머니트렌드'를 출간했다. 책의 부제는 '1조 자산가의 주식투자 비법, 한강 아파트를 분양받아라'로, 개인이 장기적으로 부를 축적하기 위한 투자 원칙과 실천 전략을 담았다.27일 김 교수는 “대한민국에서 가장 빠르게 자산을 늘리는 방법은 한강변 우수 입지의 아파트 청약과 세계 최고 기업에 대한 장기투자, 그리고 신사업 창업”라고 강조했다. 책에서 저자는 오는 11월 서울 반포 일대에서 약 1800세대 규모의 대규모 분양이 예정되어 "
+    },
+    {
+      "id": "f9949d626094",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "산업부, 하반기 중견기업 금융지원 프로그램 ‘라이징 리더스 300’ 모집 개시",
+      "link": "https://zdnet.co.kr/view/?no=20260727181251",
+      "published": "2026-07-27T09:12:51+00:00",
+      "summary": "[지디넷코리아]산업통상부는 중견기업 전용 금융지원 프로 그램인 ‘라이징 리더스 300’ 하반기 모집 공고를 기존 9월에서 7월로 두 달 앞당겨 실시한다고 27일 밝혔다.‘라이징 리더스 300’은 산업부와 우리은행이 2023년부터 공동으로 마련한 중견기업 전용 금융지원 프로그램이다. 성장 잠재력이 높은 중견기업(후보기업 포함)을 ▲수출(글로벌 리더형) ▲R&D(K-TECH 선도형) ▲ESG(미래가치 주도형) ▲AX(AX 도약형) 4개 분야에서 발굴, 지원하고 있다. 연 2회 공모해 올해 상반기까지 "
+    },
+    {
+      "id": "12a6f1a5d7dd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 CXMT, 상하이 증시 상장 첫날 466% 폭등…중국 시총 1위 등극",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213229",
+      "published": "2026-07-27T09:05:12+00:00",
+      "summary": "중국 최대 메모리 반도체 제조업체 창신메모리(CXMT)가 상하이 증시 상장 첫날 폭발적인 상승세를 기록하며 단숨에 중국 시가총액 1위 상장 기업으로 도약했다. 27일 상하이 증권거래소에 데뷔한 창신메모리는 공모가인 주당 8.66위안 대비 466% 급등한 49위안으로 거래를 마감했다.장중 한때 55.03위안까지 치솟았던 주가 상승에 힘입어 시가총액은 3조3000억위안(약 716조7930억원)으로 급증했으며, 이는 오랫동안 중국 증시 시가총액 정상 자리를 지켜온 중국공상은행을 제친 수치다.이번 기업공"
+    },
+    {
+      "id": "efde1b477259",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배경훈 \"AI인프라 민간투자 뒷받침…규제혁신 아끼지 않겠다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260727173825",
+      "published": "2026-07-27T08:58:16+00:00",
+      "summary": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 AI 인프라 분야 민간 투자를 촉진하기 위해 정부가 규제 혁신과 제도 개선에 적극 나서겠다고 밝혔다.배 부총리는 27일 자신의 인스타그램을 통해 최근 통신 3사 CEO 간담회를 소개하며 “민관 협의체를 통해 AI 인프라 투자와 제도 개선을 함께 추진하기로 한 것은 중요한 출발점”이라고 말했다.배 부총리는 AI 데이터센터(AIDC)와 네트워크를 AI시대에서 국가 경쟁력 핵심 인프라로 규정했다.AI-RAN, 6G, 해저케이블 역시 각각 별개의 "
+    },
+    {
+      "id": "3eac29cf1fd0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그라비티 '선경전설' 후속작, 중국 판호 획득",
+      "link": "https://zdnet.co.kr/view/?no=20260727173107",
+      "published": "2026-07-27T08:50:01+00:00",
+      "summary": "[지디넷코리아]그라비티의 MMORPG 신작 '선경전설：수호영항적애2'가 중국 외자 판호를 획득하며 현지 시장 진출 발판을 마련했다.그라비티는 신작 MMORPG '선경전설：수호영항적애2'가 중국 국가신문출판서로부터 외자 판호를 발급받았다고 27일 밝혔다.선경전설：수호영항적애2는 그라비티와 심동네트워크가 공동 개발한 타이틀이다. PC와 모바일 플랫폼으로 중국 시장에 선보일 계획이며 구체적인 출시 일정은 추후 공개될 예정이다.이번 신작은 지난 2017년 중국에 정식 출시돼 누적 다운로드 300만건을 기"
+    },
+    {
+      "id": "6f3fa5e85606",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 동천야광축제 8월1일 개막",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213218",
+      "published": "2026-07-27T08:50:00+00:00",
+      "summary": "AI 생성 영상순천시가 동천 풍덕교~팔마대교 구간에서 2026년 동천야광축제를 연다고 27일 밝혔다.축제 기간인 8월1일부터 15일까지 매일 오후 6시30분부터 10시까지 야광카약과 소원배 띄우기, 샌드아트, 야광놀이 등이 운영돼 여름밤 시민과 관광객의 야간 나들이 공간으로 활용된다.올해 축제의 주제는 ‘빛의 캔버스, 아뜰리에 동천’이다. 동천의 수면과 산책로를 빛과 야광 조형물로 꾸미고 대형 행성 포토존, 수상 조형물, 시민 공모 문구를 활용한 고보라이트 등을 설치한다.개막 행사는 8월1일 오후"
+    },
+    {
+      "id": "149b9fb12f50",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "공공 SW 과업심의위 의무화 법안 통과…업계 \"예산 확보가 성패 좌우\"",
+      "link": "https://zdnet.co.kr/view/?no=20260727174357",
+      "published": "2026-07-27T08:46:58+00:00",
+      "summary": "[지디넷코리아]공공 소프트웨어(SW) 사업에서 과업 변경 시 과업심의위원회 개최를 의무화하는 법안이 국회 문턱을 넘었다.업계는 이번 법안 통과로 공공 SW사업의 과업 변경에 따른 계약 조정과 적정 대가 반영이 보다 현실화될 것으로 기대하고 있다. 다만 실제 제도 안착의 관건으로는 시행령 정비와 예산 확보를 꼽는다.27일 관련 업계에 따르면 이해민 조국혁신당 의원이 대표발의한 '소프트웨어 진흥법 일부개정법률안'이 이날 국회 본회의에서 의결됐다.이 법안은 지난해 11월 27일 이해민 의원을 비롯해 최"
+    },
+    {
+      "id": "b90d0e14af40",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "분기 최대 실적 HD현대마린솔루션, 선박 정비서 데이터센터로 성장축 확장",
+      "link": "https://zdnet.co.kr/view/?no=20260727161537",
+      "published": "2026-07-27T08:46:31+00:00",
+      "summary": "[지디넷코리아]HD현대마린솔루션이 선박 부품·정비 수요 확대에 힘입어 분기 기준 최대 실적을 달성했다. 기존 선박 애프터마켓(AM) 사업의 반복 매출 기반을 넓히는 동시에 데이터센터용 발전 엔진의 장기서비스계약(LTSA)과 부유식 데이터센터(FDC) 개조를 새로운 성장축으로 육성한다.HD현대마린솔루션은 올해 2분기 연결 기준 매출 5804억원, 영업이익 976억원을 기록했다고 27일 밝혔다. 전년 동기보다 각각 24.1%, 17.6% 증가한 것으로 매출과 영업이익 모두 분기 기준 역대 최대다. A"
+    },
+    {
+      "id": "98cdf1d0d087",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 37도 폭염에 어린이 물놀이터 점검…수질·안전관리 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213220",
+      "published": "2026-07-27T08:45:00+00:00",
+      "summary": "AI 생성 영상광양시가 폭염 중대경보가 발효된 백운제 테마공원 물놀이터와 마동근린공원 꿈빛놀이터를 찾아 어린이와 이용객의 안전관리 실태를 점검했고 27일 밝혔다.25일 박성현 광양시장은 두 물놀이터의 운영 상황과 시설물 관리 상태를 살펴보고 수질관리 실태와 안전요원 배치 현황을 점검했다. 온열질환을 예방할 수 있도록 그늘막이 제대로 설치돼 있는지와 비상상황 발생 시 현장 대응이 가능한지도 확인했다.박 시장은 현장을 이용하던 시민과 보호자에게는 날씨와 시설 이용 과정에서 불편한 점이 없는지 물었다."
+    },
+    {
+      "id": "5ca5fec49a0b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥슨, 2026 대학생 게임잼 '재밌넥' 마무리…AI 시대 인재 육성 박차",
+      "link": "https://zdnet.co.kr/view/?no=20260727172348",
+      "published": "2026-07-27T08:40:01+00:00",
+      "summary": "[지디넷코리아]넥슨코리아(공동 대표 강대현∙김정욱)가 올해로 4회째 대학생 게임잼을 열고 AI 시대를 이끌 인재 육성에 나섰다.넥슨코리아는 지난 24일부터 사흘간 판교 넥슨 사옥에서 미래 게임 인재 육성을 위한 '2026 넥슨 대학생 게임잼 재밌넥(이하 재밌넥)'을 개최했다고 27일 밝혔다.올해로 4회째를 맞이한 재밌넥은 넥슨이 게임업계 예비 창작자를 발굴하고 지원하기 위해 2023년부터 매년 운영해 온 게임잼 행사다. 올해는 AI 활용을 전제로 방식을 개편해 기존 직무 구분을 허물고 단일 포지션"
+    },
+    {
+      "id": "3f5f957908ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI의 문제는 창의성이 아닌 '독창성'을 없앤다는 것\"...혁신 이론가의 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213213",
+      "published": "2026-07-27T08:30:00+00:00",
+      "summary": "AI 기술이 수준 높은 문장 작성과 아이디어 제시 능력을 갖추게 됐지만, 정작 세상을 바꾼 인류 특유의 '독창적 사고'를 사라지게 만들 수 있다는 경고가 나왔다. AI가 내놓는 평균적인 답에 의존할수록 세상을 바꾸는 기발한 아이디어는 설 자리를 잃는다는 지적이다.글로벌 혁신 이론가이자 싱크탱크 노스타랩(NostaLab)의 창립자인 존 노스타는 24일(현지시간) 비즈니스 인사이더와의 인터뷰를 통해 AI 기술이 인류의 혁신을 이끌어온 드물고 독창적인 사고방식을 점차 밀어내고 있다고 진단했다.노스타는 "
+    },
+    {
+      "id": "7bf03f467dd0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, AI 안경 최우선 과제는 '프라이버시'… 카메라 제약 방식도 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213208",
+      "published": "2026-07-27T08:25:18+00:00",
+      "summary": "애플이 내년 6월 세계개발자회의(WWDC)에서 첫 AI 스마트 안경을 공개할 예정인 가운데, 제품 개발의 최우선 과제로 개인정보 보호 기능과 보안 정책 고도화를 추진하고 있는 것으로 알려졌다. 온디바이스 AI를 중심으로 한 데이터 처리 방식과 안면 인식 기능 배제, AI 학습을 위한 사용자 데이터 활용 금지 등을 통해 메타가 선점한 스마트 안경 시장과 차별화를 꾀한다는 전략이다.26일(현지시간) 블룸버그에 따르면, 애플은 코드명 'N50'으로 개발 중인 AI 스마트 안경을 내년 6월 WWDC에서 "
+    },
+    {
+      "id": "8831aff0916b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'총체적 도서관'의 경고… AI가 삼켜버린 불법 'Z-라이브러리' 데이터",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213210",
+      "published": "2026-07-27T08:25:00+00:00",
+      "summary": "세상에 존재하는 모든 책을 수집하려는 오래된 열망이 AI 시대를 맞아 새로운 국면을 맞이하고 있다는 분석이다. 과거 불법 복제 도서 공유의 대명사로 불리며 미국 사법 당국의 집중 표적이 됐던 ‘Z-라이브러리(Z-Library)’ 등 섀도우 라이브러리(Shadow Library)들이 이제는 글로벌 빅테크 기업들의 대형언어모델(LLM) 학습을 위한 핵심 데이터 공급처로 떠오르고 있다는 지적이다.파이낸셜타임스(FT)는 24일(현지시간) 아르헨티나 작가 호르헤 루이스 보르헤스가 상상했던 ‘바벨의 도서관("
+    },
+    {
+      "id": "84772f4db977",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크 \"그록 4.6은 2주, 4.7은 4주 내 출시\"...2조 매개변수로 본격 경쟁 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213211",
+      "published": "2026-07-27T08:16:23+00:00",
+      "summary": "일론 머스크 CEO가 스페이스XAI의 차세대 대형언어모델(LLM) '그록(Grok) 4.6'과 '그록 4.7'의 출시 일정을 공개했다. 2주 안에 그록 4.6을, 4주 안에 그록 4.7을 선보이겠다고 밝히며 글로벌 프론티어 AI 모델 경쟁에 속도를 내고 있다.머스크 CEO는 24일(현지시간) X를 통해 \"그록 4.6은 2주 내, 그록 4.7은 4주 내 출시될 예정\"이라고 밝혔다.이번에 언급된 모델은 현재 플래그십인 그록 4.5의 후속 모델로, 특히 매개변수가 기존 1조5000억(1.5T) 개에서 "
+    },
+    {
+      "id": "b9b3ebb33649",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "국내 2인 스튜디오 운무, AI 단편영화로 유럽 전통 영화제 본선 진출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213224",
+      "published": "2026-07-27T08:15:00+00:00",
+      "summary": "스튜디오 운무(UNMU)는 AI 단편 영화 ‘LAST CALL(폐장 시간)’이 ‘포르투갈 아반카 국제영화제 2026’ 경쟁부문(AI Films)에 공식 선정됐다고 27일 밝혔다.아반카 국제영화제는 1997년 시작해 올해 30회를 맞은 유서 깊은 유럽 영상 축제다. 대형 영화제 중에서는 선구적으로 AI 경쟁 부문을 도입했다.국산 AI 영화가 정식 작품으로서 전통 영화제 스크린에 진출한 것은 이례적이라는 설명이다. ‘LAST CALL’은 영국 AI 런던 영화제 파이널리스트에도 진출한 상태다.이번 영화"
+    },
+    {
+      "id": "698effb113ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "사카나 AI, 보안 특화 멀티 에이전트 '푸구 사이버' 공개...\"GPT-5.5·클로드 필적\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213209",
+      "published": "2026-07-27T08:03:08+00:00",
+      "summary": "사이버 보안 분야에서도 여러 AI 모델을 협업시키는 '오케스트레이션' 방식이 차세대 기술로 주목받고 있다. 일본의 사카나 AI는 전문 에이전트들이 역할을 분담해 취약점 분석과 위협 탐지 업무를 수행하는 새로운 보안 특화 AI를 공개하며, 'GPT-5.5-사이버'와 '클로드 미소스 프리뷰'에 필적하는 성능을 구현했다고 밝혔다. 사카나 AI가 21일(현지시간) 기업용 사이버 보안 업무를 위해 설계된 새로운 AI 모델 '푸구 사이버(Fugu-Cyber)'를 공개했다.단일 대형언어모델(LLM)이 아닌 여"
+    },
+    {
+      "id": "c86643bb9b32",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 뉴엔AI, 중기부 ‘글로벌 K-뷰티 AI 개발’ 주관 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213226",
+      "published": "2026-07-27T08:00:00+00:00",
+      "summary": "■ 뉴엔AI(대표 배성환)는 중소벤처기업부가 주관하고 중소기업기술정보진흥원(TIPA)이 추진하는 ‘2026년 중소기업기술혁신개발사업(도메인 특화 AI 모델 개발)’의 주관연구개발기관으로 최종 선정됐다고 밝혔다. 선정된 사업명은 ‘글로벌 뷰티 시장 분석 기반 K-뷰티 수출 마케팅 전략 수립 멀티 에이전틱 AI 플랫폼 개발’로, 뉴엔AI는 앞으로 2년간 정부지원금 25억원과 연구개발기관 부담금(현금 및 현물) 10억원을 포함해 총 35억원 규모의 연구개발비를 바탕으로 기술 개발과 실증에 착수한다.■ "
+    },
+    {
+      "id": "125ad50df091",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 엑스와이지, 세미 휴머노이드 '듀스' 실증 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213203",
+      "published": "2026-07-27T08:00:00+00:00",
+      "summary": "■ 엑스와이지(대표 황성재)는 양팔을 활용한 생활 밀착형 세미 휴머노이드 로봇 '듀스(DEUX)'를 라운지엑스 성수점에 실증 도입했다고 밝혔다. 듀스는 3지 로봇 핸드로 32자유도(DoF)를 구현한 모델로 상품 정렬과 재고 보충, 바닥·테이블 정리, 박스 패키징 등을 수행할 예정이다. 이번 실증을 통해 실제 운영 환경에서 확보한 행동 데이터를 학습과 검증에 활용한다는 계획이다.■ SK텔레콤(대표 정재헌)은 AX와 CX(고객 가치 혁신)를 위한 '굿 체인지' 캠페인의 일환으로 고객 참여형 '모두의 "
+    },
+    {
+      "id": "a8af1ee76bb3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "업스테이지 '솔라 오픈 2', 허깅페이스 트렌드 3위·'주목할 모델' 등재",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213222",
+      "published": "2026-07-27T07:41:01+00:00",
+      "summary": "업스테이지가 지난주 출시한 ‘솔라 오픈 2’가 글로벌 오픈소스 커뮤니티와 개발자들 사이에서 주목받고 있다. 또 에포크AI의 '주목할 만한 모델(Notable Model)'에 2회 연속 이름을 올렸다.김성훈 업스테이지 대표는 26일 페이스북을 통해 독파모 2차 평가 모델 ‘솔라 오픈 2’가 허깅페이스 글로벌 주간 트렌딩 모델 3위에 올랐다고 밝혔다.허깅페이스 트렌딩 모델이란 일정 기간 조회수와 다운로드 수, 커뮤니티 반응이 크게 늘어난 인기 모델을 말한다. 국내 AI 모델이 허깅페이스 트렌딩에 오른"
+    },
+    {
+      "id": "230357dd786b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3",
+      "published": "2026-07-27T06:18:10+00:00",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3 Comments URL: https://news.ycombinator.com/item?id=49065752 Points: 307 # Comments: 123"
+    },
     {
       "id": "ed48341daa4b",
       "source": "AI타임스",
@@ -366,6 +652,17 @@
       "summary": "양현상 국방융합기술연구소장 겸 노바엑스 대표가 사단법인 한국노벨과학포럼 과학전문위원으로 위촉됐다.한국노벨과학포럼은 지난 25일 서울 강남 앙트레블에서 과학전문위원 위촉식을 열고 양 박사를 과학전문위원으로 위촉했다. 양 박사는 앞으로 AI와 우주항공, 방위산업 융합 분야의 정책 자문과 기술 전략 수립 활동에 참여할 예정이다.양 박사는 방위산업을 단순한 무기 생산 분야가 아니라 AI와 반도체, 센서, 통신, 소프트웨어, 정밀가공, 우주기술 등이 결합된 기술집약 산업으로 설명했다. 미래 전장이 데이터와"
     },
     {
+      "id": "ddcb4ba1eb1f",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "published": "2026-07-27T00:32:20+00:00",
+      "summary": ""
+    },
+    {
       "id": "6af651ecc6fc",
       "source": "TechCrunch",
       "kind": "article",
@@ -540,6 +837,39 @@
       "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
       "published": "2026-07-26T14:40:27+00:00",
       "summary": "Article URL: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/ Comments URL: https://news.ycombinator.com/item?id=49058669 Points: 226 # Comments: 172"
+    },
+    {
+      "id": "f53de9019546",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "published": "2026-07-26T13:13:03+00:00",
+      "summary": "Article URL: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and Comments URL: https://news.ycombinator.com/item?id=49057877 Points: 201 # Comments: 66"
+    },
+    {
+      "id": "01169cac0968",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Reverse Minesweeper",
+      "link": "https://sunflowersgame.com/",
+      "published": "2026-07-26T12:51:03+00:00",
+      "summary": "Article URL: https://sunflowersgame.com/ Comments URL: https://news.ycombinator.com/item?id=49057666 Points: 223 # Comments: 73"
+    },
+    {
+      "id": "5570d170ac62",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "published": "2026-07-26T12:21:26+00:00",
+      "summary": "Article URL: https://pkg.go.dev/golang.org/x/tools/go/analysis Comments URL: https://news.ycombinator.com/item?id=49057398 Points: 209 # Comments: 67"
     },
     {
       "id": "c638bb679c93",
@@ -3829,6 +4159,17 @@
       "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
       "published": "2026-07-23T14:45:05+00:00",
       "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models."
+    },
+    {
+      "id": "b271886a762a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "link": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "published": "2026-07-23T14:37:13+00:00",
+      "summary": "Article URL: https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/ Comments URL: https://news.ycombinator.com/item?id=49022355 Points: 214 # Comments: 47"
     },
     {
       "id": "c3acffe62a1a",
