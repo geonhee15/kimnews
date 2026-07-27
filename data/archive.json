@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-27T21:47:53.393438+00:00",
-  "count": 7157,
+  "updated_at": "2026-07-27T22:56:35.032778+00:00",
+  "count": 7165,
   "items": [
+    {
+      "id": "ba794a4f4be6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X Money is launching in the US starting today",
+      "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+      "published": "2026-07-27T22:10:18+00:00",
+      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X us"
+    },
+    {
+      "id": "4fda2f246c7b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월27일] \"무슨 말하지?\"…보고서 쓰던 챗봇, 이제는 '대화'를 돕기 시작했다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213232",
+      "published": "2026-07-27T22:00:00+00:00",
+      "summary": "AI 챗봇을 업무 보조를 넘어 개인적인 고민을 나누는 상대로 활용하는 사례는 이제는 흔해졌습니다. 하지만 최근에는 조금 다른 사용법이 눈에 띕니다. 챗봇이 비서의 역할을 넘어 일상의 '대화 코치' 역할까지 맡기 시작한 것입니다.월스트리트저널(WSJ)은 이런 현상이 젊은 세대에서 두드러진다고 소개했습니다. 한 대학생은 데이트 앱에서 첫 메시지를 어떻게 보낼지 챗GPT와 상의합니다. 파티에서 어색한 침묵이 생길 것 같으면 대화 주제를 미리 추천받고, 대화 중 읽지 않은 책 이야기가 나오면 AI가 요약"
+    },
+    {
+      "id": "08ac0e072525",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "published": "2026-07-27T21:56:14+00:00",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too."
+    },
     {
       "id": "2a8249365844",
       "source": "AI타임스",
@@ -36,6 +69,17 @@
       "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets."
     },
     {
+      "id": "e454f404fa79",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "published": "2026-07-27T20:32:45+00:00",
+      "summary": "These are likely the last updates of note before Apple's bigger fall updates."
+    },
+    {
       "id": "03a46cf3c9af",
       "source": "TechCrunch",
       "kind": "article",
@@ -45,6 +89,17 @@
       "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
       "published": "2026-07-27T20:19:42+00:00",
       "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+    },
+    {
+      "id": "d7d0b393231c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "published": "2026-07-27T20:12:42+00:00",
+      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says."
     },
     {
       "id": "56011298c926",
@@ -100,6 +155,17 @@
       "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
       "published": "2026-07-27T18:28:15+00:00",
       "summary": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams."
+    },
+    {
+      "id": "6e77083dd721",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "published": "2026-07-27T18:15:35+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/ Comments URL: https://news.ycombinator.com/item?id=49073513 Points: 207 # Comments: 77"
     },
     {
       "id": "6eff538415e0",
@@ -166,6 +232,17 @@
       "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
       "published": "2026-07-27T16:58:46+00:00",
       "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications."
+    },
+    {
+      "id": "cda78fd8c23c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MAI-Cyber-1-Flash inside MDASH",
+      "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "published": "2026-07-27T16:52:22+00:00",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/ Comments URL: https://news.ycombinator.com/item?id=49072361 Points: 204 # Comments: 107"
     },
     {
       "id": "eaec6e1bcb90",
@@ -584,6 +661,17 @@
       "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
       "published": "2026-07-27T10:00:00+00:00",
       "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped."
+    },
+    {
+      "id": "45915d9beaf2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "published": "2026-07-27T09:58:50+00:00",
+      "summary": "Article URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/ Comments URL: https://news.ycombinator.com/item?id=49067301 Points: 205 # Comments: 148"
     },
     {
       "id": "dc02c048f08c",
