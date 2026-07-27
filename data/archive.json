@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-27T15:58:02.549802+00:00",
-  "count": 7129,
+  "updated_at": "2026-07-27T17:43:36.225690+00:00",
+  "count": 7137,
   "items": [
+    {
+      "id": "0391fcf03ea9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "published": "2026-07-27T17:28:42+00:00",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
+    },
+    {
+      "id": "eaec6e1bcb90",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why China is giving away its best AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "published": "2026-07-27T16:51:50+00:00",
+      "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intens"
+    },
+    {
+      "id": "e5f49250dd8c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "published": "2026-07-27T16:45:24+00:00",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
+    },
+    {
+      "id": "2b948e417e68",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+      "published": "2026-07-27T16:00:00+00:00",
+      "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "ba088b0d49aa",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
+      "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+      "published": "2026-07-27T15:58:34+00:00",
+      "summary": "The government says destroying his own data during an airport interrogation was illegal."
+    },
     {
       "id": "e9f5e97588d7",
       "source": "TechCrunch",
@@ -97,6 +152,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "published": "2026-07-27T13:00:00+00:00",
+      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
+    },
+    {
+      "id": "b886da084729",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "published": "2026-07-27T13:00:00+00:00",
       "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
@@ -595,6 +661,17 @@
       "link": "https://huggingface.co/moonshotai/Kimi-K3",
       "published": "2026-07-27T06:18:10+00:00",
       "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3 Comments URL: https://news.ycombinator.com/item?id=49065752 Points: 307 # Comments: 123"
+    },
+    {
+      "id": "f50006659c3f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi-K3 on HuggingFace",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3",
+      "published": "2026-07-27T06:18:10+00:00",
+      "summary": "Related: Kimi-K3 Technical Report [pdf] - https://news.ycombinator.com/item?id=49070985 Comments URL: https://news.ycombinator.com/item?id=49065752 Points: 992 # Comments: 405"
     },
     {
       "id": "ed48341daa4b",
@@ -6062,6 +6139,17 @@
       "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
       "published": "2026-07-22T17:08:03+00:00",
       "summary": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app."
+    },
+    {
+      "id": "1e2f09cdc77d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Magnolias are so old that they're pollinated by beetles, not bees",
+      "link": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+      "published": "2026-07-22T16:49:29+00:00",
+      "summary": "Article URL: https://mymodernmet.com/magnolia-ancient-flowers-beetles/ Comments URL: https://news.ycombinator.com/item?id=49009706 Points: 217 # Comments: 84"
     },
     {
       "id": "291249d4542b",
