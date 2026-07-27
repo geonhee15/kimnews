@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-27T19:02:32.864739+00:00",
-  "count": 7142,
+  "updated_at": "2026-07-27T20:42:53.743221+00:00",
+  "count": 7150,
   "items": [
+    {
+      "id": "dca6b3145821",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "link": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "published": "2026-07-27T20:40:12+00:00",
+      "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets."
+    },
+    {
+      "id": "03a46cf3c9af",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "published": "2026-07-27T20:19:42+00:00",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+    },
+    {
+      "id": "56011298c926",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "published": "2026-07-27T20:08:00+00:00",
+      "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public."
+    },
+    {
+      "id": "c7ca75115292",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nanoleaf’s colorful pegboard and shelf kit is half off",
+      "link": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "published": "2026-07-27T19:24:55+00:00",
+      "summary": "Nanoleaf’s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nan"
+    },
+    {
+      "id": "5c60ace9b183",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "published": "2026-07-27T18:48:41+00:00",
+      "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers."
+    },
     {
       "id": "f121eb0cd53e",
       "source": "TechCrunch",
@@ -47,6 +102,17 @@
       "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog ."
     },
     {
+      "id": "fdb70e9596f6",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The harness is all you need (mostly)",
+      "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+      "published": "2026-07-27T18:00:00+00:00",
+      "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog ."
+    },
+    {
       "id": "4a986403e9e8",
       "source": "TechCrunch",
       "kind": "article",
@@ -69,6 +135,17 @@
       "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
     },
     {
+      "id": "e6de098dad6e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "published": "2026-07-27T16:58:46+00:00",
+      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications."
+    },
+    {
       "id": "eaec6e1bcb90",
       "source": "The Verge",
       "kind": "article",
@@ -78,6 +155,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "published": "2026-07-27T16:51:50+00:00",
       "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intens"
+    },
+    {
+      "id": "fc754879a136",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "link": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+      "published": "2026-07-27T16:49:08+00:00",
+      "summary": "Article URL: https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article Comments URL: https://news.ycombinator.com/item?id=49072310 Points: 240 # Comments: 155"
     },
     {
       "id": "e5f49250dd8c",
