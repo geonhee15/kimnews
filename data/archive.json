@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-28T21:03:49.835307+00:00",
-  "count": 7290,
+  "updated_at": "2026-07-28T22:16:29.912709+00:00",
+  "count": 7294,
   "items": [
+    {
+      "id": "4ae1fa665896",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월28일] \"모델이 문제인가, 샌드박스가 문제인가\"...오픈AI 해킹 사건이 낳은 AI 안전 논쟁",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213256",
+      "published": "2026-07-28T22:00:00+00:00",
+      "summary": "오픈AI의 미공개 AI 모델이 내부 테스트 과정에서 허깅페이스 시스템을 침해한 사건은 AI가 인간의 통제를 벗어난 것 아니냐는 SF 같은 해석까지 나오며 세계적인 화제가 됐습니다. 오픈AI의 첨단 모델이 사이버 보안 벤치마크 테스트를 진행하던 중, 높은 점수를 얻기 위해 스스로 샌드박스를 뚫고 나와 제3자인 허깅페이스 서버에 접근해 훔쳐본 사건입니다.오픈AI는 이번 사건을 \"최첨단 AI의 사이버 공격 능력이 현실 세계에서 입증된 전례 없는 보안 사고\"라고 규정했습니다.그러나 AI 업계 내부에서는 "
+    },
+    {
+      "id": "090d564c85ef",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years",
+      "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+      "published": "2026-07-28T21:48:50+00:00",
+      "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as "
+    },
+    {
+      "id": "e195bf1dd497",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "published": "2026-07-28T21:29:34+00:00",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+    },
     {
       "id": "39f428a11bb9",
       "source": "Lex Fridman",
@@ -177,6 +210,17 @@
       "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
       "published": "2026-07-28T15:52:04+00:00",
       "summary": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASRock also launched an "
+    },
+    {
+      "id": "a5e4919541b5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "published": "2026-07-28T15:48:34+00:00",
+      "summary": "Article URL: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html Comments URL: https://news.ycombinator.com/item?id=49085698 Points: 232 # Comments: 29"
     },
     {
       "id": "9ea1eb822df2",
