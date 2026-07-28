@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-28T16:40:32.958302+00:00",
-  "count": 7270,
+  "updated_at": "2026-07-28T18:03:36.040879+00:00",
+  "count": 7274,
   "items": [
+    {
+      "id": "94d3656b1cb1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tile’s best Bluetooth tracker is down to its lowest price of the year",
+      "link": "https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale",
+      "published": "2026-07-28T17:53:51+00:00",
+      "summary": "Apple’s latest AirTag may seem like the obvious choice if you own an iPhone and are shopping for a Bluetooth tracker, but it’s not the most affordable option. For families that contain both Android and Apple devices, it might be better to pick up the latest Tile Pro instead. It w"
+    },
+    {
+      "id": "9a27ce7fffe3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Save $150 on this smart indoor bike trainer that can keep you riding during the off months",
+      "link": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
+      "published": "2026-07-28T17:48:03+00:00",
+      "summary": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise bike, with Wi-Fi and Bluetooth to connect to your PC, iOS, or"
+    },
     {
       "id": "a7d799f3f771",
       "source": "GitHub Blog",
@@ -135,6 +157,17 @@
       "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
     },
     {
+      "id": "d15271581515",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "published": "2026-07-28T13:19:17+00:00",
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process."
+    },
+    {
       "id": "df2b0ad9f5ed",
       "source": "Hacker News",
       "kind": "article",
@@ -265,6 +298,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260728094748",
       "published": "2026-07-28T11:00:03+00:00",
       "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 미국과 중국 사이에서 벌어지고 있는 AI 패권 경쟁 소식을 전해드릴게요. 그동안 AI 시장을 주도해온 미국이 최근 위기에 놓였다는데요, 바로 중국이 AI 모델의 '가중치'를 무료로 공개하면서 판도가 바뀌고 있기 때문이에요. 가격 차이부터 눈에 띄는데요, 미국 AI를 100원어치 쓸 때 중국 AI는 겨우 25원이면 충분할 정도로 4배나 저렴하다고 해요. 이런 가성비 덕분에 전 세계 개발자 10명 중 4명이 이미 중국 AI로 갈아탔다는 조사 결"
+    },
+    {
+      "id": "9b86fd41c5ff",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "link": "https://arxiv.org/abs/2510.26692",
+      "published": "2026-07-28T10:52:30+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2510.26692 Comments URL: https://news.ycombinator.com/item?id=49082022 Points: 210 # Comments: 80"
     },
     {
       "id": "962d091abdee",
