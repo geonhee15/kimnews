@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-07-28T02:49:11.474776+00:00",
-  "count": 7180,
+  "updated_at": "2026-07-28T05:42:00.033646+00:00",
+  "count": 7202,
   "items": [
+    {
+      "id": "c4c22301a805",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face Has a Deepfake Nudes Problem",
+      "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "published": "2026-07-28T05:30:00+00:00",
+      "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software."
+    },
+    {
+      "id": "8babec73b112",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 미국의 'AI 증류' 조사·제재 움직임에 \"모든 대응 조치\" 보복 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213255",
+      "published": "2026-07-28T05:06:57+00:00",
+      "summary": "중국 정부가 미국의 중국 AI 기업에 대한 '증류(distillation)' 기술 조사와 제재 움직임에 강하게 반발하며, 실제 제재가 이뤄지면 모든 대응 조치를 취하겠다고 경고했다. 중국 상무부는 27일(현지시간) 성명을 통해 미국이 중국 AI 기업들이 미국의 첨단 AI 모델을 증류 기법으로 무단 활용했다는 의혹을 근거로 조사와 제재를 추진하는 것은 \"사실적·법적 근거가 전혀 없다\"라고 비판했다.상무부는 \"미국은 과학기술과 무역 문제를 정치화·무기화해 왔다\"라며 \"근거 없는 비난과 제재 위협은 전"
+    },
+    {
+      "id": "6c3437c27064",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "published": "2026-07-28T05:00:00+00:00",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026."
+    },
+    {
+      "id": "63ea20f46499",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 수츠케버의 SSI에 7조 투자...\"컴퓨팅 10배 확대\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213249",
+      "published": "2026-07-28T04:53:11+00:00",
+      "summary": "엔비디아가 오픈AI 공동 창립자자 전 수석 과학자인 일리야 수츠케버의 스타트업 세이프 슈퍼인텔리전스(SSI)에 50억달러(약 7조원)를 투자하며 장기 협력에 나선다. 이번 협력을 통해 SSI는 차세대 AI 칩인 '베라 루빈(Vera Rubin)' 플랫폼을 확보하고 컴퓨팅 자원을 10배로 확대할 계획이다.양사는 27일(현지시간) 장기 파트너십 체결 사실을 공식 발표했다.투자 금액은 공개하지 않았지만, 월스트리트저널은 엔비디아가 50억달러 규모의 지분 투자를 단행할 예정이라고 보도했다. 이는 AI 붐"
+    },
+    {
+      "id": "73bb281ec87a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브랜드, AI보다 ‘깊이’가 경쟁력…아임웹이 제시한 넥스트 커머스는",
+      "link": "https://zdnet.co.kr/view/?no=20260728111720",
+      "published": "2026-07-28T04:51:46+00:00",
+      "summary": "[지디넷코리아]마케팅 영역에서 변화가 감지되면서 커머스 다음 단계의 성장은 '깊이'에서 올 것이라는 주장이 나왔다. 또 인공지능(AI)이 마케팅에 계속해서 침투하고 있지만, 결국 브랜드의 경쟁력은 데이터와 사람의 고유에 역량에서 나올 것이라 관측도 이어졌다. 김태오 아임웹 최고제품책임자(CPO)는 28일 서울 코엑스에서 열린 ‘브랜드콘 26’에서 “브랜드를 성장시키는 방식이 바뀌고 있다”며 “이전의 성공 방정식이었던 퍼포먼스 마케팅의 효율이 하락하고, 검색엔진에서의 검색 결과도 이전만큼 힘을 가지"
+    },
+    {
+      "id": "feee7391b1a0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"2400도에도 끄떡없다\"…中, 초고온 견디는 금속 합금 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260728132016",
+      "published": "2026-07-28T04:37:06+00:00",
+      "summary": "[지디넷코리아]중국 연구진이 섭씨 2400도에 달하는 초고온 환경에서도 강도를 유지하는 새로운 금속 합금을 개발했다. 이 기술이 상용화될 경우 극초음속 항공기와 재사용 우주선, 차세대 원자로 등 극한 환경에서 사용되는 첨단 기술의 성능을 크게 끌어올릴 수 있을 것으로 기대된다.인터레스팅엔지니어링, 사우스차이나모닝포스트 등 외신은 중국 시안자오퉁대학 연구진이 개발한 새로운 탄탈럼(Tantalum) 기반 합금 연구 결과가 국제학술지 네이처(Nature)에 발표됐다고 최근 보도했다.연구진이 개발한 합금"
+    },
+    {
+      "id": "f0fd80dfe372",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 민선9기 백서 공개…77개 공약·45개 정책 제안 담아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213234",
+      "published": "2026-07-28T04:34:24+00:00",
+      "summary": "AI 생성 영상여수시가 28일 민선9기 시정 방향과 주요 공약을 정리한 ‘민선9기 위기극복 시민주권 기획위원회 백서’를 누리집에 공개했다.시민은 백서를 통해 77개 공약과 45개 정책 제안, 기획위원회 운영 과정 등을 확인할 수 있다.백서에는 민선9기 시정 비전인 ‘시민 속으로, 세계 속으로, 다시 뛰는 여수’를 중심으로 향후 시정 운영 방향과 주요 정책의 기초 내용이 담겼다. 기획위원회의 활동 과정과 공약, 정책 제안을 체계적으로 정리해 앞으로의 시정 운영에 활용할 수 있도록 했다.여수는 시민 "
+    },
+    {
+      "id": "f2371ee77f26",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 보안 특화 'MAI-사이버-1-플래시' 공개...\"앤트로픽·오픈AI 능가\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213245",
+      "published": "2026-07-28T04:30:13+00:00",
+      "summary": "마이크로소프트(MS)가 사이버 보안에 특화된 자체 AI 모델 'MAI-사이버-1-플래시(MAI-Cyber-1-Flash)'와 다중 에이전트 기반 보안 플랫폼 '프로젝트 퍼셉션(Project Perception)'을 공개하며 AI 기반 사이버 보안 경쟁에 뛰어들었다. 새로운 시스템이 보안 벤치마크에서 앤트로픽과 구글, 오픈AI의 최신 모델을 뛰어넘는 성능을 기록하면서도 운영 비용은 절반 수준으로 줄였다고 강조했다.MS는 28일(현지시간) MAI-사이버-1-플래시를 자사의 다중 에이전트 취약점 탐지·"
+    },
+    {
+      "id": "3127688cdc3d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포, 공공임대 오피스텔 5세대 모집…보증금 200만원·월 10만원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213244",
+      "published": "2026-07-28T04:20:47+00:00",
+      "summary": "AI 생성 영상목포시가 도시재생사업으로 조성한 공공임대주택 ‘광장1렌트하우스 오피스텔’ 잔여 5세대 입주자를 8월 모집한다고 28일 밝혔다.보증금은 200만원, 월 임대료는 10만원이며 계약기간은 2년이다. 재계약을 거치면 최대 10년까지 거주할 수 있어 청년과 주거 취약계층의 장기적인 주거 안정을 지원한다.광장1렌트하우스 오피스텔은 목포시가 직접 운영하는 도시재생 공공임대주택이다. 청년과 도시재생사업 철거민, 기초생활수급자, 장애인, 고령자 등 주거 취약계층을 대상으로 저렴한 임대료와 안정적인 "
+    },
+    {
+      "id": "e0a851c9e32d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 국내 유일 ‘MS AI 안전성 연구 프로그램’ 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213243",
+      "published": "2026-07-28T04:18:47+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)은 손수엘 전산학부 교수가 ‘마이크로소프트 AI 레드팀(Microsoft AI Red Team)’이 운영하는 글로벌 AI 안전성 연구 프로그램 ‘엑스트라(EXTRA, External Red Team Alliance)'의 연구지원 대상자로 선정됐다고 28일 밝혔다.엑스트라는 MS AI 레드팀이 올해 새롭게 출범한 글로벌 연구지원 프로그램이다. AI 시스템의 안전성과 보안 취약점을 다양한 관점에서 검증하고, 독립적인 AI 안전성 연구 생태계를 확대하기 위함이다."
+    },
+    {
+      "id": "6454ae7b776a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"복잡한 물리 논문 이미지도 뚝딱\"...튜링, 이공계 특화 에이전트 업데이트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213254",
+      "published": "2026-07-28T04:10:48+00:00",
+      "summary": "튜링(대표 신지은·김지윤)은 이공계 특화 AI 에이전트 'GPAI'에 수학·물리·회로·화학 전문 이미지 생성 기능을 업데이트했다고 28일 밝혔다.이번 업데이트로 3종의 전문 비주얼 에이전트가 새롭게 탑재됐다. 각 에이전트는 ▲기하 도형과 좌표계, 그래프 등 수학·물리 다이어그램 ▲저항, 증폭기 등 전기·전자 회로도 ▲분자 구조식을 포함한 화학 이미지 등의 생성을 담당한다.GPAI는 기존 이미지 생성 AI와 달리 이공계 논문 작성 표준인 'LaTeX'의 실제 패키지와 검증된 과학 라이브러리를 활용해"
+    },
+    {
+      "id": "3397e1179f5e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오, 온디바이스용 '카나나-2' 경량 모델 4종 오픈소스 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213247",
+      "published": "2026-07-28T04:08:46+00:00",
+      "summary": "카카오(대표 정신아)는 자체 AI 모델 '카나나'의 경량 언어모델(SLM)을 허깅페이스에 오픈소스로 공개했다고 28일 밝혔다.공개한 모델은 ▲카나나-2-1.3B-base ▲카나나-2-1.3B-instruct ▲카나나-2-3B-base ▲카나나-2-3B-instruct 등 4종이다.이번 모델은 상업적 활용까지 허용하는 '카나나 오픈 라이선스'로 스마트폰이나 개인 PC 등의 환경에서도 별도 제약 없이 직접 구동할 수 있다. 현재 카카오의 경량 모델은 '카나나 인 카카오톡' '카카오톡 대화요약 및 통화"
+    },
+    {
+      "id": "0d201569de36",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷, '키미 K3' 모델 가중치 공개...인프라 3종도 오픈소스로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213242",
+      "published": "2026-07-28T04:04:25+00:00",
+      "summary": "문샷 AI가 예고한 대로 '키미 K3'의 모델 가중치를 공식 공개했다. 동시에 대규모 AI 모델 학습과 추론을 지원하는 핵심 인프라 프로젝트 3종도 함께 오픈소스로 배포해 개발자 생태계 확대에 나섰다.문샷 AI는 중국시간 28일 자정(미국 동부시간 27일 정오)부터 허깅페이스를 통해 키미 K3의 모델 가중치를 공개했다.이로써 전 세계 개발자들은 모델을 자유롭게 내려받아 자체 환경에서 실행하거나 수정·배포할 수 있게 됐다. 공개 직후 다운로드는 빠르게 증가해 28일 오전 9시 기준 2850건을 기록"
+    },
+    {
+      "id": "14d7d92b92fc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "슈퍼브에이아이, 코스닥 기술특례상장 기술성 평가 통과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213246",
+      "published": "2026-07-28T03:53:51+00:00",
+      "summary": "비전 AI 전문 슈퍼브에이아이(대표 김현수)는 코스닥 기술특례상장을 위한 기술성 평가에서 기술력과 사업성을 인정 받았다고 28일 밝혔다.기술성 평가는 기술특례상장을 추진하는 기업이 반드시 거쳐야 하는 첫 단계로, 기술 혁신성과 사업성을 동시 평가한다. 슈퍼브에이아이는 이번 기술성평가 통과를 기점으로 상장예비심사 신청 준비를 본격화하며, 주관사 미래에셋증권을 통해 상장 후속 절차를 진행할 예정이다.슈퍼브에이아이 기술은 AI 개발 전 과정을 자동화하는 노코드 AI 구축 플랫폼 '슈퍼브 플랫폼'과 산업"
+    },
+    {
+      "id": "7bcc2781385a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KT, 아모레퍼시픽 70년 연구데이터 AI 플랫폼으로 통합...\"진정한 AX 사례\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213250",
+      "published": "2026-07-28T03:52:51+00:00",
+      "summary": "KT(대표 박윤영)는 아모레퍼시픽(대표 서경배, 김승환)의 기술연구소(R&I센터) 전체 데이터를 통합 및 재설계하는 ‘데이터 하이웨이(Data Highway)’ 프로젝트를 완료하고, AI 연구개발 혁신을 위한 데이터 플랫폼을 구축했다고 28일 밝혔다.KT는 지난해 12월 ‘데이터 하이웨이’ 사업에 선정된 이후 아모레퍼시픽과 전략적 파트너십을 맺고 연구개발 혁신을 위한 AI 구축 프로젝트를 공동 추진해왔다.핵심은 아모레퍼시픽 기술연구소가 70여년간 축적한 수백만건의 연구개발 자산을 AI가 이해하고 "
+    },
+    {
+      "id": "2460a03d0732",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "마키나락스, 한화시스템과 제조 AX 파트너십 체결...영남권 TF 구성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213251",
+      "published": "2026-07-28T03:51:11+00:00",
+      "summary": "마키나락스(대표 윤성호)는 정보통신기술(ICT)·방산 전문 '한화시스템'과 국내 제조 AX 사업 확장을 위한 전략적 업무협약(MOU)을 체결했다고 28일 밝혔다.협약 기간은 체결일로부터 3년이며, 마키나락스는 한화시스템의 AI 에이전트 개발 및 플랫폼 도입 사업에서 핵심 파트너로 함께한다.마키나락스는 한화시스템과의 밀착 협업을 위해 제조업의 핵심 거점인 영남권에 전담 조직(TF)을 구성할 예정이다. 한화시스템은 제조 현장의 도메인 지식과 AX 원천 기술을 제공해 제조산업의 AX 가속화에 나선다는 "
+    },
+    {
+      "id": "020ad2d9ab1a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "게임업계 2분기 실적 전망…크래프톤·엔씨·펄어비스 '웃어'",
+      "link": "https://zdnet.co.kr/view/?no=20260728111253",
+      "published": "2026-07-28T03:40:01+00:00",
+      "summary": "[지디넷코리아]국내 주요 게임사의 올해 2분기 실적이 신작 흥행 여부와 체질개선에 따라 뚜렷하게 갈릴 전망이다.글로벌 시장에서 흥행작을 배출한 크래프톤과 펄어비스는 큰 폭 성장이 예상되는 가운데, 상반기 신작이 없었던 카카오게임즈와 컴투스 등 일부 게임사 실적은 다소 주춤할 것으로 보인다. 다만 신작이 부재했던 게임사도 이르면 남은 하반기부터 신작을 순차 출시해 실적 반등을 시도한다.28일 에프앤가이드 컨센서스(전망치)에 따르면, 크래프톤의 2분기 매출은 1조2007억원, 영업이익은 3750억원이"
+    },
+    {
+      "id": "68e3a3b403e7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "은행 계열 증권사, 상반기 역대급 실적…하반기 거래대금 둔화 변수",
+      "link": "https://zdnet.co.kr/view/?no=20260728110526",
+      "published": "2026-07-28T03:38:52+00:00",
+      "summary": "[지디넷코리아]은행을 자회사로 보유한 금융그룹 증권사들이 증시 호황에 힘입어 사상 최대 반기 실적을 기록했다. 다만 최근 주식시장 조정이 이어지는 가운데, 하반기에도 거래대금 증가세를 바탕으로 실적 성장 흐름을 이어갈 수 있을지 주목된다.28일 증권업계에 따르면 NH투자증권과 KB증권은 올 상반기 영업이익이 처음으로 1조원을 넘어서며 사상 최대 반기 실적을 달성했다. 거래대금 증가에 따른 브로커리지 수수료 확대가 호실적을 이끌었다.NH투자증권의 올 상반기 영업이익은 전년 동기 대비 115.7% 늘"
+    },
+    {
+      "id": "849c6ad20577",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI TCO 함정①] 토큰 비용이 전부 아냐…기업 예산 갉아먹는 '데이터 통합'",
+      "link": "https://zdnet.co.kr/view/?no=20260728103506",
+      "published": "2026-07-28T03:35:42+00:00",
+      "summary": "[지디넷코리아]기업의 인공지능(AI) 도입 비용이 토큰 사용료를 넘어 소프트웨어 구독료와 데이터 통합, 인프라 운영비 전반으로 번지고 있다. AI 기능이 기존 서비스형 소프트웨어(SaaS)에 추가되면서 사용량에 따라 비용이 달라지고 예산 예측도 어려워지는 분위기다. 데이터 정비와 검색증강생성(RAG) 구축, 사내 시스템 연동 비용도 AI 도입 부담을 키우는 요인으로 꼽힌다. AI 서비스 이용이 늘면서 서버와 스토리지, 네트워크 등 인프라 운영비까지 동반 상승하고 있다. 이에 지디넷코리아는 기업들이"
+    },
+    {
+      "id": "63b877ae831d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 김민준 오케스트로 의장 \"AI 시대 승부처는 인프라 SW\"...'오케스트로 4.0' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260728113618",
+      "published": "2026-07-28T03:32:39+00:00",
+      "summary": "[지디넷코리아]\"AI 시대 승자는 가장 큰 모델을 가진 기업이 아닙니다. 데이터를 이해하고 인프라를 통제해 비즈니스 성과를 가장 빠르게 만들어내는 기업입니다.\"김민준 오케스트로 그룹 의장은 28일 서울 강남구 코엑스에서 열린 '오퍼스(OPUS) 2026' 기자간담회에서 AI 산업의 경쟁 구도가 변화하고 있다고 진단했다.그는 생성형 AI 경쟁이 거대언어모델(LLM)과 GPU 확보를 넘어 실제 산업 현장에서 AI를 안정적으로 운영하고 통제하는 'AI 인프라 SW' 경쟁으로 옮겨가고 있다며, 이를 위한"
+    },
+    {
+      "id": "ee88eb89609d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "슈퍼브에이아이, 코스닥 기술성 평가 통과…상장예심 나선다",
+      "link": "https://zdnet.co.kr/view/?no=20260728113317",
+      "published": "2026-07-28T02:33:17+00:00",
+      "summary": "[지디넷코리아]슈퍼브에이아이가 코스닥 기술특례상장을 위한 기술성 평가를 통과했다.슈퍼브에이아이는 이번 기술성 평가 통과를 기점으로 상장예비심사 신청 준비를 본격화한다고 28일 밝혔다. 회사는 주관사 미래에셋증권을 통해 상장 후속 절차를 진행할 예정이다.슈퍼브에이아이의 핵심 기술은 노코드 인공지능(AI) 구축 플랫폼 '슈퍼브 플랫폼'과 자체 개발 비전 파운데이션 모델 '제로(ZERO)'로 구성된다. 슈퍼브 플랫폼은 코딩이나 머신러닝 지식 없이도 데이터 구축부터 모델 학습·배포·운영까지 지원한다.제로"
+    },
     {
       "id": "f516ec50b3ad",
       "source": "AI타임스",
@@ -155,6 +386,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260728012901",
       "published": "2026-07-27T23:00:02+00:00",
       "summary": "[지디넷코리아][런던(영국)=이기종 기자] 삼성전자가 \"올해 폴더블폰 라인업에 추가한 갤럭시Z폴드8에 가장 큰 영감을 준 것은 여권\"이라고 밝혔다. 지난 22일(현지시간) 영국 런던에서 열린 폴더블폰 공개 행사를 앞두고 이 제품은 '여권 형태 폴더블폰'이라고 불렸다. 갤럭시Z폴드8은 이제껏 삼성전자가 출시한 북 타입 폴더블폰 Z폴드 시리즈보다 위아래 길이가 짧고 좌우 폭이 넓다. 애플도 올해 하반기 출시할 첫 번째 폴더블 제품을 이와 비슷한 형태로 설계했기 때문에 삼성전자와 애플은 디자인과 기술 "
+    },
+    {
+      "id": "bf3a91e597ec",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "published": "2026-07-27T22:37:52+00:00",
+      "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 211 # Comments: 52"
     },
     {
       "id": "ba794a4f4be6",
