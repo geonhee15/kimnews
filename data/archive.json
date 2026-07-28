@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-28T19:52:11.227277+00:00",
-  "count": 7284,
+  "updated_at": "2026-07-28T21:03:49.835307+00:00",
+  "count": 7290,
   "items": [
+    {
+      "id": "39f428a11bb9",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "link": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "published": "2026-07-28T20:02:11+00:00",
+      "summary": ""
+    },
     {
       "id": "882ad9d41668",
       "source": "The Verge",
@@ -69,6 +80,17 @@
       "summary": "Apple says it won't limit the capabilities of devices leased through its new Upgrade program if you miss a payment. In an emailed statement to The Verge, Apple spokesperson Brian Bumbery says, \"There will be no restricted mode and/or there will be no limitations put on device fun"
     },
     {
+      "id": "597c8764b8d6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+      "published": "2026-07-28T18:43:36+00:00",
+      "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027."
+    },
+    {
       "id": "b5e6508c000b",
       "source": "TechCrunch",
       "kind": "article",
@@ -111,6 +133,17 @@
       "link": "https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale",
       "published": "2026-07-28T17:48:03+00:00",
       "summary": "While the summer months are great for putting in the miles on your favorite bike, it can be frustrating to have to hang it up when the weather turns. This smart bike trainer turns your road bike into an indoor exercise bike, with Wi-Fi and Bluetooth to connect to your PC, iOS, or"
+    },
+    {
+      "id": "04ceb3a5876d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Substack writers, you need a website",
+      "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "published": "2026-07-28T16:58:31+00:00",
+      "summary": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/ Comments URL: https://news.ycombinator.com/item?id=49086788 Points: 249 # Comments: 139"
     },
     {
       "id": "a3b6422c764a",
@@ -509,6 +542,17 @@
       "summary": "앤트로픽이 미국 주요 AI 기업들이 참여한 개방형 AI(오픈 웨이트) 지지 선언에 유일하게 이름을 올리지 않으면서 업계의 비판을 받고 있다. 그러나 다리오 아모데이 CEO는 곧바로 입장문을 발표하고 \"개방형 모델을 금지하자고 주장한 적이 없다\"라며, 오히려 국가 안보와 대규모 모델 증류(distillation) 문제가 문제라고 반박했다.엔비디아와 메타, 마이크로소프트(MS) 등 20여개 기업은 지난 24일(현지시간) '오픈 웨이트와 미국의 AI 리더십(Open Weights and American"
     },
     {
+      "id": "4543887171bb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'오픈소스 지지' 홀로 불참한 앤트로픽…“개방형 반대한 적 없다” 반박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213257",
+      "published": "2026-07-28T09:16:55+00:00",
+      "summary": "앤트로픽이 미국 주요 AI 기업들이 참여한 개방형 AI(오픈 웨이트) 지지 선언에 유일하게 이름을 올리지 않으면서 업계의 비판을 받고 있다. 그러나 다리오 아모데이 CEO는 곧바로 입장문을 발표하고 \"개방형 모델을 금지하자고 주장한 적이 없다\"라며, 오히려 국가 안보와 대규모 모델 증류(distillation) 문제가 문제라고 반박했다.엔비디아와 메타, 마이크로소프트(MS) 등 20여개 기업은 지난 24일(현지시간) '오픈 웨이트와 미국의 AI 리더십(Open Weights and American"
+    },
+    {
       "id": "dccc53988e98",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -694,6 +738,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213259",
       "published": "2026-07-28T08:00:00+00:00",
       "summary": "■ 신세계아이앤씨(대표 양윤지)는 자체 AI 계산대 솔루션 '스파로스 스캔프리'를 선보였다고 밝혔다. 기존 솔루션이 1초 만에 상품을 인식했다면, 이번 솔루션은 인식 속도를 0.4초 이내로 단축했으며 인식 가능한 제품 단위도 5000여종(SKU)까지 확대됐다. 현재 SK하이닉스 이천 캠퍼스 내 스마트 매장에 도입됐으며, 여러 리테일 매장을 대상으로 도입 논의를 진행 중이다.■ 메가존클라우드(대표 염동훈)는 삼성SDS의 삼성 클라우드 플랫폼(SCP) 파트너 프로그램에서 최상위 등급인 '플래티넘 파트"
+    },
+    {
+      "id": "2b83b3748bb9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 로바이, AI 로봇 제어 기술로 시드 투자 유치 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213277",
+      "published": "2026-07-28T08:00:00+00:00",
+      "summary": "■ 로바이(대표 정원영)는 한국투자액셀러레이터로부터 시드 투자를 유치했다고 밝혔다. 금액은 비공개다. 로바이는 'AI 자가 탐색' 기술을 중심으로 범용 로봇 제어 플랫폼 '로봇 아카데미'를 개발하고 있다. 최근 로봇 파운데이션 모델(RFM)은 빠르게 발전하고 있지만, 실행 단계에서는 제어 시스템을 개별 설계하고 반복 튜닝해야 한다. 로바이는 이 구간을 AI 범용 제어 소프트웨어로 대체한다는 전략이다. ■ 사이냅소프트(대표 전경헌)는 AI 광학문자인식(OCR) 솔루션 ‘사이냅 OCR IX’가 주요 "
     },
     {
       "id": "6a912d0f3c5c",
@@ -2850,6 +2905,17 @@
       "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
       "published": "2026-07-26T15:00:00+00:00",
       "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba tha"
+    },
+    {
+      "id": "8ada8c6f1b1a",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published": "2026-07-26T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "f69b8d30aca3",
