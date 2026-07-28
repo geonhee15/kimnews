@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-28T14:58:06.238522+00:00",
-  "count": 7259,
+  "updated_at": "2026-07-28T16:40:32.958302+00:00",
+  "count": 7270,
   "items": [
+    {
+      "id": "a7d799f3f771",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "published": "2026-07-28T16:00:00+00:00",
+      "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "c063cb0a683e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "4GB graphics cards are back",
+      "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+      "published": "2026-07-28T15:52:04+00:00",
+      "summary": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASRock also launched an "
+    },
+    {
+      "id": "9ea1eb822df2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "published": "2026-07-28T15:10:10+00:00",
+      "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders."
+    },
+    {
+      "id": "92fadc38d80b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk’s X Money app is rolling out in the US",
+      "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+      "published": "2026-07-28T14:57:12+00:00",
+      "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits."
+    },
     {
       "id": "e0a7ddc10d82",
       "source": "TechCrunch",
@@ -14,12 +58,45 @@
       "summary": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions."
     },
     {
+      "id": "c065d0612cce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s reported ‘HomePad’ may launch as early as October",
+      "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
+      "published": "2026-07-28T14:39:42+00:00",
+      "summary": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some li"
+    },
+    {
+      "id": "665f08353dff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DXC와 일레븐랩스, 엔터프라이즈 AI 및 음성 혁신 확장을 위한 전략적 파트너십 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260728231002",
+      "published": "2026-07-28T14:10:02+00:00",
+      "summary": "[지디넷코리아]애슈번, 버지니아, 2026년 7월 28일 /PRNewswire/ -- 선도적인 엔터프라이즈 기술 및 혁신 파트너인 DXC 테크놀로지(DXC Technology, NYSE: DXC)가 7월 28일, 오디오 모델과 음성 에이전트를 전문으로 하는 AI 기업 일레븐랩스(ElevenLabs)와의 전략적 파트너십을 발표했다. 이번 협력을 통해 DXC는 내부 운영과 고객 솔루션 전반에 첨단 음성 AI 역량을 접목함으로써 AI 우선 전환 전략을 가속화할 계획이다. DXC는 또한 일레븐랩스가 최근"
+    },
+    {
       "id": "927c5c67a555",
       "source": "TechCrunch",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "published": "2026-07-28T14:00:00+00:00",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+    },
+    {
+      "id": "a8a5ebccafc1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "published": "2026-07-28T14:00:00+00:00",
       "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
@@ -45,6 +122,28 @@
       "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "published": "2026-07-28T13:19:17+00:00",
       "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+    },
+    {
+      "id": "13bee3494e43",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "published": "2026-07-28T13:19:17+00:00",
+      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+    },
+    {
+      "id": "df2b0ad9f5ed",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "published": "2026-07-28T13:12:01+00:00",
+      "summary": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/ Comments URL: https://news.ycombinator.com/item?id=49083314 Points: 309 # Comments: 142"
     },
     {
       "id": "e4f873c26c6d",
@@ -520,6 +619,17 @@
       "summary": "[지디넷코리아]공공 CCTV에 국산 NPU 반도체를 탑재해 AI 전환을 이끄는 사업이 추진된다.과학기술정보통신부는 한국지능정보사회진흥원(NIA)과 올해 116억 8000만원을 투입해 총 1만 8100여대의 CCTV에 국산 NPU를 도입한다고 28일 밝혔다.공모를 통해 수요기관으로 경상남도, 울산광역시, 한국도로공사가 선정됐고 각 기관에서는 리벨리온, 딥엑스, 모빌린트의 NPU를 CCTV 관제센터에 도입해 사고 예방과 대응 등을 지원할 계획이다.경상남도는 산불과 홍수 등 자연재난 신속 탐지 및 대응"
     },
     {
+      "id": "5e3e9d49203c",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "published": "2026-07-28T07:27:42+00:00",
+      "summary": ""
+    },
+    {
       "id": "8f80a0dfe136",
       "source": "AI타임스",
       "kind": "article",
@@ -606,6 +716,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213269",
       "published": "2026-07-28T06:52:06+00:00",
       "summary": "샘 알트먼 오픈AI CEO가 인류가 이미 AI의 '특이점(Singularity)'에 진입했다고 선언했다. 동시에 AI 시대의 가장 큰 위험은 AI 자체가 아니라 소수 기업에 권력이 집중되는 것이라며 기술 독점에 대한 우려를 나타냈다.알트만 CEO는 25일(현지시간) 공개된 팟캐스트 '릴렌틀리스(Relentless)'에 출연해 \"우리는 지금 특이점에 도달했다(We are at the singularity right now)\"라고 말했다.이어 \"10년 전만 해도 점심 식사 자리에서 공상과학처럼 이야기"
+    },
+    {
+      "id": "2d22cd8b7794",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "published": "2026-07-28T06:01:45+00:00",
+      "summary": ""
     },
     {
       "id": "8096e71ac48d",
