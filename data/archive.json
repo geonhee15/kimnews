@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-07-28T08:05:58.103659+00:00",
-  "count": 7219,
+  "updated_at": "2026-07-28T10:45:09.621795+00:00",
+  "count": 7238,
   "items": [
+    {
+      "id": "f5ab416d8b23",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "published": "2026-07-28T10:30:00+00:00",
+      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it."
+    },
+    {
+      "id": "a981f376517d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "published": "2026-07-28T10:00:00+00:00",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader."
+    },
+    {
+      "id": "99c8a6dbb39b",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "published": "2026-07-28T09:18:57+00:00",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK H"
+    },
+    {
+      "id": "3cf7f0b8c5f2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'오픈소스 지지' 홀로 불참한 앤트로픽…“개방형 모델 금지 주장한 적 없다” 반박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213257",
+      "published": "2026-07-28T09:16:55+00:00",
+      "summary": "앤트로픽이 미국 주요 AI 기업들이 참여한 개방형 AI(오픈 웨이트) 지지 선언에 유일하게 이름을 올리지 않으면서 업계의 비판을 받고 있다. 그러나 다리오 아모데이 CEO는 곧바로 입장문을 발표하고 \"개방형 모델을 금지하자고 주장한 적이 없다\"라며, 오히려 국가 안보와 대규모 모델 증류(distillation) 문제가 문제라고 반박했다.엔비디아와 메타, 마이크로소프트(MS) 등 20여개 기업은 지난 24일(현지시간) '오픈 웨이트와 미국의 AI 리더십(Open Weights and American"
+    },
+    {
+      "id": "463eee69b4f2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "published": "2026-07-28T09:07:14+00:00",
+      "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image edit"
+    },
+    {
+      "id": "0773cf3c21b5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'클로드' 대화 내용 구글 검색서 노출...\"보안 결함 아닌 공개 설정 탓\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213263",
+      "published": "2026-07-28T08:56:28+00:00",
+      "summary": "앤트로픽의 '클로드'에서 이용자가 공유한 일부 대화 내용과 '아티팩트(Artifacts)' 작업물이 구글 검색 결과에 노출된 사실이 알려지면서 개인정보 및 기업 기밀 유출 우려가 커지고 있다. 이용자가 생성한 공유 링크가 검색 엔진에 색인되면서 민감한 정보가 의도치 않게 외부에 공개될 수 있다는 지적이다.논란은 26일(현지시간) 레딧의 'r/ClaudeAI' 커뮤니티에서 한 이용자가 구글 검색에 'site:claude.ai/share'를 입력하면 공개된 클로드 대화가 다수 검색된다는 사실을 공개하"
+    },
+    {
+      "id": "3c3113092525",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "설치 수월해진 엔비디아 '베라 루빈', 클라우드 업계 초기 호평",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213262",
+      "published": "2026-07-28T08:41:13+00:00",
+      "summary": "엔비디아의 차세대 AI 서버 플랫폼 '베라 루빈(Vera Rubin)'이 주요 클라우드 사업자들로부터 초기 호평을 받고 있다. 지난해 '그레이스 블랙웰(Grace Blackwell)' 서버 도입 당시 겪었던 설치와 운영상의 어려움이 상당 부분 개선됐다는 평가가 나오면서 대규모 AI 인프라 구축이 수월해질 것이라는 기대가 커지고 있다.27일(현지시간) 디 인포메이션에 따르면, 엔비디아 AI 서버를 구매하는 여러 클라우드 서비스 제공업체 임원들은 초기 테스트 결과 베라 루빈 랙이 그레이스 블랙웰 랙보"
+    },
+    {
+      "id": "c1b0546ee1e0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오, '카나나' 경량 언어모델 4종 오픈소스 공개…스마트폰서 구동 가능",
+      "link": "https://zdnet.co.kr/view/?no=20260728172730",
+      "published": "2026-07-28T08:38:31+00:00",
+      "summary": "[지디넷코리아]카카오는 자체 개발한 AI 모델 '카나나'의 경량 언어모델(SLM) 4종을 오픈소스로 공개한다고 28일 밝혔다. 이번에 공개한 것은 카나나-2 경량 언어모델 시리즈로, ▲카나나-2-1.3B-base ▲카나나-2-1.3B-instruct ▲카나나-2-3B-base ▲카나나-2-3B-instruct다.카카오는 스마트폰이나 개인 PC 등의 환경에서 직접 구동할 수 있는 경량 언어모델의 중요성이 부각되는 흐름 속에서 크기가 작더라도 실제 서비스에 적용 가능한 수준의 성능을 갖춘 경량 언어모"
+    },
+    {
+      "id": "64cf6232835c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "비효율 걷어낸 하이브…\"남은 과제는 성장\"",
+      "link": "https://zdnet.co.kr/view/?no=20260728155519",
+      "published": "2026-07-28T08:38:09+00:00",
+      "summary": "[지디넷코리아]하이브가 사업 포트폴리오의 비효율을 대부분 해소하고 본격적인 성장 단계에 진입했다. 신인 아티스트에 대한 과감한 콘텐츠 투자와 자체 인프라 고도화를 통해 수익성을 높이고, 사상 최대 실적 이후에도 성장세를 이어가겠다는 전략이다.이재상 하이브 대표는 28일 열린 올해 2분기 실적발표 컨퍼런스콜에서 \"지난 여러 차례 실적 발표를 통해 사업 포트폴리오의 비효율을 제거해 왔다고 말씀드렸다\"며 \"이제 우리에게 남은 과제는 성장\"이라고 자신했다. 그는 \"성장을 위해 필요한 투자와 비용 집행도 "
+    },
+    {
+      "id": "9c646b40b2b9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 챗봇 답변 속 브랜드 경쟁력은…AI빅스랩, 'AI빅스' 지수 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260728171327",
+      "published": "2026-07-28T08:31:28+00:00",
+      "summary": "[지디넷코리아]\"그동안 기업은 포털 검색 결과 상단에 노출되는 것이 브랜드 경쟁력을 좌우했습니다. 인공지능(AI) 시대에는 챗봇 답변에 브랜드가 얼마나 자주 등장하고 인용되는지가 중요해졌습니다. 기업이 AI 답변 속 자사 브랜드 위치를 객관적으로 파악할 수 있도록 지원하겠습니다.\"김준현 AI빅스랩 대표는 28일 서울 충무로 한국의집에서 열린 기자간담회에서 AI 브랜드 경쟁력 지수 'AI빅스(AIBIX)' 측정 방식과 향후 사업 계획을 발표했다. AI빅스는 챗GPT와 클로드, 제미나이, 퍼플렉시티 "
+    },
+    {
+      "id": "9f40b907a5e4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"최대 224만원 아낀다\"…통신사 갤럭시Z8 예판 비교해보세요",
+      "link": "https://zdnet.co.kr/view/?no=20260728111700",
+      "published": "2026-07-28T08:28:44+00:00",
+      "summary": "[지디넷코리아]이동통신 3사가 28일부터 삼성전자 갤럭시Z8 시리즈 예약판매를 시작했다. 지원금과 제휴카드 할인을 비롯해 예판 기간에만 제공되는 저장용량 업그레이드로 갤럭시Z폴드8 울트라 512GB 기준 224만 8000원까지 실제 구매 부담을 줄일 수 있다.이날 0시부터 시작된 갤럭시Z8 예판에서 갤럭시Z폴드8 울트라 512GB 모델을 월 10만원대 요금제로 이용할 때 공시지원금과 추가지원금, 제휴카드 할인과 캐시백을 비롯해 256GB 가격에 512GB를 구매하는 저장용량 업그레이드를 모두 반영"
+    },
+    {
+      "id": "5279a584fc54",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "bhc 첫 플래그십 강남역에 뜬다…사전 행사에 1000명 몰려",
+      "link": "https://zdnet.co.kr/view/?no=20260728170142",
+      "published": "2026-07-28T08:22:49+00:00",
+      "summary": "[지디넷코리아]bhc가 강남역 인근에 첫 플래그십 매장을 연다. 다이닝브랜즈그룹의 치킨 브랜드 bhc는 플래그십 스토어 강남역점을 다음 달 4일 정식 운영한다고 28일 밝혔다.bhc 플래그십 스토어 강남역점은 bhc가 처음 선보이는 플래그십 매장이다. 회사는 지난 13일부터 bhc 애플리케이션과 공식 인스타그램을 통해 사전 행사 참가 신청을 받았다. 신청자는 1000명을 넘었다.매장은 기존 치킨 브랜드의 저녁 중심 이용 방식에서 벗어나 점심부터 저녁까지 다양한 시간대에 치킨을 즐길 수 있도록 구성"
+    },
+    {
+      "id": "b4fdc1997ba0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "BNK금융그룹, 상반기 당기순익 4118억원…전년비 14% 줄어",
+      "link": "https://zdnet.co.kr/view/?no=20260728171724",
+      "published": "2026-07-28T08:17:24+00:00",
+      "summary": "[지디넷코리아]BNK금융그룹의 올해 상반기 당기순이익이 부동산 펀드 관련 일회성 요인이 반영되면서 전년 동기 대비 줄었다.BNK금융그룹은 2026년 상반기 그룹 연결 당기순이익이 4118억원을 기록했다고 28일 밝혔다. 이는 전년 동기 대비 13.5% 감소한 수준이다.조정영업이익 증가와 충당금전입액 감소 등 경상적인 수익성이 개선됐으나, 지난해 상반기 반영된 ▲544억원 규모의 BNK강남코어오피스펀드 청산이익에 따른 기저효과와 ▲여의도코어오피스펀드 외부지분 매입에 따른 정산 손실 440억원이 영향"
+    },
+    {
+      "id": "e95df191320d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "사티아 나델라 MS CEO \"특정 AI 모델 의존하는 기업, 살아남기 어렵다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260728165704",
+      "published": "2026-07-28T08:16:29+00:00",
+      "summary": "[지디넷코리아]사티아 나델라 마이크로소프트(MS) 최고경영자(CEO)가 기업이 특정 인공지능(AI) 모델이나 AI 기업에 업무 전반을 의존하는 구조는 장기적으로 경쟁력을 잃을 수 있다고 경고했다. 데이터와 프롬프트, AI 활용 과정에서 생성되는 메타데이터까지 기업이 직접 통제하는 구조를 갖춰야 향후 자체 AI 경쟁력을 확보할 수 있다는 제언이다.나델라 CEO는 27일(현지시간) CNN 프로그램 '파리드 자카리아 GPS' 인터뷰에서 \"기업들이 AI 모델 제공업체와 얼마나 많은 정보를 공유하는지 신중"
+    },
+    {
+      "id": "d0e140b58c3d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 'AI 개요', 1년 만에 검색 비중 15%→43% 급증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213264",
+      "published": "2026-07-28T08:14:29+00:00",
+      "summary": "구글 검색에서 AI가 생성한 요약 답변인 'AI 개요(AI Overviews)'가 출시 1년 만에 핵심 기능으로 자리 잡았다. AI 개요 노출 비중은 지난해 15%에서 올해 43%로 급증했으며, 이용자들이 단순한 링크 검색보다 AI와 대화하며 정보를 탐색하는 방식으로 빠르게 이동하고 있는 것으로 나타났다.시밀러웹이 최근 발표한 AI 검색 보고서에 따르면, 구글 AI 개요는 2025년 검색의 약 15%에서만 제공됐지만 2026년에는 전체 검색의 43%까지 확대됐다.불과 1년 만에 AI가 검색 경험의"
+    },
+    {
+      "id": "918200666bee",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] \"코딩 멈추지 마세요\"…오픈AI·앤트로픽, AI 사용 한도 경쟁 나선 이유",
+      "link": "https://zdnet.co.kr/view/?no=20260728164107",
+      "published": "2026-07-28T08:14:13+00:00",
+      "summary": "[지디넷코리아]오픈AI와 앤트로픽이 인공지능(AI) 코딩 도구의 이용 한도를 잇달아 확대하며 개발자 시장 선점 경쟁에 나섰다. 모델 성능이 빠르게 상향 평준화되는 가운데 개발자가 작업을 중단하지 않고 얼마나 오래 도구를 사용할 수 있는지가 새로운 경쟁 요소로 떠오르고 있다.28일 업계에 따르면 오픈AI에서 AI 코딩 에이전트 '코덱스' 개발을 이끄는 티보 소티오는 전날 자신의 엑스(X)를 통해 코덱스와 '챗GPT 워크'의 모든 유료 이용자 사용 한도를 초기화했다고 밝혔다. 이번 조치는 정식 요금제"
+    },
+    {
+      "id": "63786b94c63f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213272",
+      "published": "2026-07-28T08:13:06+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)는 한국지능정보사회진흥원(NIA, 원장 김형철)과 ‘국산 NPU 기반 AI CCTV 전환’ 사업을 본격 추진한다고 28일 밝혔다. 과기부는 올해 총 116억8000만원 규모로 해당 사업을 추진한다. 총 1만8100 대의 CCTV에 NPU를 도입할 예정이다.공모를 통해 경상남도, 울산시, 한국도로공사 등이 수요기관에 선정됐으며, 각 기관에서는 리벨리온, 딥엑스, 모빌린트의 NPU를 CCTV 관제센터에 도입해 사고 예방과 대응 등을 지원할 계획이다. 경남은 산불 및 홍수"
+    },
+    {
+      "id": "62d9d6c16856",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "우아한청년들, 안전 지키는 라이더에 '이것'까지 준다",
+      "link": "https://zdnet.co.kr/view/?no=20260728165508",
+      "published": "2026-07-28T08:10:47+00:00",
+      "summary": "[지디넷코리아]우아한청년들이 도로 위에서 안전을 실천하거나 선행을 한 라이더를 찾는다. 횡단보도에서 오토바이 시동을 끄고 끌고 가는 이른바 ‘끌바’ 라이더에게는 오토바이를 선물한다.배달의민족 물류서비스를 운영하는 우아한청년들은 라이더 제보 이벤트 ‘OO히어로 찾기’를 진행한다고 28일 밝혔다.제보 대상은 횡단보도에서 오토바이를 끌고 이동하며 도로 안전을 실천하거나, 일상 속에서 다른 사람을 돕는 등 선행을 한 라이더다.제보는 다음 달 10일까지 2주간 배민커넥트 유튜브 채널 게시물 탭에 있는 구글"
+    },
     {
       "id": "0ff07d88d508",
       "source": "TechCrunch",
@@ -12,6 +210,17 @@
       "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
       "published": "2026-07-28T08:00:00+00:00",
       "summary": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025."
+    },
+    {
+      "id": "5fb86484de3f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 신세계아이앤씨, 'AI 계산대' 고도화 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213259",
+      "published": "2026-07-28T08:00:00+00:00",
+      "summary": "■ 신세계아이앤씨(대표 양윤지)는 자체 AI 계산대 솔루션 '스파로스 스캔프리'를 선보였다고 밝혔다. 기존 솔루션이 1초 만에 상품을 인식했다면, 이번 솔루션은 인식 속도를 0.4초 이내로 단축했으며 인식 가능한 제품 단위도 5000여종(SKU)까지 확대됐다. 현재 SK하이닉스 이천 캠퍼스 내 스마트 매장에 도입됐으며, 여러 리테일 매장을 대상으로 도입 논의를 진행 중이다.■ 메가존클라우드(대표 염동훈)는 삼성SDS의 삼성 클라우드 플랫폼(SCP) 파트너 프로그램에서 최상위 등급인 '플래티넘 파트"
     },
     {
       "id": "6a912d0f3c5c",
