@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-28T22:16:29.912709+00:00",
-  "count": 7294,
+  "updated_at": "2026-07-28T23:29:22.508903+00:00",
+  "count": 7303,
   "items": [
+    {
+      "id": "2ebbcadcded9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US is banning foreign robots",
+      "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+      "published": "2026-07-28T22:37:53+00:00",
+      "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, "
+    },
+    {
+      "id": "b03b4c39825e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+      "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+      "published": "2026-07-28T22:09:00+00:00",
+      "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\""
+    },
     {
       "id": "4ae1fa665896",
       "source": "AI타임스",
@@ -25,6 +47,28 @@
       "summary": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as "
     },
     {
+      "id": "52d2b1501b46",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "대학, 정보보호 투자 공시 5곳 불과...숙대·숭실대·단국대·성대·동국대",
+      "link": "https://zdnet.co.kr/view/?no=20260728174208",
+      "published": "2026-07-28T21:41:35+00:00",
+      "summary": "[지디넷코리아]정보보호 투자액을 공시한 국내 대학이 5곳(동국대, 단국대, 성균관대, 숙명여대, 숭실대)으로 조사됐다. 대학은 정보보호 공시 의무 대상이 아닌데, 이들 5곳은 자율적으로 공시를 했다. 자율 공시를 하면 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증 수수료 30% 할인 등의 혜택이 있다. 이들 5개 대학 중 숙명여대가 지난해 정보보호 부문에 가장 많은 금액을 투입했다. 숭실대도 2024년 대비 지난해 정보보호 투자액이 2배 이상 늘었다.28일 한국인터넷진흥원(KISA) 정보보"
+    },
+    {
+      "id": "0c9f6e7d5746",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "published": "2026-07-28T21:36:39+00:00",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch."
+    },
+    {
       "id": "e195bf1dd497",
       "source": "TechCrunch",
       "kind": "article",
@@ -34,6 +78,28 @@
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
       "published": "2026-07-28T21:29:34+00:00",
       "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+    },
+    {
+      "id": "278d39e7e7c4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI just open-sourced Codex Security",
+      "link": "https://github.com/openai/codex-security",
+      "published": "2026-07-28T20:52:55+00:00",
+      "summary": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 256 # Comments: 51"
+    },
+    {
+      "id": "5b7ce4059be4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "published": "2026-07-28T20:20:20+00:00",
+      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected."
     },
     {
       "id": "39f428a11bb9",
@@ -53,6 +119,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "published": "2026-07-28T19:46:43+00:00",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coor"
+    },
+    {
+      "id": "6752a183d6e2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "published": "2026-07-28T19:46:43+00:00",
       "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coor"
@@ -86,6 +163,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+      "published": "2026-07-28T19:07:31+00:00",
+      "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems."
+    },
+    {
+      "id": "b1c560fcb334",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "published": "2026-07-28T19:07:31+00:00",
       "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems."
@@ -210,6 +298,17 @@
       "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
       "published": "2026-07-28T15:52:04+00:00",
       "summary": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASRock also launched an "
+    },
+    {
+      "id": "6d8def97a275",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "link": "https://www.slow-journalism.com/",
+      "published": "2026-07-28T15:50:38+00:00",
+      "summary": "Article URL: https://www.slow-journalism.com/ Comments URL: https://news.ycombinator.com/item?id=49085731 Points: 216 # Comments: 120"
     },
     {
       "id": "a5e4919541b5",
