@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-07-29T11:41:18.633946+00:00",
-  "count": 7391,
+  "updated_at": "2026-07-29T13:22:55.862079+00:00",
+  "count": 7408,
   "items": [
+    {
+      "id": "5c7e3aaf2fab",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spotify adds a running mode to its app",
+      "link": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+      "published": "2026-07-29T13:00:00+00:00",
+      "summary": "Running Mode will be available to Premium users on iOS in select countries"
+    },
+    {
+      "id": "02aa475ca6fa",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DoorDash is going airborne with new drone delivery division",
+      "link": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
+      "published": "2026-07-29T13:00:00+00:00",
+      "summary": "DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration that clears the way for drone delivery in the near future. DoorDash said it has received a Part 135 a"
+    },
+    {
+      "id": "f5d274fc0f08",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Kimi K3 Just Broke The Economics Of AI",
+      "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+      "published": "2026-07-29T12:37:50+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c6332dbc3b26",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung’s Galaxy Z Fold 8 feels like the future",
+      "link": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+      "published": "2026-07-29T12:22:03+00:00",
+      "summary": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity, but as the new normal, the default design for foldables going forward. Rumor has it that Apple feel"
+    },
+    {
+      "id": "6e2f77e88199",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "published": "2026-07-29T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately,"
+    },
+    {
+      "id": "26aff1968598",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 15 Best Pool Accessories to Upgrade Your Summer (2026)",
+      "link": "https://www.wired.com/story/the-best-pool-accessories/",
+      "published": "2026-07-29T12:01:00+00:00",
+      "summary": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season."
+    },
+    {
+      "id": "cfe564f8e66e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+      "link": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "published": "2026-07-29T12:00:00+00:00",
+      "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit."
+    },
+    {
+      "id": "307b6f94a526",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "published": "2026-07-29T12:00:00+00:00",
+      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon "
+    },
+    {
+      "id": "1ea8060b185c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "published": "2026-07-29T11:54:29+00:00",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls"
+    },
+    {
+      "id": "09dee66505fb",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "published": "2026-07-29T11:00:39+00:00",
+      "summary": "Deciding what's real on the Internet won't be easy in the future."
+    },
     {
       "id": "79a6ace61a9c",
       "source": "TechCrunch",
@@ -69,6 +179,50 @@
       "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots."
     },
     {
+      "id": "284cb426ad51",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "원자력연-SK하이닉스 반도체 방사선 검증 '협약",
+      "link": "https://zdnet.co.kr/view/?no=20260729190450",
+      "published": "2026-07-29T10:04:50+00:00",
+      "summary": "[지디넷코리아]한국원자력연구원은 SK하이닉스와 경주 양성자과학연구단에서 반도체 방사선 검증과 관련한 상호협력 협약을 체결했다고 29일 밝혔다.협약식에는 임인철 원자력연 원장 직무대행과 송준호 SK하이닉스 부사장을 비롯한 양 기관 주요 관계자가 참석했다.이번 협약은 국내 원자력기관이 SK하이닉스와 체결했다. SK하이닉스는 지난 2018년부터 8년간 과제 수행을 위한 이용신청서를 내고 반도체 방사선 영향 등을 평가해왔다. 최근에는 반도체 소자를 누리호 5차와 함께 발사될 국산 소자 부품 검증위성 'E"
+    },
+    {
+      "id": "59d48e4b4162",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LGU+, 주당 배당금 270원 결정",
+      "link": "https://zdnet.co.kr/view/?no=20260729181726",
+      "published": "2026-07-29T09:52:48+00:00",
+      "summary": "[지디넷코리아]LG유플러스가 1주당 270원 중간 배당을 결정했다.LG유플러스는 29일 이사회를 열고 주당 현금 270원의 중간배당을 결정했다고 밝혔다. 지난해 중간배당금 대비 20원(약 8%) 증가한 규모다.배당 기준일은 8월13일이고 지급 예정일은 8월28일이다. 총 배당금 규모는 1145억9549만원이고, 시가배당률은 1.8%다.LG유플러스는 900억원 규모의 자기주식을 취득한다. 취득한 자사주는 향후 소각 등을 통해 주주가치 제고에 활용할 방침이다. LG유플러스는 2024년 중장기 재무 목"
+    },
+    {
+      "id": "33bd3ac133ce",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HD한국조선해양, 수소 자회사에 330억 베팅…하반기 양산 '분수령'",
+      "link": "https://zdnet.co.kr/view/?no=20260729181437",
+      "published": "2026-07-29T09:41:04+00:00",
+      "summary": "[지디넷코리아]HD한국조선해양이 수소연료전지 자회사 HD하이드로젠에 180억원을 추가 투입한다. 지난해 150억원 규모 유상증자에 참여한 데 이어 다시 자금 지원에 나선 것으로, 두 차례 유상증자를 통해 투입되는 금액만 330억원에 달한다.HD하이드로젠은 고체산화물연료전지(SOFC)와 고체산화물수전해전지(SOEC)의 양산·사업화를 추진하고 있지만 아직 본격적인 생산과 매출 확대 전 단계다. 연구개발과 생산 기반 구축 비용이 먼저 투입되는 만큼 상용화 속도가 향후 손익 개선과 추가 자금 지원 필요성"
+    },
+    {
+      "id": "4fd8ce35d0d2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부, 호남권 반도체 국가산단 후보지 ‘광주군공항 부지 250만평’ 우선 지정",
+      "link": "https://zdnet.co.kr/view/?no=20260729183321",
+      "published": "2026-07-29T09:34:22+00:00",
+      "summary": "[지디넷코리아]국토교통부는 29일 산업입지정책심의회 심의·의결을 거쳐 정부의 3대 메가프로젝트 추진계획의 하나인 호남권 반도체 첨단 국가산업단지 후보지로 광주군공항 부지 일원 약 250만평을 지정했다고 밝혔다.후보지 지정은 산업통상부가 삼성전자와 SK하이닉스의 수요를 토대로 ‘산업입지 및 개발에 관한 법률’에 따른 국가산단 지정을 요청한 데 따른 것이다.관계부처와 민간 전문가로 구성된 산업입지정책심의회는 국가산단 조성 필요성, 기업 투자수요 등을 종합적으로 고려 하여 해당 부지를 후보지로 확정했다"
+    },
+    {
       "id": "65e83c467cf0",
       "source": "Wired",
       "kind": "article",
@@ -111,6 +265,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213293",
       "published": "2026-07-29T09:24:59+00:00",
       "summary": "AI가 인간 연구자들의 보조 도구를 넘어 암호학의 난제를 스스로 해결하는 단계에 진입했다. 앤트로픽은 28일(현지시간) '클로드 미소스 프리뷰'를 활용해 수년간 전문가들의 검증을 거친 암호 알고리즘 자체의 수학적 결함을 자율적으로 찾아내는 데 성공했다고 발표했다. 이를 정리한 논문도 공개했다.AI가 암호화 라이브러리의 구현 오류나 소프트웨어 버그를 발견한 사례는 있었지만, 암호 알고리즘의 근본적인 수학적 구조를 분석해 새로운 공격 기법을 제시한 것은 이번이 처음으로 평가된다. 앤트로픽 연구진은 미"
+    },
+    {
+      "id": "434a61fba9e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "유용균 단장 \"2035년되면 과학자가 곧 하나의 연구소\"",
+      "link": "https://zdnet.co.kr/view/?no=20260729181504",
+      "published": "2026-07-29T09:22:25+00:00",
+      "summary": "[지디넷코리아]\"연구소는 더 이상 건물이 아니다. 모든 과학자가 곧 하나의 연구소다.\"유용균 국가과학기술연구회 국가과학AI연구센터 단장이 지난 28일 한국과학기자협회(회장 이은정)가 주최한 '2026 과학기자대회'에서 AI의 미래를 이 같이 전망했다.국가과학AI연구센터는 현재는 단 형태이지만, 오는 8월 1일부터는 정식 센터로 발족한다. 센터 운영도 유용균 단장이 그대로 이어갈 예정이다.이날 'AI발전과 인간 과학자의 역할 변화' 주제 발표에서 유 단장은 전국의 과학자들 책상 위에 하나의 연구소가"
+    },
+    {
+      "id": "5606765590be",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마일게이트 '로드나인', 지역 어르신 지원 기부금 및 물품 전달",
+      "link": "https://zdnet.co.kr/view/?no=20260729175903",
+      "published": "2026-07-29T09:20:01+00:00",
+      "summary": "[지디넷코리아]스마일게이트가 '로드나인' 서비스 2주년을 맞아 지역사회 어르신을 위한 여름나기 지원과 기부 캠페인에 나선다.스마일게이트는 MMORPG '로드나인' 개발사 엔엑스쓰리게임즈와 함께 성남시중원노인종합복지관에 기부금과 여름나기 지원 물품을 전달하고 관련 기부 캠페인을 진행한다고 29일 밝혔다.양사 임직원은 전날 복지관을 찾아 어르신들에게 여름용 침구, 잠옷 세트, 기부금을 전달했다. 일부 지역 어르신 가구에는 직접 방문해 지원 물품을 전하는 봉사 활동을 펼쳤다.사회공헌 인프라도 확장한다."
+    },
+    {
+      "id": "93e3d559accb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인신윤위, AI 기사심의 지원 시스템 시범 운영…2시간마다 문제 기사 자동 탐지",
+      "link": "https://zdnet.co.kr/view/?no=20260729181535",
+      "published": "2026-07-29T09:15:35+00:00",
+      "summary": "[지디넷코리아]인터넷신문윤리위원회(인신윤위)는 자율심의에 참여하는 850개 인터넷신문을 대상으로 'AI 활용 특정 키워드 기반 기사 모니터링 시스템' 개발을 완료하고 지난 20일부터 시범 운영에 들어갔다고 29일 밝혔다.이번 시스템은 참여 매체에서 생산되는 기사를 2시간마다 자동 수집한 뒤 기사 제목과 본문에서 자살, 범죄, 차별적 표현, 비속어, 불명확한 출처 표기 등 특정 키워드를 탐지해 기사심의 전문위원이 우선 검토할 후보 기사를 선별하는 방식이다.적용 대상은 기사심의규정 가운데 ▲비속어의 "
     },
     {
       "id": "dbd532e6f098",
