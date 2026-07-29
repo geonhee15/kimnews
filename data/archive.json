@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-29T09:30:11.922979+00:00",
-  "count": 7378,
+  "updated_at": "2026-07-29T11:41:18.633946+00:00",
+  "count": 7391,
   "items": [
+    {
+      "id": "79a6ace61a9c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "published": "2026-07-29T11:00:00+00:00",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
+    },
+    {
+      "id": "539542d3c79f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "published": "2026-07-29T11:00:00+00:00",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably sil"
+    },
+    {
+      "id": "2a6625f6b623",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mac Mini Availability: Long Waits and Higher Prices",
+      "link": "https://www.wired.com/story/mac-mini-availability/",
+      "published": "2026-07-29T11:00:00+00:00",
+      "summary": "Thanks to the surge in local AI processing and the ongoing memory shortage, it’s incredibly difficult to buy a Mac Mini."
+    },
+    {
+      "id": "d63f9e0b606b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox outage shouldn’t have affected games on disc, Microsoft confirms",
+      "link": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue",
+      "published": "2026-07-29T10:58:29+00:00",
+      "summary": "After the recent Xbox outage even blocked people from playing offline disc-based console games, Microsoft is trying to soothe concerns that you don't truly own anything under Xbox's license system. In a statement to The Verge, Xbox technology chief Scott Van Vliet says that while"
+    },
+    {
+      "id": "e4522fbd3d53",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "No, You Probably Shouldn’t Lease Your iPhone",
+      "link": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
+      "published": "2026-07-29T10:45:00+00:00",
+      "summary": "With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”"
+    },
+    {
+      "id": "5bd174e6fe9e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "published": "2026-07-29T10:30:00+00:00",
+      "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots."
+    },
+    {
+      "id": "65e83c467cf0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "published": "2026-07-29T09:30:00+00:00",
+      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children."
+    },
+    {
+      "id": "312adbb58fcb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NASA’s New 3D Model Shows the Earth Is a Lumpy Mess",
+      "link": "https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/",
+      "published": "2026-07-29T09:30:00+00:00",
+      "summary": "We like to think of our home as a nice, smooth sphere. But mapping the Earth’s gravitational field provides a different view of the planet."
+    },
+    {
+      "id": "567188b1aaee",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "허깅페이스 제로데이 해킹이 AI 짓이라고?",
+      "link": "https://www.youtube.com/shorts/2IQLSPmLMas",
+      "published": "2026-07-29T09:27:13+00:00",
+      "summary": ""
+    },
     {
       "id": "2b8475089fa8",
       "source": "AI타임스",
@@ -152,6 +251,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213296",
+      "published": "2026-07-29T08:04:31+00:00",
+      "summary": "문샷 AI가 차세대 모델 ‘키미 K4(Kimi K4)’ 개발에 착수했다. 특히, 이전 모델인 ‘키미 K3’를 뛰어넘는 규모의 모델을 구축하기 위해 엔비디아의 최신 AI 가속기 ‘블랙웰’ 추가 확보를 추진하는 것으로 알려졌다.디 인포메이션은 28일(현지시간) 복수의 소식통을 인용, 문샷AI가 최근 공개한 초거대 오픈소스 AI 모델 '키미 K3'의 성공에 힘입어 차기 모델인 키미 K4 개발 계획을 논의하고 있다고 보도했다.K4는 2조8000억개의 매개변수를 갖춘 K3보다 훨씬 더 큰 규모의 모델이 될"
+    },
+    {
+      "id": "7dcf43c655d7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 나서",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213296",
       "published": "2026-07-29T08:04:31+00:00",
       "summary": "문샷 AI가 차세대 모델 ‘키미 K4(Kimi K4)’ 개발에 착수했다. 특히, 이전 모델인 ‘키미 K3’를 뛰어넘는 규모의 모델을 구축하기 위해 엔비디아의 최신 AI 가속기 ‘블랙웰’ 추가 확보를 추진하는 것으로 알려졌다.디 인포메이션은 28일(현지시간) 복수의 소식통을 인용, 문샷AI가 최근 공개한 초거대 오픈소스 AI 모델 '키미 K3'의 성공에 힘입어 차기 모델인 키미 K4 개발 계획을 논의하고 있다고 보도했다.K4는 2조8000억개의 매개변수를 갖춘 K3보다 훨씬 더 큰 규모의 모델이 될"
@@ -421,6 +531,17 @@
       "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals."
     },
     {
+      "id": "906f757a3339",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "published": "2026-07-29T04:58:46+00:00",
+      "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes Comments URL: https://news.ycombinator.com/item?id=49093569 Points: 230 # Comments: 77"
+    },
+    {
       "id": "087679d66d15",
       "source": "AI타임스",
       "kind": "article",
@@ -441,6 +562,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213285",
       "published": "2026-07-29T04:32:17+00:00",
       "summary": "미국 행정부가 국가 안보와 AI 공급망 보호를 이유로 중국산 휴머노이드 로봇과 사족보행 로봇, 전력 인버터의 신규 수입을 전면 금지했다. 미국 연방통신위원회(FCC)는 28일(현지시간) 새로운 중국산 휴머노이드 로봇과 사족보행 로봇, 그리고 신재생에너지 설비와 배터리를 전력망 및 AI 데이터센터 장비에 연결하는 핵심 부품인 연결형 전력 인버터의 수입을 금지하는 규정을 발표했다.이번 조치는 발표와 동시에 발효됐으며, 아직 미국 시장에 출시되지 않은 신규 모델에 우선 적용된다. FCC는 이미 판매 승"
+    },
+    {
+      "id": "d28d455d3105",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "User Interfaces of the Demo Scene",
+      "link": "https://www.datagubbe.se/scenegui/",
+      "published": "2026-07-29T04:30:36+00:00",
+      "summary": "Article URL: https://www.datagubbe.se/scenegui/ Comments URL: https://news.ycombinator.com/item?id=49093434 Points: 239 # Comments: 39"
     },
     {
       "id": "914230b906e1",
@@ -639,6 +771,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260729105853",
       "published": "2026-07-29T01:58:53+00:00",
       "summary": "[지디넷코리아]신한투자증권이 미술품 조각투자 기업 투게더아트와 업무제휴를 맺었다고 29일 밝혔다.이로써 투게더아트 이용자를 대상으로 청약에 필요한 조각투자상품 계좌 개설과 연동 서비스를 제공한다. 투자자 예치금 분리 보관을 담당하는 계좌관리기관 역할을 확대하는 셈이다.이로써 신한투자증권은 제휴 조각투자 계좌관리 플랫폼을 네 곳으로 확대했다. 뮤직카우, 갤러시아머니트리, 에이판다파트너스와 협력 중이다.현재 신한투자증권은 조각투자 유통거래소 KDX, NXT 컨소시엄에 모두 주주로 참여하고 있다."
+    },
+    {
+      "id": "e94d2e892bb8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "link": "https://learnvector.ai/",
+      "published": "2026-07-29T01:49:19+00:00",
+      "summary": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 206 # Comments: 124"
     },
     {
       "id": "09181146b81a",
