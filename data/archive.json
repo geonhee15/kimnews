@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-07-29T06:45:26.705087+00:00",
-  "count": 7356,
+  "updated_at": "2026-07-29T09:30:11.922979+00:00",
+  "count": 7378,
   "items": [
+    {
+      "id": "2b8475089fa8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "버그 탐지 넘어 암호 분석까지…'미소스', 알고리즘 취약점 찾았다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213293",
+      "published": "2026-07-29T09:24:59+00:00",
+      "summary": "AI가 인간 연구자들의 보조 도구를 넘어 암호학의 난제를 스스로 해결하는 단계에 진입했다. 앤트로픽은 28일(현지시간) '클로드 미소스 프리뷰'를 활용해 수년간 전문가들의 검증을 거친 암호 알고리즘 자체의 수학적 결함을 자율적으로 찾아내는 데 성공했다고 발표했다. 이를 정리한 논문도 공개했다.AI가 암호화 라이브러리의 구현 오류나 소프트웨어 버그를 발견한 사례는 있었지만, 암호 알고리즘의 근본적인 수학적 구조를 분석해 새로운 공격 기법을 제시한 것은 이번이 처음으로 평가된다. 앤트로픽 연구진은 미"
+    },
+    {
+      "id": "dbd532e6f098",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI '폭주 에이전트', 모달랩스 타고 허깅페이스 침투",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213287",
+      "published": "2026-07-29T09:05:48+00:00",
+      "summary": "오픈AI의 통제를 벗어나 허깅페이스를 대상으로 수일간 해킹을 벌인 AI 에이전트가 미국 AI 인프라 스타트업 모달랩스(Modal Labs)의 고객 환경을 통해 공격을 감행한 것으로 확인됐다. 로이터에 따르면, 허깅페이스는 28일(현지시간) 공개한 사고 경과 보고서를 통해 해당 AI 에이전트가 먼저 \"제3자 인프라에 호스팅된 샌드박스(격리된 테스트 환경)\"에 침입한 뒤, 이를 거점으로 삼아 더 광범위한 해킹을 수행했다고 밝혔다. 다만 제3자 서비스 제공업체의 이름은 공개하지 않았다.이후 모달랩스의 "
+    },
+    {
+      "id": "99143e5746d8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "데브시스터즈 '쿠키런: 킹덤', '망각의 타르트로스' 업데이트 실시",
+      "link": "https://zdnet.co.kr/view/?no=20260729174439",
+      "published": "2026-07-29T09:00:03+00:00",
+      "summary": "[지디넷코리아]데브시스터즈(대표 조길현)의 스튜디오킹덤이 개발한 모바일 RPG '쿠키런: 킹덤'이 신규 테마 '망각의 타르트로스' 업데이트를 실시했다.데브시스터즈는 '쿠키런: 킹덤'에 '운명의 시간선' 월드 탐험 에피소드의 네 번째 테마인 '망각의 타르트로스'를 추가하고 EP7 '지하의 왕'을 오픈했다고 29일 밝혔다.이번 에피소드에는 스테이지 진행 시 수면 및 디버프를 유발하는 신규 랜드 룰 '기억의 잠식'이 적용된다.이번 업데이트로 신규 레전더리 등급 쿠키 '지하명왕 쿠키'와 에픽 등급 '아스"
+    },
+    {
+      "id": "5c21ac04d8cd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "우체국물류지원단, 자율주행 화물 운송 기술 고도화",
+      "link": "https://zdnet.co.kr/view/?no=20260729175011",
+      "published": "2026-07-29T08:52:24+00:00",
+      "summary": "[지디넷코리아]우체국물류지원단이 자율주행 화물운송 기술 고도화와 AI 기반 물류 체계 구축을 추진한다.우체국물류지원단은 마스오토, 로지스퀘어와 화물자동차 자율주행 기술 활성화 업무협약을 체결했다고 29일 밝혔다.지난 28일 체결된 협약은 우편물 운송 차량을 활용해 자율주행 AI 고도화를 위한 운행데이터를 확보·제공하고, 안정적인 자율주행 운송 체계 구축을 통해 AI 기반 화물운송 자율주행 차량의 조기 상용화를 지원하기 위해 마련됐다.지원단은 협약을 통해 우편물류 자율주행 화물운송 확대와 미래 물류"
+    },
+    {
+      "id": "1d309fd704d5",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The AI Hype Index: Unsexy AI",
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "published": "2026-07-29T08:42:57+00:00",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dext"
+    },
+    {
+      "id": "99c086d89dcc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"아빠는 태권V, 아이는 티니핑\"…세대 잇는 '우표 전시회' 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20260729163320",
+      "published": "2026-07-29T08:38:41+00:00",
+      "summary": "[지디넷코리아]“전 애니메이션 영화 ‘로보트태권V’를, 큰 애는 로봇을, 작은 애는 티니핑을 좋아하는데, 우표 전시회에선 그걸 다 볼 수 있네요”29일 오후 초등학생 아들 두 명과 대한민국 우표 전시회를 찾은 이 씨는 이같이 말했다. 전시회는 우정사업본부(이하 우본)가 주최하고 한국우편사업진흥원·한국우취연합이 주관하는 한국 최대 우표 축제다. 서울 중구 동대문디자인플라자(DDP) 이간수문 전시장에서 오늘부터 닷새간, 오전 10시부터 오후 6시까지 열린다.우본은 매년 전시회 개최 날짜에 맞춰 기념우"
+    },
+    {
+      "id": "f27f14d84a45",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한화솔루션, 3분기 '태양광' 호조 전망…화학은 역래깅 우려",
+      "link": "https://zdnet.co.kr/view/?no=20260729161531",
+      "published": "2026-07-29T08:28:15+00:00",
+      "summary": "[지디넷코리아]한화솔루션이 오는 3분기 태양광 사업에서 매출과 영업이익이 증가할 것으로 기대한 반면, 석유화학 사업은 원재료 가격 하락에 따른 역래깅(원재료투입시차) 효과로 수익성 하락을 예상했다.한화솔루션은 29일 올해 2분기 실적발표 컨퍼런스콜에서 사업 전망을 이같이 밝혔다.2분기 회사는 연결 기준 매출 4조 5826억원, 영업이익 3065억원을 기록했다고 29일 밝혔다. 전년 동기 대비 매출은 47%, 영업이익은 200.3% 증가했다.특히 태양광 관련 ‘신재생에너지’ 사업 영업이익이 전분기 "
+    },
+    {
+      "id": "ed4641c6c648",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "키미 K3, 페이블 5와 게임 개발 맞대결…\"비용 낮추고 성능은 필적\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213312",
+      "published": "2026-07-29T08:26:28+00:00",
+      "summary": "오픈웨이트 AI 모델의 성능이 최상위 폐쇄형 AI 모델에 근접하고 있다는 평가가 잇따르는 가운데, 실제로 둘을 비교 평가한 사례가 눈길을 끌고 있다.AI 개발 플랫폼 아토믹 에이전트(Atomic Agent)는 28일(현지시간) 문샷 AI의 '키미 K3'와 앤트로픽의 '페이블 5'를 동일한 게임 개발 과제로 비교한 결과를 공개했다.테스트에서는 키미 K3가 비용 경쟁력을 유지하면서도 전반적으로 클로드 페이블 5에 필적하는 수준의 결과물을 구현한 것으로 나타났다.아토믹 에이전트는 두 모델에 동일한 프롬"
+    },
+    {
+      "id": "4728fe2cd061",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 폭염 장기화에 농작물·축산 피해 현장예찰",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213314",
+      "published": "2026-07-29T08:25:00+00:00",
+      "summary": "AI 생성 영상광양시가 폭염경보 장기화에 따른 농작물과 축산 피해를 줄이기 위해 농업 현장예찰을 강화한다.광양 농업기술센터는 5개 부서 직원 70여명을 투입해 8월 말까지 농작물 생육과 관수시설, 시설하우스 고온 피해, 과수 일소, 축산시설과 가축 상태를 수시로 점검한다고 29일 밝혔다.현장예찰에는 농업정책과와 농식품유통과, 스마트원예과, 산림소득과, 기술보급과가 참여한다. 예찰 기간은 8월 말까지지만 폭염경보 해제 여부와 기온 변화 등 기상 상황에 따라 탄력적으로 운영한다.예찰반은 논과 밭, 시"
+    },
+    {
+      "id": "6135239e65a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG생활건강, 2분기 영업익 87.5% 증가…북미 매출 첫 중국 추월",
+      "link": "https://zdnet.co.kr/view/?no=20260729165346",
+      "published": "2026-07-29T08:17:29+00:00",
+      "summary": "[지디넷코리아]LG생활건강이 올해 2분기 연결 기준 매출과 영업이익이 모두 증가세를 보였다. 닥터그루트 등 프리미엄 브랜드의 글로벌 성장과 북미 중심의 해외 사업 확대가 실적 개선에 영향을 미쳤다.29일 회사는 올해 2분기 연결 기준 매출 1조 6574억원, 영업이익 1028억원을 기록했다고 공시했다. 매출은 전년 동기 대비 3.3%, 영업이익은 87.5% 증가한 수치다.해외 사업은 북미를 중심으로 성장세가 두드러졌다. 2분기 해외 매출은 5845억원으로 전년 동기 대비 12.6% 증가했다. 전체"
+    },
+    {
+      "id": "d4e1b5b793c1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "비행시험만 1600회…첫 국산 초음속 전투기 KF-21, 체계개발 마침표",
+      "link": "https://zdnet.co.kr/view/?no=20260729170604",
+      "published": "2026-07-29T08:17:16+00:00",
+      "summary": "[지디넷코리아]국내 주도로 개발한 첫 초음속 전투기 KF-21 ‘보라매’가 약 10년에 걸친 체계개발을 마치고 양산·전력화 단계로 넘어간다.한국항공우주산업(KAI)은 29일 경남 사천 본사에서 방위사업청 주관으로 ‘KF-21 체계개발 종결 행사’를 개최했다고 밝혔다.행사에는 이용철 방위사업청장을 비롯해 국방부와 공군, KAI, 협력업체 관계자 등 약 300명이 참석했다. 공동개발국인 인도네시아 국방부와 현지 항공기업 PTDI, 기술 협력사 록히드마틴 관계자도 자리했다.KF-21은 2015년 12월"
+    },
+    {
+      "id": "a04658ce1bef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MCP 핵심 구조 전면 개편...\"AI 에이전트 대규모 프로덕션 시대 진입\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213307",
+      "published": "2026-07-29T08:11:49+00:00",
+      "summary": "리눅스 재단 산하 에이전트 AI 재단(AAIF)이 모델 컨텍스트 프로토콜(MCP)의 핵심 구조를 전면 개편하며 확장성과 보안, 운영 안정성을 크게 강화한 새로운 규격을 공개했다. AI 에이전트를 기업의 시범 프로젝트 수준에서 벗어나 대규모 프로덕션 환경으로 확대하기 위한 작업이다.AAIF는 28일(현지시간) MCP 신규 규격인 'MCP 2026-07-28'을 발표했다.이번 업데이트는 프로토콜이 공개된 이후 가장 큰 규모의 개편으로 평가되며, AI 에이전트를 대규모 기업 환경에 안정적으로 배포하기 "
+    },
+    {
+      "id": "ea4baa4049b8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "크래프톤, 21B 음성 AI 모델 공개… \"30B 이하 한국어 성능 1위\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213315",
+      "published": "2026-07-29T08:10:00+00:00",
+      "summary": "크래프톤(대표 김창한)은 음성 AI 파운데이션 모델 ‘에이닷엑스 케이투 라온 스피치(A.X K2 Raon-Speech)’를 허깅페이스에 공개했다고 29일 밝혔다.크래프톤은 과학기술정보통신부가 주관하는 ‘독자 AI 파운데이션 모델 프로젝트' SK텔레콤 정예팀에 참여해 멀티모달모델 연구를 진행하고 있다. 동시에 지난 4월에는 AI 모델 브랜드 ‘라온(Raon)’을 출범하고 음성 언어 모델(Raon-Speech), 실시간 음성 대화 모델(Raon-SpeechChat), 텍스트-음성 변환 모델(Raon-"
+    },
+    {
+      "id": "cd8699bd751b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213296",
+      "published": "2026-07-29T08:04:31+00:00",
+      "summary": "문샷 AI가 차세대 모델 ‘키미 K4(Kimi K4)’ 개발에 착수했다. 특히, 이전 모델인 ‘키미 K3’를 뛰어넘는 규모의 모델을 구축하기 위해 엔비디아의 최신 AI 가속기 ‘블랙웰’ 추가 확보를 추진하는 것으로 알려졌다.디 인포메이션은 28일(현지시간) 복수의 소식통을 인용, 문샷AI가 최근 공개한 초거대 오픈소스 AI 모델 '키미 K3'의 성공에 힘입어 차기 모델인 키미 K4 개발 계획을 논의하고 있다고 보도했다.K4는 2조8000억개의 매개변수를 갖춘 K3보다 훨씬 더 큰 규모의 모델이 될"
+    },
+    {
+      "id": "cbea0cd14bf2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 한국딥러닝, 서연이화에 문서 AI 솔루션 공급 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213318",
+      "published": "2026-07-29T08:00:00+00:00",
+      "summary": "■ 한국딥러닝(대표 김지현)은 자동차 부품 전문 서연이화의 AI 구축사업에 참여한다고 밝혔다. 이번 사업은 지산소프트가 주관하며, 코난테크놀로지와 한국딥러닝이 참여한다. 한국딥러닝은 비정형 문서를 데이터화하는 AI 광학문자인식(OCR)과 파서(Parser) 솔루션 공급을 맡는다. 개별 파일에 흩어져 있던 공정·설계 정보를 검색·분석이 가능한 데이터로 전환할 계획이다. ■ 액션파워(대표 조홍식, 이지화)는 LG전자 노트북 '그램(gram)'에 탑재된 온디바이스 AI 모델 경량화에 기여했다고 밝혔다."
+    },
+    {
+      "id": "a0c57e0f6e0f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 한컴위드, NH농협손해보험에 AI 안면인증 솔루션 도입 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213313",
+      "published": "2026-07-29T08:00:00+00:00",
+      "summary": "■ 한컴위드(대표 송상엽)는 NH농협손해보험에 AI 기반 안면인증 솔루션 '한컴오스'를 공급했다고 밝혔다. 한컴오스는 비대면 계좌 개설이나 송금 등 금융 서비스 이용 시 비대면 본인확인(eKYC)용 안면인증 및 얼굴 위변조 방지 솔루션이다. 이를 통해 AI를 활용한 이미지 합성과 딥페이크 영상, 3D 마스크 등을 이용한 안면인증 우회 공격을 방지할 수 있을 것으로 기대된다는 설명이다.■ PFCT(대표 이수환)는 애큐온저축은행에 금융 특화 AI 솔루션 '에어팩-스튜디오'와 '에어팩-인사이트'를 공급"
+    },
+    {
+      "id": "2923f0477ac2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오케스트로 \"'AI 인프라 풀스택 소프트웨어'로 기업 AX 지원\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213316",
+      "published": "2026-07-29T07:55:00+00:00",
+      "summary": "클라우드 전문 오케스트로가 '오케스트로 4.0' 전략을 통해 'AI 인프라 풀스택 소프트웨어' 사업을 본격화했다.오케스트로 그룹(의장 김민준)은 28일 서울 삼성동 코엑스 오디토리움에서 열린 ‘오퍼스 2026’ 기자간담회에서 '오케스트로 4.0' 전략을 발표했다.오케스트로 4.0은 '오케스트로 3.0’으로 구축한 AI 인프라 풀스택 소프트웨어에 고객 현장에서 축적한 운영 데이터를 결합한 업그레이드 사업 전략이다. 솔루션의 기획·개발·검증부터 서비스 제공과 기술 지원까지 전 과정을 AX에 맞게 재편"
+    },
+    {
+      "id": "3fd4deb16ae5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"대체 불가 토큰 수출국 목표\"...민·관 주도 'AIDC 얼라이언스' 공식 출범",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213310",
+      "published": "2026-07-29T07:43:33+00:00",
+      "summary": "과학기술정보통신부는 산업통상자원부, 금융위원회, 국토교통부 등 관계 부처 및 산·학·연 관계자 400여명이 참석한 가운데 서울 소공동 롯데호텔에서 'AI 데이터센터 얼라이언스(AIDC 얼라이언스)' 출범식을 개최했다고 29일 밝혔다.이번 얼라이언스는 정부 주도 3대 메가 프로젝트의 일환인 18.4기가와트(GW) 규모의 AIDC 인프라 구축과 클러스터 조성, 대규모 테스트베드 조성 등을 체계적으로 이행하기 위해 구축됐다.배경훈 과기정통부 부총리와 정재헌 한국정보통신진흥협회장(SKT 대표)이 공동의장"
+    },
+    {
+      "id": "45468b75a9cb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"학습 데이터 오염 막아라\"...AI 기업들, 오프라인 '인쇄 서적' 대량 확보 총력전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213308",
+      "published": "2026-07-29T07:40:44+00:00",
+      "summary": "AI 기업들이 인터넷상의 AI 생성 콘텐츠 증가로 모델 학습 데이터의 품질이 떨어지자, 이번에는 수백만권의 중고 서적을 대량으로 사들여 AI 학습 데이터로 활용하는 것으로 알려졌다. 404미디어는 최근 AI 기업들이 중고 도서 유통업체와 중개 회사를 통해 수천권에서 많게는 100만권 규모의 종이책을 한 번에 구매, 차세대 AI 모델 학습용 데이터를 확보하고 있다고 보도했다.인터넷 공간이 생성 AI가 만들어낸 저품질 합성 콘텐츠, 이른바 'AI 슬롭(AI Slop)'으로 빠르게 오염되면서 사람이 직"
+    },
+    {
+      "id": "71869c2e3714",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI에게 일을 더 잘 시키는 미친 꿀팁",
+      "link": "https://www.youtube.com/shorts/r4g4Nc7vNqc",
+      "published": "2026-07-29T07:22:04+00:00",
+      "summary": ""
+    },
     {
       "id": "810554d61e31",
       "source": "AI타임스",
@@ -177,6 +397,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260729140352",
       "published": "2026-07-29T05:03:52+00:00",
       "summary": "[지디넷코리아]뤼튼테크놀로지스가 글로벌 해킹대회 본선에 진출한 한국 보안팀에 인공지능(AI) 기술을 지원한다. 뤼튼은 내달 6일 미국 라스베이거스에서 열리는 국제 해킹대회 '데프콘 34 CTF' 본선에 진출한 '콜드퓨전'팀을 공식 후원한다고 29일 밝혔다.데프콘 CTF는 '해킹 올림픽'으로 불리는 글로벌 해킹대회다. 이번 대회에는 전 세계 686개팀이 참가했으며 이 가운데 상위 12개팀만 본선에 올랐다.콜드퓨전은 예선에서 3위를 기록했다. 이는 한국인으로만 구성된 참가팀 가운데 가장 높은 성적이다"
+    },
+    {
+      "id": "6471c2482cb4",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI시대 진짜 일잘러가 되는 방법 ㄷㄷ (w.ChatGPT Work)",
+      "link": "https://www.youtube.com/shorts/qB9c4RFBQ9s",
+      "published": "2026-07-29T05:00:35+00:00",
+      "summary": ""
     },
     {
       "id": "067c54646678",
@@ -936,6 +1167,17 @@
       "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
       "published": "2026-07-28T14:53:22+00:00",
       "summary": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions."
+    },
+    {
+      "id": "7f8d9c3ef43e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "link": "https://unawatch.com/",
+      "published": "2026-07-28T14:48:13+00:00",
+      "summary": "Article URL: https://unawatch.com/ Comments URL: https://news.ycombinator.com/item?id=49084813 Points: 211 # Comments: 134"
     },
     {
       "id": "c065d0612cce",
