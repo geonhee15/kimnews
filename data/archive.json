@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-29T15:27:51.626176+00:00",
-  "count": 7422,
+  "updated_at": "2026-07-29T16:50:13.106668+00:00",
+  "count": 7428,
   "items": [
+    {
+      "id": "e501a8b1303b",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Did Anthropic just kill the indie hacker...?",
+      "link": "https://www.youtube.com/watch?v=jxGJT1weu4w",
+      "published": "2026-07-29T16:33:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "108e7ad9a42a",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "published": "2026-07-29T16:02:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "668f9487b343",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "published": "2026-07-29T16:00:00+00:00",
+      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your upda"
+    },
+    {
+      "id": "2d8d515a779f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "published": "2026-07-29T15:35:09+00:00",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app."
+    },
+    {
+      "id": "fb2ec3074fc1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Ferrari Luce has at least 500 fans",
+      "link": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
+      "published": "2026-07-29T15:28:50+00:00",
+      "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sel"
+    },
     {
       "id": "fa958dbc084e",
       "source": "TechCrunch",
@@ -232,6 +287,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
       "published": "2026-07-29T11:54:29+00:00",
       "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls"
+    },
+    {
+      "id": "13d98fd8b745",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "published": "2026-07-29T11:44:33+00:00",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188 Points: 205 # Comments: 174"
     },
     {
       "id": "09dee66505fb",
