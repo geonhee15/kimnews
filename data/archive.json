@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-29T16:50:13.106668+00:00",
-  "count": 7428,
+  "updated_at": "2026-07-29T18:03:59.945430+00:00",
+  "count": 7434,
   "items": [
+    {
+      "id": "17509820ecae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo robotaxis are starting to return to freeways",
+      "link": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+      "published": "2026-07-29T17:50:57+00:00",
+      "summary": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days."
+    },
+    {
+      "id": "4a308e8abf69",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+      "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+      "published": "2026-07-29T17:41:09+00:00",
+      "summary": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters."
+    },
+    {
+      "id": "98ffd0d7b6be",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google brings its age-assurance technology to Android developers worldwide",
+      "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+      "published": "2026-07-29T17:00:00+00:00",
+      "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges."
+    },
     {
       "id": "e501a8b1303b",
       "source": "Fireship",
@@ -56,6 +89,17 @@
       "link": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales",
       "published": "2026-07-29T15:28:50+00:00",
       "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly earnings on Thursday, the Financial Times reports that Ferrari was aiming to sel"
+    },
+    {
+      "id": "b86bf0df6a79",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "link": "https://github.com/drumih/turbo-fieldfare",
+      "published": "2026-07-29T15:05:43+00:00",
+      "summary": "Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal. I have always adored on-device AI. It feels like magic that you can run a powerful NN on "
     },
     {
       "id": "fa958dbc084e",
@@ -144,6 +188,17 @@
       "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
       "published": "2026-07-29T13:23:31+00:00",
       "summary": "AI is fantastic at spotting patterns, but human insight is the key."
+    },
+    {
+      "id": "43b54e75cdf9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "link": "https://arxiv.org/abs/2607.25398",
+      "published": "2026-07-29T13:01:57+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2607.25398 Comments URL: https://news.ycombinator.com/item?id=49096969 Points: 206 # Comments: 132"
     },
     {
       "id": "5c7e3aaf2fab",
@@ -738,6 +793,17 @@
       "link": "https://www.youtube.com/shorts/r4g4Nc7vNqc",
       "published": "2026-07-29T07:22:04+00:00",
       "summary": ""
+    },
+    {
+      "id": "a1cf14f42415",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "published": "2026-07-29T07:18:24+00:00",
+      "summary": "Article URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers Comments URL: https://news.ycombinator.com/item?id=49094346 Points: 203 # Comments: 65"
     },
     {
       "id": "810554d61e31",
