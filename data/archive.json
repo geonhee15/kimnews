@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-29T18:03:59.945430+00:00",
-  "count": 7434,
+  "updated_at": "2026-07-29T19:41:51.207826+00:00",
+  "count": 7446,
   "items": [
+    {
+      "id": "05ecaa5cc5c9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
+      "link": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
+      "published": "2026-07-29T19:08:24+00:00",
+      "summary": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you."
+    },
+    {
+      "id": "cae1d7686559",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "published": "2026-07-29T18:45:27+00:00",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+    },
+    {
+      "id": "e478e0656eb9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What’s the catch with the Apple Upgrade program?",
+      "link": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+      "published": "2026-07-29T18:40:06+00:00",
+      "summary": "Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the full price of the device over the course of the one- to three-year lease, and in s"
+    },
+    {
+      "id": "cd986d11bc41",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+      "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "published": "2026-07-29T18:30:00+00:00",
+      "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed."
+    },
+    {
+      "id": "bb17c4e9ebfc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "published": "2026-07-29T18:15:02+00:00",
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenA"
+    },
+    {
+      "id": "53abb9467e23",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US government just banned Roombas",
+      "link": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "published": "2026-07-29T18:13:09+00:00",
+      "summary": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacu"
+    },
+    {
+      "id": "22746ade8eb3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google begins global rollout of age verification API in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "published": "2026-07-29T18:08:22+00:00",
+      "summary": "Google's new API relies on parents to set age ranges in Family Link."
+    },
+    {
+      "id": "7fba7696ee96",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "published": "2026-07-29T17:58:24+00:00",
+      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional."
+    },
     {
       "id": "17509820ecae",
       "source": "TechCrunch",
@@ -69,6 +157,28 @@
       "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your upda"
     },
     {
+      "id": "25121c613cf8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "published": "2026-07-29T15:52:48+00:00",
+      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them."
+    },
+    {
+      "id": "d4a50a227ec6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Superlogical",
+      "link": "https://www.superlogical.com/",
+      "published": "2026-07-29T15:41:33+00:00",
+      "summary": "https://mitchellh.com/writing/superlogical Comments URL: https://news.ycombinator.com/item?id=49098965 Points: 318 # Comments: 224"
+    },
+    {
       "id": "2d8d515a779f",
       "source": "TechCrunch",
       "kind": "article",
@@ -78,6 +188,17 @@
       "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
       "published": "2026-07-29T15:35:09+00:00",
       "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app."
+    },
+    {
+      "id": "a10ce8e39c7e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
+      "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+      "published": "2026-07-29T15:33:20+00:00",
+      "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates."
     },
     {
       "id": "fb2ec3074fc1",
@@ -254,6 +375,17 @@
       "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
       "published": "2026-07-29T12:37:50+00:00",
       "summary": ""
+    },
+    {
+      "id": "c2750eb07509",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Darktable",
+      "link": "https://www.darktable.org/",
+      "published": "2026-07-29T12:33:02+00:00",
+      "summary": "Article URL: https://www.darktable.org/ Comments URL: https://news.ycombinator.com/item?id=49096654 Points: 208 # Comments: 107"
     },
     {
       "id": "c6332dbc3b26",
