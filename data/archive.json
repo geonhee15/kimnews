@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-29T20:36:13.023674+00:00",
-  "count": 7448,
+  "updated_at": "2026-07-29T21:36:00.775438+00:00",
+  "count": 7459,
   "items": [
+    {
+      "id": "905b4f9ac09e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "published": "2026-07-29T21:16:39+00:00",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+    },
+    {
+      "id": "4cc0729e55d5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "published": "2026-07-29T21:07:48+00:00",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI."
+    },
+    {
+      "id": "d2546f3a4387",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "published": "2026-07-29T21:06:52+00:00",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in vario"
+    },
+    {
+      "id": "8b94574c2700",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+      "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+      "published": "2026-07-29T21:02:12+00:00",
+      "summary": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market."
+    },
+    {
+      "id": "81dcff6e1132",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
+      "link": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
+      "published": "2026-07-29T21:00:00+00:00",
+      "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what."
+    },
+    {
+      "id": "1ae267ab736c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
+      "link": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+      "published": "2026-07-29T20:44:10+00:00",
+      "summary": "Save up to $100 on Apple’s latest AirPods models before prices go back up."
+    },
     {
       "id": "d03dc9ff16bf",
       "source": "The Verge",
@@ -14,6 +80,17 @@
       "summary": "Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales declined 14 percent, according to Microsoft's fourth-quarter earnings report released o"
     },
     {
+      "id": "bd3c1e0df9c7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "published": "2026-07-29T20:03:42+00:00",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics."
+    },
+    {
       "id": "85d4ad13e60c",
       "source": "TechCrunch",
       "kind": "article",
@@ -23,6 +100,17 @@
       "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "published": "2026-07-29T19:44:49+00:00",
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
+    },
+    {
+      "id": "7d00f9ee3c2c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi K3-256k",
+      "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "published": "2026-07-29T19:25:33+00:00",
+      "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 236 # Comments: 60"
     },
     {
       "id": "05ecaa5cc5c9",
@@ -102,6 +190,17 @@
       "summary": "Google's new API relies on parents to set age ranges in Family Link."
     },
     {
+      "id": "4df6a5956a33",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "published": "2026-07-29T18:08:22+00:00",
+      "summary": "Google's new API relies on parents to set age ranges in Family Link."
+    },
+    {
       "id": "7fba7696ee96",
       "source": "Ars Technica",
       "kind": "article",
@@ -144,6 +243,17 @@
       "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
       "published": "2026-07-29T17:00:00+00:00",
       "summary": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges."
+    },
+    {
+      "id": "897c4f3f7941",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "published": "2026-07-29T16:36:59+00:00",
+      "summary": "Article URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice Comments URL: https://news.ycombinator.com/item?id=49099715 Points: 202 # Comments: 84"
     },
     {
       "id": "e501a8b1303b",
@@ -1651,6 +1761,17 @@
       "link": "https://github.com/openai/codex-security",
       "published": "2026-07-28T20:52:55+00:00",
       "summary": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 315 # Comments: 82"
+    },
+    {
+      "id": "68e583cd96b6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published": "2026-07-28T20:28:33+00:00",
+      "summary": "Article URL: https://huggingface.co/blog/agent-intrusion-technical-timeline Comments URL: https://news.ycombinator.com/item?id=49089500 Points: 210 # Comments: 113"
     },
     {
       "id": "5b7ce4059be4",
