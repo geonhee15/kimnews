@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-30T21:19:16.082748+00:00",
-  "count": 7609,
+  "updated_at": "2026-07-30T22:35:14.372832+00:00",
+  "count": 7615,
   "items": [
+    {
+      "id": "488d1fc43c56",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "published": "2026-07-30T22:29:45+00:00",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities "
+    },
+    {
+      "id": "71fa43375ebd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox CEO lays out priorities in memo after major ‘reset’",
+      "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "published": "2026-07-30T22:10:13+00:00",
+      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XB"
+    },
+    {
+      "id": "c477923a5689",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월30일] \"이제는 기계가 인간에 맞춘다\"...오픈AI가 '음성'에 집중하는 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213333",
+      "published": "2026-07-30T22:00:00+00:00",
+      "summary": "지난해 12월 '코드 레드'를 선언한 이후 오픈AI는 코딩 AI와 기업용 AI 경쟁에 집중해 왔습니다. 그 결과, '클로드 코드'를 빠르게 추격했고, 기업 고객도 크게 늘렸습니다.하지만 소비자가 체감하는 '챗GPT'의 변화는 상대적으로 크지 않았습니다. 오픈AI가 기업 시장에만 집중하는 것 아니냐는 분위기였습니다.그러나 29일(현지시간) 공개된 그렉 브록먼 오픈AI 사장의 팟캐스트를 보면, 오픈AI는 그보다 더 큰 그림을 그리고 있었던 것으로 보입니다. 바로 오픈AI의 장기적인 목표는 '인간이 컴"
+    },
     {
       "id": "716558336f3d",
       "source": "The Verge",
@@ -23,6 +56,17 @@
       "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
       "published": "2026-07-30T20:26:38+00:00",
       "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+    },
+    {
+      "id": "f4855afbddfc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "published": "2026-07-30T20:26:38+00:00",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
     },
     {
       "id": "b6618617c463",
@@ -542,6 +586,17 @@
       "summary": "Looking for all our top recommended vacuums? Here are our favorites in every category, from cordless models to robot vacs."
     },
     {
+      "id": "93c04559f9ee",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GCC steering committee announces AI policy",
+      "link": "https://lwn.net/Articles/1086041/",
+      "published": "2026-07-30T11:45:44+00:00",
+      "summary": "Article URL: https://lwn.net/Articles/1086041/ Comments URL: https://news.ycombinator.com/item?id=49108685 Points: 213 # Comments: 242"
+    },
+    {
       "id": "2fb6f3918603",
       "source": "Wired",
       "kind": "article",
@@ -650,6 +705,17 @@
       "link": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
       "published": "2026-07-30T10:15:00+00:00",
       "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count."
+    },
+    {
+      "id": "3846773c1cf2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "published": "2026-07-30T10:13:46+00:00",
+      "summary": "Article URL: https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html Comments URL: https://news.ycombinator.com/item?id=49107950 Points: 319 # Comments: 396"
     },
     {
       "id": "350f74618088",
