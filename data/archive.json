@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-29T23:41:32.147112+00:00",
-  "count": 7469,
+  "updated_at": "2026-07-30T01:02:06.897410+00:00",
+  "count": 7475,
   "items": [
+    {
+      "id": "0a84db016ddb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "published": "2026-07-30T00:21:06+00:00",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+    },
+    {
+      "id": "222b753dc2b4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러",
+      "link": "https://zdnet.co.kr/view/?no=20260730082650",
+      "published": "2026-07-29T23:29:07+00:00",
+      "summary": "[지디넷코리아]마이크로소프트(MS)가 클라우드와 인공지능(AI) 사업의 고른 성장에 힘입어 시장 전망치를 웃도는 실적을 냈다. 핵심 클라우드 사업 애저의 성장세가 예상보다 가팔랐고 AI 업무지원 서비스 코파일럿의 유료 가입자도 빠르게 늘며 AI 투자 성과를 뒷받침했다.MS는 29일(현지시간) 2026회계연도 4분기(4~6월) 매출이 전년동기대비 18% 늘어난 900억 700만 달러를 기록했다고 공시했다. 시장조사업체 런던증권거래소그룹(LSEG) 전망치(876억 2000만 달러)를 웃도는 수치다.영"
+    },
+    {
+      "id": "c0cb32911ba0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "EA, 개발자 구조조정 속 CEO 보수 대폭 인상",
+      "link": "https://zdnet.co.kr/view/?no=20260730082200",
+      "published": "2026-07-29T23:27:06+00:00",
+      "summary": "[지디넷코리아]사우디아라비아 국부펀드(PIF)로의 매각을 앞둔 일렉트로닉 아츠(EA)가 주요 임원진의 보수 내역을 공개한 가운데, 앤드루 윌슨 CEO의 보수가 3800만 달러(약 550억원)에 달하는 것으로 나타났다고 게임스팟이 29일(현지시간) 보도했다.보도에 따르면 EA가 미국 증권거래위원회(SEC)에 제출한 보고서에서 윌슨 CEO의 지난 회계연도 총보수는 성과급과 스톡옵션을 포함해 전년 대비 800만 달러 증가한 3800만 달러로 집계됐다. 이는 EA 중간값 임직원의 연봉인 12만 6612달"
+    },
+    {
+      "id": "55f0676913d1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "데이원컴퍼니, '백준온라인저지' 인수...\"개발자 학습·성장 지원\"",
+      "link": "https://zdnet.co.kr/view/?no=20260730082437",
+      "published": "2026-07-29T23:24:37+00:00",
+      "summary": "[지디넷코리아]데이원컴퍼니(대표 신해동·김동혁)가 알고리즘 학습 플랫폼 ‘백준온라인저지(BOJ)’를 인수, 국내 개발자들을 위한 서비스로 발전시킨다.백준온라인저지는 개발자가 알고리즘 문제를 풀고 코드를 제출하면 자동으로 채점받을 수 있는 온라인 저지 서비스다. 3만 개가 넘는 알고리즘 문제와 다양한 프로그래밍 언어 채점을 지원하며 개발자와 대학생, 취업준비생들의 코딩 테스트와 알고리즘 학습을 위한 대표 플랫폼이다. 다만 이용자 증가에 따른 서버 운영 비용과 인프라 부담이 지속 확대되면서 운영 16"
+    },
     {
       "id": "6de5c7286b29",
       "source": "TechCrunch",
@@ -12,6 +56,28 @@
       "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "published": "2026-07-29T23:00:11+00:00",
       "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price."
+    },
+    {
+      "id": "370fb561219d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "신형 아반떼, 고급차 기술 이식…현대차 '첫차' 수준 높였다",
+      "link": "https://zdnet.co.kr/view/?no=20260729170155",
+      "published": "2026-07-29T23:00:01+00:00",
+      "summary": "[지디넷코리아]현대자동차가 '첫차의 대명사' 아반떼에 그동안 고급 차종 위주로 적용했던 첨단 운전자보조시스템(ADAS)과 생성형 AI 기반 인포테인먼트 등을 적용했다. 플래그십 모델에 적용하던 핵심 기술을 준중형 세단까지 확대해 첨단 기술의 진입 문턱을 낮춘 것이 신형 아반떼의 가장 큰 변화다.현대차는 29일 서울 서초구 아크 강남에서 8세대 '디 올 뉴 아반떼 테크 데이'를 열고 신형 아반떼에 적용된 주요 기술을 공개했다. 이날 행사에서는 개발 콘셉트를 비롯해 차체 패키징과 공간 설계, 안전·주"
+    },
+    {
+      "id": "8d69b5539090",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI공격 대응 방어력 극대화\"...이글루, ‘플롯' 플랫폼 출시 시선",
+      "link": "https://zdnet.co.kr/view/?no=20260730075254",
+      "published": "2026-07-29T22:52:54+00:00",
+      "summary": "[지디넷코리아]미국 앤트로픽의 미토스와 같은 대형언어모델(LLM) 기반 취약점 탐지 도구가 등장하면서 취약점 공개부터 실제 익스플로잇(공격 시도)까지 걸리는 시간이 수 시간 단위로 급격히 단축됐다. 보안 패치가 배포되기 전 공백기인 ‘골든타임’을 사수하기 위한 체계 개선이 시급한 상황이 됐다. 국내산업계도 이에 대한 대응책 마련에 나섰다. 보안 전문기업 이글루코퍼레이션의 경우 단순히 규제 대응을 넘어 실질적인 오펜시브 시큐리티 역량을 훈련할 수 있는 최적의 환경을 제공하는데 주력하고 있다. 이를 "
     },
     {
       "id": "5c5a394a7967",
