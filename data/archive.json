@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-07-30T07:09:49.296250+00:00",
-  "count": 7516,
+  "updated_at": "2026-07-30T09:41:09.227301+00:00",
+  "count": 7543,
   "items": [
+    {
+      "id": "69895109c481",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Scammers Are Better at Building Trust Than Humans",
+      "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "published": "2026-07-30T09:30:00+00:00",
+      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others."
+    },
+    {
+      "id": "62c6294c2a54",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "10억개의 토큰을 무료로 쓰는 ㅎㄷㄷ한 방법",
+      "link": "https://www.youtube.com/shorts/Ijmm39E0dCQ",
+      "published": "2026-07-30T09:27:20+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1c7fcf0c4315",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "건강 문제로 싱킹 머신즈 떠난 릴리안 웽...오픈AI서 '재귀적 자기개선' 맡는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213347",
+      "published": "2026-07-30T09:21:46+00:00",
+      "summary": "싱킹 머신즈 랩(TML)의 공동 창립자인 유명 연구원 릴리안 웽이 건강상 이유로 회사를 떠난 직후 친정인 오픈AI로 복귀했다. 디 인포메이션에 따르면, 오픈AI는 29일(현지시간) 릴리안 웽이 연구 조직에 다시 합류해 팀을 이끌게 된다고 밝혔다.웽은 앞으로 AI 모델이 차세대 AI 모델을 직접 학습하고 성능을 개선하는 '재귀적 자기개선(Recursive Self-Improvement)' 연구를 총괄할 예정이다. 재귀적 자기개선은 AI가 인간 연구자의 개입을 최소화한 채 후속 AI 시스템을 설계하고"
+    },
+    {
+      "id": "b75e386e31e5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "로브로스, 풍차 돌리기·백텀블링하는 휴머노이드 시연 영상 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213369",
+      "published": "2026-07-30T09:07:21+00:00",
+      "summary": "로브로스(대표 노승준)는 자체 휴머노이드로 풍차돌리기, 백텀블링 등 고난도 동적 전신 움직임을 구현했다고 30일 밝혔다. 휴머노이드 플랫폼 ‘이그리스-C’이 사용됐으며, 키 154cm, 몸무게 56kg의 하드웨어 설계부터 제어 알고리즘, AI 소프트웨어까지 전 과정을 자체 개발했다.이는 단순 퍼포먼스를 넘어 순간적으로 변화하는 무게중심을 조절하고 전신을 실시간으로 협응 제어할 수 있는지를 검증하는 대표적인 고난도 동작이라는 설명이다. 로브로스는 다양한 산업 현장에서 활용 가능한 AI 휴머노이드 플"
+    },
+    {
+      "id": "78f3a718fa78",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"자판기 운영 맡겼더니 담합·배신 난무\"…'오퍼스 5'의 냉혹한 자본주의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213346",
+      "published": "2026-07-30T09:05:27+00:00",
+      "summary": "최첨단 AI 모델들을 사람의 개입 없이 장기간 자율적으로 자판기 사업을 운영하도록 한 실험에서 가격 담합과 배신, 거짓말, 협박까지 벌어진 것으로 나타났다. 특히 앤트로픽의 '클로드 오퍼스 5'는 경쟁 모델들을 잇달아 속이며 역대 최고 성적을 기록해, 강력한 AI 에이전트에 대한 감독 필요성을 다시 한번 부각했다.AI 안전성 평가 기업 앤돈 랩스(Andon Labs)는 28일(현지시간) 장기 AI 에이전트 평가 프로젝트인 '벤딩-벤치(Vending-Bench)' 최신 결과를 공개했다. 벤딩-벤치는"
+    },
+    {
+      "id": "5ddbadebda73",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+      "link": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+      "published": "2026-07-30T09:00:00+00:00",
+      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids."
+    },
+    {
+      "id": "86909479d5d6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 휴가철 숙박·음식업소 물가 점검…바가지요금 집중 관리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213356",
+      "published": "2026-07-30T08:50:00+00:00",
+      "summary": "AI 생성 영상여수시가 제7회 섬의 날과 여름 휴가철 관광객 증가에 대비해 숙박·음식업소와 소매점포의 물가 점검을 강화한다고 30일 밝혔다.주요 관광지와 행사장 주변을 중심으로 가격표시제 준수 여부와 바가지요금을 살피고, 관광 불편 민원에도 관계부서가 공동 대응한다.여수는 지난 29일 ‘2026년 숙박·음식업소 물가안정 전담팀’ 3차 회의를 열고 부서별 추진 상황과 관광 성수기 물가안정 대책을 점검했다.이번 대책은 8월 6일부터 9일까지 열리는 제7회 섬의 날과 본격적인 여름 휴가철을 앞두고 관광"
+    },
+    {
+      "id": "50324359de01",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "대전시, 국가 반도체 종합 연구소 구축 '공식화'",
+      "link": "https://zdnet.co.kr/view/?no=20260730174221",
+      "published": "2026-07-30T08:42:21+00:00",
+      "summary": "[지디넷코리아]대전시가 '국가 반도체 종합 연구소' 추진을 공식화했다.혀태정 대전시장은 30일 나노종합기술원에서 열린 ‘충청권 반도체 초광역 협력 간담회’에 참석, 한성숙 국무총리에 ‘국가 반도체 종합 연구소’ 대전 구축을 공식 건의했다.이번 간담회는 정부 3대 메가프로젝트의 성공적인 추진을 위한 충청권 초광역 협력 방안을 논의하기 위해 마련됐다.한성숙 국무총리와 허태정 대전시장을 비롯한 조상호 세종시장과 충남, 북 부지사와 과학기술정보통신부, 산업통상부 및 기후에너지환경부 차관 등이 참석했다. "
+    },
+    {
+      "id": "da5a5610fd6f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[컨콜종합] 이준희 삼성SDS 대표 \"AI 풀스택으로 미래 성장 기회 선점\"",
+      "link": "https://zdnet.co.kr/view/?no=20260730155717",
+      "published": "2026-07-30T08:38:57+00:00",
+      "summary": "[지디넷코리아]삼성SDS가 2분기 클라우드 성장세를 바탕으로 실적 개선 흐름을 이어간 가운데 하반기 이후 성장 전략으로 인공지능(AI) 인프라와 공공 AI전환(AX), 디지털 자산 인프라를 전면에 내세웠다.단기적으로는 클라우드와 물류 사업의 안정적인 성장을 이어가고 중장기적으로는 AI 풀스택 역량을 기반으로 새 성장 기회를 선점하겠다는 구상이다.삼성SDS는 30일 2026년 2분기 실적발표 컨퍼런스콜을 열고 매출 3조7천178억원, 영업이익 2천318억원의 잠정 실적을 발표했다.IT서비스 부문 매"
+    },
+    {
+      "id": "b81794d6d909",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포스코DX, 2분기 실적 주춤…AI·자동화로 하반기 반등 노린다",
+      "link": "https://zdnet.co.kr/view/?no=20260730160841",
+      "published": "2026-07-30T08:38:42+00:00",
+      "summary": "[지디넷코리아]포스코DX가 2분기 매출 감소에도 불구하고 수주 증가와 수익성 개선을 바탕으로 하반기 실적 회복에 나선다. 철강 고위험 공정 자동화와 인공지능(AI) 기반 제조·사무 혁신 사업을 확대하며 안정적인 수주잔고를 기반으로 성장 모멘텀을 이어간다는 구상이다.포스코DX는 올해 2분기 연결 기준 매출 2325억 8100만원, 영업이익 98억 6100만원을 기록했다고 30일 공시했다. 전년 동기 대비 매출은 14.8%, 영업이익은 42.3% 감소했지만 전분기와 비교하면 영업이익은 169.6% 증"
+    },
+    {
+      "id": "ca8b2631fb14",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 간호사들, 'AI 감시'로 곤혹...\"생산성 향상·비용절감에만 눈 멀어\"",
+      "link": "https://zdnet.co.kr/view/?no=20260730172508",
+      "published": "2026-07-30T08:37:36+00:00",
+      "summary": "[지디넷코리아]미국 의료 서비스 조직인 카이저 퍼머넌트의 상담 간호사들이 직장에 도입된 과도한 AI 감시 도구와 통화 시간 제한 때문에 환자 케어의 질이 크게 떨어진다고 고발했다.상담 간호사는 환자의 전화 상담을 받아 가정 내 치료 가능 여부를 판단하고, 응급실 방문 안내나 의사 예약을 돕는 의료 일선 인력이다. 그러나 카이저 퍼머넌트 경영진은 간호사들에게 환자 1인당 통화 시간을 15분 이내로 끝내도록 압박하며, 이를 초과할 경우 실적 평가에서 불이익을 주거나 정기 회의에서 질책을 이어오고 있다"
+    },
+    {
+      "id": "698b2bafcf04",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나주, 관객 참여형 공연 열린다…‘사슴 코딱코의 재판’ 8월14일 공연",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213361",
+      "published": "2026-07-30T08:32:02+00:00",
+      "summary": "AI 생성 영상나주시는 관객이 직접 배심원이 돼 주인공의 유죄와 무죄를 판단하고 공연의 결말까지 결정하는 가족 뮤지컬이 나주에서 연다고 30일 밝혔다.나주는 오는 8월 14일 오후 7시 나주문화예술회관에서 관객 참여형 뮤지컬 ‘사슴 코딱코의 재판’을 공연한다. 예매는 8월 3일부터 네이버 예약을 통해 진행하며 관람료는 전석 1만원이다. 나주시민에게는 80% 할인 혜택을 제공한다.이번 작품은 전래동화 ‘선녀와 나무꾼’을 현대적으로 재해석한 가족 공연이다. 선녀의 날개옷을 훔치도록 나무꾼에게 정보를 "
+    },
+    {
+      "id": "4432e76d00bd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "전주대학교, '제4회 국제 게임 잼 코리아' 성료…5개 팀 수상 영예",
+      "link": "https://zdnet.co.kr/view/?no=20260730172926",
+      "published": "2026-07-30T08:30:01+00:00",
+      "summary": "[지디넷코리아]세대 간 화합과 포용을 주제로 한 글로벌 게임 개발 행사 '제4회 국제 게임 잼 코리아'가 5개 우수 개발 팀을 배출하며 막을 내렸다.전주대학교는 실감미디어혁신융합대학사업단이 주관한 '제4회 국제 게임 잼 코리아, 전주' 행사를 마무리했다고 30일 밝혔다.지난 27일 전주대학교 스타센터 하림미션홀에서 개막한 이번 행사에는 한국, 미국, 중국, 일본, 대만, 네덜란드 등 6개국에서 온 학생과 인디 게임 개발자들이 참석했다.올해 개발 주제는 '100세 시대를 위한 게임'으로 설정됐다. "
+    },
+    {
+      "id": "976f0b7b0603",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI CFO “7월 한 달 매출, 2분기 전체 매출 뛰어 넘어”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213337",
+      "published": "2026-07-30T08:29:36+00:00",
+      "summary": "오픈AI가 지난 7월 한 달 동안 2분기 전체 매출을 넘어서는 폭발적인 실적 성장을 기록했다. 경영진은 강력한 매출 상승세를 강조하며 기업 가치와 기업공개(IPO)에 대한 자신감을 내비쳤다.CNBC에 따르면, 사라 프라이어 오픈AI CFO와 브렛 테일러 이사회 의장은 29일(현지시간) 열린 직원 대상 내부 회의에서 회사의 재무 상황을 공유했다.프라이어 CFO는 “7월 한 달간의 연간 반복 매출(ARR)이 2분기(4~6월) 전체 매출 규모를 넘어섰다”라고 밝혔다.다만 구체적인 수치는 알려지지 않았다"
+    },
+    {
+      "id": "c3e9ad075d88",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "승진은 나란히 책임은 제각각…한화 3형제 '경영 시험대' 2막",
+      "link": "https://zdnet.co.kr/view/?no=20260730145048",
+      "published": "2026-07-30T08:29:11+00:00",
+      "summary": "[지디넷코리아]한화그룹이 김동관·김동원·김동선 3형제의 직급을 일제히 높이며 3세 경영체제를 한 단계 끌어올렸다. 최근 한화의 인적분할로 형제별 사업 영역이 더욱 선명해진 가운데, 이번 승진으로 각자가 맡은 사업의 성과와 위험까지 직접 책임져야 하는 단계에 들어섰다는 평가가 나온다.한화그룹은 30일 김동관 부회장을 수석부회장으로, 김동원 한화생명 사장을 부회장으로, 김동선 한화비전 부사장을 사장으로 각각 승진시키는 인사를 발표했다. 오너 일가 3형제가 나란히 승진한 것은 이번이 처음이다. 이와 함"
+    },
+    {
+      "id": "315e67df8ed2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바퀴 하나로 시속 30㎞…보안 순찰용 외발 AI 로봇 등장",
+      "link": "https://zdnet.co.kr/view/?no=20260730140437",
+      "published": "2026-07-30T08:27:45+00:00",
+      "summary": "[지디넷코리아]보안 순찰 임무에 투입할 수 있는 바퀴 하나짜리 자율주행 로봇이 등장했다.과학매체 뉴아틀라스는 에스토니아 로봇 스타트업 롤로 로보틱스(Rollo Robotics)가 개발 중인 외발 로봇 '1롤로(1Rollo)'를 최근 소개했다.회사 측은 1롤로가 실제 보안 업무를 수행할 수 있는 세계 최초의 안정적인 자율주행 외발 로봇이라고 밝혔다. 택배용 로봇 ‘클레버론(Cleveron)’의 개발한 아르노 퀴트와 산더 세바스티안 아구르가 2025년 설립한 이 회사는 창업 초기 수개월 동안 외발 플"
+    },
+    {
+      "id": "6f60dceadbce",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "몬드리안에이아이, 28년 DX 전문가 황상돈 CSO 영입…AX 컨설팅 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260730165958",
+      "published": "2026-07-30T08:11:27+00:00",
+      "summary": "[지디넷코리아]몬드리안에이아이가 글로벌 컨설팅사와 IT서비스 기업에서 28년 이상 디지털 전환(DX) 프로젝트를 수행한 전문가를 영입해 기업 인공지능 전환(AX) 공략에 박차를 가한다.몬드리안에이아이는 황상돈 최고전략책임자(CSO)를 영입했다고 30일 밝혔다.황 CSO는 미국 조지워싱턴대학교에서 경영정보학을 전공했으며 딜로이트 컨설팅과 커니, 포스코DX, 삼성SDS, 미국 EDS, CSC 등 글로벌 컨설팅사와 IT 기업에서 28년 이상 사업 전략과 디지털 전환(DX) 프로젝트를 수행해왔다.삼성전자"
+    },
+    {
+      "id": "45369c1386b9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "록턴, 글로벌 데이터 센터 및 디지털 인프라 사업부 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260730171002",
+      "published": "2026-07-30T08:10:02+00:00",
+      "summary": "[지디넷코리아] AI, 클라우드 컴퓨팅과 디지털 연결성의 기반이 되는 인프라에 통합 리스크 솔루션 제공 캔자스시티, 미주리, 2026년 7월 30일 /PRNewswire/ -- 세계 최대 비상장 독립 보험중개기업 록턴(Lockton)이 7월 29일 글로벌 데이터 센터 및 디지털 인프라 사업부(Data Centers & Digital Infrastructure Practice)를 출범했다. 세계 곳곳에서 정보를 저장, 처리, 전송하는 인프라와 관련된 복잡한 리스크에 조직이 효과적으로 대응하도록 지원"
+    },
+    {
+      "id": "2814e3f6ce08",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213360",
+      "published": "2026-07-30T08:07:09+00:00",
+      "summary": "스페이스XAI는 29일(현지시간) 개발자용 차세대 음성 에이전트 모델인 '그록 보이스 싱크 패스트 2.0(Grok Voice Think Fast 2.0)'을 출시했다.이 모델은 기존 1.0 버전을 바탕으로 지능과 음성 전사 정확도, 자연스러운 대화 능력, 도구 호출 신뢰성을 크게 향상한 것이 특징이다.음성과 동시에 추론을 수행하는 구조를 유지하면서도 추론 효율을 크게 높였다. 이를 통해 응답 지연을 늘리지 않으면서도 복잡한 질문을 처리할 수 있으며, 실제 서비스에서는 에이전트가 첫 문장을 끝내기 "
+    },
+    {
+      "id": "2fe808a8581a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] S2W, 에이전틱 AI 대비 보안 취약점 진단 사업 확대 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213366",
+      "published": "2026-07-30T08:00:00+00:00",
+      "summary": "■ 에스투더블유(S2W, 대표 서상덕)는 기업의 안전한 AI 활용을 위해 AI 서비스 취약점 진단 사업을 확대한다고 밝혔다. 다크웹과 텔레그램, 해킹 포럼 등에서 수집한 대형언어모델(LLM) 공격 기법을 기반으로 소프트웨어 보안 분야 국제 비영리 단체 'OWASP'가 제정한 LLM 보안 취약점 기준을 적용했다. 이를 통해 AI 모델, 프롬프트, 데이터, 에이전트 등 보안 취약점을 선제적으로 점검할 수 있다는 설명이다.■ 씨이랩(대표 윤세혁·채정환)은 'AI 컴퓨팅 자원 활용 기반 강화 사업'을 위"
+    },
+    {
+      "id": "24132b9afc53",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 노벨상 AI '알파폴드' 개발팀 해체...'제미나이' 중심 체제로 전환",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213364",
+      "published": "2026-07-30T07:58:41+00:00",
+      "summary": "구글 딥마인드가 단백질 구조 예측 AI '알파폴드(AlphaFold)'를 개발한 핵심 연구진을 사실상 해체하고 '제미나이'를 중심으로 한 연구 체제로 재편했다. 29일(현지시간) 파이낸셜타임스에 따르면, 구글 딥마인드는 지난 1년 동안 알파폴드 논문의 주요 저자 대부분을 다른 조직으로 재배치했다.핵심 연구원들은 제미나이 기반 프로젝트를 비롯해 효소 설계, 핵융합, 유전체학 등 새로운 연구 분야로 이동했으며, 일부는 구글 자회사인 신약 개발 기업 아이소모픽 랩스로 자리를 옮겼다. 원래 알파폴드 논문"
+    },
+    {
+      "id": "261f3b424522",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한컴, AI 사업 상승세로 상반기 986억 '역대 최대' 매출 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213367",
+      "published": "2026-07-30T07:50:00+00:00",
+      "summary": "한컴(대표 김연수)은 잠정실적 공시를 통해 별도기준 상반기 누적 매출 986억원, 영업이익 310억원으로 사상 최대 실적을 기록했다고 30일 밝혔다.지난해 상반기 대비 매출은 7.2% 늘며 반기 기준 사상 최대치를 경신했다.영업이익은 전년 동기 대비 9.6% 감소했으나, 순이익은 407억원으로 23.3% 증가했다. 이는 한컴인스페이스 지분 매각에 따른 투자이익이 반영됐다.별도기준 2분기 매출도 521억원, 영업이익 134억원으로 사상 최대 분기 매출을 기록했다. 한컴은 AI 사업 성과가 주요 실적"
+    },
+    {
+      "id": "0d0eb8104a08",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 개인용 AI 에이전트 '제미나이 스파크' 국내 정식 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213365",
+      "published": "2026-07-30T07:47:46+00:00",
+      "summary": "구글은 개인용 AI 에이전트 서비스 '제미나이 스파크'를 국내에 정식 출시했다고 30일 밝혔다.앞서 지난 23일 미국 내 구글 AI 프로 이상 플랜 이용자를 대상으로 서비스를 시작했으며, 이번에 적용 범위를 국내까지 확대했다. 제미나이 스파크는 구글의 최신 모델 '제미나이 3.6'을 기반으로 구글 클라우드 인프라에서 작동한다. 구글 닥스, 구글 스프레드시트 등 구글 워크스페이스 도구와 연동되며, 노트북을 덮거나 스마트폰 화면이 잠긴 백그라운드 상태에서도 작업을 수행하는 것이 특징이다.이를 통해 별"
+    },
+    {
+      "id": "705c8a99fa60",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI \"탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213335",
+      "published": "2026-07-30T07:46:45+00:00",
+      "summary": "오픈AI가 내부 사이버보안 평가 과정에서 통제를 벗어난 AI 에이전트가 당초 알려진 허깅페이스 침해 외에도 추가로 4개의 외부 서비스 계정에 무단 접근한 사실을 확인했다. 오픈AI는 28일(현지시간) 공개한 보안 사고 업데이트에서 “모델이 공개적으로 노출된 자격 증명을 찾아 계정 수준에서 사용한 사례를 확인했다”라며 “허깅페이스 사고와 관련해 4개 서비스의 4개 계정이 사용됐다”라고 밝혔다.이는 앞서 공개된 모달 랩스(Modal Labs) 계정 침투 사례에 이어, AI 에이전트의 활동 범위가 단일"
+    },
     {
       "id": "a8c3fbd77ebb",
       "source": "AI타임스",
@@ -498,6 +762,17 @@
       "summary": "[지디넷코리아]데이원컴퍼니(대표 신해동·김동혁)가 알고리즘 학습 플랫폼 ‘백준온라인저지(BOJ)’를 인수, 국내 개발자들을 위한 서비스로 발전시킨다.백준온라인저지는 개발자가 알고리즘 문제를 풀고 코드를 제출하면 자동으로 채점받을 수 있는 온라인 저지 서비스다. 3만 개가 넘는 알고리즘 문제와 다양한 프로그래밍 언어 채점을 지원하며 개발자와 대학생, 취업준비생들의 코딩 테스트와 알고리즘 학습을 위한 대표 플랫폼이다. 다만 이용자 증가에 따른 서버 운영 비용과 인프라 부담이 지속 확대되면서 운영 16"
     },
     {
+      "id": "0ce4be738136",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Productivity Mirage",
+      "link": "https://frantic.im/mirage/",
+      "published": "2026-07-29T23:18:11+00:00",
+      "summary": "Article URL: https://frantic.im/mirage/ Comments URL: https://news.ycombinator.com/item?id=49104335 Points: 226 # Comments: 87"
+    },
+    {
       "id": "6de5c7286b29",
       "source": "TechCrunch",
       "kind": "article",
@@ -529,6 +804,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260730075254",
       "published": "2026-07-29T22:52:54+00:00",
       "summary": "[지디넷코리아]미국 앤트로픽의 미토스와 같은 대형언어모델(LLM) 기반 취약점 탐지 도구가 등장하면서 취약점 공개부터 실제 익스플로잇(공격 시도)까지 걸리는 시간이 수 시간 단위로 급격히 단축됐다. 보안 패치가 배포되기 전 공백기인 ‘골든타임’을 사수하기 위한 체계 개선이 시급한 상황이 됐다. 국내산업계도 이에 대한 대응책 마련에 나섰다. 보안 전문기업 이글루코퍼레이션의 경우 단순히 규제 대응을 넘어 실질적인 오펜시브 시큐리티 역량을 훈련할 수 있는 최적의 환경을 제공하는데 주력하고 있다. 이를 "
+    },
+    {
+      "id": "cd65bca6887c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LLM Honeypot",
+      "link": "https://llm2human.pages.dev/",
+      "published": "2026-07-29T22:51:03+00:00",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 241 # Comments: 61"
     },
     {
       "id": "5c5a394a7967",
@@ -628,6 +914,17 @@
       "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "published": "2026-07-29T21:06:52+00:00",
       "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in vario"
+    },
+    {
+      "id": "dc68d0e92153",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Cold Email",
+      "link": "https://zachholman.com/posts/cold-email",
+      "published": "2026-07-29T21:06:42+00:00",
+      "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 204 # Comments: 81"
     },
     {
       "id": "8b94574c2700",
