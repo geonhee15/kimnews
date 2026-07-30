@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-30T20:01:03.407255+00:00",
-  "count": 7604,
+  "updated_at": "2026-07-30T21:19:16.082748+00:00",
+  "count": 7609,
   "items": [
+    {
+      "id": "716558336f3d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s iPhone and Mac sales keep growing despite RAM shortages",
+      "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "published": "2026-07-30T20:49:32+00:00",
+      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billi"
+    },
+    {
+      "id": "155dda46db22",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "published": "2026-07-30T20:26:38+00:00",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+    },
+    {
+      "id": "b6618617c463",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "published": "2026-07-30T20:12:57+00:00",
+      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics."
+    },
     {
       "id": "3b9780638b73",
       "source": "TechCrunch",
@@ -113,6 +146,17 @@
       "summary": "Add another member to the fast-and-furious AI unicorn club: Simile"
     },
     {
+      "id": "a77814acb8a1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "published": "2026-07-30T17:31:07+00:00",
+      "summary": "Article URL: https://www.bottlenecklabs.com/blog/autonomously-run-businesses Comments URL: https://news.ycombinator.com/item?id=49113059 Points: 212 # Comments: 123"
+    },
+    {
       "id": "2eb35a80f5ea",
       "source": "GitHub Blog",
       "kind": "article",
@@ -210,6 +254,17 @@
       "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
       "published": "2026-07-30T16:33:32+00:00",
       "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price"
+    },
+    {
+      "id": "1c4dcb030746",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stacked PRs are now live on GitHub",
+      "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "published": "2026-07-30T16:26:16+00:00",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=49112232 Points: 270 # Comments: 100"
     },
     {
       "id": "48ce74e832e6",
