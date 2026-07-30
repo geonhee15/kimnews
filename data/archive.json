@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-30T18:18:55.047800+00:00",
-  "count": 7593,
+  "updated_at": "2026-07-30T20:01:03.407255+00:00",
+  "count": 7604,
   "items": [
+    {
+      "id": "3b9780638b73",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "published": "2026-07-30T19:44:16+00:00",
+      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
+    },
+    {
+      "id": "aab43ee25efe",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "래블업, GPU 운영 플랫폼으로 최단 기간 코스닥 상장예심 통과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213372",
+      "published": "2026-07-30T18:58:58+00:00",
+      "summary": "래블업(대표 신정규)은 한국거래소로부터 코스닥 상장을 위한 예비심사를 승인받았다고 30일 밝혔다.래블업은 상장예비심사를 45영업일 만에 통과하며 올해 코스닥 일반기업 상장예비심사 승인 중 최단 기간을 기록했다. 대표 주관사는 NH투자증권이다.2015년 설립된 래블업은 그래픽처리장치(GPU)를 비롯한 고성능 컴퓨팅 자원을 운영·관리하는 AI 인프라 플랫폼 '백엔드닷에이아이(Backend.AI)'를 운영 중이다.AI 모델의 개발과 학습, 배포 및 운영에 필요한 컴퓨팅 자원을 통합 관리하며, 소규모 연"
+    },
+    {
+      "id": "02d6d23795cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "published": "2026-07-30T18:57:58+00:00",
+      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools."
+    },
+    {
+      "id": "f7c0e13691cf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "published": "2026-07-30T18:43:26+00:00",
+      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI"
+    },
+    {
+      "id": "b848e4c8b94c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "published": "2026-07-30T18:40:52+00:00",
+      "summary": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/ Comments URL: https://news.ycombinator.com/item?id=49113929 Points: 261 # Comments: 165"
+    },
+    {
+      "id": "8eece402d6b7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+      "published": "2026-07-30T18:38:12+00:00",
+      "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports."
+    },
     {
       "id": "b4bd0039dcfd",
       "source": "TechCrunch",
@@ -20,6 +86,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "published": "2026-07-30T17:51:10+00:00",
+      "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results."
+    },
+    {
+      "id": "f15c0af4791a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
       "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
       "published": "2026-07-30T17:51:10+00:00",
       "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results."
@@ -80,6 +157,17 @@
       "summary": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas."
     },
     {
+      "id": "962ac7cffa30",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Read this before you buy that TV streaming stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "2026-07-30T17:04:53+00:00",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/ Comments URL: https://news.ycombinator.com/item?id=49112744 Points: 227 # Comments: 101"
+    },
+    {
       "id": "c57257384a18",
       "source": "The Verge",
       "kind": "article",
@@ -130,6 +218,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "published": "2026-07-30T16:09:42+00:00",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
+    },
+    {
+      "id": "6ba53b4772c3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "published": "2026-07-30T16:09:42+00:00",
       "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
@@ -520,6 +619,17 @@
       "summary": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield."
     },
     {
+      "id": "f8a9692a262f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'모두의 AI' 공모 마감 일주일 연장…8월18일까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213374",
+      "published": "2026-07-30T09:45:00+00:00",
+      "summary": "'모두의 AI' 참여 기업 공모 접수 기한이 일주일 연장됐다.정보통신산업진흥원(NIPA)은 모두의 AI 사업 참여 기업의 전산 접수 마감 기한을 기존 8월11일 오후 5시에서 8월18일 오후 5시로 일주일 연장한다고 밝혔다. 모두의 AI는 과학기술정보통신부와 NIPA가 추진하는 전 국민 무료 국산 AI 서비스 구축 사업이다. 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.사업 공모를 거쳐 8월 중 사업자를 선정하고, 9월 말 베타서비스를 거쳐 연내 출시될 예정이다."
+    },
+    {
       "id": "69895109c481",
       "source": "Wired",
       "kind": "article",
@@ -716,6 +826,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260730165958",
       "published": "2026-07-30T08:11:27+00:00",
       "summary": "[지디넷코리아]몬드리안에이아이가 글로벌 컨설팅사와 IT서비스 기업에서 28년 이상 디지털 전환(DX) 프로젝트를 수행한 전문가를 영입해 기업 인공지능 전환(AX) 공략에 박차를 가한다.몬드리안에이아이는 황상돈 최고전략책임자(CSO)를 영입했다고 30일 밝혔다.황 CSO는 미국 조지워싱턴대학교에서 경영정보학을 전공했으며 딜로이트 컨설팅과 커니, 포스코DX, 삼성SDS, 미국 EDS, CSC 등 글로벌 컨설팅사와 IT 기업에서 28년 이상 사업 전략과 디지털 전환(DX) 프로젝트를 수행해왔다.삼성전자"
+    },
+    {
+      "id": "2f619949b91b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "link": "https://www.grumpygamer.com/twp2_announce/",
+      "published": "2026-07-30T08:10:33+00:00",
+      "summary": "Article URL: https://www.grumpygamer.com/twp2_announce/ Comments URL: https://news.ycombinator.com/item?id=49107246 Points: 219 # Comments: 102"
     },
     {
       "id": "45369c1386b9",
