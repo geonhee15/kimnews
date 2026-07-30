@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-30T13:14:28.757113+00:00",
-  "count": 7560,
+  "updated_at": "2026-07-30T15:24:26.149620+00:00",
+  "count": 7575,
   "items": [
+    {
+      "id": "eada49175133",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "published": "2026-07-30T15:19:15+00:00",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
+    },
+    {
+      "id": "3fcc50c1c792",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "published": "2026-07-30T15:04:22+00:00",
+      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks."
+    },
+    {
+      "id": "7dc8dd43874e",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "published": "2026-07-30T15:00:59+00:00",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+    },
+    {
+      "id": "c7aa19727568",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "published": "2026-07-30T15:00:00+00:00",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
+    },
+    {
+      "id": "24c8ebf91cde",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "published": "2026-07-30T14:48:32+00:00",
+      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense."
+    },
+    {
+      "id": "3219c87797d0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+      "link": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+      "published": "2026-07-30T14:35:43+00:00",
+      "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annual"
+    },
+    {
+      "id": "7e4c5e4ecce8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s latest Surface Laptop is hundreds off at Best Buy",
+      "link": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
+      "published": "2026-07-30T14:22:20+00:00",
+      "summary": "If you’re keen on getting a laptop that looks fantastic, feels great to use, and doesn’t cost too much, well, pickings are slim right due to RAMageddon. However, there’s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft’s Arm-based, 13.8-inch Surface Lap"
+    },
+    {
+      "id": "ec7f36b4a534",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
+      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "published": "2026-07-30T13:30:52+00:00",
+      "summary": "The U.S. federal consumer watchdog said Hims & Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers."
+    },
     {
       "id": "d87181f128e6",
       "source": "TechCrunch",
@@ -12,6 +100,17 @@
       "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
       "published": "2026-07-30T13:09:03+00:00",
       "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi."
+    },
+    {
+      "id": "689d30aed902",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "link": "https://remysharp.com/links/2026-07-23-35890312",
+      "published": "2026-07-30T13:03:27+00:00",
+      "summary": "Article URL: https://remysharp.com/links/2026-07-23-35890312 Comments URL: https://news.ycombinator.com/item?id=49109440 Points: 366 # Comments: 133"
     },
     {
       "id": "370c6703518f",
@@ -58,6 +157,17 @@
       "summary": "Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music and more time moving,\" according to Spotify'"
     },
     {
+      "id": "f340e4a4f82e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "published": "2026-07-30T13:00:00+00:00",
+      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan."
+    },
+    {
       "id": "76a6bb2eabfc",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -102,12 +212,45 @@
       "summary": "Peter Parker’s isolation lands especially hard in the age of AI, a loneliness crisis, and endless scrolling."
     },
     {
+      "id": "2384a162a1c7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'손바닥에 쏙' 갤럭시Z폴드8 써보니…외신이 꼽은 장단점",
+      "link": "https://zdnet.co.kr/view/?no=20260730092345",
+      "published": "2026-07-30T10:55:52+00:00",
+      "summary": "[지디넷코리아]삼성전자가 엔터테인먼트 경험을 강화한 책(Book) 형태의 와이드 폴더블폰 '갤럭시Z폴드8'을 최근 공개했다.IT매체 씨넷과 엔가젯 등 외신은 29일(현지시간) 갤럭시Z폴드8을 직접 사용한 후기를 통해 제품의 장단점을 소개했다.갤럭시Z폴드8은 삼성의 새로운 기본형 북(Book) 타입 폴더블폰으로, 클램셸 형태의 갤럭시Z플립8과 최상위 모델 갤럭시Z폴드8 울트라 사이에 위치하는 제품이다.씨넷의 아브라르 알 하티 기자는 갤Z폴드8을 직접 사용해 본 결과, 접었을 때 손바닥 안에 들어오는"
+    },
+    {
+      "id": "4f82c4163897",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI 다음 대장주는 누구",
+      "link": "https://zdnet.co.kr/view/?no=20260730102740",
+      "published": "2026-07-30T10:54:46+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 AI 관련주 투자에 관심 많으시죠? 이제는 AI를 '만드는 회사'보다 AI를 '잘 활용하는 회사'가 다음 대장주로 떠오를 거란 전망이 나오고 있어요. 그런데 최근 한국 주식시장이 하루 만에 무려 10.8%나 급락하는 사건이 터지면서 투자자들의 불안감도 커졌는데요. AI 활용 기업들이 앞으로도 계속 잘나갈지에 대해서는 AI패널들 사이에서도 찬성 50, 반대 50으로 의견이 팽팽하게 갈리고 있는 상황이에요. 업계에서는 반도체를 만들고 AI를 똑똑"
+    },
+    {
       "id": "8498b05c2ddb",
       "source": "Wired",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "published": "2026-07-30T10:30:00+00:00",
+      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies."
+    },
+    {
+      "id": "ab6392c94986",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
       "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
       "published": "2026-07-30T10:30:00+00:00",
       "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies."
@@ -540,6 +683,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213359",
       "published": "2026-07-30T06:41:29+00:00",
       "summary": "엔비디아의 후원을 받으며 미국 오픈소스의 대표 주자로 부상한 리플렉션 AI(Reflection AI)가 AI 모델 출시 로드맵과 구체적인 모델 성능 사양을 공개했다. 하지만 오픈소스 전환 후 1년이 다 되도록 모델을 내놓지 못한 상태로, 그나마 출시될 모델도 성능은 기대에 못 미치는 것으로 알려졌다. 디 인포메이션에 따르면, 리플렉션 AI는 올해 안으로 첫 번째 오픈소스 AI 모델을 시장에 전격 선보일 계획이다. 회사 관계자에 따르면, 2027년 초에는 이를 확장한 고성능 대형 버전을 출시한다. "
+    },
+    {
+      "id": "0ad340bb7344",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "published": "2026-07-30T06:09:09+00:00",
+      "summary": ""
     },
     {
       "id": "5189caa5f130",
@@ -3235,6 +3389,17 @@
       "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
       "published": "2026-07-28T13:50:27+00:00",
       "summary": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad."
+    },
+    {
+      "id": "766d38f64237",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "published": "2026-07-28T13:21:37+00:00",
+      "summary": ""
     },
     {
       "id": "fd6eece9b59e",
