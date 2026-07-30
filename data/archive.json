@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-30T15:24:26.149620+00:00",
-  "count": 7575,
+  "updated_at": "2026-07-30T16:58:57.645306+00:00",
+  "count": 7584,
   "items": [
+    {
+      "id": "4e4499dcb677",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+      "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "published": "2026-07-30T16:57:39+00:00",
+      "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new foldable will look fairly similar to last year's "
+    },
+    {
+      "id": "04e81e93aad6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "published": "2026-07-30T16:33:32+00:00",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price"
+    },
+    {
+      "id": "48ce74e832e6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "published": "2026-07-30T16:09:42+00:00",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
+    },
+    {
+      "id": "222a21493e7c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The New Friend AI Pendant Can Now Talk Back to You",
+      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "published": "2026-07-30T16:00:00+00:00",
+      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality."
+    },
+    {
+      "id": "64a05d79b59f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Quantum computers outperform classical ones, with results you can trust",
+      "link": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+      "published": "2026-07-30T15:59:37+00:00",
+      "summary": "Three approaches to the issue of quantum results that can't be verified classically."
+    },
+    {
+      "id": "40caf44923c4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "published": "2026-07-30T15:41:16+00:00",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gamin"
+    },
     {
       "id": "eada49175133",
       "source": "TechCrunch",
@@ -47,6 +113,17 @@
       "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
     },
     {
+      "id": "998bc5658f09",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New MCP specification addresses the main barrier to enterprise adoption",
+      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+      "published": "2026-07-30T14:53:07+00:00",
+      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly."
+    },
+    {
       "id": "24c8ebf91cde",
       "source": "TechCrunch",
       "kind": "article",
@@ -80,6 +157,17 @@
       "summary": "If you’re keen on getting a laptop that looks fantastic, feels great to use, and doesn’t cost too much, well, pickings are slim right due to RAMageddon. However, there’s a good deal happening at Best Buy through Thursday, July 30th, on Microsoft’s Arm-based, 13.8-inch Surface Lap"
     },
     {
+      "id": "8285a8bc9c4a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "알티베이스, '육군 SW 개발자 콘퍼런스' 참여",
+      "link": "https://zdnet.co.kr/view/?no=20260730224049",
+      "published": "2026-07-30T13:40:49+00:00",
+      "summary": "[지디넷코리아]육군 소프트웨어(SW) 개발자의 전문 역량을 강화하고 민간 첨단기술 및 개발 경험을 공유하는 '육군 SW 개발자 콘퍼런스(ASDC)'가 지난 28일 충남 계룡대에서 개최됐다.육군과 한국상용인공지능소프트웨어협회가 공동 주최한 이번 콘퍼런스는 '인공지능(AI)과 함께 진화하는 육군 SW 개발자의 새로운 이정표'를 주제로 열렸다. 류승하 육군본부 정보화기획참모부장(소장)과 어윤호 한국상용인공지능소프트웨어협회장을 비롯해 군 관계자와 SW 개발자 등 150여 명이 참석했다.행사에서는 무기체계"
+    },
+    {
       "id": "ec7f36b4a534",
       "source": "TechCrunch",
       "kind": "article",
@@ -89,6 +177,17 @@
       "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
       "published": "2026-07-30T13:30:52+00:00",
       "summary": "The U.S. federal consumer watchdog said Hims & Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers."
+    },
+    {
+      "id": "91674101943e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "xAI, 美 미네소타주 상대 소송…\"딥페이크 금지법은 위헌\"",
+      "link": "https://zdnet.co.kr/view/?no=20260730222507",
+      "published": "2026-07-30T13:25:07+00:00",
+      "summary": "[지디넷코리아]일론 머스크가 이끄는 xAI가 현지 시각 7월 27일 미네소타 연방지방법원에 소송을 제기했다. 피고는 키스 엘리슨 미네소타주 법무장관이며, 사건번호는 0:26-cv-03425다. 소장을 낸 법인은 X.AI LLC다. xAI는 2026년 2월 스페이스X에 인수된 뒤 공식 사이트에서 '스페이스XAI'로 브랜드를 통합했다.대상은 미네소타주가 제정한 법안 HF 1606이다. 이 법은 동의 없이 특정인의 신체를 합성한 성적인 이미지, 이른바 '누디파이(nudification)' 이미지를 만드"
     },
     {
       "id": "d87181f128e6",
