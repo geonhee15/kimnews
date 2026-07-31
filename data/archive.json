@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-31T20:58:59.306855+00:00",
-  "count": 7712,
+  "updated_at": "2026-07-31T22:08:24.166686+00:00",
+  "count": 7717,
   "items": [
+    {
+      "id": "2bf31dadae95",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "published": "2026-07-31T22:00:00+00:00",
+      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
+    },
     {
       "id": "43c52cda6b3b",
       "source": "Ars Technica",
@@ -67,6 +78,17 @@
       "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
       "published": "2026-07-31T19:04:56+00:00",
       "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick."
+    },
+    {
+      "id": "46ce176df569",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "link": "https://tailscale.com/blog/hugging-face-intrusion",
+      "published": "2026-07-31T19:03:45+00:00",
+      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 264 # Comments: 104"
     },
     {
       "id": "b25e2d336f8a",
@@ -221,6 +243,39 @@
       "link": "https://john.fun/elevators",
       "published": "2026-07-31T15:17:28+00:00",
       "summary": "Article URL: https://john.fun/elevators Comments URL: https://news.ycombinator.com/item?id=49124218 Points: 570 # Comments: 157"
+    },
+    {
+      "id": "f5586a66cca6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "슈퍼마이크로, 정밀 설계된 AI 랙 시리즈로 DCBBS 확장하며 배포 및 온라인 가동 시간 단축",
+      "link": "https://zdnet.co.kr/view/?no=20260801001024",
+      "published": "2026-07-31T15:10:24+00:00",
+      "summary": "[지디넷코리아] 업계 최고 수준의 품질, 공장 사전 조립, 모듈식 설계를 통해 시스템 및 액체 냉각 구성요소의 신속한 통합을 지원하고 온라인 가동 시간(TTO) 단축 다양한 배포 환경을 지원하기 위해 당일 데이터 센터 통합이 가능하도록 44OU, 48U, 48OU, 52U로 구성된 랙 모델 10가지 제공 랙당 연산 능력을 극대화하여 연산 밀도 제고와 최적의 공간 활용을 가능하게 하는 최대 5500파운드/2,500kg이 넘는 정적 하중 용량 인증 성공 산호세, 캘리포니아, 2026년 7월 31일 /"
+    },
+    {
+      "id": "6adcd16f1777",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "몽타주 테크놀로지, 업계 최초 CXL 3.2 MXC 칩 시범 양산 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260801001014",
+      "published": "2026-07-31T15:10:14+00:00",
+      "summary": "[지디넷코리아]횡친, 중국 2026년 7월 31일 /PRNewswire/ -- 몽타주 테크놀로지(Montage Technology)가 AI와 클라우드 컴퓨팅, 데이터 센터 환경에서 급증하는 메모리 확장과 리소스 풀링 수요를 겨냥해 설계된 CXL® 3.2 Memory eXpander Controller(MXC) 칩을 업계 최초로 시범 양산한다고 7월 31일 발표했다. CXL 기술을 활용하는 칩으로 고객은 이를 통해 용량은 더 크고 리소스 활용도는 더 우수하며 유연성까지 좋은 메모리 인프라를 구축할 "
+    },
+    {
+      "id": "962902f3368b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DXC, AI 중심 미래를 앞당겨 줄 경영진 인선 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260801001003",
+      "published": "2026-07-31T15:10:03+00:00",
+      "summary": "[지디넷코리아]폴 테일러씨가 DXC 사장으로, 댄 그레이씨는 글로벌 인프라 서비스 총괄 애시번, 버지니아, 2026년 7월 31일 /PRNewswire/ -- 엔터프라이즈 기술과 혁신 파트너 기업 DXC 테크놀로지(DXC Technology)(NYSE: DXC)가 차세대 AI 중심 경영진을 회사 최전선에 배치하고 고객과 파트너, 임직원을 위해 조직을 더욱 간소화하고자 새 경영진을 잇달아 선임했다. Paul Taylor, President, DXC Technology 폴 테일러(Paul Taylor"
     },
     {
       "id": "6fc3afa1c90a",
