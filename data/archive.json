@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-31T14:56:42.182459+00:00",
-  "count": 7688,
+  "updated_at": "2026-07-31T16:43:24.481063+00:00",
+  "count": 7695,
   "items": [
+    {
+      "id": "675baf8e1bb8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The major labels propose rules to keep AI slop off the charts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "published": "2026-07-31T16:36:48+00:00",
+      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the R"
+    },
+    {
+      "id": "7f5e174262ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Siri AI could come with a paywall for power users",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "published": "2026-07-31T16:08:18+00:00",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
+    },
+    {
+      "id": "d75762f70f89",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "published": "2026-07-31T16:00:00+00:00",
+      "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "01f7de715233",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "published": "2026-07-31T15:37:58+00:00",
+      "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices."
+    },
+    {
+      "id": "6fc3afa1c90a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+      "published": "2026-07-31T15:00:09+00:00",
+      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait."
+    },
     {
       "id": "afcd3941be4b",
       "source": "Wired",
@@ -9,6 +64,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "published": "2026-07-31T14:47:26+00:00",
+      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners."
+    },
+    {
+      "id": "da8d8b8d4f9f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
       "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
       "published": "2026-07-31T14:47:26+00:00",
       "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners."
@@ -23,6 +89,17 @@
       "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
       "published": "2026-07-31T14:47:11+00:00",
       "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
+    },
+    {
+      "id": "5dce7881906b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이노디스크, AI 워크로드 지원하는 고속 DDR5 12800 MT/s MRDIMM 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260731231003",
+      "published": "2026-07-31T14:10:03+00:00",
+      "summary": "[지디넷코리아]타이베이 2026년 7월 31일 /PRNewswire/ -- 글로벌 AI 솔루션 선도 기업 이노디스크(Innodisk)가 생성형 AI, 대규모 언어 모델(LLM), 로보틱스 애플리케이션의 빠른 성장을 지원하는 DDR5 12800 MT/s MRDIMM을 출시했다. 데이터 전송률이 업계 최고 수준인 12800 MT/s에 달하는 첨단 메모리 모듈로 AI 기반 혁신의 증가하는 처리 수요에 대응할 수 있을 만큼 대역폭 효율성과 확장성이 우수하다. Innodisk introduces the D"
     },
     {
       "id": "c6f4d6dbdeb3",
