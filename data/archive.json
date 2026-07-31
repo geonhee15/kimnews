@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-31T19:51:27.694084+00:00",
-  "count": 7708,
+  "updated_at": "2026-07-31T20:58:59.306855+00:00",
+  "count": 7712,
   "items": [
+    {
+      "id": "43c52cda6b3b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "published": "2026-07-31T20:39:14+00:00",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison."
+    },
+    {
+      "id": "9560d424f9b6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "published": "2026-07-31T20:21:05+00:00",
+      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool."
+    },
     {
       "id": "f2a2bebb9730",
       "source": "TechCrunch",
@@ -34,6 +56,17 @@
       "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
       "published": "2026-07-31T19:13:29+00:00",
       "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentional"
+    },
+    {
+      "id": "dc4ffb913408",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "published": "2026-07-31T19:04:56+00:00",
+      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick."
     },
     {
       "id": "b25e2d336f8a",
@@ -78,6 +111,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
       "published": "2026-07-31T18:11:55+00:00",
       "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
+    },
+    {
+      "id": "91ea77e088fa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "qm",
+      "link": "https://github.com/yc-software/qm",
+      "published": "2026-07-31T18:04:58+00:00",
+      "summary": "Article URL: https://github.com/yc-software/qm Comments URL: https://news.ycombinator.com/item?id=49126604 Points: 238 # Comments: 53"
     },
     {
       "id": "52555cd61cd7",
