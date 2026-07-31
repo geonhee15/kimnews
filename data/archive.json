@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-07-31T18:11:21.654487+00:00",
-  "count": 7699,
+  "updated_at": "2026-07-31T19:51:27.694084+00:00",
+  "count": 7708,
   "items": [
+    {
+      "id": "f2a2bebb9730",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "published": "2026-07-31T19:47:28+00:00",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+    },
+    {
+      "id": "3550a55b6e0b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new AirTags are back down to their best price",
+      "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+      "published": "2026-07-31T19:35:45+00:00",
+      "summary": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If "
+    },
+    {
+      "id": "1728aaefde78",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Earth’s AI deepfake tool only lasted one day",
+      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "published": "2026-07-31T19:13:29+00:00",
+      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentional"
+    },
+    {
+      "id": "b25e2d336f8a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
+      "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+      "published": "2026-07-31T18:33:39+00:00",
+      "summary": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters. The preliminary investigation in"
+    },
+    {
+      "id": "b1f8ba083003",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google might launch a ‘Pixel Tag’",
+      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+      "published": "2026-07-31T18:27:24+00:00",
+      "summary": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that describes th"
+    },
+    {
+      "id": "4e58efa66f45",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "published": "2026-07-31T18:14:43+00:00",
+      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI."
+    },
+    {
+      "id": "d8dd4ad98d9b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "published": "2026-07-31T18:11:55+00:00",
+      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal."
+    },
     {
       "id": "52555cd61cd7",
       "source": "The Verge",
@@ -89,6 +166,17 @@
       "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
       "published": "2026-07-31T15:37:58+00:00",
       "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices."
+    },
+    {
+      "id": "a27419a78ef8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Elevators",
+      "link": "https://john.fun/elevators",
+      "published": "2026-07-31T15:17:28+00:00",
+      "summary": "Article URL: https://john.fun/elevators Comments URL: https://news.ycombinator.com/item?id=49124218 Points: 570 # Comments: 157"
     },
     {
       "id": "6fc3afa1c90a",
@@ -397,6 +485,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213398",
       "published": "2026-07-31T08:00:00+00:00",
       "summary": "■ 일레븐랩스는 기업용 AI 에이전트 플랫폼 '일레븐 에이전트'의 지원 채널을 확장했다고 밝혔다. 이번 업데이트로 SMS와 텔레그램 응대, 인터콤과 프레시데스크 연동이 신규 추가됐다. 이를 통해 기업은 반복 문의를 SMS로 해결하고, 지원팀은 인터콤이나 프레시데스크로 접수되는 업무를 에이전트가 처리하도록 자동화해 컨택센터와 고객 지원 운영 효율성을 높일 수 있다는 설명이다.■ 무하유(대표 신동호)는 일본 오사카에서 열린 '간사이 교육 ICT전'에 참가했다고 밝혔다. 무하유는 이번 전시에서 '참고문"
+    },
+    {
+      "id": "6b0ccd1719ad",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "published": "2026-07-31T07:59:11+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash Comments URL: https://news.ycombinator.com/item?id=49120299 Points: 464 # Comments: 253"
     },
     {
       "id": "cdad4f964f30",
