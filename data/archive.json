@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-31T22:08:24.166686+00:00",
-  "count": 7717,
+  "updated_at": "2026-07-31T23:15:39.945889+00:00",
+  "count": 7722,
   "items": [
+    {
+      "id": "68c9643af273",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "published": "2026-07-31T22:47:26+00:00",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+    },
     {
       "id": "2bf31dadae95",
       "source": "TechCrunch",
@@ -14,12 +25,56 @@
       "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
     },
     {
+      "id": "fd7233b2948e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[7월31일] 오픈AI, GPT-5.6 가격 인하의 비결은 '컴퓨트 멀티플라이어'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213385",
+      "published": "2026-07-31T22:00:00+00:00",
+      "summary": "오픈AI가 'GPT-5.6' 라인업의 가격을 대폭 인하했습니다. 가장 저렴한 모델인 'GPT-5.6 루나'는 API 가격을 무려 80% 낮췄으며, 'GPT-5.6 테라'도 20% 인하했습니다. 일부에서는 이번 조치로 기업공개(IPO)를 앞둔 오픈AI의 수익성이 나빠질 수도 있다고 지적했습니다. 그러나 이번 조치는 단순한 마케팅이나 가격 경쟁의 차원은 아닌 것으로 보입니다.하지만 이번 발표에서 주목할 것은 단순한 가격이 아니라 '왜 이렇게까지 가격을 낮출 수 있었느냐'입니다. 답은 모델이 아니라 추"
+    },
+    {
+      "id": "3342db931e73",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google plans to exempt sanctioned nations from Android developer verification",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+      "published": "2026-07-31T21:35:56+00:00",
+      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer."
+    },
+    {
+      "id": "2376ad6ba7b5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "published": "2026-07-31T21:19:39+00:00",
+      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper."
+    },
+    {
       "id": "43c52cda6b3b",
       "source": "Ars Technica",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "published": "2026-07-31T20:39:14+00:00",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison."
+    },
+    {
+      "id": "e430647e5986",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
       "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "published": "2026-07-31T20:39:14+00:00",
       "summary": "Had the hacks used conventional methods, someone would likely go to prison."
