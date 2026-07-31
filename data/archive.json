@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-30T23:41:32.324242+00:00",
-  "count": 7621,
+  "updated_at": "2026-07-31T01:13:52.454635+00:00",
+  "count": 7624,
   "items": [
+    {
+      "id": "afe46b8b76bd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"국내 최대 기록 경신\"...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213379",
+      "published": "2026-07-31T01:10:30+00:00",
+      "summary": "LG AI연구원은 과학기술정보통신부가 주관하는 '독자 AI 파운데이션 모델(독파모) 프로젝트' 2차 평가 모델인 'K-엑사원(K-EXAONE) 2.0'을 허깅페이스에 출시했다고 31일 밝혔다. 누구나 상업적 이용까지 가능한 '아파치 2.0' 라이선스로 공개했다.K-엑사원 2.0은 국내 최대 규모인 750B(7500억개) 매개변수로 구축됐으며, 1차 평가 모델(236B) 대비 크기가 3배 이상 커졌다. 또 SK텔레콤이 29일 공개한 'A.X K2'의 매개변수는 6880억개를 넘어섰다. LG AI연구"
+    },
+    {
+      "id": "56c3da11f948",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published": "2026-07-31T01:06:54+00:00",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+    },
     {
       "id": "d9b5a8ce4998",
       "source": "TechCrunch",
@@ -7316,6 +7338,17 @@
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "published": "2026-07-25T14:49:49+00:00",
       "summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 212 # Comments: 155"
+    },
+    {
+      "id": "2f9d1af1ce12",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "link": "https://obryant.dev/p/2x-not-10x/",
+      "published": "2026-07-25T14:27:05+00:00",
+      "summary": "Article URL: https://obryant.dev/p/2x-not-10x/ Comments URL: https://news.ycombinator.com/item?id=49047839 Points: 201 # Comments: 158"
     },
     {
       "id": "fa76654313ee",
