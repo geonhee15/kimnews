@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-31T12:19:44.337555+00:00",
-  "count": 7667,
+  "updated_at": "2026-07-31T14:56:42.182459+00:00",
+  "count": 7688,
   "items": [
+    {
+      "id": "afcd3941be4b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+      "link": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "published": "2026-07-31T14:47:26+00:00",
+      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners."
+    },
+    {
+      "id": "3da3fdaa27b2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "published": "2026-07-31T14:47:11+00:00",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
+    },
+    {
+      "id": "c6f4d6dbdeb3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It’s time to panic about AI safety",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "published": "2026-07-31T14:03:04+00:00",
+      "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly s"
+    },
+    {
+      "id": "7f10258f78af",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "published": "2026-07-31T14:01:40+00:00",
+      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans."
+    },
+    {
+      "id": "963a599c8283",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "published": "2026-07-31T13:41:17+00:00",
+      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer pl"
+    },
+    {
+      "id": "677492153e9f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "D&D is getting World of Warcraft and Star Wars crossovers",
+      "link": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
+      "published": "2026-07-31T12:31:00+00:00",
+      "summary": "Dungeons & Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast (WotC) has announced that D&D: World of Warcraft - a new sourcebook that brings Blizzar"
+    },
     {
       "id": "2988e1c738fb",
       "source": "TechCrunch",
@@ -25,6 +91,50 @@
       "summary": "Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is \"inspired\" by the 1991 film of the same name (Martin Scorsese and Steven Spielberg even returned as executive producers"
     },
     {
+      "id": "0dc016e1fa47",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The End of an Era",
+      "link": "https://hughhowey.com/the-end-of-an-era/",
+      "published": "2026-07-31T11:51:46+00:00",
+      "summary": "Article URL: https://hughhowey.com/the-end-of-an-era/ Comments URL: https://news.ycombinator.com/item?id=49121980 Points: 224 # Comments: 244"
+    },
+    {
+      "id": "689480349287",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "e&, 2026년 상반기 연결 매출 381억 디르함 달성하며 11.6% 증가",
+      "link": "https://zdnet.co.kr/view/?no=20260731201003",
+      "published": "2026-07-31T11:10:03+00:00",
+      "summary": "[지디넷코리아] 상반기 연결 매출 381억 디르함으로 증가하며 전년 동기 대비 11.6% 성장 달성 그룹 연결 순이익 60억 디르함 달성, 전년 동기 대비 2.4% 성장(2025년 상반기 카즈나 매각 이익 및 마록 텔레콤 합의금 제외) EBITDA 177억 디르함 달성, 전년 동기 대비 13.1% 증가, 이익률 46.5% 기록 중간 DPS 주당 47.5필스, 전년 동기 대비 10.5% 증가 시장가 대비 프리미엄을 적용한 보다폰 지분 매각 및 카림 테크놀로지 지분 12.5% 부분 매각을 통해 핵심 "
+    },
+    {
+      "id": "163b87b175f3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "published": "2026-07-31T11:00:52+00:00",
+      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file."
+    },
+    {
+      "id": "3b4290f65112",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "나노종합기술원-오에이큐, 대전시와 양자센서 MOU",
+      "link": "https://zdnet.co.kr/view/?no=20260731192908",
+      "published": "2026-07-31T10:29:08+00:00",
+      "summary": "[지디넷코리아]나노종합기술원과 양자센싱 전문기업 오에이큐, 대전시는 31일 나노종합기술원에서 ‘양자센서 산업 육성 및 대전 양자 소재·부품·장비 거점 조성을 위한 업무협약’을 체결했다.협약에는 박흥수 나노종합기술원장과 양승찬 대전시 미래전략산업실장, 이덕영 오에이큐 대표 등이 참석했다.세 기관은 ▲양자 하드웨어용 미세전자기계시스템(MEMS) 원자증기셀 및 핵심부품 패키징 공정기술 공동개발 ▲양자 자기장 센서 성능 측정·평가 및 실증 플랫폼 구축 ▲양자센서 기반 산업·안전 분야 응용 및 사업화 ▲원"
+    },
+    {
       "id": "128cb72a94f0",
       "source": "Wired",
       "kind": "article",
@@ -34,6 +144,39 @@
       "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
       "published": "2026-07-31T10:00:00+00:00",
       "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency."
+    },
+    {
+      "id": "89d63876d423",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "242억원 국방 초거대 AI, 우선협상자에 한화시스템 컨소시엄",
+      "link": "https://zdnet.co.kr/view/?no=20260731183622",
+      "published": "2026-07-31T09:39:22+00:00",
+      "summary": "[지디넷코리아]군 지휘통제 현장에 투입될 인공지능(AI) 플랫폼을 구축하는 242억원 규모 국방 거대언어모델(LLM) 사업자로 사실상 한화시스템이 선정된 것으로 확인됐다. 31일 업계에 따르면 국방부가 발주한 '초거대 인공지능 기반 지휘통제체계 기술 개발 사업'에 한화시스템 컨소시엄이 우선협상대상자로 선정됐다. 이 사업은 오는 9월부터 2030년 2월까지 42개월간 총 242억원을 들여 국방 특화 초거대 AI 플랫폼을 구축하는 것이 골자다. 합동 전영역 지휘통제(JADC2)를 목표로 텍스트·이미지"
+    },
+    {
+      "id": "e0e86e2115f3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "알뜰폰 \"8월부터 QoS 요금제 출시...국민 통신비 부담 완화될 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260731181258",
+      "published": "2026-07-31T09:37:07+00:00",
+      "summary": "[지디넷코리아]알뜰폰도 기본 데이터 소진 후 일정 속도로 인터넷을 계속 쓸 수 있는 ‘데이터 안심옵션(QoS)’ 적용 요금제를 오는 8월부터 출시한다. 과학기술정보통신부가 이같은 내용을 담은 알뜰폰 활성화 방안을 발표하자 업계가 환영의 뜻을 밝혔다.한국알뜰통신사업자협회는 \"알뜰폰 사업자들은 요금 경쟁력을 더욱 높일 수 있는 기반과 함께 새로운 혁신을 위한 성장 동력을 확보하게 됐다\"며 \"알뜰폰이 단순한 저가 서비스 제공자를 넘어 이동통신 시장의 실질적인 경쟁 주체로 도약하는 중요한 전환점이 될 것"
+    },
+    {
+      "id": "2c962fa9f74f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "우클라 마닐라 연구 결과: 통신사 VoLTE 네트워크, 음성 품질 및 안정성에서 OTT 앱 능가",
+      "link": "https://zdnet.co.kr/view/?no=20260731181003",
+      "published": "2026-07-31T09:10:03+00:00",
+      "summary": "[지디넷코리아]마닐라, 필리핀 2026년 7월 27일 /PRNewswire/ -- 우클라(Ookla)의 종합적인 통제 네트워크 테스트 결과, 기존 이동통신사 네트워크가 왓츠앱(WhatsApp)과 같은 OTT(Over-the-Top) 애플리케이션에 비해 측정 가능한 수준에서 우수한 음성 경험을 제공하는 것으로 나타났으며, 특히 음질, 약한 신호 환경에서의 안정성, 통화 신뢰성 등 핵심 영역에서 그 차이가 두드러졌다. 필리핀 3대 이동통신사인 스마트 커뮤니케이션(Smart Communications)"
     },
     {
       "id": "8e852afed597",
@@ -47,6 +190,28 @@
       "summary": "구글 딥마인드가 AI를 디지털 영역에서 실제 물리 세계로 확장하기 위한 핵심 기술을 공개했다. 새로운 ‘제미나이 로보틱스 2(Gemini Robotics 2)’는 로봇이 주변 환경을 이해하고 스스로 작업 계획을 세우며, 손끝부터 다리까지 전신을 제어할 수 있도록 설계된 차세대 로봇 AI 모델이다. 구글 딥마인드는 30일(현지시간) 로봇이 인간처럼 주변 환경을 이해하고 스스로 판단하며 복잡한 작업을 수행할 수 있도록 하는 차세대 로봇 AI 플랫폼 ‘제미나이 로보틱스 2(Gemini Robotics "
     },
     {
+      "id": "e415a92988a2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK실트론 품는 두산…반도체 매출 키우지만 시너지 창출 '난망'",
+      "link": "https://zdnet.co.kr/view/?no=20260731091047",
+      "published": "2026-07-31T08:55:28+00:00",
+      "summary": "[지디넷코리아]SK가 웨이퍼 제조기업 SK실트론 지분을 두산에 매각한다. SK실트론의 연 매출은 2조원대로, 두산이 추진해 온 반도체 사업 확대 크게 기여할 것으로 기대된다.다만 SK실트론 인수에 따른 시너지 효과는 기대하기 힘들다는 게 업계 전망이다. SK실트론은 반도체 원소재인 웨이퍼를 제조하는 기업으로, 패키징 사업에 무게를 두고 있는 기존 두산과 사업 연계점이 전무한 수준이다.SK그룹은 31일 이사회를 열고 두산에 SK실트론을 양도하기로 결의했다. 처분주식 수는 4732만 2350주, 처분"
+    },
+    {
+      "id": "c9850f075f36",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가비아, 독립 특별위원회 설치…맥쿼리 공개매수 공정성 검토 착수",
+      "link": "https://zdnet.co.kr/view/?no=20260731175156",
+      "published": "2026-07-31T08:53:35+00:00",
+      "summary": "[지디넷코리아]가비아가 맥쿼리자산운용의 공개매수와 자진 상장폐지 추진과 관련해 독립 특별위원회를 설치하고 거래 공정성 검토에 착수했다. 행동주의 펀드 얼라인파트너스가 요구한 주주서한에 대한 공식 회신은 이사회 검토를 거쳐 다음 달 7일 공개하기로 했다.가비아는 지난 30일 이사회 결의를 통해 지배주주 및 거래 성사 여부로부터 독립성을 갖춘 독립이사 2인 구성 특별위원회 설치를 결정했다고 31일 밝혔다.회사는 클라우드와 인터넷 데이터센터(IDC), 도메인·호스팅 서비스를 제공하는 국내 IT 인프라 "
+    },
+    {
       "id": "95ecc0cffae9",
       "source": "AI타임스",
       "kind": "article",
@@ -56,6 +221,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213403",
       "published": "2026-07-31T08:47:52+00:00",
       "summary": "기업들의 AI 도입이 가속하는 가운데, 아마존 내부에서 AI 활용 과정의 비용 통제 실패 사례가 잇따라 드러났다. 과거에는 몇 달러 수준으로 해결할 수 있었던 단순한 코딩 오류나 설정 실수가 AI 모델 사용 환경에서는 수백만달러 규모의 예산 낭비로 이어지면서, 생성 AI 시대의 새로운 비용 관리 문제가 부상하고 있다.30일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 내부 보고서를 통해 생성 AI 프로젝트에서 발생한 대규모 예산 초과 사례를 분석하며 비용 관리 체계를 재정비하고 있다.특히 A"
+    },
+    {
+      "id": "072973c3b34e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"플랫폼 역량 더 강화\"…SOOP, 하반기 ‘체질 개선’ 힘 준다",
+      "link": "https://zdnet.co.kr/view/?no=20260731172801",
+      "published": "2026-07-31T08:45:25+00:00",
+      "summary": "[지디넷코리아]네이버 치지직과 치열해진 경쟁 환경 속에서 SOOP은 경쟁사의 움직임에 대응하기 보다는 자사 경쟁력을 강화하는 데 초점을 맞춘다. 하반기에는 성장 프로그램 도입을 통해 신규 스트리머의 진입을 돕고, 그룹 전체 마케팅 역량을 한 데 모은 컨설팅 브랜드도 공개한다.이민원 SOOP 대표는 31일 열린 2분기 실적발표 컨퍼런스콜에서 “플랫폼 사업에서 경쟁 자체는 새로운 일이 아니”라며 “특정 경쟁사의 움직임에 대응하는 것보다 자사가 가진 경쟁력을 얼마나 잘 강화하느냐가 중요하다”고 말했다."
     },
     {
       "id": "115ba18bbdaf",
@@ -122,6 +298,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213414",
       "published": "2026-07-31T07:49:28+00:00",
       "summary": "미국 정부가 국가안보를 이유로 외국산 첨단 로봇에 대한 수입 규제를 확대하면서 휴머노이드 로봇을 넘어 로봇청소기까지 규제 대상에 포함했다. 이에 따라 글로벌 시장을 장악하고 있는 중국 로봇청소기 제조사들의 미국 사업에도 상당한 영향을 미칠 것으로 전망된다.사우스차이나모닝포스트 등에 따르면, 미국 연방통신위원회(FCC)는 28일(현지시간) 외국산 '첨단 로봇 장치(Advanced Robotic Devices)'를 국가안보상 위험 장비 목록(Covered List)에 추가하면서, 생활형 서비스 로봇인"
+    },
+    {
+      "id": "29a52452b542",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "published": "2026-07-31T07:29:22+00:00",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/ Comments URL: https://news.ycombinator.com/item?id=49120097 Points: 301 # Comments: 268"
     },
     {
       "id": "de46ccf5c67b",
@@ -410,6 +597,17 @@
       "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations."
     },
     {
+      "id": "02c6e8e987de",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "published": "2026-07-31T01:24:26+00:00",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations."
+    },
+    {
       "id": "afe46b8b76bd",
       "source": "AI타임스",
       "kind": "article",
@@ -430,6 +628,17 @@
       "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "published": "2026-07-31T01:06:54+00:00",
       "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+    },
+    {
+      "id": "7be00a0aa445",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Religion of Speed",
+      "link": "https://graybeard.ing/the-religion-of-speed/",
+      "published": "2026-07-30T23:43:22+00:00",
+      "summary": "Article URL: https://graybeard.ing/the-religion-of-speed/ Comments URL: https://news.ycombinator.com/item?id=49117284 Points: 228 # Comments: 116"
     },
     {
       "id": "d9b5a8ce4998",
@@ -540,6 +749,17 @@
       "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
       "published": "2026-07-30T22:10:13+00:00",
       "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XB"
+    },
+    {
+      "id": "53bf3035447f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
+      "link": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+      "published": "2026-07-30T22:05:35+00:00",
+      "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases."
     },
     {
       "id": "c477923a5689",
@@ -683,6 +903,17 @@
       "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
       "published": "2026-07-30T18:05:21+00:00",
       "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+    },
+    {
+      "id": "31bfd7f52984",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "published": "2026-07-30T17:58:02+00:00",
+      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now."
     },
     {
       "id": "520f753ee8fc",
