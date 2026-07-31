@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-31T07:35:26.641844+00:00",
-  "count": 7652,
+  "updated_at": "2026-07-31T10:15:52.541795+00:00",
+  "count": 7663,
   "items": [
+    {
+      "id": "128cb72a94f0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+      "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+      "published": "2026-07-31T10:00:00+00:00",
+      "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of security and transparency."
+    },
+    {
+      "id": "8e852afed597",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213392",
+      "published": "2026-07-31T09:03:12+00:00",
+      "summary": "구글 딥마인드가 AI를 디지털 영역에서 실제 물리 세계로 확장하기 위한 핵심 기술을 공개했다. 새로운 ‘제미나이 로보틱스 2(Gemini Robotics 2)’는 로봇이 주변 환경을 이해하고 스스로 작업 계획을 세우며, 손끝부터 다리까지 전신을 제어할 수 있도록 설계된 차세대 로봇 AI 모델이다. 구글 딥마인드는 30일(현지시간) 로봇이 인간처럼 주변 환경을 이해하고 스스로 판단하며 복잡한 작업을 수행할 수 있도록 하는 차세대 로봇 AI 플랫폼 ‘제미나이 로보틱스 2(Gemini Robotics "
+    },
+    {
+      "id": "95ecc0cffae9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"단순 실수가 26억 손실로\"…아마존, AI 도입 중 예산 860% 폭증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213403",
+      "published": "2026-07-31T08:47:52+00:00",
+      "summary": "기업들의 AI 도입이 가속하는 가운데, 아마존 내부에서 AI 활용 과정의 비용 통제 실패 사례가 잇따라 드러났다. 과거에는 몇 달러 수준으로 해결할 수 있었던 단순한 코딩 오류나 설정 실수가 AI 모델 사용 환경에서는 수백만달러 규모의 예산 낭비로 이어지면서, 생성 AI 시대의 새로운 비용 관리 문제가 부상하고 있다.30일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 내부 보고서를 통해 생성 AI 프로젝트에서 발생한 대규모 예산 초과 사례를 분석하며 비용 관리 체계를 재정비하고 있다.특히 A"
+    },
+    {
+      "id": "115ba18bbdaf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"악성 문서 읽고 파일 유출\"...MS 코파일럿서 보안 허점 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213408",
+      "published": "2026-07-31T08:26:29+00:00",
+      "summary": "AI를 활용한 사이버 보안 경쟁이 본격화하는 가운데, 기업용 AI 서비스의 보안 취약점이 잇따라 드러나고 있다. 최근 허깅페이스 해킹 사태에 이어 마이크로소프트(MS)의 기업용 AI 비서 '코파일럿(Copilot)'에서도 민감한 기업 데이터를 외부로 유출할 수 있는 취약점이 발견되면서, 보안을 강화하기 위해 도입한 AI가 오히려 새로운 공격 경로가 될 수 있다는 우려가 커지고 있다.디 인포메이션은 30일(현지시간) MS의 오피스 365용 AI 기능인 코파일럿에서 해커가 기업 내부 파일과 이메일을 "
+    },
+    {
+      "id": "1724adf9cda6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 내몽골에 1GW AI 데이터센터 구축 추진...'중국 최대 규모급'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213416",
+      "published": "2026-07-31T08:14:12+00:00",
+      "summary": "딥시크가 내몽골에 1기가와트(GW) 규모의 초대형 AI 데이터센터 구축을 추진하며 자체 컴퓨팅 인프라 확장에 본격적으로 나선다. 자체 데이터센터 건설과 외부 컴퓨팅 자원 임대를 병행해 대규모 AI 모델 학습 및 서비스 운영 능력을 확보하려는 전략으로 풀이된다.30일(현지시간) 블룸버그에 따르면, 딥시크는 내몽골 울란차브 지역에 총 1GW 규모의 AI 데이터센터 캠퍼스를 조성하는 방안을 추진하는 것으로 알려졌다.이는 미국 빅테크들이 추진하는 3~5GW급 프로젝트에는 미치지 못하지만, 현재 중국 기업"
+    },
+    {
+      "id": "6994ca5a3ee2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 맥OS용 '제미나이'에 음성 AI 도입…작업 중 말로 AI 직접 제어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213412",
+      "published": "2026-07-31T08:04:03+00:00",
+      "summary": "구글이 맥OS용 '제미나이' 데스크톱 앱에 음성 기반 AI 기능을 도입, 사용자는 작업 중인 앱을 벗어나지 않고도 음성만으로 텍스트 입력과 문서 편집, 요약, 이미지 생성 등을 수행할 수 있게 됐다. 최근 오픈AI와 앤트로픽이 데스크톱 AI의 음성 기능을 강화하는 가운데, 구글도 음성 AI를 운영체제 전반에 통합하는 모습이다.구글은 29일(현지시간) 맥OS용 제미나이 앱에 '창에 말하기(Speak to Window)' 기능을 글로벌 출시한다고 밝혔다.현재는 영어를 지원하며, 앞으로 다른 언어도 추"
+    },
+    {
+      "id": "1fdc577ea8e2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 일레븐랩스, 기업용 AI 에이전트에 고객상담 채널 확대 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213398",
+      "published": "2026-07-31T08:00:00+00:00",
+      "summary": "■ 일레븐랩스는 기업용 AI 에이전트 플랫폼 '일레븐 에이전트'의 지원 채널을 확장했다고 밝혔다. 이번 업데이트로 SMS와 텔레그램 응대, 인터콤과 프레시데스크 연동이 신규 추가됐다. 이를 통해 기업은 반복 문의를 SMS로 해결하고, 지원팀은 인터콤이나 프레시데스크로 접수되는 업무를 에이전트가 처리하도록 자동화해 컨택센터와 고객 지원 운영 효율성을 높일 수 있다는 설명이다.■ 무하유(대표 신동호)는 일본 오사카에서 열린 '간사이 교육 ICT전'에 참가했다고 밝혔다. 무하유는 이번 전시에서 '참고문"
+    },
+    {
+      "id": "cdad4f964f30",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미 법원 \"증거 부족\"...트럼프 행정부의 앤트로픽 제재 '무효화' 가능성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213420",
+      "published": "2026-07-31T07:56:04+00:00",
+      "summary": "미국 연방법원이 트럼프 행정부가 앤트로픽을 ‘공급망 위험' 기업으로 지정하고 연방기관 사용을 금지한 조치에 대해 충분한 근거가 부족하다는 판단을 내놓았다. 법원은 정부가 제시한 안보 우려가 법적 조치를 정당화할 수준에 이르지 못했다고 지적하면서 금지 조치의 영구 취소 가능성이 커지고 있다.블룸버그 등에 따르면, 미국 캘리포니아 북부 지방법원의 리타 F. 린 판사는 30일(현지시간) 열린 심리에서 트럼프 행정부가 앤트로픽을 연방정부 공급망 위험 기업으로 지정한 결정에 대해 “실제로 정당화할 만한 충"
+    },
+    {
+      "id": "0732b2e4190f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 외국산 로봇청소기 수입 규제 대상 포함…중국 업체 '비상'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213414",
+      "published": "2026-07-31T07:49:28+00:00",
+      "summary": "미국 정부가 국가안보를 이유로 외국산 첨단 로봇에 대한 수입 규제를 확대하면서 휴머노이드 로봇을 넘어 로봇청소기까지 규제 대상에 포함했다. 이에 따라 글로벌 시장을 장악하고 있는 중국 로봇청소기 제조사들의 미국 사업에도 상당한 영향을 미칠 것으로 전망된다.사우스차이나모닝포스트 등에 따르면, 미국 연방통신위원회(FCC)는 28일(현지시간) 외국산 '첨단 로봇 장치(Advanced Robotic Devices)'를 국가안보상 위험 장비 목록(Covered List)에 추가하면서, 생활형 서비스 로봇인"
+    },
     {
       "id": "de46ccf5c67b",
       "source": "AI타임스",
@@ -135,6 +234,17 @@
       "summary": "AI가 일자리를 빼앗을 것이라는 기존의 우려와 달리, 실제 노동 시장에 미치는 가장 큰 위협은 고용 감소가 아닌 근로자의 월급을 깎아내리는 '임금 압박'이라는 실증 연구 결과가 나왔다.아폴로 글로벌 매니지먼트의 사니아 에들리치 애널리스트와 토르스텐 슬록 수석 경제학자는 30일(현지시간) 미국 노동통계국의 321개 직종 데이터와 앤트로픽의 AI 활용 데이터를 종합 분석한 백서를 공개했다.이번 연구는 이론적 예측에 의존했던 기존 보고서들과 달리, 실제 '클로드' 사용 로그 데이터를 바탕으로 AI 영향"
     },
     {
+      "id": "9dbd4a59a0b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek-V4-Flash Update",
+      "link": "https://api-docs.deepseek.com/updates/",
+      "published": "2026-07-31T06:08:36+00:00",
+      "summary": "Article URL: https://api-docs.deepseek.com/updates/ Comments URL: https://news.ycombinator.com/item?id=49119559 Points: 286 # Comments: 121"
+    },
+    {
       "id": "a37a87cde0c4",
       "source": "조코딩",
       "kind": "youtube",
@@ -188,6 +298,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213386",
       "published": "2026-07-31T03:48:02+00:00",
       "summary": "애플이 시장 예상치를 웃도는 분기 실적을 발표했지만, AI 데이터센터 투자 확대에 따른 메모리 반도체 부족과 첨단 칩 공급 제약을 경고하면서 투자자들의 우려가 커지고 있다. 실적 발표 직후 주가는 시간외 거래에서 4~6.6%가량 급락했다.애플은 30일(현지시간) 분기 매출이 1094억2000만달러(약 157조원)로 전년 대비 16.4% 증가했다고 발표했다.이는 시장 예상치인 1086억5000만달러를 웃도는 수준이다. 주당순이익도 2.02달러로 월가 전망치인 1.89달러를 상회했다.특히 아이폰 매출"
+    },
+    {
+      "id": "ca97bed3916f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The session you cannot take with you",
+      "link": "https://earendil.com/posts/session-portability/",
+      "published": "2026-07-31T03:47:59+00:00",
+      "summary": "Article URL: https://earendil.com/posts/session-portability/ Comments URL: https://news.ycombinator.com/item?id=49118781 Points: 353 # Comments: 79"
     },
     {
       "id": "f07b5c83711d",
