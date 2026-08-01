@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-01T20:44:19.747558+00:00",
-  "count": 7790,
+  "updated_at": "2026-08-01T21:38:41.990495+00:00",
+  "count": 7793,
   "items": [
+    {
+      "id": "df9354721796",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "published": "2026-08-01T21:31:24+00:00",
+      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but wil"
+    },
     {
       "id": "dda64ad78079",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "published": "2026-08-01T19:45:45+00:00",
       "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+    },
+    {
+      "id": "7420bd71aada",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google has abandoned Google News?",
+      "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "published": "2026-08-01T19:39:43+00:00",
+      "summary": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 204 # Comments: 139"
     },
     {
       "id": "303423647794",
@@ -471,6 +493,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "'딥시크-V4-플래시-0731' API 출시...\"사후학습으로 에이전트 성능 향상\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213429",
+      "published": "2026-08-01T01:03:13+00:00",
+      "summary": "딥시크가 차세대 경량 AI 모델 '딥시크-V4-플래시-0731(DeepSeek-V4-Flash-0731)'의 공식 API를 퍼블릭 베타로 공개했다. 기존 '딥시크-V4 프로 프리뷰' 버전과 동일한 아키텍처와 모델 크기를 유지한 채 사후학습(Post-training)만 다시 수행했음에도 에이전트 성능이 대폭 향상, 대부분 핵심 벤치마크에서 성능을 뛰어넘었다. 딥시크는 31일(현지시간) 공식 API의 퍼블릭 베타를 시작하며 최신 모델인 딥시크-V4-플래시-0731을 공개했다.개발자는 기존과 동일하게 "
+    },
+    {
+      "id": "54a9e4edd182",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'딥시크-V4-플래시-0731' API 출시...\"에이전트 성능 향상\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213429",
       "published": "2026-08-01T01:03:13+00:00",
       "summary": "딥시크가 차세대 경량 AI 모델 '딥시크-V4-플래시-0731(DeepSeek-V4-Flash-0731)'의 공식 API를 퍼블릭 베타로 공개했다. 기존 '딥시크-V4 프로 프리뷰' 버전과 동일한 아키텍처와 모델 크기를 유지한 채 사후학습(Post-training)만 다시 수행했음에도 에이전트 성능이 대폭 향상, 대부분 핵심 벤치마크에서 성능을 뛰어넘었다. 딥시크는 31일(현지시간) 공식 API의 퍼블릭 베타를 시작하며 최신 모델인 딥시크-V4-플래시-0731을 공개했다.개발자는 기존과 동일하게 "
