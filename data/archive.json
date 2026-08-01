@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-01T18:40:18.383726+00:00",
-  "count": 7784,
+  "updated_at": "2026-08-01T19:54:03.212569+00:00",
+  "count": 7789,
   "items": [
+    {
+      "id": "dda64ad78079",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published": "2026-08-01T19:45:45+00:00",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+    },
+    {
+      "id": "303423647794",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "published": "2026-08-01T18:47:27+00:00",
+      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing."
+    },
     {
       "id": "4af39934a942",
       "source": "The Verge",
@@ -25,6 +47,17 @@
       "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
     },
     {
+      "id": "ef269b53b584",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "link": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "published": "2026-08-01T15:25:21+00:00",
+      "summary": "Article URL: https://forum.cursor.com/t/usage-page-to-token-amount-what/167153 Comments URL: https://news.ycombinator.com/item?id=49135257 Points: 217 # Comments: 97"
+    },
+    {
       "id": "3f3afb29b005",
       "source": "TechCrunch",
       "kind": "article",
@@ -34,6 +67,17 @@
       "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
       "published": "2026-08-01T15:05:00+00:00",
       "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships."
+    },
+    {
+      "id": "3eb0cca66d41",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "link": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "published": "2026-08-01T14:19:51+00:00",
+      "summary": "Article URL: https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/ Comments URL: https://news.ycombinator.com/item?id=49134694 Points: 202 # Comments: 116"
     },
     {
       "id": "d675a3d988d5",
@@ -56,6 +100,17 @@
       "link": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
       "published": "2026-08-01T13:00:00+00:00",
       "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron "
+    },
+    {
+      "id": "d1d3a882ca8d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "published": "2026-08-01T12:34:25+00:00",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/issues/3494 Comments URL: https://news.ycombinator.com/item?id=49133889 Points: 209 # Comments: 145"
     },
     {
       "id": "ddf32d1fdb71",
