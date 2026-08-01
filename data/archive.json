@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T15:18:41.798617+00:00",
-  "count": 7780,
+  "updated_at": "2026-08-01T16:28:56.016110+00:00",
+  "count": 7781,
   "items": [
     {
       "id": "3f3afb29b005",
@@ -163,6 +163,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "published": "2026-08-01T09:30:00+00:00",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?"
+    },
+    {
+      "id": "05089894631d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
       "published": "2026-08-01T09:30:00+00:00",
       "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?"
