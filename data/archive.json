@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-02T12:14:34.700730+00:00",
-  "count": 7844,
+  "updated_at": "2026-08-02T13:57:25.203745+00:00",
+  "count": 7847,
   "items": [
+    {
+      "id": "85314a9ccaa0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "published": "2026-08-02T13:00:00+00:00",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's n"
+    },
     {
       "id": "c5ddf155abf4",
       "source": "The Verge",
@@ -12,6 +23,17 @@
       "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
       "published": "2026-08-02T12:00:00+00:00",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe"
+    },
+    {
+      "id": "62bc48ec1569",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] 삼전닉스 기원 '데이터 센터' 게임으로 배워보기",
+      "link": "https://www.youtube.com/watch?v=KrE6zFGbD8s",
+      "published": "2026-08-02T11:53:59+00:00",
+      "summary": ""
     },
     {
       "id": "3d852452531f",
@@ -276,6 +298,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213446",
       "published": "2026-08-02T02:11:36+00:00",
       "summary": "호주 정부가 세계 최초로 시행한 16세 미만 청소년 소셜미디어 이용 금지 정책이 시행 3개월 동안 기대에 못 미치는 효과를 거둔 것으로 나타났다. 호주 온라인 안전규제기관(eSafety)은 31일(현지시간) 발표한 첫 평가 보고서를 통해 올해 3월 기준 16세 미만 청소년 가운데 최소 한 개 이상의 소셜미디어 플랫폼을 이용한다고 답한 비율은 81.5%였다고 보도했다.이는 법 시행 전인 지난해 12월의 85.9%에서 4.4%포인트 감소한 수치로, 규제 시행에도 불구하고 여전히 10명 중 8명 이상이"
+    },
+    {
+      "id": "65b5218e7fcc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "link": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "published": "2026-08-02T02:07:09+00:00",
+      "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 202 # Comments: 71"
     },
     {
       "id": "1ef38a11d42f",
