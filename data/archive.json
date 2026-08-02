@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-02T16:11:51.123958+00:00",
-  "count": 7851,
+  "updated_at": "2026-08-02T17:14:56.039009+00:00",
+  "count": 7853,
   "items": [
+    {
+      "id": "2b4426f86496",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "published": "2026-08-02T16:14:20+00:00",
+      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £170. The 1TB Xbox Series X with a disc d"
+    },
     {
       "id": "2e0aa6b0c533",
       "source": "TechCrunch",
@@ -31,6 +42,17 @@
       "category": "AI",
       "lang": "en",
       "title": "New AI Learned Parkour From Just 30 Seconds Of Video",
+      "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "published": "2026-08-02T15:01:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ca509969e81f",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI Learns Why Copying Humans Isn't Enough",
       "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
       "published": "2026-08-02T15:01:10+00:00",
       "summary": ""
