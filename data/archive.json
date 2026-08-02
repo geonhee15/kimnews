@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-02T07:17:41.513599+00:00",
-  "count": 7832,
+  "updated_at": "2026-08-02T09:30:57.296701+00:00",
+  "count": 7836,
   "items": [
+    {
+      "id": "2d3e5888453a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
+      "link": "https://www.youtube.com/watch?v=e_j_SyBlc18",
+      "published": "2026-08-02T08:59:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a47730f76c4b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213425",
+      "published": "2026-08-02T08:20:00+00:00",
+      "summary": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 "
+    },
     {
       "id": "119adc7b6c04",
       "source": "ZDNet Korea",
@@ -75,6 +97,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "GSMA \"유럽, 화웨이 교체에 400억 유로”…美매체 \"비용 과장”",
+      "link": "https://zdnet.co.kr/view/?no=20260802120451",
+      "published": "2026-08-02T03:04:51+00:00",
+      "summary": "[지디넷코리아]GSMA가 유럽연합(EU)에서 화웨이 장비 전면 교체 비용이 최대 400억 유로(약 67조원)에 달할 것이라는 전망 보고서를 두고 미국 매체들이 잇따라 비용을 과장 추정했다고 반박하고 나서며 이목을 끈다.GSMA 인텔리전스는 최근 보고서에서 EU가 추진 중인 사이버보안법에 따라 화웨이를 비롯한 중국 기업을 지칭한, 고위험 공급업체(HRV) 장비를 교체할 경우 직접 비용이 300억~400억 유로에 달할 것으로 추산했다.이에 유럽 통신사의 투자 여력이 부실해지고 현지의 차세대 네트워크 "
+    },
+    {
+      "id": "d98db8163cda",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GSMA \"유럽, 화웨이 교체에 400억 유로\"…美매체 \"비용 과장\"",
       "link": "https://zdnet.co.kr/view/?no=20260802120451",
       "published": "2026-08-02T03:04:51+00:00",
       "summary": "[지디넷코리아]GSMA가 유럽연합(EU)에서 화웨이 장비 전면 교체 비용이 최대 400억 유로(약 67조원)에 달할 것이라는 전망 보고서를 두고 미국 매체들이 잇따라 비용을 과장 추정했다고 반박하고 나서며 이목을 끈다.GSMA 인텔리전스는 최근 보고서에서 EU가 추진 중인 사이버보안법에 따라 화웨이를 비롯한 중국 기업을 지칭한, 고위험 공급업체(HRV) 장비를 교체할 경우 직접 비용이 300억~400억 유로에 달할 것으로 추산했다.이에 유럽 통신사의 투자 여력이 부실해지고 현지의 차세대 네트워크 "
@@ -199,6 +232,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213445",
       "published": "2026-08-02T01:45:52+00:00",
       "summary": "미국 연방법원이 일론 머스크 CEO의 xAI가 제기한 미네소타주의 '누디파이(nudify)' 기술 금지법 시행 중단 요청을 기각했다. 이에 따라 미국 최초로 AI를 이용한 누드 이미지 생성 기술을 금지하는 주법이 예정대로 시행될 전망이다.NBC에 따르면, 미네소타 연방지방법원의 도너번 프랭크 판사는 31일(현지시간) xAI가 제기한 임시 효력정지 명령(Temporary Restraining Order) 신청을 받아들이지 않았다.판사는 xAI가 법 시행을 불과 사흘 앞두고 소송을 제기한 점을 지적하"
+    },
+    {
+      "id": "6c61712856b1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Go 1.27 Interactive Tour",
+      "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "published": "2026-08-02T01:35:51+00:00",
+      "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html Comments URL: https://news.ycombinator.com/item?id=49140218 Points: 206 # Comments: 72"
     },
     {
       "id": "f7524651971e",
