@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-08-03T11:55:31.695763+00:00",
-  "count": 7928,
+  "updated_at": "2026-08-03T14:26:46.272005+00:00",
+  "count": 7943,
   "items": [
+    {
+      "id": "558adc118953",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
+      "link": "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
+      "published": "2026-08-03T13:12:03+00:00",
+      "summary": "Lenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like. Leaked press images shared by Digital Citizen and Android Headlines include a laptop and a 2-in-1 tablet, all of which "
+    },
+    {
+      "id": "293aa00faa76",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - 오픈AI Astra 10대 난제 해결, DeepSeek-V4-Flash 정식, Seedance 2.5, MiniMax H3, Gemini Robotics 2 등",
+      "link": "https://www.youtube.com/watch?v=tt5kQIi_QK0",
+      "published": "2026-08-03T13:00:32+00:00",
+      "summary": ""
+    },
+    {
+      "id": "89493df7641c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Big Walk is like co-op Breath of the Wild",
+      "link": "https://www.theverge.com/games/973166/big-walk-review",
+      "published": "2026-08-03T13:00:00+00:00",
+      "summary": "Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of shenanigans. That's why Big Walk, the next game from Goose Game developer House House,"
+    },
+    {
+      "id": "fa4ed4001a1c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "published": "2026-08-03T12:50:46+00:00",
+      "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting."
+    },
+    {
+      "id": "e143b16d3691",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기자수첩] KAIST AI 해커가 남긴 숙제",
+      "link": "https://zdnet.co.kr/view/?no=20260803155802",
+      "published": "2026-08-03T12:39:19+00:00",
+      "summary": "[지디넷코리아]지난달 23일부터 24일까지 서울 코엑스에서 열린 국제해킹방어대회 ‘코드게이트 2026’은 여러모로 시선을 모았다. 특히 윤인수 KAIST 전기 및 전자공학부 교수가 만든 AI해커가 사람 해커와 대결, 관심이 더 뜨거웠다.사람 개입 없이 스스로 시스템 취약점을 탐색하고 문제를 해결한 AI 해커는 일반부에서 18위, 주니어부에서는 2위를 기록했다. 'AI 해커'는 앤트로픽, 오픈AI, xAI 등 글로벌 프론티어 거대언어모델(LLM)을 기반으로, 데프콘(DEF CON) 등 세계적 해킹대"
+    },
+    {
+      "id": "773dbf852120",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "published": "2026-08-03T12:08:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to mak"
+    },
+    {
+      "id": "6e7913a68835",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "美 법원, xAI의 미네소타 딥페이크 금지법 중단 요청 기각…\"석 달 미루다 사흘 전 신청\"",
+      "link": "https://zdnet.co.kr/view/?no=20260803210233",
+      "published": "2026-08-03T12:02:33+00:00",
+      "summary": "[지디넷코리아]미국 미네소타 연방지방법원의 도너번 프랭크 판사가 현지 시각 7월 31일 xAI가 낸 임시제한명령 신청을 기각했다. 미네소타주의 딥페이크 나체 이미지 생성 금지법 시행을 막아 달라는 요청이었다.프랭크 판사는 xAI가 법 서명 이후 석 달 가까이 지난 7월 29일에야 신청서를 냈고, 시행을 사흘 앞둔 시점이었다고 지적하면서 이런 지연은 피해가 임박하지 않았음을 보여 준다고 밝혔다. 선례로는 콜스 대 엘리슨 사건을 인용했다.이번 결정이 사건을 끝낸 것은 아니다. 법원은 xAI의 긴급 신"
+    },
     {
       "id": "8d98862a6203",
       "source": "Wired",
@@ -12,6 +89,17 @@
       "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
       "published": "2026-08-03T11:30:00+00:00",
       "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn."
+    },
+    {
+      "id": "00ca0ae1edfc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published": "2026-08-03T11:28:54+00:00",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 326 # Comments: 98"
     },
     {
       "id": "5fde98455424",
@@ -36,6 +124,39 @@
       "summary": ""
     },
     {
+      "id": "bd9e70c76c7f",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 시대에도 게임 엔진은 필요할까? 유니티 CEO에게 직접 물었습니다",
+      "link": "https://www.youtube.com/watch?v=sNAppH0c1O0",
+      "published": "2026-08-03T11:00:36+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5d9bf2d3a764",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] AI시대 개인 몸값...'능력'이 아니라 '복제 가능성'",
+      "link": "https://zdnet.co.kr/view/?no=20260803195056",
+      "published": "2026-08-03T10:50:56+00:00",
+      "summary": "[지디넷코리아]여기 두 장의 수입 명세서가 있다. 하나는 중국 청두의 옥탑방에서 나왔다. 빅테크에서 AI를 만들던 20대 엔지니어가 회사를 나와 낮에는 외주 프로그램을 짜고, 저녁이 되면 배달 오토바이에 오른다. 약국에서 일하는 아내와 둘이 버는 돈이 한 달 약 1000달러, 우리 돈 140만 원 남짓이다.다른 하나는 미국 플로리다에서 나왔다. 호텔업계 정규직으로 일하는 30세 직장인이 퇴근 후 올리는 집 꾸미기 콘텐츠로 지난해 14만 달러, 약 1억 9000만 원을 벌었다. 틱톡 팔로워는 3만3"
+    },
+    {
+      "id": "c2d25dd51d8a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KISA, 암호모듈검증 시험자 양성...교육과정 신설",
+      "link": "https://zdnet.co.kr/view/?no=20260803190342",
+      "published": "2026-08-03T10:03:42+00:00",
+      "summary": "[지디넷코리아]한국인터넷진흥원(KISA, 원장 이상중)이 ‘암호모듈 시험자 양성 교육’을 신설하고, 교육생을 모집한다. 과학기술정보통신부, 국가정보원과 함께 암호모듈 시험에 필요한 전문 지식과 실무역량을 갖춘 인력을 양성하기 위해서다.암호모듈은 국가와 공공기관의 비밀이 아닌 업무 자료를 암호화하고 위변조를 방지하는 데 사용하는 기술이다. 개발업체가 국가, 공공기관에 암호모듈 제품이나 서비스를 납품하기 위해서는 암호모듈검증제도에 따라 안전성과 구현 적합성을 시험 및 검증 받아야 한다.최근 암호모듈검"
+    },
+    {
       "id": "1f0a03039064",
       "source": "TechCrunch",
       "kind": "article",
@@ -56,6 +177,17 @@
       "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
       "published": "2026-08-03T10:00:00+00:00",
       "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice."
+    },
+    {
+      "id": "50527c466c40",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "티오리, 우리금융그룹에 AI 모의해킹 '진트 웹' 공급",
+      "link": "https://zdnet.co.kr/view/?no=20260803185310",
+      "published": "2026-08-03T09:53:10+00:00",
+      "summary": "[지디넷코리아]오펜시브 사이버 보안 전문 기업 티오리(Theori, 대표 박세준)가 우리금융그룹에 자사의 AI 기반 블랙박스 모의해킹 솔루션 ‘진트 웹(Xint Web)’을 공급, 상시 보안 점검 체계 가동을 시작했다.3일 회사에 따르면, 이번 도입은 금융권을 겨냥한 사이버 공격이 AI를 활용해 보다 지능화·속도화됨에 따라, 우리금융그룹이 이에 선제적으로 대응, 그룹 차원의 정보 보호 체계를 고도화하기 위해 마련됐다. 특히 우리금융그룹은 국내 금융그룹 중 최초로 AI 모의해킹 솔루션을 전격 도입,"
     },
     {
       "id": "e92a86880640",
@@ -80,6 +212,17 @@
       "summary": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling."
     },
     {
+      "id": "5ffccd6a58f3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아크릴-퓨리오사AI, 소버린 AI 시장 공략 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260803181357",
+      "published": "2026-08-03T09:13:57+00:00",
+      "summary": "[지디넷코리아]인공지능 전환(AX) 인프라 전문기업 아크릴은 AI 반도체 기업 퓨리오사AI와 AI 인프라 기술 협력 및 공동 사업 추진을 위한 업무협약(MOU)을 체결했다고 3일 밝혔다.이날 아크릴 본사(서울 강남구 청담빌딩)에서 열린 체결식에는 박외진 아크릴 대표와 백준호 퓨리오사AI 대표가 참석해 협약서에 서명했다.협약에 따라 양사는 ▲아크릴의 의료 특화 대규모언어모델(LLM) ‘ALLM.H(아름.H)’와 퓨리오사AI의 AI 추론 가속기 기반 통합 솔루션 공동 개발 ▲AI 인프라 플랫폼 기반 "
+    },
+    {
       "id": "a4160266c4ff",
       "source": "AI타임스",
       "kind": "article",
@@ -89,6 +232,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213471",
       "published": "2026-08-03T09:02:36+00:00",
       "summary": "마이크로소프트(MS)가 자체 개발한 첫 실시간 양방향 음성 AI 모델 'MAI 리얼타임(Realtime)'의 비공개 테스트를 시작하며 대화형 음성 AI 시장 공략에 속도를 내는 것으로 확인됐다. 테스팅카탈로그는 2일(현지시간) MS가 최근 일부 비공개 파트너를 대상으로 MAI 플레이그라운드(Playground) 환경에서 ‘MAI 리얼타임’ 모델의 한정 테스트를 진행 중이라고 전했다.현재 모델은 초기 접근 형태로 제공되고 있으며, 앞으로 MS의 AI 개발 플랫폼과 '코파일럿(Copilot)' 등 주"
+    },
+    {
+      "id": "7501b8afff3f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "빈성태 컴투스 실장 \"SWC 10년 비결은 전략적 깊이…바둑·체스처럼 장수할 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260803171208",
+      "published": "2026-08-03T09:01:02+00:00",
+      "summary": "[지디넷코리아]컴투스의 대표 모바일 이스포츠 대회 '서머너즈 워 월드 아레나 챔피언십(SWC)'이 올해로 10회를 맞았다. 2017년 첫 개최 이후 단 한 해도 거르지 않고 이어온 기록으로, 모바일 이스포츠 분야에서는 매우 이례적인 성과다.3일 서울 금천구 컴투스 본사에서 만난 빈성태 컴투스 크리에이티브컨텐츠실장은 SWC 장수의 비결로 '장르 고유의 전략적 깊이'와 '글로벌 커뮤니티'를 꼽았다.이어 그는 \"바둑이나 체스처럼 오랜 기간 생명력을 유지하는 글로벌 이스포츠로 자리 잡을 것\"이라는 포부를"
+    },
+    {
+      "id": "1c18509c910a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디윅스 '위아 엔그래프', 롱멤이발서 비가중 평균 95.31% 달성",
+      "link": "https://zdnet.co.kr/view/?no=20260803175919",
+      "published": "2026-08-03T08:59:19+00:00",
+      "summary": "[지디넷코리아]디윅스(대표 안준형)는 AI 장기기억 솔루션 ‘위아 엔그래프’가 글로벌 장기기억 성능 벤치마크인 롱멤이발에서 비가중 평균 95.31%를 기록, 공개 비교 기준 최고 수준을 달성했다고 3일 밝혔다.롱멤이발은 단일 대화의 문맥 유지를 넘어 복수 세션에 걸친 정보 보존, 변경된 사실관계 추론, 시간·연관 관계 분석, 사용자 선호 기억 등을 종합 평가하는 AI 장기기억 표준 벤치마크다. 위아 엔그래프는 전체 500개 평가 문항 중 475개를 맞춰 정확도 95.0%를 나타냈으며, 6개 평가 "
     },
     {
       "id": "9f56961b4775",
