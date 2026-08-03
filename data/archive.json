@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-03T18:47:41.423605+00:00",
-  "count": 7957,
+  "updated_at": "2026-08-03T20:23:09.957703+00:00",
+  "count": 7968,
   "items": [
+    {
+      "id": "513c6aab5983",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "published": "2026-08-03T20:00:00+00:00",
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models."
+    },
+    {
+      "id": "33f7a3d2dc3c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "published": "2026-08-03T19:45:35+00:00",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize "
+    },
+    {
+      "id": "74376b2ebf11",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "published": "2026-08-03T19:28:57+00:00",
+      "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+    },
+    {
+      "id": "46cdaadf64cf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "published": "2026-08-03T19:09:56+00:00",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+    },
+    {
+      "id": "d7bd2b67ab37",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+      "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+      "published": "2026-08-03T18:54:09+00:00",
+      "summary": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world."
+    },
     {
       "id": "024fc5e8b712",
       "source": "TechCrunch",
@@ -12,6 +67,17 @@
       "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "published": "2026-08-03T18:43:43+00:00",
       "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genui"
+    },
+    {
+      "id": "a898df84efcc",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "published": "2026-08-03T18:43:30+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands th"
     },
     {
       "id": "ca289e1640cb",
@@ -69,6 +135,17 @@
       "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
     },
     {
+      "id": "93b7bdd2f2ba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "published": "2026-08-03T16:40:55+00:00",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
+    },
+    {
       "id": "7ab1621ede75",
       "source": "The Verge",
       "kind": "article",
@@ -111,6 +188,39 @@
       "link": "https://blog.exe.dev/devtools-must-be-open-source",
       "published": "2026-08-03T14:15:47+00:00",
       "summary": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 306 # Comments: 106"
+    },
+    {
+      "id": "bddcef04e0a6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "published": "2026-08-03T14:09:00+00:00",
+      "summary": "Article URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse Comments URL: https://news.ycombinator.com/item?id=49156011 Points: 204 # Comments: 46"
+    },
+    {
+      "id": "a85f39ce9b98",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "published": "2026-08-03T13:34:43+00:00",
+      "summary": "Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui Comments URL: https://news.ycombinator.com/item?id=49155629 Points: 206 # Comments: 58"
+    },
+    {
+      "id": "fe720983bb70",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "link": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+      "published": "2026-08-03T13:13:02+00:00",
+      "summary": "Article URL: https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/ Comments URL: https://news.ycombinator.com/item?id=49155359 Points: 278 # Comments: 188"
     },
     {
       "id": "558adc118953",
@@ -727,6 +837,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260803154249",
       "published": "2026-08-03T06:42:49+00:00",
       "summary": "[지디넷코리아]엔씨아이디에스가 사명변경을 통해 주요 계열사 AX 가속화에 나선다.엔씨(공동대표 김택진, 박병무) IT 서비스 전문 자회사 엔씨아이디에스가 사명을 엔씨에이엑스(대표 이재진)로 변경한다고 3일 밝혔다.회사는 2024년 10월 설립 이후 인공지능(AI) 기술을 산업 현장에 적용하고 사업화하는 'AX(AI Transformation) 중심 기업'을 지향해 왔다. 이번 사명 변경을 통해 AX 기업으로서의 정체성을 강화하고, AI 기반 사업 경쟁력을 확대해 나갈 계획이다.NC AX는 AI 원"
+    },
+    {
+      "id": "a384afab774d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "published": "2026-08-03T06:42:00+00:00",
+      "summary": "Article URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md Comments URL: https://news.ycombinator.com/item?id=49152023 Points: 210 # Comments: 83"
     },
     {
       "id": "10047bb9e87d",
