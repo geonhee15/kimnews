@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-03T14:26:46.272005+00:00",
-  "count": 7943,
+  "updated_at": "2026-08-03T16:55:43.128717+00:00",
+  "count": 7949,
   "items": [
+    {
+      "id": "85f29f57e43a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "published": "2026-08-03T16:40:55+00:00",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
+    },
+    {
+      "id": "7ab1621ede75",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is bringing Xbox 360 games to PC",
+      "link": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+      "published": "2026-08-03T16:31:35+00:00",
+      "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able"
+    },
+    {
+      "id": "f3afc3aa8549",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Palworld’s expanding to mobile with a new MMORPG",
+      "link": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+      "published": "2026-08-03T14:50:29+00:00",
+      "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of th"
+    },
     {
       "id": "558adc118953",
       "source": "The Verge",
@@ -23,6 +56,17 @@
       "link": "https://www.youtube.com/watch?v=tt5kQIi_QK0",
       "published": "2026-08-03T13:00:32+00:00",
       "summary": ""
+    },
+    {
+      "id": "0c72704b8977",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "NST, 대덕특구 내 '과학AI 통합 플랫폼 구축' 방안 모색",
+      "link": "https://zdnet.co.kr/view/?no=20260803215838",
+      "published": "2026-08-03T13:00:11+00:00",
+      "summary": "[지디넷코리아]14년째 방치된 대덕특구 내 노후 아파트 부지에 '과학AI 통합 플랫폼'을 구축하는 방안의 용역 중간 보고서가 처음 공개됐다.국가과학기술연구회(NST)가 주관하고, 박범계 · 조승래 · 장철민 · 박용갑 · 황정아 의원과 대전시가 공동 주최한 '대덕특구 재도약, 국가전략기술 R&D 거점(SBM) 조성 전략: 출연연 공동관리아파트 노후부지 어떻게 활용할 것인가' 토론회에서 발제에 나선 최태진 로운 인사이트 연구소장은 '연구자+AI전문가+인프라가 어우러지는 'AI S&T 허브로 구축하는"
     },
     {
       "id": "89493df7641c",
@@ -201,6 +245,17 @@
       "summary": ""
     },
     {
+      "id": "35f43b5c4f46",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "published": "2026-08-03T09:32:07+00:00",
+      "summary": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/ Comments URL: https://news.ycombinator.com/item?id=49153374 Points: 268 # Comments: 235"
+    },
+    {
       "id": "497fc425a5d9",
       "source": "Wired",
       "kind": "article",
@@ -298,6 +353,17 @@
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "published": "2026-08-03T08:30:05+00:00",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make mone"
+    },
+    {
+      "id": "c802db1f7040",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bonsai: Janestreet's UI Library",
+      "link": "https://github.com/janestreet/bonsai",
+      "published": "2026-08-03T08:29:57+00:00",
+      "summary": "Article URL: https://github.com/janestreet/bonsai Comments URL: https://news.ycombinator.com/item?id=49152842 Points: 208 # Comments: 76"
     },
     {
       "id": "5c1ce45f76d4",
