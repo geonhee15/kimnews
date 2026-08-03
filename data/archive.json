@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-03T20:23:09.957703+00:00",
-  "count": 7968,
+  "updated_at": "2026-08-03T21:38:46.406315+00:00",
+  "count": 7972,
   "items": [
+    {
+      "id": "cfdf023a8542",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "link": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "published": "2026-08-03T21:24:23+00:00",
+      "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple"
+    },
     {
       "id": "513c6aab5983",
       "source": "TechCrunch",
@@ -36,6 +47,17 @@
       "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
     },
     {
+      "id": "d16762804137",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "link": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "published": "2026-08-03T19:21:16+00:00",
+      "summary": "The orbiting observatory in minifigure scale."
+    },
+    {
       "id": "46cdaadf64cf",
       "source": "TechCrunch",
       "kind": "article",
@@ -45,6 +67,17 @@
       "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
       "published": "2026-08-03T19:09:56+00:00",
       "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+    },
+    {
+      "id": "77af7ce55be7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "published": "2026-08-03T19:00:50+00:00",
+      "summary": "Top scores increased by 5x."
     },
     {
       "id": "d7bd2b67ab37",
@@ -86,6 +119,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "published": "2026-08-03T17:46:01+00:00",
+      "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app."
+    },
+    {
+      "id": "b6f798a35022",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WhatsApp says it is fixing an issue that disabled several accounts",
       "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
       "published": "2026-08-03T17:46:01+00:00",
       "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app."
