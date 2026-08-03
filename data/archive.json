@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-03T16:55:43.128717+00:00",
-  "count": 7949,
+  "updated_at": "2026-08-03T18:47:41.423605+00:00",
+  "count": 7957,
   "items": [
+    {
+      "id": "024fc5e8b712",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "published": "2026-08-03T18:43:43+00:00",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genui"
+    },
+    {
+      "id": "ca289e1640cb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "link": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "published": "2026-08-03T17:46:01+00:00",
+      "summary": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app."
+    },
+    {
+      "id": "6dd0315d7fb5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "published": "2026-08-03T17:38:45+00:00",
+      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when peopl"
+    },
+    {
+      "id": "c56a098d9ddb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+      "link": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+      "published": "2026-08-03T17:17:54+00:00",
+      "summary": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 wi"
+    },
+    {
+      "id": "33ba59b74c61",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "published": "2026-08-03T17:16:43+00:00",
+      "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June."
+    },
     {
       "id": "85f29f57e43a",
       "source": "TechCrunch",
@@ -25,6 +80,17 @@
       "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able"
     },
     {
+      "id": "3c6f8c4f5571",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+      "link": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "published": "2026-08-03T15:31:32+00:00",
+      "summary": "Article URL: https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/ Comments URL: https://news.ycombinator.c"
+    },
+    {
       "id": "f3afc3aa8549",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +100,17 @@
       "link": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
       "published": "2026-08-03T14:50:29+00:00",
       "summary": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of th"
+    },
+    {
+      "id": "3cf136dc03dd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Devtools must be open source",
+      "link": "https://blog.exe.dev/devtools-must-be-open-source",
+      "published": "2026-08-03T14:15:47+00:00",
+      "summary": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 306 # Comments: 106"
     },
     {
       "id": "558adc118953",
@@ -144,6 +221,17 @@
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
       "published": "2026-08-03T11:28:54+00:00",
       "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 326 # Comments: 98"
+    },
+    {
+      "id": "fffe4236994d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "published": "2026-08-03T11:28:54+00:00",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/ Comments URL: https://news.ycombinator.com/item?id=49154332 Points: 651 # Comments: 285"
     },
     {
       "id": "5fde98455424",
