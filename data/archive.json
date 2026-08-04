@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-04T20:21:23.530810+00:00",
-  "count": 8108,
+  "updated_at": "2026-08-04T21:47:43.204665+00:00",
+  "count": 8116,
   "items": [
+    {
+      "id": "afafe6440b8e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "published": "2026-08-04T20:57:49+00:00",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the s"
+    },
+    {
+      "id": "b0df64857e09",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "published": "2026-08-04T20:47:55+00:00",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go pu"
+    },
+    {
+      "id": "a41aa2fffba2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "published": "2026-08-04T20:36:30+00:00",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June."
+    },
+    {
+      "id": "5f106d0c171b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "published": "2026-08-04T20:34:28+00:00",
+      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections."
+    },
+    {
+      "id": "f4c4d128429f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "published": "2026-08-04T20:26:53+00:00",
+      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app."
+    },
     {
       "id": "565680070445",
       "source": "TechCrunch",
@@ -135,6 +190,17 @@
       "summary": "Article URL: https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/ Comments URL: https://news.ycombinator.com/item?id=49171656 Points: 205 # Comments: 92"
     },
     {
+      "id": "59987f9f4c1e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "PSK, 램리서치 베벨에처 특허 1건 무효화...램리서치, 또다른 특허 정정 실패",
+      "link": "https://zdnet.co.kr/view/?no=20260805012613",
+      "published": "2026-08-04T16:58:00+00:00",
+      "summary": "[지디넷코리아]피에스케이(PSK)가 램리서치의 특허 '갭이 제어되는 베벨 에처' 특허(등록번호 1433411, 아래 '411 특허) 무효화에 성공한 것으로 5일 파악됐다. 지난 6월 특허법원이 '411 특허가 무효라고 판결한 뒤 램리서치가 대법원에 상고하지 않으면서 특허법원 판결이 지난 7월 하순 확정됐다. 램리서치는 앞서 특허심판원에 '411 특허 정정심판도 청구했지만 특허심판원에 이어 특허법원, 대법원 모두 램리서치 주장을 받아들이지 않았다. 일반적으로 정정심판은 특허가 무효가 될 가능성이 있"
+    },
+    {
       "id": "300917031282",
       "source": "GitHub Blog",
       "kind": "article",
@@ -232,6 +298,17 @@
       "link": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
       "published": "2026-08-04T14:42:31+00:00",
       "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors. The move comes in response to an interoperability request from Microsoft that asks Apple "
+    },
+    {
+      "id": "b13de064f643",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 벤치마크 점수 3점에 30배 비용 내야하나",
+      "link": "https://zdnet.co.kr/view/?no=20260804234048",
+      "published": "2026-08-04T14:40:48+00:00",
+      "summary": "[지디넷코리아]7월 중순부터 8월 초까지 3주 사이에 중국 AI 진영에서 세 건의 주목할만한 발표가 연달아 나왔다. 문샷AI가 2조8000억 파라미터 규모의 키미 K3를 내놓고 열흘 뒤 가중치를 공개했다. 딥시크는 7월 31일 V4 플래시를 갱신했다. 알리바바는 8월 3일 2조4000억 파라미터의 Qwen 3.8-맥스를 정식 출시, 맥스급 모델의 가중치를 사상 처음으로 공개하겠다고 예고했다.국내 보도의 초점은 대체로 하나에 모였다. \"앤트로픽 페이블 5와 맞먹는 성능\"이다.필자는 세 발표를 나란히"
     },
     {
       "id": "9c9ac7af0e51",
@@ -419,6 +496,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260804202011",
       "published": "2026-08-04T11:20:11+00:00",
       "summary": "[지디넷코리아]KAIST 연구팀이 바닷물 속에 녹아있는 이산화탄소를 딱딱한 탄산칼슘(CaCO₃)으로 바꿔 저장하는 기술을 개발했다.이산화탄소를 ‘전기화학 기반 해양 탄소 제거(e-DOC) 기술로 탄산칼슘으로 바꾸는 기술이다.연구는 고동연 생명화학공학과 교수 연구팀과 T. 앨런 해튼 미국 매사추세츠공과대학교(MIT) 교수 연구팀이 진행했다.바다는 인간이 배출한 이산화탄소의 약 30%를 흡수하는 지구 최대 탄소 저장고다.연구팀은 바닷물에 녹아 있는 탄소 성분인 용존무기탄소(DIC)를 돌(광물) 형태로"
+    },
+    {
+      "id": "cc2318bf97ae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "published": "2026-08-04T11:01:37+00:00",
+      "summary": "Article URL: https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=49166874 Points: 215 # Comments: 108"
     },
     {
       "id": "7e391caa51b1",
