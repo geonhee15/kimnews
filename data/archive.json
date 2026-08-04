@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-04T12:30:00.007321+00:00",
-  "count": 8069,
+  "updated_at": "2026-08-04T15:04:00.565107+00:00",
+  "count": 8080,
   "items": [
+    {
+      "id": "d97637a8decf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is working on iPhone-to-Windows copy-paste",
+      "link": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
+      "published": "2026-08-04T14:42:31+00:00",
+      "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors. The move comes in response to an interoperability request from Microsoft that asks Apple "
+    },
+    {
+      "id": "9c9ac7af0e51",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "published": "2026-08-04T14:03:01+00:00",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
+    },
+    {
+      "id": "a611a6223ed9",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+      "published": "2026-08-04T13:38:29+00:00",
+      "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says."
+    },
+    {
+      "id": "f8730d0db847",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "India moves to give its instant payments network a business model",
+      "link": "https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/",
+      "published": "2026-08-04T13:31:17+00:00",
+      "summary": "The legislation lays the groundwork for a potential overhaul of India's zero-merchant-discount-rate regime, under which businesses have not paid fees to accept UPI payments since 2020."
+    },
+    {
+      "id": "26328975f8ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HCL테크, HPE 텔코 솔루션 사업부 인수 완료",
+      "link": "https://zdnet.co.kr/view/?no=20260804221003",
+      "published": "2026-08-04T13:10:03+00:00",
+      "summary": "[지디넷코리아] AI 시대 통신 서비스 제공업체를 위한 엔지니어링 기반 통신 솔루션 강화 뉴욕 및 인도 노이다, 2026년 8월 4일 /PRNewswire/ -- 세계적인 글로벌 기술 기업 HCL테크(HCLTech, NSE: HCLTECH, BSE: HCLTECH)가 HPE의 텔코 솔루션(Telco Solutions) 사업부 인수를 성공적으로 완료했다고 발표했다. 2025년 12월 발표된 이번 인수는 AI 및 엔지니어링 기반의 통신 솔루션을 통해 HCL테크의 업계 리더십을 한층 더 강화한다. 20"
+    },
+    {
+      "id": "6d490e643d0e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "published": "2026-08-04T13:00:00+00:00",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+    },
+    {
+      "id": "f770ed553ff4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
+      "link": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed",
+      "published": "2026-08-04T12:57:43+00:00",
+      "summary": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a review found that Telegram \"violates our strict guidelines prohibiting child sexual abu"
+    },
+    {
+      "id": "ed8072202552",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[신간] 대표님, 보안은 IT가 아니라 경영입니다...25년 보안기자 통찰 돋보여",
+      "link": "https://zdnet.co.kr/view/?no=20260804215301",
+      "published": "2026-08-04T12:53:01+00:00",
+      "summary": "[지디넷코리아]세계 최대 물류회사인 A사는 2017년 악성코드 공격을 받아 세계 IT 시스템이 먹통됐다. 약 4만5천 대의 PC와 4천여 대의 서버를 다시 설치해야 했고, 항만 운영이 중단됐다. 피해 규모는 수억 달러에 달했다. 이 사고는 단순히 서버가 멈춘 사건이 아니었다. 선박 운항이 지연됐고, 화물이 이동하지 못했으며, 고객 계약에도 큰 악영향을 미쳤다. 보안 사고가 기업 운영 전체를 멈춘 것이다.과거 기업은 시장 변화에 적응하지 못하거나 제품 경쟁력을 잃어 망하는 경우가 많았다. 그러나 상"
+    },
+    {
+      "id": "5466ccd6315c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 커닝 페이퍼 보고 배우면 진짜 실력이 늘까",
+      "link": "https://zdnet.co.kr/view/?no=20260804214212",
+      "published": "2026-08-04T12:42:12+00:00",
+      "summary": "[지디넷코리아]작은 AI에게 큰 AI의 실력을 물려주려고 풀이 방향을 짚어 주는 힌트를 슬쩍 쥐여줬더니, 성적표는 오히려 나빠졌다. 중국 전자상거래 기업 징동(JINGDONG)의 익스플로어 아카데미(Explore Academy)와 싱가포르국립대(NUS), 홍콩중문대(CUHK), 베이징대(PKU) 공동 연구진이 2026년 6월 공개한 논문 'DOPD'는 이 역설적인 현상에 '특권 착각(Privilege Illusion)'이라는 이름을 붙였다. 특권 착각이란 AI에게 풀이 방향을 짚어 주는 힌트를 주"
+    },
     {
       "id": "fcc9304da212",
       "source": "MIT Tech Review",
@@ -23,6 +122,17 @@
       "link": "https://www.wired.com/gallery/best-gaming-mouse/",
       "published": "2026-08-04T12:00:00+00:00",
       "summary": "From wired to wireless to ultralight, we've tested dozens of gaming mice to find the best for work, your next MMO, and everything in between."
+    },
+    {
+      "id": "1ae4c6af3e5c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "동남아 우버 그랩 \"AI 썼더니 배송 30% 빨라졌다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260804203155",
+      "published": "2026-08-04T11:54:23+00:00",
+      "summary": "[지디넷코리아]동남아시아 우버로 불리는 싱가포르 슈퍼앱 그랩이 인공지능(AI)을 활용해 배송 효율을 높이면서 올해 연간 실적 전망을 상향 조정했다. 회사는 AI 도입으로 배송 속도가 30% 이상 빨라졌고, 비용 구조와 수익성도 개선됐다고 밝혔다.3일(현지시간) CNBC에 따르면 그랩은 올해 2분기 매출이 전년 동기 대비 22% 증가한 9억9700만 달러(약 1조4200억원)를 기록했다고 발표했다. 영업이익은 1900만 달러(약 271억원)로 186% 늘었다.피터 오이 그랩 최고재무책임자(CFO)는"
     },
     {
       "id": "b9f8abbb856b",
@@ -606,6 +716,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213508",
       "published": "2026-08-04T05:08:04+00:00",
       "summary": "AI 코딩 에이전트가 반도체 업계의 가장 강력한 진입장벽 중 하나로 꼽히는 엔비디아의 소프트웨어 생태계 ‘쿠다(CUDA·Compute Unified Device Architecture)’에 도전장을 내밀고 있다. 수년이 걸리던 AI 칩용 시스템 소프트웨어 개발을 단 몇 시간 만에 자동화하는 사례가 등장하면서, 엔비디아가 지난 20년간 구축해 온 소프트웨어 경쟁력이 새로운 시험대에 올랐다는 분석이 나온다.3일(현지시간) 비즈니스인사이더에 따르면, 구글 브레인 출신 연구원이자 AI 소프트웨어 스타트업"
+    },
+    {
+      "id": "455dbdddde03",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published": "2026-08-04T04:58:29+00:00",
+      "summary": ""
     },
     {
       "id": "19026f321e1d",
