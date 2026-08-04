@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-04T17:03:12.244661+00:00",
-  "count": 8093,
+  "updated_at": "2026-08-04T18:50:57.523625+00:00",
+  "count": 8100,
   "items": [
+    {
+      "id": "e5a0428f3e04",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How an OpenAI influencer trip backfired",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "published": "2026-08-04T17:46:41+00:00",
+      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from"
+    },
+    {
+      "id": "97d47d3160a1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lenovo’s Legion Go S with SteamOS is down to its lowest price ever",
+      "link": "https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale",
+      "published": "2026-08-04T17:35:04+00:00",
+      "summary": "Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 Go processor and SteamOS. Normally $1,137.41 (and selling for close to $1,000 at Bes"
+    },
+    {
+      "id": "546b389e3fa5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China is Tesla's cash cow, but for how much longer?",
+      "link": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+      "published": "2026-08-04T17:34:48+00:00",
+      "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose."
+    },
+    {
+      "id": "3a53aefc397f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Not healthy’ LLM use is more common than you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "published": "2026-08-04T17:33:46+00:00",
+      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of "
+    },
+    {
+      "id": "b78782b6ccc0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "published": "2026-08-04T17:31:01+00:00",
+      "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe."
+    },
+    {
+      "id": "9b53ccfdb612",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+      "link": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+      "published": "2026-08-04T17:00:28+00:00",
+      "summary": "Article URL: https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/ Comments URL: https://news.ycombinator.com/item?id=49171656 Points: 205 # Comments: 92"
+    },
     {
       "id": "300917031282",
       "source": "GitHub Blog",
@@ -67,6 +133,17 @@
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "published": "2026-08-04T15:20:06+00:00",
       "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+    },
+    {
+      "id": "61918db0c6fb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "link": "https://toneyalexander.github.io/inclusive-color-space/",
+      "published": "2026-08-04T15:16:22+00:00",
+      "summary": "Hello HN! I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy. I've built a color picker and procedural generation al"
     },
     {
       "id": "85e97523fb0b",
