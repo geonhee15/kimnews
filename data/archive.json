@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-04T18:50:57.523625+00:00",
-  "count": 8100,
+  "updated_at": "2026-08-04T20:21:23.530810+00:00",
+  "count": 8108,
   "items": [
+    {
+      "id": "565680070445",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "published": "2026-08-04T20:05:26+00:00",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
+    },
+    {
+      "id": "bd838e40e071",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "published": "2026-08-04T19:48:40+00:00",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+    },
+    {
+      "id": "302b7a4b81b2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "published": "2026-08-04T19:34:34+00:00",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+    },
+    {
+      "id": "95379c217938",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "published": "2026-08-04T19:28:49+00:00",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
+    },
+    {
+      "id": "f733c8ef81b1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
+      "link": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
+      "published": "2026-08-04T19:11:05+00:00",
+      "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X."
+    },
+    {
+      "id": "a1dc1ce7aafb",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "published": "2026-08-04T19:02:34+00:00",
+      "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog ."
+    },
     {
       "id": "e5a0428f3e04",
       "source": "The Verge",
@@ -375,6 +441,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260804195949",
       "published": "2026-08-04T10:59:49+00:00",
       "summary": "[지디넷코리아]중소벤처기업부(중기부)가 국내 모든 기업의 정보를 데이터베이스화하고, 이에 기반한 중소기업 정책 성과 평가·환류 체계를 만든다. 또 전 부처에 데이터를 개방하고, 연구기관 등 민간에도 단계적으로 개방을 확대한다. 지역 유망기업 중심으로 성장전략 수립과 패키지 지원을 통해 국가대표 도약기업 3000개사를 육성한다. 특히 전 부처의 복잡한 중소기업 지원사업을 정비해 유사중복 사업, 저성과 사업 등을 감축한다. 시대적 요구, 성장 가능성, 지방균형발전 등 중요 가치를 고려해 중소기업 지원"
+    },
+    {
+      "id": "040cefba07c1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "link": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "published": "2026-08-04T10:59:08+00:00",
+      "summary": "Article URL: https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html Comments URL: https://news.ycombinator.com/item?id=49166860 Points: 244 # Comments: 357"
     },
     {
       "id": "bb5a6cb067fa",
@@ -925,6 +1002,17 @@
       "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
       "published": "2026-08-04T06:17:54+00:00",
       "summary": "Article URL: https://lilianweng.github.io/posts/2026-07-04-harness/ Comments URL: https://news.ycombinator.com/item?id=49164896 Points: 223 # Comments: 39"
+    },
+    {
+      "id": "64f4ca22aa61",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Harness engineering for self-improvement",
+      "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "published": "2026-08-04T06:17:54+00:00",
+      "summary": "Article URL: https://lilianweng.github.io/posts/2026-07-04-harness/ Comments URL: https://news.ycombinator.com/item?id=49164896 Points: 265 # Comments: 56"
     },
     {
       "id": "60cf11612316",
