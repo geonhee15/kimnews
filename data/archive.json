@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-04T21:47:43.204665+00:00",
-  "count": 8116,
+  "updated_at": "2026-08-04T22:57:50.894378+00:00",
+  "count": 8123,
   "items": [
+    {
+      "id": "7323e7e41427",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "published": "2026-08-04T22:24:00+00:00",
+      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis."
+    },
+    {
+      "id": "6493477bdc5a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "published": "2026-08-04T22:06:07+00:00",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark."
+    },
+    {
+      "id": "261e0d91403f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Now you can securely link multiple phones to one Signal account",
+      "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
+      "published": "2026-08-04T22:02:46+00:00",
+      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked de"
+    },
+    {
+      "id": "c1c0e2e76d51",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월4일] 베타 테스터가 본 시리 AI의 강점은 '아이폰 이해력'…\"챗GPT 대체제는 아니다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213507",
+      "published": "2026-08-04T22:00:00+00:00",
+      "summary": "애플이 올가을 정식 출시를 앞두고 '시리 AI(Siri AI)'를 지난달 퍼블릭 베타로 공개하면서 해외 커뮤니티에는 사용 후기가 올라오고 있습니다. 초기 반응은 대체로 긍정적입니다. 특히 기존 시리가 처리하지 못했던 개인 데이터 검색과 화면 이해 기능에 대한 평가가 높습니다. 다만 이용자들이 주목하는 부분은 '챗GPT'와 같은 범용 챗봇을 넘어섰다는 점이 아니라, 기존 음성비서와 비교해 시리의 역할이 달라졌다는 점입니다.이는 사실 애플이 시리를 설계한 방식 때문입니다. 챗GPT와 경쟁하는 범용 A"
+    },
+    {
+      "id": "d92fa6f01155",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "이스트에이드 \"국내 최초 AI 요약 '줌', 버티컬 에이전트로 진화할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213514",
+      "published": "2026-08-04T21:00:00+00:00",
+      "summary": "네이버와 다음을 포함한 국내 주요 포털이 대화형 AI 검색과 요약 기능을 잇달아 도입하며 'AI 포털'로 대대적인 전환에 돌입했다.이러한 격전지에서 국내 포털 최초로 'AI 1초 요약' 기능을 탑재하고, 독자 AI 모델 'K-엑사원'을 적용해 주목받는 기업이 있다.포털 '줌(zum)' 운영사인 이스트에이드의 김남현 대표를 만나 AI 검색 전환의 배경과 주요 성과, 향후 비전을 들었다.■ 포털 정체성에서 시작된 고민...국내 최초 'AI 요약' 도입 이어져이스트에이드는 타사보다 앞서 2년 전 AI "
+    },
     {
       "id": "afafe6440b8e",
       "source": "The Verge",
@@ -124,6 +179,17 @@
       "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog ."
     },
     {
+      "id": "f5f13b2f2d5a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Waymo in Dallas",
+      "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "published": "2026-08-04T18:29:41+00:00",
+      "summary": "Article URL: https://waymo.com/blog/shorts/dallas-open-to-all/ Comments URL: https://news.ycombinator.com/item?id=49172836 Points: 202 # Comments: 237"
+    },
+    {
       "id": "e5a0428f3e04",
       "source": "The Verge",
       "kind": "article",
@@ -210,6 +276,17 @@
       "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
       "published": "2026-08-04T16:47:18+00:00",
       "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "712a0d512bc8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "link": "https://mistral.ai/news/shieldstral/",
+      "published": "2026-08-04T16:36:05+00:00",
+      "summary": "Article URL: https://mistral.ai/news/shieldstral/ Comments URL: https://news.ycombinator.com/item?id=49171268 Points: 260 # Comments: 63"
     },
     {
       "id": "1dda6af9e018",
