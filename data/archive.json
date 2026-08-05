@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-08-05T08:51:37.427834+00:00",
-  "count": 8190,
+  "updated_at": "2026-08-05T11:15:54.194187+00:00",
+  "count": 8210,
   "items": [
+    {
+      "id": "051f1ea17384",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Assistant will disappear from your phone next month",
+      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "published": "2026-08-05T11:12:50+00:00",
+      "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4t"
+    },
+    {
+      "id": "86c25ed2a4a5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 이미지, ‘생성’보다 중요한 건 따로 있습니다",
+      "link": "https://www.youtube.com/watch?v=_xJYgbQqPqU",
+      "published": "2026-08-05T11:00:35+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2d049b78f160",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "published": "2026-08-05T11:00:00+00:00",
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+    },
+    {
+      "id": "f42349a23309",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s AI testing plan is limited and vague",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "published": "2026-08-05T10:29:47+00:00",
+      "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and ins"
+    },
+    {
+      "id": "c84081ae97b1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바나듐 레독스 흐름전지 전해질 생산시간 67% 단축…\"AI데이터센터 활용 가능\"",
+      "link": "https://zdnet.co.kr/view/?no=20260805185214",
+      "published": "2026-08-05T09:52:14+00:00",
+      "summary": "[지디넷코리아]AI 데이터센터 보조 전원과 재생에너지용 초대형 배터리로 주목받는 바나듐 레독스 흐름전지(VRFB)에서 전해질 생산시간을 67% 단축할 수 있는 공정이 개발됐다.기술 개발은 김희탁 KAIST 생명화학공학과 교수 연구팀이 진행했다.바나듐 레독스 흐름전지는 화재 위험이 거의 없다. 전해질을 담는 탱크만 크게 만들면 저장 용량도 쉽게 늘릴 수 있다. 이 때문에 AI 데이터센터 보조 전원과 재생에너지용 초대형 배터리로 주목받는 이유다.그러나 배터리 ‘연료' 역할을 하는 바나듐 전해질을 최적"
+    },
+    {
+      "id": "351fb276a4db",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재명 대통령 \"부처별 AI, 결국 통합하게 될 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260805184930",
+      "published": "2026-08-05T09:51:16+00:00",
+      "summary": "[지디넷코리아]정부가 부처별로 구축 중인 인공지능(AI) 서비스를 장기적으로 하나의 통합 체계로 묶는 방향을 추진한다.이재명 대통령은 5일 청와대에서 열린 업무보고에서 행정 전반의 AI 활용 확대와 함께 통합형 서비스 체계 구축 필요성을 강조했다.이날 김정진 경상북도지체장애인협회 청송군지회 사무실장은 정부가 추진 중인 AI 서비스와 관련해 국민용과 행정업무용을 구분해 운영할 계획이 있는지 복지·경찰·소방 등 분야별 전문화를 검토하고 있는지 물었다.이데 이 대통령은 \"각 부처별로 AI를 지금 만들고"
+    },
+    {
+      "id": "3367e3fb84e9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "위버스, 제미나이 기반 '위버스 AI' 베타 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260805155040",
+      "published": "2026-08-05T09:24:26+00:00",
+      "summary": "[지디넷코리아]위버스컴퍼니는 글로벌 팬 플랫폼 위버스 모바일 앱에 대화형 검색 서비스 '위버스 AI' 베타 버전을 적용했다고 5일 밝혔다.위버스 AI는 구글의 생성형 AI 모델 '제미나이'를 기반으로 위버스에 축적된 데이터를 활용해 팬덤 활동에 필요한 정보를 대화 형식으로 제공하는 서비스다. 위버스와 위버스샵을 아우르는 통합 검색 환경을 지원하는 것이 특징이다.이번 베타 버전은 이용 빈도가 높은 공식 정보를 중심으로 서비스를 제공한다. 검색 대상은 커뮤니티 공지사항과 위버스 라이브 콘텐츠, 위버스"
+    },
+    {
+      "id": "d7e10c4d0b88",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "안랩, 아태지역 엔드포인트 보안 ‘경쟁전략 리더십’ 첫 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260805182207",
+      "published": "2026-08-05T09:22:07+00:00",
+      "summary": "[지디넷코리아]글로벌 통합보안 기업 안랩(대표 강석균)이 글로벌 시장조사 기관으로부터 엔드포인트 보안 아태지역 대표 회사로 인정받는 쾌거를 거뒀다.안랩은 5일 글로벌 시장조사 기관 프로스트 앤드 설리번의 '2026 베스트 프랙티스'에서 처음으로 아시아·태평양 엔드포인트 보안 부문 '경쟁전략 리더십' 자격을 얻었다고 밝혔다.지난 2019년부터 2025년까지 7년 연속 ‘올해의 한국 엔드포인트 보안 기업’에 선정된 데 이어, 이번에는 아태 시장 전체를 대상으로 경쟁력을 인정받으며 글로벌 시장에서의 위"
+    },
+    {
+      "id": "e6d367c0fe7c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중기부, 오픈이노베이션 참여 기업 대상 최대 2억원 후속 자금 지원",
+      "link": "https://zdnet.co.kr/view/?no=20260805181422",
+      "published": "2026-08-05T09:14:22+00:00",
+      "summary": "[지디넷코리아]중소벤처기업부(중기부)가 외부 기술･자원 등을 활용해 새로운 제품･서비스 개발하는 오픈이노베이션 참여 기업을 대상으로 사업화를 지원한다.중기부는 오픈이노베이션 참여기업을 대상으로 시장검증(PoV)과 사업화를 지원하는 '성과기업 후속지원' 사업에 참여할 스타트업을 6일부터 26일까지 모집한다고 5일 밝혔다.이번 후속지원 사업은 오픈이노베이션 사업의 협업 성과가 실제 사업화와 투자유치로 이어질 필요가 있다는 현장의 목소리를 반영해 신설됐다. 시장검증(PoV)과 사업화에 필요한 자금 및 "
+    },
+    {
+      "id": "8d511dfa7b5a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "임기근 국무조정실장 \"공공 AX로 더 똑똑한 정부 구현…데이터 개방도 속도\"",
+      "link": "https://zdnet.co.kr/view/?no=20260805165527",
+      "published": "2026-08-05T09:12:08+00:00",
+      "summary": "[지디넷코리아]국무조정실이 공공부문 인공지능(AI)과 데이터 기반 행정 혁신에 속도를 낸다. '정부24'에 AI 기능을 도입하고 범정부 데이터 연계 체계를 구축하는 한편 공공데이터 개방을 확대해 공공 AI 전환(AX)를 본격 추진한다는 목표다.임기근 국무조정실장은 5일 청와대에서 열린 이재명 대통령 주재 부처 업무보고에서 \"공공 AX로 더 똑똑하고 더 빠른 정부를 구현하겠다\"며 \"총리 주재 데이터 관계장관회의를 중심으로 범정부 데이터 정책을 연결하겠다\"고 말했다.국무조정실의 대통령 업무보고는 12"
+    },
+    {
+      "id": "b4c79c62362f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "록턴, 업계 최초의 통합 엔터프라이즈 인텔리전스 플랫폼인 록턴 세이지 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260805181013",
+      "published": "2026-08-05T09:10:13+00:00",
+      "summary": "[지디넷코리아] 고객의 의사결정에 록턴의 독점 데이터, 첨단 분석, AI 기반 역량, 전문성을 대규모로 접목하기 위해 특별히 설계 캔자스시티, 미주리, 2026년 8월 5일 /PRNewswire/ -- 세계 최대 규모의 비상장 보험 중개 및 리스크 관리 기업인 록턴(Lockton)이 8월 4일, 록턴의 독점 데이터, 첨단 분석, AI 기반 역량, 전문성을 고객의 의사결정에 온전히 접목하기 위해 특별히 설계된 엔터프라이즈 인텔리전스 플랫폼 록턴 세이지(Lockton SAGE)의 확대 적용을 발표했다"
+    },
+    {
+      "id": "50846d58c6e6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SABESP, 비보 및 아이데미아 시큐어 트랜잭션스와 파트너십... 브라질에서 세계 최대 규모의 안전하고 지속 가능한 수자원 관리 IoT 이니셔티브 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260805181002",
+      "published": "2026-08-05T09:10:02+00:00",
+      "summary": "[지디넷코리아] 브라질 상파울루주 수자원 및 위생 기업 상파울루 상하수도공사(SABESP)가 스마트 수자원 관리를 위한 세계 최대 규모의 IoT 연결 프로젝트의 구축을 발표한다. 이번 이니셔티브는 브라질의 기술 전환을 이끄는 핵심 기업이자 남미 최대 이동통신사 중 하나인 텔레포니카/비보(Telefonica/Vivo), 그리고 결제 및 연결 솔루션 분야의 글로벌 선도기업인 아이데미아 시큐어 트랜잭션스(IDEMIA Secure Transactions, IST)와의 파트너십을 통해 진행되며, 브라질의 "
+    },
+    {
+      "id": "e58af0ebb658",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "화웨이 최고 과학자 \"엔비디아도 칩 제조 물리적 한계 봉착할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213568",
+      "published": "2026-08-05T09:01:58+00:00",
+      "summary": "화웨이의 최고 반도체 과학자가 엔비디아를 비롯한 글로벌 반도체 기업들이 추진하는 초미세 공정과 고대역폭메모리(HBM) 중심의 성능 향상 전략이 머지않아 물리적 한계에 도달할 것이라고 경고했다. 미국의 제재 속에서 화웨이는 데이터 전송 효율을 극대화하는 독자 기술 '타우 스케일링 법칙(Tau Scaling Law)'을 차세대 반도체 개발의 대안으로 제시하며 기술 자립에 자신감을 드러냈다.4일(현지시간) 블룸버그 등에 따르면, 화웨이의 최고 반도체 과학자인 랴오 헝 박사는 최근 중국에서 진행된 공개 "
+    },
+    {
+      "id": "b4280ab750ee",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "무서울정도로 구분 못할 AI 영상 등장",
+      "link": "https://www.youtube.com/shorts/FI5f8Zc6lcg",
+      "published": "2026-08-05T09:00:11+00:00",
+      "summary": ""
+    },
+    {
+      "id": "39646a264fe7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "코히어, 한국 법인 설립…\"소버린 AI로 비용까지 줄인다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213578",
+      "published": "2026-08-05T08:49:59+00:00",
+      "summary": "캐나다의 코히어가 한국 법인 설립 계획을 발표하며 '소버린 AI' 시장 공략에 나섰다. 코히어는 5일 서울 소공동 웨스틴조선호텔에서 기자간담회를 열고 한국 법인 설립 계획과 아시아태평양(APAC) 지역 중심 사업 전략을 발표했다.코히어는 '트랜스포머' 논문 공동 저자인 에이단 고메스가 2019년 설립한 기업 전문 모델 개발사로, 현재까지 누적 16억달러(약 2조2800억원)의 투자를 유치했다.국내에서 정부 주도로 소버린 AI 구축이 추진되는 가운데, 코히어는 이를 새롭게 정의했다. 소버린 AI는 "
+    },
+    {
+      "id": "51d7b57bdae2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미니맥스, 저작권 리스크에 오픈소스 동영상 모델 'H3' 한국·미국 제한",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213560",
+      "published": "2026-08-05T08:31:43+00:00",
+      "summary": "AI를 둘러싼 저작권 분쟁에 따라 오픈소스 AI 모델도 더 이상 '누구나 자유롭게 사용하는 기술'이 아니게 됐다. 4일(현지시간) 사우스차이나모닝포스트에 따르면, 중국 미니맥스는 최신 오픈소스 동영상 모델 'H3'를 공개하면서도 미국과 유럽연합(EU), 영국, 한국에서는 모델 가중치의 자유로운 사용을 제한하는 라이선스 정책을 적용했다.생성 AI를 둘러싼 저작권 소송과 각국의 규제 불확실성이 확대되는 가운데, 오픈소스 AI 모델에도 지역별 사용 제한이 적용되는 사례다.미니맥스는 지난 4일 H3 모델"
+    },
     {
       "id": "5ca726cf28f5",
       "source": "AI타임스",
@@ -75,6 +251,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "\"유럽에 한국 반도체 깔린다\"...퓨리오사AI, 스웨덴 AI 데이터센터 사업 참여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213566",
+      "published": "2026-08-05T07:08:02+00:00",
+      "summary": "퓨리오사AI(대표 백준호)는 스웨덴 스톡홀름의 15메가와트(MW) 규모 AI 데이터센터 프로젝트에 참여하며 유럽 AI 추론 인프라 시장 공략에 나선다고 5일 밝혔다.내년 초까지 2MW 규모의 1단계 시설을 우선 가동하고, 같은 해 8MW를 추가 구축한 뒤 장기적으로 15MW까지 확대할 계획이다.퓨리오사AI는 미국 AI 인프라 기업 I/ONX HPC와 데이터센터 개발·운영 기업 벨록스(Velox)와 이번 프로젝트를 추진한다.벨록스는 데이터센터 개발과 운영을 맡는다. I/ONX HPC는 시스템 통합과"
+    },
+    {
+      "id": "4c08ca0d8daf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"유럽에 한국 반도체 깔린다\"...퓨리오사, 스웨덴 데이터센터 사업 참여",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213566",
       "published": "2026-08-05T07:08:02+00:00",
       "summary": "퓨리오사AI(대표 백준호)는 스웨덴 스톡홀름의 15메가와트(MW) 규모 AI 데이터센터 프로젝트에 참여하며 유럽 AI 추론 인프라 시장 공략에 나선다고 5일 밝혔다.내년 초까지 2MW 규모의 1단계 시설을 우선 가동하고, 같은 해 8MW를 추가 구축한 뒤 장기적으로 15MW까지 확대할 계획이다.퓨리오사AI는 미국 AI 인프라 기업 I/ONX HPC와 데이터센터 개발·운영 기업 벨록스(Velox)와 이번 프로젝트를 추진한다.벨록스는 데이터센터 개발과 운영을 맡는다. I/ONX HPC는 시스템 통합과"
@@ -1230,6 +1417,17 @@
       "category": "AI",
       "lang": "en",
       "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "published": "2026-08-04T12:14:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick childr"
+    },
+    {
+      "id": "ee0b724cbb15",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "published": "2026-08-04T12:14:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick childr"
@@ -2704,6 +2902,17 @@
       "category": "AI",
       "lang": "en",
       "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "published": "2026-08-03T12:08:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to mak"
+    },
+    {
+      "id": "633b6f2de6b9",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "published": "2026-08-03T12:08:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to mak"
@@ -4643,6 +4852,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213433",
       "published": "2026-08-01T08:54:51+00:00",
       "summary": "미니맥스가 텍스트와 이미지, 영상, 오디오를 하나의 모델에서 처리하는 차세대 멀티모달 영상 생성 모델 'H3'를 공개했다. 이 모델은 아티피셜 애널리시스의 각종 벤치마크에서 최상위권을 기록, 바이트댄스의 '시댄스(Seedance)'와 경쟁할 만하다는 평가를 받았다.미니맥스는 31일 범용 멀티모달 생성 모델 H3를 공식 발표하고 '하이루오(Hailuo)' AI 플랫폼과 개발자 API를 통해 서비스를 시작했다.또 며칠 안에 H3의 모델 가중치를 미니맥스 커뮤니티 라이선스로 공개할 계획이다. 이를 통해"
+    },
+    {
+      "id": "9ecff25542a8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stateless MCP has recaptured my interest",
+      "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "published": "2026-08-01T05:51:36+00:00",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/31/stateless-mcp/ Comments URL: https://news.ycombinator.com/item?id=49131438 Points: 245 # Comments: 125"
     },
     {
       "id": "2c9d02b016a0",
