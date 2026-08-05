@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-05T22:42:57.054023+00:00",
-  "count": 8267,
+  "updated_at": "2026-08-05T23:39:04.575518+00:00",
+  "count": 8268,
   "items": [
+    {
+      "id": "c4cb12fb6dc6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "published": "2026-08-05T23:30:00+00:00",
+      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase."
+    },
     {
       "id": "977f9105a2f4",
       "source": "AI타임스",
