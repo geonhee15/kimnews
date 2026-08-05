@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-05T18:40:28.675590+00:00",
-  "count": 8244,
+  "updated_at": "2026-08-05T20:14:23.197164+00:00",
+  "count": 8253,
   "items": [
+    {
+      "id": "e7e1e2f0aea9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "published": "2026-08-05T20:05:00+00:00",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+    },
+    {
+      "id": "fd866de3ed11",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "published": "2026-08-05T19:51:40+00:00",
+      "summary": "\"Slop\" isn't the only problem."
+    },
+    {
+      "id": "1dac35b953da",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "published": "2026-08-05T19:42:12+00:00",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise."
+    },
+    {
+      "id": "63a0b9f3f6b7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "published": "2026-08-05T19:30:19+00:00",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+    },
+    {
+      "id": "109a2a38d72f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+      "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+      "published": "2026-08-05T19:19:04+00:00",
+      "summary": "\"The models are forecasting something outside the envelope of anything we have ever observed.\""
+    },
+    {
+      "id": "af54bfc8f54e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "published": "2026-08-05T19:05:58+00:00",
+      "summary": "Google's AI brain drain continues."
+    },
     {
       "id": "08497b09870c",
       "source": "Wired",
@@ -14,12 +80,34 @@
       "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses."
     },
     {
+      "id": "29f35281eb18",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
+      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "published": "2026-08-05T18:30:00+00:00",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses."
+    },
+    {
       "id": "95a66bdc056c",
       "source": "Fireship",
       "kind": "youtube",
       "category": "DEV",
       "lang": "en",
       "title": "The safest way to store Bitcoin just lost $115 million...",
+      "link": "https://www.youtube.com/watch?v=2X2V3xv_jik",
+      "published": "2026-08-05T18:08:46+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3fb294aa095e",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The safest way to store Bitcoin was just hacked...",
       "link": "https://www.youtube.com/watch?v=2X2V3xv_jik",
       "published": "2026-08-05T18:08:46+00:00",
       "summary": ""
@@ -133,6 +221,17 @@
       "link": "https://www.discoveryloop.com/",
       "published": "2026-08-05T16:19:44+00:00",
       "summary": "Article URL: https://www.discoveryloop.com/ Comments URL: https://news.ycombinator.com/item?id=49184960 Points: 248 # Comments: 114"
+    },
+    {
+      "id": "58e6580dfcdd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "published": "2026-08-05T16:05:31+00:00",
+      "summary": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassa... https://www.reuters.com/business/google-shakes-up-ai-leaders... https://www.discoveryloop.com/ , https://news.ycombinator.com/item?id=49184960 https://twitter.com/JeffDean/status/2085034604172603724 , https://xcancel"
     },
     {
       "id": "baa2b3811d5f",
