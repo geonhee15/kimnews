@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-05T21:34:21.185091+00:00",
-  "count": 8265,
+  "updated_at": "2026-08-05T22:42:57.054023+00:00",
+  "count": 8267,
   "items": [
+    {
+      "id": "977f9105a2f4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월5일] \"오픈AI가 무너질 것\"이라는 2년 전 예측...그 이후 무슨 일이 일어났나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213551",
+      "published": "2026-08-05T22:00:00+00:00",
+      "summary": "2024년 7월 미국의 IT 칼럼니스트 에드 지트론은 당시 AI 업계를 뒤흔든 글 하나를 공개했습니다. 제목은 '오픈AI는 어떻게 살아남을 것인가(How OpenAI Survives)'입니다.그의 주장은 현재의 오픈AI는 지속 가능한 구조가 아니며, 역사상 최대 규모의 자금 조달과 획기적인 기술 혁신이 없다면 12~24개월을 버티기 어렵다는 것이었습니다. 당시는 오픈AI가 'GPT-4o'를 내놓으며 압도적인 선두를 달리던 시절입니다. 앤트로픽의 코딩 AI도 아직 눈길을 끌지 못했으며, 구글은 여전"
+    },
     {
       "id": "0616628fcee8",
       "source": "TechCrunch",
@@ -144,6 +155,17 @@
       "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
       "published": "2026-08-05T19:05:58+00:00",
       "summary": "Google's AI brain drain continues."
+    },
+    {
+      "id": "2ffa693b014a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zed DeltaDB",
+      "link": "https://zed.dev/deltadb",
+      "published": "2026-08-05T18:52:54+00:00",
+      "summary": "Article URL: https://zed.dev/deltadb Comments URL: https://news.ycombinator.com/item?id=49187256 Points: 228 # Comments: 104"
     },
     {
       "id": "08497b09870c",
