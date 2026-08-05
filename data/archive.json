@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-05T17:00:51.407063+00:00",
-  "count": 8237,
+  "updated_at": "2026-08-05T18:40:28.675590+00:00",
+  "count": 8244,
   "items": [
+    {
+      "id": "08497b09870c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Worms and Viruses Are Coming",
+      "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "published": "2026-08-05T18:30:00+00:00",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses."
+    },
+    {
+      "id": "95a66bdc056c",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The safest way to store Bitcoin just lost $115 million...",
+      "link": "https://www.youtube.com/watch?v=2X2V3xv_jik",
+      "published": "2026-08-05T18:08:46+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2264be813cc2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
+      "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
+      "published": "2026-08-05T18:00:40+00:00",
+      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate."
+    },
+    {
+      "id": "b476a6c146a7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
+      "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "published": "2026-08-05T17:57:45+00:00",
+      "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silvio Napoli said he's focused on getting the EV right, as well as its nearer-term robotaxi project with Uber and Nuro."
+    },
+    {
+      "id": "fe789141f779",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Two of Ring’s latest video doorbells are a lot cheaper than usual",
+      "link": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+      "published": "2026-08-05T17:53:43+00:00",
+      "summary": "Ring’s Wired Doorbell Pro and Battery Doorbell Plus are two of the brand’s most well-rounded video doorbells, whether you’re looking for a hardwired model or one that runs on a battery. Right now, its Wired Doorbell Pro is down to $199 ($50 off) at Amazon and Best Buy, while the "
+    },
+    {
+      "id": "da17df204644",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber CEO brushes off reports of a Waymo break-up",
+      "link": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
+      "published": "2026-08-05T17:34:48+00:00",
+      "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in"
+    },
     {
       "id": "55252dc431c1",
       "source": "The Verge",
@@ -56,6 +122,17 @@
       "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
       "published": "2026-08-05T16:26:36+00:00",
       "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week."
+    },
+    {
+      "id": "94d3f45ae718",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Discovery Loop",
+      "link": "https://www.discoveryloop.com/",
+      "published": "2026-08-05T16:19:44+00:00",
+      "summary": "Article URL: https://www.discoveryloop.com/ Comments URL: https://news.ycombinator.com/item?id=49184960 Points: 248 # Comments: 114"
     },
     {
       "id": "baa2b3811d5f",
