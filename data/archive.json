@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-05T13:09:21.828184+00:00",
-  "count": 8214,
+  "updated_at": "2026-08-05T15:26:08.172344+00:00",
+  "count": 8225,
   "items": [
+    {
+      "id": "5f7bbec6501f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "published": "2026-08-05T15:14:57+00:00",
+      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight "
+    },
+    {
+      "id": "65afd0a8ce59",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+      "link": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+      "published": "2026-08-05T15:06:42+00:00",
+      "summary": "This marks the official launch of Zoox's commercial operations."
+    },
+    {
+      "id": "6436c61dd455",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "published": "2026-08-05T15:05:00+00:00",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+    },
+    {
+      "id": "30b29fbe4f13",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is hiring an AI chip design team",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "published": "2026-08-05T14:13:18+00:00",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently."
+    },
+    {
+      "id": "1815056c8356",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
+      "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
+      "published": "2026-08-05T14:13:15+00:00",
+      "summary": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month. Apple and Google have made cross platform messaging better in recent years with support for RCS, but An"
+    },
+    {
+      "id": "b711d0dabc70",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Billion Dollar AI Race Just Broke",
+      "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+      "published": "2026-08-05T13:54:29+00:00",
+      "summary": ""
+    },
     {
       "id": "599f5a6b398e",
       "source": "TechCrunch",
@@ -25,6 +91,28 @@
       "summary": "We tested coolers on camping trips, road trips, beach days, and at parties to bring you our favorite models for every situation. The Yeti Tundra Haul is our top pick."
     },
     {
+      "id": "a2a4cf01404b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"중국 AI 막으면 미국 기업이 연 17조 원 더 낸다\"…조지아공대 추산",
+      "link": "https://zdnet.co.kr/view/?no=20260805205738",
+      "published": "2026-08-05T11:57:38+00:00",
+      "summary": "[지디넷코리아]미국이 중국산 오픈웨이트 AI 모델을 금지하면 미국 기업이 연간 최대 120억 달러(약 17조 1,600억 원)를 더 부담할 수 있다는 추산이 제시됐다. 현지 시각 8월 3일 사우스차이나모닝포스트의 보도로, 추산 주체는 조지아공대 셸러 경영대 조교수 대니얼 유다. 오픈웨이트 모델은 누구나 내려받아 쓸 수 있도록 내부 수치까지 공개한 모델을 말한다.유 교수는 뉴욕에 있는 오픈라우터의 사용량 데이터를 바탕으로 계산했다. 오픈라우터는 하나의 API로 여러 AI 모델을 바꿔 가며 쓸 수 있"
+    },
+    {
+      "id": "ff4a7df9a70b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 에이전트가 10시간 만에 CUDA 대체 소프트웨어 만들었다",
+      "link": "https://zdnet.co.kr/view/?no=20260805205651",
+      "published": "2026-08-05T11:56:51+00:00",
+      "summary": "[지디넷코리아]구글 브레인 출신 연구자 제러미 닉슨이 창업한 스타트업 인피니티가 AI 코딩 에이전트를 써서 칩 기업 디매트릭스용 소프트웨어를 약 10시간 만에 다시 만들었다. 엔비디아의 쿠다(CUDA)가 하던 역할을 대신하는 소프트웨어다. 현지 시각 8월 3일 더넥스트웹이 비즈니스인사이더 보도를 인용해 전한 내용으로, 닉슨은 엔비디아의 가장 큰 방어벽 중 하나가 무너지고 있는 증거라고 비즈니스인사이더에 말했다.쿠다는 엔비디아 GPU에서 AI 연산을 돌리기 위한 소프트웨어 묶음으로 완성까지 수년이 "
+    },
+    {
       "id": "67d3b2b81527",
       "source": "Wired",
       "kind": "article",
@@ -34,6 +122,17 @@
       "link": "https://www.wired.com/gallery/best-magsafe-accessories/",
       "published": "2026-08-05T11:32:00+00:00",
       "summary": "MagSafe accessories make your phone feel uniquely yours. These are our favorites, including Android-friendly Qi2 picks."
+    },
+    {
+      "id": "d8880afd0cac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성전자, 넷리스트와 특허분쟁 합의 종결",
+      "link": "https://zdnet.co.kr/view/?no=20260805202754",
+      "published": "2026-08-05T11:27:54+00:00",
+      "summary": "[지디넷코리아]삼성전자가 수년간 넷리스트와 벌였던 특허분쟁을 합의 종결했다. 넷리스트는 삼성전자로부터 선급 라이선스비로 2억 3900만달러(약 3400억원)를 받는다. 삼성전자가 넷리스트에 5년간 분기별로 지급할 최대 라이선스비(분기별 3290만달러·470억원)까지 더하면 모두 8억 9700만달러(약 1조 2800억원)다. 넷리스트는 \"삼성전자와 특허 크로스 라이선스와 메모리 제품 공급, 기술 협력 등과 관련한 5년 계약을 체결했다\"고 5일 밝혔다. 넷리스트는 \"이번 계약에 따라 삼성전자는 서버 "
     },
     {
       "id": "6823101d078e",
@@ -47,6 +146,17 @@
       "summary": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production."
     },
     {
+      "id": "10b9f6366d4e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 폭염도 나라의 위기래요!",
+      "link": "https://zdnet.co.kr/view/?no=20260805103730",
+      "published": "2026-08-05T11:23:13+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 정말 숨 막히게 더운 날씨 다들 체감하고 계시죠? 이번 폭염이 얼마나 심각했냐면요, 경남 양산의 온도가 무려 42도까지 치솟으면서 사상 처음으로 폭염 최고 경보가 발령됐대요. 이 정도면 개인이 알아서 버티라고 하기엔 너무 위험한 상황인데요, 실제로 전문가들 사이에서도 의견이 확실했어요. 냉방 문제는 개인 책임이 아니라 나라가 책임지고 도와야 한다는 응답이 무려 100%였다고 하니, 이제 폭염은 개인의 문제가 아니라 국가적 위기로 다뤄야 할 때"
+    },
+    {
       "id": "051f1ea17384",
       "source": "The Verge",
       "kind": "article",
@@ -56,6 +166,17 @@
       "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
       "published": "2026-08-05T11:12:50+00:00",
       "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4t"
+    },
+    {
+      "id": "fcb9ced90249",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "published": "2026-08-05T11:03:13+00:00",
+      "summary": "Article URL: https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/ Comments URL: https://news.ycombinator.com/item?id=49181099 Points: 285 # Comments: 133"
     },
     {
       "id": "86c25ed2a4a5",
