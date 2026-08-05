@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-08-05T06:08:34.049576+00:00",
-  "count": 8168,
+  "updated_at": "2026-08-05T08:51:37.427834+00:00",
+  "count": 8190,
   "items": [
+    {
+      "id": "5ca726cf28f5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "커서, 블랙웰 서버 전용 MoE 커널 'MoK' 공개…학습 처리량 41% 향상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213572",
+      "published": "2026-08-05T08:05:19+00:00",
+      "summary": "대규모 AI 모델 학습에서 가장 큰 병목으로 꼽히는 전문가 혼합(MoE) 계층의 통신 문제를 해결하기 위한 새로운 오픈소스 기술이 등장했다. 커서(Cursor)는 4일(현지시간) 엔비디아 블랙웰(Blackwell) 기반 GB300 NVL72 서버 환경에서 대규모 전문가 혼합(MoE) AI 모델을 더 빠르게 학습할 수 있는 오픈소스 기술 'MoK(Mixture-of-Kittens)'를 아파치 2.0 라이선스로 오픈소스 공개했다.이 기술은 대규모 MoE 모델의 학습 속도를 높이기 위해 통신과 연산을 "
+    },
+    {
+      "id": "cb0e1cf09c53",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 행정부, 중국산 데이터센터 핵심 부품 수입 금지 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213553",
+      "published": "2026-08-05T07:49:52+00:00",
+      "summary": "미국 트럼프 행정부가 AI 데이터센터의 핵심 부품인 중국산 광 송수신기(optical transceiver)의 신규 모델 수입을 금지하는 방안을 추진하고 있다. AI 인프라 공급망에서 중국산 장비를 배제하려는 움직임으로, 미국 연방통신위원회(FCC)가 올해 안에 관련 규정을 발표할 것으로 알려졌다.4일(현지시간) 로이터에 따르면, FCC는 데이터센터 내부에서 광섬유 케이블을 통해 초고속 데이터 전송을 담당하는 중국산 광 송수신기의 신규 모델 수입을 제한하는 조치를 마련하고 있다.광 송수신기는 AI"
+    },
+    {
+      "id": "ba9e9c251404",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "YC, 사내 에이전트 하네스 'QM' 공개…\"개인 비서 넘어 조직 협업으로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213575",
+      "published": "2026-08-05T07:33:16+00:00",
+      "summary": "개인 비서형 AI 에이전트를 넘어 조직 전체가 함께 활용하는 '멀티플레이어 AI 에이전트' 시대가 열리고 있다. 스타트업 액셀러레이터 와이콤비네이터(YC)가 내부 업무에 활용해 온 기업용 AI 에이전트 플랫폼을 오픈소스로 공개하며, 직원과 프로젝트 단위로 독립적인 AI 에이전트를 운영하는 새로운 협업 모델을 제시했다.YC는 4일(현지시간) 사내에서 회계, 법무, 행사 운영, 엔지니어링 등 다양한 업무에 활용해 온 멀티플레이어 AI 에이전트 하네스(Harness) 'QM(Quartermaster)'"
+    },
+    {
+      "id": "08c7fcf9a18f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213565",
+      "published": "2026-08-05T07:28:43+00:00",
+      "summary": "구글이 자체 AI 칩의 대규모 판로를 확보하기 위해 월가와 손잡고 2000억달러(약 285조원) 규모의 초대형 금융 구조를 구축했다. 주요 투자사인 앤트로픽에 1500억달러 이상의 TPU를 대량 공급하기 위해 브로드컴과 아폴로, 블랙스톤, 모건스탠리, 암호화폐 채굴업체까지 동원하며 AI 인프라 사상 최대 규모의 자금 조달 프로젝트를 추진하고 있다.3일(현지시간) 파이낸셜타임스에 따르면, 구글은 앤트로픽의 폭증하는 AI 컴퓨팅 수요를 충족하기 위해 1500억달러가 넘는 TPU 공급 대규모 금융 프로"
+    },
+    {
+      "id": "a8abf7741983",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퍼플렉시티, 아마존과 AI 쇼핑 도구 항소심서 승리…'에이전트 차단 취소'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213571",
+      "published": "2026-08-05T07:17:29+00:00",
+      "summary": "미국 연방 항소법원이 아마존 플랫폼에서 퍼플렉시티의 AI 에이전트형 쇼핑 도구 사용을 일시적으로 금지했던 하급심 결정을 뒤집었다. AI 에이전트가 사용자를 대신해 온라인 쇼핑과 거래를 수행하는 것이 법적으로 허용되는지를 다룬 첫 연방 항소심 판단으로, 급성장하는 에이전트형 AI 산업 전반에 중요한 선례가 될 것으로 전망된다.로이터에 따르면, 미국 연방항소법원은 4일(현지시간) 퍼플렉시티의 AI 쇼핑 에이전트가 아마존 플랫폼을 이용하는 것을 금지한 가처분 명령을 취소했다.재판부는 아마존이 퍼플렉시티"
+    },
+    {
+      "id": "5327599cfb4c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포, 방역기동반 22명 투입…모기 서식지 집중 방역",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213543",
+      "published": "2026-08-05T07:09:29+00:00",
+      "summary": "AI 생성 영상목포시가 장마 이후 기온 상승으로 모기 등 위생해충이 늘어날 것에 대비해 하절기 집중 방역에 나섰다고 5일 밝혔다.방역기동반을 6개조 22명으로 확대하고 하수구와 쓰레기 적치장, 공원, 하천변, 관광지와 다중이용시설을 중심으로 분무·연무 소독을 강화한다.목포는 지난 3월부터 방역 차량 2개조를 운영해 모기 유충과 성충 구제 활동을 이어왔다. 여름철에는 현장 인력을 늘려 시민 이용이 많은 장소와 방역 취약지역을 집중 관리하고 있다. 외달도 해수욕장 운영 기간인 7월11일부터 8월23일"
+    },
+    {
+      "id": "1eda4953bd02",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"유럽에 한국 반도체 깔린다\"...퓨리오사AI, 스웨덴 AI 데이터센터 사업 참여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213566",
+      "published": "2026-08-05T07:08:02+00:00",
+      "summary": "퓨리오사AI(대표 백준호)는 스웨덴 스톡홀름의 15메가와트(MW) 규모 AI 데이터센터 프로젝트에 참여하며 유럽 AI 추론 인프라 시장 공략에 나선다고 5일 밝혔다.내년 초까지 2MW 규모의 1단계 시설을 우선 가동하고, 같은 해 8MW를 추가 구축한 뒤 장기적으로 15MW까지 확대할 계획이다.퓨리오사AI는 미국 AI 인프라 기업 I/ONX HPC와 데이터센터 개발·운영 기업 벨록스(Velox)와 이번 프로젝트를 추진한다.벨록스는 데이터센터 개발과 운영을 맡는다. I/ONX HPC는 시스템 통합과"
+    },
+    {
+      "id": "ba1d7ac8ceb3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213569",
+      "published": "2026-08-05T07:06:13+00:00",
+      "summary": "오픈AI는 법무법인 태평양이 기업용 AI 서비스 '챗GPT 엔터프라이즈'를 전사 도입했다고 5일 밝혔다.국내 대형 로펌이 전사 조직에 기업용 AI를 도입한 것은 이번이 처음이다.태평양은 챗GPT 엔터프라이즈를 기반으로 업무 특화 기능인 '챗GPT 워크'를 전사 적용해 법률 리서치와 문서 작성, 해외 법령·규제 검토 등 다양한 업무에 활용할 계획이다. 변호사를 포함해 로펌 전 직군이 활용해 반복 업무 시간을 줄이고, 고객을 위한 고부가가치 업무에 집중할 수 있도록 한다는 방침이다.특히 챗GPT 엔터"
+    },
+    {
+      "id": "37a13d4c4729",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 3회 추경 1조8020억원…순천사랑상품권 할인·폭염 대응",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213556",
+      "published": "2026-08-05T07:04:13+00:00",
+      "summary": "AI 생성 영상순천시가 지역경제 회복과 폭염·재난 대응을 위해 1조8020억원 규모의 제3회 추가경정예산안을 편성했다고 5일 밝혔다.제2회 추경 1조7386억원보다 634억원, 3.7% 늘어난 규모다. 순천사랑상품권 할인 지원과 경로당 냉방시설, 재난 대응 사업 등 시민 생활과 밀접한 분야에 재정을 집중한다.순천은 민선9기 출범 이후 첫 원포인트 추경안을 지난 4일 순천시의회에 제출했다. 국·특별시비 보조사업을 적기에 추진하기 위해 먼저 편성·집행한 성립전 예산 366억원도 이번 추경안에 반영했다"
+    },
+    {
+      "id": "e6b67e7eec54",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양, 정례조회 격월제 ‘전체시무회의’로 전환…예산 다이어트 주문",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213567",
+      "published": "2026-08-05T07:03:58+00:00",
+      "summary": "AI 생성 영상광양시는 매월 열던 정례조회의 명칭을 전체시무회의로 바꾸고 격월제로 전환한다고 4일 밝혔다. 박성현 광양시장은 전체 시무회의에서 시정 혁신과 재정위기 극복을 위한 공직자의 역할과 책임을 제시했다.박 시장은 '즐거운 직장 만들기'​를 강조하며 \"직원들이 활기찬 분위기에서 일할 수 있도록 소통을 더욱 강화하자\"고 말했다. 이어 \"잘 쉬는 사람이 일도 잘한다\"며 눈치 보지 않는 여름휴가 사용을 독려하고, 부서별 우수사례를 공유해 성과와 협업 중심의 조직문화를 만들어 가자고 제안했다.이어 "
+    },
+    {
+      "id": "283945667dd4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"성능은 미국 추격했지만 안전장치는 무방비\"…'GLM-5.2' AI 안전성 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213574",
+      "published": "2026-08-05T07:03:00+00:00",
+      "summary": "지푸 AI(Z.ai)의 오픈웨이트 모델 'GLM-5.2'가 미국 프론티어 모델과 성능 격차를 바짝 좁혔지만, 안전성 프레임워크 구축과 세부 평가 보고서 공개는 미흡하다는 지적이 나왔다. 글로벌 AI 안전 비영리 단체 세이퍼AI(SaferAI)가 2일(현지시간) 발표한 평가 보고서에 따르면, GLM-5.2는 사이버 공격 실행 및 이중 용도 생물학적 작업 역량 부문에서 'GPT-5.5'와 '클로드 오퍼스 4.7'과 단 몇개월 차이에 불과한 수준을 보였다.보안 및 안전 장치 비교 실험에서도 뚜렷한 차이"
+    },
+    {
+      "id": "2d93dcb9f56e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ted Lasso returns at an important time for Apple TV",
+      "link": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
+      "published": "2026-08-05T07:00:00+00:00",
+      "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the"
+    },
+    {
+      "id": "694955edeb01",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI Notetaker Has Been Invited to All the Meetings",
+      "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+      "published": "2026-08-05T07:00:00+00:00",
+      "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace."
+    },
+    {
+      "id": "3ac6980bf48f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "일상 대화 알아듣는 금융 AI…대고객 서비스 시작",
+      "link": "https://zdnet.co.kr/view/?no=20260805132431",
+      "published": "2026-08-05T06:57:20+00:00",
+      "summary": "[지디넷코리아]금융사도 인공지능(AI) 활용처를 늘려가면서 일상 대화를 알아듣는 음성 인식 AI 서비스를 차츰 확대하고 있다.5일 인공지능 전환(AX)을 주요 경영 전략으로 삼은 금융사들이 자연어 처리·음성 텍스트화(STT) 등을 접목한 대고객 서비스를 차츰 내놓고 있다.일단 인터넷전문은행이 케이뱅크는 AI와 대화로 돈을 보낼 수 있는 'AI 이체' 서비스 제공 중이다. 예를 들어 자주 이용하는 계좌를 지정해두고 \"김말자에게 5만원 보내줘\"라고 말하면 이를 인식, 송금을 해주는 방식이다. 앞서 카"
+    },
+    {
+      "id": "21859481458a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷마블, 2분기 매출 7492억·영업익 801억…하반기 신작 3종 출격",
+      "link": "https://zdnet.co.kr/view/?no=20260805155239",
+      "published": "2026-08-05T06:52:39+00:00",
+      "summary": "[지디넷코리아]넷마블이 기존 주력작의 업데이트와 신작 흥행 효과에 힘입어 올해 2분기 뚜렷한 매출 회복세를 보였다.넷마블은 2026년 2분기 연결기준 매출 7492억원, 영업이익 801억원을 기록했다고 5일 밝혔다. 전년 동기 대비 매출은 4.4% 늘었으나 영업이익은 20.8% 감소했다.전 분기와 비교하면 매출은 15.0%, 영업이익은 50.8% 상승하며 완연한 실적 개선을 이뤄냈다. 상각전 영업이익(EBITDA)은 1120억원, 당기순이익은 2039억원으로 집계됐다. 이에 따른 올해 상반기 누적"
+    },
+    {
+      "id": "2a9eddf17187",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "네트워크 전혀 없이 무선으로 주고받는 법 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/XmmDstOhpYQ",
+      "published": "2026-08-05T06:44:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "04190826c963",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"서울대병원에 ‘국립희귀질환센터’ 설치해야\"…국민동의청원 진행",
+      "link": "https://zdnet.co.kr/view/?no=20260805145431",
+      "published": "2026-08-05T06:31:49+00:00",
+      "summary": "[지디넷코리아]서울대학교병원에 ‘국립희귀질환센터’ 설치를 요청하는 국민동의청원이 진행돼 관심을 모으고 있다. 해당 청원은 지난 달 23일 공개됐으며, 이달 22일까지 동의 절차가 진행된다.청원자는 청원 취지를 통해 대한민국 희귀질환 환자들은 진단까지 평균 수년이 소요되는 고통 속에 있으며, 전문 치료 인프라의 부족으로 전국 각지를 전전하고 있다고 밝혔다.특히 지방의 의료 인프라 부재와 일선 병원의 관리 미흡으로 사망·뇌사 사례까지 발생하고 있다면서, 지방에 거주하는 희귀 질환 환자들이 현장 의료진"
+    },
+    {
+      "id": "9f08150ea08a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD SW 투데이] 사이냅소프트, 대한민국 AI혁신인재 커넥트 참가 外",
+      "link": "https://zdnet.co.kr/view/?no=20260805103548",
+      "published": "2026-08-05T06:30:21+00:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆사이냅소프트, 대한민국 AI혁신인재 커넥트 참가사이냅소프트가 지난달 29~31일 서울 코엑스에서 열린 '2026 대한민국 AI혁신인재 커넥트'에 참가했다. 과학기술정보통신부와 정보통신기획평"
+    },
+    {
+      "id": "2d000f19c0db",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] 오픈AI, 로펌 시장 첫발…범용 AI 확산 신호탄 될까",
+      "link": "https://zdnet.co.kr/view/?no=20260805151957",
+      "published": "2026-08-05T06:21:46+00:00",
+      "summary": "[지디넷코리아]오픈AI가 국내 대형 로펌의 '챗GPT 엔터프라이즈' 전사 도입 사례를 확보하며 법률 시장 공략에 나섰다. 생성형 AI 활용이 정보기술(IT)과 제조, 금융을 넘어 전문 서비스 분야로 확대되는 가운데 고도의 전문성과 보안이 요구되는 법률 산업에서도 범용 생성형 AI 도입이 본격화할지 관심이 쏠린다.5일 업계에 따르면 법무법인 태평양은 지난달 글로벌 리걸 AI 플랫폼 '하비'를 전사 도입한 데 이어 이달 초부터 오픈AI의 챗GPT 엔터프라이즈도 전 구성원을 대상으로 제공하고 있다.이를"
+    },
+    {
+      "id": "bd17d67c2ca5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디노티시아, FMS서 씨홀스 AI 스토리지로 'AI 어플리케이션 상' 수상",
+      "link": "https://zdnet.co.kr/view/?no=20260805150526",
+      "published": "2026-08-05T06:19:49+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 및 반도체 통합 솔루션 기업 디노티시아가 글로벌 메모리 행사에서 기술력을 인정받았다. 디노티시아는 미국 산타클라라에서 열린 'FMS 2026(Future of Memory and Storage 2026)'에서 자사 '씨홀스 AI 스토리지(Seahorse AI Storage)'가 베스트 쇼 어워즈(Best of Show Awards)의 AI 어플리케이션 상(AI application Award)을 받았다고 5일 밝혔다. 씨홀스 AI 스토리지는 정형·비정형 데이터를 AI"
+    },
+    {
+      "id": "bfe7d8fcc55a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대百, 지누스 부진에 2분기 매출·영업익 뒷걸음질",
+      "link": "https://zdnet.co.kr/view/?no=20260805144556",
+      "published": "2026-08-05T06:11:15+00:00",
+      "summary": "[지디넷코리아]현대백화점의 2분기 수익성이 뒷걸음질 쳤다. 백화점 부분이 사상 최대 실적을 달성했지만, 계열사인 지누스가 부진한 영향이다.현대백화점은 올해 2분기 연결 기준 순매출이 전년 동기 대비 1.1% 줄어든 1조 681억원을 기록했다고 5일 공시했다. 같은 기간 영업이익은 8.7% 감소한 793억원으로 집계됐다.백화점 부문은 2분기 기준 역대 최대 실적을 냈다. 2분기 순매출은 6438억원으로 전년 동기 대비 9.1% 증가했다. 영업이익은 전년 동기 대비 58.6% 늘어난 1101억원으로 "
+    },
     {
       "id": "a72d7c755b78",
       "source": "AI타임스",
@@ -518,6 +749,17 @@
       "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
       "published": "2026-08-04T22:02:46+00:00",
       "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked de"
+    },
+    {
+      "id": "b10b3571bd5a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "published": "2026-08-04T22:01:41+00:00",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 223 # Comments: 172"
     },
     {
       "id": "c1c0e2e76d51",
