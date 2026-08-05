@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-05T20:14:23.197164+00:00",
-  "count": 8253,
+  "updated_at": "2026-08-05T21:34:21.185091+00:00",
+  "count": 8265,
   "items": [
+    {
+      "id": "0616628fcee8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "published": "2026-08-05T21:26:40+00:00",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself."
+    },
+    {
+      "id": "6b61d30b7e2d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "published": "2026-08-05T21:21:28+00:00",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+    },
+    {
+      "id": "46f0471428e2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "published": "2026-08-05T21:05:37+00:00",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees."
+    },
+    {
+      "id": "9625093be5c0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "published": "2026-08-05T20:50:45+00:00",
+      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis."
+    },
+    {
+      "id": "4172069f10f1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "link": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "published": "2026-08-05T20:48:54+00:00",
+      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners"
+    },
+    {
+      "id": "0f3e9797b950",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "published": "2026-08-05T20:47:11+00:00",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
+    },
     {
       "id": "e7e1e2f0aea9",
       "source": "TechCrunch",
@@ -64,6 +130,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "published": "2026-08-05T19:05:58+00:00",
+      "summary": "Google's AI brain drain continues."
+    },
+    {
+      "id": "263a2582063c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
       "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
       "published": "2026-08-05T19:05:58+00:00",
       "summary": "Google's AI brain drain continues."
@@ -298,6 +375,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
       "published": "2026-08-05T15:14:57+00:00",
       "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight "
+    },
+    {
+      "id": "9f09d6736be3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "시전 보고서, 브랜드들이 비용 부담 큰 '데이터 파편화 함정'에 빠지고 있다고 경고",
+      "link": "https://zdnet.co.kr/view/?no=20260806001003",
+      "published": "2026-08-05T15:10:03+00:00",
+      "summary": "[지디넷코리아] 새로운 분석 결과, 단절된 검색, 소셜 및 AI 신호가 사각지대를 만들고 의사결정을 지연시키며 위험을 증폭시키는 것으로 나타나 시카고, 2026년 8월 5일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스 분야의 글로벌 선도기업인 시전(Cision)이 8월 5일, 방대한 데이터를 의미 있는 비즈니스 인텔리전스로 전환하는 데 있어 브랜드들이 겪는 어려움을 조명하는 새로운 보고서 데이터 파편화의 함정: 데이터가 많아져도 브랜드가 명확하게 보지 못하는 이유(The Data Fr"
     },
     {
       "id": "65afd0a8ce59",
@@ -663,6 +751,39 @@
       "summary": "대규모 AI 모델 학습에서 가장 큰 병목으로 꼽히는 전문가 혼합(MoE) 계층의 통신 문제를 해결하기 위한 새로운 오픈소스 기술이 등장했다. 커서(Cursor)는 4일(현지시간) 엔비디아 블랙웰(Blackwell) 기반 GB300 NVL72 서버 환경에서 대규모 전문가 혼합(MoE) AI 모델을 더 빠르게 학습할 수 있는 오픈소스 기술 'MoK(Mixture-of-Kittens)'를 아파치 2.0 라이선스로 오픈소스 공개했다.이 기술은 대규모 MoE 모델의 학습 속도를 높이기 위해 통신과 연산을 "
     },
     {
+      "id": "b07a6477e40d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SKT 2분기 AIDC 매출 92% 급증...\"선수요 확보·직접투자 최소 원칙\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213541",
+      "published": "2026-08-05T08:05:00+00:00",
+      "summary": "SK텔레콤(대표 정재헌)이 5일 2분기 실적발표 컨퍼런스콜을 통해 AI 데이터센터(AIDC) 사업 추진 계획을 공개했다.2분기 AIDC 매출은 전년 동기 대비 92.5% 급증한 1362억원을 달성하며 핵심 성장 동력으로 자리매김했다.AIDC 사업의 본격적인 세력 확장을 위해 지난달 15GW(기가와트) 규모의 사업 개발을 전담할 별도 법인 'SK하이퍼'를 설립했다. SK하이퍼는 부지와 전력 등 핵심 요소를 선제적으로 확보하며 2029년 5GW, 2035년 15GW 규모로 사업을 점차 확대할 계획으로"
+    },
+    {
+      "id": "41946186e38b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 빅밸류, 515만 페이지 분량 'AI GEO 데이터' 전면 개방 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213580",
+      "published": "2026-08-05T08:00:00+00:00",
+      "summary": "■ 빅밸류(대표 구름·이병욱)는 전국 사업자·상권·의료 등 20개 카테고리의 약 515만 페이지 분량의 데이터를 AI가 읽을 수 있는 형태로 대폭 개방했다고 밝혔다. 이를 통해 챗GPT 등 AI 노출 및 인용률을 높여 빅밸류 데이터가 답변으로 노출될 수 있다는 설명이다. 실제 ‘AI 실시간 인용’ 건수는 하루 약 4100건, AI가 나중에 답하기 위한 ‘데이터 색인 수집’은 하루 약 10만건에 달했다.■ 씨이랩(대표 윤세혁·채정환)은 글로벌 유체 관리 솔루션 기업 '왓슨말로우'와 AI 데이터센터 "
+    },
+    {
+      "id": "cb89591d5d59",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 시장 진출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213581",
+      "published": "2026-08-05T07:55:00+00:00",
+      "summary": "엔젤로보틱스(대표 조남민)는 보행보조 웨어러블 로봇 '엔젤슈트 H10'의 베트남 의료기기 등록을 완료하고, 현지 시장 진출을 본격화한다고 5일 밝혔다.엔젤슈트 H10은 사용자의 자세와 움직임을 실시간으로 분석해 고관절 움직임을 지원하는 보행훈련용 웨어러블 로봇이다. 베트남 '클래스 B' 의료기기 적용표준 신고 절차를 완료해 말레이시아에 이어 두 번째로 등록을 마쳤다.앞서 등록된 보행재활 로봇 '엔젤렉스 M20'과 연계해 환자 상태와 재활 단계에 따른 맞춤형 훈련이 가능하다는 설명이다.베트남 주요 "
+    },
+    {
       "id": "cb0e1cf09c53",
       "source": "AI타임스",
       "kind": "article",
@@ -672,6 +793,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213553",
       "published": "2026-08-05T07:49:52+00:00",
       "summary": "미국 트럼프 행정부가 AI 데이터센터의 핵심 부품인 중국산 광 송수신기(optical transceiver)의 신규 모델 수입을 금지하는 방안을 추진하고 있다. AI 인프라 공급망에서 중국산 장비를 배제하려는 움직임으로, 미국 연방통신위원회(FCC)가 올해 안에 관련 규정을 발표할 것으로 알려졌다.4일(현지시간) 로이터에 따르면, FCC는 데이터센터 내부에서 광섬유 케이블을 통해 초고속 데이터 전송을 담당하는 중국산 광 송수신기의 신규 모델 수입을 제한하는 조치를 마련하고 있다.광 송수신기는 AI"
+    },
+    {
+      "id": "d007f0449cb9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "데이터 마이닝 최고 학술대회 9∼13일 제주 개최…구글·알리바바 기조강연",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213582",
+      "published": "2026-08-05T07:45:00+00:00",
+      "summary": "데이터마이닝 분야의 세계적인 국제학술대회가 제주에서 열린다. 국내에서 처음 열리는 이번 대회에는 구글·알리바바·아마존·에어비앤비·마이크로소프트·애플 등 세계적 빅테크 기업을 비롯해 3500여명이 참가한다.제주도는 ACM SIGKDD 2026(Conference on Knowledge Discovery and Data Mining)이 9일부터 13일까지 제주국제컨벤션센터(ICC 제주)에서 열린다고 밝혔다.이 행사는 1947년 설립된 세계 최초의 컴퓨터과학 학술단체인 ACM(Association fo"
     },
     {
       "id": "ba9e9c251404",
