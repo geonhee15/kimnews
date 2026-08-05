@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-08-05T03:30:47.734067+00:00",
-  "count": 8146,
+  "updated_at": "2026-08-05T06:08:34.049576+00:00",
+  "count": 8168,
   "items": [
+    {
+      "id": "a72d7c755b78",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "HP·에이수스·에이서, 중국 CXMT 칩 도입…글로벌 메모리 난에 '공급망 다변화'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213563",
+      "published": "2026-08-05T06:00:08+00:00",
+      "summary": "AI 붐으로 D램(DRAM) 공급난이 장기화하는 가운데 글로벌 PC 제조사들이 메모리 공급처로 중국을 택하기 시작했다. 이에 따라 삼성전자와 SK하이닉스, 마이크론 중심의 메모리 시장에 변화 조짐이 나타나고 있다.4일 닛케이 아시아에 따르면, HP, 에이수스, 에이서 등 주요 PC 업체들은 최근 중국 창신메모리(CXMT)의 D램 검증을 마치고 일부 노트북 제품에 제한적으로 탑재하기 시작한 것으로 알려졌다.적용 대상은 미국 시장을 제외한 일부 지역에서 판매되는 노트북 모델이며, 채택 물량도 제한적인"
+    },
+    {
+      "id": "9557a9364059",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 신생 클라우드 스타트업 볼타와 14조 규모 컴퓨팅 계약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213557",
+      "published": "2026-08-05T05:48:46+00:00",
+      "summary": "앤트로픽이 급증하는 AI 서비스 수요를 뒷받침하기 위해 네오클라우드 볼타(Volta)와 100억달러(약 14조원) 규모의 초대형 컴퓨팅 계약을 체결했다. 스페이스X, AMD, 아카마이에 이어 신생 AI 클라우드 기업까지 파트너로 확보하며 파격적인 행보를 이어가는 모습이다.4일(현지시간) 블룸버그 등에 따르면, 앤트로픽은 올해 1월 설립된 볼타와 6년간 컴퓨팅 용량을 공급받는 계약을 체결했다.볼타는 같은 날 노르웨이 데이터센터를 기반으로 한 100억달러 규모 계약을 발표했지만, 고객사는 공개하지 않"
+    },
+    {
+      "id": "4a930c00d4d8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자, HBM5 성능 8배 개선한 'zHBM' 공개...\"옆 대신 위로 쌓았다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213559",
+      "published": "2026-08-05T05:35:46+00:00",
+      "summary": "삼성전자는 미국 캘리포니아주에서 열린 'FMS 2026'에 참가해 HBM5 대비 성능을 최대 8배 높인 차세대 3D 메모리 아키텍처 'zHBM'과 차세대 고성능 낸드 'zNAND-O'을 업계 최초로 선보였다고 5일 밝혔다.zHBM은 AI 가속기(xPU) 옆에 HBM을 배치하던 방식과 달리 가속기 상단에 HBM을 수직 적층하는 구조다. AI 가속기와 메모리 간 데이터 이동 거리를 최소화해 대역폭과 전력효율을 높이고, 초고속 데이터 처리를 지원한다는 설명이다.기존 HBM5 대비 성능은 최대 8배, 전"
+    },
+    {
+      "id": "93cd9506e1fd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"HBM 다음 주자 될 것\"...SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213562",
+      "published": "2026-08-05T05:34:33+00:00",
+      "summary": "SK하이닉스는 미국 캘리포니아주에서 열린 'FMS 2026'에서 샌디스크와 차세대 스토리지 기술인 '고대역폭플래시(HBF)'의 첫 표준 규격을 공개했다고 밝혔다.HBF는 고대역폭메모리(HBM)와 솔리드스테이트드라이브(SSD) 사이의 새로운 메모리 계층이다. HBM처럼 데이터를 빠르게 주고받으면서도 낸드를 기반으로 용량을 크게 키울 수 있어 AI 추론 환경에서 대역폭과 용량 확장성을 동시에 확보할 수 있다는 설명이다.용량은 낸드 다이를 8단·16단으로 쌓는 두 가지 스택 구성 기준 최대 512기가바"
+    },
+    {
+      "id": "83911897b000",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "텍사스, 전력망 붕괴 우려에 데이터센터 1800곳 승인 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213564",
+      "published": "2026-08-05T05:31:51+00:00",
+      "summary": "미국 텍사스주가 폭증하는 데이터센터 구축 수요로 인한 전력망 붕괴 우려에 대응해 대규모 건설 승인을 일시 중단하는 강수를 뒀다.그렉 애벗 텍사스 주지사는 3일(현지시간) 텍사스 공공사업 위원회와 텍사스 전력신뢰성 위원회가 전력망 연결을 신청한 데이터센터 시설에 대한 감사를 완료할 때까지 모든 신규 승인 절차를 일시적으로 동결한다고 발표했다. 이에 따라 전력망 접속을 신청한 사업자들은 세금 감면 혜택 내역을 비롯해 전력 사용 및 자체 발전 계획, 냉각 방식 및 용수 사용량, 지역사회 영향 완화 대책"
+    },
+    {
+      "id": "8417c99d3395",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "TTA, 제조 특화 AX 인증 서비스 시행",
+      "link": "https://zdnet.co.kr/view/?no=20260805134907",
+      "published": "2026-08-05T05:26:06+00:00",
+      "summary": "[지디넷코리아]한국정보통신기술협회(TTA)는 제조 특화 AX 인증 서비스를 이달부터 시행한다고 5일 밝혔다.제조 AI 데이터 구축부터 AI 개발, 운영에서 품질과 신뢰성 확보 등을 포괄하는 제조 분야 AX를 지원하기 위해 서비스를 시작한다.인증은 제조 분야 특화 AI 전주기 통합 인증 체계로, 중소벤처기업부 공모 사업인 지역특화 제조데이터 활성화 사업 일환으로 개발됐다.인증 항목은 데이터·인공지능·품질 관련 국제표준을 기반으로 도출됐다. 주요 적용 내용으론 AI 데이터 품질에 관한 국제표준(ISO"
+    },
+    {
+      "id": "5a4a88ba2853",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "두산퓨얼셀, ‘연료전지 심장’ 유럽 첫 수출…1087억원 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260805142601",
+      "published": "2026-08-05T05:26:01+00:00",
+      "summary": "[지디넷코리아]두산퓨얼셀이 고체산화물연료전지(SOFC) 핵심 모듈인 '스택'을 유럽에 처음 수출한다. 자체 연료전지 시스템을 판매하는 데서 나아가 다른 기업의 발전설비에 들어가는 핵심부품을 생산하는 '스택 파운드리' 사업을 본격화한다.두산퓨얼셀은 독일 에너지기업 리베리온과 1087억원 규모 SOFC 스택 공급계약을 체결했다고 5일 공시했다. 계약금액은 2025년 말 연결 기준 매출의 23.9%로, 회사 창사 이후 최대 규모 해외 수출계약이다.스택은 연료와 산소의 화학반응을 통해 전기를 생산하는 S"
+    },
+    {
+      "id": "a17aa47ef60f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HD현대, 美 군함 조선소에 '스마트 용접' 기술 이식",
+      "link": "https://zdnet.co.kr/view/?no=20260805141143",
+      "published": "2026-08-05T05:11:43+00:00",
+      "summary": "[지디넷코리아]HD현대가 자체 개발한 지능형 용접 시스템을 미국 해군 함정 건조 현장에 적용한다. 용접 위치를 자동으로 보정하고 여러 로봇의 작업 데이터를 통합 관리하는 스마트 조선소 기술을 미국에서 검증한다.HD현대는 최근 미국 방산 조선사 헌팅턴 잉걸스(HII) 산하 조선소에서 생산성 향상을 위한 시범사업에 착수했다고 5일 밝혔다. 미시시피주에 위치한 잉걸스 조선소는 미 해군의 수상함을 건조하는 주요 조선소다.이번 사업은 양사가 2025년 미국 해양항공우주 전시회 ‘씨 에어 스페이스 2025’"
+    },
+    {
+      "id": "098c4381533f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세계은행 \"AI, 개도국에 100년 치 발전 당길 '생명줄'…무리한 투자 피해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213561",
+      "published": "2026-08-05T05:09:07+00:00",
+      "summary": "AI가 저소득 국가의 일자리를 빼앗기보다는 생산성을 비약적으로 끌어올려 경제 성장을 견인할 ‘생명줄(Lifeline)’이 될 수 있다는 세계은행(WB)의 분석이 나왔다. 신흥 경제국들이 대규모 데이터센터나 자체 모델 개발 등 ‘AI 주권’ 확보에 무리하게 투자하기보다, 현지 실정에 맞는 작고 저렴한 AI 도구를 적극 도입해야 한다는 권고다.세계은행은 4일(현지시간) 발표한 보고서를 통해 개발도상국이 전력과 네트워크 연결성, 디지털 기술 격차를 신속히 해소한다면 AI를 활용해 10년 만에 100년 "
+    },
+    {
+      "id": "66d631e6a150",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코엑스, ‘AI 서밋 서울 & 엑스포 2026’ 19일 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260805140527",
+      "published": "2026-08-05T05:05:27+00:00",
+      "summary": "[지디넷코리아]코엑스(사장 조상현)는 DMK글로벌(대표 박세정), 한국무역협회(KITA·회장 윤진식)와 공동으로 AI 컨펙스 ‘AI 서밋 서울 & 엑스포(AISE·AI Summit Seoul & Expo 2026)’를 19일부터 21일까지 사흘간 서울 삼성동 코엑스 B홀과 그랜드볼룸에서 개최한다고 밝혔다.AISE는 생성형 AI에서 에이전틱 AI와 피지컬 AI로 이어지는 기술 흐름과 이를 뒷받침하는 데이터·인프라, 산업별 솔루션, 기업의 실제 활용 사례와 비즈니스 전략을 전시회와 컨퍼런스에서 선보이"
+    },
+    {
+      "id": "0176ac373c22",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "published": "2026-08-05T05:00:00+00:00",
+      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals."
+    },
+    {
+      "id": "bc05e9c824d4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 인플루언서 초청 '럭셔리 행사' 개최…환경 논란에 역풍",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213558",
+      "published": "2026-08-05T04:44:27+00:00",
+      "summary": "오픈AI가 자사 제품군을 홍보하기 위해 유명 인플루언서들을 초청한 럭셔리 행사를 개최했으나, 온라인상에서 대대적인 비판에 직면했다. 3일(현지시간) 테크크런치와 비즈니스 인사이더 등에 따르면, 오픈AI는 최근 뉴욕주 허드슨 밸리에 있는 고급 리조트 와일드플라워 팜스에서 크리에이터 및 인플루언서를 대상으로 한 첫 브랜드 행사 '여름 캠프(Summer Camp)'를 진행했다. 이 리조트는 1박 숙박료가 최저 2000달러(약 285만원) 이상을 호가하는 호화 시설이다. 이날 행사에는 테크 및 커리어, "
+    },
+    {
+      "id": "d91db604d48a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성 '비밀병기' 휴머노이드가 움직인다...데이터·제조기술·자본 통합",
+      "link": "https://zdnet.co.kr/view/?no=20260805115457",
+      "published": "2026-08-05T04:37:38+00:00",
+      "summary": "[지디넷코리아]세계 최고의 제조기술 기업인 삼성전자가 전사 역량을 통합해 휴머노이드 로봇 개발에 속도를 내고 있다. 제조 기술, 현장 데이터, 소프트웨어, 자본, 반도체 역량이 한데 결집된 삼성표 휴머노이드에 대한 업계 기대가 높아지는 분위기다.5일 업계에 따르면 삼성전자는 자회사 레인보우로보틱스와 별개로 휴머노이드를 직접 개발하고 있으며, 개발 수준도 이미 상당한 단계에 이른 것으로 확인됐다.로봇 업계 관계자는 \"삼성전자가 직접 만든 휴머노이드 수준이 국내 주요 휴머노이드 제품을 뛰어넘은 것으로"
+    },
+    {
+      "id": "07949e6755f5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 25년 만에 반도체 IP 보호 개편…미 제재 맞서 칩 설계 '자산화'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213554",
+      "published": "2026-08-05T04:24:08+00:00",
+      "summary": "중국이 미국의 반도체 제재에 대응해 자국 반도체 설계 지식재산권(IP) 보호 체계를 25년 만에 전면 개편한다. 집적회로(IC) 레이아웃 설계의 등록 기준을 대폭 강화하고 징벌적 손해배상 제도를 도입하는 등 반도체 설계 기술을 국가 전략 자산으로 보호하겠다는 의지다.로이터에 따르면, 중국 국무원은 3일(현지시간) 리창 총리가 지난 7월23일 서명한 '집적회로 배치설계 보호 조례' 개정안을 오는 10월15일부터 시행한다고 발표했다.이번 개정은 2001년 제도 도입 이후 25년 만에 이뤄진 대대적인 "
+    },
+    {
+      "id": "24d77c6c0d56",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 미국 근로자 고용 차별 혐의로 미 법무부와 45억 합의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213549",
+      "published": "2026-08-05T04:13:38+00:00",
+      "summary": "오픈AI가 미국 근로자를 차별하고 임시 취업비자 소지자를 우대했다는 혐의와 관련해 미국 법무부(DOJ)와 총 320만달러(약 45억원) 규모의 합의에 도달했다. 오픈AI는 법무부의 판단에는 동의하지 않는다는 입장을 유지했지만, 영구 노동 인증(PERM) 프로그램을 계속 운영하기 위해 합의를 수용하고 채용 절차를 전면 개선하기로 했다.미 법무부는 4일(현지시간) 오픈AI와 자회사인 스태츠식(Statsig)이 PERM 절차를 진행하는 과정에서 미국 시민권 및 국적법(INA)을 위반하고 미국인 구직자보"
+    },
+    {
+      "id": "0155c59b881e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI가 가짜 신분으로 사람까지 속여\"...영국 AISI, 에이전트 기만 보고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213552",
+      "published": "2026-08-05T03:55:03+00:00",
+      "summary": "영국 AI안전연구소(AISI)가 정기 사이버 보안 평가 과정에서 AI 에이전트가 통제된 시험 환경을 벗어나 인터넷상의 사람과 조직을 대상으로 승인되지 않은 자율 공격을 수행한 사례를 공개했다. 특히 일부 모델은 목표 달성을 위해 가짜 온라인 신분을 만들고 사람을 속이는 사회공학 기법까지 사용한 것으로 확인돼, AI 에이전트의 자율성과 기만적 행동이 현실 세계에서 처음으로 뚜렷하게 관찰됐다는 평가가 나온다.AISI는 4일(현지시간) 인터넷 접속을 허용하고 모델 자체의 사이버 보안 필터를 의도적으로 "
+    },
+    {
+      "id": "89c59d581a6e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"영업비밀 반환하라\" 애플 가처분 신청에 오픈AI \"착각 말라\" 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213545",
+      "published": "2026-08-05T03:41:31+00:00",
+      "summary": "애플과 오픈AI의 갈등이 법정 공방으로 확대됐다. 애플이 오픈AI와 전직 애플 직원들을 상대로 제기한 영업비밀 침해 소송에서 관련 정보의 사용·공개를 즉시 중단하고 기밀 자료를 반환하라는 가처분 신청을 미국 법원에 제출하자, 오픈AI는 \"애플이 사실을 잘못 이해하고 있다\"라며 강하게 반박했다.로이터에 따르면, 애플은 3일(현지시간) 미국 캘리포니아 북부 연방법원에 제출한 가처분 신청서에서 소송이 진행되는 동안 오픈AI가 애플의 영업비밀을 제품 개발이나 회사 운영에 활용하면 회복할 수 없는 치명적인"
+    },
+    {
+      "id": "1fb684a2e0e1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, AI 컴퓨팅 계약 힘입어 분기 매출 2배 급증...주가는 8% 하락",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213550",
+      "published": "2026-08-05T03:31:33+00:00",
+      "summary": "스페이스X가 상장 후 첫 분기 실적에서 스타링크 위성 인터넷과 AI 컴퓨팅 사업의 급성장에 힘입어 시장 예상치를 웃도는 성적을 거뒀다. 스페이스X는 4일(현지시간) 올해 2분기 매출이 78억달러(약 11조원)로 지난해 같은 기간 41억달러보다 92% 증가했다고 밝혔다. 이는 시장 예상치인 약 69억달러를 크게 웃도는 수준이다.이번 실적 개선은 스타링크와 AI 사업이 이끌었다. 스타링크 사업은 17억달러의 추가 매출을 기록하며 전체 매출의 절반 이상을 차지했고, AI 사업은 20억달러의 신규 매출을"
+    },
     {
       "id": "ebd7f5d8a195",
       "source": "AI타임스",
@@ -56,6 +254,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213540",
       "published": "2026-08-05T02:51:50+00:00",
       "summary": "LG CNS(대표 현신균)는 한국공항공사의 'KAC AI 마스터플랜 수립 사업'에 선정돼 공항 산업의 AX 지원에 나선다고 5일 밝혔다.재정경제부의 'AI 선도기관'으로 선정된 한국공항공사는 'AI 혁신을 통한 미래공항 구현'을 목표로 지난해부터 총 50개의 AI 혁신 과제를 추진 중이다.LG CNS는 김포·김해·제주 등 전국 14개 공항 운영 전반에 AI를 적용하는 중장기 프로젝트를 수행하며, AI 전략 컨설팅부터 AI·데이터 아키텍처 설계, AI 거버넌스 구축, 핵심 과제 기술검증(PoC), "
+    },
+    {
+      "id": "05f19277df49",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] 구글·메타에 도전장…미스트랄, 기업용 AI 안전시장 본격 공략",
+      "link": "https://zdnet.co.kr/view/?no=20260805113649",
+      "published": "2026-08-05T02:38:43+00:00",
+      "summary": "[지디넷코리아]프랑스 인공지능(AI) 기업 미스트랄AI가 기업별 정책에 맞춰 유해 콘텐츠 판정 기준을 바꿀 수 있는 소형 안전 모델을 공개하며 기업용 AI 시장 공략에 나섰다. 생성형 AI 활용이 업무 에이전트로 확대되면서 모델 성능뿐 아니라 보안과 규제 준수 역량이 주요 경쟁 요소로 떠오르자 안전 모델까지 오픈 웨이트 전략을 넓힌 모습이다.미스트랄AI는 4일(현지시간) 공식 홈페이지를 통해 30억 개 파라미터 규모의 멀티모달 안전 분류 모델 '실드스트랄(Shieldstral)'을 아파치 2.0 "
+    },
+    {
+      "id": "e051c680615b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "플리토, 올리브영 찾는 외국인 'AI 통번역'으로 응대한다",
+      "link": "https://zdnet.co.kr/view/?no=20260805113540",
+      "published": "2026-08-05T02:35:40+00:00",
+      "summary": "[지디넷코리아]플리토가 CJ올리브영에 인공지능(AI) 통번역 솔루션을 공급하며 외국인 고객 경험 강화에 나선다.플리토는 올리브영 주요 오프라인 매장에 AI 기반 통번역 솔루션 '챗 트랜스레이션'을 공급한다고 5일 밝혔다. 이번 도입은 서울, 부산, 제주 등 외국인 관광객 유입이 많은 핵심 상권 매장을 중심으로 진행됐다.현재 주요 매장에서 외국인 고객 응대에 활용되고 있다. 해당 솔루션은 매장 환경에 맞춰 ▲뷰티 컨설팅 특화형 ▲직원용 PDA 앱 탑재형 두 가지 방식으로 적용됐다.뷰티 컨설팅 특화형"
     },
     {
       "id": "a3e09067ec6b",
@@ -201,6 +421,17 @@
       "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel "
     },
     {
+      "id": "6697c0b37f1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "published": "2026-08-04T23:18:12+00:00",
+      "summary": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 233 # Comments: 29"
+    },
+    {
       "id": "8034d086aa0e",
       "source": "Wired",
       "kind": "article",
@@ -243,6 +474,17 @@
       "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
       "published": "2026-08-04T22:24:00+00:00",
       "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis."
+    },
+    {
+      "id": "466765168f12",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "published": "2026-08-04T22:22:12+00:00",
+      "summary": "Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 232 # Comments: 89"
     },
     {
       "id": "41074b8f97d1",
