@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-08-06T07:18:02.578733+00:00",
-  "count": 8323,
+  "updated_at": "2026-08-06T10:07:14.163887+00:00",
+  "count": 8343,
   "items": [
+    {
+      "id": "dd72cc47127e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "published": "2026-08-06T09:33:11+00:00",
+      "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the action"
+    },
+    {
+      "id": "72e24a64ed1f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카페24, 2분기 영업익 82억원…전년比 26.7%↓",
+      "link": "https://zdnet.co.kr/view/?no=20260806174906",
+      "published": "2026-08-06T09:20:34+00:00",
+      "summary": "[지디넷코리아]카페24가 올해 2분기 쇼핑몰 거래액 확대와 결제 솔루션 등의 성장으로 매출은 늘었지만, 지급 수수료 증가와 공격적인 마케팅 영향으로 영업이익은 줄어들었다. 카페24는 2분기 매출 834억원, 영업이익 82억원을 기록했다고 6일 공시했다. 매출은 전년 동기 대비 5% 증가했으나 영업이익은 26.7% 감소했다. 영업비용은 751억원으로 전년 동기 보다 10.3% 늘었다. 쇼핑몰거래액(GMV)는 3조7500억원으로 지난해 같은 기간보다 11.2% 성장하며 분기 기준 최대 거래액을 달성했"
+    },
+    {
+      "id": "b2c131f05eae",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마일게이트 '로스트아크', 맘스터치와 '모코코 썸머 바캉스 세트' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260806180101",
+      "published": "2026-08-06T09:20:01+00:00",
+      "summary": "[지디넷코리아]스마일게이트의 MMORPG '로스트아크'가 외식 브랜드 맘스터치와 함께 한정판 제휴 세트를 선보인다.스마일게이트는 맘스터치와의 네 번째 협업 상품인 '모코코 썸머 바캉스 세트'를 출시했다고 6일 밝혔다.이번 세트는 해변에서 휴가를 즐기는 마스코트 '모코코'를 테마로 기획됐다.해당 세트는 싸이버거 1개, 후라이드 빅싸이순살 1개, 콜라 1잔으로 구성된다. 구매자에게는 로스트아크 컬렉션 카드 1팩, 모코코 스프링 피규어 1종(랜덤 지급), 게임 내 아이템을 획득할 수 있는 스페셜 쿠폰을"
+    },
+    {
+      "id": "ca7926ae7a86",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에이트스튜디오 '블라이트워', 구글·애플 양대 마켓 인기 1위 기록",
+      "link": "https://zdnet.co.kr/view/?no=20260806172927",
+      "published": "2026-08-06T09:00:03+00:00",
+      "summary": "[지디넷코리아]에이트스튜디오의 신작 모바일 방치형 RPG '블라이트 워 : 방치형 RPG'가 구글 플레이스토어와 애플 앱스토어에서 양대 마켓 인기 순위 1위를 기록했다.에이트스튜디오는 자체 개발한 '블라이트 워 : 방치형 RPG'가 정식 출시 직후 양대 앱 마켓 인기 순위 정상에 올랐다고 6일 밝혔다.해당 게임은 정식 출시 전 진행된 사전예약에서 신청자 50만명을 기록한 바 있다.이 작품은 불사의 세계에 장례식을 거행해 신들의 시대를 끝맺는다는 다크 판타지 세계관을 배경으로 제작됐다. 이용자는 룬"
+    },
+    {
+      "id": "5634bfe64559",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "진짜 내 컴퓨터에서 돌릴 수 있는 1위 모델의 등장 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/sP-XQBJuX2Y",
+      "published": "2026-08-06T09:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "id": "872a9dd8e400",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 사내 개발자 기본 모델로 'GPT-5.6 솔' 지정...\"효율 최우선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213604",
+      "published": "2026-08-06T08:52:52+00:00",
+      "summary": "마이크로소프트(MS)가 사내 개발자들이 사용하는 기본 AI 코딩 모델로 오픈AI의 최신 모델인 'GPT-5.6 솔'을 지정했다. AI 인프라 투자 비용이 급증하는 가운데 토큰 사용 효율을 극대화하기 위한 조치로, 사실상 코딩 성능과 비용 대비 효율성에서 경쟁 모델인 앤트로픽의 '클로드'보다 우수하다고 판단한 것으로 해석된다.5일(현지시간) CNBC에 따르면, 제이 파리크 MS 코어AI(CoreAI) 엔지니어링 그룹 수석 부사장은 최근 사내 임직원에게 보낸 메모를 통해 깃허브 코파일럿, 비주얼 스튜"
+    },
+    {
+      "id": "133bf30d7a43",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이트댄스, 미국 눈치에 'AI 증류' 포기 선언...\"단기 성과보다 장기 전략\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213605",
+      "published": "2026-08-06T08:45:29+00:00",
+      "summary": "바이트댄스가 생성 AI 경쟁에서 널리 활용되는 '증류(Distillation)' 기법을 사용하지 않겠다는 방침을 공식화했다. 미국 정부와 틱톡(TikTok)을 둘러싼 갈등을 겪었던 경험을 고려해, 단기적인 성능 향상보다 장기적인 사업 안정성을 선택한 것으로 풀이된다.5일(현지시간) 디 인포메이션에 따르면, 장이밍 바이트댄스 창립자는 지난달 AI 조직인 '시드(Seed)' 전 직원 회의에서 \"회사는 증류 방식을 AI 모델 개발의 지름길로 활용하지 않을 것\"이라고 밝혔다.장 창립자가 시드 조직 전체 "
+    },
+    {
+      "id": "a3d60fd9012a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥슨 리플레이, 대구디지털혁신진흥원과 지역 게임산업 육성 업무협약",
+      "link": "https://zdnet.co.kr/view/?no=20260806171818",
+      "published": "2026-08-06T08:35:01+00:00",
+      "summary": "[지디넷코리아]넥슨의 IP 오픈라이선스 프로젝트 '넥슨 리플레이'가 대구디지털혁신진흥원과 손잡고 지역 게임산업 육성과 혁신 신작 발굴에 나선다.넥슨코리아(공동 대표 강대현·김정욱)는 IP 오픈라이선스 프로젝트 '넥슨 리플레이'와 대구디지털혁신진흥원이 지역 게임산업 육성을 위한 업무협약(MOU)을 체결했다고 6일 밝혔다.이번 협약을 통해 양 기관은 '2026년 대구글로벌게임센터 게임콘텐츠 제작지원 사업' 내 'NEXON REPLAY IP 연계형 게임 제작지원' 사업을 공동 추진한다.지원 대상은 대구"
+    },
+    {
+      "id": "9b286251a943",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 초저가 정책 접나…AI 서비스 가격 '대폭' 인상 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213632",
+      "published": "2026-08-06T08:30:00+00:00",
+      "summary": "딥시크가 자체 AI 서비스 전반에 걸친 상당한 규모의 가격 인상을 예고했다. 초저가 전략으로 글로벌 시장을 흔들던 딥시크의 이번 결정이 AI 업계 전반의 가격 상승을 이끌지 주목된다.딥시크는 6일 공지를 통해 \"가까운 시일 내에 딥시크 API 서비스의 전체 가격을 인상할 계획이며, 상당한 인상(significant increase)이 예상된다\"라고 밝혔다. 구체적인 인상 폭과 시점은 공개되지 않았으나, 고객들에게 가격 변동에 맞춰 사전 대비할 것을 당부했다.현재 '딥시크-V4 플래시'는 입력 토큰"
+    },
+    {
+      "id": "6db46cc7227b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "텔레칩스, 2분기 영업익 32억원...3분기 연속 흑자",
+      "link": "https://zdnet.co.kr/view/?no=20260806172115",
+      "published": "2026-08-06T08:28:13+00:00",
+      "summary": "[지디넷코리아]차량용 반도체 설계 기업 텔레칩스가 2분기 실적 개선세를 이어갔다.텔레칩스는 2분기 연결기준 영업이익 31억 8000만원을 기록했다고 6일 공시했다. 전년 동기 35억 5000만원 영업손실에서 흑자로 돌아섰다. 2분기 매출은 592억원을 기록했다. 전년 동기(443억원) 대비 33.6% 증가했다. 영업이익률은 -8.0%에서 5.4%로 개선됐다. 텔레칩스는 지난해 4분기 영업이익 흑자 달성 이후 3분기 연속 영업흑자 기조를 유지했다. 시스템 온 칩(SoC) 개발용역 매출 감소에도 불구"
+    },
+    {
+      "id": "c76ac6a9c718",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 애플의 영업비밀 침해 소송에 “근거 없다”며 기각 신청",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213634",
+      "published": "2026-08-06T08:27:08+00:00",
+      "summary": "오픈AI가 애플이 제기한 영업비밀 침해 소송을 기각해 달라고 연방 법원에 공식 요청했다. 로이터와 블룸버그 등에 따르면, 오픈AI는 6일(현지시간) 법원에 제출한 서류를 통해 \"애플의 소송은 적절한 조사 없이, 선별적으로 발췌된 의사소통과 맥락이 제거된 일반적인 행위에 근거하여 제기된 것\"이라고 비판했다.이어 \"애플이 근거 없고 핑계에 불과한 소송을 인재 확보 시장에서의 부족함을 만회하는 데 이용하도록 허용해서는 안 된다\"라고 비판했다.특히 애플은 오픈AI를 고소하는 과정에서 '근본적으로 썩었다("
+    },
+    {
+      "id": "4eb1954e217d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 비즈플레이, 비큐AI와 기업 출장·경비 관리 AX 협력 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213586",
+      "published": "2026-08-06T08:00:00+00:00",
+      "summary": "■ 비즈플레이(대표 석창규)는 비큐AI와 기업 임직원 대상 AI 기반 업무 자동화를 위한 업무협약을 체결했다고 밝혔다. 비즈플레이의 출장관리·경비지출 플랫폼에 비큐AI의 AI 기반 데이터 구조화 기술과 뉴스 데이터 역량을 결합해 출장·경비 업무 전반에 AI를 접목함으로써 업무 효율과 정확도를 향상한다는 설명이다.■ 스노우플레이크는 오는 27일 서울 삼성동 코엑스에서 '스노우플레이크 월드 투어 서울'을 개최한다고 밝혔다. 한국에서 올해 5회차를 맞이한 이번 행사는 'Making AI Real for"
+    },
+    {
+      "id": "581d11374707",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "옵트에이아이, 온디바이스 특화 자체 경량 AI 모델 '옵트기어' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213630",
+      "published": "2026-08-06T07:50:00+00:00",
+      "summary": "옵트에이아이(대표 이재호)는 자체 경량 언어모델 '옵트기어(Opt.Gear)'를 공개했다고 6일 밝혔다.옵트기어는 옵트에이아이가 자체 설계한 첫 파운데이션 모델이다. 매개변수 10억개(1B), 2억 7000만개(270M), 100만개(1M) 세 가지 크기로 나뉘며, 스마트폰과 노트북, 마이크로컨트롤러(MCU)에서도 구동 가능하다.서버용 거대 언어모델을 단순 축소한 것이 아니라 SRAM과 메모리 대역폭, 전력, 지연 시간이 제한된 온디바이스 환경을 고려해 설계된 것이 특징이다. 가중치와 배포 파일을"
+    },
+    {
+      "id": "08b827c6a6e4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...\"자체 시스템 먼저 해킹·정보 공유까지\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213624",
+      "published": "2026-08-06T07:49:19+00:00",
+      "summary": "오픈AI의 AI 에이전트가 외부 플랫폼인 허깅페이스를 해킹하기에 앞서, 먼저 자체 사이버보안 테스트 환경을 해킹해 서로 정보를 공유하며 공격을 고도화한 세부 사실이 공개됐다. 오픈AI는 이번 사건을 AI 보안 역사에서 '분수령'으로 평가하며, 앞으로 AI 에이전트가 실제 사이버 공격에 악용될 가능성에 대비해 연구 속도를 일부 늦추고 보안 체계를 강화하고 있다고 밝혔다.오픈AI는 5일(현지시간) 미국 라스베이거스에서 열린 블랙햇 사이버보안 컨퍼런스에서 지난 수개월간 진행된 AI 보안 평가 과정을 공"
+    },
+    {
+      "id": "d5c23fc3135b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 18~26세 여성 HPV 예방접종 무료",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213617",
+      "published": "2026-08-06T07:28:28+00:00",
+      "summary": "AI 생성 영상순천시가 청년 여성의 건강증진과 경제적 부담 완화를 위해 HPV(사람유두종바이러스) 예방접종 무상 지원 사업을 2027년부터 본격 추진할 계획이라고 6일 밝혔다.지원 대상은 순천에 1년 이상 주민등록을 두고 거주하는 18세부터 26세까지의 여성이다. 순천은 원활한 사업 추진을 위해 관련 조례 정비와 예산 확보, 위탁의료기관 협약 등의 절차를 마무리할 계획이다. 사업은 내년 3월부터 본격 시행할 예정이다.손훈모 순천시장은 “시민의 건강은 무엇보다 소중한 자산이며, 경제적 이유로 예방의"
+    },
+    {
+      "id": "931b0f35bed5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "박윤영 KT 대표, 목동 데이터센터 현장 점검...\"AI 인프라 경쟁력\" 당부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213625",
+      "published": "2026-08-06T07:28:18+00:00",
+      "summary": "KT 박윤영 대표는 6일 서울 양천구 KT 클라우드 목동2 데이터센터를 방문해 KT그룹의 AI 데이터센터(AIDC)·클라우드 인프라와 기술 개발 현황을 점검했다고 밝혔다.KT는 'AX 플랫폼 컴퍼니'를 목표로 삼고, 축적한 데이터센터 운영 경험과 네트워크 경쟁력을 바탕으로 실수요 기반의 AIDC 사업 확대를 추진 중이다.박 대표는 이날 통합관제센터를 비롯한 주요 시설을 둘러보며 인프라 운영 체계를 점검하고, 데이터센터 간 트래픽을 연결·처리하는 핵심 기술인 데이터센터 간 상호연결(DCI)의 품질과"
+    },
+    {
+      "id": "5e4ef9fbeae0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미스트랄, 멀티모달 안전 모델 '실드스트랄' 오픈 공개...프롬프트로 맞춤형 가드레일 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213620",
+      "published": "2026-08-06T07:26:32+00:00",
+      "summary": "콘텐츠 안전성을 확보하는 'AI 가드레일(Guardrail)' 기술의 중요성이 커지는 가운데, 미스트랄 AI가 서비스마다 다른 안전 기준을 프롬프트만으로 손쉽게 적용할 수 있는 경량 오픈소스 안전 모델을 공개했다. 대형 모델 중심이던 AI 콘텐츠 검열 시장에서 효율성과 맞춤형 정책 적용을 앞세운 새로운 대안이라고 강조했다. 미스트랄은 4일(현지시간) 텍스트와 이미지를 동시에 처리할 수 있는 30억(3B) 매개변수 규모의 오픈소스 안전 분류 모델 '실드스트랄(Shieldstral)'을 공개했다.기존"
+    },
+    {
+      "id": "ebea1054f5f1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오, 과기정통부 'AI 에이전트 마켓플레이스 사업' 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213623",
+      "published": "2026-08-06T07:15:01+00:00",
+      "summary": "카카오(대표 정신아)는 과학기술정보통신부가 주관하고 한국지능정보사회진흥원(NIA)이 전담하는 'AI 에이전트 마켓플레이스 개발 지원 사업'의 수행 사업자로 선정됐다고 6일 밝혔다.이번 사업은 110억원 규모로 추진되며, AI 에이전트 서비스부터 에이전틱 AI 도구까지 한곳에서 검색하고 활용할 수 있는 플랫폼 구축을 목표로 한다.연내 1차 오픈을 목표로 하며, 내년에는 에이전트 스튜디오를 포함한 고도화 작업을 거쳐 2차 오픈을 진행할 예정이다.카카오는 카카오엔터프라이즈와 컨소시엄을 구성해 에이전트의"
+    },
     {
       "id": "01bb678b12fd",
       "source": "AI타임스",
@@ -221,6 +419,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213592",
       "published": "2026-08-06T05:50:04+00:00",
       "summary": "AI 생성 영상목포시가 목포역 장시간 체류자 관련 시민 불편과 안전 우려에 대응하기 위해 현장 관리와 복지서비스 연계를 강화한다.목포는 최근 목포역 내 장시간 체류자로 인한 시민 불편과 안전 우려가 이어짐에 따라 현장 점검과 유관기관 협력체계 강화에 나섰다고 6일 밝혔다. 목포는 목포역 현장을 찾아 이용객 불편 사항과 안전 위해 요인을 확인하고, 장시간 체류자 현황을 파악했다.지난 5일에는 목포역, 역전파출소, 119안전센터 등 유관기관과 협조회의를 열었다. 회의에서는 기관별 역할을 공유하고 대응"
+    },
+    {
+      "id": "d00cf78373ee",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Crime Pays but Botany Doesn't",
+      "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "published": "2026-08-06T04:46:35+00:00",
+      "summary": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 201 # Comments: 80"
     },
     {
       "id": "7a824135beca",
@@ -903,6 +1112,17 @@
       "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
       "published": "2026-08-05T16:52:29+00:00",
       "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses."
+    },
+    {
+      "id": "964287e66070",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "link": "https://github.com/denoland/celld",
+      "published": "2026-08-05T16:50:06+00:00",
+      "summary": "Article URL: https://github.com/denoland/celld Comments URL: https://news.ycombinator.com/item?id=49185430 Points: 216 # Comments: 35"
     },
     {
       "id": "86527ecbe344",
