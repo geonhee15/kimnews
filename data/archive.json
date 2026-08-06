@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-05T23:39:04.575518+00:00",
-  "count": 8268,
+  "updated_at": "2026-08-06T01:04:12.865060+00:00",
+  "count": 8278,
   "items": [
+    {
+      "id": "dd89cacec624",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "published": "2026-08-06T00:25:10+00:00",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in m"
+    },
+    {
+      "id": "f2f45e175b38",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "대만 통신사, 17년만에 최고 실적 기록",
+      "link": "https://zdnet.co.kr/view/?no=20260806091557",
+      "published": "2026-08-06T00:25:09+00:00",
+      "summary": "[지디넷코리아]대만 통신사 청화텔레콤이 2분기 영업익이 전년 동기 대비 5.7% 상승하며 17년만에 최고 실적을 기록했다.5일(현지시간) 인베스팅닷컴에 따르면, 청화텔레콤은 2분기 영업익 132억 6000만 대만달러(약 5843억 7204만원)를 기록하며 전년 동기 대비 5.7% 상승했다. 2010년 이후 최고치다.매출은 613억 6000만 대만달러(약 2조 7041억원)를 기록하며 전년 동기 대비 8.2% 증가했다. 주당 순이익은 전년 동기 1.31 대만달러(약 57원)에서 1.38 대만달러(약"
+    },
+    {
+      "id": "ca8bc5f25a60",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "published": "2026-08-06T00:15:04+00:00",
+      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose."
+    },
+    {
+      "id": "3298b67bf8c1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AWS, 클로드 코드·오픈AI 코덱스와 AI 코딩 보안 서비스 연동",
+      "link": "https://zdnet.co.kr/view/?no=20260806090333",
+      "published": "2026-08-06T00:06:33+00:00",
+      "summary": "[지디넷코리아]아마존웹서비스(AWS)가 앤트로픽, 오픈AI와 협력해 인공지능(AI) 코딩 보안 서비스를 개발자 워크플로 전반으로 확대한다.생성형 AI 코딩 도구 확산이 빨라지는 가운데 개발 과정에서 발생하는 취약점을 탐지·보완하는 시장 공략을 본격화한 것이다.AWS는 5일 공식 블로그를 통해 앤트로픽, 오픈AI와 AI 코딩 보안 파트너십을 체결했다고 밝혔다. 이번 협력으로 AWS는 클로드 코드, 오픈AI 코덱스, 키로 등 AI 코딩 환경에 AWS 컨티뉴엄을 통합 제공한다.AWS 컨티뉴엄은 개발자가"
+    },
+    {
+      "id": "65e431f94b35",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메타, 첫 AI 코딩 에이전트 '뮤즈 코드' 공개…오픈AI·앤트로픽에 도전",
+      "link": "https://zdnet.co.kr/view/?no=20260806080237",
+      "published": "2026-08-06T00:05:24+00:00",
+      "summary": "[지디넷코리아]메타가 자체 인공지능(AI) 코딩 에이전트 '뮤즈 코드'를 처음 공개하며 AI 개발 도구 시장 공략에 나섰다. 오픈AI '코덱스'와 앤트로픽 '클로드 코드'가 주도하는 AI 코딩 시장에서 가격 경쟁력을 앞세워 기업용 AI 사업 확대에 속도를 낸다는 전략이다.마크 저커버그 메타 최고경영자(CEO)는 5일(현지시간) SNS를 통해 뮤즈 코드의 베타 버전 공개 소식을 전했다.그는 뮤즈 코드를 \"대규모 코드 저장소에서 변경 사항을 계획하고 코드를 작성하며 결과를 검증하는 등 완전한 소프트웨"
+    },
+    {
+      "id": "c233804cd3c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가온전선, 싱가포르 MRT 전력망 구축 사업 수주…600억 규모",
+      "link": "https://zdnet.co.kr/view/?no=20260806085623",
+      "published": "2026-08-06T00:02:58+00:00",
+      "summary": "[지디넷코리아]가온전선(대표 정현)은 싱가포르 육상교통청의 도시철도(MRT) 전력망 구축 프로젝트에 약 600억원 규모의 배전 케이블을 공급한다고 6일 밝혔다.가온전선은 지난해 육상교통청 벤더 등록 후 첫 수주를 확보하며, 향후 MRT를 비롯한 공공 배전 프로젝트 수주 확대를 위한 핵심 레퍼런스를 마련했다고 강조했다.싱가포르는 2030년대 초까지 MRT 노선을 현재 약 240km에서 360km 이상으로 확대할 계획이다. 신규 노선 건설과 함께 기존 노선의 전력설비 교체도 지속 추진돼 중장기 배전 "
+    },
+    {
+      "id": "a45801d537f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "고려아연, 2Q 영업익 5871억…전년비 126.8% ↑",
+      "link": "https://zdnet.co.kr/view/?no=20260806083900",
+      "published": "2026-08-05T23:55:55+00:00",
+      "summary": "[지디넷코리아]고려아연은 올해 2분기 연결기준 잠정 실적으로 매출 6조 3726억원, 영업이익 5871억원, 순이익 3515억원을 거뒀다고 지난 5일 공시했다.전년 동기 대비 매출은 66.6%, 영업이익은 126.8%, 순이익은 6.6% 증가했다.올해 상반기 기준으로는 매출 12조 4446억원, 영업이익 1조 3332억원, 순이익 7056억원을 기록했다. 전년 동기 대비 매출은 62.5%, 영업이익은 151.5%, 순이익은 43.3% 증가했다.상반기 주요 제품별 판매 실적을 살펴보면 은 판매액은 "
+    },
+    {
+      "id": "1ab68f356340",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오, 2분기 영업익 2770억원…전년比 36%↑",
+      "link": "https://zdnet.co.kr/view/?no=20260806084149",
+      "published": "2026-08-05T23:47:46+00:00",
+      "summary": "[지디넷코리아]카카오가 광고와 커머스를 포함한 본업의 성장세로 올해 2분기 매출과 영업이익 모두 역대 분기 기준 최대치를 달성했다. 카카오는 한국채택국제회계기준(K-IFRS) 연결 기준 올해 2분기 매출 2조 985억원, 영업이익 2770억원을 기록했다고 공시했다. 매출은 전년 동기 대비 9%, 영업이익은 36% 증가했다.영업이익률은 약 3%p 개선된 13%를 기록했다. 영업비용은 전년 동기 대비 6% 늘어난 1조 8214억원이다.사업 영역별로 보면 2분기 플랫폼 부문 매출액은 1조 2303억원으"
+    },
+    {
+      "id": "d77002444e2f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG CNS, 727억원 규모 중간배당…AI 투자·주주환원 병행",
+      "link": "https://zdnet.co.kr/view/?no=20260806080318",
+      "published": "2026-08-05T23:44:37+00:00",
+      "summary": "[지디넷코리아]LG CNS가 약 727억원 규모 중간배당을 실시하며 주주환원 정책을 이어간다.올해 2분기 일시적 투자와 프로젝트 이연 영향으로 수익성이 다소 둔화됐지만, 안정적인 현금 창출력을 바탕으로 배당 기조를 유지하며 주주가치 제고에 나선 것으로 풀이된다.6일 금융감독원 전자공시시스템에 따르면 LG CNS는 보통주 1주당 750원의 현금 중간배당을 실시하기로 결정했다.배당금 총액은 726억 6446만원에 달하며 시가배당률은 1.2%다. 배당 기준일은 오는 20일, 지급 예정일은 다음 달 4일"
+    },
     {
       "id": "c4cb12fb6dc6",
       "source": "Wired",
@@ -199,6 +298,17 @@
       "link": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
       "published": "2026-08-05T18:30:00+00:00",
       "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses."
+    },
+    {
+      "id": "5b67056ebd88",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "published": "2026-08-05T18:18:56+00:00",
+      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 211 # Comments: 38"
     },
     {
       "id": "95a66bdc056c",
