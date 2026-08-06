@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-08-06T04:29:53.362106+00:00",
-  "count": 8300,
+  "updated_at": "2026-08-06T07:18:02.578733+00:00",
+  "count": 8323,
   "items": [
+    {
+      "id": "01bb678b12fd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이트댄스, 전이중 AI '시드리얼타임' 출시...\"실시간 멀티모달 모델\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213615",
+      "published": "2026-08-06T07:13:43+00:00",
+      "summary": "바이트댄스가 음성과 영상, 텍스트를 하나의 모델에서 동시에 처리하는 전이중(Full-Duplex) 멀티모달 대형언어모델(LLM) '시드리얼타임(SeedRealtime)'을 출시했다. 기존 음성 AI가 질문과 답변을 차례로 처리하는 방식에 머물렀다면, 시드리얼타임은 주변 환경을 실시간으로 이해하고 적절한 시점에 먼저 말을 거는 능동형 AI를 구현한 것이 특징이다.바이트댄스는 5일(현지시간) 시드리얼타임이 통합 아키텍처를 기반으로 음성·영상·텍스트를 동시에 처리해 '보고, 듣고, 말하는' 자연스러운 "
+    },
+    {
+      "id": "87cc27928720",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213616",
+      "published": "2026-08-06T07:06:32+00:00",
+      "summary": "엔비디아가 희귀하고 복잡한 도로 상황까지 스스로 이해하고 판단 과정을 설명할 수 있는 차세대 개방형 자율주행 AI 모델을 공개하며 로보택시와 자율주행 생태계 공략에 나섰다. 엔비디아는 4일(현지시간) 로보택시와 자율주행차 개발을 위한 차세대 비전-언어-행동( VLA) 모델 '알파마요 2 슈퍼(Alpamayo 2 Super)'를 공개했다.340억(34B) 매개변수 규모의 이 모델은 자율주행 AI의 가장 큰 난제로 꼽히는 '롱테일(long-tail)' 상황을 해결하는 데 초점을 맞췄다.엔비디아의 '코"
+    },
+    {
+      "id": "592ee89bff2e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오엔터프라이즈, 이재한 신임 대표 선임",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213621",
+      "published": "2026-08-06T06:58:52+00:00",
+      "summary": "카카오엔터프라이즈(대표 이재한)는 임시 주주총회 및 이사회를 열어 이재한 대표이사를 신규 선임했다고 6일 밝혔다.이 대표는 카카오 시스템엔지니어링 리더로 카카오톡의 인프라 아키텍처 설계 및 운영을 담당했으며, 카카오엔터프라이즈에서는 클라우드인프라/디지털전환(DX)부문장, 사업부문장을 역임했다.카카오엔터프라이즈의 주력 사업인 AI 인프라, 하이브리드 서비스형 GPU(GPUaaS)를 필두로 AX 선도 역량을 한층 강화해 지속 가능한 성장 기반을 마련하는 데 집중할 예정이다.이 대표는 “AI가 만들어가"
+    },
+    {
+      "id": "8d78fae370a3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LGU+, 2분기 영업익 3445억 달성...\"AIDC 투자, 현금흐름 내 안정적 진행\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213607",
+      "published": "2026-08-06T06:57:35+00:00",
+      "summary": "LG유플러스(대표 홍범식)는 2분기 연결 기준 매출 3조6949억원, 영업이익 3445억원, 당기순이익 2177억원을 기록했다고 6일 밝혔다.전년 동기 대비 매출은 3.9% 줄었지만 영업이익은 13.1% 늘며 역대 분기 최대 기록을 경신했다. AI 데이터센터(AIDC) 중심 기업 인프라 부문이 실적을 견인했다는 설명이다.기업 인프라 부문 매출은 4644억원으로 전년 동기 대비 8.6% 증가했다. 그중 AIDC 사업은 코로케이션(서버 임대) 확대로 28.9% 늘어난 1241억원을 기록했다.현재 수도"
+    },
+    {
+      "id": "1a09e8ce9cfc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI로 신종 스팸도 철통방어\"...KT, AI 스팸차단 서비스 전 고객 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213619",
+      "published": "2026-08-06T06:54:47+00:00",
+      "summary": "KT(대표 박윤영)는 '실시간 AI 스팸차단 서비스'를 전 고객을 대상으로 확대 적용했다고 6일 밝혔다.최근 스팸은 유형이 바뀌는 주기가 점점 짧아지고, 키워드 차단을 피하기 위해 특수문자를 넣는 등 변형 수법도 갈수록 다양해지고 있다. KT는 이러한 신규·변형 스팸에 대응하기 위해 'AI 스팸차단' 서비스를 자체 개발했다.해당 서비스는 지난 1월 개발돼 'KT 스팸차단' 앱에서 시범 운영을 거쳤으며, 7월부터는 기존 '스팸차단 서비스'에도 기능이 확대 적용됐다.KT 알뜰폰 고객을 포함해 KT 고"
+    },
+    {
+      "id": "202d2a1af511",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아키스케치, 자연어로 인테리어 설계한다",
+      "link": "https://zdnet.co.kr/view/?no=20260806155230",
+      "published": "2026-08-06T06:52:30+00:00",
+      "summary": "[지디넷코리아]아키스케치(대표 이주성)가 자연어 명령으로 도면 검색부터 가구 배치, 공간 이미지 생성 등 인테리어 설계 과정을 수행할 수 있는 AI 에이전트를 도입한다. 6일 회사에 따르면, 아키스케치 AI 에이전트는 사용자가 원하는 공간과 스타일을 자연어로 입력하면 필요한 작업을 AI가 수행하는 방식이다. 예를 들어 특정 아파트와 원하는 인테리어 스타일을 입력하면 AI가 도면을 검색하고 공간을 분석해 가구 배치안을 제시한다. 기존에 사용자가 직접 여러 기능을 조작해야 했던 과정을 단순화했다.아키"
+    },
+    {
+      "id": "7b5f81aa6ad2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "케이디파인켐, ‘OCP 코리아 테크 데이’ 참가…OCP 마켓플레이스 등재 냉각수 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213622",
+      "published": "2026-08-06T06:50:57+00:00",
+      "summary": "열관리 유체 전문 케이디파인켐은 오는 21일 서울 코엑스에서 열리는 데이터센터 인프라 전문 행사 ‘2026 OCP 코리아 테크 데이’에 참가해 데이터센터용 냉각수 ‘KD-DTC (PG-25)’를 선보인다고 밝혔다.이는 AI 서버와 고성능 컴퓨팅 장비에서 발생하는 열을 효과적으로 관리하기 위해 개발된 데이터센터 액체냉각 시스템용 냉각수다. 서버 내부의 주요 발열 부품을 직접 냉각하는 다이렉트 투 칩(Direct-to-Chip) 액체냉각 시스템에 적용되며, 고밀도 AI 서버와 데이터센터 설비의 안정적"
+    },
+    {
+      "id": "265e08be2e6b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD SW 투데이] 옵스나우, 클라우드 관리 플랫폼 국제표준 인증 취득 外",
+      "link": "https://zdnet.co.kr/view/?no=20260806143219",
+      "published": "2026-08-06T06:43:13+00:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆옵스나우, 클라우드 관리 플랫폼 국제표준 인증 취득옵스나우가 정보보안경영시스템 국제표준 'ISO/IEC 27001:2022' 인증과 지난해 10월 개정된 최신판 기준 개인정보보호경영시스템 "
+    },
+    {
+      "id": "5268c45fe09e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CMTX, \"CB·BW 발행한도 확대, M&A 등 대응 목적\"",
+      "link": "https://zdnet.co.kr/view/?no=20260806142325",
+      "published": "2026-08-06T06:40:49+00:00",
+      "summary": "[지디넷코리아]반도체 공정 부품업체 씨엠티엑스(CMTX)가 지난달 임시주주총회에서 전환사채(CB)와 신주인수권부사채(BW) 발행한도를 확대한 것에 대해 \"인수합병(M&A)과 전략 투자 기회에 대응하기 위한 사전 준비\"라고 6일 밝혔다.임시주총에선 상법 개정에 따른 독립이사 제도 도입과, CB·BW 발행한도 확대 등 정관 일부가 변경됐다. CMTX는 \"임시주총 이후 CB·BW 발행한도 확대에 대한 (주주) 관심이 커졌다\"며 \"현재 CB나 BW를 발행할 계획이 전혀 없다\"고 강조했다. CMTX는 \"현"
+    },
+    {
+      "id": "998dc01a7400",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213618",
+      "published": "2026-08-06T06:40:43+00:00",
+      "summary": "아마존의 자율주행 자회사 죽스(Zoox)가 10일(현지시간)부터 미국 네바다주 라스베이거스에서 자율주행 로보택시 서비스의 유료 운행을 본격적으로 시작한다고 밝혔다. 이는 지난주 미연방 도로교통안전국(NHTSA)이 운전대와 페달 등 기존 제어 장치가 없는 자율주행차의 상업적 배치를 허용한 승인 조치에 따른 것으로, 죽스가 상업적 상용 서비스를 선보이는 것은 이번이 처음이다.이번 유료화 승인은 운전대가 없는 양방향 승하차 형태의 목적 기반 차종에 대해 연방 정부가 상용 운행을 승인한 중요한 이정표로 "
+    },
+    {
+      "id": "ebc364836b3c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "웹젠, 2분기 매출 380억·영업익 56억…하반기 '프로젝트 D1' 등 신작 공개 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260806153936",
+      "published": "2026-08-06T06:39:36+00:00",
+      "summary": "[지디넷코리아]웹젠은 2026년 2분기 매출 380억원, 영업이익 56억원을 기록했다고 6일 공시했다. 전년 동기 대비 각각 2.8%, 8.4% 감소한 수치다. 같은 기간 당기순이익은 63억원으로 전년 동기 대비 6.4% 줄었다.상반기 누적 실적은 매출 773억원, 영업이익 110억원으로 전년 같은 기간보다 각각 4.0%, 26.8% 감소했다. 반면 상반기 당기순이익은 전년도 일시적 감소에 따른 기저효과가 반영되며 89.0% 대폭 증가한 151억원을 기록했다.이번 2분기 및 상반기 실적은 신작 게"
+    },
+    {
+      "id": "9c509e077aff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오, '쿠팡이츠'로 에이전트 AI 첫 구현…검색광고까지 확장",
+      "link": "https://zdnet.co.kr/view/?no=20260806111654",
+      "published": "2026-08-06T06:39:06+00:00",
+      "summary": "[지디넷코리아]에이전트 AI 연동 첫 파트너로 쿠팡이츠를 낙점한 카카오가 이를 기반으로 AI 대중화에 주력한다. 현재 카카오톡 내에서 운영 중 AI 서비스는 활용성에 초점을 맞춰 고도화를 이어가고, 주력 수익원인 광고 사업은 검색 광고까지 영역을 넓힌다. 정신아 대표는 6일 2분기 실적 발표 컨퍼런스 콜에서 “첫 번째 파트너십은 단순한 연결이 아니라 일상과 밀접한 서비스에서 에이전트 AI가 이용자의 의도를 실제 행동과 거래까지 연결할 수 있는 모습을 보여줄 수 있어야 한다고 판단했다”고 말했다.즉"
+    },
+    {
+      "id": "73aefe428801",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마음AI-아와소프트, AI로 중소 건설현장 안전사고 예방",
+      "link": "https://zdnet.co.kr/view/?no=20260806153308",
+      "published": "2026-08-06T06:33:08+00:00",
+      "summary": "[지디넷코리아]마음AI와 아와소프트가 중소 산업현장의 안전사고를 예방하기 위한 멀티모달 AI 에이전트 개발과 현장 실증에 나선다.양사는 중소벤처기업부와 중소기업기술정보진흥원(TIPA)이 지원하는 '중소기업기술혁신개발(R&D)' 사업에 선정돼 '중소기업 현장 안전사고 예방을 위한 멀티모달 AI 에이전트 개발 및 실증' 과제를 공동으로 추진한다고 6일 밝혔다.최근 중소 규모 산업현장은 안전관리 인력 부족과 관리 사각지대로 추락, 협착, 충돌 등 다양한 안전사고 위험에 노출돼 있다. 특히 소규모 빌라 "
+    },
+    {
+      "id": "293ac47afbaa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CJ프레시웨이, 2분기 매출 9232억원…전년比 4.5%↑",
+      "link": "https://zdnet.co.kr/view/?no=20260806150010",
+      "published": "2026-08-06T06:29:38+00:00",
+      "summary": "[지디넷코리아]CJ프레시웨이가 올해 2분기 매출 성장세를 이어갔다. 외식 경기 둔화 등 어려운 경영환경 속에서도 식자재 유통과 급식사업이 고르게 성장하며 실적에 영향을 미쳤다.회사는 올해 2분기 매출 9232억원, 영업이익 235억원을 기록했다고 밝혔다. 매출은 전년 동기 대비 4.5% 증가했다. 영업이익은 온라인 유통 사업의 시장 선점과 플랫폼 경쟁력 강화를 위한 전략적 투자 영향이 반영됐다.외식 식자재 및 식품원료 유통사업 매출은 4184억원을 기록했다. 온라인 사업 매출은 전년 동기 대비 5"
+    },
+    {
+      "id": "8586dbf35d3e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "파루전자, '울트라 온' LG 바스에어시스템 적용…에너지위너상 수상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213609",
+      "published": "2026-08-06T06:19:20+00:00",
+      "summary": "파루전자의 면상발열 기술 '울트라 온(Ultra On)'이 LG전자의 욕실 공기관리 가전에 적용되며 생활가전 시장으로 영역을 넓히고 있다. 울트라 온을 탑재한 LG 퓨리케어 바스에어시스템은 최근 제29회 올해의 에너지위너상에서 에너지위너상을 받았다.올해의 에너지위너상은 소비자시민모임이 에너지 효율이 높고 에너지 절감 효과가 우수한 기술과 제품에 수여하는 상이다. LG 퓨리케어 바스에어시스템은 에너지위너상 수상 제품으로 선정됐다.파루전자는 지난 30일 LG 퓨리케어 바스에어시스템의 온풍 기능에 자사"
+    },
+    {
+      "id": "c9e19ab8b6e5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국산 공유기 20여종서 '백도어' 발견...\"전 세계 10만대 네트워크 침투 위험\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213613",
+      "published": "2026-08-06T06:15:21+00:00",
+      "summary": "중국산 인터넷 공유기 20여종에서 외부의 무단 접근을 허용할 수 있는 백도어(Backdoor)가 발견돼 보안 우려가 커지고 있다. 해당 장비는 전 세계에서 판매 중인 제품으로, 공격자가 공유기를 장악한 뒤 동일 네트워크에 연결된 다른 기기로까지 침투할 가능성이 있는 것으로 분석됐다.로이터에 따르면, 사이버보안 전문 벌른체크(VulnCheck)는 5일(현지시간) 중국 네트워크 장비 제조업체 Zbt링크(Zbtlink)가 생산한 일부 공유기에서 '엔들리스도어스(Endlessdoors)'로 명명한 백도어"
+    },
+    {
+      "id": "50f294a0016e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오, 카톡서 쿠팡이츠 주문·결제까지…'에이전틱 AI' 생태계 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213612",
+      "published": "2026-08-06T06:01:14+00:00",
+      "summary": "정신아 카카오 대표가 6일 2분기 실적 발표 컨퍼런스 콜에서 AI 사업 전략을 밝혔다. 기존 플랫폼 사업을 기반으로 AI가 이용자 대화 속 의도를 파악해 직접 실행까지 하는 '에이전틱 AI' 경험 확산이 핵심이다.첫 사례로 쿠팡이츠와의 파트너십을 공개했다. 쿠팡이츠는 카카오의 AI 서비스 '카나나 인 카카오톡'에 탑재돼 맞춤형 음식 추천부터 별도 앱 이동 없는 주문·결제까지 지원할 예정이다.양사는 단순 API 연동을 넘어 공통된 사업 운영 기준을 확립하고, 시일 내 실제 거래가 가능하도록 서비스 "
+    },
+    {
+      "id": "765288f83db2",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "구글을 뚜까패버린 초가성비 모델의 등장",
+      "link": "https://www.youtube.com/shorts/4H8UECXsJCY",
+      "published": "2026-08-06T06:00:14+00:00",
+      "summary": ""
+    },
+    {
+      "id": "88773c772728",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "대만, 핵심 기술 인재 유출 혐의로 중국 기업 17곳 수사",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213611",
+      "published": "2026-08-06T05:53:15+00:00",
+      "summary": "대만 정부가 반도체와 AI 등 첨단 산업 인재를 불법적으로 영입하려 한 혐의로 중국 기업 17곳에 대한 대규모 수사에 착수했다. 반도체 기술과 핵심 인력 유출을 국가 경쟁력에 대한 위협으로 판단하고 중국 기업에 대한 단속을 강화하는 모습이다.로이터에 따르면, 대만 법무부 조사국은 5일(현지시간) 지난 7월 13일부터 8월 4일까지 중국 기업들의 불법 인재 영입 및 무허가 사업 운영 의혹을 수사하기 위해 330명의 수사관을 투입해 64곳을 압수수색하고, 114명을 대상으로 조사를 진행했다고 밝혔다."
+    },
+    {
+      "id": "22c297dd210b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포역 장시간 체류자 현장 점검… 유관기관 협력·복지 연계 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213592",
+      "published": "2026-08-06T05:50:04+00:00",
+      "summary": "AI 생성 영상목포시가 목포역 장시간 체류자 관련 시민 불편과 안전 우려에 대응하기 위해 현장 관리와 복지서비스 연계를 강화한다.목포는 최근 목포역 내 장시간 체류자로 인한 시민 불편과 안전 우려가 이어짐에 따라 현장 점검과 유관기관 협력체계 강화에 나섰다고 6일 밝혔다. 목포는 목포역 현장을 찾아 이용객 불편 사항과 안전 위해 요인을 확인하고, 장시간 체류자 현황을 파악했다.지난 5일에는 목포역, 역전파출소, 119안전센터 등 유관기관과 협조회의를 열었다. 회의에서는 기관별 역할을 공유하고 대응"
+    },
     {
       "id": "7a824135beca",
       "source": "AI타임스",
@@ -344,6 +564,17 @@
       "summary": "2024년 7월 미국의 IT 칼럼니스트 에드 지트론은 당시 AI 업계를 뒤흔든 글 하나를 공개했습니다. 제목은 '오픈AI는 어떻게 살아남을 것인가(How OpenAI Survives)'입니다.그의 주장은 현재의 오픈AI는 지속 가능한 구조가 아니며, 역사상 최대 규모의 자금 조달과 획기적인 기술 혁신이 없다면 12~24개월을 버티기 어렵다는 것이었습니다. 당시는 오픈AI가 'GPT-4o'를 내놓으며 압도적인 선두를 달리던 시절입니다. 앤트로픽의 코딩 AI도 아직 눈길을 끌지 못했으며, 구글은 여전"
     },
     {
+      "id": "4000f1e9e056",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The title cards in Blade Runner are amazing",
+      "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "published": "2026-08-05T21:29:23+00:00",
+      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 232 # Comments: 105"
+    },
+    {
       "id": "0616628fcee8",
       "source": "TechCrunch",
       "kind": "article",
@@ -520,6 +751,17 @@
       "summary": "Article URL: https://zed.dev/deltadb Comments URL: https://news.ycombinator.com/item?id=49187256 Points: 228 # Comments: 104"
     },
     {
+      "id": "5293b7bbbe1a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "link": "https://blog.fogus.me/llm/born-against.html",
+      "published": "2026-08-05T18:37:49+00:00",
+      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html Comments URL: https://news.ycombinator.com/item?id=49187061 Points: 225 # Comments: 210"
+    },
+    {
       "id": "08497b09870c",
       "source": "Wired",
       "kind": "article",
@@ -617,6 +859,17 @@
       "link": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
       "published": "2026-08-05T17:34:48+00:00",
       "summary": "After Uber and Waymo ended their partnership in Phoenix earlier this year, experts and robotaxi watchers wondered whether the companies' improbable bromance was fraying. Not so, Uber CEO Dara Khosrowshahi said today. The two companies are committed to continue working together in"
+    },
+    {
+      "id": "471506953eb6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "published": "2026-08-05T17:23:25+00:00",
+      "summary": "Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 207 # Comments: 81"
     },
     {
       "id": "55252dc431c1",
