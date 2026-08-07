@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T14:48:20.934420+00:00",
-  "count": 8512,
+  "updated_at": "2026-08-07T15:50:59.728390+00:00",
+  "count": 8519,
   "items": [
+    {
+      "id": "da4b7e7d6390",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
+      "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "published": "2026-08-07T15:11:03+00:00",
+      "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion."
+    },
+    {
+      "id": "36ae8e7de6b7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
+      "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+      "published": "2026-08-07T15:00:00+00:00",
+      "summary": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software."
+    },
     {
       "id": "8247b522dc25",
       "source": "TechCrunch",
@@ -47,6 +69,17 @@
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation."
     },
     {
+      "id": "ea7cd21073e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "악사 엑스엘, 글로벌 기업정보 및 사이버 보안 컨설팅사 S-RM 인수",
+      "link": "https://zdnet.co.kr/view/?no=20260807231002",
+      "published": "2026-08-07T14:10:02+00:00",
+      "summary": "[지디넷코리아] 런던, 2026년 8월 7일 /PRNewswire/ -- 악사 엑스엘(AXA XL)이 현재 보유 중인 S-RM 지분 49%에 이어 나머지 지분을 인수하는 계약을 체결했다고 8월 6일 발표했다. S-RM은 기업정보 및 사이버 보안 분야 전문 컨설팅 기업이다. S-RM은 2005년 설립돼 140개국에서 고객을 지원하고 있으며 기업정보, 사이버 보안 및 위기 대응 서비스를 통해 기업과 투자자들이 글로벌 복잡한 위험에 대응하도록 돕고 있다. 전문 분야는 사이버 위험 평가, 관리형 탐지 및"
+    },
+    {
       "id": "2cbad260052f",
       "source": "The Verge",
       "kind": "article",
@@ -58,6 +91,28 @@
       "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entir"
     },
     {
+      "id": "4c4977b97111",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI세상, 진짜 승자는 누구",
+      "link": "https://zdnet.co.kr/view/?no=20260807091939",
+      "published": "2026-08-07T13:56:27+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 AI 시대에 진짜 승자가 누구인지 짚어보는 카드뉴스를 준비했어요. 요즘 지식은 AI 덕분에 누구나 공짜로 얻을 수 있게 됐지만, 그걸 실제로 사람들에게 전달하는 '가게'와 '물건'은 아무나 만들 수 없다는 게 핵심 메시지인데요. 그 대표 사례로 애플이 등장해요. 애플은 이미 전 세계에 22억 대가 넘는 아이폰을 뿌려놓았고, 고급 스마트폰 시장에서는 수익의 무려 85%를 독차지하고 있다고 해요. 이게 가능했던 이유는 애플이 AI 기술 자체보다"
+    },
+    {
+      "id": "e1b89b2f61e6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "published": "2026-08-07T13:49:37+00:00",
+      "summary": "Clinicians and researchers say AI companies need to open up their safety data."
+    },
+    {
       "id": "edabd2c50615",
       "source": "Ars Technica",
       "kind": "article",
@@ -67,6 +122,17 @@
       "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
       "published": "2026-08-07T13:29:22+00:00",
       "summary": "TikTok owner training a model with 10 trillion parameters."
+    },
+    {
+      "id": "c7c61b41be8b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "published": "2026-08-07T12:42:58+00:00",
+      "summary": "Article URL: https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138 Comments URL: https://news.ycombinator.com/item?id=49209546 Points: 262 # Comments: 217"
     },
     {
       "id": "57500c69bcdd",
@@ -7822,6 +7888,17 @@
       "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
       "published": "2026-08-01T21:31:24+00:00",
       "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but wil"
+    },
+    {
+      "id": "10c9a367618e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "São Paulo resident transforms degraded area into urban forest",
+      "link": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+      "published": "2026-08-01T21:02:26+00:00",
+      "summary": "https://thursd.com/articles/helio-da-silva-sao-paulo-tiquati... Comments URL: https://news.ycombinator.com/item?id=49138446 Points: 233 # Comments: 98"
     },
     {
       "id": "b8497b86c76e",
