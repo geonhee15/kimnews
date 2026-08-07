@@ -1,8 +1,44 @@
 {
   "issue_date": "2026-08-08",
-  "generated_at": "2026-08-07T15:50:59.672126+00:00",
-  "count": 2,
+  "generated_at": "2026-08-07T16:47:50.916111+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "41ccd1754ce5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What’s behind the Google AI shakeup",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign o",
+      "content": "On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW.\n\nSome of the biggest names on Google’s AI team got new jobs this week . In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google’s models seem to be behind the best of what’s coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? Or is there something else entirely happening here ?\n\nOn this episode of The Vergecast, Nilay and David start by discussing the leadership shake-up at Google, the state of the AI race, and whether Google is actually set up to succeed here. They also talk about the ways in which Google and Reddit have become existentially dependent on each other , and why that dependence is starting to look like a problem .\n\nAfter that, we talk about Disney’s plan to put even more stuff in the Disney Plus app, David Ellison’s defense of… David Ellison , the scourge of the “time spent” metric, Brendan Carr’s ongoing assault on free speech, the Spider-Man ads appearing in your BMW, and much more.\n\nWatch | Listen | Get ad-free\n\nThis is the title for the native ad",
+      "published": "2026-08-07T16:45:14+00:00"
+    },
+    {
+      "id": "8d2dd74f835a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "content": "Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers, the internet infrastructure provider launched Kitesurf , a cloud-hosted browser designed specifically for AI agents.\n\nAI software is evolving from chatbots that answer questions to agents that can complete tasks on users’ behalf. Browsers are a critical part of this transition, as they’ll need to navigate the web and use websites, as humans do.\n\nUnlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement . A browser designed for AI agents needs to manage context windows, performance, token costs, and scalability. It also faces a different threat model because an AI browser could be subject to vulnerabilities like prompt injection attacks and more, the company noted.\n\nWith Kitesurf, AI developers will be able to build software that can navigate websites, fill out forms, and complete other browser-based tasks, without having to build their own browser software.\n\nCloudflare says it decided to build Kitesurf just 12 weeks ago, and it runs entirely on top of the company’s serverless platform, called Workers. Kitesurf is available for free while in beta in Browser Run , which lets developers programmatically control and interact with headless browser instances on Cloudflare’s network.\n\nFor developers, Cloudflare’s pitch is that this enables AI agents to use the web more efficiently while using less computing power than Chromium, which keeps costs down.\n\n“Kitesurf is significantly more efficient in CPU and memory consumption than Chromium for common agentic tasks like screenshots and HTML extraction,” according to the company.\n\nThe browser itself was built from other technologies, including a modular rendering engine from Blitz ; Firefox’s CSS parser, Stylo ; and Boa JS , a Rust ECMAScript engine. Everything else runs inside Cloudflare Workers. Although still new, Cloudflare says Kitesurf already passes around 215,000+ web platform tests , and it’s adding hundreds more, passing tests every week.\n\nCloudflare also credited the open source Rust headless engine, Obscura, for inspiring it to develop Kitesurf, noting that the first proof of concept was a port of Obscura to Workers.\n\nThe company said the browser correctly renders pages like TodoMVC , a popular benchmark application for comparing JavaScript frameworks, along with Wikipedia, Hacker News, the Cloudflare Blog, and much of the Cloudflare dashboard.\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nConsumer News Editor\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y!\n\nChatGPT brings unlimited text chats to free users Ivan Mehta\n\nFord’s new electric truck, ‘Fathom,’ starts at $28,350 Sean O'Kane\n\nBending Spoons to buy Airtable for $1.28B Ivan Mehta\n\nInfluencers draw backlash for attending OpenAI’s first luxury trip Dominic-Madori Davis\n\nSequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics Julie Bort\n\nMalaysia is reportedly shutting down Balaji Srinivasan’s Network School Anthony Ha\n\nYouTuber Hank Green says his AI usage is ‘not healthy’ Anthony Ha",
+      "published": "2026-08-07T16:16:09+00:00"
+    },
+    {
+      "id": "784660fbeeb5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Birdfy’s smart bird feeder is on sale for just $60",
+      "link": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
+      "summary": "The Birdfy Feeder Rookie is a good option if you’re new to birdwatching or simply don’t want to spend a lot on a smart feeder, and several configurations are on sale. The standard model is down to $59.99 ($60 off) at Amazon, which is close to its lowest price. It includes seven d",
+      "content": "Plus, we found deals on the top-notch Instax Mini Evo hybrid instant camera and Nothing’s Headphone (a) overears.\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nThe Birdfy Feeder Rookie is a good option if you’re new to birdwatching or simply don’t want to spend a lot on a smart feeder, and several configurations are on sale. The standard model is down to $59.99 ($60 off) at Amazon , which is close to its lowest price. It includes seven days of access to its AI-powered features that can identify different kinds of birds (after the trial expires, it can identify birds up to 10 times per day without a subscription). Alternatively, you can get a version that permanently unlocks its AI bird identification for $85.49 ($34 off) at Amazon , or pick up the standard model with a solar panel for $79.99 ($60 off) directly from Birdfy .\n\nThe Rookie covers the basics offered by most smart bird feeders. It features a 1080p camera that lets you watch visiting birds from your phone throughout the day, with notifications alerting you when there’s activity. The camera can also capture slow-motion video and color night vision that you can replay in the Birdfy app. Unlike many smart feeders that place the camera in the center of the seed bin, Birdfy’s camera is located to the side, which provides a closer view. You can also share access with friends and family.\n\nThe Rookie has an IP66 weather-resistant rating, and its built-in battery can last up to four months on a charge; you can also get a version with a solar panel for $20 more . The feeder holds up to 1.3 liters of seed, too, so you shouldn’t have to constantly refill it, and it comes apart easily when it’s time for a cleaning.\n\nThis is the title for the native ad",
+      "published": "2026-08-07T16:04:03+00:00"
+    },
     {
       "id": "da4b7e7d6390",
       "source": "TechCrunch",
