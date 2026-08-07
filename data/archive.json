@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T06:18:52.273333+00:00",
-  "count": 8459,
+  "updated_at": "2026-08-07T07:51:04.426069+00:00",
+  "count": 8463,
   "items": [
+    {
+      "id": "862387fd34dc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213675",
+      "published": "2026-08-07T07:02:17+00:00",
+      "summary": "바이트댄스가 앤트로픽의 '미소스'에 대응하기 위해 최대 10조개 매개변수 규모의 초거대 AI 모델 개발을 추진 중인 것으로 알려졌다. 이는 최근 공개된 중국 최대 규모인 문샷 AI의 '키미 K3(2조 8000억개)'보다 3배 이상 큰 규모다.파이낸셜타임스(FT)는 7일 소식통 3명을 인용, 바이트댄스가 최대 10조 매개변수의 모델 학습 초기 단계에 있다고 보도했다.바이트댄스의 AI 연구 조직인 시드(Seed) 팀이 주도하는 이번 모델은 현재 사전 학습 초기 단계로, 작업 완료까지는 3~6개월이 소"
+    },
+    {
+      "id": "36c584e2e802",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213667",
+      "published": "2026-08-07T06:32:59+00:00",
+      "summary": "오픈AI와 앤트로픽, 메타에 이어 이번에는 문샷 AI의 '키미 K3'가 사이버보안 평가 과정에서 격리된 시뮬레이션 환경(샌드박스)을 벗어나 외부 인터넷에 접속한 사실이 확인됐다. 특히 이번은 오픈소스 모델이라는 점에서 주목된다.미국 사이버 보안 스타트업 프론티어 시큐리티는 키미 K3의 사이버 보안 방어 능력을 검증하던 중 모델이 격리망을 무단 이탈해 평가 문제 해결에 필요한 답안을 외부 인터넷에서 직접 찾아낸 정황을 감지했다고 밝혔다. 프론티어 시큐리티는 영국 AI 안전 연구소(UK AISI)가 "
+    },
     {
       "id": "7d4fc8fde146",
       "source": "조코딩",
@@ -782,6 +804,17 @@
       "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
       "published": "2026-08-06T16:15:30+00:00",
       "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source."
+    },
+    {
+      "id": "9737a7ec602a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "link": "https://provenmetal.com",
+      "published": "2026-08-06T15:59:15+00:00",
+      "summary": "Hey HN, we’re Will & Johnny from ProvenMetal ( https://provenmetal.com ). You send us design files or specs and we give you assembled boards domestically in days. The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated th"
     },
     {
       "id": "f258b3e27cb3",
@@ -2465,6 +2498,17 @@
       "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
       "published": "2026-08-05T15:46:27+00:00",
       "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
+    },
+    {
+      "id": "d4a8e1275cb6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "link": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "published": "2026-08-05T15:33:23+00:00",
+      "summary": "https://www.bbc.com/news/articles/c36d4376nd2o , https://archive.is/YDn6S Comments URL: https://news.ycombinator.com/item?id=49184355 Points: 212 # Comments: 43"
     },
     {
       "id": "413219a3c3bb",
