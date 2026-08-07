@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-07T05:12:19.861460+00:00",
-  "count": 8448,
+  "updated_at": "2026-08-07T06:18:52.273333+00:00",
+  "count": 8459,
   "items": [
+    {
+      "id": "7d4fc8fde146",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "클로드 코드 제작자가 쓰는 AI 성능 올리는 비법",
+      "link": "https://www.youtube.com/shorts/2cDAVdrzGGA",
+      "published": "2026-08-07T06:00:01+00:00",
+      "summary": ""
+    },
+    {
+      "id": "db296170694b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동",
+      "link": "https://zdnet.co.kr/view/?no=20260807105908",
+      "published": "2026-08-07T05:41:49+00:00",
+      "summary": "[지디넷코리아]정부가 '인공지능 발전과 신뢰 기반 조성 등에 관한 기본법(AI 기본법)'상 국내 대리인 지정 의무를 이행하지 않은 해외 AI 사업자들을 대상으로 신고 독려에 나선다. 실무 협의 채널은 이미 운영되고 있지만 국내 대리인 지정∙신고 등 제도의 공식 이행은 더 이상 미룰 수 없다는 판단에서다.7일 업계에 따르면 과학기술정보통신부는 연내 주요 해외 AI 사업자들과 회합 자리를 마련할 예정이다. AI 기본법에 따른 국내 대리인 지정·신고 절차가 지연되는 이유를 듣고 제도 취지를 설명하는 한"
+    },
+    {
+      "id": "421255f89f3b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "모빌린트, USB형 AI 가속기 'MLD-R1' 출시...온디바이스 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213661",
+      "published": "2026-08-07T05:39:15+00:00",
+      "summary": "모빌린트(대표 신동주)는 USB 형태 AI 가속기 'MLD-R1'을 출시하며 온디바이스 AI 시장 공략에 나선다고 7일 밝혔다.MLD-R1은 모빌린트의 독립형 AI 시스템온칩(SoC) '레귤러스(REGULUS)'를 기반으로 개발됐으며, 지난 6월 '컴퓨텍스 2026'에서 공개된 이후 상용화 과정을 거쳐 정식 출시됐다.별도의 AI 가속기 카드 장착이나 시스템 변경 없이 USB 연결만으로 온디바이스 AI 추론 기능을 추가할 수 있는 것이 특징이다.노트북, 산업용 PC, 임베디드 시스템 등에 연결해 사"
+    },
+    {
+      "id": "081033a58a70",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[글로벌 vs 국내 보안맞수] 멘로시큐리티-소프트캠프 RBI 시장서 격돌",
+      "link": "https://zdnet.co.kr/view/?no=20260804180118",
+      "published": "2026-08-07T05:29:54+00:00",
+      "summary": "[지디넷코리아]인터넷 접속을 편리하게 도와주는 프로그램 중 대표적인 것이 브라우저다. 구글 크롬, 네이버 웨일, 파이어폭스, 인터넷 엣지 등이 브라우저에 해당한다. 우리는 브라우저를 통해 인터넷 환경에 접속하며, 여러 사이트에 접근하고 응용 프로그램을 설치하며, 수많은 정보를 얻는다.공격자들도 많은 사람들이 이용하는 웹 환경을 노려 공격한다. 피싱 사이트를 만들어 놓고 정보를 탈취하려는 시도를 하거나, 인터넷 주소(URL)에 악성 스크립트를 삽입해 실행토록 해 기업, 기관 등의 중요 자산 및 데이"
+    },
+    {
+      "id": "b53bd5081e07",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "딥시크, API 가격 올린다…\"인상 폭 클 것\" 공지, 금액은 함구",
+      "link": "https://zdnet.co.kr/view/?no=20260807142500",
+      "published": "2026-08-07T05:25:00+00:00",
+      "summary": "[지디넷코리아]딥시크가 API 서비스 가격을 올리겠다고 예고했다. 현지 시각 8월 6일 딥시크가 API 문서의 가격 페이지 각주에 게시한 공지이며, 같은 날 블룸버그도 이를 보도했다.딥시크는 \"가까운 시일 안에 딥시크 API 서비스의 전반적인 가격을 올릴 계획이며, 인상 폭이 비교적 클 것으로 예상된다(涨幅较大)\"고 적었다. 이용자에게는 사용량을 알맞게 조정해 두라고 안내하면서, 구체적인 방안은 정식 공지를 따르라고 덧붙였다.정작 인상 폭과 시행일은 밝히지 않았다. 새 가격표도 아직 올라오지 않았"
+    },
+    {
+      "id": "f50505a9cfb4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "클라이온, KT클라우드 출신 김주성 신임 대표 선임…AX 확장 속도",
+      "link": "https://zdnet.co.kr/view/?no=20260807133936",
+      "published": "2026-08-07T05:18:56+00:00",
+      "summary": "[지디넷코리아]클라이온이 김주성 신임 대표 겸 총괄사장을 선임하고 인공지능 전환(AX)과 클라우드 사업 확대에 속도를 낸다.공공 클라우드 구축 경험에 생성형 AI와 AI 에이전트 기술을 결합해 구축형 사업 중심의 수익 구조를 솔루션·서비스 영역으로 확장하고 새로운 성장 기반을 마련한다는 전략이다.클라이온은 김주성 전 가온아이 전략사업부 최고전략책임자(CSO)를 신임 대표 겸 총괄사장으로 선임했다고 7일 밝혔다.회사 측에 따르면 김 대표는 KT와 KT클라우드에서 약 28년간 근무하며 클라우드 사업 "
+    },
+    {
+      "id": "e8016d48dba1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "주연테크, 소방가족희망나눔재단에 물품 기부",
+      "link": "https://zdnet.co.kr/view/?no=20260807141742",
+      "published": "2026-08-07T05:17:58+00:00",
+      "summary": "[지디넷코리아]주연테크는 7일 소방가족희망나눔재단에 물품 기부를 진행했다고 밝혔다.소방가족희망나눔재단은 소방청 소속 비영리 사단법인으로 순직 소방관 유가족과 자녀의 심리·경제적 안정을 지원한다.주연테크는 재단에 25형 게이밍 모니터 'X25F'와 온도 조절이 가능한 스마트 펫 침대 '펫드리머'를 기부했다.주연테크 관계자는 \"무더운 여름철을 맞아 반려동물을 키우는 소방 가족과 출동대원들이 보다 쾌적한 환경에서 반려동물을 돌볼 수 있도록 '펫드리머'를 지원했다\"고 설명했다.이어 \"각종 재난과 화재 현"
+    },
+    {
+      "id": "c47273aeafa8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "운전대 없는 로보택시가 요금 받는다…죽스, 라스베이거스서 유료 운행",
+      "link": "https://zdnet.co.kr/view/?no=20260807140334",
+      "published": "2026-08-07T05:03:34+00:00",
+      "summary": "[지디넷코리아]아마존의 자율주행 자회사 죽스가 라스베이거스에서 로보택시 유료 운행을 시작한다. 현지 시각 8월 5일 죽스가 매체에 밝힌 내용이며, 유료 운행은 8월 10일부터다.죽스 차량에는 운전대와 브레이크 페달이 없다. 기존 차를 개조한 것이 아니라 처음부터 자율주행용으로 만든 차여서, 네 명이 마차처럼 양쪽으로 마주 앉는 구조다. 앞뒤 어느 방향으로도 시속 75마일까지 달린다. 이런 목적기반 차량이 미국에서 요금을 받고 승객을 태우는 것은 이번이 처음이다.요금은 기본요금에 손님을 태운 곳부터"
+    },
+    {
+      "id": "c6f8b16b18c0",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 돌리는 데이터센터, 직접 만들어봤습니다",
+      "link": "https://www.youtube.com/shorts/V5JJFNL2kSI",
+      "published": "2026-08-07T05:00:38+00:00",
+      "summary": ""
+    },
     {
       "id": "077b3cd1cec8",
       "source": "Wired",
@@ -23,6 +122,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213655",
       "published": "2026-08-07T04:56:26+00:00",
       "summary": "일론 머스크가 이끄는 스페이스X와 테슬라가 미국 텍사스주에 세계 최대 규모의 첨단 반도체 생산단지 '테라팹(Terafab)' 건설을 공식화했다. 양사는 우선 168억달러(약 24조원)를 투입해 공사를 시작하며, 최종적으로는 테슬라 기가팩토리 본관의 약 10배 규모인 1억 제곱피트(약 929만㎡)에 달하는 초대형 반도체 제조 캠퍼스로 확장할 계획이다.스페이스X와 테슬라는 6일(현지시간) 공동 발표를 통해 텍사스주 그라임스 카운티에 첨단 반도체 제조 시설인 테라팹을 건설한다고 밝혔다.초기 투자 규모는"
+    },
+    {
+      "id": "51d7ab156643",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SW공급망이 바꾸는 AI...'1회 OpenSSF 보안 밋업' 11일 열려",
+      "link": "https://zdnet.co.kr/view/?no=20260807135320",
+      "published": "2026-08-07T04:53:20+00:00",
+      "summary": "[지디넷코리아]세계에서 가장 널리 쓰이는 소프트웨어(SW) 상당수는 오픈소스다. 스마트폰, 클라우드 서비스, 금융 시스템, 자율주행 자동차 등이 모수 오픈소스 소프트웨어(OSS) 위에서 동작한다. 오픈소스 보안이 디지털 사회 전체의 안보와 직결되는 이유다.'2026년 제1회 OpenSSF 오픈소스 보안 밋업(Seoul Open Source Security Meetup)'이 오는 11일 오후 4~6시 열린다. 장소는 스페이스쉐어 삼성역센터 컨퍼런스룸B다. 행사는 온라인으로도 공개한다.'OpenSSF"
     },
     {
       "id": "702ea486345e",
@@ -694,6 +804,17 @@
       "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
       "published": "2026-08-06T15:30:48+00:00",
       "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 260 # Comments: 303"
+    },
+    {
+      "id": "9b0107fdd789",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "published": "2026-08-06T15:30:48+00:00",
+      "summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 319 # Comments: 360"
     },
     {
       "id": "4d270301bbf2",
