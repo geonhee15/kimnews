@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-07T13:49:25.282028+00:00",
-  "count": 8507,
+  "updated_at": "2026-08-07T14:48:20.934420+00:00",
+  "count": 8512,
   "items": [
+    {
+      "id": "8247b522dc25",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "published": "2026-08-07T14:28:31+00:00",
+      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured."
+    },
+    {
+      "id": "4cb8ab629094",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "published": "2026-08-07T14:22:49+00:00",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
+    },
+    {
+      "id": "c9363e233a88",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "published": "2026-08-07T14:20:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial compl"
+    },
+    {
+      "id": "982547650e04",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "published": "2026-08-07T14:13:57+00:00",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation."
+    },
+    {
+      "id": "2cbad260052f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+      "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+      "published": "2026-08-07T14:05:00+00:00",
+      "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entir"
+    },
     {
       "id": "edabd2c50615",
       "source": "Ars Technica",
