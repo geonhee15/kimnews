@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T22:29:15.815544+00:00",
-  "count": 8543,
+  "updated_at": "2026-08-07T23:07:32.164803+00:00",
+  "count": 8547,
   "items": [
+    {
+      "id": "afa2dae1e4e8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published": "2026-08-07T22:48:24+00:00",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess."
+    },
+    {
+      "id": "a14c450f5b47",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213697",
+      "published": "2026-08-07T22:42:32+00:00",
+      "summary": "오픈AI가 차세대 모델 '아스트라(Astra)'의 개발 및 내부 테스트 작업을 일시 중단하고 고강도 보안 통제 체계로 전환했다. 업계에서는 아스트라가 이르면 다음 주 중 출시될 것으로 예상했으나, 내부 평가 과정에서 자율적인 제로데이 해킹 능력을 포함한 고위험 사이버보안 역량이 포착되면서 브레이크가 걸렸다.오픈AI는 7일(현지시간) 공식 블로그 게시물을 통해 아스트라가 준비성 프레임워크(Preparedness Framework)상 사이버보안 위험 등급이 최고 단계인 '치명적(Critical)' 임"
+    },
     {
       "id": "06aba97a3e27",
       "source": "AI타임스",
@@ -69,6 +91,17 @@
       "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focus"
     },
     {
+      "id": "39aabc62f957",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "published": "2026-08-07T18:59:08+00:00",
+      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours Comments URL: https://news.ycombinator.com/item?id=49214863 Points: 225 # Comments: 125"
+    },
+    {
       "id": "eb8a3cfe1a08",
       "source": "Wired",
       "kind": "article",
@@ -100,6 +133,17 @@
       "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "published": "2026-08-07T18:04:08+00:00",
       "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera "
+    },
+    {
+      "id": "532d5157c8bf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "published": "2026-08-07T18:01:30+00:00",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 206 # Comments: 45"
     },
     {
       "id": "8508ac4746be",
