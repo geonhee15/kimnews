@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-08-08",
-  "generated_at": "2026-08-07T20:21:38.196504+00:00",
-  "count": 14,
+  "generated_at": "2026-08-07T21:08:42.559826+00:00",
+  "count": 17,
   "items": [
+    {
+      "id": "1625023b1ec1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "content": "Two Polish security researchers wanted to find out how vulnerable their country’s internet was to potential cyberattacks, and quickly found that thousands of public agencies and websites were at risk of being hacked.\n\nAt the Def Con cybersecurity conference in Las Vegas on Friday, security researchers Robert Kruczek and Kamil Szczurowski said they wanted to understand the state of Poland’s public web out of a sense of patriotism and a desire to make it safer for everyone.\n\nBefore long, the duo discovered more than 10,000 affected public entities with 250,000 websites with security flaws, including airports, hospitals, and government offices.\n\nThe researchers found that some of the vendors’ buggy software, coupled with a lack of bug bounties and ways to report security flaws, are putting Poland’s public services at risk of hijacks and other attacks. The researchers also said that some bugs were incredibly easy to exploit but were not always taken seriously, with some vendors describing the bug reports as inconveniences.\n\nThe research comes as Poland is trying to shore up its cyber defenses after a wave of suspected Russian hacks targeting the country’s energy and water providers . Some of the hacks have been carried out by taking advantage of weak cybersecurity.\n\nKruczek and Szczurowski found several bugs in the widely used content management system Pad CMS, which website owners use to organize and display content.\n\nThe two found critical vulnerabilities in one web system called Pad CMS , which allowed them to easily access over 300 public websites without needing a password. The software developer did not patch the software because it had become “end of life” and was no longer supported.\n\nAnother bug allowed them to gain access to the websites of some two-thirds of Poland’s judiciary, or about 245 courts, they said.\n\nThe duo reported their findings to the government through various official channels.\n\nThe researchers said during their talk that it was ultimately worth the hassle, saying that as a result we are “a little bit more safe.”\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com .\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $400 toda y!\n\nChatGPT brings unlimited text chats to free users Ivan Mehta\n\nFord’s new electric truck, ‘Fathom,’ starts at $28,350 Sean O'Kane\n\nBending Spoons to buy Airtable for $1.28B Ivan Mehta\n\nInfluencers draw backlash for attending OpenAI’s first luxury trip Dominic-Madori Davis\n\nSequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics Julie Bort\n\nMalaysia is reportedly shutting down Balaji Srinivasan’s Network School Anthony Ha\n\nYouTuber Hank Green says his AI usage is ‘not healthy’ Anthony Ha",
+      "published": "2026-08-07T21:00:08+00:00"
+    },
     {
       "id": "2fa9c8dd3fa9",
       "source": "The Verge",
@@ -64,6 +76,18 @@
       "published": "2026-08-07T18:04:08+00:00"
     },
     {
+      "id": "8508ac4746be",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 265 # Comments: 161",
+      "content": "At max effort, DeepSeek V4 Flash 0731 scores 89.0% on ARC-AGI-1 Semi-Private at $0.02 per task and 61.4% on ARC-AGI-2 Semi-Private at $0.04 per task.\n\nPass/fail per reasoning level across each benchmark.",
+      "published": "2026-08-07T17:56:20+00:00"
+    },
+    {
       "id": "6d6834915d9f",
       "source": "The Verge",
       "kind": "article",
@@ -95,7 +119,7 @@
       "lang": "en",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 238 # Comments: 165",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 276 # Comments: 198",
       "content": "Get AI-powered insights\n\nAsk anything about this entity\n\nSuggested questions:\n\nAll answers are AI generated. They may be incomplete or incorrect.",
       "published": "2026-08-07T17:36:30+00:00"
     },
@@ -158,6 +182,18 @@
       "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
       "content": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE.\n\nThe energy company said in an announcement that the wind farms would have been built off the coasts of California, Louisiana, and New York. Instead, RWE will spend $900 million to buy a small stake in a Louisiana liquid natural gas export terminal.\n\nThe New York wind farm would have generated more than 3 gigawatts, according to Heatmap News.\n\nThe remaining $300 million will go toward buying natural gas turbines to power 15 peaking power plants around the country. Peaking power plants are among the most expensive and most polluting natural gas power plants to operate. It’s unclear when those will be completed — there’s currently a backlog for new turbines stretching into the early 2030s .\n\nRWE isn’t backing off its offshore wind investments elsewhere, though. The company said it is bought 6.9 gigawatts of capacity in the UK’s recent auction.\n\nThe Trump administration has paid $3.93 billion for the 12 leases it has coaxed developers into abandoning.\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y!",
       "published": "2026-08-07T15:11:03+00:00"
+    },
+    {
+      "id": "8137af57d5ec",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "씨스팬, 국제 선주 및 선박운항사 최초로 중국 판다본드 시장 진출",
+      "link": "https://zdnet.co.kr/view/?no=20260808001003",
+      "summary": "[지디넷코리아] 싱가포르, 2026년 8월 7일 /PRNewswire/ -- 세계적인 독립 해운 자산 소유운영사 씨스팬 코퍼레이션(Seaspan Corporation Pte. Ltd., 이하 '씨스팬')이 중국 국내 채권시장에서 15억 위안 규모로 판다본드(Panda Bond)를 성공리에 발행했다고 밝혔다. 이번 3년 만기 사모채는 2026년 7월 15일 발행됐으며, 연간 표면금리는 2.50%다. 중국 역내 및 해외 투자자들의 높은 관심 속에 발행액 대비 주문 규모가 2.3배에 달했다. 이번 거래",
+      "content": "글로벌뉴스 입력 :2026/08/08 00:10\n\n싱가포르 , 2026년 8월 7일 /PRNewswire/ -- 세계적인 독립 해운 자산 소유운영사 씨스팬 코퍼레이션(Seaspan Corporation Pte. Ltd., 이하 '씨스팬')이 중국 국내 채권시장에서 15억 위안 규모로 판다본드(Panda Bond)를 성공리에 발행했다고 밝혔다.\n\n이번 3년 만기 사모채는 2026년 7월 15일 발행됐으며, 연간 표면금리는 2.50%다. 중국 역내 및 해외 투자자들의 높은 관심 속에 발행액 대비 주문 규모가 2.3배에 달했다.\n\n이번 거래는 씨스팬이 국제 선주 및 선박운항사 가운데 최초로 판다본드 시장 진입에 성공했다는 점에서 중요한 이정표로 꼽히고 있다.\n\n이번 거래는 새로운 자금 조달 채널을 확보한 것을 넘어 씨스팬의 자본 조달원 다변화와 무담보 채무 조달 접근성 확대 전략을 뒷받침하는 조치다. 회사는 이를 통해 선단에 대한 투자와 성장 기회 발굴 역량을 강화하고, 고객 및 이해관계자를 위한 장기적 가치 창출 기반을 더욱 공고히 할 수 있게 됐다.\n\n안드레아스 브라우흐(Andreas Brauch) 씨스팬 최고재무책임자는 \"이번 발행은 씨스팬의 신용도와 사업 모델, 탄탄한 재무구조, 지속가능한 성장 전략에 대한 투자자들의 신뢰를 보여주는 것\"이라며 \"중국 국내 자본시장에 대한 접근성을 확대해 자금 조달원을 한층 더 다변화하고 비용 효율적인 자본에 대한 접근성을 높일 수 있게 됐다. 이로써 세계 최대급 규모와 최신식 선단을 기반으로 고객을 지원하려는 당사의 장기 성장 목표가 더욱 강화될 것\"이라고 말했다.\n\n이번 판다본드 발행은 씨스팬이 중국 자본시장에 참여해 온 과정에서 중요한 성과를 의미한다. 씨스팬은 중국에서 용선, 조선, 금융, 해운 서비스 등 해운 생태계 전반에 걸쳐 전략적 파트너십을 구축하고 있다.\n\n씨스팬은 세계 주요 해운사를 대상으로 장기 고정 요율 임대 사업에 주력하는 세계적 해운 자산 소유운영사다. 2026년 6월 30일 기준 미인도 신조선을 포함한 추정치를 기준으로 씨스팬의 운항 선단은 총 247척이다. 이는 자동 및 ·트럭 전용운반선(Pure Car, Truck Carriers) 4척과 초대형 에탄운반선(Very Large Ethane Carriers) 5척, 오픈해치 갠트리크레인 선박(Open Hatch Gantry Crane vessels) 4척이 포함된 수치다. 모든 선박이 인도될 경우 총 선복량은 약 250만TEU에 달하게 된다.",
+      "published": "2026-08-07T15:10:03+00:00"
     },
     {
       "id": "36ae8e7de6b7",

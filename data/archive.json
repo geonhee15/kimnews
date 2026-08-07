@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-07T20:21:38.251447+00:00",
-  "count": 8535,
+  "updated_at": "2026-08-07T21:08:42.613496+00:00",
+  "count": 8539,
   "items": [
+    {
+      "id": "1625023b1ec1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "published": "2026-08-07T21:00:08+00:00",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites."
+    },
     {
       "id": "2fa9c8dd3fa9",
       "source": "The Verge",
@@ -56,6 +67,17 @@
       "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "published": "2026-08-07T18:04:08+00:00",
       "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera "
+    },
+    {
+      "id": "8508ac4746be",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "published": "2026-08-07T17:56:20+00:00",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 265 # Comments: 161"
     },
     {
       "id": "6d6834915d9f",
@@ -155,6 +177,17 @@
       "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
       "published": "2026-08-07T15:11:03+00:00",
       "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion."
+    },
+    {
+      "id": "8137af57d5ec",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "씨스팬, 국제 선주 및 선박운항사 최초로 중국 판다본드 시장 진출",
+      "link": "https://zdnet.co.kr/view/?no=20260808001003",
+      "published": "2026-08-07T15:10:03+00:00",
+      "summary": "[지디넷코리아] 싱가포르, 2026년 8월 7일 /PRNewswire/ -- 세계적인 독립 해운 자산 소유운영사 씨스팬 코퍼레이션(Seaspan Corporation Pte. Ltd., 이하 '씨스팬')이 중국 국내 채권시장에서 15억 위안 규모로 판다본드(Panda Bond)를 성공리에 발행했다고 밝혔다. 이번 3년 만기 사모채는 2026년 7월 15일 발행됐으며, 연간 표면금리는 2.50%다. 중국 역내 및 해외 투자자들의 높은 관심 속에 발행액 대비 주문 규모가 2.3배에 달했다. 이번 거래"
     },
     {
       "id": "36ae8e7de6b7",
@@ -309,6 +342,17 @@
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "published": "2026-08-07T11:40:37+00:00",
       "summary": "Meta's total fine has raked up to $942 million in this case"
+    },
+    {
+      "id": "dfd13dc67e51",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "published": "2026-08-07T11:00:35+00:00",
+      "summary": "Article URL: https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/ Comments URL: https://news.ycombinator.com/item?id=49208535 Points: 206 # Comments: 90"
     },
     {
       "id": "f156a5e19d7e",
