@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-07T17:43:58.905864+00:00",
-  "count": 8523,
+  "updated_at": "2026-08-07T18:31:43.233858+00:00",
+  "count": 8528,
   "items": [
+    {
+      "id": "9078ff41a502",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The only instant cameras worth your money",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published": "2026-08-07T18:04:08+00:00",
+      "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera "
+    },
+    {
+      "id": "6d6834915d9f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disney Plus tries a new AI-powered search",
+      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "published": "2026-08-07T17:53:44+00:00",
+      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your v"
+    },
+    {
+      "id": "ae51674ea57e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "published": "2026-08-07T17:43:34+00:00",
+      "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any mean"
+    },
     {
       "id": "41ccd1754ce5",
       "source": "The Verge",
@@ -441,6 +474,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260807174721",
       "published": "2026-08-07T08:57:31+00:00",
       "summary": "[지디넷코리아]반도체 학계가 정부 메가특구특별법 제정을 계기로 반도체 연구개발(R&D) 인력에 대한 주 52시간 근로제를 유연화해야 한다고 촉구했다.반도체공학회는 7일 발표한 '연구개발직 주 52시간제 특례에 대한 입장문'에서 정부의 3대 메가프로젝트와 메가특구특별법 제정 추진에 적극적인 지지 의사를 밝혔다. 학회는 \"국가 안보와 경제에 직결되는 반도체 분야에서 글로벌 경쟁력을 유지하려면 연구개발 환경 개선이 필수\"라고 강조했다.학회는 현행 근로시간 제도 경직성을 문제로 지적했다. 학회는 \"연구개"
+    },
+    {
+      "id": "dfbf5b6a8277",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "published": "2026-08-07T08:53:32+00:00",
+      "summary": ""
     },
     {
       "id": "e78217d85379",
@@ -1156,6 +1200,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213601",
       "published": "2026-08-06T22:00:00+00:00",
       "summary": "지난해까지는 오픈AI와 앤트로픽, 구글 등 폐쇄형 AI 진영이 미래의 주도권을 가져갈 것이라는 전망이 지배적이었습니다. 하지만 최근 중국 오픈소스 모델의 빠른 추격과 기업용 AI 확대 과정에서 커지는 비용 부담으로 인해, AI 산업의 최종 승자를 예측하기는 점점 어려워지고 있습니다.이런 상황에서 모건스탠리는 AI의 미래를 3가지 시나리오로 나눠 분석한 보고서를 내놓았습니다.첫 번째는 소수 폐쇄형 기업이 초고성능 AI를 독점하는 시나리오입니다. 최첨단 모델 개발에는 수천억달러의 투자와 수백만개의 G"
+    },
+    {
+      "id": "f275d3c380da",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "published": "2026-08-06T21:52:16+00:00",
+      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 201 # Comments: 33"
     },
     {
       "id": "d12cb6ab5664",
