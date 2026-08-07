@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T10:47:12.423953+00:00",
-  "count": 8495,
+  "updated_at": "2026-08-07T11:41:18.604576+00:00",
+  "count": 8502,
   "items": [
+    {
+      "id": "fa12fe2b500d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "published": "2026-08-07T11:40:37+00:00",
+      "summary": "Meta's total fine has raked up to $942 million in this case"
+    },
+    {
+      "id": "526876c049db",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why does Apple keep banning Telegram, but never X?",
+      "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
+      "published": "2026-08-07T11:00:00+00:00",
+      "summary": "For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely as a secure platform for people who live in count"
+    },
     {
       "id": "a1a0a483b5dd",
       "source": "Wired",
@@ -14,6 +36,17 @@
       "summary": "This burgeoning wearable tech lets you talk to an AI assistant, listen to music, or check out a display screen from the comfort of your very own face."
     },
     {
+      "id": "9126931ecef8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "슈퍼마이크로, 제7회 연례 오픈 스토리지 서밋 개최… 21개 생태계 파트너와 함께 대규모 엔터프라이즈 AI 구축을 위한 실무 가이드 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260807191002",
+      "published": "2026-08-07T10:10:02+00:00",
+      "summary": "[지디넷코리아] 12개 세션으로 구성된 온라인 행사에서 프로덕션 AI 구축을 위한 AI 추론, 에이전틱 AI, 클라우드 스토리지, 데이터 관리를 다룰 예정 AMD, DDN, 해머스페이스, IBM, 인텔, 키옥시아, 미니오, 뉴타닉스, 스켈리티, 솔리다임, 배스트 데이터, 웨스턴디지털, 크루소, 아이언마운틴 등 21개 선도 기술 기업에서 참가한 38명의 업계 전문가들이 확장 가능하고 비용 효율적인 AI 인프라를 위한 실질적인 가이드를 공유 더큐브와 함께 진행되는 이번 서밋은 8월 11일부터 9월 3"
+    },
+    {
       "id": "fb74a6518c5b",
       "source": "Wired",
       "kind": "article",
@@ -23,6 +56,17 @@
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "published": "2026-08-07T10:00:00+00:00",
       "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in."
+    },
+    {
+      "id": "5ba0067ea362",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미공개 레트로 게임 최초 공개…그라비티 게임 어라이즈, '도쿄 게임 던전 13' 참가",
+      "link": "https://zdnet.co.kr/view/?no=20260807184531",
+      "published": "2026-08-07T09:50:01+00:00",
+      "summary": "[지디넷코리아]글로벌 게임 기업 그라비티의 일본 지사인 그라비티 게임 어라이즈(GGA)가 일본 최대 규모 인디 게임 전시회에 참가해 신작 라인업을 공개한다.그라비티 게임 어라이즈는 일본 도쿄도립 산업무역센터 하마마쓰초관에서 열리는 '도쿄 게임 던전 13'에 참가한다고 7일 밝혔다.회사는 퍼블리싱 및 개발 중인 다양한 장르의 인디 게임을 알리고 일본 현지 인디 게임 시장의 트렌드를 확인하기 위해 참가를 결정했다고 전했다.이번 행사에서 회사는 레트로 게임 합본인 '자레코 아케이드 컬렉션 Vol. 1 "
     },
     {
       "id": "588fa1103d36",
@@ -45,6 +89,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213665",
       "published": "2026-08-07T09:43:27+00:00",
       "summary": "알리바바가 차세대 플래그십 모델 '큐원3.8-맥스(Qwen3.8-Max)'를 공개하며 최고 수준의 성능을 내세웠지만, 독립 벤치마크에서는 기대에 미치지 못하는 결과가 나왔다. 전문가들은 앞으로는 단순한 성능 순위나 토큰 가격이 아니라 '성공당 비용(Cost per Successful Tas)’'이 핵심 지표가 될 것이라고 강조했다. 알리바바는 3일(현지시간) 큐원3.8-맥스를 출시하며 코딩 에이전트 성능이 사실상 '클로드 페이블 5(Claude Fable 5)'에 이어 업계 최고 수준이라고 홍보했"
+    },
+    {
+      "id": "1613ddb55e97",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "BIC 페스티벌 2026, 온라인 전시관 개막…역대 최대 라인업",
+      "link": "https://zdnet.co.kr/view/?no=20260807183600",
+      "published": "2026-08-07T09:40:02+00:00",
+      "summary": "[지디넷코리아]글로벌 인디게임 축제 '부산인디커넥트페스티벌(이하 BIC) 2026'이 온라인 전시관을 시작으로 막을 올린다.BIC 조직위원회는 'BIC 2026'의 온라인 페스티벌을 개막했다고 7일 밝혔다.올해 온라인 전시는 이달 7일부터 28일까지 22일간 BIC 공식 누리집을 통해 운영된다.이번 온라인 전시는 전년 대비 참여작이 대폭 확대돼 역대 최대 규모로 치러진다. 일반부문, 루키부문, 커넥트픽, 퍼블릭 인디, 프라임 인디 등 다채로운 분야의 인디게임이 출품됐다. 오프라인 현장에 참가하지 "
+    },
+    {
+      "id": "4eb4450a3653",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CJ올리브네트웍스, 2분기 매출 28.8%·영업익 15.8% 증가…AX 성장 견인",
+      "link": "https://zdnet.co.kr/view/?no=20260807173226",
+      "published": "2026-08-07T09:37:49+00:00",
+      "summary": "[지디넷코리아]CJ올리브네트웍스가 인공지능(AI) 팩토리와 차세대 전사적자원관리(ERP) 구축 사업 확대에 힘입어 2분기 두 자릿수 실적 성장을 기록했다.8일 금융감독원 전자공시시스템에 따르면 CJ올리브네트웍스는 2분기 매출 2545억원, 영업이익 200억원을 기록했다. 전년 동기 대비 매출은 28.8%, 영업이익은 15.8% 늘었다. 상각전영업이익(EBITDA)은 266억원으로 집계됐다. 전년 동기보다 31억원, 13.0% 증가한 수치다.상반기 누적 매출은 4,663억원, 영업이익은 313억원,"
     },
     {
       "id": "84d6a5aa7dd1",
@@ -6535,6 +6601,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260803160723",
       "published": "2026-08-03T07:16:28+00:00",
       "summary": "[지디넷코리아]전 세계 최초 인공지능(AI) 법률인 유럽연합(EU) 'AI법(AI Act)'이 이달부터 투명성 의무와 범용 AI(GPAI) 모델에 대한 집행·제재 권한을 본격 가동했다. 국내 업계 안팎에서는 AI기본법을 전면 시행 중인 한국에 추가 영향은 크지 않지만 해외 진출 기업의 대응은 필요하다는 진단이 나온다.3일 업계에 따르면 EU 집행위원회는 지난 2일(현지시간)부터 AI법 제50조에 따른 투명성 의무와 GPAI 모델 제공자에 대한 실제 조사·평가·제재 권한 집행을 본격 시행했다. EU"
+    },
+    {
+      "id": "94e0f27b3707",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "link": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "published": "2026-08-03T07:12:57+00:00",
+      "summary": "Article URL: https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/ Comments URL: https://news.ycombinator.com/item?id=49152255 Points: 205 # Comments: 167"
     },
     {
       "id": "74e2402e83d6",
