@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-08T09:53:15.639608+00:00",
-  "count": 8583,
+  "updated_at": "2026-08-08T10:25:47.240572+00:00",
+  "count": 8586,
   "items": [
+    {
+      "id": "b5f741b0d937",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'사스포칼립스' 공포 지나자…SaaS 업계, AI 대응 여부로 희비 엇갈렸다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213710",
+      "published": "2026-08-08T10:12:59+00:00",
+      "summary": "AI의 부상으로 올해 초 전 세계 증시를 강타했던 ‘사스포칼립스’ 논쟁이 최근 실적발표 시즌을 맞아 다시 수면 위로 불거졌다. 다만 시장 전체를 무차별적인 매도세로 몰아넣었던 초기의 일방적 공포와 달리, 이번에는 AI 기술을 제품에 성공적으로 이식해 가치를 증명한 기업과 그렇지 못한 기업 간의 희비가 명확히 갈리는 ‘양극화’ 양상이 뚜렷하게 나타나고 있다.CNBC와 월스트리트저널(WSJ) 등에 따르면 7일(현지시간) 뉴욕 증시에서 주요 소프트웨어 기업들의 주가는 실적 발표 결과와 AI 대응 역량에"
+    },
+    {
+      "id": "021345776f45",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "published": "2026-08-08T10:00:00+00:00",
+      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off."
+    },
     {
       "id": "012061588681",
       "source": "AI타임스",
@@ -20,6 +42,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 AI 에이전트 간 호환성 높인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213705",
+      "published": "2026-08-08T08:59:43+00:00",
+      "summary": "AI 에이전트가 외부 도구와 데이터를 활용하는 능력이 빠르게 확대되면서, 서로 다른 에이전트 플랫폼에서 동일한 기능을 손쉽게 공유할 수 있도록 하는 새로운 표준이 등장했다. AAIF(Agentic AI Foundation)는 6일(현지시간) AI 에이전트의 재사용 가능한 지식인 ‘에이전트 스킬(Agent Skills)’과 외부 도구 연결 표준인 ‘모델 컨텍스트 프로토콜(MCP)’을 하나의 일관된 패키지로 묶어 여러 에이전트 클라이언트에서 활용할 수 있도록 하는 개방형·벤더 중립적 규격 ‘에이전트 "
+    },
+    {
+      "id": "4268231ae544",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213705",
       "published": "2026-08-08T08:59:43+00:00",
       "summary": "AI 에이전트가 외부 도구와 데이터를 활용하는 능력이 빠르게 확대되면서, 서로 다른 에이전트 플랫폼에서 동일한 기능을 손쉽게 공유할 수 있도록 하는 새로운 표준이 등장했다. AAIF(Agentic AI Foundation)는 6일(현지시간) AI 에이전트의 재사용 가능한 지식인 ‘에이전트 스킬(Agent Skills)’과 외부 도구 연결 표준인 ‘모델 컨텍스트 프로토콜(MCP)’을 하나의 일관된 패키지로 묶어 여러 에이전트 클라이언트에서 활용할 수 있도록 하는 개방형·벤더 중립적 규격 ‘에이전트 "
