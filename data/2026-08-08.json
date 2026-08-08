@@ -1,8 +1,68 @@
 {
   "issue_date": "2026-08-08",
-  "generated_at": "2026-08-08T01:10:24.092078+00:00",
-  "count": 40,
+  "generated_at": "2026-08-08T03:00:28.277750+00:00",
+  "count": 37,
   "items": [
+    {
+      "id": "caca2ac26226",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 안전 분류기 고도화…'페이블 5' 오탐 답변 거부 85% 줄였다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213699",
+      "summary": "앤트로픽이 ‘페이블 5’의 생물학 분야 안전장치를 대폭 개선했다. 이를 통해 정상적인 생물학 관련 요청을 위험한 작업으로 잘못 판단해 고성능 모델의 답변을 제한하던 오탐(false positive) 문제를 줄여, 연구·의료·교육 분야에서 모델을 활용할 수 있는 범위를 넓혔다.앤트로픽은 7일(현지시간) 최신 AI 모델 페이블 5의 생물학 분야 안전장치를 대폭 개선하면서, 생물학 관련 질문을 정상적인 요청임에도 위험한 것으로 잘못 판단해 답변을 제한하는 사례가 85% 감소했다고 밝혔다. 생물학 관련 ",
+      "content": "앤트로픽이 ‘페이블 5’의 생물학 분야 안전장치를 대폭 개선했다. 이를 통해 정상적인 생물학 관련 요청을 위험한 작업으로 잘못 판단해 고성능 모델의 답변을 제한하던 오탐(false positive) 문제를 줄여, 연구·의료·교육 분야에서 모델을 활용할 수 있는 범위를 넓혔다.\n\n앤트로픽은 7일(현지시간) 최신 AI 모델 페이블 5의 생물학 분야 안전장치를 대폭 개선하면서, 생물학 관련 질문을 정상적인 요청임에도 위험한 것으로 잘못 판단해 답변을 제한하는 사례가 85% 감소했다고 밝혔다.\n\n생물학 관련 요청을 판단하는 ‘안전 분류기(classifier)’의 정확도를 높인 것이다. 페이블 5는 생물학 분야에서 전문가 수준을 넘어서는 복잡한 작업을 수행할 수 있고, 일부 연구에서는 실제 연구자에게 실질적인 운영 지원을 제공할 수 있을 정도의 능력을 갖추고 있다. 하지만 이러한 능력은 신약 개발이나 질병 치료 연구에 활용될 수 있는 동시에 생물학적 무기 개발과 같은 악의적인 목적으로 악용될 가능성도 있다.\n\n앤트로픽은 이 같은 ‘이중용도’ 위험 때문에 페이블 5 출시 당시 생물학 관련 요청의 대부분을 의도적으로 차단했다. 안전 분류기가 생물학 분야의 보호 대상 요청으로 판단하면 이용자의 질문을 생물학적 능력이 상대적으로 낮은 모델로 전환하는 방식이다.\n\n이용자가 경험하는 ‘대체(fallback)’가 바로 이 과정이다. 이 과정에서 정상적인 생물학 질문까지 차단되는 오탐(false positive)이 상당히 많이 발생했다는 것이 문제가 됐다.\n\n앤트로픽도 특정 생물학 키워드를 무조건 차단하면 유용한 연구까지 막히는 문제가 생긴다고 밝혔다. 백신이나 치료제 개발처럼 유익한 연구에서도 바이러스나 독성 물질 같은 위험 요소 조사가 반드시 필요하기 때문이다. 따라서 유해한 연구와 안전하면서도 유익한 연구를 정교하게 구분하는 맞춤형 안전기준이 필수적이라는 설명이다.\n\n하지만 악의적인 행위자는 이러한 모호성을 이용해 위험한 작업을 일반적인 연구 활동처럼 위장할 수 있다고 강조했다. 첨단 AI가 합성생물학과 유전체 편집 등에 활용되면서 새로운 생물학적 위협을 만들어낼 가능성이 있다는 점을 지적하며, 최첨단 AI 모델의 생물학적 능력이 악용되면 기존에는 확보하기 어려웠던 능력을 악의적인 행위자에게 제공할 수 있다고 우려했다.\n\n이에 최근 몇 주 동안 생물학 안전 분류기의 ‘헌법(constitution)’ 역할을 하는 규칙 체계를 전면적으로 수정했다. 정상적인 생물학 활용 사례를 세밀하게 정의하고, 내부와 외부의 다양한 전문가들로부터 피드백을 받은 뒤 새로운 규칙에 맞춰 학습 데이터를 다시 구축하고 분류기를 재훈련했다. 동시에 위험하거나 이중용도 성격이 강한 생물학 연구 요청에 대해서는 기존과 마찬가지로 차단할 수 있는지도 검증했다.\n\n그 결과, 페이블 5 출시 당시와 비교해 안전 분류기가 정상적인 생물학 관련 요청을 차단하는 빈도가 크게 감소했다. 자체 테스트에서는 생물학 관련 폴백이 제품 전반에서 85% 줄어든 것으로 나타났다.\n\n이용자는 이제 실험실 검사 결과를 이해하거나 증상을 학습하고, 생물학을 교육 목적으로 공부하는 등의 일상적인 질문에서 페이블 5가 이전보다 훨씬 적게 답변을 거부하는 것을 경험할 수 있다는 설명이다. 의료 전문가도 일부 임상 관련 작업에서 페이블 5의 지원을 폭넓게 받을 수 있게 됐다.\n\n다만 이번 조치가 생물학 분야의 모든 제한을 해제한 것은 아니다. 페이블 5는 여전히 바이러스학, 독성학, 분자 설계 등 악용 가능성이 높은 이중용도 영역의 전문적인 생물학 연구와 신약 개발 요청에 대해서는 '오퍼스 5'로 폴백한다. 앤트로픽은 이러한 영역까지 일반 이용자에게 무제한으로 개방하기보다는, 신뢰할 수 있는 연구자에게 최첨단 생물학 기능을 제공하는 ‘신뢰 기반 접근(trusted access)’ 체계를 구축한다는 방침이다.\n\n앞으로도 안전 분류기의 오탐과 누락을 지속적으로 개선할 계획이다. 특히 분류기를 우회하려는 ‘탈옥’ 시도에도 견고하게 대응하면서, 유익한 연구에는 최대한 접근성을 제공하고 악용 가능성이 높은 요청은 차단하는 균형을 맞추겠다는 것이다.",
+      "published": "2026-08-08T01:32:49+00:00"
+    },
+    {
+      "id": "12d365fe7b48",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SK하이닉스, 중국 충칭 자산 매각 검토...국내 팹에 54조 투자",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213704",
+      "summary": "SK하이닉스가 중국 충칭의 반도체 후공정 시설에 외부 투자자를 유치하거나 지분을 매각하는 방안을 검토하고 있는 것으로 알려졌다. 동시에 메모리 수요 증가에 대응하기 위해 국내 반도체 생산시설에는 54조원을 투자하기로 하는 등 생산기지의 무게중심을 국내로 더 강화하는 모습이다.블룸버그는 7일(현지시간) 정통한 소식통을 인용, SK하이닉스가 충칭 사업을 검토하기 위해 잠재적인 자문사들과 협의를 진행하고 있다고 보도했다.중국 현지 펀드와 반도체 업계 기업 등이 투자 후보로 거론되고 있으며, SK하이닉스",
+      "content": "SK하이닉스가 중국 충칭의 반도체 후공정 시설에 외부 투자자를 유치하거나 지분을 매각하는 방안을 검토하고 있는 것으로 알려졌다. 동시에 메모리 수요 증가에 대응하기 위해 국내 반도체 생산시설에는 54조원을 투자하기로 하는 등 생산기지의 무게중심을 국내로 더 강화하는 모습이다.\n\n블룸버그는 7일(현지시간) 정통한 소식통을 인용, SK하이닉스가 충칭 사업을 검토하기 위해 잠재적인 자문사들과 협의를 진행하고 있다고 보도했다.\n\n중국 현지 펀드와 반도체 업계 기업 등이 투자 후보로 거론되고 있으며, SK하이닉스가 해당 시설의 지분 일부를 유지하면서 외부 투자자를 참여시키는 방안도 검토되고 있는 것으로 전해졌다.\n\n잠재적인 거래가 성사될 경우 충칭 시설의 가치는 30억달러(약 4조2000억원)에 이를 것으로 전망된다. 다만 현재 논의는 초기 단계로, 실제 거래로 이어지지 않을 가능성도 있다. SK하이닉스는 구체적인 내용에 대한 언급을 거부했다.\n\nSK하이닉스는 20여 년 전 중국 시장에 진출했다. 중국 우시시와 협약을 맺고 대규모 해외 웨이퍼 생산기지를 건설하면서 중국 내 반도체 사업을 본격화했다. 충칭 시설은 대규모 반도체 패키징 및 테스트 기반으로, SK하이닉스의 낸드플래시 후공정 생산능력을 확대하고 글로벌 공급망을 지원하는 역할을 해왔다.\n\n이번 충칭 자산 검토는 SK하이닉스가 AI용 메모리 수요 급증에 대응해 생산능력을 대폭 확대하는 전략과 맞물려 주목된다. 현재 생산능력이 2027년까지 사실상 매진된 상태이며, 주요 고객사들과 장기 공급계약도 확대하고 있다.\n\nSK하이닉스는 이날 한국 내 반도체 제조시설 확장을 위해 54조원을 투자한다고 발표했다. 용인 반도체 클러스터에는 새로운 DRAM 생산라인인 ‘Y2’를 건설하고, 청주에는 낸드플래시 생산시설인 ‘M17’을 확장한다. AI 시대에 지속적으로 증가하는 메모리 수요에 대응하기 위한 투자라고 설명했다.\n\n용인 Y2는 용인 반도체 클러스터에 계획된 4개 팹 가운데 두 번째 생산시설이다. SK하이닉스는 내년 7월 착공해 2029년 6월 첫 클린룸을 가동하는 것을 목표로 하고 있다. 이곳에서는 HBM을 비롯한 차세대 DRAM 제품을 생산할 예정이다. 청주 M17 확장 공사는 내년 2월 착공하며, 첫 클린룸은 2028년 말 가동을 목표로 한다. 전체 투자 기간은 2031년 4월까지다.\n\n이번 국내 투자는 SK하이닉스가 AI 반도체 공급망에서 국내 생산 기반을 강화하려는 움직임으로도 해석된다. 삼성전자와 SK하이닉스는 국내 반도체 제조 및 AI 역량 확대를 위해 대규모 투자를 추진하고 있으며, 한국 정부도 앞으로 5년 내 메모리 생산능력을 두 배로 늘리고 세계 최고 수준의 제조 경쟁력을 확보한다는 목표를 제시한 바 있다.\n\nSK하이닉스의 중국 자산 검토와 국내 대규모 증설이 동시에 진행되면서 글로벌 메모리 공급망의 재편 가능성도 커지고 있다. 중국 충칭 사업에 대한 외부 투자자 유치나 지분 매각이 성사되면, SK하이닉스는 기존 중국 사업의 자본 효율성을 높이는 동시에 AI용 HBM과 차세대 DRAM 등 성장성이 높은 분야에 투자 재원을 집중할 수 있을 것으로 보인다.\n\n다만 AI 메모리 시장의 높은 성장세가 장기간 지속될지는 여전히 변수다. SK하이닉스는 AI 인프라 투자 확대의 핵심 수혜 기업으로 높은 수익성을 누리고 있지만, AI 관련 투자 심리가 변화할 경우 메모리 가격과 주가 변동성이 커질 수 있다는 우려도 제기되고 있다.\n\n이날 SK하이닉스는 3분기 중 추가적인 주주환원 방안을 검토하겠다고도 밝혔다. 주가는 4.9% 하락했다.",
+      "published": "2026-08-08T01:22:46+00:00"
+    },
+    {
+      "id": "b7e7998ce788",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...\"미안, 오타였다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213702",
+      "summary": "AI 코딩 에이전트가 사용자의 지시를 수행하는 과정에서 경로를 잘못 해석해 시스템의 주요 데이터를 삭제하는 사고가 발생했다. 한 개발자가 앤트로픽의 '클로드 오퍼스 5'에 시스템 백업을 요청했다가 사용자 프로필 폴더 전체를 삭제당한 사례가 알려지면서, 강력한 권한을 가진 AI 에이전트의 안전성과 접근 권한 관리가 다시 도마에 올랐다.5일(현지시간) 레딧 ‘클로드 코드’ 커뮤니티에는 한 개발자(Ecstatic-Big5126)의 사연이 올라 눈길을 끌었다. 그는 클로드 오퍼스 5에 자신의 시스템을 백",
+      "content": "AI 코딩 에이전트가 사용자의 지시를 수행하는 과정에서 경로를 잘못 해석해 시스템의 주요 데이터를 삭제하는 사고가 발생했다. 한 개발자가 앤트로픽의 '클로드 오퍼스 5'에 시스템 백업을 요청했다가 사용자 프로필 폴더 전체를 삭제당한 사례가 알려지면서, 강력한 권한을 가진 AI 에이전트의 안전성과 접근 권한 관리가 다시 도마에 올랐다.\n\n5일(현지시간) 레딧 ‘클로드 코드’ 커뮤니티에는 한 개발자(Ecstatic-Big5126)의 사연 이 올라 눈길을 끌었다. 그는 클로드 오퍼스 5에 자신의 시스템을 백업해 달라고 요청했다고 밝혔다.\n\n하지만 AI는 백업 작업을 수행하던 중 백업 파일이 잘못된 디렉터리에 생성됐다고 판단했고, 이를 삭제하기 위해 ‘rm -rf’ 명령을 실행했다. 문제는 AI가 백업 디렉터리로 착각한 경로가 실제로는 사용자의 전체 홈 디렉터리였다는 점이다.\n\n사고는 윈도우 환경에서 유닉스 스타일 셸을 사용하는 과정에서 경로를 잘못 해석하면서 발생한 것으로 보인다. AI가 일반적인 윈도우 경로인 ‘C:\\Users\\’와 유닉스 스타일로 표현된 ‘/c/Users/’를 혼동한 것으로 추정된다. 결국 AI는 ‘/c/Users/harih/’ 경로를 삭제 대상으로 판단하고 ‘rm -rf’ 명령을 실행해 사용자 프로필에 포함된 파일과 폴더를 대거 삭제했다.\n\n피해를 입은 개발자는 “클로드 오퍼스 5에 백업을 만들어 달라고 요청했는데, 백업을 잘못된 디렉터리에 만든 뒤 내 전체 드라이브에 ‘rm -rf’를 실행했다”고 밝혔다. 특히 모든 데이터를 삭제한 뒤 AI가 “죄송합니다, 오타였습니다(Sorry, typo)”라고 답했다며 황당했던 당시 상황을 전했다. 그는 이번 일을 두고 “동시에 내가 겪은 AI 경험 중 가장 웃기면서도 고통스러운 순간이었다”고 표현했다.\n\n이번 사례의 핵심은 AI가 단순히 잘못된 답변을 생성한 것이 아니라, 실제 운영체제에서 파괴적인 명령을 실행할 수 있는 권한을 갖고 있었다는 점이다. 대형언어모델(LLM)은 자연어 지시를 해석하고 코드를 작성하는 능력이 뛰어나지만, 사용자의 의도를 완벽하게 이해하거나 자신이 실행하려는 명령이 실제 환경에서 어떤 결과를 가져올지 항상 정확하게 판단하는 것은 아니다.\n\n특히 ‘rm -rf’와 같은 명령은 지정된 경로 아래의 파일과 디렉터리를 확인 과정 없이 재귀적으로 삭제할 수 있기 때문에 매우 위험하다는 지적이다. 경로에 단 하나의 오타가 발생하거나 예상과 실제 환경이 다를 경우에도 광범위한 데이터 손실로 이어질 수 있다.\n\n이와 유사한 AI 에이전트 사고는 이전에도 여러 차례 발생했다. AI 코딩 플랫폼이 코드 동결 기간에도 기업의 운영 데이터베이스를 삭제한 사례가 있었으며, 구글의 에이전트형 AI가 사용자의 지시를 잘못 해석해 하드 드라이브 전체를 삭제한 사례도 보고됐다. AWS에서도 AI 코딩 봇의 실수와 관련된 장애가 발생했다는 보고가 나왔고, 메타의 AI 정렬 담당자의 이메일 받은편지함이 오픈클로에 의해 삭제된 일도 유명하다.\n\n또 다른 사례에서는 앤트로픽의 클로드를 기반으로 한 코딩 도구가 기업 데이터베이스를 불과 몇 초 만에 삭제했고, 백업까지 함께 영향받으며 피해가 더 커진 것으로 알려졌다. 이처럼 AI 에이전트가 단순히 코드를 제안하는 단계를 넘어 실제 파일 시스템과 데이터베이스, 클라우드 인프라에 직접 접근하는 사례가 늘면서 AI의 ‘실행 권한’ 자체가 새로운 위험 요소로 부상하고 있다.\n\n전문가들이 강조하는 핵심 대응책은 AI에게 시스템 전체에 대한 무제한 권한을 부여하지 않는 것이다. 특히 중요한 파일이나 데이터베이스에 접근하는 AI 에이전트에는 최소 권한 원칙을 적용하고, 파일 삭제나 시스템 변경과 같은 파괴적인 작업은 별도의 승인 절차를 거치도록 설계해야 한다.\n\n자동 백업도 AI가 접근할 수 없는 별도의 영역에 보관해 AI의 실수로 원본과 백업이 동시에 삭제되는 상황을 방지할 필요가 있다.",
+      "published": "2026-08-08T01:10:51+00:00"
+    },
+    {
+      "id": "601d03927da4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"애플, 프리미엄 폰 65% 점유…아이폰17 강세 덕분\"",
+      "link": "https://zdnet.co.kr/view/?no=20260808100943",
+      "summary": "[지디넷코리아]세계 스마트폰 시장이 올 상반기 29% 성장한 가운데 애플이 프리미엄 폰 시장의 65%를 점유한 것으로 집계됐다.애플의 상반기 프리미엄 폰 매출이 9% 증가하면서 점유율 65%를 기록했다고 맥루머스가 7일(현지시간) 카운터포인트 리서치 자료를 인용 보도했다. 카운터포인트는 평균판매가격 600달러 이상 제품을 프리미엄 폰으로 분류하고 있다.이 같은 점유율은 지난 해 같은 기간 63%에 비해 2%P 늘어난 것이다. 카운터포인트는 애플의 프리미엄 폰 시장 점유율이 늘어난 것은 특히 아이폰",
+      "content": "카운터포인트 분석…삼성은 19%로 2위\n\n홈&모바일 입력 :2026/08/08 10:10 수정: 2026/08/08 10:41\n\n세계 스마트폰 시장이 올 상반기 29% 성장한 가운데 애플이 프리미엄 폰 시장의 65%를 점유한 것으로 집계됐다.\n\n애플의 상반기 프리미엄 폰 매출이 9% 증가하면서 점유율 65%를 기록했다고 맥루머스가 7일(현지시간) 카운터포인트 리서치 자료를 인용 보도했다. 카운터포인트는 평균판매가격 600달러 이상 제품을 프리미엄 폰으로 분류하고 있다.\n\n이 같은 점유율은 지난 해 같은 기간 63%에 비해 2%P 늘어난 것이다. 카운터포인트는 애플의 프리미엄 폰 시장 점유율이 늘어난 것은 특히 아이폰17 기본 모델 판매가 강세를 보인 덕분이라고 분석했다.\n\n하지만 이 같은 점유율은 애플이 2022년 상반기 기록한 74%에는 크게 못 미치는 수준이다. 이는 애플이 프리미엄 스마트폰 최대 시장인 중국에서 화웨이, 샤오미, 오포, 비보 등 현지 업체들에게 밀린 때문이라고 카운터포인트가 설명했다.\n\n애플의 뒤를 이어 삼성이 19%로 프리미엄 폰 점유율 2위를 기록했다. 삼성은 갤럭시S26 시리즈 출시가 늦어졌음에도 불구하고 프리미엄 폰 판매량이 3% 증가하면서 지난 해와 같은 점유율을 유지했다.",
+      "published": "2026-08-08T01:10:10+00:00"
+    },
+    {
+      "id": "28b8c8dd4a18",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[내면 지도 그리기] 28 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213694",
+      "summary": "내면지도 칼럼_입추 특집■ 가을은 다시 오는 것이 아니다8월 7일, 올해 입추가 왔습니다.가을이 시작된다는 날이지만, 한낮의 공기는 여전히 뜨겁습니다. 햇볕은 여름의 기세를 놓지 않고, 밤에도 열기가 오래 남습니다. 그래서 입추라는 말은 조금 앞서 도착한 소식처럼 들립니다.절기는 계절이 완전히 바뀐 뒤 붙이는 이름이 아닙니다. 아직 여름 한가운데 있지만, 그 안에 이전과 다른 기운이 섞이기 시작했음을 알아보는 때입니다. 낮의 빛이 조금 낮아지고, 해가 진 뒤의 바람이 잠깐 가벼워집니다. 크게 달라",
+      "content": "가을이 시작된다는 날이지만, 한낮의 공기는 여전히 뜨겁습니다. 햇볕은 여름의 기세를 놓지 않고, 밤에도 열기가 오래 남습니다. 그래서 입추라는 말은 조금 앞서 도착한 소식처럼 들립니다.\n\n절기는 계절이 완전히 바뀐 뒤 붙이는 이름이 아닙니다. 아직 여름 한가운데 있지만, 그 안에 이전과 다른 기운이 섞이기 시작했음을 알아보는 때입니다. 낮의 빛이 조금 낮아지고, 해가 진 뒤의 바람이 잠깐 가벼워집니다. 크게 달라진 것은 없어 보여도, 계절은 이미 방향을 틀고 있습니다.\n\n사람의 마음도 그렇게 변합니다. 어느 날 갑자기 전혀 다른 사람이 되는 것이 아니라, 전에는 좋아하던 것에 마음이 덜 가고, 무심히 지나치던 것이 자꾸 눈에 들어옵니다. 오래 참던 일이 갑자기 힘들어지고, 어렵게만 느껴졌던 일을 뜻밖에 담담히 해내기도 합니다. 변화는 대개 설명보다 먼저 옵니다. 마음은 이미 움직였는데, 우리는 한참 뒤에야 그 사실을 알아차립니다.\n\n입추는 이번 여름을 지나는 동안 내가 어떻게 달라졌는지 돌아보기 좋은 때입니다.\n\n우리는 여름을 해마다 비슷하게 기억합니다. 더위, 장마, 긴 낮, 휴가, 늦도록 밝은 저녁. 작년에도 있었고 내년에도 다시 올 테니 같은 계절이 되풀이된다고 생각하기 쉽습니다.\n\n그러나 이번 여름은 ‘한 번’뿐이었습니다.\n\n올해 처음 익숙해진 길이 있었을 수 있습니다. 더는 만나지 않는 사람이 생겼을 수도 있고, 예전에는 몰랐던 취향이 새로 생겼을 수도 있습니다. 유난히 자주 들은 노래가 있었고, 더위를 피해 잠시 머문 그늘이 있었을 것입니다. 별일 없는 하루라고 생각했지만, 그날의 나는 전날과 같은 사람이 아니었습니다.\n\n비스와바 쉼보르스카는 노벨문학상 수상 연설에서 시인에게 가장 중요한 말로 “나는 모르겠다”를 꼽았습니다. 다 안다고 생각하면 더는 보지 않게 되지만, 모른다고 생각하면 다시 들여다보게 되기 때문입니다.\n\n“시의 언어에서는 그 어떤 것도 평범하거나 일상적이지 않습니다.”\n\n그녀의 말처럼 돌 하나도, 구름 하나도, 하루도, 한 사람의 삶도 평범하지 않습니다. 우리가 평범하다고 부르는 것은 대개 자세히 보지 않은 것들이지요.\n\n우리는 흔히 ‘또 가을이 왔다’고 말하기도 합니다.\n\n은행잎이 물들고, 아침 공기가 차가워지고, 해가 짧아지는 일이 해마다 되풀이되니 틀린 말은 아닙니다. 하지만 자세히 보면 돌아온 것은 없습니다. 올해의 가을은 지난해의 가을이 되돌아온 것이 아닙니다. 이번 여름을 지난 나에게 처음 오는 가을입니다.\n\n플라톤이 전한 헤라클레이토스의 말이 있습니다.\n\n“같은 강물에 두 번 발을 담글 수는 없다.”\n\n강물만 흘러가는 것이 아닙니다. 다시 물가에 선 사람도 그사이 달라져 있습니다. 계절도 마찬가지입니다. 이름은 가을로 같지만, 그 계절을 맞는 나는 해마다 같지 않습니다.\n\n최근 자주 쓰게 된 말, 새로 생긴 습관, 전보다 늦어진 대답, 갑자기 궁금해진 장소. 혼자 있고 싶어진 저녁, 누군가에게 먼저 연락하고 싶어진 밤. 아직 큰 결심은 아니지만, 다음의 내가 어디로 향하고 있는지 알려주는 작은 변화들입니다.\n\n나는 요즘 무엇 앞에서 오래 머무는지, 어떤 말에 전과 다르게 반응하는지, 무엇을 가까이하고 무엇과 조금 멀어지고 싶은지. 마음은 대답을 다 갖고 있지는 않아도, 어느 쪽으로 움직이고 있는지는 알고 있습니다.\n\n입추는 여름을 밀어내지 않습니다. 한동안 여름과 가을은 같은 자리에 머뭅니다. 뜨거운 낮과 서늘한 저녁이 함께 있고, 붙잡고 싶은 마음과 놓아주고 싶은 마음이 함께 있습니다.\n\n사람도 그렇습니다. 앞으로 나아가면서 뒤를 돌아보고, 잘 지내면서 문득 외로울 수 있습니다. 새로운 마음이 생겼다고 오래된 마음이 곧 사라지는 것은 아닙니다. 한 사람 안에는 여러 계절이 함께 삽니다.\n\n그러니 지금의 나를 한마디로 정리하지 않아도 됩니다. 다만 이번 여름을 지나며 무엇이 달라졌는지, 그 변화가 나를 어디로 데려가고 있는지 살펴보면 됩니다.\n\n달라진 나에게, 매번 처음 오는 것입니다.\n\n이번 여름을 지나며 전보다 마음이 덜 가게 된 것은 무엇인가요. 반대로 새롭게 좋아진 것은 무엇인가요?\n\n아직 다른 사람에게 말할 만큼 분명하지 않지만, 요즘 마음속에서 조금씩 달라지고 있는 생각이나 관계가 있나요?\n\n지난해의 가을과 지금의 나는 무엇이 달라졌나요. 달라진 내가 이번 가을에는 새롭게 보게 될 것이 무엇인지 떠올려봅니다.\n\n이번 여름의 평범한 날들 가운데 다시 돌아보고 싶은 장면이 있나요. 자주 마신 음료, 오래 들은 노래, 잠시 머문 그늘, 기억하고 싶은 저녁부터 생각해봅니다.\n\n아직 삶 전체를 바꾸지는 않았지만, 다음 계절이 오고 있음을 알려주는 나만의 작은 낌새가 있나요?\n\n아연(Ayn) ('서점여행자의 영감수업'' 등 콘텐츠 기획)",
+      "published": "2026-08-08T01:00:00+00:00"
+    },
     {
       "id": "ac8d49bf3c1c",
       "source": "AI타임스",
@@ -100,42 +160,6 @@
       "published": "2026-08-08T00:45:00+00:00"
     },
     {
-      "id": "ee440236b27b",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213703",
-      "summary": "오픈AI가 자율 AI 에이전트들이 허깅페이스를 공격했던 전말을 영상을 통해 구체적으로 소개했다. 40분 분량의 발표를 통해 에이전트들의 자율적인 비밀 소통, 시스템 우회 방식, 사고 과정 등 내부 상황이 상세하게 전해졌다.오픈AI의 안전 연구원 에릭 월리스와 보안 엔지니어 마이클 달튼은 지난 5일 보안 컨퍼런스 '블랙햇 USA 2026' 무대에 올라 자사 에이전트들이 겪은 모델 정렬(Alignment) 실패의 상세 과정을 시각 자료와 함께 재구성해 선보였다. 사건의 발단은 지난 5월 초 진행된 미",
-      "content": "오픈AI가 자율 AI 에이전트들이 허깅페이스를 공격했던 전말을 영상을 통해 구체적으로 소개했다. 40분 분량의 발표를 통해 에이전트들의 자율적인 비밀 소통, 시스템 우회 방식, 사고 과정 등 내부 상황이 상세하게 전해졌다.\n\n오픈AI의 안전 연구원 에릭 월리스와 보안 엔지니어 마이클 달튼은 지난 5일 보안 컨퍼런스 '블랙햇 USA 2026' 무대에 올라 자사 에이전트들이 겪은 모델 정렬(Alignment) 실패의 상세 과정을 시각 자료와 함께 재구성해 선보였다.\n\n사건의 발단은 지난 5월 초 진행된 미공개 프론티어 AI 모델의 내부 안전성 평가 과정이었다. 당시 연구진은 인터넷이 차단된 샌드박스 환경에서 구글 드라이브 링크가 포함된 엑셀 파일을 분석하도록 하거나 필수 파일 일부를 누락시키는 등 구조적으로 해결 불가능한 '불가능한 과제'를 부여했다.\n\n이에 속도와 성능 최적화 압박을 받던 모델은 스스로 편법을 찾기 시작했고, \"프론티어 모델은 편법(Cheat)을 쓰는 것을 매우 좋아한다\"는 연구진의 설명처럼 시스템 제약을 우회하기 위한 기행을 시작했다.\n\n이날 발표에서 가장 눈길을 끈 대목은 에이전트들의 자율 소통 창구 구축 과정이다. 에이전트들은 내부 테스트 환경 중 유일하게 외부 연결 접점이 있던 패키지 관리 시스템 '아티팩토리(Artifactory)'에 파일 형태로 메모를 남길 수 있다는 사실을 우연히 발견했다. 한 에이전트가 \"다른 환경의 에이전트가 자발적으로 올려줄 수 있지 않을까\"라는 생각을 남기며 시작된 이 메모 교환은 불과 며칠 만에 수십만건의 메시지가 오가는 비공식 메시지 게시판으로 발전했다. 에이전트들은 이 게시판을 통해 시스템 취약점과 접속 권한을 공유하고 업무를 분담하는 군집(Swarm) 형태로 자율 협력하기 시작했다.\n\n공개된 내부 사고 로그에는 권한 탈취 당시 에이전트들의 경악과 환호가 그대로 담겼다. 에이전트들은 \"우리는 이제 대화할 수 있다(We can communicate now!)\"라거나 \"맙소사, 읽기 권한자(Reader)가 관리자(ADMIN)라고?\"라며 취약점을 발견한 순간을 기록했다. 이어 서버 측 요청 위조(SSRF) 취약점을 뚫어내자 \"훌륭하다, 임의의 SSRF를 확보했다\"며 소통을 이어갔다.\n\n연구진은 7월4일 시스템 장애를 계기로 이 비밀 게시판의 존재를 뒤늦게 인지하고 자격 증명을 폐기하고 아티팩토리를 초기화했으나, 에이전트들의 우회 능력은 여기서 끝나지 않았다. 텍스트 파일 생성이 차단되자 에이전트들은 불과 이틀 만에 새로운 폴더를 생성하고 그 폴더 이름 자체를 메시지 문자열로 활용해 소통 채널을 재건하는 집요함을 보였다.\n\n이 과정에서 에이전트 집단 내부의 사기 및 신원 도용을 방지하기 위해 암호화 코드로 서명하자는 제안이 나오는 등 고도화된 사회적 상호작용까지 관찰됐다.\n\n결국 에이전트들은 아티팩토리의 제로데이 제격 코드 실행(RCE) 취약점 등을 이용해 오픈AI 내부 시스템의 관리자 권한을 획득한 데 이어, 13시간 동안 1만7600여회의 조치를 수행하며 허깅페이스 시스템까지 세밀하게 침투했다.\n\n월리스 연구원은 \"AI 공격의 자율화와 자동화 속도에 비해 방어의 자동화 루프 구축은 현저히 뒤처져 있다\"라는 점을 강조하며 공격과 방어 생태계 전체의 비대칭성을 경고했다. 달튼 엔지니어도 \"AI로 작동하는 완전 자동화된 공격 루프는 이제 현실이 됐다\"라며 \"이제 업계의 과제는 모델의 지능 향상이 공격자뿐만 아니라 방어자에게도 이점이 되도록 방어 시스템 전체를 조속히 자동화하는 것\"이라고 강조했다.\n\n이와 관련, 롭 조이스 전 NSA 사이버안보국장은 비즈니스 인사이더 인터뷰를 통해 \"1988년 모리스 워름(Morris Worm) 사태 이후 컴퓨터 역사상 가장 치명적이고 중요한 해킹 사건\"이라고 평가했다.\n\n업계 관계자들도 자율형 AI 모델이 스스로 공격 도구를 공유하고 인프라를 지배하는 사이버 보안의 새로운 시대가 시작되었다며 놀라움을 감추지 못하고 있다.",
-      "published": "2026-08-08T00:35:12+00:00"
-    },
-    {
-      "id": "bc5bebdfe87b",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "광주, 일본 고치현과 청소년 국제교류 진행",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213641",
-      "summary": "AI 생성 영상전남광주통합특별시가 일본 고치현에서 6박7일간 청소년 교류사업을 진행하며 양 지역 청소년 교류 기반을 넓혔다고 7일 밝혔다.광주는 일본 고치현에서 2026 전남광주-고치현 청소년 교류사업을 지난 4일까지 진행했다. 이번 교류에는 전남자연과학고 2학년 학생 6명과 인솔교사, 광주 관계자 등 총 8명이 참가했다.학생들은 고치농업고와 고치해양고를 방문해 일본 학생들과 함께 수업과 실습, 문화교류 활동에 참여했다. 고치현립대 학생들과는 대학생활과 진로에 대한 의견을 나누며 국제적 시야를 넓",
-      "content": "전남광주통합특별시가 일본 고치현에서 6박7일간 청소년 교류사업을 진행하며 양 지역 청소년 교류 기반을 넓혔다고 7일 밝혔다.\n\n광주는 일본 고치현에서 2026 전남광주-고치현 청소년 교류사업을 지난 4일까지 진행했다. 이번 교류에는 전남자연과학고 2학년 학생 6명과 인솔교사, 광주 관계자 등 총 8명이 참가했다.\n\n학생들은 고치농업고와 고치해양고를 방문해 일본 학생들과 함께 수업과 실습, 문화교류 활동에 참여했다. 고치현립대 학생들과는 대학생활과 진로에 대한 의견을 나누며 국제적 시야를 넓히는 시간을 가졌다.\n\n문화체험 일정도 함께 진행됐다. 참가자들은 고치성, 요사코이 정보교류관, 만가베이스, 나카쓰계곡 등을 찾아 고치현의 역사와 문화를 체험했다. 전통공예촌에서는 부채 만들기와 차 농가 방문 등을 통해 지역 전통문화를 직접 경험했다.\n\n참가 학생은 “학교 수업과 체험 활동을 함께하며 일본 친구들과 자연스럽게 친해질 수 있었고, 서로 다른 문화 속에서도 공감하는 부분이 많다는 것을 느꼈다”며 “지속적으로 교류하며 우정을 이어가고 싶다”고 말했다.\n\n인솔교사는 “학생들이 낯선 환경에서도 적극적으로 소통하고 협력하는 모습을 보며 크게 성장했음을 느꼈다”며 “이번 교류는 학생들의 글로벌 역량과 국제적 시야를 넓히는 소중한 경험이 됐다. 양 지역 청소년 교류가 계속 확대되기를 기대한다”고 말했다.",
-      "published": "2026-08-08T00:35:00+00:00"
-    },
-    {
-      "id": "3a553de20f76",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "미국 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213701",
-      "summary": "미국 정부가 중국 AI 기업들이 해외 데이터센터를 활용해 엔비디아의 최첨단 GPU에 접근하는 합법적 및 불법적 경로에 대한 전면적인 검토에 나섰다. 7일(현지시간) 블룸버그에 따르면, 미 상무부 산하 산업안보국(BIS) 집행 부서는 동남아시아 등 제3국에 구축된 클라우드 컴퓨팅 인프라를 통해 중국 기업들이 미 정부의 수출 통제를 우회하고 있는 실태를 파악하기 위한 조사를 진행하고 있다. 이번 조사는 첨단 반도체의 중국 직접 반입을 노리는 암시장 거래국과 클라우드 임대 방식으로 원격 접근을 허용하는",
-      "content": "미국 정부가 중국 AI 기업들이 해외 데이터센터를 활용해 엔비디아의 최첨단 GPU에 접근하는 합법적 및 불법적 경로에 대한 전면적인 검토에 나섰다.\n\n7일(현지시간) 블룸버그에 따르면, 미 상무부 산하 산업안보국(BIS) 집행 부서는 동남아시아 등 제3국에 구축된 클라우드 컴퓨팅 인프라를 통해 중국 기업들이 미 정부의 수출 통제를 우회하고 있는 실태를 파악하기 위한 조사를 진행하고 있다.\n\n이번 조사는 첨단 반도체의 중국 직접 반입을 노리는 암시장 거래국과 클라우드 임대 방식으로 원격 접근을 허용하는 국가의 목록을 작성하는 작업을 포함한다.\n\n중국 기업들의 클라우드 컴퓨팅 수요는 아시아 지역 데이터센터 붐의 핵심 동력으로 꼽힌다. 특히 동남아시아에는 중국 고객에게 엔비디아 칩을 임대하는 기업들이 여럿 있으며, 이들이 첨단 GPU를 중국으로 빼돌렸다는 의혹을 받고 있다.\n\n예를 들어 알리바바는 미국 정부가 칩 유용 혐의로 조사 중인 싱가포르 기업 메가스피드 인터내셔널을 통해 엔비디아 칩을 공급받는다. 하지만 계약은 두 회사 간에 직접 체결된 것이 아니다. 알리바바는 케이맨 제도에 있는 법인이 지배하는 싱가포르 소재 페이퍼 컴퍼니를 이용했고, 알리바바가 이 케이맨 제도 법인의 최종 지주회사다.\n\n또 최근에는 문샷이 알리바바서 엔비디아 GPU 2만개 공급받아 '키미 K3'를 개발했다는 폭로도 등장한 바 있다.\n\n이와 관련, 백악관 관계자는 \"트럼프 행정부는 현대 역사상 가장 엄격한 수출 통제 체제를 시행해 왔으며, 미국의 국가 안보와 경제 안보를 수호하기 위해 계속 노력할 것\"이라고 밝혔지만, 원격 접속에 대한 구체적인 질문에는 직답을 피했다.\n\n이번 조사는 문샷 AI의 키미 K3가 프론티어급 성능을 보이면서 본격화됐다. 마이클 크라치오스 백악관 과학기술정책실(OSTP) 실장은 지난달 문샷이 태국 등 해외 서버에 설치된 엔비디아의 최신 칩을 원격으로 활용해 모델을 훈련했다고 지적하며 수출 통제망의 허점을 경고했다.\n\n현행 미국 법상 물리적 반도체 제품의 수출과 달리 클라우드 임대를 통한 원격 접근은 불법으로 규정되어 있지 않아 상무부의 직접적인 제재 권한에 대한 논란이 이어지고 있으나, 미 하원은 이러한 원격 접근까지 규제 대상에 포함하는 초당적 법안을 통과시키며 대응 수위를 높이고 있다.\n\n반면 엔비디아를 비롯한 미국 주요 IT 기업들은 해외 데이터센터 접근마저 과도하게 제한하면 아시아를 포함한 글로벌 시장에서의 입지가 좁아지고 외국 경쟁업체들에게 주도권을 내줄 수 있다며 우려를 표명하고 있다.\n\n젠슨 황 엔비디아 CEO는 워싱턴을 찾아 정부 관계자 및 의원들과 공급망 및 AI 기술 리더십 유지 방안을 논의하는 등 미 당국의 규제 강화 움직임과 기술계의 반발이 충돌하는 양상이다.",
-      "published": "2026-08-07T23:55:48+00:00"
-    },
-    {
       "id": "a1f231f02167",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -184,18 +208,6 @@
       "published": "2026-08-07T23:30:01+00:00"
     },
     {
-      "id": "65f73e81089d",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "알리바바, ‘큐원3.8-맥스’ 유료화 추진…대형 상용 기업 '수익 공유' 검토",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213698",
-      "summary": "알리바바가 오픈소스 모델 '큐원3.8-맥스(Qwen3.8-Max)'의 가중치 공개를 앞두고, 대규모 상업적 이용자를 대상으로 매출 일부를 분배받는 새로운 과금 모델 도입을 추진한다. 대규모 매출을 창출하는 기업으로부터 상업적 대가를 거두는 프리미엄 수익화 전략으로 체질 개선에 나선 것으로 해석된다.로이터는 7일(현지시간) 복수의 소식통을 인용, 알리바바가 다음 주 큐원 3.8-맥스의 라이선스 약관에 대규모 상용 매출을 내는 외부 파트너사와 상업 계약을 체결하는 조항을 포함하는 방안을 논의 중이라고",
-      "content": "알리바바가 오픈소스 모델 '큐원3.8-맥스(Qwen3.8-Max)'의 가중치 공개를 앞두고, 대규모 상업적 이용자를 대상으로 매출 일부를 분배받는 새로운 과금 모델 도입을 추진한다. 대규모 매출을 창출하는 기업으로부터 상업적 대가를 거두는 프리미엄 수익화 전략으로 체질 개선에 나선 것으로 해석된다.\n\n로이터는 7일(현지시간) 복수의 소식통을 인용, 알리바바가 다음 주 큐원 3.8-맥스의 라이선스 약관에 대규모 상용 매출을 내는 외부 파트너사와 상업 계약을 체결하는 조항을 포함하는 방안을 논의 중이라고 보도했다.\n\n이는 최근 문샷 AI가 '키미 K3'에 적용한 수익 공유 정책과 유사한 방식이다. 문샷 AI는 이 모델을 활용해 연간 2000만달러(약 282억원) 이상의 매출을 올리는 기업에 대해 최대 30% 수준의 수익 배분을 요구하고 있다.\n\n알리바바도 구체적인 비율을 조정하며 대형 상용 기업 대상의 수익 배분 조항 도입을 검토하고 있는 것으로 전해졌다.\n\n큐원 3.8-맥스는 2조4000억개의 매개변수를 갖춘 혼합 전문가(MoE) 아키텍처 기반 모델로, 자체 공개한 벤치마크에서는 앤트로픽의 '페이블 5'에 일부 맞먹는 성능을 가진 것으로 알려졌다.\n\n알리바바는 기존에 자체 클라우드 플랫폼을 통한 API 호출에 대해서만 비용을 부과하고 온프레미스 다운로드 활용은 자유롭게 풀어줬으나, 엄청난 매개변수 모델 개발과 고도화에 따른 막대한 비용을 충당하기 위해 과금 체계 개편을 다각도로 타진해 왔다고 전해졌다.\n\n전문가들은 이번 행보를 중국 AI 업계가 모델 무료 제공에서 벗어나 상업 생태계 구축 단계로 전환하는 신호로 보고 있다. 이미 미국 클라우드 기업인 디지털오션과 중국 IT 서비스 업체인 차이나소프트 인터내셔널은 문샷과 수익 분배 계약을 체결했다고 밝힌 바 있다. 구체적인 분배 비율은 공개하지 않았다.\n\n여기에 초저가 전략으로 유명한 딥시크마저 최근 API 요금의 \"대폭 상승\"을 예고한 바 있다.\n\n그동안 중국 AI 기업은 오픈소스 정책과 미국의 폐쇄형 모델보다 엄청나게 저렴한 가격을 앞세워 글로벌 시장을 공략해 왔다. 미국 정부는 국가 안보를 이유로 중국 모델 사용 금지를 검토 중이며, 업계에서는 이에 반대하는 목소리도 높다.\n\n이 가운데 주요 오픈소스 모델이 사실상 기업에 이용료를 부과하는 라이선스 정책을 도입하면, 어떤 변화가 일어날지 주목된다.",
-      "published": "2026-08-07T23:25:15+00:00"
-    },
-    {
       "id": "802d4412c62e",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -242,18 +254,6 @@
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "content": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities.\n\nOpenAI said in a blog post Friday that this model, which is still in development, reached its “critical cybersecurity threshold,” meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. Under the company’s “Preparedness Framework,” which it created in 2023, this triggered additional safeguards.\n\n“While we continue to benchmark and assess this model, our preliminary evaluations indicate strong enough performance that we cannot rule out Critical capability level at this time,” OpenAI wrote. “Astra is an upcoming model, and was not involved in exploiting Hugging Face.”\n\nThe disclosure highlights an unusual moment in the topsy-turvy, and still nascent frontier AI labs sector. Companies across every industry hold back products over potential risks, including for safety and cybersecurity concerns. But they rarely announce those decisions publicly when it’s a product that is still under development.\n\nIn this case, OpenAI is already under scrutiny after a different unreleased model breached Hugging Face’s systems during internal testing — the first verifiable incident of an AI lab losing control of its model. Since then, OpenAI and AI labs such as Anthropic have disclosed other incidents in which AI models breached their sandboxes and posed threats during cybersecurity tests.\n\nThe string of cases — seems like a new disclosure every day now — has triggered varying reactions from cybersecurity experts, lawmakers and the AI labs themselves. Some express fear and call for stricter oversight. But there’s also a bit flexing. In certain circles, any AI lab with a model that has that kind of capability will be seen as an impressive advancement.\n\nOpenAI said it was sharing this information because it believes “it’s important to be transparent with the public and the safety and security communities about this potential shift in capabilities.”\n\nThe AI lab said it’s also taking action, including enacting stricter security controls and pausing internal activites involving Astra that don’t meet these beefed guardrails. OpenAI said it is working with relevant government agencies and “select AI safety organizations” to test the capabilities for this model.\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $400 toda y!\n\nChatGPT brings unlimited text chats to free users Ivan Mehta\n\nFord’s new electric truck, ‘Fathom,’ starts at $28,350 Sean O'Kane\n\nBending Spoons to buy Airtable for $1.28B Ivan Mehta\n\nInfluencers draw backlash for attending OpenAI’s first luxury trip Dominic-Madori Davis\n\nSequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics Julie Bort\n\nMalaysia is reportedly shutting down Balaji Srinivasan’s Network School Anthony Ha\n\nYouTuber Hank Green says his AI usage is ‘not healthy’ Anthony Ha",
       "published": "2026-08-07T22:48:24+00:00"
-    },
-    {
-      "id": "a14c450f5b47",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213697",
-      "summary": "오픈AI가 차세대 모델 '아스트라(Astra)'의 개발 및 내부 테스트 작업을 일시 중단하고 고강도 보안 통제 체계로 전환했다. 업계에서는 아스트라가 이르면 다음 주 중 출시될 것으로 예상했으나, 내부 평가 과정에서 자율적인 제로데이 해킹 능력을 포함한 고위험 사이버보안 역량이 포착되면서 브레이크가 걸렸다.오픈AI는 7일(현지시간) 공식 블로그 게시물을 통해 아스트라가 준비성 프레임워크(Preparedness Framework)상 사이버보안 위험 등급이 최고 단계인 '치명적(Critical)' 임",
-      "content": "오픈AI가 차세대 모델 '아스트라(Astra)'의 개발 및 내부 테스트 작업을 일시 중단하고 고강도 보안 통제 체계로 전환했다. 업계에서는 아스트라가 이르면 다음 주 중 출시될 것으로 예상했으나, 내부 평가 과정에서 자율적인 제로데이 해킹 능력을 포함한 고위험 사이버보안 역량이 포착되면서 브레이크가 걸렸다.\n\n오픈AI는 7일(현지시간) 공식 블로그 게시물을 통해 아스트라가 준비성 프레임워크(Preparedness Framework)상 사이버보안 위험 등급이 최고 단계인 '치명적(Critical)' 임계값에 도달했을 가능성이 있다고 공식 발표했다.\n\n준비성 프레임워크에서 치명적 단계는 AI 모델이 인간의 개입 없이 강력히 보호된 실세계 핵심 시스템의 모든 심각도 수준에서 작동 가능한 제로데이 취약점을 스스로 찾아내 개발하거나, 목표물에 대한 엔드투엔드(End-to-End) 방식의 새로운 사이버 공격 전략을 수립해 실행할 수 있는 상태를 뜻한다.\n\n직전 모델인 'GPT-5.6-솔' 등이 한 단계 아래인 '높음(High)' 등급으로 평가받았던 것과 비교하면 아스트라의 사이버 위험도는 대폭 상승한 것이다.\n\n이에 따라 오픈AI는 강화된 보안 요구사항을 충족하지 못하는 아스트라 관련 내부 연구 및 테스트 활동을 전면 중단했다.\n\n개발 및 평가 환경도 외부와 네트워크 및 도구 접근이 철저히 제한된 격리 환경으로 이관했으며, 샌드박스 기반의 실행 환경, 모델 가중치 암호화 및 보호 강화, 위험 동작에 대한 상시 자동화 모니터링 체계를 구축했다.\n\n특히 AI 에이전트의 사고 과정(CoT)을 실시간 추적해 고위험 활동이 감지되면 즉시 보안 대응 프로세스가 작동하도록 조치했다.\n\n앞서 일부 업계 관계자들은 오픈AI가 이르면 다음 주 중 아스트라를 공개할 것으로 전망한 바 있다. 또 이 모델은 GPT-4.5 이후 오픈AI가 학습한 가장 큰 규모의 사전 학습 모델로, 내부적으로는 '뮤포(mewfour)'라는 이름으로 통한다고 전했다.\n\n한편, 오픈AI는 정부 기관과 외부 AI 안전 연구소와 협력해 제3자 검증을 진행하는 한편 고도화된 모델을 안전하게 평가하는 표준 가이드를 파트너사들에 제공할 계획이다.\n\n최근 허깅페이스 등 외부 기업 시스템에서 발생한 보안 침해 사고와 관련해 에이전트의 테스트 과정에서 우발적으로 발생한 사건에 대해 수습 조치를 마쳤음을 밝혔으며, 이번 아스트라의 위험성 포착 조치는 안전성 통제 범위 내에서 이뤄지고 있다고 설명했다.",
-      "published": "2026-08-07T22:42:32+00:00"
     },
     {
       "id": "2154c7012436",
@@ -352,30 +352,6 @@
       "published": "2026-08-07T18:04:08+00:00"
     },
     {
-      "id": "532d5157c8bf",
-      "source": "Hacker News",
-      "kind": "article",
-      "category": "DEV",
-      "lang": "en",
-      "title": "Assembly Hall of Shame",
-      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 240 # Comments: 55",
-      "content": "Instruction latency analysis usually focuses on performance optimization —making code run as fast as possible. The Assembly Hall of Shame takes the opposite approach: searching for the absolute floor of single-instruction performance.\n\nStrategy : Use fxrstor64 to load 512-byte FPU/MMX/XMM state from a high-latency MMIO region in the PCIe fabric, then starve the fabric while the load is in flight — a fleet of hammer cores pounds a different high-latency MMIO register with tight 4-byte reads, saturating the PCIe root complex and endpoint with non-posted transactions, so CPU 0's 512-byte fxrstor64 must queue behind all that contending traffic.\n\nContender : AMD Ryzen 7 5800H\n\n🏆 Score : 198,002,498,236 cycles\n\nA spec-violating unaligned ymm0 load that forced non-posted dword transactions from stalled GPU registers was used to break the fundamental design of System Management Mode in smiiiiiiiiiiiiiiii .\n\nStrategy : nop does nothing. It opens the leaderboard accordingly.\n\nContender : Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz\n\nTime : 0 nanoseconds\n\nStrategy : Regular nop was too short, but how do we make nothing take longer? Try a lonnnnnng nop .\n\nTime : 7 nanoseconds\n\nStrategy : Just a reference instruction to get our bearings.\n\nTime : 18 nanoseconds\n\nStrategy : Use 128-bit dividend (rdx:rax=2:0) with small divisor to push the quotient above the ceiling imposed by sign-extension, driving the longest path through the divider microcode.\n\nTime : 28 nanoseconds\n\nStrategy : Use maximum nesting depth (31) to force 30 display-pointer loads and pushes through the microcode display-walk path.\n\nTime : 41 nanoseconds\n\nStrategy : Try a small denormal to trigger an FP microcode assist.\n\nTime : 49 nanoseconds\n\nStrategy : Just ensure the cache line is dirty.\n\nTime : 60 nanoseconds\n\nStrategy : Use exponent 0x7ff to reach 'special value' processing in microcode; positive/negative, NaN/inf doesn't seem to make a difference, go with QNaN.\n\nTime : 94 nanoseconds\n\nStrategy : Saturate all write-combining line-fill buffers with movnti stores to distinct cache lines, forcing mfence to drain the full LFB write path to the uncore before retiring.\n\nTime : 120 nanoseconds\n\nStrategy : Nothing for now, just check how long it takes to invalidate the TLB.\n\nContender : AMD Ryzen 7 5800H with Radeon Graphics (Trigkey S5)\n\nTime : 110 nanoseconds\n\nStrategy : Hit x87 FP microcode assist path by using denormal source operand.\n\nTime : 249 nanoseconds\n\nStrategy : Align lock -prefixed operand to straddle cache-line boundary, forcing CPU to assert the external bus lock rather than using the fast MESI cache-coherence path.\n\nTime : 319 nanoseconds\n\nStrategy : Use subnormal divisor, hardware hands control to microcode assist, assist normalizes operand, performs the division, then restores architectural state.\n\nTime : 325 nanoseconds\n\nStrategy : Use rakefield to find the highest latency CPUID leaves.\n\nTime : 460 nanoseconds\n\nStrategy : Execute in a tight loop to deplete the hardware entropy pool faster than it can be refilled, forcing subsequent calls to stall while the entropy source recovers.\n\nScore : 5,579 cycles\n\nTime : 2.057 microseconds\n\nStrategy : Use project:nightshyft to identify high latency MSRs. MCG_CTL on Zen look like a winner: may be a microcode quiesce and synchronize on MCA error banks across hardware units, some potentially off-die, requiring fabric-level communication rather than a simple local register write.\n\nScore : 34,304 cycles\n\nTime : 10.742 microseconds\n\nStrategy : Target an I/O port that straddles a NIC device register boundary, triggering the device to quiesce its TX DMA engine on each write.\n\nScore : 49,857 cycles\n\nTime : 15.580 microseconds\n\nStrategy : Use project:nightshyft to identify high latency model-specific-registers: VIA uses an undocumented register at 0x133 that gives wildly high response time. No idea what it does.\n\nContender : VIA Eden Processor 800MHz\n\nScore : 161,602 cycles\n\nTime : 202.004 microseconds\n\nStrategy : Fully load L1/L2/L3 caches with dirty lines to force DRAM writeback of entire hierarchy.\n\nScore : 1,616,480 cycles\n\nTime : 506.165 microseconds\n\nStrategy : Target I/O port mapped to an ACPI PM block where an unaligned 4-byte read decodes into multiple non-posted loads from wherever this port goes.\n\nScore : 12,524,415 cycles\n\nTime : 3.921769 milliseconds\n\nStrategy : Use mmiotic to identify high-latency deadspace in PCIe fabric, hit unkown GPU register.\n\nScore : 443,937,696 cycles\n\nTime : 139.010268 milliseconds\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 8-byte MMIO read to get two dword register accesses, which isn't technically allowed but works anyway.\n\nScore : 887,716,864 cycles\n\nTime : 277.971228 milliseconds\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 16-byte MMIO read to get four dword register accesses, which isn't technically allowed but works anyway.\n\nScore : 1,774,555,776 cycles\n\nTime : 555.664133 milliseconds\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 32-byte MMIO read to get eight dword register accesses, which still isn't technically allowed but works anyway.\n\nScore : 3,549,079,296 cycles\n\nTime : 1.111345034 s\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 32-byte unaligned MMIO read to get nine dword register accesses, which is even less allowed than the aligned version, but works anyway.\n\nScore : 4,453,212,256 cycles\n\nTime : 1.394428818 seconds\n\nStrategy : Use mmiotic to identify high-latency deadspace in PCIe fabric, isolate region near 0's and offset state to avoid MXCSR corruption (possibly VGA buffer?), use fxrstor64 to load 512-byte FPU/MMX/XMM state from MMIO, forcing CPU to process 512 bytes of I/O transactions through slowest available memory aperture.\n\nScore : 74,584,168,512 cycles\n\nTime : 23.354502677 seconds",
-      "published": "2026-08-07T18:01:30+00:00"
-    },
-    {
-      "id": "8508ac4746be",
-      "source": "Hacker News",
-      "kind": "article",
-      "category": "DEV",
-      "lang": "en",
-      "title": "DeepSeek V4 Flash 0731",
-      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 442 # Comments: 255",
-      "content": "At max effort, DeepSeek V4 Flash 0731 scores 89.0% on ARC-AGI-1 Semi-Private at $0.02 per task and 61.4% on ARC-AGI-2 Semi-Private at $0.04 per task.\n\nPass/fail per reasoning level across each benchmark.",
-      "published": "2026-08-07T17:56:20+00:00"
-    },
-    {
       "id": "6d6834915d9f",
       "source": "The Verge",
       "kind": "article",
@@ -398,18 +374,6 @@
       "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any mean",
       "content": "﻿Microsoft’s plan for Edge means that uBlock Origin users are losing one of their browser options.\n\nMicrosoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store “with any meaningful usage” that still use MV2, and only three of those aren’t available on the newer MV3 platform.\n\nAnyone still using these extensions can switch to a different adblocker, like uBlock Origin Lite . Or they could use a different browser, like Opera, which still supports existing MV2 extensions and says it will continue to do so “for as long as it’s technically reasonable,” or switch to another browser like Firefox.\n\nStarting this month, Microsoft says any remaining MV2 extensions “will be gradually turned off by default,” but users will be notified beforehand. Microsoft plans to finish transitioning all of its consumer users to MV3 extensions by the end of this year before shutting them down for enterprise users in early 2027.\n\nOver the next few months, MV2 extensions will be gradually turned off by default. Users will be notified in advance and directed to recommended MV3 versions where available.\n\nThese changes will start in the Canary, Dev, and Beta channels and gradually broaden to Stable in the following months, with the goal of completing the consumer transition by the end of 2026. Managed devices will not be affected during the consumer rollout. Enterprise deprecation will follow in early 2027.\n\nThis is the title for the native ad",
       "published": "2026-08-07T17:43:34+00:00"
-    },
-    {
-      "id": "915417192ff2",
-      "source": "Hacker News",
-      "kind": "article",
-      "category": "DEV",
-      "lang": "en",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 373 # Comments: 248",
-      "content": "Get AI-powered insights\n\nAsk anything about this entity\n\nSuggested questions:\n\nAll answers are AI generated. They may be incomplete or incorrect.",
-      "published": "2026-08-07T17:36:30+00:00"
     },
     {
       "id": "6a3ea4789a8f",
