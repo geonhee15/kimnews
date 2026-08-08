@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-08T11:34:36.671076+00:00",
-  "count": 8587,
+  "updated_at": "2026-08-08T12:00:52.095255+00:00",
+  "count": 8592,
   "items": [
+    {
+      "id": "d3513ced1fd7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "published": "2026-08-08T12:00:00+00:00",
+      "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows l"
+    },
+    {
+      "id": "72b6bc5bed21",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My favorite feel-good show is back",
+      "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "published": "2026-08-08T12:00:00+00:00",
+      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google"
+    },
+    {
+      "id": "bab2b7664174",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "published": "2026-08-08T11:30:48+00:00",
+      "summary": "About 90 percent of the distance driven by Perseverance has been autonomous."
+    },
+    {
+      "id": "2a91e294a781",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "published": "2026-08-08T11:05:50+00:00",
+      "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data."
+    },
+    {
+      "id": "f971a9da5799",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] \"LLM 키울 데이터가 없다\"…中 AI, 중국어 부족에 비상등",
+      "link": "https://zdnet.co.kr/view/?no=20260808194326",
+      "published": "2026-08-08T10:46:45+00:00",
+      "summary": "[지디넷코리아]중국 인공지능(AI) 기업들이 고품질 학습 데이터 확보에 비상이 걸렸다. 온라인에서 활용할 수 있는 중국어 데이터가 제한적인 데다 공개 데이터 고갈 우려까지 커지면서 차세대 대규모언어모델(LLM) 개발을 위한 데이터 확보 부담도 높아지고 있다.8일 사우스차이나모닝포스트(SCMP)가 인용한 인터넷 통계업체 W3테크스(Techs) 자료에 따르면 이달 기준 전 세계 웹 콘텐츠에서 중국어가 차지하는 비중은 1.3% 수준이다. 영어는 전체의 절반에 가까운 비중을 차지했으며 스페인어와 독일어는"
+    },
     {
       "id": "b5f741b0d937",
       "source": "AI타임스",
