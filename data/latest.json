@@ -1,7 +1,7 @@
 {
   "issue_date": "2026-08-08",
-  "generated_at": "2026-08-08T03:00:28.277750+00:00",
-  "count": 37,
+  "generated_at": "2026-08-08T04:15:53.515190+00:00",
+  "count": 39,
   "items": [
     {
       "id": "caca2ac26226",
@@ -352,6 +352,30 @@
       "published": "2026-08-07T18:04:08+00:00"
     },
     {
+      "id": "532d5157c8bf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Assembly Hall of Shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 281 # Comments: 65",
+      "content": "Instruction latency analysis usually focuses on performance optimization —making code run as fast as possible. The Assembly Hall of Shame takes the opposite approach: searching for the absolute floor of single-instruction performance.\n\nStrategy : Use fxrstor64 to load 512-byte FPU/MMX/XMM state from a high-latency MMIO region in the PCIe fabric, then starve the fabric while the load is in flight — a fleet of hammer cores pounds a different high-latency MMIO register with tight 4-byte reads, saturating the PCIe root complex and endpoint with non-posted transactions, so CPU 0's 512-byte fxrstor64 must queue behind all that contending traffic.\n\nContender : AMD Ryzen 7 5800H\n\n🏆 Score : 198,002,498,236 cycles\n\nA spec-violating unaligned ymm0 load that forced non-posted dword transactions from stalled GPU registers was used to break the fundamental design of System Management Mode in smiiiiiiiiiiiiiiii .\n\nStrategy : nop does nothing. It opens the leaderboard accordingly.\n\nContender : Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz\n\nTime : 0 nanoseconds\n\nStrategy : Regular nop was too short, but how do we make nothing take longer? Try a lonnnnnng nop .\n\nTime : 7 nanoseconds\n\nStrategy : Just a reference instruction to get our bearings.\n\nTime : 18 nanoseconds\n\nStrategy : Use 128-bit dividend (rdx:rax=2:0) with small divisor to push the quotient above the ceiling imposed by sign-extension, driving the longest path through the divider microcode.\n\nTime : 28 nanoseconds\n\nStrategy : Use maximum nesting depth (31) to force 30 display-pointer loads and pushes through the microcode display-walk path.\n\nTime : 41 nanoseconds\n\nStrategy : Try a small denormal to trigger an FP microcode assist.\n\nTime : 49 nanoseconds\n\nStrategy : Just ensure the cache line is dirty.\n\nTime : 60 nanoseconds\n\nStrategy : Use exponent 0x7ff to reach 'special value' processing in microcode; positive/negative, NaN/inf doesn't seem to make a difference, go with QNaN.\n\nTime : 94 nanoseconds\n\nStrategy : Saturate all write-combining line-fill buffers with movnti stores to distinct cache lines, forcing mfence to drain the full LFB write path to the uncore before retiring.\n\nTime : 120 nanoseconds\n\nStrategy : Nothing for now, just check how long it takes to invalidate the TLB.\n\nContender : AMD Ryzen 7 5800H with Radeon Graphics (Trigkey S5)\n\nTime : 110 nanoseconds\n\nStrategy : Hit x87 FP microcode assist path by using denormal source operand.\n\nTime : 249 nanoseconds\n\nStrategy : Align lock -prefixed operand to straddle cache-line boundary, forcing CPU to assert the external bus lock rather than using the fast MESI cache-coherence path.\n\nTime : 319 nanoseconds\n\nStrategy : Use subnormal divisor, hardware hands control to microcode assist, assist normalizes operand, performs the division, then restores architectural state.\n\nTime : 325 nanoseconds\n\nStrategy : Use rakefield to find the highest latency CPUID leaves.\n\nTime : 460 nanoseconds\n\nStrategy : Execute in a tight loop to deplete the hardware entropy pool faster than it can be refilled, forcing subsequent calls to stall while the entropy source recovers.\n\nScore : 5,579 cycles\n\nTime : 2.057 microseconds\n\nStrategy : Use project:nightshyft to identify high latency MSRs. MCG_CTL on Zen look like a winner: may be a microcode quiesce and synchronize on MCA error banks across hardware units, some potentially off-die, requiring fabric-level communication rather than a simple local register write.\n\nScore : 34,304 cycles\n\nTime : 10.742 microseconds\n\nStrategy : Target an I/O port that straddles a NIC device register boundary, triggering the device to quiesce its TX DMA engine on each write.\n\nScore : 49,857 cycles\n\nTime : 15.580 microseconds\n\nStrategy : Use project:nightshyft to identify high latency model-specific-registers: VIA uses an undocumented register at 0x133 that gives wildly high response time. No idea what it does.\n\nContender : VIA Eden Processor 800MHz\n\nScore : 161,602 cycles\n\nTime : 202.004 microseconds\n\nStrategy : Fully load L1/L2/L3 caches with dirty lines to force DRAM writeback of entire hierarchy.\n\nScore : 1,616,480 cycles\n\nTime : 506.165 microseconds\n\nStrategy : Target I/O port mapped to an ACPI PM block where an unaligned 4-byte read decodes into multiple non-posted loads from wherever this port goes.\n\nScore : 12,524,415 cycles\n\nTime : 3.921769 milliseconds\n\nStrategy : Use mmiotic to identify high-latency deadspace in PCIe fabric, hit unkown GPU register.\n\nScore : 443,937,696 cycles\n\nTime : 139.010268 milliseconds\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 8-byte MMIO read to get two dword register accesses, which isn't technically allowed but works anyway.\n\nScore : 887,716,864 cycles\n\nTime : 277.971228 milliseconds\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 16-byte MMIO read to get four dword register accesses, which isn't technically allowed but works anyway.\n\nScore : 1,774,555,776 cycles\n\nTime : 555.664133 milliseconds\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 32-byte MMIO read to get eight dword register accesses, which still isn't technically allowed but works anyway.\n\nScore : 3,549,079,296 cycles\n\nTime : 1.111345034 s\n\nStrategy : Search MMIO space for slowest registers in PCIe fabric, hit unknown GPU register, use 32-byte unaligned MMIO read to get nine dword register accesses, which is even less allowed than the aligned version, but works anyway.\n\nScore : 4,453,212,256 cycles\n\nTime : 1.394428818 seconds\n\nStrategy : Use mmiotic to identify high-latency deadspace in PCIe fabric, isolate region near 0's and offset state to avoid MXCSR corruption (possibly VGA buffer?), use fxrstor64 to load 512-byte FPU/MMX/XMM state from MMIO, forcing CPU to process 512 bytes of I/O transactions through slowest available memory aperture.\n\nScore : 74,584,168,512 cycles\n\nTime : 23.354502677 seconds",
+      "published": "2026-08-07T18:01:30+00:00"
+    },
+    {
+      "id": "8508ac4746be",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 516 # Comments: 310",
+      "content": "At max effort, DeepSeek V4 Flash 0731 scores 89.0% on ARC-AGI-1 Semi-Private at $0.02 per task and 61.4% on ARC-AGI-2 Semi-Private at $0.04 per task.\n\nPass/fail per reasoning level across each benchmark.",
+      "published": "2026-08-07T17:56:20+00:00"
+    },
+    {
       "id": "6d6834915d9f",
       "source": "The Verge",
       "kind": "article",
@@ -374,6 +398,18 @@
       "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any mean",
       "content": "﻿Microsoft’s plan for Edge means that uBlock Origin users are losing one of their browser options.\n\nMicrosoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store “with any meaningful usage” that still use MV2, and only three of those aren’t available on the newer MV3 platform.\n\nAnyone still using these extensions can switch to a different adblocker, like uBlock Origin Lite . Or they could use a different browser, like Opera, which still supports existing MV2 extensions and says it will continue to do so “for as long as it’s technically reasonable,” or switch to another browser like Firefox.\n\nStarting this month, Microsoft says any remaining MV2 extensions “will be gradually turned off by default,” but users will be notified beforehand. Microsoft plans to finish transitioning all of its consumer users to MV3 extensions by the end of this year before shutting them down for enterprise users in early 2027.\n\nOver the next few months, MV2 extensions will be gradually turned off by default. Users will be notified in advance and directed to recommended MV3 versions where available.\n\nThese changes will start in the Canary, Dev, and Beta channels and gradually broaden to Stable in the following months, with the goal of completing the consumer transition by the end of 2026. Managed devices will not be affected during the consumer rollout. Enterprise deprecation will follow in early 2027.\n\nThis is the title for the native ad",
       "published": "2026-08-07T17:43:34+00:00"
+    },
+    {
+      "id": "915417192ff2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code Comments URL: https://news.ycombinator.com/item?id=49213754 Points: 417 # Comments: 284",
+      "content": "Get AI-powered insights\n\nAsk anything about this entity\n\nSuggested questions:\n\nAll answers are AI generated. They may be incomplete or incorrect.",
+      "published": "2026-08-07T17:36:30+00:00"
     },
     {
       "id": "6a3ea4789a8f",
@@ -422,18 +458,6 @@
       "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
       "content": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE.\n\nThe energy company said in an announcement that the wind farms would have been built off the coasts of California, Louisiana, and New York. Instead, RWE will spend $900 million to buy a small stake in a Louisiana liquid natural gas export terminal.\n\nThe New York wind farm would have generated more than 3 gigawatts, according to Heatmap News.\n\nThe remaining $300 million will go toward buying natural gas turbines to power 15 peaking power plants around the country. Peaking power plants are among the most expensive and most polluting natural gas power plants to operate. It’s unclear when those will be completed — there’s currently a backlog for new turbines stretching into the early 2030s .\n\nRWE isn’t backing off its offshore wind investments elsewhere, though. The company said it is bought 6.9 gigawatts of capacity in the UK’s recent auction.\n\nThe Trump administration has paid $3.93 billion for the 12 leases it has coaxed developers into abandoning.\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y!",
       "published": "2026-08-07T15:11:03+00:00"
-    },
-    {
-      "id": "8137af57d5ec",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "씨스팬, 국제 선주 및 선박운항사 최초로 중국 판다본드 시장 진출",
-      "link": "https://zdnet.co.kr/view/?no=20260808001003",
-      "summary": "[지디넷코리아] 싱가포르, 2026년 8월 7일 /PRNewswire/ -- 세계적인 독립 해운 자산 소유운영사 씨스팬 코퍼레이션(Seaspan Corporation Pte. Ltd., 이하 '씨스팬')이 중국 국내 채권시장에서 15억 위안 규모로 판다본드(Panda Bond)를 성공리에 발행했다고 밝혔다. 이번 3년 만기 사모채는 2026년 7월 15일 발행됐으며, 연간 표면금리는 2.50%다. 중국 역내 및 해외 투자자들의 높은 관심 속에 발행액 대비 주문 규모가 2.3배에 달했다. 이번 거래",
-      "content": "글로벌뉴스 입력 :2026/08/08 00:10\n\n싱가포르 , 2026년 8월 7일 /PRNewswire/ -- 세계적인 독립 해운 자산 소유운영사 씨스팬 코퍼레이션(Seaspan Corporation Pte. Ltd., 이하 '씨스팬')이 중국 국내 채권시장에서 15억 위안 규모로 판다본드(Panda Bond)를 성공리에 발행했다고 밝혔다.\n\n이번 3년 만기 사모채는 2026년 7월 15일 발행됐으며, 연간 표면금리는 2.50%다. 중국 역내 및 해외 투자자들의 높은 관심 속에 발행액 대비 주문 규모가 2.3배에 달했다.\n\n이번 거래는 씨스팬이 국제 선주 및 선박운항사 가운데 최초로 판다본드 시장 진입에 성공했다는 점에서 중요한 이정표로 꼽히고 있다.\n\n이번 거래는 새로운 자금 조달 채널을 확보한 것을 넘어 씨스팬의 자본 조달원 다변화와 무담보 채무 조달 접근성 확대 전략을 뒷받침하는 조치다. 회사는 이를 통해 선단에 대한 투자와 성장 기회 발굴 역량을 강화하고, 고객 및 이해관계자를 위한 장기적 가치 창출 기반을 더욱 공고히 할 수 있게 됐다.\n\n안드레아스 브라우흐(Andreas Brauch) 씨스팬 최고재무책임자는 \"이번 발행은 씨스팬의 신용도와 사업 모델, 탄탄한 재무구조, 지속가능한 성장 전략에 대한 투자자들의 신뢰를 보여주는 것\"이라며 \"중국 국내 자본시장에 대한 접근성을 확대해 자금 조달원을 한층 더 다변화하고 비용 효율적인 자본에 대한 접근성을 높일 수 있게 됐다. 이로써 세계 최대급 규모와 최신식 선단을 기반으로 고객을 지원하려는 당사의 장기 성장 목표가 더욱 강화될 것\"이라고 말했다.\n\n이번 판다본드 발행은 씨스팬이 중국 자본시장에 참여해 온 과정에서 중요한 성과를 의미한다. 씨스팬은 중국에서 용선, 조선, 금융, 해운 서비스 등 해운 생태계 전반에 걸쳐 전략적 파트너십을 구축하고 있다.\n\n씨스팬은 세계 주요 해운사를 대상으로 장기 고정 요율 임대 사업에 주력하는 세계적 해운 자산 소유운영사다. 2026년 6월 30일 기준 미인도 신조선을 포함한 추정치를 기준으로 씨스팬의 운항 선단은 총 247척이다. 이는 자동 및 ·트럭 전용운반선(Pure Car, Truck Carriers) 4척과 초대형 에탄운반선(Very Large Ethane Carriers) 5척, 오픈해치 갠트리크레인 선박(Open Hatch Gantry Crane vessels) 4척이 포함된 수치다. 모든 선박이 인도될 경우 총 선복량은 약 250만TEU에 달하게 된다.",
-      "published": "2026-08-07T15:10:03+00:00"
     },
     {
       "id": "36ae8e7de6b7",
