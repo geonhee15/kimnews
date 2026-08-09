@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T20:26:01.146931+00:00",
-  "count": 8675,
+  "updated_at": "2026-08-09T21:02:14.064609+00:00",
+  "count": 8678,
   "items": [
+    {
+      "id": "c9541b11f8d7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "published": "2026-08-09T20:35:17+00:00",
+      "summary": "The AI-focused hedge fund is still making some big bets."
+    },
     {
       "id": "578ea5a0412b",
       "source": "TechCrunch",
@@ -45,6 +56,17 @@
       "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "published": "2026-08-09T15:18:25+00:00",
       "summary": "Article URL: https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/ Comments URL: https://news.ycombinator.com/item?id=49232221 Points: 204 # Comments: 158"
+    },
+    {
+      "id": "75cd3e94ac3b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+      "published": "2026-08-09T15:11:20+00:00",
+      "summary": "Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 206 # Comments: 179"
     },
     {
       "id": "9c803948c09e",
@@ -251,6 +273,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "구글, 인터넷 없이 작동하는 오프라인 AI 번역기 ‘젬마 트랜슬레이터’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213717",
+      "published": "2026-08-09T03:19:07+00:00",
+      "summary": "구글이 소형 오픈 모델과 저가형 컴퓨터를 결합해 인터넷이 없는 환경에서도 작동하는 온디바이스 AI 번역기를 선보였다.구글은 6일(현지시간) 인터넷 연결 없이도 음성을 실시간으로 번역할 수 있는 소형 AI 번역기 ‘젬마 트랜슬레이터(Gemma Translator)’를 공개했다.라즈베리파이5와 소형 오픈웨이트 AI 모델을 결합해 음성 인식부터 번역, 음성 합성까지 모든 과정을 기기에서 처리하는 것이 특징이다. 특히 설계도와 소스코드, 3D 프린터용 케이스까지 오픈소스로 공개해 누구나 직접 제작할 수 "
+    },
+    {
+      "id": "f48ccebfdfab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213717",
       "published": "2026-08-09T03:19:07+00:00",
       "summary": "구글이 소형 오픈 모델과 저가형 컴퓨터를 결합해 인터넷이 없는 환경에서도 작동하는 온디바이스 AI 번역기를 선보였다.구글은 6일(현지시간) 인터넷 연결 없이도 음성을 실시간으로 번역할 수 있는 소형 AI 번역기 ‘젬마 트랜슬레이터(Gemma Translator)’를 공개했다.라즈베리파이5와 소형 오픈웨이트 AI 모델을 결합해 음성 인식부터 번역, 음성 합성까지 모든 과정을 기기에서 처리하는 것이 특징이다. 특히 설계도와 소스코드, 3D 프린터용 케이스까지 오픈소스로 공개해 누구나 직접 제작할 수 "
