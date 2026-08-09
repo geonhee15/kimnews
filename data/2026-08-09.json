@@ -1,8 +1,44 @@
 {
   "issue_date": "2026-08-09",
-  "generated_at": "2026-08-09T03:09:37.332010+00:00",
-  "count": 25,
+  "generated_at": "2026-08-09T04:35:37.960128+00:00",
+  "count": 26,
   "items": [
+    {
+      "id": "6c8808cbeea9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213713",
+      "summary": "스페이스XAI가 단순히 한 장의 이미지를 만드는 데 그치지 않고 복잡한 레이아웃과 정확한 텍스트 표현, 반복적인 이미지 편집, 캐릭터와 배경의 시각적 일관성 유지 등에 초점을 맞춘 이미지 모델을 공개했다.스페이스XAI는 8일(현지시간) 이미지 생성·편집 모델 ‘이매진 이미지 2.0(Imagine Image 2.0)’을 출시했다. 이매진 이미지 2.0은 스페이스XAI의 웹 기반 이미지 생성 서비스와 그록(Grok)의 iOS·안드로이드 앱에서 새로운 ‘퀄리티 모드(Quality Mode)’로 제공된다",
+      "content": "스페이스XAI가 단순히 한 장의 이미지를 만드는 데 그치지 않고 복잡한 레이아웃과 정확한 텍스트 표현, 반복적인 이미지 편집, 캐릭터와 배경의 시각적 일관성 유지 등에 초점을 맞춘 이미지 모델을 공개했다.\n\n스페이스XAI는 8일(현지시간) 이미지 생성·편집 모델 ‘ 이매진 이미지 2.0(Imagine Image 2.0) ’을 출시했다.\n\n이매진 이미지 2.0은 스페이스XAI의 웹 기반 이미지 생성 서비스와 그록(Grok)의 iOS·안드로이드 앱에서 새로운 ‘퀄리티 모드(Quality Mode)’로 제공된다. API는 앞으로 제공될 예정이다.\n\n스페이스XAI는 이 모델이 사용자의 세부적인 지시를 정확하게 따르면서 복잡한 이미지 안에서 글자와 레이아웃을 계획하고, 작은 글씨도 선명하게 유지할 수 있다고 설명했다.\n\n특히 여러 차례 이미지를 생성하거나 수정하더라도 사용자가 제공한 주요 요소를 유지하는 데 초점을 맞췄다. 이는 광고·마케팅 이미지, 제품 사진, 게임 에셋 등 동일한 시각적 요소를 반복적으로 활용해야 하는 작업에서 활용도가 높을 것으로 보인다.\n\n이미지 편집 기능도 대폭 강화됐다. ‘매직 완드(Magic Wand)’를 이용하면 이미지에서 특정 영역만 선택해 수정할 수 있으며, 세분화 기능을 통해 보다 정밀하게 원하는 부분을 지정할 수 있다. 선택하지 않은 영역은 그대로 유지하면서 필요한 부분만 변경할 수 있어 기존 이미지의 부분적인 수정에 적합하다. 배경 제거 기능을 이용하면 피사체를 분리해 투명 배경 이미지로 내보낼 수도 있다.\n\n여러 이미지를 하나의 결과물로 결합하는 ‘멀티-레프 에디팅(Multi-Ref Editing)’도 지원한다. 최대 5개의 참조 이미지를 한 번에 입력할 수 있어 복잡한 장면을 만들 때 각각의 요소를 별도로 생성한 뒤 수작업으로 합성해야 하는 부담을 줄였다. 예를 들어 인물, 의상, 제품, 배경 등의 참조 이미지를 동시에 제공해 하나의 일관된 이미지로 구성할 수 있다.\n\n‘스마트 리사이즈(Smart Resize)’는 기존 이미지의 화면 비율을 원하는 형태로 확장하는 기능이다. 1:2와 9:16부터 정사각형, 가로형, 2:1 등 다양한 비율을 지원하며, 이미지 가장자리에 새롭게 추가되는 공간을 AI가 자연스럽게 채운다. 이에 따라 하나의 이미지를 소셜미디어 게시물, 광고 배너, 모바일 화면 등 다양한 규격으로 변환하는 작업도 간소화할 수 있다.\n\n스페이스XAI는 반복적인 작업을 빠르게 처리할 수 있도록 미리 구성된 템플릿도 도입했다. 템플릿은 사진 편집, 제품 색상 변경, 전자상거래용 상품 사진, 전문 프로필 사진, 아이콘, 캐릭터 스프라이트, 이모지, 상품 디자인 등 다양한 작업을 지원한다. 사용자가 필요한 이미지와 자료를 입력하면 템플릿에 설정된 작업 방식에 따라 결과물을 생성하는 방식이다.\n\n특히 스페이스XAI는 이매진 이미지 2.0을 앞으로 동영상 제작을 위한 기반 기술로도 활용할 수 있다는 점을 강조하고 있다. 시연에서는 캐릭터와 장소, 소품을 각각 생성하면서도 모든 이미지에 동일한 시각적 스타일을 유지하는 방식이 소개됐다. 반복적으로 등장하는 캐릭터와 주변 환경을 하나의 일관된 세계관으로 구축할 수 있어 앞으로 AI 기반 영상 제작 워크플로로 확장될 가능성을 보여준다.\n\n성능 면에서도 최상위권에 올랐다. 7일 기준 아레나(Arena) 평가에서 ‘그록-이매진-이미지-2(low)’는 텍스트-이미지 생성 부문에서 1320점, 이미지 편집 부문에서 1439점을 기록했다.\n\n두 부문 모두 오픈AI의 ‘GPT-이미지-2’에 이어 2위를 차지했다. GPT-이미지-2는 각각 1380점과 1463점을 기록했다.\n\n뒤를 이어 '레브 2.1', 메타의 '뮤즈 이미지', 알리바바의 '큐원 이미지 3.0 프로', 구글의 '제미나이', 바이트댄스의 '시드림' 등이 순위에 올랐다.\n\n스페이스XAI는 \"이 모델은 실제 업무에 필요한 이미지를 제작하는 데 도움을 준다\"라며 \"인포그래픽, 광고, 게임 에셋, UI/UX 목업, 스토리보드 등을 제작할 수 있다\"라고 강조했다.",
+      "published": "2026-08-09T03:31:09+00:00"
+    },
+    {
+      "id": "69cf236469c2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 인터넷 없이 작동하는 오프라인 AI 번역기 ‘젬마 트랜슬레이터’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213717",
+      "summary": "구글이 소형 오픈 모델과 저가형 컴퓨터를 결합해 인터넷이 없는 환경에서도 작동하는 온디바이스 AI 번역기를 선보였다.구글은 6일(현지시간) 인터넷 연결 없이도 음성을 실시간으로 번역할 수 있는 소형 AI 번역기 ‘젬마 트랜슬레이터(Gemma Translator)’를 공개했다.라즈베리파이5와 소형 오픈웨이트 AI 모델을 결합해 음성 인식부터 번역, 음성 합성까지 모든 과정을 기기에서 처리하는 것이 특징이다. 특히 설계도와 소스코드, 3D 프린터용 케이스까지 오픈소스로 공개해 누구나 직접 제작할 수 ",
+      "content": "구글이 소형 오픈 모델과 저가형 컴퓨터를 결합해 인터넷이 없는 환경에서도 작동하는 온디바이스 AI 번역기를 선보였다.\n\n구글은 6일(현지시간) 인터넷 연결 없이도 음성을 실시간으로 번역할 수 있는 소형 AI 번역기 ‘젬마 트랜슬레이터(Gemma Translator)’를 공개했다.\n\n라즈베리파이5와 소형 오픈웨이트 AI 모델을 결합해 음성 인식부터 번역, 음성 합성까지 모든 과정을 기기에서 처리하는 것이 특징이다. 특히 설계도와 소스코드, 3D 프린터용 케이스까지 오픈소스로 공개해 누구나 직접 제작할 수 있도록 했다.\n\n구글 크리에이티브 랩의 팀이 개발한 젬마 트랜슬레이터는 마이크와 스피커가 내장된 독립형 번역 장치다. 사용자가 마이크에 말하면 음성을 텍스트로 변환한 뒤 목표 언어로 번역하고, 번역 결과를 다시 음성으로 합성해 스피커를 통해 들려준다. 모니터를 연결하면 원문과 번역문을 화면에 표시하는 것도 가능하다.\n\n기기의 핵심 하드웨어는 80달러(약 11만3000원) 수준인 라즈베리파이5다. 여기에 구글의 경량 오픈웨이트 모델 ‘젬마4 E2B(Gemma 4 E2B)’를 탑재했다. 젬마4 E2B는 20억개의 유효 매개변수를 사용하는 엣지용 모델로, 구글의 엣지 AI 추론 프레임워크인 ‘LiteRT-LM’을 통해 라즈베리파이와 같은 소형 컴퓨팅 장치에서 실행된다.\n\n음성 처리도 클라우드에 의존하지 않는다. 음성을 텍스트로 변환하는 과정과 번역된 텍스트를 다시 음성으로 바꾸는 작업에는 문샤인(Moonshine)의 AI 기술이 사용된다. 이에 따라 음성 입력부터 번역, 음성 출력까지 전체 처리 과정이 기기 내부에서 이뤄진다.\n\n이처럼 인터넷 연결이 필요 없다는 점이 가장 큰 특징이다. 일반적인 AI 기반 음성 번역 서비스는 음성 데이터를 클라우드 서버로 전송해 인식과 번역을 처리하는 경우가 많지만, 젬마 트랜슬레이터는 모든 연산을 로컬에서 수행한다. 인터넷 접속이 어려운 해외 여행지나 오지에서도 사용할 수 있으며, 민감한 대화를 외부 서버로 전송하기 어려운 조직이나 통신 인프라가 끊긴 재난·긴급 상황에서도 활용 가능성이 있다.\n\n다만 상용 제품으로 발표한 것은 아니다. 현재 공개된 장치는 기술 시연을 위한 프로토타입으로, 구글이 앞으로 직접 판매하거나 기존 번역 서비스에 통합할 계획을 밝힌 것도 아니다. 그러나 소형 오픈 모델이 실제 하드웨어에서 음성 번역을 수행할 수 있다는 점을 보여줬다는 데 의미가 있다.\n\n특히 구글은 젬마 트랜슬레이터의 설계도와 소스코드뿐 아니라 3D 프린터로 제작할 수 있는 케이스의 STL 파일까지 깃허브 를 통해 공개했다. 아파치 2.0 라이선스로 제공되기 때문에 개발자와 연구자들은 비교적 자유롭게 모델을 활용할 수 있다.\n\n라즈베리파이5와 마이크, 스피커 등 기본 부품만 준비하면 인터넷 없이 작동하는 AI 번역기를 직접 구축할 수 있는 환경이 마련된 셈이다.\n\n개발 과정에는 구글의 AI 에이전트 개발 플랫폼 ‘안티그래비티(Antigravity)’도 활용됐다. 구글은 개발자용 도구로 시작한 안티그래비티를 통해 실제 물리적 장치로 이어지는 프로젝트를 선보이며 에이전트 기술의 활용 범위를 넓히고 있다.",
+      "published": "2026-08-09T03:19:07+00:00"
+    },
+    {
+      "id": "66459adc73e3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"음성 대화하며 문서 분석까지\"...오픈AI, GPT-라이브 기능 대폭 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213716",
+      "summary": "오픈AI가 음성 기반 AI 모델 ‘GPT-라이브(GPT-Live)’에 파일 첨부와 프로젝트 워크스페이스 기능을 추가했다. 이제 사용자는 음성으로 챗GPT와 대화하면서 문서나 파일을 직접 첨부해 내용을 질문할 수 있으며, 여행 계획이나 구직 활동 관리 등 장기적인 작업을 프로젝트 단위로 이어갈 수 있게 됐다. 오픈AI는 7일(현지시간) GPT-라이브가 이제 파일을 첨부하고 해당 파일에 대해 질문할 수 있다고 밝혔다.또 GPT-라이브를 챗GPT의 ‘프로젝트(Projects)’ 안에서 사용할 수 있어 ",
+      "content": "오픈AI가 음성 기반 AI 모델 ‘GPT-라이브(GPT-Live)’에 파일 첨부와 프로젝트 워크스페이스 기능을 추가했다. 이제 사용자는 음성으로 챗GPT와 대화하면서 문서나 파일을 직접 첨부해 내용을 질문할 수 있으며, 여행 계획이나 구직 활동 관리 등 장기적인 작업을 프로젝트 단위로 이어갈 수 있게 됐다.\n\n오픈AI는 7일(현지시간) GPT-라이브가 이제 파일을 첨부하고 해당 파일에 대해 질문할 수 있다고 밝혔다.\n\n또 GPT-라이브를 챗GPT의 ‘프로젝트(Projects)’ 안에서 사용할 수 있어 구직 활동 정리, 여행 계획, 운동 기록 관리 등 여러 작업을 지속적으로 진행할 수 있다고 설명했다.\n\n이를 통해 GPT-라이브의 활용성이 빠르게 확대되고 있다고 강조했다.\n\nGPT-Live supports Files and Projects!\n\nYou can now attach files and ask questions about them, or use GPT-Live in Projects — great for anything organizing a job search, planning a trip, or tracking your fitness journey. pic.twitter.com/pNPYYkrCEt\n\nGPT-라이브는 지난 7월8일 출시된 '챗GPT'의 새로운 기본 음성 모델 제품군이다. 무료 사용자를 대상으로는 성능을 낮춘 ‘GPT-라이브-1 미니’가 제공된다. 유료 사용자는 'GPT-라이브-1'의 전체 기능을 사용할 수 있다.\n\n가장 큰 기술적 특징은 ‘전이중(full-duplex)’ 음성 구조다. 기존 음성 AI처럼 사용자가 말을 끝낸 뒤 AI가 답하는 방식이 아니라 AI가 사용자의 말을 듣는 동시에 응답을 생성하고 말할 수 있다. 이를 통해 대화의 중단과 재개가 보다 자연스러워졌으며, 실제 사람과 대화하는 것에 가까운 상호작용을 구현했다.\n\n특히 이번 파일 첨부 기능은 GPT-라이브의 활용 방식을 크게 바꿀 것으로 예상된다. 사용자는 음성 대화 도중 파일을 첨부하고 해당 문서의 내용을 질문할 수 있다. 이전에는 음성 대화와 파일 분석을 위해 텍스트 모드로 전환해야 하는 경우가 있었지만, 이제는 대화 흐름을 유지한 채 문서 분석까지 수행할 수 있게 됐다.\n\nGPT-라이브는 파일뿐 아니라 이미지 처리와 메모리, 웹 검색 기능도 음성 세션에서 지원한다. 사용자가 음성으로 질문하면 필요한 경우 웹에서 정보를 찾고, 제공된 파일이나 이미지를 분석하며, 이전 대화에서 축적된 정보를 활용하는 식으로 여러 기능을 하나의 음성 인터페이스 안에서 연결할 수 있다.\n\n프로젝트 기능과의 통합도 중요한 변화다. 챗GPT 프로젝트는 여러 세션에 걸쳐 파일과 사용자 설정, 맞춤 지침 등 지속적인 맥락을 유지할 수 있는 작업 공간이다. GPT-라이브가 프로젝트에 연결되면서 사용자는 단발성 음성 대화를 넘어 특정 작업을 장기간 관리할 수 있게 됐다. 업무, 코딩, 데스크톱 환경 등 다양한 작업 영역과의 연계도 가능해질 전망이다.\n\n다만 현재 챗GPT의 별도 문서 저장 공간인 ‘라이브러리(Library)’에는 한계가 있다. 라이브러리에 저장된 문서를 음성 세션에서 직접 검색하거나 추가하는 기능은 아직 지원되지 않는다. 따라서 파일과 프로젝트 기능이 완전히 통합된 것은 아니라는 점은 주의할 필요가 있다.\n\nGPT-라이브는 기존 ‘고급 음성 모드(Advanced Voice Mode)’를 한 단계 발전시킨 모델로 볼 수 있다. 고급 음성 모드는 자연스러운 억양과 감정 표현 등 음성 대화 품질을 높이는 데 초점을 맞췄지만, 기본적으로 사용자와 AI가 번갈아 대화하는 구조였다. GPT-라이브는 여기에 전이중 음성 구조를 적용하고 파일 업로드, 웹 검색, 메모리, 프로젝트 기능을 연결하면서 제품 전체와 음성 AI의 통합을 강화했다.\n\n또 복잡한 추론이 필요한 작업을 GPT-5.5 등 보다 강력한 모델에 위임하면서도 음성 인터페이스 자체는 빠르게 반응하도록 설계됐다. 이에 따라 사용자는 자연스러운 음성 대화를 유지하면서 필요할 때는 더 높은 수준의 추론과 분석 능력을 활용할 수 있다.",
+      "published": "2026-08-09T03:13:37+00:00"
+    },
     {
       "id": "effe651489b9",
       "source": "AI타임스",
@@ -14,6 +50,18 @@
       "summary": "메타가 애플 맥(Mac)에서 사용할 수 있는 자체 AI 데스크톱 앱을 개발 중인 정황이 포착됐다. 테스팅카탈로그는 7일(현지시간) 메타 AI 웹 서비스에 새롭게 추가된 설정 메뉴에서 ‘메타 AI 다운로드(Download Meta AI)’라는 맥OS 전용 버튼이 발견됐다고 전했다.버튼 주변에는 데스크톱 어디에서든 AI와 대화하고, 콘텐츠를 만들고, 협업할 수 있는 앱이라는 취지의 설명이 표시됐다. 다만 현재 다운로드 링크는 연결되지 않으며, 구체적인 출시 일정이나 이용 가능 여부도 공개되지 않았다.",
       "content": "메타가 애플 맥(Mac)에서 사용할 수 있는 자체 AI 데스크톱 앱을 개발 중인 정황이 포착됐다.\n\n테스팅카탈로그는 7일(현지시간) 메타 AI 웹 서비스에 새롭게 추가된 설정 메뉴에서 ‘메타 AI 다운로드(Download Meta AI)’라는 맥OS 전용 버튼이 발견됐다고 전했다.\n\n버튼 주변에는 데스크톱 어디에서든 AI와 대화하고, 콘텐츠를 만들고, 협업할 수 있는 앱이라는 취지의 설명이 표시됐다. 다만 현재 다운로드 링크는 연결되지 않으며, 구체적인 출시 일정이나 이용 가능 여부도 공개되지 않았다.\n\n현재 공개된 설명만으로는 이 앱이 어떤 기능을 중심으로 설계될지는 명확하지 않다.\n\n특히 코딩 기능을 지원할 것인지, 일반 소비자를 위한 AI 비서에 초점을 맞출 것인지, 업무용 도구에 가까운 형태로 개발될 것인지에 대한 구체적인 정보는 확인되지 않았다. 아직 기능 설명도 포괄적인 수준에 머물러 있어 실제 제품의 형태가 바뀔 가능성도 있다.\n\n하지만 메타는 최근 AI 에이전트와 개발자 도구를 데스크톱 영역으로 확장하고 있다. 최근에는 자체 모델 ‘뮤즈 스파크 1.2(Muse Spark 1.2)’를 기반으로 한 명령줄 도구 ‘뮤즈 코드(Muse Code)’ 베타를 공개했다. 웹과 모바일을 넘어 개발자와 업무 환경에서 AI가 직접 작업을 수행하는 방향으로 서비스를 확대하는 것이다.\n\n특히 데스크톱은 AI 비서 경쟁의 새로운 핵심 무대로 부상하고 있다. 오픈AI, 앤트로픽, 구글, 스페이스XAI 등 주요 AI 기업들이 데스크톱에서 다른 애플리케이션과 연계하거나 사용자의 작업을 지원하는 ‘AI 슈퍼 앱’ 구축에 나서고 있다. 단순히 웹 브라우저에서 AI와 대화하는 것을 넘어 사용자의 컴퓨터 환경에 상주하면서 파일과 애플리케이션, 업무 흐름을 연결하는 형태로 AI의 역할이 확대되고 있기 때문이다.\n\n메타가 준비 중인 데스크톱 앱에도 ‘해치(Hatch)’라는 이름으로 개발 중인 상시 작동형 AI 에이전트가 포함될 가능성이 거론된다.\n\nBREAKING : Meta is working on its own desktop Meta AI super app!\n\n> Download Meta AI for macOS - Chat, create, and collaborate with AI from anywhere on your desktop.\n\nI wish I could operate a desktop coding agent via Meta Glasses too.\n\nMonitoring pic.twitter.com/Q7ieK7PGGb\n\n앞서 메타는 해치라는 이름의 자체 에이전트를 개발하고 있다는 정황이 발견됐으며, 한때 대기자 명단을 통한 제한적 출시가 추진될 가능성을 보여주는 코드 흔적도 확인된 바 있다. 이후 관련 코드가 삭제돼 실제 출시 여부는 불투명하지만, 컴퓨터 백그라운드에서 지속적으로 실행되는 데스크톱 앱과 상시 작동형 에이전트의 조합은 상당한 시너지를 낼 수 있다는 분석이다.\n\n상시 작동형 에이전트가 실제로 탑재된다면 사용자가 명시적으로 AI 서비스를 실행하지 않아도 컴퓨터 작업 환경에서 AI가 필요할 때 호출되거나 특정 작업을 지속적으로 지원하는 형태가 될 가능성이 있다. 이는 기존의 질문·답변 중심 챗봇에서 벗어나 사용자의 업무를 직접 수행하거나 여러 애플리케이션 사이의 작업을 연결하는 AI 에이전트로 메타 AI의 역할을 확대하는 기반이 될 수 있다.\n\n메타는 맥용 앱의 존재나 출시 계획을 공식적으로 발표하지 않았다. 현재 드러난 다운로드 버튼도 실제로는 작동하지 않고 구체적인 기능이나 출시 일정도 표시되지 않아, 개발 초기 단계일 가능성이 높다.",
       "published": "2026-08-09T03:01:45+00:00"
+    },
+    {
+      "id": "ffe2a1c310c3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이산화탄소→고순도·저비용 개미산 제조 성공…\"3~5년 내 상용화 검증\"",
+      "link": "https://zdnet.co.kr/view/?no=20260807094856",
+      "summary": "[지디넷코리아]포집한 이산화탄소를 특별한 분리 공정없이 포름산(개미산)으로 바로 전환하는 기술이 개발됐다. 이 기술로 화학연료를 생산할 때 비용이 기존 시장가격 대비 절반에 불과하다는 평가가 나왔다.한국과학기술연구원(KIST) 청정에너지연구센터 원다혜 선임연구원과 이웅 책임연구원 연구팀은 이찬우 국민대학교 교수 연구팀과 공동으로 이산화탄소를 별도 분리·정제·압축 과정없이 전기화학적으로 직접 전환해 고순도 포름산을 생산하는 통합 공정을 개발했다고 9일 밝혔다.연구팀은 이산화탄소 포집, 전기화학적 전",
+      "content": "KIST-국민대 연구팀…랩 스케일 끝내고, 파일럿 단계 연구 \"올인\"\n\n과학 입력 :2026/08/09 12:00\n\n포집한 이산화탄소를 특별한 분리 공정없이 포름산(개미산)으로 바로 전환하는 기술이 개발됐다. 이 기술로 화학연료를 생산할 때 비용이 기존 시장가격 대비 절반에 불과하다는 평가가 나왔다.\n\n한국과학기술연구원(KIST) 청정에너지연구센터 원다혜 선임연구원과 이웅 책임연구원 연구팀은 이찬우 국민대학교 교수 연구팀과 공동으로 이산화탄소를 별도 분리·정제·압축 과정없이 전기화학적으로 직접 전환해 고순도 포름산을 생산하는 통합 공정을 개발했다고 9일 밝혔다.\n\n연구팀은 이산화탄소 포집, 전기화학적 전환, 포름산 정제를 하나로 연결한 통합 공정을 개발했다. 트리에틸아민을 사용해 이산화탄소를 물에 녹아 있는 중탄산염 형태로 포집한 뒤, 별도 분리·정제·압축 과정 없이 포집액을 전기화학 반응기에 직접 공급했다.\n\n이산화탄소를 포름산염으로 전환하기 위해 주석과 구리를 섞은 촉매도 개발했다. 구리가 포름산염 생성에 유리한 주석 상태를 안정적으로 유지하는데 성공, 이산화탄소의 94%를 포름산염으로 전환했다.\n\n최적의 주석-구리 촉매는 포름산염 생성 효율 60%를 나타냈다. 100시간 동안 반응 결과 2.62몰 농도의 포름산염을 생산했다.\n\n생성된 포름산염을 고순도 포름산으로 분리하기 위해 부틸이미다졸이라는 물질을 이용한 아민 교환 공정도 개발했다. 트리에틸아민을 회수해 다시 사용하고, 포름산염을 증류하기 쉬운 형태로 바꾼 뒤 분리함으로써 최대 98중량%의 고순도 포름산을 생산했다.\n\n연구팀은 전체 공정을 대상으로 경제성과 환경 영향을 평가한 결과 현재 전력 조건에서 포름산 생산비는 톤당 약 410달러로 분석됐다. 시장가격보다 약 50% 낮은 수준이다. 또 투자비 회수 기간은 약 6년으로 예상됐다. 온실가스 영향은 기존 전기화학적 포름산 생산공정보다 약 31% 줄일 수 있는 것으로 평가됐다.\n\n원다혜 선임연구원은 \"포집액 상태에서 바로 전환해 산업적으로 사용할 수 있는 고순도 액체 화학제품을 생산했다는 데 의미가 있다\"며 \"발전소와 산업시설에서 배출되는 이산화탄소를 포집해 포름산으로 전환, 가죽·섬유·고무·의약품 제조 원료로 활용은 물론 물론 향후 수소를 저장하고 운반하는 물질로도 활용될 수 있을 것\"으로 기대했다.\n\n원다혜 선임은 또 \"현재는 실험실 스케일서 진행한 결과라 상용화를 위한 파일럿 단계 과제를 현재 수행중\"이라며 \"3~5년이면 상용화 검증 수준에 이를 것\"으로 예상했다.\n\n이웅 책임연구원은 \"전기화학 반응기의 규모 확대와 장기간 연속운전 기술이 확보되면, 포집된 이산화탄소로 고순도 액체 화학제품을 생산하는 상용 공정의 기반이 될 수 있다\"고 말했다.\n\n연구는 KIST 케지아 랑지에(Kezia Langie) 학생연구원과 김창수 선임연구원, 국민대학교 안디 할얀토 화학과 박사과정 연구원이 공동 제1저자로 연구를 수행했다.\n\n연구결과는 셀 프레스(Cell Press)에서 발행하는 국제학술지 줄(Joule, IF 37.1, JCR 분야 상위 1.3%)에 4월 온라인 게재됐다. 8월엔 표지 논문으로 선정됐다.",
+      "published": "2026-08-09T03:00:03+00:00"
     },
     {
       "id": "dc76ca07c8b1",
@@ -38,6 +86,30 @@
       "summary": "스페이스X가 600억달러(약 84조6600억원) 규모 인수를 앞둔 AI 코딩 스타트업 애니스피어의 기존의 대표 브랜드 '커서'를 폐지하고 '그록' 브랜드로 통합하려는 것으로 알려졌다.디 인포메이션에 따르면, 커서는 6일(현지시간) 전 직원회의에서 다음 주말까지 인수 작업이 완료될 수 있다고 밝히며 몇달 안에 신제품에서 커서 브랜드명을 단계적으로 없앨 가능성이 높다고 밝혔다.이에 따르면, 첫 단계는 커서가 내부 코드명 '샌드(Sand)'로 개발해 온 차세대 범용 에이전트를 '그록 봇(Grok Bot",
       "content": "스페이스X가 600억달러(약 84조6600억원) 규모 인수를 앞둔 AI 코딩 스타트업 애니스피어의 기존의 대표 브랜드 '커서'를 폐지하고 '그록' 브랜드로 통합하려는 것으로 알려졌다.\n\n디 인포메이션에 따르면, 커서는 6일(현지시간) 전 직원회의에서 다음 주말까지 인수 작업이 완료될 수 있다고 밝히며 몇달 안에 신제품에서 커서 브랜드명을 단계적으로 없앨 가능성이 높다고 밝혔다.\n\n이에 따르면, 첫 단계는 커서가 내부 코드명 '샌드(Sand)'로 개발해 온 차세대 범용 에이전트를 '그록 봇(Grok Bot)'이라는 이름으로 출시하는 것이다. 커서의 명칭은 당장 변경되지는 않지만 몇달 내 출시될 신규 제품군에서는 단계적으로 축소 및 폐지할 예정이다.\n\n마이클 트루엘 커서 CEO는 지난 5월 직원들에게 범용 AI 개발 분야를 대폭 확장할 계획이며, 여기에는 앤트로픽의 '클로드 코워크'와 흡사한 업무용 에이전트도 포함된다고 밝혔다. 깃허브의 경쟁 서비스인 '커서 오리진(Cursor Origin)'도 올해 말에 출시할 예정이라고 발표했다.\n\n또 커서는 인수 완료 후 독립 법인이나 전담 사업 단위로 유지되지 않고 스페이스XAI 산하의 기존 팀들로 분산 배치되며, 거래 완료 직후 며칠 내 스페이스X의 슬랙과 워크스페이스, 보고 체계 등 내부 운영 시스템으로 완전 통합될 예정이다.\n\n그러나 이에 대한 내부 반발이 등장한 것으로 알려졌다. 회의 후 이어진 질의응답 시간에서 일부 직원들은 이미 개발자 시장에서 강력한 가치를 지닌 커서를 버리고 B2B 입지가 약한 그록 브랜드를 써야 하는 이유를 따져 물었다.\n\n특히, 올해 초 양사의 합병 소식이 전해진 직후 트루엘 CEO가 \"스페이스X가 커서의 브랜드와 기업 고객 관계를 모두 귀중한 자산으로 여긴다\"고 밝힌 바 있어, 직원들의 배신감이 더 컸다는 후문이다.\n\n논란이 일자 스페이스X 관계자는 최종 브랜딩 결정이 여전히 변동될 수 있고 그록 대신 완전히 새로운 제3의 브랜드를 사용하는 안도 검토 중이라고 해명했다.\n\n한편, 스페이스X는 지난주 실적 발표에서 커서의 제품 로드맵에 대한 여러 문의를 받았다. 이에 대해 일론 머스크 CEO는 \"성급한 발표를 피해야 한다\"라며 자세한 내용은 밝히지 않았다. 이는 합병 회사가 거래 완료 전에 지나치게 긴밀하게 협력하거나 운영하는 것을 제한하는 반독점 규정을 염두에 둔 것이다.",
       "published": "2026-08-09T02:33:24+00:00"
+    },
+    {
+      "id": "3ab133fe12a0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KOSA-KOEMA, 전기산업 AI 전환 맞손…인재·기술 연결",
+      "link": "https://zdnet.co.kr/view/?no=20260809110637",
+      "summary": "[지디넷코리아]한국인공지능·소프트웨어산업협회(KOSA)가 전기산업 분야 인공지능(AI) 도입 활성화와 산업 경쟁력 강화에 앞장선다.KOSA는 한국전기산업진흥회(KOEMA)와 지난 7일 서울 송파구 협회 본원에서 전기산업 분야 AI 전환(AX) 확산과 산업 AI 인재양성을 위한 업무협약(MOU)을 체결했다고 9일 밝혔다.협약식에는 서성일 KOSA 상근부회장과 김화영 KOEMA 상근부회장을 비롯한 양 기관 주요 관계자가 참석했다.이번 협약은 KOSA의 AI 공급기업 네트워크와 인재양성 역량, KOEM",
+      "content": "AI 공급기업·전기 제조기업 연계…AI 팩토리·피지컬 AI 등 현장 적용 지원\n\n컴퓨팅 입력 :2026/08/09 11:07\n\n한국인공지능·소프트웨어산업협회(KOSA)가 전기산업 분야 인공지능(AI) 도입 활성화와 산업 경쟁력 강화에 앞장선다.\n\nKOSA는 한국전기산업진흥회(KOEMA)와 지난 7일 서울 송파구 협회 본원에서 전기산업 분야 AI 전환(AX) 확산과 산업 AI 인재양성을 위한 업무협약(MOU)을 체결했다고 9일 밝혔다.\n\n협약식에는 서성일 KOSA 상근부회장과 김화영 KOEMA 상근부회장을 비롯한 양 기관 주요 관계자가 참석했다.\n\n이번 협약은 KOSA의 AI 공급기업 네트워크와 인재양성 역량, KOEMA의 전기산업 회원사 네트워크와 품목별 협의체를 연계하고자 추진됐다.\n\n이를 통해 두 기관은 전기산업 현장의 AI 수요를 발굴하고 산업 현장 중심 AX 생태계를 조성한다는 목표다.\n\n양 기관은 ▲산업 현장 수요 기반 AI 인재 양성·공급·활용 체계 마련 ▲전기산업 분야 AI 팩토리 구축 등 AX 전환 확산 지원 ▲AI 공급기업과 전기산업 제조기업 간 연계·매칭 및 사업화 지원 ▲전기산업 제조데이터 활용 기반 조성 및 특화 AI 활용모델 공동 발굴에 나설 방침이다.\n\n또 ▲품목별 협의체를 활용한 제조 AX 수요 발굴 및 공동 프로젝트 추진 ▲산업 AI 관련 표준화·상호운용성 확보와 시험·인증·품질관리 체계 고도화 ▲제조 AX 활성화를 위한 법·제도 개선 과제 공동 발굴 및 정책 환경 조성에도 협력한다.\n\n이번 협력은 제조공정, 품질관리, 설비 운영 등 전기산업 현장의 AI 활용에 중점을 뒀다.\n\n두 기관은 우수사례를 발굴·확산하는 한편, 피지컬 AI와 온디바이스 AI 등 차세대 기술의 산업 현장 적용을 지원해 전기산업 제조기업의 생산성과 품질 경쟁력을 높인다는 계획이다.\n\n이 과정에서 KOSA는 AI·SW 산업 분야의 전문성과 기업 네트워크를 바탕으로 제조기업에 적합한 AI 공급기업과 기술을 연계하고 산업 현장에 필요한 인재양성과 직무역량 강화를 지원할 예정이다.\n\n양 기관은 향후 실무 협의를 거쳐 전기산업 AX 수요 발굴, AI 공급·수요기업 연계, 제조데이터 활용, 전기산업 특화 AI 활용모델 개발, 산업 AI 인재양성, 정책·제도 개선 등 구체적인 협력사업을 단계적으로 추진한다.\n\n서성일 KOSA 상근부회장은 \"전기산업의 생산성과 품질 경쟁력을 높이려면 제조 현장에 적합한 AI 기술과 인재를 연결하는 것이 중요하다\"며 \"이번 협약을 계기로 KOEMA와 함께 전기산업 현장의 AX 수요를 적극 발굴하고 AI 공급기업 협력과 산업 AI 인재양성을 통해 제조 혁신 성과를 만들어 나가겠다\"고 밝혔다.",
+      "published": "2026-08-09T02:07:08+00:00"
+    },
+    {
+      "id": "a1067a8d27ad",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"이번 역은 토스·무신사역입니다\"…K유니콘, 지하철 노선도 점령",
+      "link": "https://zdnet.co.kr/view/?no=20260809102707",
+      "summary": "[지디넷코리아]서울 지하철 주요 역명판에 국내 대표 유니콘 기업들의 이름이 잇따라 등장하고 있다. 패션 플랫폼 무신사가 2호선 성수역 역명병기 사업을 따낸 데 이어 핀테크 플랫폼 토스를 운영하는 비바리퍼블리카가 9호선 신논현역 역명병기권을 확보했다.토스와 무신사 모두 기업공개(IPO)를 통한 외형 확장을 준비하는 대표적인 유니콘이라는 점에서 대기업과 금융사 등이 주로 차지했던 지하철 역명판까지 영역을 넓히며 대중적 인지도를 끌어올리고 있다는 평가가 나온다.9일 관련 업계에 따르면 핀테크 서비스 '",
+      "content": "IPO 앞두고 인지도 확대…대기업·금융사 전유물이던 역명판에 유니콘 등장\n\n인터넷 입력 :2026/08/09 10:54\n\n서울 지하철 주요 역명판에 국내 대표 유니콘 기업들의 이름이 잇따라 등장하고 있다. 패션 플랫폼 무신사가 2호선 성수역 역명병기 사업을 따낸 데 이어 핀테크 플랫폼 토스를 운영하는 비바리퍼블리카가 9호선 신논현역 역명병기권을 확보했다.\n\n토스와 무신사 모두 기업공개(IPO)를 통한 외형 확장을 준비하는 대표적인 유니콘이라는 점에서 대기업과 금융사 등이 주로 차지했던 지하철 역명판까지 영역을 넓히며 대중적 인지도를 끌어올리고 있다는 평가가 나온다.\n\n9일 관련 업계에 따르면 핀테크 서비스 '토스'를 운영하는 비바리퍼블리카는 최근 진행된 서울 지하철 9호선 신논현역 유상 역명병기 사업 입찰에서 최종 낙찰자로 선정됐다. 3년간 역명을 병기하는 조건으로 낙찰 금액은 약 3억원 수준으로 알려졌다.\n\n스타트업으로 출발한 핀테크 기업이 지하철 역명병기 사업을 따낸 것은 이번이 처음이다.\n\n역명병기는 지하철역의 기존 이름에 기업이나 기관 등의 이름을 부역명으로 추가하는 사업이다. 이번 낙찰에 따라 향후 신논현역의 외부 폴사인을 비롯해 출입구 역명판과 승강장 노선도 등에 '신논현(토스)'이 함께 표기될 예정이다.\n\n신논현역은 강남대로를 중심으로 9호선과 신분당선이 만나는 환승역이다. 직장인과 2030세대의 이용이 많은 강남 핵심 상권에 자리 잡고 있어 토스 입장에서는 기존 디지털 광고와 다른 방식으로 대규모 이용자에게 브랜드를 반복적으로 노출할 수 있는 공간인 셈이다.\n\n대기업·은행 이름 걸리던 지하철역…유니콘도 가세\n\n토스의 신논현역 역명병기권 확보는 국내 유니콘 기업의 달라진 자본력과 브랜드 위상을 보여주는 사례로도 평가된다.\n\n그동안 수억원에 달하는 비용이 필요한 역명병기 사업에는 자금력을 갖춘 대기업과 금융사, 대학·병원 등 대형 기관들이 주로 참여해왔다.\n\n현재 서울 지하철 주요 노선에서 역명병기를 진행하는 민간 기업을 보면 하나은행(을지로입구역), 신한카드(을지로3가역), 현대건설(안국역), 현대백화점(압구정역), 아모레퍼시픽(신용산역) 등 대기업이나 금융사가 상당수를 차지하고 있다.\n\n하지만 최근에는 온라인 플랫폼을 기반으로 빠르게 성장한 유니콘 기업들도 이 대열에 합류하기 시작했다.\n\n대표적인 곳이 무신사다. 무신사는 지난해 12월 서울 지하철 2호선 성수역 역명병기 사업을 낙찰받아 '성수(무신사)'라는 이름을 확보했다.\n\n성수동은 K패션과 K뷰티를 비롯해 팝업스토어와 각종 브랜드 매장이 밀집하면서 국내외 관광객이 찾는 서울의 대표적인 트렌드 상권으로 자리 잡았다.\n\n무신사 역시 성수동에 본사를 두고 대규모 오프라인 사업 거점을 구축하고 있다. 성수역과 무신사라는 브랜드를 연결함으로써 단순한 광고를 넘어 지역 자체를 브랜드 이미지와 결합하는 효과를 노린 것으로 풀이된다.\n\n특히 성수동을 찾는 외국인 관광객이 증가하면서 지하철 노선도와 역사 내 각종 안내판에 반복적으로 노출되는 '무신사'라는 이름은 해외 소비자에게 브랜드를 알리는 접점으로도 활용되고 있다.\n\n온라인 넘어 오프라인으로…IPO 앞두고 '대세감' 키운다\n\n업계에서는 토스와 무신사의 역명병기를 온라인 플랫폼으로 출발한 유니콘 기업들이 오프라인으로 브랜드 경험을 확장하는 'O2O(Online to Offline) 브랜딩' 전략의 일환으로 보고 있다.\n\n지하철역은 출퇴근과 통학, 쇼핑·관광 등 이용자의 일상과 밀접하게 연결된 공간이다. 이용자가 직접 검색하거나 광고를 클릭해야 하는 온라인 광고와 달리 매일 같은 공간에서 기업명을 반복적으로 노출할 수 있다는 점이 특징이다.\n\n이미 두 회사가 온라인에서 확보한 이용자 규모는 상당하다. 와이즈앱에 따르면 지난 7월 기준 토스의 월간활성이용자수(MAU)는 2626만명, 무신사는 736만명에 달한다.\n\n특히 두 플랫폼 모두 젊은 이용자층이 두텁다. 무신사는 10~30대 젊은 고객 비중이 71.5%에 달하며 토스 역시 절반 이상이 10~30대 이용자인 것으로 나타났다. 역명병기를 통해 기존 핵심 고객층뿐 아니라 다양한 연령대의 지하철 이용객으로 브랜드 접점을 넓힐 수 있다는 분석이 나오는 이유다.\n\n두 회사가 국내 유니콘 가운데 대표적인 IPO 후보로 꼽힌다는 점도 주목된다.\n\n투자시장에서는 무신사의 예상 기업가치가 10조~15조원, 토스는 10조~20조원 수준에서 거론되고 있다. 기업가치 10조원 이상을 바라보는 대형 유니콘으로 성장한 만큼 IPO를 비롯한 외형 확대를 앞두고 대중적인 브랜드 인지도를 강화하는 작업의 중요성도 커지고 있다.\n\n두 회사는 해외에서도 한국을 대표하는 스타트업으로 주목받았다. 미국 IT 매체 테크크런치는 지난 2024년 발표한 한국에서 주목해야 할 스타트업 명단에 토스와 무신사를 나란히 포함하기도 했다.\n\n업계 한 관계자는 \"토스와 무신사처럼 국내에서 확고한 플랫폼 생태계를 구축한 유니콘 기업들에게 오프라인 랜드마크 선점은 단순한 광고 이상의 의미를 갖는다\"며 \"과거 은행과 대기업들이 주도하던 지하철 역명판에 스타트업에서 출발한 기업들의 이름이 걸리는 것은 국내 산업계에서 유니콘 기업의 위상이 그만큼 높아졌다는 것을 보여준다\"고 말했다.",
+      "published": "2026-08-09T01:54:58+00:00"
     },
     {
       "id": "be0e40d6ce6f",
@@ -172,18 +244,6 @@
       "published": "2026-08-09T00:00:00+00:00"
     },
     {
-      "id": "b22ba4f9b050",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "필리핀, 가정용 1kW 태양광 사전승인 없앤다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213645",
-      "summary": "필리핀이 가정에서 콘센트 등에 연결해 사용하는 1킬로와트(kW) 이하 소형 태양광의 설치 규제를 낮췄다. 건축허가와 에너지규제위원회(ERC)의 규정준수인증서(COC)를 면제하고, 계통에 연결하는 경우에도 배전회사의 사전승인 대신 설치 후 통지하도록 했다.필리핀 에너지부(DOE)는 5일(현지시간) ‘자가발전 제로수출 태양광 및 마이크로 태양광 자체사용 정책지침’을 공개했다.적용 대상인 마이크로 태양광(MSS)은 소비자가 직접 사용하는 플러그앤플레이 방식의 설비다. 태양광 모듈은 직류 기준 최대 1k",
-      "content": "필리핀이 가정에서 콘센트 등에 연결해 사용하는 1킬로와트(kW) 이하 소형 태양광의 설치 규제를 낮췄다. 건축허가와 에너지규제위원회(ERC)의 규정준수인증서(COC)를 면제하고, 계통에 연결하는 경우에도 배전회사의 사전승인 대신 설치 후 통지하도록 했다.\n\n필리핀 에너지부(DOE)는 5일(현지시간) ‘자가발전 제로수출 태양광 및 마이크로 태양광 자체사용 정책지침’을 공개했다.\n\n적용 대상인 마이크로 태양광(MSS)은 소비자가 직접 사용하는 플러그앤플레이 방식의 설비다. 태양광 모듈은 직류 기준 최대 1kW, 계통연계형 마이크로인버터는 교류 출력 최대 800와트(W)로 제한된다. 인버터에는 계통 정전 때 자동으로 연결을 끊는 단독운전 방지 기능이 있어야 하며, 필리핀 전기규정에 맞춰 일반 가정용 벽면 콘센트나 전기회로에 연결할 수 있다.\n\nMSS를 설치할 때는 별도의 건축허가나 ERC의 COC가 필요하지 않다. 계통연계형 설비는 설치 사실을 배전회사에 알리면 되며, 배전회사는 사전 설치 승인이나 기술허가, 검사비 등을 설치 조건으로 요구할 수 없다.\n\n전력망 영향을 확인하기 위한 배전영향평가(DIS)는 배전회사가 자체 비용으로 실시할 수 있지만 이를 이유로 설치를 늦추거나 막을 수 없다. 배전회사들은 시행 후 30일 안에 내부 절차를 설치 후 통지 방식으로 바꿔야 한다.\n\n다만 소형 태양광에서 남은 전력이 계통으로 흘러가더라도 자동으로 전기요금 할인이나 금전 보상을 받는 것은 아니다. 별도의 넷미터링 계약을 체결하지 않은 MSS의 계통 송전량은 무보상 전력으로 처리된다. 이번 제도는 전력 판매보다 가정이나 건물에서 직접 소비하는 소규모 태양광의 설치 절차를 줄이는 데 초점이 맞춰져 있다는 분석이다.",
-      "published": "2026-08-08T23:50:00+00:00"
-    },
-    {
       "id": "8b802be6d3e7",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -196,18 +256,6 @@
       "published": "2026-08-08T23:40:10+00:00"
     },
     {
-      "id": "f119ddd7fb70",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "라트비아, 태양광 1.5GW 돌파…6월 전력 생산의 55% 차지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=213639",
-      "summary": "라트비아에서 태양광이 두 달 연속 최대 전력 생산원에 올랐다. 6월 태양광 발전량은 274기가와트시(GWh)로 역대 최고치를 기록했으며 전체 국내 발전량의 절반 이상을 차지했다.라트비아 송전망 운영기관 아우그스트스프리에구마 티클스(AST)에 최근 발표에 따르면 6월 태양광 발전량은 전월보다 17% 증가한 274GWh로 집계됐다. 지난해 같은 달과 비교하면 3.2배 늘었다. 같은 기간 라트비아 전체 발전량은 495GWh로 태양광 비중은 약 55%에 달했다.태양광은 5월 처음으로 수력발전을 넘어 라트",
-      "content": "라트비아에서 태양광이 두 달 연속 최대 전력 생산원에 올랐다. 6월 태양광 발전량은 274기가와트시(GWh)로 역대 최고치를 기록했으며 전체 국내 발전량의 절반 이상을 차지했다.\n\n라트비아 송전망 운영기관 아우그스트스프리에구마 티클스(AST)에 최근 발표에 따르면 6월 태양광 발전량은 전월보다 17% 증가한 274GWh로 집계됐다. 지난해 같은 달과 비교하면 3.2배 늘었다. 같은 기간 라트비아 전체 발전량은 495GWh로 태양광 비중은 약 55%에 달했다.\n\n태양광은 5월 처음으로 수력발전을 넘어 라트비아 최대 발전원이 됐다. 5월 태양광은 235GWh를 생산해 수력발전 227GWh를 앞섰다. 6월에는 태양광 발전량이 274GWh로 늘어난 반면 수력은 158GWh로 감소하면서 격차가 더 커졌다.\n\n최근 라트비아에 대규모 태양광 설비가 잇따라 전력망에 연결되면서 발전량도 빠르게 증가하고 있다는 평이다. 라트비아는 전통적으로 수력발전 비중이 높은 국가지만 올해 여름에는 태양광이 이를 넘어서는 변화가 나타났다.\n\n향후 태양광과 풍력 설비가 추가로 연결될 예정인 만큼 발전설비 확대와 함께 송전망 수용능력과 전력 저장 설비 확보가 주요 과제가 될 것이라는 분석이 나온다.",
-      "published": "2026-08-08T23:30:00+00:00"
-    },
-    {
       "id": "bf97f28472e5",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -218,42 +266,6 @@
       "summary": "[지디넷코리아]극장에서 막을 내린 영화가 OTT에서 보려면 6개월의 '공백'이 생길 수 있다. 제작사와 투자사가 영화를 더 빨리 OTT에 공급하고 싶어도 일정 기간 기다려야 한다. 국회에서 논의 중인 '홀드백' 의무화 법안이 시행될 경우 벌어질 수 있는 상황이다.이를 두고 콘텐츠 업계의 입장은 극명하게 엇갈린다. 극장 업계는 관객 이탈을 막고 극장 생태계를 보호하기 위한 안전장치가 필요하다고 주장하지만, 실제 영화 제작자와 OTT 업계는 영화 유통 시기를 일률적으로 제한하면 투자금 회수가 어려워지",
       "content": "극장 보호 취지에도 영화·OTT 업계 반발…콘텐츠 확보·투자금 회수 차질 우려\n\n방송/통신 입력 :2026/08/09 08:00\n\n극장에서 막을 내린 영화가 OTT에서 보려면 6개월의 '공백'이 생길 수 있다. 제작사와 투자사가 영화를 더 빨리 OTT에 공급하고 싶어도 일정 기간 기다려야 한다. 국회에서 논의 중인 '홀드백' 의무화 법안이 시행될 경우 벌어질 수 있는 상황이다.\n\n이를 두고 콘텐츠 업계의 입장은 극명하게 엇갈린다. 극장 업계는 관객 이탈을 막고 극장 생태계를 보호하기 위한 안전장치가 필요하다고 주장하지만, 실제 영화 제작자와 OTT 업계는 영화 유통 시기를 일률적으로 제한하면 투자금 회수가 어려워지고 콘텐츠 경쟁력까지 떨어질 수 있다며 반발하고 있다.\n\n정부가 AI와 모빌리티 등 미래 산업 분야에서 규제 완화에 나선 가운데 미디어콘텐츠 산업에서는 이처럼 새로운 규제 도입을 둘러싼 논란이 커지고 있다.\n\n현재 국회 문화체육관광위원회에는 홀드백 의무화 내용을 담은 '영화 및 비디오물의 진흥에 관한 법률 개정안'이 계류돼 있다. 영화의 극장 상영이 종료된 뒤 일정 기간 OTT 등 다른 플랫폼에서 유통하지 못하도록 하는 것이 골자다.\n\n홀드백은 극장과 다른 플랫폼 간 영화 유통 시기에 일정한 간격을 두는 것을 뜻한다. 그동안 작품별 계약이나 배급 전략 등에 따라 유통 시기를 정해왔지만, 개정안이 통과되면 법으로 일정 기간을 보장하게 된다.\n\n극장 업계는 홀드백이 무너질수록 관객이 극장을 찾을 유인이 줄어든다고 보고 있다. 개봉작을 짧은 기간 안에 OTT에서 볼 수 있다면 관객들이 극장 관람 대신 OTT 공개를 기다릴 가능성이 커진다는 것이다. 코로나19 이후 극장 관객 회복이 더딘 상황에서 최소한의 극장 상영 기간을 보호할 장치가 필요하다는 주장이다.\n\n반면 영화계에서는 일률적인 홀드백이 오히려 영화 산업의 투자와 제작 환경을 악화시킬 수 있다고 우려한다.\n\n봉준호 감독을 비롯한 영화인 581명은 지난 4월 성명을 내고 법안의 전면 철회를 요구했다. 스크린 독점 등으로 개별 영화의 극장 상영 기간이 짧아진 상황에서 홀드백까지 의무화하면 극장 상영 이후 OTT 등 다른 유통망을 활용한 투자금 회수가 늦어질 수 있다는 이유에서다.\n\n관객 선택권이 줄어들 수 있다는 지적도 나온다. 극장 상영이 사실상 끝난 작품이라도 홀드백 기간이 남아 있다면 관객은 해당 영화를 OTT 등 다른 플랫폼에서 곧바로 볼 수 없기 때문이다.\n\n논란은 극장과 영화계를 넘어 국내 OTT 산업으로도 번지고 있다.\n\n티빙과 웨이브는 국내 OTT 경쟁력을 높이고 글로벌 시장에 진출하기 위해 합병을 추진해왔다. 양사가 몸집을 합쳐 넷플릭스와 디즈니플러스 등 글로벌 사업자에 맞설 콘텐츠 경쟁력을 확보하는 것이 주요 과제로 꼽힌다.\n\n이런 상황에서 홀드백이 일괄적으로 의무화되면 국내 OTT가 극장 개봉작을 빠르게 확보해 가입자를 유치하는 전략에도 제약이 생길 수 있다. 흥행작을 적기에 공급해 이용자를 끌어들이고 플랫폼에 머물도록 하는 것이 중요한 OTT 사업 특성상 콘텐츠 공급 시기가 늦어지는 것 자체가 경쟁력 약화로 이어질 수 있다는 우려다.\n\n특히 작품마다 제작비와 투자 구조, 극장 흥행 성적이 다른 만큼 모든 영화에 동일한 유통 기준을 적용하는 것이 적절한지를 두고도 의문이 제기된다. 흥행에 성공해 장기간 극장에서 상영되는 작품과 관객 확보에 실패해 빠르게 상영이 종료된 작품을 같은 기준으로 묶을 경우 후자의 투자금 회수 기회가 더 줄어들 수 있어서다.\n\n정부가 AI와 같은 미래 산업에서는 규제를 걷어내며 민간의 혁신과 경쟁을 강조하는 것과 달리 콘텐츠 산업에서는 새로운 규제가 만들어지는 데 대한 우려도 나온다. K콘텐츠가 글로벌 시장에서 경쟁하는 상황에서 국내 사업자의 콘텐츠 유통 전략을 법으로 제한하는 것이 산업 경쟁력 강화 기조와 맞지 않는다는 지적이다.\n\n극장 생태계를 보호해야 한다는 필요성에는 공감하면서도 이를 일률적인 홀드백 의무화로 해결하기보다 영화와 극장, OTT가 처한 현실을 함께 고려해야 한다는 목소리가 나오는 이유다.\n\n업계에서는 작품별 흥행 성적과 투자 구조, 유통 전략 등을 고려할 수 있도록 제도를 유연하게 설계해야 한다고 지적하고 있다. 극장과 영화 제작·투자사, OTT 등 이해관계자들의 의견을 충분히 수렴해 극장 생태계 보호와 K콘텐츠 경쟁력을 함께 확보할 수 있는 방안을 마련해야 한다는 것이다.",
       "published": "2026-08-08T23:00:34+00:00"
-    },
-    {
-      "id": "17550ebbc733",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "美상무부, 中 AI 기업 해외 '클라우드 연산 임대' 조사 착수",
-      "link": "https://zdnet.co.kr/view/?no=20260808162759",
-      "summary": "[지디넷코리아]미국 정부가 중국 인공지능(AI) 기업이 해외 데이터센터에 설치된 엔비디아 첨단 칩 연산능력을 임대하는 방식으로 대중 수출규제를 우회하는 실태에 대한 전면 조사에 착수했다. 중국 AI 기업 기술력이 빠르게 높아지면서 미국의 대중 반도체 제재 실효 논란이 커진 데 따른 조치다. 블룸버그 통신은 미 상무부 산업안보국(BIS)의 단속 전담 부서가 중국 AI 기업들이 해외 데이터센터를 통해 엔비디아 첨단 프로세서에 접근하는 경로를 조사하기 시작했다고 8일(현지시간) 보도했다.이번 조사는 중",
-      "content": "'키미 K3' 파장에 우회로 단속…원격연산 차단·블랙리스트 지정 추진\n\n반도체ㆍ디스플레이 입력 :2026/08/09 08:00\n\n미국 정부가 중국 인공지능(AI) 기업이 해외 데이터센터에 설치된 엔비디아 첨단 칩 연산능력을 임대하는 방식으로 대중 수출규제를 우회하는 실태에 대한 전면 조사에 착수했다. 중국 AI 기업 기술력이 빠르게 높아지면서 미국의 대중 반도체 제재 실효 논란이 커진 데 따른 조치다.\n\n블룸버그 통신은 미 상무부 산업안보국(BIS)의 단속 전담 부서가 중국 AI 기업들이 해외 데이터센터를 통해 엔비디아 첨단 프로세서에 접근하는 경로를 조사하기 시작했다고 8일(현지시간) 보도했다.\n\n이번 조사는 중국 AI 유니콘 문샷 AI가 미국 앤트로픽이나 오픈AI의 최신 모델에 필적하는 성능을 내세운 '키미 K3'를 공개한 직후 본격화됐다. 미 백악관 고위 관계자는 문샷 AI가 태국의 제3자 업체를 통해 엔비디아 최신 반도체 블랙웰 연산 자원에 원격 접근해 모델을 학습했다는 의혹을 제기했다.\n\nBIS는 중국으로 엔비디아 첨단 칩이 밀반출되는 국가와 경로를 파악하는 동시에 중국 기업이 해외 데이터센터에 구축된 엔비디아 칩 연산 자원을 원격 이용하는 실태를 조사하고 있다.\n\n특히 태국과 말레이시아 등 동남아시아는 중국 AI 기업의 클라우드 연산 수요가 몰리면서 데이터센터 건설이 빠르게 늘고 있는 지역이다. 알리바바의 경우 미 당국 조사를 받고 있는 싱가포르 기업 메가스피드가 말레이시아에 구축한 엔비디아 칩 기반 연산 자원에 케이맨 제도 소재 페이퍼컴퍼니를 거쳐 접근하는 등 복잡한 우회 구조를 활용한 것으로 알려졌다.\n\n문제는 현행 미국 수출관리규정(EAR)이 주로 반도체 등 물리적 제품 이동을 통제하는 데 초점을 맞추고 있다는 점이다. 해외 데이터센터의 그래픽처리장치(GPU) 연산능력을 클라우드 형태로 임대하는 행위까지 상무부가 직접 규제할 법적 권한이 있는지를 두고 논의가 이어지고 있다.\n\n미 하원은 이 같은 원격접근을 차단하기 위한 법안을 통과시켰지만, 엔비디아 등 미국 기술 기업들은 규제가 강화되면 동남아 데이터센터 시장을 해외 경쟁사에 내줄 수 있다며 반발하고 있다.\n\n블룸버그 통신은 백악관 관계자 발언을 인용해 \"트럼프 행정부는 현대 역사상 가장 엄격한 수출통제 체제를 시행해 왔으며, 미국 국가 안보와 경제 안보를 수호하기 위해 계속 노력할 것\"이라고 밝혔지만, 원격접속에 대한 구체적 질문에는 직접적 답변을 피했다고 보도했다.",
-      "published": "2026-08-08T23:00:03+00:00"
-    },
-    {
-      "id": "8d3bf9b2a99d",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "죽고 멈추고…‘자율주행’ 사고에 안전 직접 검증 나선 中",
-      "link": "https://zdnet.co.kr/view/?no=20260808224530",
-      "summary": "[지디넷코리아]중국 정부가 레벨3, 4 자율주행차에 대한 자체 검증 기준을 의무화한다. 인명 사고, 대규모 운행 중단 사고 등 자율주행 기술이 확산되는 과정에서 사고가 잇따른 가운데 상세한 규제 마련에 속도를 내는 것으로 보인다.9일 관련 업계와 외신에 따르면 중국 산업정보화부(MIIT)는 지난 4일 자율주행 시스템 표준 ‘GB 44721 - 2026’을 내년 7월부터 도입한다고 발표했다. 이전에 적용되던 기술 표준은 법적 구속력이 없던 반면, 이번 표준은 모든 관련 기업들에 의무화된다.미국자동차",
-      "content": "내년 7월부터 규제 의무화…자국 기업 경쟁력 제고 전망\n\n카테크 입력 :2026/08/09 07:47\n\n중국 정부가 레벨3, 4 자율주행차에 대한 자체 검증 기준을 의무화한다. 인명 사고, 대규모 운행 중단 사고 등 자율주행 기술이 확산되는 과정에서 사고가 잇따른 가운데 상세한 규제 마련에 속도를 내는 것으로 보인다.\n\n9일 관련 업계와 외신에 따르면 중국 산업정보화부(MIIT)는 지난 4일 자율주행 시스템 표준 ‘GB 44721 - 2026’을 내년 7월부터 도입한다고 발표했다. 이전에 적용되던 기술 표준은 법적 구속력이 없던 반면, 이번 표준은 모든 관련 기업들에 의무화된다.\n\n미국자동차기술협회(SAE)에 따르면 레벨3는 시스템이 주행을 맡지만 돌발 시 운전자가 즉시 개입해야 하는 단계다. 레벨4는 운전자 개입이 필요 없는 고도 자율주행을 지칭한다.\n\n이번 표준 발표에 따라 자율주행차 기업은 시스템 작동 원리와 위험 요소 및 완화 조치 등을 담은 안전 문서를 규제 당국에 제출해야 한다. 연구개발부터 제조, 사후관리 등 전 사업 영역을 아우르는 안전 관리 체계 구축도 요구된다. 제3자 기관이 트랙 및 도로 주행 테스트 등을 거쳐 이같은 기술 역량을 검증하게 된다. 이 테스트는 중국 내 도로 환경에 맞춰 마련될 전망이다.\n\n국제 표준 논의와 별도로 중국이 레벨3, 레벨4 자율주행차에 대한 기술 요건을 도입한 점 또한 주목이 쏠린다. 국제 표준을 준수하는 차량이더라도 중국 내 판매를 위해선 GB 44721 - 2026 인증 절차를 거쳐야 하는 것이다.\n\n이는 해외 기업의 중국 시장 진입 장벽으로 작용할 뿐 아니라, 중국 내 도로 환경 위주로 기술을 개발하는 자국 기업의 경쟁력 제고에도 기여할 것이란 전망이 나온다.\n\n중국 내에서 자율주행 기능과 연관된 사고들이 점차 이슈로 부상하는 점이 이번 규제 발표에 영향을 줬다는 분석도 나타난다.\n\n일례로 지난해 3월 샤오미 ‘SU7’가 주행 보조 기능인 내비게이션파일럿(NOA)를 사용하다 충돌해 3명이 사망하는 사고가 발생했다. 지난 3월 바이두 무인 로보택시 ‘아폴로 고’ 100대 가량이 도로 중간에서 동시에 멈춰 충돌 사고를 다수 일으킨 것으로도 전해졌다.\n\n중국은 지난해 12월 창안자동차 전기차 ‘디팔’, 베이징자동차(BAIC)의 전기차 브랜드 ‘아크폭스’ 모델을 시작으로 레벨 3 자율주행차에 대한 도로 주행을 허가했다.",
-      "published": "2026-08-08T22:47:46+00:00"
-    },
-    {
-      "id": "12b413b923af",
-      "source": "ZDNet Korea",
-      "kind": "article",
-      "category": "TECH",
-      "lang": "ko",
-      "title": "서버는 국내에 뒀는데 데이터는 해외로…'소버린 클라우드'의 함정",
-      "link": "https://zdnet.co.kr/view/?no=20260808140522",
-      "summary": "[지디넷코리아]소버린 클라우드를 구축할 때 서버와 데이터를 특정 국가 안에 두는 것만으로는 데이터 주권을 보장하기 어렵다는 경고가 나왔다.데이터가 실제 이동하는 네트워크 경로와 보안 처리 위치, 클라우드 사업자의 관리 방식에 따라 구축 당시 충족했던 주권 요건이 운영 과정에서 달라질 수 있어 지속적인 검증이 필요하다는 지적이다.9일 가트너가 발표한 '소버린 클라우드의 함정' 보고서에 따르면 오는 2030년까지 디지털 주권을 추진하는 조직의 50%가 실제 네트워크 운영 방식과 일치하지 않는 요건을 ",
-      "content": "가트너 \"서버 위치만으론 데이터 주권 보장 못해…네트워크 운영 검증해야\"\n\n컴퓨팅 입력 :2026/08/09 07:46\n\n소버린 클라우드를 구축할 때 서버와 데이터를 특정 국가 안에 두는 것만으로는 데이터 주권을 보장하기 어렵다는 경고가 나왔다.\n\n데이터가 실제 이동하는 네트워크 경로와 보안 처리 위치, 클라우드 사업자의 관리 방식에 따라 구축 당시 충족했던 주권 요건이 운영 과정에서 달라질 수 있어 지속적인 검증이 필요하다는 지적이다.\n\n9일 가트너가 발표한 '소버린 클라우드의 함정' 보고서에 따르면 오는 2030년까지 디지털 주권을 추진하는 조직의 50%가 실제 네트워크 운영 방식과 일치하지 않는 요건을 전제로 시스템을 운영할 것으로 전망됐다.\n\n보고서는 기업들이 애플리케이션과 데이터 위치, 클라우드 사업자의 계약 조건 등을 중심으로 소버린 클라우드를 판단하고 있지만 이같은 조건만으로는 실제 운영 과정에서 주권을 보장하기 어렵다고 분석했다.\n\n소버린 클라우드는 데이터와 시스템을 특정 국가나 관할권 안에서 운영해 해외 정부나 기업 등에 대한 의존도를 줄이고 데이터·운영 통제권을 확보하는 개념이다.\n\n최근에는 소버린 인공지능(AI)과 인프라 등으로 적용 범위가 확대되고 있다. 기업과 정부는 규제 준수와 지정학적 위험 축소 등을 목적으로 관련 도입을 확대 중이다.\n\n문제는 데이터와 서버가 지정된 국가 안에 있더라도 실제 서비스 운영 과정에선 다양한 네트워크가 개입한다는 점이다. 데이터 이동 경로를 비롯해 보안 검사·복호화 위치, 로그와 모니터링 데이터 처리 장소, 관리 기능, 클라우드 사업자의 원격 관리 위치 등이 데이터 및 운영 주권에 영향을 줄 수 있다는 설명이다.\n\n특히 장애나 재해복구(DR) 상황에선 기존에 설정된 주권 요건이 깨질 가능성이 있다. 평상시에는 지정된 국가 안에서 데이터가 처리되더라도 장애가 발생해 다른 통신 경로를 이용하거나 관리 기능이 다른 국가의 시스템으로 자동 전환될 경우 데이터와 운영 권한이 기존 주권 경계를 벗어날 수 있다는 것이다.\n\n가트너는 이런 문제를 '주권 격차', '주권 드리프트', '주권 상실' 등으로 구분했다. 처음부터 실제 운영 환경이 설정한 주권 요건을 충족하지 못하는 경우는 주권 격차, 클라우드 사업자의 아키텍처나 서비스 변경 등으로 기존 조건이 달라지는 것은 주권 드리프트다. 장애나 네트워크 경로 변경으로 기존에 충족하던 주권 조건이 일시적으로 깨지는 상황은 주권 상실에 해당한다.\n\n실제 보고서에 제시된 소버린 AI 사례에서도 이러한 위험이 나타났다. 한 다국적 기업은 AI 모델과 학습 데이터, 추론 서비스를 지정된 지역 안에 구축했지만 DR 테스트 과정에서 관리 기능 일부가 일시적으로 다른 관할권으로 넘어가는 사실을 확인했다. 이후 클라우드 사업자가 처리 아키텍처를 변경하면서 데이터 경로가 지정된 지리적 경계를 벗어나는 상황도 발생했다.\n\n이에 가트너는 기업들이 소버린 클라우드 구축 시 네트워크 의존성을 우선 파악하고 실제 운영 환경을 검증해야 한다고 제언했다. 정상 운영뿐 아니라 유지보수와 장애, 페일오버, 복구 상황에서 데이터가 어떤 경로로 이동하고 어디에서 처리되는지 확인해야 한다는 제언이다.\n\n기존 모니터링 도구만으로 확인하기 어려운 경우 네트워크 관측과 트래픽 경로 분석, 텔레메트리 감사, 관리자 접근 모니터링, DR 테스트 등을 활용할 수 있다.\n\n또 소버린 클라우드 평가는 구축 시점에 한 번 실시하는 절차에 그쳐선 안 된다고 강조했다. 클라우드 사업자가 인프라 구조를 변경하거나 새로운 서비스를 추가하고 통신 사업자와 규제·지정학적 환경이 바뀌면 기존에 검증한 주권 요건도 달라질 수 있어서다. 이에 주요 아키텍처와 클라우드·보안·네트워크 변경 사항을 지속적으로 점검하는 체계가 필요하다고 설명했다.\n\n가트너는 \"소버린 클라우드는 설계나 구축 결정만으로 주권을 보장할 수 없다\"며 \"네트워크 의존성이 실제 운영 과정에서 어떻게 작동하는지 지속적으로 검증하고 모니터링해야 한다\"고 밝혔다.",
-      "published": "2026-08-08T22:46:23+00:00"
     },
     {
       "id": "2b36785105c2",
@@ -275,7 +287,7 @@
       "lang": "en",
       "title": "Danish high schoolers will have to verbally defend written assignments",
       "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 524 # Comments: 248",
+      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 535 # Comments: 248",
       "content": "The policy takes effect immediately, but educators say the first response must evolve as AI tools keep advancing.\n\nDanish high school students will be required to defend their written assignments orally under new government measures aimed at combating cheating with artificial intelligence.\n\nThe Ministry of Education said that an oral defense will become mandatory for all written assignments completed at home and that it will work closely with schools to develop the best framework for implementing these changes.\n\nThe regulation takes effect immediately and applies to upper-secondary students, who are typically around 16 years old. The measure concerns approximately 9,000 students enrolled in the two-year HF (Higher Preparatory Examination) program, who are required to submit major written assignments each year, the ministry said.\n\nThe ministry is also urging upper-secondary schools to use screen-monitoring tools during exams and introduce firewalls to restrict the content students can access during classes and final assignments.\n\nIn addition, schools are advised to have more assignments completed on campus under controlled conditions so that supervision can be more effective.\n\nThree organizations representing school leaders, teachers, and upper-secondary students welcomed the measures but called for more lasting solutions in response to the “rapid pace of technological development,” the association Danske Gymnasier reported on Thursday.\n\n“Unfortunately, we have a problem with students using AI to cheat in upper-secondary schools. Action is needed now, and we are starting with these three initiatives. In the coming period, I will involve schools, teachers, and students in discussions about what can be done both in the short and long term to ensure that AI does not undermine students’ skills, their academic abilities, or, not least, their capacity for independent thought,”\n\n“These requirements include having students clearly state when AI has been used in major written assignments and ensuring that preparation for oral exams takes place without access to AI,”\n\nAccording to Oscar Tønsberg Hoffmann, chair of the Danish Association of Upper-Secondary Students (DGS), it is important that students have the opportunity to help develop long-term solutions and participate in shaping future policies.\n\n“It is important that students have the opportunity to help develop long-term solutions.”\n\n– Oscar Tønsberg Hoffmann\n\nThe Danish Association of Upper-Secondary Schools also emphasizes the need for a swift and considered response to technological development, while the Ministry of Education says that the three initiatives are only the beginning and that consultations with educational institutions, teachers, and students will continue in both the short and long term.\n\nThe government assured that efforts to prevent AI-assisted cheating and develop critical thinking and independent learning skills will remain a priority in reforming Denmark’s education system.\n\nRelated news for you:",
       "published": "2026-08-08T18:09:31+00:00"
     },
@@ -287,7 +299,7 @@
       "lang": "en",
       "title": "Fastmail offers EU data region",
       "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 332 # Comments: 158",
+      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 346 # Comments: 174",
       "content": "Many of you have been telling us that where your email is stored matters to you. There are various reasons for this, like local law, keeping your data close to home, or compliance.\n\nYou can now make the European Union the primary home for your Fastmail data, on our own secure servers in Amsterdam. Previously, all accounts were stored entirely in the US. Now you have more choice.\n\nWe’ve installed our own servers, co-located in a secure facility in Amsterdam, set up by our own engineers. This new location is built to the same high standards as our existing infrastructure in Philadelphia and St Louis, with our own hardware and our own software — specified right down to the exact model of disks in each machine.\n\nIn all our locations, data is stored encrypted at rest inside locked racks, and managed by our in-house team. We don’t rent computing or management services from a big cloud provider and pass on their assurances. That’s how we’ve approached privacy, reliability, and performance for more than 25 years.\n\nFor many years, we have kept at least two copies of everybody’s email on separate servers in their primary location, and at least one more in a geographically separate location to ensure data safety.\n\nHere’s the detail about where your data will flow based on your regional choice.\n\nIf what you need is a guarantee that your data remains only in the EU, we don’t have that, and we’d rather tell you directly than let you assume otherwise.\n\nWe pre-selected all the users with billing addresses in or near Europe for the EU region. If you are one of these, an encrypted copy of your data was transferred to Europe in advance of this announcement, and will shortly become your primary copy. You can change region to the US and your data will migrate back.\n\nConversely, if we didn’t identify you for our initial group, you can put yourself in the queue to be migrated. Moves this way will be a little slower because there’s no copy of the data already in the region, so we have to sync every email across the ocean! For those moving back, there’s already a copy in the US, so only a small amount of data needs to be synchronised to fully reconcile your mailbox.\n\nThis blog post is all about giving you the facts and the tools to make the trade-off that’s right for you. Most providers decide for you and tell you as little as they can get away with. We’d rather show our work — what’s replicated, what isn’t, who can compel what — and let you choose with your eyes open.\n\nIf you were with us when we selected the users to transfer, we’ve pre-set your region based on your billing address. If you signed up more recently, you’ll have been allocated to the US. Either way, if you’d prefer a different region, you can switch it in your settings.\n\nGo to Settings → Users & Sharing → Team Settings , then look below GDPR for the Data residency section. Pick your location and we’ll move your primary copy for you. You’ll see it go from queued, to transferring, to done, and your account keeps working the whole time. You can change your mind and move back, though we may place reasonable limits on how frequently you can change region!\n\nWe’re really excited to have another location, and to be able to offer this option to you. Setting this up was a significant investment. We considered a surcharge for choosing the EU, but we don’t believe that’s right. We proudly charge a fair rate for an exceptional service, and this choice should be yours. Select the region that is right for you.",
       "published": "2026-08-08T16:04:51+00:00"
     },
