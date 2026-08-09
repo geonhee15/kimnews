@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T16:28:05.421318+00:00",
-  "count": 8671,
+  "updated_at": "2026-08-09T17:04:53.450562+00:00",
+  "count": 8672,
   "items": [
     {
       "id": "8b69fc646cf8",
@@ -628,6 +628,17 @@
       "link": "https://shopify.engineering/scaling-inventory-reservations",
       "published": "2026-08-08T22:32:50+00:00",
       "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 207 # Comments: 119"
+    },
+    {
+      "id": "f9ea1d9d9ee6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We replaced Redis with MySQL for inventory reservations and it scaled",
+      "link": "https://shopify.engineering/scaling-inventory-reservations",
+      "published": "2026-08-08T22:32:50+00:00",
+      "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 303 # Comments: 203"
     },
     {
       "id": "145049bfdb46",
