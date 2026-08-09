@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-09T12:03:47.474623+00:00",
-  "count": 8663,
+  "updated_at": "2026-08-09T13:14:13.993768+00:00",
+  "count": 8666,
   "items": [
+    {
+      "id": "e465f9b4cd4d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "published": "2026-08-09T13:00:00+00:00",
+      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new."
+    },
+    {
+      "id": "abe5458061e1",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "구글이 웹사이트를 AI용으로 바꾸기 시작했다",
+      "link": "https://www.youtube.com/watch?v=tfrDp6FnhZc",
+      "published": "2026-08-09T12:15:39+00:00",
+      "summary": ""
+    },
     {
       "id": "8b9c45041a6d",
       "source": "The Verge",
@@ -441,6 +463,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260809083702",
       "published": "2026-08-08T23:40:10+00:00",
       "summary": "[지디넷코리아]중국이 '키미 K3', '딥시크 V4' 등 가성비 인공지능(AI) 모델 공급을 넘어 국산 칩부터 오픈웨이트 모델, 기업용 에이전트, 휴머노이드 등 로봇까지 연결하는 'AI 풀스택' 구축에 나섰다. 정부 주도의 기술 자립 전략에 힘입어 자국 모델과 에이전트, 피지컬 AI 채택이 빠르게 확산하는 가운데 2030년에는 자국산 AI 가속기 비중이 절반을 넘어설 것이라는 전망도 나온다.가트너가 이달 초 발간한 '2026년 중국 AI 톱 트렌드' 보고서에 따르면 중국 기업의 54%가 AI 에이"
+    },
+    {
+      "id": "63feb9e4db3a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "link": "https://os8088.com/",
+      "published": "2026-08-08T23:37:27+00:00",
+      "summary": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 200 # Comments: 120"
     },
     {
       "id": "f119ddd7fb70",
