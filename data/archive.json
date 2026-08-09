@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T15:46:01.602698+00:00",
-  "count": 8669,
+  "updated_at": "2026-08-09T16:28:05.421318+00:00",
+  "count": 8671,
   "items": [
+    {
+      "id": "8b69fc646cf8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "published": "2026-08-09T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
     {
       "id": "9c803948c09e",
       "source": "TechCrunch",
@@ -727,6 +738,17 @@
       "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
       "published": "2026-08-08T14:32:33+00:00",
       "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 493 # Comments: 330"
+    },
+    {
+      "id": "0a1cb72ed8d6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "published": "2026-08-08T13:33:06+00:00",
+      "summary": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 203 # Comments: 44"
     },
     {
       "id": "4aa122c2db97",
