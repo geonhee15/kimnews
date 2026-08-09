@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T10:27:23.545302+00:00",
-  "count": 8660,
+  "updated_at": "2026-08-09T11:02:04.490400+00:00",
+  "count": 8662,
   "items": [
+    {
+      "id": "b4e7c08d3a50",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "published": "2026-08-09T10:30:00+00:00",
+      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source."
+    },
     {
       "id": "fda006c85f76",
       "source": "Wired",
@@ -111,6 +122,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213713",
       "published": "2026-08-09T03:31:09+00:00",
       "summary": "스페이스XAI가 단순히 한 장의 이미지를 만드는 데 그치지 않고 복잡한 레이아웃과 정확한 텍스트 표현, 반복적인 이미지 편집, 캐릭터와 배경의 시각적 일관성 유지 등에 초점을 맞춘 이미지 모델을 공개했다.스페이스XAI는 8일(현지시간) 이미지 생성·편집 모델 ‘이매진 이미지 2.0(Imagine Image 2.0)’을 출시했다. 이매진 이미지 2.0은 스페이스XAI의 웹 기반 이미지 생성 서비스와 그록(Grok)의 iOS·안드로이드 앱에서 새로운 ‘퀄리티 모드(Quality Mode)’로 제공된다"
+    },
+    {
+      "id": "2fb8afc1a4cf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "published": "2026-08-09T03:26:00+00:00",
+      "summary": "Thread for original post: https://news.ycombinator.com/item?id=49214863 Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 200 # Comments: 20"
     },
     {
       "id": "69cf236469c2",
