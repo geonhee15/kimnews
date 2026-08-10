@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-10T22:34:26.096381+00:00",
-  "count": 8825,
+  "updated_at": "2026-08-10T23:17:57.398360+00:00",
+  "count": 8830,
   "items": [
+    {
+      "id": "f3b5ab29af84",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "published": "2026-08-10T22:13:03+00:00",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward."
+    },
     {
       "id": "884d9e8b03e8",
       "source": "AI타임스",
@@ -23,6 +34,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
       "published": "2026-08-10T22:00:00+00:00",
       "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. Wha"
+    },
+    {
+      "id": "ef4dcf6fbc8f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+      "link": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+      "published": "2026-08-10T21:26:38+00:00",
+      "summary": "A reminder of the perils of digital ownership."
     },
     {
       "id": "5e5733cac903",
@@ -47,6 +69,17 @@
       "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
     },
     {
+      "id": "f5470921f38c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "published": "2026-08-10T20:45:52+00:00",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits."
+    },
+    {
       "id": "dbc5af0c7a09",
       "source": "Hacker News",
       "kind": "article",
@@ -67,6 +100,17 @@
       "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
       "published": "2026-08-10T20:04:24+00:00",
       "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class's waitlist. And the tech industry took notice."
+    },
+    {
+      "id": "62ee442ad042",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+      "link": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "published": "2026-08-10T20:01:15+00:00",
+      "summary": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call."
     },
     {
       "id": "bd8e4bdc0d72",
@@ -331,6 +375,17 @@
       "link": "https://bobdahacker.com/blog/tldv-hack",
       "published": "2026-08-10T12:26:05+00:00",
       "summary": "Article URL: https://bobdahacker.com/blog/tldv-hack Comments URL: https://news.ycombinator.com/item?id=49242739 Points: 382 # Comments: 131"
+    },
+    {
+      "id": "1e28c7cfc74c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Squeak 6.1",
+      "link": "https://squeak.org/release_notes/6.1/",
+      "published": "2026-08-10T12:15:53+00:00",
+      "summary": "Article URL: https://squeak.org/release_notes/6.1/ Comments URL: https://news.ycombinator.com/item?id=49242653 Points: 204 # Comments: 104"
     },
     {
       "id": "d4dfd529cc53",
