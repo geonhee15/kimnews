@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-10T08:56:53.352874+00:00",
-  "count": 8758,
+  "updated_at": "2026-08-10T10:13:10.365019+00:00",
+  "count": 8769,
   "items": [
+    {
+      "id": "6bfffeaeca14",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Wireless Earbuds We’d Buy Right Now (2026): Apple, Sony, Bose, and More",
+      "link": "https://www.wired.com/story/best-wireless-earbuds/",
+      "published": "2026-08-10T10:04:00+00:00",
+      "summary": "We tested over a hundred wireless earbuds—these models from Apple, Bose, Beats, and Samsung stood out from the rest."
+    },
+    {
+      "id": "b278b66a3d27",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Each Octopus Arm Has a Mind of Its Own",
+      "link": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
+      "published": "2026-08-10T10:00:00+00:00",
+      "summary": "Two-thirds of an octopus’s neurons are in its arms—each operating independently—including the one it uses to have sex."
+    },
+    {
+      "id": "d41114ae4a8f",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI for science needs reasoning, not just data",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the en"
+    },
+    {
+      "id": "3a16cc32f8af",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "published": "2026-08-10T09:00:00+00:00",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in"
+    },
+    {
+      "id": "e1774755a1c5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'동시 소통' AI 에이전트 등장…단일 '클로드 오퍼스 4.8' 성적 뛰어넘었다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213766",
+      "published": "2026-08-10T08:56:00+00:00",
+      "summary": "AI 에이전트들이 작업 도중 실시간으로 정보를 주고받으며 협업할 수 있도록 하는 새로운 통신 기술이 등장했다.스타트업 코랄 AI 랩스(Coral AI Labs)와 대학 공동 연구진은 최근 에이전트가 자신의 작업을 중단하지 않고도 다른 에이전트의 발견과 메시지를 실시간으로 전달받을 수 있도록 설계된 비동기 메시지 전달 계층 ‘에이전트라디오(AgentRadio)’를 온라인 아카이브를 통해 공개했다.연구진은 이 기술을 적용한 4개 에이전트 팀이 장시간 코드 분석 벤치마크에서 62.1%의 문제 해결률을 "
+    },
     {
       "id": "a0f84eaa5683",
       "source": "ZDNet Korea",
@@ -47,12 +102,34 @@
       "summary": "[지디넷코리아]대통령 직속 국가기후위기대응위원회는 10일부터 국제기후위원회네트워크(ICCN) 기후 거버넌스 작업반 공동의장국을 수임했다고 밝혔다.아시아 지역 기관이 기후 거버넌스 작업반 공동의장국으로 선임된 것은 이번이 처음이다. 공동의장으로는 강윤호 기후대응위 국제협력과장이 선임됐다.기후대응위는 앞으로 캐나다 기후연구소와 함께 공동의장국으로서 전 세계 기후위원회 거버넌스 논의를 이끌게 된다.ICCN은 각국 정부로부터 공식 위임을 받은 독립 기후자문기구들의 국제 협의체다. 2021년 출범 이후 현"
     },
     {
+      "id": "3090b8b724c2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "‘공룡쟁투’ 화석, AI 영화로 재탄생…“8000만년 전 자연사, 3D 데이터로 복원”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213769",
+      "published": "2026-08-10T08:20:00+00:00",
+      "summary": "AI로 제작한 공룡 다큐멘터리 영화 ‘백악기 공룡쟁투’가 국내 극장에서 최초로 공개된 데 이어, 몽골국립자연사박물관에도 전시될 전망이다.SC전시문화(대표 김영옥)는 박진호 한국과학기술원(KAIST) 김재철AI대학원 초빙교수(총괄감독)와 AI 다큐영화 ‘백악기 공룡쟁투’를 제작했다고 10일 밝혔다.세계 최초로 100% AI만을 활용해 제작한 공룡 다큐멘터리 영화라고 강조했다. 서울특별시교육청교육연수원이 지난 7월14일 서울 가빈아트홀에서 개최한 2026 우면골 아카데미 특별기획 직무연수인 ‘AI 시"
+    },
+    {
       "id": "ce6b3aae80ec",
       "source": "AI타임스",
       "kind": "article",
       "category": "AI",
       "lang": "ko",
       "title": "에이전트 폭증에 GPU 이어 CPU도 '비상'...AWS \"내부 자원 낭비 줄여라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213735",
+      "published": "2026-08-10T08:19:26+00:00",
+      "summary": "AI 에이전트 확대로 데이터센터의 컴퓨팅 수요가 GPU에서 전통적인 CPU로까지 번지면서 글로벌 클라우드 업계의 ‘컴퓨팅 부족’ 현상이 심화하고 있다. 세계 최대 클라우드 사업자 중 하나인 아마존웹서비스(AWS) 내부에서도 서버 용량을 아껴 써야 할 정도로 공급 여력이 빠듯해지고 있다는 분석이다.7일(현지시간) 디 인포메이션에 따르면, AWS 경영진은 지난 5월 엔지니어들과의 회의에서 앞으로 고객들에게 충분한 컴퓨팅 용량을 제공하기 위해 내부적으로 사용할 수 있는 자원을 최대한 절약해야 한다고 당"
+    },
+    {
+      "id": "01c685a03688",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에이전트 폭증에 GPU 이어 CPU도 비상...AWS \"내부 낭비 줄여라\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213735",
       "published": "2026-08-10T08:19:26+00:00",
       "summary": "AI 에이전트 확대로 데이터센터의 컴퓨팅 수요가 GPU에서 전통적인 CPU로까지 번지면서 글로벌 클라우드 업계의 ‘컴퓨팅 부족’ 현상이 심화하고 있다. 세계 최대 클라우드 사업자 중 하나인 아마존웹서비스(AWS) 내부에서도 서버 용량을 아껴 써야 할 정도로 공급 여력이 빠듯해지고 있다는 분석이다.7일(현지시간) 디 인포메이션에 따르면, AWS 경영진은 지난 5월 엔지니어들과의 회의에서 앞으로 고객들에게 충분한 컴퓨팅 용량을 제공하기 위해 내부적으로 사용할 수 있는 자원을 최대한 절약해야 한다고 당"
@@ -432,6 +509,17 @@
       "summary": "업스테이지(대표 김성훈)가 10일까지 '솔라 프로4(SolarPro4)' 모델을 '에이전트 챗' 형태로 무료 제공한다고 밝혔다.솔라 프로4는 전작 솔라 프로3에 이은 업스테이지의 주력 모델이다. 타임리AI, 룸(Loom) 등 에이전트 서비스에서도 활용 가능하다. 특히, 지난 6일부터 공식 데모 페이지를 통해 '채팅' 형식으로 무료 체험 기회를 제공하고 있다.김성훈 대표는 \"최근 독자 AI 파운데이션 모델 개발 프로젝트로 발표한 '솔라 오픈2' 모델과 비교했을 때도 문서 작업, 터미널 작업 수행, "
     },
     {
+      "id": "69d607798e3e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "link": "https://www.docker.com/products/docker-sandboxes/",
+      "published": "2026-08-10T06:02:38+00:00",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 203 # Comments: 131"
+    },
+    {
       "id": "cfe25ec6bc64",
       "source": "AI타임스",
       "kind": "article",
@@ -586,6 +674,17 @@
       "summary": "일레븐랩스는 영상·오디오 콘텐츠에 최적화된 AI 더빙 모델 '더빙 v2'를 API 형태인 '일레븐API'로 제공한다고 10일 밝혔다.일레븐랩스는 지난 6월 해당 모델을 출시한 바 있으며, 이번 API 제공을 통해 기업 고객은 더빙 v2를 자체 제품과 워크플로우에 직접 연동해 활용할 수 있게 됐다.더빙 v2는 음성 인식 후 번역을 거쳐 클론 보이스로 합성하던 기존 방식과 달리, 음성을 음성으로 직접 변환하는 아키텍처를 채택한 것이 특징이다. 이를 통해 원본의 감정 표현과 퍼포먼스를 더빙에 자연스럽게"
     },
     {
+      "id": "b436b71e59bd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Auto mode is now the default in Claude Code",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "published": "2026-08-10T03:50:00+00:00",
+      "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 211 # Comments: 213"
+    },
+    {
       "id": "1b34b09e3096",
       "source": "AI타임스",
       "kind": "article",
@@ -661,6 +760,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260810111410",
       "published": "2026-08-10T02:26:14+00:00",
       "summary": "[지디넷코리아]국내 로봇 기업 나우로보틱스가 과학기술정보통신부 추진 '국산 인공지능(AI) 반도체 기반 피지컬 AI 실증사업'의 사업자로 선정됐다고 10일 밝혔다.나우로보틱스는 총 24억원 규모 '이동형 양팔로봇' 기반 산업용 휴머노이드 개발 및 실증 과제를 수행한다. 개발 기간은 올해 7월부터 2027년 12월까지다. 회사는 국산 신경망처리장치(NPU), 국산 시각언어행동(VLA) 모델, 자체 로봇 기술을 결합해 실제 제조·물류 현장에 투입 가능한 피지컬 AI 시스템을 구축할 계획이다.이번 과제"
+    },
+    {
+      "id": "b9954b19ebde",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What Happened to HackerOne?",
+      "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "published": "2026-08-10T02:23:17+00:00",
+      "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 231 # Comments: 103"
     },
     {
       "id": "878a23706648",
@@ -837,6 +947,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260810100314",
       "published": "2026-08-10T01:11:36+00:00",
       "summary": "[지디넷코리아]엘리멘타가 개발 중인 서브컬처 오픈월드 액션 RPG 신작 '실버 팰리스'가 두 번째 비공개 베타 테스트(CBT)인 '이분법 테스트'를 통해 한층 발전된 모습을 선보였다. 게임은 '원신' 성공 이후 다소 고착화된 서브컬처 오픈월드 시장에 '추리'라는 신선한 요소를 전면에 내세워 확고한 차별화를 꾀했다.게임의 주 무대가 되는 빅토리아풍 도시 '실버니아'는 정교한 배경 디자인과 광원 효과로 시선을 단번에 사로잡는다. 특히 대규모 오케스트라의 클래식 공연을 듣는 듯한 웅장하고 깊이 있는 배"
+    },
+    {
+      "id": "0df13464b65c",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "published": "2026-08-10T01:05:36+00:00",
+      "summary": ""
     },
     {
       "id": "c9541b11f8d7",
