@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-08-10T02:33:09.902039+00:00",
-  "count": 8691,
+  "updated_at": "2026-08-10T04:18:06.115708+00:00",
+  "count": 8709,
   "items": [
+    {
+      "id": "094672bb91ef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KT, NH농협은행 차세대 AICC 구축 완료",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213736",
+      "published": "2026-08-10T04:09:15+00:00",
+      "summary": "KT(대표 박윤영)는 NH농협은행의 차세대 AI컨택센터(AICC) 구축 사업을 성공적으로 완료했다고 10일 밝혔다.이번 사업은 약 400억원 규모로, 전국 농협은행과 상호금융의 상담 시스템을 AI 중심으로 전환하는 것이 핵심이다.KT와 NH농협은행은 이를 위해 ▲AI 서비스 경험 강화 ▲데이터 기반 고객 여정 최적화 ▲상담지원 업무 고도화 ▲운영관리 업무 표준화 등을 핵심 과제로 사업을 추진해왔다. KT는 AI 콜봇을 NH농협은행의 핵심 업무 시스템과 연동해 고객 정보와 계좌 정보 조회는 물론 실"
+    },
+    {
+      "id": "5d98f3ee1efa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 코드 '자동 모드' 기본 설정 적용...개발자 승인 피로 줄인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213726",
+      "published": "2026-08-10T04:08:30+00:00",
+      "summary": "AI 코딩 에이전트가 개발자의 개입 없이 더 오랜 시간 자율적으로 작업할 수 있는 환경이 마련된다. 앤트로픽이 반복적인 승인 절차에 따른 개발자들의 피로를 줄이고 AI 코딩의 생산성을 높이기 위해 안전성 검증을 거친 ‘자동 모드(Auto Mode)’를 클로드 코드의 기본 기능으로 전환했다. 앤트로픽은 7일(현지시간) AI 코딩 도구 ‘클로드 코드’의 자동 모드를 오는 14일부터 프로, 맥스, 팀 요금제의 신규 세션에 기본 설정으로 적용한다고 발표했다.AI가 코딩 과정에서 수행하는 명령마다 개발자가"
+    },
+    {
+      "id": "042487117c8a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, CXMT 메모리 도입에 기술적 난항...맞춤형 제작 불가능·공급 부족",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213727",
+      "published": "2026-08-10T03:57:19+00:00",
+      "summary": "애플이 메모리 반도체 공급난을 완화하기 위해 중국 메모리 반도체 기업 CXMT의 제품을 아이폰과 맥북 등에 적용하는 방안을 검토하고 있지만, 미국의 규제와 CXMT의 생산능력 한계가 걸림돌로 떠오르고 있다. 특히 애플 제품에 최적화된 맞춤형 메모리 칩을 CXMT에 주문하기 어려운 데다 중국산 표준 부품을 사용하려면 제품 설계를 변경해야 할 가능성도 있어 실제 도입까지 상당한 난항이 예상된다.8일(현지시간) 월스트리트저널에 따르면, 애플은 중국 본토에서 판매되는 일부 제품에 CXMT의 메모리 부품을"
+    },
+    {
+      "id": "0d41c10559f2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "일레븐랩스, AI 모델 '더빙 v2' API 제공...기업 시스템 연동 가능",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213724",
+      "published": "2026-08-10T03:50:54+00:00",
+      "summary": "일레븐랩스는 영상·오디오 콘텐츠에 최적화된 AI 더빙 모델 '더빙 v2'를 API 형태인 '일레븐API'로 제공한다고 10일 밝혔다.일레븐랩스는 지난 6월 해당 모델을 출시한 바 있으며, 이번 API 제공을 통해 기업 고객은 더빙 v2를 자체 제품과 워크플로우에 직접 연동해 활용할 수 있게 됐다.더빙 v2는 음성 인식 후 번역을 거쳐 클론 보이스로 합성하던 기존 방식과 달리, 음성을 음성으로 직접 변환하는 아키텍처를 채택한 것이 특징이다. 이를 통해 원본의 감정 표현과 퍼포먼스를 더빙에 자연스럽게"
+    },
+    {
+      "id": "1b34b09e3096",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타 \"AI로 아낀 시간, 휴가 대신 제품 개발에 써야\"…업계 논쟁 유발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213729",
+      "published": "2026-08-10T03:32:49+00:00",
+      "summary": "AI 도입으로 업무 생산성이 높아지면서 절약된 시간을 어떻게 활용할 것인지를 둘러싼 논쟁이 기술업계에서 커지고 있다. 메타는 AI로 확보한 시간을 직원들의 추가 휴가나 근무시간 단축에 사용하기보다는 더 많은 제품과 기능을 개발하는 데 투입해야 한다고 밝혔다.8일(현지시간) 비즈니스인사이더에 따르면, 앤드류 보스워스 메타 최고 기술책임자(CTO)는 7월 초 진행된 메타 사내 질의응답(Q&A)에서 AI로 절약된 시간에 대한 입장을 전했다.그는 AI를 통해 생산성이 향상되면 과거에 폐지된 추가 유급휴가"
+    },
+    {
+      "id": "39beb7d30f51",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI스페라, 글로벌 파트너 65곳 확보...\"시스코·팔로알토도 손잡았다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213725",
+      "published": "2026-08-10T03:14:22+00:00",
+      "summary": "AI스페라(대표 강병탁)는 전 세계 20개국에서 65건의 글로벌 파트너 생태계를 구축했다고 10일 밝혔다.AI스페라는 AI 기반 전 세계 인터넷 자산의 위협 요소를 자동 탐지·분석하는 사이버 위협 인텔리전스(CTI) 및 공격표면관리(ASM) 플랫폼 '크리미널 IP'를 운영 중이다.지난 1년간 신규 리셀러 및 총판 계약, 기술 연동 등 다양한 파트너십을 통해 바레인, 카타르, 이탈리아, 나이지리아 등 7개국에 새롭게 진출했다. 신규 파트너십 건수도 전년 동기 대비 50% 증가한 12건을 기록했다.대"
+    },
+    {
+      "id": "86c716318679",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 입은 MMORPG…스마일게이트·컴투스, 자동 넘어 'AI 모드' 전면에",
+      "link": "https://zdnet.co.kr/view/?no=20260810110243",
+      "published": "2026-08-10T02:51:13+00:00",
+      "summary": "[지디넷코리아]올해 하반기 출시를 앞둔 스마일게이트 '이클립스: 더 어웨이크닝(이하 이클립스)'과 컴투스 '제우스: 오만의 신(이하 제우스)'이 나란히 'AI 모드'를 전면에 내세웠다.기존 MMORPG가 써온 '자동 전투'라는 표현을 걷어내고, 비접속 상태에서의 성장 지원 기능을 차별점으로 삼았다.두 회사는 최근 각각 제작발표회 및 쇼케이스를 열고 주요 상세 정보를 공개했다. 사업 방향과 콘텐츠 구성은 달랐지만, 장르 본연의 경쟁 요소를 유지하면서 플레이 부담은 낮추겠다는 방향성은 공통적이었다.과"
+    },
+    {
+      "id": "c7be578d3565",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부, ATF 연계 콘텐츠 해외 유통 지원 참여사 공모",
+      "link": "https://zdnet.co.kr/view/?no=20260810111739",
+      "published": "2026-08-10T02:39:35+00:00",
+      "summary": "[지디넷코리아]정부가 아시아 최대 콘텐츠마켓 ATF와 연계해 한국 방송콘텐츠 해외 유통과 글로벌 진출을 지원받을 참여 기업을 9월8일까지 모집한다.방송미디어통신위원회와 한국방송통신전파진흥원은 올해 ATF와 연계한 방송콘텐츠 해외 유통 지원 사업에 참여할 방송사·제작사 등을 공개 모집한다고 10일 밝혔다.콘텐츠마켓은 매년 싱가포르에서 개최되는 행사로, 올해는 12월3일부터 5일까지 열린다.모집은 이날부터 오는 9월8일까지 진행된다. 방미통위와 전파진흥원은 한국 방송콘텐츠 기획안·우수 작품 해외 진출"
+    },
+    {
+      "id": "df4a646188f5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "전쟁 겪은 이란, 500km 저궤도 위성망 구축…24기 띄운다",
+      "link": "https://zdnet.co.kr/view/?no=20260810101454",
+      "published": "2026-08-10T02:39:17+00:00",
+      "summary": "[지디넷코리아]이란 정부가 지상망 구축에 드는 비용 부담과 정지궤도(GEO) 위성의 한계를 극복하기 위해 고도 500km의 저궤도(LEO) 위성망 구축에 통신 예산을 투입한다.9일(현지시간) 서아시아 뉴스통신사 WANA에 따르면 사타르 하셰미 이란 통신부 장관은 최근 군사 분쟁으로 국가 우주 기반 시설이 입은 피해 상황을 공개하고, 24개 위성으로 구성된 위성군을 중심으로 응용·상업 중심의 우주 산업으로 전환하겠다는 전략을 밝혔다.하셰미 장관은 미국·이스라엘과 이란 간 분쟁으로 테헤란 셰이크 파즐"
+    },
+    {
+      "id": "26bef3510391",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 행정부, 해상풍력 12건 취소…합의 규모 5조원대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213722",
+      "published": "2026-08-10T02:35:00+00:00",
+      "summary": "미국 트럼프 행정부가 해상풍력 개발사들과 기존 리스 종료 합의를 잇따라 체결하고 있다. 리스는 미국 연방 해역의 특정 구역에서 해상풍력 발전사업을 개발할 수 있도록 정부가 사업자에게 부여하는 개발권이다.9일(현지시간) 로이터에 따르면, 뉴욕 바이트, 캘리포니아, 메인만, 캐롤라이나 롱베이, 루이지애나 연안 등 12개 리스의 최대 합의액을 합치면 39억2700만달러(약 5조5512억원)에 이른다. 가장 최근에는 독일 에너지기업 RWE가 6일(현지시간) 미국 내무부와 최대 12억2000만달러(약 1조"
+    },
+    {
+      "id": "a219bfbf326a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "나우로보틱스, 과기부 피지컬 AI 실증사업자 선정…산업용 휴머노이드 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260810111410",
+      "published": "2026-08-10T02:26:14+00:00",
+      "summary": "[지디넷코리아]국내 로봇 기업 나우로보틱스가 과학기술정보통신부 추진 '국산 인공지능(AI) 반도체 기반 피지컬 AI 실증사업'의 사업자로 선정됐다고 10일 밝혔다.나우로보틱스는 총 24억원 규모 '이동형 양팔로봇' 기반 산업용 휴머노이드 개발 및 실증 과제를 수행한다. 개발 기간은 올해 7월부터 2027년 12월까지다. 회사는 국산 신경망처리장치(NPU), 국산 시각언어행동(VLA) 모델, 자체 로봇 기술을 결합해 실제 제조·물류 현장에 투입 가능한 피지컬 AI 시스템을 구축할 계획이다.이번 과제"
+    },
+    {
+      "id": "878a23706648",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 폴리실리콘 8개사 저가경쟁 중단…공급과잉 해소 시험대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213720",
+      "published": "2026-08-10T02:15:00+00:00",
+      "summary": "중국 주요 폴리실리콘 업체들이 원가보다 낮은 가격에 제품을 판매하지 않고 고에너지소비 생산설비도 줄이기로 했다. 중국 태양광산업의 공급과잉과 가격경쟁을 정부의 규제와 업계 자율규율을 통해 동시에 개선하려는 움직임이라는 평이다.통웨이와 GCL테크놀로지, 다취안에너지, 신터에너지 등 폴리실리콘 업체 8곳은 6일 상하이에서 업계 자율선언에 서명했다. 이들 업체는 중국 내 유효 폴리실리콘 생산능력의 90% 이상을 차지한다.기업들은 입찰을 포함한 제품 판매가격을 중국 태양광산업협회의 원가계산 기준에 따라 "
+    },
+    {
+      "id": "82053523ab11",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'아재폰' 벗은 갤럭시Z폴드8, 1030·여성 잡고 흥행 지속",
+      "link": "https://zdnet.co.kr/view/?no=20260810095711",
+      "published": "2026-08-10T02:14:43+00:00",
+      "summary": "[지디넷코리아]삼성전자 갤럭시 Z 폴드8이 사전판매 흥행에 이어 출시 후에도 젊은 고객을 중심으로 판매 호조를 이어가고 있다. 삼성전자는 갤럭시 Z 폴드8에 대한 1030세대와 여성 고객 관심이 크게 높아졌다고 10일 밝혔다. 국내 삼성닷컴 기준 갤럭시 Z8 시리즈의 판매량에서 1030세대 구매 비중이 절반을 넘었다. 이들은 시리즈 중 갤럭시 Z 폴드8을 가장 많이 선택했다.삼성전자는 \"특히 1030 여성 고객의 갤럭시 Z 폴드8 구매가 전작 대비 2배 이상 증가했다\"며 \"기존에는 폴드 주요 고객"
+    },
+    {
+      "id": "3ad93871ebb4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이언디바이스, 세계 최초 예측형 스마트파워앰프 1억개 판매",
+      "link": "https://zdnet.co.kr/view/?no=20260810104408",
+      "published": "2026-08-10T02:11:46+00:00",
+      "summary": "[지디넷코리아]혼성신호 반도체 팹리스 기업 아이언디바이스가 스마트폰, 태블릿 등 IT 시장에서 괄목할 만한 성장세를 보였다. 아이언디바이스는 예측형 스마트파워앰프 'SMA1305' 누적 판매량이 1억개를 돌파했다고 10일 밝혔다. SMA1305는 글로벌 고객의 스마트폰과 태블릿에 탑재하는 스마트파워앰프다. 높은 음압과 우수한 음질, 높은 전력 효율을 제공한다. 아이언디바이스는 \"세계 최초로 독자 예측형 제어 방식 스피커 보호 알고리즘을 적용해 경쟁품 대비 우수한 성능과 높은 신뢰성을 확보했다\"며 "
+    },
+    {
+      "id": "c387f33b9657",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 외국산 인버터 신규 승인 제한…2027년 현지 생산 100GWac 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213721",
+      "published": "2026-08-10T02:10:00+00:00",
+      "summary": "미국이 외국에서 생산된 전력 인버터의 신규 시장 진입을 제한하면서 태양광과 에너지저장장치(ESS) 공급망의 현지 생산 전환이 빨라질 것으로 예상된다.우드맥은 6일(현지시간) 발표한 분석에서 제조업체들이 발표한 공장 건설계획이 모두 예정대로 진행되면 미국의 태양광 인버터·전력변환시스템(PCS) 생산능력이 2027년 말 교류 기준 100기가와트(GWac)를 넘어설 것으로 전망했다. 다만 수입 제품을 미국산으로 대체하는 과정에서 인버터 가격은 상승할 것으로 예상했다.미국 연방통신위원회(FCC)는 지난 "
+    },
+    {
+      "id": "34b0d02356a4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[유미's 픽] \"기술만으론 돈 못 번다\"…中 AI, 투자·판로 연결 가속",
+      "link": "https://zdnet.co.kr/view/?no=20260810110249",
+      "published": "2026-08-10T02:04:10+00:00",
+      "summary": "[지디넷코리아]중국 인공지능(AI) 산업이 기술 개발을 넘어 투자와 실증, 판로를 연결하는 상용화 체계 구축에 힘을 싣고 있다. AI 기업에 컴퓨팅 자원을 제공하는 데 그치지 않고 모델·데이터부터 초기 투자금, 수요 기업까지 연결해 기술이 실제 제품과 매출로 이어지는 기간을 줄이는 방식이다.10일 코트라(KOTRA) 상하이무역관에 따르면 중국 AI 산업은 최근 모델 성능 경쟁과 자체 AI 반도체 개발을 이어가는 동시에 산업 현장에서 활용할 제품과 서비스 확보에 속도를 내고 있다.시장 규모도 커졌다"
+    },
     {
       "id": "e9c3a5732efb",
       "source": "ZDNet Korea",
@@ -179,6 +355,17 @@
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
     },
     {
+      "id": "b6714e27b221",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "published": "2026-08-09T15:21:46+00:00",
+      "summary": "Article URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650 Comments URL: https://news.ycombinator.com/item?id=49232253 Points: 215 # Comments: 162"
+    },
+    {
       "id": "b79ced37c75f",
       "source": "Hacker News",
       "kind": "article",
@@ -199,6 +386,17 @@
       "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
       "published": "2026-08-09T15:11:20+00:00",
       "summary": "Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 206 # Comments: 179"
+    },
+    {
+      "id": "55dc1b8a1d5e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cool URIs Don't Change (1998)",
+      "link": "https://www.w3.org/Provider/Style/URI",
+      "published": "2026-08-09T14:32:53+00:00",
+      "summary": "Article URL: https://www.w3.org/Provider/Style/URI Comments URL: https://news.ycombinator.com/item?id=49231809 Points: 204 # Comments: 50"
     },
     {
       "id": "9c803948c09e",
