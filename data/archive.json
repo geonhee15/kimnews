@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-10T10:13:10.365019+00:00",
-  "count": 8769,
+  "updated_at": "2026-08-10T11:20:46.294766+00:00",
+  "count": 8772,
   "items": [
+    {
+      "id": "ff8bf5ee4507",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "published": "2026-08-10T11:00:00+00:00",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile ap"
+    },
+    {
+      "id": "bf08487fb1f6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Rise of the 1 am Job Interview",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "published": "2026-08-10T10:30:00+00:00",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night."
+    },
     {
       "id": "6bfffeaeca14",
       "source": "Wired",
@@ -1046,6 +1068,17 @@
       "link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
       "published": "2026-08-09T15:11:20+00:00",
       "summary": "Article URL: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html Comments URL: https://news.ycombinator.com/item?id=49232138 Points: 206 # Comments: 179"
+    },
+    {
+      "id": "431d816499d1",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "published": "2026-08-09T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "55dc1b8a1d5e",
