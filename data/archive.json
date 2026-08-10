@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-10T23:17:57.398360+00:00",
-  "count": 8830,
+  "updated_at": "2026-08-10T23:59:57.528305+00:00",
+  "count": 8838,
   "items": [
+    {
+      "id": "ceeb995fad15",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "published": "2026-08-10T23:56:15+00:00",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+    },
+    {
+      "id": "51f49ce029f6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인텔, 21조원 유상증자 '승부수'...외부 고객사 확보가 성패 좌우",
+      "link": "https://zdnet.co.kr/view/?no=20260811010216",
+      "published": "2026-08-10T23:12:09+00:00",
+      "summary": "[지디넷코리아]인텔이 10일(현지시간) 150억 달러(약 21조 2550억원) 규모 보통주 유상증자를 추진한다고 밝혔다.AI 데이터센터용 CPU 수요 증가에 대응해 제온6+(클리어워터 포레스트) 프로세서를 생산하는 1.8나노급 인텔 18A 공정 생산량을 확대하고 차세대 공정인 1.4나노급 인텔 14A 공정 개발과 양산 준비를 지속하기 위해서다.인텔은 올해 자본지출(CapEx) 총 규모를 200억 달러(약 28조 3400억원)로 보고 있다. 2027년에도 자본지출 규모를 늘릴 예정이다.이번 유상증자"
+    },
+    {
+      "id": "01ed782acbb1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"보안도구, 파편화가 가장 문제\"...포티넷, 보고서 발간",
+      "link": "https://zdnet.co.kr/view/?no=20260811074813",
+      "published": "2026-08-10T22:48:13+00:00",
+      "summary": "[지디넷코리아]글로벌 네트워크보안 융합솔루션 선도기업 포티넷(CEO 켄 지)이 글로벌 컨설팅 기업 포레스터 컨설팅(Forrester Consulting)에 의뢰한 'APAC 지역 AI 보안 운영 현황 보고서' 결과를 발표했다.10일 이 조사에 따르면 한국 기업들은 사이버보안의 복잡성과 AI 기반 위협 증가로 대응 역량에 부담을 느끼고 있는 것으로 나타났다. 또 정교해진 공격과 복잡해진 환경이 초래하는 사이버 리스크와 함께 사이버보안 및 AI에 대한 지속적인 투자 흐름도 조명됐다. 조사 결과는 보안"
+    },
+    {
+      "id": "6239abf73968",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "네이버·웹툰엔터, 1억 달러 IP 펀드 조성…흥행 수익 더 가져간다",
+      "link": "https://zdnet.co.kr/view/?no=20260811072736",
+      "published": "2026-08-10T22:46:47+00:00",
+      "summary": "[지디넷코리아]네이버와 웹툰엔터테인먼트가 1억 달러(약 1419억원) 규모의 지식재산권(IP) 어댑테이션 펀드를 조성한다. 웹툰 IP를 외부 제작사에 제공하고 라이선스 수익을 얻는 기존 방식에서 한발 더 나아가 애니메이션·실사·게임 등 제작에 투자하고, 글로벌 흥행에 따른 수익을 확대하기 위해서다.10일(현지시간) 웹툰엔터테인먼트가 공개한 2분기 주주서한과 실적발표 콘퍼런스콜에 따르면 회사는 네이버와 1억 달러 규모의 'IP 어댑테이션 펀드(IP Adaptation Fund)'를 설립한다.웹툰엔터"
+    },
+    {
+      "id": "d2435ca712e1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"북한, 고도화된 AI로 해킹\"...지니언스, 보고서 발간",
+      "link": "https://zdnet.co.kr/view/?no=20260811071616",
+      "published": "2026-08-10T22:16:16+00:00",
+      "summary": "[지디넷코리아]사이버보안 전문기업 지니언스(대표 이동범)는 10일 \"북한의 고도화된 AI 활용 사이버 위협 정황을 포착했다\"면서 보고서를 냈다.지니언스는 북한 정찰정보총국 산하 해킹조직으로 알려진 김수키(Kimsuky)의 최신 공격 활동을 분석한 결과, 생성형 AI 기반 도구를 공격 체계 전반에 활용하기 위한 연구를 진행하고 관련 기술 역량을 축적해 온 정황을 확인했다고 밝혔다.그동안 북한 해킹 조직은 외교·안보 전문가를 타깃으로 실제 업무 관련자를 사칭한 스피어피싱 이메일을 발송하는 방식을 주로"
+    },
     {
       "id": "f3b5ab29af84",
       "source": "Ars Technica",
@@ -12,6 +67,17 @@
       "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
       "published": "2026-08-10T22:13:03+00:00",
       "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward."
+    },
+    {
+      "id": "f0ceed1b1943",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "웹툰엔터, 알아이게임즈홀딩스에 1억 달러 투자…게임으로 IP 확장",
+      "link": "https://zdnet.co.kr/view/?no=20260811070203",
+      "published": "2026-08-10T22:08:53+00:00",
+      "summary": "[지디넷코리아]웹툰 엔터테인먼트가 알아이게임즈홀딩스 지분 60%를 약 1억 달러(약 1419억원)에 인수하며 웹툰 지식재산권(IP)의 게임 사업 확장에 나선다. 글로벌 팬덤을 확보한 검증된 웹툰을 게임으로 개발하고, 애니메이션과 게임 출시를 연계해 하나의 IP를 글로벌 프랜차이즈로 키운다는 전략이다.네이버웹툰 모회사 웹툰 엔터테인먼트는 10일(현지시간) 알아이게임즈홀딩스(RI Games Holdings Inc.)에 대한 전략적 투자를 위해 최종 계약을 체결했다고 밝혔다.이번 투자로 웹툰 엔터테인먼"
     },
     {
       "id": "884d9e8b03e8",
@@ -36,6 +102,17 @@
       "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. Wha"
     },
     {
+      "id": "21cba6723392",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "웹툰엔터, 2분기 매출 5000억원...적자폭 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260811063628",
+      "published": "2026-08-10T21:55:13+00:00",
+      "summary": "[지디넷코리아]웹툰엔터테인먼트가 환율 영향으로 올해 2분기 매출이 전년 동기 대비 2.8% 감소한 5079억원을 기록했다. 다만 환율 변동 등의 영향을 제외한 동일 환율 기준으로는 한국 사업의 고성장과 유료 콘텐츠·광고·IP 사업의 고른 성장에 힘입어 매출이 5.2% 늘었다. 일본과 북미 등 글로벌 시장의 성장 기반을 강화하기 위한 마케팅 투자를 확대하면서 영업손실은 234억원으로 적자 폭이 커졌다.웹툰엔터테인먼트는 10일(현지시간) 2026년 2분기 매출이 3억3847만 달러(약 5079억원)로"
+    },
+    {
       "id": "ef4dcf6fbc8f",
       "source": "Ars Technica",
       "kind": "article",
@@ -56,6 +133,17 @@
       "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
       "published": "2026-08-10T21:20:04+00:00",
       "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires."
+    },
+    {
+      "id": "ed72abfa40c7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "채정환 씨이랩 대표 \"베라루핀 구축 및 운영 국내 최고\"",
+      "link": "https://zdnet.co.kr/view/?no=20260810204244",
+      "published": "2026-08-10T21:00:04+00:00",
+      "summary": "[지디넷코리아]AIDC(AI Data Center,인공지능 데이터센터)가 대한민국의 새로운 성장동력으로 부상했다. AIDC는 AI를 비롯해 반도체·전력·통신·클라우드·서비스까지 아우르는 거대한 ‘산업 인프라’다. 정부가 최근 AIDC를 국가전략산업으로 육성하겠다고 천명한 이유다.AIDC 시대를 맞아 주목받는 기업 중 하나가 씨이랩이다. AI인프라 회사인 이 회사는 미국 엔비디아(NVIDIA)가 최근 주관한 글로벌 대회인 '2026 AI 시티 챌린지(AI City Challenge)'에서 텍스트 기"
     },
     {
       "id": "a6c6d09d9508",
