@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-10T18:33:18.027159+00:00",
-  "count": 8812,
+  "updated_at": "2026-08-10T19:41:23.133805+00:00",
+  "count": 8815,
   "items": [
+    {
+      "id": "ba078fe7dd8b",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "published": "2026-08-10T19:30:00+00:00",
+      "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog ."
+    },
     {
       "id": "2e9c8bd490f7",
       "source": "TechCrunch",
@@ -78,6 +89,17 @@
       "link": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
       "published": "2026-08-10T15:44:45+00:00",
       "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order."
+    },
+    {
+      "id": "75476c06d117",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "published": "2026-08-10T15:32:04+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1j1kjy7gewo Comments URL: https://news.ycombinator.com/item?id=49245023 Points: 220 # Comments: 318"
     },
     {
       "id": "75cddaf41405",
@@ -562,6 +584,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213769",
       "published": "2026-08-10T08:20:00+00:00",
       "summary": "AI로 제작한 공룡 다큐멘터리 영화 ‘백악기 공룡쟁투’가 국내 극장에서 최초로 공개된 데 이어, 몽골국립자연사박물관에도 전시될 전망이다.SC전시문화(대표 김영옥)는 박진호 한국과학기술원(KAIST) 김재철AI대학원 초빙교수(총괄감독)와 AI 다큐영화 ‘백악기 공룡쟁투’를 제작했다고 10일 밝혔다.세계 최초로 100% AI만을 활용해 제작한 공룡 다큐멘터리 영화라고 강조했다. 서울특별시교육청교육연수원이 지난 7월14일 서울 가빈아트홀에서 개최한 2026 우면골 아카데미 특별기획 직무연수인 ‘AI 시"
+    },
+    {
+      "id": "02eb3c8570a5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "우주항공청, 17개사와 'K-우주 데이터센터' 구축 방안 논의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213770",
+      "published": "2026-08-10T08:20:00+00:00",
+      "summary": "우주항공청(청장 오태석)은 AI 팹리스 기업 리벨리온 본사서 우주 데이터센터 기술 관련 산업계 관계자들과 '제9차 우주항공 SOS 간담회'를 개최했다고 10일 밝혔다.이번 간담회는 K-문샷 우주미션의 일환으로, AI·정보통신기술(ICT) 기업 등 비우주기업을 유도해 한국형 우주 데이터센터를 성공적으로 개발하기 위해 마련됐다.특히 우주에서 사용할 AI 반도체, 태양전지 등 핵심 기술을 산업계 중심의 공급망으로 구축하는 기반 마련을 목표로 한다.이날 간담회에는 AI 팹리스, 태양전지·배터리 등 전력 "
     },
     {
       "id": "ce6b3aae80ec",
