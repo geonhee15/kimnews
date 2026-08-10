@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-10T12:07:52.698589+00:00",
-  "count": 8788,
+  "updated_at": "2026-08-10T13:41:58.347617+00:00",
+  "count": 8791,
   "items": [
+    {
+      "id": "17940dd21bcb",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 뉴스 - Google 떠나는 인재들, GPT-6 Astra 소식, Luna 무제한, 콜드카드 하드월렛 해킹, Muse Spark 1.2, Imagine Image 2.0 등",
+      "link": "https://www.youtube.com/watch?v=Z3jUPEKm35Q",
+      "published": "2026-08-10T13:33:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d4dfd529cc53",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "published": "2026-08-10T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh,"
+    },
     {
       "id": "cf01266dd54c",
       "source": "TechCrunch",
@@ -144,6 +166,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260810191002",
       "published": "2026-08-10T10:10:02+00:00",
       "summary": "[지디넷코리아]새롭게 단장된 농구 코트는 약 2,000명의 미래 의료 전문가들에게 학업을 넘어 재충전하고, 교류하며, 공동체 활동을 만들어갈 수 있는 전용 공간을 제공합니다. 나이지리아 라고스, 2026년 8월 10일 /PRNewswire/ -- 스타트레이더의 지역사회 공헌 이니셔티브인 STARCARES가 라고스 대학교 의과대학 농구 코트의 재개발을 완료하여, 약 2,000명의 학생들에게 의학 교육을 넘어 여가, 팀워크, 캠퍼스 교류를 위한 전용 공간을 제공하게 되었습니다. STARCARES Re"
+    },
+    {
+      "id": "92c5670e3223",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "published": "2026-08-10T10:10:02+00:00",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model Comments URL: https://news.ycombinator.com/item?id=49241679 Points: 351 # Comments: 155"
     },
     {
       "id": "6bfffeaeca14",
