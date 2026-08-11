@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-11T15:39:58.332057+00:00",
-  "count": 8958,
+  "updated_at": "2026-08-11T16:35:08.131125+00:00",
+  "count": 8963,
   "items": [
+    {
+      "id": "190eb782bafb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "published": "2026-08-11T16:25:20+00:00",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect."
+    },
+    {
+      "id": "c1491ce6c137",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "published": "2026-08-11T16:19:15+00:00",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the"
+    },
+    {
+      "id": "c3b3c147299d",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Robot demos have a dirty little secret...",
+      "link": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+      "published": "2026-08-11T16:10:08+00:00",
+      "summary": ""
+    },
+    {
+      "id": "9a7a9b92abb3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "published": "2026-08-11T15:40:46+00:00",
+      "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson."
+    },
+    {
+      "id": "c6ca4d7c8ab7",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "published": "2026-08-11T15:35:35+00:00",
+      "summary": ""
+    },
     {
       "id": "165fec5f1770",
       "source": "TechCrunch",

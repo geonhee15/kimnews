@@ -1,8 +1,66 @@
 {
   "issue_date": "2026-08-12",
-  "generated_at": "2026-08-11T15:39:58.286986+00:00",
-  "count": 2,
+  "generated_at": "2026-08-11T16:35:08.068528+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "190eb782bafb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "content": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics, a long-running mystery about the distribution of prime numbers. There is currently a $1 million bounty for a working general proof of the hypothesis, which remains unclaimed.\n\nContemporary AI models still can’t solve it either — but they can make a lot more progress than you might expect, a finding that’s likely to reopen long-standing questions about contemporary AI’s ability to discover new scientific and mathematical ideas.\n\nOn Monday , Anthropic announced that an as-yet-unreleased model had made significant progress on the Riemann hypothesis, significantly increasing the lower bound of solutions for which the hypothesis holds true.\n\nEven more impressive is how the progress was made: An Anthropic staff member without significant mathematical training prompted the model to “take a real stab” at proving the hypothesis, then left the model to coordinate the task across the following day and a half.\n\nAll told, the model tested 650 different ideas for solving the problem, coordinating across 60 sub-agents and spending 31 million in total.\n\n“Out of the 60 subagents, two were responsible for developing the key mathematical ideas,” a footnote to the paper explains, “13 contributed ideas to these agents, 30 attempted (but were unable) to develop new ideas, 13 served as validators to check the correctness of the arguments, and the final two helped to write the initial paper.”\n\nThe finding was confirmed by two of Anthropic’s in-house mathematicians, and formalized using the open-source proof assistant Lean .\n\nThis is the latest in a string of mathematical breakthroughs led by Large Language Models, or LLMs. A number of Erdos problems have been solved by AI models over the course of this year, and the release of more powerful models has led to more impressive results. OpenAI recently released a set of ten major results proved by its internal “Astra” model, while a separate effort from Anthropic disproved the long-standing Jacobian conjecture.\n\nThe growing body of results has caused both excitement and concern in the mathematical field. In a public declaration signed in June , a group of prominent mathematicians raised concerns that AI could undermine critical values of the field — particularly the standard that true mathematical proofs should be “attributable to specific authors who take credit for their discovery and assume responsibility for their correctness.”\n\nBut the field is still split on how mathematicians should approach the new research techniques. In a blog post responding to the declaration , Fields Medal winner Timothy Gowers questioned whether the influence of AI might change mathematics in a more complex and positive way.\n\n“If we arrive at a world where mathematical theorems are no longer associated with mathematicians, maybe that won’t be any more problematic than the fact that stars aren’t named after astronomers and most aren’t named at all,” Gowers wrote.\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y!\n\nMark Zuckerberg’s AI manifesto is exactly why people don’t like AI Russell Brandom\n\nYouTube now requires creators to have twice as many watch hours to start earning money Aisha Malik\n\nThis ‘adversarial’ pattern can prevent surveillance cameras from detecting you Zack Whittaker\n\nChatGPT brings unlimited text chats to free users Ivan Mehta\n\nTesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas Sean O'Kane\n\nAmid legal battles, Suno says it will start watermarking songs Ivan Mehta\n\nFord’s new electric truck, ‘Fathom,’ starts at $28,350 Sean O'Kane",
+      "published": "2026-08-11T16:25:20+00:00"
+    },
+    {
+      "id": "c1491ce6c137",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the",
+      "content": "‘Apple Reference Image’ may soon allow iPhone users to authenticate photographs at the point of capture.﻿\n\nApple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an “Apple Reference Image” system that can embed provenance metadata into iPhone photographs at the point of capture — enabling users to prove where the photo originated, and that it isn’t AI fakery.\n\nApple Reference Image isn’t currently live, but a privacy disclosure in the iOS beta notes that the feature will be off by default. When (or if) it does roll out, 9to5Mac says it can be enabled via Settings > Camera > Reference Image > Reference Mode, and that only photographs taken using a new “Reference” option in the iPhone Camera app will include the provenance information required for authentication.\n\nMacRumors has more details about the actual authentication process, which doesn’t occur automatically and instead requires users to tap a Reference badge on the photograph. This reportedly sends the raw image and its embedded provenance data — including sensor signatures, capture time frame, and unique hardware identifiers — to Apple’s Private Cloud Compute servers for verification, and then returns the authenticated version with a uniquely assigned ID.\n\nApple doesn’t access the raw photo itself during this process, but it may receive sensor data that allows it to prevent images connected to compromised sensors from being authenticated, or retroactively revoke prior authentication on images associated with the sensor. Authenticated photos can be viewed on an iPhone, iPad, or Mac, according to MacRumors .\n\nBy this description, Apple Reference Image works similarly to the C2PA Content Credentials provenance standard, which can be used to trace how and where an image was made, and if generative AI tools were used to make or manipulate it. Camera companies including Canon, Nikon, Sony, FujiFilm, and Leica have been gradually introducing it into their hardware, and Google’s Pixel 10 phone cameras also support the standard, but Apple has notably avoided adopting it.\n\nC2PA isn’t known for its reliability , however, so perhaps Apple believes its own system will be a better, more robust solution. Introducing a provenance system for iPhone photography also suggests Apple is throwing support behind labeling human-made works across online platforms — something Instagram head Adam Mosseri believe s may be easier to achieve compared to identifying and labeling AI-generated content.\n\nThis is the title for the native ad",
+      "published": "2026-08-11T16:19:15+00:00"
+    },
+    {
+      "id": "c3b3c147299d",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Robot demos have a dirty little secret...",
+      "link": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+      "summary": "",
+      "published": "2026-08-11T16:10:08+00:00"
+    },
+    {
+      "id": "9a7a9b92abb3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "content": "An unidentified passenger allegedly created a fake Wi-Fi network on a Delta flight from Las Vegas to Atlanta on Monday, prompting pilots to alert air traffic control, according to the airline and public broadcasts from the plane.\n\n“[The] safety of flight was never in question and no aircraft operating systems were affected,” Delta spokesperson Morgan Durrant told TechCrunch, adding that the in-flight network was not compromised.\n\n“We are fully investigating to gather a complete set of facts, which will take time. We will partner with federal law enforcement and aviation regulators to ensure the incident is thoroughly investigated,” the spokesperson said.\n\nThe flight crew turned off the aircraft’s legitimate Wi-Fi network for around 30 minutes due to the incident.\n\nOnce the crew became aware of the fake Wi-Fi network, the pilots sent two messages mid-flight to air traffic control. The pilots said a passenger “created a scam Wi-Fi” that was designed to impersonate the airplane’s legitimate wireless network.\n\nThe pilots said they did not have any more information, but said some of the passengers came from cybersecurity conferences held in Las Vegas last week.\n\nAt this point, it’s unclear what the passenger or passengers were doing. It’s easy to set up a fake or malicious Wi-Fi network using commercially available tools like a Wi-Fi Pineapple , a hardware device designed for spoofing real-world networks. These devices are sold for professional security testers to audit companies’ security, or for hobbyists who want to learn how to hack.\n\nThe Atlanta Police Department referred questions to federal authorities. Federal Aviation Administration spokesperson Steve Kulm said the agency has not received a report about the incident. The FBI did not immediately respond to TechCrunch’s request for comment.\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $300 toda y!",
+      "published": "2026-08-11T15:40:46+00:00"
+    },
+    {
+      "id": "c6ca4d7c8ab7",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "summary": "",
+      "published": "2026-08-11T15:35:35+00:00"
+    },
     {
       "id": "165fec5f1770",
       "source": "TechCrunch",
