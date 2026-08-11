@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T19:45:19.177169+00:00",
-  "count": 8980,
+  "updated_at": "2026-08-11T20:26:18.113715+00:00",
+  "count": 8983,
   "items": [
+    {
+      "id": "3354a97be9a8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "published": "2026-08-11T20:02:02+00:00",
+      "summary": "The divesture comes comes as the two once-tight companies have started to diverge on the business side."
+    },
     {
       "id": "0a12b8e16694",
       "source": "The Verge",
@@ -234,6 +245,17 @@
       "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September where it will be ad-free."
     },
     {
+      "id": "665a1794f64e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Block Blast! goes ad-free on Apple Arcade",
+      "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+      "published": "2026-08-11T15:33:59+00:00",
+      "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free."
+    },
+    {
       "id": "ddc01a95f3c2",
       "source": "TechCrunch",
       "kind": "article",
@@ -243,6 +265,17 @@
       "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
       "published": "2026-08-11T15:30:00+00:00",
       "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed."
+    },
+    {
+      "id": "aab62e178cce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "published": "2026-08-11T14:50:33+00:00",
+      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md Comments URL: https://news.ycombinator.com/item?id=49259339 Points: 259 # Comments: 39"
     },
     {
       "id": "8df77713321b",
