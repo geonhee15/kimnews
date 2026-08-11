@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T20:26:18.113715+00:00",
-  "count": 8983,
+  "updated_at": "2026-08-11T21:13:35.546413+00:00",
+  "count": 8985,
   "items": [
+    {
+      "id": "83f7ac0a08f9",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "published": "2026-08-11T20:27:16+00:00",
+      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits."
+    },
     {
       "id": "3354a97be9a8",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
       "published": "2026-08-11T20:02:02+00:00",
       "summary": "The divesture comes comes as the two once-tight companies have started to diverge on the business side."
+    },
+    {
+      "id": "cf3908c06bca",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "published": "2026-08-11T19:48:12+00:00",
+      "summary": "But will Gemini's surge survive slowing model releases?"
     },
     {
       "id": "0a12b8e16694",
