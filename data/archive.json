@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T16:35:08.131125+00:00",
-  "count": 8963,
+  "updated_at": "2026-08-11T17:40:16.387148+00:00",
+  "count": 8964,
   "items": [
     {
       "id": "190eb782bafb",
@@ -100,6 +100,17 @@
       "link": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
       "published": "2026-08-11T13:45:02+00:00",
       "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent—vastly outpacing the impact of data centers."
+    },
+    {
+      "id": "0ed08d77e687",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "link": "https://stolen-thoughts.com/",
+      "published": "2026-08-11T13:22:00+00:00",
+      "summary": "Article URL: https://stolen-thoughts.com/ Comments URL: https://news.ycombinator.com/item?id=49257876 Points: 207 # Comments: 78"
     },
     {
       "id": "c4a8a6a7080b",
