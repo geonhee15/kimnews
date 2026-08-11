@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T09:40:34.295159+00:00",
-  "count": 8925,
+  "updated_at": "2026-08-11T10:32:23.907342+00:00",
+  "count": 8927,
   "items": [
+    {
+      "id": "c268ec527343",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks."
+    },
     {
       "id": "4e7ac47247cd",
       "source": "AI타임스",
@@ -1156,6 +1167,17 @@
       "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
       "published": "2026-08-10T18:30:33+00:00",
       "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation."
+    },
+    {
+      "id": "9c1b1031eda7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "published": "2026-08-10T17:41:13+00:00",
+      "summary": "Article URL: https://www.anthropic.com/research/riemann-zeta Comments URL: https://news.ycombinator.com/item?id=49247070 Points: 208 # Comments: 140"
     },
     {
       "id": "cf6b06ecdb00",
