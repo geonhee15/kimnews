@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-11T10:32:23.907342+00:00",
-  "count": 8927,
+  "updated_at": "2026-08-11T11:29:08.842337+00:00",
+  "count": 8937,
   "items": [
+    {
+      "id": "546bbafdb3bd",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "6 Best Dehumidifiers to Fight Mold and Muggy Summers (2026)",
+      "link": "https://www.wired.com/gallery/best-dehumidifier/",
+      "published": "2026-08-11T11:07:00+00:00",
+      "summary": "If you care about good air, it’s time for a dehumidifier. These are the best ones we’ve tested for everything from basements to drying laundry."
+    },
+    {
+      "id": "0daef6b34d97",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI takeover of mathematics has begun",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "published": "2026-08-11T11:00:00+00:00",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discip"
+    },
+    {
+      "id": "4f37c14ca993",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "published": "2026-08-11T11:00:00+00:00",
+      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models."
+    },
+    {
+      "id": "025c9563da08",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] \"AI, 데이터가 있는 곳에서 시작해야\"…오라클, 엔터프라이즈 AI 전략 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260811180445",
+      "published": "2026-08-11T10:11:01+00:00",
+      "summary": "[지디넷코리아]한국오라클이 기업 내 인공지능(AI) 도입이 개념검증 단계를 넘어 실제 업무 적용과 운영 확장 단계로 이동하는 흐름에 맞춘 전략을 공개했다. 생성형 AI와 AI 에이전트 도입을 위한 차세대 AI, 데이터 플랫폼 전략과 인프라 아키텍처를 제시한 것이다.한국오라클은 11일 서울 강남구 아셈타워에서 미디어 브리핑을 열고 효과적인 기업 내 AI 활용 기반으로 OCI 액셀러론과 오라클 AI 레디 데이터 플랫폼을 제시했다. 회사는 데이터와 인프라, 플랫폼이 유기적으로 연결돼야 기업 AI의 실질"
+    },
+    {
+      "id": "0a3a58aeb7ea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "유튜브로 돈벌기 어려워진다...신규 크리에이터 수익화 문턱 2배↑",
+      "link": "https://zdnet.co.kr/view/?no=20260811183525",
+      "published": "2026-08-11T10:06:52+00:00",
+      "summary": "[지디넷코리아]유튜브가 크리에이터 수익화 프로그램인 ‘유튜브 파트너 프로그램(YPP)’을 2018년 이후 처음으로 대대적으로 개편한다. 신규 크리에이터의 YPP 광고 및 프리미엄 수익 공유 가입 문턱을 높이는 것이 이번 개편의 핵심이다.유튜브는 10일(현지시간) YPP 수익 배분 방식과 가입 요건 등을 개편한다고 밝혔다. 새로운 약관은 2027년 2월 1일부터 적용된다.먼저 쇼츠 수익 분배 방식이 바뀐다. 2027년 2월 1일부터 최근 90일 동안 유효 쇼츠 조회수 1000만회를 달성한 크리에이터"
+    },
     {
       "id": "c268ec527343",
       "source": "Wired",
@@ -12,6 +67,28 @@
       "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
       "published": "2026-08-11T10:00:00+00:00",
       "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks."
+    },
+    {
+      "id": "c4f90c7c06f4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KAIST 감사 김명주 전 경남부지사…이사 권오현 전 삼성회장·손지원 본부장 선임",
+      "link": "https://zdnet.co.kr/view/?no=20260811185445",
+      "published": "2026-08-11T09:54:45+00:00",
+      "summary": "[지디넷코리아]KAIST 신임 감사에 김명주 전 경상남도 경제부지사가 선임됐다. 또 KAIST 이사 두 자리에는 권오현 전 삼성전자 회장과 손지원 한국과학기술연구원(KIST) 연구기획조정본부장을 선정했다.KAIST 이사회(이사장 직무대행 차기철)는 11일 대전 본원에서 임시이사회를 열고, 감사와 이사 2명, 한국과학영재학교 교장을 각각 선임했다.이사장은 다음 이사회에서 최종 결정하기로 했다.김명주 신임 감사는 서울대 농경제학과를 졸업했다. KDI국제대학원에서 정책학 및 미국 미주리주립대학교에서 경"
+    },
+    {
+      "id": "2a793a8aa4ba",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SFA, LS전선 美 공장에 해저케이블 설비 출하…\"데이터센터 필수 인프라\"",
+      "link": "https://zdnet.co.kr/view/?no=20260811182456",
+      "published": "2026-08-11T09:48:48+00:00",
+      "summary": "[지디넷코리아]SFA(대표 김상경)는 LS전선 미국 공장에 공급할 해저케이블 제조설비인 ‘턴테이블’에 대한 출하식을 개최했다고 11일 밝혔다.SFA는 오랜 기간 LS전선과의 긴밀한 협업을 바탕으로 수직연합기 및 턴테이블 등 해저케이블 제조 핵심 설비를 개발∙고도화하고 관련 설비를 공급해왔다. 이 과정에서 축적한 설계∙제작 역량을 기반으로 지난해 4분기부터 올해 1분기에 걸쳐 LS전선이 건설하는 미국 버지니아공장에 약 1500억원에 달하는 턴테이블 공급계약을 확보, 수십 대의 턴테이블을 내년 말까지"
     },
     {
       "id": "4e7ac47247cd",
@@ -25,6 +102,17 @@
       "summary": "앤트로픽이 ‘클로드’가 출력하는 텍스트와 파일에 눈에 보이지 않는 워터마크를 도입한다. 유럽연합(EU)의 AI 법(AI Act) 규제 준수를 위한 조치로, 클로드로 생성된 콘텐츠의 출처 추적과 팩트체크 방식에 큰 변화가 예상된다. 앤트로픽은 10일(현지시간) 고객지원 도움말 문서를 통해 8월2일 이후 출시되는 신규 클로드 모델부터 기계 읽기(Machine-readable)가 가능한 보이지 않는 워터마크 시스템을 적용하기 시작했다고 밝혔다. 적용 대상은 클로드 웹과 앱 서비스뿐만 아니라 개발자용 A"
     },
     {
+      "id": "755d8db5aed1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "쏘카, 올해 2분기 영업이익 68억원…전년比 271%↑",
+      "link": "https://zdnet.co.kr/view/?no=20260811174329",
+      "published": "2026-08-11T09:23:48+00:00",
+      "summary": "[지디넷코리아]쏘카가 올해 2분기 매출과 영업이익 모두 호실적을 달성했다. 전기차 중심의 가격 변동 최소화와 '블랙라벨' 등 프리미엄 서비스가 신규 수요로 이어졌다는 평가다. 이를 기반으로 쏘카는 하반기 인공지능(AI)·풀스택 모빌리티·자율주행으로 대표되는 성장 전략을 본격 가동한다. 쏘카는 2분기 연결 기준 매출액 1210억원, 영업이익 68억원을 기록했다고 11일 공시했다. 매출과 영업이익은 전년 동기 대비 각각 23%, 271% 증가했다. 별도기준으로는 매출액 1152억원, 영업이익 88억원"
+    },
+    {
       "id": "b9b14d38af73",
       "source": "AI타임스",
       "kind": "article",
@@ -34,6 +122,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213793",
       "published": "2026-08-11T09:18:18+00:00",
       "summary": "구글이 차세대 경량 AI 모델 ‘제미나이 3.7 플래시(Gemini 3.7 Flash)’ 출시를 위한 내부 준비에 들어간 정황이 포착됐다. 구글의 공식 발표나 출시 일정은 나오지 않았지만, 구글이 직접 관리하는 개발자용 파이썬 SDK에 모델명이 등장하면서 실제 출시가 임박한 것 아니냐는 관측이 나오고 있다.10일(현지시간) 테스팅카탈로그에 따르면 구글의 공식 파이썬 젠AI(GenAI) SDK에는 최근 제미나이 3.7 플래시가 모델 옵션과 토큰 처리 관련 코드에 추가된 것으로 확인됐다.이는 단순한 "
+    },
+    {
+      "id": "293d8b4eac13",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] \"SBOM 공유 및 관리 플랫폼 '스패로우 시큐어허브' 시선\"",
+      "link": "https://zdnet.co.kr/view/?no=20260811154751",
+      "published": "2026-08-11T09:16:44+00:00",
+      "summary": "[지디넷코리아]공급망 보안 전문 기업 스패로우(대표 장일수)가 11일 서울 코엑스에서 이틀 일정으로 개막한 국재 보안 컨퍼런스 'ISEC 2026'에서 소프트웨어 개발 전주기에 걸친 통합 보안 솔루션을 선보였다. 또 올해 새로 출시한 솔루션도 함께 출품, 시선을 모았다.특히 스패로우는 공급망 보안 핵심으로 꼽히는 소프트웨어 자재명세서(SBOM)의 무결성을 검증하고 수요사와 공급사 간 안전한 유통을 지원하는 SBOM 공유 및 관리 플랫폼 '스패로우 시큐어허브'도 전시했다. 스패로우 시큐어허브는 스패"
     },
     {
       "id": "c962f39322f7",
@@ -78,6 +177,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213818",
       "published": "2026-08-11T08:58:48+00:00",
       "summary": "기업들이 AI 모델을 활용하는 데 드는 비용이 글로벌 AI 업체들의 가격 경쟁과 중국산 저비용 오픈소스 모델 확산에 힘입어 올해 최저 수준으로 떨어진 것으로 나타났다. AI 도입을 확대하면서도 비용 효율성을 높이려는 기업들의 움직임이 강해지는 가운데, 모델 가격 인하 경쟁이 AI 서비스 시장의 수익성과 사업 구조에도 영향을 미칠 전망이다.투자은행 제프리스에 따르면, 지난 6~8일 기업용 AI 모델의 평균 추론 비용은 100만 토큰당 1.16~1.18달러 수준으로 집계됐다. 이는 올해 들어 가장 낮"
+    },
+    {
+      "id": "01ae80bb38c8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이동채 에코프로 창업주, 인니 투자 중요성 직접 설명 나서",
+      "link": "https://zdnet.co.kr/view/?no=20260811173834",
+      "published": "2026-08-11T08:57:23+00:00",
+      "summary": "[지디넷코리아]에코프로는 지난 10일 서울 서초구 JW 메리어트 호텔에서 에코프로 그룹 사장단 및 금융 투자자, 독립이사 등 100여명이 참석한 가운데 '인도네시아 BNSI 투자 세미나'를 열었다고 11일 밝혔다.이날 세미나에는 이동채 에코프로 그룹 창업주 등 그룹 최고경영진, 에코프로 그룹 독립이사 및 고객사 관계자, 금융사 등 투자기관 관계자, BNSI에 함께 투자한 허개화 GEM 회장 등이 참석했다.이동채 에코프로 그룹 창업주는 이날 인사말을 통해 “전기차를 비롯해 피지컬 AI, 휴머노이드,"
     },
     {
       "id": "10c98b1270e8",
