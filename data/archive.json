@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-11T13:40:40.146041+00:00",
-  "count": 8947,
+  "updated_at": "2026-08-11T14:43:36.848663+00:00",
+  "count": 8954,
   "items": [
+    {
+      "id": "93f38667d668",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+      "link": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+      "published": "2026-08-11T13:45:02+00:00",
+      "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent—vastly outpacing the impact of data centers."
+    },
+    {
+      "id": "c4a8a6a7080b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "솔라이즈 파트너스와 다쏘시스템, 제조업 디지털 전환 가속화를 위해 파트너십 체결",
+      "link": "https://zdnet.co.kr/view/?no=20260811221004",
+      "published": "2026-08-11T13:10:04+00:00",
+      "summary": "[지디넷코리아] 도쿄, 2026년 8월 11일 /PRNewswire/ -- 솔라이즈 파트너스 코퍼레이션(SOLIZE PARTNERS Corporation)과 일본 다쏘시스템(Dassault Systèmes)이 제조업체들의 디지털 전환 가속화와 운영 효율성 개선, 혁신 촉진을 지원하기 위해 '컨설팅 및 시스템 통합 파트너 프로그램(Consulting & System Integration Partner Program)' 계약을 체결했다. From left to right: Mahadevan V. S,"
+    },
     {
       "id": "07212f7a161b",
       "source": "TechCrunch",
@@ -25,6 +47,28 @@
       "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streami"
     },
     {
+      "id": "f7d534bce82e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성전자 HBM4 수율 80% 돌파…양산 6개월 만에 목표 달성",
+      "link": "https://zdnet.co.kr/view/?no=20260811213914",
+      "published": "2026-08-11T12:39:14+00:00",
+      "summary": "[지디넷코리아]삼성전자의 차세대 고대역폭메모리 HBM4 수율이 80%까지 올라 연말 목표를 반년 만에 달성했다는 보도가 나왔다. 현지 시각 8월 10일 트렌드포스(TrendForce)가 보도한 내용이다. 2월 양산 개시 당시 수율은 60% 미만이었다.업계 소식통을 인용한 보도에 따르면 삼성전자는 연말 80% 수율을 목표로 잡았지만, 공정 개선 속도가 기대를 앞질렀다. TC-NCF는 메모리 칩을 수십 층으로 쌓는 HBM 적층 공정에서 칩 사이를 이어주는 비전도성 필름 접합 기술로, 층수가 늘수록 공"
+    },
+    {
+      "id": "274f87050a9f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인",
+      "link": "https://zdnet.co.kr/view/?no=20260811213820",
+      "published": "2026-08-11T12:38:20+00:00",
+      "summary": "[지디넷코리아]북한 해킹 조직 김수키(Kimsuky)가 로컬 LLM 실행 환경을 직접 구축해 공격 작업에 AI를 통합하려는 정황이 확인됐다. 현지 시각 8월 10일 더레지스터(The Register)가 한국 보안 기업 지니언스(Genians)의 월요일 보고서를 인용해 보도한 내용이다. 김수키는 북한 정찰총국 산하 조직으로 알려져 있다.지니언스는 김수키가 통제하는 인프라에서 Ollama와 GPT4All, Msty를 이용한 로컬 LLM 환경을 여러 개 구축·운영한 흔적을 발견했다. 로컬 방식은 대화 "
+    },
+    {
       "id": "dd6e1b7757cc",
       "source": "Wired",
       "kind": "article",
@@ -34,6 +78,17 @@
       "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
       "published": "2026-08-11T12:37:12+00:00",
       "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device."
+    },
+    {
+      "id": "24703eb6b93a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한기대 앵커사업단, '피지컬 AI 실무교육' 마무리",
+      "link": "https://zdnet.co.kr/view/?no=20260811171339",
+      "published": "2026-08-11T12:35:55+00:00",
+      "summary": "[지디넷코리아]한국기술교육대학교(한기대) 앵커사업단이 로봇 시뮬레이션과 디지털 트윈, 실물 로봇을 연계한 피지컬 AI(Physical AI) 교육 과정을 마무리했다고 11일 밝혔다. 교육대상은 공학계열 학부생과 대학원생이었다. 앵커사업단은 교육부의 지역성장 인재양성체계 사업을 수행하며 지역과 산업 수요 기반 인재 양성을 추진하는 조직이다.이번 교육은 7월 13~23일 8일간 운영했다. 기본 피지컬 AI 교육 6일, 경진대회 1일, 현장학습 1일로 구성됐다. 오전 이론과 오후 실습을 병행했다. 기계"
     },
     {
       "id": "35f6e5d02124",
@@ -78,6 +133,28 @@
       "link": "https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol",
       "published": "2026-08-11T12:00:00+00:00",
       "summary": "Joby Aviation announced it was acquiring Dayton, Ohio-based defense firm Resonant Sciences in a $500 million deal, in a bid by the electric aircraft company to expand further into the military industrial complex. Joby says it expects to finance the deal with $450 million in cash "
+    },
+    {
+      "id": "3ca8772190c9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "캠브렉스 밀라노, 3000만 달러 규모의 신규 R&D 시설 건설로 창립 80주년 기념",
+      "link": "https://zdnet.co.kr/view/?no=20260811201013",
+      "published": "2026-08-11T11:10:13+00:00",
+      "summary": "[지디넷코리아] 이스트러더퍼드, 뉴저지, 2026년 8월 11일 /PRNewswire/ -- 글로벌 선도 위탁개발생산기업(CDMO) 캠브렉스(Cambrex)가 8월 11일 이탈리아 밀라노 사업장에 새로운 연구개발(R&D) 시설 착공에 들어갔다고 발표했다. 미화 3000만 달러가 투입되는 이번 투자를 통해 첨단 분석 개발 및 공정 R&D 역량을 확충하고 여러 생산 시설을 업그레이드함으로써, 제약업계의 가장 복잡한 소분자 의약품 개발을 지원하려는 캠브렉스의 의지를 한층 강화할 예정이다. 밀라노 R&D"
+    },
+    {
+      "id": "c80c6c5d8f36",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GSMA: 모바일 산업, 2030년까지 아시아•태평양 경제에 1조 4,000억 달러 기여 전망… M360 아세안에서 디지털 신뢰, AI, 디지털 주권 및 회복탄력성 집중 조명",
+      "link": "https://zdnet.co.kr/view/?no=20260811201003",
+      "published": "2026-08-11T11:10:03+00:00",
+      "summary": "[지디넷코리아] 쿠알라룸푸르, 말레이시아 , 2026년 8월 11일 /PRNewswire/ -- GSMA가 새롭게 발표한 2026 모바일 경제 아시아•태평양(Mobile Economy Asia Pacific 2026) 보고서에 따르면, 모바일 기술 및 서비스가 아시아•태평양 경제에 기여하는 규모가 현재 미화 1조 달러에서 40% 증가해 2030년 미화 1조4000억 달러에 이를 것으로 전망된다. GSMA는 다음 달 개최되는 M360 아세안 2026(M360 ASEAN 2026)을 앞두고 8월 10"
     },
     {
       "id": "546bbafdb3bd",
