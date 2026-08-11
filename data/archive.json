@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T21:13:35.546413+00:00",
-  "count": 8985,
+  "updated_at": "2026-08-11T22:05:35.293127+00:00",
+  "count": 8988,
   "items": [
+    {
+      "id": "fec8eaf9f6f6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An FCC filing points to new Sonos headphones coming soon",
+      "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
+      "published": "2026-08-11T21:23:30+00:00",
+      "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with t"
+    },
     {
       "id": "83f7ac0a08f9",
       "source": "Ars Technica",
@@ -78,6 +89,17 @@
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "published": "2026-08-11T18:49:12+00:00",
       "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June."
+    },
+    {
+      "id": "dbaa4eceb6cc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "published": "2026-08-11T18:49:12+00:00",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google."
     },
     {
       "id": "c15f9917a7d8",
@@ -177,6 +199,17 @@
       "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "published": "2026-08-11T17:00:00+00:00",
       "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate "
+    },
+    {
+      "id": "2e8327472db0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mojo 1.0",
+      "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "published": "2026-08-11T16:56:46+00:00",
+      "summary": "Article URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here Comments URL: https://news.ycombinator.com/item?id=49261128 Points: 207 # Comments: 94"
     },
     {
       "id": "190eb782bafb",
