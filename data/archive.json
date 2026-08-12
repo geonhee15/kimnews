@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-12T22:01:56.203902+00:00",
-  "count": 9172,
+  "updated_at": "2026-08-12T23:00:00.812680+00:00",
+  "count": 9179,
   "items": [
+    {
+      "id": "177a052f00b6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "published": "2026-08-12T22:26:37+00:00",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+    },
+    {
+      "id": "44ae29bd8db5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "published": "2026-08-12T22:24:00+00:00",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post."
+    },
+    {
+      "id": "73c69dfbc994",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub availability report: July 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "published": "2026-08-12T22:17:32+00:00",
+      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "c3b0a9ecbfd0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213836",
+      "published": "2026-08-12T22:00:00+00:00",
+      "summary": "마크 저커버그 메타 CEO는 10일(현지시간) 오픈웨이트 모델인 '뮤즈 글리머'를 출시하며 장문의 글을 올렸습니다. 6500단어에 이르는 분량으로, AI 경쟁에 대한 회사의 입장과 사회에 미치는 영향, 그리고 미국 정부가 이 기술을 어떻게 규제하고 장려해야 하는지에 대한 내용입니다.핵심은 AI의 가장 큰 위험으로 ‘중앙집중’을 지목하며 오픈웨이트 AI를 적극 옹호했습니다. AI를 소수 기업이나 정부가 독점해서는 안 되며, 개인이 직접 AI를 통제할 수 있어야 한다는 주장입니다.물론, 이는 이전부터"
+    },
     {
       "id": "c891b62b9793",
       "source": "Ars Technica",
@@ -278,6 +322,17 @@
       "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries."
     },
     {
+      "id": "c166c416705a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "헬피 AI, 이사회에 거물급 기술 및 거버넌스 리더 영입",
+      "link": "https://zdnet.co.kr/view/?no=20260813011003",
+      "published": "2026-08-12T16:10:03+00:00",
+      "summary": "[지디넷코리아] 애플과 에어비앤비 출신 임원 패트릭 게이츠와 전 메타 임원 수니타 파라수라만이 사외이사로 합류하며 헬피의 기술력과 거버넌스를 강화한다. 멜버른, 오스트레일리아, 2026년 8월 13일 /PRNewswire/ -- 모바일을 통해 전 세계 헬스케어를 혁신하는 AI 기반 예방 네트워크 헬피 AI(Helfie AI, 이하 '헬피')가 8월 11일, 패트릭 게이츠(Patrick Gates)와 수니타 파라수라만(Sunita Parasuraman)을 사외이사로 선임했다고 발표했다. Patric"
+    },
+    {
       "id": "e2ac2626e10d",
       "source": "Hacker News",
       "kind": "article",
@@ -388,6 +443,17 @@
       "summary": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8 Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 243 # Comments: 67"
     },
     {
+      "id": "28dbed040283",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "백종현 새 전국 보안공무원 협회장 \"활성화 방안 곧 마련\"",
+      "link": "https://zdnet.co.kr/view/?no=20260812234401",
+      "published": "2026-08-12T14:44:01+00:00",
+      "summary": "[지디넷코리아]'2026년 전국 공무원 사이버보안 콘퍼런스'가 11일 서울 코엑스 2층에서 열렸다. 서울시 디지털도시국 정보보안과가 주관한 이 행사는 전국정보보호정책협의회(정보협, 영어명칭 NISPA, National Information Security Policy Association) 회원들을 대상으로 열렸다. 정보협(NISPA)은 2024년 10월 설립한 전국 최대 공공 부문 정보보호(보안) 단체다. 전국 17개 광역시도와 200여 시군구 보안 공무원과 서울및 지자체 산하 공공기관 보안 담"
+    },
+    {
       "id": "d9d8dbfe3f70",
       "source": "Hacker News",
       "kind": "article",
@@ -485,6 +551,17 @@
       "link": "https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/",
       "published": "2026-08-12T14:07:59+00:00",
       "summary": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app."
+    },
+    {
+      "id": "6009e8364f7b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "link": "https://knownagents.com/insights",
+      "published": "2026-08-12T14:02:46+00:00",
+      "summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 209 # Comments: 132"
     },
     {
       "id": "cd9b72e43a78",
