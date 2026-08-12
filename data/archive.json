@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-12T16:10:04.377377+00:00",
-  "count": 9136,
+  "updated_at": "2026-08-12T17:11:27.315829+00:00",
+  "count": 9144,
   "items": [
+    {
+      "id": "9fe9b3f83aba",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
+      "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
+      "published": "2026-08-12T17:00:00+00:00",
+      "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip th"
+    },
+    {
+      "id": "c1da6b72c21b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+      "published": "2026-08-12T16:58:29+00:00",
+      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an "
+    },
+    {
+      "id": "ca541fc21a18",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "published": "2026-08-12T16:57:58+00:00",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app."
+    },
+    {
+      "id": "a61ad8283a22",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "published": "2026-08-12T16:46:02+00:00",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especiall"
+    },
+    {
+      "id": "3558dc337ae9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "published": "2026-08-12T16:18:31+00:00",
+      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs."
+    },
+    {
+      "id": "9d829cc8ac21",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+      "published": "2026-08-12T16:18:23+00:00",
+      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries."
+    },
     {
       "id": "0a0f161dfd30",
       "source": "The Verge",
@@ -78,6 +144,17 @@
       "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
       "published": "2026-08-12T14:30:00+00:00",
       "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators recor"
+    },
+    {
+      "id": "0f548b9e1e79",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published": "2026-08-12T14:22:30+00:00",
+      "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 345 # Comments: 47"
     },
     {
       "id": "3b2896051c4c",
@@ -903,6 +980,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213860",
       "published": "2026-08-12T07:43:10+00:00",
       "summary": "올가을 기업공개(IPO)를 추진 중인 앤트로픽이 잠재적 투자자들과의 사전 미팅을 이어가며 신뢰 구축에 나섰다. '클로드 코드'의 인기에 힘입어 가파른 성장세를 이어가고 있지만, 최근 대내외적 변수로 인해 시장의 엄격한 검증대에 올랐다. 월스트리트저널(WSJ)은 10일(현지시간) 소식통을 인용, 앤트로픽 경영진이 9월이나 10월 초로 예정된 상장 일정을 앞두고 주요 기관투자자들과 연속적으로 회동하고 있다고 보도했다. 이번 IPO는 최근 평가받은 9650억달러(약 1368조원) 가치를 기준선으로, 투"
+    },
+    {
+      "id": "790a1514a4c6",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "published": "2026-08-12T07:14:36+00:00",
+      "summary": ""
     },
     {
       "id": "e0b15a6123e6",
