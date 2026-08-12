@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-08-12T12:31:21.058570+00:00",
-  "count": 9089,
+  "updated_at": "2026-08-12T14:05:41.070769+00:00",
+  "count": 9117,
   "items": [
+    {
+      "id": "cd9b72e43a78",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Putting sign language AI into users’ hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published": "2026-08-12T14:01:59+00:00",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "id": "52ad878acb39",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage"
+    },
+    {
+      "id": "08c6b6530c4d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking."
+    },
+    {
+      "id": "8273dcc5875d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google takes on AirTag with the new $29 Pixel Tag",
+      "link": "https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "Google’s new Pixel Tag taps into its Find Hub network to help users track lost keys, bags, and other items."
+    },
+    {
+      "id": "599898ec0c2a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens",
+      "link": "https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "The Pixel 11 Pro Fold will cost $1,899"
+    },
+    {
+      "id": "e247ca856678",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+      "link": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There"
+    },
+    {
+      "id": "2eacda291713",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is making the Pixel cameras better by making them worse",
+      "link": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're tryi"
+    },
+    {
+      "id": "65ab58d3677d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike f"
+    },
+    {
+      "id": "2ac0da6cd841",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android now has a tap-to-share feature",
+      "link": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement, and will roll out to Samsung's Galaxy Z Fo"
+    },
+    {
+      "id": "5abaa78cd7b3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Pixel Tag is Google’s answer to the AirTag",
+      "link": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Bluetooth 6.0 Channel So"
+    },
+    {
+      "id": "568edc7da328",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series."
+    },
+    {
+      "id": "b88e0c94c884",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
+      "link": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag."
+    },
+    {
+      "id": "74b6aa85c5e0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "위드네트웍스, 'ISEC 2026'서 새 자산·취약점 통합 관리 플랫폼 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260812220647",
+      "published": "2026-08-12T13:06:47+00:00",
+      "summary": "[지디넷코리아]AI 기반 사이버 보안 및 IT 인프라 통합 플랫폼 기업 위드네트웍스(대표 안종업)가 11~12일 서울 코엑스에서 열린 'ISEC 2026(제20회 국제 시큐리티 콘퍼런스)'에 참가, AI 기반 자산·취약점 통합 관리 플랫폼 'withVTM' 신규 버전을 처음 공개했다. 이 제품은 실제 인프라를 3D 가상 공간에 그대로 재현하는 '보안 디지털 트윈'을 적용했다.12일 회사에 따르면, 'AI로 구현하는 자율보안의 미래'를 주제로 열린 이번 행사에서 'AI가 취약점을 쏟아내는 미토스 시"
+    },
+    {
+      "id": "75fa66552d9c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Insta360’s next 360-degree action cam puts bigger sensors in a smaller design",
+      "link": "https://www.theverge.com/tech/978211/insta360-x6-360-degree-action-camera-8k-price-availability",
+      "published": "2026-08-12T13:00:00+00:00",
+      "summary": "Insta360 announced the next iteration of its popular 360-degree action cameras that have helped the company expand its offerings. The new X6 introduces a design that's smaller than last year's X5 and X4 Air but with improved video capabilities thanks to an even larger pair of cus"
+    },
+    {
+      "id": "b393d1c1a008",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+      "link": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "published": "2026-08-12T12:57:24+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a902fa6f29ce",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"포티넷과 어깨 나란히\"...S2W, 인터폴 아플카 사이버위협 보고서 제작 참여",
+      "link": "https://zdnet.co.kr/view/?no=20260812213410",
+      "published": "2026-08-12T12:34:10+00:00",
+      "summary": "[지디넷코리아]에스투더블유(S2W)가 최근 인터폴(INTERPOL)이 공개한 ‘2026 아프리카 사이버위협 평가 보고서(African Cyberthreat Assessment Report 2026)’ 제작에 민간 부문 파트너로 참여했다. 아프리카 사이버범죄 동향 분석을 위한 데이터와 인텔리전스를 제공했다.12일 회사에 따르면, 이번 보고서는 영국 외무·영연방·개발부(FCDO) 지원으로 추진한 ‘아프리카 사이버범죄 공동 작전(AFJOC)’ 일환으로 발간됐다. 아프리카 36개 인터폴 회원국의 법 집행"
+    },
     {
       "id": "183a7eba50a3",
       "source": "The Verge",
@@ -14,6 +190,28 @@
       "summary": "The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually a robot. Instead it's a regular Android smartphone with its main camera installed on a compact gimbal arm that unfolds from the phone's rear. Cramming the equiv"
     },
     {
+      "id": "37ff4879d74d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
+      "link": "https://www.wired.com/story/honor-robot-phone/",
+      "published": "2026-08-12T12:30:00+00:00",
+      "summary": "Honor’s new China-exclusive Android phone features a pop-out motorized gimbal camera designed to replace your action cam."
+    },
+    {
+      "id": "9f1a6bf2c3a7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "씨이랩, '아스트라고 파트너 서밋 2026' 개최...'아스몬' 전격 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260812212127",
+      "published": "2026-08-12T12:21:27+00:00",
+      "summary": "[지디넷코리아]AI 인프라 소프트웨어 전문기업 씨이랩(대표 윤세혁·채정환)이 오는 19일 서울 강남구 오크우드 프리미어 코엑스 센터에서 리셀러 파트너사를 대상으로 한 행사 ‘아스트라고 파트너 서밋 2026 인 서머(AstraGo Partner Summit 2026 in Summer)’를 개최한다.이날 씨이랩은 자사 GPU 오케스트레이션 플랫폼 ‘아스트라고(AstraGo)’와 연계되는 GPU 운영 진단 새 솔루션 ‘아스트라몬(AstraMon)’을 공식 소개, 이를 기반으로 한 파트너 사업 전략을 공"
+    },
+    {
       "id": "221ac45533f7",
       "source": "The Verge",
       "kind": "article",
@@ -23,6 +221,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
       "published": "2026-08-12T12:09:34+00:00",
       "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer "
+    },
+    {
+      "id": "9b8d8c578cb9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한싹, 에스엠피플스와 통합보안솔루션 총판 계약",
+      "link": "https://zdnet.co.kr/view/?no=20260812210903",
+      "published": "2026-08-12T12:09:03+00:00",
+      "summary": "[지디넷코리아]데이터 보안 전문기업 한싹(대표 이주도)이 정보보안 기업 에스엠피플스(대표 최정수)와 통합보안솔루션 총판 계약을 체결했다. 이번 계약으로 에스엠피플스는 한싹의 핵심 보안 솔루션 4종에 대한 국내 총판권을 확보했다. 공공·금융·제조·교육 등 전 산업 분야를 대상으로 제품 판매·유통에 나선다. 한싹은 에스엠피플스의 영업 네트워크를 활용해 전국 단위 판매 채널을 강화, 민간 시장까지 고객 기반을 넓힌다.12일 한싹에 따르면, 두 회사는 신규 수요 확보부터 제품 공급, 구축, 기술지원까지 "
     },
     {
       "id": "27693889088a",
@@ -45,6 +254,72 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
       "published": "2026-08-12T11:58:54+00:00",
       "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete mul"
+    },
+    {
+      "id": "bf7dd3e0fb9c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"보안키를 넘어\"...옥타코, AI시대를 위한 디지털 트러스트 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260812204717",
+      "published": "2026-08-12T11:47:17+00:00",
+      "summary": "[지디넷코리아]지난 20여 년간 계속돼욘 기업용 사이버보안의 핵심 질문이 있다. \"이 사용자는 누구인가?\"이다.패스워드, 일회용 비밀번호(OTT), 생체인식, 그리고 FIDO2(Fast IDentity Online2) 보안키(Passkey)는 모두 이 질문에 대응하는 기술이고 더 안전한 방향으로 발전해왔다. 이러한 기술은 조직의 계정 탈취 위험을 줄이고, 자산을 보호하며, 기존 패스워드 기반 인증의 한계를 극복하도록 도왔다.그러나 오늘날 보안 환경은 인공지능(AI) 등장으로 큰 변화를 맞고 있다."
+    },
+    {
+      "id": "cd85836af74c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출",
+      "link": "https://zdnet.co.kr/view/?no=20260812203252",
+      "published": "2026-08-12T11:32:52+00:00",
+      "summary": "[지디넷코리아]프론티어 AI 모델의 '암호화된' 내부 사고 과정을 평문으로 뽑아내는 공격이 논문으로 공개됐다. 현지 시각 8월 10일 arXiv에 게재된 연구로, 와이어드가 11일 보도했다. 튀빙겐 ELLIS 연구소와 막스플랑크 지능시스템 연구소, MATS 리서치, 스니크 연구진 8명이 작성한 116페이지 분량의 논문이다. 앤트로픽과 오픈AI, 구글의 API가 모두 영향을 받는 것으로 확인됐다.공격의 핵심은 추론을 담는 '암호화 블록'의 특성에 있다. 오픈AI·앤트로픽·구글은 모델의 단계별 사고 "
+    },
+    {
+      "id": "402ac8c04758",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI야, 잠깐 멈춰!",
+      "link": "https://zdnet.co.kr/view/?no=20260812094152",
+      "published": "2026-08-12T11:31:58+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 미국 정치권에서 날아온 흥미로운 편지 이야기를 들려드릴게요. 얼마 전 미국의 한 상원의원(샌더스 의원)이 AI 기업 3곳에 \"잠깐 멈춰달라\"는 경고 편지를 보내면서 화제가 됐는데요. AI 기술 발전 속도에 대한 우려가 이제 정치권까지 움직이게 만든 셈이에요. 그런데 여기서 흥미로운 지점이 있어요. 미국 경제 규모가 61(단위 비교 기준)로 중국의 39보다 훨씬 크다 보니, 미국이 AI 개발을 갑자기 멈추기는 현실적으로 어렵다는 거예요.사실 "
+    },
+    {
+      "id": "6cbabbd2def9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘과 오라클, 오라클과 협력하여 오라클 클라우드 인프라스트럭처 기반의 하이브리드 양자 컴퓨팅 도입 가속화",
+      "link": "https://zdnet.co.kr/view/?no=20260812201013",
+      "published": "2026-08-12T11:10:13+00:00",
+      "summary": "[지디넷코리아] 퀀티넘(Quantinuum)의 가장 최신 양자 컴퓨터인 헬리오스(Helios)가 미국 소재 OCI AI 데이터센터에 배포되어, OCI 서비스로서 하이브리드 퀀텀-AI 워크로드를 지원할 예정이다. 퀀티넘과 오라클(Oracle)은 신약 개발, 재료과학, 금융 모델링, 대규모 최적화, AI 워크로드를 아우르는 기업, AI 연구소, 학계, 연구 분야의 응용을 지원하는 것을 목표로 한다. 콜로라도 브룸필드 및 텍사스 오스틴, 2026년 8월 12일 /PRNewswire/ -- 선도적인 양자"
+    },
+    {
+      "id": "210b6731c987",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바레인, 오는 10월 개최되는 핀테크 포워드 2026 준비에 나서",
+      "link": "https://zdnet.co.kr/view/?no=20260812201003",
+      "published": "2026-08-12T11:10:03+00:00",
+      "summary": "[지디넷코리아]4회를 맞이하는 올해 포럼, 금융서비스 전반에서 혁신의 다음 단계를 만들어가는 글로벌 사상가와 업계 선구자들이 한자리에 모여 마나마, 바레인, 2026년 8월 12일 /PRNewswire/ -- 지역을 대표하는 금융서비스 포럼인 핀테크 포워드(Fintech Forward)가 2026년 10월 7일부터 8일까지 바레인의 엑시비션 월드 바레인(Exhibition World Bahrain)에서 개최될 예정이다. 바레인 경제개발위원회(Bahrain Economic Development Bo"
+    },
+    {
+      "id": "ed1c90679c05",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈놀, 상반기 영업이익 17억 역대 최대...수익성 대폭 개선",
+      "link": "https://zdnet.co.kr/view/?no=20260812200815",
+      "published": "2026-08-12T11:08:15+00:00",
+      "summary": "[지디넷코리아]AI 기반 커리어 채용 플랫폼기업 오픈놀(대표 권인택)이 상반기에 영업이익 17억3000만 원을 기록했다. 역대 반기 최고 실적을 달성했다. 운영 효율화와 고부가가치 사업 비중 확대를 통한 수익성 개선이 효력을 발휘했다.12일 회사에 따르면, 상반기 연결 기준 누적 매출 398억 원, 영업이익 17.3억 원을 기록했다고 공시했다. 전년 동기(399억원) 대비 매출은 0.25% 소폭 감소했지만 영업이익은 27억 원 이상 증가하며 지난 1분기에 이어 흑자 기조를 이어갔다. 영업이익률도 "
     },
     {
       "id": "494dcaa86b31",
@@ -91,6 +366,17 @@
       "summary": "엔비디아가 오픈소스 라우팅 기술을 공개했다. 복잡한 추론에는 고성능 프런티어 모델을, 반복적이고 대량으로 처리해야 하는 작업에는 저비용 모델을 투입하는 방식으로 AI 에이전트의 비용과 처리 효율을 동시에 개선하겠다는 전략이다.엔비디아는 11일(현지시간) 오픈소스 모델 라우팅 라이브러리인 '네모 스위치야드(NeMo Switchyard)'를 공개했다.스위치야드는 AI 에이전트의 각 작업 단계에서 요청 내용뿐 아니라 모델의 상태, 작업 진행 상황, 비용과 지연시간, 토큰 사용량 등을 종합적으로 분석해 "
     },
     {
+      "id": "9c229f7d6fbe",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "방미통위, 인앱결제 강제 제제 논의 시동",
+      "link": "https://zdnet.co.kr/view/?no=20260812192259",
+      "published": "2026-08-12T10:22:59+00:00",
+      "summary": "[지디넷코리아]방송미디어통신위원회가 구글과 애플 등 앱마켓 사업자에 대해 인앱결제 관련 제재 논의를 시작했다. 세계 최초로 인앱결제 강제 금지법이 통과된 이후 사실조사가 시작됐으나 방송통신위원회 파행 운영으로 실제 제재를 위한 공식 논의가 수년간 미뤄졌다.방미통위는 12일 전체회의를 열어 구글과 애플 등 앱마켓 사업자의 인앱결제 강제에 따른 처분 필요성 논의를 시작했다.이날 회의에서는 사무처에서 그간의 경과를 보고한 뒤 저녁 늦은 시간까지 구글과 애플 본사 임원에 대한 의견 청취가 이어졌다. 제재"
+    },
+    {
       "id": "afd793666c61",
       "source": "AI타임스",
       "kind": "article",
@@ -133,6 +419,17 @@
       "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
       "published": "2026-08-12T10:00:00+00:00",
       "summary": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers."
+    },
+    {
+      "id": "e70ee2fc3ec5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "published": "2026-08-12T09:35:30+00:00",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696 Comments URL: https://news.ycombinator.com/item?id=49269818 Points: 323 # Comments: 192"
     },
     {
       "id": "f62f3dbc1d89",
@@ -672,6 +969,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213840",
       "published": "2026-08-12T05:18:54+00:00",
       "summary": "독자 AI 파운데이션 모델(독파모) 프로젝트의 2차 평가 결과 발표가 임박한 가운데, 평가 방식과 비교 잣대를 둘러싸고 업계 일각에서 보완 필요성이 제기되고 있다.12일 관련 업계에 따르면, 독파모 2차 평가 항목 중 일부 벤치마크 지표의 반영 방식 및 체급 설정 기준에 대해 아쉬운 대목이 존재한다는 의견이 나오고 있다.■ AAII 9개 지표 반영률 각기 달라... \"에이전틱 지표 보고 부족\"2차 평가는 벤치마크 40점, 전문가 평가 35점, 사용자 평가 25점으로 구성된다. 벤치마크 40점 중에"
+    },
+    {
+      "id": "2ab801e54ec4",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "published": "2026-08-12T05:00:51+00:00",
+      "summary": ""
     },
     {
       "id": "01b357931b99",
