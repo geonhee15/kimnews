@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-12T19:18:46.334177+00:00",
-  "count": 9161,
+  "updated_at": "2026-08-12T20:09:18.807620+00:00",
+  "count": 9164,
   "items": [
+    {
+      "id": "bc0e1043ea74",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It looks like Apple’s iPhone 18 really will skip the fall launch this year",
+      "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+      "published": "2026-08-12T19:27:47+00:00",
+      "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more"
+    },
     {
       "id": "7cd82dba6c71",
       "source": "Wired",
@@ -146,6 +157,17 @@
       "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app."
     },
     {
+      "id": "a874b2bc44b8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "published": "2026-08-12T16:54:25+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis Comments URL: https://news.ycombinator.com/item?id=49275385 Points: 203 # Comments: 191"
+    },
+    {
       "id": "53c444af7415",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -243,6 +265,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "published": "2026-08-12T15:52:07+00:00",
       "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various expl"
+    },
+    {
+      "id": "9f1eb64e6567",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Grok 4.6",
+      "link": "https://x.ai/news/grok-4-6",
+      "published": "2026-08-12T15:32:50+00:00",
+      "summary": "Article URL: https://x.ai/news/grok-4-6 Comments URL: https://news.ycombinator.com/item?id=49274027 Points: 228 # Comments: 230"
     },
     {
       "id": "201dccdd57cc",
