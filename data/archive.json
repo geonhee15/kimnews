@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-12T21:01:47.610751+00:00",
-  "count": 9167,
+  "updated_at": "2026-08-12T22:01:56.203902+00:00",
+  "count": 9172,
   "items": [
+    {
+      "id": "c891b62b9793",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "published": "2026-08-12T21:43:21+00:00",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
+    },
+    {
+      "id": "4ec617b2e781",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones",
+      "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "published": "2026-08-12T21:30:00+00:00",
+      "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, tod"
+    },
+    {
+      "id": "6ce654edbad8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "published": "2026-08-12T21:00:30+00:00",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
+    },
+    {
+      "id": "b74117f779f4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "published": "2026-08-12T21:00:00+00:00",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate."
+    },
     {
       "id": "096e0b1cfd75",
       "source": "TechCrunch",
@@ -67,6 +111,17 @@
       "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
       "published": "2026-08-12T18:29:41+00:00",
       "summary": ""
+    },
+    {
+      "id": "434acd506381",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Delta",
+      "link": "https://zed.dev/blog/introducing-delta",
+      "published": "2026-08-12T18:19:59+00:00",
+      "summary": "Article URL: https://zed.dev/blog/introducing-delta Comments URL: https://news.ycombinator.com/item?id=49276574 Points: 255 # Comments: 86"
     },
     {
       "id": "30cefe094d87",
