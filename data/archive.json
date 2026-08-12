@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-12T18:06:39.464799+00:00",
-  "count": 9154,
+  "updated_at": "2026-08-12T19:18:46.334177+00:00",
+  "count": 9161,
   "items": [
+    {
+      "id": "7cd82dba6c71",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
+      "link": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
+      "published": "2026-08-12T19:05:29+00:00",
+      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event."
+    },
+    {
+      "id": "9dee01862d10",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "published": "2026-08-12T19:00:00+00:00",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "3cd52f9241a3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "published": "2026-08-12T18:45:00+00:00",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy."
+    },
+    {
+      "id": "a5e4129c5fd6",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta's new model wants \"deep access\" to your personal life...",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "published": "2026-08-12T18:29:41+00:00",
+      "summary": ""
+    },
+    {
+      "id": "30cefe094d87",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "published": "2026-08-12T18:19:12+00:00",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+    },
     {
       "id": "4916174156ef",
       "source": "GitHub Blog",
@@ -221,6 +276,17 @@
       "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "published": "2026-08-12T15:01:17+00:00",
       "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 200 # Comments: 60"
+    },
+    {
+      "id": "da43f8bbe5fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen3.8-2.4T",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "published": "2026-08-12T15:01:17+00:00",
+      "summary": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8 Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 243 # Comments: 67"
     },
     {
       "id": "d9d8dbfe3f70",
@@ -793,6 +859,17 @@
       "link": "https://woxi.ad-si.com",
       "published": "2026-08-12T10:06:29+00:00",
       "summary": "Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. Compared with wolframscript / Mathematica, the"
+    },
+    {
+      "id": "afe99894f8bc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What sort of maths are LLMs good at?",
+      "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "published": "2026-08-12T10:04:25+00:00",
+      "summary": "Article URL: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/ Comments URL: https://news.ycombinator.com/item?id=49270022 Points: 206 # Comments: 105"
     },
     {
       "id": "46dca7fcdf39",
