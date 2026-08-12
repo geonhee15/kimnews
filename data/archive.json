@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-12T17:11:27.315829+00:00",
-  "count": 9144,
+  "updated_at": "2026-08-12T18:06:39.464799+00:00",
+  "count": 9154,
   "items": [
+    {
+      "id": "4916174156ef",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Your contributors are AI-first now. Is your project?",
+      "link": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "published": "2026-08-12T18:00:08+00:00",
+      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "393461fd26ec",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "published": "2026-08-12T17:51:00+00:00",
+      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia."
+    },
+    {
+      "id": "e2541373c41e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
+      "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
+      "published": "2026-08-12T17:47:54+00:00",
+      "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold start"
+    },
+    {
+      "id": "1a10dc99a5f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "published": "2026-08-12T17:41:29+00:00",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital."
+    },
+    {
+      "id": "a792db5b58dc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "published": "2026-08-12T17:29:10+00:00",
+      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose"
+    },
     {
       "id": "9fe9b3f83aba",
       "source": "The Verge",
@@ -34,6 +89,17 @@
       "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
       "published": "2026-08-12T16:57:58+00:00",
       "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app."
+    },
+    {
+      "id": "53c444af7415",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "published": "2026-08-12T16:51:57+00:00",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (R"
     },
     {
       "id": "a61ad8283a22",
@@ -69,6 +135,17 @@
       "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries."
     },
     {
+      "id": "e2ac2626e10d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek V4 Pro 0813",
+      "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "published": "2026-08-12T16:04:50+00:00",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813 Comments URL: https://news.ycombinator.com/item?id=49274600 Points: 274 # Comments: 83"
+    },
+    {
       "id": "0a0f161dfd30",
       "source": "The Verge",
       "kind": "article",
@@ -86,6 +163,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "published": "2026-08-12T15:56:13+00:00",
+      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals."
+    },
+    {
+      "id": "400624766352",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
       "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
       "published": "2026-08-12T15:56:13+00:00",
       "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals."
@@ -122,6 +210,17 @@
       "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
       "published": "2026-08-12T15:18:55+00:00",
       "summary": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
+    },
+    {
+      "id": "3eaa2ee797ff",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "published": "2026-08-12T15:01:17+00:00",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 200 # Comments: 60"
     },
     {
       "id": "d9d8dbfe3f70",
@@ -683,6 +782,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213861",
       "published": "2026-08-12T10:10:06+00:00",
       "summary": "가장 인기 있는 오픈소스 비디오 생성 모델 LTX 시리즈의 최신 버전 'LTX-2.5'가 공개됐다. 비디오 생성의 속도와 품질을 크게 끌어올린 것은 물론, 소비자용 GPU와 맥(Mac)에서도 구동할 수 있도록 경량화해 로컬 활용을 확대할 것으로 기대된다.라이트릭스(Lightricks)에서 분사한 LTX는 11일(현지시간) 오픈웨이트 기반의 LTX-2.5를 공개했다.LTX 계열은 허깅페이스 등을 통해 누적 3300만건 이상의 다운로드를 기록했다. 직전 버전인 LTX-2.3도 1800만건 이상의 다운"
+    },
+    {
+      "id": "2703d9e0928a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "link": "https://woxi.ad-si.com",
+      "published": "2026-08-12T10:06:29+00:00",
+      "summary": "Woxi is an interpreter for the Wolfram Language written in Rust. It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module. Compared with wolframscript / Mathematica, the"
     },
     {
       "id": "46dca7fcdf39",
