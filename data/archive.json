@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-08-12T14:05:41.070769+00:00",
-  "count": 9117,
+  "updated_at": "2026-08-12T15:13:01.836409+00:00",
+  "count": 9127,
   "items": [
+    {
+      "id": "582f63ec100f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "published": "2026-08-12T14:30:00+00:00",
+      "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators recor"
+    },
+    {
+      "id": "3b2896051c4c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "published": "2026-08-12T14:20:33+00:00",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
+    },
+    {
+      "id": "dff5a2d91120",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+      "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+      "published": "2026-08-12T14:15:00+00:00",
+      "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a look at everything Google's unveiling, includ"
+    },
+    {
+      "id": "d0b3c65b43a1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Quick Share adds a tap-to-share mode",
+      "link": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/",
+      "published": "2026-08-12T14:13:03+00:00",
+      "summary": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more."
+    },
+    {
+      "id": "86b2ccb5f711",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DXC, DXC 워크플레이스 서비스로 업무의 새로운 시대를 열다",
+      "link": "https://zdnet.co.kr/view/?no=20260812231014",
+      "published": "2026-08-12T14:10:14+00:00",
+      "summary": "[지디넷코리아] DXC 워크플레이스 서비스(DXC Workplace Services)는 새로운 도구를 추가하거나 운영상의 복잡성을 더하지 않으면서도 조직이 직원 생산성과 경험을 개선할 수 있도록 지원한다. 이번 서비스는 DXC의 심도 있는 도메인 전문성과 에이전틱 AI 역량을 결합해 직원들의 기술 관련 필요를 예측하고, 생산성 저해 요인을 줄이며, 문제 해결 속도를 높인다. DXC 오아시스(DXC OASIS)를 기반으로 하는 워크플레이스 서비스는 고객이 기존 기술 투자를 최대한 활용하고 측정 가능"
+    },
+    {
+      "id": "0c6f65fba031",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘, 2026년 2분기 실적 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260812231003",
+      "published": "2026-08-12T14:10:03+00:00",
+      "summary": "[지디넷코리아] 2분기 매출 전년 동기 대비 279% 증가, 2026 회계연도 전망치 상향 조정Helios에서 99.999%에 가까운 논리적 충실도 입증하며 내결함성 분야 리더십 확대Helios를 Oracle Cloud Infrastructure(OCI) 서비스로 배포하기 위해 오라클과 업계 최초 파트너십 발표글로벌 주요 전자제품 제조업체와 전략적 협력을 통해 공급망 강화 브룸필드, 콜로라도, 2026년 8월 11일 /PRNewswire/ -- 선도적인 양자 컴퓨팅 기업 퀀티넘(Quantinuum"
+    },
+    {
+      "id": "f52aa71bbdca",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
+      "link": "https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/",
+      "published": "2026-08-12T14:07:59+00:00",
+      "summary": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app."
+    },
     {
       "id": "cd9b72e43a78",
       "source": "Google DeepMind",
@@ -12,6 +89,17 @@
       "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
       "published": "2026-08-12T14:01:59+00:00",
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "id": "bb9ad30c5a86",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "published": "2026-08-12T14:00:51+00:00",
+      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026."
     },
     {
       "id": "52ad878acb39",
@@ -133,6 +221,28 @@
       "link": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
       "published": "2026-08-12T14:00:00+00:00",
       "summary": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag."
+    },
+    {
+      "id": "de17950b8108",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+      "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+      "published": "2026-08-12T13:37:12+00:00",
+      "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts."
+    },
+    {
+      "id": "8a41b034bef7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "금보원, 국내 첫 금융 특화 AI 안전성·신뢰성 평가 체계 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260812223111",
+      "published": "2026-08-12T13:31:11+00:00",
+      "summary": "[지디넷코리아]금융보안원(원장 박상원)이 '금융 AI 안전성·신뢰성 평가 프레임워크'를 개발했다. 국내서 처음으로 금융 특화 AI 안전성 및 신뢰성을 평가하는 체계를 개발했다. 올해 금융회사를 대상으로 수요조사와 시범검증을 한 후 내년부터 본격 평가를 실시한다.12일 금보원에 따르면, 망분리 완화 등 금융당국 규제 혁신으로 금융권 인공지능 전환(AX)이 가속화됨에 따라 AI 활용 확대에 수반되는 위험을 체계적으로 관리하고 AI 안전성과 신뢰성을 객관적, 종합적으로 평가하기 위해 이번 프레임워크를 "
     },
     {
       "id": "74b6aa85c5e0",
