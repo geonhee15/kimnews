@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-12T15:13:01.836409+00:00",
-  "count": 9127,
+  "updated_at": "2026-08-12T16:10:04.377377+00:00",
+  "count": 9136,
   "items": [
+    {
+      "id": "0a0f161dfd30",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
+      "link": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
+      "published": "2026-08-12T16:00:00+00:00",
+      "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more wide than tall - something that Samsung t"
+    },
+    {
+      "id": "a88199ecd6c6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "published": "2026-08-12T15:56:13+00:00",
+      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals."
+    },
+    {
+      "id": "0ee3866ac286",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "published": "2026-08-12T15:52:07+00:00",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various expl"
+    },
+    {
+      "id": "201dccdd57cc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "published": "2026-08-12T15:19:17+00:00",
+      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers."
+    },
+    {
+      "id": "8dcf63312d86",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "published": "2026-08-12T15:18:55+00:00",
+      "summary": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
+    },
+    {
+      "id": "d9d8dbfe3f70",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "License plate reader searches should require a warrant",
+      "link": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "published": "2026-08-12T14:43:39+00:00",
+      "summary": "Article URL: https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/ Comments URL: https://news.ycombinator.com/item?id=49273165 Points: 208 # Comments: 116"
+    },
     {
       "id": "582f63ec100f",
       "source": "The Verge",
@@ -223,6 +289,17 @@
       "summary": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag."
     },
     {
+      "id": "c286a26ea736",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage."
+    },
+    {
       "id": "de17950b8108",
       "source": "Ars Technica",
       "kind": "article",
@@ -243,6 +320,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260812223111",
       "published": "2026-08-12T13:31:11+00:00",
       "summary": "[지디넷코리아]금융보안원(원장 박상원)이 '금융 AI 안전성·신뢰성 평가 프레임워크'를 개발했다. 국내서 처음으로 금융 특화 AI 안전성 및 신뢰성을 평가하는 체계를 개발했다. 올해 금융회사를 대상으로 수요조사와 시범검증을 한 후 내년부터 본격 평가를 실시한다.12일 금보원에 따르면, 망분리 완화 등 금융당국 규제 혁신으로 금융권 인공지능 전환(AX)이 가속화됨에 따라 AI 활용 확대에 수반되는 위험을 체계적으로 관리하고 AI 안전성과 신뢰성을 객관적, 종합적으로 평가하기 위해 이번 프레임워크를 "
+    },
+    {
+      "id": "06d4425aafb2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI is removing the middle class of software engineering",
+      "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "published": "2026-08-12T13:20:05+00:00",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 245 # Comments: 215"
     },
     {
       "id": "74b6aa85c5e0",
@@ -540,6 +628,17 @@
       "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
       "published": "2026-08-12T09:35:30+00:00",
       "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696 Comments URL: https://news.ycombinator.com/item?id=49269818 Points: 323 # Comments: 192"
+    },
+    {
+      "id": "f366d90cd876",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Controversial creators are benefiting from monetization programs run by Meta",
+      "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "published": "2026-08-12T09:35:30+00:00",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696 Comments URL: https://news.ycombinator.com/item?id=49269818 Points: 426 # Comments: 277"
     },
     {
       "id": "f62f3dbc1d89",
