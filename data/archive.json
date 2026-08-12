@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-08-12T09:48:35.642839+00:00",
-  "count": 9069,
+  "updated_at": "2026-08-12T10:56:15.910973+00:00",
+  "count": 9083,
   "items": [
+    {
+      "id": "766ff06d9dc9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213838",
+      "published": "2026-08-12T10:35:00+00:00",
+      "summary": "앤트로픽의 미공개 연구용 AI 모델이 160년 가까이 풀리지 않은 수학계 최대 난제 중 하나인 ‘리만 가설’과 관련해 기존 연구의 한계를 크게 뛰어넘는 성과를 냈다.앤트로픽은 10일(현지시간) 공개한 연구에서 아직 일반에 출시되지 않은 연구용 클로드(Claude)가 리만 가설에 도전하는 과정에서 큰 진전을 이뤘다고 발표했다.리만 가설 자체를 증명하는 데는 실패했지만, 리만 제타 함수의 비자명한 영점 가운데 리만 가설이 요구하는 선 위에 존재한다고 확인할 수 있는 영점의 비율에 대한 하한을 기존 4"
+    },
+    {
+      "id": "bac1312df590",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "published": "2026-08-12T10:30:00+00:00",
+      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning."
+    },
+    {
+      "id": "114600faac85",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213846",
+      "published": "2026-08-12T10:26:51+00:00",
+      "summary": "엔비디아가 오픈소스 라우팅 기술을 공개했다. 복잡한 추론에는 고성능 프런티어 모델을, 반복적이고 대량으로 처리해야 하는 작업에는 저비용 모델을 투입하는 방식으로 AI 에이전트의 비용과 처리 효율을 동시에 개선하겠다는 전략이다.엔비디아는 11일(현지시간) 오픈소스 모델 라우팅 라이브러리인 '네모 스위치야드(NeMo Switchyard)'를 공개했다.스위치야드는 AI 에이전트의 각 작업 단계에서 요청 내용뿐 아니라 모델의 상태, 작업 진행 상황, 비용과 지연시간, 토큰 사용량 등을 종합적으로 분석해 "
+    },
+    {
+      "id": "afd793666c61",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 클로드·커서 작업 환경 흡수…'에이전트 통합 플랫폼' 승부수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213849",
+      "published": "2026-08-12T10:21:05+00:00",
+      "summary": "오픈AI가 '챗GPT'를 중심으로 경쟁 AI 에이전트와의 경계를 허무는 작업 환경 통합에 나섰다. 사용자들이 여러 AI 에이전트를 오가며 작업하는 흐름이 확대되는 가운데, 기존 작업 환경을 그대로 옮겨와 연속성을 확보할 수 있도록 지원하는 것이 핵심이다. 오픈AI는 11일(현지시간) 경쟁사의 AI 에이전트에서 사용하던 프로젝트와 설정, 대화 기록 등을 자사 플랫폼으로 한 번에 가져와 계속 작업할 수 있는 ‘가져오기(Import)’ 기능을 선보였다.특정 AI 에이전트에 작업 환경이 종속되는 문제를 "
+    },
+    {
+      "id": "96b405e0f589",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "xAI 창립자 이고르 바부슈킨, 리버 AI 설립...'맞춤형 오픈소스 AI' 도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213854",
+      "published": "2026-08-12T10:16:18+00:00",
+      "summary": "xAI의 공동 창립자 이고르 바부슈킨이 퇴사 후 ‘맞춤형 AI’ 시대를 겨냥한 스타트업 리버 AI(River AI)를 설립했다.로이터 등에 따르면, 바부슈킨 CEO는 11일(현지시간) 리버 AI가 설립 두 달 만에 11억달러(약 1조5000억원) 규모의 시드 및 시리즈 A 투자를 유치했다고 발표했다. 이번 투자 라운드는 제너럴 캐털리스트와 AMP PBC가 주도했으며, 엔비디아와 AMD 벤처스가 전략적 투자자로 참여했다. 와이콤비네이터와 싱가포르 국부펀드 테마섹도 투자에 합류했다. 기업 가치는 공개"
+    },
+    {
+      "id": "26469cfdb80a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인기 오픈 동영상 모델 ‘LTX-2.5’ 공개...엔비디아 칩서 10초 영상 6.8초 만에 생성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213861",
+      "published": "2026-08-12T10:10:06+00:00",
+      "summary": "가장 인기 있는 오픈소스 비디오 생성 모델 LTX 시리즈의 최신 버전 'LTX-2.5'가 공개됐다. 비디오 생성의 속도와 품질을 크게 끌어올린 것은 물론, 소비자용 GPU와 맥(Mac)에서도 구동할 수 있도록 경량화해 로컬 활용을 확대할 것으로 기대된다.라이트릭스(Lightricks)에서 분사한 LTX는 11일(현지시간) 오픈웨이트 기반의 LTX-2.5를 공개했다.LTX 계열은 허깅페이스 등을 통해 누적 3300만건 이상의 다운로드를 기록했다. 직전 버전인 LTX-2.3도 1800만건 이상의 다운"
+    },
+    {
+      "id": "46dca7fcdf39",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+      "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+      "published": "2026-08-12T10:00:00+00:00",
+      "summary": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers."
+    },
     {
       "id": "f62f3dbc1d89",
       "source": "AI타임스",
@@ -25,12 +102,67 @@
       "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral."
     },
     {
+      "id": "4e6f0a4539aa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AX 매출 2배·영업이익률 9%\"... KT, '코퍼레이트 데이'서 기업가치 계획 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260812180146",
+      "published": "2026-08-12T09:08:32+00:00",
+      "summary": "[지디넷코리아]KT가 국내외 투자자들을 대상으로 행사를 열어 AI 중심 사업구조 전환과 AX 매출 2배·영업이익률 9% 등 중장기 기업가치 제고 계획을 발표했다.KT는 국내외 기관투자자, 애널리스트 등 50여 명이 참석한 가운데 ‘2026 KT 코퍼레이트 데이’를 진행했다고 12일 밝혔다.이날 서울 여의도 콘래드호텔에서 진행된 행사는 KT가 추진 중인 AX 플랫폼 컴퍼니 전략을 구체적으로 설명하고, 기업가치 제고 계획 주요 목표와 향후 이행 방향을 자본시장과 직접 공유하기 위해 마련됐다.박윤영 대"
+    },
+    {
+      "id": "15e6d607d777",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "모건스탠리 \"LG전자, 이젠 피지컬AI 플랫폼 기업\"",
+      "link": "https://zdnet.co.kr/view/?no=20260812180528",
+      "published": "2026-08-12T09:05:28+00:00",
+      "summary": "[지디넷코리아]모건스탠리가 11일 보고서에서 LG전자의 다양한 사업 영역이 피지컬 인공지능(AI) 기업으로 진화하는 경쟁력이 될 것이라고 전망했다. 모건스탠리는 LG전자가 가정과 차량, 상업공간, 공장, 데이터센터 등 실물 경제 전반에 걸쳐 AI를 적용할 수 있는 하드웨어 기반을 보유한 점을 긍정 평가했다. 피지컬 AI 시대 도래로 LG전자가 보유한 가전과 로봇, 냉난방공조(HVAC), 전장 사업이 새로운 성장축이 될 수 있다. 로봇 사업도 기대요인이다. 모건스탠리는 \"LG전자의 로봇 사업 전략은"
+    },
+    {
+      "id": "b682c8f36bdf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "10년 뒤 대한민국 먹거리로 양자·SMR 등 7대 분야에 '씨앗투자'",
+      "link": "https://zdnet.co.kr/view/?no=20260812180452",
+      "published": "2026-08-12T09:04:52+00:00",
+      "summary": "[지디넷코리아]정부가 10~20년 이후 대한민국을 먹여살릴 '씨앗기술'로 양자와 SMR(소형모듈원자로) 등 7개 분야를 정해, 본격 투자에 나선다.과학기술정보통신부는 12일 청와대 충무실에서 관계부처 합동으로 ‘미래성장동력 '7대 SEED 보고회’를 개최했다.이날 과기정통부는 ‘미래 개척의 엔진: 첨단기술’을 주제로 7대 시드 프로젝트 추진 방안을 발표했다.'시드'(SEED;Strategic Emerging Engines for Disruptive innovation)는 파괴적 혁신을 위해 전략적"
+    },
+    {
+      "id": "8f869fca1e57",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코난테크, '에이전트-X'로 기업용 AI 플랫폼 시장 정조준",
+      "link": "https://zdnet.co.kr/view/?no=20260812180440",
+      "published": "2026-08-12T09:04:40+00:00",
+      "summary": "[지디넷코리아]코난테크놀로지가 산업 현장에서 검증한 40여 종의 인공지능(AI) 에이전트를 하나의 플랫폼으로 통합하며 엔터프라이즈 AI 플랫폼 전략을 본격화한다.코난테크놀로지는 AI 에이전트와 에이전트 운영체제(OS)를 결합한 통합 엔터프라이즈 AI 에이전트 플랫폼 '에이전트-X'를 출시했다고 12일 밝혔다.에이전트-X 고객은 핵심 실행 엔진 '에이전트 커널'을 통해 ▲검색증강생성(RAG) 에이전트 ▲자연어 기반 SQL 생성(NL2SQL) 에이전트 ▲문서요약 에이전트 ▲통번역 에이전트 등 주요 A"
+    },
+    {
       "id": "c1acd87065fd",
       "source": "AI타임스",
       "kind": "article",
       "category": "AI",
       "lang": "ko",
       "title": "구글, '제미나이' 인기에 네이버 사용자 수 넘었다...\"AI 확장 결실\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213866",
+      "published": "2026-08-12T09:03:17+00:00",
+      "summary": "국내 구글 앱 사용자가 네이버 앱보다 많은 것으로 나타났다. ‘제미나이’ 등 AI의 사용량 증가가 영향을 미쳤다는 분석이다.12일 아이지에이웍스 모바일인덱스에 따르면, 지난 7월 구글 앱의 월간 활성 이용자(MAU)가 네이버를 추월한 것으로 나타났다. 이는 지난 2021년 3월 이래 통계 집계 이후로 처음이다.7월 구글의 MAU는 4702만2854명을 기록하며 네이버(4684만5017명)보다 18만명 가량 앞섰다. 특히, 구글 앱의 급격한 이용자 증가 추이는 몇 달 전부터 가속화된 것으로 나타났다"
+    },
+    {
+      "id": "74a012b23a68",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '제미나이' 인기에 국내 네이버 사용자 수 넘어...\"AI 확장 결실\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213866",
       "published": "2026-08-12T09:03:17+00:00",
       "summary": "국내 구글 앱 사용자가 네이버 앱보다 많은 것으로 나타났다. ‘제미나이’ 등 AI의 사용량 증가가 영향을 미쳤다는 분석이다.12일 아이지에이웍스 모바일인덱스에 따르면, 지난 7월 구글 앱의 월간 활성 이용자(MAU)가 네이버를 추월한 것으로 나타났다. 이는 지난 2021년 3월 이래 통계 집계 이후로 처음이다.7월 구글의 MAU는 4702만2854명을 기록하며 네이버(4684만5017명)보다 18만명 가량 앞섰다. 특히, 구글 앱의 급격한 이용자 증가 추이는 몇 달 전부터 가속화된 것으로 나타났다"
@@ -485,6 +617,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213840",
       "published": "2026-08-12T05:18:54+00:00",
       "summary": "독자 AI 파운데이션 모델(독파모) 프로젝트의 2차 평가 결과 발표가 임박한 가운데, 평가 방식과 비교 잣대를 둘러싸고 업계 일각에서 보완 필요성이 제기되고 있다.12일 관련 업계에 따르면, 독파모 2차 평가 항목 중 일부 벤치마크 지표의 반영 방식 및 체급 설정 기준에 대해 아쉬운 대목이 존재한다는 의견이 나오고 있다.■ AAII 9개 지표 반영률 각기 달라... \"에이전틱 지표 보고 부족\"2차 평가는 벤치마크 40점, 전문가 평가 35점, 사용자 평가 25점으로 구성된다. 벤치마크 40점 중에"
+    },
+    {
+      "id": "01b357931b99",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "llama.cpp",
+      "link": "https://llama.app",
+      "published": "2026-08-12T04:51:59+00:00",
+      "summary": "Article URL: https://llama.app Comments URL: https://news.ycombinator.com/item?id=49267928 Points: 245 # Comments: 103"
     },
     {
       "id": "7c02363a349c",
@@ -5061,6 +5204,17 @@
       "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
       "published": "2026-08-08T18:09:31+00:00",
       "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 504 # Comments: 239"
+    },
+    {
+      "id": "b73d8f51f3e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "link": "https://jolt-lang.github.io",
+      "published": "2026-08-08T17:38:20+00:00",
+      "summary": "Article URL: https://jolt-lang.github.io Comments URL: https://news.ycombinator.com/item?id=49223965 Points: 200 # Comments: 66"
     },
     {
       "id": "d5ea6c056b57",
