@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-12T23:00:00.812680+00:00",
-  "count": 9179,
+  "updated_at": "2026-08-12T23:49:23.298088+00:00",
+  "count": 9182,
   "items": [
+    {
+      "id": "52817111c446",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+      "published": "2026-08-12T22:31:19+00:00",
+      "summary": "Boy's unusual symptoms could help identify the next case sooner."
+    },
+    {
+      "id": "8bffefd51ce6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SFA, 2분기 영업익 전년비 37.3% ↑…연간 수주액 77% 성장 전망",
+      "link": "https://zdnet.co.kr/view/?no=20260812171946",
+      "published": "2026-08-12T22:30:01+00:00",
+      "summary": "[지디넷코리아]SFA는 올해 2분기 연결기준 실적으로 매출 4000억원, 영업이익 290억원, 순이익 233억원을 거뒀다고 지난 12일 밝혔다.전년 동기 대비 매출은 10.1% 감소하고 영업이익은 37.3%, 순이익은 808.4% 증가했다.향후 매출액을 가늠할 수 있는 선행지표인 신규 수주액은 올해 상반기 5079억원으로, 이는 해외법인 분할 수주 653억원이 포함된 수치다. 전년 동기 대비 56% 증가했다. SFA는 유통·일반제조, 반도체, 디스플레이 및 연료전지 등 다양한 전방 산업 전반에 걸"
+    },
     {
       "id": "177a052f00b6",
       "source": "TechCrunch",
@@ -34,6 +56,17 @@
       "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
       "published": "2026-08-12T22:17:32+00:00",
       "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "365ace1123ff",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "published": "2026-08-12T22:02:25+00:00",
+      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
     },
     {
       "id": "c3b0a9ecbfd0",
