@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-12T20:09:18.807620+00:00",
-  "count": 9164,
+  "updated_at": "2026-08-12T21:01:47.610751+00:00",
+  "count": 9167,
   "items": [
+    {
+      "id": "096e0b1cfd75",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "published": "2026-08-12T20:53:41+00:00",
+      "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite."
+    },
     {
       "id": "bc0e1043ea74",
       "source": "The Verge",
@@ -432,6 +443,17 @@
       "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
     },
     {
+      "id": "e3a94958c8f0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why tiny JPEGs look different in Chrome",
+      "link": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "published": "2026-08-12T14:00:54+00:00",
+      "summary": "Article URL: https://guillaumetech.github.io/posts/jpg-scaling-chrome/ Comments URL: https://news.ycombinator.com/item?id=49272549 Points: 201 # Comments: 44"
+    },
+    {
       "id": "bb9ad30c5a86",
       "source": "Ars Technica",
       "kind": "article",
@@ -606,6 +628,17 @@
       "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "published": "2026-08-12T13:20:05+00:00",
       "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 245 # Comments: 215"
+    },
+    {
+      "id": "a31c09ec9665",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI is removing the middle class of software engineering?",
+      "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "published": "2026-08-12T13:20:05+00:00",
+      "summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 596 # Comments: 480"
     },
     {
       "id": "74b6aa85c5e0",
