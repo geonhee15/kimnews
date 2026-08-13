@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-13T16:51:24.491986+00:00",
-  "count": 9319,
+  "updated_at": "2026-08-13T17:53:57.243432+00:00",
+  "count": 9324,
   "items": [
+    {
+      "id": "f71988bdfe3f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "published": "2026-08-13T17:07:13+00:00",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson."
+    },
+    {
+      "id": "a37d11d58954",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published": "2026-08-13T17:04:18+00:00",
+      "summary": ""
+    },
     {
       "id": "7ee04789ec6c",
       "source": "The Verge",
@@ -111,6 +133,17 @@
       "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
       "published": "2026-08-13T14:34:43+00:00",
       "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
+    },
+    {
+      "id": "d46a586dbb31",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Spaghettifying DRAM",
+      "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "published": "2026-08-13T14:17:13+00:00",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts Comments URL: https://news.ycombinator.com/item?id=49286341 Points: 277 # Comments: 78"
     },
     {
       "id": "7aa095ecd61e",
@@ -661,6 +694,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213917",
       "published": "2026-08-13T08:16:48+00:00",
       "summary": "오픈AI의 전 최고 제품책임자(CPO)인 케빈 웨일이 AI를 활용해 과학 연구 방식을 혁신하는 새로운 AI 과학 스타트업을 설립하고 본격적인 투자 유치에 나섰다. 이는 그가 마지막으로 맡았던 AI 과학 팀의 업무를 그대로 이어가는 것이다.비즈니스 인사이더는 12일(현지시간) 소식통을 인용, 웨일 전 오픈AI 부사장이 이번 투자 라운드에서 1억5000만달러(약 2135억원)의 자금 조달을 목표로 하고 있으며, 신생 기업임에도 불구하고 최저 7억5000만달러(약 1조원) 수준의 높은 기업 가치를 요구"
+    },
+    {
+      "id": "7be94156e125",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published": "2026-08-13T08:16:04+00:00",
+      "summary": ""
     },
     {
       "id": "01e7e1863216",
@@ -1959,6 +2003,17 @@
       "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "published": "2026-08-12T15:01:17+00:00",
       "summary": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8 Comments URL: https://news.ycombinator.com/item?id=49273478 Points: 243 # Comments: 67"
+    },
+    {
+      "id": "df0c3d1d4d7f",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published": "2026-08-12T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "28dbed040283",
