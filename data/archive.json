@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-13T11:29:31.684093+00:00",
-  "count": 9286,
+  "updated_at": "2026-08-13T12:11:23.917901+00:00",
+  "count": 9287,
   "items": [
+    {
+      "id": "9a0690743d60",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "published": "2026-08-13T11:10:18+00:00",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited."
+    },
     {
       "id": "512346cdc9e3",
       "source": "Wired",
