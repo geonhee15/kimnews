@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-13T17:53:57.243432+00:00",
-  "count": 9324,
+  "updated_at": "2026-08-13T18:55:46.924224+00:00",
+  "count": 9328,
   "items": [
+    {
+      "id": "020352d15d17",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "published": "2026-08-13T18:30:00+00:00",
+      "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to nee"
+    },
+    {
+      "id": "2e289b9504f1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "published": "2026-08-13T18:28:14+00:00",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+    },
+    {
+      "id": "214e971e72f1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "published": "2026-08-13T18:00:00+00:00",
+      "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. T"
+    },
+    {
+      "id": "0276bba59c2b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "published": "2026-08-13T17:23:22+00:00",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas... Comments URL: https://news.ycombinator.com/item?id=49289112 Points: 250 # Comments: 169"
+    },
     {
       "id": "f71988bdfe3f",
       "source": "TechCrunch",
