@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-13T22:11:45.218125+00:00",
-  "count": 9349,
+  "updated_at": "2026-08-13T23:02:19.191075+00:00",
+  "count": 9351,
   "items": [
+    {
+      "id": "8923dc147555",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Safety Reckoning Inside OpenAI",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "published": "2026-08-13T22:37:19+00:00",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it."
+    },
     {
       "id": "2eadc8255cbb",
       "source": "AI타임스",
@@ -75,6 +86,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "published": "2026-08-13T21:14:43+00:00",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley."
+    },
+    {
+      "id": "2f122dc4dbf8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "published": "2026-08-13T21:14:43+00:00",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley."
