@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-13T18:55:46.924224+00:00",
-  "count": 9328,
+  "updated_at": "2026-08-13T19:54:34.478204+00:00",
+  "count": 9331,
   "items": [
+    {
+      "id": "f7d9f8be1147",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "published": "2026-08-13T19:22:40+00:00",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+    },
+    {
+      "id": "df259ed0e134",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "published": "2026-08-13T19:19:49+00:00",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+    },
+    {
+      "id": "275cadd27288",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "published": "2026-08-13T19:00:00+00:00",
+      "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog ."
+    },
     {
       "id": "020352d15d17",
       "source": "The Verge",
