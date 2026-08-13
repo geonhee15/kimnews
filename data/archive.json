@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-13T19:54:34.478204+00:00",
-  "count": 9331,
+  "updated_at": "2026-08-13T20:36:56.073039+00:00",
+  "count": 9340,
   "items": [
+    {
+      "id": "e750f5cc18c9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "published": "2026-08-13T20:14:39+00:00",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+    },
+    {
+      "id": "cc8487743293",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This school-friendly laptop from HP is $300 off",
+      "link": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+      "published": "2026-08-13T20:07:53+00:00",
+      "summary": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost down to $699.99. This model is equipped wit"
+    },
+    {
+      "id": "da2a8fc66425",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "published": "2026-08-13T19:28:39+00:00",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presiden"
+    },
     {
       "id": "f7d9f8be1147",
       "source": "TechCrunch",
@@ -58,6 +91,28 @@
       "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
     },
     {
+      "id": "528969f9efca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자, 소중한 것에 마음을 쓸 수 있도록 돕는 2026 라이프스 굿 캠페인 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260814031003",
+      "published": "2026-08-13T18:10:03+00:00",
+      "summary": "[지디넷코리아] LG의 새로운 글로벌 캠페인, 현대인의 정신적 부담을 조명하고 LG AI가 이를 완화하는 방법 선보여 뉴스 요약 LG전자가 '마음의 여유를 찾다(Free up your mind)'라는 핵심 메시지 아래 2026 라이프스 굿 캠페인(2026 Life's Good Campaign)을 발표한다. LG의 설문조사 결과에 따르면, 사람들은 1년 중 거의 4분의 1에 해당하는 시간, 즉 연간 87일에 해당하는 기간을 정신적 부담에 시달리는 것으로 나타났다. 사람들은 체계적으로 살아가기 위해 "
+    },
+    {
+      "id": "7ddc7b5c14f1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "published": "2026-08-13T18:10:02+00:00",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 228 # Comments: 79"
+    },
+    {
       "id": "214e971e72f1",
       "source": "The Verge",
       "kind": "article",
@@ -67,6 +122,28 @@
       "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
       "published": "2026-08-13T18:00:00+00:00",
       "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. T"
+    },
+    {
+      "id": "6512dc002037",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "link": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "published": "2026-08-13T17:53:53+00:00",
+      "summary": "\"I've lost trust ...\""
+    },
+    {
+      "id": "988af536e981",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "published": "2026-08-13T17:32:10+00:00",
+      "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful."
     },
     {
       "id": "0276bba59c2b",
@@ -100,6 +177,17 @@
       "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "published": "2026-08-13T17:04:18+00:00",
       "summary": ""
+    },
+    {
+      "id": "17dc5996df05",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "published": "2026-08-13T17:00:13+00:00",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\""
     },
     {
       "id": "7ee04789ec6c",
@@ -199,6 +287,17 @@
       "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
       "published": "2026-08-13T15:00:00+00:00",
       "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks."
+    },
+    {
+      "id": "16d6c4f124f4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"벤처투자 손쉽게\"...중기부, 1조 규모 'LP성장펀드' 결성",
+      "link": "https://zdnet.co.kr/view/?no=20260813233849",
+      "published": "2026-08-13T14:38:49+00:00",
+      "summary": "[지디넷코리아]정부가 금융 및 산업계와 공동으로 1조 원 규모의 'LP성장펀드'를 만들었다. 'LP성장펀드'는 다양한 출자기관이 벤처투자에 손쉽게 참여할 수 있게 맞춤형 구조로 설계한 투자 플랫폼이다. 연기금, 금융권, 산업계와 정부가 함께 조성하는 펀드다. 정부가 자펀드 또는 모펀드 방식의 투트랙 출자사업 구조를 설계하고 우선손실충당, 풋옵션(Put Option) 등 강화된 혜택을 제공, 다양한 민간 출자기관이 과감하게 벤처투자에 나설 수 있게 유도하는 것이 특징이다. 중기부는 14일 첫 출자사"
     },
     {
       "id": "f04498ff5997",
