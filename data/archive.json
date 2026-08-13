@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-13T05:22:59.280712+00:00",
-  "count": 9224,
+  "updated_at": "2026-08-13T06:55:03.081899+00:00",
+  "count": 9234,
   "items": [
+    {
+      "id": "8492fd7dec7e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인텔, 메모리 사업 재도전 시사...\"CPU와 메모리 결합 등 구상\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213885",
+      "published": "2026-08-13T06:50:25+00:00",
+      "summary": "인텔이 한때 ‘범용 부품’으로 취급했던 메모리 사업을 다시 전략적 핵심 분야로 주목하고 있다. 립부 탄 인텔 CEO는 새로운 메모리 아키텍처 개발을 자신이 관심을 두고 있는 핵심 프로젝트 가운데 하나로 언급하며, CPU와 메모리를 직접 결합하거나 메모리를 CPU 위에 쌓는 차세대 구조를 검토하고 있다고 밝혔다. 립부 탄 CEO는 12일(현지시간) 테크서지(TechSurge) 팟캐스트에서 과거에는 메모리를 가격 경쟁이 치열한 범용 상품으로 보고 투자를 경계했지만, 최근 상황이 크게 달라졌다고 진단했"
+    },
+    {
+      "id": "753c7d36219d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "노타, AI 모델 최적화 기술 고객 상담용 'AICC'에 접목한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213890",
+      "published": "2026-08-13T06:43:47+00:00",
+      "summary": "노타(대표 채명수)는 AI 컨택센터(AICC) 기업 메타엠과 '차세대 AI 상담체계 구축을 위한 공동 개발 계약'을 체결했다고 13일 밝혔다.이번 사업은 AI 운영 인프라에 노타의 AI 모델 최적화 기술을 적용하는 첫 사례다. 노타의 AI 모델 경량화·최적화 기술과 메타엠의 AI 컨택센터 전문성을 결합해 'AI 네이티브 멀티 에이전트 상담체계'를 구축한다.고객 의도 분석, 정보 검색, 응대, 상담 요약, 지식관리, 품질관리 등 상담 업무를 역할별 AI 에이전트가 나눠 맡고, 전문 상담사와 협업하는"
+    },
+    {
+      "id": "913b2ae5ee07",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"플랫폼 규격 맞춰 영상 업로드 일괄 자동화\"...보이스루, '포스트림' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213902",
+      "published": "2026-08-13T06:36:25+00:00",
+      "summary": "AI 콘텐츠 현지화 전문 보이스루(대표 이상헌)는 영상 콘텐츠를 여러 플랫폼에 자동 배포하는 워크플로우 서비스 '포스트림(Postream)'을 출시했다고 13일 밝혔다. 동시에, 포스트림 기술력을 통해 서비스 운영 6개월간 3661개 채널을 연동하고 1만1000건의 콘텐츠를 게시한 운영 데이터를 공개했다.포스트림은 유튜브 쇼츠, 인스타그램 릴스, 틱톡 등 다양한 채널에 영상을 업로드할 때 발생하는 번거로움을 워크플로우 기반으로 자동화한 서비스다.사용자가 워크플로우를 한 번 설정하면 새 영상이 업로"
+    },
+    {
+      "id": "ee7ae5eddf21",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "BHSN, 계약 AI 플랫폼 한컴오피스 탑재...\"한컴 문서에서 계약서 검토까지\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213907",
+      "published": "2026-08-13T06:32:29+00:00",
+      "summary": "리걸 AI 전문 BHSN(대표 임정근)은 계약 AI 플랫폼 '앨리비'를 '한애드온즈'를 통해 한컴오피스 2024 '한글'에 공급했다고 13일 밝혔다.한애드온즈는 회의록 작성, 논문 검색, 문서 교정, 표절 탐지, 계약서 검토 등 다양한 AI 기능을 한컴오피스에서 이용할 수 있는 플랫폼이다. 사용자가 한애드온즈에서 앨리비를 설치·구독하면 한글에서 즉시 실행돼 문서 작성 환경에서 바로 계약서를 검토할 수 있게 됐다는 설명이다.앨리비는 ▲법률 정보 질의응답 ▲계약서 AI 작성·검토 ▲전자서명 ▲체결본 "
+    },
+    {
+      "id": "6deae9d23153",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버, '파력 발전' AI데이터센터 개발 판탈라사에 투자",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213905",
+      "published": "2026-08-13T06:31:16+00:00",
+      "summary": "네이버(대표 최수연)는 해상 AI 데이터센터 개발 전문 판탈라사(Panthalassa)에 투자했다고 13일 밝혔다.최근 AI 데이터센터 인프라 확보에 속도를 내고 있는 가운데, 재생에너지 기반의 차세대 데이터센터 기술을 결합해 경쟁력을 강화하기 위한 것이다.2016년 미국에서 설립된 판탈라사는 바다의 파도를 통한 발전 방식의 부유식 AI 데이터센터를 개발한다. '오션-1' '오션-2'등 파력 발전 플랫폼을 통해 해상 실증을 진행해 왔으며, 2027년 상용화를 목표로 연내 ‘오션-3’ 플랫폼을 실증"
+    },
+    {
+      "id": "5f20c86d1b1f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "마스오토, 'AME 2026'서 AI 자율주행 트럭 실물 최초 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213904",
+      "published": "2026-08-13T06:28:19+00:00",
+      "summary": "마스오토(대표 박일수)가 오는 25일부터 27일까지 서울 삼성동 코엑스에서 열리는 '2026 자율주행 모빌리티 산업전(AME 2026)'에 참가한다고 밝혔다.마스오토는 이번 전시에서 자체 카메라 기반 E2E(엔드투엔드) AI 자율주행 모델 '마스넷'을 탑재한 현대자동차 엑시언트 기반 트레일러 트럭 실물을 최초 공개한다.대형트럭 주행 특성에 맞춰 개발한 카메라 기반 레벨2 이상 자율주행 솔루션 '코파일럿'도 함께 선보일 예정이다.앞서 지난 7월 국토교통부로부터 E2E AI 기반 트레일러 화물 유상 "
+    },
+    {
+      "id": "48af8578fe82",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "OCP 재단이 주최하는 '2026 OCP 코리아 테크 데이', 21일 코엑스서 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213908",
+      "published": "2026-08-13T06:26:46+00:00",
+      "summary": "AI 인프라와 데이터센터의 최신 기술 동향을 한자리에서 만나는 '2026 OCP 코리아 테크 데이'가 오는 21일 서울 코엑스 그랜드볼룸 및 아셈볼룸에서 개최된다. 이번 행사는 오픈 컴퓨트 프로젝트(Open Compute Project) 재단이 주최하고 OCP 코리아 커뮤니티, 한국컴퓨팅산업협회, 한국컴퓨팅사업협동조합, 한국클라우드컴퓨팅연구조합이 주관한다.OCP 재단은 데이터센터 인프라의 개방형 설계와 표준화를 추진하는 세계 최대 오픈 소스 하드웨어 기구로, 메타와 인텔, 마이크로소프트, 구글, "
+    },
+    {
+      "id": "f97b80a7fd77",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 1조980억원 해양레저관광도시 계획수립",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213899",
+      "published": "2026-08-13T05:27:08+00:00",
+      "summary": "AI 생성 영상여수시가 총사업비 1조980억원 규모의 복합해양레저관광도시 조성을 위한 기본계획 수립에 들어갔다.여수세계박람회장부터 무술목 일원을 중심으로 해양레저와 해상교통, 체류형 관광을 연결하는 대형 국책사업으로, 2027년 11월까지 구체적인 사업 구조와 거점별 전략을 마련한다고 13일 밝혔다.여수는 12일 시청 이순신홀에서 해양수산부와 전남광주통합특별시, 한국해양수산개발원, 민관 거버넌스, 용역사 관계자 등이 참석한 가운데 기본계획 수립 용역 착수보고회와 민관 거버넌스 출범식을 열었다. 이"
+    },
+    {
+      "id": "b5772d2106d2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "YMTC, 글로벌 낸드 출하량 첫 3위 진입...미국 규제 속 '저가 SSD'로 승부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213893",
+      "published": "2026-08-13T05:26:19+00:00",
+      "summary": "중국 메모리 반도체 기업 양쯔메모리(YMTC)가 2026년 2분기 글로벌 낸드(NAND) 플래시 출하량 기준으로 사상 처음 3위에 진입했다. AI 데이터센터를 중심으로 기업용 SSD 수요가 급증하고 낸드 공급 부족이 심화하는 가운데, 저가 소비자용 제품을 중심으로 출하량을 빠르게 늘린 결과다. 12일(현지시간) 카운터포인트리서치의 ‘2026년 2분기 메모리·스토리지 트래커’에 따르면, YMTC는 전 세계 낸드플래시 출하량의 14%를 차지해 직전 3위였던 일본 키옥시아를 근소한 차이로 제쳤다.1위는"
+    },
     {
       "id": "d917a575920d",
       "source": "AI타임스",
@@ -980,6 +1079,17 @@
       "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "published": "2026-08-12T14:22:30+00:00",
       "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 345 # Comments: 47"
+    },
+    {
+      "id": "8a4ef8c47b1b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "published": "2026-08-12T14:22:30+00:00",
+      "summary": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 959 # Comments: 181"
     },
     {
       "id": "3b2896051c4c",
