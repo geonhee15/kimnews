@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-13T21:28:27.401299+00:00",
-  "count": 9343,
+  "updated_at": "2026-08-13T22:11:45.218125+00:00",
+  "count": 9349,
   "items": [
+    {
+      "id": "2eadc8255cbb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월13일] 클로드 워터마크 도입에 불붙은 논쟁…\"AI가 썼다와 AI가 처리했다는 다르다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213884",
+      "published": "2026-08-13T22:00:00+00:00",
+      "summary": "앤트로픽이 '클로드'가 생성한 텍스트에 보이지 않는 워터마크를 넣기 시작하면서 AI 글쓰기를 둘러싼 사용자들의 반응이 속출하고 있습니다.사실 구글의 '제미나이'도 이미 신스ID를 적용해 AI가 생성한 콘텐츠를 식별할 수 있습니다. 다만 일반 사용자가 이를 직접 활용하기에는 여전히 번거로운 방식입니다. 클로드는 아직 식별 도구는 공개하지 않은 상태입니다.앤트로픽의 방식은 텍스트에 기계가 식별할 수 있는 신호를 삽입해 복사 및 붙여넣기나 일부 편집 이후에도 남도록 설계됐습니다. EU AI법의 AI 생"
+    },
+    {
+      "id": "e9d059e4ffed",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "published": "2026-08-13T21:53:04+00:00",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearl"
+    },
+    {
+      "id": "52a03dac14d2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "published": "2026-08-13T21:50:11+00:00",
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
+    },
+    {
+      "id": "16e76d3099a5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The fight over Flock and other ALPRs",
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "published": "2026-08-13T21:46:21+00:00",
+      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to t"
+    },
+    {
+      "id": "28058574cdb2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "published": "2026-08-13T21:42:38+00:00",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico l"
+    },
+    {
+      "id": "eebb67ac427d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 가성비 모델 '제미나이 3.7 플래시' 공개… API 50% 파격 할인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213924",
+      "published": "2026-08-13T21:33:03+00:00",
+      "summary": "구글이 가성비를 앞세운 코딩 및 에이전트 강화 모델 '제미나이 3.7 플래시(Gemini 3.7 Flash)'를 출시했다. 이전 버전인 제미나이 3.6 플래시가 출시된 지 불과 3주 만에 공개된 것으로, 파격적인 API 할인까지 더해 시장 점유율 유지에 나섰다.구글은 13일(현지시간) 제미나이 3.7 플래시를 공개하며 코딩과 에이전트 구축에 특화된 가장 지능적인 모델로 정의하며, 추론 과정에서의 재시도 횟수를 줄이고 복잡한 단계별 계획 수립 능력을 대폭 끌어올렸다고 설명했다.특히 신규 모델 확산을"
+    },
     {
       "id": "9373d54fd0cc",
       "source": "Wired",
