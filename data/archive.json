@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-13T15:53:49.621119+00:00",
-  "count": 9309,
+  "updated_at": "2026-08-13T16:51:24.491986+00:00",
+  "count": 9319,
   "items": [
+    {
+      "id": "7ee04789ec6c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "2K launches new studio to build its ‘next blockbuster sports franchise’",
+      "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "published": "2026-08-13T16:38:15+00:00",
+      "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in"
+    },
+    {
+      "id": "c92b332666e2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "published": "2026-08-13T16:10:06+00:00",
+      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limit"
+    },
+    {
+      "id": "a9cb1458af7f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "published": "2026-08-13T16:00:00+00:00",
+      "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts."
+    },
+    {
+      "id": "79eed9e415f4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Suno is trying to look more like a real music production tool",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "published": "2026-08-13T16:00:00+00:00",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested"
+    },
+    {
+      "id": "64250c22f1b1",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "published": "2026-08-13T16:00:00+00:00",
+      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about securit"
+    },
     {
       "id": "c2bcaa98217c",
       "source": "TechCrunch",
@@ -69,6 +124,17 @@
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI divisio"
     },
     {
+      "id": "0b40962e0ef2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥스터즈, 글로벌 DTC 지원 파트너로 아가님 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260813231003",
+      "published": "2026-08-13T14:10:03+00:00",
+      "summary": "[지디넷코리아] 로스앤젤레스, 2026년 8월 13일 /PRNewswire/ -- 비디오 게임 개발사를 위한 통합 커머스, 라이브옵스 자동화, 커뮤니티 참여, 결제 플랫폼을 제공하는 아가님(Aghanim)이 넥스터즈 글로벌(Nexters Global, 이하 '넥스터즈')과의 모바일 게임 사업을 위한 전략적 파트너십을 발표했다. 넥스터즈는 체계적인 라이브옵스 실행과 장기적인 플레이어 참여를 통해 전 세계적으로 성공적인 라이브 서비스 게임을 운영하는 것으로 알려진 게임 개발사이다. 키프로스 리마솔에 "
+    },
+    {
       "id": "c42262734993",
       "source": "Ars Technica",
       "kind": "article",
@@ -78,6 +144,17 @@
       "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
       "published": "2026-08-13T13:58:56+00:00",
       "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history"
+    },
+    {
+      "id": "a4a4caca9ddd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gloomberb",
+      "link": "https://gloom.sh/",
+      "published": "2026-08-13T13:52:32+00:00",
+      "summary": "Article URL: https://gloom.sh/ Comments URL: https://news.ycombinator.com/item?id=49285982 Points: 206 # Comments: 78"
     },
     {
       "id": "14aeadd201a4",
@@ -102,6 +179,17 @@
       "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Mic"
     },
     {
+      "id": "a7e845dc23ef",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김재수 전 KISTI 원장, 연구자→기관장→교수→벤처 대표로 변신",
+      "link": "https://zdnet.co.kr/view/?no=20260813222523",
+      "published": "2026-08-13T13:25:23+00:00",
+      "summary": "[지디넷코리아]\"사업 현장에 직접 뛰어들어, R&D 사업화를 실천해보자는 간절한 바람이 내 마음속에 숨어 있는 줄 몰랐다. 인생 2막을 R&D 연구자에서 벤처 사업가로 여는 계기가 됐다.\"13일 열린 미션크리티컬 AI 전문기업 투비유니콘 주주총회에서 각자대표이사로 선임된 김재수 전 한국과학기술정보연구원(KISTI) 원장이 벤처 대표 도전에 나서며 던진 각오다.김 신임 대표와 전화통화로 인터뷰를 진행했다. 김 신임 대표는 지난 2024년, 34년간 재직했던 한국과학기술연구원(KISTI)에서 원장직을"
+    },
+    {
       "id": "64182148dd2f",
       "source": "Hacker News",
       "kind": "article",
@@ -111,6 +199,17 @@
       "link": "https://github.com/deepseek-ai/deepseek-harness",
       "published": "2026-08-13T12:58:02+00:00",
       "summary": "Article URL: https://github.com/deepseek-ai/deepseek-harness Comments URL: https://news.ycombinator.com/item?id=49285244 Points: 277 # Comments: 122"
+    },
+    {
+      "id": "d78cf5002200",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek Harness developer preview",
+      "link": "https://deepseek.com/harness/en/",
+      "published": "2026-08-13T12:58:02+00:00",
+      "summary": "https://github.com/deepseek-ai/deepseek-harness https://deepseek-harness.github.io/deepseek-harness/en/guide... Comments URL: https://news.ycombinator.com/item?id=49285244 Points: 359 # Comments: 163"
     },
     {
       "id": "39a9dad9cb46",
@@ -958,6 +1057,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260813135506",
       "published": "2026-08-13T04:55:06+00:00",
       "summary": "[지디넷코리아]AI 재무 인프라 기업 포트원(대표 정영주)의 올 상반기 사업이 신규 고객사 등의 증가에 힘입어 전년 같은 기간 대비 큰 폭의 성장을 기록했다.포트원이 13일 공개한 주요 사업 성과에 따르면, 올해 상반기 결제 인프라 사업의 고객 기반을 확대하는 한편, AI 기반 월 마감 자동화 모듈인 '클로즈' 반기 매출이 직전 반기 대비 238.6% 증가한 것으로 집계됐다.구체적으로, 결제 인프라 사업 분야에서는 상반기 신규 도입사가 1741개사로 전년 동기 대비 236.7% 증가했다. 누적 도"
+    },
+    {
+      "id": "ac24d43d66d4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "link": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "published": "2026-08-13T04:53:41+00:00",
+      "summary": "Article URL: https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027 Comments URL: https://news.ycombinator.com/item?id=49281916 Points: 365 # Comments: 258"
     },
     {
       "id": "ddd7d8ab85cb",
