@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-14T15:30:37.792671+00:00",
-  "count": 9472,
+  "updated_at": "2026-08-14T16:31:22.669261+00:00",
+  "count": 9478,
   "items": [
+    {
+      "id": "8be58a7357a6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "published": "2026-08-14T16:21:04+00:00",
+      "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
+    },
+    {
+      "id": "a118dbd3db8e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "published": "2026-08-14T16:13:40+00:00",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file"
+    },
+    {
+      "id": "92da9230697f",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "published": "2026-08-14T16:00:00+00:00",
+      "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "b21f730bcd3e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "published": "2026-08-14T15:46:40+00:00",
+      "summary": "Third-party app stores are about to become more visible in Google Play."
+    },
+    {
+      "id": "f1a838a4990f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "published": "2026-08-14T15:43:28+00:00",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh"
+    },
     {
       "id": "26a73cfc667f",
       "source": "Wired",
@@ -45,6 +100,17 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "2026-08-14T14:27:14+00:00",
       "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+    },
+    {
+      "id": "65b96e31d73b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "콴타 컴퓨터와 퀀티넘, 대규모 양자 컴퓨팅 위한 산업 기반 구축을 위해 파트너십 체결",
+      "link": "https://zdnet.co.kr/view/?no=20260814231002",
+      "published": "2026-08-14T14:10:02+00:00",
+      "summary": "[지디넷코리아] 이번 파트너십으로 퀀티넘의 양자 컴퓨팅 리더십과 첨단 컴퓨팅 시스템을 전 세계 규모로 산업화해 온 콴타 컴퓨터의 전문성 결합 차세대 양자 컴퓨터에 필요한 인프라, 시스템 엔지니어링 및 제조 역량 공동 개발 계획 상용 배치가 가능한 대규모 내결함성 양자 시스템을 향한 퀀티넘의 기술 로드맵 지원 목표 콜로라도 브룸필드 및 타이베이, 2026년 8월 14일 /PRNewswire/ -- 첨단 컴퓨팅 및 클라우드 인프라 분야의 포춘 글로벌 500대 기업인 콴타 컴퓨터(Quanta Compu"
     },
     {
       "id": "167dd2cd65d1",
