@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-14T16:31:22.669261+00:00",
-  "count": 9478,
+  "updated_at": "2026-08-14T17:37:16.705266+00:00",
+  "count": 9483,
   "items": [
+    {
+      "id": "916f59e05e38",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s best new camera feature is only for the Pixel 11 series",
+      "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "published": "2026-08-14T17:34:14+00:00",
+      "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos t"
+    },
+    {
+      "id": "8a8ebad6963b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "published": "2026-08-14T16:39:32+00:00",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" wa"
+    },
     {
       "id": "8be58a7357a6",
       "source": "TechCrunch",
@@ -69,6 +91,17 @@
       "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source."
     },
     {
+      "id": "7b14daabf574",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen 3.8 27B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "published": "2026-08-14T15:00:00+00:00",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 246 # Comments: 191"
+    },
+    {
       "id": "3e15d9779470",
       "source": "TechCrunch",
       "kind": "article",
@@ -111,6 +144,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260814231002",
       "published": "2026-08-14T14:10:02+00:00",
       "summary": "[지디넷코리아] 이번 파트너십으로 퀀티넘의 양자 컴퓨팅 리더십과 첨단 컴퓨팅 시스템을 전 세계 규모로 산업화해 온 콴타 컴퓨터의 전문성 결합 차세대 양자 컴퓨터에 필요한 인프라, 시스템 엔지니어링 및 제조 역량 공동 개발 계획 상용 배치가 가능한 대규모 내결함성 양자 시스템을 향한 퀀티넘의 기술 로드맵 지원 목표 콜로라도 브룸필드 및 타이베이, 2026년 8월 14일 /PRNewswire/ -- 첨단 컴퓨팅 및 클라우드 인프라 분야의 포춘 글로벌 500대 기업인 콴타 컴퓨터(Quanta Compu"
+    },
+    {
+      "id": "2cd6e64f0c68",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "link": "https://e360.yale.edu/digest/australia-home-batteries",
+      "published": "2026-08-14T14:07:52+00:00",
+      "summary": "Article URL: https://e360.yale.edu/digest/australia-home-batteries Comments URL: https://news.ycombinator.com/item?id=49298910 Points: 210 # Comments: 161"
     },
     {
       "id": "167dd2cd65d1",
@@ -232,6 +276,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260814185634",
       "published": "2026-08-14T09:56:46+00:00",
       "summary": "[지디넷코리아]현대오토에버가 상반기 시스템통합(SI) 부문 호조에 힘입어 두 자릿수 매출 성장을 기록했다.14일 금융감독원 전자공시시스템(DART)에 따르면 현대오토에버의 올해 상반기 연결 기준 매출은 2조1864억원, 영업이익은 1117억원으로 전년 동기 대비 각각 16.6%, 3.4% 증가했다.2분기 매출은 1조2507억원으로 전년 동기 대비 20.0% 증가했고 영업이익은 905억원으로 11.3% 늘었다. 다만 영업이익률은 전년 동기 5.8%에서 올해 상반기 5.1%로 하락해 외형 성장에 비해"
+    },
+    {
+      "id": "68c75c4b46a1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek peak/off-peak pricing update",
+      "link": "https://api-docs.deepseek.com/news/news260813/",
+      "published": "2026-08-14T09:55:33+00:00",
+      "summary": "Article URL: https://api-docs.deepseek.com/news/news260813/ Comments URL: https://news.ycombinator.com/item?id=49296627 Points: 201 # Comments: 108"
     },
     {
       "id": "9caa35b69d72",
