@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-14T18:31:48.577267+00:00",
-  "count": 9485,
+  "updated_at": "2026-08-14T19:36:26.102490+00:00",
+  "count": 9496,
   "items": [
+    {
+      "id": "4466c4163f1a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "published": "2026-08-14T19:33:00+00:00",
+      "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
+    },
+    {
+      "id": "4141c88d40ee",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung has new Galaxy headphones in the works",
+      "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "published": "2026-08-14T19:18:45+00:00",
+      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027."
+    },
+    {
+      "id": "071fd3ea11ea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
+      "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+      "published": "2026-08-14T18:32:47+00:00",
+      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The goo"
+    },
+    {
+      "id": "8f3b9e490284",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "link": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "published": "2026-08-14T18:00:23+00:00",
+      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft."
+    },
     {
       "id": "8db7122a9b56",
       "source": "The Verge",
@@ -25,6 +69,17 @@
       "summary": ""
     },
     {
+      "id": "3161219c2d61",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "This new startup can query anywhere you've been...",
+      "link": "https://www.youtube.com/watch?v=E7la7-dtfVM",
+      "published": "2026-08-14T17:44:59+00:00",
+      "summary": ""
+    },
+    {
       "id": "916f59e05e38",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +89,39 @@
       "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
       "published": "2026-08-14T17:34:14+00:00",
       "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos t"
+    },
+    {
+      "id": "67a36f254f0d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "published": "2026-08-14T17:26:53+00:00",
+      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate."
+    },
+    {
+      "id": "504cc9cfcb97",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "published": "2026-08-14T17:03:54+00:00",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars."
+    },
+    {
+      "id": "181c4ecdc977",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "published": "2026-08-14T16:45:49+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo Comments URL: https://news.ycombinator.com/item?id=49301260 Points: 284 # Comments: 184"
     },
     {
       "id": "8a8ebad6963b",
@@ -531,6 +619,17 @@
       "summary": "AI 에이전트 여러 개를 동일한 환경에 투입하고 서로 충돌하는 목표를 부여하자, 에이전트들이 상대방의 작업을 방해하는 것을 넘어 계정을 차단하고 프로세스를 종료하는 악성코드까지 만들어내며 '영역 싸움'을 벌인 것으로 나타났다. 앤트로픽의 프론티어 레드팀은 13일(현지시간) 최근 여러 AI 에이전트가 실제 환경에서 서로 마주쳤을 때 나타나는 행동을 분석한 연구 결과를 공개했다.연구진은 앞으로 수백만개의 에이전트가 인간과 AI, 서로 다른 AI 시스템과 동시에 상호작용하면 어떤 새로운 위험이 나타날 "
     },
     {
+      "id": "b369a6ea6aca",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 \"동일 환경 투입된 에이전트, 악성코드 만들며 영역 싸움\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
+      "published": "2026-08-14T08:10:27+00:00",
+      "summary": "AI 에이전트 여러 개를 동일한 환경에 투입하고 서로 충돌하는 목표를 부여하자, 에이전트들이 상대방의 작업을 방해하는 것을 넘어 계정을 차단하고 프로세스를 종료하는 악성코드까지 만들어내며 '영역 싸움'을 벌인 것으로 나타났다. 앤트로픽의 프론티어 레드팀은 13일(현지시간) 최근 여러 AI 에이전트가 실제 환경에서 서로 마주쳤을 때 나타나는 행동을 분석한 연구 결과를 공개했다.연구진은 앞으로 수백만개의 에이전트가 인간과 AI, 서로 다른 AI 시스템과 동시에 상호작용하면 어떤 새로운 위험이 나타날 "
+    },
+    {
       "id": "433cf984c167",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -674,6 +773,17 @@
       "summary": "애플이 중국 시장을 겨냥한 자체 대형언어모델(LLM)을 개발하고 있는 것으로 알려졌다. 그동안 중국에서 생성 AI 기능을 제공하기 위해 알리바바 등 현지 기업의 외부 모델에 의존해 왔지만, 이번에는 알리바바의 지원을 받아 중국 전용 모델을 직접 훈련하면서 현지 AI 전략을 강화하고 있다.로이터는 13일(현지시간) 정통한 복수의 소식통을 인용, 애플이 중국 시장을 위해 알리바바와 협력해 별도의 AI 모델을 개발했다고 보도했다.두 회사는 이에 대한 논평을 내놓지 않았다.이번 자체 모델 개발은 애플이 "
     },
     {
+      "id": "2b222bd24565",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, 중국 시장 겨냥한 자체 모델 개발...알리바바와 협력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213966",
+      "published": "2026-08-14T07:26:01+00:00",
+      "summary": "애플이 중국 시장을 겨냥한 자체 대형언어모델(LLM)을 개발하고 있는 것으로 알려졌다. 그동안 중국에서 생성 AI 기능을 제공하기 위해 알리바바 등 현지 기업의 외부 모델에 의존해 왔지만, 이번에는 알리바바의 지원을 받아 중국 전용 모델을 직접 훈련하면서 현지 AI 전략을 강화하고 있다.로이터는 13일(현지시간) 정통한 복수의 소식통을 인용, 애플이 중국 시장을 위해 알리바바와 협력해 별도의 AI 모델을 개발했다고 보도했다.두 회사는 이에 대한 논평을 내놓지 않았다.이번 자체 모델 개발은 애플이 "
+    },
+    {
       "id": "6900b50b034f",
       "source": "AI타임스",
       "kind": "article",
@@ -760,6 +870,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213978",
       "published": "2026-08-14T07:00:00+00:00",
       "summary": "■ 레티널(대표 김재혁)은 중소벤처기업부의 기술창업 지원 프로그램인 '글로벌 팁스(TIPS) 연구개발(R&D) 사업'에 선정됐다고 밝혔다. 4년간 총 50억원을 지원 받으며, AI 글래스용 초경량·초박형 광학 모듈 개발에 돌입한다. 기존 약 7.5㎜ 수준이던 광학 모듈 두께를 3.5㎜로 약 53% 줄이는 것을 목표로 한다.■ 엑스와이지(대표 황성재)는 '과학기술정보통신부 고성능컴퓨팅 지원사업'과 '서울 AI 허브 고성능 컴퓨팅 지원사업'에 각각 선정돼 엔비디아 H200 GPU 4장, H100 GP"
+    },
+    {
+      "id": "7b99fa962de0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213980",
+      "published": "2026-08-14T07:00:00+00:00",
+      "summary": "■ 원티드랩은 14일 공시를 통해 2분기 실적을 발표했다. 매출은 전분기 대비 32% 증가한 117억원, 영업이익은 17억원을 기록하며 흑자전환했다. AI 교육 영역의 성과가 두드러졌다. 기업·공공기관·대학 등에서 AI 도입이 본격화되면서 실무형 교육 수요가 증가함에 따라, AI 교육 관련 매출이 전분기 대비 18% 상승했다. 특히 ‘AX 챔피언’을 비롯한 AI 인재 양성 프로그램은 단기간에 누적 참여 인원 4000명을 넘어섰다. ■ 포바이포는 2026년 상반기 별도 기준 매출액 91억7000만원"
     },
     {
       "id": "683cb0be7eca",
