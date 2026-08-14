@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-08-14T01:46:10.418305+00:00",
-  "count": 9359,
+  "updated_at": "2026-08-14T04:02:33.881847+00:00",
+  "count": 9381,
   "items": [
+    {
+      "id": "78c1dd0c65f7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, V4 모델 API 가격 최대 1100% 인상...혼잡 시간대 2배 부과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213940",
+      "published": "2026-08-14T03:49:43+00:00",
+      "summary": "딥시크가 그동안의 초저가 전략에서 벗어나 주력 모델인 'V4 프로'와 'V4 플래시'의 API 가격을 대폭 인상하고 피크(Peak)·비피크(Off-Peak) 시간대에 따라 요금을 차등 적용하는 새로운 가격 체계를 도입한다. 딥시크는 13일(현지시간) API 가격 정책을 변경한다고 발표했다. 새로운 요금제는 한국시간으로 17일 오전 1시부터 시행된다. 모델과 토큰 종류, 사용 시간대에 따라 기존 가격보다 최소 50%에서 최대 1100% 이상 비싸질 수 있다.핵심 변화는 사용량이 몰리는 시간대에 더 "
+    },
+    {
+      "id": "e907fb13741b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한컴, 상반기 AI 매출 135억 달성...에이전틱 OS 베타 3분기 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213945",
+      "published": "2026-08-14T03:41:43+00:00",
+      "summary": "한컴(대표 김연수)은 금융감독원 전자공시시스템에 반기보고서를 공시하고 별도 기준 올해 상반기 매출 986억원을 기록했다고 14일 밝혔다. 전년 동기보다 7.2% 증가한 반기 기준 역대 최대 실적이다.영업이익은 310억원으로 전년 동기 대비 9.6% 감소했지만, 영업이익률은 31.5%를 기록했으며, 당기순이익은 407억원으로 23.3% 증가했다.2분기 기준으로도 분기 기준 최대 매출을 기록했다. 별도기준 매출은 521억원으로 전년 동기 대비 11.9% 증가했고, 영업이익은 134억원을 기록했다. 영"
+    },
+    {
+      "id": "1f117c371daf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 오픈소스 에이전트 '하네스' 공개…'V4-프로'는 기대 이하 평가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213938",
+      "published": "2026-08-14T03:40:19+00:00",
+      "summary": "딥시크가 모델 경쟁을 넘어 AI 에이전트를 실제로 작동시키는 소프트웨어 인프라 영역으로 경쟁 범위를 확대했다. 딥시크는 13일(현지시간) 최신 플래그십 모델인 ‘딥시크-V4-프로(DeepSeek-V4-Pro)’ 공식 버전과 함께 오픈소스 에이전트 프레임워크 ‘딥시크 하네스(DeepSeek Harness) v0.1’을 공개했다.특히 하네스는 앤트로픽의 ‘클로드 코드’나 오픈AI의 ‘코덱스’와 같은 코딩 에이전트가 수행하는 작업의 기반을 개발자가 직접 구성하고 교체할 수 있도록 설계됐다는 점에서 주목"
+    },
+    {
+      "id": "dd62848a3b1c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥엑스, 국산 NPU 'DX-M1' 양산 1년 만에 184억 수주",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213943",
+      "published": "2026-08-14T03:16:22+00:00",
+      "summary": "딥엑스(대표 김녹원)는 온디바이스용 신경망처리장치(NPU) 'DX-M1'의 상업용 구매주문(PO)이 지난 1년간 글로벌 10여 개 국가·지역에서 총 77건, 1300만달러(약 184억원)를 돌파했다고 14일 밝혔다.DX-M1은 클라우드 연결 없이 디바이스 자체에서 AI 연산을 수행하도록 설계된 온디바이스용 NPU로 삼성전자 5나노 공정으로 양산되고 있다. 저전력 환경에서 영상·비전 AI를 구동해야 하는 CCTV, 스마트팩토리, 로보틱스 등 다양한 엣지 AI 시스템에서 활용 중이다.올해 7월 말 누"
+    },
+    {
+      "id": "3ced7c38b545",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"나도 K-팝 스타\"...이스트에이드, AI 스타일링 '미브'에 K팝 상품 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213941",
+      "published": "2026-08-14T03:15:15+00:00",
+      "summary": "이스트에이드(대표 김남현)는 AI 프로필·스타일링 서비스 '미브'에서 K-팝 스타일 상품을 한국과 일본에 동시 출시했다고 13일 밝혔다. 이번 상품은 화보 같은 결과물을 만들어주는 '프리미엄 라인'과 스타들의 일상 컨셉인 '펀(Fun) 라인'으로 구성해 K-팝 스타일을 폭넓게 즐길 수 있다는 설명이다.프리미엄 라인은 청순, Y2K, 걸크러쉬 등 K-팝을 대표하는 콘셉트 8종을 제공하며, 펀 라인은 K-팝 팬덤에게 익숙한 공항, 음악 방송, 교복 증명사진을 생성한다.특히 그룹 세이마이네임의 리더 혼"
+    },
+    {
+      "id": "1251ca5681ae",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자, 인도에 HVAC 신규 생산라인 준공...AI 데이터센터 냉각 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213939",
+      "published": "2026-08-14T03:13:34+00:00",
+      "summary": "삼성전자가 인도 마하라슈트라주 푸네에서 플랙트그룹의 신규 생산라인 준공식을 열었다고 밝혔다.이번에 준공된 생산라인은 1만 3826㎡(4190평) 규모의 냉난방공조(HVAC) 시설로 올해 초 설비·장비 구축에 착수해 약 6개월 만에 양산 체제를 갖췄다.해당 시설에서는 플랙트그룹의 주력 제품인 공기조화기(AHU)를 비롯해 팬 월 유닛(FWU), 컴퓨터룸 공기 처리 장치(CRAH) 등 다양한 HVAC 장비가 생산되며, 완전 가동 시 연간 최대 6500대의 HVAC 장비를 생산할 수 있다.AHU는 냉각수"
+    },
+    {
+      "id": "d79211100e55",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LG, 내년 1분기 엔비디아 '아이작 그루트' 기반 휴머노이드 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213937",
+      "published": "2026-08-14T03:12:20+00:00",
+      "summary": "LG와 엔비디아가 13일(현지시간) 미국 캘리포니아주 산타클라라 엔비디아 본사에서 '전략적 사업협력을 위한 MOU'를 체결했다. 구광모 LG 대표를 포함해 주요 계열사 경영진과 젠슨 황 엔비디아 최고경영자(CEO)가 참석했다.지난 6월 회동 이후 로봇, AI 팩토리, 모빌리티 3대 분야에서 협업 방안을 구체화하기 위해 마련됐다.로봇 분야에서는 내년 1분기 차세대 이족보행 휴머노이드 로봇을 공개한다. 온보드 컴퓨팅과 고도화된 추론·제어를 위한 엔비디아 '젯슨 토르'가 탑재되며, 엔비디아의 개방형 휴"
+    },
+    {
+      "id": "fa546dd7bf94",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글, 3주 만에 새 AI 모델 출시…\"코딩 정확도 높이고 가격 낮춰\"",
+      "link": "https://zdnet.co.kr/view/?no=20260814114758",
+      "published": "2026-08-14T02:47:58+00:00",
+      "summary": "[지디넷코리아]구글이 코딩과 에이전트 업무 수행 능력을 강화한 인공지능(AI) 모델을 새로 공개했다. 구글은 '제미나이 3.7 플래시'를 출시했다고 14일 밝혔다. 이전 모델 출시 후 3주 만이다. 신규 모델은 소프트웨어(SW) 엔지니어링과 지식 기반 업무, 웹 개발 작업 전반에서 이전 모델인 제미나이 3.6 플래시보다 향상된 성능을 제공한다. 개발자 피드백과 알고리즘 혁신을 적용해 코드 정확도와 다단계 업무 수행 능력을 높였다.코딩 성능을 평가하는 '프론티어코드 1.1 메인'에서 제미나이 3.7"
+    },
+    {
+      "id": "37ede6f9db04",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포스코DX, 상반기 영업익 전년比 66% ↓…\"AI 투자 확대로 하반기 반등 기대\"",
+      "link": "https://zdnet.co.kr/view/?no=20260814113834",
+      "published": "2026-08-14T02:44:11+00:00",
+      "summary": "[지디넷코리아]포스코DX가 철강 경기 둔화와 이차전지 소재 투자 조정 영향으로 상반기 부진한 성과를 거뒀다. 하반기에는 인공지능(AI)과 자동화 중심 체질 전환을 가속화하며 반등에 나설 계획이다.14일 금융감독원 전자공시시스템(DART)에 따르면 포스코DX는 2026년 상반기 연결 기준 매출 4741억원, 영업이익 135억원을 기록했다. 전년 동기 대비 매출은 16.8%, 영업이익은 66.2% 감소한 수치다. 영업이익률도 4.16%포인트 하락했다.최근 3년간 실적 흐름을 보면 포스코DX는 2024"
+    },
+    {
+      "id": "3d2b40cd9541",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KISTI 'AI사이언티스트' 1차 개발 완료…KBSI 통해 연말 서비스",
+      "link": "https://zdnet.co.kr/view/?no=20260814113304",
+      "published": "2026-08-14T02:33:04+00:00",
+      "summary": "[지디넷코리아]논문 탐색과 분석, 가설 수립까지 연구자 역할을 수행하는 'AI사이언티스트'와 개인 이력이나 실적을 특정 폼에 자동입력하는 '웹 에이전트'가 처음 개발됐다.이경하 초거대 AI연구센터장은 전화통화에서 \"상용화 수준으로 개발돼, 적용 시점과 기술이전을 각각 남겨 둔 상태\"라고 말했다.한국과학기술정보연구원(KISTI)은 ▲AI 사이언티스트 ▲웹 에이전트 ▲KONI-포즈 등을 지난 13일까지 제주에서 열린 데이터 마이닝 및 인공지능 분야 국제 학술대회 ‘KDD 2026’에서 공개했다.AI "
+    },
+    {
+      "id": "77d4d6fdafea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'몸값 260조원' 데이터브릭스, 7조원 추가 투자 유치",
+      "link": "https://zdnet.co.kr/view/?no=20260814113201",
+      "published": "2026-08-14T02:32:01+00:00",
+      "summary": "[지디넷코리아]데이터브릭스가 지속적인 매출 성장세 바탕으로 투자금을 추가 유치했다. 데이터브릭스는 올해 2분기 전년 동기 대비 80% 이상 성장하며 연간 환산 매출 70억 달러(약 9조 9000억원)를 넘어섰다고 14일 밝혔다. 데이터브릭스는 기업가치 1900억 달러(약 260조원)를 인정받아 50억 달러(악 7조원) 규모 전략적 투자 유치도 마쳤다.이번 투자 라운드는 글로벌 투자사 코튜가 주도했다. 블랙스톤과 엠지엑스(MGX) 등이 참여했으며 식스 스트리트 그로스와 본드(BOND), 클리어레이크"
+    },
+    {
+      "id": "f98c7c7ebf9f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가히, 참약사와 약국 유통시장 진출…700여개 체인 입점",
+      "link": "https://zdnet.co.kr/view/?no=20260814112215",
+      "published": "2026-08-14T02:30:57+00:00",
+      "summary": "[지디넷코리아]뷰티 브랜드 가히가 참약사와 손잡고 약국 유통시장에 처음 진출한다. 전국 700여개 참약사 체인에 제품을 공급하는 데 이어 약국 전용 뷰티 제품을 공동 개발하며 더마 코스메틱 사업을 확대한다.가히를 운영하는 코리아테크는 지난 13일 서울 강남구 본사에서 약국 체인 플랫폼 참약사와 ‘공동 연구개발(R&D) 및 유통·마케팅 전략적 사업제휴’ 협약을 체결했다고 14일 밝혔다.이번 협약을 통해 양사는 가히의 뷰티 제품 연구개발·상품기획 역량과 참약사의 약국 유통망을 결합해 약국 내 뷰티 사"
+    },
+    {
+      "id": "416d1e153c13",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "12년의 기다림에 보답…하이브로 '드래곤빌리지3' 코엑스 팝업 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20260814105953",
+      "published": "2026-08-14T02:09:07+00:00",
+      "summary": "[지디넷코리아]코엑스 광장이 '드래곤빌리지3' 이용자들을 위한 공간으로 탈바꿈해 방문객들의 발걸음이 이어지고 있다.하이브로가 모바일 수집형 RPG '드래곤빌리지3' 출시 100일을 기념해 서울 삼성동 코엑스 밀레니엄 광장에 마련한 대규모 오프라인 팝업스토어 현장이다.14일 막을 올린 이번 행사에는 개막 첫날부터 이용자들의 발걸음이 이어졌다. 현장 중심에는 '드래곤빌리지3'의 출시 100일을 축하하는 3단 대형 케이크 조형물이 들어서 관람객들의 인증샷 발길이 끊이지 않았다.현장은 '모두를 위한 선물"
+    },
+    {
+      "id": "0553f3baf811",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배럴, 2분기 순이익 63억원으로 상향…스페이스X 평가차익 반영",
+      "link": "https://zdnet.co.kr/view/?no=20260814110801",
+      "published": "2026-08-14T02:08:01+00:00",
+      "summary": "[지디넷코리아]워터 스포츠 브랜드 배럴이 스페이스X 관련 투자자산의 평가차익을 당기손익에 반영하면서 올해 2분기 당기순이익이 기존 잠정치보다 약 19억원 늘었다. 본업 실적에는 변동이 없으며 투자자산 회계처리 변경이 순이익 증가에 영향을 미쳤다.배럴은 지난 13일 반기보고서를 통해 올해 2분기 연결 기준 당기순이익이 63억1000만원으로 집계됐다고 밝혔다. 기존 잠정실적에서 발표한 43억8000만원보다 19억3000만원 증가한 규모다.2분기 매출액과 영업이익은 각각 151억원, 15억원으로 기존 "
+    },
+    {
+      "id": "089d67e839cc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "라인게임즈, PC 게임 '콰이어트' 스팀 테스트 참가자 15만 돌파...흥행 기대↑",
+      "link": "https://zdnet.co.kr/view/?no=20260814102418",
+      "published": "2026-08-14T02:07:01+00:00",
+      "summary": "[지디넷코리아]라인게임즈(대표 배영진)는 자체 개발 중인 신작 PC 타이틀 ‘콰이어트(QUIET)’의 스팀(Steam) 플레이 테스트 참가자 수가 15만 명을 돌파했다고 14일 밝혔다.회사 측에 따르면 ‘콰이어’는 지난 3일부터 스팀 플레이 테스트를 시작, 사흘 만에 참가자 3만 명을 돌파한 데 이어 약 열흘 만에 15만 명을 넘어서며 흥행에 기대를 높였다는 평가다. 특히 현재 ‘콰이어트’의 플레이 테스트에 참가한 이용자는 아시아·유럽·중남미 등 글로벌 전역에 걸쳐 고르게 분포된 만큼 국내뿐 아닌"
+    },
+    {
+      "id": "3f30c5e030be",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "프랑스, 태양광 폐패널 1년 새 4283톤 늘어…재활용 산업 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213932",
+      "published": "2026-08-14T02:05:00+00:00",
+      "summary": "프랑스에서 수명이 다한 태양광 패널 수거량이 2025년 1만3760톤으로 늘었다. 2024년 9477톤보다 4283톤 증가한 규모다. 태양광 설비의 폐기 시점이 본격적으로 도래하면서 2040년에는 연간 약 18만톤의 폐패널 처리가 필요할 것으로 전망됐다.프랑스 태양광 폐패널 관리기관 소렌(Soren)이 7월 공개한 2025년 활동보고서에 따르면, 지난해 수거한 폐패널 가운데 1만2736톤이 처리됐다.이 중 1만684톤은 재활용됐고 1298톤은 에너지 회수, 754톤은 폐기됐다. 재활용과 에너지 회"
+    },
+    {
+      "id": "02f21749a3b0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "호주, 최대 전력소비처 재생에너지로 전환…3GW 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213927",
+      "published": "2026-08-14T02:00:00+00:00",
+      "summary": "호주 최대 단일 전력소비처인 알루미늄 제조업체 토마고알루미늄(Tomago Aluminium)이 2028년 이후 제련소 가동을 위해 약 3기가와트(GW) 규모의 재생에너지와 전력 유연성 자원을 확보한다. 호주 연방정부와 뉴사우스웨일스(NSW)주 정부는 이를 위해 25억 호주달러(약 2조5000억원)를 지원한다.호주 정부가 13일(현지시간) 발표한 계획에 따르면 NSW주 정부는 2029년부터 10년간 최대 12억2500만 호주달러(약 1조2500억원)를 부담한다. 토마고알루미늄도 제련소 설비에 최소 "
+    },
+    {
+      "id": "c0a17fb3e0ef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "유럽 폭염에 전력수요 최대 26% 증가…태양광 발전은 17% 늘어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213926",
+      "published": "2026-08-14T01:50:00+00:00",
+      "summary": "유럽의 여름 폭염으로 냉방용 전력수요가 크게 늘어난 가운데 일부 국가에서는 태양광 발전량도 평소보다 최대 17% 증가한 것으로 나타났다. 고온과 가뭄으로 원전과 화력·수력발전이 제약을 받으면서 낮 시간대 태양광의 역할이 커졌다는 분석이다.에너지 싱크탱크 엠버(Ember)가 13일(현지시간) 공개한 분석에 따르면, 6월 말 폭염 당시 하루 전력수요는 직전 주보다 헝가리 26%, 이탈리아 22%, 프랑스 11%, 스페인 8% 증가했다.최대 전력수요도 헝가리 21%, 이탈리아 13%, 프랑스와 스페인에"
+    },
+    {
+      "id": "31378092d1f3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+      "published": "2026-08-14T01:06:15+00:00",
+      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make the"
+    },
     {
       "id": "9c6c5a0d55fd",
       "source": "ZDNet Korea",
@@ -245,6 +454,17 @@
       "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog ."
     },
     {
+      "id": "7a8cd69a568b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Understanding is the new bottleneck",
+      "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "published": "2026-08-13T18:47:19+00:00",
+      "summary": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 236 # Comments: 132"
+    },
+    {
       "id": "020352d15d17",
       "source": "The Verge",
       "kind": "article",
@@ -320,6 +540,17 @@
       "link": "https://mcfunley.com/choose-boring-technology",
       "published": "2026-08-13T17:48:13+00:00",
       "summary": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 219 # Comments: 117"
+    },
+    {
+      "id": "905fd5ef1f06",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "link": "https://donkeybas.com/",
+      "published": "2026-08-13T17:45:50+00:00",
+      "summary": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 202 # Comments: 92"
     },
     {
       "id": "988af536e981",
@@ -573,6 +804,17 @@
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "published": "2026-08-13T13:41:10+00:00",
       "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several c"
+    },
+    {
+      "id": "20c50a31b4cb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ordinary abundance",
+      "link": "https://ordinaryabundance.com/",
+      "published": "2026-08-13T13:39:41+00:00",
+      "summary": "Article URL: https://ordinaryabundance.com/ Comments URL: https://news.ycombinator.com/item?id=49285770 Points: 244 # Comments: 131"
     },
     {
       "id": "e014ebab53d8",
