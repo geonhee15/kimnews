@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T23:16:18.805182+00:00",
-  "count": 9505,
+  "updated_at": "2026-08-14T23:46:15.927295+00:00",
+  "count": 9507,
   "items": [
     {
       "id": "f0bf638ba0e3",
@@ -67,6 +67,17 @@
       "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
       "published": "2026-08-14T19:18:45+00:00",
       "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027."
+    },
+    {
+      "id": "bf712939f94c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "published": "2026-08-14T19:03:20+00:00",
+      "summary": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html Comments URL: https://news.ycombinator.com/item?id=49303202 Points: 256 # Comments: 86"
     },
     {
       "id": "071fd3ea11ea",
@@ -199,6 +210,17 @@
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "published": "2026-08-14T16:13:40+00:00",
       "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file"
+    },
+    {
+      "id": "8aa098e5b73d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "published": "2026-08-14T16:12:52+00:00",
+      "summary": "Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 202 # Comments: 91"
     },
     {
       "id": "9619bcbaff3f",
