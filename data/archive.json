@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-08-14T10:39:08.214633+00:00",
-  "count": 9453,
+  "updated_at": "2026-08-14T11:27:15.216617+00:00",
+  "count": 9463,
   "items": [
+    {
+      "id": "f65f953443a7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+      "published": "2026-08-14T11:00:00+00:00",
+      "summary": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feel"
+    },
+    {
+      "id": "cff187f22016",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GPT-5.6 14배 빨라졌다…오픈AI '울트라패스트'의 정체",
+      "link": "https://zdnet.co.kr/view/?no=20260814194946",
+      "published": "2026-08-14T10:49:46+00:00",
+      "summary": "[지디넷코리아]오픈AI(OpenAI)가 자사 최상위 모델을 기존보다 최대 14배 빠르게 구동하는 새 서비스 등급 '울트라패스트(Ultrafast)'를 공개했다. 테크크런치(TechCrunch)에 따르면 오픈AI는 8월 13일 이 기능을 API에 우선 도입한다고 밝혔으며, 대상 모델은 최신 GPT-5.6 솔(GPT-5.6 Sol)이다.울트라패스트는 초당 최대 750개의 토큰을 생성한다. 표준 처리 방식과 비교해 최대 14배 빠른 속도지만, 지능 수준은 표준 버전과 똑같이 유지된다는 것이 오픈AI의 "
+    },
+    {
+      "id": "5991b41cff71",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가성비 AI의 반격…딥시크, 에이전트 특화 'V4-프로' 정식 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260814194854",
+      "published": "2026-08-14T10:48:54+00:00",
+      "summary": "[지디넷코리아]중국 AI 기업 딥시크(DeepSeek)가 최신 모델 V4-프로(V4-Pro)를 정식 출시했다. 테크타임스(TechTimes)에 따르면 지난 4월부터 프리뷰로 제공되던 이 모델은 8월 13일 앱과 웹, API에서 전면 사용할 수 있게 됐다. 정식 버전의 명칭은 'DeepSeek-V4-Pro-0813'이다.이번 모델은 에이전트 역량에 초점을 맞췄다. AI가 도구를 쓰고 코드를 실행하며, 사람이 개입하지 않아도 여러 단계의 작업을 스스로 이어서 처리하는 능력이다. 최근 AI 경쟁의 화두"
+    },
+    {
+      "id": "c7d5d4563461",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI, 문 열어줘야 할까",
+      "link": "https://zdnet.co.kr/view/?no=20260814100111",
+      "published": "2026-08-14T10:48:03+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 AI 로봇 친구가 플랫폼 문 앞에 서 있다면 어떻게 해야 할까요? 열어줄지 막을지를 두고 플랫폼들의 고민이 깊어지고 있는데요, 정작 AI패널 5명에게 물어보니 5명 전원이 \"문을 열자\"는 같은 답을 내놨다고 해요. 반면 네이버와 카카오 같은 두 대형 회사는 여전히 문을 꽁꽁 잠가둔 상태라고 하네요. 이 '문'의 역사를 살펴보면 재미있는 흐름이 보이는데요, 처음엔 활짝 열려 있다가 한때 꽁꽁 닫혔고, 지금은 다시 조금씩 열리는 중이라고 합니다."
+    },
+    {
+      "id": "415e59c3a305",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "published": "2026-08-14T10:45:00+00:00",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”"
+    },
+    {
+      "id": "1f6ccd0bf5f2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "published": "2026-08-14T10:44:30+00:00",
+      "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities."
+    },
     {
       "id": "6c37bded7b60",
       "source": "Wired",
@@ -12,6 +78,17 @@
       "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "published": "2026-08-14T10:15:00+00:00",
       "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
+    },
+    {
+      "id": "cf2df12b4f61",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대오토에버, 상반기 매출 2.2조 돌파…SI 부문 26% 급성장",
+      "link": "https://zdnet.co.kr/view/?no=20260814185634",
+      "published": "2026-08-14T09:56:46+00:00",
+      "summary": "[지디넷코리아]현대오토에버가 상반기 시스템통합(SI) 부문 호조에 힘입어 두 자릿수 매출 성장을 기록했다.14일 금융감독원 전자공시시스템(DART)에 따르면 현대오토에버의 올해 상반기 연결 기준 매출은 2조1864억원, 영업이익은 1117억원으로 전년 동기 대비 각각 16.6%, 3.4% 증가했다.2분기 매출은 1조2507억원으로 전년 동기 대비 20.0% 증가했고 영업이익은 905억원으로 11.3% 늘었다. 다만 영업이익률은 전년 동기 5.8%에서 올해 상반기 5.1%로 하락해 외형 성장에 비해"
     },
     {
       "id": "9caa35b69d72",
@@ -25,6 +102,28 @@
       "summary": "It’s amazing how few compromises Dell made to get the new XPS 13 down to $700, but I strongly recommend the $900 model, which comes with 16 GB of RAM."
     },
     {
+      "id": "9bdd1614cedc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "빌 게이츠는 왜 韓 SMR 공급망을 택했나",
+      "link": "https://zdnet.co.kr/view/?no=20260814172114",
+      "published": "2026-08-14T09:27:22+00:00",
+      "summary": "[지디넷코리아]빌 게이츠 테라파워 이사회 의장이 방한해 SK·HD현대와 소형모듈원전(SMR) 협력을 확대했다. 두산에너빌리티까지 핵심 기자재 공급에 합류하며 한국이 테라파워의 주요 SMR 공급망으로 부상하고 있다.게이츠 의장은 이번 방한에서 국무총리와 국회의장을 비롯한 정부·국회 인사들과도 만나 차세대 원전과 한·미 협력 확대 가능성을 논의했다. 14일 업계에 따르면 게이츠 의장은 방한 기간 최태원 SK그룹 회장과 정기선 HD현대 회장을 잇달아 만났다. SK와 HD현대는 모두 2022년 테라파워에"
+    },
+    {
+      "id": "d497ee335efc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아트블러드, 중기부 스케일업 팁스 선정…인공 적혈구 임상 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260814182512",
+      "published": "2026-08-14T09:25:12+00:00",
+      "summary": "[지디넷코리아]아트블러드가 중소벤처기업부 주관 ‘스케일업 팁스’(TIPS) 프로그램에 선정되며, 인공 적혈구 임상을 본격화한다.스케일업 팁스는 민간 투자 주도로 검증된 유망 기술기업을 대상으로 후속 연구개발(R&D) 자금과 사업화 지원을 제공하는 사업이다.아트블러드는 이번 선정을 통해 R&D 자금 20억원과 함께 선정을 지원한 스케일업 팁스 일반형 운영사 에스벤처스로부터 다양한 성장지원을 받게 된다고 밝혔다.팁스 연구 수행 주제는 ‘인공 적혈구 상용화를 위한 불멸화 적혈구 전구세포주 마스터세포은행"
+    },
+    {
       "id": "d90fef338b77",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +133,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "published": "2026-08-14T09:21:17+00:00",
       "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Al"
+    },
+    {
+      "id": "ad7788ff123e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국 AI에서 글로벌 ETF까지: 스타트레이더(STARTRADER), 7개 시장 테마를 아우르는 45종의 신규 24/7 주식 및 ETF CFD 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260814181003",
+      "published": "2026-08-14T09:10:03+00:00",
+      "summary": "[지디넷코리아]2026년 8월 13일부터 이용 가능하며, 거래 시간 제한 없이 7개 시장 테마를 포괄합니다. 아랍에미리트 두바이, 2026년 8월 14일 /PRNewswire/ -- 스타트레이더(STARTRADER)는 오늘 월요일부터 일요일까지 00:00–24:00(GMT+3 플랫폼 시간) 거래가 가능한 45종의 신규 24/7 주식 및 ETF CFD 출시를 발표했습니다. From Chinese AI to Global ETFs: STARTRADER Launches 45 New 24/7 Stock a"
     },
     {
       "id": "3cfab17ed3de",
