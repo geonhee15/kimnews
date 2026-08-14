@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-14T14:38:17.705687+00:00",
-  "count": 9467,
+  "updated_at": "2026-08-14T15:30:37.792671+00:00",
+  "count": 9472,
   "items": [
+    {
+      "id": "26a73cfc667f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "published": "2026-08-14T15:00:00+00:00",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source."
+    },
+    {
+      "id": "3e15d9779470",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "published": "2026-08-14T14:54:48+00:00",
+      "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps."
+    },
+    {
+      "id": "49838ee7fcd8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "published": "2026-08-14T14:50:11+00:00",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+    },
+    {
+      "id": "6f445c1a6cba",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "published": "2026-08-14T14:27:14+00:00",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+    },
     {
       "id": "167dd2cd65d1",
       "source": "TechCrunch",
@@ -1651,6 +1695,17 @@
       "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
       "published": "2026-08-13T15:00:00+00:00",
       "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks."
+    },
+    {
+      "id": "9c5717a30d5e",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published": "2026-08-13T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "16d6c4f124f4",
