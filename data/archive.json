@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T07:59:24.964919+00:00",
-  "count": 9537,
+  "updated_at": "2026-08-15T08:34:28.998168+00:00",
+  "count": 9539,
   "items": [
+    {
+      "id": "741f9cafdfae",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=213997",
+      "published": "2026-08-15T08:12:26+00:00",
+      "summary": "알리바바가 최신 플래그십 AI 모델 'Qwen3.8-맥스(Max)'의 핵심 가중치(Weights) 파일을 13일 무료 공개했다. 그러나 일정 규모 이상의 대기업이 이를 상업적으로 활용할 경우 별도의 라이선스를 취득하도록 제한 조치를 추가하면서 오픈소스 AI 생태계에 변화를 예고했다. 큐원3.8-맥스는 2조4000억 개의 매개변수를 갖춘 전문가 혼합(MoE) 모델이다. 알리바바가 자사 최고의 성능을 자랑하는 맥스 등급 모델의 가중치를 외부로 공개한 것은 이번이 처음이다. 모델 가중치는 자체 서버에 "
+    },
     {
       "id": "eb00e31011df",
       "source": "AI타임스",
@@ -529,6 +540,17 @@
       "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
       "published": "2026-08-14T16:21:04+00:00",
       "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
+    },
+    {
+      "id": "81a888c79f87",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "published": "2026-08-14T16:15:21+00:00",
+      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 204 # Comments: 119"
     },
     {
       "id": "a118dbd3db8e",
