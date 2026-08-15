@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T19:57:46.836957+00:00",
-  "count": 9562,
+  "updated_at": "2026-08-15T20:20:58.135326+00:00",
+  "count": 9564,
   "items": [
     {
       "id": "1fa4c5387ae4",
@@ -12,6 +12,17 @@
       "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "published": "2026-08-15T18:58:39+00:00",
       "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+    },
+    {
+      "id": "79a0b8515fbe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "published": "2026-08-15T18:13:02+00:00",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 213 # Comments: 180"
     },
     {
       "id": "857dee5da19d",
@@ -67,6 +78,17 @@
       "link": "https://sankalp.bearblog.dev/autoresearch/",
       "published": "2026-08-15T11:00:02+00:00",
       "summary": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 212 # Comments: 54"
+    },
+    {
+      "id": "a15cd5a72548",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "published": "2026-08-15T10:39:41+00:00",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 203 # Comments: 142"
     },
     {
       "id": "3595a16c6834",
