@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T18:31:08.686648+00:00",
-  "count": 9561,
+  "updated_at": "2026-08-15T18:59:06.032342+00:00",
+  "count": 9562,
   "items": [
+    {
+      "id": "1fa4c5387ae4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published": "2026-08-15T18:58:39+00:00",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+    },
     {
       "id": "857dee5da19d",
       "source": "The Verge",
