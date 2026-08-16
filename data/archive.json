@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T15:59:35.571117+00:00",
-  "count": 9630,
+  "updated_at": "2026-08-16T16:29:38.734938+00:00",
+  "count": 9632,
   "items": [
+    {
+      "id": "8d3bbad36234",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "published": "2026-08-16T16:04:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+    },
     {
       "id": "c9e3d0a610b9",
       "source": "The Verge",
@@ -12,6 +23,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "published": "2026-08-16T14:56:40+00:00",
       "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can r"
+    },
+    {
+      "id": "8f40cd39fd33",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude: System Prompts",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "published": "2026-08-16T12:48:21+00:00",
+      "summary": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts Comments URL: https://news.ycombinator.com/item?id=49319556 Points: 217 # Comments: 109"
     },
     {
       "id": "8299f127ca60",
