@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T05:22:18.831664+00:00",
-  "count": 9604,
+  "updated_at": "2026-08-16T05:52:17.687687+00:00",
+  "count": 9606,
   "items": [
+    {
+      "id": "a314b0e223c4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "7대 SEED에 포함된 핵융합 놓고 '찬반 논쟁'",
+      "link": "https://zdnet.co.kr/view/?no=20260815181401",
+      "published": "2026-08-16T05:23:29+00:00",
+      "summary": "[지디넷코리아]정부 7대 SEED 프로젝트에 SMR(소형모듈원자로)과 핵융합이 포함된 것을 둘러싸고, 관련기관 및 단체 3곳이 찬반 입장 및 성명을 발표하는 등 때아닌 '핵융합 논쟁'이 일었다.정부는 지난 12일 파괴적 혁신을 위해 전략적 투자가 필요한 대한민국의 미래 성장엔진으로 7개 분야(SEED)를 선정하고, 전략적으로 '담대하게' 투자해 나갈 것을 선언했다.7대 SEED(씨앗기술) 프로젝트는 ▲미래 청정에너지 분야=SMR(소형모듈원자로), 핵융합, 한계돌파형 재생에너지 ▲차세대 프론티어 분"
+    },
     {
       "id": "d6d24f6c053e",
       "source": "ZDNet Korea",
@@ -452,6 +463,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260816005704",
       "published": "2026-08-15T16:09:36+00:00",
       "summary": "[지디넷코리아]LG디스플레이가 차량 하이브리드 유기발광다이오드(OLED)를 7.2인치부터 24.2인치까지 5종을 개발했다고 지난 14일 반기보고서에서 밝혔다. LG디스플레이가 사업보고서에서 차량 하이브리드 OLED를 크기와 함께 개발했다고 밝힌 것은 이번이 처음이다. 하이브리드 OLED는 유리기판에 박막봉지(TFE)를 적용한 OLED를 말한다. LG디스플레이가 그간 양산했던 차량 OLED는 폴리이미드(PI) 기판에 박막봉지를 적용한 플라스틱(플렉시블) OLED 제품이다. 기존 플라스틱 OLED의 "
+    },
+    {
+      "id": "0de20a83a792",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A spectre is haunting Unicode",
+      "link": "https://www.dampfkraft.com/ghost-characters.html",
+      "published": "2026-08-15T14:34:04+00:00",
+      "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 201 # Comments: 69"
     },
     {
       "id": "5ae43d863a91",
