@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-16T04:07:07.457311+00:00",
-  "count": 9599,
+  "updated_at": "2026-08-16T04:48:57.981933+00:00",
+  "count": 9604,
   "items": [
+    {
+      "id": "d6d24f6c053e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "반도체 소자 잡음 증폭…특정 신호 추출 성공",
+      "link": "https://zdnet.co.kr/view/?no=20260816131258",
+      "published": "2026-08-16T04:12:58+00:00",
+      "summary": "[지디넷코리아]잡음(노이즈)은 신호처리에 나쁜 역할만 하는 것은 아니다. 임계치 이하의 신호 세기를 증폭시켜, 신호 감지에 도움을 주기도 한다. 뇌에서 특히, 그런 현상(확률적 반응)이 발생한다. 반면, 반도체에서 잡음은 주로 제거 대상이었다.국내 연구진이 반도체 소자 잡음을 증폭시켜, 주요한 특성만을 추출하는 기술을 개발했다.김경민 KAIST 신소재공학과 교수 연구팀은 반도체 잡음을 사람의 뇌처럼 정보를 처리하는 데 이용할 수 있는 새로운 뉴로모픽 뉴런 반도체 기술을 개발했다고 16일 밝혔다.논"
+    },
+    {
+      "id": "3e75d099bd72",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[박준성의 SW] 한국 SW개발, 미국 1990년대...AI강국 걸림돌",
+      "link": "https://zdnet.co.kr/view/?no=20260816130106",
+      "published": "2026-08-16T04:01:06+00:00",
+      "summary": "[지디넷코리아]AI 경쟁력은 단순히 우수한 AI 모델이나 반도체, 데이터와 같은 개별 자산만으로 결정되지 않는다. 인재와 교육, R&D, 컴퓨팅과 반도체, 에너지와 디지털 인프라, 데이터 생태계, 민간의 기술과 투자, 정책과 거버넌스가 함께 작동해야 한다. 제조·의료·금융 등 산업 현장에서 AI를 실제 경쟁력으로 전환하는 것도 이러한 기반 위에서 가능하다.그러나 이 모든 자산을 실제 서비스와 산업 시스템으로 연결하는 마지막 연결고리가 있다. 바로 소프트웨어 공학(SW Engineering)이다. "
+    },
     {
       "id": "8bfb1c90e00d",
       "source": "AI타임스",
@@ -25,6 +47,17 @@
       "summary": "다리오 아모데이 앤트로픽 CEO의 아내 카미 클라크(Cami Clark)가 그동안 베일에 가려졌던 내부 영향력과 과거 이력으로 주목받고 있다. 특히 과거 성범죄자 제프리 엡스타인에게 자신이 설립한 사업에 대한 투자를 요청한 사실이 미국 법무부 공개 자료 등을 통해 확인되면서 논란이 커졌다.월스트리트저널(WSJ)과 디 인포메이션은 13일(현지시간) 일제히 클라크가 앤트로픽의 공식 임원이나 직원은 아니지만, 아모데이의 주요 행사에 동행하고 투자자와 정치권 인사들을 만나는 등 사실상 그의 핵심 조언자 "
     },
     {
+      "id": "67874614e156",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 영화 '오디세이'로 본 AI의 사실과 진실",
+      "link": "https://zdnet.co.kr/view/?no=20260816120417",
+      "published": "2026-08-16T03:04:17+00:00",
+      "summary": "[지디넷코리아]극장이 어두워지고 가장 먼저 뜬 것은 배우의 얼굴이 아니라 한 줄의 자막이었다. \"In a time of Apparent Magic.\" 겉보기 마법의 시대. 나는 이 여섯 단어가 현재 화제를 모으고 상영중인 영화 오디세이의 크리스토퍼 놀란 감독이 관객에게 건넨 해석의 열쇠라고 생각한다. 마법의 시대가 아니라 '겉보기' 마법의 시대. 앞으로 등장할 외눈박이 거인과 마녀와 세이렌과 망자들의 해변과 바다의 소용돌이는 실재가 아니라 명명이라는 선언이다. 한 시대가 이해하지 못한 힘에 붙인 "
+    },
+    {
       "id": "f763d31ab31b",
       "source": "AI타임스",
       "kind": "article",
@@ -34,6 +67,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214010",
       "published": "2026-08-16T03:03:10+00:00",
       "summary": "테슬라가 수년 간 출시가 지연됐던 차세대 스포츠카 ‘로드스터’의 새로운 디자인과 공중 부양(hovering) 기능을 이르면 이달 중 공개할 전망이다.디 인포메이션은 14일(현지시간) 내부 관계자를 인용, 테슬라가 미국 텍사스주 맥그리거의 스페이스X 시험장에서 신형 로드스터 시연 행사를 준비 중이라고 보도했다. 이번 행사에서는 일론 머스크 CEO가 예고했던 ‘비행 및 공중 부양’ 성능 시연이 핵심으로 꼽혔다.신형 로드스터는 테슬라와 스페이스X의 협업을 통해 제작됐다. 공중에 뜨는 기능을 구현하기 위"
+    },
+    {
+      "id": "bceab71316d4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GM 전기차, 테슬라 슈퍼차저로 충전 가능해진다",
+      "link": "https://zdnet.co.kr/view/?no=20260816113031",
+      "published": "2026-08-16T03:01:54+00:00",
+      "summary": "[지디넷코리아]제너럴모터스(GM)가 2027년형 전기차 전 차종에 테슬라가 개발한 북미충전표준(NACS) 충전포트를 기본 탑재한다. 이에 따라 GM 전기차 이용자는 별도의 어댑터 없이 호환되는 테슬라 슈퍼차저를 이용할 수 있게 된다.14일(현지시간) 일렉트렉 보도에 따르면 GM은 쉐보레와 캐딜락, GMC 브랜드의 모든 2027년형 전기차를 NACS 포트로 전환하는 작업을 진행 중이다. NACS는 테슬라가 자체 개발한 충전 규격으로 현재는 SAE J3400으로 표준화됐다. 기존 GM 전기차 상당수는"
     },
     {
       "id": "ead28965efdc",
@@ -298,6 +342,17 @@
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "published": "2026-08-15T21:29:19+00:00",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+    },
+    {
+      "id": "77d6b41be17b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "published": "2026-08-15T21:14:34+00:00",
+      "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 200 # Comments: 146"
     },
     {
       "id": "e79b51bb4e23",
