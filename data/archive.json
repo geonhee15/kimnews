@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T22:45:17.300699+00:00",
-  "count": 9641,
+  "updated_at": "2026-08-16T22:59:36.757215+00:00",
+  "count": 9643,
   "items": [
     {
       "id": "d2a1295cf771",
@@ -58,6 +58,17 @@
       "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
     },
     {
+      "id": "e0578d92fdf2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Models Are Getting Dumber on Purpose",
+      "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "published": "2026-08-16T19:04:26+00:00",
+      "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 207 # Comments: 128"
+    },
+    {
       "id": "85e0dcc01e70",
       "source": "Hacker News",
       "kind": "article",
@@ -111,6 +122,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "published": "2026-08-16T14:56:40+00:00",
       "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can r"
+    },
+    {
+      "id": "bd7b66b0b644",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The AI Credit Resale Economy",
+      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "published": "2026-08-16T14:44:55+00:00",
+      "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 204 # Comments: 76"
     },
     {
       "id": "8f40cd39fd33",
