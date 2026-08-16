@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T20:41:32.903538+00:00",
-  "count": 9636,
+  "updated_at": "2026-08-16T20:58:36.869539+00:00",
+  "count": 9638,
   "items": [
+    {
+      "id": "a5caee821bda",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "published": "2026-08-16T20:57:04+00:00",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
+    },
     {
       "id": "d1c6f8f3fad1",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "published": "2026-08-16T20:32:01+00:00",
       "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+    },
+    {
+      "id": "85e0dcc01e70",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "link": "https://rvembedded.com/blog_post/12/",
+      "published": "2026-08-16T17:01:07+00:00",
+      "summary": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 210 # Comments: 113"
     },
     {
       "id": "83659884f892",
