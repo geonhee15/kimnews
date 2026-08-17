@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T19:41:27.662128+00:00",
-  "count": 9732,
+  "updated_at": "2026-08-17T19:59:24.581762+00:00",
+  "count": 9733,
   "items": [
     {
       "id": "6ab1805add89",
@@ -320,6 +320,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
       "published": "2026-08-17T10:57:13+00:00",
       "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source w"
+    },
+    {
+      "id": "57c5fefdf2e2",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "published": "2026-08-17T10:46:21+00:00",
+      "summary": ""
     },
     {
       "id": "4d43c12cd5c6",
