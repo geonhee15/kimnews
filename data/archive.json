@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-17T15:58:52.228628+00:00",
-  "count": 9713,
+  "updated_at": "2026-08-17T16:30:16.194148+00:00",
+  "count": 9715,
   "items": [
+    {
+      "id": "b6bb8e4eb122",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "published": "2026-08-17T16:15:12+00:00",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+    },
+    {
+      "id": "fb10474b7ce5",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "published": "2026-08-17T16:00:00+00:00",
+      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Bl"
+    },
     {
       "id": "a8bec70a2bba",
       "source": "TechCrunch",
