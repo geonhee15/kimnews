@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-17T16:30:16.194148+00:00",
-  "count": 9715,
+  "updated_at": "2026-08-17T16:57:13.165840+00:00",
+  "count": 9719,
   "items": [
+    {
+      "id": "4690a22c5b4d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "published": "2026-08-17T16:38:44+00:00",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
     {
       "id": "b6bb8e4eb122",
       "source": "TechCrunch",
@@ -23,6 +34,17 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
       "published": "2026-08-17T16:00:00+00:00",
       "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Bl"
+    },
+    {
+      "id": "e3f90ee9b51e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+      "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "published": "2026-08-17T15:49:57+00:00",
+      "summary": "Article URL: https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/ Comments URL: https://news.ycombinator.com/item?id=49332981 Points: 207 # Comments: 262"
     },
     {
       "id": "a8bec70a2bba",
@@ -89,6 +111,17 @@
       "link": "https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news",
       "published": "2026-08-17T14:00:00+00:00",
       "summary": "Today I’m talking to Ben Smith, the editor-in-chief of Semafor. Everywhere you go, people say they don’t trust the media — and yet they’ve never consumed more of it. Audiences have moved on from legacy names in favor of Substacks and podcasts and TikTok news influencers that seem"
+    },
+    {
+      "id": "8ad5dd9c927f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Preview of DuckDB v2.0",
+      "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "published": "2026-08-17T13:46:27+00:00",
+      "summary": "Article URL: https://duckdb.org/2026/08/17/duckdb-20-highlights Comments URL: https://news.ycombinator.com/item?id=49330781 Points: 243 # Comments: 33"
     },
     {
       "id": "0e0a701e8024",
@@ -771,6 +804,17 @@
       "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "published": "2026-08-16T21:53:43+00:00",
       "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 236 # Comments: 222"
+    },
+    {
+      "id": "5438c503521f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "published": "2026-08-16T21:53:43+00:00",
+      "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 616 # Comments: 543"
     },
     {
       "id": "5aac2c0311da",
