@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-17T09:07:15.526853+00:00",
-  "count": 9694,
+  "updated_at": "2026-08-17T09:56:02.753861+00:00",
+  "count": 9697,
   "items": [
+    {
+      "id": "4d43c12cd5c6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214026",
+      "published": "2026-08-17T09:32:29+00:00",
+      "summary": "업스테이지 독자 파운데이션 모델 ‘솔라(Solar)’의 실사용 기반이 확대되고 있다.김성훈 업스테이지 대표는 최근 개인 SNS를 통해 “이제 다음 검색에서 제공되는 AI 요약은 100% 솔라 대형언어모델(LLM)로 생성된다”라고 밝혔다.업스테이지는 지난 5월 다음 포털 운영사인 AXZ 인수를 공식화한 이후, 다음의 데이터 및 검색 역량과 업스테이지의 AI 기술력을 결합해 차세대 AI 포털을 만들어 나가겠다고 밝힌 바 있다. 이에 대한 첫 협업으로 ‘AI 요약’을 제공 중이다.다음 포털은 검색 결과"
+    },
     {
       "id": "38ae26303dae",
       "source": "AI타임스",
@@ -25,6 +36,17 @@
       "summary": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease."
     },
     {
+      "id": "b95e28ac0141",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "published": "2026-08-17T09:00:00+00:00",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they"
+    },
+    {
       "id": "838a8b655cbe",
       "source": "AI타임스",
       "kind": "article",
@@ -42,6 +64,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "오픈AI, 코덱스 대대적 개편 예고… 로딩 속도 94%·메모리 사용량 88% 감축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214016",
+      "published": "2026-08-17T08:34:00+00:00",
+      "summary": "AI 코딩 에이전트가 작업이 길어질수록 로딩 지연과 메모리 사용량이 증가하는 문제가 한계로 지적돼 온 가운데, 오픈AI가 '코덱스(Codex)'의 장시간 작업 성능 대폭 개선을 예고했다. 앤드류 앰브루시노 오픈AI 개발자가 14일(현지시간) 공개한 내부 슬랙 메시지에 따르면, AI 코딩 에이전트 코덱스가 장시간 작업에서 발생하던 성능 저하와 메모리 사용 문제를 크게 개선하는 대규모 업데이트가 이번 주 진행될 예정이다.특히 수백 턴에 걸친 긴 대화에서도 로딩 속도와 메모리 효율을 크게 끌어올린 것으"
+    },
+    {
+      "id": "9ef2bfccc11e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 코덱스 대대적 개편 예고… 속도 94%·메모리 88% 감축",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214016",
       "published": "2026-08-17T08:34:00+00:00",
       "summary": "AI 코딩 에이전트가 작업이 길어질수록 로딩 지연과 메모리 사용량이 증가하는 문제가 한계로 지적돼 온 가운데, 오픈AI가 '코덱스(Codex)'의 장시간 작업 성능 대폭 개선을 예고했다. 앤드류 앰브루시노 오픈AI 개발자가 14일(현지시간) 공개한 내부 슬랙 메시지에 따르면, AI 코딩 에이전트 코덱스가 장시간 작업에서 발생하던 성능 저하와 메모리 사용 문제를 크게 개선하는 대규모 업데이트가 이번 주 진행될 예정이다.특히 수백 턴에 걸친 긴 대화에서도 로딩 속도와 메모리 효율을 크게 끌어올린 것으"
