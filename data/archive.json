@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T20:30:38.416490+00:00",
-  "count": 9737,
+  "updated_at": "2026-08-17T20:56:29.712151+00:00",
+  "count": 9740,
   "items": [
     {
       "id": "e05084335891",
@@ -23,6 +23,17 @@
       "link": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
       "published": "2026-08-17T20:18:17+00:00",
       "summary": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content."
+    },
+    {
+      "id": "91576dcfa8df",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI;DR (AI; Didn't Read)",
+      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "published": "2026-08-17T19:47:15+00:00",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 228 # Comments: 120"
     },
     {
       "id": "6ab1805add89",
@@ -78,6 +89,17 @@
       "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "published": "2026-08-17T18:13:47+00:00",
       "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo."
+    },
+    {
+      "id": "bed3eaef1965",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "published": "2026-08-17T17:25:17+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 212 # Comments: 103"
     },
     {
       "id": "f52aa2346c5f",
@@ -7107,6 +7129,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213846",
       "published": "2026-08-12T10:26:51+00:00",
       "summary": "엔비디아가 오픈소스 라우팅 기술을 공개했다. 복잡한 추론에는 고성능 프런티어 모델을, 반복적이고 대량으로 처리해야 하는 작업에는 저비용 모델을 투입하는 방식으로 AI 에이전트의 비용과 처리 효율을 동시에 개선하겠다는 전략이다.엔비디아는 11일(현지시간) 오픈소스 모델 라우팅 라이브러리인 '네모 스위치야드(NeMo Switchyard)'를 공개했다.스위치야드는 AI 에이전트의 각 작업 단계에서 요청 내용뿐 아니라 모델의 상태, 작업 진행 상황, 비용과 지연시간, 토큰 사용량 등을 종합적으로 분석해 "
+    },
+    {
+      "id": "dcd6243861fb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Olo (Color)",
+      "link": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "published": "2026-08-12T10:26:14+00:00",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Olo_(color) Comments URL: https://news.ycombinator.com/item?id=49270194 Points: 200 # Comments: 49"
     },
     {
       "id": "9c229f7d6fbe",
