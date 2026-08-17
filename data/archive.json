@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-17T19:09:03.453182+00:00",
-  "count": 9728,
+  "updated_at": "2026-08-17T19:41:27.662128+00:00",
+  "count": 9732,
   "items": [
+    {
+      "id": "6ab1805add89",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "What Flock’s defenders are missing",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "published": "2026-08-17T19:16:09+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to it"
+    },
     {
       "id": "39bf909791e4",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
       "published": "2026-08-17T19:04:27+00:00",
       "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos."
+    },
+    {
+      "id": "b244dc051ad7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Wordle meets Clippy in this new word game",
+      "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
+      "published": "2026-08-17T19:03:41+00:00",
+      "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about"
     },
     {
       "id": "04550d08f77c",
@@ -166,6 +188,28 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "published": "2026-08-17T14:22:54+00:00",
       "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers."
+    },
+    {
+      "id": "9a5a7c3e38e1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "published": "2026-08-17T14:18:38+00:00",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 216 # Comments: 100"
+    },
+    {
+      "id": "18e388901b1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "published": "2026-08-17T14:07:59+00:00",
+      "summary": "Article URL: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html Comments URL: https://news.ycombinator.com/item?id=49331222 Points: 214 # Comments: 80"
     },
     {
       "id": "f1dbeb78e679",
