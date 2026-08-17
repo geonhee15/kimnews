@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-17T16:57:13.165840+00:00",
-  "count": 9719,
+  "updated_at": "2026-08-17T17:24:16.697420+00:00",
+  "count": 9725,
   "items": [
+    {
+      "id": "f52aa2346c5f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "published": "2026-08-17T17:10:59+00:00",
+      "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations."
+    },
+    {
+      "id": "72965686908e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
+      "link": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
+      "published": "2026-08-17T16:40:32+00:00",
+      "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system. Unibody alum"
+    },
     {
       "id": "4690a22c5b4d",
       "source": "TechCrunch",
@@ -12,6 +34,28 @@
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "published": "2026-08-17T16:38:44+00:00",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
+    {
+      "id": "e4f2a6bfc19c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "published": "2026-08-17T16:38:44+00:00",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
+    {
+      "id": "3f93de33a746",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+      "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+      "published": "2026-08-17T16:38:35+00:00",
+      "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sono"
     },
     {
       "id": "b6bb8e4eb122",
@@ -155,6 +199,17 @@
       "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
       "published": "2026-08-17T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six"
+    },
+    {
+      "id": "6b970f1c2286",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "published": "2026-08-17T12:09:42+00:00",
+      "summary": "Article URL: https://blog.roboflow.com/openai-gpt-5-6/ Comments URL: https://news.ycombinator.com/item?id=49329575 Points: 201 # Comments: 105"
     },
     {
       "id": "efde74e4ea62",
@@ -738,6 +793,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=213958",
       "published": "2026-08-17T00:00:00+00:00",
       "summary": "AI 전문 비드래프트(대표 김민식)는범용 AI 모델의 잠재적 안전성 취약성을 진단하는 ‘AX-RAY’ 리더보드와 평가 데이터셋을 허깅페이스(Hugging Face)에 공개했다고 17일 밝혔다.지금까지 이론적 위험으로 주로 논의돼 온 ‘인과누설(Causal Leakage)’을 실제 범용 LLM에서 탐지했다는 점이 핵심이다. 비드래프트는 AX-RAY 평가에서 엔비디아의 모델 1종을 포함한 총 2종의 모델에서 인과누설 신호를 확인했다.인과누설은 AI가 정상적인 추론 경로가 아닌 숨은 정보나 의도하지 않"
+    },
+    {
+      "id": "2bbae5452eb2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "link": "https://reticulum.network/",
+      "published": "2026-08-16T23:59:10+00:00",
+      "summary": "Article URL: https://reticulum.network/ Comments URL: https://news.ycombinator.com/item?id=49325061 Points: 200 # Comments: 65"
     },
     {
       "id": "da1ea830ee64",
