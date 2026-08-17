@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-17T21:21:10.082572+00:00",
-  "count": 9740,
+  "updated_at": "2026-08-17T21:49:11.325222+00:00",
+  "count": 9743,
   "items": [
+    {
+      "id": "e2f7a824032e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "published": "2026-08-17T21:27:05+00:00",
+      "summary": "Relay, which offered businesses workflow automation, will stop operating next month. Its CEO and some of its staff plan to get to work on Google Chrome next."
+    },
+    {
+      "id": "61d2b8d0fd4c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ABC’s livestreamed news show is powered by trending topics",
+      "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "published": "2026-08-17T20:59:23+00:00",
+      "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live stre"
+    },
     {
       "id": "e05084335891",
       "source": "TechCrunch",
@@ -276,6 +298,17 @@
       "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
       "published": "2026-08-17T14:07:59+00:00",
       "summary": "Article URL: https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html Comments URL: https://news.ycombinator.com/item?id=49331222 Points: 214 # Comments: 80"
+    },
+    {
+      "id": "5d7f7ad05e00",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to disable or avoid intrusive AI",
+      "link": "https://www.librarian.net/notoai/",
+      "published": "2026-08-17T14:07:56+00:00",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 210 # Comments: 112"
     },
     {
       "id": "f1dbeb78e679",
