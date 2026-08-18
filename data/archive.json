@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-18T18:29:52.541432+00:00",
-  "count": 9894,
+  "updated_at": "2026-08-18T19:08:26.073808+00:00",
+  "count": 9896,
   "items": [
+    {
+      "id": "d7e9b50c03aa",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "published": "2026-08-18T18:33:11+00:00",
+      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards."
+    },
     {
       "id": "bbe061403f94",
       "source": "TechCrunch",
@@ -34,6 +45,17 @@
       "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
       "published": "2026-08-18T17:12:13+00:00",
       "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces."
+    },
+    {
+      "id": "907295baa911",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "published": "2026-08-18T17:02:15+00:00",
+      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 213 # Comments: 157"
     },
     {
       "id": "9e814cb882b9",
