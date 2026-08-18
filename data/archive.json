@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T14:51:15.013431+00:00",
-  "count": 9876,
+  "updated_at": "2026-08-18T15:25:38.296656+00:00",
+  "count": 9879,
   "items": [
     {
       "id": "29e7f35e17f8",
@@ -9,6 +9,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Meta Ran Ads for an App Promising to Nudify Female Politicians",
+      "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "published": "2026-08-18T14:45:33+00:00",
+      "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED."
+    },
+    {
+      "id": "c0b9fe2ee711",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
       "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
       "published": "2026-08-18T14:45:33+00:00",
       "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED."
@@ -56,6 +67,17 @@
       "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
       "published": "2026-08-18T13:28:51+00:00",
       "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
+    },
+    {
+      "id": "5beb7a659331",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Amazon Tax",
+      "link": "https://seths.blog/2026/08/the-amazon-tax/",
+      "published": "2026-08-18T13:22:38+00:00",
+      "summary": "Article URL: https://seths.blog/2026/08/the-amazon-tax/ Comments URL: https://news.ycombinator.com/item?id=49345263 Points: 220 # Comments: 155"
     },
     {
       "id": "e59fe4d18fbf",
@@ -243,6 +265,17 @@
       "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "published": "2026-08-18T10:13:28+00:00",
       "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 228 # Comments: 132"
+    },
+    {
+      "id": "48214260ee12",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google buys crashed airline Spirit's data at auction",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "published": "2026-08-18T10:13:28+00:00",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 362 # Comments: 245"
     },
     {
       "id": "4ad8551a3bef",
