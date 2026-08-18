@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-18T14:06:46.507077+00:00",
-  "count": 9871,
+  "updated_at": "2026-08-18T14:51:15.013431+00:00",
+  "count": 9876,
   "items": [
+    {
+      "id": "29e7f35e17f8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Ran Ads for an App Promising to Nudify Female Politicians",
+      "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "published": "2026-08-18T14:45:33+00:00",
+      "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED."
+    },
     {
       "id": "6c8b265de5d1",
       "source": "TechCrunch",
@@ -47,6 +58,17 @@
       "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
     },
     {
+      "id": "e59fe4d18fbf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI로 연구비 '대박' 후보 골랐더니, 뜻밖 1위 누구…챗GPT는 아니었다",
+      "link": "https://zdnet.co.kr/view/?no=20260818220838",
+      "published": "2026-08-18T13:08:38+00:00",
+      "summary": "[지디넷코리아]영국 정부가 세금으로 나가는 연구비를 더 똑똑하게 쓰려고 인공지능(AI)에게 숙제를 하나 맡겼다. 산더미처럼 쌓인 연구 제안서를 읽고, 그 안에서 다음 대박이 될 만한 유망 분야를 미리 찾아내라는 것이었다. 그런데 성적표를 열어보니 가장 유명한 챗GPT(ChatGPT)도 단독 1위를 차지하지 못했고, 정부가 직접 만든 전용 도구는 오히려 뒤처졌다. 영국 연구혁신기구(UKRI)가 발표한 이번 실험은 AI가 국가의 연구 투자 방향까지 넘보기 시작했다는 신호이자, 크고 비싼 모델이 늘 이"
+    },
+    {
       "id": "299a7258f7e0",
       "source": "Ars Technica",
       "kind": "article",
@@ -67,6 +89,39 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
       "published": "2026-08-18T13:00:00+00:00",
       "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously v"
+    },
+    {
+      "id": "be30384f92e4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스]AI가 쓴 글, 표시가 남는대요",
+      "link": "https://zdnet.co.kr/view/?no=20260818100604",
+      "published": "2026-08-18T12:58:30+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 AI가 쓴 글을 어떻게 구별할 수 있을지 궁금하셨던 분들 많으시죠? 사실 클로드 같은 AI가 작성한 글에는 눈에 보이지 않는 '비밀 도장'이 찍힌다고 해요. 신기하게도 글이 길어질수록 이 도장은 더 또렷해지는데요, 문제는 짧은 글이에요. 짧은 글에서는 탐지율이 고작 15%에 불과하고, 중간 길이 글은 75%, 긴 글은 98%까지 올라간다고 하니 글자 수에 따라 정확도 차이가 꽤 크다는 걸 알 수 있어요. 흥미로운 건 이 표시 방식을 두고도 변"
+    },
+    {
+      "id": "9d1cab5d964e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중기 AI전환 지원 175곳 선정...솔루션 구축 최대 1억 지원",
+      "link": "https://zdnet.co.kr/view/?no=20260818215137",
+      "published": "2026-08-18T12:51:37+00:00",
+      "summary": "[지디넷코리아]중소기업의 인공지능(AI)·디지털 전환을 지원하는 '2026 중소기업 스마트서비스 사업' 지원대상 175개 기업이 선정됐다. 이들 선정기업은 중소기업기술정보진흥원(기정원)과 협약을 체결한 뒤 약 6개월간 스마트서비스 솔루션을 구축한다. 중기부는 원활한 사업 수행과 성과 창출을 위해 사업 전 과정을 지속적으로 지원·관리할 계획이다.올해 3월 사업공고 이후 두 달간 지원기업을 모집했다. 그 결과, 서비스 혁신을 희망하는 중소기업 545개가 신청해 3:1의 경쟁률을 기록했다. 이후 신청기"
+    },
+    {
+      "id": "99304338cec1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'모두의 AI' 프로젝트 공모에 6개 컨소시엄 출사표...이달 말 최종 사업자 결정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214086",
+      "published": "2026-08-18T12:30:00+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)가 전 국민 대상 국산 AI 서비스 보급을 위해 추진하는 '모두의 AI' 프로젝트 사업자 공모에 6개 컨소시엄이 접수를 확정하며 본격적인 경쟁에 돌입했다.이번 공모에는 SK텔레콤, 카카오, KT, 이스트소프트 등 국내 주요 ICT 기업들이 주관기관으로 나선 4개 컨소시엄과 단독으로 참여한 엠케이디, 제논 등 총 6개 사업 주체가 도전장을 냈다.과기부는 제출된 서류의 적합성 검토와 서면평가, 발표평가를 거쳐 이달 말 최종 사업자를 선정할 방침이다.가장 많은 기업을 모은"
     },
     {
       "id": "9ad7e9b44a44",
