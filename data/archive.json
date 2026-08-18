@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-18T21:46:27.941089+00:00",
-  "count": 9901,
+  "updated_at": "2026-08-18T22:16:53.621774+00:00",
+  "count": 9904,
   "items": [
+    {
+      "id": "921babf03339",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "published": "2026-08-18T22:14:25+00:00",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github."
+    },
+    {
+      "id": "eb6625e8383b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월18일] AI 의료의 새로운 돌파구…의사도 경험하기 어려운 '희귀질환'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214043",
+      "published": "2026-08-18T22:00:00+00:00",
+      "summary": "“AI에 대한 대중의 신뢰를 높이는 가장 확실한 방법은 암을 치료하는 것이다.”다리오 아모데이 앤트로픽 CEO가 최근 AI의 의료 활용을 두고 한 말입니다. AI가 인류에 큰 도움을 줄 것이라는 약속만으로는 부족하며, 실제로 사람들의 삶을 바꾸는 성과를 보여줘야 한다는 의미입니다. 피지 시모 전 오픈AI 애플리케이션 CEO도 아모데이의 전망에 동의하며 AI가 궁극적으로 “모든 질병을 치료할 수 있다”고 밝혔습니다.하지만 현실에서는 정반대의 논쟁도 벌어지고 있습니다. 환자들이 의사를 만나기 전 챗G"
+    },
     {
       "id": "8d25ac10d95a",
       "source": "The Verge",
@@ -8449,6 +8471,17 @@
       "link": "https://www.wired.com/story/googles-pixel-watch-5-can-now-detect-breathing-emergencies/",
       "published": "2026-08-12T14:07:59+00:00",
       "summary": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app."
+    },
+    {
+      "id": "38ebe63a981d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Teaching my kid to code with a modern MUD",
+      "link": "https://tau.dev/2026/08/07/canon",
+      "published": "2026-08-12T14:07:14+00:00",
+      "summary": "Article URL: https://tau.dev/2026/08/07/canon Comments URL: https://news.ycombinator.com/item?id=49272631 Points: 207 # Comments: 58"
     },
     {
       "id": "6009e8364f7b",
