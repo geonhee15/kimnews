@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-18T03:39:33.507766+00:00",
-  "count": 9767,
+  "updated_at": "2026-08-18T04:20:15.928433+00:00",
+  "count": 9780,
   "items": [
+    {
+      "id": "44c9beabf0d6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엘리스그룹, 'AISE 2026'서 기업 전용 AX 솔루션 2종 첫 선",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214037",
+      "published": "2026-08-18T04:06:19+00:00",
+      "summary": "엘리스그룹(대표 김재원)은 19~21일 서울 코엑스에서 열리는 '2026 AI 서밋 서울 앤 엑스포(AISE 2026)'에 참가한다고 밝혔다.이번 행사에서는 기업·기관의 AX를 위한 사내 지식 구조화 솔루션 '헬피컨텍스트'와 AI 코딩 에이전트 '헬피코드' 2종을 처음 선보인다.기존 비전언어모델(VLM) 기반 문서 분석 솔루션 '헬피비전', 기업·기관용 생성형 AI 솔루션 '헬피챗'과 연결해 조직의 AI 전환을 지원한다는 방침이다.헬피컨텍스트는 사내 분산된 지식 정보를 계층 구조로 정리해 AI가 "
+    },
+    {
+      "id": "2cd017f1f4d7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "라이드플럭스, 코스닥 예심 청구...국내 최초 레벨 4 자율주행 상장 도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214035",
+      "published": "2026-08-18T04:02:31+00:00",
+      "summary": "자율주행 전문 라이드플럭스(대표 박중희)는 지난 14일 코스닥 상장을 위한 예비심사청구서를 한국거래소에 제출했다고 18일 밝혔다.공동 상장 주관사인 한국투자증권, 우리투자증권과 하반기 코스닥 상장을 목표로 ‘국내 1호 레벨4 자율주행 상장사’에 도전한다. 앞서 지난 5월 한국거래소가 지정한 전문평가기관 두 곳으로부터 모두 ‘A’ 등급(A·A)을 받아 기술성평가를 통과했다.2018년 설립된 라이드플럭스는 인지·측위, 판단·제어, 정밀지도, 원격운영 등 레벨4 수준의 무인 자율주행 AI 소프트웨어를 "
+    },
+    {
+      "id": "82204de029c1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스노우플레이크, 이용석 신임 한국 지사장 선임",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214036",
+      "published": "2026-08-18T04:01:38+00:00",
+      "summary": "스노우플레이크는 이용석 신임 한국 지사장을 선임했다고 18일 밝혔다.이용석 지사장은 엔터프라이즈 소프트웨어 분야에서 20년 이상의 경력을 보유한 전문가다.스노우플레이크의 국내 비즈니스 전반을 총괄하며, AI 데이터 클라우드 플랫폼의 사업 확대와 다양한 기업 고객과 파트너사 지원에 집중할 계획이다.이 지사장은 한국마이크로소프트에서 16년간 재직하며 중소기업(SMB) 및 유통 파트너 비즈니스와 정부·교육·헬스케어 부문의 공공사업을 담당했으며, 제조·유통 부문 엔터프라이즈 커머셜 총괄을 역임했다. 이후"
+    },
+    {
+      "id": "c2add7c7e1ca",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오 “경량 모델 ‘카나나-2’, 안전성 평가서 글로벌 최고 수준”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214049",
+      "published": "2026-08-18T04:00:28+00:00",
+      "summary": "카카오의 경량 언어모델(sLM) '카나나-2(Kanana-2)' 시리즈가 한국어 특화 안전성 평가에서 구글, 알리바바 등 글로벌 주요 AI 모델을 제치고 우수한 성적을 거뒀다.카카오는 지난달 오픈소스로 공개한 '카나나-2-1.3B-인스트럭트'와 '카나나-2-3B-인스트럭트' 모델의 유해성 및 편향성 측정 결과를 18일 공개하며 이같이 밝혔다. 이번 평가는 과학기술정보통신부 사업으로 한국정보통신기술협회(TTA), 한국과학기술원(KAIST), 카카오 등이 공동 구축한 한국어 특화 안전성 벤치마크 'A"
+    },
     {
       "id": "e2d79c0a7d70",
       "source": "AI타임스",
@@ -25,6 +69,17 @@
       "summary": "과학기술정보통신부(장관 배경훈)와 정보통신산업진흥원(NIPA)은 '독자 AI 파운데이션 모델(독파모)' 프로젝트 2차 단계평가 결과, 업스테이지·SK텔레콤·LG AI연구원이 다음 단계로 진출했다고 18일 밝혔다.이번 2차 단계평가는 ▲벤치마크 평가(40점) ▲전문가 평가(35점) ▲사용자 평가(25점)로 진행됐다.벤치마크 평가에는 아티피셜 애널리시스 인텔리전스 인덱스(AAII)와 한국지능정보사회진흥원(NIA)의 자체 벤치마크가 함께 활용됐다. AAII는 에이전트·코딩·일반·과학적 추론 등 4개 영"
     },
     {
+      "id": "f7e8a3b27ea0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "모티프, 독파모 벤치마크 1위에도 탈락…대기업과 경쟁서 존재감·차기 행보 주목",
+      "link": "https://zdnet.co.kr/view/?no=20260818115839",
+      "published": "2026-08-18T03:12:03+00:00",
+      "summary": "[지디넷코리아]모티프테크놀로지스(이하 모티프)가 과학기술정보통신부의 '독자 AI 파운데이션 모델'(독파모) 2차 평가에서 벤치마크 1위를 기록하고도 최종 탈락했다.다만 대기업과 대규모 투자를 받은 AI기업이 경쟁한 무대에서 후발주자인 신생 스타트업이 짧은 기간 안에 성능 경쟁력을 입증했다는 점에서 모티프의 차기 행보가 주목 받고 있다.18일 과기정통부가 발표한 독파모 2차 평가 결과에 따르면 3차 단계 진출팀은 업스테이지, SK텔레콤, LG AI연구원 등 3곳이다.모티프는 벤치마크 부문에서 두각을"
+    },
+    {
       "id": "93ff7cab833d",
       "source": "AI타임스",
       "kind": "article",
@@ -45,6 +100,50 @@
       "link": "https://www.youtube.com/shorts/dUrTFAx77vo",
       "published": "2026-08-18T03:00:32+00:00",
       "summary": ""
+    },
+    {
+      "id": "5a688421ff35",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인터넷보다 빠른 AI 확산 속도…청년 고용에 '타격'",
+      "link": "https://zdnet.co.kr/view/?no=20260818091516",
+      "published": "2026-08-18T03:00:03+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 확산 속도가 인터넷보다 빠른 가운테 청년 고용에도 영향을 미치고 있다는 연구 결과가 나왔다.18일 한국은행이 낸 '청년 고용 위축, AI 탓인가' 보고서에 따르면 AI 활용률이 높은 직업군부터 젊은 층 고용이 감소했다.특히 우리나라의 AI 활용률은 다른 나라에 비해 높은 편이다. 2025년 기준 AI를 업무 목적으로 활용하는 비율은 51.8% 이며, 미국의 26.5% 보다 약 2배 많다. AI 확산 속도도 빠르다. 인터넷이 개발되고 10년 이후 활용률은 60%를 상회"
+    },
+    {
+      "id": "c3858ef55d25",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "재활용 가능한 전기차 난연복합소재 개발…\"상용화 협의 중\"",
+      "link": "https://zdnet.co.kr/view/?no=20260818095100",
+      "published": "2026-08-18T03:00:02+00:00",
+      "summary": "[지디넷코리아]전기차 등에 쓰이는 난연 복합소재를 재활용할 수 있는 길이 열렸다. 현재 상용화를 위한 업체 협의가 진행 중이다.기술 개발은 한국화학연구원 정밀바이오화학연구본부 김진철 책임연구원과 정지은·진영재 선임연구원 연구팀이 진행했다. 논문 주저자는 도스톤베크 소디크 우글리 마블로노프 우즈베키스탄 학생연구원이다.이들은 저가의 저분자량 폴리올레핀 첨가제(mPAO=메탈로센 폴리알파올레핀) 추가만으로 복합소재의 가공성과 난연성, 재활용성을 동시에 확보할 수 있는 '자기강화 복합소재' 제조 기술을 개"
+    },
+    {
+      "id": "c91fdbd13156",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 알리바바 클라우드, 韓 제3 데이터센터 가동…풀스택 AI 지원 앞장선다",
+      "link": "https://zdnet.co.kr/view/?no=20260818115752",
+      "published": "2026-08-18T02:59:49+00:00",
+      "summary": "[지디넷코리아]알리바바 클라우드가 국내 세 번째 데이터센터를 개소하며 한국 시장 공략에 속도를 낸다. 국내 인공지능(AI)·클라우드 인프라를 확충하는 동시에 AI 모델·플랫폼·애플리케이션을 아우르는 풀스택 전략을 앞세워 기업 고객 확보에 나선다는 목표다.윤용준 알리바바 클라우드 인텔리전스 한국 총괄 지사장은 18일 조선 팰리스 서울 강남에서 열린 제3 데이터센터 출범 기자간담회에서 \"한국은 디지털 인프라와 AI에 대한 수요가 매우 높은 시장\"이라며 \"국내 기업이 안정적으로 AI와 클라우드 서비스를"
+    },
+    {
+      "id": "92b559a852b3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "클라우드네트웍스, Kong과 파트너십 체결...AI 트래픽 통합 관리 AI 게이트웨이 국내 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214051",
+      "published": "2026-08-18T02:40:00+00:00",
+      "summary": "클라우드네트웍스(대표 정흥균)가 글로벌 API·AI 연결성 기업 콩(Kong)과 파트너십을 체결하고 '콩 AI 게이트웨이'의 국내 공급을 시작한다고 밝혔다.이는 기업의 AI 트래픽을 단일 관문에서 통합 관리하는 AI 게이트웨이다. 이번 파트너십은 AI 호출에 대한 통제와 거버넌스 수요가 커지는 가운데, 국내 기업의 AI 운영 체계 구축을 지원하기 위해 추진됐다.콩은 API 및 AI 연결성 기술을 개발하는 글로벌 기업으로, 오픈소스로 널리 사용되는 콩 게이트웨이를 기반으로 API 관리 플랫폼을 제공"
     },
     {
       "id": "5e395c73efa6",
@@ -78,6 +177,28 @@
       "link": "https://zdnet.co.kr/view/?no=20260818094457",
       "published": "2026-08-18T02:16:43+00:00",
       "summary": "[지디넷코리아]메타 플랫폼이 스마트 안경에 얼굴 인식 기술을 접목하는 기능을 계속 개발해 온 것으로 나타났다. 개인정보 보호를 둘러싼 논란이 커지는 가운데 해당 기술이 실제 제품에 적용될 경우 사생활 침해 우려가 더욱 커질 것으로 보인다.씨넷 등 외신은 17일(현지시간) 메타가 미국 특허상표청(USPTO)에 제출한 특허 출원서를 인용해 이같이 보도했다.해당 특허는 지난 2월 출원됐으며 이번 주 공개됐다. 다만 특허 심사와 승인에 얼마나 시간이 걸릴지, 실제 특허로 등록될지는 아직 알려지지 않았다."
+    },
+    {
+      "id": "48c68cce3b94",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인도, 태양광 올해 50GW 넘는다…셀 부족에 가격 20% 상승 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214031",
+      "published": "2026-08-18T02:15:00+00:00",
+      "summary": "인도가 올해 태양광 설비를 직류 기준 50기가와트(GW) 이상 새로 설치하며 연간 최대 기록을 경신할 전망이다. 상반기에만 34GW가 추가됐지만 하반기에는 인도산 태양전지 공급 부족과 설비가격 상승이 성장 속도를 좌우할 변수로 꼽힌다.우드맥킨지는 13일(현지시간) 보고서를 통해 인도의 2026년 태양광 신규 설치량이 직류기준 50 기가와트(GWdc)를 넘어설 것으로 전망했다.지난해 기록한 49GWdc를 웃도는 규모다. 올해 상반기 설치량은 34GWdc로 지난해 같은 기간보다 38% 증가했다.상반기"
+    },
+    {
+      "id": "94df0e48842c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "뉴질랜드, 태양광 계통접속 대기열 통일…준비된 사업 우선",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214030",
+      "published": "2026-08-18T02:15:00+00:00",
+      "summary": "뉴질랜드가 태양광발전소 등 분산형 발전사업의 전력망 접속 대기열을 전국적으로 통일한다. 접속 신청만 해놓고 사업이 장기간 지연되는 경우보다 실제 개발이 진행된 프로젝트에 우선순위를 높여 한정된 배전망 용량을 효율적으로 배분한다.뉴질랜드 전력청(Electricity Authority)은 18일(현지시간) 전국 28개 배전사를 대표하는 일렉트리시티 네트웍스 아오테아로아(ENA)가 새로운 ‘계통접속 대기열 및 관리 정책’을 마련했다고 밝혔다.이에 따라 태양광발전소 등 분산형 발전과 공장·전기차 충전시설"
     },
     {
       "id": "fba2c7548361",
@@ -234,6 +355,17 @@
       "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 219 # Comments: 154"
     },
     {
+      "id": "d374cc972884",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "published": "2026-08-17T22:06:14+00:00",
+      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html Comments URL: https://news.ycombinator.com/item?id=49338328 Points: 203 # Comments: 86"
+    },
+    {
       "id": "e2f7a824032e",
       "source": "TechCrunch",
       "kind": "article",
@@ -276,6 +408,17 @@
       "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
       "published": "2026-08-17T20:59:23+00:00",
       "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live stre"
+    },
+    {
+      "id": "bb8ba4fe1909",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "published": "2026-08-17T20:46:10+00:00",
+      "summary": "Article URL: https://responsiblestatecraft.org/israel-influence-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=49337392 Points: 206 # Comments: 95"
     },
     {
       "id": "e05084335891",
