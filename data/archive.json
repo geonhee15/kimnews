@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T11:19:42.931450+00:00",
-  "count": 9855,
+  "updated_at": "2026-08-18T11:49:17.547961+00:00",
+  "count": 9857,
   "items": [
     {
       "id": "14177b804f78",
@@ -177,6 +177,17 @@
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "published": "2026-08-18T09:00:00+00:00",
       "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict tha"
+    },
+    {
+      "id": "408b868f1cf7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers."
     },
     {
       "id": "19340b71269c",
@@ -430,6 +441,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214076",
       "published": "2026-08-18T07:55:00+00:00",
       "summary": "AI 전문 솔트룩스(대표 이경일)는 기업 데이터와 지식을 구조화해 AI 에이전트의 실제 업무 수행까지 연결하는 실무형 교육과정 '솔트룩스 온톨로지 부트캠프'의 교육생을 모집한다고 18일 밝혔다. 교육은 오는 9월29일부터 10월1일까지 3일간 서울 잠실역 인근 솔트룩스 본사에서 진행된다. 수강 대상은 기업 내 데이터·AI 연계 프로젝트를 추진하는 실무자와 AI 개발자, 데이터 엔지니어, 지식 자산화를 담당하는 기획자 등이다. 실습 환경은 솔트룩스가 제공한다.특히, AI 에이전트의 핵심 기반 기술인"
+    },
+    {
+      "id": "362c58a76f6b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "published": "2026-08-18T07:51:50+00:00",
+      "summary": "Article URL: https://pixelcluster.dev/VRAM-Overcommit/ Comments URL: https://news.ycombinator.com/item?id=49342719 Points: 219 # Comments: 58"
     },
     {
       "id": "2e12314ba2c3",
