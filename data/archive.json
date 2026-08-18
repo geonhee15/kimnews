@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-18T19:08:26.073808+00:00",
-  "count": 9896,
+  "updated_at": "2026-08-18T19:40:06.090344+00:00",
+  "count": 9897,
   "items": [
+    {
+      "id": "e2a2e41917b5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "published": "2026-08-18T19:28:30+00:00",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes o"
+    },
     {
       "id": "d7e9b50c03aa",
       "source": "Wired",

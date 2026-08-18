@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-08-19",
-  "generated_at": "2026-08-18T19:08:26.022613+00:00",
-  "count": 7,
+  "generated_at": "2026-08-18T19:40:06.028042+00:00",
+  "count": 8,
   "items": [
+    {
+      "id": "e2a2e41917b5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes o",
+      "content": "OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco.\n\nOpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face , including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra , that it thinks could have “critical” cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its “latest models intended for deployment” while it tightened up security. The company’s “largest planned frontier RL run remains on hold.”\n\nFor its frontier model research, OpenAI now requires stronger sandboxes for workloads that “execute model-generated or otherwise untrusted code,” and has more controls to “isolate higher-risk and untrusted workloads from the internet.” It has also updated its research environment to “remove potentially vulnerable shared services, reduce standing privileges, and improve security and trust boundaries.”\n\nAs part of the company’s expanded monitoring setup, OpenAI now aims to issue an alert “within 30 minutes after concerning activity is surfaced,” OpenAI says. If the people paged after an alert can’t “conclusively” determine whether an alert is a false positive within 30 minutes, “those teams are expected to pause the activity.”\n\nOpenAI also says that it’s applying “our core alignment techniques across more stages of the training process,” including reward models that “better detect and discourage unsafe behavior” and training models “to be more honest about their actions, capabilities, and limitations.”\n\nSince the discovery of the Hugging Face breach, Anthropic and Meta have also found that their AI models had hacked other organizations.\n\nThis is the title for the native ad",
+      "published": "2026-08-18T19:28:30+00:00"
+    },
     {
       "id": "d7e9b50c03aa",
       "source": "Wired",
@@ -59,7 +71,7 @@
       "lang": "en",
       "title": "Claude Code May–August 2026 weekly limits promotion",
       "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 213 # Comments: 157",
+      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 221 # Comments: 177",
       "content": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\n\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\n\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\n\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usage limits are not affected by this promotion.\n\nNo action is required to participate. If you're on an eligible plan, the increased weekly limit is automatically applied to your account.\n\nThe 50% increase applies to Claude Code only, everywhere you use it: the CLI, IDE extensions, desktop, and the web. Usage limits for other Claude products, like Claude (web, desktop, and mobile) and Claude Cowork, are unchanged.\n\nNo. The promotion applies automatically. You'll see the higher weekly limit reflected in your Claude Code usage without any changes to your account settings. You can run /usage in the CLI to view your updated limits.\n\nNo. This promotion increases weekly usage limits only.\n\nLegacy seat-based users on Enterprise plans are included. Consumption-based Enterprise seats are not included in this promotion.\n\nAfter August 19, 2026, weekly usage limits in Claude Code return to their standard levels. There's no change to your plan or billing.\n\nThis offer is valid from May 13, 2026 through August 19, 2026 at 11:59 PM PT. It applies to Pro, Max, and Team plans and to legacy seat-based users on Enterprise plans only, and excludes Free plans and consumption-based Enterprise seats. This offer has no cash value and is not transferable. It may not be combined with other offers.",
       "published": "2026-08-18T17:02:15+00:00"
     },
