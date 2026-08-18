@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-18T17:53:22.437978+00:00",
-  "count": 9890,
+  "updated_at": "2026-08-18T18:29:52.541432+00:00",
+  "count": 9894,
   "items": [
+    {
+      "id": "bbe061403f94",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "published": "2026-08-18T18:00:00+00:00",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+    },
     {
       "id": "a175d47676bf",
       "source": "TechCrunch",
@@ -234,6 +245,17 @@
       "summary": "과학기술정보통신부(장관 배경훈)가 전 국민 대상 국산 AI 서비스 보급을 위해 추진하는 '모두의 AI' 프로젝트 사업자 공모에 6개 컨소시엄이 접수를 확정하며 본격적인 경쟁에 돌입했다.이번 공모에는 SK텔레콤, 카카오, KT, 이스트소프트 등 국내 주요 ICT 기업들이 주관기관으로 나선 4개 컨소시엄과 단독으로 참여한 엠케이디, 제논 등 총 6개 사업 주체가 도전장을 냈다.과기부는 제출된 서류의 적합성 검토와 서면평가, 발표평가를 거쳐 이달 말 최종 사업자를 선정할 방침이다.가장 많은 기업을 모은"
     },
     {
+      "id": "f6f4df769be1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "link": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+      "published": "2026-08-18T12:23:55+00:00",
+      "summary": "Article URL: https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/ Comments URL: https://news.ycombinator.com/item?id=49344654 Points: 207 # Comments: 128"
+    },
+    {
       "id": "9ad7e9b44a44",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -441,6 +463,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214068",
       "published": "2026-08-18T09:10:45+00:00",
       "summary": "유니트리가 상하이 증시 상장을 이틀 앞두고 고속 주행과 도약 성능을 앞세운 신형 휴머노이드 로봇 ‘슈퍼맨(Superman)’을 공개했다. 유니트리가 17일 공개한 슈퍼맨은 3개월에 걸친 개발 끝에 완성됐다.제자리높이뛰기에서 2m를 기록하고, 최고 이동 속도는 초속 12.66m에 달한다. 시속으로는 45.6km로, 우사인 볼트가 기록한 순간 인간 최고 속도를 웃도는 수준이다.다만 유니트리는 현재 슈퍼맨이 개발이 진행 중인 시제품이라는 점을 강조했다. 앞으로 수개월 동안 주행 성능과 동작 안정성 등을"
+    },
+    {
+      "id": "c19de2972545",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "published": "2026-08-18T09:09:38+00:00",
+      "summary": ""
     },
     {
       "id": "9b1fc73ab199",
@@ -1662,6 +1695,17 @@
       "link": "https://arxiv.org/abs/2608.13759",
       "published": "2026-08-17T17:54:59+00:00",
       "summary": "Article URL: https://arxiv.org/abs/2608.13759 Comments URL: https://news.ycombinator.com/item?id=49334991 Points: 201 # Comments: 41"
+    },
+    {
+      "id": "0892b038ba52",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Memory prices climb 500% in 12 months",
+      "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "published": "2026-08-17T17:52:37+00:00",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399 Comments URL: https://news.ycombinator.com/item?id=49334960 Points: 207 # Comments: 158"
     },
     {
       "id": "bed3eaef1965",
