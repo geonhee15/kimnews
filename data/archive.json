@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-18T12:33:33.198613+00:00",
-  "count": 9862,
+  "updated_at": "2026-08-18T13:28:40.915069+00:00",
+  "count": 9865,
   "items": [
+    {
+      "id": "4fc25376f975",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "published": "2026-08-18T13:00:00+00:00",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously v"
+    },
+    {
+      "id": "9ad7e9b44a44",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "published": "2026-08-18T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using th"
+    },
     {
       "id": "da68329e9aac",
       "source": "The Verge",
@@ -100,6 +122,17 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
       "published": "2026-08-18T10:30:00+00:00",
       "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?"
+    },
+    {
+      "id": "4e4f39ade11e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "published": "2026-08-18T10:13:28+00:00",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962 Comments URL: https://news.ycombinator.com/item?id=49343559 Points: 228 # Comments: 132"
     },
     {
       "id": "4ad8551a3bef",
