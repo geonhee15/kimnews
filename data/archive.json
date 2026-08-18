@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-18T02:51:20.208388+00:00",
-  "count": 9762,
+  "updated_at": "2026-08-18T03:39:33.507766+00:00",
+  "count": 9767,
   "items": [
+    {
+      "id": "e2d79c0a7d70",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "모티프 “독파모로 이뤄낸 AI 모델 성능 향상, 사업화로 연결할 것”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214048",
+      "published": "2026-08-18T03:32:36+00:00",
+      "summary": "모티프테크놀로지스가 독자 AI 파운데이션 모델 개발 프로젝트(독파모)에서 거둔 성과를 바탕으로 기술 사업화에 본격적으 나서겠다고 밝혔다.과학기술정보통신부가 18일 발표한 독파모 프로젝트 2차 평가 결과에 따르면, 모티프테크놀로지스는 근소한 차이로 다음 단계 평가에 진출하지 못했다. 이에 대해 임정환 모티프테크놀로지스 대표는 “이번에 개발한 모델을 기반으로 본격적인 사업화를 추진하는 한편, 앞으로도 지속적인 기술 개발을 통해 독자적인 AI 모델 경쟁력을 더 강화해 나갈 것”이라고 말했다.하지만 모티"
+    },
+    {
+      "id": "5ce7f01f11dc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214041",
+      "published": "2026-08-18T03:19:11+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)와 정보통신산업진흥원(NIPA)은 '독자 AI 파운데이션 모델(독파모)' 프로젝트 2차 단계평가 결과, 업스테이지·SK텔레콤·LG AI연구원이 다음 단계로 진출했다고 18일 밝혔다.이번 2차 단계평가는 ▲벤치마크 평가(40점) ▲전문가 평가(35점) ▲사용자 평가(25점)로 진행됐다.벤치마크 평가에는 아티피셜 애널리시스 인텔리전스 인덱스(AAII)와 한국지능정보사회진흥원(NIA)의 자체 벤치마크가 함께 활용됐다. AAII는 에이전트·코딩·일반·과학적 추론 등 4개 영"
+    },
+    {
+      "id": "93ff7cab833d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "비드래프트, AI 신약발견 프로젝트 공개…3일 만에 2000건 이상 후보물질 제출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214044",
+      "published": "2026-08-18T03:08:35+00:00",
+      "summary": "AI 전문 비드래프트(VIDRAFT, 대표 김민식)가 AI 신약발견 프로젝트 ‘오픈 디스커버리 챌린지(Open Discovery Challenge)’를 허깅페이스에 공개한 뒤 3일 만에 2000건 이상의 후보물질이 제출됐다고 18일 밝혔다.이 대회는 정해진 시험문제의 정답률을 겨루는 일반 AI 벤치마크와 다르다. 참가자가 오픈AI, 앤트로픽, 구글, 딥시크 등 첨단 모델이나 자신이 개발한 AI를 활용해 직접 새로운 분자구조를 찾고, 제출된 물질의 약효 가능성·독성·표적 결합도·ADME와 전임상·임"
+    },
+    {
+      "id": "e9bd141001ef",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "내가 뭘 하는지 다 지켜보는 GPT..?",
+      "link": "https://www.youtube.com/shorts/dUrTFAx77vo",
+      "published": "2026-08-18T03:00:32+00:00",
+      "summary": ""
+    },
     {
       "id": "5e395c73efa6",
       "source": "ZDNet Korea",
@@ -210,6 +254,17 @@
       "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
       "published": "2026-08-17T21:18:49+00:00",
       "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”"
+    },
+    {
+      "id": "6befe93b56a4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "published": "2026-08-17T21:03:18+00:00",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 203 # Comments: 120"
     },
     {
       "id": "61d2b8d0fd4c",
