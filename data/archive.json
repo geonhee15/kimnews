@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-18T10:21:36.144936+00:00",
-  "count": 9846,
+  "updated_at": "2026-08-18T10:54:50.517683+00:00",
+  "count": 9852,
   "items": [
+    {
+      "id": "79d384c0310c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+      "published": "2026-08-18T10:30:00+00:00",
+      "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?"
+    },
+    {
+      "id": "4ad8551a3bef",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "We still don’t know how people are really using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "published": "2026-08-18T10:06:43+00:00",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Scien"
+    },
+    {
+      "id": "ae96f7d7412a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "e스포츠 재단, 11월 예정 'e스포츠 네이션스 컵' 2027년으로 연기",
+      "link": "https://zdnet.co.kr/view/?no=20260818183531",
+      "published": "2026-08-18T09:40:01+00:00",
+      "summary": "[지디넷코리아]올해 11월 사우디아라비아에서 열릴 예정이던 100여 개국 규모의 국가대항 글로벌 e스포츠 대회가 지역 정세 불안정을 이유로 1년 연기됐다.e스포츠 재단(EF)은 오는 11월 사우디아라비아 리야드에서 개최할 계획이던 'e스포츠 네이션스 컵(ENC)'을 다음해 11월로 연기한다고 18일 밝혔다.EF 측은 중동 지역 정세 전반에 대한 검토와 주요 이해관계자 간의 협의를 거쳐 참가국 대표팀과 파트너사, 팬들의 안정성과 예측 가능성을 확보하기 위해 일정 조정을 결정했다고 설명했다.개최 일정"
+    },
     {
       "id": "1681dfaf77a8",
       "source": "AI타임스",
@@ -12,6 +45,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214052",
       "published": "2026-08-18T09:38:40+00:00",
       "summary": "알리바바가 텍스트 한 줄만으로 작곡부터 편곡, 가사 작성, 보컬까지 완성된 음악을 만들어주는 AI 음악 생성 모델을 공개했다. 알리바바가 오디오·음성 분야를 넘어 음악 제작 전 과정을 자동화하는 전용 생성 모델을 선보인 것은 이번이 처음으로, AI 사업 영역을 음악 콘텐츠 분야까지 확대하는 움직임으로 풀이된다.알리바바는 17일(현지시간) AI 음악 생성 모델 ‘해피쉬림프(HappyShrimp) 1.0’의 베타 테스트를 시작했다. 사용자는 감정이나 스토리, 원하는 음악 장르 등 추상적인 아이디어를 "
+    },
+    {
+      "id": "eb846d8ca1f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'모두의 AI' 공모 마감…네이버·코난 불참 속 통신 3사·AI 기업 총출동",
+      "link": "https://zdnet.co.kr/view/?no=20260818174532",
+      "published": "2026-08-18T09:25:50+00:00",
+      "summary": "[지디넷코리아]정부가 전 국민 대상 무료 인공지능(AI) 챗봇을 만드는 '모두의 AI' 사업 공모가 오늘 마감하는 가운데 앞서 후보로 거론된 네이버클라우드와 코난테크놀로지는 불참한 것으로 확인됐다. 범용 AI 서비스보다는 이미 확보한 산업별 고객과 레퍼런스를 기반으로 기업·공공 시장에 AI를 공급하고 사업화하는 데 힘을 쏟는 전략을 택한 것으로 풀이된다.18일 업계에 따르면 네이버클라우드와 코난테크놀로지는 이날 오후 5시 마감되는 모두의 AI 사업에 지원하지 않기로 결정했다.양사는 최근 국방·제조"
     },
     {
       "id": "9cdf0eebbe4c",
@@ -89,6 +133,17 @@
       "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
       "published": "2026-08-18T09:00:00+00:00",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers."
+    },
+    {
+      "id": "66eb4b49d2d0",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict tha"
     },
     {
       "id": "19340b71269c",
@@ -1057,6 +1112,17 @@
       "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "published": "2026-08-17T22:06:14+00:00",
       "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html Comments URL: https://news.ycombinator.com/item?id=49338328 Points: 203 # Comments: 86"
+    },
+    {
+      "id": "39d25d081258",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "published": "2026-08-17T22:01:17+00:00",
+      "summary": "Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera Comments URL: https://news.ycombinator.com/item?id=49338285 Points: 201 # Comments: 47"
     },
     {
       "id": "e2f7a824032e",
