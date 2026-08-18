@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-18T13:28:40.915069+00:00",
-  "count": 9865,
+  "updated_at": "2026-08-18T14:06:46.507077+00:00",
+  "count": 9871,
   "items": [
+    {
+      "id": "6c8b265de5d1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "published": "2026-08-18T14:00:00+00:00",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible."
+    },
+    {
+      "id": "1d508a80b7d7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "published": "2026-08-18T13:50:30+00:00",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+    },
+    {
+      "id": "3f5226f1b6e3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "published": "2026-08-18T13:45:40+00:00",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
+    },
+    {
+      "id": "769b4d930552",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+      "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+      "published": "2026-08-18T13:28:51+00:00",
+      "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
+    },
+    {
+      "id": "299a7258f7e0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "published": "2026-08-18T13:00:04+00:00",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+    },
     {
       "id": "4fc25376f975",
       "source": "The Verge",
@@ -1574,6 +1629,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260817131920",
       "published": "2026-08-17T15:00:03+00:00",
       "summary": "[지디넷코리아]기존 항암제 구조에서 질소 원자를 바꾸는 방법으로 새로운 신약 후보 물질을 만들 수 있는 길이 열렸다. 연구결과는 세계 3대 학술지 가운데 하나인 네이처에 18일 0시(KST) 게재됐다.과학기술정보통신부는 홍승우 기초과학연구원(IBS) 분자활성 촉매반응 연구단장 직무대행 연구팀이 피리딘 구조 내 질소의 위치 변경(원하는 위치에 새 질소를 넣고 기존 질소는 제거) 방식으로, 주변 치환기의 상대적 위치를 조절하는 ‘질소 원자 전위’ 합성법을 개발했다고 밝혔다.피리딘(Pyridine)은 "
+    },
+    {
+      "id": "81b181d6743d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "published": "2026-08-17T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "e27bf60a9f64",
