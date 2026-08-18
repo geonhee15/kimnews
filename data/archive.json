@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-18T09:04:37.619633+00:00",
-  "count": 9834,
+  "updated_at": "2026-08-18T09:47:21.329929+00:00",
+  "count": 9843,
   "items": [
+    {
+      "id": "1681dfaf77a8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알리바바, ‘해피쉬림프 1.0’ 베타 공개...음악 AI 시장 첫 발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214052",
+      "published": "2026-08-18T09:38:40+00:00",
+      "summary": "알리바바가 텍스트 한 줄만으로 작곡부터 편곡, 가사 작성, 보컬까지 완성된 음악을 만들어주는 AI 음악 생성 모델을 공개했다. 알리바바가 오디오·음성 분야를 넘어 음악 제작 전 과정을 자동화하는 전용 생성 모델을 선보인 것은 이번이 처음으로, AI 사업 영역을 음악 콘텐츠 분야까지 확대하는 움직임으로 풀이된다.알리바바는 17일(현지시간) AI 음악 생성 모델 ‘해피쉬림프(HappyShrimp) 1.0’의 베타 테스트를 시작했다. 사용자는 감정이나 스토리, 원하는 음악 장르 등 추상적인 아이디어를 "
+    },
+    {
+      "id": "9cdf0eebbe4c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미니맥스, 5분 음악 생성 오픈웨이트 모델 '뮤직3' 공개…\"즉시 서비스 적용 가능\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214055",
+      "published": "2026-08-18T09:22:28+00:00",
+      "summary": "미니맥스가 가사와 음악 설명만 입력하면 최대 5분 길이의 완성된 음악을 한 번에 생성하는 오픈웨이트 모델을 공개했다. 특히 모델 가중치와 추론 코드, 서버 구축 방법까지 제공해 연구용 데모를 넘어 개발자와 기업이 즉시 실제 서비스에 적용할 수 있도록 한 것이 특징이다.미니맥스는 17일 텍스트-투-뮤직(text-to-music) 모델 ‘미니맥스-뮤직3(MiniMax-Music3)’를 공개했다.사용자는 가사와 음악에 대한 상세한 설명을 입력할 수 있으며, 모델은 이를 바탕으로 최대 5분 길이의 스테레"
+    },
+    {
+      "id": "fa7a5539135b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "유니트리, 상하이 상장 직전 신형 로봇 ‘슈퍼맨’ 공개...\"우사인 볼트보다 빨라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214068",
+      "published": "2026-08-18T09:10:45+00:00",
+      "summary": "유니트리가 상하이 증시 상장을 이틀 앞두고 고속 주행과 도약 성능을 앞세운 신형 휴머노이드 로봇 ‘슈퍼맨(Superman)’을 공개했다. 유니트리가 17일 공개한 슈퍼맨은 3개월에 걸친 개발 끝에 완성됐다.제자리높이뛰기에서 2m를 기록하고, 최고 이동 속도는 초속 12.66m에 달한다. 시속으로는 45.6km로, 우사인 볼트가 기록한 순간 인간 최고 속도를 웃도는 수준이다.다만 유니트리는 현재 슈퍼맨이 개발이 진행 중인 시제품이라는 점을 강조했다. 앞으로 수개월 동안 주행 성능과 동작 안정성 등을"
+    },
+    {
+      "id": "9b1fc73ab199",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "리만 가설에 도전한 클로드의 놀라운 결과 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/-raeMYTV1lg",
+      "published": "2026-08-18T09:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f914358684ee",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "카카오페이증권은 Codex를 어떻게 활용할까? | OpenAI × AX 인재전쟁",
+      "link": "https://www.youtube.com/watch?v=hFrTbX7FRu8",
+      "published": "2026-08-18T09:00:06+00:00",
+      "summary": ""
+    },
     {
       "id": "cc682400ee5c",
       "source": "The Verge",
@@ -23,6 +78,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214079",
       "published": "2026-08-18T09:00:00+00:00",
       "summary": "앤트로픽이 프론티어 AI 시스템의 위험성과 안전 조치를 종합적으로 다룬 '2026년 8월 위험 보고서(Risk Report)'를 15일(현지시간) 발간했다. 이번 보고서에서 앤트로픽은 고위험 환경에서의 AI 정렬(Misalignment) 위험 등급을 기존 '매우 낮음(Very Low)'에서 '낮음(Low)'으로 상향 조정하며 내부 사내 연구 및 개발 과정에서의 안전 통제 실태와 결함 사례를 상세히 공개했다.이번 위험 등급 상향은 AI에게 높은 권한을 부여하는 고위험 환경에서 모델이 인간의 의도와 "
+    },
+    {
+      "id": "9b99b1651ca6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "published": "2026-08-18T09:00:00+00:00",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers."
     },
     {
       "id": "19340b71269c",
@@ -47,6 +113,17 @@
       "summary": "온라인 서점으로 출발한 아마존이 AI 모델 학습에 활용할 데이터를 확보하기 위해 희귀 서적을 대량으로 사들인 뒤 제본을 뜯고 스캔하고 있다는 정황이 포착됐다. 인터넷에 공개된 고품질 텍스트 데이터가 한계에 이르고 AI가 생성한 콘텐츠를 반복 학습하면 모델 성능이 저하될 수 있다는 우려가 커지면서, 온라인에서 구하기 어려운 절판·희귀 서적이 새로운 데이터 공급원으로 떠오르고 있다. 404미디어는 17일(현지시간) 추적 장치를 부착한 희귀 서적의 이동 경로를 추적한 결과, 아마존의 라스베이거스 시설인"
     },
     {
+      "id": "2282d2ffdfa8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오라클-AWS 협력 확대…'오라클 AI 데이터베이스@AWS' 22개 리전으로 확장",
+      "link": "https://zdnet.co.kr/view/?no=20260818174214",
+      "published": "2026-08-18T08:42:21+00:00",
+      "summary": "[지디넷코리아]오라클과 아마존웹서비스(AWS)가 전략적 협력을 한층 강화하며 기업의 데이터베이스 현대화 시장 공략에 속도를 낸다. 양사는 오라클 데이터베이스 워크로드의 클라우드 이전을 지원하기 위해 장기 협력 계약을 확대하고, '오라클 AI 데이터베이스@AWS' 서비스 기능도 대폭 강화했다.오라클은 '오라클 AI 데이터베이스@AWS'에서 '엑사스케일 인프라스트럭처 기반 오라클 엑사데이터 데이터베이스 서비스'를 정식 출시했다고 18일 밝혔다. 이를 통해 기업은 데이터베이스 규모와 관계없이 엑사데이터"
+    },
+    {
       "id": "4e0e06860f15",
       "source": "AI타임스",
       "kind": "article",
@@ -56,6 +133,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214073",
       "published": "2026-08-18T08:41:54+00:00",
       "summary": "소프트뱅크가 건설 현장에서 중장비를 자율적으로 운용할 수 있는 로봇 기술을 확보하기 위해 스위스 건설 로봇 스타트업 그라비스 로보틱스(Gravis Robotics)에 2억달러(약 2824억원)를 투자했다. 손정의 회장이 AI와 로봇을 차세대 성장 동력으로 낙점한 가운데 건설·산업 현장까지 로봇 사업 영역을 확대하는 움직임으로 풀이된다.그라비스 로보틱스는 17일(현지시간) 2억달러 규모의 시리즈A 투자를 유치했다고 밝혔다. 투자에 참여한 소프트뱅크는 그라비스의 기업 가치는 공개하지 않았다.앞서 블룸"
+    },
+    {
+      "id": "1cc302c94240",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "폴리마켓, 한국서 접속차단...\"사실상 불법 도박”",
+      "link": "https://zdnet.co.kr/view/?no=20260818173958",
+      "published": "2026-08-18T08:39:58+00:00",
+      "summary": "[지디넷코리아]해외 예측시장 플랫폼 ‘폴리마켓(Polymarket)’이 국내에서 사행성이 인정돼 접속이 차단된다. 정치 경제 스포츠 등 미래 사건의 결과를 두고 돈을 거는 구조가 사실상 불법 도박에 해당할 수 있다는 판단이다.방송미디어통신심의위원회는 18일 통신심의소위원회를 열고 폴리마켓에 대해 시정요구인 접속차단을 의결했다.방미심위는 폴리마켓이 형법상 도박을 방조하거나 도박장소 개설을 목적으로 하는 정보에 해당하고, 국민체육진흥법상 금지된 유사행위에도 해당한다고 판단했다.폴리마켓은 정치와 경제,"
+    },
+    {
+      "id": "6099c4728e71",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "군 GOP 토사재해 예방에 출연연 '예측모델' 활용",
+      "link": "https://zdnet.co.kr/view/?no=20260818173012",
+      "published": "2026-08-18T08:30:12+00:00",
+      "summary": "[지디넷코리아]한국지질자원연구원(KIGAM)이 개발한 산사태·토석류 예측기술이 GOP(General Outpost, 일반전초) 지역 토사재해를 사전에 예측하고 적극 대응하는데 활용될 전망이다. 당장은 물리적인 데이터를 기반으로 하지만, 추후 인공지능(AI)를 접목한 모델 개발을 추진한다.KIGAM은 육군본부와 접적지역 토사재해의 과학적 재난대응 체계를 마련하기 위해 업무협약을 체결했다고 18일 밝혔다.이날 협약 체결에는 KIGAM 측에서 권이균 원장, 육군 측에서는 하헌철 군수참모부장(소장)이 참"
     },
     {
       "id": "36c3595a3a3b",
