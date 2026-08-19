@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-19T19:06:54.818633+00:00",
-  "count": 10045,
+  "updated_at": "2026-08-19T19:37:41.722759+00:00",
+  "count": 10050,
   "items": [
+    {
+      "id": "f88560c1374b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "published": "2026-08-19T19:30:00+00:00",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool."
+    },
+    {
+      "id": "68db4de113be",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "published": "2026-08-19T19:11:40+00:00",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance."
+    },
     {
       "id": "9dfe5fcd738f",
       "source": "TechCrunch",
@@ -23,6 +45,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "published": "2026-08-19T19:00:00+00:00",
       "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks"
+    },
+    {
+      "id": "54ff6f9a2ebf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
     },
     {
       "id": "d930ed802726",
@@ -100,6 +133,17 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
       "published": "2026-08-19T17:50:23+00:00",
       "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "887d9a98d990",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenRouter is joining Stripe",
+      "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "published": "2026-08-19T17:32:38+00:00",
+      "summary": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 241 # Comments: 168"
     },
     {
       "id": "439d127000a7",
@@ -573,6 +617,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214117",
       "published": "2026-08-19T10:17:03+00:00",
       "summary": "'챗GPT'가 대화 과정에서 욕설이나 거친 표현을 사용하는 사례가 잇달아 공유되며 논란이 일고 있다. 18일(현지시간) 비즈니스 인사이더에 따르면, 레딧과 X 등에서는 평소보다 노골적인 비속어를 사용하는 챗GPT의 답변 캡처 게시물이 계속 등장하고 있다.한 이용자가 공유한 요리 레시피에서는 챗GPT가 재료의 양을 설명하면서 강한 욕설을 사용했다. 또 깃허브 장애를 설명하는 과정에서는 \"GitHub is having a shitfit(깃허브가 지금 X랄하고 있다)\"이라는 거친 표현까지 등장한 것으로"
+    },
+    {
+      "id": "d90e879cd870",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "link": "https://theremin.bizibah.com/",
+      "published": "2026-08-19T10:15:00+00:00",
+      "summary": "Article URL: https://theremin.bizibah.com/ Comments URL: https://news.ycombinator.com/item?id=49359425 Points: 202 # Comments: 74"
     },
     {
       "id": "b43773463812",
