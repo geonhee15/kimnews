@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-19T11:59:36.229317+00:00",
-  "count": 9996,
+  "updated_at": "2026-08-19T12:57:01.659196+00:00",
+  "count": 10005,
   "items": [
+    {
+      "id": "f60fec8864d9",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "published": "2026-08-19T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve i"
+    },
+    {
+      "id": "10d8bc91923f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "published": "2026-08-19T12:00:00+00:00",
+      "summary": "It's the data, stupid."
+    },
+    {
+      "id": "e4a4ad38868a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "published": "2026-08-19T12:00:00+00:00",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together"
+    },
     {
       "id": "b5cde384a41b",
       "source": "The Verge",
@@ -36,6 +69,17 @@
       "summary": "The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your pet. I attach it to my corgi Jelly's collar via a matching silicone holder. Have I"
     },
     {
+      "id": "6f2e5012baf5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "테스트뮤 AI, AI 에이전트 출시 전 검증을 위한 에이전트 어슈어런스 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260819201003",
+      "published": "2026-08-19T11:10:03+00:00",
+      "summary": "[지디넷코리아] 에이전트 어슈어런스, 고객과 대화하는 AI 에이전트와 시스템에서 작업을 수행하는 에이전트 모두를 검증하고 코드에서 직접 테스트 시나리오를 생성하며, 모든 작업을 실제 증거에 대비해 평가하며 검증할 수 없었던 모든 항목에 대해 보증 격차를 보고 샌프란시스코 및 인도 노이다, 2026년 8월 19일 /PRNewswire/ -- 세계 최초의 에이전틱 AI 네이티브 품질공학 플랫폼 테스트뮤 AI(TestMu AI, 이전 명칭 'LambdaTest')가 AI 에이전트를 출시하는 모든 엔지니"
+    },
+    {
       "id": "e51ac6af0af2",
       "source": "Wired",
       "kind": "article",
@@ -56,6 +100,17 @@
       "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
       "published": "2026-08-19T11:00:00+00:00",
       "summary": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant."
+    },
+    {
+      "id": "6452409ded89",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글 실험작 '믹스보드', 9월 28일 종료",
+      "link": "https://zdnet.co.kr/view/?no=20260819195535",
+      "published": "2026-08-19T10:55:35+00:00",
+      "summary": "[지디넷코리아]구글(Google)이 실험적 창작 도구 '믹스보드(Mixboard)'를 오는 9월 28일 종료한다. 믹스보드팀은 이용자에게 보낸 공지에서 \"믹스보드는 새로운 창작 표현 방식을 시험하기 위해 만든 구글 랩스(Google Labs)의 실험 프로젝트였다\"며 종료 사실을 알렸다.믹스보드는 이미지 생성과 편집, 아이디어 확장을 시도할 수 있는 실험형 도구다. 구글은 \"이번 실험에서 많은 것을 배웠으며, 그 결과를 향후 구글 랩스의 새로운 탐색과 창작 도구 개발에 반영할 계획\"이라고 밝혔다.이"
     },
     {
       "id": "1c01418662bb",
@@ -157,6 +212,28 @@
       "summary": "중국의 로봇 제조업체 유니트리 로보틱스가 미국 정부와 군의 지원으로 개발된 사족보행 로봇 기술을 기반으로 제품을 상용화하며 세계 시장을 빠르게 장악한 것으로 알려졌다. 18일(현지시간) 로이터에 따르면, 유니트리의 대표 제품 중 하나인 사족보행 로봇 ‘Go2’는 미국 육군 연구소(ARL)가 자금을 지원한 로봇 연구와 밀접한 기술적 연관성을 갖고 있다.미국 국방 기술 관계자와 연구에 참여했던 연구자들은 유니트리의 로봇 설계가 미 육군이 지원한 연구 성과와 MIT 및 펜실베이니아대학교 연구진의 기술을"
     },
     {
+      "id": "227ea812739c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "기후부, 최대 2천만원 지원 ‘대한민국 물산업 혁신 창업대전’ 공모",
+      "link": "https://zdnet.co.kr/view/?no=20260819182328",
+      "published": "2026-08-19T09:23:28+00:00",
+      "summary": "[지디넷코리아]기후에너지환경부는 기후위기 대응을 위한 물산업 혁신기술과 창의적인 아이디어를 발굴하기 위해 ‘2026 대한민국 물산업 혁신 창업대전(STARTUP WATER 2026)’ 참가자를 20일부터 10월 19일까지 모집한다.올해로 7회째인 ‘대한민국 물산업 혁신 창업대전’은 홍수·가뭄 등 기후위기에 따른 물 문제 해결과 물관리 디지털 전환, 물·에너지 융합 등에 대한 국민의 창의적인 아이디어를 모으고 혁신적인 물기업을 선제적으로 발굴하기 위해 마련됐다.공모전은 일반인을 대상으로 한 ‘아이디"
+    },
+    {
+      "id": "17f3f53cc592",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마일게이트, 신작 MMORPG '이클립스' 캐릭터 사전 생성 개시",
+      "link": "https://zdnet.co.kr/view/?no=20260819180456",
+      "published": "2026-08-19T09:15:02+00:00",
+      "summary": "[지디넷코리아]스마일게이트가 서비스 예정인 신작 MMORPG '이클립스'가 정식 출시에 앞서 캐릭터 선점 절차에 돌입했다.스마일게이트는 다음달 10일 출시를 앞둔 MMORPG '이클립스: 더 어웨이크닝(개발사 엔픽셀, 이하 이클립스)'의 캐릭터 사전 생성을 시작했다고 19일 밝혔다.이용자는 공식 홈페이지 내 사전 생성 페이지에서 원하는 서버를 선택하고 캐릭터명과 클래스를 미리 등록할 수 있다.이번 사전 생성에는 주요 등장인물 명칭을 딴 '헤스카리온', '바르카디온', '발키리아', '세라하' 등 "
+    },
+    {
       "id": "e812710e8e78",
       "source": "AI타임스",
       "kind": "article",
@@ -166,6 +243,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214132",
       "published": "2026-08-19T09:15:00+00:00",
       "summary": "기자가 직접 취재해 쓴 기사의 번역을 클로드에게 맡겼다고 해보자. 소설가는 자기 원고를 다듬었고, 직장인은 자신이 만든 보고서를 영어로 옮겼다. 연구자는 질문을 세우고 분석해 쓴 논문을 번역했다.얼마 뒤 회사·출판사·대학이 묻는다. \"이 글, AI가 쓴 것 아닙니까?\"앤트로픽의 클로드 텍스트 워터마크는 이러한 불안을 현실로 만들었다.워터마크는 숨은 문자나 사용자 꼬리표가 아니다. 모델이 다음 단어를 고를 때 뜻을 크게 바꾸지 않는 후보 사이의 선택에 비밀키와 앞 문맥을 이용해 통계적 패턴을 쌓는다"
+    },
+    {
+      "id": "bec089cf1949",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"PQC와 제로트러스트 결합\"…SGA솔루션즈·키페어 '맞손'",
+      "link": "https://zdnet.co.kr/view/?no=20260819181447",
+      "published": "2026-08-19T09:14:47+00:00",
+      "summary": "[지디넷코리아]통합 IT 보안 전문기업 SGA솔루션즈(대표 최영철)가 제로트러스트와 양자내성암호(PQC) 기술을 결합해 보안 모델을 고도화하기 위해 PQC 전문 기업 키페어(대표 이창근·이정엽)와 힘을 합치기로 했다.SGA솔루션즈는 키페어와 ‘PQC 제로트러스트 사업 협력’을 위한 양해각서(MOU)를 체결했다고 19일 밝혔다. 이번 협약을 통해 양사는 공동 사업 발굴, 영업·마케팅 협력 및 판매 채널 연계 등을 추진한다. 아울러 제품·기술 정보를 교류하고 SGA솔루션즈의 제로트러스트 플랫폼과 키페"
+    },
+    {
+      "id": "1a7dfc0d457b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "프로디지 테크노베이션스, AI 기반 스토리지 시대를 이끌 업계 최초의 UFS 5.0 프로토콜 엑서사이저 및 애널라이저 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260819181003",
+      "published": "2026-08-19T09:10:03+00:00",
+      "summary": "[지디넷코리아] 벵갈루루, 인도, 2026년 8월 19일 /PRNewswire/ -- 프로토콜 분석 솔루션 분야의 선도기업 프로디지 테크노베이션스(Prodigy Technovations Pvt. Ltd)가 PGY-UFS5-EX-PA의 성공적인 테스트와 출시를 발표했다. 이 획기적인 도구는 급성장하는 AI 기반 생태계에 필요한 차세대 플래시 메모리 인터페이스의 개발을 가속화하기 위해 설계된, 업계 최초의 UFS 5.0 프로토콜 엑서사이저 및 애널라이저다."
     },
     {
       "id": "5bc3437272e3",
