@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-19T16:45:51.505585+00:00",
-  "count": 10027,
+  "updated_at": "2026-08-19T17:07:55.653984+00:00",
+  "count": 10029,
   "items": [
+    {
+      "id": "6c1e92450f48",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta AI is getting a Mac app",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "published": "2026-08-19T17:00:00+00:00",
+      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also suppor"
+    },
+    {
+      "id": "dcefe71c28c0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "published": "2026-08-19T16:44:07+00:00",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online."
+    },
     {
       "id": "50f8e33035f9",
       "source": "Wired",
