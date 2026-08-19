@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-19T09:58:22.220163+00:00",
-  "count": 9983,
+  "updated_at": "2026-08-19T10:30:39.281906+00:00",
+  "count": 9988,
   "items": [
+    {
+      "id": "7fb922f8a29b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"챗GPT가 욕을 한다?\"...모델 변경 후 비속어 사용 급증 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214117",
+      "published": "2026-08-19T10:17:03+00:00",
+      "summary": "'챗GPT'가 대화 과정에서 욕설이나 거친 표현을 사용하는 사례가 잇달아 공유되며 논란이 일고 있다. 18일(현지시간) 비즈니스 인사이더에 따르면, 레딧과 X 등에서는 평소보다 노골적인 비속어를 사용하는 챗GPT의 답변 캡처 게시물이 계속 등장하고 있다.한 이용자가 공유한 요리 레시피에서는 챗GPT가 재료의 양을 설명하면서 강한 욕설을 사용했다. 또 깃허브 장애를 설명하는 과정에서는 \"GitHub is having a shitfit(깃허브가 지금 X랄하고 있다)\"이라는 거친 표현까지 등장한 것으로"
+    },
+    {
+      "id": "b43773463812",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Framework gave its 12-inch laptop some hardware upgrades",
+      "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+      "published": "2026-08-19T10:14:26+00:00",
+      "summary": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework Laptop 12 now starts at $699 - $100 less than t"
+    },
+    {
+      "id": "699ada1ee609",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 안드로이드용 크롬에 ‘제미나이’ 탑재...모바일·실생활로 생태계 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214118",
+      "published": "2026-08-19T10:03:48+00:00",
+      "summary": "구글이 안드로이드용 크롬 브라우저에 ‘제미나이’를 통합하며 모바일 웹 브라우징의 AI 전환에 속도를 내고 있다. 구글은 18일(현지시간) 미국 내 모든 안드로이드 사용자를 대상으로 제미나이 인 크롬(Gemini in Chrome)을 확대 제공하고, 유료 구독자에게는 웹에서 반복적인 작업을 직접 수행하는 ‘자동 탐색(Auto browse)’ 기능까지 선보였다.미국의 모든 안드로이드 사용자는 이제 크롬에서 별도의 AI 앱을 실행하거나 다른 탭으로 이동하지 않고도 제미나이를 이용할 수 있다. 안드로이드"
+    },
+    {
+      "id": "44199b5edff8",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "중국 모델들이 데이터를 빼낼 수 있었던 이유 ㄷㄷ;;;",
+      "link": "https://www.youtube.com/shorts/v3MtZ6Tt3jo",
+      "published": "2026-08-19T10:00:07+00:00",
+      "summary": ""
+    },
     {
       "id": "35c87a4ea5df",
       "source": "AI타임스",
@@ -969,6 +1013,17 @@
       "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
       "published": "2026-08-18T16:48:26+00:00",
       "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a si"
+    },
+    {
+      "id": "f5df27e4749a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple announces changes for apps in the European Union",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "published": "2026-08-18T16:21:34+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/ Comments URL: https://news.ycombinator.com/item?id=49348055 Points: 201 # Comments: 282"
     },
     {
       "id": "18feaa7367cd",
