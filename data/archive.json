@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-19T13:42:13.170649+00:00",
-  "count": 10007,
+  "updated_at": "2026-08-19T14:17:19.637253+00:00",
+  "count": 10009,
   "items": [
+    {
+      "id": "be6f29d805b4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This robot vacuum solves my kitchen stool problem",
+      "link": "https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review",
+      "published": "2026-08-19T14:00:00+00:00",
+      "summary": "Robot vacuums are great at keeping your floors clean, but there are a few areas they fall down on the job - stairs being one. Another is chairs and stools. You know the scenario: You have a row of stools at a kitchen table, or chairs tucked under a dining table, and the robovac j"
+    },
     {
       "id": "85b69a41b09e",
       "source": "ZDNet Korea",
@@ -694,6 +705,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214105",
       "published": "2026-08-19T05:37:43+00:00",
       "summary": "삼성전자는 지난해 인수한 플랙트그룹의 냉난방공조(HVAC) 생산라인을 광주사업장에 새롭게 구축한다고 19일 밝혔다.삼성전자는 2400억원을 투자해 광주광역시 북구에 위치한 광주사업장 제3캠퍼스에 연면적 2만1800㎡(약 6600평) 규모의 공조 제품 생산라인을 건립한다.이번 생산라인은 플랙트그룹의 15번째 글로벌 생산시설로 AI 데이터센터 액체 냉각 시스템의 핵심 장비인 냉각수 분배장치(CDU) 등을 2028년부터 생산할 예정이다. CDU는 건물의 냉방 설비인 칠러와 서버를 직접 냉각하는 콜드 플"
+    },
+    {
+      "id": "5be3f43b4b7b",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "link": "https://huggingface.co/blog/LiquidAI/qad",
+      "published": "2026-08-19T04:48:49+00:00",
+      "summary": ""
     },
     {
       "id": "cab40637d889",
