@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-19T18:37:08.972595+00:00",
-  "count": 10040,
+  "updated_at": "2026-08-19T19:06:54.818633+00:00",
+  "count": 10045,
   "items": [
+    {
+      "id": "9dfe5fcd738f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google launches new study tools for students across Search and Gemini",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+    },
+    {
+      "id": "5b27f0d84b86",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks"
+    },
+    {
+      "id": "d930ed802726",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "published": "2026-08-19T18:46:14+00:00",
+      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users."
+    },
+    {
+      "id": "2246013b1d26",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The summer Math fell to the machines...",
+      "link": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
+      "published": "2026-08-19T18:45:57+00:00",
+      "summary": ""
+    },
     {
       "id": "9188bcb045cf",
       "source": "The Verge",
@@ -320,6 +364,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260819223603",
       "published": "2026-08-19T13:36:03+00:00",
       "summary": "[지디넷코리아]국민 누구나 혁신적인 아이디어만 있으면 창업에 도전할 수 있는 '제2차 모두의 창업 프로젝트' 도전자 모집이 20일부터 시작한다. 다음달 17일 오후 4시에 모집을 마감한다. 모두의 창업 플랫폼을 통해 온라인으로 신청하면된다. 중기부는 21일부터 17개 지역별 오프라인 설명회도 순차적으로 개최한다.19일 중기부에 따르면, 이번 설명회는 1부와 2부로 나눠 진행한다. 1부에서는 ‘2차 모두의 창업’의 추진 방향을 발표하고, 프로젝트를 이끌어갈 더인벤션랩, 고려대학교 등 주요 보육기관이"
+    },
+    {
+      "id": "8e169af89869",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PostgreSQL for Everything",
+      "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "published": "2026-08-19T13:21:21+00:00",
+      "summary": "Article URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/ Comments URL: https://news.ycombinator.com/item?id=49361279 Points: 200 # Comments: 143"
     },
     {
       "id": "85b69a41b09e",
