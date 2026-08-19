@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-19T21:49:24.020450+00:00",
-  "count": 10057,
+  "updated_at": "2026-08-19T22:18:48.552395+00:00",
+  "count": 10060,
   "items": [
+    {
+      "id": "099a773deeb8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "published": "2026-08-19T22:10:46+00:00",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+    },
+    {
+      "id": "1c635dd828bf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월19일] 도메인 특화 AI의 다음 경쟁력은 ‘메모리’…하비, 업무 맥락까지 기억",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214100",
+      "published": "2026-08-19T22:00:00+00:00",
+      "summary": "미국의 대표적인 법률 AI 스타트업 하비가 18일(현지시간) 새로운 플랫폼 ‘하비 II(Harvey II)’를 공개했습니다. 이를 통해 자체 개발한 첫 법률 특화 모델 ‘테넷(Tenet)’과 함께 개인의 업무 방식과 선호를 기억하는 ‘메모리(Memory)’ 기능을 선보였습니다.테넷은 문샷 AI의 오픈웨이트 모델 ‘키미 K3’를 기반으로, 변호사들이 만든 가상 분쟁과 사건 파일을 활용해 법률 업무에 맞게 학습한 모델입니다. 하비는 그동안 오픈AI나 앤트로픽 등의 모델을 업무별로 활용해 왔지만, 테넷"
+    },
+    {
+      "id": "36b95d55a4d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "published": "2026-08-19T21:51:23+00:00",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+    },
     {
       "id": "88a14572133b",
       "source": "TechCrunch",
