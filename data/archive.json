@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T20:31:16.586778+00:00",
-  "count": 10054,
+  "updated_at": "2026-08-19T20:56:43.170032+00:00",
+  "count": 10055,
   "items": [
     {
       "id": "bbb9b65a26a5",
@@ -111,6 +111,17 @@
       "link": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
       "published": "2026-08-19T18:45:57+00:00",
       "summary": ""
+    },
+    {
+      "id": "5b564bf4b5d2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Go 1.27",
+      "link": "https://go.dev/blog/go1.27",
+      "published": "2026-08-19T18:33:49+00:00",
+      "summary": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 258 # Comments: 45"
     },
     {
       "id": "9188bcb045cf",
