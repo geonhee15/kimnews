@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T16:36:09.256690+00:00",
-  "count": 10212,
+  "updated_at": "2026-08-20T17:05:59.796923+00:00",
+  "count": 10215,
   "items": [
+    {
+      "id": "ad3f323b030c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "published": "2026-08-20T17:04:53+00:00",
+      "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments."
+    },
+    {
+      "id": "36886f230bfb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ramp launches its own AI model router, called Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "published": "2026-08-20T16:46:00+00:00",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+    },
     {
       "id": "da1b78869d37",
       "source": "TechCrunch",
@@ -716,6 +738,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214173",
       "published": "2026-08-20T07:59:44+00:00",
       "summary": "엔비디아가 오픈소스 AI 모델 개발에 필요한 고품질 학습 데이터를 공급하는 데이터 라벨링 스타트업 머코어(Mercor)에 대한 투자를 논의하는 것으로 알려졌다. 디 인포메이션은 19일(현지시간) 정통한 소식통을 인용, 엔비디아가 기업 가치 200억달러(약 27조8740억원) 수준으로 추진되는 머코어의 신규 자금 조달 라운드에 투자를 논의하고 있다고 보도했다.기존 투자자인 제너럴 캐털리스트가 이번 라운드를 주도하는 방안도 협의 중인 것으로 전해졌다. 다만 엔비디아가 투자할 구체적인 금액과 전체 조달"
+    },
+    {
+      "id": "46a795466038",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "published": "2026-08-20T07:52:57+00:00",
+      "summary": ""
     },
     {
       "id": "92564ca5a348",
