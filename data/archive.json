@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T13:09:43.427855+00:00",
-  "count": 10190,
+  "updated_at": "2026-08-20T13:57:53.321641+00:00",
+  "count": 10198,
   "items": [
+    {
+      "id": "0553d2c6db69",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
+      "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+      "published": "2026-08-20T13:45:00+00:00",
+      "summary": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas."
+    },
+    {
+      "id": "2edf727f4bac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "프라임마스, 마이크론과 100TB급 CXL 메모리 구현…美DOE 프로젝트 참여",
+      "link": "https://zdnet.co.kr/view/?no=20260820221610",
+      "published": "2026-08-20T13:29:08+00:00",
+      "summary": "[지디넷코리아]국내 팹리스(반도체 설계전문) 프라임마스가 마이크론과 손잡고 100테라바이트(TB)를 넘어서는 컴퓨트 익스프레스 링크(CXL) 기반 풀드 메모리 사업에 나선다. 미국 정부가 지원하는 인공지능(AI)·고성능컴퓨팅(HPC) 프로젝트에 참여해 글로벌 시장 공략을 본격화한다. 올해 관련 제품 양산과 매출 발생을 시작으로 내년 말까지 2억달러(약 2787억원) 매출을 달성한다는 목표다.프라임마스는 20일 경기도 분당 프라임마스코리아 사옥에서 미디어 라운드테이블을 열고 마이크론과 함께 '아바코"
+    },
     {
       "id": "8588f25eb926",
       "source": "TechCrunch",
@@ -14,6 +36,17 @@
       "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach."
     },
     {
+      "id": "42a1c7f0eb1a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "published": "2026-08-20T13:00:35+00:00",
+      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+    },
+    {
       "id": "9e14a6389dde",
       "source": "TechCrunch",
       "kind": "article",
@@ -23,6 +56,17 @@
       "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
       "published": "2026-08-20T13:00:00+00:00",
       "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes."
+    },
+    {
+      "id": "35fde089e6ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코스포 \"닥터나우 금지법 국회 통과...깊은 유감\"",
+      "link": "https://zdnet.co.kr/view/?no=20260820215618",
+      "published": "2026-08-20T12:56:18+00:00",
+      "summary": "[지디넷코리아]국회가 20일 일명 닥터나우 금지법으로 불리는 비대면진료 중개업자의 특수관계 플랫폼 도매업을 금지하는 약사법 개정안을 의결했다. 이날 국회는 본회의를 열고 상임위원회와 법제사법위원회를 거쳐 올라온 법안을 의결했다. 재석 178인 중 찬성 95인, 반대 34인, 기권 49인으로 가결됐다.이 개정안은 일명 닥터나우(비진약품) 방지법으로 불린다. 의약품 도매상이 특수한 관계에 있는 비대면진료 중개업자와 이용 계약을 체결한 약국에 직접 또는 다른 의약품 도매상을 통해 의약품을 판매하지 못하"
     },
     {
       "id": "e6781b947df1",
@@ -45,6 +89,17 @@
       "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
       "published": "2026-08-20T12:11:57+00:00",
       "summary": "Meta said its Muse Spark model is powering the dictation feature."
+    },
+    {
+      "id": "c3ca58300e9d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CES 아시아 언베일드, 2027 CES를 향한 여정 속 홍콩으로 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260820211003",
+      "published": "2026-08-20T12:10:03+00:00",
+      "summary": "[지디넷코리아] 홍콩 일렉트로닉스 페어의 일환으로 진행되는 이번 행사는 홍콩의 혁신 생태계와 CES의 글로벌 네트워크를 잇는 다리 역할을 한다 알링턴, 버지니아, 2026년 8월 20일 /PRNewswire/ -- CES®의 소유자 겸 주최사인 소비자기술협회(Consumer Technology Association, CTA)®가 홍콩 일렉트로닉스 페어 가을 에디션(Hong Kong Electronics Fair Autumn Edition)에서 CES 아시아™ 언베일드 홍콩(CES Asia™ Unv"
     },
     {
       "id": "89e3a471f5bd",
@@ -89,6 +144,28 @@
       "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "published": "2026-08-20T12:00:00+00:00",
       "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare co"
+    },
+    {
+      "id": "ea0795f40c30",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, 이미지 처리 결함 긴급 패치…스파이웨어 악용 우려",
+      "link": "https://zdnet.co.kr/view/?no=20260820204853",
+      "published": "2026-08-20T11:48:53+00:00",
+      "summary": "[지디넷코리아]애플(Apple)이 아이폰과 아이패드, 맥에 영향을 주는 심각한 이미지 처리 취약점을 긴급 패치했다. 애플에 따르면 8월 17일 배포된 이번 보안 업데이트는 이미지 처리 프레임워크 이미지IO(ImageIO)의 결함(CVE-2026-65346)을 바로잡은 것으로, 악의적으로 조작된 이미지를 처리할 때 임의 코드가 실행될 수 있는 문제였다.이 결함은 정수 오버플로(integer overflow) 유형으로, 프로그램이 처리할 수 있는 범위를 넘는 값을 계산하도록 유도해 메모리를 오작동시키"
+    },
+    {
+      "id": "c1850dc4bdfc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 독파모 2차 평가가 남긴 것",
+      "link": "https://zdnet.co.kr/view/?no=20260820204530",
+      "published": "2026-08-20T11:45:30+00:00",
+      "summary": "[지디넷코리아]필자는 지난 10일 이 코너에서 정부의 독자 파운데이션 모델(이하 독파모) 프로젝트 2차 평가에 대해 썼다. 당시는 결과 발표를 앞둔 시점이었고, 필자는 벤치마크 점수보다 실제 쓰임새를 물어야 한다고 주장했다. 그 뒤 열흘 사이에 많은 일이 일어났다.독파모 2차 평가 결과는 그제 18일 나왔다. 그 사이 벤치마크 점수만 겨냥해 모델을 튜닝했다는 '벤치맥싱(benchmaxing)' 공방이 업계를 달궜고, 평가 기관인 아티피셜 애널리시스(Artificial Analysis)가 직접 입장"
     },
     {
       "id": "fe828e1386d1",
@@ -144,6 +221,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260820193307",
       "published": "2026-08-20T10:34:11+00:00",
       "summary": "[지디넷코리아][싱가포르=장유미 기자] 클라우데라가 퍼블릭 클라우드와 온프레미스에 흩어진 기업 데이터를 인공지능(AI)에 활용할 수 있도록 하이브리드 전략을 강화한다. 모든 데이터를 한곳으로 옮기기보다 워크로드별로 적합한 인프라를 선택할 수 있게 해 기업용 AI 시장 공략에 속도를 낸다는 구상이다.찰스 샌즈버리 클라우데라 최고경영자(CEO)는 20일(현지시간) 싱가포르에서 열린 연례 데이터·AI 컨퍼런스 '이볼브26 싱가포르(EVOLVE26 Singapore)' 기조연설에서 \"세계 최대 규모 기업"
+    },
+    {
+      "id": "0caf2eda45de",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "published": "2026-08-20T10:08:52+00:00",
+      "summary": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html Comments URL: https://news.ycombinator.com/item?id=49372583 Points: 282 # Comments: 90"
     },
     {
       "id": "8237d219e464",
