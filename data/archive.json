@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-20T19:31:52.018713+00:00",
-  "count": 10228,
+  "updated_at": "2026-08-20T20:02:00.993195+00:00",
+  "count": 10232,
   "items": [
+    {
+      "id": "eb8c527e46d4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mark buys a castle",
+      "link": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+      "published": "2026-08-20T19:55:40+00:00",
+      "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland."
+    },
     {
       "id": "541f6382a12b",
       "source": "TechCrunch",
@@ -608,6 +619,17 @@
       "summary": "앤트로픽이 ‘클로드 코워크’를 웹과 모바일로 확대하고 구글 워크스페이스와의 연동 기능을 강화했다. 이에 따라 사용자는 데스크톱에서 시작한 작업을 웹이나 스마트폰에서 이어서 확인하고 수정할 수 있게 됐으며, 지메일·구글 드라이브·구글 캘린더 등 업무용 서비스까지 클로드가 직접 활용할 수 있게 됐다.앤트로픽은 18일(현지시간) 클로드 코워크의 웹·모바일 베타 기능을 출시했다.기존 코워크는 주로 데스크톱 앱을 중심으로 제공됐지만, 이제 데스크톱과 웹, 모바일 앱, 크롬 브라우저의 사이드 패널에서 동일한"
     },
     {
+      "id": "f7671ae3ebb0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'클로드 코워크' 웹·모바일 확장...구글 워크스페이스 연동 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214171",
+      "published": "2026-08-20T09:04:49+00:00",
+      "summary": "앤트로픽이 ‘클로드 코워크’를 웹과 모바일로 확대하고 구글 워크스페이스와의 연동 기능을 강화했다. 이에 따라 사용자는 데스크톱에서 시작한 작업을 웹이나 스마트폰에서 이어서 확인하고 수정할 수 있게 됐으며, 지메일·구글 드라이브·구글 캘린더 등 업무용 서비스까지 클로드가 직접 활용할 수 있게 됐다.앤트로픽은 18일(현지시간) 클로드 코워크의 웹·모바일 베타 기능을 출시했다.기존 코워크는 주로 데스크톱 앱을 중심으로 제공됐지만, 이제 데스크톱과 웹, 모바일 앱, 크롬 브라우저의 사이드 패널에서 동일한"
+    },
+    {
       "id": "cac7a21ff9a5",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -713,6 +735,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "세레브라스, 차세대 AI 가속기 'CS-4' 공개…\"GPU 대비 최대 30배 빠른 추론 성능\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214166",
+      "published": "2026-08-20T08:43:14+00:00",
+      "summary": "세레브라스가 차세대 AI 가속기 시스템 ‘CS-4’를 공개했다. 자체 개발한 웨이퍼 스케일 프로세서 3개를 하나의 시스템에 결합하고 전력·냉각·입출력(I/O) 구조까지 전면 재설계해, 기존 GPU 기반 시스템보다 최대 30배 빠른 AI 추론 성능을 구현했다. 세레브라스가 19일(현지시간) 공개한 CS-4는 4세대 AI 시스템으로, 자체 개발한 ‘웨이퍼 스케일 엔진 3 터보(WSE-3 Turbo)’ 프로세서 3개를 기반으로 한다.WSE-3 터보는 TSMC의 5나노미터(nm) 공정으로 생산되며, 세레"
+    },
+    {
+      "id": "c342d9ef54e7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세레브라스, 차세대 AI 가속기 'CS-4' 공개…\"GPU 대비 30배 빨라\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214166",
       "published": "2026-08-20T08:43:14+00:00",
       "summary": "세레브라스가 차세대 AI 가속기 시스템 ‘CS-4’를 공개했다. 자체 개발한 웨이퍼 스케일 프로세서 3개를 하나의 시스템에 결합하고 전력·냉각·입출력(I/O) 구조까지 전면 재설계해, 기존 GPU 기반 시스템보다 최대 30배 빠른 AI 추론 성능을 구현했다. 세레브라스가 19일(현지시간) 공개한 CS-4는 4세대 AI 시스템으로, 자체 개발한 ‘웨이퍼 스케일 엔진 3 터보(WSE-3 Turbo)’ 프로세서 3개를 기반으로 한다.WSE-3 터보는 TSMC의 5나노미터(nm) 공정으로 생산되며, 세레"
@@ -3609,6 +3642,17 @@
       "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
       "published": "2026-08-18T16:48:26+00:00",
       "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a si"
+    },
+    {
+      "id": "297f18bbb292",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Git at any scale",
+      "link": "https://cursor.com/blog/git-at-any-scale",
+      "published": "2026-08-18T16:26:56+00:00",
+      "summary": "Article URL: https://cursor.com/blog/git-at-any-scale Comments URL: https://news.ycombinator.com/item?id=49348141 Points: 208 # Comments: 48"
     },
     {
       "id": "ec37a2e9ca5e",
