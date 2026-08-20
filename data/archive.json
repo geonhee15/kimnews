@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-20T15:58:20.688779+00:00",
-  "count": 10209,
+  "updated_at": "2026-08-20T16:36:09.256690+00:00",
+  "count": 10212,
   "items": [
+    {
+      "id": "da1b78869d37",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "published": "2026-08-20T16:07:26+00:00",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
+    },
     {
       "id": "a32431dbaba0",
       "source": "The Verge",
@@ -12,6 +23,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "published": "2026-08-20T15:45:55+00:00",
       "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepa"
+    },
+    {
+      "id": "04ae4582d770",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "published": "2026-08-20T15:42:39+00:00",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these see"
     },
     {
       "id": "421be938273c",
@@ -3422,6 +3444,17 @@
       "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
       "published": "2026-08-18T16:48:26+00:00",
       "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a si"
+    },
+    {
+      "id": "ec37a2e9ca5e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mojo is now open source",
+      "link": "https://www.modular.com/blog/mojo-open-source",
+      "published": "2026-08-18T16:23:24+00:00",
+      "summary": "Article URL: https://www.modular.com/blog/mojo-open-source Comments URL: https://news.ycombinator.com/item?id=49348079 Points: 217 # Comments: 55"
     },
     {
       "id": "f5df27e4749a",
