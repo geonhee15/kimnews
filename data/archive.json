@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-20T18:58:17.454914+00:00",
-  "count": 10226,
+  "updated_at": "2026-08-20T19:31:52.018713+00:00",
+  "count": 10228,
   "items": [
+    {
+      "id": "541f6382a12b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "published": "2026-08-20T19:18:21+00:00",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
+    },
     {
       "id": "c7ca74b6cc02",
       "source": "The Verge",
@@ -53,6 +64,17 @@
       "category": "DEV",
       "lang": "en",
       "title": "DeepSeek just cooked again... Big AI is big scared",
+      "link": "https://www.youtube.com/watch?v=xBByvFrqmWU",
+      "published": "2026-08-20T17:53:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3afedee96db8",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek is back... and Silicon Valley is terrified",
       "link": "https://www.youtube.com/watch?v=xBByvFrqmWU",
       "published": "2026-08-20T17:53:37+00:00",
       "summary": ""
