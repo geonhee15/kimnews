@@ -1,8 +1,31 @@
 {
   "issue_date": "2026-08-21",
-  "generated_at": "2026-08-20T17:44:23.270455+00:00",
-  "count": 8,
+  "generated_at": "2026-08-20T18:03:53.967264+00:00",
+  "count": 10,
   "items": [
+    {
+      "id": "fe4f9974d27d",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek just cooked again... Big AI is big scared",
+      "link": "https://www.youtube.com/watch?v=xBByvFrqmWU",
+      "summary": "",
+      "published": "2026-08-20T17:53:37+00:00"
+    },
+    {
+      "id": "49ce13b0d1a3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting ",
+      "content": "Why is the government lowering the nation’s ambition?\n\nAnother day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download and upload speeds across the country!\n\nIt’s wild that 13 years after Comcast said Americans don’t need gigabit internet we’re somehow back in this conversation. Especially since the private sector has delivered, albeit unevenly, on super high speeds in certain areas; For example, the apartment I’m about to move into offers 5 gigabit synchronous internet speed which will require a new PCIe network card to handle. Those speeds are ludicrous, but why are we not aiming for the moon across the country?\n\nIt took years for the FCC to finally admit publicly that the outdated 25Mbps definition of “broadband” speed sucked. Remember Ajit Pai, the guy with the giant Reese’s mug who killed net neutrality? He once said we didn’t need more than that. (The standard was raised from 25/3 to 100/20 in 2024.) Pai’s successor Brendan Carr — who is far worse in almost every category — is repeating the same stuff but in an even more cynical way. Here’s part of what the FCC says about its decision to abandon the gigabit speed goal:\n\nAt present, it is impossible to predict long-term technological developments and the evolution of consumer preferences.\n\nThis is one of the least-impossible things to predict. Who would possibly choose for things to be slower if they could be faster? This is peak regulatory arrogance from an administration that is generally not shy about lying through its teeth to the public.\n\nBut, no worries. The abandonment of the gigabit goal is wrapped inside a broader broadband report that claims everything is just fine! The FCC says speeds are up, competition is up, and prices are down. Too bad, as Ars Technica notes , that some of these insights are sourced from industry lobby groups and no adverse research from advocacy groups.\n\nWhy is the FCC doing this? Who knows, but here’s a solid guess: the FCC has been further captured by industry interests that would love for their pet projects (like satellite internet) not to look bad when compared to high standards. Just how much has the FCC been captured? Incidentally, The Guardian reported just today that Brendan Carr has been exceptionally cozy with the White House and right-wing media. It’s an easy bet to make that killing the broadband goal has nothing to do with public interests.\n\nThis is the title for the native ad",
+      "published": "2026-08-20T17:38:30+00:00"
+    },
     {
       "id": "b76b2fc7e2cd",
       "source": "TechCrunch",

@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T17:44:23.335968+00:00",
-  "count": 10220,
+  "updated_at": "2026-08-20T18:03:54.031834+00:00",
+  "count": 10222,
   "items": [
+    {
+      "id": "fe4f9974d27d",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek just cooked again... Big AI is big scared",
+      "link": "https://www.youtube.com/watch?v=xBByvFrqmWU",
+      "published": "2026-08-20T17:53:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "49ce13b0d1a3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "published": "2026-08-20T17:38:30+00:00",
+      "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting "
+    },
     {
       "id": "b76b2fc7e2cd",
       "source": "TechCrunch",
