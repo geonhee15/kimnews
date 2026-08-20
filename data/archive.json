@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T15:15:39.649233+00:00",
-  "count": 10206,
+  "updated_at": "2026-08-20T15:58:20.688779+00:00",
+  "count": 10209,
   "items": [
+    {
+      "id": "a32431dbaba0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "published": "2026-08-20T15:45:55+00:00",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepa"
+    },
+    {
+      "id": "421be938273c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This app makes the Pixel 11’s HiLight feature actually useful",
+      "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "published": "2026-08-20T15:30:34+00:00",
+      "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one"
+    },
     {
       "id": "a52f779583fd",
       "source": "The Verge",
@@ -78,6 +100,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260820221610",
       "published": "2026-08-20T13:29:08+00:00",
       "summary": "[지디넷코리아]국내 팹리스(반도체 설계전문) 프라임마스가 마이크론과 손잡고 100테라바이트(TB)를 넘어서는 컴퓨트 익스프레스 링크(CXL) 기반 풀드 메모리 사업에 나선다. 미국 정부가 지원하는 인공지능(AI)·고성능컴퓨팅(HPC) 프로젝트에 참여해 글로벌 시장 공략을 본격화한다. 올해 관련 제품 양산과 매출 발생을 시작으로 내년 말까지 2억달러(약 2787억원) 매출을 달성한다는 목표다.프라임마스는 20일 경기도 분당 프라임마스코리아 사옥에서 미디어 라운드테이블을 열고 마이크론과 함께 '아바코"
+    },
+    {
+      "id": "ae07a817303a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "published": "2026-08-20T13:23:12+00:00",
+      "summary": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on... https://github.com/rustsec/advisory-db/issues/3161 Comments URL: https://news.ycombinator.com/item?id=49374269 Points: 212 # Comments: 154"
     },
     {
       "id": "8588f25eb926",
