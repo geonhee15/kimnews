@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T22:01:58.533510+00:00",
-  "count": 10239,
+  "updated_at": "2026-08-20T22:44:04.699755+00:00",
+  "count": 10242,
   "items": [
+    {
+      "id": "cababbd3c278",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "2026-08-20T22:36:37+00:00",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+    },
+    {
+      "id": "c32cd0bdb8e7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "published": "2026-08-20T22:09:51+00:00",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+    },
     {
       "id": "cf99858d4935",
       "source": "AI타임스",
@@ -12,6 +34,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214145",
       "published": "2026-08-20T22:00:00+00:00",
       "summary": "미국에서 AI 데이터센터 건설에 대한 반발이 커지면서 빅테크들이 직접 지역사회 설득에 나서고 있습니다. 단순히 데이터센터의 경제적 효과를 설명하는 수준을 넘어 지역사회에 거액을 투자하고, 일자리를 보장하고, 전기요금 부담까지 떠안는 방식입니다. AI 인프라에 대한 지역사회의 반발이 실제 사업 리스크로 커지면서 빅테크의 대응 방식도 달라지고 있는 것입니다.가장 적극적인 곳은 오픈AI입니다. 샘 알트먼 CEO는 지난 6월 미시간 데이터센터 착공식에 직접 나서 “이곳이 암이 치료되는 장소가 될 수도 있"
+    },
+    {
+      "id": "c5bc6e354364",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "published": "2026-08-20T21:50:22+00:00",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the opti"
     },
     {
       "id": "7f2c86b7cd32",
