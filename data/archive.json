@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-20T14:36:11.070832+00:00",
-  "count": 10200,
+  "updated_at": "2026-08-20T15:15:39.649233+00:00",
+  "count": 10206,
   "items": [
+    {
+      "id": "a52f779583fd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "published": "2026-08-20T14:09:31+00:00",
+      "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsour"
+    },
+    {
+      "id": "bc0374ce2c0c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s what data Comcast says its motion-detecting routers collect",
+      "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "published": "2026-08-20T14:00:22+00:00",
+      "summary": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my"
+    },
+    {
+      "id": "2e613de22562",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We played The Duskbloods, the Switch 2’s wildest new exclusive",
+      "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+      "published": "2026-08-20T14:00:00+00:00",
+      "summary": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through it"
+    },
+    {
+      "id": "4eb5011c8eea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "published": "2026-08-20T14:00:00+00:00",
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in m"
+    },
+    {
+      "id": "56a71eb31956",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
+      "link": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+      "published": "2026-08-20T14:00:00+00:00",
+      "summary": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key details about the heavy compute \"brain\" ho"
+    },
     {
       "id": "0553d2c6db69",
       "source": "TechCrunch",
@@ -111,6 +166,17 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
       "published": "2026-08-20T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the bac"
+    },
+    {
+      "id": "14e8396d5ce0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "published": "2026-08-20T12:04:38+00:00",
+      "summary": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then"
     },
     {
       "id": "dc02e06d9f03",
