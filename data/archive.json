@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-20T03:41:12.135371+00:00",
-  "count": 10081,
+  "updated_at": "2026-08-20T04:21:09.965060+00:00",
+  "count": 10085,
   "items": [
+    {
+      "id": "f9d5a822afa1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KTNF, 'OCP 테크 데이'서 차세대 데이터센터 서버 라인업 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214147",
+      "published": "2026-08-20T03:45:17+00:00",
+      "summary": "케이티엔에프(KTNF, 대표 이중연)는 21일 서울 코엑스에서 열리는 ‘2026 OCP 코리아 테크 데이’에 참가해 AI 데이터센터(AIDC) 시장을 겨냥한 서버 라인업을 선보인다고 밝혔다.KTNF는 이번 부스에서 고성능 AI 서버 ‘코어리지 KH597S4’를 선보인다.코어리지 KH597S4는 대형언어모델(LLM) 추론 및 엔터프라이즈 AI 워크로드에 최적화된 고집적 서버다. 독자 설계 메인보드와 열 제어 기술을 통해 높은 연산 성능과 뛰어난 전력 효율성을 갖춘 것이 특징이다.특히 퓨리오사AI의 "
+    },
+    {
+      "id": "700c3550881d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AWS, 피지컬 AI 육성 프로그램 실시...리얼월드 등 국내 15개사 참여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214143",
+      "published": "2026-08-20T03:44:33+00:00",
+      "summary": "아마존웹서비스(AWS)는 국내 피지컬 AI 육성 프로그램인 'AWS 코리아 피지컬 AI 프론티어 프로그램'을 실시한다고 20일 밝혔다.이 프로그램은 오는 12월까지 진행되며, 로보틱스·자율주행·디지털 트윈·산업 자동화 등 전반에 걸친 국내 피지컬 AI 기업의 솔루션을 개념 증명(PoC) 단계부터 상용화까지 지원한다.1기 엔터프라이즈 트랙에는 ▲SK에코플랜트 ▲NC AI ▲알체라 ▲LG CNS가 선정됐다. 스타트업 트랙에는 ▲본에이아이 ▲투모로 로보틱스 ▲고레로보틱스 ▲디든로보틱스 ▲로보에테크놀로지"
+    },
+    {
+      "id": "5fdb18b6cb1f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, 코딩 스타트업 인수 타진...코그니션 “사실 아니다” 반박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214146",
+      "published": "2026-08-20T03:42:18+00:00",
+      "summary": "스페이스X가 AI 코딩 스타트업 코그니션(Cognition)에 인수 의사를 타진했다는 보도가 나왔지만, 코그니션이 즉각 이를 부인했다. 코그니션은 AI 개발 에이전트 ‘데빈(Devin)’을 개발한 기업으로, 스페이스X가 최근 AI 코딩 분야를 강화하기 위해 600억달러 규모로 커서를 인수한 직후 대상으로 거론되면서 관심이 모였다.블룸버그는 19일(현지시간) 소식통을 인용, 스페이스X가 코그니션에 잠재적인 인수 가능성을 타진했다고 보도했다.코그니션은 인수 제안에 응하지는 않았으나, 협력 가능성에 대"
+    },
     {
       "id": "fef274c44d7b",
       "source": "AI타임스",
@@ -386,6 +419,17 @@
       "link": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
       "published": "2026-08-19T18:45:57+00:00",
       "summary": ""
+    },
+    {
+      "id": "05e1626633ff",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "published": "2026-08-19T18:36:45+00:00",
+      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 200 # Comments: 80"
     },
     {
       "id": "5b564bf4b5d2",
