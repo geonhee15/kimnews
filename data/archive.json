@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-20T20:02:00.993195+00:00",
-  "count": 10232,
+  "updated_at": "2026-08-20T20:45:21.690703+00:00",
+  "count": 10234,
   "items": [
+    {
+      "id": "c97f2faa51cf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "published": "2026-08-20T20:00:00+00:00",
+      "summary": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware."
+    },
     {
       "id": "eb8c527e46d4",
       "source": "TechCrunch",
@@ -23,6 +34,17 @@
       "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "published": "2026-08-20T19:18:21+00:00",
       "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
+    },
+    {
+      "id": "a7c54a445512",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+      "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+      "published": "2026-08-20T18:54:32+00:00",
+      "summary": "Article URL: https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/ Comments URL: https://news.ycombinator.com/item?id=49378630 Points: 205 # Comments: 83"
     },
     {
       "id": "c7ca74b6cc02",
