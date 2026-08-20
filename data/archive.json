@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-20T09:59:58.529862+00:00",
-  "count": 10166,
+  "updated_at": "2026-08-20T10:37:12.652306+00:00",
+  "count": 10170,
   "items": [
+    {
+      "id": "8237d219e464",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "미친 속도로 결과물이 나온다는 GPT 근황",
+      "link": "https://www.youtube.com/shorts/YvzcLPUTrOg",
+      "published": "2026-08-20T10:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "id": "75b5cd79e4c8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+      "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "published": "2026-08-20T10:00:00+00:00",
+      "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire."
+    },
+    {
+      "id": "eabe2ac87a61",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Unlocking hidden revenue streams with market models",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "published": "2026-08-20T09:47:22+00:00",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou"
+    },
     {
       "id": "3e4df90607ba",
       "source": "TechCrunch",
@@ -221,6 +254,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214176",
       "published": "2026-08-20T08:23:05+00:00",
       "summary": "AI 에이전트가 고객을 직접 상대하는 서비스에 빠르게 도입되는 가운데, 에이전트의 보안 취약점과 논리적 오류를 스스로 공격해 찾아내는 자율형 레드팀 도구가 등장했다. AI 보안 스타트업 파브릭스(Fabraix)는 19일(현지시간) 자율형 레드팀 에이전트 ‘닉스(Nyx)’의 두 번째 공개 버전을 선보이고, 기업들이 AI 에이전트를 실제 서비스에 배포하기 전에 지속적으로 취약점을 점검할 수 있도록 지원한다고 밝혔다.닉스는 특정 AI 에이전트를 공격 대상으로 설정하면 별도의 수동 테스트 없이 스스로 공"
+    },
+    {
+      "id": "152d1fbb8da7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Don't Paste the AI, please",
+      "link": "https://dontpastetheai.com/",
+      "published": "2026-08-20T08:20:44+00:00",
+      "summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 268 # Comments: 146"
     },
     {
       "id": "cfeb6ae039b7",
