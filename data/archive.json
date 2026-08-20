@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T17:05:59.796923+00:00",
-  "count": 10215,
+  "updated_at": "2026-08-20T17:44:23.335968+00:00",
+  "count": 10220,
   "items": [
+    {
+      "id": "b76b2fc7e2cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "published": "2026-08-20T17:18:58+00:00",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web."
+    },
+    {
+      "id": "92a2534804a7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
+      "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "published": "2026-08-20T17:16:02+00:00",
+      "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on F"
+    },
     {
       "id": "ad3f323b030c",
       "source": "TechCrunch",
@@ -406,6 +428,17 @@
       "lang": "en",
       "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
       "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "published": "2026-08-20T10:00:00+00:00",
+      "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire."
+    },
+    {
+      "id": "d793e40f3c6f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+      "link": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
       "published": "2026-08-20T10:00:00+00:00",
       "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire."
     },
@@ -2115,6 +2148,17 @@
       "summary": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees Comments URL: https://news.ycombinator.com/item?id=49362934 Points: 235 # Comments: 105"
     },
     {
+      "id": "ffabab663457",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "HTML Can Do That",
+      "link": "https://chrisburnell.com/html-can-do-that/",
+      "published": "2026-08-19T15:11:36+00:00",
+      "summary": "Article URL: https://chrisburnell.com/html-can-do-that/ Comments URL: https://news.ycombinator.com/item?id=49362689 Points: 259 # Comments: 64"
+    },
+    {
       "id": "1fe61e6c5e2c",
       "source": "TechCrunch",
       "kind": "article",
@@ -3510,6 +3554,17 @@
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
       "published": "2026-08-18T16:19:10+00:00",
       "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+    },
+    {
+      "id": "6ae15f7df08e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "link": "https://www.experimental-history.com/p/i-like-em-thick",
+      "published": "2026-08-18T15:50:52+00:00",
+      "summary": "Article URL: https://www.experimental-history.com/p/i-like-em-thick Comments URL: https://news.ycombinator.com/item?id=49347543 Points: 240 # Comments: 83"
     },
     {
       "id": "29e7f35e17f8",

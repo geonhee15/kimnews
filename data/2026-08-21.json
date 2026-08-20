@@ -1,8 +1,32 @@
 {
   "issue_date": "2026-08-21",
-  "generated_at": "2026-08-20T17:05:59.732955+00:00",
-  "count": 6,
+  "generated_at": "2026-08-20T17:44:23.270455+00:00",
+  "count": 8,
   "items": [
+    {
+      "id": "b76b2fc7e2cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "content": "Over one-third of web pages published after the release of ChatGPT show signs of being written by AI, according to a new study from Pew Research released on Thursday. The report corroborates other studies that detail how much of the web’s newer web pages are now either written by or “substantially edited” by AI, the firm says.\n\nIt also arrives shortly after internet infrastructure provider Cloudflare reported that bot web traffic had overtaken human web traffic — a milestone that was reached sooner than the company had estimated.\n\nPew’s data, however, is focused not on who or what is browsing the web, but on what is being browsed. And apparently, much of it is bots reading web pages written by other bots.\n\nTo compile the report, Pew said it used the Common Crawl web archive to collect nearly half a million English-language web pages from the past five or so years, starting a couple of years before ChatGPT’s November 2022 release. Pew then used Open Pangram’s technology to detect how many were likely written or heavily edited by AI.\n\nIn a random sample of 10,000 web pages collected in July 2026, around 10% showed “significant signs of AI authorship,” Pew said.\n\nHowever, Pew pointed out that a random sample like this would inevitably include older web pages — ones published before AI writing tools even existed, and therefore couldn’t have been AI-written.\n\nTo get a better sense of how much of the web is now being written by AI, Pew filtered out the older web pages and focused only on those published after the release of ChatGPT.\n\nIn this same snapshot with the older pages removed, signs of AI authorship were found in over one-third (35%) of the pages.\n\nDrilling down into domains themselves, Pew found that URLs with a .com domain showed signs of AI authorship at around 10 times the rate of a .edu or .gov domain (both of which were around 1% AI-authored. In addition, .org domains had only a 4.6% rate of AI authorship.\n\nOf course, this analysis is not perfect. Pangram, like other AI detection tools, can misclassify pages as AI-written when they weren’t. But at scale, the data is likely at least directionally correct.\n\nIn addition, Pew found that other supposed tells of AI authorship had also increased over the years, like the use of em dashes, Oxford commas, and phrasing like “it’s not X, it’s Y,” among other things.\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nConsumer News Editor\n\nIn less than 48 hours, your chance to save up to $300 on your tickets will end!\n\nHome batteries are suddenly cheap and everywhere. Here’s why. Tim De Chant\n\nCursor capitalizes on GitHub frustration, launches rival hosting platform Lucas Ropek\n\nEtched’s valuation doubles to $21B in a month Julie Bort\n\nStripe will reportedly acquire AI gateway startup OpenRouter for $7B+ Anthony Ha\n\nAnthropic shares more details about how Claude’s new watermarks will work Anthony Ha\n\n7 desk gadgets that can make your workday better Aisha Malik\n\nApple proposes to take a 15% cut of purchases made outside the App Store Sarah Perez",
+      "published": "2026-08-20T17:18:58+00:00"
+    },
+    {
+      "id": "92a2534804a7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
+      "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on F",
+      "content": "In-warranty and out-of-warranty Laptop 13 7040-series mainboards confirmed to be affected will be replaced.\n\nSome Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework’s site at the time of this writing. Upon running the update, some users reported their laptops getting stuck on the update screen .\n\nWhile some users on Framework’s community forums reported that the company was sending them replacement mainboards under the one-year warranty, several with out-of-warranty boards said they were told they’d have to buy new ones. A few were able to take matters into their own hands with external BIOS programming equipment.\n\nWhen The Verge reached out to Framework for comment, founder Nirav Patel shared this statement:\n\nWe’ve received reports of a small percentage of Framework Laptop 13 7040 Series BIOS updates resulting in non-bootable boards and are investigating the root cause of the issue. In the meantime, in addition to replacing in-warranty Mainboards, we are making exceptions for out-of-warranty replacements where we can confirm a stable-release BIOS update caused the board to become non-bootable.\n\nIn parallel to this, we’re introducing “Crisis Recovery Mode” BIOS functionality to enable a path for failed updates to be directly recoverable. Our latest Framework Desktop BIOS release includes this functionality, and we are actively bringing it to Framework Laptop 12, 13, and 16 in our upcoming BIOS release cycles for each.\n\nThe Verge asked Framework what percentage of Laptop 13s were affected, and if there’s a timeline for the Crisis Recovery Mode coming to future BIOS updates. Framework’s external PR rep Jim Redner reiterated it is a “small percentage” and added, “They are targeting releasing that functionality before the end of year for each product line.”\n\nThis is the title for the native ad",
+      "published": "2026-08-20T17:16:02+00:00"
+    },
     {
       "id": "ad3f323b030c",
       "source": "TechCrunch",
