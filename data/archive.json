@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-20T08:04:13.548297+00:00",
-  "count": 10137,
+  "updated_at": "2026-08-20T08:55:19.271475+00:00",
+  "count": 10146,
   "items": [
+    {
+      "id": "59fecf2622cf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세레브라스, 차세대 AI 가속기 'CS-4' 공개…\"GPU 대비 최대 30배 빠른 추론 성능\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214166",
+      "published": "2026-08-20T08:43:14+00:00",
+      "summary": "세레브라스가 차세대 AI 가속기 시스템 ‘CS-4’를 공개했다. 자체 개발한 웨이퍼 스케일 프로세서 3개를 하나의 시스템에 결합하고 전력·냉각·입출력(I/O) 구조까지 전면 재설계해, 기존 GPU 기반 시스템보다 최대 30배 빠른 AI 추론 성능을 구현했다. 세레브라스가 19일(현지시간) 공개한 CS-4는 4세대 AI 시스템으로, 자체 개발한 ‘웨이퍼 스케일 엔진 3 터보(WSE-3 Turbo)’ 프로세서 3개를 기반으로 한다.WSE-3 터보는 TSMC의 5나노미터(nm) 공정으로 생산되며, 세레"
+    },
+    {
+      "id": "ee5d30434169",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI 에이전트 허점 먼저 파악한다\"...파브릭스, 자율형 레드팀 도구 ‘닉스’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214176",
+      "published": "2026-08-20T08:23:05+00:00",
+      "summary": "AI 에이전트가 고객을 직접 상대하는 서비스에 빠르게 도입되는 가운데, 에이전트의 보안 취약점과 논리적 오류를 스스로 공격해 찾아내는 자율형 레드팀 도구가 등장했다. AI 보안 스타트업 파브릭스(Fabraix)는 19일(현지시간) 자율형 레드팀 에이전트 ‘닉스(Nyx)’의 두 번째 공개 버전을 선보이고, 기업들이 AI 에이전트를 실제 서비스에 배포하기 전에 지속적으로 취약점을 점검할 수 있도록 지원한다고 밝혔다.닉스는 특정 AI 에이전트를 공격 대상으로 설정하면 별도의 수동 테스트 없이 스스로 공"
+    },
+    {
+      "id": "cfeb6ae039b7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 팀스파르타, 폐쇄망 코딩 에이전트 'AX 포트리스' 시연 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214155",
+      "published": "2026-08-20T08:00:00+00:00",
+      "summary": "■ 팀스파르타(대표 이범규)는 서울 코엑스에서 열린 'AI 서밋 서울'서 폐쇄망 기반 AI 코딩 에이전트 'AX 포트리스'를 선보였다고 밝혔다. 자체 모델 'K-AX 스파르탄 122B'를 탑재했으며, 인터넷이 차단된 환경에서도 AI가 코드 생성과 자동완성, 코드 검토부터 빌드·테스트·배포까지 수행한다. 소스코드가 외부로 전송되지 않는 구조로 보안 규제로 인해 생성형 AI 도입에 어려움을 겪는 기업에게 적합하다는 설명이다.■ 마키나락스(대표 윤성호)는 오는 9월3일 웨스틴 서울 파르나스에서 AI 컨"
+    },
+    {
+      "id": "9d3bd04890b9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, AI 데이터 전문 '머코어'에 투자 논의...몸값 28조 달성 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214173",
+      "published": "2026-08-20T07:59:44+00:00",
+      "summary": "엔비디아가 오픈소스 AI 모델 개발에 필요한 고품질 학습 데이터를 공급하는 데이터 라벨링 스타트업 머코어(Mercor)에 대한 투자를 논의하는 것으로 알려졌다. 디 인포메이션은 19일(현지시간) 정통한 소식통을 인용, 엔비디아가 기업 가치 200억달러(약 27조8740억원) 수준으로 추진되는 머코어의 신규 자금 조달 라운드에 투자를 논의하고 있다고 보도했다.기존 투자자인 제너럴 캐털리스트가 이번 라운드를 주도하는 방안도 협의 중인 것으로 전해졌다. 다만 엔비디아가 투자할 구체적인 금액과 전체 조달"
+    },
+    {
+      "id": "92564ca5a348",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "디노티시아, OCP서 벡터 DB 반도체 'VDPU'로 스토리지 병목 해소한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214175",
+      "published": "2026-08-20T07:50:00+00:00",
+      "summary": "디노티시아(대표 정무경)는 21일 서울 코엑스에서 열리는 ‘2026 OCP 코리아 테크 데이’에서 AI 에이전트 확산에 따른 데이터 저장·검색 병목을 해결하기 위한 AI 스토리지 해법을 제시한다고 밝혔다.노홍찬 디노티시아 사업본부장 겸 최고 데이터책임자(CDO)는 ‘AI 에이전트의 장·단기 기억을 위한 AI 스토리지’를 주제로 기조강연에 나선다.노 CDO는 AI 에이전트가 실제 서비스에 확산되면서 AI 인프라의 과제가 그래픽처리장치(GPU) 연산 성능을 넘어데이터 저장·검색 효율로 확대되고 있다는"
+    },
     {
       "id": "a072cfef4c6a",
       "source": "AI타임스",
@@ -12,6 +67,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214177",
       "published": "2026-08-20T07:48:59+00:00",
       "summary": "한국과학기술원(KAIST, 총장 배충식)은 권지민 전기및전자공학부 교수 연구팀이 울산과학기술원(UNIST), 연세대학교(총장 윤동섭) 등 국내 연구진과 공동으로 새로운 다층 층간 절연막 구조를 개발했다고 20일 밝혔다.‘다층 층간 절연막 구조’는 차세대 메모리 소자인 산화물 수직 채널 트랜지스터(VCT)의 결함을 줄이고 성능과 안정성을 크게 높일 수 있는 기술이다. VCT는 전류가 흐르는 길인 ‘채널’을 기존의 수평 방향이 아닌 수직 방향으로 만든 소자다. 이를 활용하면 제한된 면적에 더 많은 소"
+    },
+    {
+      "id": "ca9b4b29ac9d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "ETRI, 'OCP 코리아 테크 데이'서 국산 AI 반도체 경쟁력 높일 시스템SW 3종 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214180",
+      "published": "2026-08-20T07:40:00+00:00",
+      "summary": "한국전자통신연구원(ETRI, 원장 박세웅)은 21일 서울 코엑스에서 열리는 ‘2026 OCP 코리아 테크 데이’에 참가해 국산 AI 반도체의 활용도를 높이고 AI 데이터센터의 자원 효율을 향상하기 위한 시스템 소프트웨어 기술을 공개한다고 밝혔다.최근 AI 반도체 시장에서는 다양한 NPU가 등장하고 있지만, 실제 AI 개발·배포 환경은 여전히 GPU와 CUDA를 중심으로 형성돼 있다는 설명이다. 칩 자체의 성능이 뛰어나더라도 이를 뒷받침하는 소프트웨어 생태계가 부족하면 실제 서비스 도입으로 이어지기"
     },
     {
       "id": "0a6fa121a06a",
@@ -34,6 +100,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214172",
       "published": "2026-08-20T07:16:48+00:00",
       "summary": "과학기술정보통신부가 '독자 AI 파운데이션 모델 개발' 프로젝트 2차 평가의 세부 결과를 공식 발표했으나, 평가 과정의 불투명성을 둘러싼 논란은 좀처럼 가라앉지 않고 있다. 과기부는 지난 18일 2차 평가 결과를 발표한 이후 논란이 제기되자 이틀 만인 20일 분야별 1위 기업과 일부 지표를 추가로 공개했다. 하지만 전체 점수와 구체적인 평가 기준, 세부 데이터 등은 여전히 베일에 싸여 있어 업계와 전문가들의 불만이 이어지는 모양새다.앞서 공개된 2차 평가 결과에는 평가 방식 및 기준, 배점, 3차"
+    },
+    {
+      "id": "4755d24d4042",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "래블업, 'OCP 코리아 테크 데이'서 AI 에이전트 보안·이기종 가속기 테스트베드 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214179",
+      "published": "2026-08-20T07:10:00+00:00",
+      "summary": "AI 인프라 전문 래블업(대표 신정규)은 21일 서울 삼성동 코엑스 그랜드볼룸에서 열리는 '2026 OCP 코리아 테크 데이(OCP Korea Tech Day)'에 참가해 기밀 컴퓨팅 기반 AI 에이전트 보안 기술과 이기종 AI 가속기 테스트베드 구축, 운영 사례를 발표한다고 밝혔다. 래블업은 이번 행사에서 두 개의 기술 세션을 통해 개방형 AI 인프라 운영 기술을 공유한다. 먼저, 김준기 래블업 최고 기술책임자(CTO)는 '기밀 컴퓨팅으로 AI 에이전트 보안과 프라이버시 향상시키기'를 주제로 발"
+    },
+    {
+      "id": "8bb54add9adb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전 메타 임원 “저커버그, 매출 위해 아동 안전 뒷전”...메타 상대 초대형 소송 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214178",
+      "published": "2026-08-20T07:10:00+00:00",
+      "summary": "메타의 전직 고위 엔지니어링 임원이 페이스북과 인스타그램의 성장과 이용자 참여 확대를 위해 아동·청소년 안전이 뒷전으로 밀렸다고 증언하면서, 메타의 책임을 둘러싼 미국 대형 소송이 본격적인 심리에 들어갔다. 29개 주 정부가 메타를 상대로 제기한 이번 사건은 소셜미디어가 미성년자의 정신 건강과 안전에 미치는 영향을 법적으로 어떻게 판단할지를 가를 핵심 재판으로 주목받고 있다.로이터에 따르면, 19일(현지시간) 미국 캘리포니아주 오클랜드 연방법원에서 열린 재판에서 전 메타 안전 담당 엔지니어 아르투"
     },
     {
       "id": "7fb7f54e4ed8",
@@ -925,6 +1013,17 @@
       "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
       "published": "2026-08-19T19:11:40+00:00",
       "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance."
+    },
+    {
+      "id": "c3e2cca04891",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "link": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "published": "2026-08-19T19:06:16+00:00",
+      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 202 # Comments: 50"
     },
     {
       "id": "9dfe5fcd738f",
