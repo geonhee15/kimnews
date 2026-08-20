@@ -1,8 +1,92 @@
 {
   "issue_date": "2026-08-20",
-  "generated_at": "2026-08-20T02:52:36.375625+00:00",
-  "count": 41,
+  "generated_at": "2026-08-20T03:41:12.075848+00:00",
+  "count": 46,
   "items": [
+    {
+      "id": "fef274c44d7b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '기업용 데이터 보안'으로 승부...프롬프트·응답 저장 안 해",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214137",
+      "summary": "오픈AI가 민감한 기업 데이터의 보안을 중시하는 고객을 위해 프롬프트와 모델 응답을 저장하지 않으면서도 여러 대화에 걸친 위험 신호를 탐지할 수 있는 새로운 안전 기술을 선보였다. 오픈AI는 19일(현지시간) 기업 고객을 겨냥해 AI 모델의 안전성을 강화하면서도 고객의 민감한 데이터를 보존하지 않는 새로운 보안 기술을 공개했다.기존의 ‘제로 데이터 보존(ZDR·Zero Data Retention)’ 정책을 유지하면서 여러 차례의 상호작용을 종합해 잠재적인 사이버 공격이나 악용 징후를 찾아내는 ‘프",
+      "content": "오픈AI가 민감한 기업 데이터의 보안을 중시하는 고객을 위해 프롬프트와 모델 응답을 저장하지 않으면서도 여러 대화에 걸친 위험 신호를 탐지할 수 있는 새로운 안전 기술을 선보였다.\n\n오픈AI는 19일(현지시간) 기업 고객을 겨냥해 AI 모델의 안전성을 강화하면서도 고객의 민감한 데이터를 보존하지 않는 새로운 보안 기술을 공개했다.\n\n기존의 ‘제로 데이터 보존(ZDR·Zero Data Retention)’ 정책을 유지하면서 여러 차례의 상호작용을 종합해 잠재적인 사이버 공격이나 악용 징후를 찾아내는 ‘프라이빗 안전 처리(Private Safety Processing)’를 도입하는 것이 핵심이다.\n\nZDR이 적용되는 API 고객의 프롬프트와 모델 응답은 요청 처리가 끝난 뒤 오픈AI에 저장되지 않는다. 고객 콘텐츠는 오픈AI 직원이 검토할 수 없으며, 기업 고객의 데이터도 별도의 동의가 없으면 모델 학습에 사용되지 않는다. 고객이 직접 통제하는 인프라에 데이터를 보관하는 방식도 지원한다.\n\n프라이빗 안전 처리는 이러한 데이터 보호 원칙을 유지하면서 기존 ZDR 방식의 한계를 보완한다. 기존 안전 시스템이 각각의 프롬프트와 응답을 개별적으로 분석했다면, 새로운 시스템은 서로 연관된 여러 상호작용에서 나타나는 패턴을 자동으로 분석한다. AI 사용이 복잡해지고 한 번의 대화가 아닌 장기간에 걸쳐 작업을 수행하는 에이전트가 확대되면서 개별 대화만으로는 파악하기 어려운 위험을 찾아내기 위한 것이다.\n\n한 사용자가 특정 대화에서 기업의 소프트웨어 취약점을 묻고 이후 다른 대화에서 원격 접근 방법이나 보안 탐지 회피 방법을 질문한다고 가정하면, 각각의 요청은 정상적인 사이버보안 연구처럼 보일 수 있다. 하지만 여러 상호작용을 함께 분석하면 실제 공격을 준비하고 있다는 정황을 파악할 수 있다. 프라이빗 안전 처리가 이처럼 여러 세션에 걸쳐 분산된 악의적 행동이나 AI 에이전트의 비정상적인 행동을 감지할 수 있다고 설명했다.\n\n핵심은 원본 데이터와 안전성 감지 기능을 분리하는 것이다. 자동화된 시스템이 여러 상호작용에서 위험 패턴을 발견하면 오픈AI에는 구체적인 프롬프트나 응답 대신 위험의 종류와 심각도 등을 나타내는 제한적인 ‘안전 신호’만 전달된다. 고객의 대화 내용을 직접 들여다보지 않아도 잠재적인 악용 여부를 판단할 수 있도록 설계한 것이다.\n\n위험 신호가 발생하더라도 고객 데이터가 자동으로 오픈AI 직원에게 공개되는 것은 아니다. 고객은 자체 시스템에서 경고나 조치 내용을 조사할 수 있으며, 오탐이라고 판단하거나 정상적인 활동임을 설명하거나 실제 악용 사건을 조사하기 위해 필요한 경우에 한해 관련 정보를 오픈AI에 자발적으로 제공할 수 있다.\n\n또 다른 데이터 보관 방식도 개발하고 있다. 고객이 직접 통제하는 인프라가 아닌 오픈AI의 인프라에 데이터를 저장하더라도 고객이 관리하는 암호화 키를 사용하도록 하는 방식이다. 오픈AI 직원은 해당 암호화 키의 사본을 갖지 않기 때문에 저장된 원본 프롬프트와 응답에 접근할 수 없도록 한다는 설명이다.\n\n이 같은 접근은 금융, 의료, 연구, 기업 보안 등 민감한 정보를 다루는 기업을 겨냥한 것이다. 기업들은 AI에 금융 기록과 건강 정보, 영업 기밀, 연구 자료 등을 입력하기 시작했지만, AI 업체가 해당 데이터를 일정 기간 보관하거나 직원이 검토할 수 있는 구조는 규제 준수와 고객 신뢰 측면에서 부담이 될 수 있다.\n\n현재 일부 초기 고객을 대상으로 프라이빗 안전 처리를 시험하고 있으며, 9월부터 본격적인 출시를 시작하고 관련 기술 백서도 공개할 계획이다. 마이크로소프트와 데이터브릭스 등이 초기 테스트 고객으로 거론됐다.\n\n이번 기술 공개는 기업용 AI 경쟁이 치열해지는 상황에서 나왔다. 앤트로픽은 최근 고성능 ‘커버드 모델’에 대해 안전성 검토를 목적으로 사용자 데이터를 30일 동안 보관할 수 있는 정책을 도입했다. 이 정책에는 일부 승인된 검토자가 통제된 절차를 통해 고객 데이터를 검토할 수 있다는 내용도 포함돼 있다. 민감한 데이터를 다루는 기업 고객들 사이에서는 이러한 데이터 보존 정책에 대한 우려가 제기됐다.\n\n이에 오픈AI는 안전성 확보를 위해 데이터를 보관해야 한다는 기존 접근과 달리 ‘프라이버시를 유지하면서 안전성을 확보하는 기술’을 전면에 내세우고 있다. 특히 AI 에이전트가 장기간에 걸쳐 여러 단계의 작업을 수행하는 시대에는 단일 요청이 아니라 시간의 흐름에 따른 행동 패턴을 파악하는 것이 중요해지고 있어, 프라이빗 안전 처리가 기업용 AI의 핵심 보안 기능으로 자리 잡을 가능성도 있다.\n\n기업 고객 확보를 위한 경쟁력 강화라는 의미도 크다. 기업 고객들에게 “데이터를 맡기더라도 오픈AI가 원본 데이터를 보관하거나 들여다보지 않는다”는 확실한 보안 약속을 제공함으로써 경쟁사인 앤트로픽과의 차별화를 꾀하는 이유다.",
+      "published": "2026-08-20T03:29:58+00:00"
+    },
+    {
+      "id": "01609ee0fe43",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "유니트리, 상하이 상장 첫날 460% 폭등…시총 70조 달해",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214138",
+      "summary": "유니트리가 상하이 증시 상장 첫날 주가가 460% 이상 폭등하며 시가총액 500억달러(약 69조7000억원)를 돌파했다. 중국 상하이증권거래소 스타마켓(STAR Market)에 상장한 유니트리는 19일(현지시간) 공모가 150.8위안에서 거래를 시작해 장중 한때 1100위안까지 치솟으며 629%의 상승률을 기록했다.이후 상승폭을 일부 반납했지만, 종가는 845위안으로 마감해 공모가 대비 460% 이상 급등했다. 이에 따라 회사의 시가총액은 3420억위안(약 70조원)에 달했다.이번 상승률은 올해 ",
+      "content": "유니트리가 상하이 증시 상장 첫날 주가가 460% 이상 폭등하며 시가총액 500억달러(약 69조7000억원)를 돌파했다.\n\n중국 상하이증권거래소 스타마켓(STAR Market)에 상장한 유니트리는 19일(현지시간) 공모가 150.8위안에서 거래를 시작해 장중 한때 1100위안까지 치솟으며 629%의 상승률을 기록했다.\n\n이후 상승폭을 일부 반납했지만, 종가는 845위안으로 마감해 공모가 대비 460% 이상 급등했다. 이에 따라 회사의 시가총액은 3420억위안(약 70조원)에 달했다.\n\n이번 상승률은 올해 중국 신규 상장 기업의 첫날 평균 상승률 279%를 크게 웃도는 수준이다. 같은 날 중국 대표 주가지수인 CSI300이 약 3% 하락한 것과도 대조적인 흐름을 보였다.\n\n유니트리는 휴머노이드 로봇과 사족보행 로봇을 개발하는 중국의 대표 로봇 기업이다. 달리기와 춤, 공중제비, 무술 동작까지 수행하는 로봇으로 세계적인 주목을 받았으며, 중국 춘절 특집 방송에 등장해 대중적 인지도를 크게 높였다.\n\n실적도 빠르게 성장하고 있다. 지난해 매출은 17억위안(약 3500억원)으로 전년 대비 4배 이상 증가했으며, 순이익은 2억7800만위안(약 580억원)을 기록했다. 휴머노이드 로봇은 지난해 5500대 이상 출하해 세계 1위를 차지했고, 사족보행 로봇의 누적 판매량도 3만3000대를 넘어섰다.\n\n유니트리의 IPO에는 개인투자자들의 관심도 폭발적이었다. 980만명이 공모에 참여해 스타마켓 역사상 가장 높은 수준의 청약 경쟁률을 기록한 것으로 알려졌다.\n\n이번 상장을 통해 약 61억위안(약 1조2500억원)을 조달했으며, 왕싱싱 CEO는 약 20%의 지분을 유지해 보유 자산 가치가 110억달러(약 15조원)를 넘어섰다.\n\n시장에서는 이번 상장이 중국 휴머노이드 로봇 산업 전반에 긍정적인 신호를 줄 것으로 보고 있다. 블룸버그 인텔리전스는 “유니트리의 성공적인 데뷔는 중국 체화형 AI 산업에 대한 투자자들의 높은 기대를 보여준다”며 “앞으로 다른 로봇 기업들의 IPO에도 긍정적인 영향을 미칠 것”이라고 평가했다.\n\n중국 정부도 휴머노이드 로봇을 반도체, AI와 함께 미래 전략 산업으로 적극 육성하고 있다. 같은 날 베이징에서 개막한 세계로봇대회(World Robot Conference)에서는 수백개의 중국 기업들이 차세대 로봇 기술을 공개하며 산업 경쟁력을 과시했다.\n\n다만 높은 기업 가치에 대한 우려도 나온다. 현재 유니트리 로봇의 주요 고객은 연구 기관과 대학, 교육·엔터테인먼트 분야가 대부분이며, 산업 현장에서의 대규모 상용화는 아직 초기 단계다. 일부 전문가들은 현재 주가가 실적보다는 휴머노이드 로봇 산업의 성장 기대를 과도하게 반영하고 있다고 지적했다.\n\n여기에 지정학적 리스크도 변수다. 미국은 지난 7월 국가안보를 이유로 유니트리를 포함한 중국산 휴머노이드 및 사족보행 로봇의 신규 모델 수입을 금지했으며, 미 국방부도 중국 군사 관련 기업 목록에 포함했다.\n\n그럼에도 투자자들은 휴머노이드 로봇 시장의 성장 가능성에 큰 기대를 걸고 있다. JP모건은 전 세계 휴머노이드 로봇 출하량이 올해 6만대에서 2030년 175만대까지 증가할 것으로 전망했으며, 중국이 전체 수요의 절반 이상을 차지할 것으로 내다봤다.",
+      "published": "2026-08-20T03:20:01+00:00"
+    },
+    {
+      "id": "8e9e3acb5712",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자 파운드리 단가 최대 15% 인상...\"내년 흑자 전환 기대\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214139",
+      "summary": "삼성전자가 신규 주문 건을 대상으로 일부 첨단 파운드리(반도체 위탁생산) 서비스 가격을 최대 15%까지 인상한 것으로 나타났다.19일(현지시간) 로이터에 따르면, 삼성전자는 지난달부터 4나노(SF4) 공정의 공급 단가를 국가별로 차등 인상한 것으로 전해졌다.중국과 미국 고객사에는 전월 대비 10~15%의 인상률이 적용됐지만, TSMC 본사가 있는 대만 고객사에는 5~10%의 상대적으로 낮은 인상률이 책정됐다. 5나노(SF5) 웨이퍼 공급가도 10~15% 상승했으며, 구형 공정인 8나노 웨이퍼 가격",
+      "content": "삼성전자가 신규 주문 건을 대상으로 일부 첨단 파운드리(반도체 위탁생산) 서비스 가격을 최대 15%까지 인상한 것으로 나타났다.\n\n19일(현지시간) 로이터에 따르면, 삼성전자는 지난달부터 4나노(SF4) 공정의 공급 단가를 국가별로 차등 인상한 것으로 전해졌다.\n\n중국과 미국 고객사에는 전월 대비 10~15%의 인상률이 적용됐지만, TSMC 본사가 있는 대만 고객사에는 5~10%의 상대적으로 낮은 인상률이 책정됐다. 5나노(SF5) 웨이퍼 공급가도 10~15% 상승했으며, 구형 공정인 8나노 웨이퍼 가격도 10% 안팎 오른 것으로 알려졌다.\n\n한 소식통은 중국 고객사가 가장 큰 폭의 가격 인상을 받아들인 그룹 중 하나였다고 밝혔다. 이는 미국의 첨단 반도체 장비 수출 규제로 중국 기업들의 해외 파운드리 의존도가 높아진 상황이 반영된 결과로 풀이된다.\n\n카운터포인트리서치에 따르면 올 1분기 세계 파운드리 매출 점유율에서 삼성전자는 7%에 그쳤지만, TSMC는 70%를 기록한 바 있다.\n\n다만, AI 산업의 급격한 성장세로 TSMC의 생산능력이 수요를 따라가지 못하면서 삼성전자에 가격 협상력이 실리고 있다는 분석이다.\n\n이민희 BNK투자증권 연구원은 \"TSMC의 공급 부족과 가격 인상으로 고객사들이 삼성전자·인텔 등 경쟁사로 옮겨가고 있다\"라며 \"삼성전자가 추가 가격 인상에 나설 경우 파운드리 사업부의 흑자 전환이 내년으로 당겨질 수 있다\"라고 전망했다.\n\n삼성전자 파운드리 사업부는 2022년 이후 적자 상태가 이어지고 있다.\n\n로이터에 따르면 삼성전자는 테슬라, 애플, 브로드컴, 엔비디아 등 주요 빅테크와 잇달아 위탁생산 계약을 체결했으며, 구글도 SF4 공정 기반 칩 생산을 두고 삼성전자와 협의 중인 것으로 전해졌다.\n\n한편, 평택 공장의 SF4 생산라인은 지난해 말부터 최대 가동률을 유지하고 있으며, 퀄컴 등을 위한 로직칩 생산 외에 고대역폭메모리(HBM)의 핵심 부품인 베이스 다이 생산도 병행하고 있는 것으로 알려졌다.\n\n삼성전자 관계자는 \"고객사 관련 사항은 확인할 수 있는 내용이 없다\"고 말했다.\n\n앞서 삼성전자는 지난달 2분기 실적 콘퍼런스콜에서 올해 하반기 중 2나노 2세대 공정 양산에 돌입하며, 가동률·수율 개선으로 수익성이 개선될 것이라고 밝힌 바 있다.",
+      "published": "2026-08-20T03:09:45+00:00"
+    },
+    {
+      "id": "8af3bea3fcc0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "이스트소프트, 대국민 AI '알비서'로 모두의 AI 도전한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214141",
+      "summary": "이스트소프트(대표 정상원)는 AI 비서 '알비서'를 중심으로 국내 기업들과 정부 주도 '모두의 AI' 사업 컨소시엄을 구성했다고 20일 밝혔다.이스트소프트가 서비스 플랫폼 총괄을 맡고, AI 모델·인프라·신뢰성 등 각 영역에 전문성을 갖춘 기업들이 참여해 대국민 AI 서비스의 완성도를 높인다는 방침이다.알비서는 이스트소프트가 올해 상반기부터 준비해온 설치형 AI 에이전트 서비스로, 별도의 개발 환경 구축이나 전문 설정 없이도 누구나 웹·모바일·PC 등에서 손쉽게 이용할 수 있도록 한다는 구상이다.",
+      "content": "이스트소프트(대표 정상원)는 AI 비서 '알비서'를 중심으로 국내 기업들과 정부 주도 '모두의 AI' 사업 컨소시엄을 구성했다고 20일 밝혔다.\n\n이스트소프트가 서비스 플랫폼 총괄을 맡고, AI 모델·인프라·신뢰성 등 각 영역에 전문성을 갖춘 기업들이 참여해 대국민 AI 서비스의 완성도를 높인다는 방침이다.\n\n알비서는 이스트소프트가 올해 상반기부터 준비해온 설치형 AI 에이전트 서비스로, 별도의 개발 환경 구축이나 전문 설정 없이도 누구나 웹·모바일·PC 등에서 손쉽게 이용할 수 있도록 한다는 구상이다.\n\n질문·검색·글쓰기 같은 범용 챗봇 기능은 물론 공공서비스·문서·여행·교육 등 분야별 특화 AI 에이전트까지 아우르며 일상과 업무를 연결하는 서비스를 목표로 한다.\n\n컨소시엄 내 기업별 역할은 ▲인프라 구축 및 모델 서빙(메가존) ▲AI 안전성·품질 검증(슈어소프트테크) ▲AI 모델 성능 최적화 및 경량화(비드래프트) ▲포털 줌 기반 AI 검색 및 확산 채널 운영(이스트에이드) ▲공공 영역 에이전트(와이즈넛) ▲문서 기반 에이전트 구축(폴라리스오피스) ▲대국민 AI 활용 및 스타트업 생태계 확산(한국생산성본부) 등으로 나뉜다.\n\n또, LG AI연구원과 협력해 독자 파운데이션 모델 'K-엑사원'도 활용할 계획이다.\n\n이스트소프트는 알툴즈·알약·포털 줌 등 기존 국민 서비스 접점을 기반으로 알비서를 빠르게 확산하고, 다양한 전문 AI 에이전트와 국내 AI 서비스를 연결하는 개방형 플랫폼으로 성장시킨다는 전략이다.\n\n이에 별도 2차 협력 생태계도 구축했다. 마이리얼트립과 자회사 AICX, 포잉, 이큐포올, 포텐셜랩스, 컴투스홀딩스, 라온시큐어, 인공지능산업융합사업단(AICA), 지역 대학 등 여행·음식·HR 등 다양한 분야의 전문 기업과 알비서를 연계해 AI의 실질적 효용을 체감할 수 있도록 할 계획이다.\n\n정상원 이스트소프트 대표는 \"AI 기술력과 국민 소프트웨어 운영 경험을 바탕으로 분야별 전문성이 시너지를 낼 수 있도록 노력하겠다\"라며 \"상반기부터 준비해온 알비서를 통해 국민 누구나 혜택을 누릴 수 있는 AI 서비스를 선보이겠다\"라고 말했다.",
+      "published": "2026-08-20T03:06:35+00:00"
+    },
+    {
+      "id": "5741a11cec1f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "경기도, 영농형 태양광 지원 조례 추진…농업인 비용·실증사업 지원 근거 마련",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214135",
+      "summary": "경기도의회가 영농형 태양광 발전사업에 참여하는 농업인을 지원하고 실증·시범사업을 추진할 수 있는 제도적 근거 마련에 나섰다. 오는 12월 영농형 태양광 특별법 시행을 앞두고 농업생산성을 유지하면서 발전사업을 확대할 수 있도록 지방정부 차원의 지원체계를 구축하는 내용이다.경기도의회는 19일 김미숙 농정해양위원회 의원이 추진하는 ‘경기도 영농형 태양광 발전사업 활성화 및 지원에 관한 조례안’을 입법예고했다.의견수렴은 24일까지 진행된다. 조례안은 현재 입법예고 단계로 도의회 심의와 의결 절차가 남아 ",
+      "content": "경기도의회가 영농형 태양광 발전사업에 참여하는 농업인을 지원하고 실증·시범사업을 추진할 수 있는 제도적 근거 마련에 나섰다. 오는 12월 영농형 태양광 특별법 시행을 앞두고 농업생산성을 유지하면서 발전사업을 확대할 수 있도록 지방정부 차원의 지원체계를 구축하는 내용이다.\n\n경기도의회는 19일 김미숙 농정해양위원회 의원이 추진하는 ‘경기도 영농형 태양광 발전사업 활성화 및 지원에 관한 조례안’을 입법예고했다.\n\n의견수렴은 24일까지 진행된다. 조례안은 현재 입법예고 단계로 도의회 심의와 의결 절차가 남아 있다.\n\n조례안은 도지사가 영농형 태양광 지원계획을 수립하고 농업인 참여형 사업모델 발굴과 실증·시범사업, 농업생산성 조사·연구, 주민 수용성 제고, 교육·정보 제공 등을 지원할 수 있도록 했다. 사업에 참여하는 농업인과 관련 단체에는 예산 범위에서 필요한 비용 일부를 지원할 수 있는 근거도 담았다. 다만 구체적인 지원금 규모와 보조율, 대상 사업 기준은 이번 조례안에서 정하지 않았다.\n\n농업생산기반 보호도 지원과 함께 명시했다. 도지사는 영농형 태양광 때문에 농업생산기반이 훼손되지 않도록 하고 해당 농지에서 영농과 적정 수준의 농업생산성이 유지될 수 있도록 필요한 조치를 해야 한다. 영농형 태양광 지원계획과 농업생산기반 보존, 주민 수용성 등을 자문하는 11명 이내의 자문위원회 설치 근거도 마련했다.\n\n이번 조례 추진은 6월16일 제정된 ‘영농형 태양광 발전사업의 활성화 및 지원에 관한 법률’ 시행에 맞춘 후속 조치다.\n\n이 법은 12월17일부터 시행되며 국가와 지방자치단체가 영농형 태양광 활성화를 위한 행정·재정 지원방안을 마련하도록 규정하고 있다. 사업자는 농업생산활동을 계속해야 하며 발전설비가 농기계 운용과 일조량 확보 등 영농활동에 지장을 주지 않는 구조를 갖춰야 한다.",
+      "published": "2026-08-20T02:35:00+00:00"
+    },
+    {
+      "id": "b02d77f09c01",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "독일 연구진, 영농형 태양광 그늘에도 작물 적응",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214134",
+      "summary": "독일 호엔하임대학교와 율리히연구센터 연구진이 영농형 태양광 패널 그늘에서도 보리와 옥수수, 감자 등 주요 밭작물이 낮아진 빛에 맞춰 광합성 체계를 조절한다는 연구 결과를 내놨다.연구는 최근 국제학술지 European Journal of Agronomy 온라인판에 정식 공개됐다. 독일 5개 지역의 영농형 태양광과 농림복합경영 환경에서 보리, 옥수수, 양배추, 감자, 잠두 등 5개 작물을 조사했다.햇빛을 그대로 받는 구역과 부분적으로 그늘진 구역을 나눠 잎의 광합성 반응을 휴대용 장비로 측정했다. 측",
+      "content": "독일 호엔하임대학교와 율리히연구센터 연구진이 영농형 태양광 패널 그늘에서도 보리와 옥수수, 감자 등 주요 밭작물이 낮아진 빛에 맞춰 광합성 체계를 조절한다는 연구 결과를 내놨다.\n\n연구는 최근 국제학술지 European Journal of Agronomy 온라인판에 정식 공개됐다. 독일 5개 지역의 영농형 태양광과 농림복합경영 환경에서 보리, 옥수수, 양배추, 감자, 잠두 등 5개 작물을 조사했다.\n\n햇빛을 그대로 받는 구역과 부분적으로 그늘진 구역을 나눠 잎의 광합성 반응을 휴대용 장비로 측정했다. 측정 결과 그늘에서 자란 작물은 모두 암호흡과 광보상점이 낮아지는 경향을 보였다.\n\n논문에 따르면 암호흡은 햇빛을 그대로 받은 작물보다 12~46%, 광보상점은 20~54% 낮았다. 암호흡이 줄어든다는 것은 식물이 호흡 과정에서 소비하는 탄소량을 줄인다는 의미다.\n\n광보상점이 낮아지면 이전보다 적은 빛에서도 광합성을 통해 호흡으로 소비한 만큼의 탄소를 확보할 수 있다. 패널 때문에 빛이 줄어들자 작물이 에너지 소비를 낮추고 낮은 광량에 맞춰 대사 활동을 조절한 것이다.\n\n반면 이런 적응이 수확량 증가로 바로 이어지지는 않았다는 분석이다. 시험지역과 작물에 따라 생산량이 다르게 나타났으며 광합성 적응과 수확량 사이에서 공통적인 증가 패턴은 확인되지 않았다.\n\n작물별 차광 민감도에도 차이가 있다. 호엔하임대 연구진이 참여한 2022년 메타분석에서는 대부분 작물이 일사량이 약 15% 줄어드는 수준까지 비교적 견딘 반면, 옥수수와 곡물용 콩과 작물은 낮은 수준의 차광에서도 수확량 감소가 상대적으로 크게 나타났다. 이번 연구는 이런 수확량 차이와 별개로 작물이 낮은 광량에 맞춰 자체 광합성 체계를 조절할 수 있다는 생리적 근거를 보탰다.\n\n연구진은 암호흡과 광보상점 같은 지표를 활용하면 앞으로 영농형 태양광 환경에 적합한 작물이나 품종을 선별하는 데 도움이 될 수 있다고 봤다. 작물이 견딜 수 있는 차광 수준을 구체적으로 파악하면 품종 선택뿐 아니라 패널 간격과 배치 등 영농형 태양광 설계에도 활용할 수 있다.",
+      "published": "2026-08-20T02:15:00+00:00"
+    },
+    {
+      "id": "83651c6da647",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "라틴아메리카·카리브해, 5월 생산 전력 64%가 재생에너지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214136",
+      "summary": "라틴아메리카와 카리브해 지역에서 지난 5월 생산된 전력의 64%가 재생에너지에서 나왔다. 수력발전량이 지난해 같은 달보다 10테라와트시(TWh) 줄었지만, 풍력과 가스발전이 늘면서 전체 발전량은 오히려 4.1% 증가했다.라틴아메리카·카리브해 에너지기구(OLACDE)가 19일(현지시간) 공개한 월간 전력생산 보고서에 따르면 5월 지역 전체 발전량은 176TWh로 집계됐다. 전월보다 7.32%, 지난해 같은 달보다 4.1% 증가한 규모다.발전원별로는 수력이 43.4%로 가장 높은 비중을 차지했다. 이",
+      "content": "라틴아메리카와 카리브해 지역에서 지난 5월 생산된 전력의 64%가 재생에너지에서 나왔다. 수력발전량이 지난해 같은 달보다 10테라와트시(TWh) 줄었지만, 풍력과 가스발전이 늘면서 전체 발전량은 오히려 4.1% 증가했다.\n\n라틴아메리카·카리브해 에너지기구(OLACDE)가 19일(현지시간) 공개한 월간 전력생산 보고서에 따르면 5월 지역 전체 발전량은 176TWh로 집계됐다. 전월보다 7.32%, 지난해 같은 달보다 4.1% 증가한 규모다.\n\n발전원별로는 수력이 43.4%로 가장 높은 비중을 차지했다. 이어 천연가스 24.4%, 풍력 11.6%, 석유 및 석유제품 5.8%, 태양광 4.7%, 바이오에너지 3.8%, 석탄 3.4%, 원전 2.4%, 지열 0.5% 순이었다. 수력 의존도가 여전히 높은 가운데, 풍력도 두 자릿수 비중을 유지했다.\n\n수력발전은 물 이용 여건 악화로 지난해 같은 달보다 10TWh 감소했다. 반면 천연가스 발전은 6TWh, 풍력은 4.4TWh 늘었다. 석탄과 석유계 발전도 각각 3.3TWh와 1.9TWh 증가했다.\n\n국가별 차이도 컸다. 27개 OLACDE 회원국 가운데 파라과이는 5월 발전량의 100%를 재생에너지로 생산했다.\n\n코스타리카 96%, 우루과이 94%, 브라질 89%, 콜롬비아와 베네수엘라가 각각 82%로 뒤를 이었다. 벨리즈 75%, 에콰도르 72%, 페루 66%도 지역 평균을 웃돌았다.",
+      "published": "2026-08-20T02:10:00+00:00"
+    },
     {
       "id": "28005e5e9263",
       "source": "ZDNet Korea",
@@ -280,17 +364,6 @@
       "published": "2026-08-19T18:46:14+00:00"
     },
     {
-      "id": "2246013b1d26",
-      "source": "Fireship",
-      "kind": "youtube",
-      "category": "DEV",
-      "lang": "en",
-      "title": "The summer Math fell to the machines...",
-      "link": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
-      "summary": "",
-      "published": "2026-08-19T18:45:57+00:00"
-    },
-    {
       "id": "5b564bf4b5d2",
       "source": "Hacker News",
       "kind": "article",
@@ -298,7 +371,7 @@
       "lang": "en",
       "title": "Go 1.27",
       "link": "https://go.dev/blog/go1.27",
-      "summary": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 470 # Comments: 125",
+      "summary": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 491 # Comments: 130",
       "content": "Nicholas Husin, on behalf of the Go team 19 August 2026\n\nToday the Go team is pleased to release Go 1.27. You can find its binary archives and installers on the download page .\n\nGo 1.27 brings major enhancements across the language, toolchain, runtime, and standard library. Below are some of the key highlights.\n\nGo 1.27 introduces three notable updates to the language specification .\n\nFirst, generic methods are now supported. For example, see math/rand/v2.Rand :\n\nSecond, a key in a struct literal may now be any valid field selector for the struct type, allowing fields in nested or embedded structs to be initialized directly:\n\nFinally, function type inference has been generalized to apply in all assignment contexts. Generic functions can now be used without explicit type arguments in composite literals, type conversions, and channel sends:\n\nPlease read the Go 1.27 release notes for the complete list of changes and details.\n\nOver the next few weeks, follow-up blog posts will cover some of the topics relevant to Go 1.27 in more detail. Check back later to read those posts.\n\nThanks to everyone who contributed to this release by writing code, filing bugs, trying out experimental additions, and testing release candidates. As always, if you notice any problems, please file an issue .\n\nWe hope you enjoy using Go 1.27!",
       "published": "2026-08-19T18:33:49+00:00"
     },
@@ -313,17 +386,6 @@
       "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account ",
       "content": "Leaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\n\nValve just leaked several new videos showing the Steam Frame’s unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were “quickly pulled after that,” according to the Steam Hardware Updates account on X .\n\nThe Steam Frame is Valve’s virtual-reality headset that can stream games from a PC or play them locally. Valve first took the wraps off the headset last year, and it offers LCD screens with 2160 x 2160 resolution per eye, a Snapdragon 8 Gen 3 chip, and an up to 110-degree field of view. But these leaked videos offer a closer look at what it might be like to unbox and set up the new device.\n\nAs shown in one of the videos , Valve shows how you can use the Steam Frame’s “pivot arms” to adjust the position of the headset, as well as how to insert a spacer beneath the face gasket if you wear glasses. Another video details how you can plug the wireless dongle into your PC or Steam Machine to stream games.\n\nThere’s an “Ergonomic Accessories Kit” as well , which includes hand straps to keep your hands attached to the controller, along with a top head strap to “improve weight distribution and provide “extra headset stability.” The kit also has an extended light blocker designed for people with smaller noses, as it can better seal the area between their face and the Steam Frame. You can find the links to all of Valve’s leaked videos from this post on Reddit .\n\nThough Valve previously said that it plans to release the Steam Frame this summer , it hasn’t yet shared an exact launch date. Still, that timeframe, these setup videos, and a recent 13-ton shipment of VR headsets could all indicate that a launch is right around the corner.\n\nThis is the title for the native ad",
       "published": "2026-08-19T18:16:27+00:00"
-    },
-    {
-      "id": "b97c8b9f795b",
-      "source": "Two Minute Papers",
-      "kind": "youtube",
-      "category": "AI",
-      "lang": "en",
-      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-      "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-      "summary": "",
-      "published": "2026-08-19T18:02:46+00:00"
     },
     {
       "id": "7d3ecd7f605c",
@@ -369,7 +431,7 @@
       "lang": "en",
       "title": "OpenRouter is joining Stripe",
       "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 664 # Comments: 353",
+      "summary": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 696 # Comments: 361",
       "content": "OpenRouter · 8/19/2026\n\nToday, we are excited to announce that we are joining forces with Stripe , to power the next wave of GDP growth globally.\n\nOpenRouter is the first and largest model marketplace and gateway. We are the best way to discover and use any AI model, with one interface, broad provider choice, model-agnostic observability, cost management, and routing that improves price, performance, and uptime. We now process 10+ trillion tokens per day from 400+ AI models for a community of over 10 million developers and companies. Since our founding, we have seen at least 10x growth in inference volume every year.\n\nWe want to explain why we made the decision to join forces with Stripe and what it means for the millions of developers and companies that build on us.\n\nOpenRouter will continue to operate as it is: same mission, same name, same product, same roadmap. If you build on OpenRouter today, nothing about your integration changes.\n\nOpenRouter exists to give users every model on equal footing, provide open signals about how they’re used in the market, help developers orchestrate them together, and make them observable and manageable at scale. That commitment is core to how we operate, and it doesn’t bend to any model, any provider, or any parent company. It also extends to a growing ecosystem of inference-adjacent services, including AI-native web search, context management, and more to come.\n\nRouting decisions will remain driven by one thing: what’s best for you, the user.\n\nWe started OpenRouter in early 2023 on a simple belief: intelligence will be multi-model. No single model will win every task, and the frontier will move rapidly. That freedom is critical infrastructure for the industry. AI is too important for its future to be decided by whichever single model gets embedded first. AI has become the single largest driver of economic growth in the US, and inference is quickly becoming the largest line item for every company.\n\nWe envision a healthy AI ecosystem where many models thrive, where AI neurodiversity is a strength, where a lab or an inference provider with a breakthrough can reach millions of developers, and where no single model becomes the default by inertia.\n\nOur mission is to realize this future, and it’s more important than anything else. The opportunity with Stripe allows us to accelerate it together.\n\nThere are few companies on earth we would have considered selling to; our mission, our neutrality, and our lead in the market make the story for independence strong. We would only join a company if we thought we could do more together, faster, without compromising any of them.\n\nStripe is that company. They are the best financial infrastructure platform in the world. Their API set the standard that developer products, including ours, have been measured against ever since. This is a combination of two platforms that developers choose on merit, with cultures focused on quality, scale, and commitment to builders, and that will remain essential in a post-AGI economy.\n\nFor years, OpenRouter has been called “Stripe for LLMs.” Both companies share common DNA: we abstract complex infrastructure and market dynamics into delightful APIs, and we obsess over the developer and user on the other side of it. Businesses trust Stripe to optimize every part of their revenue stack, across payment methods, authorization, fraud, and more. Builders, customers, model labs, and providers trust OpenRouter to run a neutral, reliable layer across a fast-moving ecosystem.\n\nStripe brings a large customer network, data on how internet businesses grow, and years of experience running trusted global infrastructure. There is also no one better at managing fraud and abuse, something we believe will only become more challenging for AI companies to address. We can now serve developers at a pace we couldn’t reach alone.\n\nTo our customers: Thank you. We’re honored to be part of your journey, and we’re just getting started. OpenRouter’s product, mission, and current commitments remain unchanged. Joining Stripe helps us pursue them faster, and our ability to support you will only improve.\n\nTo our employees: We firmly believe that the next few years will be the most important time of our lives, and the most important for our mission. We are so grateful to have the privilege of being alive during this transformation for the world, and that I get to do it with you. You are some of the most brilliant, creative, curious, and determined people there are, and we’re excited to grow our team for an even greater global impact.\n\nTo everyone else who believes in our mission: come join us . Fitting into a role isn’t as important as having our values: curiosity, rigor, agency, and transparency. AI will transform the way companies are organized, and OpenRouter will innovate significantly here. And as we grow, we will relentlessly aim to preserve the velocity, agility, efficiency, and talent density of the 90-person startup that we are today.\n\n— Alex, Chris, Louis, and the OpenRouter team\n\nThe transaction is subject to customary closing conditions. We expect to close in the coming weeks.",
       "published": "2026-08-19T17:32:38+00:00"
     },
@@ -489,7 +551,7 @@
       "lang": "en",
       "title": "Remote workers report the highest well-being in study of 7,700 employees",
       "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-      "summary": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees Comments URL: https://news.ycombinator.com/item?id=49362934 Points: 509 # Comments: 251",
+      "summary": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees Comments URL: https://news.ycombinator.com/item?id=49362934 Points: 524 # Comments: 260",
       "content": "For years, many employers have worried that work-from-home arrangements leave employees isolated, disconnected from coworkers and more likely to leave their jobs.\n\nBut according to a new study, remote workers are doing better than many employers realize.\n\nResearchers analyzed survey data from 7,704 employees at a large healthcare organization. One pattern stood out: Employees who worked fully remotely reported the highest levels of well-being, while those who worked entirely onsite reported the lowest. The study also found little evidence that remote workers felt less connected to colleagues or workplace culture.\n\n\"This suggests you let people work remotely if they want to work remotely,\" said Stefanie Johnson , professor of organizational leadership and information analytics at the Leeds School of Business and co-author of the study, published in July 2026 in the journal Frontiers in Psychology . \"Taking away people's choice of how they work is probably not going to help them in terms of their well-being.\"\n\n\"The data from our study and others suggest remote and hybrid work result in better outcomes than return-to-office mandates,\" she said. \"Leaders are not making decisions based on data. I think they are just returning to what they are used to.\"\n\nJohnson, who co-authored the study with Alyssa Lezcano, Stephanie Zajac and Courtney Holladay of the MD Anderson Leadership Institute in Houston, said the results surprised her. She thought employees who split their time between home and the office might have the best of both worlds.\n\n\"I actually thought you would be happiest if you were part time out of the office,\" she said. \"Then every once in a while you get to see people, get that human connection.\"\n\nInstead, the data pointed in a different direction.\n\nAmong employees in the study, well-being was highest for fully remote workers, followed by hybrid employees and then onsite workers.\n\nThe findings also cast doubt on one of the main arguments for bringing employees back to the office: that people need to be together in person to feel connected.\n\nEmployees in the study were asked to describe their organization's culture in a handful of words. Remote workers were slightly more likely than their hybrid and onsite peers to use words associated with teamwork, inclusion and support.\n\n\"People who are remote actually said more things that indicated they had more positive connections, even though they were remote,\" Johnson said.\n\nStill, Johnson said face-to-face interaction can play an important role in helping coworkers build relationships, especially if they are just starting out in their careers.\n\n\"Remote works better after you know people,\" she said. \"So there is still a benefit of having some face time.\"\n\nThe researchers also examined employee turnover one year after the survey was completed.\n\nThey found that employees with higher well-being were less likely to leave the organization. Work location itself was not a strong direct predictor of turnover. Instead, remote work was associated with higher well-being, which in turn was associated with lower turnover.\n\n\"It makes sense. If you have higher well-being, you're less likely to leave your job,\" Johnson said.\n\nParticipants completed the workplace survey in 2023, and researchers compared those responses with actual turnover records one year later. Of the employees surveyed, roughly half worked onsite, with the remainder split between hybrid and fully remote arrangements.\n\nThe study did not explore why remote workers reported higher well-being, but Johnson points to a growing body of research on autonomy and flexibility.\n\nOne explanation is that remote workers have greater control over their work setup and daily schedule, she said.\n\n\"If you have control over your environment, you tend to have more positive outcomes,\" she said.\n\nWorking from home can also eliminate many everyday stressors.\n\n\"Spending a lot of time in traffic is negatively related to well-being,\" Johnson said. \"There are so many little stressors associated with being in the office.\"\n\nThose stressors can include arranging child care, hiring help for pets or managing the logistics of getting to and from work, she said.\n\nJohnson said the study points to a broader lesson for employers navigating return-to-office debates. Rather than focusing only on where employees work, organizations may get better results by investing in employee well-being.\n\n\"I think flexibility is here to stay,\" she said.\n\nSubmit an Administrative eMemo",
       "published": "2026-08-19T15:32:08+00:00"
     }
