@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-20T12:01:06.091665+00:00",
-  "count": 10183,
+  "updated_at": "2026-08-20T13:09:43.427855+00:00",
+  "count": 10190,
   "items": [
+    {
+      "id": "8588f25eb926",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI data giant Alation confirms cyberattack",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+      "published": "2026-08-20T13:01:24+00:00",
+      "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach."
+    },
+    {
+      "id": "9e14a6389dde",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "For a16z, AI gives foreign founders an advantage",
+      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "published": "2026-08-20T13:00:00+00:00",
+      "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes."
+    },
+    {
+      "id": "e6781b947df1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "published": "2026-08-20T12:43:19+00:00",
+      "summary": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States."
+    },
+    {
+      "id": "ab140c4c7724",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "published": "2026-08-20T12:11:57+00:00",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature."
+    },
+    {
+      "id": "89e3a471f5bd",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "published": "2026-08-20T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the bac"
+    },
     {
       "id": "dc02e06d9f03",
       "source": "The Verge",
@@ -23,6 +78,17 @@
       "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "published": "2026-08-20T12:00:00+00:00",
       "summary": "Slack is introducing dedicated channels where teams can vibe code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare co"
+    },
+    {
+      "id": "0aa9dabb93dc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "published": "2026-08-20T12:00:00+00:00",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare co"
     },
     {
       "id": "fe828e1386d1",
@@ -672,6 +738,17 @@
       "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
       "published": "2026-08-20T06:16:40+00:00",
       "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 218 # Comments: 87"
+    },
+    {
+      "id": "153c48e45829",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "published": "2026-08-20T06:16:40+00:00",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 254 # Comments: 97"
     },
     {
       "id": "5de23350c534",
