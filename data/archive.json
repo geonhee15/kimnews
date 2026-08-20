@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T11:03:17.032326+00:00",
-  "count": 10170,
+  "updated_at": "2026-08-20T11:40:23.463323+00:00",
+  "count": 10173,
   "items": [
+    {
+      "id": "fe828e1386d1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+      "published": "2026-08-20T11:30:00+00:00",
+      "summary": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon"
+    },
+    {
+      "id": "a529b95df169",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+      "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
+      "published": "2026-08-20T11:02:00+00:00",
+      "summary": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade."
+    },
     {
       "id": "8237d219e464",
       "source": "조코딩",
@@ -529,6 +551,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214164",
       "published": "2026-08-20T06:20:32+00:00",
       "summary": "중국 정부가 미국 엔비디아의 AI 가속기 'H200'의 중국 본토 반입을 일부 허용하기 시작했다. 19일(현지시간) 파이낸셜타임스에 따르면, 중국 규제당국은 최근 바이트댄스와 텐센트에 각각 1만개의 H200 프로세서 반입을 승인했다.두 회사는 최근 몇 주 동안 물량을 공급받은 것으로 알려졌다. 다른 주요 중국 기술 기업들도 국가발전개혁위원회(NDRC)의 개별 승인을 거쳐 비슷한 규모의 소량 선적을 조만간 받을 가능성이 있는 것으로 전해졌다.앞서 미국 정부는 승인된 중국 기업들이 각각 최대 10만개"
+    },
+    {
+      "id": "c051b625f371",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Windows brings out the Rorschach test in everyone",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "published": "2026-08-20T06:16:40+00:00",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 218 # Comments: 87"
     },
     {
       "id": "5de23350c534",
