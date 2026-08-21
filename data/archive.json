@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-21T21:47:30.343694+00:00",
-  "count": 10382,
+  "updated_at": "2026-08-21T22:18:09.391949+00:00",
+  "count": 10385,
   "items": [
+    {
+      "id": "6b286869dbb6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "published": "2026-08-21T22:10:01+00:00",
+      "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
+    },
     {
       "id": "ebad049f4205",
       "source": "The Verge",
@@ -9,6 +20,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Over one million people have clicked LinkedIn’s AI slop button",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "published": "2026-08-21T21:25:50+00:00",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible"
+    },
+    {
+      "id": "46b069fc0e66",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "published": "2026-08-21T21:25:50+00:00",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible"
@@ -309,6 +331,17 @@
       "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "published": "2026-08-21T11:59:48+00:00",
       "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
+    {
+      "id": "c3eb9b6f8c98",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I'm becoming AI-blind",
+      "link": "https://cymerys.com/w/im-becoming-ai-blind",
+      "published": "2026-08-21T11:48:05+00:00",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 202 # Comments: 207"
     },
     {
       "id": "cfdb5f7075e8",
