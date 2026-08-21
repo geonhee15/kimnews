@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-21T15:02:02.601796+00:00",
-  "count": 10361,
+  "updated_at": "2026-08-21T15:47:15.742053+00:00",
+  "count": 10368,
   "items": [
+    {
+      "id": "07f30d6a096f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Big Reckoning Is Here",
+      "link": "https://www.wired.com/story/metas-big-reckoning-is-here/",
+      "published": "2026-08-21T15:00:00+00:00",
+      "summary": "Meta is in court again over child safety, and this time it’s a landmark case that could force significant changes to core features of Facebook and Instagram."
+    },
     {
       "id": "7f490303e7bd",
       "source": "The Verge",
@@ -23,6 +34,17 @@
       "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
       "published": "2026-08-21T14:30:23+00:00",
       "summary": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay."
+    },
+    {
+      "id": "e71947e7d052",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "link": "https://kagi.com/changelog#11296",
+      "published": "2026-08-21T13:56:37+00:00",
+      "summary": "Article URL: https://kagi.com/changelog#11296 Comments URL: https://news.ycombinator.com/item?id=49388154 Points: 351 # Comments: 128"
     },
     {
       "id": "50b501dc6e0c",
@@ -56,6 +78,50 @@
       "link": "https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal",
       "published": "2026-08-21T13:20:29+00:00",
       "summary": "Good news for Blue Eye Samurai fans: Netflix has shared the first trailer and release timeline for the second season of the animated series, and confirmed the series' return for a third and final season. The second season's new teaser ends with the announcement that it'll be avai"
+    },
+    {
+      "id": "6804137f8d74",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "published": "2026-08-21T13:11:35+00:00",
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
+    },
+    {
+      "id": "f0d3ea392f0f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이겔, 호주 멜버른서 나우 앤 넥스트 워크스페이스 & 엔드포인트 보안 서밋 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260821221013",
+      "published": "2026-08-21T13:10:13+00:00",
+      "summary": "[지디넷코리아] 고객, 파트너, 업계 리더가 한자리…엔드포인트 보안과 복원력, 안전한 워크스페이스 제공 방안 논의 멜버른, 호주, 2026년 8월 21일 /PRNewswire/ -- 아이겔 Adaptive Secure Endpoint Platform™을 공급하는 글로벌 소프트웨어 기업 아이겔®(IGEL®)이 오는 2026년 9월 17일 파크 하얏트 멜버른에서 아이겔 나우 앤 넥스트® 워크스페이스 & 엔드포인트 보안 서밋(IGEL Now & Next® Workspace & Endpoint Secur"
+    },
+    {
+      "id": "8c243720e85f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제이씨이티, 2026년 상반기 주주 귀속 순이익 전년 동기 대비 79.4% 증가…첨단 패키징 확장 가속화",
+      "link": "https://zdnet.co.kr/view/?no=20260821221003",
+      "published": "2026-08-21T13:10:03+00:00",
+      "summary": "[지디넷코리아] 상하이 2026년 8월 21일 /PRNewswire/ -- 글로벌 집적회로(IC) 후공정 제조 및 기술 서비스 선도 기업 제이씨이티 그룹(JCET Group, 상하이증권거래소: 600584)이 8월 20일 2026년 상반기 실적을 발표했다. 2026년 상반기 매출은 195억 3000만 위안으로 전년 동기 대비 5.0% 증가해 회사 역사상 상반기 기준 최고치를 기록했다. 주주 귀속 순이익은 8억 4000만 위안으로 전년 동기 대비 79.4% 증가했으며, 비경상 항목을 제외한 조정 주"
+    },
+    {
+      "id": "31a7df63535a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "뉴패러다임인베스트먼트 육성 5개사, '딥테크 TIPS' 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260821220835",
+      "published": "2026-08-21T13:08:35+00:00",
+      "summary": "[지디넷코리아]뉴패러다임인베스트먼트가 육성한 포트폴리오 5개사가 중소벤처기업부의 딥테크 팁스(TIPS)에 선정돼 합산 최대 75억원의 연구개발(R&D) 재원을 확보할 수 있게 됐다.뉴패러다임인베스트먼트는 초기 발굴 단계부터 창업팀의 실행력과 기술 확장성을 검증하며 포트폴리오의 전주기 성장을 지원해 왔다. 올해 8월 기준 TIPS 추천기업 선정률 98%, TIPS 계열 누적 선정 기업 49개사를 기록 중이다.21일 박제현 뉴패러다임인베스트먼트 공동대표에 따르면 바이오 분야 백스다임은 미생물 기반 단"
     },
     {
       "id": "575147dde5c1",
@@ -441,6 +507,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214228",
       "published": "2026-08-21T07:35:00+00:00",
       "summary": "아이에이클라우드(대표 김성동)는 서울 코엑스에서 열린 ‘2026 OCP 코리아 테크 데이’에서 모듈형 프라이빗 AI 데이터센터(MDC) 솔루션 ‘네오큐브’를 선보였다고 21일 밝혔다.네오큐브는 전력·냉각 설비, 그래픽처리장치(GPU)·신경망처리장치(NPU) 연산장치, 프라이빗 클라우드 소프트웨어, AI 서비스 플랫폼을 규격화된 단위로 결합한 모듈형 데이터센터다.부스에서는 관련 소프트웨어도 함께 소개했다. 커널 기반 가상화(KVM) 기반 프라이빗 AI 클라우드 인프라 플랫폼 ‘클라우디아(Cloud:"
+    },
+    {
+      "id": "fae63e67d514",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "published": "2026-08-21T07:23:27+00:00",
+      "summary": "Article URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/ Comments URL: https://news.ycombinator.com/item?id=49384896 Points: 204 # Comments: 118"
     },
     {
       "id": "89c051203292",
