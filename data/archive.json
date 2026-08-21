@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-21T19:21:51.698645+00:00",
-  "count": 10373,
+  "updated_at": "2026-08-21T19:46:41.896953+00:00",
+  "count": 10377,
   "items": [
+    {
+      "id": "5c8303c5a18f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
+      "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+      "published": "2026-08-21T19:44:55+00:00",
+      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut"
+    },
+    {
+      "id": "b6ca302c5f30",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "published": "2026-08-21T19:43:39+00:00",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+    },
     {
       "id": "5f17c362f92a",
       "source": "The Verge",
@@ -36,6 +58,17 @@
       "summary": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted material includes \"a"
     },
     {
+      "id": "de48cec25c9d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kobo can run apps now",
+      "link": "https://bandarlabs.github.io/Cobalt/",
+      "published": "2026-08-21T16:25:25+00:00",
+      "summary": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 208 # Comments: 82"
+    },
+    {
       "id": "86ee060ecede",
       "source": "TechCrunch",
       "kind": "article",
@@ -45,6 +78,17 @@
       "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
       "published": "2026-08-21T16:01:54+00:00",
       "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries."
+    },
+    {
+      "id": "6b3407155eca",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Felony Bench",
+      "link": "https://www.felonybench.com/",
+      "published": "2026-08-21T15:17:04+00:00",
+      "summary": "Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 246 # Comments: 115"
     },
     {
       "id": "07f30d6a096f",
