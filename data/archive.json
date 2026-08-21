@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-21T08:57:19.200967+00:00",
-  "count": 10335,
+  "updated_at": "2026-08-21T09:33:53.782428+00:00",
+  "count": 10338,
   "items": [
+    {
+      "id": "2a4578b7e317",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "결국 중국에 한 수 접은 애플...그런데 성능이?",
+      "link": "https://www.youtube.com/shorts/EUyJRKopRUY",
+      "published": "2026-08-21T09:00:21+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1006f1c1b4e9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 시대, 기업은 어떤 인재를 뽑을까? AX 인재전쟁 본선 스케치 | OpenAI × 조코딩AX파트너스",
+      "link": "https://www.youtube.com/watch?v=IoI3LQUctkM",
+      "published": "2026-08-21T09:00:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "09cb39ea5856",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "When AI designs a drug, who gets the credit?",
+      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using A"
+    },
     {
       "id": "78617254dfb3",
       "source": "AI타임스",
