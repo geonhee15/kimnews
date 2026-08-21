@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-21T11:50:41.239922+00:00",
-  "count": 10347,
+  "updated_at": "2026-08-21T12:34:53.034997+00:00",
+  "count": 10350,
   "items": [
+    {
+      "id": "3a26b92514ea",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published": "2026-08-21T11:59:48+00:00",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    },
     {
       "id": "cfdb5f7075e8",
       "source": "Wired",
@@ -12,6 +23,17 @@
       "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
       "published": "2026-08-21T11:33:00+00:00",
       "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead"
+    },
+    {
+      "id": "5e0cbf28aeb9",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "published": "2026-08-21T11:00:53+00:00",
+      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
     },
     {
       "id": "7aee2fb5ad54",
@@ -1222,6 +1244,17 @@
       "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
       "published": "2026-08-20T18:49:07+00:00",
       "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it."
+    },
+    {
+      "id": "9725f2fc2c4c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why aren't smart people happier? (2022)",
+      "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "published": "2026-08-20T18:38:47+00:00",
+      "summary": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 210 # Comments: 299"
     },
     {
       "id": "2102ad96dd9a",
