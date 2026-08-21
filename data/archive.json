@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-21T03:35:51.812200+00:00",
-  "count": 10279,
+  "updated_at": "2026-08-21T04:22:18.659601+00:00",
+  "count": 10285,
   "items": [
+    {
+      "id": "0d9d62236c65",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214203",
+      "published": "2026-08-21T04:10:37+00:00",
+      "summary": "메타가 영상과 음성을 동시에 만들어내는 차세대 영상 생성 기술의 상용화에 속도를 내고 있다. 20일(현지시간) 테스팅카탈로그에 따르면, 메타는 자체 개발한 차세대 영상 생성 AI 모델 ‘뮤즈 비디오(Muse Video)’의 비공개 베타 테스트에 돌입했다.뮤즈 비디오는 지난 7월 이미지 생성 모델 ‘뮤즈 이미지(Muse Image)’와 함께 처음 소개됐으며, 현재 실제 사용 환경에서 성능과 완성도를 검증하는 단계다. 현재 일부 파트너와 크리에이터를 대상으로 제한적인 테스트가 진행되고 있다. 테스트 "
+    },
+    {
+      "id": "6a91193fe0c1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 코딩 스타트업 풀사이드와 8조 규모 라이선스·인재 채용 계약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214200",
+      "published": "2026-08-21T03:59:31+00:00",
+      "summary": "엔비디아가 AI 코딩 스타트업 풀사이드(Poolside)의 핵심 기술과 인원을 확보하기 위해 60억달러(약 8조원)를 지급하기로 한 것으로 알려졌다. 규제를 피하기 위한 '애퀴하이어(acquihire)' 방식처럼 보이지만, 풀사이드는 비독점 라이선스 및 인재 채용 계약일 뿐이라고 선을 그었다.20일(현지시간) 디 인포메이션에 따르면, 엔비디아는 AI 모델 개발 역량을 강화하기 위해 풀사이드와 60억달러 규모의 대형 라이선스 및 인재 채용 계약을 체결했다. 풀사이드는 투자자들에게 보낸 서한에서 엔비"
+    },
     {
       "id": "fad6e716f4e7",
       "source": "AI타임스",
@@ -454,6 +476,17 @@
       "summary": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland."
     },
     {
+      "id": "c6098514698d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The August 17 outage",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "published": "2026-08-20T19:22:24+00:00",
+      "summary": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 386 # Comments: 432"
+    },
+    {
       "id": "541f6382a12b",
       "source": "TechCrunch",
       "kind": "article",
@@ -663,6 +696,17 @@
       "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
     },
     {
+      "id": "4f7bd990130e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Linux 7.2",
+      "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "published": "2026-08-20T15:46:18+00:00",
+      "summary": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 212 # Comments: 73"
+    },
+    {
       "id": "a32431dbaba0",
       "source": "The Verge",
       "kind": "article",
@@ -694,6 +738,17 @@
       "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
       "published": "2026-08-20T15:30:34+00:00",
       "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one"
+    },
+    {
+      "id": "c3df7f20659b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "link": "https://github.com/zachahn/vomit",
+      "published": "2026-08-20T15:26:02+00:00",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 205 # Comments: 218"
     },
     {
       "id": "efd7749d56e0",
@@ -2960,6 +3015,17 @@
       "link": "https://www.youtube.com/watch?v=8ucoskmA1yg",
       "published": "2026-08-19T11:45:22+00:00",
       "summary": ""
+    },
+    {
+      "id": "c53615153707",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "link": "https://arxiv.org/abs/2504.09762",
+      "published": "2026-08-19T11:35:26+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2504.09762 Comments URL: https://news.ycombinator.com/item?id=49360140 Points: 200 # Comments: 122"
     },
     {
       "id": "d0ae671c13ae",
