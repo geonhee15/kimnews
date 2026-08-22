@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T04:59:23.996074+00:00",
-  "count": 10420,
+  "updated_at": "2026-08-22T05:31:27.959830+00:00",
+  "count": 10422,
   "items": [
     {
       "id": "9378e07e1e38",
@@ -64,6 +64,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽, '미소스 5' 적용 범위 확대…해킹 악용 차단하고 사이버 방어 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214242",
+      "published": "2026-08-22T02:15:37+00:00",
+      "summary": "앤트로픽이 사이버 보안 특화 모델 ‘클로드 미소스 5’를 기업용 보안 제품인 ‘클로드 시큐리티(Claude Security)’에 통합했다. 기업 보안팀이 미소스 5 모델 자체에 직접 접근하지 않고도 코드의 취약점을 탐지하고 수정 방안을 제안받을 수 있도록 해, 강력한 사이버 방어 능력은 제공하면서 악용 가능성은 제한하는 새로운 접근법을 제시했다.앤트로픽은 21일(현지시간) 클로드 엔터프라이즈 고객을 대상으로 클로드 시큐리티의 취약점 스캔 기능을 공개 베타로 제공한다고 밝혔다.이제 클로드 시큐리티의"
+    },
+    {
+      "id": "89b2ce9c4757",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '미소스 5' 적용 범위 확대…악용 차단하고 사이버 방어 지원",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214242",
       "published": "2026-08-22T02:15:37+00:00",
       "summary": "앤트로픽이 사이버 보안 특화 모델 ‘클로드 미소스 5’를 기업용 보안 제품인 ‘클로드 시큐리티(Claude Security)’에 통합했다. 기업 보안팀이 미소스 5 모델 자체에 직접 접근하지 않고도 코드의 취약점을 탐지하고 수정 방안을 제안받을 수 있도록 해, 강력한 사이버 방어 능력은 제공하면서 악용 가능성은 제한하는 새로운 접근법을 제시했다.앤트로픽은 21일(현지시간) 클로드 엔터프라이즈 고객을 대상으로 클로드 시큐리티의 취약점 스캔 기능을 공개 베타로 제공한다고 밝혔다.이제 클로드 시큐리티의"
@@ -133,6 +144,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214238",
       "published": "2026-08-22T01:08:55+00:00",
       "summary": "딥시크가 이미지와 텍스트를 동시에 이해하고 에이전트 작업까지 수행할 수 있는 실험적 멀티모달 모델을 공개하며 앤트로픽의 '클로드 오퍼스 4.8'에 도전장을 던졌다.딥시크는 API 플랫폼에 ‘딥시크-V4-플래시-비전-Exp(DeepSeek-V4-Flash-Vision-Exp)’를 출시했다고 21일 밝혔다.이 모델은 기존 텍스트 중심의 '딥시크 V4-플래시'에 이미지 이해 기능을 결합한 것으로, 에이전트 작업과 추론, 일반적인 세계 지식 등 텍스트 영역에서는 V4-플래시와 동일한 수준의 성능을 유지하"
+    },
+    {
+      "id": "6aa7aac48c96",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "There's no reason for software to be slow anymore",
+      "link": "https://danluu.com/perf-opt/",
+      "published": "2026-08-22T01:06:17+00:00",
+      "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 219 # Comments: 166"
     },
     {
       "id": "f639cdc774b4",
