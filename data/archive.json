@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-22T18:59:46.415726+00:00",
-  "count": 10453,
+  "updated_at": "2026-08-22T19:26:22.477621+00:00",
+  "count": 10455,
   "items": [
+    {
+      "id": "d3e59e53f6c5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "published": "2026-08-22T19:00:00+00:00",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+    },
     {
       "id": "7d9d66c54248",
       "source": "AI타임스",
@@ -199,6 +210,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214249",
       "published": "2026-08-22T06:18:55+00:00",
       "summary": "AI 라우팅 전문 오픈라우터(OpenRouter)에 정체불명의 프론티어급 모델 'Ox 알파(Ox Alpha)'가 깜짝 등장하며 기술 커뮤니티가 뜨겁게 달아오르고 있다. 20일(현지시간) 오픈라우터에는 운영 주체가 베일에 가려진 스텔스 형태로 Ox 알파가 업로드됐다. 일주일간 '하루 100조 토큰'이라는 파격적인 무료 제공 정책과 함께 기존 첨단 AI 기업의 최상위 모델들을 위협하는 코딩과 추론 성능을 선보이며 제2의 '딥시크 파동'을 예고하는 분위기다.Ox 알파는 100만 토큰에 달하는 대용량 컨"
+    },
+    {
+      "id": "23f382860d15",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "published": "2026-08-22T06:16:57+00:00",
+      "summary": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 207 # Comments: 824"
     },
     {
       "id": "9f6e69f045ff",
