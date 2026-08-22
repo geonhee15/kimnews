@@ -1,8 +1,32 @@
 {
   "issue_date": "2026-08-22",
-  "generated_at": "2026-08-22T02:13:26.162460+00:00",
+  "generated_at": "2026-08-22T03:07:59.105738+00:00",
   "count": 36,
   "items": [
+    {
+      "id": "2b0f86d2cae0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터 잡는다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214244",
+      "summary": "엔비디아가 미국 내 AI 데이터센터 인프라 개발업체 클로버리프 인프라스트럭처(Cloverleaf Infrastructure)에 소수 지분을 투자하고 전략적 협력에 나선다. AI 연산 수요가 급증하는 가운데 데이터센터 구축에 필요한 토지와 전력 확보 단계부터 관여해 AI 칩과 네트워크, 소프트웨어 수요를 선점하려는 행보로 풀이된다.클로버리프는 21일(현지시간) 엔비디아와 미국 전역의 디지털 인프라 개발을 가속하기 위한 전략적 파트너십을 체결했다고 밝혔다.구체적인 투자 금액과 지분율을 밝히지 않았으나",
+      "content": "엔비디아가 미국 내 AI 데이터센터 인프라 개발업체 클로버리프 인프라스트럭처(Cloverleaf Infrastructure)에 소수 지분을 투자하고 전략적 협력에 나선다. AI 연산 수요가 급증하는 가운데 데이터센터 구축에 필요한 토지와 전력 확보 단계부터 관여해 AI 칩과 네트워크, 소프트웨어 수요를 선점하려는 행보로 풀이된다.\n\n클로버리프는 21일(현지시간) 엔비디아와 미국 전역의 디지털 인프라 개발을 가속하기 위한 전략적 파트너십을 체결했다고 밝혔다.\n\n구체적인 투자 금액과 지분율을 밝히지 않았으나, 외신은 투자 규모를 수억달러 수준으로 추정했다. 2024년 설립된 클로버리프는 데이터센터 개발사와 전력회사, 투자자를 연결해 인프라용 부지와 전력을 공급하는 전문 기업이다. 현재 미국 중서부와 남동부를 중심으로 약 10GW 규모의 프로젝트 파이프라인을 보유하고 있다.\n\n이번 협력으로 클로버리프의 데이터센터 개발 과정에 엔비디아의 통합 설계 최적화 플랫폼인 ‘DSX’가 적용된다. 이를 통해 데이터센터 초기 부지·전력·냉각 분석부터 운용 효율화까지 엔비디아의 AI 팩토리 기술이 원스톱으로 탑재된다. 클로버리프 고객사들도 엔비디아의 가속 컴퓨팅과 고성능 네트워킹, 인프라 소프트웨어를 기본 채택하게 된다.\n\n데이비드 베리 클로버리프 CEO는 \"급증하는 AI 인프라 수요에 맞춰 미국 내 고품질 데이터센터 부지를 더욱 효과적으로 개발하겠다\"고 밝혔다. 니코 카프레츠 엔비디아 부사장 역시 \"AI 팩토리의 핵심은 토지와 전력이며 클로버리프는 해당 분야의 전문성을 갖춘 기업\"이라고 강조했다.\n\n엔비디아의 이번 투자는 단순 칩 공급을 넘어 전력망 확보와 부지 선점 등 인프라 전반으로 시장 지배력을 넓히려는 의도로 풀이된다. 엔비디아는 최근 SB 에너지에 15억 달러를 투자하고 전력 업체 랜시엄에 대규모 자금을 투입하는 등 인프라 생태계 구축에 속도를 내고 있다.\n\n한편, 디 인포메이션은 이러한 엔비디아의 최근 부동산 및 전력 개발사 지분 투자를 '번들 플레이(Bundling Play)'라고 분석했다. 단순 칩 개별 판매를 넘어 데이터센터의 필수 기반 요소인 전력과 토지를 담보로 자체 풀스택 하드웨어와 소프트웨어를 패키지로 도입하게 만드는 전략이라는 말이다.",
+      "published": "2026-08-22T02:28:05+00:00"
+    },
+    {
+      "id": "8f557dc73171",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '미소스 5' 적용 범위 확대…해킹 악용 차단하고 사이버 방어 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214242",
+      "summary": "앤트로픽이 사이버 보안 특화 모델 ‘클로드 미소스 5’를 기업용 보안 제품인 ‘클로드 시큐리티(Claude Security)’에 통합했다. 기업 보안팀이 미소스 5 모델 자체에 직접 접근하지 않고도 코드의 취약점을 탐지하고 수정 방안을 제안받을 수 있도록 해, 강력한 사이버 방어 능력은 제공하면서 악용 가능성은 제한하는 새로운 접근법을 제시했다.앤트로픽은 21일(현지시간) 클로드 엔터프라이즈 고객을 대상으로 클로드 시큐리티의 취약점 스캔 기능을 공개 베타로 제공한다고 밝혔다.이제 클로드 시큐리티의",
+      "content": "앤트로픽이 사이버 보안 특화 모델 ‘클로드 미소스 5’를 기업용 보안 제품인 ‘클로드 시큐리티(Claude Security)’에 통합했다. 기업 보안팀이 미소스 5 모델 자체에 직접 접근하지 않고도 코드의 취약점을 탐지하고 수정 방안을 제안받을 수 있도록 해, 강력한 사이버 방어 능력은 제공하면서 악용 가능성은 제한하는 새로운 접근법을 제시했다.\n\n앤트로픽은 21일(현지시간) 클로드 엔터프라이즈 고객을 대상으로 클로드 시큐리티의 취약점 스캔 기능을 공개 베타로 제공한다고 밝혔다.\n\n이제 클로드 시큐리티의 스캔은 그동안 ‘프로젝트 글래스윙(Project Glasswing)’을 통해 엄선된 사이버 보안 방어 조직에만 제공됐던 미소스 5를 기반으로 실행된다.\n\n미소스 5는 앤트로픽이 가장 강력한 사이버 보안 능력을 갖춘 모델로 소개한 최상위급 모델이다. 취약점을 찾아내는 능력뿐 아니라 동일한 기술을 이용해 공격 코드나 익스플로잇(Exploit)을 작성할 수 있는 이중용도(dual-use) 능력을 갖추고 있다는 점을 고려해 지금까지 직접적인 접근을 엄격하게 제한해 왔다.\n\n이번 통합의 핵심은 사용자가 미소스 5와 직접 대화할 수 없도록 설계했다는 점이다.\n\n기업 보안팀이 클로드 시큐리티에서 깃허브 저장소를 선택해 검사를 실행하면 미소스 5가 백그라운드에서 코드를 분석하고, 사용자는 모델의 원시 출력이나 프롬프트 입력창이 아니라 취약점 분석 결과만 받게 된다. 이에 따라 사용자가 모델에 공격 코드 작성 등을 직접 요청하는 경로를 차단하면서 방어 목적의 기능만 활용할 수 있도록 했다.\n\n미소스 5는 단순한 규칙 기반 패턴 검색 방식이 아니라 저장소 내 여러 파일 사이의 데이터 흐름을 추적하고 깃(Git) 이력까지 분석해 취약점을 찾아낸다. 앤트로픽은 탐지 결과를 외부에 제시하기 전에 모델이 자신의 판단을 다시 공격적으로 검증하는 절차도 거친다고 설명했다. 이를 통해 오탐을 줄이고 실제 보안상 의미가 있는 취약점을 선별한다는 것이다.\n\n스캔 결과에는 공통 약점 분류 체계인 CWE(Common Weakness Enumeration) 카테고리와 함께 신뢰도, 심각도 평가가 제공되며, 발견된 문제를 해결하기 위한 패치 제안도 포함된다. 주요 대상은 메모리 손상, 코드·명령어 삽입, 인증 우회, 여러 파일에 걸친 논리적 취약점 등 고위험 보안 문제다.\n\n기업은 검사 범위를 특정 디렉터리로 제한하거나 정기적인 스캔을 예약할 수 있으며, 결과를 슬랙이나 지라로 웹훅을 통해 전송하거나 CSV·마크다운 형식으로 내보낼 수도 있다. 실제 패치 적용은 별도의 절차로 진행된다. 사용자는 클로드 코드 웹 환경에서 수정 작업을 수행하며, 이 과정에서는 조직이 기존에 이용할 수 있는 모델이 사용된다. 미소스 5에 대한 접근 권한이 다른 서비스나 기능으로 자동 확대되는 것은 아니다.\n\n또 모든 패치는 사람의 검토와 승인을 거쳐야 실제 적용할 수 있도록 했다. 앤트로픽은 이를 통해 AI가 발견한 취약점과 수정안을 자동화하면서도 최종적인 보안 판단과 코드 변경에 대한 책임은 인간에게 남겨두는 구조를 마련했다.\n\n이번 조치는 미소스급 모델의 강력한 사이버 능력을 더 많은 방어 조직에 제공하기 위해 마련한 단계적 접근 방안이다. 지난 4월 프로젝트 글래스윙을 시작해 미소스 프리뷰와 후속 모델인 미소스 5를 일부 보안 조직에 제공했다. 공격자들이 유사한 수준의 AI 능력을 갖추기 전에, 각 조직이 핵심 소프트웨어의 취약점을 찾아 수정하도록 지원하는 것이 목적이었다.\n\n이후 안전성 검증과 보호 장치를 강화해 미소스급 기술을 더 광범위하게 제공한다는 방침이다. 특히 사이버 보안 업체 및 서비스 기업들과 협력해 미소스 5를 기존 보안 제품에 직접 통합하는 작업도 추진하고 있다. 최종 사용자는 미소스 5 자체를 조작하는 것이 아니라 취약점 목록이나 패치 제안, 보안 경고처럼 각 제품이 정의한 결과물만 받는 방식이다.\n\n앤트로픽은 이날 오픈소스 소프트웨어 보안을 지원하기 위한 3500만달러(약 480억원) 규모의 ‘디펜더 어드밴티지 펀드(0xDAF)’도 발표했다. 이 펀드는 오픈소스 프로젝트의 취약점 패치와 보안 검사 및 수정 자동화, 새로운 보안 기술 개발 등을 추진하는 조직에 클로드 크레딧 형태로 지원된다. 우선 규모가 큰 프로젝트를 대상으로 시범 지원을 시작한 뒤 효과와 확장 가능성을 검토할 예정이다.\n\n기존 ‘사이버 검증 프로그램(Cyber Verification Program)’도 확대된다. 앞으로 몇 주 안에 클로드 오퍼스와 소네트 모델에서 합법적인 사이버 방어 활동을 수행하는 검증된 조직에 더 광범위한 이중용도 기능을 제공하고, 이후에는 미소스급 모델에 대해서도 접근 범위를 확대할 계획이다.\n\n핵심 인프라를 보호하는 조직을 대상으로 한 프로젝트 글래스윙도 미국 정부 및 파트너들과 협력해 계속 운영한다.",
+      "published": "2026-08-22T02:15:37+00:00"
+    },
     {
       "id": "30729214f58b",
       "source": "AI타임스",
@@ -134,30 +158,6 @@
       "summary": "AI 생성 영상순천시가 시민과 관광객이 안심하고 음식점을 이용할 수 있는 환경을 만들기 위해 ‘2026년 위생업소 위생·친절 컨설팅’을 11월까지 추진한다고 21일 밝혔다.이번 사업은 음식점을 이용하는 시민의 눈높이에서 위생과 친절 수준을 점검하고, 현장에서 적용할 수 있는 개선 방안을 찾는 데 초점을 맞췄다. 위생 관리와 고객 응대 등 업소 운영 전반을 대상으로 컨설팅을 진행한다.순천은 업소마다 영업환경과 개선 필요 사항이 다른 점을 고려해 획일적인 방식 대신 업소별 특성과 여건에 맞춘 맞춤형 ",
       "content": "순천시가 시민과 관광객이 안심하고 음식점을 이용할 수 있는 환경을 만들기 위해 ‘2026년 위생업소 위생·친절 컨설팅’을 11월까지 추진한다고 21일 밝혔다.\n\n이번 사업은 음식점을 이용하는 시민의 눈높이에서 위생과 친절 수준을 점검하고, 현장에서 적용할 수 있는 개선 방안을 찾는 데 초점을 맞췄다. 위생 관리와 고객 응대 등 업소 운영 전반을 대상으로 컨설팅을 진행한다.\n\n순천은 업소마다 영업환경과 개선 필요 사항이 다른 점을 고려해 획일적인 방식 대신 업소별 특성과 여건에 맞춘 맞춤형 컨설팅을 제공할 계획이다.\n\n참여 업소 모집은 9월30일까지다. 순천은 신청 업소 가운데 36곳을 선정해 11월까지 순차적으로 컨설팅을 진행한다. 위생 관리와 고객 응대 개선을 희망하는 외식업소는 참여할 수 있다.\n\n순천 관계자는 “작은 변화들이 음식점에 대한 시민의 신뢰와 만족으로 이어져 다시 찾고 싶은 지역 외식문화를 만드는 데 도움이 될 것으로 기대한다”며 “위생과 친절을 갖춘 음식점이 늘어나면 시민뿐만 아니라 관광객의 외식 만족도 향상에도 긍정적인 효과가 있을 것으로 기대된다”고 말했다.",
       "published": "2026-08-22T00:30:00+00:00"
-    },
-    {
-      "id": "32d6b02ae330",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "정부, 26일 2040년 태양광·풍력 보급 전망 공개…12차 전기본 윤곽",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=214190",
-      "summary": "기후에너지환경부와 제12차 전력수급기본계획 총괄위원회가 오는 26일 2040년까지 태양광·풍력 등 재생에너지 원별 보급 전망 잠정안을 공개한다.2030년 재생에너지 100기가와트(GW) 조기 달성과 2035년 발전비중 30% 이상을 제시한 데 이어 장기 전력수급계획에 실제 원별 설비 확대 경로가 어떻게 반영될지가 주목된다.기후부와 제12차 전기본 총괄위원회는 26일 서울 한국전력공사 남서울본부에서 ‘재생에너지 보급 전망’을 주제로 제6차 대국민 정책토론회를 개최한다.이번 토론회에서는 총괄위원회와 ",
-      "content": "기후에너지환경부와 제12차 전력수급기본계획 총괄위원회가 오는 26일 2040년까지 태양광·풍력 등 재생에너지 원별 보급 전망 잠정안을 공개한다.\n\n2030년 재생에너지 100기가와트(GW) 조기 달성과 2035년 발전비중 30% 이상을 제시한 데 이어 장기 전력수급계획에 실제 원별 설비 확대 경로가 어떻게 반영될지가 주목된다.\n\n기후부와 제12차 전기본 총괄위원회는 26일 서울 한국전력공사 남서울본부에서 ‘재생에너지 보급 전망’을 주제로 제6차 대국민 정책토론회를 개최한다.\n\n이번 토론회에서는 총괄위원회와 분과회의 논의를 거쳐 마련한 2040년까지 태양광·풍력 등 재생에너지 원별 보급 전망 잠정안을 처음 공개한다. 정부는 제12차 전기본 수립 과정에서 재생에너지 보급을 확대하기 위한 정책수단과 전망 모형 등을 활용해 보급 전망의 실현 가능성을 높이는 방안을 논의해왔다고 설명했다.\n\n비교 기준은 지난해 확정된 제11차 전기본이다. 11차 전기본은 재생에너지 설비를 2038년 121.9GW까지 확대하는 경로를 제시했다. 이 가운데 태양광과 풍력은 117.9GW였다. 2030년 태양광·풍력 전망은 74GW로 잡았다.\n\n기후부는 지난 5월 제1차 재생에너지 기본계획을 발표하면서 2030년 재생에너지 100GW 조기 달성과 2035년 발전비중 30% 이상을 중장기 방향으로 제시했다. 이에 따라 이번 12차 전기본 잠정안에서는 기존 11차 전기본보다 태양광과 풍력 보급경로가 얼마나 상향되는지가 핵심 쟁점이 될 전망이다.\n\n정부는 재생에너지 확대 배경으로 탄소중립과 국가온실가스감축목표 이행뿐 아니라 산업계의 전력수요 증가를 들었다. RE100 대응이 필요한 수출기업과 AI 데이터센터, 반도체 메가클러스터 등에서 무탄소 전력수요가 빠르게 늘면서 재생에너지 공급량과 공급시기를 전력계획에 구체적으로 반영할 필요성이 커졌다는 설명이다.",
-      "published": "2026-08-22T00:20:00+00:00"
-    },
-    {
-      "id": "3742d1cf0d39",
-      "source": "AI타임스",
-      "kind": "article",
-      "category": "AI",
-      "lang": "ko",
-      "title": "정부, RPS 15년 만에 개편…신규 REC 내년부터 중단",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=214185",
-      "summary": "국내 재생에너지 보급 제도가 15년 만에 바뀐다. 내년부터 신규 태양광·풍력 설비에는 재생에너지공급인증서(REC)가 발급되지 않고 정부 경쟁입찰을 거쳐 한국전력과 장기 고정가격 계약을 맺는 방식으로 전환된다. 햇빛소득마을 등 1메가와트(MW) 이하 주민참여형 재생에너지에는 전력계통 우선접속 길도 열린다.기후에너지환경부는 전기사업법과 재생에너지 개발·이용·보급 촉진법 등 7개 법 개정안이 20일 국회 본회의를 통과했다고 밝혔다. 핵심은 2012년 도입된 재생에너지 공급의무화제도(RPS)를 정부 경쟁",
-      "content": "국내 재생에너지 보급 제도가 15년 만에 바뀐다. 내년부터 신규 태양광·풍력 설비에는 재생에너지공급인증서(REC)가 발급되지 않고 정부 경쟁입찰을 거쳐 한국전력과 장기 고정가격 계약을 맺는 방식으로 전환된다. 햇빛소득마을 등 1메가와트(MW) 이하 주민참여형 재생에너지에는 전력계통 우선접속 길도 열린다.\n\n기후에너지환경부는 전기사업법과 재생에너지 개발·이용·보급 촉진법 등 7개 법 개정안이 20일 국회 본회의를 통과했다고 밝혔다. 핵심은 2012년 도입된 재생에너지 공급의무화제도(RPS)를 정부 경쟁입찰 기반의 계약시장으로 바꾸는 내용이다. 신규 재생에너지 사업자는 발전원별 입찰에서 낙찰받아야 하며 한전이 낙찰 설비와 장기 고정가격 전력구매계약을 체결한다.\n\n이에 따라 신규 설비의 REC 발급은 내년부터 중단된다. 기존 사업자는 계속 REC를 발급받을 수 있으며 REC 현물시장은 법 시행 후 3년간 유지된 뒤 2029년 12월31일 폐지된다.\n\n정부는 장기 고정가격 계약을 통해 사업자의 수익 예측성을 높이고 금융조달 비용을 낮춘다는 방침이다. 발전공기업 등에는 일정 규모의 재생에너지 설비를 직접 설치하도록 보급 의무도 부과한다.\n\n전력망 접속 규칙도 달라진다. 국가기간 전력망 주변지역 등에서 추진되는 1MW 이하 공익 목적 주민참여형 재생에너지 사업은 다른 발전사업보다 우선해 전력계통에 접속할 수 있는 법적 근거가 마련됐다. 여러 재생에너지 발전소가 하나의 접속설비를 함께 이용할 수 있도록 공동접속설비 건설사업과 사업자의 법적 근거도 신설됐다.\n\n국가기간 전력망 건설에는 민간사업자 참여가 한시적으로 허용된다. 전력망확충위원회 의결을 거치면 한전 외 민간사업자도 개발사업에 참여할 수 있으며 완공한 설비는 즉시 한전에 넘겨야 한다. 해당 조항은 2029년 12월까지 적용된다.\n\n이번 법 개정으로 신규 재생에너지 사업의 수익구조와 계통 접속 방식이 함께 바뀌는 만큼 앞으로 입찰 물량과 상한가격, 우선접속 세부기준이 실제 사업성에 영향을 줄 핵심 변수가 될 전망이다.",
-      "published": "2026-08-22T00:15:00+00:00"
     },
     {
       "id": "00d4035e5d32",
@@ -407,7 +407,7 @@
       "lang": "en",
       "title": "Kobo can run apps now",
       "link": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 441 # Comments: 148",
+      "summary": "Article URL: https://bandarlabs.github.io/Cobalt/ Comments URL: https://news.ycombinator.com/item?id=49390427 Points: 451 # Comments: 154",
       "content": "Cobalt is an open-source application platform for Kobo e-readers: a launcher, a signed App Store, a Rust SDK, and a runtime that keeps every app in its own unprivileged process.\n\nInstall it once over USB. Every app after that installs, updates and removes on the reader itself, over Wi-Fi. A reboot returns to the stock Kobo reader.\n\nEvery app is a static ARM binary running as its own unprivileged process on stock hardware. The App Store installs, updates and removes them over Wi-Fi, with signatures verified before anything launches.\n\nThese are photographs of the device, not simulator captures. The arXiv app reads the HTML rendering arXiv publishes for every paper since December 2023: abstracts, sections, math and result tables, paginated for the panel.\n\nEvery screenshot below is a capture from a Kobo Clara BW. Store apps version independently of the platform; the rest ship with the platform install.\n\nOpens installed apps and always keeps a route back to the Kobo reader.\n\nInstalls, updates, removes and reinstalls signed apps over Wi-Fi.\n\nBrowses a subject's newest preprints and reads the full text on the panel.\n\nStore-only by design: installing it proves delivery of an app the USB package never contained.\n\nSends a typed message in Morse on the front light, one letter across the whole panel.\n\nResearches, writes, narrates and plays an original audiobook.\n\nReads any OPDS library: Project Gutenberg, Standard Ebooks, Open Library, or yours.\n\nTop, New, Ask and Show stories with complete comment threads.\n\nDiscovers a site's feed and presents its articles without the site's layout.\n\nCollects the day's stories in the background while you use another app.\n\nAsks a question and turns the answer into touch-friendly reading.\n\nApprove or deny requests from coding agents, away from the keyboard.\n\nA panel-native shell with keys that send input immediately.\n\nThe UI toolkit's controls, layouts, typography and states, on the panel.\n\nConnectivity, hardware, and platform updates, kept separate from Store.\n\nA persistent list with touch entry and completed-item states.\n\nTwo players, partial refreshes for individual cells.\n\nLocates the hall sensor behind the bezel and reports its changes.\n\nImplement KoboApp , describe screens declaratively, and the runtime handles layout, e-ink refresh planning, Back navigation and lifecycle.\n\nApps don't open device resources; they ask. Network, storage, audio, frontlight and Wi-Fi are capability-gated, and a refusal comes back as a value the app can handle.\n\nStore reads a signed catalog from a fixed GitHub release. Each package holds one ARM executable and a signed canonical manifest. The runtime verifies the catalog, the package, the installed manifest and the binary before an app runs.\n\nApp releases are independent of platform releases: merging an app PR builds it for ARM, signs it, and updates the catalog. No Cobalt version bump, no reinstall. The app simply appears in Store.\n\nThe Cobalt platform itself also updates over Wi-Fi, through Settings, on a channel separate from the app catalog. The USB cable is only ever needed once.\n\nInstall and catalog transactions are recovery-safe; an interrupted update leaves the reader with the version it had.\n\nPublish your own app →\n\nThe complete walkthrough, including recovery steps, is in docs/INSTALL.md .\n\nApp contributions are regular pull requests. If it runs on your device and the PR shows it running, it gets merged and published.\n\nOwn a different Kobo model? Porting is welcome too; open an issue first so the device profile can be agreed. Full details in docs/CONTRIBUTING_APPS.md .\n\nCobalt does not replace Kobo's boot chain. Device writes are gated on an exact hardware and firmware match, and a reboot returns to the stock reader. The first installation does modify files on the user storage partition, and it is provided without warranty.\n\nOnly the Clara BW profile has been hardware-tested. Don't install on another model until it has a reviewed, hardware-tested profile . Cobalt is an independent project, not affiliated with Rakuten Kobo.",
       "published": "2026-08-21T16:25:25+00:00"
     },
@@ -419,7 +419,7 @@
       "lang": "en",
       "title": "Felony Bench",
       "link": "https://www.felonybench.com/",
-      "summary": "Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 531 # Comments: 227",
+      "summary": "Article URL: https://www.felonybench.com/ Comments URL: https://news.ycombinator.com/item?id=49389430 Points: 562 # Comments: 232",
       "content": "A benchmark you really don't want models to be saturated with.\n\nScores indicate count of illegal activity. Higher is... you decide.\n\nFelony Bench counts unique instances where AI agents affect third-party entities. Escaping a sandbox alone does not constitute a counted incident. It is for these reasons that Frontier Security's Kimi K3 incident and Alibaba's ROME incident are not counted.",
       "published": "2026-08-21T15:17:04+00:00"
     },
