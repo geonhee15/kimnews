@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-23T08:00:23.064713+00:00",
-  "count": 10498,
+  "updated_at": "2026-08-23T08:39:45.177281+00:00",
+  "count": 10503,
   "items": [
+    {
+      "id": "6924ff9622df",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "샤오미 '미모-V3-프로' 유출 스크린샷 논란…\"코딩·에이전트 최상위권\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214264",
+      "published": "2026-08-23T08:13:27+00:00",
+      "summary": "샤오미의 차세대 모델 '미모-V3-프로(MiMo-V3-Pro)'의 벤치마크 테스트 결과가 담긴 스크린샷이 온라인 커뮤니티와 소셜미디어에서 급속히 유포되며 업계의 관심을 모으고 있다. 진위는 아직 가려지지 않은 상태다. 이번 소식은 중국의 테크 전문 소식통인 맥스 포 AI(Max For AI)가 21일 X에 처음 소개하며 빠르게 퍼져 나갔다. 일부 매체들도 이를 비중 있게 다루며 유출된 데이터와 논란의 정황을 전했다.유출된 벤치마크 차트에 따르면, 샤오미의 미공개 신형 플래그십 모델인 미모-V3-프"
+    },
     {
       "id": "063c2bcc2317",
       "source": "AI타임스",
@@ -12,6 +23,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214263",
       "published": "2026-08-23T07:23:09+00:00",
       "summary": "오픈AI가 모델 중개 플랫폼 오픈라우터(OpenRouter)에서 최신 모델을 반값에 제공하며 주도권 잡기에 나선 데 이어, 메타도 같은 플랫폼을 통해 파격적인 저가 요금제를 내놓았다. 개발자와 기업 고객을 확보하기 위한 가격 경쟁이 뜨거워지고 있다.메타는 22일(현지시간) 플래그십 모델인 '뮤즈 스파크 1.2(Muse Spark 1.2)'의 '컨트리뷰터(Contributor)' 요금제를 오픈라우터에 공식 출시했다고 밝혔다. 이번 요금제의 가격은 입력 100만 토큰당 0.10달러, 출력 100만 토"
+    },
+    {
+      "id": "b247465ca674",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"예쁜 보고서보다 AI가 읽는 보고서\"...행안부 'AI 친화 문서' 전면 도입",
+      "link": "https://zdnet.co.kr/view/?no=20260823161702",
+      "published": "2026-08-23T07:17:38+00:00",
+      "summary": "[지디넷코리아]행정안전부(이하 행안부)가 복잡한 표와 과도한 문서 꾸미기를 줄이고 인공지능(AI)이 쉽게 읽고 활용할 수 있는 'AI 친화적 보고서'를 전면 도입한다.단순한 문서 형식 변경을 넘어 공무원의 보고서 작성 방식과 정부 문서 생산 체계를 AI 중심으로 전환하는 행정 혁신을 위함이라는 설명이다.행안부는 공공부문의 AI 활용도를 높이고 행정 효율성을 향상하기 위해 '인공지능(AI) 친화적 보고서 작성'을 본격 실시한다고 23일 밝혔다.이번 조치는 지난 3월부터 진행한 시범운영 결과를 바탕으"
     },
     {
       "id": "a637fae215db",
@@ -75,6 +97,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽서 유행하는 클로드 코드 ‘/eli5’ 스킬... \"복잡한 코드를 그림으로 설명\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214260",
+      "published": "2026-08-23T03:19:35+00:00",
+      "summary": "앤트로픽 직원들 사이에서 복잡한 기술 개념이나 코드 구조를 시각적으로 쉽게 이해하도록 돕는 클로드 코드(Claude Code)용 ‘/eli5’ 스킬이 주목받고 있다. 질문 뒤에 ‘/eli5’를 붙이면 클로드가 해당 주제를 마치 아무것도 모르는 사람에게 설명하듯 간결한 문장과 큰 그림, 단순한 다이어그램을 활용한 HTML 자료로 만들어준다.타리크 시히파르 앤트로픽 엔지니어 22일(현지시간) X를 통해 최근 앤트로픽 내부에서 이 스킬을 많이 사용하고 있다고 소개했다.사용법은 간단하다. ‘/eli5 ’"
+    },
+    {
+      "id": "379db5d9a631",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽서 유행하는 클로드 코드 ‘/eli5’ 스킬...\"코드를 그림으로 설명\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214260",
       "published": "2026-08-23T03:19:35+00:00",
       "summary": "앤트로픽 직원들 사이에서 복잡한 기술 개념이나 코드 구조를 시각적으로 쉽게 이해하도록 돕는 클로드 코드(Claude Code)용 ‘/eli5’ 스킬이 주목받고 있다. 질문 뒤에 ‘/eli5’를 붙이면 클로드가 해당 주제를 마치 아무것도 모르는 사람에게 설명하듯 간결한 문장과 큰 그림, 단순한 다이어그램을 활용한 HTML 자료로 만들어준다.타리크 시히파르 앤트로픽 엔지니어 22일(현지시간) X를 통해 최근 앤트로픽 내부에서 이 스킬을 많이 사용하고 있다고 소개했다.사용법은 간단하다. ‘/eli5 ’"
@@ -196,6 +229,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 자율 AI 에이전트 가능성 입증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214256",
+      "published": "2026-08-23T01:55:48+00:00",
+      "summary": "엔비디아가 단순히 한 번 질문에 답하고 끝나는 AI를 넘어, 오랜 시간 스스로 계획을 세우고 실행하며 시행착오를 거쳐 문제를 해결하는 범용 AI 에이전트 기술의 뛰어난 성능을 입증했다. 이번 성과의 핵심은 단순한 모델 차원의 성능이 아니라, AI를 지속적으로 제어하고 관리하는 ‘하네스(Harness)’ 시스템 구조에 있었다.엔비디아는 21일(현지시간) 지난 3월 공개한 범용 AI 에이전트 기술 ‘에이전틱 베리에이션 오퍼레이터(AVO)’가 규칙이나 목표가 주어지지 않은 낯선 환경을 탐색해 문제를 해"
+    },
+    {
+      "id": "e8df9ca7ed5b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 에이전트 가능성 입증",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214256",
       "published": "2026-08-23T01:55:48+00:00",
       "summary": "엔비디아가 단순히 한 번 질문에 답하고 끝나는 AI를 넘어, 오랜 시간 스스로 계획을 세우고 실행하며 시행착오를 거쳐 문제를 해결하는 범용 AI 에이전트 기술의 뛰어난 성능을 입증했다. 이번 성과의 핵심은 단순한 모델 차원의 성능이 아니라, AI를 지속적으로 제어하고 관리하는 ‘하네스(Harness)’ 시스템 구조에 있었다.엔비디아는 21일(현지시간) 지난 3월 공개한 범용 AI 에이전트 기술 ‘에이전틱 베리에이션 오퍼레이터(AVO)’가 규칙이나 목표가 주어지지 않은 낯선 환경을 탐색해 문제를 해"
@@ -518,6 +562,17 @@
       "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
       "published": "2026-08-22T13:41:01+00:00",
       "summary": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker j"
+    },
+    {
+      "id": "2309cc23f906",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New MCP Roadmap",
+      "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "published": "2026-08-22T13:31:34+00:00",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 202 # Comments: 130"
     },
     {
       "id": "e7943beee1fd",
