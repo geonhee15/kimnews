@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-23T11:58:24.934132+00:00",
-  "count": 10508,
+  "updated_at": "2026-08-23T12:43:20.935718+00:00",
+  "count": 10510,
   "items": [
+    {
+      "id": "6a6e7d2e4592",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한국딥러닝 “문서 에이전트, 인식률 넘어 ‘오답 찾는 능력’이 더 중요해”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214266",
+      "published": "2026-08-23T11:57:27+00:00",
+      "summary": "\"AI를 도입했는데도 직원의 일이 줄지 않았다면, 아직 AI가 실제 업무를 맡은 것은 아닙니다. 결과 검수와 오류 수정 작업을 여전히 사람이 맡고 있다면, AI 도입은 완료된 것이 아닙니다.\"김지현 한국딥러닝 대표는 단순히 글자를 읽어내는 광학문자인식(OCR)의 시대가 저물고, 실질적으로 사람의 업무를 줄여주는 '문서 AI 에이전트'로 전환해야 한다고 강조한다. 많은 기업이 기존 OCR과 RPA, 생성 AI를 도입했지만, 현장에서는 여전히 사람이 결과를 전부 확인하고 잘못된 값을 수정하는 등 가장"
+    },
     {
       "id": "0b9e942992ac",
       "source": "ZDNet Korea",
@@ -540,6 +551,17 @@
       "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "published": "2026-08-22T18:14:16+00:00",
       "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 209 # Comments: 69"
+    },
+    {
+      "id": "d3caae2e4775",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Thinking in Python",
+      "link": "https://thinkinginpython.com/",
+      "published": "2026-08-22T18:10:49+00:00",
+      "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 206 # Comments: 38"
     },
     {
       "id": "7d9d66c54248",
