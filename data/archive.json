@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-23T02:37:17.355214+00:00",
-  "count": 10475,
+  "updated_at": "2026-08-23T03:34:59.098629+00:00",
+  "count": 10481,
   "items": [
+    {
+      "id": "49c6306cff93",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽서 유행하는 클로드 코드 ‘/eli5’ 스킬... \"복잡한 코드를 그림으로 설명\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214260",
+      "published": "2026-08-23T03:19:35+00:00",
+      "summary": "앤트로픽 직원들 사이에서 복잡한 기술 개념이나 코드 구조를 시각적으로 쉽게 이해하도록 돕는 클로드 코드(Claude Code)용 ‘/eli5’ 스킬이 주목받고 있다. 질문 뒤에 ‘/eli5’를 붙이면 클로드가 해당 주제를 마치 아무것도 모르는 사람에게 설명하듯 간결한 문장과 큰 그림, 단순한 다이어그램을 활용한 HTML 자료로 만들어준다.타리크 시히파르 앤트로픽 엔지니어 22일(현지시간) X를 통해 최근 앤트로픽 내부에서 이 스킬을 많이 사용하고 있다고 소개했다.사용법은 간단하다. ‘/eli5 ’"
+    },
+    {
+      "id": "03abe54a3180",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '안티그래비티' 원격 제어 출시...\"이동 중에도 AI 개발 계속\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214259",
+      "published": "2026-08-23T03:06:47+00:00",
+      "summary": "AI 코딩 에이전트가 단순한 코드 생성 도구를 넘어 전체 시스템 리팩터링과 대규모 테스트, 빌드 오류 진단까지 수행하면서 개발자의 작업 방식도 바뀌고 있다. 하지만 작업 범위가 커질수록 에이전트의 실행 시간도 길어져 개발자가 작업이 끝날 때까지 컴퓨터 앞에서 기다리거나, 자리를 비운 뒤 진행 상황을 알 수 없는 문제가 발생한다. 구글은 21일(현지간) 이러한 문제를 해결하기 위해 AI 개발 환경 ‘안티그래비티(Antigravity)’에 웹브라우저를 통한 에이전트 원격 제어 기능을 도입했다.개발자가"
+    },
+    {
+      "id": "fcd4f085c2d4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+      "published": "2026-08-23T02:48:18+00:00",
+      "summary": "대형언어모델(LLM)의 성능 경쟁이 모델 규모와 정확도를 넘어 실제 추론 속도와 비용 효율성을 높이는 방향으로 확대되고 있다. 특히 AI 에이전트와 온디바이스 AI의 활용이 늘면서 매 토큰 생성 과정에서 발생하는 메모리 병목을 줄이는 기술이 주목받는 가운데, 리퀴드AI가 새로운 추론 가속 기술을 선보였다.리퀴드 AI는 20일(현지시간) LLM의 추론 과정에서 발생하는 병목을 줄이기 위한 ‘디스파크(DSpark)’ 추론 기술을 공개했다.약 3억개 매개변수의 경량 모델이 생성한 토큰을 대형 모델이 한"
+    },
     {
       "id": "3304f9739063",
       "source": "AI타임스",
@@ -223,6 +256,17 @@
       "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
     },
     {
+      "id": "3f8b1c476206",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "published": "2026-08-22T18:14:16+00:00",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 209 # Comments: 69"
+    },
+    {
       "id": "7d9d66c54248",
       "source": "AI타임스",
       "kind": "article",
@@ -254,6 +298,17 @@
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "published": "2026-08-22T16:00:00+00:00",
       "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+    },
+    {
+      "id": "ec1966fa202d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Friendly Introduction to Racket",
+      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "published": "2026-08-22T14:08:19+00:00",
+      "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 204 # Comments: 104"
     },
     {
       "id": "d40d989608ee",
@@ -6370,6 +6425,17 @@
       "link": "https://www.experimental-history.com/p/i-like-em-thick",
       "published": "2026-08-18T15:50:52+00:00",
       "summary": "Article URL: https://www.experimental-history.com/p/i-like-em-thick Comments URL: https://news.ycombinator.com/item?id=49347543 Points: 240 # Comments: 83"
+    },
+    {
+      "id": "87c423d11568",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "typ.ing",
+      "link": "https://typ.ing/",
+      "published": "2026-08-18T15:12:53+00:00",
+      "summary": "Article URL: https://typ.ing/ Comments URL: https://news.ycombinator.com/item?id=49346854 Points: 203 # Comments: 59"
     },
     {
       "id": "29e7f35e17f8",
