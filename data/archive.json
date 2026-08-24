@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-24T11:52:11.724227+00:00",
-  "count": 10618,
+  "updated_at": "2026-08-24T12:37:37.678701+00:00",
+  "count": 10627,
   "items": [
+    {
+      "id": "6ffef6390e8d",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "published": "2026-08-24T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily c"
+    },
+    {
+      "id": "a853f53045b3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개보위, 일 잘하는 '3회 고래상' 6명 시상",
+      "link": "https://zdnet.co.kr/view/?no=20260824205507",
+      "published": "2026-08-24T11:55:07+00:00",
+      "summary": "[지디넷코리아]개인정보보호위원회(개인정보위)는 지난 6월부터 8월까지 업무실적을 바탕으로 '제3회 개인정보 고래상' 시상식을 개최, 탁월한 성과를 낸 직원 1명과 2개 팀에 총 600만 원의 특별성과 포상금을 수여했다.‘개인정보 고래상’은 개인정보 보호 분야에서 통상적인 업무 수행을 넘어 기관의 주요 현안 해결, 업무 혁신 등 탁월한 성과를 창출한 개인정보위 공무원의 노력과 성과를 발굴 및 격려하기 위해 마련한 특별성과 포상금 제도다. '칭찬은 고래도 춤추게 한다'는 의미를 담아, 개인정보 보호 "
+    },
     {
       "id": "c5133e3dcdf6",
       "source": "The Verge",
@@ -12,6 +34,83 @@
       "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
       "published": "2026-08-24T11:37:53+00:00",
       "summary": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and "
+    },
+    {
+      "id": "d318062957f6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔키화이트햇, 페루 국립공과대에 오펜시브 보안 교육",
+      "link": "https://zdnet.co.kr/view/?no=20260824202719",
+      "published": "2026-08-24T11:27:19+00:00",
+      "summary": "[지디넷코리아]오펜시브보안 전문기업 엔키화이트햇(대표 이성권)이 페루 국립공과대학교(Universidad Nacional de Ingeniería, 이하 UNI) 사이버보안학과 교수진과 학생들을 대상으로 오프라인 보안 교육을 시행했다. 교육은 지난 18일부터 21일까지 진행했다.24일 회사에 따르면, 이번 교육은 엔키화이트햇이 수행 중인 '페루 사이버보안 실습장 구축 및 운용 사업'과 서울과학기술대학교 LUPIC 사업단(단장 정태호) 지원으로 추진한 한국초청연수 프로그램 일환이다. 엔키화이트햇은 "
+    },
+    {
+      "id": "73048fedc3c7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "경찰이 감시 카메라로 전 연인 추적…플록 CEO \"프라이버시와 안전 타협해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260824202706",
+      "published": "2026-08-24T11:27:06+00:00",
+      "summary": "[지디넷코리아]개릿 랭글리 플록 세이프티 최고경영자가 폭스뉴스 인터뷰에서 프라이버시와 안전 사이의 \"타협\"이 필요하다고 말했다. 현지 시각 8월 23일 테크크런치가 전한 내용이다. 플록 세이프티는 감시 카메라와 드론, 번호판 인식 기술을 미국 지방자치단체와 경찰에 공급한다. 번호판 인식은 도로를 지나는 차량의 번호판을 자동으로 읽어 시각과 위치를 기록으로 남기는 기술이다.랭글리는 \"사람들이 프라이버시와 안전 중 하나만 이야기할 때 그들은 잘못된 것을 우선하고 있다\"며 \"국가로서 우리가 우선해야 할"
+    },
+    {
+      "id": "5932f1d90453",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하버드 경영대학원 97만원짜리 창업 부트캠프, 강사 AI 아바타가 피드백 준다",
+      "link": "https://zdnet.co.kr/view/?no=20260824202539",
+      "published": "2026-08-24T11:25:39+00:00",
+      "summary": "[지디넷코리아]하버드 경영대학원이 교육 범위를 넓히면서 개별 피드백에 강사의 AI 아바타를 쓰고 있다. 현지 시각 8월 22일 테크크런치가 뉴욕타임스 딜북 보도를 인용해 전한 내용이다.아바타는 영상 생성 스타트업 헤이젠이 제작했고, 8주 과정에 699달러(약 97만 원)인 창업자 부트캠프 'HBS 파운드리'에 포함된다. 헤이젠은 사람의 영상과 음성을 학습해 그 사람이 말하는 영상을 만들어 주는 도구를 제공한다. 프로그램은 매주 강사와의 라이브 세션을 제공하지만, 모의 피칭과 이사회 회의에서 피드백"
+    },
+    {
+      "id": "9fd9f8d642ef",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"양자내성암호 배우러 오세요\"...KISA, 실무과정 수강생 모집",
+      "link": "https://zdnet.co.kr/view/?no=20260824201911",
+      "published": "2026-08-24T11:19:11+00:00",
+      "summary": "[지디넷코리아]한국인터넷진흥원(KISA, 원장 이상중)이 '양자내성암호 전문교육 실무과정'을 신설, 교육생을 모집한다. 정부·공공기관 및 민간기업의 양자내성암호(PQC) 전환 준비를 지원하기 위해서다. 교육은 9월 11일(금)과 11월 13일(금) 두 차례 서울에서 대면으로 이뤄진다. 1회차 교육 신청은 이번달 24일(월)부터 다음달 4일(금)까지다. 선착순 220명을 모집한다. 자세한 일정과 신청 방법은 암호이용활성화 누리집의 공지사항에서 확인할 수 있다.양자내성암호는 양자컴퓨터 환경에서도 안전"
+    },
+    {
+      "id": "0696f1e09e6b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "갤럭시아 AI, WRC 2026 '생산성 각성' 전시에서 풀스택 역량과 임바디드 AI 범용화 시연",
+      "link": "https://zdnet.co.kr/view/?no=20260824201003",
+      "published": "2026-08-24T11:10:03+00:00",
+      "summary": "[지디넷코리아]베이징, 2026년 8월 24일 /PRNewswire/ -- 갤럭시아 AI(Galaxea AI)가 2026 세계 로봇 콘퍼런스(World Robot Conference, WRC)에서 진행한 '생산성 각성(Productivity Awakening)' 전시를 마무리했다. 일반적인 동작 중심의 로봇 시연과 달리, 이 회사는 10개가 넘는 다중 시나리오 데모를 통해 자사의 풀스택 역량과 임바디드 AI 범용화를 보여주며, 임바디드 AI가 실험실 연구에서 신뢰할 수 있는 산업 현장 배치로 전환"
+    },
+    {
+      "id": "cc0f975e2d7b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재명 대통령, 정의선·이재용 회장 만날 듯…3대 메가프로젝트 논의",
+      "link": "https://zdnet.co.kr/view/?no=20260824194831",
+      "published": "2026-08-24T10:58:50+00:00",
+      "summary": "[지디넷코리아]이재명 대통령이 이르면 이번 주 정의선 현대차그룹 회장과 이재용 삼성전자 회장 등과 차례로 만나 3대 메가 프로젝트 등 투자 현안을 논의할 예정인 것으로 24일 파악됐다. 이 대통령은 이번 주 정의선 회장, 이재용 회장과 각각 비공개 회동하는 방안을 조율 중이다. 이재용 회장은 이르면 26일 만날 수 있다. 이 대통령은 이미 지난 20일 최태원 SK그룹 회장과 비공개 만찬을 했다. 뉴시스 등에 따르면 청와대는 이 대통령과 재계 총수 만남 가능성에 대해 \"비공개 일정은 확인하기 어렵다"
+    },
+    {
+      "id": "d64d98b3fcc8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마음AI-삼정오토메이션, 국산 피지컬AI 교육 확대 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260824194658",
+      "published": "2026-08-24T10:46:58+00:00",
+      "summary": "[지디넷코리아]피지컬AI 전문기업 마음에이아이(대표 유태준)와 로봇·정밀구동 전문기업 삼정오토메이션(대표 신동익)이 국산 피지컬AI 교육 생태계 확대를 위한 업무협약(MOU)을 맺었다. 양사는 이번 협약을 통해 마음AI의 4족보행 피지컬AI 플랫폼 ‘JINDO BOT(진도봇)’을 기반으로 교육·연구 현장에서 활용할 수 있는 피지컬AI 실습환경을 고도화한다.마음AI의 온디바이스 AI 및 로봇 AI 소프트웨어 기술과 삼정오토메이션의 정밀 모션제어·스마트 액추에이터 기술을 접목해 국내 피지컬 AI 교육"
     },
     {
       "id": "250af2f5fe44",
