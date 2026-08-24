@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-08-24",
-  "generated_at": "2026-08-24T11:21:14.732237+00:00",
-  "count": 31,
+  "generated_at": "2026-08-24T11:52:11.657165+00:00",
+  "count": 32,
   "items": [
+    {
+      "id": "c5133e3dcdf6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+      "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+      "summary": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and ",
+      "content": "﻿The open source take on Android is also planning Pixel 11 support soon.\n\nGrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola’s foldable phones and perhaps cheaper models, eventually.\n\nIn a Mastodon thread , the GrapheneOS Foundation announced that it will initially support a Motorola slab flagship phone, but will later support both Razr Fold and Razr Ultra foldables — the latter of which would be the first flip phone to officially run GrapheneOS.\n\nGraphene has always had stringent security standards when it comes to hardware. The organization said that this year’s Motorola Signature and Razr handsets are “very close to meeting our requirements,” but lack mature support for hardware memory tagging and secure element integration. The organization expects the next generation of Qualcomm Snapdragon 8 Elite chips to meet its standards, which is why it’s targeting Motorola’s 2027 phones for initial support.\n\nEarlier this month Graphene confirmed that its initial Motorola devices would be flagships that would “be higher end hardware than Pixels at a higher price.” More affordable devices are on the roadmap, but would require better security features from Qualcomm for its cheaper chips, and for Motorola to invest in seven years of software support for those phones — this year’s $499.99 Moto G Stylus only promised two major OS upgrades and three years of security updates.\n\nMotorola first announced its collaboration with Graphene in March, saying that the two organizations would “work to strengthen smartphone security.” Until now, Graphene has only officially supported Google’s Pixel phones. That support is ongoing, and the organization confirmed it has plans to add support for the Pixel 11 series in the future. However, it noted that changes to the Android Open Source Project’s support for Pixel phones mean they are now “harder to properly support than many other devices.” In contrast, it said “Motorola is doing a large portion of the work of porting GrapheneOS to their devices.”\n\nThis is the title for the native ad",
+      "published": "2026-08-24T11:37:53+00:00"
+    },
     {
       "id": "250af2f5fe44",
       "source": "Wired",
