@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-24T20:23:25.597986+00:00",
-  "count": 10648,
+  "updated_at": "2026-08-24T20:57:59.101174+00:00",
+  "count": 10650,
   "items": [
+    {
+      "id": "233fe443796e",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+      "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "published": "2026-08-24T20:56:32+00:00",
+      "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "ad7c93709a9e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "published": "2026-08-24T20:45:33+00:00",
+      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business."
+    },
     {
       "id": "9c1684d1926e",
       "source": "TechCrunch",
