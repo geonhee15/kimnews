@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-25T20:21:47.613195+00:00",
-  "count": 10825,
+  "updated_at": "2026-08-25T20:54:54.462533+00:00",
+  "count": 10827,
   "items": [
+    {
+      "id": "a577ad41ac07",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "published": "2026-08-25T20:44:12+00:00",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping."
+    },
     {
       "id": "70813b7c43d4",
       "source": "TechCrunch",
@@ -199,6 +210,17 @@
       "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
       "published": "2026-08-25T14:46:32+00:00",
       "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses."
+    },
+    {
+      "id": "b6057f9055e7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "published": "2026-08-25T14:29:32+00:00",
+      "summary": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 204 # Comments: 115"
     },
     {
       "id": "7667fd3689d6",
