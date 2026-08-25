@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-25T14:27:03.091491+00:00",
-  "count": 10797,
+  "updated_at": "2026-08-25T15:13:41.789864+00:00",
+  "count": 10800,
   "items": [
+    {
+      "id": "b63aa56a1817",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "published": "2026-08-25T14:46:32+00:00",
+      "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses."
+    },
     {
       "id": "7667fd3689d6",
       "source": "The Verge",
@@ -815,6 +826,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214345",
       "published": "2026-08-25T06:08:35+00:00",
       "summary": "러시아와 우크라이나 양국이 상대방의 자율·공습 드론 공격으로 민간인 피해를 입었다고 상호 주장하며 자율 무기 체계의 위험성을 둘러싼 공방이 격화하고 있다. 인간의 개입 없이 목표를 스스로 판단하는 AI 드론 공격으로 우크라이나 민간인이 사망했다는 보도가 나온 데 이어, 러시아도 우크라이나 드론 공습으로 자국 내 10대를 포함한 사망자가 발생했다고 맞섰다.뉴욕타임스는 24일(현지시간) 우크라이나 자포리자 지역의 한 주유소에서 지난 7월6일 AI 시스템을 탑재한 러시아 드론 공격으로 대학생을 포함한 "
+    },
+    {
+      "id": "7dcc1cddddf3",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "published": "2026-08-25T06:01:00+00:00",
+      "summary": ""
     },
     {
       "id": "034ea69572d6",
@@ -1772,6 +1794,17 @@
       "link": "https://huggingface.co/blog/gradio-workflow-guide",
       "published": "2026-08-24T15:00:00+00:00",
       "summary": ""
+    },
+    {
+      "id": "29891acc97e9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "published": "2026-08-24T14:44:55+00:00",
+      "summary": "Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538 Comments URL: https://news.ycombinator.com/item?id=49420530 Points: 203 # Comments: 97"
     },
     {
       "id": "370046cf34e0",
