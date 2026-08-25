@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T15:13:41.789864+00:00",
-  "count": 10800,
+  "updated_at": "2026-08-25T16:02:00.407426+00:00",
+  "count": 10804,
   "items": [
     {
       "id": "b63aa56a1817",
@@ -80,6 +80,28 @@
       "summary": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899."
     },
     {
+      "id": "87fdec45fcab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI발 보안리스크 관리 이렇게\"...에임인텔리전스, 내달 7일 컨퍼런스",
+      "link": "https://zdnet.co.kr/view/?no=20260825225001",
+      "published": "2026-08-25T13:50:01+00:00",
+      "summary": "[지디넷코리아]AI보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)가 내달 7일 삼성금융캠퍼스에서 ‘AI 리스크 컨퍼런스 서울 2026’을 개최한다.삼성화재가 후원하는 이번 컨퍼런스는 100명 이상의 국내외 기업 관계자들이 참여할 예정이다. 금융보안원, 오픈AI, 마이크로소프트(MS) 등 국내외 AI보안 선도 기관과 기업이 연사로 참여한다.25일 회사에 따르면, 이번 컨퍼런스 주제는 ‘다가온 AI 시대, 기업은 어떤 리스크를 어떻게 대비해야 하는가’다. 기존에는 기업의 주"
+    },
+    {
+      "id": "282b99934de1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 영상 플랫폼 힉스필드, 5600억 유치… 미래에셋·NTT도코모가 아시아 축 맡는다",
+      "link": "https://zdnet.co.kr/view/?no=20260825222327",
+      "published": "2026-08-25T13:23:27+00:00",
+      "summary": "[지디넷코리아]힉스필드(Higgsfield)가 약 7조 5000억 원의 기업가치를 인정받으며 4억 달러, 약 5600억 원 규모의 시리즈 B 투자를 유치했다. 전문 크리에이터와 브랜드, 스튜디오를 위한 AI 영상·이미지 제작 플랫폼을 운영하는 힉스필드가 8월 24일(현지시간) 이같이 발표했다.이번 라운드에는 미래에셋캐피탈(Mirae Asset Capital)과 NTT 도코모 벤처스(NTT DOCOMO Ventures)가 전략적 투자자로 참여했다. 각각 국내 대표 금융그룹 계열 투자사와 일본 NTT"
+    },
+    {
       "id": "137679171d9a",
       "source": "Hacker News",
       "kind": "article",
@@ -89,6 +111,17 @@
       "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "published": "2026-08-25T13:03:17+00:00",
       "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 203 # Comments: 106"
+    },
+    {
+      "id": "c52df92c11c9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published": "2026-08-25T13:03:17+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 383 # Comments: 257"
     },
     {
       "id": "397c5cd87d5a",
@@ -804,6 +837,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214289",
       "published": "2026-08-25T06:14:49+00:00",
       "summary": "AI 생성 영상목포시가 추석 명절을 앞두고 지역 내 소비를 끌어올리기 위해 9월 한 달간 목포사랑상품권 발행 규모와 구매 한도, 할인 혜택을 대폭 확대한다. 목포는 9월 목포사랑상품권 발행액을 기존 월 13억원에서 65억원으로 5배 확대한다고 25일 밝혔다.1인당 월 구매 한도도 기존 30만원에서 50만원으로 상향한다. 상품권 유형별로는 카드형 구매 한도를 월 20만원에서 40만원으로 늘리고, 지류형과 모바일형은 통합 월 10만원으로 유지한다.할인 혜택도 확대된다. 상품권 구매 시 기존 10% 즉"
+    },
+    {
+      "id": "b9f2d74ff38e",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "published": "2026-08-25T06:14:14+00:00",
+      "summary": ""
     },
     {
       "id": "b2b293678b77",
