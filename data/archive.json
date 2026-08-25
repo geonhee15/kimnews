@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-08-25T13:34:11.314288+00:00",
-  "count": 10788,
+  "updated_at": "2026-08-25T14:27:03.091491+00:00",
+  "count": 10797,
   "items": [
+    {
+      "id": "7667fd3689d6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper",
+      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
+      "published": "2026-08-25T14:25:52+00:00",
+      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has "
+    },
+    {
+      "id": "d97c26f2b03c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "published": "2026-08-25T14:22:04+00:00",
+      "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+    },
+    {
+      "id": "25f89166c7d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+      "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "published": "2026-08-25T14:10:36+00:00",
+      "summary": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
+    },
+    {
+      "id": "54fd550b90c5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "published": "2026-08-25T14:10:26+00:00",
+      "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies."
+    },
+    {
+      "id": "500ee7e356a3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "published": "2026-08-25T14:00:00+00:00",
+      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of"
+    },
+    {
+      "id": "c10cf842bbce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+      "published": "2026-08-25T13:55:06+00:00",
+      "summary": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899."
+    },
+    {
+      "id": "137679171d9a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "published": "2026-08-25T13:03:17+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 203 # Comments: 106"
+    },
     {
       "id": "397c5cd87d5a",
       "source": "The Verge",
@@ -12,6 +89,28 @@
       "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
       "published": "2026-08-25T13:02:18+00:00",
       "summary": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The M"
+    },
+    {
+      "id": "e4b7730eafe6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "published": "2026-08-25T13:01:22+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 274 # Comments: 221"
+    },
+    {
+      "id": "5dfe1815cf2a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "published": "2026-08-25T13:00:11+00:00",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind."
     },
     {
       "id": "c5c870019abb",
