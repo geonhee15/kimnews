@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-25T21:52:08.496999+00:00",
-  "count": 10832,
+  "updated_at": "2026-08-25T22:20:26.863892+00:00",
+  "count": 10838,
   "items": [
+    {
+      "id": "2d513dd4c176",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월25일] AI가 바꾸는 돈과 일…자본은 하드웨어로·기업 격차는 더 크게",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214327",
+      "published": "2026-08-25T22:00:00+00:00",
+      "summary": "앤드리슨 호로비츠(a16z)가 21일(현지시간) 공개한 '테마 변화의 바람(Winds of Thematic Change)' 보고서는 AI 확산이 시장과 기업에 어떤 변화를 만들고 있는지를 보여줍니다. 특히 AI 업계를 넘어 전체 산업과 자본의 거대한 흐름이 어떻게 달라지고 있는지를 보여준다는 점에서 주목할만 합니다.가장 먼저 지적한 것은 테마형 ETF가 주목하는 산업, 즉 시장의 돈줄이 몇년 새 크게 달라졌다는 점입니다. 2020년 상위 5개 테마에는 청정에너지와 신흥시장 기술, 헬스케어 등이 포"
+    },
+    {
+      "id": "4485d2c07dad",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
+      "link": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+      "published": "2026-08-25T21:51:32+00:00",
+      "summary": "Anthony Ralphs was frustrated by the San Diego City Council's support for Flock. He decided it would take something more than reasoned argument to get their attention."
+    },
     {
       "id": "e3a983f856b1",
       "source": "GitHub Blog",
@@ -45,6 +67,17 @@
       "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
       "published": "2026-08-25T20:44:12+00:00",
       "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping."
+    },
+    {
+      "id": "178fd30597ce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "published": "2026-08-25T20:44:12+00:00",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping."
     },
     {
       "id": "70813b7c43d4",
@@ -133,6 +166,17 @@
       "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
       "published": "2026-08-25T18:00:00+00:00",
       "summary": "Do fine art and high tech ever converge? At Sotheby’s they do, thanks to Kelly Shen ’17. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using factors like buying trends and artists’ popularity. She has"
+    },
+    {
+      "id": "bb7fcb8bfd35",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "published": "2026-08-25T17:55:23+00:00",
+      "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 208 # Comments: 44"
     },
     {
       "id": "4aa7e14e357c",
@@ -309,6 +353,17 @@
       "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
       "published": "2026-08-25T14:10:26+00:00",
       "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies."
+    },
+    {
+      "id": "6a295734e995",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "published": "2026-08-25T14:06:02+00:00",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl... , https://archive.ph/yCTrr Comments URL: https://news.ycombinator.com/item?id=49434378 Points: 224 # Comments: 153"
     },
     {
       "id": "500ee7e356a3",
@@ -669,6 +724,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤드류 응이 제시한 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214329",
+      "published": "2026-08-25T09:28:33+00:00",
+      "summary": "앤드류 응 스탠포드대학교 교수가 AI가 스스로 판단하고 업무를 수행하는 에이전트 시대를 맞아, 불확실한 AI를 신뢰받는 시스템으로 구현하기 위한 ‘AI 엔지니어링 역량’의 중요성을 강조하고 나섰다. 특히 AI 시스템은 동일한 입력에도 결과가 달라질 수 있어, 기존 소프트웨어와는 차별화된 개발 방식과 기술적 접근이 필수적이라는 지적이다.AI 석학 앤드류 응은 21일(현지시간) 예측하기 어려운 AI 시스템을 안정적으로 구축·운영하기 위해 필요한 핵심 역량을 정리한 ‘AI 엔지니어링 스킬 맵’을 공개했"
+    },
+    {
+      "id": "6cf47d9a8508",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤드류 응의 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214329",
       "published": "2026-08-25T09:28:33+00:00",
       "summary": "앤드류 응 스탠포드대학교 교수가 AI가 스스로 판단하고 업무를 수행하는 에이전트 시대를 맞아, 불확실한 AI를 신뢰받는 시스템으로 구현하기 위한 ‘AI 엔지니어링 역량’의 중요성을 강조하고 나섰다. 특히 AI 시스템은 동일한 입력에도 결과가 달라질 수 있어, 기존 소프트웨어와는 차별화된 개발 방식과 기술적 접근이 필수적이라는 지적이다.AI 석학 앤드류 응은 21일(현지시간) 예측하기 어려운 AI 시스템을 안정적으로 구축·운영하기 위해 필요한 핵심 역량을 정리한 ‘AI 엔지니어링 스킬 맵’을 공개했"
