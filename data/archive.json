@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-25T02:45:12.979509+00:00",
-  "count": 10676,
+  "updated_at": "2026-08-25T03:33:31.769323+00:00",
+  "count": 10687,
   "items": [
+    {
+      "id": "5d6c5ef65bd1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "published": "2026-08-25T03:30:00+00:00",
+      "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom."
+    },
+    {
+      "id": "2b3e12845e23",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, AI 에이전트 '해치' 출시 임박...10월엔 새 모델 '워터멜론' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214319",
+      "published": "2026-08-25T03:24:43+00:00",
+      "summary": "AI 기술 경쟁이 모델 성능을 넘어 실제 업무와 일상에서 작업을 대신 수행하는 에이전트 경쟁으로 확대되는 가운데, 메타가 자체 AI 서비스의 상용화에 속도를 내고 있다.24일(현지시간) 디 인포메이션에 따르면, 메타는 사용자의 명령에 따라 다양한 웹사이트와 서비스를 직접 이용해 복잡한 작업을 수행하는 소비자용 AI 에이전트 플랫폼 ‘해치(Hatch)’를 이르면 몇주 내 출시할 전망이다.동시에 오는 10월 차세대 플래그십 AI 모델 ‘워터멜론(Watermelon)’ 공개도 추진하고 있다.내부 문서에"
+    },
+    {
+      "id": "624b59fd245c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 슬랙용 에이전트 '클로드 태그' 강화...\"대화 흐름 읽고 눈치껏 개입\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214320",
+      "published": "2026-08-25T03:17:00+00:00",
+      "summary": "앤트로픽이 기업용 AI를 단순히 필요할 때 불러 쓰는 개인용 챗봇에서 조직의 업무에 능동적으로 참여하는 ‘가상 직원’ 에이전트로 전환하는 전략에 속도를 내고 있다. 앤트로픽은 24일(현지시간) 슬랙(Slack)에서 작동하는 AI 에이전트 ‘클로드 태그(Claude Tag)’를 업데이트해 개별 메시지가 아닌 대화 전체의 맥락을 분석하고, 필요하다고 판단하면 사용자가 직접 호출하지 않아도 업무에 능동적으로 개입할 수 있도록 기능을 강화했다.스콧 화이트 앤트로픽 엔터프라이즈 제품 책임자는 벤처비트 인터"
+    },
+    {
+      "id": "e09a620c9717",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한컴, 에이전틱 OS로 남양유업 AX 돕는다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214328",
+      "published": "2026-08-25T03:05:41+00:00",
+      "summary": "한컴(대표 김연수)은 남양유업과 ‘에이전틱 OS 사업 협력을 위한 업무협약(MOU)’을 체결했다고 25일 밝혔다.에이전틱 OS를 활용해 여러 AI 에이전트와 기업 데이터, 업무 시스템을 통합 운영하고, 남양유업의 업무 환경에 최적화할 수 있도록 개념검증(PoC)을 수행할 방침이다.남양유업의 실무 데이터와 워크플로우를 기반으로 반복적이고, 정형화된 업무에 맞춤화된 AI 에이전트를 구축하고, PoC 결과를 토대로 적용 범위를 넓혀갈 예정이다.한편, 한컴은 이번 협력으로 에이전틱 OS와 산업 특화형 A"
+    },
+    {
+      "id": "c30f6f3b7e75",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "이스트소프트, 비개발자 위한 AI 마크다운 앱 '마크닷' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214323",
+      "published": "2026-08-25T03:05:03+00:00",
+      "summary": "이스트소프트(대표 정상원)는 알툴즈의 신규 마크다운 뷰어·에디터 앱 ‘마크닷’을 출시했다고 25일 밝혔다.마크닷은 AI가 읽고 쓰기에 최적화된 파일 형식인 마크다운을 별도의 전용 개발 툴 없이도 손쉽게 다룰 수 있도록 지원하는 것이 특징이다. 파일 열기부터 보기, 원본 수정, 결과 확인, 저장 및 공유, AI 에이전트 연결에 이르는 전 과정을 하나의 앱에서 처리할 수 있다.마크다운 파일을 일반 문서 형태로 변환해 목차와 검색 기능으로 원하는 내용을 쉽게 찾을 수 있으며, 파일 트리를 통해 같은 폴"
+    },
+    {
+      "id": "1a409897d923",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "위버스브레인, 음성 AI로 SKT와 AI 에이전트 개발 협력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214321",
+      "published": "2026-08-25T03:04:34+00:00",
+      "summary": "AI 교육 전문 위버스브레인(대표 조세원, 이용국)은 SK텔레콤과 AI 에이전트 기반 서비스 개발 및 사업 협력에 나선다고 25일 밝혔다.자체 음성 AI 기반 대화형 AI 에이전트 기술과 영어회화 서비스 '스피킹맥스' 운영 경험을 활용해 AI 튜터 서비스 등 다양한 분야에서 협력할 방침이다.위버스브레인은 음성 감지(VAD), 음성 인식(STT), 음성 합성(TTS) 등 대화형 AI 파이프라인 전 단계를 자체 구축했다. 특히 자체 TTS 기술을 통해 다국어 발화 과정에서 언어를 자연스럽게 전환하는 "
+    },
+    {
+      "id": "3ac22fd696ba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "노타, EMNLP 논문 2편 채택...“MoE 양자화 난제 풀었다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214318",
+      "published": "2026-08-25T03:03:23+00:00",
+      "summary": "노타(대표 채명수)는 자연어처리(NLP) 분야 국제학술대회 ‘EMNLP 2026’에서 AI 모델 최적화 관련 논문 2편이 각각 메인 컨퍼런스와 파인딩스(Findings)에 채택됐다고 25일 밝혔다.두 논문 모두 대형언어모델(LLM)에 적용되는 전문가 혼합 모델(MoE)의 양자화 과정에서 발생하는 성능 저하 문제를 다뤘다. 특히 올해는 약 1만8000편의 논문 중 메인 컨퍼런스 채택률이 15.4%에 불과해 기술적 완성도를 인정받았다는 설명이다.메인 컨퍼런스에 채택된 논문은 양자화가 다음 단계의 전문"
+    },
+    {
+      "id": "08f837e0a57b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "비욘드코딩, 미국 지니어스 올림피아드서 대상·은상…로보틱스 경쟁력 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214326",
+      "published": "2026-08-25T02:48:07+00:00",
+      "summary": "비욘드코딩(Beyond Coding)은 소속 학생들이 미국에서 열린 ‘지니어스 올림피아드’ 로보틱스 부문에서 그랜드 어워드(대상)와 실버 어워드(은상)를 동시에 수상했다고 25일 밝혔다.이번 대회에는 비욘드코딩 소속 2개 팀이 미국 본선에 진출, 모두 수상 명단에 이름을 올랐다.두 팀은 국내 선발 과정에서도 나란히 좋은 성적을 기록했다. 한국 선발전에서 각각 최고상인 금상을 받은 뒤 국가대표 자격으로 미국 본선에 진출했으며, 세계대회에서도 대상과 은상을 수상했다.지니어스 올림피아드는 환경과 지속가"
+    },
+    {
+      "id": "d49405b44c02",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "태양광발전소 상공에 드론 수백대…구름 줄여 발전량 높인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214275",
+      "published": "2026-08-25T02:10:00+00:00",
+      "summary": "미국 스타트업이 태양광발전소 상공의 구름에 드론을 투입해 햇빛 투과량을 늘리는 기술 개발에 나섰다. 화학물질을 뿌리는 기존 구름씨뿌리기와 달리 구름 속 물방울을 물리적으로 변화시켜 반사율을 낮추는 방식으로, 회사는 기존 발전소의 연간 발전량을 10~30% 높일 수 있을 것으로 보고 있다. 미국 샌프란시스코에 본사를 둔 메테오릭(Meteoric)은 21일(현지시간) 미국 스타트업 육성기관 와이콤비네이터(Y Combinator)를 통해 태양광발전소용 기상조절 드론 개발계획을 공개했다.메테오릭은 케임브"
+    },
     {
       "id": "57ad86e349ab",
       "source": "ZDNet Korea",
@@ -12,6 +111,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260825090113",
       "published": "2026-08-25T02:00:02+00:00",
       "summary": "[지디넷코리아]삼성전자가 26일(현지시간) 독일 쾰른 메세에서 개막하는 게임 전시회 '게임스컴 2026'에서 PC와 콘솔, 모바일을 아우르는 통합 게이밍 생태계를 선보인다. 삼성전자는 330평 규모 전시장에 '#플레이삼성(PlaySamsung)'을 슬로건으로 내걸고 오디세이·갤럭시·게이밍 허브·T1 등 4개 체험존을 구성했다.전시장에는 세계 최초 6K 해상도 '오디세이 G8'과 4K 유기발광다이오드(OLED) '오디세이 OLED G8', 무안경 3D 모니터 '오디세이 3D' 등 최신 디스플레이 라"
+    },
+    {
+      "id": "539d386f538c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 태양광 웨이퍼 가격 최대 40% 급등…미국 관세 앞두고 주문 몰려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214317",
+      "published": "2026-08-25T01:55:00+00:00",
+      "summary": "중국산 태양광 웨이퍼 가격이 일주일 만에 최대 40% 뛰었다. 미국의 태양광 제품 관세 조치 시행을 앞두고 해외 셀 업체들이 물량 확보에 나선 데다, 인도의 태양광 설치 성수기가 겹치며 수출 수요가 한꺼번에 몰린 결과로 분석된다.중국유색금속공업협회 실리콘산업분회가 21일(현지시간) 발표한 가격통계에 따르면 N형 G10L 단결정 웨이퍼의 평균 거래가격은 장당 1.12위안(약 230원)으로 전주보다 40% 상승했다.G12R은 1.14위안(약 234원)으로 26.67%, G12는 1.22위안(약 251"
     },
     {
       "id": "df3e6cf9f60d",
@@ -463,6 +573,17 @@
       "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "published": "2026-08-24T15:00:00+00:00",
       "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+    },
+    {
+      "id": "c7e2c5c02c29",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "link": "https://huggingface.co/blog/gradio-workflow-guide",
+      "published": "2026-08-24T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "370046cf34e0",
