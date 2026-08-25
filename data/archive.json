@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-25T16:02:00.407426+00:00",
-  "count": 10804,
+  "updated_at": "2026-08-25T16:54:12.131471+00:00",
+  "count": 10810,
   "items": [
+    {
+      "id": "07dc7d4aecae",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GeForce Now is getting support for the Steam Controller",
+      "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+      "published": "2026-08-25T16:47:15+00:00",
+      "summary": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or S"
+    },
+    {
+      "id": "51ace1dcbb64",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+      "published": "2026-08-25T16:04:37+00:00",
+      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps."
+    },
+    {
+      "id": "0cf0c0514fa1",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "published": "2026-08-25T15:10:03+00:00",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't."
+    },
     {
       "id": "b63aa56a1817",
       "source": "TechCrunch",
@@ -100,6 +133,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260825222327",
       "published": "2026-08-25T13:23:27+00:00",
       "summary": "[지디넷코리아]힉스필드(Higgsfield)가 약 7조 5000억 원의 기업가치를 인정받으며 4억 달러, 약 5600억 원 규모의 시리즈 B 투자를 유치했다. 전문 크리에이터와 브랜드, 스튜디오를 위한 AI 영상·이미지 제작 플랫폼을 운영하는 힉스필드가 8월 24일(현지시간) 이같이 발표했다.이번 라운드에는 미래에셋캐피탈(Mirae Asset Capital)과 NTT 도코모 벤처스(NTT DOCOMO Ventures)가 전략적 투자자로 참여했다. 각각 국내 대표 금융그룹 계열 투자사와 일본 NTT"
+    },
+    {
+      "id": "4bf9e11c1fbf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "published": "2026-08-25T13:13:00+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 227 # Comments: 125"
     },
     {
       "id": "137679171d9a",
@@ -276,6 +320,17 @@
       "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
       "published": "2026-08-25T12:00:00+00:00",
       "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
+    },
+    {
+      "id": "4882849a0a00",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Don't Wordle",
+      "link": "https://dontwordle.com/",
+      "published": "2026-08-25T11:49:48+00:00",
+      "summary": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 200 # Comments: 87"
     },
     {
       "id": "da533209928a",
@@ -1736,6 +1791,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "published": "2026-08-24T16:41:45+00:00",
+      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
+    },
+    {
+      "id": "cd44337e89a9",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
       "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
       "published": "2026-08-24T16:41:45+00:00",
       "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling."
