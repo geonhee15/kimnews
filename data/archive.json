@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-25T21:22:05.817151+00:00",
-  "count": 10828,
+  "updated_at": "2026-08-25T21:52:08.496999+00:00",
+  "count": 10832,
   "items": [
+    {
+      "id": "e3a983f856b1",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to evaluate LLMs before production",
+      "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "published": "2026-08-25T21:35:11+00:00",
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog ."
+    },
     {
       "id": "0d2a2e1dfbbb",
       "source": "MIT Tech Review",
@@ -12,6 +23,17 @@
       "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
       "published": "2026-08-25T21:00:00+00:00",
       "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy. Participants who evaluated paired news headlines and images over the course of four weeks were initia"
+    },
+    {
+      "id": "4016df447274",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "published": "2026-08-25T20:59:03+00:00",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges."
     },
     {
       "id": "a577ad41ac07",
@@ -254,6 +276,17 @@
       "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
       "published": "2026-08-25T14:22:04+00:00",
       "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+    },
+    {
+      "id": "416dd80ada82",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building a backyard office, the build and cost breakdown",
+      "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "published": "2026-08-25T14:20:36+00:00",
+      "summary": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown Comments URL: https://news.ycombinator.com/item?id=49434645 Points: 212 # Comments: 158"
     },
     {
       "id": "25f89166c7d6",
@@ -647,6 +680,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "머스크 \"그록, 앤트로픽에 뒤처져\"...'83조원 인수' 커서에 코딩 격차 극복 당부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214324",
+      "published": "2026-08-25T09:18:02+00:00",
+      "summary": "일론 머스크 CEO가 600억달러(약 83조원)에 인수한 AI 코딩 스타트업 커서(Cursor)를 앞세워 AI 경쟁력 강화에 나섰다. 25일(현지시간) 디 인포메이션에 따르면, 머스크 CEO는 인수 완료 직후 커서 직원 1000여명을 대상으로 한 화상회의에서 “그록(Grok)이 뒤처져 있다”며 “나는 지는 데 익숙하지 않다”고 강조했다.그록이 시장 선두 주자가 아닌 만큼 커서의 기술과 인력을 활용해 빠르게 격차를 좁히겠다는 의지를 보여준 것이다.그는 AI 모델이 앞으로 인간이 통제하기 어려울 정도"
+    },
+    {
+      "id": "244af89391b3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크 \"그록, 앤트로픽에 뒤처져\"...커서에 코딩 격차 극복 당부",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214324",
       "published": "2026-08-25T09:18:02+00:00",
       "summary": "일론 머스크 CEO가 600억달러(약 83조원)에 인수한 AI 코딩 스타트업 커서(Cursor)를 앞세워 AI 경쟁력 강화에 나섰다. 25일(현지시간) 디 인포메이션에 따르면, 머스크 CEO는 인수 완료 직후 커서 직원 1000여명을 대상으로 한 화상회의에서 “그록(Grok)이 뒤처져 있다”며 “나는 지는 데 익숙하지 않다”고 강조했다.그록이 시장 선두 주자가 아닌 만큼 커서의 기술과 인력을 활용해 빠르게 격차를 좁히겠다는 의지를 보여준 것이다.그는 AI 모델이 앞으로 인간이 통제하기 어려울 정도"
