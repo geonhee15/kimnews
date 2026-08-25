@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-25T18:32:20.881005+00:00",
-  "count": 10816,
+  "updated_at": "2026-08-25T19:17:38.178464+00:00",
+  "count": 10821,
   "items": [
+    {
+      "id": "1bab7ab22ed6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "published": "2026-08-25T19:03:47+00:00",
+      "summary": "The company's new fundraising total now stands at $232 million."
+    },
+    {
+      "id": "1144848ea575",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Pixel 11 Pro Fold Review: Better, Not Best",
+      "link": "https://www.wired.com/review/google-pixel-11-pro-fold/",
+      "published": "2026-08-25T18:45:00+00:00",
+      "summary": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell."
+    },
     {
       "id": "24a24d00e8af",
       "source": "The Verge",
@@ -12,6 +34,17 @@
       "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
       "published": "2026-08-25T18:16:29+00:00",
       "summary": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Seri"
+    },
+    {
+      "id": "b1146faa1865",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dolly Parton has died",
+      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "published": "2026-08-25T18:02:22+00:00",
+      "summary": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 P"
     },
     {
       "id": "e9bb0c11996f",
@@ -47,6 +80,17 @@
       "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment."
     },
     {
+      "id": "215c4662d4b6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nitter project received cease and desist",
+      "link": "https://github.com/zedeus/nitter/issues/1442",
+      "published": "2026-08-25T17:08:21+00:00",
+      "summary": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 235 # Comments: 154"
+    },
+    {
       "id": "88cb4be5541a",
       "source": "The Verge",
       "kind": "article",
@@ -78,6 +122,17 @@
       "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
       "published": "2026-08-25T16:04:37+00:00",
       "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps."
+    },
+    {
+      "id": "daeb85e2a181",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How much of HN is AI?",
+      "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "published": "2026-08-25T15:23:41+00:00",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 205 # Comments: 203"
     },
     {
       "id": "0cf0c0514fa1",
