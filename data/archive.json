@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T11:21:43.899197+00:00",
-  "count": 10768,
+  "updated_at": "2026-08-25T11:53:18.373775+00:00",
+  "count": 10770,
   "items": [
     {
       "id": "fdf91164224c",
@@ -892,6 +892,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260825114659",
       "published": "2026-08-25T02:47:14+00:00",
       "summary": "[지디넷코리아]한국레노버가 25일 1500R 곡률 커브드 패널을 적용한 리전 게이밍 모니터 4종을 국내 출시했다.21:9 화면비율, WQHD(3440×1440 화소) 해상도 패널을 적용한 리전 34W-2c, 31.5인치 QHD(2560×1400 화소) 해상도 패널을 적용한 32Q-2c, 27인치 QHD 패널을 적용한 리전 27Q-2c, 27인치 풀HD(1920×1080 화소) 패널을 적용한 리전 27-2C 등 총 4개 제품이 공급된다.리전 34W-2c와 32Q-2c는 베사 디스플레이HDR 400 "
+    },
+    {
+      "id": "c286dc08e5a8",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "published": "2026-08-25T02:39:24+00:00",
+      "summary": ""
     },
     {
       "id": "c89c7a7c02ef",
@@ -6038,6 +6049,17 @@
       "lang": "en",
       "title": "Measuring benchmark optimization in speech recognition",
       "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "2026-08-20T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3db95d6c3b22",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "link": "https://huggingface.co/blog/pwc-search",
       "published": "2026-08-20T15:00:00+00:00",
       "summary": ""
     },
