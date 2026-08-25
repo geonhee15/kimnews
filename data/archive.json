@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-08-25T08:59:29.618580+00:00",
-  "count": 10745,
+  "updated_at": "2026-08-25T09:38:35.439013+00:00",
+  "count": 10756,
   "items": [
+    {
+      "id": "f03b73170feb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It Should Be Harder to Apply for a Job. No, Really",
+      "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "published": "2026-08-25T09:30:00+00:00",
+      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price."
+    },
+    {
+      "id": "0a10a9cd82a1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤드류 응이 제시한 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214329",
+      "published": "2026-08-25T09:28:33+00:00",
+      "summary": "앤드류 응 스탠포드대학교 교수가 AI가 스스로 판단하고 업무를 수행하는 에이전트 시대를 맞아, 불확실한 AI를 신뢰받는 시스템으로 구현하기 위한 ‘AI 엔지니어링 역량’의 중요성을 강조하고 나섰다. 특히 AI 시스템은 동일한 입력에도 결과가 달라질 수 있어, 기존 소프트웨어와는 차별화된 개발 방식과 기술적 접근이 필수적이라는 지적이다.AI 석학 앤드류 응은 21일(현지시간) 예측하기 어려운 AI 시스템을 안정적으로 구축·운영하기 위해 필요한 핵심 역량을 정리한 ‘AI 엔지니어링 스킬 맵’을 공개했"
+    },
+    {
+      "id": "df8a466da838",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크 \"그록, 앤트로픽에 뒤처져\"...'83조원 인수' 커서에 코딩 격차 극복 당부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214324",
+      "published": "2026-08-25T09:18:02+00:00",
+      "summary": "일론 머스크 CEO가 600억달러(약 83조원)에 인수한 AI 코딩 스타트업 커서(Cursor)를 앞세워 AI 경쟁력 강화에 나섰다. 25일(현지시간) 디 인포메이션에 따르면, 머스크 CEO는 인수 완료 직후 커서 직원 1000여명을 대상으로 한 화상회의에서 “그록(Grok)이 뒤처져 있다”며 “나는 지는 데 익숙하지 않다”고 강조했다.그록이 시장 선두 주자가 아닌 만큼 커서의 기술과 인력을 활용해 빠르게 격차를 좁히겠다는 의지를 보여준 것이다.그는 AI 모델이 앞으로 인간이 통제하기 어려울 정도"
+    },
+    {
+      "id": "0043257ce494",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "published": "2026-08-25T09:15:03+00:00",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's saf"
+    },
+    {
+      "id": "0c52cee6303a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "published": "2026-08-25T09:15:00+00:00",
+      "summary": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant."
+    },
+    {
+      "id": "fcf1a1e08180",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "로봇들도 모여서 올림픽을 여는 시대",
+      "link": "https://www.youtube.com/shorts/k6O3cd5Ptx0",
+      "published": "2026-08-25T09:00:30+00:00",
+      "summary": ""
+    },
+    {
+      "id": "6258cffeebcb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 제미나이 3.5 프로 건너뛰고 차세대 ‘제미나이 4’ 출시 준비하나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214355",
+      "published": "2026-08-25T09:00:00+00:00",
+      "summary": "구글이 중간 단계 모델로 예상되던 ‘제미나이 3.5 프로’ 대신 곧바로 차세대 플래그십 모델인 ‘제미나이 4’로 직행할 것이라는 관측이 등장했다. 당초 올여름 공개가 유력했던 모델의 출시 대신 차세대 모델 개발에 전력을 다하고 있다는 분석이다.테스팅카탈로그는 24일(현지시간) 구글이 제미나이 3.5 프로 출시 계획을 사실상 철회하고 차세대 모델인 제미나이 4 준비 작업에 착수했다고 전했다. 구글의 대략 6개월 단위 모델 훈련 주기를 고려하면 제미나이 4의 공식 발표 시점은 올 12월경이 될 것으로"
+    },
+    {
+      "id": "e72956d0d0cb",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "published": "2026-08-25T09:00:00+00:00",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and "
+    },
+    {
+      "id": "f5260c6c1d0e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, 차세대 '맥 미니' 발표 임박...9월 아이폰 행사 전 공개 가능성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214349",
+      "published": "2026-08-25T08:55:00+00:00",
+      "summary": "애플이 2년여 만에 소형 데스크톱 PC인 맥 미니(Mac mini)의 신형 모델 출시를 준비하고 있는 것으로 알려졌다. AI 앱을 로컬 환경에서 구동하려는 수요가 늘면서 맥 미니의 인기가 높아진 가운데, 애플은 차세대 프로세서를 탑재한 신제품을 이르면 수일 내 공개할 것으로 전망된다.24일(현지시간) 블룸버그에 따르면, 애플은 이르면 며칠 내 새로운 맥 미니를 선보일 계획이다.오는 9월 차세대 아이폰 공개 행사가 예정돼 있어, 신형 맥 미니가 아이폰 행사보다 먼저 공개될 가능성도 있다. 애플은 내"
+    },
+    {
+      "id": "2f3cab59c96a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android is getting its own weird dots to cure car sickness",
+      "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+      "published": "2026-08-25T08:36:27+00:00",
+      "summary": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first introduced in 2024. The Android 17 feature appe"
+    },
     {
       "id": "0b8ad87d60af",
       "source": "AI타임스",
@@ -78,6 +188,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260825171002",
       "published": "2026-08-25T08:10:02+00:00",
       "summary": "[지디넷코리아]모리셔스 포트루이스, 2026년 8월 25일 /PRNewswire/ -- STARTRADER (스타트레이더) 는 글로벌 시장 변화에 맞춰 상품 라인업을 확장하며 , 고객의 관심과 거래 습관을 반영하고 있습니다. 8월 24일부터 회사는 MT5에 신규 미국 주식 및 ETF CFD 30종을 추가하여, 기술•인프라•혁신 분야의 기업과 테마에 대한 CFD 노출 범위를 확대합니다. STARTRADER Adds 30 U.S. Stock and ETF CFDs as 2026 Product Expa"
+    },
+    {
+      "id": "84958cf5e586",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 해커, '딥시크' 탑재하고 사이버 공격 2배 폭증...\"가성비 좋고 장벽 낮아\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214344",
+      "published": "2026-08-25T08:10:00+00:00",
+      "summary": "중국 정부와 연계된 것으로 추정되는 해커들이 '딥시크' 등 오픈소스 AI 모델을 사이버 공격에 적극 활용하면서 공격 활동이 크게 증가하고 있다는 조사 결과가 나왔다. 해커들이 정찰과 취약점 탐색 같은 반복적인 작업을 AI에 맡기는 것은 물론 악성코드와 공격 도구 개발에도 AI를 활용하면서 공격의 규모와 속도가 동시에 확대되고 있다는 분석이다.블룸버그는 24일(현지시간) 대만 사이버보안 연구기관 팀T5(TeamT5)의 조사 결과를 인용, 중국 국가 연계 해킹 조직들의 AI 활용이 본격화하면서 사이버"
     },
     {
       "id": "d29f4041581e",
