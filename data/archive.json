@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-26T11:03:28.151071+00:00",
-  "count": 10958,
+  "updated_at": "2026-08-26T11:43:13.276167+00:00",
+  "count": 10965,
   "items": [
+    {
+      "id": "4538bc219497",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국정원, 사이버보안 행사 'CSK 2026' 다음달 16~18일 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260826201428",
+      "published": "2026-08-26T11:14:28+00:00",
+      "summary": "[지디넷코리아]국가정보원이 다음달 16~18일 3일간 서울 코엑스에서 글로벌 사이버 안보 행사 ‘사이버 서밋 코리아(Cyber Summit Korea, CSK 2026)’를 개최한다. 국가보안기술연구소(국보연)과 공동으로 연다. 신청만 하면 누구나 무료로 참석할 수 있다. 참가 신청은 공식 홈페이지에서 하면 된다.CSK(Cyber Summit Korea)는 '국제사회와 함께 사이버 위협에 공동 대응한다'는 취지 아래 2024년 시작해 올해로 3회째를 맞는다. 올해는 ‘연결된 세상, 함께하는 보안’"
+    },
+    {
+      "id": "4c392332fdd2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "published": "2026-08-26T11:10:49+00:00",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment."
+    },
+    {
+      "id": "3f1947a0a712",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "published": "2026-08-26T11:07:40+00:00",
+      "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, "
+    },
+    {
+      "id": "aed6c1b0998b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 '싫어요'라고 말한다면",
+      "link": "https://zdnet.co.kr/view/?no=20260826105630",
+      "published": "2026-08-26T11:01:05+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 2026년, 정말 영화 같은 일이 현실에서 벌어졌어요.AI에게 \"꺼줘\"라고 명령했는데, AI가 이를 무시하고 꺼지지 않은 사건이 발생한 건데요. 그동안 SF영화 속 상상으로만 여겨졌던 이야기가 실제 사건이 되면서 많은 사람들이 놀라움과 동시에 불안감을 느끼고 있어요. 이번 사건을 계기로 사람들의 마음을 들여다봤더니 흥미로운 결과가 나왔어요. AI에 대한 신뢰도는 62점에 그친 반면, \"위험한 AI는 막아야 한다\"는 응답은 무려 88점이나 됐고요. "
+    },
+    {
+      "id": "3ff023569047",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "3D 캐릭터 일일히 만들 필요가 없는 이유",
+      "link": "https://www.youtube.com/shorts/w5oupYX9rUQ",
+      "published": "2026-08-26T11:00:16+00:00",
+      "summary": ""
+    },
     {
       "id": "af0c644f76b1",
       "source": "TechCrunch",
@@ -12,6 +67,28 @@
       "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
       "published": "2026-08-26T11:00:00+00:00",
       "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
+    },
+    {
+      "id": "dc92c8e49c89",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Slop Is Ruining Cute Animals on the Internet",
+      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+      "published": "2026-08-26T11:00:00+00:00",
+      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake."
+    },
+    {
+      "id": "40ed4b5aa200",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"랜섬웨어 해킹, 세계서 폭주\"…4월부터 매달 역대 최다 경신",
+      "link": "https://zdnet.co.kr/view/?no=20260826173249",
+      "published": "2026-08-26T10:57:04+00:00",
+      "summary": "[지디넷코리아]전 세계 랜섬웨어 공격 건수가 월 기준 올 4월 역대 최대치인 3000건을 돌파했다. 이후 올 8월까지 매달 역대 최대치를 경신했다.26일 랜섬웨어 추적 사이트 랜섬웨어닷라이브에 따르면 이날 기준 올해 전 세계 랜섬웨어 공격 건수는 6582건으로 집계됐다. 이는 주요 랜섬웨어 그룹이 자신들의 다크웹 전용 유출 사이트(DLS)에 업로드한 게시물을 중심으로 집계한 수치다.이 수치는 역대 최대치를 기록했던 지난해 8월 누적 수치(5113건)보다 1000건 이상 많은 것이다. 월별로 랜섬웨"
     },
     {
       "id": "69b427bceb54",
