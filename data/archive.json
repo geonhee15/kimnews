@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-08-26T20:29:21.534438+00:00",
-  "count": 11017,
+  "updated_at": "2026-08-26T23:59:19.739360+00:00",
+  "count": 11036,
   "items": [
+    {
+      "id": "86dab89705ff",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "published": "2026-08-26T23:47:18+00:00",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
+    },
+    {
+      "id": "5a85868a5ad0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "published": "2026-08-26T22:47:58+00:00",
+      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk."
+    },
+    {
+      "id": "89211c4ebab6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+      "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+      "published": "2026-08-26T22:13:15+00:00",
+      "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range."
+    },
+    {
+      "id": "5b4a09389f5b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[8월26일] 오픈AI가 '챗GPT'를 바꾸고 있다…티보가 밝힌 다음 단계는 ‘일하는 AI’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214377",
+      "published": "2026-08-26T22:00:00+00:00",
+      "summary": "사람들에게 “AI를 어떻게 쓰느냐”고 물으면 가장 먼저 떠올리는 것은 여전히 챗봇입니다. 질문을 입력하면 답변을 받고, 다시 질문하면 또 다른 답변을 받는 방식입니다.그런데 오픈AI가 이 무게중심을 옮기고 있습니다. 사람이 AI에게 질문하는 챗GPT에서, AI가 사람의 실제 업무를 처리하는 ‘챗GPT 워크(Work)’로 중심을 이동하려는 움직임​입니다.이를 잘 보여주는 것이 오픈AI 제품 책임자인 티볼트 ‘티보’ 소티오의 테크크런치 인터뷰입니다. 그는 코딩 에이전트 '코덱스'의 책임자로 '토큰 초"
+    },
+    {
+      "id": "85eba51daba5",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "link": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "published": "2026-08-26T21:44:41+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4b1beec8e5a8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "published": "2026-08-26T21:40:53+00:00",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report "
+    },
+    {
+      "id": "fc4f37d6e246",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "published": "2026-08-26T21:37:39+00:00",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+    },
+    {
+      "id": "b3e957e10872",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "published": "2026-08-26T21:36:06+00:00",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took near"
+    },
+    {
+      "id": "9ee4c65f962d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "published": "2026-08-26T21:25:27+00:00",
+      "summary": "Report shows Meta's challenges replacing people with AI agents."
+    },
+    {
+      "id": "cccaa4fd6573",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
+      "link": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
+      "published": "2026-08-26T20:55:46+00:00",
+      "summary": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more."
+    },
     {
       "id": "81170bb1eebe",
       "source": "GitHub Blog",
@@ -23,6 +133,17 @@
       "link": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
       "published": "2026-08-26T20:00:00+00:00",
       "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platf"
+    },
+    {
+      "id": "98dc87e18618",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "published": "2026-08-26T19:50:52+00:00",
+      "summary": "Meta to impose daily limit on child social media use in deal with nearly every state."
     },
     {
       "id": "29cee3cc9fa5",
@@ -47,6 +168,17 @@
       "summary": "Was Greg Brockman the right executive all along?"
     },
     {
+      "id": "13687fe61d92",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "published": "2026-08-26T19:19:22+00:00",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome."
+    },
+    {
       "id": "00ff9e1d64f5",
       "source": "The Verge",
       "kind": "article",
@@ -64,6 +196,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "published": "2026-08-26T19:16:42+00:00",
+      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming."
+    },
+    {
+      "id": "5a0ce7b28c40",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
       "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
       "published": "2026-08-26T19:16:42+00:00",
       "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming."
@@ -124,6 +267,17 @@
       "summary": "Article URL: https://github.com/tailscale/tailcat Comments URL: https://news.ycombinator.com/item?id=49452990 Points: 270 # Comments: 46"
     },
     {
+      "id": "423b89e3988a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "An ongoing 3D-printer AGPL violation",
+      "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "published": "2026-08-26T17:41:40+00:00",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/ Comments URL: https://news.ycombinator.com/item?id=49452980 Points: 276 # Comments: 119"
+    },
+    {
       "id": "b1ce73fbab6a",
       "source": "The Verge",
       "kind": "article",
@@ -133,6 +287,17 @@
       "link": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
       "published": "2026-08-26T17:34:32+00:00",
       "summary": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of sear"
+    },
+    {
+      "id": "d2270ab597a4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"팬을 향한 여정\" 크래프톤, 장르 다변화 신작 5종으로 글로벌 정조준",
+      "link": "https://zdnet.co.kr/view/?no=20260827021933",
+      "published": "2026-08-26T17:23:57+00:00",
+      "summary": "[지디넷코리아][독일(쾰른)=진성우 기자] 크래프톤이 세계 최대 게임쇼 '게임스컴 2026' 현장에서 서로 다른 장르의 신작 5종을 공개했다.단순한 흥행 지표를 넘어 '팬의 일상이자 문화가 되는 게임'을 만들겠다는 중장기적 철학 아래, 전 세계 유저들의 다양한 취향을 겨냥한다는 구상이다.26일(현지시간) 크래프톤은 독일 쾰른에서 미디어데이를 개최하고 동양 다크 판타지 액션 RPG, 멀티팀 택티컬 아레나, 2인 협동 내러티브 어드벤처, 이머시브 오픈월드 FPS RPG, 멀티플레이 FPS 등 다채로운"
     },
     {
       "id": "06b46821f0b3",
@@ -188,6 +353,17 @@
       "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
       "published": "2026-08-26T16:53:07+00:00",
       "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1."
+    },
+    {
+      "id": "ef3980e58e5e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "기가바이트, AMD와 협력해 귀무자: WAY OF THE SWORD 게임 번들을 게이머들에게 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260827011003",
+      "published": "2026-08-26T16:10:03+00:00",
+      "summary": "[지디넷코리아]타이베이, 2026년 8월 26일 /PRNewswire/ -- 세계적인 컴퓨터 브랜드 기가바이트(GIGABYTE)가 최신 AMD 기술을 탑재한 행사 대상 그래픽카드 및 게이밍 데스크톱을 위한 귀무자: Way of the Sword(Onimusha: Way of the Sword) 게임 번들을 발표했다. AMD 라데온™(Radeon™) RX 9070 XT, RX 9070, RX 9070 GRE 그래픽을 탑재한 특정 제품들을 대상으로, 이번 번들은 AMD RDNA™ 4 아키텍처와 첨단 "
     },
     {
       "id": "1731f844a268",
@@ -256,6 +432,17 @@
       "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popu"
     },
     {
+      "id": "1dc37c66e982",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"LG디스플레이, 상반기 아이폰 OLED 3150만대 출하...21.6% 상승\"",
+      "link": "https://zdnet.co.kr/view/?no=20260826235456",
+      "published": "2026-08-26T15:13:02+00:00",
+      "summary": "[지디넷코리아]LG디스플레이가 올해 상반기 출하한 애플 아이폰 유기발광다이오드(OLED) 물량이 3150만대였다고 시장조사업체 시그마인텔이 최근 밝혔다. 전년 동기(2590만대)보다 21.6% 많다.시그마인텔은 \"지난해 상반기 LG디스플레이의 아이폰 OLED 출하량은 전년비 19.9% 늘어난 2590만대였다\"며 \"올해 상반기에는 이보다 21.6% 늘었다\"고 설명했다. LG디스플레이의 스마트폰 OLED 고객사는 애플 1곳이다. 애플 아이폰은 플렉시블 OLED를 사용한다. 상반기 삼성디스플레이의 스마"
+    },
+    {
       "id": "adb2be168dd7",
       "source": "Hacker News",
       "kind": "article",
@@ -298,6 +485,17 @@
       "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
       "published": "2026-08-26T14:30:00+00:00",
       "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively revealed last month, is part of work that Microsoft is doing for game preservation and "
+    },
+    {
+      "id": "29a3077793e0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "link": "https://farmaction.us/taylorfarmsreport/",
+      "published": "2026-08-26T14:21:44+00:00",
+      "summary": "Article URL: https://farmaction.us/taylorfarmsreport/ Comments URL: https://news.ycombinator.com/item?id=49449749 Points: 219 # Comments: 151"
     },
     {
       "id": "184dfd147fa7",
@@ -892,6 +1090,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214423",
       "published": "2026-08-26T08:00:00+00:00",
       "summary": "■ 의료 AI 전문 루닛(대표 서범석)은 지난 21~22일 본사에서 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 후원하는 '의료 특화 파운데이션 모델 해커톤'을 진행했다고 밝혔다. 과기부의 국가 전략사업인 ‘AI 특화 파운데이션 모델’ 프로젝트를 통해 개발한 ‘L2-프리뷰’ 파운데이션 모델을 활용했다. AI 개발자와 대학·대학원생, 임상의, 엔지니어 등 다양한 분야의 전문가로 구성된 15개 팀, 총 70여 명이 참여했다. ■ 카카오(대표 정신아)는 지역 AI 인재·기업 육성 추진 기구 ‘카카"
+    },
+    {
+      "id": "825a2049c5c8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] SK AX, SAP와 'AI 엔터프라이즈' 협력 강화 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214425",
+      "published": "2026-08-26T08:00:00+00:00",
+      "summary": "■ SK AX(사장 김완종)는 SAP와 전략적 협력을 통해 AI 네이티브 엔터프라이즈 구현에 나선다고 밝혔다. SK AX는 '엑스젠틱와이어 ERP 스위트'를 중심으로 ERP 전략 수립부터 구축·전환·운영 혁신까지 지원하는 통합 서비스를 제공하고, SAP의 마켓플레이스 'AI 에이전트 허브'를 통해 글로벌 시장에 공급할 계획이다.■ SK텔레콤(대표 정재헌)은 2026 아이치·나고야 아시안게임을 앞두고, '팀 SKT' 출정식을 개최했다고 밝혔다. 이번 훈련 과정에는 SKT의 자체 펜싱 AI 전력분석 "
     },
     {
       "id": "1aa8280d0e45",
