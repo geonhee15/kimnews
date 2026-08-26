@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-26T14:05:04.005702+00:00",
-  "count": 10979,
+  "updated_at": "2026-08-26T15:53:39.173245+00:00",
+  "count": 10993,
   "items": [
+    {
+      "id": "38d3e2240e3c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "published": "2026-08-26T15:47:28+00:00",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
+    },
+    {
+      "id": "cdb5d1e44966",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Volvo’s cars will warn one another about hazards in the road",
+      "link": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+      "published": "2026-08-26T15:28:14+00:00",
+      "summary": "Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's cars talking to one another, as opposed to crowdsourced alert systems used by popu"
+    },
+    {
+      "id": "d7fe4eeedc6e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "published": "2026-08-26T15:00:00+00:00",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
+    },
+    {
+      "id": "fa05709cad32",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "published": "2026-08-26T14:37:01+00:00",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
+    },
+    {
+      "id": "0eb11c6e2d96",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
+      "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+      "published": "2026-08-26T14:30:00+00:00",
+      "summary": "Microsoft is officially announcing a new Xbox feature that will allow Xbox owners to digitize their existing physical game collections. The disc-to-digital feature, which The Verge exclusively revealed last month, is part of work that Microsoft is doing for game preservation and "
+    },
+    {
+      "id": "184dfd147fa7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "published": "2026-08-26T14:19:29+00:00",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
+    },
+    {
+      "id": "54e623b782ec",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
+      "link": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
+      "published": "2026-08-26T14:08:37+00:00",
+      "summary": "In addition to sending billions of dollars to states, Meta will make substantive changes to its platforms as part of a landmark settlement."
+    },
+    {
+      "id": "5f798dae2d9f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s 25th anniversary Xbox will cost $899",
+      "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+      "published": "2026-08-26T14:05:38+00:00",
+      "summary": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" will receive early access preorder emails starting today. The console will launc"
+    },
+    {
+      "id": "6918d909acd6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can now buy music on SoundCloud",
+      "link": "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch",
+      "published": "2026-08-26T14:00:00+00:00",
+      "summary": "SoundCloud has launched a new beta feature that allows artists on the audio streaming platform to sell music directly from their profiles, instead of diverting fans to purchase from third-party services like Bandcamp and Beatport. The feature aims to give listeners a better way t"
+    },
     {
       "id": "119bba7c64ce",
       "source": "TechCrunch",
@@ -45,6 +144,28 @@
       "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
       "published": "2026-08-26T13:10:13+00:00",
       "summary": ""
+    },
+    {
+      "id": "4882ce6022cd",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7c7583de1d86",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "셀레브라이트, 휴대형 전술 추출 키트(C-TEK) 출시로 군에 전장 정보 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260826221003",
+      "published": "2026-08-26T13:10:03+00:00",
+      "summary": "[지디넷코리아] 셀레브라이트의 업계 선도적인 디지털 포렌식 역량을 기반으로 구축된 C-TEK, 전방 배치 팀들이 휴대전화와 SIM카드, 드론, 휴대용 매체에서 데이터를 신속하게 분류해 임무를 수행할 수 있도록 지원 버지니아 타이슨스 코너 및 이스라엘 페타 티크바, 2026년 8월 26일 /PRNewswire/ -- 공공 및 민간 부문용 AI 기반 디지털 조사 및 첩보 솔루션 분야의 글로벌 리더인 셀레브라이트(Cellebrite DI Ltd., Nasdaq: CLBT)가 8월 26일, 군부대가 포획"
     },
     {
       "id": "7bf464d5a3bd",
@@ -122,6 +243,39 @@
       "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
       "published": "2026-08-26T12:00:00+00:00",
       "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames."
+    },
+    {
+      "id": "d086f44d2bca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마에스트로, 포렌식 전문가 자격증 과정 개설",
+      "link": "https://zdnet.co.kr/view/?no=20260826205824",
+      "published": "2026-08-26T11:58:24+00:00",
+      "summary": "[지디넷코리아]보안 전문업체 마에스트로 포렌식(대표 김종광)이 ‘마에스트로 위즈덤 포렌식 전문가 자격증 과정’을 운영한다. 과정 이름에 사용한 '마에스트로 위즈덤(MAESTRO WiSDOM)'은 이 회사의 AI 기반 자동화 디지털 포렌식 및 악성코드 분석 통합 플랫폼이다.26일 회사에 따르면, 오는 9월에는 맥 포렌식 과정을, 10월에는 윈도우 포렌식 과정을 인섹시큐리티 교육센터에서 각각 진행한다. '마에스트로 포렌식'은 급증하는 지능형 사이버 침해사고에 대응해 정보 유출 사고 조사, 해킹 및 악"
+    },
+    {
+      "id": "8f60eb22d4fa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "쿤텍, 스마트선박 사이버보안 국가 R&D 실증 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260826204552",
+      "published": "2026-08-26T11:45:52+00:00",
+      "summary": "[지디넷코리아]융합보안 전문기업 쿤텍(대표 방혁준)이 지난 19일 판교 본사에서 '스마트선박 국제 규정 대응을 위한 핵심 보안 기술 개발' 과제의 3차년도 실증설명회를 개최했다. 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 정보보호핵심원천기술개발사업 일환이다. 행사에는 선급과 조선소, 기자재, 선사 등 과제 참여·수요기관 관계자들이 참석했다.실환경 랩에서 진행된 국가과제 실증이번 실증은 국제선급연합회(IACS)의 선박 사이버보안 통합 규정 UR E26·E27에 대응하는 과제 성과를 "
+    },
+    {
+      "id": "8c6156168d53",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "파이오링크, 필리핀서 '한국형 SOC' 운영전략 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260826203011",
+      "published": "2026-08-26T11:30:11+00:00",
+      "summary": "[지디넷코리아]파이오링크(대표 조영철)가 25일 필리핀 케손시티 노보텔 아라네타센터에서 ‘필리핀 국가사이버안전센터(NCSC) 구축사업’ 착수 워크숍(Inception Workshop)을 개최했다. 국가 사이버위협 대응 역량 강화를 위한 보안관제(SOC) 운영전략 수립 방향을 발표했다.26일 회사에 따르면, 이번 워크숍은 필리핀 정보통신기술부(DICT)와 한국국제협력단(KOICA), KOICA PMC팀이 공동 주관했다. 사업의 공식 출범을 알리고 추진 방향과 범위, 세부 실행계획을 이해관계 기관과 "
     },
     {
       "id": "4538bc219497",
