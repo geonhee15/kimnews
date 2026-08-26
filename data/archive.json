@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-26T13:14:56.895906+00:00",
-  "count": 10969,
+  "updated_at": "2026-08-26T14:05:04.005702+00:00",
+  "count": 10979,
   "items": [
+    {
+      "id": "119bba7c64ce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "link": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "published": "2026-08-26T13:43:01+00:00",
+      "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users."
+    },
+    {
+      "id": "9c43d974ce96",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
+      "link": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
+      "published": "2026-08-26T13:31:32+00:00",
+      "summary": "Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, Meta agreed to come up with an age assurance standard "
+    },
+    {
+      "id": "038242fa790c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "published": "2026-08-26T13:30:00+00:00",
+      "summary": "Robot bodies are waiting for their AI brains to catch up."
+    },
+    {
+      "id": "3533da9c2764",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepSeek’s AI Just Learned To Upgrade Itself",
+      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "published": "2026-08-26T13:10:13+00:00",
+      "summary": ""
+    },
     {
       "id": "7bf464d5a3bd",
       "source": "TechCrunch",
@@ -14,6 +58,17 @@
       "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent."
     },
     {
+      "id": "56273449c9ce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AWS Acquires DuckDB",
+      "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "published": "2026-08-26T12:59:26+00:00",
+      "summary": "Article URL: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws Comments URL: https://news.ycombinator.com/item?id=49448321 Points: 273 # Comments: 61"
+    },
+    {
       "id": "a0f2c76ad8cd",
       "source": "TechCrunch",
       "kind": "article",
@@ -23,6 +78,28 @@
       "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
       "published": "2026-08-26T12:55:28+00:00",
       "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
+    },
+    {
+      "id": "b998aa650c6d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "published": "2026-08-26T12:55:28+00:00",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
+    },
+    {
+      "id": "1e3baf345c7f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Omarchy development practices lead to predictable security issues",
+      "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "published": "2026-08-26T12:17:43+00:00",
+      "summary": "Article URL: https://blog.happyfellow.dev/merchants-of-insecurity/ Comments URL: https://news.ycombinator.com/item?id=49447682 Points: 220 # Comments: 288"
     },
     {
       "id": "a01d0ea077d6",
@@ -342,6 +419,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260826174018",
       "published": "2026-08-26T08:40:18+00:00",
       "summary": "[지디넷코리아]출판사 박영사가 개인정보보호를 단순한 법률 준수를 넘어 기업의 전략과 리스크 관리, 조직 신뢰를 좌우하는 경영의제로 재구성한 실전 전략서 '개인정보보호는 경영이다'(저자 이상헌, 2만 3000원)를 출간했다.인공지능(AI)과 데이터가 기업 경쟁력의 핵심이 된 지금, 개인정보 유출 사고는 특정 기업만의 예외적 사건이 아닌 일상의 경영 리스크가 됐다. 그러나 많은 조직에서는 여전히 법무·사업·IT 부서가 서로 다른 목표와 언어로 움직이며 개인정보보호를 ‘규제 기관의 제재를 피하는 일’로"
+    },
+    {
+      "id": "54ce8c3e2091",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RAG Is Simpler Than You Think",
+      "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "published": "2026-08-26T08:39:17+00:00",
+      "summary": "Article URL: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think Comments URL: https://news.ycombinator.com/item?id=49445727 Points: 225 # Comments: 103"
     },
     {
       "id": "8b6b92fa48c5",
@@ -1686,6 +1774,17 @@
       "summary": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or S"
     },
     {
+      "id": "f894c044f913",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "published": "2026-08-25T16:35:36+00:00",
+      "summary": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 207 # Comments: 72"
+    },
+    {
       "id": "51ace1dcbb64",
       "source": "Ars Technica",
       "kind": "article",
@@ -1717,6 +1816,17 @@
       "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
       "published": "2026-08-25T15:10:03+00:00",
       "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't."
+    },
+    {
+      "id": "f13564f87150",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published": "2026-08-25T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "b63aa56a1817",
