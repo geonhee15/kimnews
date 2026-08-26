@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-26T02:24:55.638259+00:00",
-  "count": 10864,
+  "updated_at": "2026-08-26T03:32:19.332529+00:00",
+  "count": 10874,
   "items": [
+    {
+      "id": "20b01cb9d4d0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "published": "2026-08-26T03:30:00+00:00",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+    },
+    {
+      "id": "2ec0091551b8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, M6 맥 미니·M5 맥 스튜디오 공개… 두 달 만에 또 가격 인상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214371",
+      "published": "2026-08-26T03:07:54+00:00",
+      "summary": "애플이 온디바이스 AI 컴퓨팅 성능을 대폭 강화한 차세대 맥 미니와 맥 스튜디오를 공개하면서 동시에 제품 가격을 또다시 인상했다. 올해 6월 메모리·스토리지 가격 상승을 이유로 가격을 올린 지 불과 두 달 만이다. 애플은 25일(현지시간) 새로운 M6 칩을 탑재한 맥 미니와 M5 맥스·M5 울트라를 탑재한 맥 스튜디오를 발표했다.신제품은 9월22일부터 판매되며, 사전 주문은 이날부터 시작된다. 두 제품 모두 와이파이 7과 블루투스 6을 지원하며, 최신 운영체제인 맥OS 27 '골든 게이트'와 함께"
+    },
+    {
+      "id": "b76f40c00aff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "진학사 캐치, AI 활용 강의부터 평가까지 지원하는 ‘AX 직무 역량검사’ 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214372",
+      "published": "2026-08-26T02:56:36+00:00",
+      "summary": "채용 플랫폼 진학사 캐치가 AI 실무 활용 능력을 진단하는 ‘캐치업 AX(CATCH-UP AX) 직무 역량검사’를 정식 출시했다고 26일 밝혔다.단순한 AI 사용 경험을 넘어, 업무에 얼마나 효과적으로 활용하는지를 객관적으로 진단할 수 있도록 지원한다.검사 전에는 비전공자도 AI 활용 방법을 익힐 수 있도록 사전 강의와 강의자료를 제공한다. 데이터 정리·분석과 자료 요약, 보고자료 작성, 결과 검증 등 AI를 ​업무에 적용하는 전반적인 과정을 다룬다.수강 후에는 경영·사무 및 재무·회계 직무에서 "
+    },
+    {
+      "id": "783fe612d398",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "크라우드웍스, 피지컬 AI 데이터로 정부 ‘M.AX 전문 기업‘ 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214369",
+      "published": "2026-08-26T02:55:18+00:00",
+      "summary": "크라우드웍스(대표 김광일)는 ‘제조업 AI 대전환(M.AX) 전문기업’에 선정됐다고 26일 밝혔다.이 사업은 산업통상자원부가 제조업 경쟁력 강화를 위해 추진하는 프로젝트로, 한국산업기술기획평가원(KEIT)이 현장 적용 역량과 기술력을 종합 평가해 전문 기업을 지정한다.크라우드웍스는 제조 현장에 맞춰 데이터를 설계·공급하는 ‘제조 AI 데이터 구축 기술’과 로봇 데이터 수집·가공·검증에 특화된 ‘피지컬 AI 데이터 플랫폼’ 두 핵심 기술로 높은 평가를 받았다.크라우드웍스는 제조 AI 데이터 구축 기"
+    },
+    {
+      "id": "9a61f0657e16",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "데이터킹, 메타버스 에너지교육 솔루션 ‘헥사스쿨 에너지 아일랜드’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214370",
+      "published": "2026-08-26T02:54:14+00:00",
+      "summary": "메타버스 에듀테크 전문 데이터킹(대표 박선규)은 교과서 속 전기 에너지 발전 개념을 3D 메타버스로 직접 체험하며 배울 수 있는 교육 솔루션 ‘헥사스쿨 에너지 아일랜드’를 정식 출시했다고 26일 밝혔다.헥사스쿨 에너지 아일랜드는 아바타를 통해 4개의 발전 구역이 있는 하나의 메타버스 섬(ENERGY ISLAND)을 돌아다니고 탐험하는 초·중학생용 에너지 교육 콘텐츠다. 교사가 수업 코드를 열면 최대 30명의 학급 전체가 같은 섬에 동시 접속해 메타버스 환경에서 수업을 진행할 수 있다. 메타버스 섬"
+    },
+    {
+      "id": "5f2fead92e5f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "뤼튼, 1000억 시리즈 C 투자 유치...기업 가치 1조 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214368",
+      "published": "2026-08-26T02:48:14+00:00",
+      "summary": "뤼튼테크놀로지스(대표 이세영)는 1000억원 규모의 시리즈 C 투자를 유치했다고 26일 밝혔다.뤼튼의 누적 투자 유치액은 2300억원에 달하며, 국내 AI 서비스 스타트업 최초로 기업 가치 1조원 이상을 인정받았다는 설명이다.이번 투자에는 코어라인벤처스와 유진자산운용이 신규 투자사로 참여했으며, 기존 투자사인 굿워터캐피탈, 앤틀러 글로벌, 우리벤처파트너스, 수이제네리스파트너스, 산업은행, 캡스톤파트너스 등도 참여했다.현재 뤼튼은 해외 시장에서 높은 성장세를 보이고 있다. 지난 5월 북미 지역에 출"
+    },
+    {
+      "id": "33d78ef0c7da",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 해발 4000m에 '공중 풍력발전소' 띄웠다…\"발전 시험 성공\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214359",
+      "published": "2026-08-26T02:15:00+00:00",
+      "summary": "중국이 대형 비행선 형태의 발전 설비를 4000m 상공에 띄워 바람으로 전기를 생산하는 차세대 '고공 풍력발전' 시스템의 실전 시험비행에 성공했다. 발전장치를 하늘로 올려 위치를 유지한 채 전력을 생산하고 다시 지상으로 회수하는 전 과정을 검증하면서, 고공 풍력발전 상용화 가능성을 한 단계 끌어올렸다는 평가가 나온다.25일(현지시간) 중국 신화망과 경제일보 등 현지 보도에 따르면 베이징 소재 린이윈촨에너지기술이 개발한 부유식 고공 풍력발전 시스템 'S4000'은 최근 중국 서북부의 한 시험기지에서"
+    },
+    {
+      "id": "49ea8ada1eb0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"태양광을 창문처럼 쓴다\"…독일, 반투명 모듈 제조공정 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214364",
+      "published": "2026-08-26T02:10:00+00:00",
+      "summary": "독일 연구진이 가시광선의 40% 이상을 통과시키면서 전기를 생산하는 반투명 유기태양광 모듈을 산업용으로 확장 가능한 공정으로 제작했다. 건물 창호나 온실, 자동차 지붕처럼 빛을 완전히 차단하기 어려운 공간에 태양광 발전 기능을 더할 수 있는 기술이라는 평이다.독일 프라운호퍼 태양에너지시스템연구소(ISE)는 24일(현지시간) 프라이부르크대학교 연구진과 14.5×14.5cm 크기의 반투명 유기태양광 모듈을 개발했다고 발표했다.모듈의 발전효율은 최대 9.26%, 평균 가시광선 투과율은 43.2%를 기록"
+    },
+    {
+      "id": "6ef042803eee",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"전기요금 줄자 사용량 늘었다\"…주택 태양광 ‘리바운드 효과’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214360",
+      "published": "2026-08-26T02:05:00+00:00",
+      "summary": "국내 가정이 태양광을 설치한 뒤 전기요금 누진구간이 낮아질 경우 당초 예상한 전력 절감효과의 11~22%가 추가 전기사용으로 상쇄될 수 있다는 연구 결과가 나왔다. 태양광으로 전기요금 부담이 줄면서 소비자가 전력을 다시 늘리는, 이른바 ‘리바운드 효과’다.한국건설기술연구원은 국내 주택용 누진요금제에서 태양광 설치가 가구의 전력사용 행동에 미치는 영향을 분석했다. 연구 결과는 국제학술지 ‘Energy and Buildings’에 온라인 공개됐으며 오는 11월 발간되는 370권에 수록될 예정이다.연구"
+    },
     {
       "id": "e7700a77446f",
       "source": "ZDNet Korea",
@@ -496,6 +595,17 @@
       "link": "https://github.com/zedeus/nitter/issues/1442",
       "published": "2026-08-25T17:08:21+00:00",
       "summary": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 664 # Comments: 560"
+    },
+    {
+      "id": "91d82bd4aa87",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Black hole singularity is a surface not a point",
+      "link": "https://arxiv.org/abs/2608.21590",
+      "published": "2026-08-25T17:02:49+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 209 # Comments: 138"
     },
     {
       "id": "88cb4be5541a",
