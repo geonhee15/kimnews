@@ -1,7 +1,425 @@
 {
-  "updated_at": "2026-08-28T03:35:21.165174+00:00",
-  "count": 11151,
+  "updated_at": "2026-08-28T15:41:01.787930+00:00",
+  "count": 11194,
   "items": [
+    {
+      "id": "7c58ad604677",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The iPhone Fold could make concerts even worse",
+      "link": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+      "published": "2026-08-28T15:26:19+00:00",
+      "summary": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and"
+    },
+    {
+      "id": "84692a5c1bd7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "published": "2026-08-28T15:00:00+00:00",
+      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled."
+    },
+    {
+      "id": "cd6c047990f2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple TV is raising its subscription prices again",
+      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "published": "2026-08-28T14:36:48+00:00",
+      "summary": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month."
+    },
+    {
+      "id": "b0d763b77d01",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+      "link": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+      "published": "2026-08-28T13:47:36+00:00",
+      "summary": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple "
+    },
+    {
+      "id": "436637e435fb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "published": "2026-08-28T13:24:43+00:00",
+      "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI."
+    },
+    {
+      "id": "eaf898631868",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "published": "2026-08-28T12:46:12+00:00",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
+    },
+    {
+      "id": "f795b7c63ecd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "\"IT WoRKs BeTter in the App \"",
+      "link": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "published": "2026-08-28T12:32:16+00:00",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/ Comments URL: https://news.ycombinator.com/item?id=49477600 Points: 400 # Comments: 190"
+    },
+    {
+      "id": "06a12ced0fae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "published": "2026-08-28T12:21:06+00:00",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+    },
+    {
+      "id": "d05ed4534d3c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 시스템을 고쳐준대요!",
+      "link": "https://zdnet.co.kr/view/?no=20260828101247",
+      "published": "2026-08-28T12:10:48+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 AI가 컴퓨터 고장까지 진단해준다는 소식, 다들 들어보셨나요? 정말 AI 혼자서 모든 걸 척척 해결할 수 있을지 오늘 카드뉴스로 알아봤어요. 먼저 AI의 진단 속도는 정말 놀라운데요, 마치 병원 의사가 진찰하듯 단 1초 만에 어디가 문제인지 척척 찾아낸대요. 하지만 여기서 착각하지 말아야 할 게 있어요. 전체 복구 과정을 케이크 조각으로 나눠보면, 진단은 겨우 25%에 불과하고 나머지 75%는 해결책을 찾고(15%), 승인을 기다리고(35%)"
+    },
+    {
+      "id": "5fb8a3e4f2e1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+      "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+      "published": "2026-08-28T12:00:00+00:00",
+      "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is "
+    },
+    {
+      "id": "18aabed82aee",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 31 Best Deals From the REI Labor Day Sale",
+      "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+      "published": "2026-08-28T12:00:00+00:00",
+      "summary": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale."
+    },
+    {
+      "id": "2cacf3b454e7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "토요타, 레벨2++ 자율주행차 2028년 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260828160948",
+      "published": "2026-08-28T11:48:52+00:00",
+      "summary": "[지디넷코리아]토요타가 오는 2028년부터 레벨2++ 수준 자율주행차를 출시할 전망이다. 닛케이 등 외신에 따르면 토요타는 지난 27일 자율주행차 사업 설명회에서 이같은 계획을 발표했다. 2028년부터 승용차에 레벨 2++ 주행보조 시스템을 도입하고, 2030년부터 더 많은 모델로 확대 적용한다는 계획이다.업계에서 레벨2+는 고속도로 중심으로 자율주행 보조와 자동 차선 변경 기능을 지원하는 수준의 기술을 뜻한다. 레벨2++는 교차로와 회전교차로, 우·좌회전 등 일부 도심 주행까지 지원하는 기술로 "
+    },
+    {
+      "id": "b3b8e113c61e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "테스트뮤 콘퍼런스 2026: 테스트뮤 AI의 플래그십 행사, 에이전틱 엔지니어링과 품질 분야의 새로운 이정표 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260828201013",
+      "published": "2026-08-28T11:10:13+00:00",
+      "summary": "[지디넷코리아] 7만 5000명 이상의 등록자, 145명의 연사, 자율 주체형 소프트웨어 개발 및 자율 품질의 미래에 대한 전례 없는 인사이트 제공 샌프란시스코 및 인도 노이다, 2026년 8월 28일 /PRNewswire/ -- 세계 최초의 에이전틱 AI 기반 품질 엔지니어링 플랫폼 테스트뮤 AI(TestMu AI), 이전 명칭: 람다테스트(LambdaTest))가 에이전틱 엔지니어링과 품질의 미래를 논의하고, 자율 소프트웨어 개발로 전환하는 업계를 위한 명확하고 실행 가능한 비전을 수립하는 3"
+    },
+    {
+      "id": "cc5d289f7e11",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "STARCARES, 필리핀 농구장 리모델링 완료, 약 2만 명 혜택",
+      "link": "https://zdnet.co.kr/view/?no=20260828201002",
+      "published": "2026-08-28T11:10:02+00:00",
+      "summary": "[지디넷코리아]코무날 초등학교에 새롭게 문을 연 농구장은 부항인 지역의 학습과 체육, 지역 공동체 활동을 위한 전용 공간이 됩니다. 필리핀 다바오시, 2026년 8월 28일 /PRNewswire/ -- 스타트레이더(STARTRADER)의 커뮤니티 임팩트 이니셔티브인 STARCARES가 필리핀 다바오시 부항인에 위치한 코무날 초등학교(Communal Elementary School)의 농구장 재건 사업을 완료했습니다. 현재 개방되어 매일 사용되고 있는 이 시설은 약 2,000명의 학생과 교직원 72"
+    },
+    {
+      "id": "999391f696ad",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "신박하게 변신하는 휴머노이드 등장",
+      "link": "https://www.youtube.com/shorts/cEQl99-pZgI",
+      "published": "2026-08-28T11:00:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "126b58d80f9f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+      "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "published": "2026-08-28T11:00:00+00:00",
+      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data."
+    },
+    {
+      "id": "9f9428445486",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+      "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "published": "2026-08-28T10:56:22+00:00",
+      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk."
+    },
+    {
+      "id": "01fdddc3d213",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Easiest Ways to Share Anything Between Android and iOS",
+      "link": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
+      "published": "2026-08-28T10:45:00+00:00",
+      "summary": "Transferring files and data across platforms is more straightforward than ever."
+    },
+    {
+      "id": "a28b68304959",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "통 속의 뇌를 구현해버린 미친 회사",
+      "link": "https://www.youtube.com/shorts/PCgcmo_uimY",
+      "published": "2026-08-28T10:00:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d4dcbfc25d71",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "This Free AI Just Caught The Billion Dollar Giants",
+      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "published": "2026-08-28T09:44:44+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f85c67aacf96",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '제미나이 3.8 플래시' 내부 테스트 포착...'월간 출시' 속도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214546",
+      "published": "2026-08-28T09:43:33+00:00",
+      "summary": "구글이 최신 AI 모델인 ‘제미나이 3.8 플래시(Gemini 3.8 Flash)’의 내부 테스트에 돌입한 정황이 포착됐다. 구글이 최상위 프론티어 모델 경쟁과 함께 빠르고 저렴한 ‘플래시’ 라인업을 중심으로 AI 시장 공략을 강화하고 있다는 분석이 나온다.27일(현지시간) 비즈니스인사이더에 따르면, 구글 직원들은 내부 코딩 플랫폼 ‘젯스키(Jetski)’에서 ‘제미나이 3.8 플래시 프리뷰’를 테스트하고 있다.유출된 내부 화면을 통해 테스트 사실이 알려졌다. 특히, 한 직원은 3.7 플래시와 비"
+    },
+    {
+      "id": "8274bfab9f05",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "맥쿼리 공개매수 중인 가비아, 이사 선임 놓고 얼라인과 '표 대결' 전망",
+      "link": "https://zdnet.co.kr/view/?no=20260828184035",
+      "published": "2026-08-28T09:43:07+00:00",
+      "summary": "[지디넷코리아]클라우드와 인터넷데이터센터(IDC)를 운영하는 코스닥 상장 IT 인프라 기업 가비아가 오는 10월 임시주주총회를 열고 이사 정원 확대와 신규 이사 선임 여부를 결정한다.맥쿼리자산운용의 공개매수가 진행 중인 가운데 주요 주주인 얼라인파트너스가 이사회 독립성을 문제 삼으며 이사회 구성 변경을 요구하면서, 주주 간 갈등이 주총 표 대결로 이어질 전망이다.28일 금융감독원 전자공시시스템에 따르면 가비아는 이날 이사회를 열고 오는 10월 8일 오전 11시 경기 과천시 가비아 본사에서 임시주주"
+    },
+    {
+      "id": "017d2c6c1e81",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, AI와 물리 장비 잇는 'MHS' 공개...\"MCP 피지컬 AI 버전\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214531",
+      "published": "2026-08-28T09:28:56+00:00",
+      "summary": "앤트로픽이 AI 에이전트와 산업 현장의 다양한 물리적 장비를 하나로 연결하고 제어하는 기술 표준을 제시했다. 제조사와 기종이 달라 통합에 어려움을 겪던 기존 방식을 넘어, 실제 기기를 공통 규격으로 다루기 위한 시도다.앤트로픽은 27일(현지시간) AI 에이전트가 실험실과 제조 현장의 물리적 장비를 직접 이해하고 제어할 수 있도록 하는 공통 규격인 '모델 하드웨어 표준(Model Hardware Standard·MHS)'을 공개했다.소프트웨어와 AI를 넘어 물리적 세계로 AI 에이전트의 활동 영역을"
+    },
+    {
+      "id": "5f2a72a5061d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 안드로이드 앱 메모리 절감 의무화…미준수 시 노출 제한",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214558",
+      "published": "2026-08-28T09:16:42+00:00",
+      "summary": "구글이 글로벌 메모리 반도체 공급 제약이 커지는 상황에 대응해 안드로이드 앱의 메모리 사용량을 줄이고 기기 교체 시 로그인 정보를 자동 복원하도록 하는 새로운 앱 품질 기준을 도입한다. 스마트폰의 제한된 메모리 자원을 효율적으로 활용해 앱 실행 속도 저하와 강제 종료 등을 줄이고, 기기 변경 과정에서의 사용자 불편도 최소화한다는 취지다.구글은 26일(현지시간) 안드로이드 개발자 블로그를 통해 앱 메모리 최적화와 안전한 사용자 온보딩을 위한 새로운 품질 요구사항을 발표했다.AI 데이터센터 건설 확대"
+    },
+    {
+      "id": "8dc38edbecb3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GSMA MWC26 도하, 2026년 11월 ITU 전권회의와 공동 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260828181002",
+      "published": "2026-08-28T09:10:02+00:00",
+      "summary": "[지디넷코리아] MWC 도하, 2025년 첫 성공을 기반으로 산업계와 정책 입안자를 연결하는 글로벌 플랫폼을 마련하기 위해 ITU와 협력하며 한층 더 강력하게 귀환 런던, 2026년 8월 28일 /PRNewswire/ -- GSMA와 국제전기통신연합(International Telecommunication Union, ITU)이 8월 27일, MWC26 도하(MWC26 Doha)가 ITU 전권회의(ITU Plenipotentiary Conference, PP-26)와 공동 개최된다고 발표했다. P"
+    },
+    {
+      "id": "0553c013e536",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"일회성 대화도 저장 가능\"...오픈AI, 챗GPT 임시 채팅 기능 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214569",
+      "published": "2026-08-28T09:04:35+00:00",
+      "summary": "오픈AI가 챗GPT의 ‘임시 채팅(Temporary Chat)’ 기능을 대폭 개선한다. 기존에는 대화 기록을 남기지 않고 메모리나 맞춤 설정도 적용하지 않는 일회성 대화에 초점이 맞춰졌지만, 앞으로는 사용자가 원할 경우 기존 메모리와 맞춤 설정 등을 적용해 보다 개인화된 답변을 받을 수 있고 대화가 유용하다고 판단되면 채팅 기록에 저장할 수도 있게 된다.오픈AI는 27일(현지시간) 사용자 피드백을 반영해 임시 채팅의 활용 범위를 확대했다고 밝혔다.임시 채팅을 이용하다가 예상보다 중요한 대화가 만들"
+    },
+    {
+      "id": "4ef739c6b75d",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 강의? 이거 하나면 됩니다 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/VraGGMA8lhs",
+      "published": "2026-08-28T09:00:32+00:00",
+      "summary": ""
+    },
+    {
+      "id": "385b8c3798a0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, ‘제미나이 옴니 1.1 플래시’ 공개…영상 생성·편집 제어 기능 대폭 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214576",
+      "published": "2026-08-28T08:55:37+00:00",
+      "summary": "구글이 영상 제작을 위한 새로운 AI 모델 ‘제미나이 옴니 1.1 플래시(Gemini Omni 1.1 Flash)’를 공개했다. 개발자들이 생성 영상을 더 정밀하게 제어하고 실제 콘텐츠 제작에 활용할 수 있도록 기능을 강화한 것이 특징이다.구글은 27일(현지시간) 제미나이 옴니 1.1 플래시를 구글 AI 스튜디오의 제미나이 API를 통해 전문적인 제작 환경에서 사용할 수 있도록 제공한다고 밝혔다.이번 업데이트는 생성 영상 워크플로와 크리에이티브 도구, 미디어 편집 소프트웨어 등을 개발하는 기업과 "
+    },
+    {
+      "id": "3d1d94549c98",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "소프트뱅크, '가정용' 휴머노이드 기업 1X 과반 지분 인수 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214552",
+      "published": "2026-08-28T08:41:36+00:00",
+      "summary": "소프트뱅크가 휴머노이드 로봇 개발업체 1X 테크놀로지스의 과반 지분을 인수하는 방안을 놓고 협상 중인 것으로 알려졌다. 피지컬 AI를 차세대 성장동력으로 점찍은 손정의 소프트뱅크 회장의 로봇 사업 확대가 본격화하는 모습이다.27일(현지시간) 디 인포메이션에 따르면, 소프트뱅크는 1X의 지배지분을 확보하는 조건으로 기업 가치를 60억달러(약 8조원)로 평가해 협상을 진행 중이다. 거래 조건과 기업 가치는 변경될 가능성이 있다. 1X는 지난해 가을 100억달러(약 14조원) 가치 평가를 전제로 10억"
+    },
+    {
+      "id": "6c935035bdc0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 세계 첫 AI 이중맹검 평가 시범 운영…'벤치마크 오염' 방지 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214579",
+      "published": "2026-08-28T08:30:00+00:00",
+      "summary": "구글이 암호화 기술을 활용해 개발한 최첨단 AI 모델에 대한 이중맹검(Double-blind) 평가를 시범 운영한다고 발표했다. AI 모델이 평가 전에 문제 데이터를 미리 학습해 성능 점수가 인위적으로 부풀려지는 '벤치마크 오염' 문제를 기술적으로 해결하겠다는 취지다.구글 딥마인드는 27일(현지시간) 세계 최초로 자체 개발한 이중맹검 평가 기술 보고서를 공개했다. 그동안 AI 업계의 한계로 지적되어 온 성능 평가 체계를 다듬기 위한 시도라는 설명이다.현재는 평가자가 벤치마크 문제를 공개하면, 개발"
+    },
+    {
+      "id": "3fa8237bd0f4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천서 동부권 7개 시·군 청년정책 간담회…공동 협력체계 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214556",
+      "published": "2026-08-28T08:25:33+00:00",
+      "summary": "AI 생성 영상순천시가 26일 순천청년센터에서 전남 동부권 7개 시·군 청년정책 관계자 13명이 참여한 첫 간담회를 열고 지역 간 협력체계 구축에 나섰다. 순천·여수·광양·곡성·구례·고흥·보성이 청년정책과 현안을 공유하는 자리가 마련된 것은 이번이 처음이다.이번 간담회는 지역별 청년정책을 공유하고 청년들의 의견을 공동정책과 협력사업으로 연결하기 위해 순천의 제안으로 성사됐다.참석자들은 청년정책협의체 상생협약과 네트워킹 추진, 시·군별 주요 청년정책과 현안사업 공유, 청년 교류 활성화 방안 등을 논"
+    },
+    {
+      "id": "04bf863bfce8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 서치독, 중기부 팁스(TIPS) 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214583",
+      "published": "2026-08-28T08:13:57+00:00",
+      "summary": "■ 산업 데이터 전문 서치독(대표 백준선)은 중소벤처기업부가 주관하는 민간투자주도형 기술창업지원 프로그램 '팁스(TIPS)'에 선정됐다고 밝혔다. 이번 팁스 선정으로 누적 40억원을 확보하게 됐다. 문서·도면 기반 판단이 필요한 산업 전반으로 기술을 확장하고, 미국·싱가포르 등 글로벌 시장 진출도 본격화할 계획이다.■ KT(대표 박윤영)는 부산교육청, 한국언론진흥재단과 협력해 지난 27일 부산예술중학교에서 학생들을 대상으로 체험형 AI 역량·윤리 교육을 진행했다고 밝혔다. 학생들이 예술 창작 과정"
+    },
+    {
+      "id": "d78640c6b177",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오 이어 SSG닷컴도 쪼갠다…플랫폼 업계 ‘인적분할’ 왜",
+      "link": "https://zdnet.co.kr/view/?no=20260828170244",
+      "published": "2026-08-28T08:10:19+00:00",
+      "summary": "[지디넷코리아]사업 전문성 강화와 속도감 있는 사업 추진을 위해 카카오와 SSG닷컴이 인적분할에 나섰다. 플랫폼 이용 과정은 이전과 다르지 않지만, 지분 구조는 변화한다. 특히, SSG닷컴은 이마트와 신세계 간 계열분리의 초석이라는 평가에 힘이 실린다.28일 SSG닷컴에 따르면 회사는 전날 이사회를 열고 라이프스타일 사업 부문의 인적 분할을 승인했다고 발표했다. 이에 따라 인적 분할이 마무리되면 존속법인은 SSG닷컴, 신설법인은 신세계몰(가칭)로 변경된다.플랫폼업계에서 최근 인적분할을 결정한 곳은"
+    },
+    {
+      "id": "10b667007c9c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 액션파워, 한컴오피스에 AI 음성인식 '다글로' 입점 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214582",
+      "published": "2026-08-28T08:00:00+00:00",
+      "summary": "■ 액션파워(대표 조홍식·이지화)는 AI 노트테이커 '다글로'가 한컴오피스 확장 플랫폼 '한애드온즈'에 입점했다고 밝혔다. 다글로는 ▲회의록 받아쓰기 ▲회의록 요약 ▲회의록 자동 작성 등 세 가지 기능을 제공한다. 이를 통해 사용자는 별도 음성 기록 서비스를 연동할 필요 없이 한글 프로그램 내에서 회의 녹음부터 받아쓰기, 요약, 문서화까지 한 번에 해결할 수 있다는 설명이다.■ 이스트시큐리티(대표 정상원)는 알약 리눅스 서버용에 ‘행위 기반 랜섬웨어 탐지 기능’을 새롭게 적용했다고 밝혔다. 이번 "
+    },
+    {
+      "id": "e02fe099bee3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI 양자화 정확하고 안전하게\"...옵트에이아이, EMNLP 논문 2편 채택",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214572",
+      "published": "2026-08-28T07:55:00+00:00",
+      "summary": "옵트에이아이(대표 이재호)는 논문 2편이 자연어처리(NLP) 국제학술대회 'EMNLP 2026'의 메인 컨퍼런스와 인더스트리 트랙에 채택됐다고 28일 밝혔다.올해 행사에는 역대 최다인 1만7669편의 논문이 제출, 메인 컨퍼런스와 파인딩스 채택률은 각각 15.4%, 14.3%를 기록했다. 옵트에이아이는 이번 채택으로 EMNLP, ACL 등 주요 NLP 학회에 3회 연속 논문이 선정됐다.채택된 논문은 ▲LLM 양자화의 신규 기준을 제시한 '커널퀀트' ▲온디바이스 LLM의 안전성 공백을 최초로 규명한"
+    },
+    {
+      "id": "ccc7f206443e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "published": "2026-08-28T06:33:57+00:00",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 212 # Comments: 70"
+    },
+    {
+      "id": "5b8e99c37909",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "영상 AI를 신박하게 활용하는 방법",
+      "link": "https://www.youtube.com/shorts/fq6t6iNPPjk",
+      "published": "2026-08-28T06:00:01+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3b5bd55825cc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "link": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "published": "2026-08-28T05:42:47+00:00",
+      "summary": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/ Comments URL: https://news.ycombinator.com/item?id=49474786 Points: 232 # Comments: 125"
+    },
     {
       "id": "00922281e009",
       "source": "AI타임스",
@@ -168,6 +586,17 @@
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
     },
     {
+      "id": "e2802f698c2d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "published": "2026-08-27T22:26:04+00:00",
+      "summary": "https://web.archive.org/web/20260826205502/https://www.newsc... https://archive.ph/zahjc Comments URL: https://news.ycombinator.com/item?id=49472090 Points: 230 # Comments: 268"
+    },
+    {
       "id": "2e69eb3875e1",
       "source": "Ars Technica",
       "kind": "article",
@@ -177,6 +606,17 @@
       "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "published": "2026-08-27T22:15:43+00:00",
       "summary": "Standardized driver interface aims to let devices talk to AI and each other."
+    },
+    {
+      "id": "cf5a67087a4b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "link": "https://github.com/elyosh/OpenTIE/",
+      "published": "2026-08-27T22:10:47+00:00",
+      "summary": "Article URL: https://github.com/elyosh/OpenTIE/ Comments URL: https://news.ycombinator.com/item?id=49471965 Points: 205 # Comments: 53"
     },
     {
       "id": "95a267eb1844",
@@ -289,6 +729,17 @@
       "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as "
     },
     {
+      "id": "879be505b3f1",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+      "link": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+      "published": "2026-08-27T19:16:24+00:00",
+      "summary": ""
+    },
+    {
       "id": "a05e43c5c8a7",
       "source": "Wired",
       "kind": "article",
@@ -331,6 +782,28 @@
       "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
       "published": "2026-08-27T18:06:52+00:00",
       "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says."
+    },
+    {
+      "id": "702070529ead",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini-3.5-Transcribe",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "published": "2026-08-27T18:03:42+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?id=49468818 Points: 335 # Comments: 119"
+    },
+    {
+      "id": "76f5b8b66ab8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "link": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "published": "2026-08-27T17:53:40+00:00",
+      "summary": "Article URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290 Comments URL: https://news.ycombinator.com/item?id=49468642 Points: 280 # Comments: 245"
     },
     {
       "id": "71e20cbb0ada",
