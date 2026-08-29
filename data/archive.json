@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-29T13:09:53.588138+00:00",
-  "count": 11261,
+  "updated_at": "2026-08-29T17:06:40.921729+00:00",
+  "count": 11265,
   "items": [
+    {
+      "id": "88ba0ee9c3b8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "published": "2026-08-29T14:00:00+00:00",
+      "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand "
+    },
+    {
+      "id": "4ea7c6f76f16",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"양보다 질, 20년 가는 IP로\"…스마일게이트 '에픽세븐', 8주년 '영속의 계승제' 성료",
+      "link": "https://zdnet.co.kr/view/?no=20260829171040",
+      "published": "2026-08-29T13:59:33+00:00",
+      "summary": "[지디넷코리아]스마일게이트의 대표 모바일 RPG '에픽세븐'이 서비스 8주년을 맞아 오프라인 공간에서 팬들과 직접 호흡하며 장기 흥행을 위한 새로운 비전을 제시했다.29일 서울 신촌 현대백화점 유플렉스에서 에픽세븐 8주년 기념 오프라인 행사 '영속의 계승제'가 열렸다. 사전 신청을 통해 초청된 160명의 이용자가 참석한 가운데, 12층 일러스타 스테이지와 지하 2층 SMG 카페에서 다채로운 참여형 프로그램이 진행됐다.12층 무대에서는 탁광진 PD와 허대균 DD가 직접 자리해 이용자들과 소통하는 '"
+    },
     {
       "id": "364c8f0778f5",
       "source": "TechCrunch",
@@ -56,6 +78,17 @@
       "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
       "published": "2026-08-29T12:00:00+00:00",
       "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind"
+    },
+    {
+      "id": "934a1173b012",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "published": "2026-08-29T11:39:38+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo Comments URL: https://news.ycombinator.com/item?id=49489057 Points: 274 # Comments: 331"
     },
     {
       "id": "a4a0c55d90e3",
@@ -386,6 +419,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260828175533",
       "published": "2026-08-28T23:45:18+00:00",
       "summary": "[지디넷코리아]팔로알토네트웍스가 사이버아크 인수 이후 기존 네트워크·클라우드·엔드포인트 중심의 보안 영역을 넘어 ‘아이덴티티’를 통합 보안 전략의 핵심 축으로 끌어들인다. 아이덴티티·접근관리(IAM) 전략을 사람 중심에서 머신과 AI 에이전트까지 포괄하는 ‘통합 아이덴티티 보안’으로 확대한다. 기존 사이버아크의 특권접근관리(PAM) 역량을 기반으로 기업 내 모든 아이덴티티를 하나의 플랫폼에서 발견·통제·거버넌스하는 것이 핵심이다.최장락 팔로알토네트웍스 시니어 도메인 컨설턴트 상무는 28일 서울 서"
+    },
+    {
+      "id": "ccd0414c4768",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "published": "2026-08-28T23:27:45+00:00",
+      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 235 # Comments: 66"
     },
     {
       "id": "f2fb96609f3f",
