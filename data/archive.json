@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-29T17:06:40.921729+00:00",
-  "count": 11265,
+  "updated_at": "2026-08-29T19:44:32.535061+00:00",
+  "count": 11271,
   "items": [
+    {
+      "id": "a09dcbe6f7da",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published": "2026-08-29T18:41:59+00:00",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    },
+    {
+      "id": "59d7560b7b7b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "published": "2026-08-29T18:19:53+00:00",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance "
+    },
+    {
+      "id": "25e1251e1b8e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "published": "2026-08-29T17:51:10+00:00",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+    },
+    {
+      "id": "4faae3faefd7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published": "2026-08-29T17:36:47+00:00",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thi"
+    },
     {
       "id": "88ba0ee9c3b8",
       "source": "TechCrunch",
@@ -232,6 +276,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214602",
       "published": "2026-08-29T06:35:40+00:00",
       "summary": "트럼프 행정부가 중국 기업들이 해외 데이터센터를 이용해 첨단 AI 반도체에 원격으로 접근하는 허점을 막기 위한 새로운 AI 수출 통제 규정을 마련 중인 것으로 알려졌다.디 인포메이션은 28일(현지시간) 복수의 소식통을 인용, 미국 상무부 산업안보국(BIS)이 태국, 싱가포르 등 제3국 데이터센터를 통해 최신 반도체를 우회 사용하는 중국 AI 기업을 겨냥해 새로운 대체 규정을 수립하고 있다고 보도했다.앞서 바이든 행정부는 임기 말 제3국으로 나가는 칩 수량까지 엄격히 제한하는 'AI 확산 규칙(AI"
+    },
+    {
+      "id": "7ddd4530700d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "published": "2026-08-29T06:06:51+00:00",
+      "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 219 # Comments: 73"
     },
     {
       "id": "6919111bf72e",
@@ -5116,6 +5171,17 @@
       "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "published": "2026-08-25T13:13:00+00:00",
       "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 227 # Comments: 125"
+    },
+    {
+      "id": "a9dc823089f9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EVE Online moves to Python 3",
+      "link": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "published": "2026-08-25T13:04:55+00:00",
+      "summary": "Article URL: https://www.eveonline.com/news/view/the-move-to-python-3-begins Comments URL: https://news.ycombinator.com/item?id=49433328 Points: 228 # Comments: 111"
     },
     {
       "id": "137679171d9a",
