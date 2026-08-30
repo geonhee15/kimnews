@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-30T14:31:20.706566+00:00",
-  "count": 11338,
+  "updated_at": "2026-08-30T18:11:19.336702+00:00",
+  "count": 11343,
   "items": [
+    {
+      "id": "dc018a8b1cc5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
+      "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+      "published": "2026-08-30T16:16:24+00:00",
+      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online maps provider to flip the switch."
+    },
+    {
+      "id": "a16fd66e435a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "published": "2026-08-30T16:03:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "d5920f0ead58",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "published": "2026-08-30T15:35:10+00:00",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was prima"
+    },
+    {
+      "id": "e045c1ca0a0d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "published": "2026-08-30T15:00:00+00:00",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+    },
     {
       "id": "7ec6275cb575",
       "source": "ZDNet Korea",
@@ -694,6 +738,17 @@
       "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
       "published": "2026-08-29T17:51:10+00:00",
       "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+    },
+    {
+      "id": "da11f028bd22",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Creepy Crawlies",
+      "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "published": "2026-08-29T17:49:01+00:00",
+      "summary": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies Comments URL: https://news.ycombinator.com/item?id=49491791 Points: 368 # Comments: 180"
     },
     {
       "id": "4faae3faefd7",
