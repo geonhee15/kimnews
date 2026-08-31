@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-08-31T15:27:40.334698+00:00",
-  "count": 11416,
+  "updated_at": "2026-08-31T20:58:52.181330+00:00",
+  "count": 11434,
   "items": [
+    {
+      "id": "35404174d594",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published": "2026-08-31T20:13:45+00:00",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+    },
+    {
+      "id": "b15c41ecf997",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "published": "2026-08-31T19:31:59+00:00",
+      "summary": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED pan"
+    },
+    {
+      "id": "c474939ec80b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "published": "2026-08-31T19:16:59+00:00",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
+    },
+    {
+      "id": "6efe8dcdfb3d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+      "published": "2026-08-31T19:02:06+00:00",
+      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring."
+    },
+    {
+      "id": "f99d17bb4001",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft tests fix for latest hours-long Outlook outage",
+      "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+      "published": "2026-08-31T18:56:41+00:00",
+      "summary": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures."
+    },
+    {
+      "id": "3e76c7462046",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "published": "2026-08-31T18:35:11+00:00",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
+    },
+    {
+      "id": "086088556687",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "published": "2026-08-31T18:10:45+00:00",
+      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts."
+    },
+    {
+      "id": "15a82f57d5ec",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "published": "2026-08-31T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the A"
+    },
+    {
+      "id": "f9a99834a5f7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+      "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+      "published": "2026-08-31T17:02:42+00:00",
+      "summary": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware lines."
+    },
+    {
+      "id": "c714042cf7db",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Phil Schiller is leaving his biggest jobs at Apple",
+      "link": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+      "published": "2026-08-31T16:54:07+00:00",
+      "summary": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title and continue \"working on unspecified initiatives,\" Bloomberg "
+    },
+    {
+      "id": "ae2179780e9c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "published": "2026-08-31T16:47:11+00:00",
+      "summary": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 247 # Comments: 71"
+    },
+    {
+      "id": "3dd8d1336727",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Read Tim Cook’s final message to Apple staff as CEO",
+      "link": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
+      "published": "2026-08-31T16:30:45+00:00",
+      "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CE"
+    },
+    {
+      "id": "7df1dda4ef85",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "published": "2026-08-31T15:34:58+00:00",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generativ"
+    },
+    {
+      "id": "66ebff946593",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "published": "2026-08-31T15:33:32+00:00",
+      "summary": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting."
+    },
     {
       "id": "c153cb311a58",
       "source": "TechCrunch",
@@ -25,6 +179,17 @@
       "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
     },
     {
+      "id": "c098ea927f75",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Playa Phone",
+      "link": "https://playaphone.com/",
+      "published": "2026-08-31T14:52:26+00:00",
+      "summary": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 379 # Comments: 153"
+    },
+    {
       "id": "87b5a4839d19",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +199,17 @@
       "link": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
       "published": "2026-08-31T14:20:00+00:00",
       "summary": "Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn't having it. In this week's episode of Decoder, Hoc"
+    },
+    {
+      "id": "b6300b838c9c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\"",
+      "link": "https://zdnet.co.kr/view/?no=20260831231056",
+      "published": "2026-08-31T14:10:56+00:00",
+      "summary": "[지디넷코리아]종합 금융 플랫폼 '토스'를 운영하는 비바리퍼블리카(Viva Republica)가 작년 2분기 외산 보안솔루션 사용을 종료, 현재 자체 개발한 보안 솔루션 '타이탄(Titan)'을 사용하고 있다. '토스'는 금융업 분류상 전자금융에 속한다. 전자금융회사 중 토스처럼 중요 보안 솔루션을 국산을 사용, 외산을 대체한 건 이례적이다.'토스'가 개발한 '타이탄'은 보안 솔루션 종류 중 SASE(Se­cure Access Service Edge)에 속한다. SASE는 네트워크와 보안 기능을 "
     },
     {
       "id": "ed2805e6359c",
@@ -56,6 +232,17 @@
       "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
       "published": "2026-08-31T14:00:00+00:00",
       "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there"
+    },
+    {
+      "id": "0ad14ba85620",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "대만 검찰, 유니마이크론 압수수색...원산지 '중국산→대만산' 속인 혐의",
+      "link": "https://zdnet.co.kr/view/?no=20260831223716",
+      "published": "2026-08-31T13:47:54+00:00",
+      "summary": "[지디넷코리아]대만 검찰이 자국 인쇄회로기판(PCB) 업체 유니마이크론 사무실을 압수수색했다고 로이터와 닛케이아시아, 대만 언론 등 외신이 보도했다. 유니마이크론은 중국에서 만든 PCB를 대만산으로 허위 표기해 판매한 혐의를 받고 있다. 외신에 따르면 대만 타오위안 지방검찰청은 유니마이크론 본사 등 시설 2곳을 압수수색하고, PCB 사업부 총경리와 부총경리 등 직원 14명을 피의자로, 4명을 참고인으로 조사했다고 지난 29일 밝혔다. 유니마이크론은 상품 원산지 허위 표시 등을 규정한 형법 위반 혐"
     },
     {
       "id": "8e16e6f2994e",
@@ -166,6 +353,17 @@
       "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
       "published": "2026-08-31T09:59:05+00:00",
       "summary": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ Comments URL: https://news.ycombinator.com/item?id=49507822 Points: 357 # Comments: 88"
+    },
+    {
+      "id": "760e937d8e45",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "published": "2026-08-31T09:59:05+00:00",
+      "summary": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ Comments URL: https://news.ycombinator.com/item?id=49507822 Points: 482 # Comments: 108"
     },
     {
       "id": "24347d0b92d2",
