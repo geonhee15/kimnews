@@ -1,7 +1,348 @@
 {
-  "updated_at": "2026-08-31T07:39:59.609487+00:00",
-  "count": 11382,
+  "updated_at": "2026-08-31T15:27:40.334698+00:00",
+  "count": 11416,
   "items": [
+    {
+      "id": "c153cb311a58",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How AI could make it harder for governments to use hacking tools",
+      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+      "published": "2026-08-31T15:19:32+00:00",
+      "summary": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to backdoor devices."
+    },
+    {
+      "id": "86033195e668",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "published": "2026-08-31T15:15:25+00:00",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
+    },
+    {
+      "id": "87b5a4839d19",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New York governor to 3D-printed gun leader: ‘tell Cody I will get ahead of him’",
+      "link": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
+      "published": "2026-08-31T14:20:00+00:00",
+      "summary": "Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn't having it. In this week's episode of Decoder, Hoc"
+    },
+    {
+      "id": "ed2805e6359c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - Astra, AGI 올해 달성, Fable 5.1, 할라피뇨, 넥토리얼, GLM-5.3, 실시간 H3, Gemini Omni 1.1 등",
+      "link": "https://www.youtube.com/watch?v=911nK2zX9Q0",
+      "published": "2026-08-31T14:00:25+00:00",
+      "summary": ""
+    },
+    {
+      "id": "9db925a9b96b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "published": "2026-08-31T14:00:00+00:00",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there"
+    },
+    {
+      "id": "8e16e6f2994e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "published": "2026-08-31T13:41:40+00:00",
+      "summary": "Explosive growth comes with a new regulatory burden in the European Union."
+    },
+    {
+      "id": "c3d8d9ea7858",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "published": "2026-08-31T13:27:36+00:00",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services"
+    },
+    {
+      "id": "8cabf54a62e7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "published": "2026-08-31T13:00:00+00:00",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being."
+    },
+    {
+      "id": "b341cf86d058",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[시론] AI 3강 달성...새 AI 컨트롤타워가 해야 할 일",
+      "link": "https://zdnet.co.kr/view/?no=20260831204531",
+      "published": "2026-08-31T11:45:31+00:00",
+      "summary": "[지디넷코리아]지난 8월 30일, 청와대가 국가 AI 정책 라인업을 다시 짰다. 하정우 초대 AI미래기획수석이 국가AI전략위원회 부위원장으로 복귀했고, 구글 엔지니어 출신으로 AI기본법을 주도했던 이해민 의원이 새 AI수석에 임명됐다. AI 3대 강국, 이른바 G3를 향한 컨트롤타워가 다시 진용을 갖춘 것이다. 이미 역량이 검증된 인사들이기에 기대가 크다. 하지만, 무조건 환영하기에 앞서 짚어야 할 것이 있다.지난 몇 달간 우리는 컨트롤타워 공백을 겪었다. 핵심 인사들이 정치권으로 자리를 옮기며 "
+    },
+    {
+      "id": "062f409e3ee8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이랜서, AI 기술사업화 R&D로 플랫폼 고도화",
+      "link": "https://zdnet.co.kr/view/?no=20260831200320",
+      "published": "2026-08-31T11:03:20+00:00",
+      "summary": "[지디넷코리아]국내 IT 프리랜서 매칭 플랫폼 이랜서(대표 박외진)가 서울경제진흥원(SBA)이 발주한 ‘인공지능 기술사업화 지원사업’을 수행하며 약 1년간 추진해온 플랫폼 AI 고도화에 성과를 내고 있다. 기업과 IT 프리랜서를 연결하는 기존 매칭 서비스를 인공지능 중심으로 전환하고, 이를 기반으로 국내를 넘어 글로벌 AI인재 매칭 플랫폼 도약을 본격화했다.31일 회사에 따르면, 이랜서는 이번 R&D를 통해 지난 27년간 축적해온 IT 프로젝트와 프리랜서 관련 데이터를 AI 기술과 결합하는 데 집"
+    },
+    {
+      "id": "922a62cd31a8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 중국 무인 택시가 온다고!",
+      "link": "https://zdnet.co.kr/view/?no=20260831094032",
+      "published": "2026-08-31T10:51:39+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 중국 자율주행 기업 포니AI가 2028년까지 운전사 없는 로봇택시 200대를 한국에 들여올 계획을 밝히면서 관련 업계의 관심이 뜨거워지고 있어요. 지난 10년간 중국에서 기술력을 쌓아온 포니AI가 이제 본격적으로 한국 시장의 문을 두드리는 셈인데요, 실제로 얼마나 빨리, 넓게 도입될 수 있을지가 관건이에요. 전문가들에게 물어본 결과는 다소 신중했어요. 응답자의 80%가 '전면 상용화'보다는 '제한적 실증 테스트' 방식으로 조금씩 도입될 것이라 내다"
+    },
+    {
+      "id": "abc54eca353c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "과학장학생 3000명→1만 명으로…기초연구 지역할당도",
+      "link": "https://zdnet.co.kr/view/?no=20260831154608",
+      "published": "2026-08-31T10:39:50+00:00",
+      "summary": "[지디넷코리아]세계 최고 수준으로 대우할 국가과학기술자(리더급/차세대) 제도가 본격 시행된다. 국가과학기술자는 향후 5년간 총 1,100명을 뽑아, 지원한다. 과학장학생은 현행 3,000명 수준에서 1만 명으로 3배 이상 늘릴 계획이다.과학기술정보통신부는 31일 ‘국가과학기술자문회의 제9회 심의회의’를 열고, 3대 전략 10대 대과제로 구성된 '제5차 과학기술인재 육성·지원 기본계획(2026~2030)'을 확정했다.기본 계획에 따르면 향후 과학기술 인재 정책 방향은 '인재 양성'에서 '성장과 역량"
+    },
+    {
+      "id": "f086b22fdbae",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "published": "2026-08-31T10:30:00+00:00",
+      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”"
+    },
+    {
+      "id": "f567b11c9cb1",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "published": "2026-08-31T10:00:34+00:00",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform."
+    },
+    {
+      "id": "14b3a80dbce1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "published": "2026-08-31T09:59:05+00:00",
+      "summary": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ Comments URL: https://news.ycombinator.com/item?id=49507822 Points: 357 # Comments: 88"
+    },
+    {
+      "id": "24347d0b92d2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인터엑스, 울산서 제조업 AI 전환 확산…'엔터프라이즈 AX' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260831184257",
+      "published": "2026-08-31T09:43:05+00:00",
+      "summary": "[지디넷코리아]인터엑스가 울산을 거점으로 제조업 인공지능(AI) 전환(AX) 확산에 속도를 낸다. 자동차·조선·석유화학 산업이 집적된 울산에서 축적한 제조 AX 경험을 바탕으로 지역 산업계와 협력을 확대하고 국내 제조업 전반의 디지털 혁신 생태계 구축에 나선다는 전략이다.인터엑스는 오는 9월 10일부터 12일까지 울산전시컨벤션센터(UECO)에서 열리는 '울산세계미래산업박람회(WAVE) 2026'에 참가해 제조 AX 기술과 현장 적용 사례를 선보인다고 31일 밝혔다.WAVE 2026은 AI·디지털 "
+    },
+    {
+      "id": "5807cc6f501f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국 AI 공세에 기업용 SW 경쟁축도 바뀐다…'모델'보다 '활용'",
+      "link": "https://zdnet.co.kr/view/?no=20260831175920",
+      "published": "2026-08-31T09:23:14+00:00",
+      "summary": "[지디넷코리아]중국발 저가 인공지능(AI) 모델 확산으로 글로벌 기업용 AI·소프트웨어(SW) 시장의 가격 구조가 재편될 것이란 전망이 나왔다.중국 AI가 서구 시장에서 기존 모델을 직접 대체하기보다 낮은 가격을 앞세워 AI 모델 전반의 비용 하락을 촉진하면서, 기업용 SW 경쟁 기준도 모델 자체에서 업무 성과와 관리·통제 역량으로 이동할 것이란 예상이다.31일 가트너가 발표한 보고서에 따르면 저비용·오픈웨이트·아시아계 AI 모델이 기업용 AI와 SW 시장의 비용 하한선을 낮추는 것으로 조사됐다."
+    },
+    {
+      "id": "79c0d163e4a4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "17g 초경량에 14일 배터리…화웨이 ‘밴드11’ 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260831181933",
+      "published": "2026-08-31T09:23:00+00:00",
+      "summary": "[지디넷코리아]화웨이코리아는 초경량 스마트 밴드 ‘화웨이 밴드 11’과 ‘화웨이 밴드11프로’를 출시했다고 31일 밝혔다.밴드11 정가는 7만 4900원, 밴드11프로는 9만 8900원이며, 출시 기념 이벤트가는 각각 7만 900원과 9만 3900원이다. 밴드11은 베이지, 블랙, 그린, 화이트, 퍼플, 밴드11프로는 블랙, 블루, 그린 색상이 마련됐다.네이버브랜드스토어, G마켓, 11번가 등에서 판매한다.밴드11과 밴드11프로는 스트랩 제외 무게가 각각 약 17g과 18g, 두께는 8.99mm의"
+    },
+    {
+      "id": "e56c1adee24e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메타넷엑스 \"AI가 초동 분석, 전문가는 대응\"…차세대 보안관제 청사진 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260831181552",
+      "published": "2026-08-31T09:16:06+00:00",
+      "summary": "[지디넷코리아]클라우드 환경 확산으로 보안 이벤트와 경보가 폭증하는 가운데 메타넷엑스가 인공지능(AI)을 활용한 차세대 보안관제 모델을 공개했다. 반복적인 분석 업무는 AI가 수행하고, 보안 전문가는 위협 판단과 대응에 집중하는 방식으로 관제 체계를 고도화하겠다는 전략이다.메타넷엑스는 서울 강남구 웨스틴 서울 파르나스에서 열린 '데이터독 시큐어 2026' 행사에서 AI 기반 관리형 보안관제(MSSP) 전략을 소개했다고 31일 밝혔다.발표에 나선 김민영 메타넷엑스 상무는 \"클라우드와 컨테이너 환경이"
+    },
+    {
+      "id": "26e8f5d6c8f9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SK하이닉스, AI 붐 대응 위해 일본 메모리 합작공장 설립 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214667",
+      "published": "2026-08-31T09:11:40+00:00",
+      "summary": "SK하이닉스가 글로벌 AI 열풍에 따른 메모리 반도체 수요 급증에 대응하기 위해 일본에 메모리 반도체 합작 생산시설을 건설하는 방안을 검토하는 것으로 나타났다. 글로벌 글로벌 공급망 다변화와 생산 비용 절감을 동시에 도모하려는 포석이다. 31일 블룸버그에 따르면, SK하이닉스는 일본 현지 기업 및 파트너사들과 함께 메모리 반도체 생산공장을 구축하기 위해 후보지를 물색 중이다. 최태원 SK 회장은 인터뷰에서 \"일본 전역을 살펴보고 있다\"며 \"전력과 용수가 풍부한 곳이라면 어디든 고려하고 있다\"고 밝"
+    },
+    {
+      "id": "cd704b2a7f7c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "딥엘, 개발자 전용 포털 '딥엘 포 디벨로퍼' 공개…API 활용 지원 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260831180251",
+      "published": "2026-08-31T09:02:59+00:00",
+      "summary": "[지디넷코리아]딥엘(DeepL)이 자체 제공하는 API를 활용하는 개발자를 위한 전용 포털 '딥엘 포 디벨로퍼(DeepL for Developers)'를 선보인다고 31일 밝혔다.딥엘 포 디벨로퍼는 개발자가 딥엘 API를 보다 쉽게 도입하고 활용할 수 있도록 관련 정보를 통합 제공하는 플랫폼이다. 기존에는 제품 소개 페이지와 기술 문서가 분산돼 있었지만 이번 포털 개설을 통해 필요한 자료를 한곳에서 확인할 수 있게 됐다.포털에서는 API 키 발급부터 첫 API 호출까지의 사용 절차를 비롯해 코드 "
+    },
+    {
+      "id": "cabc682738b7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 벤치마크에 '하네스' 씌웠더니…\"숨겨진 AI 실력 끌어낸다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214657",
+      "published": "2026-08-31T08:45:00+00:00",
+      "summary": "구글 연구진이 정적인 AI 벤치마크 평가 환경을 능동적으로 바꾸는 하네스를 공개했다. 기존의 고정된 환경 대신 AI의 약점을 겨냥한 '맞춤형 훈련 환경'을 제공하자, AI 모델의 잠재력이 끌어올려지며 실제 문제 해결 능력과 처리 효율성이 크게 올라가는 결과가 확인됐다.구글 클라우드 연구진이 세인트루이스 워싱턴대학교 및 노스캐롤라이나대학교 채플힐 캠퍼스 연구진과 함께 정적인 AI 에이전트 평가 환경을 정책 학습에 맞춰 능동적으로 변경하는 프로그래밍 가능 레이어인 '엔브하네스(EnvHarness)' "
+    },
+    {
+      "id": "d3a5f4b34973",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "숭실대, 클로드 기반 보안 AI '무네메' 개발…글로벌 벤치마크 91% 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214661",
+      "published": "2026-08-31T08:40:00+00:00",
+      "summary": "국내 연구진이 개발한 사이버보안 특화 AI 에이전트가 세계 최고 수준의 보안 성능을 입증했다.숭실대학교 AI안전성연구센터(센터장 최대선 교수)는 자체 개발한 멀티에이전트 취약점 분석 시스템 ‘무네메(mneme)’가 글로벌 사이버보안 AI 평가체계인 사이버짐(CyberGym) 공개 리더보드에서 국내 연구팀 최초로 10위권에 진입했다고 31일 밝혔다.사이버짐은 실제 오픈소스 소프트웨어 취약점을 대상으로 AI가 소스코드를 분석하고, 취약점 발생 경로를 추적하며, 이를 재현하는 코드를 직접 제작·실행하도"
+    },
+    {
+      "id": "2b26bd79410a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 멀티 에이전트 '팀워크' 공개…\"플래시 모델로 난제 해결\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214663",
+      "published": "2026-08-31T08:31:46+00:00",
+      "summary": "구글 안티그래비티 팀이 최신 경량 모델 '제미나이 3.7 플래시'를 기반으로 한 멀티 에이전트 오케스트레이션 프레임워크 '팀워크(Teamwork)'의 주요 성과와 업데이트 내용을 공개했다. 단순한 보조 코딩 도구를 넘어, AI가 오랜 시간이 걸리는 학술 연구와 하드웨어 설계 난제를 자율적으로 해결하는 '독자적인 연구 파트너'로 진화했음을 입증했다는 설명이다.27일(현지시간) 발표에 따르면, 팀워크는 단일 AI 모델이 가졌던 추론의 한계를 구조적 협업으로 극복한 프레임워크다. 느슨하게 연결된 기존 "
+    },
+    {
+      "id": "a41794c6f5e6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPT-5.6 솔, 코딩 넘어 가상 CPU 설계까지…게임 ‘둠’ 구동 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214615",
+      "published": "2026-08-31T08:15:00+00:00",
+      "summary": "인공지능(AI)이 소프트웨어를 작성하는 수준을 넘어 가상 환경에서 컴퓨터의 하드웨어 구조 자체를 설계하고 실제 프로그램을 실행하는 모습을 보여줬다.AI 컴퓨팅 연구자이자 기술 인플루언서인 앙헬 보가도는 최근 X를 통해 오픈AI의 'GPT-5.6 솔'이 설계한 자체 CPU에서 고전 게임 ‘둠(Doom)’을 구동하는 데 성공했다고 밝혔다.최신 모델을 활용해 게임 데모를 제작하고 공개하는 것은 일반적이다. 그러나 이번에는 단순한 코드 생성을 넘어 논리 게이트와 레지스터, 메모리, 산술논리연산장치(ALU"
+    },
+    {
+      "id": "6d3e919ee617",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 엑스와이지, 푸르지오 아파트에 '바리스타 로봇' 공급 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214666",
+      "published": "2026-08-31T08:00:00+00:00",
+      "summary": "■ 엑스와이지(대표 황성재)는 대우건설과 함께 푸르지오 아파트 커뮤니티 내 로봇 바리스타 솔루션 공급을 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약을 통해 엑스와이지의 로봇 바리스타 솔루션 '바리스브루'를 전국 푸르지오 단지로 적용 범위를 확대할 전망이다. 첫 적용 대상은 총 1681세대 규모의 '용인 푸르지오 원클러스터'로 내년 상반기 설치 완료를 목표로 하고 있다.■ 크라우드웍스(대표 김광일)는 과학기술정보통신부가 추진하는 '모두의 AI' 사업의 카카오 컨소시엄에 참여한다고 밝혔다."
+    },
+    {
+      "id": "1f0970d02faa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 라온메디, 25억 ‘국가전략 AI 의료과제’ 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214664",
+      "published": "2026-08-31T08:00:00+00:00",
+      "summary": "■ 라온피플 자회사 라온메디(대표 이석중)는 정부가 추진하는 국가전략 AI 의료과제 가운데 ‘디지털 교정 AI 기술 고도화 사업’에 주관기업으로 선정됐다고 밝혔다. 2028년까지 AI 교정계획 자동화 기술을 한 단계 발전시키고 의료진과 AI가 상호작용하며 진단과 교정계획을 수행할 수 있는 ‘AI 에이전트’ 개발 등의 정부과제를 진행한다. ■ 플래티어(대표 이상훈)가 글로벌 DevSecOps 플랫폼 전문 깃랩(GitLab)으로부터 국내 최초로 '전문 서비스 파트너(PSP)' 자격을 취득하고 최고 등"
+    },
+    {
+      "id": "a44c2f660889",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"코덱스로 게임 개발 공식 바꾼다\"...오픈AI, '게임 빌더스 서울' 열어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214658",
+      "published": "2026-08-31T07:57:08+00:00",
+      "summary": "오픈AI는 서울 그래픽 바이 대신에서 국내 최초로 '오픈AI 게임 빌더스 서울' 행사를 개최했다고 31일 밝혔다.이날 행사는 올리버 제이 오픈AI 인터내셔널 총괄 디렉터와 MMORPG 개발 선구자로 불리는 송재경 엑스엘게임즈 전 대표, 송병준 컴투스 의장을 비롯해 개발자 40팀이 모여 AI가 바꿀 게임 산업의 미래를 논의했다.키노트를 맡은 송재경 전 대표는 코덱스를 활용해 MMORPG 개발 경험을 공유하며 코딩 처리량이 기존 대비 8배 이상 상승했다고 소개했다.송 대표는 \"AI를 단순 도구가 아닌"
+    },
+    {
+      "id": "e0d059c1ab2e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT 워크·코덱스에 ‘관리자 플러그인’ 도입...대화로 워크스페이스 관리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214617",
+      "published": "2026-08-31T07:55:00+00:00",
+      "summary": "오픈AI가 기업의 AI 관리 업무에도 대화형 에이전트를 적용한다. 관리자가 복잡한 설정 화면과 관리 도구를 일일이 찾아다니는 대신 대화형 인터페이스를 통해 워크스페이스의 사용 현황을 분석하고 구성원을 관리하며 권한과 사용량까지 조정할 수 있도록 한 것이다.오픈AI는 25일(현지시간) 기업용 AI 서비스인 챗GPT 워크(ChatGPT Work)와 코덱스(Codex)에 ‘관리자(Admin) 플러그인’을 도입했다.관리자 플러그인은 워크스페이스 관리에 필요한 분석 기능과 지원되는 관리 작업을 하나의 대화"
+    },
+    {
+      "id": "87b3fa4d1ab0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "published": "2026-08-31T07:49:18+00:00",
+      "summary": "Article URL: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/ Comments URL: https://news.ycombinator.com/item?id=49506819 Points: 249 # Comments: 79"
+    },
+    {
+      "id": "df7f7e4b74b2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "NC AI, 업스테이지·퓨리오사AI와 사우디서 'K-AI 기술력' 알린다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214660",
+      "published": "2026-08-31T07:35:00+00:00",
+      "summary": "NC AI(대표 이연수)는 사우디아라비아 리야드에서 열리는 글로벌 기술 전시회 'LEAP 2026'에 참가한다고 31일 밝혔다.이번 행사는 사우디아라비아 통신정보기술부(MCIT), 사우디 데이터인공지능청(SDAIA) 등이 주최하며, 전 세계 203개국에서 20만명 이상이 참여할 예정이다.NC AI는 메가존클라우드, 업스테이지, 퓨리오사AI, 유라클과 한국인공지능∙소프트웨어산업협회(KOSA) 주도로 구성된 '한국 풀스택 AI 컨소시엄' 공동관을 운영한다.NC AI는 산업특화 AI '배키(VAETKI"
+    },
     {
       "id": "5f4af4babb41",
       "source": "AI타임스",
@@ -34,6 +375,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214655",
       "published": "2026-08-31T06:24:23+00:00",
       "summary": "AI가 실험 아이디어를 제안하거나 논문을 요약하는 수준을 넘어 실제 실험실 장비를 제어하고 검증까지 전담하는 종합 연구 수행자로 진화하고 있다.구글 딥마인드는 27일(현지시간) '제미나이' 기반 다중 에이전트 시스템인 '코사이언티스트(Co-Scientist)'의 실제 연구 환경 적용 결과를 담은 실증 연구 논문을 공개했다. 코사이언티스트는 다중 에이전트 AI 시스템으로, 가설 제안부터 심층 비판, 토론, 수정 및 논문 작성에 이르는 연구 전 과정을 자율적으로 수행하도록 설계됐다. 지난 2025년 "
+    },
+    {
+      "id": "ef0d6715e83c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "published": "2026-08-31T06:10:44+00:00",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/ Comments URL: https://news.ycombinator.com/item?id=49506182 Points: 281 # Comments: 48"
     },
     {
       "id": "4dd713058109",
@@ -265,6 +617,17 @@
       "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
       "published": "2026-08-31T02:18:57+00:00",
       "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocke"
+    },
+    {
+      "id": "860f4b8e9322",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Understanding ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "published": "2026-08-31T01:28:22+00:00",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/ Comments URL: https://news.ycombinator.com/item?id=49504625 Points: 277 # Comments: 146"
     },
     {
       "id": "becb4982c8b1",
@@ -1838,6 +2201,17 @@
       "link": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
       "published": "2026-08-28T17:03:07+00:00",
       "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisio"
+    },
+    {
+      "id": "15fd527a85fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "link": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "published": "2026-08-28T16:43:11+00:00",
+      "summary": "Article URL: https://sandyuraz.com/blogs/tiny-cafe/ Comments URL: https://news.ycombinator.com/item?id=49481141 Points: 286 # Comments: 47"
     },
     {
       "id": "a6b133585eb4",
