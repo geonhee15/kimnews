@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-09-01T05:25:55.054172+00:00",
-  "count": 11468,
+  "updated_at": "2026-09-01T10:18:28.132993+00:00",
+  "count": 11495,
   "items": [
+    {
+      "id": "fd01be4097d9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 자동매매를 돌려봤더니?",
+      "link": "https://www.youtube.com/shorts/wc0iGhU3a_Y",
+      "published": "2026-09-01T10:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "86543589acd2",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
+      "link": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/",
+      "published": "2026-09-01T09:30:00+00:00",
+      "summary": "The company known for stick vacuums and hair dryers is coming for your teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid into the gaps between your teeth."
+    },
+    {
+      "id": "cc0a9a8930c1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'오픈클로 2.0' 공개...아키텍처 개편으로 보안·성능 대폭 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214685",
+      "published": "2026-09-01T09:21:35+00:00",
+      "summary": "오픈소스 AI 에이전트 플랫폼 '오픈클로(OpenClaw)'가 성능과 보안, 사용자 인터페이스를 아우르는 전면적인 시스템 개편에 나섰다. 피터 스타인버거 오픈클로 개발자는 31일(현지시간) 1만6000개 이상의 풀 리퀘스트(PR)를 반영한 사상 최대 규모의 업데이트 ‘오픈클로 2.0’을 공개했다.이번 업데이트는 단순한 기능 추가를 넘어 설치 과정부터 메시징, 메모리, 모델, 자동화, 브라우저와 네이티브 앱, 플러그인, 보안에 이르기까지 시스템 전반을 재설계한 것이 특징이다. 933명의 개발자가 참"
+    },
+    {
+      "id": "7cdd082ea0d7",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Powerful AI Is Becoming Almost Free",
+      "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "published": "2026-09-01T09:04:56+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b15069fe0014",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT 데스크톱 성능 강화...\"이전 대화 로딩 90% 빨라졌다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214684",
+      "published": "2026-09-01T09:02:49+00:00",
+      "summary": "오픈AI가 '챗GPT' 데스크톱 앱의 긴 대화 스레드 로딩 성능을 대폭 개선했다.오픈AI는 31일(현지시간) 챗GPT 데스크톱 앱에서 이전 대화를 불러오는 방식을 개선하는 변경 사항을 적용했다고 밝혔다.이번 최적화 이후 긴 대화 스레드의 로딩 시간이 기존보다 90% 이상 단축됐으며, 해당 스레드를 처리하는 과정에서 필요한 메모리 사용량도 90% 이상 줄었다.이는 챗GPT를 장시간 업무에 활용하는 사용자가 늘면서 제기돼 온 성능 문제를 겨냥한 조치다. 특히 대화 내용이 수백, 수천개의 메시지로 쌓이"
+    },
+    {
+      "id": "76367ae15b1c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI에게 맡기는 주식 자동매매 - Codex와 NH투자증권 API로 투자 에이전트 만들기",
+      "link": "https://www.youtube.com/watch?v=CGDibbwGfvk",
+      "published": "2026-09-01T09:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "id": "dafc91655015",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "클로드 맥스 플랜 '5x·20x' 표시 논란... 오픈AI \"코덱스는 진짜 20배\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214707",
+      "published": "2026-09-01T08:50:00+00:00",
+      "summary": "AI 코딩 도구 시장에서 서비스 구독 요금제의 사용량 배수 표기 방식을 두고 오해와 불만이 확대되고 있다. 한 개발자가 앤트로픽 클로드의 '맥스(Max) 플랜' 표기 방식이 오해를 불러일으킨다고 지적하자, 경쟁사인 오픈AI의 담당자가 직접 나서 자사 서비스는 표시된 수치 그대로의 사용량을 제공한다고 밝히며 논쟁으로 번졌다.논란의 발단은 UX 디자이너이자 개발자인 사타에릭(SataEric)이라는 사용자가 31일(현지시간) X를 통해 앤트로픽의 가격 정책을 공개 비판하면서 시작됐다. 그는 100달러 "
+    },
+    {
+      "id": "c1070d5781c9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214714",
+      "published": "2026-09-01T08:09:52+00:00",
+      "summary": "정부의 AI 투자가 공격적으로 확대되고 있다. 특히 인프라에 대한 투자를 확대, '프론티어 AI 개발'을 본격화한다는 계획이다.정부는 1일 국무회의를 열고 '2027년도 예산안' 및 '2026~2030년 국가 재정운용계획'을 의결했다.내년도 예산 총지출이 역대 최대 규모인 820조9000억원으로 편성된 가운데, 2027년 정부 연구개발(R&D) 예산도 39조5000억원으로 역대급을 기록했다. 올해 35조5000억원에서 4조원(11.2%) 늘어난 수치다.이 가운데 과학기술정보통신부 소관 예산은 올해"
+    },
+    {
+      "id": "2e51e4f5350a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 인텔리빅스, 신세계면세점에 'AI 안전관제 솔루션' 공급 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214718",
+      "published": "2026-09-01T08:00:00+00:00",
+      "summary": "■ 인텔리빅스(대표 최은수, 장정훈)는 신세계면세점 명동점에 비전 AI와 비전언어모델(VLM)을 결합한 AI 영상분석시스템을 공급했다고 밝혔다. 인텔리빅스의 자체 AI 영상관제 플랫폼 'Gen AMS'를 활용해 AI가 이상 징후를 감지하고, 전후 상황과 행동 맥락을 분석해 위험 상황 시 사전 알림과 신속한 대응을 지원해 예방 중심의 안전관제 체계를 구현한다는 설명이다.■ 버넥트(대표 하태진)는 태안군 강소형 스마트시티 조성사업의 일환인 ‘드론 체험관 내 드론 모험 콘텐츠 개발·설치 사업’에 착수한"
+    },
+    {
+      "id": "1c38e0440712",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 유니유니, 움직임 분석 AI로 기술신용평가 T3등급 획득 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214717",
+      "published": "2026-09-01T08:00:00+00:00",
+      "summary": "■ 비식별 AI 안전 솔루션 전문 유니유니(대표 한수연)는 기술신용평가(TCB)에서 우수 기술기업에 해당하는 ‘T3’ 등급을 획득했다고 밝혔다. 유니유니는 카메라 없이 사람의 움직임과 공간 상태를 분석하는 비식별 AIoT 안전 플랫폼 ‘새비(SAVVY)’의 기술력과 사업화 역량, 시장 확장성을 인정받아 T3 등급을 획득했다.■ 카카오(대표 정신아)의 지역 AI 인재·기업 육성 추진 기구 ‘카카오 AI 돛’이 오는 29일 부산항국제전시컨벤션센터(BPEX)에서 ‘카카오 AI 돛 서밋 26’을 개최한다"
+    },
+    {
+      "id": "a32dd0d4ba2c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국토부 내년 예산 역대 최대 69조 편성…공적주택에 30조",
+      "link": "https://zdnet.co.kr/view/?no=20260901165502",
+      "published": "2026-09-01T07:55:02+00:00",
+      "summary": "[지디넷코리아]국토교통부가 내년 예산을 역대 최대인 69조원 규모로 편성했다. 올해 62조 8000억원보다 9.9% 증액했다.2027년은 ▲민생활력 ▲미래성장 ▲균형성장 ▲국민안전 등 시급성이 큰 중점분야에 재원을 분배했다.우선 주거·교통 등 민생지원을 강화한다. 2030년까지 공적주택 110만호+α 공급을 차질 없이 이행하고, 청년 주거지원도 획기적으로 개선한다는 계획이다.내년에는 주거안정을 위해 공적주택을 올해보다 12% 이상 많은 21만 8000호(공공임대 17만 2000대, 공공분양 3만 "
+    },
+    {
+      "id": "463122458a98",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오프라인 특화 AI 소셜 앱 '츄룹' 운영사 벗뷰리풀, 프리A 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214719",
+      "published": "2026-09-01T07:55:00+00:00",
+      "summary": "AI 소셜 애플리케이션 ‘츄룹’ 운영사 벗뷰리풀(대표 박수만)은 프리시리즈A 투자를 유치했다고 1일 밝혔다. 투자 금액은 비공개다.이번 투자는 라구나인베스트먼트를 포함해 크릿벤처스, 키움인베스트먼트, 제트벤처캐피탈(ZVC), 그란데클립 김봉진 의장 등이 참여했다. 여기에 중소벤처기업부 팁스(TIPS) 연구개발(R&D) 글로벌 트랙에도 선정돼 2028년까지 총 12억원의 추가 자금을 지원받는다.츄룹은 모임 준비부터 기록까지 전 과정을 통합한 AI 네이티브 소셜 플랫폼이다. AI가 참여자 일정을 분석"
+    },
+    {
+      "id": "e665ca6e7a6b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 시대 나만의 기준 설계부터 취향 체험까지…문체부, '2026 청년문화주간' 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260901164551",
+      "published": "2026-09-01T07:50:01+00:00",
+      "summary": "[지디넷코리아]청년들이 인문학적 사유와 취향을 공유하며 문화를 만들어가는 참여형 축제가 열린다.문화체육관광부는 '2026 청년문화주간, 요즘 청년, 요즘 문화'를 개최한다고 1일 밝혔다. 행사는 오는 4일부터 5일까지 서울 마포구 홍대 인근 카페에서 열린다.이번 행사는 '사유의 깊이를 더하고 취향을 나누다'를 주제로, 청년의 삶과 현실을 문화적 시각에서 진단하고 소통하기 위해 마련됐다.행사장은 4개 층으로 나뉘어 강연, 공연, 체험 공간으로 꾸려진다. 지하 1층에서는 김아영 출판사 무제 이사, 콘"
+    },
+    {
+      "id": "4c3b263f992b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "파고네트웍스 \"구글 등과 협력 보안사업 확대...LG U+인수로 사업 변화 없어\"",
+      "link": "https://zdnet.co.kr/view/?no=20260901145251",
+      "published": "2026-09-01T07:46:46+00:00",
+      "summary": "[지디넷코리아]LG유플러스에 인수된 파고네트웍스가 기존 보안 사업에 큰 변화가 없다고 밝혔다. 앞서 LG유플러스는 지난달 4일 국내 운영형 보안 서비스(MDR) 전문기업 파고네트웍스를 인수했다고 밝힌 바 있다. 당시 권용현 LG유플러스 엔터프라이즈부문장(부사장)은 \"이번 인수는 기업 고객에게 보다 완성도 높은 보안 서비스를 제공하는 동시에 LG유플러스의 보안 대응 역량을 한 단계 높이기 위한 결정\"이라며 \"앞으로도 보안 투자와 역량 강화를 지속해 고객이 신뢰할 수 있는 보안 파트너로 자리매김하겠다"
+    },
+    {
+      "id": "3ab69f05f205",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인스타그램, AI 인플루언서 단속 강화...“AI 정체 숨기면 추천 노출 제한”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214712",
+      "published": "2026-09-01T07:46:01+00:00",
+      "summary": "인스타그램이 실제 사람처럼 보이는 'AI 인플루언서'에 제동을 건다. AI로 생성된 인물을 내세운 계정이 자신의 정체를 제대로 밝히지 않으면 추천 알고리즘에서 노출을 제한하기로 했다. 인스타그램은 31일(현지시간) 기존 'AI 크리에이터(Creator)' 프로필 표시를 'AI-생성 프로필(AI-generated profile)'로 변경하고, AI로 생성된 인물을 내세운 계정에 대해 해당 표시를 의무적으로 적용하는 방향으로 정책을 강화한다고 밝혔다.기존에는 AI 크리에이터가 자발적으로 라벨을 선택하"
+    },
+    {
+      "id": "116f5387914c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "로봇청소기로 아내 불륜 몰래 녹화한 남편...이혼 소송 승소하고도 징역형",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214715",
+      "published": "2026-09-01T07:40:00+00:00",
+      "summary": "로봇청소기가 포착한 ‘불륜 현장’이 남편에게는 결정적 증거가 됐지만, 동시에 징역형을 부른 덫이 됐다. 대만 법원이 배우자의 외도를 입증하기 위한 목적이라도 상대방의 동의 없이 사적인 공간을 촬영한 행위는 정당화될 수 없다고 판단하면서, 스마트홈 기기의 사생활 침해 논란이 법정으로 번졌다.31일(현지시간) 톰스하드웨어에 따르면, 대만에서 로봇청소기의 카메라를 이용해 아내의 불륜 장면을 몰래 녹화한 남편이 불륜 사실을 입증해 위자료를 받는 데는 성공했지만, 불법 촬영 혐의로 징역형을 선고받는 사건이"
+    },
+    {
+      "id": "04310c27e85e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "롯데렌탈 매각 공정위 문턱 넘었다…롯데, 10월 거래 마무리",
+      "link": "https://zdnet.co.kr/view/?no=20260901161153",
+      "published": "2026-09-01T07:31:54+00:00",
+      "summary": "[지디넷코리아]롯데가 롯데렌탈 경영권 매각에 필요한 공정거래위원회 기업결합 승인을 받았다. 주주총회 등 남은 절차를 거쳐 다음 달 안에 거래를 마무리할 예정이다.롯데는 호텔롯데와 부산롯데호텔이 보유한 롯데렌탈 지분을 글로벌 투자회사 TPG에 매각하는 거래가 공정위 승인을 받았다고 1일 밝혔다.앞서 롯데는 지난달 11일 TPG와 롯데렌탈 지분 61.2%를 넘기는 계약을 체결했다. 매각 대상은 호텔롯데 보유 지분 38.1%와 부산롯데호텔 지분 23%다. 매매대금은 주당 5만 9000원, 총 1조 31"
+    },
+    {
+      "id": "98ef3eb83754",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "롯데백화점 영등포점, 10년 더 운영한다…신규 사용자 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260901161312",
+      "published": "2026-09-01T07:29:11+00:00",
+      "summary": "[지디넷코리아]롯데백화점이 영등포점 운영을 지속하게 됐다.롯데쇼핑은 국가철도공단에서 진행한 영등포역사 사용허가 입찰에 참여해 신규 사용자로 최종 선정됐다고 1일 밝혔다. 이에 따라 롯데백화점은 신규 계약 절차를 거쳐 영등포점 운영을 지속할 수 있게 됐다. 이번 선정으로 영등포점은 최소 10년 이상의 운영 기간을 확보하게 됐다.영등포점은 1988년 정부의 점용허가를 토대로 1991년 문을 연 국내 최초 민자역사 백화점이다. 롯데백화점이 본점·잠실점에 이어 세 번째로 개점한 점포다.2017년 정부가 "
+    },
+    {
+      "id": "773565d5bda6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "딥엑스, AWS와 '피지컬 AI' 배포 환경 구축… 글로벌 시장 공략 가속",
+      "link": "https://zdnet.co.kr/view/?no=20260901160058",
+      "published": "2026-09-01T07:25:41+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 반도체 스타트업 딥엑스(대표 김녹원)가 아마존웹서비스(AWS)의 클라우드·IoT 인프라와 자사 신경망처리장치(NPU)를 연계한 피지컬 AI 배포 환경을 구축하고 글로벌 시장 진출을 본격화한다.1일 딥엑스에 따르면 AWS는 최근 공식 기술 블로그를 통해 딥엑스의 온디바이스 NPU ‘DX-M1’과 ‘AWS IoT 코어’, ‘AWS IoT 그린그래스’를 결합해 AI 모델을 준비하고 다수의 엣지 기기에 NPU 실행 환경을 원격 배포·관리하는 방식을 소개했다.현재 AWS 마켓"
+    },
+    {
+      "id": "2e00ebe00a75",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214705",
+      "published": "2026-09-01T07:21:20+00:00",
+      "summary": "유럽연합(EU)이 AI 서비스인 오픈AI의 챗GPT를 ‘초대형 검색엔진’으로 지정하며 규제 수위를 높였다. EU 내 월평균 사용자가 4500만명을 넘어선 데 따른 조치로, 앞으로 불법 콘텐츠 확산과 미성년자 보호는 물론 알고리즘이 선거와 공공 안전, 이용자의 신체·정신 건강에 미치는 위험까지 평가하고 완화해야 한다.EU 집행위원회는 31일(현지시간) 디지털서비스법(DSA)에 따라 챗GPT를 ‘초대형 온라인 검색엔진(VLOSE)’, 레딧과 로블록스를 ‘초대형 온라인 플랫폼(VLOP)’으로 각각 지정"
+    },
+    {
+      "id": "3c78227b4f9f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "노타, '모두의 AI' SKT 컨소시엄 합류…실행형 AI 구현 지원",
+      "link": "https://zdnet.co.kr/view/?no=20260901161845",
+      "published": "2026-09-01T07:19:34+00:00",
+      "summary": "[지디넷코리아]노타가 국가 인공지능(AI) 프로젝트 참여를 확대하며 AI 모델 개발부터 국민 대상 서비스 구현까지 최적화 기술 적용 범위를 넓힌다. '독자 AI 파운데이션 모델'에 이어 '모두의 AI' 사업에도 참여하며 국가 AI 개발과 활용 과정에서 최적화 기술을 제공한다.노타는 과학기술정보통신부와 정보통신산업진흥원이 추진하는 '모두의 AI' 사업에 참여한다고 1일 밝혔다. 노타는 SK텔레콤이 주관하는 컨소시엄에서 AI 모델 인프라 분야를 맡아 사업에 활용되는 AI 모델의 경량화와 최적화를 담당"
+    },
+    {
+      "id": "500723f43919",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 정상회담 앞두고 앤트로픽 직접 겨냥...\"미국 AI 기업 백도어 먼저 검증하라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214711",
+      "published": "2026-09-01T07:15:00+00:00",
+      "summary": "AI 분야의 안전성과 기술 규범을 논의하기 위한 대화를 앞둔 가운데, 중국이 미국 AI 기업에 대한 사전 검증을 요구하고 나섰다. 중국 국영방송 CCTV와 연계된 소셜미디어 계정이 미국의 주요 AI 기업들이 자국의 안전·정보공개·감사 기준을 제대로 준수하고 있는지 입증해야 실질적인 협상에 나설 수 있다고 주장하면서 양국의 긴장이 다시 고조되는 모습이다. 블룸버그에 따르면, CCTV와 연계된 정책 선전 계정 위위안탄톈은 30일(현지시간) 게시글에서 미국이 중국과 '실질적인' AI 논의를 시작하기 전"
+    },
     {
       "id": "83cb37fe00a1",
       "source": "AI타임스",
@@ -201,6 +443,17 @@
       "summary": "도널드 트럼프 미국 대통령이 AI 데이터센터 건설에 반대하는 미국 지역사회를 향해 “낙후되고 가난해질 것”이라고 강하게 경고했다. AI 산업 육성과 데이터센터 확대를 국가 경쟁력과 일자리 창출의 핵심으로 내세우는 트럼프 대통령이 최근 데이터센터에 대한 초당적 반발이 확산하자 직접적인 여론전에 나선 것이다.트럼프 대통령은 31일(현지시간) 소셜미디어 트루스소셜에 “미국 전역의 지역사회가 데이터센터를 원하지 않는 유일한 이유는 낙후되고 가난해지기를 원하기 때문”이라며 “성공하고 부유해지기를 원한다면 "
     },
     {
+      "id": "292b51d286ea",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Fastpotify",
+      "link": "https://fastpotify.rocks/",
+      "published": "2026-09-01T02:52:14+00:00",
+      "summary": "Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 404 # Comments: 213"
+    },
+    {
       "id": "db78fd2f63ed",
       "source": "TechCrunch",
       "kind": "article",
@@ -232,6 +485,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260901083326",
       "published": "2026-08-31T23:55:26+00:00",
       "summary": "[지디넷코리아]관절염 치료에 사용돼 온 약물이 심한 원형탈모 환자의 모발 재성장에 효과가 있다는 임상 시험 결과가 나와 주목 받고 있다.인터레스팅엔지니어링, 사우스차이나모닝포스트 등 외신은 하버드 대학 연구진이 주도한 연구 결과를 최근 보도했다. 해당 논문은 8월 국제학술지 ‘미국의학협회 피부과학회지(JAMA Dermatology)’에 게재됐다.보도에 따르면 연구진은 북미와 유럽, 중국에서 2건의 대규모 국제 임상시험을 진행했다. 연구진은 심한 원형탈모를 앓고 있는 환자들을 모집해 하루 한 차례 "
+    },
+    {
+      "id": "a7f40fa06404",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "link": "https://datacolada.org/138",
+      "published": "2026-08-31T23:45:56+00:00",
+      "summary": "Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 245 # Comments: 166"
     },
     {
       "id": "25d2f9e7cfd0",
@@ -509,6 +773,17 @@
       "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CE"
     },
     {
+      "id": "d255c03efd3c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "link": "https://ravynos.com/",
+      "published": "2026-08-31T16:19:36+00:00",
+      "summary": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 201 # Comments: 115"
+    },
+    {
       "id": "7df1dda4ef85",
       "source": "The Verge",
       "kind": "article",
@@ -586,6 +861,17 @@
       "summary": "[지디넷코리아]종합 금융 플랫폼 '토스'를 운영하는 비바리퍼블리카(Viva Republica)가 작년 2분기 외산 보안솔루션 사용을 종료, 현재 자체 개발한 보안 솔루션 '타이탄(Titan)'을 사용하고 있다. '토스'는 금융업 분류상 전자금융에 속한다. 전자금융회사 중 토스처럼 중요 보안 솔루션을 국산을 사용, 외산을 대체한 건 이례적이다.'토스'가 개발한 '타이탄'은 보안 솔루션 종류 중 SASE(Se­cure Access Service Edge)에 속한다. SASE는 네트워크와 보안 기능을 "
     },
     {
+      "id": "d999d95548e5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "link": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "published": "2026-08-31T14:07:15+00:00",
+      "summary": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49510000 Points: 220 # Comments: 52"
+    },
+    {
       "id": "ed2805e6359c",
       "source": "조코딩",
       "kind": "youtube",
@@ -650,6 +936,17 @@
       "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
       "published": "2026-08-31T13:00:00+00:00",
       "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being."
+    },
+    {
+      "id": "63cada8192da",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "published": "2026-08-31T12:41:22+00:00",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 416 # Comments: 457"
     },
     {
       "id": "b341cf86d058",
