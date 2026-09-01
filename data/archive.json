@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-01T18:29:19.298571+00:00",
-  "count": 11541,
+  "updated_at": "2026-09-01T21:14:41.098365+00:00",
+  "count": 11560,
   "items": [
+    {
+      "id": "4bdd5b5ffd24",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214725",
+      "published": "2026-09-01T21:07:40+00:00",
+      "summary": "앤트로픽이 세계 최고 성능을 발휘하는 차세대 모델 '클로드 페이블 5.1(Claude Fable 5.1)'과 '클로드 미소스 5.1(Claude Mythos 5.1)'을 공개했다. 이전 모델 대비 강력한 추론 능력을 확보함과 동시에 입력 캐시 가격을 파격적으로 인하해 고도화된 AI 에이전트 운용 비용을 크게 낮췄다.앤트로픽은 1일(현지시간) 코딩과 복잡한 지식 작업 처리에 특화된 프론티어 모델 '클로드 페이블 5.1'과 이를 사이버 보안 및 생명과학 연구 전용으로 고도화한 '클로드 미소스 5.1'"
+    },
+    {
+      "id": "fd163e75f82e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "2026-09-01T21:06:24+00:00",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
+      "id": "c7766bb912f1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "published": "2026-09-01T20:53:05+00:00",
+      "summary": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more."
+    },
+    {
+      "id": "8c725b124318",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "published": "2026-09-01T20:45:49+00:00",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model "
+    },
+    {
+      "id": "0e70dbdd2e66",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "published": "2026-09-01T20:00:00+00:00",
+      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses."
+    },
+    {
+      "id": "07c4ace5b43b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+      "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "published": "2026-09-01T19:45:28+00:00",
+      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone."
+    },
+    {
+      "id": "734e675d2a48",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "published": "2026-09-01T19:43:39+00:00",
+      "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become "
+    },
+    {
+      "id": "6fdad1c6511d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "published": "2026-09-01T19:39:22+00:00",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+    },
+    {
+      "id": "a4c6d43678c4",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "published": "2026-09-01T19:10:36+00:00",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centa"
+    },
+    {
+      "id": "ee41f708c13f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "published": "2026-09-01T19:02:54+00:00",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a "
+    },
     {
       "id": "3e3df43cfb67",
       "source": "The Verge",
@@ -25,6 +135,28 @@
       "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the "
     },
     {
+      "id": "bb5be63fa871",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Who is John Ternus, the new Apple CEO?",
+      "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+      "published": "2026-09-01T18:02:00+00:00",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now."
+    },
+    {
+      "id": "68944e571b3a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+      "link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+      "published": "2026-09-01T18:00:02+00:00",
+      "summary": "New features are rolling out across the Android ecosystem starting today."
+    },
+    {
       "id": "2074203348a4",
       "source": "The Verge",
       "kind": "article",
@@ -34,6 +166,17 @@
       "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
       "published": "2026-09-01T18:00:00+00:00",
       "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your scr"
+    },
+    {
+      "id": "81077f93f880",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "published": "2026-09-01T17:53:53+00:00",
+      "summary": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 635 # Comments: 591"
     },
     {
       "id": "3bcef8995124",
@@ -47,12 +190,34 @@
       "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
     },
     {
+      "id": "28ad89fed36b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This is what a supercar was like a century ago",
+      "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+      "published": "2026-09-01T17:34:16+00:00",
+      "summary": "When the average car could only do 40 mph, this Bentley could break 100."
+    },
+    {
       "id": "7d3e72138337",
       "source": "Fireship",
       "kind": "youtube",
       "category": "DEV",
       "lang": "en",
       "title": "A mysterious new model just took over the internet...",
+      "link": "https://www.youtube.com/watch?v=r-tzcMlQISk",
+      "published": "2026-09-01T17:31:27+00:00",
+      "summary": ""
+    },
+    {
+      "id": "363dedbcc9ad",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The mystery is solved... and the answer is 40x cheaper than Claude",
       "link": "https://www.youtube.com/watch?v=r-tzcMlQISk",
       "published": "2026-09-01T17:31:27+00:00",
       "summary": ""
@@ -254,6 +419,28 @@
       "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
       "published": "2026-09-01T13:51:02+00:00",
       "summary": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with bo"
+    },
+    {
+      "id": "4b5e3c37a833",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "published": "2026-09-01T13:46:49+00:00",
+      "summary": "Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/ Comments URL: https://news.ycombinator.com/item?id=49521973 Points: 210 # Comments: 85"
+    },
+    {
+      "id": "229ca91260ee",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "IBM \"AI 에이전트 시대, 핵심은 신뢰성과 운영 체계'\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
+      "published": "2026-09-01T13:30:00+00:00",
+      "summary": "한국IBM이 1일 서울 웨스틴 조선 서울에서 ‘AI 서밋 코리아(AI Summit Korea)’를 개최하고, 전통 인프라 역량과 AI 시대의 새로운 운영 인프라를 결합한 기술 저력을 강조했다.대표적인 기술 기업 IBM은 최근 AI 혁신 국면에서 수혜를 입기보다 다소 주춤하는 모습을 보였다. 2분기 실적 발표에 따르면 인프라 부문 매출은 38억달러로 전년 동기 대비 7% 감소했다. 특히 핵심 고성능 서버인 ‘Z 메인프레임’ 매출은 전년 대비 42%나 떨어졌다. 기업들의 예산이 AI 인프라 구축에 집"
     },
     {
       "id": "3d7c9a7ebe5a",
@@ -562,6 +749,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214707",
       "published": "2026-09-01T08:50:00+00:00",
       "summary": "AI 코딩 도구 시장에서 서비스 구독 요금제의 사용량 배수 표기 방식을 두고 오해와 불만이 확대되고 있다. 한 개발자가 앤트로픽 클로드의 '맥스(Max) 플랜' 표기 방식이 오해를 불러일으킨다고 지적하자, 경쟁사인 오픈AI의 담당자가 직접 나서 자사 서비스는 표시된 수치 그대로의 사용량을 제공한다고 밝히며 논쟁으로 번졌다.논란의 발단은 UX 디자이너이자 개발자인 사타에릭(SataEric)이라는 사용자가 31일(현지시간) X를 통해 앤트로픽의 가격 정책을 공개 비판하면서 시작됐다. 그는 100달러 "
+    },
+    {
+      "id": "2f46c22d57c7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "곡성 옛 입면장터, 주민과 지역 이야기를 담은 문화공간 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214724",
+      "published": "2026-09-01T08:35:00+00:00",
+      "summary": "전남 곡성군 옛 입면장터에 지역의 이야기와 주민 참여를 바탕으로 한 새로운 문화공간이 조성됐다. 과거 주민들의 만남과 교류가 이뤄졌던 장터의 의미를 되살리는 동시에 현대적인 디자인 요소를 더해, 지역민과 방문객이 함께 머물고 즐길 수 있는 공간으로 재구성한 것이 특징이다.이번 사업은 장터 곳곳에 설치되는 아트월을 통해 기존 공간에 새로운 이미지를 입혔다. 디자인에는 '곡성장난감', 'NANGAM POP MARKET' 등 장터의 새로운 정체성을 보여주는 문구와 함께 닭을 모티브로 한 캐릭터, 장난감"
     },
     {
       "id": "c1070d5781c9",
@@ -2828,6 +3026,17 @@
       "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "published": "2026-08-29T21:25:17+00:00",
       "summary": "Article URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ Comments URL: https://news.ycombinator.com/item?id=49493468 Points: 313 # Comments: 122"
+    },
+    {
+      "id": "09eb756eaa9c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "published": "2026-08-29T21:25:17+00:00",
+      "summary": "Article URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ Comments URL: https://news.ycombinator.com/item?id=49493468 Points: 351 # Comments: 143"
     },
     {
       "id": "72daaf7ad615",
