@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-01T21:14:41.098365+00:00",
-  "count": 11560,
+  "updated_at": "2026-09-01T23:20:32.717133+00:00",
+  "count": 11570,
   "items": [
+    {
+      "id": "353a39695610",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Range Rover Electric: Specs, Price, Availability",
+      "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+      "published": "2026-09-01T23:01:00+00:00",
+      "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model."
+    },
+    {
+      "id": "3883d0a8e6e1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "published": "2026-09-01T22:13:34+00:00",
+      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America."
+    },
+    {
+      "id": "38813dfe3b71",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "published": "2026-09-01T22:08:24+00:00",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+    },
+    {
+      "id": "c99d8a77f7ec",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "published": "2026-09-01T22:01:36+00:00",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and u"
+    },
+    {
+      "id": "37e70930ea92",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월1일] 진화하는 AI 버블 논란…“인터넷보다 소셜미디어에 가깝다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214682",
+      "published": "2026-09-01T22:00:00+00:00",
+      "summary": "AI에 막대한 자금이 몰리면서 ‘버블’이라는 말이 등장한 지 1~2년이 지났습니다. 기업 가치와 투자 규모가 빠르게 커지면서, 그동안은 1990년대 인터넷 버블과 비교하는 시각도 주를 이뤘습니다. 당시처럼 미래의 기술 수요를 기대하고 막대한 자본이 몰리고 있다는 이유에서입니다.하지만 AI 산업의 성장에 따라 최근에는 버블을 바라보는 시각도 달라지고 있습니다. 과거 인터넷·통신 버블의 핵심 문제 중 하나가 수요보다 인프라 투자가 앞섰다는 것이었다면, 현재 AI는 막대한 투자가 이뤄지는 가운데서도 컴"
+    },
+    {
+      "id": "6df3fb860de3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "published": "2026-09-01T21:22:56+00:00",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Cana"
+    },
     {
       "id": "4bdd5b5ffd24",
       "source": "AI타임스",
@@ -20,6 +86,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "2026-09-01T21:06:24+00:00",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
+      "id": "f70fe47d02a5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "published": "2026-09-01T21:06:24+00:00",
       "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
@@ -111,6 +188,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
       "published": "2026-09-01T19:02:54+00:00",
       "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a "
+    },
+    {
+      "id": "65f45f609668",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "link": "https://danluu.com/zitron/",
+      "published": "2026-09-01T18:35:15+00:00",
+      "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 300 # Comments: 348"
     },
     {
       "id": "3e3df43cfb67",
@@ -221,6 +309,17 @@
       "link": "https://www.youtube.com/watch?v=r-tzcMlQISk",
       "published": "2026-09-01T17:31:27+00:00",
       "summary": ""
+    },
+    {
+      "id": "86c5d86aecf7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "리본, 시장을 선도하는 핵심 인프라 포트폴리오 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260902021002",
+      "published": "2026-09-01T17:10:02+00:00",
+      "summary": "[지디넷코리아] 신세대 라우터, 확장된 라우팅과 자동화, 보안, 동기화 역량 제공 플레이노, 텍사스, 2026년 9월 2일 /PRNewswire/ -- 실시간 통신 기술과 IP 라우팅, 광 네트워크 솔루션 분야의 글로벌 선도기업 리본 커뮤니케이션즈(Ribbon Communications Inc., 나스닥: RBBN)가 9월 1일, 핵심 인프라 포트폴리오 확대를 발표했다. 이 포트폴리오는 유틸리티 기업들이 점차 복잡해지는 운영 네트워크를 현대화하는 동시에 필수 서비스에 요구되는 신뢰성과 보안, 결정"
     },
     {
       "id": "50766735530d",
@@ -507,6 +606,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260901214336",
       "published": "2026-09-01T12:43:36+00:00",
       "summary": "[지디넷코리아]정부가 국가 R&D에 향후 5년간 200조원을 투입하기로 했다.국가과학기술자문회의(의장 대통령)는 지난 31일 국가과학기술자문회의 대회의실에서 이경수 부의장 주재로 제9회 심의회의를 개최했다.심의에서 자문회의는 제5차 과학기술인재 육성·지원 기본계획(’26-’30)(안)과 제2차 국가연구개발 중장기 투자전략(’26-’30)(안) 등 2건을 심의‧의결하고 '2027년도 국가연구개발사업 예산 편성(안)'을 접수했다.제5차 과학기술인재 육성·지원 기본계획은 원안대로 의결했다.이번 기본 계"
+    },
+    {
+      "id": "4b0641716082",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "published": "2026-09-01T12:39:07+00:00",
+      "summary": ""
     },
     {
       "id": "9b9b0f362292",
