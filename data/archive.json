@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-09-01T15:01:35.302603+00:00",
-  "count": 11519,
+  "updated_at": "2026-09-01T18:29:19.298571+00:00",
+  "count": 11541,
   "items": [
+    {
+      "id": "3e3df43cfb67",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week’",
+      "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+      "published": "2026-09-01T18:24:16+00:00",
+      "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it po"
+    },
+    {
+      "id": "00de56e3ccc0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "published": "2026-09-01T18:19:26+00:00",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the "
+    },
+    {
+      "id": "2074203348a4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Find Hub will soon help you locate things without a tracker",
+      "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+      "published": "2026-09-01T18:00:00+00:00",
+      "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your scr"
+    },
+    {
+      "id": "3bcef8995124",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "published": "2026-09-01T17:35:37+00:00",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
+    },
+    {
+      "id": "7d3e72138337",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A mysterious new model just took over the internet...",
+      "link": "https://www.youtube.com/watch?v=r-tzcMlQISk",
+      "published": "2026-09-01T17:31:27+00:00",
+      "summary": ""
+    },
+    {
+      "id": "50766735530d",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "published": "2026-09-01T17:08:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "28d1f0be11b2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
+    },
+    {
+      "id": "ec8177e4ecd2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Homey just made the smart home controller I hoped Apple would build",
+      "link": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home platform owned by LG, thinks it has a solution. This week it launched the Homey Portal, a "
+    },
+    {
+      "id": "fd7966266eef",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "published": "2026-09-01T16:49:12+00:00",
+      "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough."
+    },
+    {
+      "id": "ff14c4a51de5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’",
+      "link": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+      "published": "2026-09-01T16:46:08+00:00",
+      "summary": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder, without disclosing that in a sponsored review that came out a week later. Now, almost the entire company has"
+    },
+    {
+      "id": "57abb92c59f5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "published": "2026-09-01T16:00:52+00:00",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment "
+    },
+    {
+      "id": "c638b7dc4e19",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony’s new party speakers have more bass, more LEDs, and more connectivity",
+      "link": "https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds",
+      "published": "2026-09-01T16:00:00+00:00",
+      "summary": "Sony announced three new tower-style party speakers that will now be the largest options in its ULT Power Sound lineup. The new ULT Tower Max, ULT Tower 7, and ULT Tower 5 all feature expanded connectivity including USB-C, RCA, and XLR ports for connecting to audio gear using phy"
+    },
+    {
+      "id": "abda4dde7446",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "published": "2026-09-01T16:00:00+00:00",
+      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to"
+    },
+    {
+      "id": "ae2fadd75793",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GoPro to be acquired for $285M, will remain a public company",
+      "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+      "published": "2026-09-01T15:57:23+00:00",
+      "summary": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products."
+    },
+    {
+      "id": "2c8fb42d7b7b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "published": "2026-09-01T15:45:51+00:00",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
+    },
+    {
+      "id": "daaf874d151e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft 365 outage drags on, but things are improving",
+      "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+      "published": "2026-09-01T15:23:15+00:00",
+      "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates."
+    },
+    {
+      "id": "a1a11c85c0af",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "published": "2026-09-01T15:10:58+00:00",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+    },
     {
       "id": "0f1bc9b7153f",
       "source": "Wired",
@@ -25,6 +212,17 @@
       "summary": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook."
     },
     {
+      "id": "c3154c535e3d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",
+      "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+      "published": "2026-09-01T14:20:44+00:00",
+      "summary": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook."
+    },
+    {
       "id": "0ca0c88c6580",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -34,6 +232,17 @@
       "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
       "published": "2026-09-01T14:00:00+00:00",
       "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity t"
+    },
+    {
+      "id": "b90df1d92bd2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고",
+      "link": "https://zdnet.co.kr/view/?no=20260901225713",
+      "published": "2026-09-01T13:57:13+00:00",
+      "summary": "[지디넷코리아]가트너(Gartner)가 내년 AI보안 시장 규모를 47억 8300만 달러(약 6조 6천억 원)로 성장할 것으로 추정했다. 올해보다 약 69% 증가한 수치다. 2028년에는 약 77억 달러(약 10조 6천억 원)로 성장할 전망이다. 가트너가 말하는 AI 보안 시장은 ▲AI 애플리케이션 보안 ▲AI 사용 통제 ▲AI 거버넌스 플랫폼 ▲AI 게이트웨이 ▲기타 AI보안 등 다섯 가지다. 기업이 AI를 안전하고 책임감 있게 사용하고 관련 규제를 준수할 수 있도록 지원하는 다양한 소프트웨어와"
     },
     {
       "id": "a143ef523394",
@@ -243,6 +452,17 @@
       "link": "https://mvakde.github.io/blog/44-on-arc-1/",
       "published": "2026-09-01T09:52:45+00:00",
       "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 200 # Comments: 53"
+    },
+    {
+      "id": "4c55e1c52ee6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "published": "2026-09-01T09:52:45+00:00",
+      "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 369 # Comments: 99"
     },
     {
       "id": "847cca207e5e",
@@ -1090,6 +1310,17 @@
       "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
       "published": "2026-08-31T15:15:25+00:00",
       "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips."
+    },
+    {
+      "id": "6f0d1a4c4ad2",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "published": "2026-08-31T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "c098ea927f75",
@@ -2586,6 +2817,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260829184418",
       "published": "2026-08-29T23:12:00+00:00",
       "summary": "[지디넷코리아]중국 최대 D램 제조사인 창신메모리(CXMT)가 자사를 중국군 지원 기업 명단(블랙리스트)에 올린 미국 국방부를 상대로 법적 대응에 나섰다.30일 블룸버그 통신에 따르면 CXMT는 최근 워싱턴DC 연방지방법원에 미 국방부와 피트 헤그세스 미 국방부 장관을 상대로 블랙리스트 지정 취소 청구 소송을 제기했다.CXMT는 소장에서 자사가 설계·생산하는 칩이 순수 민간 및 상업용 용도에 국한돼 있으며, 블랙리스트 등재는 부당한 조치라고 주장했다. 이번 소송으로 CXMT는 알리바바그룹 등 미국"
+    },
+    {
+      "id": "5486b8341846",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died, aged 100",
+      "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "published": "2026-08-29T21:25:17+00:00",
+      "summary": "Article URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/ Comments URL: https://news.ycombinator.com/item?id=49493468 Points: 313 # Comments: 122"
     },
     {
       "id": "72daaf7ad615",
