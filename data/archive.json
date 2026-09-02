@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-02T21:01:59.747921+00:00",
-  "count": 11693,
+  "updated_at": "2026-09-02T23:18:57.551797+00:00",
+  "count": 11701,
   "items": [
+    {
+      "id": "24019a213fce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber beats Waymo as first to launch robotaxis in London",
+      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "published": "2026-09-02T23:00:00+00:00",
+      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has b"
+    },
+    {
+      "id": "9182556efa30",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "published": "2026-09-02T22:44:56+00:00",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
+    },
+    {
+      "id": "6f6b9654e176",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published": "2026-09-02T22:24:09+00:00",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+    },
+    {
+      "id": "8d38f44e7199",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월2일] 캐시 가격 75% 내렸는데 비용은 20% 올랐다…페이블 5.1의 ‘토큰 역설’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214733",
+      "published": "2026-09-02T22:00:00+00:00",
+      "summary": "앤트로픽이 1일(현지시간) 출시한 ‘클로드 페이블 5.1’은 아티피셜 애널리시스 종합 지능 지수(AAII)에서 66점을 기록하며 역대 최고 성능에 올랐습니다. 특히 그동안 타사에 비해 비싸다는 평가를 받던 캐시 읽기 가격을 75% 낮춰 눈길을 끌었습니다.그런데 가격 구조를 들여다보면 흥미로운 점이 나타납니다. 캐시 읽기 가격을 75%나 낮췄지만, 실제 작업당 비용은 이전 모델보다 오히려 20% 높아졌습니다.페이블 5.1은 최대 노력(Max) 설정에서 AAII 66점을 기록해 페이블 5(62점), "
+    },
+    {
+      "id": "95ddf931eba0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, '뮤즈 스파크 1.3' 출시...오픈AI 제치고 세계 3위 성능",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214774",
+      "published": "2026-09-02T21:45:34+00:00",
+      "summary": "메타가 에이전트 워크플로우와 코딩 성능을 대폭 강화한 '뮤즈 스파크 1.3(Muse Spark 1.3)'을 공개했다. 이 모델은 아티피셜 애널리시스(Artificial Analysis)의 종합 지능 지수 평가에서 오픈AI의 대표 모델들을 제치고 세계 3위에 올라서며 주목받고 있다.메타는 2일(현지시간) 플래그십 모델 뮤즈 스파크 1.3을 발표하고, '뮤즈 코드(Muse Code)' 및 메타 모델 API에 배포했다고 밝혔다. 뮤즈 스파크는 지난 4월 8일 첫 선을 보인 이후 5개월 동안 4번째 버전"
+    },
+    {
+      "id": "920a63971c35",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "published": "2026-09-02T21:38:34+00:00",
+      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors."
+    },
     {
       "id": "3c1b5c0cd028",
       "source": "GitHub Blog",
@@ -12,6 +78,17 @@
       "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
       "published": "2026-09-02T21:00:00+00:00",
       "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "0cb4502aa55f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+      "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+      "published": "2026-09-02T21:00:00+00:00",
+      "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage."
     },
     {
       "id": "3d9d8ba2151b",
@@ -133,6 +210,17 @@
       "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
       "published": "2026-09-02T17:18:13+00:00",
       "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to fig"
+    },
+    {
+      "id": "1bad5506ecd1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "헬피 AI, 존 레고를 최고 재무 책임자로 선임",
+      "link": "https://zdnet.co.kr/view/?no=20260903021002",
+      "published": "2026-09-02T17:10:02+00:00",
+      "summary": "[지디넷코리아] 6개 상장 및 비상장 기업에서 100억 달러가 넘는 자금을 조달한 베테랑 최고 재무 책임자, 헬피 AI의 재무 전략을 주도할 예정 멜버른, 호주, 2026년 9월 3일 /PRNewswire/ -- 모바일을 통해 모두를 위한 맞춤형 검진을 제공함으로써 전 세계 헬스케어를 혁신하는 AI 기반 예방 네트워크인 헬피 AI(Helfie AI, 이하 '헬피')가 9월 2일, 존 레고(John Rego)를 최고 재무 책임자로 선임했다고 발표했다. 존은 다양한 고성장 기술 및 통신 기업에서 25"
     },
     {
       "id": "a111c5055528",
