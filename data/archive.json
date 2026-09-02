@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T23:20:32.717133+00:00",
-  "count": 11570,
+  "updated_at": "2026-09-02T01:12:04.752157+00:00",
+  "count": 11574,
   "items": [
     {
       "id": "353a39695610",
@@ -12,6 +12,17 @@
       "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
       "published": "2026-09-01T23:01:00+00:00",
       "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model."
+    },
+    {
+      "id": "46903908d3b1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "published": "2026-09-01T22:50:29+00:00",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge fi"
     },
     {
       "id": "3883d0a8e6e1",
@@ -102,6 +113,17 @@
       "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
     },
     {
+      "id": "bba18ffad100",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "2026-09-01T21:06:24+00:00",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
       "id": "c7766bb912f1",
       "source": "TechCrunch",
       "kind": "article",
@@ -122,6 +144,28 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
       "published": "2026-09-01T20:45:49+00:00",
       "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model "
+    },
+    {
+      "id": "3b3ab29a440f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hang on to Your Firefox",
+      "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "published": "2026-09-01T20:30:51+00:00",
+      "summary": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox Comments URL: https://news.ycombinator.com/item?id=49527748 Points: 405 # Comments: 219"
+    },
+    {
+      "id": "0186d442b2ae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "published": "2026-09-01T20:07:57+00:00",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 232 # Comments: 115"
     },
     {
       "id": "0e70dbdd2e66",
