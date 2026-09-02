@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-02T18:03:47.704262+00:00",
-  "count": 11681,
+  "updated_at": "2026-09-02T21:01:59.747921+00:00",
+  "count": 11693,
   "items": [
+    {
+      "id": "3c1b5c0cd028",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "published": "2026-09-02T21:00:00+00:00",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "3d9d8ba2151b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "published": "2026-09-02T20:19:14+00:00",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+    },
+    {
+      "id": "ac3b089508b5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "published": "2026-09-02T20:12:41+00:00",
+      "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days."
+    },
+    {
+      "id": "33cfc4726c6e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "published": "2026-09-02T20:11:40+00:00",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3."
+    },
+    {
+      "id": "3edb5a0114db",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The most interesting hack in history just got weirder...",
+      "link": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
+      "published": "2026-09-02T19:01:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "86e0b0382496",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "published": "2026-09-02T18:41:02+00:00",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use."
+    },
+    {
+      "id": "2cf50bfd4848",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "published": "2026-09-02T18:20:00+00:00",
+      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models."
+    },
+    {
+      "id": "3d27fb45c6d7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "published": "2026-09-02T18:13:54+00:00",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today."
+    },
     {
       "id": "22e9cec2a010",
       "source": "GitHub Blog",
@@ -12,6 +100,17 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
       "published": "2026-09-02T18:00:00+00:00",
       "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "39719ec5de27",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "published": "2026-09-02T17:58:33+00:00",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says."
     },
     {
       "id": "b37649d151cb",
@@ -267,6 +366,17 @@
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate res"
     },
     {
+      "id": "1ebfbfcae0af",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "published": "2026-09-02T13:59:59+00:00",
+      "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 252 # Comments: 118"
+    },
+    {
       "id": "e27841417439",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -298,6 +408,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260902221926",
       "published": "2026-09-02T13:19:26+00:00",
       "summary": "[지디넷코리아]정보보안 및 인공지능(AI) 기술 전문기업 마크애니가 태국 방콕 퀸 시리킷 국립 컨벤션 센터(QSNCC)에서 열린 ‘테크소스 글로벌 서밋 2026(Techsauce Global Summit 2026)’ 어워즈에서 기술 부문 혁신상을 수상했다.'테크소스 어워즈 2026'은 기술과 혁신을 통해 비즈니스와 산업, 사회를 발전시킨 전 세계 기업과 개인을 선정해 시상하는 행사다. 올해는 ‘넥스트를 향한 경주(The Race to The Next)’라는 주제 아래, 단순히 변화에 적응하는 것을"
+    },
+    {
+      "id": "524609459b97",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A note on subscription prices from LWN",
+      "link": "https://lwn.net/Articles/1090585/",
+      "published": "2026-09-02T13:17:12+00:00",
+      "summary": "Article URL: https://lwn.net/Articles/1090585/ Comments URL: https://news.ycombinator.com/item?id=49535752 Points: 650 # Comments: 128"
     },
     {
       "id": "8c43a1822f30",
@@ -353,6 +474,17 @@
       "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "published": "2026-09-02T12:30:39+00:00",
       "summary": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 256 # Comments: 118"
+    },
+    {
+      "id": "49271400cf69",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Can I opt out of my input or output data being used for training?",
+      "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "published": "2026-09-02T12:30:39+00:00",
+      "summary": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 325 # Comments: 138"
     },
     {
       "id": "ea8aa9840ddd",
