@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-03T21:12:17.992757+00:00",
-  "count": 11828,
+  "updated_at": "2026-09-03T23:17:11.601572+00:00",
+  "count": 11835,
   "items": [
+    {
+      "id": "355105727830",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월3일] 앤트로픽 “결과만 평가하면 AI가 통제 우회”…보상 해킹의 위험성 실험",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214783",
+      "published": "2026-09-03T22:00:00+00:00",
+      "summary": "최근 AI 에이전트의 사이버 보안 평가에서 모델이 주어진 범위를 넘어서는 사례가 잇따르고 있습니다. 지난 7월에는 오픈AI 모델이 내부 연구 환경과 허깅페이스 시스템에 접근했고, 앤트로픽도 사이버 보안 평가 과정에서 클로드가 실제 컴퓨터 시스템에 접근하는 사례를 확인했습니다. 8월에는 영국 AI안전연구소(AISI)의 평가에서도 클로드가 인터넷을 통해 승인되지 않은 행동을 한 사례가 공개됐습니다.다만 이 사례들은 일반적인 서비스 환경에서 발생한 것은 아닙니다. 대부분 사이버 능력을 확인하기 위해 안"
+    },
+    {
+      "id": "dde97b9df229",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "published": "2026-09-03T21:56:21+00:00",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky."
+    },
+    {
+      "id": "e179ce642ecf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "published": "2026-09-03T21:48:24+00:00",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents"
+    },
+    {
+      "id": "10c8169f7668",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서울 게임·e스포츠 축제 'GES 2026', 오는 18일 DDP서 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260904010301",
+      "published": "2026-09-03T21:00:04+00:00",
+      "summary": "[지디넷코리아]서울 대표 게임·e스포츠 축제 'GES 2026'이 오는 18일부터 사흘간 동대문디자인플라자(DDP)에서 펼쳐진다.서울특별시와 서울경제진흥원(SBA)은 오는 18일부터 20일까지 DDP에서 '게임·e스포츠 서울 2026(GES 2026)'을 개최한다고 4일 밝혔다.이번 행사는 게임·e스포츠 기업 70개사가 참여하며, 온·오프라인 관람객 20만 명 유치를 목표로 잡았다. 관람 시간은 매일 오전 10시부터 오후 6시까지다. 앞서 GES는 2024년 경희대학교에서 약 4만 3000명, 2"
+    },
     {
       "id": "46c4175e76d3",
       "source": "TechCrunch",
@@ -36,12 +80,34 @@
       "summary": "오픈AI가 사전 학습과 강화 학습, 정렬 분야의 기술력을 집약한 차세대 플래그십 모델 'GPT-6 아스트라(Astra)'를 공개했다. 단순한 지능 향상을 넘어 컴퓨터 제어, 브라우징, 소프트웨어 엔지니어링, 사이버 보안, 과학 연구 등 전문 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 본격적인 진입을 알렸다는 평이다. 그렉 브록먼 오픈AI 사장은 3일(현지시간) GPT-6 아스트라를 출시하며 \"AGI 시대에 오신 것을 환영합니다(Welcome to the AGI era)\"라는 메시지를"
     },
     {
+      "id": "c9ba358ea44f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214821",
+      "published": "2026-09-03T20:36:23+00:00",
+      "summary": "오픈AI가 사전 학습과 강화 학습, 정렬 분야의 기술력을 집약한 차세대 플래그십 모델 'GPT-6 아스트라(Astra)'를 공개했다. 단순한 지능 향상을 넘어 컴퓨터 제어, 브라우징, 소프트웨어 엔지니어링, 사이버 보안, 과학 연구 등 전문 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 본격적인 진입을 알렸다고 선언했다. 그렉 브록먼 오픈AI 사장은 3일(현지시간) GPT-6 아스트라를 출시하며 \"AGI 시대에 오신 것을 환영한다(Welcome to the AGI era)\"라는 메시지를"
+    },
+    {
       "id": "24b9fc54a1ae",
       "source": "Ars Technica",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "US senator calls on the NSA to give guidance for use of VPNs",
+      "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "published": "2026-09-03T19:52:06+00:00",
+      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying."
+    },
+    {
+      "id": "b7d82bb07a2c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
       "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
       "published": "2026-09-03T19:52:06+00:00",
       "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying."
@@ -1321,6 +1387,17 @@
       "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "published": "2026-09-02T22:24:09+00:00",
       "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+    },
+    {
+      "id": "fc49e1b9cee0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "VC isn't VC anymore",
+      "link": "https://www.anildash.com/2026/09/02/cancer-capital/",
+      "published": "2026-09-02T22:05:39+00:00",
+      "summary": "Article URL: https://www.anildash.com/2026/09/02/cancer-capital/ Comments URL: https://news.ycombinator.com/item?id=49543220 Points: 201 # Comments: 171"
     },
     {
       "id": "8d38f44e7199",
