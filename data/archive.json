@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-09-03T15:00:01.435666+00:00",
-  "count": 11789,
+  "updated_at": "2026-09-03T18:26:29.517449+00:00",
+  "count": 11815,
   "items": [
+    {
+      "id": "913c51fb3a92",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "published": "2026-09-03T18:19:56+00:00",
+      "summary": "Most AI tools allow you to opt-out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount avera"
+    },
+    {
+      "id": "ec84344368fe",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "published": "2026-09-03T18:06:24+00:00",
+      "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development."
+    },
+    {
+      "id": "96a24b095632",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "published": "2026-09-03T18:01:45+00:00",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+    },
+    {
+      "id": "8b7e4113b6e6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "published": "2026-09-03T18:00:00+00:00",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as "
+    },
+    {
+      "id": "8776159cad72",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+      "published": "2026-09-03T17:00:00+00:00",
+      "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be l"
+    },
+    {
+      "id": "8c3575e30f20",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+      "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "published": "2026-09-03T17:00:00+00:00",
+      "summary": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough t"
+    },
+    {
+      "id": "e6a1eaaf7566",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "published": "2026-09-03T16:42:40+00:00",
+      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup."
+    },
+    {
+      "id": "d1ddbf1c6a05",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "published": "2026-09-03T16:09:01+00:00",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
+    },
+    {
+      "id": "c7bc634d798e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Users can search for emails or draft documents using the new conversational feature."
+    },
+    {
+      "id": "2f59426e2115",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
+      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking feature"
+    },
+    {
+      "id": "c28d6246b566",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lenovo’s new MacBook Neo competitor comes in two sizes and seven colors",
+      "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out in October and November, respectively. In"
+    },
+    {
+      "id": "ed36c8a0ef67",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+      "link": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in"
+    },
+    {
+      "id": "3afdd2153c64",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+      "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management."
+    },
+    {
+      "id": "d3068ef53ce7",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "published": "2026-09-03T16:00:00+00:00",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "797f18579943",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published": "2026-09-03T15:02:08+00:00",
+      "summary": ""
+    },
+    {
+      "id": "104ec9f727db",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "published": "2026-09-03T15:00:00+00:00",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini."
+    },
+    {
+      "id": "10214e1f0d0f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": ".name Termination",
+      "link": "https://neil.fraser.name/news/2026/09/03/",
+      "published": "2026-09-03T14:54:39+00:00",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 685 # Comments: 170"
+    },
+    {
+      "id": "b9c12ebfb0e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KTL, ‘공공데이터 활용 아이디어 공모전’ 대상에 아이에스엔·우분투넥서스",
+      "link": "https://zdnet.co.kr/view/?no=20260903231126",
+      "published": "2026-09-03T14:11:26+00:00",
+      "summary": "[지디넷코리아]산업통상자원부와 한국산업기술시험원(KTL) 등 20개 산하기관이 주관한 ‘제14회 산업통상부 공공데이터 활용 아이디어 공모전’에서 아이에스엔의 ’EXROAD‘가 대상을 차지했다.올해 아이디어 공모전에는 지난해 282건 보다 83% 증가한 총 517건이 접수돼 역대 최대를 기록했다. 특히 공공데이터와 인공지능(AI)을 활용해 수출·에너지·공급망 등 산업 현안을 해결하는 아이디어와 서비스가 다수 제안됐다.심사를 거쳐 총 10개 팀이 수상작으로 선정됐다. 아이디어 기획 부문 대상(산업통상"
+    },
+    {
+      "id": "ee37ef979b93",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "젠듀어, IFA 2026에서 에이전틱 HEMS 공개... 'AI 시대의 홈 에너지 허브'",
+      "link": "https://zdnet.co.kr/view/?no=20260903231003",
+      "published": "2026-09-03T14:10:03+00:00",
+      "summary": "[지디넷코리아] 젠듀어, 독자적인 젠펄스(ZenPulse) 예측 모델, 젠키™(ZENKI™) AI 에이전트 및 오픈 젠+OS(Zen+OS) 플랫폼을 기반으로 홈 에너지를 단순한 AI 스케줄링을 넘어 스스로 예측하고 계획하며 실행할 수 있는 시스템 수준의 지능으로 발전시켜 베를린, 2026년 9월 3일 /PRNewswire/ -- 플러그인 홈 에너지 관리 시스템(Home Energy Management System, HEMS) 분야의 글로벌 선구기업 젠듀어(Zendure)가 9월 3일, IFA 20"
+    },
+    {
+      "id": "347dc1cd7652",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "link": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "published": "2026-09-03T13:51:44+00:00",
+      "summary": "Article URL: https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/ Comments URL: https://news.ycombinator.com/item?id=49549919 Points: 208 # Comments: 146"
+    },
+    {
+      "id": "806a9b765dec",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "published": "2026-09-03T13:34:13+00:00",
+      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub."
+    },
     {
       "id": "8cea49588053",
       "source": "Wired",
@@ -67,6 +298,17 @@
       "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
       "published": "2026-09-03T12:12:06+00:00",
       "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI de"
+    },
+    {
+      "id": "aec5c4981b96",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia to acquire Hugging Face",
+      "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "published": "2026-09-03T12:10:33+00:00",
+      "summary": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face... Comments URL: https://news.ycombinator.com/item?id=49548952 Points: 254 # Comments: 78"
     },
     {
       "id": "fe42040e7e5e",
@@ -223,6 +465,17 @@
       "summary": "오픈AI가 차세대 AI 모델의 성능을 높이기 위해 기존의 모델 확장 방식에서 벗어난 새로운 추론 기술을 꺼내 들었다. 같은 신경망을 반복적으로 활용해 작은 규모의 모델로도 더 깊은 사고와 복잡한 작업 수행을 가능하게 하는 방식이다. 하지만 AI가 인간에게 보여주지 않는 내부 계산이 늘어날수록 모델의 행동을 감시하고 위험 신호를 포착하는 일은 더욱 어려워질 수 있어, 성능 향상 이면의 새로운 안전성 문제가 부상하고 있다. 2일(현지시간) 디 인포메이션에 따르면, 오픈AI가 차세대 AI 모델 ‘아스트"
     },
     {
+      "id": "e96bfcf2dd5b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '아스트라'에 차세대 '순환 추론' 적용으로 성능 대폭 향상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214782",
+      "published": "2026-09-03T09:09:14+00:00",
+      "summary": "오픈AI가 차세대 AI 모델의 성능을 높이기 위해 기존의 모델 확장 방식에서 벗어난 새로운 추론 기술을 꺼내 들었다. 같은 신경망을 반복적으로 활용해 작은 규모의 모델로도 더 깊은 사고와 복잡한 작업 수행을 가능하게 하는 방식이다. 하지만 AI가 인간에게 보여주지 않는 내부 계산이 늘어날수록 모델의 행동을 감시하고 위험 신호를 포착하는 일은 더욱 어려워질 수 있어, 성능 향상 이면의 새로운 안전성 문제가 부상하고 있다. 2일(현지시간) 디 인포메이션에 따르면, 오픈AI가 차세대 AI 모델 ‘아스트"
+    },
+    {
       "id": "c02b03b8d210",
       "source": "조코딩",
       "kind": "youtube",
@@ -267,6 +520,17 @@
       "summary": "영상 생성 AI가 단순히 주어진 프롬프트에 따라 영상을 만드는 단계를 넘어 사용자의 조작에 실시간으로 반응하는 ‘인터랙티브 월드 모델’로 진화하고 있다. 게임처럼 키보드를 조작하면 AI가 캐릭터의 이동과 카메라 시점을 이해하고 그에 맞는 영상을 생성하는 방식이다. 텐센트와 싱가포르 국립대학교(NUS), 홍콩공과대학교(PolyU) 공동 연구진은 1일(현지시간) 키보드 입력을 실제 캐릭터와 카메라의 움직임이 반영된 영상으로 변환하는 액션 제어형 월드 모델 ‘H3-월드(H3-World)’를 온라인 아카"
     },
     {
+      "id": "dd91437531f6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"WASD 누르면 영상 생성\"... 텐센트, 인터랙티브 월드모델 'H3-월드' 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214800",
+      "published": "2026-09-03T08:54:47+00:00",
+      "summary": "영상 생성 AI가 단순히 주어진 프롬프트에 따라 영상을 만드는 단계를 넘어 사용자의 조작에 실시간으로 반응하는 ‘인터랙티브 월드 모델’로 진화하고 있다. 게임처럼 키보드를 조작하면 AI가 캐릭터의 이동과 카메라 시점을 이해하고 그에 맞는 영상을 생성하는 방식이다. 텐센트와 싱가포르 국립대학교(NUS), 홍콩공과대학교(PolyU) 공동 연구진은 1일(현지시간) 키보드 입력을 실제 캐릭터와 카메라의 움직임이 반영된 영상으로 변환하는 액션 제어형 월드 모델 ‘H3-월드(H3-World)’를 온라인 아카"
+    },
+    {
       "id": "3ae07ed2c807",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -306,6 +570,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "AI '기억 저장 순서' 바꿨더니 성능 향상...고속 가중치 어텐션 프레임워크 '팰컨' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214807",
+      "published": "2026-09-03T08:30:05+00:00",
+      "summary": "대형언어모델(LLM)이 학습을 끝낸 뒤에도 새로운 정보를 처리하는 과정에서 내부 기억을 계속 갱신하도록 만드는 ‘지속학습(continual learning)’ 연구가 속도를 내고 있다. 바이트댄스와 프린스턴대학교, 칭화대학교, UCLA, 하이퍼볼릭 랩스 공동 연구진은 최근 순환형 AI 모델이 새로운 정보를 기억하고 업데이트하는 과정에서 발생하는 문제를 분석하고 이를 개선한 ‘고속 가중치 어텐션(Fast Weight Attention)’ 프레임워크 ‘팰컨(Falcon)’을 온라인 아카이브를 통해 공"
+    },
+    {
+      "id": "8d3847efd866",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'기억 저장 순서' 바꿔 성능 향상...고속 어텐션 프레임워크 '팰컨' 등장",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214807",
       "published": "2026-09-03T08:30:05+00:00",
       "summary": "대형언어모델(LLM)이 학습을 끝낸 뒤에도 새로운 정보를 처리하는 과정에서 내부 기억을 계속 갱신하도록 만드는 ‘지속학습(continual learning)’ 연구가 속도를 내고 있다. 바이트댄스와 프린스턴대학교, 칭화대학교, UCLA, 하이퍼볼릭 랩스 공동 연구진은 최근 순환형 AI 모델이 새로운 정보를 기억하고 업데이트하는 과정에서 발생하는 문제를 분석하고 이를 개선한 ‘고속 가중치 어텐션(Fast Weight Attention)’ 프레임워크 ‘팰컨(Falcon)’을 온라인 아카이브를 통해 공"
@@ -2883,6 +3158,17 @@
       "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "published": "2026-09-01T14:00:15+00:00",
       "summary": "Article URL: https://kciter.so/posts/the-expensive-main-thread/en/ Comments URL: https://news.ycombinator.com/item?id=49522137 Points: 249 # Comments: 80"
+    },
+    {
+      "id": "7d42aabf8abb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The browser's main thread is expensive",
+      "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "published": "2026-09-01T14:00:15+00:00",
+      "summary": "Article URL: https://kciter.so/posts/the-expensive-main-thread/en/ Comments URL: https://news.ycombinator.com/item?id=49522137 Points: 323 # Comments: 104"
     },
     {
       "id": "0ca0c88c6580",
