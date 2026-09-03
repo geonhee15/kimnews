@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-09-03T18:26:29.517449+00:00",
-  "count": 11815,
+  "updated_at": "2026-09-03T21:12:17.992757+00:00",
+  "count": 11828,
   "items": [
+    {
+      "id": "46c4175e76d3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "published": "2026-09-03T20:59:23+00:00",
+      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate."
+    },
+    {
+      "id": "d9de8732310b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series",
+      "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+      "published": "2026-09-03T20:48:05+00:00",
+      "summary": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earli"
+    },
+    {
+      "id": "8b1eb15892b1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입 환영\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214821",
+      "published": "2026-09-03T20:36:23+00:00",
+      "summary": "오픈AI가 사전 학습과 강화 학습, 정렬 분야의 기술력을 집약한 차세대 플래그십 모델 'GPT-6 아스트라(Astra)'를 공개했다. 단순한 지능 향상을 넘어 컴퓨터 제어, 브라우징, 소프트웨어 엔지니어링, 사이버 보안, 과학 연구 등 전문 실무 전반에서 프론티어급 성능을 입증하며 AGI 시대로의 본격적인 진입을 알렸다는 평이다. 그렉 브록먼 오픈AI 사장은 3일(현지시간) GPT-6 아스트라를 출시하며 \"AGI 시대에 오신 것을 환영합니다(Welcome to the AGI era)\"라는 메시지를"
+    },
+    {
+      "id": "24b9fc54a1ae",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US senator calls on the NSA to give guidance for use of VPNs",
+      "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "published": "2026-09-03T19:52:06+00:00",
+      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying."
+    },
+    {
+      "id": "af234d1c6ace",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "published": "2026-09-03T19:29:16+00:00",
+      "summary": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups."
+    },
+    {
+      "id": "20c79eafb9b1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "published": "2026-09-03T18:37:57+00:00",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    },
+    {
+      "id": "5563b4115088",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "link": "https://inference-docs.cerebras.ai/models/overview",
+      "published": "2026-09-03T18:32:13+00:00",
+      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 297 # Comments: 97"
+    },
     {
       "id": "913c51fb3a92",
       "source": "TechCrunch",
@@ -12,6 +89,17 @@
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "published": "2026-09-03T18:19:56+00:00",
       "summary": "Most AI tools allow you to opt-out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount avera"
+    },
+    {
+      "id": "2c859200516f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Four major AI models suffer rare overlapping downtime",
+      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+      "published": "2026-09-03T18:10:19+00:00",
+      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously."
     },
     {
       "id": "ec84344368fe",
@@ -157,6 +245,39 @@
       "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog ."
     },
     {
+      "id": "4ef9b72ae05c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "link": "https://ifm.ai/blog/k2/",
+      "published": "2026-09-03T15:36:43+00:00",
+      "summary": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 205 # Comments: 70"
+    },
+    {
+      "id": "4c9b6a319780",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "VT 마켓, 글로벌 성장 전략 가속화를 위해 로스 맥스웰을 최고 전략 책임자로 선임",
+      "link": "https://zdnet.co.kr/view/?no=20260904001013",
+      "published": "2026-09-03T15:10:13+00:00",
+      "summary": "[지디넷코리아]시드니, 2026년 9월 3일 /PRNewswire/ -- 멀티에셋 브로커 선도기업 VT 마켓(VT Markets)이 9월 3일, 로스 맥스웰(Ross Maxwell)을 최고 전략 책임자로 선임했다고 발표했다. 로스는 플랫폼 개발, 글로벌 사업 성장, 기업 거버넌스 전반에서 회사의 장기 전략을 이끌며, 멀티에셋 혁신을 진화하는 트레이더들의 필요에 맞춰 조율할 예정이다. VT Markets Appoints Ross Maxwell as Chief Strategy Officer to Ac"
+    },
+    {
+      "id": "ccda3155645b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에피백스, 면역원성 예측을 위한 AI 강화 모델 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260904001002",
+      "published": "2026-09-03T15:10:02+00:00",
+      "summary": "[지디넷코리아] 프로비던스, 로드아일랜드, 2026년 9월 3일 /PRNewswire/ -- 에피백스(EpiVax, Inc.)가 바이오 치료제의 면역원성 위험을 평가하는 자사의 독자적인 시뮬레이션 플랫폼 ISPRI™에 대한 AI 기반 개선 사항의 출시를 발표했다. 이번 출시는 업데이트된 야누스매트릭스™(JanusMatrix™) 모델, 정제된 내성 조정 면역원성 점수 및 면역원성 위험에 대한 더 깊은 인사이트를 제공하도록 설계된 강화된 항약물항체(anti-drug antibody, ADA) 예측 모"
+    },
+    {
       "id": "797f18579943",
       "source": "Google DeepMind",
       "kind": "article",
@@ -188,6 +309,28 @@
       "link": "https://neil.fraser.name/news/2026/09/03/",
       "published": "2026-09-03T14:54:39+00:00",
       "summary": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 685 # Comments: 170"
+    },
+    {
+      "id": "f6b23744debc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "link": "https://anyhumanever.com/",
+      "published": "2026-09-03T14:51:10+00:00",
+      "summary": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 345 # Comments: 158"
+    },
+    {
+      "id": "8a1412bd4168",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "남부발전, 대미 투자수익 ‘1억 덜로 국내 회수’ 시행",
+      "link": "https://zdnet.co.kr/view/?no=20260903233544",
+      "published": "2026-09-03T14:35:44+00:00",
+      "summary": "[지디넷코리아]한국남부발전(사장 김준동)는 미국 진출 1호 발전사업인 나일스 복합화력의 안정적 운영 수익 등으로 창출된 ‘1억 달러(약 1418억원)’를 국내로 회수했다고 3일 밝혔다.이번 회수의 주요 재원은 1085MW 규모 미국 미시간주 나일스 가스복합발전사업의 성공적인 리파이낸싱과 2022년 상업운전 이후 누적된 안정적인 운영 수익을 바탕으로 마련됐다.회수 결정은 지난 6월 고환율로 인해 국가적인 어려움을 겪던 시기에 1억 달러 국내 회수를 결정하고, 지난 8월 미국법인 KOSPO 아메리카의"
     },
     {
       "id": "b9c12ebfb0e2",
