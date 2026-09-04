@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-09-04T14:27:39.466180+00:00",
-  "count": 11918,
+  "updated_at": "2026-09-04T17:42:21.103249+00:00",
+  "count": 11933,
   "items": [
+    {
+      "id": "e41433766fd4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What will Apple’s John Ternus era look like?",
+      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "published": "2026-09-04T17:18:00+00:00",
+      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Coo"
+    },
+    {
+      "id": "1d049ed8c9c5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AGI is whatever you want it to be",
+      "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "published": "2026-09-04T17:16:49+00:00",
+      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and N"
+    },
+    {
+      "id": "ba1e1d10e2bb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+      "published": "2026-09-04T16:51:23+00:00",
+      "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis."
+    },
+    {
+      "id": "cd033e3e0282",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "published": "2026-09-04T16:22:18+00:00",
+      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose."
+    },
+    {
+      "id": "ef2ca070e62c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "published": "2026-09-04T16:21:11+00:00",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
+    },
+    {
+      "id": "08ac699191ac",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "published": "2026-09-04T16:05:57+00:00",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book a"
+    },
+    {
+      "id": "9bcb5f49381c",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "published": "2026-09-04T16:04:14+00:00",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-mo"
+    },
+    {
+      "id": "4c5b8d86a3c8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+      "published": "2026-09-04T15:00:00+00:00",
+      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own."
+    },
+    {
+      "id": "598049f1a683",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
+      "link": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+      "published": "2026-09-04T14:55:40+00:00",
+      "summary": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot customers (with code WOOTALIEN used at checkout). "
+    },
+    {
+      "id": "104563077f48",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What to expect at Apple’s September 9th launch event",
+      "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+      "published": "2026-09-04T14:52:00+00:00",
+      "summary": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long"
+    },
+    {
+      "id": "854cb4d20b1a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "published": "2026-09-04T14:47:11+00:00",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
+    },
     {
       "id": "7992b715e6d5",
       "source": "The Verge",
@@ -14,12 +135,34 @@
       "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding "
     },
     {
+      "id": "ede49f4d2bcd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "published": "2026-09-04T13:34:12+00:00",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding "
+    },
+    {
       "id": "1b04f1ba05a8",
       "source": "The Verge",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Tesla Cybercab is barely real and it’s already under investigation",
+      "link": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
+      "published": "2026-09-04T13:33:38+00:00",
+      "summary": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit que"
+    },
+    {
+      "id": "2a8e243f17bd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
       "link": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
       "published": "2026-09-04T13:33:38+00:00",
       "summary": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit que"
@@ -111,6 +254,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
       "published": "2026-09-04T12:00:00+00:00",
       "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to"
+    },
+    {
+      "id": "4cc0b82c9fb6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "published": "2026-09-04T11:59:15+00:00",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 297 # Comments: 54"
     },
     {
       "id": "3b9644d5af57",
@@ -221,6 +375,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260904180354",
       "published": "2026-09-04T10:23:09+00:00",
       "summary": "[지디넷코리아]SKC의 유리기판 사업 자회사 앱솔릭스가 4000억원 규모 유상증자에 나선다. 차세대 반도체 패키징 사업 상용화 준비에 속도를 내기 위한 준비다.SKC는 21일 앱솔릭스가 유리기판 상업화에 필요한 재원 확보를 위해 주주배정 유상증자를 결정했다고 공시했다.앱솔릭스는 확보한 자금을 유리기판 평가와 고객사 인증에 집중 투입할 계획이다. 이와 함께 전체 생산 공정 수율 개선과 품질 향상을 위한 일부 설비 및 장비 업그레이드도 추진할 예정이다. 이를 기반으로 앱솔릭스는 '임베딩(Embeddi"
+    },
+    {
+      "id": "691f27994522",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "published": "2026-09-04T10:17:01+00:00",
+      "summary": "Article URL: https://jestoph.com/2026/09/04/jane-street-challenge.html Comments URL: https://news.ycombinator.com/item?id=49562657 Points: 290 # Comments: 73"
     },
     {
       "id": "0d26fe2d4ed0",
