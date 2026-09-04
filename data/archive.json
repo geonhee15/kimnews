@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-04T19:53:04.886073+00:00",
-  "count": 11937,
+  "updated_at": "2026-09-04T22:02:01.418285+00:00",
+  "count": 11951,
   "items": [
+    {
+      "id": "6c7042854be5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "published": "2026-09-04T21:12:11+00:00",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+    },
+    {
+      "id": "d7fc4b8212f6",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+      "link": "https://www.youtube.com/watch?v=FluKUJyeYD8",
+      "published": "2026-09-04T20:14:12+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d52d7f6328ea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The White House is making arcade games racist",
+      "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+      "published": "2026-09-04T19:42:54+00:00",
+      "summary": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded "
+    },
+    {
+      "id": "67309cf423eb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "published": "2026-09-04T18:42:56+00:00",
+      "summary": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 335 # Comments: 214"
+    },
     {
       "id": "6f485fbc2f01",
       "source": "MIT Tech Review",
@@ -23,6 +67,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "published": "2026-09-04T17:51:35+00:00",
       "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collec"
+    },
+    {
+      "id": "f3efe9e2904c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "PSK, 램리서치 특허 1건 추가 무효화...침해소송서 취하된 특허",
+      "link": "https://zdnet.co.kr/view/?no=20260905023133",
+      "published": "2026-09-04T17:40:05+00:00",
+      "summary": "[지디넷코리아]PSK(피에스케이)가 램리서치의 베벨 에처 특허 1건에 대해 추가로 무효 판단을 받았다. 해당 특허는 지난 8월 특허침해소송 변론기일에서 램리서치가 침해 주장을 철회한 특허다. 전체 분쟁에 미칠 영향은 미미하다. 베벨 에처는 웨이퍼 가장자리(베벨)에 형성된 불필요한 박막을 제거하는 장비다. PSK가 지난 2021년 베벨 에처를 개발해 SK하이닉스에 공급했다고 밝히자, 램리서치는 PSK를 상대로 특허침해소송을 제기했다. PSK는 무효분쟁으로 대응했다. 5일 업계에 따르면 특허심판원은 "
     },
     {
       "id": "57147e06efe6",
@@ -80,6 +135,17 @@
       "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis."
     },
     {
+      "id": "0cd96135d619",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "published": "2026-09-04T16:46:59+00:00",
+      "summary": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 266 # Comments: 149"
+    },
+    {
       "id": "cd033e3e0282",
       "source": "Ars Technica",
       "kind": "article",
@@ -122,6 +188,17 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
       "published": "2026-09-04T16:04:14+00:00",
       "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-mo"
+    },
+    {
+      "id": "6da4d11f2f4a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "2026 Yidan Prize, 건강, 영양, 경제의 교차점에서 교육과 돌봄을 재정의하는 변화의 주역들을 인정",
+      "link": "https://zdnet.co.kr/view/?no=20260905001003",
+      "published": "2026-09-04T15:10:03+00:00",
+      "summary": "[지디넷코리아] 홍콩, 2026년 9월 4일 /PRNewswire/ -- 글로벌 자선단체 Yidan Prize 재단(Yidan Prize Foundation)이 9월 2일, 홍콩에서 열린 기자회견에서 2026 Yidan Prize 수상자를 발표하며 전 세계 교육 분야 속 변화의 주역들을 지원해 온 10주년을 맞이했다. OECD 교육 및 기술 부문의 안드레아스 슐라이허(Andreas Schleicher) 국장이 위원장을 맡은 독립 심사 위원회는 폴 W. 글류(Paul W. Glewwe) 교수를 20"
     },
     {
       "id": "4c5b8d86a3c8",
@@ -542,12 +619,34 @@
       "summary": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전트를 구현할 수 있는 기본 예시 코드(참조 구현)와 청사진을 공개했다.개발자는 이를 기반으로 자사의 상품 카탈로그와 장바구니, 주문, 정책 및 "
     },
     {
+      "id": "d52a1621d7ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, e커머스 시장 도전...'클로드 상거래 에이전트' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214851",
+      "published": "2026-09-04T07:35:00+00:00",
+      "summary": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전트를 구현할 수 있는 기본 예시 코드(참조 구현)와 청사진을 공개했다.개발자는 이를 기반으로 자사의 상품 카탈로그와 장바구니, 주문, 정책 및 "
+    },
+    {
       "id": "befc74a2f38a",
       "source": "AI타임스",
       "kind": "article",
       "category": "AI",
       "lang": "ko",
       "title": "구글, 워크스페이스에 ‘제미나이 오디오’ 탑재...음성으로 문서·메일·메모 처리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214866",
+      "published": "2026-09-04T07:29:44+00:00",
+      "summary": "구글이 AI음성 비서 기능을 업무 수행 영역으로 확장하고 있다. 지메일과 구글 독스, 구글 킵에서도 사용자가 키보드를 사용하지 않고도 이메일을 검색하고 문서를 작성하며 아이디어를 정리할 수 있도록 했다.구글은 3일(현지시간) 제미나이 오디오(Gemini Audio) 모델을 기반으로 한 ‘지메일 라이브(Gmail Live)’ ‘독스 라이브(Docs Live)’ ‘킵 라이브(Keep Live)’ 기능을 공식 출시한다고 밝혔다.지난 5월 열린 I/O에서 처음 공개된 것으로, 이번 주부터 사용자에게 차례"
+    },
+    {
+      "id": "c9ef025a13f1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 워크스페이스에 ‘제미나이 오디오’ 탑재...말로 문서·메일·메모 처리",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214866",
       "published": "2026-09-04T07:29:44+00:00",
       "summary": "구글이 AI음성 비서 기능을 업무 수행 영역으로 확장하고 있다. 지메일과 구글 독스, 구글 킵에서도 사용자가 키보드를 사용하지 않고도 이메일을 검색하고 문서를 작성하며 아이디어를 정리할 수 있도록 했다.구글은 3일(현지시간) 제미나이 오디오(Gemini Audio) 모델을 기반으로 한 ‘지메일 라이브(Gmail Live)’ ‘독스 라이브(Docs Live)’ ‘킵 라이브(Keep Live)’ 기능을 공식 출시한다고 밝혔다.지난 5월 열린 I/O에서 처음 공개된 것으로, 이번 주부터 사용자에게 차례"
@@ -564,6 +663,17 @@
       "summary": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜스크라이브-2(MAI-Transcribe-2)’를 공개했다.이 모델이 현재 자체 개발한 가장 뛰어난 음성 전사 모델일 뿐 아니라 경쟁 모델과 비"
     },
     {
+      "id": "a504461e3d72",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 음성 모델 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214858",
+      "published": "2026-09-04T07:15:59+00:00",
+      "summary": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜스크라이브-2(MAI-Transcribe-2)’를 공개했다.이 모델이 현재 자체 개발한 가장 뛰어난 음성 전사 모델일 뿐 아니라 경쟁 모델과 비"
+    },
+    {
       "id": "5461f485af74",
       "source": "AI타임스",
       "kind": "article",
@@ -573,6 +683,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214873",
       "published": "2026-09-04T07:00:00+00:00",
       "summary": "■ 워크데이가 2분기 실적을 발표했다. 총 매출은 26억4900만달러(약 3조5800억원)로, 2026 회계연도 2분기 대비 12.8% 증가했다. 구독 매출은 24억7100만달러로 전년 동기 대비 13.9% 증가했으며, 영업이익은 3억1300만 달러로 매출의 11.8%를 기록했다. 아닐 부스리 워크데이 CEO 겸 이사회 의장은 “AI가 신규 연간계약금액(ACV)의 25% 이상을 견인하고 현재 5500개 이상 고객사가 워크데이의 에이전트를 사용하고 있다”라고 말했다. ■ 딥노이드(대표 최우식)는 연"
+    },
+    {
+      "id": "ab89bf2c53ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 코난테크놀로지, KAI와 차세대 항공우주 기술 교류 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214840",
+      "published": "2026-09-04T07:00:00+00:00",
+      "summary": "■ 코난테크놀로지(대표 김영섬)는 '제4회 KAI(한국항공우주산업) 패밀리기업 기술교류회'를 개최했다고 밝혔다. 이날 행사에서는 KAI 출자사 간 사업·기술 교류와 함께 ▲위성 ▲AI ▲MUM-T(유·무인 복합체계) 분야의 중장기 계획과 기술협력 방안을 논의했다. 코난테크놀로지는 KAI 출자사로서 미래 핵심기술 분야의 협력 접점을 확대할 방침이다.■ 사이버 보안 전문 AI스페라(대표 강병탁)는 테크파크스, 클라우드스페라, 리콘 등 현지 파트너사 3곳과 협력 체계를 구축하고, 중동 보안 시장 공략에"
     },
     {
       "id": "0386b606bf99",
@@ -592,6 +713,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "과기부, '모두의 AI' 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214869",
+      "published": "2026-09-04T06:57:14+00:00",
+      "summary": "전 국민을 위한 AI 서비스 구축을 위해 국가대표 AI 기업이 총출동했다. 현장에는 백준호 퓨리오사AI 대표, 김성훈 업스테이지 대표, 이경일 솔트룩스 대표, 박윤영 KT 대표, 배경훈 부총리, 정재헌 SK텔레콤 대표, 정신아 카카오 대표, 김지훈 SK텔레콤 본부장 등 업계 대표 AI 전문가들이 모였다. 과학기술정보통신부가 4일 서울 한국프레스센터 기자회견장에서 ‘모두의 AI’ 프로젝트에 선정된 3개 컨소시엄의 서비스 개발 계획을 청취하고, 협력 방안을 논의하는 사업자 간담회를 개최했다.이번 프로"
+    },
+    {
+      "id": "3bdb6fb9db43",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부, '모두의 AI' 간담회 개최…\"국민 체감 AI 서비스 추진\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214869",
       "published": "2026-09-04T06:57:14+00:00",
       "summary": "전 국민을 위한 AI 서비스 구축을 위해 국가대표 AI 기업이 총출동했다. 현장에는 백준호 퓨리오사AI 대표, 김성훈 업스테이지 대표, 이경일 솔트룩스 대표, 박윤영 KT 대표, 배경훈 부총리, 정재헌 SK텔레콤 대표, 정신아 카카오 대표, 김지훈 SK텔레콤 본부장 등 업계 대표 AI 전문가들이 모였다. 과학기술정보통신부가 4일 서울 한국프레스센터 기자회견장에서 ‘모두의 AI’ 프로젝트에 선정된 3개 컨소시엄의 서비스 개발 계획을 청취하고, 협력 방안을 논의하는 사업자 간담회를 개최했다.이번 프로"
@@ -619,6 +751,17 @@
       "summary": "Article URL: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/ Comments URL: https://news.ycombinator.com/item?id=49561320 Points: 349 # Comments: 142"
     },
     {
+      "id": "e91be3a2101d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양경자청, 동티모르 정부대표단 방문해 경제자유구역 운영 경험 공유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214877",
+      "published": "2026-09-04T06:45:00+00:00",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 4일 오후 동티모르 필리푸스 페레이라 상공부 장관을 비롯한 정부대표단이 경제협력 방안 협의 및 산업 현장 시찰을 위해 광양경자청을 공식 방문했다고 밝혔다.이번 방문은 동티모르 고위 각료들이 광양만권의 선진적인 경제자유구역 운영 시스템을 벤치마킹하고 향후 양측 간 실질적인 경제․산업 교류 협력을 확대하기 위해 성사됐다. 광양경자청은 동티모르 대표단에게 광양만권 투자 환경 및 핵심 산업 인프라에 대한 브리핑을 했다. 이어 광양만권과 동티모르 양국 간의 상호 호혜적"
+    },
+    {
       "id": "860f5eeb2e47",
       "source": "AI타임스",
       "kind": "article",
@@ -636,6 +779,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214854",
+      "published": "2026-09-04T06:32:45+00:00",
+      "summary": "오픈AI가 AI 에이전트의 공격 역량 강화에 맞춰, 취약점 탐지부터 패치와 배포까지 전 과정을 자동화하는 자율형 보안 체계 ‘디펜스 팩토리(Defense Factory)’를 공개했다. 이는 오픈웨이트 모델을 악용한 장기간 사이버 공격에 맞서 탐지와 대응 속도를 극대화하고 보안 업무 부담을 줄이기 위한 조치다.오픈AI는 3일(현지시간) AI 에이전트를 악용한 사이버 위협에 선제 대응하기 위해 이같은 체계를 도입했다고 밝혔다. 이에 따라 시스템 내 취약점 탐지부터 검증, 담당자 지정, 패치, 배포 확"
+    },
+    {
+      "id": "c136b5493863",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 보안 전 과정 자동화한 '디펜스 팩토리' 발표",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214854",
       "published": "2026-09-04T06:32:45+00:00",
       "summary": "오픈AI가 AI 에이전트의 공격 역량 강화에 맞춰, 취약점 탐지부터 패치와 배포까지 전 과정을 자동화하는 자율형 보안 체계 ‘디펜스 팩토리(Defense Factory)’를 공개했다. 이는 오픈웨이트 모델을 악용한 장기간 사이버 공격에 맞서 탐지와 대응 속도를 극대화하고 보안 업무 부담을 줄이기 위한 조치다.오픈AI는 3일(현지시간) AI 에이전트를 악용한 사이버 위협에 선제 대응하기 위해 이같은 체계를 도입했다고 밝혔다. 이에 따라 시스템 내 취약점 탐지부터 검증, 담당자 지정, 패치, 배포 확"
