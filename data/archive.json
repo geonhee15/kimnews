@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-04T17:42:21.103249+00:00",
-  "count": 11933,
+  "updated_at": "2026-09-04T19:53:04.886073+00:00",
+  "count": 11937,
   "items": [
+    {
+      "id": "6f485fbc2f01",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "published": "2026-09-04T18:39:19+00:00",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs "
+    },
+    {
+      "id": "3135c7640b98",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "published": "2026-09-04T17:51:35+00:00",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collec"
+    },
+    {
+      "id": "57147e06efe6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+      "published": "2026-09-04T17:35:02+00:00",
+      "summary": "Broadcom admits it put “too big a focus on VCF.”"
+    },
+    {
+      "id": "696762d2bbd8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "published": "2026-09-04T17:18:12+00:00",
+      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
+    },
     {
       "id": "e41433766fd4",
       "source": "TechCrunch",
