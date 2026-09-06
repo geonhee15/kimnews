@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-09-06T12:32:39.660480+00:00",
-  "count": 12071,
+  "updated_at": "2026-09-06T15:46:30.330169+00:00",
+  "count": 12076,
   "items": [
+    {
+      "id": "a551ae7358fd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "최윤범이 키운 자원순환 사업…한국 희토류 공급망 대안으로",
+      "link": "https://zdnet.co.kr/view/?no=20260906230958",
+      "published": "2026-09-06T14:11:40+00:00",
+      "summary": "[지디넷코리아]희토류 자원이 부족한 한국이 비철금속 제련 기술과 폐자원을 활용하는 도시광산 사업을 결합해 핵심광물 공급망의 돌파구를 마련해야 한다는 국책은행 분석이 나왔다.6일 업계에 따르면 한국산업은행 KDB 미래전략연구소는 지난 2일 발간한 ‘글로벌 희토류 공급망 재편 동향’ 보고서에서 특정 국가의 수출 통제가 강화되는 상황에서 제련 기술과 도시광산이 한국의 희토류 공급망 경쟁력을 높일 수 있다고 분석했다.도시광산은 폐가전과 폐자석 등 사용이 끝난 제품에서 금속과 광물을 회수해 다시 자원으로 "
+    },
+    {
+      "id": "5bc290518346",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+      "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+      "published": "2026-09-06T13:00:00+00:00",
+      "summary": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves"
+    },
     {
       "id": "df3f61a4fc91",
       "source": "조코딩",
@@ -14,12 +36,34 @@
       "summary": ""
     },
     {
+      "id": "b7b3752d034f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Intellectual Fly Is Open (2025)",
+      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "published": "2026-09-06T11:56:43+00:00",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 241 # Comments: 134"
+    },
+    {
       "id": "5fbcd12166bc",
       "source": "조코딩",
       "kind": "youtube",
       "category": "DEV",
       "lang": "ko",
       "title": "[LIVE] AI 인플루언서 H3 실시간 생성 테스트 (ft. RTX Pro 6000 Blackwell, Qwen 3.8)",
+      "link": "https://www.youtube.com/watch?v=fNIYliCqEzE",
+      "published": "2026-09-06T10:40:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "90258ebc71c9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] AI 인플루언서 H3 실시간 자율주행 방송 (ft. RTX Pro 6000 Blackwell)",
       "link": "https://www.youtube.com/watch?v=fNIYliCqEzE",
       "published": "2026-09-06T10:40:16+00:00",
       "summary": ""
@@ -4060,6 +4104,17 @@
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "published": "2026-09-02T20:19:14+00:00",
       "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+    },
+    {
+      "id": "44d914c06270",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Music Theory for Programmers",
+      "link": "https://runjs.app/blog/music-theory-for-programmers",
+      "published": "2026-09-02T20:19:13+00:00",
+      "summary": "Article URL: https://runjs.app/blog/music-theory-for-programmers Comments URL: https://news.ycombinator.com/item?id=49541888 Points: 254 # Comments: 153"
     },
     {
       "id": "ac3b089508b5",
