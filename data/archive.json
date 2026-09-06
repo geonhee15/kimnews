@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-09-06T20:03:13.848560+00:00",
-  "count": 12083,
+  "updated_at": "2026-09-06T22:07:16.096731+00:00",
+  "count": 12088,
   "items": [
+    {
+      "id": "760e29332e5d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "published": "2026-09-06T20:56:38+00:00",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the after"
+    },
+    {
+      "id": "2fe544d0a266",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published": "2026-09-06T20:47:37+00:00",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+    },
+    {
+      "id": "7a1614c7afd0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[시론] 공급망 보안과 국정원 체질 개선",
+      "link": "https://zdnet.co.kr/view/?no=20260906215340",
+      "published": "2026-09-06T20:00:01+00:00",
+      "summary": "[지디넷코리아]최근 우리나라에서도 소프트웨어 공급망 보안에 대한 관심이 크게 높아지고 있다. 특히 SBOM(Software Bill of Materials), 즉 소프트웨어에 어떤 오픈소스가 사용됐는지를 목록화하고 관리하는 기술이 공급망 보안의 핵심 수단으로 주목받고 있다.SBOM은 분명 중요하다. 어떤 소프트웨어에 어떤 구성요소가 들어 있는지 알아야 새로운 취약점이 발견됐을 때 우리 시스템이 영향을 받는지를 신속하게 판단할 수 있기 때문이다. 그러나 여기서 한 가지 질문을 던져볼 필요가 있다.공"
+    },
     {
       "id": "48223723952a",
       "source": "Hacker News",
@@ -23,6 +56,17 @@
       "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "published": "2026-09-06T16:45:00+00:00",
       "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+    },
+    {
+      "id": "076e199a9602",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하이얼, IFA 2026에서 AI 기반 스마트 홈 생태계 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20260907011002",
+      "published": "2026-09-06T16:10:02+00:00",
+      "summary": "[지디넷코리아]일상의 니즈를 이해하고 적응하는 커넥티드 제품 베를린 2026년 9월 6일 /PRNewswire/ -- 17년 연속 세계 대형 가전 브랜드 1위*를 차지한 하이얼(Haier)이 IFA 2026에서 의류 관리, 냉장 보관, 조리, 엔터테인먼트, 디지털 서비스 및 로보틱스를 아우르는 AI 기반 스마트 홈 생태계를 선보였다. '지능형 가능성의 집(Home of Intelligent Possibilities)'을 주제로 마련된 이번 전시는 연결형 가전이 환경을 감지하고, 상황을 이해하며, "
     },
     {
       "id": "e8fe16403dc9",
@@ -67,6 +111,17 @@
       "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
       "published": "2026-09-06T14:08:59+00:00",
       "summary": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 211 # Comments: 134"
+    },
+    {
+      "id": "cd36810f623c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Asahi Linux on M3",
+      "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "published": "2026-09-06T14:08:59+00:00",
+      "summary": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 266 # Comments: 153"
     },
     {
       "id": "5bc290518346",
