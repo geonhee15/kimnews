@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-09-05T22:36:06.604529+00:00",
-  "count": 12024,
+  "updated_at": "2026-09-06T00:12:58.015360+00:00",
+  "count": 12028,
   "items": [
+    {
+      "id": "8851bd2205c0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214898",
+      "published": "2026-09-06T00:04:44+00:00",
+      "summary": "앤트로픽이 신규 모델 공개와 미국 노동절 연휴를 맞아 최고 등급 유료 플랜인 '클로드 맥스(Claude Max)' 이용자 전원의 주간 사용량 제한을 기습적으로 일괄 초기화했다. 오픈AI 'GPT-6 아스트라'의 초반 돌풍에 대응해 이용자 이탈을 막고 코딩 시장 주도권을 확보하기 위한 공격적인 전략이다.앤트로픽의 기술 연구원 리디아 할리는 5일(현지시간) X를 통해 \"클로드 맥스 플랜을 이용하는 모든 유저의 주간 사용량 제한을 초기화했다\"며 \"신규 업데이트 버전인 '페이블 5.1' 출시와 다가오는 "
+    },
+    {
+      "id": "22f5dc90feef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+      "published": "2026-09-05T23:00:01+00:00",
+      "summary": "오픈AI의 ‘GPT-6 아스트라’가 AI 모델 중 최초로 수능 전 문항 만점을 달성했다.6일 공개된 ‘2026 수능 LLM 풀이 대시보드’에서 GPT-6 아스트라는 2026 수능 총점 450점 만점에 450점으로 전체 1위에 올랐다.이 대시보드는 AI 수능 벤치마크로 유명한 구유겸 순천향대학교 컴퓨터소프트웨어공학과 학생이 직접 개발한 ‘테스트-채점-통계’ 자동 처리 시스템을 토대로 한 결과다. 한 문항씩 제공해 풀도록 하는 ‘일반 모드’와 과목 별로 모든 문제를 한번에 제공하는 ‘고난도 모드’로 "
+    },
+    {
+      "id": "5ff52002dc90",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published": "2026-09-05T22:49:55+00:00",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+    },
     {
       "id": "429ac0a999b9",
       "source": "The Verge",
@@ -12,6 +45,17 @@
       "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
       "published": "2026-09-05T20:53:58+00:00",
       "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing ho"
+    },
+    {
+      "id": "47ef0c7c729f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "published": "2026-09-05T20:31:38+00:00",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 305 # Comments: 157"
     },
     {
       "id": "e1ef4b1f36c5",
