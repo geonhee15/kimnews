@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-09-06T08:55:51.323292+00:00",
-  "count": 12067,
+  "updated_at": "2026-09-06T12:32:39.660480+00:00",
+  "count": 12071,
   "items": [
+    {
+      "id": "df3f61a4fc91",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - GPT-6 Astra 미쳤다, Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3, World Labs Atlas 등",
+      "link": "https://www.youtube.com/watch?v=UnWoCJPRjYg",
+      "published": "2026-09-06T12:27:45+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5fbcd12166bc",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] AI 인플루언서 H3 실시간 생성 테스트 (ft. RTX Pro 6000 Blackwell, Qwen 3.8)",
+      "link": "https://www.youtube.com/watch?v=fNIYliCqEzE",
+      "published": "2026-09-06T10:40:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1ef5fd83093f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My Brief Summer Fling With Siri AI",
+      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "published": "2026-09-06T10:30:00+00:00",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists."
+    },
     {
       "id": "a62fc9dfd0d7",
       "source": "AI타임스",
@@ -12,6 +45,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
       "published": "2026-09-06T07:26:59+00:00",
       "summary": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서 직접 실행할 수 있도록 한 것이 핵심이다.MS는 4일(현지시간) 개발자용 윈도우 환경을 발전시키기 위해 지난 6월 ‘빌드 2026’에서 개발에"
+    },
+    {
+      "id": "2bf549003be9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "published": "2026-09-06T07:21:06+00:00",
+      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 280 # Comments: 65"
     },
     {
       "id": "b51051c391c9",
