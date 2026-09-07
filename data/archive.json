@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-09-07T18:24:06.150420+00:00",
-  "count": 12163,
+  "updated_at": "2026-09-07T21:40:00.477252+00:00",
+  "count": 12171,
   "items": [
+    {
+      "id": "38da3e6a0504",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[최경진의 未來法道] 기술 대혁신 시대, 법은 무엇을 '패치'해야 하나",
+      "link": "https://zdnet.co.kr/view/?no=20260907214619",
+      "published": "2026-09-07T20:00:01+00:00",
+      "summary": "[지디넷코리아]우리는 현재를 살고 있지만, 미래를 향해 나아가고 있다. 문제는 방향이 아니라 속도다. 파운데이션 모델은 몇 달 단위로 세대를 갈아치우고, 데이터는 국경을 모른 채 흐르며, 로봇은 공장 담장을 넘어 일상으로 들어오고 있다. 기술 발전이 선형에서 지수함수로 휘어오르는 순간, 우리가 감당해야 할 위험도 같은 곡선을 그리며 커진다. 개인이 홀로 대비할 수 없는 위험 앞에서 사회는 함께 대처할 수 있는 안전망을 필요로 한다. 그 안전망의 핵심 장치가 바로 법과 제도다.그런데 법은 태생적으로"
+    },
+    {
+      "id": "3824aa0d54b8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-09-07T19:24:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
     {
       "id": "0370e2f27081",
       "source": "Fireship",
@@ -12,6 +34,39 @@
       "link": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
       "published": "2026-09-07T17:24:51+00:00",
       "summary": ""
+    },
+    {
+      "id": "9cc3568b34ad",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "5 open source tools that replaced my $320/mo AI stack...",
+      "link": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
+      "published": "2026-09-07T17:24:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "de4d6d4f18ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"내년에도 메모리 가격 상승...스마트폰 시장서 삼성·애플 수혜\"",
+      "link": "https://zdnet.co.kr/view/?no=20260908012643",
+      "published": "2026-09-07T16:34:46+00:00",
+      "summary": "[지디넷코리아]메모리 반도체 가격은 내년에도 오르고, 삼성전자와 애플이 스마트폰 시장에서 수혜를 입을 것이란 전망이 나왔다. 두 업체가 플래그십 제품 비중이 크고, 메모리 물량을 안정적으로 확보할 수 있기 때문이다. 중저가 제품 의존도가 높은 중국 스마트폰 업체는 과거처럼 공격적 마케팅을 펴기 어려울 것으로 예상됐다.일본 미즈호증권은 이달 초순 발간한 스마트폰 관련 보고서에서 올해 전 세계 스마트폰 출하량이 11억 5000만대(기본 시나리오)로 전년비 9% 감소할 것이라고 전망했다. 미즈호증권은 "
+    },
+    {
+      "id": "b7d6a2f36f4e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하이센스, IFA 2026에서 일상 속 'AI 컴패니언' 경험 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20260908011002",
+      "published": "2026-09-07T16:10:02+00:00",
+      "summary": "[지디넷코리아]베를린 2026년 9월 7일 /PRNewswire/ -- 글로벌 소비자 전자제품 및 가전 분야를 선도하는 브랜드인 하이센스(Hisense)가 IFA 2026에서 인공지능(AI)이 일상적인 가정생활을 어떻게 더욱 간편하고 직관적으로 만들 수 있는지 직접 체험할 수 있도록 방문객들을 초청한다. '더 밝은 삶을 위한 혁신(Innovating a Brighter Life)'이라는 주제 아래 ConnectLife로 구동되는 Hisense AI Companion Suite는 주방과 세탁 공간,"
     },
     {
       "id": "def43f3b64b6",
@@ -36,6 +91,17 @@
       "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods."
     },
     {
+      "id": "b2ea8f88c57f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "published": "2026-09-07T15:27:03+00:00",
+      "summary": "Article URL: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker Comments URL: https://news.ycombinator.com/item?id=49599481 Points: 299 # Comments: 195"
+    },
+    {
       "id": "e598db99af98",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -45,6 +111,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260907222818",
       "published": "2026-09-07T13:44:03+00:00",
       "summary": "[지디넷코리아]\"우리나라가 LLM(거대언어모델)이나 텍스트, 이미지 데이터 축적 등에서는 30년 뒤졌다. 그러나 피지컬 AI는 이제 시작이다. 우리가 제조 데이터에 강점이 있는 만큼 데이터 팩토리에 더 투자해야 한다.\"한국기계연구원이 7일 한국과학기술회관에서 ‘로봇, 피지컬 AI와 함께 내일의 산업생태계를 그리다’를 주제로 개최한 '2026 글로벌 기계기술 포럼'에서 장병탁 서울대 교수가 언급한 얘기다.장 교수는 산업통상자원부 K-휴머노이드 연합 위원장을 맡고 있다.이날 강연에서는 주로 피지컬 휴"
+    },
+    {
+      "id": "d0349f2cdc81",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "bzip3",
+      "link": "https://github.com/iczelia/bzip3",
+      "published": "2026-09-07T13:35:13+00:00",
+      "summary": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 344 # Comments: 95"
     },
     {
       "id": "153265631bd9",
@@ -221,6 +298,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260907194349",
       "published": "2026-09-07T10:55:02+00:00",
       "summary": "[지디넷코리아]호텔신라가 제주 영세 자영업자의 식당 운영을 지원하는 ‘맛있는 제주만들기’ 프로젝트의 29번째 식당을 선정했다.호텔신라는 제주특별자치도청 주관 선정위원회 심의를 거쳐 제주시 외도동에 위치한 ‘외도이모네’를 ‘맛있는 제주만들기’ 29호점으로 선정했다고 7일 밝혔다.외도이모네는 70대 여성 식당주가 혼자 운영하는 한식당으로 칼국수와 수제비, 닭한마리 전골 등을 판매하고 있다. 주거단지가 밀집한 지역에 자리 잡고 있어 관광객 유입이 적고 식당 운영에도 어려움을 겪어왔다.호텔신라는 오는 1"
+    },
+    {
+      "id": "26188a864c99",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+      "published": "2026-09-07T10:20:00+00:00",
+      "summary": "에임인텔리전스가 AI 에이전트와 피지컬 AI 시대로의 전환에 맞춰 통제 불능 리스크를 방지하기 위한 지속적·실시간 보안 레이어 구축의 필요성을 강조했다.박하언 에임인텔리전스 최고 기술책임자(CTO)는 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 'AI 통제의 최전선: 모델에서 에이전트, 피지컬 AI까지'를 주제로 발표를 진행했다.박 CTO는 클라우드시큐리티얼라이언스(CSA) 통계자료를 인용해 \"기업의 82%가량이 자체적으로 파악하지 못한 그림자 AI 에이전트를 보유 중이"
     },
     {
       "id": "2e5bcfa2b696",
