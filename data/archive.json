@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-08T19:36:28.775661+00:00",
-  "count": 12291,
+  "updated_at": "2026-09-08T22:02:22.836030+00:00",
+  "count": 12306,
   "items": [
+    {
+      "id": "978e756e78fc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "published": "2026-09-08T21:10:27+00:00",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+    },
+    {
+      "id": "dbfff04282d9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "published": "2026-09-08T21:04:06+00:00",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+    },
+    {
+      "id": "8d855335d2f8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "published": "2026-09-08T20:53:52+00:00",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to t"
+    },
+    {
+      "id": "66d2fae6d875",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215015",
+      "published": "2026-09-08T20:50:29+00:00",
+      "summary": "삼성전자가 미스트랄 AI와 손잡고 반도체 설계 및 제조에 특화된 자체 AI 모델 공동 개발에 나선다고 9일 밝혔다.이번 파트너십은 한·프랑스 정상회담에 맞춰 체결됐다. 삼성전자 DS부문이 보유한 반도체 기술과 제조 데이터에 미스트랄 AI의 고효율 AI 모델 기술을 결합해 반도체 업무 전반의 생산성과 정밀도를 극대화하는 ‘반도체 특화 AI’를 구축하는 것이 핵심이다.삼성전자는 미스트랄의 대형언어모델(LLM)인 '미스트랄 라지'를 활용해 DS부문에 최적화된 자체 AI 모델을 개발할 계획이다. 이를 데"
+    },
+    {
+      "id": "4301b85bb984",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+      "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+      "published": "2026-09-08T20:39:49+00:00",
+      "summary": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version is the best choice b"
+    },
+    {
+      "id": "87752fa29f1f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "published": "2026-09-08T20:16:09+00:00",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an im"
+    },
+    {
+      "id": "cb907c42a1d6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "published": "2026-09-08T20:12:51+00:00",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket."
+    },
+    {
+      "id": "7ecab4d1bee0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "published": "2026-09-08T19:12:53+00:00",
+      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent."
+    },
     {
       "id": "502a0eb19e5a",
       "source": "TechCrunch",
@@ -25,6 +113,17 @@
       "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar strategy overhaul designed to revitalize the company's ailing p"
     },
     {
+      "id": "5489d0bea54d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "published": "2026-09-08T18:43:09+00:00",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics."
+    },
+    {
       "id": "fbace610a09e",
       "source": "Wired",
       "kind": "article",
@@ -34,6 +133,17 @@
       "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
       "published": "2026-09-08T18:13:26+00:00",
       "summary": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram."
+    },
+    {
+      "id": "42156127eddf",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "published": "2026-09-08T18:00:56+00:00",
+      "summary": "Like traditional weather models, it benefits from an expanded set of inputs."
     },
     {
       "id": "e97caa8945b1",
@@ -67,6 +177,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
       "published": "2026-09-08T17:27:31+00:00",
       "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription th"
+    },
+    {
+      "id": "afa4820b619a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자, '화웨이서 분사' 아너에 미국 특허 15건 양도",
+      "link": "https://zdnet.co.kr/view/?no=20260909014245",
+      "published": "2026-09-08T16:53:14+00:00",
+      "summary": "[지디넷코리아]LG전자가 중국 아너에 미국 영상 표준특허(SEP) 15건을 양도했다. LG전자는 2022년 사업목적에 특허 라이선스업을 추가한 뒤 수익화 사례를 늘리고 있다. 9일 미국 특허상표청에 따르면 LG전자는 지난 8월 하순 '비디오 처리 시스템 화면 간 예측을 위한 방법·장치'(등록번호 US11,102,478) 등 미국 표준특허 15건을 아너에 양도했다. 해당 특허는 영상 표준특허다. 아너는 지난 2020년 화웨이에서 분사한 완제품 업체다. 스마트폰과 노트북, 태블릿 등을 만든다. 지난 "
     },
     {
       "id": "5e3b0957b003",
@@ -113,6 +234,17 @@
       "summary": "Article URL: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus Comments URL: https://news.ycombinator.com/item?id=49612329 Points: 315 # Comments: 187"
     },
     {
+      "id": "1a37152b0d4e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성전자, 프랑스 미스트랄 AI에 지분 투자…반도체 특화 AI 공동 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260908192706",
+      "published": "2026-09-08T16:00:01+00:00",
+      "summary": "[지디넷코리아]삼성전자가 프랑스 대표 인공지능(AI) 기업 '미스트랄 AI'에 투자하고, 반도체 특화 인공지능(AI) 모델을 공동 개발한다.한국·프랑스 정상회담에 맞춰 성사된 이번 협력에서 삼성전자는 미스트랄 AI와 전략 파트너십을 체결했다고 8일 밝혔다.삼성전자는 미스트랄 AI와 전략적 협력관계를 강화하기 위해 지분을 투자했다. 삼성전자와 미스트랄 AI는 장기 기술 협력과 공동 사업 추진 기반을 마련했다. 구체적 투자 규모는 밝히지 않았다. 양사는 삼성전자 반도체(DS) 부문의 반도체 기술력·제"
+    },
+    {
       "id": "cb137e4f65ef",
       "source": "Wired",
       "kind": "article",
@@ -133,6 +265,17 @@
       "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
       "published": "2026-09-08T15:25:35+00:00",
       "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department."
+    },
+    {
+      "id": "d7451601e8c8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개인정보 유출 강남언니, 1인당 5만 포인트로 보상",
+      "link": "https://zdnet.co.kr/view/?no=20260908234128",
+      "published": "2026-09-08T15:12:50+00:00",
+      "summary": "[지디넷코리아]22만 명에 가까운 회원 개인정보가 유출된 미용의료 플랫폼 강남언니가 한국 고객을 대상으로 1인당 5만원 상당 포인트를 보상할 것을 약속했다. 또 사고 즉시 접근 경로 차단과 전체 시스템에 대한 전수 검사를 완료했고 보안 조치를 강화했다고 밝혔다.강남언니 운영사 힐링페이퍼는 8일 입장문을 통해 “지난 6일 한국인터넷진흥원(KISA)로의 침해사고 신고에 이어 7일 개인정보유출 사고 신고를 완료했다”며 “정확한 공격자 파악과 재발 방지를 위해 관할 경찰서에 사이버 범죄 수사를 의뢰한 상"
     },
     {
       "id": "f15e07334ff5",
@@ -199,6 +342,17 @@
       "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "published": "2026-09-08T14:17:48+00:00",
       "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
+    },
+    {
+      "id": "3f849587a849",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "published": "2026-09-08T14:13:26+00:00",
+      "summary": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 240 # Comments: 190"
     },
     {
       "id": "736424e075b0",
@@ -518,6 +672,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260908175641",
       "published": "2026-09-08T09:49:46+00:00",
       "summary": "[지디넷코리아]“타 산업 대비 배터리 산업은 소수 기업이 특허를 독점적으로 확보한 기간이 매우 길다. 거의 필요한 모든 특허들을 다 쌓아놨다고 봐도 된다. 과거 자동차 50여대를 사서 배터리팩과 배터리관리시스템(BMS)등을 분석했을 때, 거의 모든 제품들이 저희 특허를 침해하고 있었다.”이한선 LG에너지솔루션 전무는 8일 서울 강남구 과총회관에서 열린 ‘한국형 IP 수익 전문기업 육성 포럼’ 발표자로 나서 회사가 파나소닉과 연합해 특허 관리 전문 기업 ’튤립이노베이션’을 설립한 배경을 이같이 밝혔"
+    },
+    {
+      "id": "6f4f6679adf8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Getting your hands dirty is good for you",
+      "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "published": "2026-09-08T09:48:24+00:00",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks Comments URL: https://news.ycombinator.com/item?id=49608023 Points: 202 # Comments: 168"
     },
     {
       "id": "de7fd83b90e3",
