@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-08T16:39:50.962345+00:00",
-  "count": 12277,
+  "updated_at": "2026-09-08T19:36:28.775661+00:00",
+  "count": 12291,
   "items": [
+    {
+      "id": "502a0eb19e5a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "published": "2026-09-08T19:00:00+00:00",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+    },
+    {
+      "id": "1f97731051a2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "published": "2026-09-08T19:00:00+00:00",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar strategy overhaul designed to revitalize the company's ailing p"
+    },
+    {
+      "id": "fbace610a09e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
+      "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
+      "published": "2026-09-08T18:13:26+00:00",
+      "summary": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram."
+    },
+    {
+      "id": "e97caa8945b1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to watch Apple’s foldable iPhone announcement",
+      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "published": "2026-09-08T17:46:53+00:00",
+      "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news."
+    },
+    {
+      "id": "e131cc856956",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "published": "2026-09-08T17:32:15+00:00",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
+    },
+    {
+      "id": "4f2e75353509",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "published": "2026-09-08T17:27:31+00:00",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription th"
+    },
+    {
+      "id": "5e3b0957b003",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google complies with EU rules for travel searches, says the new results stink",
+      "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
+      "published": "2026-09-08T16:49:55+00:00",
+      "summary": "The EU continues to go after Google search practices it sees as anticompetitive."
+    },
+    {
+      "id": "9a512cd0aaad",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "published": "2026-09-08T16:42:05+00:00",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety."
+    },
     {
       "id": "c0c10170fdf7",
       "source": "TechCrunch",
@@ -12,6 +100,17 @@
       "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
       "published": "2026-09-08T16:20:31+00:00",
       "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+    },
+    {
+      "id": "a89e4e4d833c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LG TVs caught spying even when offline or on standby",
+      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "published": "2026-09-08T16:07:08+00:00",
+      "summary": "Article URL: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus Comments URL: https://news.ycombinator.com/item?id=49612329 Points: 315 # Comments: 187"
     },
     {
       "id": "cb137e4f65ef",
@@ -58,6 +157,39 @@
       "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster."
     },
     {
+      "id": "6e3f0bf85966",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "published": "2026-09-08T14:55:45+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 350 # Comments: 88"
+    },
+    {
+      "id": "65b4f81c070a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "link": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "published": "2026-09-08T14:40:30+00:00",
+      "summary": "Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/ Comments URL: https://news.ycombinator.com/item?id=49610988 Points: 256 # Comments: 130"
+    },
+    {
+      "id": "3d0ade957be9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "link": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+      "published": "2026-09-08T14:33:52+00:00",
+      "summary": "Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/ Comments URL: https://news.ycombinator.com/item?id=49610900 Points: 253 # Comments: 77"
+    },
+    {
       "id": "0a3aaee99dc8",
       "source": "TechCrunch",
       "kind": "article",
@@ -67,6 +199,17 @@
       "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "published": "2026-09-08T14:17:48+00:00",
       "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
+    },
+    {
+      "id": "736424e075b0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스텔란티스, CES 2027 기조연설에서 인간 중심 모빌리티 비전 선보인다",
+      "link": "https://zdnet.co.kr/view/?no=20260908231003",
+      "published": "2026-09-08T14:10:03+00:00",
+      "summary": "[지디넷코리아] 최고경영자 안토니오 필로사, 스텔란티스가 기술을 활용해 모빌리티를 더 스마트하고 개인화된 방식으로 만들어가는 과정을 선보여 알링턴, 버지니아, 2026년 9월 8일 /PRNewswire/ -- CES®의 소유자 겸 주최사인 소비자기술협회(Consumer Technology Association, CTA®)가, 스텔란티스(Stellantis)의 안토니오 필로사(Antonio Filosa) 최고경영자가 2027년 1월 6일 CES 2027 개막일에 기조연설을 진행할 예정이라고 발표했다"
     },
     {
       "id": "f2e0b2f79c1d",
@@ -375,6 +518,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260908175641",
       "published": "2026-09-08T09:49:46+00:00",
       "summary": "[지디넷코리아]“타 산업 대비 배터리 산업은 소수 기업이 특허를 독점적으로 확보한 기간이 매우 길다. 거의 필요한 모든 특허들을 다 쌓아놨다고 봐도 된다. 과거 자동차 50여대를 사서 배터리팩과 배터리관리시스템(BMS)등을 분석했을 때, 거의 모든 제품들이 저희 특허를 침해하고 있었다.”이한선 LG에너지솔루션 전무는 8일 서울 강남구 과총회관에서 열린 ‘한국형 IP 수익 전문기업 육성 포럼’ 발표자로 나서 회사가 파나소닉과 연합해 특허 관리 전문 기업 ’튤립이노베이션’을 설립한 배경을 이같이 밝혔"
+    },
+    {
+      "id": "de7fd83b90e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "link": "https://vale.rocks/posts/html-relics",
+      "published": "2026-09-08T09:43:14+00:00",
+      "summary": "Article URL: https://vale.rocks/posts/html-relics Comments URL: https://news.ycombinator.com/item?id=49607991 Points: 205 # Comments: 70"
     },
     {
       "id": "c82462547c8b",
