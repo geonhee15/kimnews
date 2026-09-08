@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-09-08T07:26:16.768629+00:00",
-  "count": 12214,
+  "updated_at": "2026-09-08T12:14:24.631848+00:00",
+  "count": 12251,
   "items": [
+    {
+      "id": "fb4510ffd444",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
+      "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+      "published": "2026-09-08T12:00:00+00:00",
+      "summary": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus has inherited a company that's a"
+    },
+    {
+      "id": "2c7263771e5c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "published": "2026-09-08T12:00:00+00:00",
+      "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate."
+    },
+    {
+      "id": "bd375790b788",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인스웨이브, 일본 기업과 기술 교류 확대…현지 시장 공략 박차",
+      "link": "https://zdnet.co.kr/view/?no=20260908194627",
+      "published": "2026-09-08T10:47:21+00:00",
+      "summary": "[지디넷코리아]인스웨이브가 생성형 인공지능(AI) 기반 개발 플랫폼을 앞세워 일본 시장 공략에 속도를 내고 있다. 인스웨이브는 일본 주요 IT 기업 관계자 32명이 최근 서울 여의도 본사를 방문해 회사의 AI 사업 전략과 핵심 솔루션을 살펴보고 기술 교류 및 사업 협력 방안을 논의했다고 8일 밝혔다.이번 방문은 일본 기업들이 국내 AI 기반 소프트웨어 개발 기술과 실제 적용 사례를 직접 확인하기 위해 마련됐다. 방문단에는 에너지, 공공, 제조 등 다양한 산업 분야의 일본 IT 기업 경영진과 엔지니"
+    },
+    {
+      "id": "c1dd34b75c0d",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "published": "2026-09-08T10:36:00+00:00",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recy"
+    },
+    {
+      "id": "24869f663981",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "published": "2026-09-08T10:34:00+00:00",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in"
+    },
+    {
+      "id": "a5986cb728f4",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "This founder is making cheaper, cleaner steel",
+      "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "published": "2026-09-08T10:33:00+00:00",
+      "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the"
+    },
+    {
+      "id": "ae69cadb9ced",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코딧 \"AI 시대, 교육 다음 과제는 창작\"",
+      "link": "https://zdnet.co.kr/view/?no=20260908192850",
+      "published": "2026-09-08T10:28:50+00:00",
+      "summary": "[지디넷코리아]코딧(대표 정지은) 부설 글로벌정책실증연구원이 8일 'AI시대 디지털 창작 역량 함양을 위한 초·중·고 교육 환경 정책 과제' 이슈페이퍼를 발간했다. 생성형 AI 확산에 대응해 모든 학생의 지속적인 디지털 창작 경험을 보장하기 위한 정책 방향을 담았다.연구원은 OECD 국제학업성취도평가(PISA) 2022를 인용, 한국 학생의 '학교 밖 디지털 자원 접근 기회'는 조사 대상 43개국 중 1위인 반면 '수업 중 디지털 자원 활용도'는 같은 43개국 중 최하위인 43위에 그쳤다고 지적했"
+    },
+    {
+      "id": "737bc38af1f5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD SW 투데이] 큐브리드, 공공부문 DBMS 점유율 2위 外",
+      "link": "https://zdnet.co.kr/view/?no=20260908191031",
+      "published": "2026-09-08T10:10:48+00:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆큐브리드, 공공부문 DBMS 점유율 2위큐브리드가 공공 시장에서 마이크로소프트를 처음으로 제치고 점유율 2위에 올랐다.행정안전부와 한국지능정보사회진흥원(NIA)이 공개한 '2026년도 범정"
+    },
+    {
+      "id": "805433309d11",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+      "link": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+      "published": "2026-09-08T10:00:00+00:00",
+      "summary": "A new generation of Islamic terror supporters are using AI to spread ‘Slop Jihad’ to new audiences on TikTok."
+    },
+    {
+      "id": "c85776b3d0e9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"배터리 후발주자 못 피해\"…LG엔솔이 ‘특허 신탁' 나선 이유",
+      "link": "https://zdnet.co.kr/view/?no=20260908175641",
+      "published": "2026-09-08T09:49:46+00:00",
+      "summary": "[지디넷코리아]“타 산업 대비 배터리 산업은 소수 기업이 특허를 독점적으로 확보한 기간이 매우 길다. 거의 필요한 모든 특허들을 다 쌓아놨다고 봐도 된다. 과거 자동차 50여대를 사서 배터리팩과 배터리관리시스템(BMS)등을 분석했을 때, 거의 모든 제품들이 저희 특허를 침해하고 있었다.”이한선 LG에너지솔루션 전무는 8일 서울 강남구 과총회관에서 열린 ‘한국형 IP 수익 전문기업 육성 포럼’ 발표자로 나서 회사가 파나소닉과 연합해 특허 관리 전문 기업 ’튤립이노베이션’을 설립한 배경을 이같이 밝혔"
+    },
+    {
+      "id": "c82462547c8b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "사람인 줄 알았는데 로봇이네… 샤오펑 '아이언', 충격적 등장",
+      "link": "https://zdnet.co.kr/view/?no=20260908155925",
+      "published": "2026-09-08T09:30:25+00:00",
+      "summary": "[지디넷코리아]중국 전기차 기업 샤오펑이 지난해 말 공개해 화제를 모았던 휴머노이드 로봇 ‘아이언(IRON)’ 생산에 착수했다.자동차매체 일렉트렉은 샤오펑이 휴머노이드 로봇 생산라인을 공식 가동하고 첫 번째 아이언 생산을 완료했다고 7일(현지시간) 보도했다.샤오펑에 따르면, 첫 번째로 생산된 아이언 로봇은 생산라인에서 자체 동력으로 걸어 나왔다. 해당 생산라인의 핵심 공정 가운데 80% 이상은 자동화됐다. 샤오펑은 2026년 말까지 아이언의 본격적인 양산에 들어가는 것을 목표로 하고 있으며, 상용"
+    },
+    {
+      "id": "b606583f92ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214985",
+      "published": "2026-09-08T09:11:23+00:00",
+      "summary": "AI 산업의 급성장으로 데이터센터와 컴퓨팅 인프라 투자가 폭발적으로 늘고 있지만, 컴퓨팅 파워 공급이 AI 수요를 따라잡기는 사실상 어려울 것이라는 전망이 나왔다. 엔비디아의 주요 네오클라우드 파트너인 아이렌(Iren)의 다니엘 로버츠 공동 CEO는 AI 데이터센터 구축이 과거의 일반적인 투자 사이클과는 근본적으로 다른 양상을 보인다고 진단했다.로버츠 CEO는 7일(현지시간) 파이낸셜타임스(FT)와의 인터뷰에서 \"공급 곡선이 수요를 앞지를 가능성을 상상하기 정말 어렵다\"고 말했다. 일반 산업에서는"
+    },
+    {
+      "id": "3bc26ce967fa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 'AI 인프라 최적화' 데카르트 인수 포기…8조 대형 거래 무산",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214998",
+      "published": "2026-09-08T09:01:55+00:00",
+      "summary": "앤트로픽이 60억달러(약 8조원) 규모로 추진하던 AI 스타트업 데카르트(Decart AI) 인수를 포기한 것으로 알려졌다. 블룸버그는 7일(현지시간) 정통한 소식통을 인용, 앤트로픽이 데카르트 인수를 검토하고 실사를 진행했지만 결국 인수를 진행하지 않기로 했다고 보도했다.다른 형태의 협력 기회를 모색할 가능성은 남아 있는 것으로 전해졌다. 두 회사는 인수 협상과 관련한 공식 입장을 밝히지 않았다.블룸버그는 지난 8월 앤트로픽이 데카르트를 60억달러에 인수하기 위한 협상을 진행하고 있다고 전했다."
+    },
+    {
+      "id": "902a601d0d17",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤앤에스피 ‘앤넷CDS V2.0’, GS인증 획득",
+      "link": "https://zdnet.co.kr/view/?no=20260908180137",
+      "published": "2026-09-08T09:01:37+00:00",
+      "summary": "[지디넷코리아]CPS 보호 전문기업 앤앤에스피(대표 김일용)는 자사 차세대 연계 보안 게이트웨이 ‘앤넷CDS(nNetCDS) V2.0’이 GS(Good Software)인증을 획득했다고 8일 밝혔다. 한국정보통신기술협회(TTA)는 소프트웨어 기능 적합성, 성능 효율성, 사용성, 신뢰성, 보안성 등을 종합 시험해 품질을 검증한 후 GS인증을 부여한다.'앤넷CDS V2.0'은 CDS(Cross Domain Solution)의 보안 원칙을 충족하면서 국가 망 보안체계(N2SF)를 지원하는 차세대 연계 "
+    },
+    {
+      "id": "d833d78ea8a8",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "마인크래프트로 매트릭스를 만들어버림;;;",
+      "link": "https://www.youtube.com/shorts/4NxmnE-Vdfw",
+      "published": "2026-09-08T09:00:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "10be6570340d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마크애니, 'K-보안 AI' 컨소시엄에 핵심 기술 공급",
+      "link": "https://zdnet.co.kr/view/?no=20260908175059",
+      "published": "2026-09-08T08:50:59+00:00",
+      "summary": "[지디넷코리아]마크애니가 참여한 네이버클라우드 컨소시엄이 지난 3일 국가 사이버 보안의 중추가 될 '사이버 보안 특화 인공지능(AI) 파운데이션 모델 개발' 프로젝트의 최종 사업 수행기관에 선정됐다.과학기술정보통신부는 외부 전문가 평가를 거쳐, 기술력과 개발 전략의 우수성을 널리 인정받은 네이버클라우드 연합체를 최종 사업자로 확정했다고 발표했다. 이번 공모에서 네이버클라우드 연합체는 SK텔레콤 컨소시엄과 치열한 경쟁 끝에 사업권을 따냈다.이번 사업은 최근 거대한 보안 위협으로 떠오른 '미토스 쇼크"
+    },
+    {
+      "id": "03e320239aab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그라비티 게임 비전, MMORPG '라그나로크: 더 뉴 월드' 중화권·동남아 흥행 순항",
+      "link": "https://zdnet.co.kr/view/?no=20260908175021",
+      "published": "2026-09-08T08:50:21+00:00",
+      "summary": "[지디넷코리아]그라비티의 대표 지식재산(IP)을 활용한 첫 오픈월드 MMORPG 신작이 중화권과 동남아시아 주요 마켓에서 잇달아 흥행 지표 상위권에 안착했다.그라비티 홍콩 지사인 그라비티 게임 비전(GGV)은 서비스 중인 신작 멀티 플랫폼 MMORPG '라그나로크: 더 뉴 월드'가 출시 지역에서 주요 앱마켓 및 PC 플랫폼 순위 정상에 올랐다고 8일 밝혔다.이 게임은 올해 1월 대만·홍콩·마카오 지역에 먼저 출시된 데 이어, 지난 7월16일 베트남을 제외한 동남아시아 지역에 PC, 모바일, 스팀 "
+    },
+    {
+      "id": "b9649748a4cd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 인민해방군, '휴머노이드 로봇 병사' 실전 투입 속도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214981",
+      "published": "2026-09-08T08:47:42+00:00",
+      "summary": "중국 인민해방군(PLA)이 휴머노이드 로봇의 군사적 활용을 연구실과 시연 단계를 넘어 실제 전장에 적용하기 위한 연구에 속도를 내고 있다. 정찰과 물자 수송 같은 보조 임무를 넘어 인간 병사와 함께 전투에 참여하는 '로봇 전투원'을 운용한다는 구상까지 제시되면서 중국의 군용 로봇 개발이 새로운 단계에 접어들고 있다는 분석이 나온다.로이터는 7일(현지시간) 중국군의 조달 공고와 학술 논문, 특허, 정부 자료 및 방산업체 자료 등 100건 이상을 조사한 결과, 중국 국방 당국과 인민해방군 육군 연구 "
+    },
+    {
+      "id": "b60287fdce4c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국가AI전략위, 독파모 평가 참여하나…\"과기부와 공식 협의 없어\"",
+      "link": "https://zdnet.co.kr/view/?no=20260908174051",
+      "published": "2026-09-08T08:44:41+00:00",
+      "summary": "[지디넷코리아]국가인공지능(AI)전략위원회가 '독자 AI 파운데이션 모델 프로젝트' 평가 결과 검증 체계 마련에 나선 것으로 전해졌다. 과학기술정보통신부 중심으로 진행돼 온 사업자 선정 절차에 전략위가 참여해 평가 객관성·신뢰성을 높이려는 취지다.8일 IT 업계 관계자에 따르면 하정우 국가AI전략위 부위원장은 이날 오전 전략위 관계자들에게 독파모 평가 결과를 전략위 차원에서도 검증하는 방안을 추진하겠다는 계획을 공유한 것으로 전해졌다. 조만간 과기정통부에 전략위 평가 참여를 공식 요청할 방침이다."
+    },
+    {
+      "id": "187e05eed656",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "바이트댄스, '월드 모델' 출시 임박...장이밍 창업자 직접 진두지휘",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214982",
+      "published": "2026-09-08T08:42:14+00:00",
+      "summary": "틱톡과 시댄스(Seedance)로 영상 생성 AI 분야에서 경쟁력을 확보한 바이트댄스가 ‘월드 모델(World Model)' 시장에 뛰어들었다.7일(현지시간) 블룸버그에 따르면, 바이트댄스는 사용자의 움직임과 음성에 실시간으로 반응하는 가상 세계를 구현하는 '월드 모델' 개발에 착수했다. 장이밍 바이트댄스 창립자가 다음 달 출시 목표인 새로운 '실시간 공간 비디오 생성' AI 모델 개발을 직접 진두지휘하는 것으로 전해졌다. 그는 회사 내 여러 사업부의 개발 역량을 조율하는 동시에 AI 인력과 컴퓨"
+    },
+    {
+      "id": "e2840ce3e3e5",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "GPT-6 Astra Changes Everything",
+      "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "published": "2026-09-08T08:24:27+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e92c58096b15",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'알파고' 데이비드 실버의 이네퍼블, 딥마인드 출신 등 6인 영입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215001",
+      "published": "2026-09-08T08:24:06+00:00",
+      "summary": "'알파고' 개발을 이끈 세계적인 AI 연구자 데이비드 실버의 영국 AI 스타트업 이네퍼블 인텔리전스(Ineffable Intelligence)가 구글 딥마인드와 인스타딥, 벤처캐피털 업계 출신 핵심 인재 6명을 '공동 창립자'로 영입하며 초지능 개발을 위한 진용을 강화했다.6일(현지시간) 포춘에 따르면, 이네퍼블 인텔리전스는 실버의 전직 구글 딥마인드 동료인 크리스 앱스, 보이치에흐 차르네츠키, 라세 에스페홀트, 오준혁을 비롯해 인스타딥의 전 연구 책임자 알렉상드르 라테르와 벤처캐피털 플라잉 피시"
+    },
+    {
+      "id": "7fed6ca3d391",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자·ASML, 차세대 반도체 마스크 12인치로 확대…생산성·원가 개선",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215007",
+      "published": "2026-09-08T08:05:00+00:00",
+      "summary": "삼성전자가 네덜란드 노광설비 기업 ASML과 차세대 반도체 기술 확보에 나선다.양사는 8일 기존 6인치 포토마스크를 12인치로 키우는 공동 개발에 참여하고, 2028년에는 업계 최초로 차세대 D램 생산에 차세대 노광 설비인 '하이(High) NA EUV(극자외선)' 장비를 도입한다고 발표했다.삼성전자는 ASML이 주도하는 '대형 마스크 컨소시엄(Large Size Mask Consortium)'에 참여해 12인치 포토마스크 개발을 위한 공동 연구, 표준 개발 등의 협력 활동을 펼칠 계획이다.포토마"
+    },
+    {
+      "id": "5f1fe8236a02",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 카카오, '카나나 인 카카오톡' 가입자에게 이모티콘 선물 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215011",
+      "published": "2026-09-08T08:00:00+00:00",
+      "summary": "■ 카카오(대표 정신아)가 카카오톡 내 AI 서비스인 ‘카나나 인 카카오톡(Kanana in KakaoTalk)’ 프로모션을 진행한다고 밝혔다. '카나나 인 카카오톡'은 온디바이스 AI 모델을 바탕으로 이용자의 대화 맥락을 이해하고, 필요한 정보를 ‘선톡’으로 제안하는 AI 서비스다. 오는 14일까지 카나나 인 카카오톡에 가입한 이용자에게는 ‘춘식이는 아깽이 3’ 카카오 이모티콘을 선착순으로 선물한다. ■ AI·DX 전문 인스웨이브(대표 어세룡)는 일본 주요 IT 기업 관계자 32명이 지난 4 일"
+    },
+    {
+      "id": "71fb366cf583",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 베스핀글로벌, 한국농수산식품유통공사 AI 챗봇 구축 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214983",
+      "published": "2026-09-08T08:00:00+00:00",
+      "summary": "■ 베스핀글로벌(대표 허양호)은 한국농수산식품유통공사(aT)의 대화형 정보검색 서비스 '채티(ChaTi)' 기능 고도화 사업 수행자로 선정됐다고 밝혔다. 베스핀글로벌은 자체 AI 플랫폼 '헬프나우 AI'를 활용해 에이전틱 AI 기반 지능형 비서 체계를 구축할 예정이다. ▲최신 대형언어모델(LLM) 및 검색증강생성(RAG) 아키텍처 개선 ▲수출 통계 데이터베이스(DB)와 비관세장벽 Q&A 등 학습 데이터 확대 ▲비정형 데이터의 광학문자인식(OCR) 기반 추출 체계 확립 등을 추진한다.■ 에이아이매틱"
+    },
+    {
+      "id": "8d46d262e0ba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프, AI 합성 이미지 무더기 게시...금융·외교 분야 논란 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215008",
+      "published": "2026-09-08T07:59:29+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 소셜미디어에 AI로 생성된 것으로 보이는 이미지를 잇달아 수십장 게시하며 주식 투자와 이란 전쟁, 미국의 영토 확장 등에 관한 광범위한 주장을 내놓았다. 상당수 주장은 객관적으로 확인할 수 있는 근거가 제시되지 않아 논란이 예상된다.CNBC에 따르면, 트럼프 대통령은 6일(현지시간) 하루 동안 10시간 이상 자신의 소셜미디어 플랫폼인 트루스 소셜(Truth Social)에 수십건의 게시물을 올렸다.여기에는 이란이 패배한 모습을 묘사한 이미지부터 말을 탄 트럼프 대통령과"
+    },
+    {
+      "id": "6a4fd0984e17",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "말레이시아, 미국 경고 무릅쓰고 화웨이 AI 칩 도입 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215006",
+      "published": "2026-09-08T07:50:22+00:00",
+      "summary": "말레이시아가 미국의 강력한 경고에도 불구하고 국가 차원의 AI 인프라 구축에 중국 화웨이의 AI 칩을 활용하는 방안을 검토하고 있는 것으로 알려졌다. 실제 도입이 결정되면 미국산 AI 칩 대신 중국산 가속기를 외국 정부가 공식적으로 선택하는 첫 사례가 되며, 도널드 트럼프 행정부의 강력한 중국 견제 기조에 정면으로 맞서는 중대한 전환점이 될 전망이다. 7일(현지시간) 블룸버그에 따르면, 말레이시아 정부는 약 20억링깃(약 6600억원)을 투입하는 소버린 AI 프로젝트의 핵심 하드웨어로 화웨이의 '"
+    },
+    {
+      "id": "81b9d2dc6ede",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미스트랄, 삼성 주도로 4.4조 투자 유치…\"소버린 AI 구축 가속\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215009",
+      "published": "2026-09-08T07:27:34+00:00",
+      "summary": "프랑스의 미스트랄 AI가 30억유로(약 4조4000억원) 규모의 시리즈 D 투자 라운드를 유치하며 기업 가치 210억유로(약 31조원)를 넘어섰다. 이번 투자 유치로 소버린 AI 구축을 가속한다는 방침이다.미스트랄은 7일(현지시간) 설립 3년 만에 달성한 이번 성과가 유럽 테크 기업 역사상 단일 투자로는 역대 최대 규모라고 밝혔다.이번 투자 라운드는 삼성전자가 주도했으며, EQT가 운용하는 스케일업 유럽 펀드와 기존 투자자인 PSG 에쿼티가 공동 투자자로 이름을 올렸다.이 외에도 신규 투자자로 어"
+    },
+    {
+      "id": "178e2aea33dc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "화웨이·샤오미, 애플 이벤트 직전 폴더블 신제품 공개…중국 프리미엄 시장 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215004",
+      "published": "2026-09-08T07:10:00+00:00",
+      "summary": "화웨이와 샤오미가 애플의 신형 아이폰 공개를 앞두고 새로운 폴더블 스마트폰을 잇달아 선보이며 중국 프리미엄 스마트폰 시장 선점에 나섰다.화웨이는 7일 두 번 접어 태블릿 크기로 펼칠 수 있는 트라이폴드 스마트폰 신제품 '메이트 XT2' 시리즈를 공개했다.신제품에는 자체 개발한 '기린 9050 프로' 칩과 개선된 힌지 구조, 향상된 방수 기능이 적용됐다. 주변 사람이 화면을 엿보는 것을 막는 프라이버시 디스플레이 기능도 새로 탑재됐다.가격은 1만9999위안(약 400만원)부터 시작하며, 최고급 모델"
+    },
+    {
+      "id": "ec93458275e2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "published": "2026-09-08T07:00:00+00:00",
+      "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it"
+    },
     {
       "id": "17394057f9ed",
       "source": "AI타임스",
@@ -256,6 +586,28 @@
       "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ Comments URL: https://news.ycombinator.com/item?id=49605767 Points: 234 # Comments: 127"
     },
     {
+      "id": "8fc1869f8174",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mistral raises €3B",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "published": "2026-09-08T05:06:23+00:00",
+      "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/ Comments URL: https://news.ycombinator.com/item?id=49605767 Points: 567 # Comments: 397"
+    },
+    {
+      "id": "6c49a793ac63",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We have a year to fix security everywhere",
+      "link": "https://jyn.dev/a-year-to-fix-security/",
+      "published": "2026-09-08T04:48:10+00:00",
+      "summary": "Article URL: https://jyn.dev/a-year-to-fix-security/ Comments URL: https://news.ycombinator.com/item?id=49605691 Points: 261 # Comments: 256"
+    },
+    {
       "id": "f7b57e427253",
       "source": "AI타임스",
       "kind": "article",
@@ -287,6 +639,17 @@
       "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
       "published": "2026-09-08T02:00:00+00:00",
       "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After f"
+    },
+    {
+      "id": "9e5e275388a2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "link": "https://weirdgloop.org/blog/google-jail",
+      "published": "2026-09-08T01:57:23+00:00",
+      "summary": "Article URL: https://weirdgloop.org/blog/google-jail Comments URL: https://news.ycombinator.com/item?id=49604870 Points: 231 # Comments: 80"
     },
     {
       "id": "52850b52f1c0",
@@ -399,6 +762,17 @@
       "summary": "삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 엔터프라이즈 AX 컨퍼런스 '리얼 서밋(REAL Summit) 2026'을 개최하고, '다차원(Multi-Dimensional) AI 풀스택' 전략을 기반으로 AI 도입과 실제 비즈니스 성과 창출 사이의 간극을 줄일 수 있는 구체적인 실행 전략과 로드맵을 제시했다.이날 행사에는 현장 참석자 8000여명과 온라인 참여자를 포함해 총 1만5000여명의 업계 관계자들이 한자리에 모여 뜨거운 관심을 입증했다.이준희 대표는 기조연설에서 \"AX는 단"
     },
     {
+      "id": "19039e2e95d6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "TALA Is Open-Source",
+      "link": "https://d2lang.com/blog/tala-is-open-source/",
+      "published": "2026-09-07T23:37:42+00:00",
+      "summary": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 247 # Comments: 17"
+    },
+    {
       "id": "ae22a2ddc9ae",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -419,6 +793,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214925",
       "published": "2026-09-07T22:00:00+00:00",
       "summary": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model Fatigue)’이라고 표현했습니다.런포드(Runpod)의 젠 루 CEO는 “모델 피로감은 실제로 존재한다고 느낀다”고 말했습니다. 새로운 모델이"
+    },
+    {
+      "id": "165e5e1b4e98",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "published": "2026-09-07T20:32:55+00:00",
+      "summary": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 215 # Comments: 106"
     },
     {
       "id": "38da3e6a0504",
@@ -2060,6 +2445,17 @@
       "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 9월 6일 /PRNewswire/ -- 선도적인 양자 컴퓨팅 기업인 퀀티넘(Quantinuum Inc.) (NASDAQ: QNT) (이하 '당시')이 오늘 자사 경영진이 2026년 9월 9~10일 영국 런던에서 열리는 제23회 연례 범유럽 전략적 의사결정 콘퍼런스(Bernstein 23rd Annual Pan-European Strategic Decisions Conference)에 참가한다고 발표했다. 퀀티넘은 콘퍼런스 기간 중 파이어사이드 챗(f"
     },
     {
+      "id": "9e842f82504a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We built our house for LAN parties (2024)",
+      "link": "https://lanparty.house/",
+      "published": "2026-09-05T18:44:40+00:00",
+      "summary": "Article URL: https://lanparty.house/ Comments URL: https://news.ycombinator.com/item?id=49579443 Points: 208 # Comments: 112"
+    },
+    {
       "id": "4cb1043a58fe",
       "source": "TechCrunch",
       "kind": "article",
@@ -2212,6 +2608,17 @@
       "link": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
       "published": "2026-09-05T13:02:14+00:00",
       "summary": "Article URL: https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone Comments URL: https://news.ycombinator.com/item?id=49576124 Points: 253 # Comments: 257"
+    },
+    {
+      "id": "1d2756e2276b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "link": "https://arxiv.org/abs/2607.24888",
+      "published": "2026-09-05T11:25:18+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2607.24888 Comments URL: https://news.ycombinator.com/item?id=49575515 Points: 219 # Comments: 47"
     },
     {
       "id": "fb307c1b4f5b",
