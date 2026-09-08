@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-09-08T12:14:24.631848+00:00",
-  "count": 12251,
+  "updated_at": "2026-09-08T16:39:50.962345+00:00",
+  "count": 12277,
   "items": [
+    {
+      "id": "c0c10170fdf7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "published": "2026-09-08T16:20:31+00:00",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks."
+    },
+    {
+      "id": "cb137e4f65ef",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
+      "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
+      "published": "2026-09-08T16:00:00+00:00",
+      "summary": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial."
+    },
+    {
+      "id": "1eee764239f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "published": "2026-09-08T15:25:35+00:00",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department."
+    },
+    {
+      "id": "f15e07334ff5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pusheen’s first game is coming to Apple Arcade",
+      "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
+      "published": "2026-09-08T15:07:13+00:00",
+      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the c"
+    },
+    {
+      "id": "51f1fb0a1ba2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "published": "2026-09-08T15:04:09+00:00",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster."
+    },
+    {
+      "id": "0a3aaee99dc8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "published": "2026-09-08T14:17:48+00:00",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
+    },
+    {
+      "id": "f2e0b2f79c1d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "published": "2026-09-08T14:05:57+00:00",
+      "summary": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/ Comments URL: https://news.ycombinator.com/item?id=49610538 Points: 468 # Comments: 147"
+    },
+    {
+      "id": "686120e8dfbc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
+      "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
+      "published": "2026-09-08T14:04:37+00:00",
+      "summary": "Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and self-conscious using it. Plus, it's great to have a $700 investment dangling near your"
+    },
+    {
+      "id": "69a6dff164ab",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published": "2026-09-08T14:00:15+00:00",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+    },
+    {
+      "id": "23132ffa53e9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+      "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+      "published": "2026-09-08T14:00:00+00:00",
+      "summary": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and P"
+    },
+    {
+      "id": "c340c6413a69",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft breaks another patch Tuesday record",
+      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
+      "published": "2026-09-08T14:00:00+00:00",
+      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulner"
+    },
+    {
+      "id": "b0674bf84c27",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "published": "2026-09-08T14:00:00+00:00",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called "
+    },
+    {
+      "id": "52b594cf1c73",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
+      "link": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct",
+      "published": "2026-09-08T13:50:00+00:00",
+      "summary": "The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two news-filled events), which is expected to last around 30 minutes and, according to Ninten"
+    },
+    {
+      "id": "f638737bf40e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "휴네시온, N2SF '2·4' 모델 설계·구축 경험 공유",
+      "link": "https://zdnet.co.kr/view/?no=20260908224725",
+      "published": "2026-09-08T13:47:25+00:00",
+      "summary": "[지디넷코리아]정보보안 전문기업 휴네시온(대표 정동섭)은 7~8일 열린 ‘AIDC 보안 기술 워크숍’에서 ‘한국부동산원 N2SF 도입전략’을 주제로 국가 망 보안체계(N2SF) 모델 '2·4'의 실제 적용 전략과 구축 방향을 발표했다. 국정원이 만든 N2SF 모델은 1~11까지 총 11개가 있다. 이번 워크숍은 한국사이버안보학회가 주최하고 한전KDN과 N2SF연구회가 공동 주관했다. 공공 AIDC 구축 및 보안 전략과 AIDC 보안 특화 기술 및 공급망 보안, 국가·공공기관의 N2SF 도입전략 등"
+    },
+    {
+      "id": "541ea733e25c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "액셀리스, 한국 평택에 신규 제조 시설 건설",
+      "link": "https://zdnet.co.kr/view/?no=20260908221002",
+      "published": "2026-09-08T13:10:02+00:00",
+      "summary": "[지디넷코리아] 베벌리, 매사추세츠, 2026년 9월 8일 /PRNewswire/ -- 반도체 산업용 핵심 이온 주입 솔루션의 선도적인 공급업체인 액셀리스 테크놀로지스(Axcelis Technologies, Inc.)(Nasdaq: ACLS)는 오늘 한국 경기도 평택에 신규 이온 주입 장비 제조시설을 건설해 글로벌 제조 인프라에 미화 3500만 달러를 투자할 계획이라고 발표했다. Robert Mahoney, Axcelis’ EVP of Global Operations, with Kim Jeong-"
+    },
+    {
+      "id": "4e8ed444aaf4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "published": "2026-09-08T13:00:00+00:00",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely."
+    },
+    {
+      "id": "caa968e232e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오게임즈, 신작 '도깨비의 세계' 10월 8일 정식 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260908213354",
+      "published": "2026-09-08T12:33:54+00:00",
+      "summary": "[지디넷코리아]카카오게임즈(공동대표 김태환, 이시우)가 신작 '도깨비의 세계' 정식 출시일을 다음 달 8일로 확정했다.8일 카카오게임즈는 슈퍼캣(대표 김원배)이 개발 중인 신작 2.5D MMORPG '도깨비의 세계' 온라인 쇼케이스를 열고, 정식 출시일과 함께 게임의 주요 콘텐츠와 핵심 시스템을 소개하는 자리를 가졌다.쇼케이스에는 이시우 카카오게임즈 대표, 차명수 카카오게임즈 사업실장과 함게 슈퍼캣 박성준 PD, 장수민 디렉터가 참석했다. 출시일 공개와 함께 이날 쇼케이스에서는 상황에 맞춰 12개"
+    },
+    {
+      "id": "ce00560bf141",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메리츠증권, 벤징가와 파트너십 체결로 한국 투자자에게 실시간 미국 시장 인텔리전스 제공",
+      "link": "https://zdnet.co.kr/view/?no=20260908211013",
+      "published": "2026-09-08T12:10:13+00:00",
+      "summary": "[지디넷코리아] Stock News API와 Bulls Say Bears Say API를 통해 메리츠증권의 차세대 AI 투자 플랫폼 MOUM에 실시간 시장 뉴스와 애널리스트 투자 심리 분석 제공 디트로이트 및 한국 서울, 2026년 9월 8일 /PRNewswire/ -- 실시간 금융 뉴스 및 시장 인텔리전스 분야의 선도 기업 벤징가(Benzinga)가 메리츠증권이 자사 투자 플랫폼에 벤징가의 Stock News API와 Bulls Say Bears Say API를 도입해 한국 투자자들이 거래 과정"
+    },
+    {
+      "id": "360f7748cc46",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘, 미국 내 포획 이온 양자 컴퓨터 제조 발전 위해 미국 상무부와 1억 달러 규모 CHIPS R&D 지원금 최종 확정",
+      "link": "https://zdnet.co.kr/view/?no=20260908211002",
+      "published": "2026-09-08T12:10:02+00:00",
+      "summary": "[지디넷코리아] 연방정부 지원금으로 내결함성 포획 이온 양자 컴퓨팅 확장에 필요한 핵심 연구개발(R&D)과 미국 내 양자 반도체 제조 역량 지원. 퀀티넘, 차세대 포획 이온 및 제어 전자장치 제작을 위해 글로벌파운드리스(GlobalFoundries)와 협력하고, 신뢰성 높은 레이저와 광학 부품의 개발 및 제조를 위해 모나크 퀀텀(Monarch Quantum)과 협력해 워싱턴, 2026년 9월 8일 /PRNewswire/ -- 선도적인 양자 컴퓨팅 기업인 퀀티넘(Quantinuum)(나스닥: QNT"
+    },
     {
       "id": "fb4510ffd444",
       "source": "The Verge",
@@ -23,6 +232,61 @@
       "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
       "published": "2026-09-08T12:00:00+00:00",
       "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate."
+    },
+    {
+      "id": "9119d02965cc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "행안부, 조지아와 AI·디지털정부 협력 본격화…코카서스 진출 교두보 마련",
+      "link": "https://zdnet.co.kr/view/?no=20260908201306",
+      "published": "2026-09-08T11:34:41+00:00",
+      "summary": "[지디넷코리아]행정안전부가 조지아와 인공지능(AI)·디지털정부 분야 협력을 강화하며 국내 ICT 기업의 코카서스 지역 진출 확대에 나선다.행정안전부는 8일 정부서울청사에서 윤호중 장관이 방한 중인 파아타 살리아 조지아 법무부 장관을 만나 디지털정부 분야 협력 양해각서(MOU)를 체결했다고 밝혔다.이번 협약은 양국 간 AI와 디지털정부 협력을 구체화하고, 현지 거점인 디지털정부 협력센터를 중심으로 지속 가능한 협력 체계를 구축하기 위해 추진됐다.조지아는 2020년 디지털거버넌스청(DGA)을 설립한 "
+    },
+    {
+      "id": "ee511aaf06ac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 비트코인, 살아남을까",
+      "link": "https://zdnet.co.kr/view/?no=20260908111240",
+      "published": "2026-09-08T11:26:13+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 양자컴퓨터의 발전이 비트코인 보안을 위협할 수 있다는 우려가 나오고 있는데요. 놀랍게도 현재 유통되는 비트코인의 약 30%, 무려 604만 개가 해킹에 취약한 상태로 보관되고 있는 것으로 나타났어요. 특히 자물쇠 역할을 하는 암호화 방식의 종류에 따라 위험도가 크게 달라지는데요, 옛날 방식의 구형 자물쇠는 위험도가 100에 달하는 반면 표준 자물쇠는 30, 최신 자물쇠는 5 수준으로 안전성 차이가 뚜렷했어요. 비트코인은 지난 16년간 여러 고"
+    },
+    {
+      "id": "14b296d168a8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스파이록스, 유리 기판 양산 검사를 지원하는 고속 TGV 크랙 검사 시스템 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260908201013",
+      "published": "2026-09-08T11:10:13+00:00",
+      "summary": "[지디넷코리아]신주, 2026년 9월 8일 /PRNewswire/ -- 스파이록스(Spirox, TWSE: 3055)가 9월 8일 첨단 패키징 기술 포럼(Advanced Packaging Technology Forum)을 개최해 코닝(Corning)과 DNP의 전문가들을 한자리에 모아 차세대 AI 및 HPC 응용 분야를 위한 글래스코어(Glass Core), TGV, 신뢰성 및 검사 기술에 대한 인사이트를 공유했다. 스파이록스는 또한 SP7000G 고속 TGV 크랙 검사 시스템을 공개해 글래스코어"
+    },
+    {
+      "id": "2abb254c06c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "페프로민 바이오, 기존 CD19 CAR T세포 치료 실패 포함 재발성/불응성 B세포 림프종에서 깊고 지속적인 완전관해 입증한 제1상 임상시험 결과 랜싯에 게재 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260908201003",
+      "published": "2026-09-08T11:10:03+00:00",
+      "summary": "[지디넷코리아] 어바인, 캘리포니아, 2026년 9월 8일 /PRNewswire/ -- 페프로민 바이오(PeproMene Bio, Inc.)가 재발성 또는 불응성 B세포 비호지킨 림프종 환자를 대상으로 자사의 혁신신약(first-in-class) BAFF-R 표적 CAR T세포 치료제 PMB-CT01을 평가한 제1상 임상시험 결과가 세계적인 의학 학술지 랜싯(The Lancet)에 게재됐다고 오늘 발표했다. 이번 결과는 승인된 CAR T세포 치료제와 비교해 보다 우수한 안전성 프로파일과 함께 지속"
+    },
+    {
+      "id": "19b777198b03",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "연구부정, 지원금 30배까지 물린다…평가체계도 전면 개편",
+      "link": "https://zdnet.co.kr/view/?no=20260907160333",
+      "published": "2026-09-08T11:05:38+00:00",
+      "summary": "[지디넷코리아]내년 3월부터는 연구부정 제재 부가금을 정부 지원금의 30배까지 부과할 수 있게 된다.과학기술정보통신부는 이같은 내용을 골자로 한 국가연구개발혁신법 일부 개정법률 공포안이 8일 국무회의에서 심의·의결됐다고 밝혔다. 공포는 의결된 뒤 대략 1주일 정도인 다음 주 이루어질 것으로 예상된다고 과기정통부측은 밝혔다. 시행일은 개정법률 공포 후 6개월이 경과한 내년 3월 정도다.이번 개정은 연구자 편에서 자율성과 도전성을 부여한 만큼 연구부정에 대해서는 단호하게 대처, 신뢰와 책임에 기반한 "
     },
     {
       "id": "bd375790b788",
@@ -210,6 +474,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260908174051",
       "published": "2026-09-08T08:44:41+00:00",
       "summary": "[지디넷코리아]국가인공지능(AI)전략위원회가 '독자 AI 파운데이션 모델 프로젝트' 평가 결과 검증 체계 마련에 나선 것으로 전해졌다. 과학기술정보통신부 중심으로 진행돼 온 사업자 선정 절차에 전략위가 참여해 평가 객관성·신뢰성을 높이려는 취지다.8일 IT 업계 관계자에 따르면 하정우 국가AI전략위 부위원장은 이날 오전 전략위 관계자들에게 독파모 평가 결과를 전략위 차원에서도 검증하는 방안을 추진하겠다는 계획을 공유한 것으로 전해졌다. 조만간 과기정통부에 전략위 평가 참여를 공식 요청할 방침이다."
+    },
+    {
+      "id": "1be26812b779",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "published": "2026-09-08T08:42:56+00:00",
+      "summary": "Article URL: https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten Comments URL: https://news.ycombinator.com/item?id=49607443 Points: 352 # Comments: 306"
     },
     {
       "id": "187e05eed656",
@@ -573,6 +848,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260908143202",
       "published": "2026-09-08T05:32:02+00:00",
       "summary": "[지디넷코리아]미스트랄AI가 삼성전자 주도 투자 유치 발판으로 소버린 인공지능(AI) 사업 확대에 나선다.미스트랄은 시리즈 D 투자 라운드에서 30억 유로(4조 6000억원)를 유치했다고 8일 밝혔다. 이번 투자로 기업가치 210억 유로(32조 7000억원) 이상 인정받으며 창업 3년 만에 유럽 기술기업 중 가장 큰 규모의 지분 투자 유치 기록을 세웠다.이번 투자는 삼성전자가 주도했다. EQT가 운용하는 스케일업 유럽 펀드와 기존 투자사인 PSG에쿼티가 공동 주도 투자자로 참여했다.미스트랄은 확보"
+    },
+    {
+      "id": "d022b2dbe818",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "published": "2026-09-08T05:23:07+00:00",
+      "summary": ""
     },
     {
       "id": "2265f49943f6",
