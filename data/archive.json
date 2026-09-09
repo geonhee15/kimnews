@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-09-08T22:02:22.836030+00:00",
-  "count": 12306,
+  "updated_at": "2026-09-09T00:13:05.286225+00:00",
+  "count": 12310,
   "items": [
+    {
+      "id": "0aeaf609af26",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월8일] 오픈AI 내부에서 무슨 일이 벌어지고 있나…현실이 된 ‘AI 연구 인턴’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214978",
+      "published": "2026-09-08T22:00:00+00:00",
+      "summary": "오픈AI가 6일(현지시간) 공식 블로그를 통해 자사 연구 조직에서 AI 에이전트가 어떻게 활용되고 있는지를 공개했습니다. 연구원들이 AI 에이전트에 하루 수백~수천달러의 추론 비용을 쓰고 있으며, AI에 맡기는 작업도 점점 복잡해지고 있고, 연구원들이 작성하는 코드와 수행하는 실험도 크게 늘었다는 내용입니다.하지만 이번 발표에서 가장 주목할 대목은 단순한 사용량 지표가 아니라, 오픈AI가 지난해 10월 공언했던 ‘AI 연구 인턴’ 목표의 이행 여부를 공식적으로 검증했다는 점입니다.당시 샘 알트먼 "
+    },
     {
       "id": "978e756e78fc",
       "source": "TechCrunch",
@@ -309,6 +320,39 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
       "published": "2026-09-08T14:55:45+00:00",
       "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 350 # Comments: 88"
+    },
+    {
+      "id": "c033a2cc5c6a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "published": "2026-09-08T14:55:45+00:00",
+      "summary": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 475 # Comments: 114"
+    },
+    {
+      "id": "96cf1420b09b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "published": "2026-09-08T14:49:19+00:00",
+      "summary": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 202 # Comments: 99"
+    },
+    {
+      "id": "2f50d567bb70",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The two Christian saints who are the Buddha",
+      "link": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "published": "2026-09-08T14:44:25+00:00",
+      "summary": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 205 # Comments: 145"
     },
     {
       "id": "65b4f81c070a",
