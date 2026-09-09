@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-09-09T04:43:33.097218+00:00",
-  "count": 12340,
+  "updated_at": "2026-09-09T09:13:09.277280+00:00",
+  "count": 12359,
   "items": [
+    {
+      "id": "6625926828cb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...\"미국 기술 악의적 복제\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215064",
+      "published": "2026-09-09T08:12:07+00:00",
+      "summary": "미국 정부가 중국 AI 기업들이 미국 AI 기업의 기술을 ‘증류(distillation)’ 방식으로 악의적으로 복제하고 있다며 공개적으로 비난했다. 이달 말 양국 정상회담을 앞두고 터져 나온 이번 발표로 인해 양국 간 AI 기술 경쟁과 지식재산권 갈등이 더 격화할 가능성이 제기된다.로이터에 따르면, 미국 법 집행 및 정보기관 관계자들은 8일(현지시간) 중국 AI 기업 6곳이 미국 AI 연구소의 지식재산을 활용해 자체 AI 모델을 더 빠르게 개발하고 있다고 주장했다.지목된 기업에는 딥시크, 문샷AI"
+    },
+    {
+      "id": "35f53df55f06",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퀄컴, 아마존과 AI 추론 칩 공동 개발...\"스마트폰 넘어 데이터센터로\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215041",
+      "published": "2026-09-09T08:05:47+00:00",
+      "summary": "퀄컴이 아마존웹서비스(AWS)와 손잡고 여러 세대에 걸친 맞춤형 데이터센터용 AI 칩 개발에 나선다. 스마트폰용 칩 중심의 사업 구조에서 벗어나 데이터센터와 AI 칩을 새로운 성장동력으로 키우려는 전략으로, AI 데이터센터 시장을 사실상 주도하고 있는 엔비디아에 대한 도전도 본격화할 전망이다.퀄컴은 8일(현지시간) 아마존과 AWS의 AI 인프라 구축을 지원하기 위한 다년간의 제품 협력 계약을 체결했다고 밝혔다.양사는 특히 AI 추론 작업의 효율성을 높이는 데 초점을 맞춰 여러 세대의 맞춤형 실리콘"
+    },
+    {
+      "id": "4e3d6833c555",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 넵튠, ABC마트에 기업용 채팅 솔루션 '클랫' 공급 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215043",
+      "published": "2026-09-09T08:00:00+00:00",
+      "summary": "■ 넵튠(대표 강율빈)은 'ABC마트코리아'에 기업용 채팅 솔루션 '클랫(KLAT)'을 공급했다고 밝혔다. 클랫은 고객사 내부 인트라넷에 연동해 사내 메신저처럼 사용할 수 있는 솔루션으로 소프트웨어개발키트(SDK)·API 등 서비스형 소프트웨어(SaaS)로 제공된다. 현재 150개 고객사에 도입돼 누적 사용자 5000만명을 돌파했다.■ 메가존클라우드(대표 염동훈)는 아마존웹서비스(AWS)로부터 'AWS 보안 컴피턴시'를 획득했다고 밝혔다. AWS의 최신 검증기준이 적용된 심사에서 클라우드 보안 기"
+    },
+    {
+      "id": "774b0838647a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인텔, 10월 CPU 가격 10% 추가 인상...수익성 방어 정조준",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215060",
+      "published": "2026-09-09T07:56:40+00:00",
+      "summary": "글로벌 PC 시장에서 부품 가격 상승 압력이 커지는 가운데 인텔이 수익성 방어를 위해 CPU 가격 인상 카드를 다시 꺼내 들었다.8일(현지시간) 대만 IT 전문 디지타임즈(DIGITIMES)에 따르면, 인텔은 오는 10월5일 PC용 CPU 가격을 추가로 10% 인상할 예정이다.이번 인상은 올해 들어서만 세 번째 가격 조정으로, 부품 및 제조 비용 상승에 대응하는 동시에 수익성이 낮은 제품을 줄여 CPU 사업의 이익률을 높이려는 전략으로 풀이된다.인텔은 2025년 말 이후 PC용 CPU 가격을 잇달"
+    },
+    {
+      "id": "f58a7e5c95b4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215062",
+      "published": "2026-09-09T07:50:00+00:00",
+      "summary": "엔비디아가 AI 시스템의 핵심 영역인 GPU 커널 개발에 프로그래밍 언어 러스트(Rust)를 본격 도입한다. 기존에는 러스트로 CUDA 커널을 호출하는 수준에 머물렀으나, 앞으로는 GPU 커널 자체를 러스트로 직접 작성해 네이티브 PTX 코드로 컴파일하는 ‘CUDA 러스트’를 추진하며 소프트웨어 생태계 전환에 나섰다.엔비디아는 8일(현지시간) CUDA 러스트를 공개하고 2027년 이후까지 관련 기술을 지속 발전시킬 계획이라고 밝혔다. CUDA C++와 CUDA 파이썬이 구축해 온 엔터프라이즈급 개"
+    },
+    {
+      "id": "239a98cad8b9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전 세계 농가 생성 AI 도입 급증…불황 속 17%가 필수 도구로 채택",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215063",
+      "published": "2026-09-09T07:46:29+00:00",
+      "summary": "글로벌 농업 시장이 고물가와 원자재 가격 변동성으로 진통을 겪는 가운데, 전 세계 농부들이 경영 난관을 극복하기 위한 핵심 솔루션으로 생성 AI를 빠르게 도입하고 있다. 로봇이나 지속가능성 소프트웨어 등 기존 농업 기술의 보급이 더딘 상황에서 생성 AI가 농업 분야 내 가장 가파른 성장세를 보이며 필수 경영 도구로 자리 잡았다는 분석이다.맥킨지앤드컴퍼니가 8일(현지시간) 발표한 '글로벌 농부 인사이트 2026' 보고서에 따르면, 전 세계 농가의 17%가 이미 농업 관련 작업과 경영 계획 수립에 생"
+    },
+    {
+      "id": "ca7d846716ec",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과기부, 국가 슈퍼컴퓨터 6호기 산학연 사용자 모집",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215059",
+      "published": "2026-09-09T07:21:01+00:00",
+      "summary": "과학기술정보통신부(장관 배경훈)는 9일부터 한국과학기술정보연구원(KISTI)과 ‘2026 국가슈퍼컴퓨터 6호기 혁신지원사업’ 사용자 공모를 실시한다고 밝혔다. 국가 슈퍼컴퓨터 6호기의 초고성능 연산자원을 활용할 산학연 연구자를 모집한다. 국가 핵심 과학 인프라로서 거대 계산과학, 데이터 시뮬레이션, AI기반 과학연구 등에 폭넓게 활용될 예정이다.슈퍼컴퓨터 6호기는 엔비디아의 ‘GH200’ 등 최신 GPU 8496개와 CPU 9936개를 탑재했으며 614페타플롭스(PFLOPS) 이론 연산성능, 20"
+    },
+    {
+      "id": "7ec4831d8dd8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI 무한 경쟁이 인류 위협\"…앤트로픽 핵심 연구원 사직",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215058",
+      "published": "2026-09-09T07:15:50+00:00",
+      "summary": "AI 업계의 무한 경쟁이 인류를 위협할 수 있다는 경고와 함께 앤트로픽의 핵심 연구원이 사표를 던졌다. 앤트로픽에서 사전훈련 연구를 담당해 온 연구원 제이콥 콕슨은 9일 X를 통해 통제 불가능한 AI 시스템 개발 경쟁에 대한 우려로 회사를 떠난다고 밝혔다.올해 27세인 영국 출신의 콕슨은 이전에도 오픈AI에서 근무하다 AI 안전을 최우선으로 내세운 앤트로픽으로 이직한 바 있다. 그러나 그는 정부의 강력한 규제나 업계 차원의 조직적인 개발 속도 조절 없이는 그 어떤 기업도 AGI를 책임감 있게 개발"
+    },
+    {
+      "id": "152ddabe1dc2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 클라우드-액센츄어, 현장 파견 AI 엔지니어 전담 조직 신설",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215040",
+      "published": "2026-09-09T06:47:44+00:00",
+      "summary": "구글 클라우드와 액센츄어가 기업 고객의 AI 도입과 실제 업무 적용을 지원하기 위해 현장 파견형 AI 엔지니어(FDE) 전담 조직을 신설한다. 기업 내부에 엔지니어를 직접 배치해 업무 프로세스를 분석하고 맞춤형 AI 애플리케이션을 구축하는 방식으로, AI 모델 자체보다 실제 기업 환경에 이를 구현하는 ‘AI 도입·구축’ 시장을 겨냥한 행보다.구글 클라우드와 액센츄어는 8일(현지시간) 액센츄어 산하에 ‘액센츄어 제미나이 엔터프라이즈 비즈니스 그룹(Accenture Gemini Enterprise B"
+    },
+    {
+      "id": "6ef7886a8f50",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215052",
+      "published": "2026-09-09T06:27:27+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)은 정명수 전기및전자공학부 교수와 팹리스 전문 파네시아가 메타 연구진과 공동 연구한 ‘차세대 AI 데이터센터 구조 제시’ 리뷰 논문이 네이처 리뷰 일렉트리컬 엔지니어링(NREE)에 게재됐다고 9일 밝혔다. 파네시아는 KAIST의 교원창업기업이다. 이번 메타 연구진과의 공동 연구를 통해 CPU, AI가속기, 메모리를 하나로 묶는 차세대 데이터센터 구조를 제시했다. 기존 데이터센터는 여러 컴퓨터가 네트워크를 통해 협업하는 방식이지만, 이번 구조는 서버 간 경계를"
+    },
+    {
+      "id": "955399dfeb85",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 파리 사클레대학교와 첨단 기술 연구협력 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215054",
+      "published": "2026-09-09T06:24:57+00:00",
+      "summary": "한국과학기술원(KAIST, 총장 배충식)은 과학기술특성화대학 연합체 K-STAR를 대표해 프랑스 파리 사클레 대학교와 연구협력 강화를 위한 MOU를 체결했다고 9일 밝혔다. 이번 협약은 이재명 대통령의 프랑스 국빈 방문을 계기로 마련됐다. 지난 4월 서울에서 열린 제9차 한-불 과학기술공동위원회 논의 사항의 연장선이다. K-STAR와 프랑스 대학 간 과학기술 및 인재 교류 확대 방안을 구체화한 것이다. 파리 사클레대는 프랑스를 대표하는 연구중심대학으로, 수학, 물리학 등 기초과학부터 AI, 양자기"
+    },
+    {
+      "id": "18225686b012",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 GPT 새 모델 사용시 주의사항 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/x3X9rMEpFOE",
+      "published": "2026-09-09T06:00:19+00:00",
+      "summary": ""
+    },
+    {
+      "id": "99299149c276",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "published": "2026-09-09T06:00:00+00:00",
+      "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster."
+    },
+    {
+      "id": "3c053fe3ab07",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+      "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+      "published": "2026-09-09T05:26:53+00:00",
+      "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting a"
+    },
+    {
+      "id": "987a59a1c98e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Workspace Promo Codes: 14% Off for September 2026",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "published": "2026-09-09T05:00:00+00:00",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
+    },
+    {
+      "id": "8f7b4272a966",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 고장 원인 찾는다…서연이화, 에이전트 공장 시동",
+      "link": "https://zdnet.co.kr/view/?no=20260909135504",
+      "published": "2026-09-09T04:56:48+00:00",
+      "summary": "[지디넷코리아]자동차 부품 전문기업 서연이화가 코난테크놀로지와 손잡고 기존 디지털전환(DX) 과정에서 축적한 업무 프로세스와 데이터를 활용해 인공지능(AI) 에이전트를 개발한다. 이를 바탕으로 전사 에이전틱 AI 확산을 위한 공통 운영 체계도 구축한다.홍석환 서연이화 AX추진팀 팀장은 9일 서울 서초구 엘타워에서 열린 '코난 AI 서밋 2026'에서 \"기존에 정리해 온 프로세스와 데이터를 활용해 실제 업무에서 작동하는 에이전트를 개발하겠다\"며 \"여기서 얻은 경험을 공통 기준과 운영 체제로 정착시킬"
+    },
+    {
+      "id": "495af32dd4b5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "번개장터, 경영시스템 국제 표준 인증 'ISO·IEC 27001' 획득",
+      "link": "https://zdnet.co.kr/view/?no=20260909101950",
+      "published": "2026-09-09T04:56:31+00:00",
+      "summary": "[지디넷코리아]번개장터는 국제표준화기구(ISO) 및 국제전기기술위원회(IEC)가 제정한 정보보호 경영시스템 국제 표준 인증 'ISO·IEC 27001'을 취득했다고 9일 밝혔다.ISO 27001은 ▲정보보호 정책과 ▲접근통제 ▲물리적 보안 ▲사고 대응 등 4개 영역에 걸쳐 93개 세부 통제 항목을 심사하는 정보보호 분야 국제 표준 인증이다.번개장터는 이번 인증 취득으로 6년 연속 유지 중인 과학기술정보통신부의 정보보호 관리체계(ISMS) 인증과 함께 국제 표준에 부합하는 정보보호 관리체계를 갖추게"
+    },
+    {
+      "id": "3db7c08d4298",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "검색만 하던 AI는 끝…공공 현장 파고든 에이전트",
+      "link": "https://zdnet.co.kr/view/?no=20260909125245",
+      "published": "2026-09-09T04:32:54+00:00",
+      "summary": "[지디넷코리아]인공지능(AI)이 정보 검색이나 문서 작성 도구를 넘어 실제 업무 과정에 직접 개입하는 사례가 공공 영역에서도 늘고 있다. 폐쇄망과 민감정보, AI 환각 등 제약을 고려하되, 반복적인 작업과 정보 처리 부담을 줄이는 방향으로 업무 단위에 AI를 연결하는 모습이다.코난테크놀로지가 9일 서울 서초구 엘타워에서 개최한 '코난 AI 서밋 2026'에서는 발전·법률 현장의 AI 에이전트 적용·도입 사례가 공유됐다.한국서부발전은 발전 현장에서 반복적으로 발생하는 정보 검색과 문서 작성, 설비 "
+    },
     {
       "id": "afb847dc4b29",
       "source": "AI타임스",
@@ -12,6 +210,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215039",
       "published": "2026-09-09T04:15:00+00:00",
       "summary": "미국 보안 스타트업이 AI 모델을 활용해 사용자의 아무런 클릭이나 조작 없이도 수시간 만에 수억대의 기기를 감염시킬 수 있는 해킹 도구를 개발해 충격을 주고 있다.미국 캘리포니아주 팔로알토의 보안 회사 칼리프(Calif)는 8일(현지시간) 최신 AI 모델을 활용해 글로벌 메신저 플랫폼 위챗(WeChat)을 무력화할 수 있는 해킹 도구를 개발했다고 밝혔다. AI가 취약점(RCE)을 발견하고 익스플로잇을 작성하는 데 2일, 이를 웜(Worm) 형태로 구축하는 데 추가로 일주일이 걸려 총 9일가량이 소"
+    },
+    {
+      "id": "544e3e501c0e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DN솔루션즈 송지호 상무, '기술개발인의 날' 국무총리표창 수상",
+      "link": "https://zdnet.co.kr/view/?no=20260909121114",
+      "published": "2026-09-09T04:09:15+00:00",
+      "summary": "[지디넷코리아]공작기계 기업 DN솔루션즈는 송지호 상무가 기술 개발 공적을 인정받아 국무총리표창을 수상했다고 9일 밝혔다.공작기계는 기계를 만들기 위한 기계로, 금속이나 기타 재료를 가공할 때 사용된다.과학기술정보통신부는 지난 7일 서울 여의도 페어몬트 앰배서더 그랜드볼룸에서 '2026년 기술개발인의 날 기념식'을 열고 민간 기술혁신과 산업 발전에 기여한 연구자들의 공로를 기렸다. 올해부터 매년 9월 7일이 기술개발인의 날이다.송 상무는 지난 25년간 공작기계 연구개발에 매진하며 항공우주, 반도체"
     },
     {
       "id": "bf753968b764",
