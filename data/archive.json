@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-09-09T00:13:05.286225+00:00",
-  "count": 12310,
+  "updated_at": "2026-09-09T04:43:33.097218+00:00",
+  "count": 12340,
   "items": [
+    {
+      "id": "afb847dc4b29",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"전화 안 받아도 감염\"...AI가 개발한 '클릭 제로' 모바일 해킹 도구 등장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215039",
+      "published": "2026-09-09T04:15:00+00:00",
+      "summary": "미국 보안 스타트업이 AI 모델을 활용해 사용자의 아무런 클릭이나 조작 없이도 수시간 만에 수억대의 기기를 감염시킬 수 있는 해킹 도구를 개발해 충격을 주고 있다.미국 캘리포니아주 팔로알토의 보안 회사 칼리프(Calif)는 8일(현지시간) 최신 AI 모델을 활용해 글로벌 메신저 플랫폼 위챗(WeChat)을 무력화할 수 있는 해킹 도구를 개발했다고 밝혔다. AI가 취약점(RCE)을 발견하고 익스플로잇을 작성하는 데 2일, 이를 웜(Worm) 형태로 구축하는 데 추가로 일주일이 걸려 총 9일가량이 소"
+    },
+    {
+      "id": "bf753968b764",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 개인용 AI 에이전트 '뮤즈' 공개...실생활 자동화 시장 출사표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215022",
+      "published": "2026-09-09T03:45:35+00:00",
+      "summary": "메타가 소비자를 대상으로 일상적인 업무를 대행하는 새로운 개인용 AI 에이전트를 공개했다. 단순히 질문에 답하는 기존 AI 챗봇에서 벗어나 사용자의 목표를 이해하고 필요한 작업을 스스로 계획·실행하는 ‘자율 동작형 AI’로 실생활 자동화 시장에 출사표를 던졌다. 메타는 8일(현지시간) 사용자의 명령에 따라 다양한 웹사이트와 서비스를 직접 이용해 복잡한 작업을 수행하는 소비자용 AI 에이전트 ‘뮤즈(Muse)’를 공개했다. 이전에 내부 코드명 '해치(Hatch)'로 알려진 뮤즈는 최신 모델 ‘뮤즈 "
+    },
+    {
+      "id": "50cc2cb16f71",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오, AI 영상 생성 연산 비용 대폭 줄이는 적응형 토큰화 기술 'KATok' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215036",
+      "published": "2026-09-09T03:36:33+00:00",
+      "summary": "카카오가 컴퓨터 비전 분야의 '유럽 컴퓨터 비전 학회(ECCV) 2026'에서 AI 영상 생성 모델의 난제로 꼽혀 온 방대한 연산량과 높은 계산 비용 문제를 해결하기 위한 신기술을 발표한다고 9일 밝혔다.ECCV는 CVPR(컴퓨터 비전 및 패턴 인식 학회), ICCV(국제 컴퓨터 비전 학회)와 함께 세계 3대 컴퓨터 비전 학회로, 올해는 오는 12일까지 스웨덴에서 개최된다. 이번 연구를 주도한 이연경 카카오 리서치 엔지니어가 학회에 참여해, 10일 포스터 세션2에서 직접 논문 발표에 나선다.고해상"
+    },
+    {
+      "id": "6a1dd52eb3a4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "래블업, 기술 컨퍼런스 ‘lab | up > /conf/6’ 개최…“AI산업 시대의 엔드투엔드”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215035",
+      "published": "2026-09-09T03:33:40+00:00",
+      "summary": "AI 인프라 관리 전문 래블업(대표 신정규)은 오는 29일 서울 삼성동 코엑스 3층 컨퍼런스룸에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’를 개최한다고 밝혔다.올해로 6회째를 맞는 컨퍼런스로 래블업의 AI 인프라 기술과 연구개발 성과를 공유하는 자리다. AI 업계의 기업 관계자와 개발자들이 기술적 과제와 해결 방안을 논의하기 위한 것이다. 2021년 온라인으로 처음 시작된 이후 매년 AI 산업의 주요 기술 변화에 맞춰 주제를 확장해 왔다.올해 컨퍼런스의 주제는 ‘Make AI Co"
+    },
+    {
+      "id": "2d8843d02321",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "PFCT, 토스와 대안신용평가 모델 고도화 협력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215031",
+      "published": "2026-09-09T03:27:54+00:00",
+      "summary": "PFCT(대표 이수환)는 '토스' 운영사 비바리퍼블리카와 금융 기관의 대안신용평가 모형 고도화 및 컨설팅을 위한 전략적 업무협약(MOU)을 체결했다고 9일 밝혔다.양사는 금융 기관의 여신 업무가 리스크 관리에 집중되는 한계를 넘어 여신승인전략까지 지원하도록 AI·대안정보 기반 솔루션 서비스를 공동 추진한다.토스는 한국평가데이터(KoDATA)와 개발한 대안신용평가 스코어와 대안정보를 기반으로 금융회사별 특성에 맞춘 신용평가모형(CSS) 패키지를 개발하고, PFCT는 해당 패키지를 자체 AI 렌딩테크"
+    },
+    {
+      "id": "a5e87a1fa559",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "팀네이버, 프랑스와 AI 팩토리·산업·콘텐츠 협업 비전 제시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215034",
+      "published": "2026-09-09T03:26:47+00:00",
+      "summary": "팀네이버가 이재명 대통령의 프랑스 순방을 계기로 프랑스 핵심 기업, 기관들과 AI 분야를 중심으로 한 다양한 비즈니스 협력 확대를 모색했다.최수연 네이버 대표와 김유원 네이버클라우드 대표는 대통령 프랑스 순방 기간 동안 프랑스 미디어·IT·에너지·모빌리티·금융 분야 대표 기업 CEO 등 참석자들과 만나 AI 협업 기회 발굴에 나섰다고 8일 밝혔다.특히, 인프라와 산업 특화 AI 및 콘텐츠 분야에서의 협력을 모색했다. 먼저, 최수연 대표는 8일(현지 시간) 진행된 한-프랑스 경제인 비즈니스 라운드 "
+    },
+    {
+      "id": "dd67d0163c07",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '스케치' 탑재한 '챗GPT 이미지 2.5' 공개…아레나 1위 석권",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215030",
+      "published": "2026-09-09T03:23:26+00:00",
+      "summary": "오픈AI가 AI 이미지 생성 기술의 속도와 정밀도를 한단계 끌어올리며 이미지 제작 경험을 확장했다. 여기에 사용자가 직접 그린 간단한 손그림을 AI에 전달해 원하는 이미지를 만들 수 있도록 하는 새로운 기능까지 추가하며 텍스트 중심의 이미지 생성 방식에서 한 단계 나아갔다. 오픈AI는 8일(현지시간) 이미지 생성 속도와 편집 정밀도를 크게 높인 새로운 이미지 생성 모델 ‘챗GPT 이미지 2.5(ChatGPT Images 2.5)’를 공개했다.특히 사용자가 직접 그린 간단한 그림을 이미지 생성의 참"
+    },
+    {
+      "id": "776d3a319049",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published": "2026-09-09T03:10:08+00:00",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would "
+    },
+    {
+      "id": "298fa7a1b568",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AWS, 국내 우주·위성 스타트업 대상 엑셀러레이터 프로그램 실시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215029",
+      "published": "2026-09-09T03:05:50+00:00",
+      "summary": "아마존웹서비스(AWS)는 우주항공청(KASA), 메가존클라우드와 국내 우주·위성 스타트업을 지원하는 'AWS 스페이스 엑셀러레이터: 한국 2026'을 시작한다고 9일 밝혔다.2021년 출범해 6년째를 맞는 이번 프로그램은 4주간 진행되며, 선정 스타트업에는 최대 10만달러 상당의 클라우드 크레딧을 포함해 전문가 기술 멘토링, 우주산업 리더의 비즈니스 코칭, 벤처캐피탈 및 잠재 고객과의 네트워킹 기회가 제공된다.지원 대상은 위성 제조·운영, 지구관측, 발사체, 궤도 서비스, 우주 통신, 우주 분야 "
+    },
+    {
+      "id": "47eded2a4e95",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 팔마문화제 12~13일 개최…효린 공연·최태성 토크콘서트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215028",
+      "published": "2026-09-09T03:04:14+00:00",
+      "summary": "AI 생성 영상순천 원도심이 이번 주말 공연과 역사 체험, 전시를 한자리에서 즐기는 축제 공간으로 바뀐다. 가수 효린의 축하공연과 역사강사 최태성의 토크콘서트, 가족 미션투어, 갤러리 스탬프 투어 등이 이틀간 이어진다.순천시는 오는 12일부터 13일까지 남문터광장과 문화의 거리 일원에서 ‘제43회 순천팔마문화제’를 개최한다고 밝혔다.올해 문화제는 ‘팔마정신 : 울림에서 이음으로’를 주제로 청렴과 배려의 가치를 공연·전시·체험 콘텐츠로 풀어낸다. 지역예술인이 직접 무대에 오르고 시민 참여 프로그램을"
+    },
+    {
+      "id": "d514dc5520d5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포 북항서 11일 ‘가을밤의 국악대향연’…판소리·검무·남도민요 한자리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215020",
+      "published": "2026-09-09T03:03:53+00:00",
+      "summary": "AI 생성 영상목포 북항 노을공원에서 판소리와 가야금병창, 검무, 남도민요를 한자리에서 즐길 수 있는 야외 국악공연이 열린다.목포시립국악원은 오는 11일 오후 7시 북항 노을공원 야외무대에서 ‘제26회 가을밤의 국악대향연’을 개최한다고 9일 밝혔다.이번 공연은 기악과 민요, 판소리, 무용 등 국악의 여러 장르를 한 무대에서 선보이는 방식으로 구성된다.가야금병창 ‘야월삼경’을 비롯해 ‘군밤타령’ ‘옹헤야’가 무대에 오르고, 역동적인 검무와 목포의 풍경을 담은 신민요 ‘목포팔경’도 선보인다.판소리 춘"
+    },
+    {
+      "id": "69bee3077a5b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전남광주, 사회연대경제박람회 11일 개막…기업 60여곳 참여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215019",
+      "published": "2026-09-09T03:02:33+00:00",
+      "summary": "AI 생성 영상전남광주지역 사회연대경제기업 60여곳이 참여하는 박람회가 오는 11일부터 13일까지 김대중컨벤션센터 야외광장에서 열린다. 지역 상품 판매와 체험뿐 아니라 추석선물전, 공공기관 우선구매 상담, 창업상담, 학술포럼 등이 함께 진행된다.전남광주통합특별시는 사흘간 ‘2026 전남광주통합특별시 사회연대경제박람회’를 개최한다고 9일 밝혔다.행사장은 판매·체험관과 유관기관 홍보관, 사회적기업 창업팀 홍보관, 이벤트 부스 등 모두 80개 부스로 구성된다. 이 가운데 전남광주지역 사회연대경제기업 6"
+    },
+    {
+      "id": "1407d3b87764",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 아동 목소리 정책으로…25개 요구항목 평가한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215025",
+      "published": "2026-09-09T03:01:17+00:00",
+      "summary": "AI 생성 영상여수시가 아동들이 직접 제안한 25개 정책 요구를 놓고 시민 의견을 추가로 수렴한다. 중요도와 시급성을 평가해 2028~2031년 아동친화도시 4개년 추진계획의 우선과제로 반영하는 것이 목적이다.여수는 이번달 3일부터 21일까지 시민 200여명을 대상으로 ‘아동요구 확인조사’를 온라인으로 진행한다고 9일 밝혔다.조사 대상이 되는 25개 항목은 지난달 22일 열린 시민참여 원탁토론회에서 아동들이 직접 제안한 의견 가운데 선정됐다.이번 조사에서는 각 요구사항이 실제 정책으로 얼마나 중요"
+    },
+    {
+      "id": "c833c53bb1f2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한준호 \"100억원 들인 EBS UHD, 10년째 송출 0건”",
+      "link": "https://zdnet.co.kr/view/?no=20260909115502",
+      "published": "2026-09-09T02:55:02+00:00",
+      "summary": "[지디넷코리아]한준호 더불어민주당 의원이 100억원 넘는 예산을 투입하고도 10년째 한 편도 송출하지 못한 EBS UHD 사업을 지적하며 정부의 지상파 UHD 전환정책을 전면 재점검해야 한다고 밝혔다. KBS와 EBS의 송신지원 비용분담 문제를 해결하지 못한 상황에서 장비와 인프라 투자만 계속하는 것이 타당한지 따져봐야 한다는 지적이다.한 의원은 8일 국회 과학기술정보방송통신위원회 전체회의에서 “EBS UHD 사업이 10년째 표류한 것은 개별 방송사만의 문제가 아니라 방송미디어통신위원회의 정책관리"
+    },
+    {
+      "id": "723d81779ccd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK하이닉스 \"3D D램에 파운드리 공정 활용\"",
+      "link": "https://zdnet.co.kr/view/?no=20260909103105",
+      "published": "2026-09-09T02:51:12+00:00",
+      "summary": "[지디넷코리아]SK하이닉스가 차세대 메모리 '3D D램' 반도체 개발에 파운드리 공정을 활용할 수 있다고 9일 밝혔다. 전날 이천캠퍼스 수펙스센터에서 열린 '2026 SK하이닉스 미래포럼'에서 SK하이닉스 김경훈, 손호영 부사장은 3D D램 주요 기술 방향으로 D램 주변회로의 로직 파운드리 공정 활용, 데이터 버스 대역폭 극대화, 초단거리 전송 등을 제시했다.3D D램은 기존에 평면(2D)으로 깔던 메모리 셀을 수직으로 쌓아 올려 집적도를 높인 차세대 D램이다.김 부사장과 손 부사장은 이 기술을 "
+    },
+    {
+      "id": "2b42f4c29f73",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KT, 122개 현업 아이디어로 사내 AX 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260909112008",
+      "published": "2026-09-09T02:42:04+00:00",
+      "summary": "[지디넷코리아]KT는 임직원이 현장에서 발굴한 업무 혁신 방안을 실제 AX 성과로 연결하는 실무 지원 프로그램 AX 디자인 클리닉을 운영하고 있다고 9일 밝혔다.AX 디자인 클리닉은 사내 AX 전문가들이 현업 실무자와 불편 사항을 분석하고, 이를 AX 관점에서 설계해 최적의 실행 방안을 만들어가는 프로그램이다.이 과정에서 AI 에이전트 무분별한 확대를 지양하고, 검증된 우수 사례와 표준 업무 과정을 자산으로 축적해 중복 구축을 방지하는 데 집중했다.현재까지 15개 조직에서 122건의 혁신 아이디어"
+    },
+    {
+      "id": "bcd97c9adb2a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥슨, 신작 MMORPG '템빨: 오버기어드' 시네마틱 티저 영상 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260909110418",
+      "published": "2026-09-09T02:40:02+00:00",
+      "summary": "[지디넷코리아]넥슨코리아(공동 대표 강대현∙김정욱)는 그레이게임즈(대표 최병천)가 개발 중인 신작 MMORPG '템빨: 오버기어드(OVERGEARED)'의 시네마틱 티저 영상을 공개했다고 9일 밝혔다.공식 유튜브 채널에 공개된 40초 분량의 시네마틱 티저 영상은 게임의 핵심인 무기 '검'이 직접 바라보는 1인칭 시점을 통해 '템빨: 오버기어드'의 세계관을 함축적으로 담았다. 게임 속 캐릭터가 다양한 무기를 든 동료들과 함께 거대 몬스터와 싸우며, 장비 중심으로 펼쳐질 대규모 전투의 서막을 담았다고"
+    },
+    {
+      "id": "051ea2751d8b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "남부발전, GS E&R과 산업단지 노후석탄열병합 ‘친환경 LNG’ 전환 추진",
+      "link": "https://zdnet.co.kr/view/?no=20260909113354",
+      "published": "2026-09-09T02:33:54+00:00",
+      "summary": "[지디넷코리아]한국남부발전(사장 김준동)은 GS E&R(대표 황병소)과 산업단지 내 친환경 에너지 공급을 위한 ‘신규 전원개발사업 공동협력 업무협약(MOU)’을 체결했다고 9일 밝혔다.남부발전과 GS E&R의 협약은 산업단지 열병합발전소에서 사용하는 석탄연료 보일러를 친환경 LNG 연료로 전환해 강화되는 환경규제와 탄소중립 흐름에 대응하기 위해 이뤄졌다.남부발전과 GS E&R은 업무협약을 바탕으로 ▲산업단지 내 석탄 보일러의 LNG 연료전환 및 현대화사업 계획 수립 ▲친환경 열 및 전기 공급을 위"
+    },
+    {
+      "id": "5c49b167aecb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"자고 일어나면 심장 점수 확인\"…삼성, '예방형' 헬스케어 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20260909110748",
+      "published": "2026-09-09T02:30:01+00:00",
+      "summary": "[지디넷코리아]삼성전자가 최신 스마트워치 라인업으로 '사후 진단'이 아니라 '사전 예방'에 초점을 맞춘 심장 건강관리 기술을 선보였다. 일상 속 생체신호 변화를 추적해 심장질환 골든타임을 확보하겠다는 구상이다. 삼성전자는 9일 미디어 브리핑을 열고 갤럭시 워치9과 워치 울트라2 등에 적용한 신규 헬스케어 기능과 기술 비전을 소개했다.갤럭시 워치 시리즈 헬스케어 기능 핵심은 '심장 건강점수(Heart Health Score)'다. 사용자의 일주일간 수면 상태, 중·고강도 활동량, 혈관 스트레스, 체"
+    },
+    {
+      "id": "2853e6287cd0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 속도전에 국회도 뛴다…최태원 \"입법도 혁신에 발맞춰야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260909112908",
+      "published": "2026-09-09T02:29:08+00:00",
+      "summary": "[지디넷코리아]인공지능(AI)을 비롯한 첨단산업 경쟁이 속도전으로 치닫는 가운데 최태원 대한상공회의소 회장이 기업의 혁신 속도에 맞춰 국회의 입법과 제도 개선도 속도를 내야 한다고 강조했다. 급변하는 국제정세로 대외 불확실성이 커진 만큼 국내 정책 변수라도 줄여 기업의 투자와 혁신을 뒷받침해야 한다는 주문이다.최 회장은 9일 국회 사랑재에서 열린 ‘국회 경제대도약위원회’ 출범식에서 “최근에는 속도전이라 시간을 기다리면 기다릴수록 대도약의 찬스를 잃게 되는 상황”이라며 “국제정세가 예측 가능한 상태"
+    },
+    {
+      "id": "f23ce3dd1646",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자 임직원 봉사단, 미얀마서 교육환경 개선…\"2년 연속 나눔 실천\"",
+      "link": "https://zdnet.co.kr/view/?no=20260909111451",
+      "published": "2026-09-09T02:27:31+00:00",
+      "summary": "[지디넷코리아]LG전자 임직원이 자발적으로 참여하는 '라이프스굿(Life’s Good) 봉사단'이 미얀마를 찾아 현지 저소득층 청소년 교육환경 개선 활동에 나섰다. LG전자는 라이프스굿 봉사단이 7~11일 미얀마 양곤 다케다 교육센터에서 봉사활동을 펼친다고 9일 밝혔다. 다케다 교육센터는 저소득층 청소년 교육과 지역개발을 지원하는 시설이다. LG전자는 지난해에 이어 2년 연속 방문했다.봉사단은 센터 내 신관에 청소년 직업훈련 실습장과 휴게시설을 조성하고 내·외부 페인트칠과 벽화 그리기, 외부 담장"
+    },
+    {
+      "id": "236b60c2d80a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넵튠, ABC마트에 기업용 채팅 솔루션 '클랫' 공급",
+      "link": "https://zdnet.co.kr/view/?no=20260909105057",
+      "published": "2026-09-09T02:20:01+00:00",
+      "summary": "[지디넷코리아]넵튠(대표 강율빈)은 에이비씨마트코리아(이하 ABC마트)에 자체 개발한 기업용 채팅 솔루션 ‘클랫(KLAT)’을 공급했다고 9일 밝혔다.클랫은 지난 5년간 축적한 실시간 대용량 트래픽 처리 기술과 서비스 안정성을 기반으로 고객사 확보 및 채팅 기능 구현을 넘어, 고객사 내부 인트라넷에 연동해 사내 메신저처럼 사용할 수 있는 솔루션으로 사업 영역을 확장해왔다.해당 솔루션은 기존 별도로 사용하던 외부 메신저 대신 자체 인트라넷 시스템을 유지하면서 ABC마트의 요청을 반영해 ▲채팅 기능 "
+    },
+    {
+      "id": "f03a3aa354a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] AI도 '집단 연구' 나섰다…오픈AI, 1만개 에이전트로 90년 수학 난제 풀어",
+      "link": "https://zdnet.co.kr/view/?no=20260909092946",
+      "published": "2026-09-09T02:19:21+00:00",
+      "summary": "[지디넷코리아]오픈AI가 90년 가까이 풀리지 않았던 수학 난제에 인공지능(AI) 에이전트 약 1만 개를 투입해 88시간 만에 해법을 찾아냈다. AI 경쟁이 더 강력한 모델을 만드는 데서 수많은 에이전트와 막대한 컴퓨팅 자원을 동원해 고난도 문제를 해결하는 방향으로 확장된 모습이다.오픈AI는 차세대 내부 AI 모델을 기반으로 한 에이전트들이 '나비에-스토크스 존재성과 매끄러움 문제'에 대한 해법을 제시했다고 9일 밝혔다. 나비에-스토크스 방정식은 물과 공기 같은 유체의 움직임을 설명하며, 존재성과"
+    },
+    {
+      "id": "b21fd3360be5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[토큰증권 점검②] 글로벌은 연결하는데 韓은 막혀…프라이빗체인 채택 논란",
+      "link": "https://zdnet.co.kr/view/?no=20260909104547",
+      "published": "2026-09-09T02:17:48+00:00",
+      "summary": "[지디넷코리아]블록체인 기술을 결합한 토큰증권 도입을 앞두고 금융위원회가 구체적인 정책 방향과 기술 기준을 내놨다. 토큰증권이 금융업계의 대표적 디지털 혁신으로 꼽히는 만큼 정책 발표에 엄청난 관심이 쏠렸다. 하지만 금융위가 내놓은 토큰증권 정책에 대해 업계는 기대와 함께 아쉬움을 표하고 있다. 토큰증권 정책이 시장 수요와 글로벌 흐름, 기술적 특성을 충분히 반영하고 있는지 짚어본다. [편집자주]토큰증권은 증권의 발행과 유통 과정에 분산원장 기술을 활용하는 블록체인 기반 디지털 증권이다. 기존 증"
+    },
+    {
+      "id": "c156f0885682",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국민 편의 개선 우수 사례 발굴…카카오, '공공혁신 어워즈' 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260909104426",
+      "published": "2026-09-09T02:15:06+00:00",
+      "summary": "[지디넷코리아]카카오는 자사 서비스를 활용해 행정 효율을 높이고 국민 편의를 개선한 공공혁신 우수 사례를 발굴하고 널리 알리고자 '2026 카카오 공공혁신 어워즈'를 열었다고 9일 밝혔다.올해 처음 열린 이번 행사에는 ▲중앙부처 ▲지방자치단체 ▲공공기관 등 30개 기관 관계자와 카카오 관계자 등 140여 명이 참석했다.카카오는 ▲카카오톡 ▲카카오맵 ▲카카오내비 등을 공공업무에 적용해 성과를 낸 사례를 공유하기 위해 행사를 마련했다. 지난 6월 30일까지 각 기관이 공개한 보도자료와 자료 등을 바탕"
+    },
     {
       "id": "0aeaf609af26",
       "source": "AI타임스",
@@ -12,6 +287,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214978",
       "published": "2026-09-08T22:00:00+00:00",
       "summary": "오픈AI가 6일(현지시간) 공식 블로그를 통해 자사 연구 조직에서 AI 에이전트가 어떻게 활용되고 있는지를 공개했습니다. 연구원들이 AI 에이전트에 하루 수백~수천달러의 추론 비용을 쓰고 있으며, AI에 맡기는 작업도 점점 복잡해지고 있고, 연구원들이 작성하는 코드와 수행하는 실험도 크게 늘었다는 내용입니다.하지만 이번 발표에서 가장 주목할 대목은 단순한 사용량 지표가 아니라, 오픈AI가 지난해 10월 공언했던 ‘AI 연구 인턴’ 목표의 이행 여부를 공식적으로 검증했다는 점입니다.당시 샘 알트먼 "
+    },
+    {
+      "id": "9016bf99fbf7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "link": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "published": "2026-09-08T21:23:13+00:00",
+      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal."
+    },
+    {
+      "id": "05c5296b0301",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "published": "2026-09-08T21:22:11+00:00",
+      "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 208 # Comments: 39"
+    },
+    {
+      "id": "86154fd54cc0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "published": "2026-09-08T21:11:46+00:00",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
     },
     {
       "id": "978e756e78fc",
@@ -89,6 +397,17 @@
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "published": "2026-09-08T20:12:51+00:00",
       "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket."
+    },
+    {
+      "id": "eb05af306285",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "published": "2026-09-08T20:07:55+00:00",
+      "summary": "Article URL: https://github.com/argonautlabsai/deltafin Comments URL: https://news.ycombinator.com/item?id=49616257 Points: 230 # Comments: 120"
     },
     {
       "id": "7ecab4d1bee0",
@@ -496,6 +815,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260908224725",
       "published": "2026-09-08T13:47:25+00:00",
       "summary": "[지디넷코리아]정보보안 전문기업 휴네시온(대표 정동섭)은 7~8일 열린 ‘AIDC 보안 기술 워크숍’에서 ‘한국부동산원 N2SF 도입전략’을 주제로 국가 망 보안체계(N2SF) 모델 '2·4'의 실제 적용 전략과 구축 방향을 발표했다. 국정원이 만든 N2SF 모델은 1~11까지 총 11개가 있다. 이번 워크숍은 한국사이버안보학회가 주최하고 한전KDN과 N2SF연구회가 공동 주관했다. 공공 AIDC 구축 및 보안 전략과 AIDC 보안 특화 기술 및 공급망 보안, 국가·공공기관의 N2SF 도입전략 등"
+    },
+    {
+      "id": "3d7982c960c3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Copperhead – Cursor for circuit boards",
+      "link": "https://copperhead.sh/",
+      "published": "2026-09-08T13:26:45+00:00",
+      "summary": "Article URL: https://copperhead.sh/ Comments URL: https://news.ycombinator.com/item?id=49610059 Points: 213 # Comments: 87"
     },
     {
       "id": "541ea733e25c",
