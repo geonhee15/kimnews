@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-10T19:42:35.932992+00:00",
-  "count": 12591,
+  "updated_at": "2026-09-10T21:55:02.569679+00:00",
+  "count": 12600,
   "items": [
+    {
+      "id": "d2c8efe8baa7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "published": "2026-09-10T21:51:59+00:00",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular."
+    },
+    {
+      "id": "98974fb6f930",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "published": "2026-09-10T21:31:19+00:00",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The Gi"
+    },
+    {
+      "id": "8a28d3ed17ca",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "published": "2026-09-10T21:25:21+00:00",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from rel"
+    },
+    {
+      "id": "270d0d9c42ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "published": "2026-09-10T20:59:51+00:00",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
+    },
+    {
+      "id": "50c992200b09",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "published": "2026-09-10T20:57:30+00:00",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
+    },
+    {
+      "id": "5e0659b56dd9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is AI Actually Going to Kill Us All?",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "published": "2026-09-10T20:30:37+00:00",
+      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election."
+    },
+    {
+      "id": "7bc012bc9735",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "published": "2026-09-10T19:50:04+00:00",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+    },
+    {
+      "id": "7e30f8019d18",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "published": "2026-09-10T19:44:20+00:00",
+      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companie"
+    },
     {
       "id": "8b66b0c9af65",
       "source": "Ars Technica",
@@ -526,6 +614,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+      "published": "2026-09-10T09:15:33+00:00",
+      "summary": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이 얼마인지만 볼 게 아니라, 실제 작업 하나를 제대로 성공시키는 데 총 얼마가 들었냐를 따져봐야 진짜 비용을 아낄 수 있다는 것이 핵심이다. 동일한 입"
+    },
+    {
+      "id": "6ece4d5a2b18",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 API 비용 절감법 공개…‘지침 부채’ 없애고 캐싱 활용",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215093",
       "published": "2026-09-10T09:15:33+00:00",
       "summary": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이 얼마인지만 볼 게 아니라, 실제 작업 하나를 제대로 성공시키는 데 총 얼마가 들었냐를 따져봐야 진짜 비용을 아낄 수 있다는 것이 핵심이다. 동일한 입"
