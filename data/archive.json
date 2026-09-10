@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-09-10T21:55:02.569679+00:00",
-  "count": 12600,
+  "updated_at": "2026-09-10T23:38:31.903043+00:00",
+  "count": 12610,
   "items": [
+    {
+      "id": "89eb9def33db",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "published": "2026-09-10T23:28:42+00:00",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development."
+    },
+    {
+      "id": "bd2111a24102",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215118",
+      "published": "2026-09-10T22:43:08+00:00",
+      "summary": "오픈AI가 'GPT-6 아스트라'에 대한 폭발적인 수요로 인해 서버 과부하가 발생하자 최상위 유료 요금제 신규 가입을 전격 중단했다.티보 소티오 오픈AI 제품 담당 책임자는 10일(현지시간) X를 통해 \"기존 사용자들이 최상의 경험을 누리고 아스트라 서비스를 계속 안정적으로 이용할 수 있도록 프로 플랜 구독을 일시 중단한다\"고 밝혔다.이에 따라 월 200달러(국내가 15만9000원)의 최상위 요금제인 '챗GPT 프로' 플랜에 대한 신규 구독 및 업그레이드가 일시적으로 중단된다.이번 조치는 최근 출"
+    },
+    {
+      "id": "6358c7e9a5f1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월10일] 애플 새 CEO 첫 무대…“AI 시대에도 결국 아이폰이 개인 AI 허브”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215083",
+      "published": "2026-09-10T22:00:00+00:00",
+      "summary": "존 터너스 애플 신임 CEO가 취임 후 처음 대중 앞에 섰습니다. 9일(현지시간) 애플파크에서 열린 약 90분의 신제품 행사에서 터너스가 직접 무대에 오른 시간은 약 16분으로, 오프닝과 AI 비전, 첫 폴더블 아이폰 ‘아이폰 듀오’ 공개, 클로징을 직접 맡았습니다.그가 가장 강조한 것은 의외로 새로운 AI 기기나 기능이 아니었습니다. 최근 오픈AI와 메타 등이 AI 전용 안경을 비롯한 새로운 AI 디바이스를 내놓으며 ‘스마트폰 다음의 기기’를 둘러싼 경쟁이 시작된 가운데, 터너스 CEO는 오히려"
+    },
     {
       "id": "d2c8efe8baa7",
       "source": "TechCrunch",
@@ -34,6 +67,17 @@
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "published": "2026-09-10T21:25:21+00:00",
       "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from rel"
+    },
+    {
+      "id": "75d4b92f91fc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20260910090943",
+      "published": "2026-09-10T21:01:01+00:00",
+      "summary": "[지디넷코리아]\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 결단한 것도 이런 이유에서입니다. 앞으로 국내 AI 보안 역량을 키워 국가 발전에 이바지하고자 합니다.\"김진휘 네이버클라우드 보안 전무와 성낙호 하이퍼스케일 AI 전무는 지난 9일 지디넷코리아와 만나 정부 '사이버보안 특화 AI 파운데이션 모델 개발'"
     },
     {
       "id": "270d0d9c42ed",
@@ -157,6 +201,17 @@
       "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC."
     },
     {
+      "id": "5f07e4eeb19d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
+      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "published": "2026-09-10T16:53:52+00:00",
+      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief."
+    },
+    {
       "id": "62ebd920522e",
       "source": "Wired",
       "kind": "article",
@@ -188,6 +243,17 @@
       "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
       "published": "2026-09-10T16:04:02+00:00",
       "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn."
+    },
+    {
+      "id": "837222a3b095",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "MS \"AI 악용 100만 건 이상 송장 사기 메일 전송 발견\"",
+      "link": "https://zdnet.co.kr/view/?no=20260910195946",
+      "published": "2026-09-10T16:00:01+00:00",
+      "summary": "[지디넷코리아]미국 마이크로소프트(MS)가 AI를 악용한 대규모 경영진 사칭 및 송장 사기 캠페인을 발견했다. 보안분야서 캠페인(campaign)은 광고나 홍보 활동을 뜻하는 게 아니라, 공격자(해커)가 특정 목적을 달성하기 위해 일정 기간 동안 벌이는 일련의 사이버공격 활동을 의미한다. 이번 송장 사기 캠페인은 제3자 이메일 전송 인프라를 이용, 금융 사기 이메일 100만 건 이상을 발송했다. 기존의 송장 사기 수법은 한 가지 사회공학 기법에 의존했는데, 이번 캠페인은 경영진 사칭과 공급업체 위"
     },
     {
       "id": "4b90a384af3b",
@@ -232,6 +298,39 @@
       "link": "https://cognition.com/blog/swe-2",
       "published": "2026-09-10T15:29:47+00:00",
       "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 201 # Comments: 97"
+    },
+    {
+      "id": "8364b3d5b718",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images",
+      "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "published": "2026-09-10T15:29:30+00:00",
+      "summary": "https://dstretch.com/DecorrelationStretch.pdf Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 243 # Comments: 37"
+    },
+    {
+      "id": "b755cd99659e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Don't let anyone take away your big box of cables",
+      "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "published": "2026-09-10T15:27:22+00:00",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 262 # Comments: 214"
+    },
+    {
+      "id": "0c64a5cf608e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "2026 ZTE 글로벌 서밋 & 유저 콩그레스, 쿠알라룸푸르에서 개막하며 연결성에서 디지털 가치 창출로 도약",
+      "link": "https://zdnet.co.kr/view/?no=20260911001004",
+      "published": "2026-09-10T15:10:04+00:00",
+      "summary": "[지디넷코리아] 제15회 ZTE 글로벌 서밋 & 유저 콩그레스(ZTE Global Summit & User Congress)가 말레이시아 쿠알라룸푸르에서 공식 개막했으며, GSMA M360 아세안(GSMA M360 ASEAN)과 처음으로 동시 개최 말레이시아 장관급 인사, 주말레이시아 중국대사, GSMA 지도부, 글로벌 통신사 임원 및 업계 파트너들이 네트워크 진화, AI 기반 혁신 및 디지털 경제의 번영을 공동 모색 ZTE, 전 시나리오 AI 네트워크 솔루션과 TCO 최적화 AI Factory,"
     },
     {
       "id": "5a0225a836e1",
@@ -353,6 +452,17 @@
       "link": "https://shopify.engineering/back-to-native",
       "published": "2026-09-10T14:09:31+00:00",
       "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 408 # Comments: 280"
+    },
+    {
+      "id": "186f637c6fe2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "link": "https://shopify.engineering/back-to-native",
+      "published": "2026-09-10T14:09:31+00:00",
+      "summary": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 672 # Comments: 448"
     },
     {
       "id": "9f0638fb9e26",
