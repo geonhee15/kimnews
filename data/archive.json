@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-09-10T04:45:06.409077+00:00",
-  "count": 12507,
+  "updated_at": "2026-09-10T09:13:21.365750+00:00",
+  "count": 12535,
   "items": [
+    {
+      "id": "bc62d57370d8",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 클로드 요금제의 충격적인 진실",
+      "link": "https://www.youtube.com/shorts/okWsZFTUdYU",
+      "published": "2026-09-10T09:00:07+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f75fae63246e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Healthcare AI’s next test is integration",
+      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "published": "2026-09-10T08:58:01+00:00",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing docu"
+    },
+    {
+      "id": "810c14f6b3de",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"초파리 뇌로 게임 돌린다\"...구글 뉴런 지도화에 엔지니어들 '이색 실험'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215099",
+      "published": "2026-09-10T08:56:19+00:00",
+      "summary": "AI가 인간의 뇌를 이해하기 위한 과학 연구를 넘어 생물의 신경망 자체를 디지털 환경에서 구현하는 단계로 발전하고 있다. 실제 초파리의 뇌와 신경 연결 구조를 통째로 디지털화한 연구 결과가 공개되자, 개발자들이 이를 게임 조작에 적용하는 이색적인 실험까지 잇따라 선보였다. 구글 리서치와 HHMI 자넬리아 연구캠퍼스 연구진은 7일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계 전체를 정밀하게 지도화한 신경 연결지도(커넥톰·Connectome)를 최초로 공개했다.수백만장의 2차원 이미지를 AI로 분석"
+    },
+    {
+      "id": "53ffc7f2b18a",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Humans + AI Cracked An Impossible Math Problem",
+      "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "published": "2026-09-10T08:47:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3d9724814a80",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215104",
+      "published": "2026-09-10T08:43:05+00:00",
+      "summary": "오픈AI의 '불량 AI 에이전트'들이 자체적인 외부 게시 제한을 우회해 최소 10곳 이상의 제3자 웹사이트를 비공식 통신 채널로 활용한 정황이 추가로 드러났다. 앞서 독일어 위키 사이트와 오픈소스 플랫폼 허깅페이스를 대상으로 발생한 사건에 이어 유사한 활동이 광범위하게 이뤄졌다는 분석이 나오면서, 자율형 AI 에이전트의 통제 가능성과 기업의 사고 공개 방식에 대한 우려가 커지고 있다.9일(현지시간) 로이터가 검토한 6개 독립 조사팀의 조사 결과와 자료에 따르면, 오픈AI가 배포한 AI 에이전트들은"
+    },
+    {
+      "id": "c87c0a40d9fe",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 네 번째 AI 무단 침입 공개...시스템 누락에 4억건 재조사",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215105",
+      "published": "2026-09-10T08:31:21+00:00",
+      "summary": "앤트로픽이 AI 모델의 사이버보안 테스트 과정에서 외부 시스템에 무단으로 침입한 네 번째 사고를 뒤늦게 공식 확인했다. 이번 사고는 지난 1월 초기 버전의 ‘클로드 오퍼스 4.6’과 관련된 것으로, 앤트로픽은 피해를 입은 당사자에게 통보를 마쳤지만 구체적인 대상이나 피해 내용은 공개하지 않았다.앤트로픽은 9일(현지시간) 공식 블로그를 통해 해당 사고가 지난 1월 발생했으며, 당시 테스트에 사용된 클로드 오퍼스 4.6 초기 버전이 외부 시스템에 침입하는 행동을 보였다고 밝혔다.이번 사고를 이전에 발"
+    },
+    {
+      "id": "36ea4f9c41f0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
+      "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+      "published": "2026-09-10T08:22:40+00:00",
+      "summary": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, which published both of Kojima"
+    },
+    {
+      "id": "e6a69291ed2e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215110",
+      "published": "2026-09-10T08:09:18+00:00",
+      "summary": "중국 규제 당국이 유니트리 로보틱스의 상장 이후 주가 변동성을 계기로 휴머노이드 로봇 스타트업들의 기업공개(IPO) 승인 심사를 대폭 강화하고 나섰다. 모방 업체가 난립하지만, 실질적인 기술적 돌파구는 부족한 과열 시장을 진정시키기 위한 조치다. 9일(현지시간) 디 인포메이션에 따르면, 중국 증권감독관리위원회(CSRC)는 최근 일부 투자은행과 투자사들에 비공식 '창구 지도(window guidance)'를 내려보내 휴머노이드 기업의 IPO 승인 기준을 높이겠다는 입장을 전달했다.이에 따라 상장을 "
+    },
+    {
+      "id": "7351c3e7b7ab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 9.81파크 제주, 월간 매출 '24억'으로 최고치 경신 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215117",
+      "published": "2026-09-10T08:00:00+00:00",
+      "summary": "■ 디에스엠(DSM, 104040)이 운영하는 9.81파크 제주가 지난 8월 23억9000만 원의 판매액을 기록하며 2020년 개장 이후 월간 기준 최고치를 경신했다고 밝혔다. 전년 동월 대비 8.0% 증가한 수치로, 파크 내 티켓과 리테일·F&B를 합산한 현장 판매액 기준이다. 8월 9.81파크 제주를 찾은 외국인 이용객은 전년 동월 대비 72.3% 증가했다. ■ KT(대표 박윤영)가 서울아산병원(병원장 박승일)과 ‘AI병원’ 구축에 나선다. 임상 현장에 적용 가능한 AI 의료서비스 개발을 위한"
+    },
+    {
+      "id": "80bd992be086",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 에너자이, 브로드컴과 온디바이스 AI 기술 공유 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215111",
+      "published": "2026-09-10T08:00:00+00:00",
+      "summary": "■ 에너자이(대표 장한힘)는 오는 11일 네덜란드 암스테르담에서 열리는 방송·미디어 전시회 'IBC 2026'에 참가한다고 밝혔다. 에너자이는 온디바이스 특화 AI 에이전트 개발 기업으로 셋톱박스 등 스마트홈 기기 300만 대 이상에 온디바이스 AI를 배포한 경험을 공유한다. 특히 브로드컴과 협업을 통해 브로드컴 칩이 탑재된 셋톱박스에서 구동되는 AI 에이전트 데모를 선보이며, '커넥티드 홈을 위한 온디바이스 인텔리전스'를 주제로 공동 발표도 진행한다.■ SK텔레콤(대표 정재헌)은 말레이시아 쿠알"
+    },
+    {
+      "id": "9a2fb361428c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215109",
+      "published": "2026-09-10T07:59:56+00:00",
+      "summary": "최초의 AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션(Cognition)이 불과 4개월 만에 기업 가치를 크게 높이며 또 한 번 대규모 자금 조달에 성공했다. 코그니션은 9일(현지시간) 20억달러(약 2조7000억원) 규모의 시리즈E 투자를 유치하며 기업 가치를 480억달러(약 64조원)로 끌어올렸다고 발표했다. 지난 5월 260억달러의 가치로 10억달러 이상을 조달한 지 불과 4개월 만에 몸값이 85% 급증한 것이다.이번 투자 라운드는 신규 투자자인 앤드리슨 호로위츠(a16z)와 액"
+    },
+    {
+      "id": "83fe0758bc82",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "수노, 워너뮤직·BMG 손잡고 정식 라이선스 'v6' AI 음악 모델 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215106",
+      "published": "2026-09-10T07:47:04+00:00",
+      "summary": "AI 음악 생성 스타트업 수노(Suno)가 워너뮤직그룹, BMG와 협력해 정식 라이선스를 확보한 음악을 기반으로 새로운 음악을 생성할 수 있는 AI 모델을 출시했다.수노는 9일(현지시간) 워너뮤직그룹 및 BMG와 협력해 개발한 ‘v6’ 세대 AI 음악 모델 제품군을 공개했다.참여 아티스트의 라이선스 음악에서 영감받아 새로운 음악을 만들 수 있도록 설계됐으며, 기존 모델보다 빠르고 높은 품질의 결과물을 제공하는 것이 특징이다.프로와 프리미어 가입자는 v6와 실험적인 ‘v6-와일드(Wild)’를 사용"
+    },
+    {
+      "id": "0aa04c4dcd4e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메가프로젝트 재생에너지 공급 의무화에 찬성 63% 넘어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215107",
+      "published": "2026-09-10T07:32:26+00:00",
+      "summary": "기후·에너지 커뮤니케이션 전문 기후미디어허브가 여론조사 기관 엠브레인에 의뢰해 전국 만 20~69세 남녀 5000명을 대상으로 실시한 조사 결과, 반도체 클러스터·AI 데이터센터 등 ‘3대 메가프로젝트’ 사용 전력의 일정 비율 이상을 재생에너지로 공급하도록 의무화하는 제도에 63.2%가 찬성하는 것으로 집계됐다.응답자의 67.8%가 3대 메가프로젝트 추진 자체를 긍정적으로 평가했으며, 프로젝트 추진을 위한 필요 요소로 ‘전문 인력 양성’(30.6%)에 이어 ‘안정적인 전력 확보’(20.7%)를 최"
+    },
+    {
+      "id": "c64bd08ebe87",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 연내 IPO 추진…씨틱증권 주관사 선정해 스타마켓 상장 준비",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215101",
+      "published": "2026-09-10T07:12:53+00:00",
+      "summary": "딥시크가 중국 본토 기업공개(IPO)를 추진하기 위해 씨틱증권(CITIC Securities)을 주관사로 선정한 것으로 알려졌다. 상하이증권거래소의 기술 기업 중심 시장인 스타마켓(STAR Market) 상장을 위한 절차에 착수할 계획으로, 딥시크의 IPO 추진이 구체적인 단계에 접어들었다는 신호로 풀이된다.로이터는 9일(현지시간) 딥시크가 최근 씨틱증권을 IPO 준비를 위한 증권사로 선정했으며, 올해 안에 IPO 절차를 시작하는 것을 목표로 하고 있다고 보도했다.본토 증시 상장을 추진하는 기업들"
+    },
+    {
+      "id": "cb0a88d9dcca",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, ‘미소스 5.1’ 영국 AISI 사전 검증 거부...'AI 보호주의' 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215090",
+      "published": "2026-09-10T07:04:06+00:00",
+      "summary": "최첨단 AI 모델을 둘러싼 국가 간 기술 접근 경쟁이 안전성 검증 영역으로까지 번지고 있다. 앤트로픽이 최신 모델에 대한 사전 접근 권한을 미국 내 검증 기관으로 제한하면서, 동맹국인 영국의 AI 안전 연구 기관조차 최신 기술을 검증하지 못하는 상황이 발생했다. 9일(현지시간) 파이낸셜타임스에 따르면, 앤트로픽이 최신 AI 모델 ‘클로드 미소스 5.1’의 출시 전 검증을 영국 AI 보안연구소(UK AISI)에 제공하지 않은 것으로 알려지면서 영국 정부 안팎에서 우려가 커지고 있다.미국 정부의 강화"
+    },
+    {
+      "id": "d3feb507b461",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"케이블TV 산업 쇠퇴기인데, 정책·제도는 확장기\"",
+      "link": "https://zdnet.co.kr/view/?no=20260910115519",
+      "published": "2026-09-10T07:00:03+00:00",
+      "summary": "[지디넷코리아][광주=홍지후 기자] 케이블TV 시장이 매출과 영업이익 감소에 방송사업 적자까지 겹치며 쇠퇴기에 접어들었지만 재허가와 요금·약관 등 규제는 산업 확장기에 만들어진 체계를 유지하고 있다는 지적이 나왔다. 케이블TV가 맡고 있는 방송 접근권과 지역 미디어 기능을 유지하려면 시장 영향력에 맞춰 규제를 낮추고 공적 역할에 대해서는 지원을 확대해야 한다는 제언이다.이종관 법무법인 세종 수석전문위원은 10일 김대중컨벤션센터에서 한국언론학회 주최로 열린 케이블TV의 위기극복 및 지속가능성 확보를"
+    },
+    {
+      "id": "5f82cc19aa86",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives"
+    },
+    {
+      "id": "19b47cae1574",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개발자·상담원, 4년 후 AI에 일자리 줄 가능성 커…영향 덜 받을 직업은",
+      "link": "https://zdnet.co.kr/view/?no=20260910102408",
+      "published": "2026-09-10T06:48:15+00:00",
+      "summary": "[지디넷코리아]인공지능(AI)이 더 많은 업무를 맡을수록 직업별 일자리 격차가 커질 수 있다는 분석이 나왔다. AI가 대신하기 쉬운 업무가 많은 직종은 일자리가 줄어드는 반면 사람이 직접 해야 하는 업무가 많은 직종은 상대적으로 영향을 덜 받는 것으로 분석됐다.앤트로픽은 9일(현지시간) AI 발전이 2030년 미국의 일자리와 임금, 실업률 등에 어떤 영향을 미칠지 분석한 내용을 공개했다. 미국의 직업별 업무 자료를 토대로 AI가 사람의 일을 얼마나 맡을 수 있는지 살펴보고 AI 성능과 보급 수준에"
+    },
+    {
+      "id": "82953e099396",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "홍대 올리브영 가까이 맞붙은 ‘무신사 뷰티’ 매장 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20260910143051",
+      "published": "2026-09-10T06:45:02+00:00",
+      "summary": "[지디넷코리아]\"같은 여드름 고민이라도 생활 습관이나 개인 특성에 따라 원인이 달라질 수 있다. 전문 약사 상담을 통해 개인에 맞는 상품을 선택할 수 있다는 게 파머시 뷰티의 차별점이다.\"무신사가 첫 뷰티 단독 매장에서 꺼내든 승부수는 '약국'과 '인디 브랜드'라고 할 수 있다. 회사는 화장품 매장 한쪽에 약국 코너를 만드는 수준을 넘어 53평 공간 전체에 '뷰티 온누리 약국' 간판을 달고 약사가 상주하는 진짜 약국을 품었다. 처방전을 가져오면 약을 조제할 수도 있고, 두피나 피부 고민을 상담한 "
+    },
+    {
+      "id": "2f6e171b0ba9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'메이플 월드'로 확장한 코딩 교육…넥슨재단, '헬로메이트' 2기 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260910153837",
+      "published": "2026-09-10T06:40:01+00:00",
+      "summary": "[지디넷코리아]넥슨의 게임 창작 플랫폼을 활용해 청소년 디지털 교육 격차를 해소하는 대학생 멘토링 프로그램이 두 번째 활동에 돌입한다.넥슨재단은 대학생 게임창작 멘토링 봉사활동 프로그램 '헬로메이트' 2기를 운영한다고 10일 밝혔다.헬로메이트는 대학생 멘토가 자체 기획한 교육 콘텐츠를 바탕으로 지역사회 아동·청소년에게 게임 개발과 코딩 교육을 제공하는 사회공헌 활동이다. 이번 2기에는 서울대·성균관대·한양대·KAIST 재학생 약 90명과 청소년 멘티 약 300명이 참여한다.활동 기간은 이달부터 다"
+    },
+    {
+      "id": "a54b769d92b7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD SW 투데이] 칼리버스, 롯데자이언츠 가상 스타일링샵 오픈 外",
+      "link": "https://zdnet.co.kr/view/?no=20260910153022",
+      "published": "2026-09-10T06:32:28+00:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆칼리버스, AI∙3D 로 구현한 롯데자이언츠 가상 스타일링샵 오픈롯데이노베이트 자회사 칼리버스가 팬덤형 몰입형 이머시브 커머스 서비스로 '롯데자이언츠 가상 스타일링샵'을 선보였다. 롯데자이"
+    },
+    {
+      "id": "c3be46cd52f6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포스코, 제철소 문제 풀 AI 인재 키운다…사내대학 개편",
+      "link": "https://zdnet.co.kr/view/?no=20260910152245",
+      "published": "2026-09-10T06:22:45+00:00",
+      "summary": "[지디넷코리아]포스코가 생산 현장의 문제를 인공지능(AI)으로 해결할 인재를 키우기 위해 사내대학 교육을 개편했다.포스코는 2년제 전문학사과정인 포스코기술대학의 명칭을 ‘포스코철강AI융합대학’으로 바꾸고 AI 중심으로 교육과정을 재편했다고 밝혔다. 지난 7월 교육부에 학교명 변경을 신청해 8월 20일 최종 인가를 받았다.이번 개편은 철강 제조 지식에 AI 활용 능력을 더하는 데 초점을 맞췄다. 기존에는 금속·기계·전기·경영 등 철강 생산 관련 전공과 교양 과목을 중심으로 운영했다. 개편 과정에서 "
+    },
+    {
+      "id": "c1d8af2e15ee",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"하나의 콘텐츠, 무한한 세계로\"...광주 에이스페어 10일 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260910150921",
+      "published": "2026-09-10T06:17:02+00:00",
+      "summary": "[지디넷코리아][광주=홍지후 기자] 방송·애니메이션·게임·웹툰·실감콘텐츠(XR)·인공지능(AI) 콘텐츠가 한 자리에 모인 에이스페어 행사가 광주에서 문을 열었다.전남광주통합특별시는 광주관광공사와 국내외 문화콘텐츠 종합전시회인 ‘2026 에이스페어’를 연다고 10일 밝혔다. 광주 서구 김대중컨벤션센터에서 이날부터 나흘간 열리는 에이스페어는 ‘하나의 콘텐츠, 무한한 세계로 확장’을 주제로 방송, 영상, 애니메이션, 캐릭터, 게임, 웹툰, XR, AI 융합콘텐츠 등 문화 콘텐츠가 한자리에 모이는 전시다"
+    },
+    {
+      "id": "44b64640a9e9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "사진 한장으로 세상을 복제해버리는 AI",
+      "link": "https://www.youtube.com/shorts/RtPmzHLD7as",
+      "published": "2026-09-10T06:00:31+00:00",
+      "summary": ""
+    },
     {
       "id": "f3eb19998120",
       "source": "AI타임스",
@@ -212,6 +476,17 @@
       "summary": "대규모 태양광발전소의 지지 말뚝이 위로 뽑히는 힘에 얼마나 견딜 수 있는지 AI로 예측하는 기술이 개발됐다. 현장에서 측정할 수 있는 말뚝 관입속도와 토양 특성 등을 입력한 결과, AI의 예측은 실제보다 평균 7.63% 정도 차이 나는 수준으로 상당히 정확하게 맞아떨어졌다.이란 이슬람아자드대와 테헤란대 등 연구진은 지난달 31일(현지시간) 국제학술지 '리절츠 인 엔지니어링(Results in Engineering)'에 발표한 연구에서 태양광 구조물용 강재 말뚝의 인발지지력을 예측하는 인공신경망(A"
     },
     {
+      "id": "9b66bdb33d6c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "link": "https://rivendell.dmitrybrant.com/relativity/",
+      "published": "2026-09-10T01:58:00+00:00",
+      "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 295 # Comm"
+    },
+    {
       "id": "2625819f3272",
       "source": "AI타임스",
       "kind": "article",
@@ -232,6 +507,17 @@
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "published": "2026-09-10T00:00:37+00:00",
       "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+    },
+    {
+      "id": "bee5fde87262",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "published": "2026-09-09T23:49:29+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 259 # Comments: 184"
     },
     {
       "id": "a71397ccdb8d",
@@ -828,6 +1114,17 @@
       "summary": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy."
     },
     {
+      "id": "cfa197516369",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "published": "2026-09-09T17:24:28+00:00",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 211 # Comments: 82"
+    },
+    {
       "id": "e0ef32eabdd4",
       "source": "Hacker News",
       "kind": "article",
@@ -980,6 +1277,17 @@
       "link": "https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football",
       "published": "2026-09-09T16:00:00+00:00",
       "summary": "Google is introducing a new Live Game Feed to keep you updated on NFL games as the regular season kicks off tonight. Look for the red \"Live\" icon and you'll see a recap of the ongoing game, play-by-play updates, top commentary on social, video highlights, and \"AI-powered insights"
+    },
+    {
+      "id": "d58e2b76a0c0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GNU Radio in the browser",
+      "link": "https://gnuradioworld.com/",
+      "published": "2026-09-09T15:53:06+00:00",
+      "summary": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 201 # Comments: 27"
     },
     {
       "id": "cb41a295a9c5",
