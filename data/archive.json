@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-10T17:13:10.584930+00:00",
-  "count": 12581,
+  "updated_at": "2026-09-10T19:42:35.932992+00:00",
+  "count": 12591,
   "items": [
+    {
+      "id": "8b66b0c9af65",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android can now securely migrate your logins between password managers",
+      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "published": "2026-09-10T18:41:09+00:00",
+      "summary": "App support is slim right now, but Google says more are coming."
+    },
+    {
+      "id": "a7f6a3b3d6fa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "published": "2026-09-10T18:38:00+00:00",
+      "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design."
+    },
+    {
+      "id": "a423d4829351",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "published": "2026-09-10T18:14:14+00:00",
+      "summary": "\"Bankruptcy cannot become the new land grab for AI.”"
+    },
+    {
+      "id": "63c6a570aa53",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "published": "2026-09-10T17:54:44+00:00",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human."
+    },
+    {
+      "id": "a8b2f4fbf4f6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "published": "2026-09-10T17:45:00+00:00",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
+    },
+    {
+      "id": "e50699a6e71e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+      "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "published": "2026-09-10T17:30:09+00:00",
+      "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC."
+    },
     {
       "id": "62ebd920522e",
       "source": "Wired",
@@ -12,6 +78,17 @@
       "link": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
       "published": "2026-09-10T16:30:00+00:00",
       "summary": "Apple's new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that's right for you."
+    },
+    {
+      "id": "30df4460b1fe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I have a theory that software drives people insane",
+      "link": "https://graybeard.ing/software-drives-people-insane/",
+      "published": "2026-09-10T16:13:42+00:00",
+      "summary": "Article URL: https://graybeard.ing/software-drives-people-insane/ Comments URL: https://news.ycombinator.com/item?id=49646181 Points: 219 # Comments: 86"
     },
     {
       "id": "aac5640badf2",
@@ -56,6 +133,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
       "published": "2026-09-10T15:38:19+00:00",
       "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a "
+    },
+    {
+      "id": "0f9025580c95",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "link": "https://cognition.com/blog/swe-2",
+      "published": "2026-09-10T15:29:47+00:00",
+      "summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 201 # Comments: 97"
     },
     {
       "id": "5a0225a836e1",
@@ -188,6 +276,17 @@
       "link": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
       "published": "2026-09-10T14:00:00+00:00",
       "summary": "Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Google, with a $1,999 price tag that sits just above the Pixel 11 Pro Fold and Galaxy "
+    },
+    {
+      "id": "a432adb32ca9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Rust is tier-1 language at Microsoft",
+      "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "published": "2026-09-10T13:39:16+00:00",
+      "summary": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/ Comments URL: https://news.ycombinator.com/item?id=49643546 Points: 464 # Comments: 255"
     },
     {
       "id": "f444d9e504b5",
@@ -4500,6 +4599,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260908012643",
       "published": "2026-09-07T16:34:46+00:00",
       "summary": "[지디넷코리아]메모리 반도체 가격은 내년에도 오르고, 삼성전자와 애플이 스마트폰 시장에서 수혜를 입을 것이란 전망이 나왔다. 두 업체가 플래그십 제품 비중이 크고, 메모리 물량을 안정적으로 확보할 수 있기 때문이다. 중저가 제품 의존도가 높은 중국 스마트폰 업체는 과거처럼 공격적 마케팅을 펴기 어려울 것으로 예상됐다.일본 미즈호증권은 이달 초순 발간한 스마트폰 관련 보고서에서 올해 전 세계 스마트폰 출하량이 11억 5000만대(기본 시나리오)로 전년비 9% 감소할 것이라고 전망했다. 미즈호증권은 "
+    },
+    {
+      "id": "e4969a8b3f05",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stockfish 19",
+      "link": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "published": "2026-09-07T16:17:27+00:00",
+      "summary": "Article URL: https://stockfishchess.org/blog/2026/stockfish-19/ Comments URL: https://news.ycombinator.com/item?id=49599992 Points: 233 # Comments: 136"
     },
     {
       "id": "b7d6a2f36f4e",
