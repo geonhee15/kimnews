@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-11T15:13:01.470605+00:00",
-  "count": 12686,
+  "updated_at": "2026-09-11T18:34:29.483127+00:00",
+  "count": 12700,
   "items": [
+    {
+      "id": "8ee3dadcaad7",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "published": "2026-09-11T18:26:10+00:00",
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "1a23bd9bc57e",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI's biggest math breakthrough is getting ugly...",
+      "link": "https://www.youtube.com/watch?v=aspmNhKAFMc",
+      "published": "2026-09-11T17:24:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "36bcf31c88d1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "published": "2026-09-11T16:46:25+00:00",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+    },
+    {
+      "id": "e4d9e5b71e7a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We unfolded the iPhone Duo",
+      "link": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+      "published": "2026-09-11T16:22:24+00:00",
+      "summary": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as C"
+    },
+    {
+      "id": "04cc07c0a9cf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "published": "2026-09-11T16:09:14+00:00",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"reck"
+    },
+    {
+      "id": "3ae3c98bc691",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s head of comms is leaving after almost 20 years",
+      "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+      "published": "2026-09-11T16:01:34+00:00",
+      "summary": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's communications for 29 years - nearly 20 years as a Microsoft emp"
+    },
+    {
+      "id": "93feb1512acf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta may have leaked the first look at its slim ‘Project Phoenix’ headset",
+      "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+      "published": "2026-09-11T15:38:31+00:00",
+      "summary": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription Lens firmware package,\" suggest Meta may be l"
+    },
+    {
+      "id": "e1aaf5e8c855",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Where to preorder the Apple AirPods 5",
+      "link": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
+      "published": "2026-09-11T15:31:00+00:00",
+      "summary": "The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple Watch Series 12 and Ultra 4, as well as the iPhone 18 Pro and Pro Max"
+    },
+    {
+      "id": "1feb9d87793a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anime reaction YouTubers are at war with copyright enforcers",
+      "link": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
+      "published": "2026-09-11T15:12:58+00:00",
+      "summary": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Deleted Today\" - Light alleges that he was on the receiving end"
+    },
     {
       "id": "34bab81c91e5",
       "source": "Wired",
@@ -45,6 +144,28 @@
       "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
       "published": "2026-09-11T13:59:16+00:00",
       "summary": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cinematic product launch videos, "
+    },
+    {
+      "id": "7973eadc70ea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI 다음은 '보안'이래요",
+      "link": "https://zdnet.co.kr/view/?no=20260911111025",
+      "published": "2026-09-11T13:50:00+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 세계에서 몸값이 가장 비싼 기업, 엔비디아가 이번엔 'AI 보안'이라는 새로운 보물지도를 찾았다는 소식을 전해드려요. 무려 5조 2천억 달러에 달하는 몸값을 자랑하는 엔비디아 회장님이 AI 다음 먹거리로 보안 기술을 점찍었다는데요, 경비원이 점점 똑똑한 로봇으로 진화하듯 보안 기술도 나날이 발전하는 중이라고 해요. 이번 프로젝트에서는 엔비디아가 기계 담당을, 보안회사가 방어 담당을, 그리고 기업과 정부가 사용 담당을 맡아 각자의 역할로 힘을 합친다"
+    },
+    {
+      "id": "bebd13a17492",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "link": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "published": "2026-09-11T13:41:38+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/live/cmd683p01eljt Comments URL: https://news.ycombinator.com/item?id=49658299 Points: 302 # Comments: 484"
     },
     {
       "id": "6a62552dc108",
@@ -166,6 +287,17 @@
       "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
       "published": "2026-09-11T10:48:00+00:00",
       "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 255 # Comments: 338"
+    },
+    {
+      "id": "ef046b2e64a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude is only available to people over 18 years",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "published": "2026-09-11T10:48:00+00:00",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 388 # Comments: 453"
     },
     {
       "id": "093264c6ee4b",
@@ -782,6 +914,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260911085846",
       "published": "2026-09-11T00:44:45+00:00",
       "summary": "[지디넷코리아]첨단산업용 비파괴검사장비 전문 기업 이노메트리(대표 이갑수)는 폴더블폰용 CT 검사장비 ‘폴드뷰 CT’를 기반으로 모바일·IT 비파괴검사 시장 확대에 나선다고 11일 밝혔다.이노메트리는 폴더블폰용 CT 비파괴검사장비를 개발, 지난해 글로벌 스마트폰 제조사의 양산라인에 인라인 전수검사용으로 처음 투입했다. 이후 안정적으로 가동되며 고객사로부터 긍정적인 평가를 받았고, 확보한 양산 레퍼런스를 바탕으로 올 하반기부터 다양한 글로벌 고객사로의 공급 확대를 위한 협의를 진행 중이다폴드뷰 CT"
+    },
+    {
+      "id": "9136d28a1adf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "published": "2026-09-11T00:42:41+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 236 # Comments: 252"
     },
     {
       "id": "629e75b348ae",
@@ -3708,6 +3851,17 @@
       "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
       "published": "2026-09-09T06:00:00+00:00",
       "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster."
+    },
+    {
+      "id": "2febf431e460",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "So you want to use OpenRouter?",
+      "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "published": "2026-09-09T05:37:21+00:00",
+      "summary": "Article URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter/ Comments URL: https://news.ycombinator.com/item?id=49621546 Points: 561 # Comments: 157"
     },
     {
       "id": "3c053fe3ab07",
