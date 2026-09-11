@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-11T18:34:29.483127+00:00",
-  "count": 12700,
+  "updated_at": "2026-09-11T21:18:24.170006+00:00",
+  "count": 12716,
   "items": [
+    {
+      "id": "d599e1b9432d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published": "2026-09-11T20:59:47+00:00",
+      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+    },
+    {
+      "id": "3ada98aa620d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "published": "2026-09-11T20:57:36+00:00",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+    },
+    {
+      "id": "ad95b9adc1e3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "published": "2026-09-11T20:44:02+00:00",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in co"
+    },
+    {
+      "id": "280903b750c9",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Roundtables: Will AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "2026-09-11T20:05:06+00:00",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D"
+    },
+    {
+      "id": "ed37d97f153e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "published": "2026-09-11T19:35:54+00:00",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+    },
+    {
+      "id": "485b6d6882b3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+      "link": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+      "published": "2026-09-11T19:21:34+00:00",
+      "summary": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show."
+    },
+    {
+      "id": "80999de73118",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "published": "2026-09-11T19:00:00+00:00",
+      "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web."
+    },
+    {
+      "id": "34ef16e5a591",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "published": "2026-09-11T18:59:25+00:00",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature."
+    },
+    {
+      "id": "cd1df1aaed48",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "published": "2026-09-11T18:58:01+00:00",
+      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October."
+    },
     {
       "id": "8ee3dadcaad7",
       "source": "GitHub Blog",
@@ -12,6 +111,39 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "published": "2026-09-11T18:26:10+00:00",
       "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "0332450f0dfa",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "published": "2026-09-11T18:22:22+00:00",
+      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas."
+    },
+    {
+      "id": "af8b15bcbb27",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "published": "2026-09-11T18:05:21+00:00",
+      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 207 # Comments: 130"
+    },
+    {
+      "id": "ced62fa9290b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "published": "2026-09-11T17:45:12+00:00",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 310 # Comments: 39"
     },
     {
       "id": "1a23bd9bc57e",
@@ -155,6 +287,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260911111025",
       "published": "2026-09-11T13:50:00+00:00",
       "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 세계에서 몸값이 가장 비싼 기업, 엔비디아가 이번엔 'AI 보안'이라는 새로운 보물지도를 찾았다는 소식을 전해드려요. 무려 5조 2천억 달러에 달하는 몸값을 자랑하는 엔비디아 회장님이 AI 다음 먹거리로 보안 기술을 점찍었다는데요, 경비원이 점점 똑똑한 로봇으로 진화하듯 보안 기술도 나날이 발전하는 중이라고 해요. 이번 프로젝트에서는 엔비디아가 기계 담당을, 보안회사가 방어 담당을, 그리고 기업과 정부가 사용 담당을 맡아 각자의 역할로 힘을 합친다"
+    },
+    {
+      "id": "bfd156a2cb3f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Measuring the sloppiness of code",
+      "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "published": "2026-09-11T13:42:28+00:00",
+      "summary": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/ Comments URL: https://news.ycombinator.com/item?id=49658311 Points: 207 # Comments: 214"
     },
     {
       "id": "bebd13a17492",
@@ -465,6 +608,28 @@
       "summary": "마이크로소프트(MS)가 AI 서비스와 클라우드 수요 폭증에 대응하기 위해 애저(Azure)의 전 세계 데이터센터 용량을 오는 2032년까지 현재의 3배 이상으로 확대한다. 엔비디아 AI 칩 부족과 전력·부지 확보난으로 데이터센터 공급 부족을 겪자, 장기적인 대규모 인프라 확충으로 정면 돌파하겠다는 취지다.10일(현지시간) 블룸버그에 따르면, MS는 현재 12기가와트(GW) 규모인 애저 데이터센터 용량을 2032년까지 38GW 이상으로 늘릴 계획이다.1GW는 미국 샌프란시스코와 같은 대도시 규모에 "
     },
     {
+      "id": "c13158914a51",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
+      "published": "2026-09-11T07:55:00+00:00",
+      "summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)과 에이치투(대표 한신)는 11일 에이치투 계룡사업장에서 ‘바나듐흐름전지·에너지ICT 연계 공동 사업개발’을 위한 업무협약을 체결했다.이날 협약은 한전KDN이 30여년간 전력 계통의 정보통신기술(ICT) 운영으로 축적해 온 에너지ICT 역량과 에이치투가 보유한 바나듐흐름전지(VFB) 기반 에너지저장장치(ESS) 기술의 융합을 통해 차세대 ESS 시장을 공동으로 개척하기 위해 추진됐다.바나듐흐름전지는 높은 안전성으로 화재나 폭발 위험을 줄이고 전극과 "
+    },
+    {
+      "id": "110a06f6d147",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+      "published": "2026-09-11T07:55:00+00:00",
+      "summary": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex) 음성 모델 'GPT-라이브-1(GPT-Live-1)'을 API로 출시했다.기존 음성 에이전트의 복잡한 음성인식·추론·음성합성 단계를 하나의 모델로"
+    },
+    {
       "id": "8fbdc7e8ce04",
       "source": "AI타임스",
       "kind": "article",
@@ -540,6 +705,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215177",
       "published": "2026-09-11T07:00:00+00:00",
       "summary": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신을 위한 핵심 문서 AI 솔루션을 선보였다고 밝혔다. 현장 전시 부스에서는 지자체 공공 업무 환경에 최적화된 ▲사이냅 어시스턴트 ▲사이냅 도큐애널라이저 ▲사이냅 OCR IX ▲아이넥스 ▲AI 데이터 파운드리 등 5종의 문서 AI 솔루션을 시연했다.■ 시선AI는 과학기술정보통신부 산하 정보통신기획평가원(IITP)이 주관하는 국방 부문 AI "
+    },
+    {
+      "id": "10ae419c5a79",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 포티투마루, AX 확산 분과로 수요·공급 기업 매칭 주도 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215162",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "■ 포티투마루(대표 김동환)는 서울 트레이드타워에서 열린 'AX 수요·공급기업 비즈니스 네트워킹 데이'에 K-AI 파트너십 AX 확산 분과장사로 참여했다고 밝혔다. 한국무역협회(KITA)와 한국인공지능·소프트웨어산업협회(KOSA)가 개최한 이번 행사에서는 기업의 AX 수요와 공급기업과 연결하는 매칭 프로그램을 운영했으며, 권역별 상담회와 AX 프로젝트 발굴, 성과공유회 등으로 활동을 이어갈 예정이다.■ 셀렉트스타(대표 김세엽)는 지난 10일 서울 동대문디자인플라자(DDP)에서 열린 글로벌 스타트업"
     },
     {
       "id": "5d91372d9302",
