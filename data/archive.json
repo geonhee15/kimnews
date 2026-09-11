@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-09-11T21:18:24.170006+00:00",
-  "count": 12716,
+  "updated_at": "2026-09-11T23:26:23.573668+00:00",
+  "count": 12723,
   "items": [
+    {
+      "id": "73896c660078",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "published": "2026-09-11T22:58:17+00:00",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+    },
+    {
+      "id": "e8adbc04ac5f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215136",
+      "published": "2026-09-11T22:00:00+00:00",
+      "summary": "AI가 인간을 넘어서는 순간 인류가 통제력을 잃을 수 있다는 경고는 새로운 이야기가 아닙니다. 수년 전부터 AI 석학과 연구자들이 비슷한 우려를 내놨고, AI가 인간을 속이거나 감독을 피할 수 있는지 확인하는 실험도 이어졌습니다. 하지만 대중에게는 여전히 먼 미래의 이야기, 혹은 SF에 가까운 이야기로 받아들여졌습니다.그런데 최근 들어 분위기가 달라지고 있습니다. 앤트로픽 연구원의 사퇴를 비롯해 AI 에이전트의 이상 행동과 안전 문제가 불거지면서 미국에서는 AI 종말론이 다시 주요 이슈로 떠오르고"
+    },
+    {
+      "id": "35e7c056f815",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "투자한 만큼 주파수 값 낮춰야...재할당 제도 개편 필요",
+      "link": "https://zdnet.co.kr/view/?no=20260911192337",
+      "published": "2026-09-11T21:00:02+00:00",
+      "summary": "[지디넷코리아]통신사가 네트워크 구축에 투자한 만큼 주파수 재할당 대가를 낮춰 망 투자를 유도할 필요성이 있다는 학계의 의견이 제기됐다. 과거 경매가격에 의존해 재할당 대가를 정하는 현행 방식도 손질해 재할당 이후 주파수의 경제적 가치를 제대로 반영할 수 있는 산정 기준을 마련하는 방안도 주목할 지적이다.변희섭 한림대 교수는 11일 서울대 공익산업법센터 세미나에서 “주파수 확보와 네트워크 투자, 세대 간 전환을 통해 서비스 품질을 높일 수 있도록 경제적 유인을 부여해야 한다”며 “사업자 간 경쟁을"
+    },
     {
       "id": "d599e1b9432d",
       "source": "TechCrunch",
@@ -12,6 +45,17 @@
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "published": "2026-09-11T20:59:47+00:00",
       "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+    },
+    {
+      "id": "6f0c2da04228",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published": "2026-09-11T20:59:47+00:00",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
     },
     {
       "id": "3ada98aa620d",
@@ -47,6 +91,17 @@
       "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D"
     },
     {
+      "id": "7b0761a1e58e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "2026-09-11T20:05:06+00:00",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D"
+    },
+    {
       "id": "ed37d97f153e",
       "source": "TechCrunch",
       "kind": "article",
@@ -56,6 +111,17 @@
       "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "published": "2026-09-11T19:35:54+00:00",
       "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+    },
+    {
+      "id": "95af995079ea",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "published": "2026-09-11T19:34:09+00:00",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says."
     },
     {
       "id": "485b6d6882b3",
@@ -3961,6 +4027,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215058",
       "published": "2026-09-09T07:15:50+00:00",
       "summary": "AI 업계의 무한 경쟁이 인류를 위협할 수 있다는 경고와 함께 앤트로픽의 핵심 연구원이 사표를 던졌다. 앤트로픽에서 사전훈련 연구를 담당해 온 연구원 제이콥 콕슨은 9일 X를 통해 통제 불가능한 AI 시스템 개발 경쟁에 대한 우려로 회사를 떠난다고 밝혔다.올해 27세인 영국 출신의 콕슨은 이전에도 오픈AI에서 근무하다 AI 안전을 최우선으로 내세운 앤트로픽으로 이직한 바 있다. 그러나 그는 정부의 강력한 규제나 업계 차원의 조직적인 개발 속도 조절 없이는 그 어떤 기업도 AGI를 책임감 있게 개발"
+    },
+    {
+      "id": "2ddc53c7cd17",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Logo Programming Language",
+      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "published": "2026-09-09T07:07:26+00:00",
+      "summary": "Article URL: https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html Comments URL: https://news.ycombinator.com/item?id=49622406 Points: 226 # Comments: 94"
     },
     {
       "id": "152ddabe1dc2",
