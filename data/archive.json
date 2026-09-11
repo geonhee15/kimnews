@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-09-11T11:43:22.901781+00:00",
-  "count": 12674,
+  "updated_at": "2026-09-11T15:13:01.470605+00:00",
+  "count": 12686,
   "items": [
+    {
+      "id": "34bab81c91e5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "published": "2026-09-11T15:00:00+00:00",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons."
+    },
+    {
+      "id": "47482f60cc1a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "published": "2026-09-11T14:25:21+00:00",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the compan"
+    },
+    {
+      "id": "ecafc1e1dc00",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Apple’s next computer should be for the smart home",
+      "link": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
+      "published": "2026-09-11T14:01:55+00:00",
+      "summary": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other devices, apps, and services. While Ternus was"
+    },
+    {
+      "id": "434fcfa5755e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung says ‘Tim Cook’ bought a Galaxy Fold",
+      "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
+      "published": "2026-09-11T13:59:16+00:00",
+      "summary": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cinematic product launch videos, "
+    },
+    {
+      "id": "6a62552dc108",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디지털 문해력 격차 해소 시 전 세계 GDP 성장에서 수조 달러 창출 가능",
+      "link": "https://zdnet.co.kr/view/?no=20260911221013",
+      "published": "2026-09-11T13:10:13+00:00",
+      "summary": "[지디넷코리아]화웨이와 협력해 작성한 GSMA 인텔리전스의 최신 보고서, 유네스코 디지털 학습 주간에서 발표 파리, 2026년 9월 11일 /PRNewswire/ -- 9월 9일 발표된 새로운 연구에 따르면, 모바일 광대역망 커버리지 안에 있음에도 3명 중 1명 이상(38%)이 여전히 오프라인 상태에 머물러 있으며, 이는 주로 디지털 문해력 부족 때문인 것으로 나타났다. GSMA 인텔리전스(GSMA Intelligence)가 작성하고 화웨이(Huawei)와의 협업으로 제작된 새로운 보고서 '격차 "
+    },
+    {
+      "id": "b9787d42a41e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀘스텍스 IHIF 아시아, 민간 자본의 영향력 확대 조명… 패밀리 오피스, 아시아태평양 호스피탈리티 투자의 최강을 다투는 세력으로 부상 중",
+      "link": "https://zdnet.co.kr/view/?no=20260911221002",
+      "published": "2026-09-11T13:10:02+00:00",
+      "summary": "[지디넷코리아] 홍콩 2026년 9월 11일 /PRNewswire/ -- 호스피탈리티가 아시아태평양 지역 패밀리 오피스 자본의 최대 부동산 자산군으로 부상하면서 민간 투자자들에게 지니는 매력도 갈수록 높아지고 있다. IHIF 아시아(IHIF Asia)는 패밀리 오피스와 패밀리 오피스 소유 부동산 그룹을 위한 전용 콘텐츠와 네트워킹 기회를 제공하며 갈수록 중요해지고 있는 이 투자자층을 지원하고 있다. Family Offices are Becoming One of the Most Powerful Fo"
+    },
+    {
+      "id": "dcd2834cfc16",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "published": "2026-09-11T13:02:35+00:00",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards."
+    },
+    {
+      "id": "09b7f0172969",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'어번AI 아시아' 출범...\"아시아 AI도시 모델 만들어 세계와 공유\"",
+      "link": "https://zdnet.co.kr/view/?no=20260911214731",
+      "published": "2026-09-11T12:47:31+00:00",
+      "summary": "[지디넷코리아]아시아의 AI도시 연구와 정책, 글로벌 네트워크를 연결하는 ‘어번AI 아시아(Urban AI Asia)’가 7일 출범했다.이날 연세대학교(총장 윤동섭) 정보대학원은 학교 새천년관에서 글로벌 싱크탱크인 '어번 AI(Urban AI)'와 공동으로 심포지엄(어번AI 심포지엄 연세)을 개최했다.'어번AI 심포지엄 연세(Urban AI Symposium Yonsei)'라는 이름으로 열린 이번 행사는 인공지능(AI) 시대의 도시 혁신과 정책 및 거버넌스 방향을 논의했다.특히 행사에서 한국 IT"
+    },
+    {
+      "id": "82c89824bd4b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Arizona’s lifeline for chip manufacturing is drying up",
+      "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "published": "2026-09-11T12:00:00+00:00",
+      "summary": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for the region and other western states. A re"
+    },
+    {
+      "id": "2de50d9da6fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "published": "2026-09-11T11:17:50+00:00",
+      "summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 245 # Comments: 193"
+    },
+    {
+      "id": "0dd8cef7078b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이유노의 전략적 접근법: 맥락을 중심으로 구축된 멀티 에이전트 AI",
+      "link": "https://zdnet.co.kr/view/?no=20260911201003",
+      "published": "2026-09-11T11:10:03+00:00",
+      "summary": "[지디넷코리아] 특화된 AI 에이전트는 업계 전반의 흐름으로 자리 잡고 있다. 아이유노는 이러한 접근 방식을 미디어의 가장 어려운 문제 중 하나인 장면, 에피소드, 시즌을 아울러 유지되는 기억을 AI에 부여하는 문제에 적용했다. 버뱅크, 캘리포니아, 2026년 9월 11일 /PRNewswire/ -- 세계 최대 규모의 미디어 현지화 기업 아이유노(Iyuno)가 9월 10일, 특화된 AI 에이전트를 좁고 명확하게 정의된 문제에 적용하는 것이 무작정 규모를 키우는 방식보다 더 뛰어난 성과를 낸다는 믿"
+    },
     {
       "id": "b10f90b186d3",
       "source": "The Verge",
@@ -34,6 +155,17 @@
       "link": "https://www.wired.com/gallery/best-travel-adapters/",
       "published": "2026-09-11T11:00:00+00:00",
       "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself."
+    },
+    {
+      "id": "f873f6a3e9c2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude is no longer available for minors",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "published": "2026-09-11T10:48:00+00:00",
+      "summary": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 255 # Comments: 338"
     },
     {
       "id": "093264c6ee4b",
