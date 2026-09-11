@@ -1,7 +1,326 @@
 {
-  "updated_at": "2026-09-11T06:29:36.708009+00:00",
-  "count": 12642,
+  "updated_at": "2026-09-11T11:43:22.901781+00:00",
+  "count": 12674,
   "items": [
+    {
+      "id": "b10f90b186d3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+      "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+      "published": "2026-09-11T11:07:24+00:00",
+      "summary": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage: It can shoot vertical video in 4K. Plus, "
+    },
+    {
+      "id": "b3d88aa1a858",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "E-Book에 돈을 쓸 필요가 없는 이유",
+      "link": "https://www.youtube.com/shorts/aV2mjr0x_Rw",
+      "published": "2026-09-11T11:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "21a9e5f74c3c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "published": "2026-09-11T11:00:00+00:00",
+      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself."
+    },
+    {
+      "id": "093264c6ee4b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple addresses iPhone Duo copycats",
+      "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "published": "2026-09-11T10:02:58+00:00",
+      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share th"
+    },
+    {
+      "id": "f8d0944627db",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "땅을 치고 후회할 앤트로픽의 선택",
+      "link": "https://www.youtube.com/shorts/yOLncawiRVM",
+      "published": "2026-09-11T10:00:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "032d9ca125c0",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "월드모델로 변신한 H3 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/XlzcP_cG0U4",
+      "published": "2026-09-11T09:00:31+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3365ed9b0886",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "published": "2026-09-11T09:00:00+00:00",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs."
+    },
+    {
+      "id": "7c5d3155bf91",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현장 만남이 추후 계약으로…K콘텐츠 판로 '광주 에이스페어' 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20260911155348",
+      "published": "2026-09-11T08:48:07+00:00",
+      "summary": "[지디넷코리아][광주=홍지후 기자] 국내 콘텐츠 기업들이 '광주 에이스페어'를 해외 판로를 넓히는 접점으로 활용하고 있다. 전시장에서 곧바로 계약을 맺지는 못하더라도, 해외 바이어와 처음 관계를 만들고 이후 교류를 이어감으로써 실제 콘텐츠 공급으로 연결하는 무대로 활용하는 모습이다.지난 10일 광주 김대중컨벤션센터에서 개막한 세계 문화콘텐츠 종합 전시회 에이스페어에는 29개국 400여개 기업이 참여해 방송·애니메이션·게임·웹툰·실감콘텐츠(XR)·인공지능(AI) 등 540여개 부스를 마련했다.SK브"
+    },
+    {
+      "id": "1e686967d04c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코아시아씨엠코리아, 글로벌 로봇기업에 ToF 3D 센싱 모듈 공급",
+      "link": "https://zdnet.co.kr/view/?no=20260911171236",
+      "published": "2026-09-11T08:28:13+00:00",
+      "summary": "[지디넷코리아]코아시아씨엠코리아가 비행시간측정(ToF·Time-of-Flight) 기술 기반 3D 센싱 카메라 모듈을 글로벌 로봇 기업에 공급한다고 11일 밝혔다.이 회사가 개발한 3D 센싱 카메라 모듈은 이달 중 초도 물량이 출하된다. 해당 제품은 반도체 기업 하나옵트로닉스와 공동 개발했다. 코아시아씨엠코리아는 렌즈·카메라 모듈 기술을, 하나옵트로닉스 ToF 칩 기술을 담당했다.ToF는 3D 센싱 카메라를 구현하는 핵심 기술 중 하나다. 피사체를 향해 발사한 빛이 반사돼 돌아오는 시간을 측정해 "
+    },
+    {
+      "id": "9bc7e1659ddd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구윤철 \"K-배터리 적자 땐 생산세액공제 무의미…보조금이 바람직\"",
+      "link": "https://zdnet.co.kr/view/?no=20260911152749",
+      "published": "2026-09-11T08:26:27+00:00",
+      "summary": "[지디넷코리아]구윤철 부총리 겸 재정경제부 장관이 생산세액공제(한국판 IRA) 정책을 시행하더라도 기업이 적자인 경우 실효성이 떨어진다며, 생산 보조금 제도 병행이 바람직하다는 입장을 밝혔다.구윤철 부총리는 11일 서울 여의도 국회 본관에서 진행된 경제 분야 국회 대정부질문 중 이언주 더불어민주당 의원 질의에 이같이 답했다.이 의원은 중국산 전기차의 저가 공세로 국내 전기차, 배터리 산업 부진이 우려되고 있다며, 생산세제 지원 등 강력한 지원 정책이 추진돼야 한다고 지적했다.이 의원은 \"미국과 중"
+    },
+    {
+      "id": "849b3504b1ba",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김대일 펄어비스 의장, '2026 대한민국 콘텐츠대상' 정부포상 후보 올라",
+      "link": "https://zdnet.co.kr/view/?no=20260911171539",
+      "published": "2026-09-11T08:20:01+00:00",
+      "summary": "[지디넷코리아]김대일 펄어비스 의장이 자체 개발 게임엔진을 바탕으로 '검은사막'과 '붉은사막'을 연이어 흥행시키며 K-게임의 위상을 높인 공로로 정부포상 후보에 올랐다.11일 문화체육관광부에 따르면 김 의장은 '2026 대한민국 콘텐츠대상' 정부포상 추천 후보자 중 게임산업발전유공 게임산업발전 부문 후보로 선정됐다.문체부는 김 의장이 자체 엔진과 독자적인 개발 역량을 기반으로 검은사막과 붉은사막을 개발해 글로벌 누적 매출 약 3조원을 달성했으며, K-게임의 수출 경쟁력 강화와 국내 게임산업 발전에"
+    },
+    {
+      "id": "61ac8ea97e75",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "모티프 독파모 이의제기 기각…정부, 구체적 사유는 추후 설명",
+      "link": "https://zdnet.co.kr/view/?no=20260911171005",
+      "published": "2026-09-11T08:15:36+00:00",
+      "summary": "[지디넷코리아]모티프테크놀로지가 정부의 '독자 AI 파운데이션 모델(독파모)' 2차 단계평가 결과에 제기한 이의신청이 기각됐다. 과학기술정보통신부는 모티프 측에 심의 결과와 관련한 설명을 별도로 진행할 예정이다.11일 업계에 따르면 정보통신산업진흥원(NIPA)은 지난 10일 모티프에 '2026년 독자 AI 파운데이션 모델 프로젝트 2차 단계평가 결과 이의신청 심의결과'를 통보했다.모티프는 지난달 18일 발표된 독파모 2차 단계평가에서 탈락한 뒤 평가 결과에 이의를 제기했다. 자사가 개발한 '모티프"
+    },
+    {
+      "id": "8f506cbac7a6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"수성이 이렇게 줄었다고\"…45억년간 23㎞ 수축 [우주로 간다]",
+      "link": "https://zdnet.co.kr/view/?no=20260911144556",
+      "published": "2026-09-11T08:11:19+00:00",
+      "summary": "[지디넷코리아]태양에 가장 가까운 행성인 수성이 지금까지 생각했던 것보다 더 많이 줄어든 것으로 나타났다.우주과학매체 스페이스닷컴은 수성 표면의 지질 구조와 거칠기를 분석한 연구 결과, 수성이 기존 추정치보다 10~30% 더 많이 수축한 것으로 나타났다고 10일(현지시간) 보도했다. 해당 연구 결과는 국제학술지 '지구물리학 연구 회보'에 게재됐다.연구진은 수성이 형성된 이후 전체 지름이 약 19㎞ 줄어든 것으로 추정했다. 특히 기존 연구에서 파악하지 못했던 수축량까지 고려하면 수성의 전체 지름 변"
+    },
+    {
+      "id": "0618569af4f5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "게임 시연부터 창작 음악까지…판교에 펼쳐진 게임문화축제 'GXG 2026'",
+      "link": "https://zdnet.co.kr/view/?no=20260911170156",
+      "published": "2026-09-11T08:06:48+00:00",
+      "summary": "[지디넷코리아]대한민국 게임 산업의 중심지 판교가 게임 문화를 직접 경험하고 즐기는 열린 축제의 장으로 탈바꿈했다.성남시가 주최하고 성남산업진흥원과 게임문화재단이 주관하는 대표 게임문화축제 'GXG 2026'이 11일 경기도 성남시 판교역 광장 일대에서 공식 개막했다. 행사는 오는 12일까지 이틀간 이어진다.올해 GXG는 '게임, 문화로 즐기다!'를 슬로건으로 내걸고, 단순한 게임 플레이를 넘어 음악, 예술, 창작, 기술 등 다양한 문화 콘텐츠와 결합된 게임의 확장성에 초점을 맞췄다. 행사장 일대"
+    },
+    {
+      "id": "22182ae4e376",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"중고폰 검수 기다리지 마세여\"...셀로, 2분 간편접수 도입",
+      "link": "https://zdnet.co.kr/view/?no=20260911170320",
+      "published": "2026-09-11T08:03:20+00:00",
+      "summary": "[지디넷코리아]LG유플러스 자회사 미디어로그가 운영하는 중고폰 판매 플랫폼 ‘셀로(sello)’가 매장에서 검수 결과를 기다리지 않고 약 2분 만에 중고폰을 맡길 수 있는 서비스를 선보인다.셀로는 중고폰 판매용 무인기기에 ‘키오스크 간편접수’ 기능을 새롭게 도입했다고 11일 밝혔다. 기존에는 키오스크가 휴대폰 상태를 검사한 뒤 현장에서 판매가격을 제시했다면, 새 방식은 기기만 맡기고 바로 매장을 떠날 수 있는 것이 특징이다.이용 방법은 간단하다. 중고폰의 기기식별번호(IMEI)를 촬영하고 본인인증"
+    },
+    {
+      "id": "349bedd5fd46",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마트 컨트랙트로 자격 없으면 거래 막는다…신한운용 ‘K-비들’ 밑그림",
+      "link": "https://zdnet.co.kr/view/?no=20260911165843",
+      "published": "2026-09-11T08:01:47+00:00",
+      "summary": "[지디넷코리아]“기존 금융상품과 달리 온체인에서는 자산이 블록체인에서 직접 이동하기 때문에 통제 대상이 토큰 이동으로 확대됩니다. 따라서 토큰화 금융 상품은 사후 점검이 아니라 설계 단계부터 내부통제를 함께 설계해야 합니다.”이진혁 신한자산운용 이사는 11일 여의도 2IFC에서 딜로이트와 타이거리서치가 주최한 ‘원화 기반 실물자산 토큰화의 시작과 자본시장의 기회’ 세미나에서 이같이 말하며 한국형 ‘비들(BUIDL)’ 설계 방향을 제시했다.블랙록은 미국 국채와 레포(환매조건부채권), 현금 등 단기 "
+    },
+    {
+      "id": "622128ac2529",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 전이중 음성 모델 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+      "published": "2026-09-11T07:55:00+00:00",
+      "summary": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex) 음성 모델 'GPT-라이브-1(GPT-Live-1)'을 API로 출시했다.기존 음성 에이전트의 복잡한 음성인식·추론·음성합성 단계를 하나의 모델로"
+    },
+    {
+      "id": "f0dd5ea3f37c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, AI 공급난에 ‘장기전’ 선언…2032년까지 데이터센터 3배로 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215143",
+      "published": "2026-09-11T07:55:00+00:00",
+      "summary": "마이크로소프트(MS)가 AI 서비스와 클라우드 수요 폭증에 대응하기 위해 애저(Azure)의 전 세계 데이터센터 용량을 오는 2032년까지 현재의 3배 이상으로 확대한다. 엔비디아 AI 칩 부족과 전력·부지 확보난으로 데이터센터 공급 부족을 겪자, 장기적인 대규모 인프라 확충으로 정면 돌파하겠다는 취지다.10일(현지시간) 블룸버그에 따르면, MS는 현재 12기가와트(GW) 규모인 애저 데이터센터 용량을 2032년까지 38GW 이상으로 늘릴 계획이다.1GW는 미국 샌프란시스코와 같은 대도시 규모에 "
+    },
+    {
+      "id": "8fbdc7e8ce04",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215156",
+      "published": "2026-09-11T07:54:40+00:00",
+      "summary": "미국 정치권에서 AI의 급격한 발전에 따른 실존적 위협을 경고하며 강력한 규제와 안전장치 마련을 촉구하는 목소리가 커지고 있다. AI 개발사 내부 연구원들조차 10년 내 인류 멸종 가능성을 언급하는 등 경고음이 잇따르자, 여야를 막론하고 연방 차원의 법안 제정과 감독 기관 신설 움직임이 본격화하는 양상이다.10일(현지시간) 로이터 등에 따르면, 민주·공화 양당 의원들은 AI가 초래할 재앙적 위험에 대응하기 위해 초당적 입법에 속도를 내고 있다.버니 샌더스 상원의원과 그레그 카사르 하원의원은 인공 "
+    },
+    {
+      "id": "1ae2ecc6aeec",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "퓨리오사AI, 싱가포르 법인 설립...APAC 시장 공략 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215174",
+      "published": "2026-09-11T07:52:46+00:00",
+      "summary": "퓨리오사AI(대표 백준호)는 싱가포르 현지 법인을 설립하고, 아시아·태평양 지역 사업개발과 영업, 기술지원의 핵심 거점으로 운영한다고 11일 밝혔다.현재 서울 본사와 미국 실리콘밸리, 포르투갈 리스본에 이어 이번 거점을 통해 2세대 AI 추론 가속기 'RNGD(레니게이드)' 기반 인프라 도입을 가속화할 계획이다.싱가포르 거점은 애디슨 치 APAC 영업 부사장이 이끌며, 현지 인력을 확대해 기술 검증부터 상용 구축까지 지원할 예정이다.RNGD는 대형언어모델(LLM), 멀티모달, 에이전틱 AI 등 다"
+    },
+    {
+      "id": "f8ffd717f647",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼 \"첨단 AI 개발 속도 조절 검토…타 회사 동참 제안\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+      "published": "2026-09-11T07:51:50+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 사내 회의에서 최첨단 AI 개발 속도를 늦추는 방안을 검토 중이라며, 경쟁 연구소들의 자발적인 동참을 유도하고 나섰다.11일 블룸버그에 따르면, 알트먼 CEO는 최근 전 직원이 참석한 내부 회의에서 다른 AI 연구소들과 협력해 최신 모델 개발 속도를 공동으로 조절하는 방안을 모색하고 있다고 밝혔다.안전성이 충분히 확보되지 않은 상태에서 초지능 개발 경쟁이 과열되는 것에 대한 경각심이 고조되자, 선제적으로 자율 규제 흐름을 주도하겠다는 구상이다. 오픈AI는 최근 자발적인"
+    },
+    {
+      "id": "9e285152e7bf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215146",
+      "published": "2026-09-11T07:25:00+00:00",
+      "summary": "오픈AI가 기업 구성원이 전문적인 데이터 분석 도구나 쿼리 작성법을 배우지 않고도 자연어로 사내 데이터를 분석할 수 있는 새로운 AI 에이전트를 공개했다. 기업 데이터베이스와 문서 저장소를 연결하면 매출 감소나 비용 증가의 원인을 조사하고, 분석 결과를 대화형 대시보드로 만들어 공유하는 것은 물론 후속 업무까지 이어갈 수 있다.오픈AI는 10일(현지시간) 기업용 AI 업무 환경인 챗GPT 워크(ChatGPT Work)에 '데이터 에이전트(Data agent)'를 도입한다고 밝혔다. 사용자가 \"지난"
+    },
+    {
+      "id": "d4a102e74574",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 4개월 협상 끝 EU에 '미소스 5' 접근 권한 제공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215148",
+      "published": "2026-09-11T07:00:47+00:00",
+      "summary": "앤트로픽이 유럽연합(EU) 사이버보안 기관에 사이버보안 모델 '미소스 5' 접근 권한을 제공했다. 이 모델은 사이버 방어 역량을 높일 수 있다는 기대와 함께 국가안보 우려도 제기돼 제한적으로 제공돼 왔다.유럽연합 집행위원회(EC)는 10일(현지시간) 앤트로픽과의 협의를 거쳐 EU 사이버보안청(ENISA)이 미소스 5에 대한 접근 권한을 부여받았다고 밝혔다. ENISA 측도 모델에 대한 접근 권한을 확보했으며, 이달부터 실제 테스트를 진행하고 있다고 확인했다.이번 조치는 EU 집행위가 앤트로픽과 미"
+    },
+    {
+      "id": "86107b97d13a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "메타의 AI를 무시못하는 이유",
+      "link": "https://www.youtube.com/shorts/RuTeWPSVetI",
+      "published": "2026-09-11T07:00:39+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3006953bcce9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 사이냅소프트, ‘지자체 정보화전략 IT 전시’ 참가 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215177",
+      "published": "2026-09-11T07:00:00+00:00",
+      "summary": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신을 위한 핵심 문서 AI 솔루션을 선보였다고 밝혔다. 현장 전시 부스에서는 지자체 공공 업무 환경에 최적화된 ▲사이냅 어시스턴트 ▲사이냅 도큐애널라이저 ▲사이냅 OCR IX ▲아이넥스 ▲AI 데이터 파운드리 등 5종의 문서 AI 솔루션을 시연했다.■ 시선AI는 과학기술정보통신부 산하 정보통신기획평가원(IITP)이 주관하는 국방 부문 AI "
+    },
+    {
+      "id": "5d91372d9302",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "캘리포니아, 16세 미만 소셜미디어 중독 기능·AI 챗봇 규제법 서명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215153",
+      "published": "2026-09-11T06:43:52+00:00",
+      "summary": "미국 캘리포니아주가 미성년자의 소셜미디어와 AI 챗봇 이용을 규제하는 강력한 온라인 안전 법안을 마련했다. 소셜미디어의 중독성 기능을 제한하고 AI 챗봇이 인간이 아닌 AI임을 고지하도록 하는 등 아동·청소년을 겨냥한 디지털 안전장치를 대폭 강화하면서 미국 내 온라인 규제의 새로운 기준을 제시했다는 평가가 나온다.개빈 뉴섬 캘리포니아 주지사는 10일(현지시간) 미성년자 온라인 안전과 디지털 개인정보 보호 등을 강화하는 13개 법안에 서명했다.뉴섬 주지사는 강력한 알고리즘으로부터 부모 혼자 자녀를 "
+    },
+    {
+      "id": "1efd05a4ccf3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에이딘로보틱스, 160억 투자 유치...조선·중공업용 로봇손 만든다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215100",
+      "published": "2026-09-11T06:40:00+00:00",
+      "summary": "에이딘로보틱스(대표 최혁렬, 이윤행)는 HD현대로보틱스와 삼성벤처투자로부터 160억원 규모의 전략적 투자를 유치했다고 11일 밝혔다.에이딘로보틱스는 2019년 성균관대 로보틱스 연구실에서 스핀오프로 설립된 기업이다. 로봇의 관절·손가락 등에 탑재하는 초소형 6축 힘·토크 센서를 공급 중이다.정전용량 방식 특허 기술인 '프린지 이펙트'를 결합해 센서의 민감도와 강성을 극대화해 IR52 장영실상을 수상하기도 했다.특히 기존 센서 대비 크기는 3분의 1로, 가격은 10분의 1 수준으로 낮춰 경쟁력을 갖"
+    },
+    {
+      "id": "c142381b7514",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버랩스, 언제 어디서나 감상할 수 있는 ‘간송미술관 VR투어’ 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215167",
+      "published": "2026-09-11T06:32:34+00:00",
+      "summary": "네이버랩스는 간송미술관의 전시 공간과 주요 소장품을 언제 어디서나 가상현실(VR)로 관람할 수 있는 ‘VR투어’ 서비스를 제공한다고 11일 밝혔다.서울 성북구의 간송미술관은 국내 최초의 사립미술관으로, 국내 문화유산 보존을 위한 전시물 수집과 연구에 집중하고 있다. 이번에 선보인 간송미술관 VR투어는 네이버랩스가 구축한 전시공간과 ‘문화보국’ 전시 출품작들의 디지털트윈으로 구성됐다. 이용자는 실제 간송미술관의 전시 공간인 ‘보화각’을 방문한 것처럼 관람 동선을 따라 공간을 둘러보고, 원하는 전시물"
+    },
+    {
+      "id": "565e61db20dd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엑스와이지, 사람과 상호작용하는 '휴머노이드 행동 지능' 기술 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215142",
+      "published": "2026-09-11T06:30:28+00:00",
+      "summary": "엑스와이지(대표 황성재)는 양팔 세미 휴머노이드 '듀스(DEUX)'에 '맥락(컨텍스트) 기반 행동 생성' 기술을 적용했다고 11일 밝혔다.자체 멀티모달 기술을 활용해 대화 하는 순간을 포함해 대화가 멈춘 시점에도 시선·표정·몸짓을 자연스럽게 이어가며, 상황에 맞는 행동을 생성하는 것이 특징이다.기존에도 호흡이나 깜빡임 등 상호작용 요소가 있었지만 각 기능이 별도로 탑재돼 특정 제스처 실행 시 동작이 끊기는 등의 한계가 있었다.이번 기술은 몸짓과 자세 변화, 표정, 음성을 하나로 결합해 사람과 마주"
+    },
     {
       "id": "99c63b024329",
       "source": "ZDNet Korea",
@@ -100,6 +419,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260911141002",
       "published": "2026-09-11T05:10:02+00:00",
       "summary": "[지디넷코리아] 아라산 칩 시스템즈, 2026년 10월 19일부터 20일까지 타이베이에서 열리는 MIPI I3C® 상호운용성 세션에 I3C® 호스트 IP, I3C® 듀얼 IP, I3C® 디바이스 IP로 참가 발표 산호세, 캘리포니아, 2026년 9월 11일 /PRNewswire/ -- 아라산 칩 시스템즈(Arasan Chip Systems)가 타이베이에서 열리는 회원총회와 연계되어 개최되는 I3C® 상호운용성 세션(I3C® Interoperability Session)에 참가한다고 발표했다. 아라"
+    },
+    {
+      "id": "9ad5c283a5a1",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI의 재귀개선이 헛소리가 아닌 이유",
+      "link": "https://www.youtube.com/shorts/P8wyL_f6jhw",
+      "published": "2026-09-11T05:00:01+00:00",
+      "summary": ""
     },
     {
       "id": "2745adff03fc",
@@ -243,6 +573,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215134",
       "published": "2026-09-11T03:01:02+00:00",
       "summary": "■ 문서 AI의 병목은 ‘정확도’에서 ‘변경’으로 이동하고 있습니다정부의 AI 행정혁신이 새로운 단계로 들어서고 있습니다. 한성숙 국무총리는 최근 AI 활용을 확대하는 데 그치지 않고 정부 전체의 일하는 방식까지 바꿔야 한다고 강조했습니다. 행정 현장에서도 공무원이 직접 AI 서비스를 만들고 효과를 검증한 뒤 확산하는 ‘AI 정부 실험실’과 같은 시도가 이어지고 있습니다.이러한 변화에서 중요한 것은 AI를 얼마나 많이 구축했느냐보다 현장의 업무 변화에 맞춰 AI를 얼마나 빠르게 바꾸고 검증할 수 "
+    },
+    {
+      "id": "ff3afa93f70d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "published": "2026-09-11T01:00:56+00:00",
+      "summary": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ Comments URL: https://news.ycombinator.com/item?id=49652237 Points: 244 # Comments: 84"
     },
     {
       "id": "c1943341180f",
@@ -463,6 +804,17 @@
       "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "published": "2026-09-10T19:43:22+00:00",
       "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 211 # Comments: 126"
+    },
+    {
+      "id": "c0c3c370b6fc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "link": "https://auberon.xyz/blog/posts/deathray/",
+      "published": "2026-09-10T19:34:20+00:00",
+      "summary": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 214 # Comments: 137"
     },
     {
       "id": "8b66b0c9af65",
