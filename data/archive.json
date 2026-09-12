@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-09-12T06:06:30.346165+00:00",
-  "count": 12749,
+  "updated_at": "2026-09-12T10:43:07.705417+00:00",
+  "count": 12771,
   "items": [
+    {
+      "id": "c958c936e57a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
+      "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+      "published": "2026-09-12T10:30:00+00:00",
+      "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems."
+    },
+    {
+      "id": "d9dc6a91eb7b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "published": "2026-09-12T10:30:00+00:00",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse."
+    },
+    {
+      "id": "3d199fc4bbf7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 파주 냉동창고 살인·'야차룰' 학폭 논란...대기업 오너가도 관심",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215192",
+      "published": "2026-09-12T10:20:44+00:00",
+      "summary": "AI타임스와 이스트에이드의 9월 둘째 주(9월4일~10일) 이슈 분석 결과, 외래진료 본인부담 확대와 함께 청주·파주에서 벌어진 살인사건 등이 상위권을 차지했다.이번 주 검색량 1위는 '외래진료 본인부담 90%(6.11%)'가 차지했다. 내년부터 외래진료가 연 300회를 초과하면 본인부담이 90%까지 오른다. 기존 연 365회 초과자를 대상으로 부과하던 본인부담 기준을 300회 초과로 강화했다. 다만 아동·임산부와 중증장애인, 중증·희귀·중증난치 질환자는 예외 대상이다.2위는 '청주 공원 싸움 사"
+    },
+    {
+      "id": "3d5bb5928286",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“인류를 위한 AI 컴패니언”…딥그로브의 캐릭터챗이 남다른 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214911",
+      "published": "2026-09-12T10:12:17+00:00",
+      "summary": "AI 캐릭터챗 서비스 '크랙'과 '이루다'의 초기 개발·기획을 주도했던 전문가들이 모여 만든 스타트업 딥그로브(DeepGrov, 대표 나봉민)가 단순 대화를 넘어선 AI 컴패니언 서비스 '프론티아(Frontia)'를 전면에 내세우며 본격적인 시장 공략에 나섰다. 이 회사는 지난 7월 15억원 규모의 시드 투자 유치에 성공한 바 있다.나봉민 대표는 삼성전자 엔지니어 출신으로 뤼튼에서 AI 캐릭터챗 서비스 '크랙'의 초기 기획과 제품 개발을 주도했다. 최예지 최고 제품책임자(CPO)는 스캐터랩에서 A"
+    },
+    {
+      "id": "a3a3e4cff363",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "published": "2026-09-12T10:00:00+00:00",
+      "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work."
+    },
+    {
+      "id": "f2fa9ca8bcd0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 캘텍 AI 수학 해커톤 후원 철회…수학계 '슬롭 수학' 비판 여파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215193",
+      "published": "2026-09-12T09:21:57+00:00",
+      "summary": "오픈AI가 캘리포니아 공과대학교(CalTech)에서 개최될 예정이던 '캘텍 매스어톤(Caltech Mathathon)' 행사의 후원을 철회했다. 댄 로버츠 오픈AI 연구 총괄은 10일(현지시간) X를 통해 \"수학계 구성원들이 제기한 우려를 고려해 캘텍 매스어톤 후원을 철회하기로 결정했다\"며 \"수학계와 더욱 긴밀히 소통해 기술 통합과 영향 전달의 최선책을 찾겠다\"고 발표했다. 이번 결정은 수학계 연구자들이 AI가 생성하는 저품질 결과물인 이른바 '슬롭 수학(Slop Mathematics)'을 비판하"
+    },
+    {
+      "id": "6c8f537516d2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한기대 2027학년도 수시 경쟁률 13.20대 1...35년 개교 역사 최대",
+      "link": "https://zdnet.co.kr/view/?no=20260912182058",
+      "published": "2026-09-12T09:20:58+00:00",
+      "summary": "[지디넷코리아]충남 천안의 한국기술교육대학교(KOREATECH·총장 유길상)가 2027학년도 수시모집 경쟁률에서 13.20대 1의 경쟁률을 기록했다. 1991년 개교 이래 최고 경쟁률이다. 고용노동부가 설립한 국책대학인 이 대학은 전국 4년제 대학 취업률 1위(82.8%)라는 타이틀도 갖고 있다.한국기술교육대는(한기대)는 11일 오후 7시 마감한 2027학년도 수시모집 원서접수 결과 796명 모집에 총 1만504명이 지원, 13.20대 1의 경쟁률을 기록했다고 밝혔다. 이번 경쟁률은 전년도 11."
+    },
+    {
+      "id": "6ea5416d3892",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 코드 '플러그인 평가' 공개…플러그인 성능·기여도 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215184",
+      "published": "2026-09-12T08:50:18+00:00",
+      "summary": "앤트로픽이 코딩 에이전트의 플러그인이 실제 작업에서 제대로 작동하는지를 검증할 수 있는 평가 기능을 추가했다. 기존의 플러그인 유효성 검사가 설정 파일의 문법과 스키마에 초점을 맞췄다면, 이번 기능은 플러그인이 실제 프롬프트에서 호출되는지와 모델의 기본 성능보다 효과가 있는지까지 측정할 수 있다는 점이 특징이다. 앤트로픽은 10일(현지시간) 코딩 에이전트 '클로드 코드'에 플러그인의 실제 성능을 검증할 수 있는 새로운 평가 기능을 추가했다. 해당 기능은 클로드 코드 v2.1.269 버전부터 사용할"
+    },
+    {
+      "id": "ff4eebb7a082",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+      "published": "2026-09-12T08:24:33+00:00",
+      "summary": "구글이 대형언어모델(LLM)의 도구 사용 능력을 효율적으로 학습하기 위한 새로운 데이터 생성 프레임워크를 공개했다. 복잡한 API 탐색 과정에서 시행착오를 반복하는 기존 방식과 달리, 먼저 검증된 도구 사용 경로를 만든 뒤 이에 맞는 사용자 질의를 생성하는 방식으로 데이터 생성 비용과 실패율을 크게 낮췄다. 구글 연구진은 최근 AI 에이전트의 도구 사용 능력을 학습하는 데이터를 저렴하고 안정적으로 생성할 수 있는 프레임워크 ‘툴그래드(ToolGrad)’를 온라인 아카이브를 통해 공개했다.AI 에이"
+    },
+    {
+      "id": "a232b899a664",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215186",
+      "published": "2026-09-12T07:49:57+00:00",
+      "summary": "사카나 AI가 단일 초거대 모델 중심의 성능 경쟁에서 벗어나, 성능과 비용을 동시에 최적화하는 ‘에이전트 오케스트레이션’ 카드로 판도 변화에 나섰다.사카나 AI는 10일(현지시간) 여러 AI 모델을 동적으로 조합해 작업을 수행하는 오케스트레이션 시스템 ‘푸구(Fugu)’의 신규 라인업인 ‘푸구 맥스(Fugu Max)’와 ‘푸구 울트라 v2(Fugu Ultra v2)’를 공식 출시했다.이번 신제품의 핵심은 단순한 버전 업데이트를 넘어, 기존 푸구 시스템이 지녔던 한계를 깨고 '비용 극대화'와 '독점"
+    },
+    {
+      "id": "014968005482",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215190",
+      "published": "2026-09-12T07:16:31+00:00",
+      "summary": "세일즈포스가 기업 곳곳에 적용되는 AI 에이전트를 하나의 체계로 통합 관리하기 위한 새로운 기업용 프레임워크를 공개했다. 에이전트와 오케스트레이션 플랫폼이 부서와 업무별로 빠르게 늘어나면서 발생하는 ‘에이전트 난립(Agent Sprawl)’에 대응해, 데이터와 모델부터 에이전트의 행동, 보안, 거버넌스까지 기업이 통합적으로 통제할 수 있도록 하는 것이 핵심이다.세일즈포스는 10일(현지시간) 특정 에이전트 하나를 안정적으로 실행하는 데 그치지 않고 기업 내 모든 AI를 위한 공통 기반을 제공하는 통"
+    },
+    {
+      "id": "63272f7c6b51",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "K-서브컬처, 글로벌 진출 속도↑…'아스트라에 오라티오' 등 TGS 26 출격",
+      "link": "https://zdnet.co.kr/view/?no=20260912025027",
+      "published": "2026-09-12T07:14:54+00:00",
+      "summary": "[지디넷코리아]국내 게임 시장의 핵심 장르로 자리 잡은 서브컬처 게임들이 글로벌 팬덤 확장과 시장 공략을 위해 세계 최대 게임쇼 중 하나인 도쿄게임쇼(TGS) 무대로 집결한다.12일 게임업계에 따르면 오는 9월 17일부터 21일까지 일본 치바현 마쿠하리 멧세에서 열리는 ‘도쿄게임쇼 2026’에 디나미스 원을 비롯해 넷마블, 스마일게이트 등 국내 주요 게임사들이 잇따라 참가해 서브컬처 신작을 선보인다.올해 30주년을 맞은 TGS 2026은 51개국 759개사가 참가하고 3946개 부스 규모로 열리는"
+    },
+    {
+      "id": "ae5e7adf7164",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "데이터 쫓아 지방 간다…제조 AI 거점 확산",
+      "link": "https://zdnet.co.kr/view/?no=20260912092518",
+      "published": "2026-09-12T07:13:04+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기업들이 주요 산업단지로 거점을 넓히고 있다. 단순한 지사 확대를 넘어 제조 현장에서 발생하는 고품질 산업 데이터와 고객 수요를 확보하고, AI 솔루션을 실제 생산라인에서 실증하기 위한 '현장 밀착형 거점화'가 본격화되는 모습이다.12일 업계에 따르면 최근 AI 업계에서는 지방에 첫 지역 거점을 세우는 사례가 잇따르고 있다. 크라우드웍스는 지난 10일 경남테크노파크에 첫 지역 거점인 '피지컬 AI 허브' 창원 오피스를 마련했다.창원국가산업단지를 중심으로 제조기업의 A"
+    },
+    {
+      "id": "4ff49c793f84",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI의 피지 시모, IPO 앞둔 엔스케일 이사회 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215189",
+      "published": "2026-09-12T06:31:06+00:00",
+      "summary": "오픈AI의 전 임원 피지 시모가 기업공개(IPO)를 앞둔 클라우드 서비스 업체 엔스케일의 이사회에 합류했다. 엔스케일은 11일(현지시간) 시모의 이사회 합류를 공식 발표했다. 시모는 엔스케일 이사직과 함께 오픈AI의 시간제 자문역도 계속 맡는다.다만 엔스케일 이사회에서 오픈AI와 관련된 사안이 논의되면 이해 상충을 피하기 위해 논의에서 빠질 예정이다.시모는 지난 7월 오픈AI에서 물러났다. 약 3개월간의 의료 휴직 이후 신경면역 질환이 악화해 회복에 예상보다 더 긴 시간이 필요하다고 직원들에게 설"
+    },
+    {
+      "id": "9d1da1d8f27b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[내면 지도 그리기] 33 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215191",
+      "published": "2026-09-12T06:18:27+00:00",
+      "summary": "내면지도_보물섬은 먼저 지도로 태어났다어떤 이야기는 글보다 먼저 지도로 시작됩니다.어떤 이야기는 지도에서 시작이 됩니다.로버트 루이스 스티븐슨의 『보물섬』도 그랬습니다. 그는 어느 비 오는 날, 아들과 함께 놀며 섬의 지도를 그렸다고 전해집니다. 만과 언덕, 숲과 항구, 해골섬과 망원경 언덕 같은 이름들을 붙이며, 자연스레 길을 그리고 이야기에 살을 붙이며 인물과 사건이 떠오르기 시작했습니다. 스티븐슨은 훗날 그 지도를 보며 소설의 인물들이 '보이기' 시작했다고 회상했습니다. 그러니까 『보물섬』은"
+    },
+    {
+      "id": "990c90658108",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] 초파리 24시간 DOOM 시키기 (ft. RTX PRO 6000 Blackwell)",
+      "link": "https://www.youtube.com/watch?v=b79rStjx3nU",
+      "published": "2026-09-12T05:02:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1e1d7c1ab752",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에너지공대 2027학년도 경쟁률 31대1…역대 최대",
+      "link": "https://zdnet.co.kr/view/?no=20260912123702",
+      "published": "2026-09-12T03:37:02+00:00",
+      "summary": "[지디넷코리아]한국에너지공과대학교(KENTECH)는 2027학년도 수시모집 원서접수 결과, 100명 모집에 총 3,113명이 몰려, 최종 경쟁률 31.13대 1을 기록했다고 12일 밝혔다.이는 전년대비 28% 증가한 수치로, 개교 이래 가장 높았던 지난해 경쟁률 24.33대 1을 경신했다.대학 측은 최근 정부가 발표한 3대 메가프로젝트 ‘서남권 반도체 벨트 구축’ 등 미래 첨단산업 육성 정책과 맞물려, 반도체·에너지·AI 분야의 연구 인재 육성에 대한 기대가 이번 입시에 반영된 것으로 분석했다.켄"
+    },
     {
       "id": "c5bb21e942c1",
       "source": "Hacker News",
@@ -12,6 +199,17 @@
       "link": "https://www.autom.dev/blog/google-search-goto-links",
       "published": "2026-09-12T03:14:20+00:00",
       "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 233 # Comments: 115"
+    },
+    {
+      "id": "fe67c0f2ff21",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "published": "2026-09-12T03:14:20+00:00",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 438 # Comments: 343"
     },
     {
       "id": "87d69f139901",
@@ -1554,6 +1752,17 @@
       "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
     },
     {
+      "id": "8dd27c7c5c66",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Bodily Oddities",
+      "link": "https://vester.si/bodily-oddities/",
+      "published": "2026-09-10T20:33:11+00:00",
+      "summary": "When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no m"
+    },
+    {
       "id": "5e0659b56dd9",
       "source": "Wired",
       "kind": "article",
@@ -2066,6 +2275,17 @@
       "category": "DEV",
       "lang": "ko",
       "title": "노션에 AI 직원을 만들어두면 생기는 일",
+      "link": "https://www.youtube.com/watch?v=WVqOpMIXwyQ",
+      "published": "2026-09-10T11:30:09+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e1c62bb655c4",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "노션에 AI를 붙여놓으면 어디까지 할까?",
       "link": "https://www.youtube.com/watch?v=WVqOpMIXwyQ",
       "published": "2026-09-10T11:30:09+00:00",
       "summary": ""
@@ -4326,6 +4546,17 @@
       "summary": "Article URL: https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html Comments URL: https://news.ycombinator.com/item?id=49622406 Points: 226 # Comments: 94"
     },
     {
+      "id": "5af46a5d81a4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Logo Programming",
+      "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "published": "2026-09-09T07:07:26+00:00",
+      "summary": "Article URL: https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html Comments URL: https://news.ycombinator.com/item?id=49622406 Points: 284 # Comments: 114"
+    },
+    {
       "id": "152ddabe1dc2",
       "source": "AI타임스",
       "kind": "article",
@@ -6304,6 +6535,17 @@
       "link": "https://lax-skyline.parcelscope.net/",
       "published": "2026-09-07T18:52:06+00:00",
       "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 226 # Comments: 113"
+    },
+    {
+      "id": "0a2f1967e6e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "link": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "published": "2026-09-07T18:05:04+00:00",
+      "summary": "Article URL: https://www.tinybird.co/blog/what-i-learned-operating-clickhouse Comments URL: https://news.ycombinator.com/item?id=49601138 Points: 221 # Comments: 79"
     },
     {
       "id": "0370e2f27081",
