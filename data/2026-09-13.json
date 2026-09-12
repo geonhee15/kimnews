@@ -1,8 +1,80 @@
 {
   "issue_date": "2026-09-13",
-  "generated_at": "2026-09-12T21:09:02.579880+00:00",
-  "count": 5,
+  "generated_at": "2026-09-12T23:03:01.422086+00:00",
+  "count": 14,
   "items": [
+    {
+      "id": "df62f9cc5bd5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At ",
+      "content": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\n\nIn May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users’ API keys.\n\nAt the time, RubyGems described it as a “ major malicious attack ” and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the behavior observed very closely mirrored that of the swarm that began editing a German wiki , which OpenAI has confirmed its agents were responsible for.\n\nThe agents in this instance managed to bypass RubyGems’ email verification system to create a large number of accounts, then overwhelmed it with submissions. It then used the site’s automatic build system to remotely execute code and tried to exploit a vulnerability to steal user API keys. Though, it’s unclear if it ever succeeded.\n\nOpenAI did not immediately reply to a request for comment.\n\nThis is the title for the native ad",
+      "published": "2026-09-12T21:41:36+00:00"
+    },
+    {
+      "id": "ddd21f789186",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "블리자드, 블리즈컨서 '디아블로5' 전격 공개…2029년 출시 목표",
+      "link": "https://zdnet.co.kr/view/?no=20260913062737",
+      "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 대표 다크 판타지 액션 RPG '디아블로' 시리즈의 차기 정식 넘버링 타이틀 '디아블로5(Diablo V)'를 전격 공개하며 프랜차이즈 30주년의 새로운 이정표를 세웠다.12일(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 열린 '블리즈컨 2026' 개막 무대에는 브렌트 깁슨 디아블로4 게임 디렉터와 티파니 왓 프로덕션 디렉터, 조 셸리 디아블로 총괄 디렉터가 차례로 올라 '디아블로5'의 첫 티저 시네마틱을 공개하고 향후 ",
+      "content": "디아블로4 신규 직업 '아마존'·스위치2 버전 등 30주년 플랜 대거 발표\n\n게임 입력 :2026/09/13 06:27\n\n[애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 대표 다크 판타지 액션 RPG '디아블로' 시리즈의 차기 정식 넘버링 타이틀 '디아블로5(Diablo V)'를 전격 공개하며 프랜차이즈 30주년의 새로운 이정표를 세웠다.\n\n12일(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 열린 '블리즈컨 2026' 개막 무대에는 브렌트 깁슨 디아블로4 게임 디렉터와 티파니 왓 프로덕션 디렉터, 조 셸리 디아블로 총괄 디렉터가 차례로 올라 '디아블로5'의 첫 티저 시네마틱을 공개하고 향후 프랜차이즈 로드맵을 발표했다.\n\n오는 2029년 봄 출시를 목표로 개발 중인 '디아블로5'는 성역이 완전히 함락된 이후의 세계를 다룬다.\n\n브렌트 깁슨 디렉터는 \"30년 동안 성역은 멸망의 벼랑 끝에 서 있었고 매번 영웅들이 어둠을 막아냈지만 이번엔 다르다\"며 \"'디아블로5'가 2029년 봄에 찾아온다. 영웅들은 사라졌고 성역은 함락됐으며 마침내 디아블로가 승리했다\"고 선언했다.\n\n티파니 왓 프로덕션 디렉터 역시 \"사상 처음으로 플레이어는 파괴를 막기 위해 싸우는 것이 아니라 이미 무너져 내린 세계에서 싸워야 하며 안전한 마을도, 피난처도 없다\"며 \"'세상이 이미 멸망했을 때, 당신은 무엇이 되어야 하는가'가 디아블로5의 핵심 질문\"이라고 강조했다.\n\n'디아블로5'의 주 무대는 공포의 군주 디아블로가 직접 군림하는 서부원정지(Westmarch)의 폐허다. 플레이어는 방랑하는 교역단을 꾸려 생존해야 하며, 악마사냥꾼, 수도사와 함께 신규 직업인 '역병 기사'가 초기 직업 라인업으로 합류한다.\n\n능력치 요구 조건과 소지품 크기 제한, 룬과 룬어 등 '디아블로2' 시절의 클래식 아이템 시스템도 대거 복각된다.\n\n라이브 서비스 중인 '디아블로4'의 대규모 업데이트 계획도 공개됐다. 브렌트 깁슨 디렉터는 \"30년의 어둠을 기념하는 역대 최대 규모 주년 이벤트인 '지옥의 유산' 시즌이 9월 15일 시작된다\"며 \"혼돈에서 망자들이 돌아오면서 익숙한 영혼인 데커드 케인이 성역으로 돌아온다\"고 밝혔다.\n\n티파니 왓 디렉터는 \"케인의 안내를 받아 트리스트럼 대성당, 세계석 보관실, 증오의 사원 등 추억의 장소로 돌아가 3대 대악마를 모두 상대하게 되며 상징적인 보물인 '조던 링(요르단의 반지)'도 복각된다\"고 설명했다.\n\n이용자들의 오랜 염원이었던 신규 직업 '아마존'은 2027년 상반기 직업 팩으로 출시된다.\n\n브렌트 깁슨 디렉터는 \"올해 초 스코보스 제도 등장 이후 '아마존은 어디에 있는가'라는 질문이 쏟아졌다\"며 \"아마존은 활은 물론 디아블 4의 신규 무기군인 상징적인 투창(자벨린)을 사용해 전장을 장악할 것\"이라고 전했다.\n\n이어 현장에 합류한 조 셸리 총괄 디렉터는 '디아블로4: 증오의 시대 컬렉션'이 오는 15일 닌텐도 스위치2로 공식 출시된다고 발표했다.\n\n이 밖에도 이날 블리자드는 넷플릭스와 협업한 디아블로 신작 애니메이션 시리즈 제작을 공식화했다.",
+      "published": "2026-09-12T21:27:37+00:00"
+    },
+    {
+      "id": "43821a3e8dbc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of buildi",
+      "content": "He also said that it was ‘absolutely’ possible to build an AI beyond human control.\n\nOpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune . Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was “absolutely” possible, but vowed to take actions to prevent that from happening, even if it meant pausing training, adding that “there are risks we should not be able to incur on behalf of humanity.”\n\n“We’re not rushing into an IPO. I actually think that, given everything happening with safety, this would be, right now would be an ill-advised moment to go public. And we don’t feel pressure on that. We’ve said for a long time, we’ll do it when we’re ready… I would say not 2026. We’ve got a lot of stuff to do.”\n\nThis is the title for the native ad",
+      "published": "2026-09-12T21:16:28+00:00"
+    },
+    {
+      "id": "38e878175682",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하스스톤 개발진 \"신규 직업 '수도사'·확장팩으로 새 시대 연다…2대2 난투 도입\"",
+      "link": "https://zdnet.co.kr/view/?no=20260913055423",
+      "summary": "[지디넷코리아][애너하임(미국)=정진성 기자)] '블리즈컨 2026' 현장에서 하스스톤의 새로운 도약이 예고됐다. 신규 직업 '수도사'와 신규 확장팩 '검은 제국의 지배'가 그 주인공이다.'블리즈컨 2026'이 개막한 미국 애너하임 컨벤션 센터에서 12일(현지시각) 블리자드 엔터테인먼트의 네이선 라이언스 스미스 하스스톤 총괄 프로듀서와 브렌든 세웰 선임 게임 디자인 매니저를 만나 새롭게 재편될 선술집의 청사진을 들었다.오는 10월 20일 출시되는 확장팩 '검은 제국의 지배'는 십수만 년 전 아제로",
+      "content": "블리즈컨 2026 현장 인터뷰…네이선 라이언스 스미스 총괄·브렌든 세웰 디자인 매니저\n\n게임 입력 :2026/09/13 05:54\n\n[애너하임(미국)=정진성 기자)] '블리즈컨 2026' 현장에서 하스스톤의 새로운 도약이 예고됐다. 신규 직업 '수도사'와 신규 확장팩 '검은 제국의 지배'가 그 주인공이다.\n\n'블리즈컨 2026'이 개막한 미국 애너하임 컨벤션 센터에서 12일(현지시각) 블리자드 엔터테인먼트의 네이선 라이언스 스미스 하스스톤 총괄 프로듀서와 브렌든 세웰 선임 게임 디자인 매니저를 만나 새롭게 재편될 선술집의 청사진을 들었다.\n\n오는 10월 20일 출시되는 확장팩 '검은 제국의 지배'는 십수만 년 전 아제로스를 지배하던 고대 신과 티탄의 전쟁을 다룬다. 네이선 총괄 프로듀서는 \"과거에도 고대 신과 티탄이 등장했지만, 이들의 관계를 십수만 년 전 초창기로 돌아가 살펴보는 것은 처음\"이라며 \"익숙한 얼굴과 강력한 고대 신들을 통해 새로운 재미를 선사할 것\"이라고 밝혔다.\n\n정규전에서 활약할 고대 신들은 과거와는 전혀 다른 메커니즘을 뽐낸다. 브렌든 매니저는 \"티탄과 마찬가지로 4개의 능력을 갖추고 있지만, 본인 턴에 고대 신을 낼 때 4개의 능력 중 2개를 선택해 사용할 수 있다\"며 \"죽음의 메아리를 공격적으로 활용하거나 전장을 쓸어버리는 강력한 피해를 주는 등 4명의 고대 신이 각자 고유한 정체성을 발휘하도록 차별화했다\"고 강조했다.\n\n전장 모드에는 고대 신의 콘셉트를 살린 신규 하수인 종족 '돌연변이'가 추가된다. 브렌든 매니저는 \"돌연변이가 죽을 때마다 잠자고 있던 고대 신을 깨우게 되며, 마침내 고대 신이 깨어나면 전장에 막대한 영향력을 발휘하도록 설계했다\"고 설명했다.\n\n신규 확장팩의 핵심 키워드인 '조합(Assemble)'은 '발견' 메커니즘을 한 차원 끌어올린 시스템이다. 브렌든 매니저는 \"여러 카드를 가져와 요소를 결합하는 판타지를 실현하고자 했다\"며 \"250여 개의 방대한 카드 풀을 바탕으로 밸런스를 잡았으며, 향후 선보일 확장팩에서도 조합 키워드를 지원하는 카드를 지속적으로 추가할 예정\"이라고 짚었다.\n\n새롭게 도입되는 2대2 팀 대전인 '선술집 난투'는 유저들의 피드백을 적극 수용한 결과물이다. 브렌든 매니저는 \"선술집 난투는 플레이어들이 관심을 가지는 새로운 메커니즘을 실험하는 최적의 테스트 베드\"라고 전했다. 이어 네이선 총괄 프로듀서는 \"전장 모드의 듀오에 대한 플레이어들의 긍정적인 반응에서 영감을 얻었다\"며 \"2대2 모드를 정규전에 어떻게 접목할지 알아보기 위해 난투에서 먼저 반응을 살피고 점진적으로 확장해 나갈 계획\"이라고 부연했다.\n\n세 번째 신규 직업 '수도사'의 합류 배경도 공개됐다. 네이선 총괄 프로듀서는 \"지난 2023년 블리즈컨 현장과 대규모 설문조사에서 가장 많은 플레이어가 도입을 원했던 직업이 바로 수도사였다\"며 \"플레이어들의 바람에 귀 기울여 수도사의 판타지를 게임 내에 완벽하게 구현하기 위해 개발에 매진하고 있다\"고 밝혔다.\n\n직업의 구체적인 메커니즘에 대해서는 \"현재는 검은 제국의 지배와 일지, 전장 업데이트에 집중하고 있으며, 추후 정보가 구체화되는 대로 속 시원히 공유하겠다\"고 말을 아꼈다.\n\n서비스 13년 차를 맞이한 하스스톤의 장기 비전도 제시됐다. 네이선 총괄 프로듀서는 \"향후 5년에서 10년, 나아가 15년 동안 하스스톤을 플레이한다는 것이 어떤 의미를 갖는지 끊임없이 고민하고 있다\"며 \"앞으로 9개월간 새로운 형태의 이벤트를 순차적으로 도입해 콘텐츠 업데이트 사이에도 매주 신선한 재미를 느낄 수 있도록 시스템을 재편할 것\"이라고 다짐했다.\n\n팬들이 염원하는 실물 TCG 카드 출시에 대해서도 입을 열었다. 그는 \"개발팀 모두 실물 카드 게임을 사랑하고 정기적으로 즐기지만, 당장 구체적인 실물 카드 출시 계획은 없다\"면서도 \"하스스톤 고유의 '디지털' 감성을 실물로 완벽히 구현할 훌륭한 아이디어가 나온다면 블리즈컨 같은 행사에서 소규모 경험의 형태로 선보일 가능성은 열려 있다\"고 답했다.",
+      "published": "2026-09-12T20:54:23+00:00"
+    },
+    {
+      "id": "2b9c3912caf9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "블리자드, '스타크래프트' 오픈월드 슈터로 귀환…2030년 출시 목표",
+      "link": "https://zdnet.co.kr/view/?no=20260913053953",
+      "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트의 대표 지식재산권(IP) '스타크래프트'가 기존 실시간 전략 시뮬레이션(RTS)의 틀을 깨고 오픈월드 슈터 장르로 전격 귀환한다.블리자드는 12일(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 개막한 '블리즈컨 2026'을 통해 스타크래프트 세계관을 배경으로 한 차세대 신작 프로젝트를 최초 공개했다.이번 신작은 '스타크래프트 II: 공허의 유산'의 사건으로부터 70년이 지난 시점의 코프룰루 섹터를 무대로 펼쳐지는 스토리 중심",
+      "content": "'공허의 유산' 70년 뒤 코프룰루 섹터 무대…'파크라이'로 알려진 댄 헤이 총괄 지휘\n\n게임 입력 :2026/09/13 05:39\n\n[애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트의 대표 지식재산권(IP) '스타크래프트'가 기존 실시간 전략 시뮬레이션(RTS)의 틀을 깨고 오픈월드 슈터 장르로 전격 귀환한다.\n\n블리자드는 12일(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 개막한 '블리즈컨 2026'을 통해 스타크래프트 세계관을 배경으로 한 차세대 신작 프로젝트를 최초 공개했다.\n\n이번 신작은 '스타크래프트 II: 공허의 유산'의 사건으로부터 70년이 지난 시점의 코프룰루 섹터를 무대로 펼쳐지는 스토리 중심의 SF 오픈월드 슈터 게임이다.\n\n개발 지휘봉을 잡은 댄 헤이 스타크래프트 개발 총괄 디렉터는 개막식 무대에 올라 25년 전 블리자드 입사 지원에서 탈락했던 일화를 소개하며 프로젝트에 대한 각별한 소회를 밝혔다.\n\n댄 헤이 총괄은 \"수년 전 블리자드로부터 가장 사랑받는 유산을 이어갈 자격이 있는 팀을 꾸려달라는 전화를 받았다\"며 \"단 하나의 목적이자 목표인 성간 전쟁 속에서 탄생한 세계관으로 귀환하기 위해 팀이 뭉쳤다\"고 설명했다.\n\n기존 탑다운 RTS 시점을 벗어난 파격적인 장르 전환도 분명히 했다. 댄 총괄은 \"위에서 내려다보는 시점이 아닌 진흙탕과 포화 속에서 발을 땅에 딛고 직접 뛰는 오픈월드 슈터\"라며 \"진실된 역사를 써 내려온 찬란한 과거를 기리면서도 그 너머로 도약할 기회\"라고 강조했다.\n\n이어 타이커스 핀들레이의 상징적인 대사를 인용해 \"드디어 올 것이 왔다(It's about damn time)\"고 외치며 첫 티저 시네마틱을 공개해 현장을 열광시켰다.\n\n현재 개발 초기 단계인 스타크래프트 신작은 오는 2030년 출시를 목표로 하고 있다. 블리자드는 향후 수년에 걸쳐 게임플레이 영상과 세계관 심층 정보 등을 순차적으로 공개할 계획이다.",
+      "published": "2026-09-12T20:39:53+00:00"
+    },
+    {
+      "id": "8c3a47b175d7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"드디어 올 것이 왔군\"…스타크래프트 슈터·디아5 앞세운 '블리즈컨 2026' 개막",
+      "link": "https://zdnet.co.kr/view/?no=20260913052410",
+      "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 전 세계 게이머들의 기대를 한 몸에 받아온 글로벌 게임 축제 '블리즈컨 2026'이 무성했던 소문들을 초대형 신작과 대규모 확장 프로젝트로 증명해 내며 화려한 막을 올렸다.12일(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 개막한 블리즈컨 2026은 첫날부터 전 세계에서 몰려든 관람객들로 발 디딜 틈 없이 붐볐다. 3년 만의 블리즈컨인 만큼 이날 개막식에서는 '스타크래프트' IP의 신작 오픈월드 슈터, '디아블로5' 등 굵직한 소식이 현장을 뜨",
+      "content": "조해나 패리스 사장 \"엔터테인먼트로 도약\"…총상금 10만 달러 클래식 컵·체험형 축제 풍성\n\n게임 입력 :2026/09/13 05:24\n\n[애너하임(미국)=정진성 기자] 전 세계 게이머들의 기대를 한 몸에 받아온 글로벌 게임 축제 '블리즈컨 2026'이 무성했던 소문들을 초대형 신작과 대규모 확장 프로젝트로 증명해 내며 화려한 막을 올렸다.\n\n12일(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 개막한 블리즈컨 2026은 첫날부터 전 세계에서 몰려든 관람객들로 발 디딜 틈 없이 붐볐다.\n\n3년 만의 블리즈컨인 만큼 이날 개막식에서는 '스타크래프트' IP의 신작 오픈월드 슈터, '디아블로5' 등 굵직한 소식이 현장을 뜨겁게 달궜다.\n\n올해 현장은 관람 동선형으로 새롭게 개편된 대형 굿즈 스토어와 행사장 곳곳의 키오스크, 아레나 플라자의 굿즈 트레일러를 비롯해 고전 타이틀을 즐길 수 있는 '블리자드 아케이드', 신비로운 체험 공간인 '다크문 축제', 커뮤니티 교류 공간 '인클루전 넥서스' 등이 마련돼 체험형 축제의 면모를 강화했다.\n\n특유의 함성을 외치며 센터를 일주하는 전통 행사인 '멀록 대행진'도 현장의 축제 분위기를 한층 돋웠다.\n\n이날 개막식 기조연설에 나선 조해나 패리스 블리자드 엔터테인먼트 사장은 지식재산권(IP)의 전방위적 미디어 확장을 선언하며 축제의 포문을 열었다.\n\n조해나 패리스 사장은 \"우리는 단순한 게임 개발사를 넘어 블리자드 엔터테인먼트로서 새로운 스크린으로 나아갈 때\"라며 \"넷플릭스와 협력해 디아블로 신작 애니메이션 시리즈를 개발 중이며, 향후 오버워치와 워크래프트 등 핵심 세계관의 영상화도 적극 추진하겠다\"고 밝혔다.\n\n블리자드의 확장은 미디어를 넘어 새로운 장르 개척으로도 이어졌다. 댄 헤이 총괄 매니저는 기존 실시간 전략 시뮬레이션(RTS) 장르를 탈피해 전장을 직접 발로 뛰는 ' 스타크래프트' IP 기반의 '오픈월드 슈터' 신작을 공식화했다.\n\n그는 타이커스 핀들레이의 상징적인 대사를 오마주하며 \"드디어 올 것이 왔다(It's about damn time)\"고 선언해 객석을 열광의 도가니로 몰아넣었다. 해당 신작은 2030년 출시가 예고됐다.\n\n팬들의 오랜 염원을 충족시키는 핵심 IP들의 파격적인 발표도 잇따랐다. 성역이 악마에게 완전히 함락된 포스트 아포칼립스 세계관의 차기작 '디아블로5'가 2029년 봄 출시를 목표로 최초 공개됐으며, '월드 오브 워크래프트'는 '워크래프트3' 직후 시점을 다루는 클래식 플러스 버전 '월드 오브 워크래프트: 포에버'를 7주 뒤 선보인다고 발표했다.\n\n아울러 15년 만의 워크래프트3 공식 신규 캠페인 '포세이큰 킹덤'은 개막 당일 현장에서 기습 출시됐다.\n\n라이브 서비스 타이틀 역시 대대적인 개편을 예고했다. '오버워치'는 신규 영웅 '독트린'의 즉시 합류와 함께 공격군 영웅 솜브라를 지원가로 전향시키는 파격적인 시즌 5 로드맵을 공개했다.\n\n'하스스톤'은 두 카드를 결합하는 '조립' 메커니즘과 선술집 난투 역사상 최초의 2대2 태그팀 대전 모드를 도입한 신규 확장팩 '검은 제국의 지배'를 선보였다.\n\n신작 발표의 열기는 총상금 10만 달러 규모의 e스포츠 대전으로 이어진다. 닉 플롯과 댄 스템코스키가 각각 팀 주장을 맡은 '블리자드 클래식 컵'에서는 '임요환'과 '강민', '그렉 필즈'와 '장민철' 등 전설적인 라이벌들이 맞붙어 올드 팬들의 향수를 자극한다.\n\n이와 함께 오버워치 월드컵, 월드 오브 워크래프트 아레나 월드 챔피언십, 하스스톤 마스터즈 투어 등 종목별 최강자전이 양일간 무대를 달군다.\n\n한편, 13일에는 인기 성우 다린 드 폴이 진행하는 '커뮤니티의 밤' 행사와 함께 글로벌 K-팝 그룹 르세라핌의 피날레 공연, J-팝 듀오 요아소비의 오버워치 월드컵 하프타임 쇼가 현장 관람객 한정으로 펼쳐져 축제의 대미를 장식할 예정이다.",
+      "published": "2026-09-12T20:24:10+00:00"
+    },
     {
       "id": "b2473501dbfa",
       "source": "TechCrunch",
@@ -14,6 +86,18 @@
       "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
       "content": "While OpenAI has filed confidentially for an IPO , the company will not be going public this year , according to CEO Sam Altman.\n\nAltman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack , as well as broader discussions about AI safety , Shontell asked whether OpenAI still feels pressure to “move really fast” due to its IPO plans.\n\n“We’re not rushing into an IPO,” Altman said. “I actually think that given everything happening with safety, right now would be an ill-advised moment to go public.”\n\nInstead, he insisted that OpenAI will go public “when we’re ready, which is when the business is ready, when we feel ready from what the moment is like in society with this technology.” When pressed on whether that means the IPO isn’t happening in 2026, Altman replied, “I would say not 2026, yeah. We’ve got a lot of stuff to do.”\n\nThe New York Times reported in June that although OpenAI had hired bankers and lawyers with the goal of going public in the third or fourth quarter of 2026, the company was leaning toward 2027 due to the volatility of tech stocks and its own financial challenges.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.",
       "published": "2026-09-12T20:19:16+00:00"
+    },
+    {
+      "id": "4a3c9bf0831c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플 아이폰17, 첫해 매출 230조원…삼성 MX 연매출의 1.8배",
+      "link": "https://zdnet.co.kr/view/?no=20260911171526",
+      "summary": "[지디넷코리아]애플이 지난해 출시한 '아이폰17 시리즈'가 출시 첫해 역대 아이폰 시리즈 가운데 사상 최대 매출을 달성했다. 교체주기 도래에 따른 업그레이드 수요와 더불어 기본형 모델부터 최고급 모델에 이르기까지 전 라인업에서 고른 인기를 얻었다. 13일 시장조사업체 카운터포인트에 따르면 아이폰17 시리즈의 출시 첫해 글로벌 누적 매출액은 1700억 달러(약 230조원)를 돌파했다. 이는 전작 아이폰16 시리즈의 출시 첫해 매출보다 11% 증가한 수치다. 역대 애플 아이폰 라인업이 기록한 첫해 성",
+      "content": "기본형부터 프로까지 전 라인업 흥행…중국서 35% 급증\n\n홈/모바일 입력 :2026/09/13 05:00\n\n애플이 지난해 출시한 '아이폰17 시리즈'가 출시 첫해 역대 아이폰 시리즈 가운데 사상 최대 매출을 달성했다. 교체주기 도래에 따른 업그레이드 수요와 더불어 기본형 모델부터 최고급 모델에 이르기까지 전 라인업에서 고른 인기를 얻었다.\n\n13일 시장조사업체 카운터포인트 에 따르면 아이폰17 시리즈의 출시 첫해 글로벌 누적 매출액은 1700억 달러(약 230조원)를 돌파했다. 이는 전작 아이폰16 시리즈의 출시 첫해 매출보다 11% 증가한 수치다. 역대 애플 아이폰 라인업이 기록한 첫해 성적 중 가장 높은 금액이다.\n\n애플의 아이폰17 시리즈 매출 약 230조원은, 삼성전자 MX·네트워크 사업부의 지난해 매출 129조 7000억원의 1.8배다.\n\n아이폰17 시리즈 흥행은 기본 모델 약진이 주효했다. 카운터포인트는 \"아이폰17 시리즈는 수년 만에 애플이 선보인 가장 강력한 라인업\"이라며 \"기존 프로 시리즈에서만 접할 수 있었던 고급 사양을 기본 모델에 탑재했고 , 상위 라인업 프로 시리즈는 강력해진 애플 실리콘 칩셋과 향상된 카메라, 차별화 디자인 및 다채로운 소재 구성을 앞세워 시장을 공략했다\"고 설명했다.\n\n이어 \"기본 모델은 프로급 기능을 처음 접하는 교체수요층은 물론 최신 하드웨어와 카메라 성능을 추구하는 기존 하이엔드 고객층도 흡수했다\"고 진단했다. 아이폰17 기본 모델의 출시 첫해 매출은 전작 대비 1.3배 이상 급증했다.\n\n아이폰17 기본 모델은 2026년 상반기 단일 모델 기준 글로벌 스마트폰 판매량 1위에 올랐다. 아이폰17 프로와 아이폰17 프로 맥스는 나란히 2위와 3위를 차지했다.\n\n중국 시장 판매도 반등했다. 중국 시장에서 아이폰17 시리즈 매출은 전작 대비 35% 급증했다. 기본 모델 중심 업그레이드 교체 수요가 유입됐다.\n\n이와 함께 비(非) 서구권 시장 성장도 아이폰 17 시리즈 성장을 견인했다. 카운터포인트는 \"일본, 중동·아프리카, 아시아·태평양 시장도 성장세가 양호했다 \"며 \"이들 지역 강세가 북미, 유럽 등 성숙 시장의 완만한 성장을 보완했다\"고 설명했다.\n\n스마트폰 가격도 애플에 유리했다. 안드로이드 진영 플래그십 기기와 가격차가 크게 좁혀져 아이폰17이 반사이익을 입었다. 카운터포인트는 \"2025년 4분기 이후 모바일 메모리 가격이 4배 폭등하면서 다수의 안드로이드 스마트폰 제조사가 출고가를 인상하거나 세부 사양을 조정했다\"며 \"애플은 비교적 안정적으로 가격을 유지했다\"고 분석했다. 주요국 통신사와 유통 채널이 플래그십폰 프로모션을 확대한 점도 아이폰 17 시리즈 판매를 지원했다.\n\n애플은 지난 9일 아이폰18 프로·프로 맥스와 첫 번째 폴더블폰 아이폰 듀오를 공개했다. 아이폰 듀오는 출고가가 1999달러(약 270만원)부터 시작하는 초프리미엄 제품인 만큼 판매량 자체는 제한적일 수 있지만, 아이폰 평균판매가격(ASP)을 올릴 수 있다.",
+      "published": "2026-09-12T20:00:01+00:00"
     },
     {
       "id": "71a3a810bd66",
@@ -28,6 +112,18 @@
       "published": "2026-09-12T19:34:44+00:00"
     },
     {
+      "id": "12e090fb9a63",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SOOP, '블리즈컨2026' 현장 생중계...스케줄은",
+      "link": "https://zdnet.co.kr/view/?no=20260912224805",
+      "summary": "[지디넷코리아]블리자드 엔터테인먼트의 대표 게임 행사 ‘블리즈컨(BlizzCon) 2026’의 현장을 SOOP 생중계 플랫폼에서 확인할 수 있다.13일 SOOP(각자 대표 최영우·이민원)에 따르면, ‘블리즈컨 2026’ 메인 스테이지와 주요 e스포츠 콘텐츠 등을 SOOP 블리자드 공식 방송국에서 생중계한다.‘블리즈컨 2026’은 오는 12일부터 13일까지(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 열린다. 블리자드 주요 게임의 새로운 소식을 발표하는 개막식을 비롯해 개발자 패널과 게임 시",
+      "content": "SOOP 블리자드 공식 방송국, 블리즈컨 메인 스테이지 및 e스포츠 등 중계\n\n게임 입력 :2026/09/13 04:00\n\n블리자드 엔터테인먼트의 대표 게임 행사 ‘블리즈컨(BlizzCon) 2026’의 현장을 SOOP 생중계 플랫폼에서 확인할 수 있다.\n\n13일 SOOP(각자 대표 최영우·이민원)에 따르면, ‘블리즈컨 2026’ 메인 스테이지와 주요 e스포츠 콘텐츠 등을 SOOP 블리자드 공식 방송국에서 생중계한다.\n\n‘블리즈컨 2026’은 오는 12일부터 13일까지(현지시간) 미국 캘리포니아 애너하임 컨벤션 센터에서 열린다. 블리자드 주요 게임의 새로운 소식을 발표하는 개막식을 비롯해 개발자 패널과 게임 시연, 커뮤니티 프로그램, e스포츠 대회 등이 양일간 진행된다.\n\nSOOP 이용자는 팀 대항전 ‘블리자드 클래식 컵(Blizzard Classic Cup)’을 확인할 수 있다. 해당 대항전은 스타크래프트: 리마스터(StarCraft: Remastered), 스타크래프트 II(StarCraft II), 워크래프트 III: 리포지드(Warcraft III: Reforged), 히어로즈 오브 더 스톰(Heroes of the Storm) 등 4개 종목으로 진행된다. ‘BoxeR’ 임요환, ‘Nal_rA’ 강민, ‘MC’ 장민철 등 한국 선수를 비롯해 각 종목을 대표하는 선수 등이 참여한다.\n\n또 지난 8월 부산에서 그룹 스테이지를 진행한 ‘오버워치 월드컵(OWWC)’의 본선 및 파이널도 SOOP 블리자드 공식 방송국에서 생중계할 예정이다.\n\n이와 함께 OWWC를 시청하는 팬들을 위한 이벤트도 준비했다 . SOOP에서 OWWC를 시청하면 공식 인게임 아이템 드롭스를 받을 수 있으며, SOOP이 마련한 특별 드롭스 등 추가 혜택도 제공된다.\n\n‘블리즈컨 2026’의 한국 시간 기준 송출 채널과 시간 등은 SOOP 블리자드 공식 방송국에 공개된 상태다.",
+      "published": "2026-09-12T19:00:01+00:00"
+    },
+    {
       "id": "368c70f8bf45",
       "source": "The Verge",
       "kind": "article",
@@ -38,6 +134,18 @@
       "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, ",
       "content": "The band’s new, organic-sounding record Ow ∞ is out now\n\nAmelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single “ Hey Mami .” Over the years, they’ve put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love , going dancier and glitchier on No Rules Sandy . The two are constantly pushing at the edges of their sound while retaining the core of what makes a Sylvan Esso record sound like a Sylvan Esso record.\n\nTheir new album Ow ∞ , released this past Friday, represents perhaps the boldest reinvention of their sound, however. It’s unabashedly nostalgic-sounding, trading the glitchy modular drums and glossy dance production of Free Love for turn-of-the-century breakbeats and distorted guitars. At times, the songs recall bands like Soul Coughing and Blur, on tracks like “Hot Slob” and “Concrete Glen.” But don’t worry, there’s still plenty of bleeps and bloops and modern vocal production techniques to keep fans of past albums happy.\n\nTo celebrate the release of Ow ∞ , Sylvan Esso agreed to answer our weekly questionnaire.\n\nWhat is your most indispensable tool?\n\nNick Sanborn: My laptop. I have loved a series of MacBooks dating back to when I graduated from high school and cannot imagine working without one. I am absolutely one of those millennials who despises typing or doing any important work on a touchscreen.\n\nWhat is one thing you wish you could change about your phone?\n\nNS: I wish it felt like it cared more about me than its creator.\n\nAmelia Meath: I wish the phone was actually a food replicator. So many problems would be solved.\n\nHow many tabs do you have open right now?\n\nNS: Eight, which feels a touch low compared to my normal ADHD tab expanse. No pins besides email, though, I like a tabula rasa scene when I open a browser.\n\nWhat is your happy place online?\n\nNS: I still frequent a version of the old Monome forum , which is generally focused on programming and instrument design. The people there are excellent and interesting and so welcoming and nice. It’s the only place on the internet that feels more positive than detrimental to me.\n\nAM: Spellsofmagic.com .\n\nWhat is your favorite gadget you’ve ever owned?\n\nAM: I had a T-Mobile Sidekick that I saved up for when I was in high school. It was the coolest phone I have ever owned. I kept my journal on there :D\n\nWhat game do you have the fondest memories of?\n\nNS: EarthBound , which was a gorgeous, heartfelt, quirky JRPG on the Super Nintendo that came out in 94. It’s beautiful and strange and full of humanity. I still play it all the way through every few years.\n\nAM: The first Zelda I played was Skyward Sword on the Wii. We lived in a house with a whole bunch of other people, and we would all hang and play together. It was a joy and became my gateway into playing games as an adult. There have been so many others that I have fallen in love with since then — Hollow Knight , Blue Prince , Hades — but Skyward Sword was my first love. So much lore.\n\nWhich tech trend do you wish would go away?\n\nAM: The encouragement of apathy.\n\nWhat is one thing you wish you had created?\n\nNS: I rarely wish I had made something that I already like, since I feel like me making it would have ruined it being what it is in the first place. But I have been dreaming about a really specific thing — an AM/FM radio with an analog tuner that I could control remotely with a computer or sequencer — for literal years. There are many things out there that are close but not quite this, so much so that it’s kinda maddening. I even tried to get a synth tech I work with regularly to help me prototype one, but it never came to fruition. Finally, last year, a small company in Italy started making one, and like four friends sent me the link in a week, that was how endlessly chatty I had been about wanting one. Of course I ordered one, and it’s good, but I still think it could be better lol.\n\nAM: I wish I had the well. What an incredible claim to fame. “I figured out how to store and save water from the table.” I feel like I could stop trying after that.\n\nWhat do you do when you need to focus?\n\nAM: I go outside and sit. Usually, I have to be writing, so I can take my notebook out. I try to leave my phone inside, but I usually forget!\n\nWhat do you do when you’re feeling stuck?\n\nNS: I usually find myself stuck when I want something to be good and it just isn’t yet, but I can’t let it go. In that situation, I just have to step away and do something totally different and without consequence, like pulling out an instrument I haven’t used in a while and making something unrelated as spontaneously as I can. I find removing expectations and shifting gears to be really helpful for my headspace when I can’t find a way through whatever has me in a loop.\n\nWhen was the last time you went somewhere without your phone?\n\nNS: About a month ago, I put my phone through both the washer and dryer, destroying it completely and giving me about a week of pure phoneless existence. It was heaven. Highly recommend.\n\nWhat’s the last piece of physical media you bought?\n\nAM: I just bought Sheila Heti’s Pure Colour at a bookstand in Brooklyn. It is a beautiful and incredibly surreal read.\n\nWhat do you think is worth splurging on?\n\nNS: Yogurt. It’s not even that much of a splurge, but I just think good yogurt is utterly transcendent. Deeply underrated delicacy.\n\nWhat would the tagline for your biopic be?\n\nWhat’s the last GIF or meme you used?\n\nAM: This is also the last GIF I used!!!\n\nThis is the title for the native ad",
       "published": "2026-09-12T16:35:00+00:00"
+    },
+    {
+      "id": "fc8018679973",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 253 # Comments: 69",
+      "content": "This quick tutorial will help you make a meaningful contribution to OpenStreetMap (OSM) in less than 15 minutes. By the end, you will have added an official website tag to a nearby shop or amenity. Soon after, your contribution will be ingested into dozens of free OSM-based services , helping people worldwide.\n\nWhy a website tag? Once a place in OSM has a website tag, it becomes way easier to determine other helpful info about that place. Nearly every place’s official website has info about its phone , opening_hours , email , and other tags . So adding a website tag is a great place to get started.\n\nGot your stopwatch out? Ready, set, go!\n\nDownload JOSM (~365 MB) for your specific operating system and then run it.\n\nJOSM , the Java OSM editor app, is a powerful tool for querying and editing OSM data. While simpler in-browser editors exist, JOSM offers plugins that make your edit as quick and easy as possible.\n\nNow we’ll filter the OSM data to only show shops and amenities that don’t have a website.\n\n🎉🎊🥳 Congratulations- you just made OSM a little bit better for everyone! Plus you got a preview of some of the cool things you can do with JOSM and OSM data.\n\nYou could keep going and add a website tag to every place in your AOI. For example, I quickly added 66 new website tags in Seattle’s Wallingford neighborhood in this changeset .\n\nOr you could modify the filter to show places in your AOI with a website tag but no phone tag. Then you could add the phone tag based on info from the website.\n\nOr you could spread the word about OSM and Website Wizard! The United States alone has more than 1 million shops. So if we want to put them all on the map, we’ll need to get many more people to help.\n\nNo matter what’s next, feel proud for pushing OSM a little closer toward becoming the world’s greatest map!",
+      "published": "2026-09-12T16:25:08+00:00"
     },
     {
       "id": "63457147b3d3",
