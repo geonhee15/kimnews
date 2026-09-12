@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-09-12T18:46:30.969614+00:00",
-  "count": 12787,
+  "updated_at": "2026-09-12T21:09:02.656985+00:00",
+  "count": 12791,
   "items": [
+    {
+      "id": "b2473501dbfa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published": "2026-09-12T20:19:16+00:00",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+    },
+    {
+      "id": "71a3a810bd66",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published": "2026-09-12T19:34:44+00:00",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+    },
     {
       "id": "368c70f8bf45",
       "source": "The Verge",
@@ -254,6 +276,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
       "published": "2026-09-12T08:24:33+00:00",
       "summary": "구글이 대형언어모델(LLM)의 도구 사용 능력을 효율적으로 학습하기 위한 새로운 데이터 생성 프레임워크를 공개했다. 복잡한 API 탐색 과정에서 시행착오를 반복하는 기존 방식과 달리, 먼저 검증된 도구 사용 경로를 만든 뒤 이에 맞는 사용자 질의를 생성하는 방식으로 데이터 생성 비용과 실패율을 크게 낮췄다. 구글 연구진은 최근 AI 에이전트의 도구 사용 능력을 학습하는 데이터를 저렴하고 안정적으로 생성할 수 있는 프레임워크 ‘툴그래드(ToolGrad)’를 온라인 아카이브를 통해 공개했다.AI 에이"
+    },
+    {
+      "id": "e4c9998fb8c9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "published": "2026-09-12T07:54:03+00:00",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 201 # Comments: 27"
     },
     {
       "id": "a232b899a664",
@@ -2157,6 +2190,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
       "published": "2026-09-10T15:38:19+00:00",
       "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a "
+    },
+    {
+      "id": "2c45da36622e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "published": "2026-09-10T15:31:37+00:00",
+      "summary": "https://www.lg.com/global/newsroom/news/statements/statement... Comments URL: https://news.ycombinator.com/item?id=49645480 Points: 288 # Comments: 258"
     },
     {
       "id": "0f9025580c95",
