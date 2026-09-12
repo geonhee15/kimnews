@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-09-12T01:20:44.360776+00:00",
-  "count": 12731,
+  "updated_at": "2026-09-12T06:06:30.346165+00:00",
+  "count": 12749,
   "items": [
+    {
+      "id": "c5bb21e942c1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google no longer provides direct URLs in search results",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "published": "2026-09-12T03:14:20+00:00",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 233 # Comments: 115"
+    },
+    {
+      "id": "87d69f139901",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215182",
+      "published": "2026-09-12T02:56:44+00:00",
+      "summary": "AI 에이전트의 성능을 좌우하는 요소가 모델 자체의 능력뿐 아니라 이를 둘러싼 실행 환경과 소프트웨어인 ‘하네스(harness)’로 확대되는 가운데, AI가 스스로 실행 시스템을 만들고 개선할 수 있는지를 평가하는 새로운 연구가 나왔다. 바이트댄스 연구진은 최근 대형언어모델(LLM)이 에이전트의 실행 시스템을 직접 구축하고 발전시키는 능력을 측정하는 평가 프레임워크 ‘하네스데브(HarnessDev)’를 온라인 아카이브를 통해 공개했다.하네스는 모델을 실제 작업 수행 시스템으로 바꾸는 소프트웨어 계"
+    },
+    {
+      "id": "0516afdd78b3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '에이전트 API' 공개 베타 출시...\"에이전트 구축 쉬워진다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215181",
+      "published": "2026-09-12T02:34:32+00:00",
+      "summary": "AI 에이전트가 단순한 질의응답을 넘어 장시간에 걸쳐 코드를 작성하고 파일을 처리하며 여러 작업을 자율적으로 수행하는 단계로 발전하면서, 이를 안정적으로 운영하기 위한 개발 인프라의 중요성도 커지고 있다. 오픈AI가 코딩 에이전트 코덱스를 통해 축적한 에이전트 운영 기술을 개발자들에게 개방하며, 복잡한 에이전트 구축 과정을 간소화하는 데 나섰다. 오픈AI는 10일(현지시간) 코딩 에이전트 ‘코덱스(Codex)’를 구동하는 핵심 하네스(harness)와 인프라를 개발자들이 단일 API 호출 방식으로"
+    },
+    {
+      "id": "dae3f335a2ac",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "챗GPT로 교내 총격 계획한 아르헨티나 10대, FBI 경보 후 경찰 급습",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215187",
+      "published": "2026-09-12T02:20:48+00:00",
+      "summary": "미국 연방수사국(FBI)의 모니터링 시스템이 AI 챗봇을 악용한 테러 정황을 사전에 포착하며 대형 참사를 막아냈다.아르헨티나 연방경찰(PFA)은 10일(현지시간) 부에노스아이레스주 킬메스에 거주하는 15세 소년의 자택을 급습해 수사를 진행 중이라고 발표했다. 이 소년은 챗GPT를 활용해 급우들을 겨냥한 교내 총격 사건을 구상했던 것으로 드러났다.이번 사건은 아르헨티나 주재 미국 대사관에 파견된 FBI 법률 담당관의 정보 제공으로 드러났다. 소년이 챗GPT에 접속해 테러 및 공격 실행에 필요한 모니"
+    },
+    {
+      "id": "6af0d517bb7d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "달걀 껍질 본뜬 ‘우주 갑옷’…충돌 속도 65% 줄였다",
+      "link": "https://zdnet.co.kr/view/?no=20260912070550",
+      "published": "2026-09-12T02:18:56+00:00",
+      "summary": "[지디넷코리아]우주선이 우주 쓰레기와 충돌하는 것을 막는 데 달걀 껍질 모양을 본뜬 갑옷이 큰 역할을 할 전망이다.중국 다롄이공대학 연구진이 우주쓰레기 충돌로부터 우주선을 보호하기 위해 달걀 껍질을 본뜬 생체모방형 경량 메타구조를 개발했다고 과학매체 인터레스팅엔지니어링이 최근 보도했다. 해당 연구 결과는 국제 학술지 ‘응용물리학 저널(Journal of Applied Physics)’에 이번 주 게재됐다.우주선 발사 횟수가 증가하면서 지구 궤도에는 우주쓰레기가 빠르게 늘어나고 있다. 현재 지구 궤"
+    },
+    {
+      "id": "fe858616fe36",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프, AI 종말론 위험 일축…\"중국 우위가 최우선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215185",
+      "published": "2026-09-12T01:33:50+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 AI가 인류를 멸종시킬 수 있다는 연구진과 정치권의 공포론을 정면으로 일축하며 핵심은 기술 주도권을 둘러싼 글로벌 경쟁이라고 강조했다. 앤트로픽과 오픈AI 연구원들이 '2020년대 말까지 AI가 인류를 위협할 수 있다'거나 '재귀적 자기 개선(RSI)' 기술이 심각한 위험을 초래할 것이라며 사직서를 제출하고 공개 경고를 이어가는 가운데 나온 강경한 발언이다.트럼프 대통령은 11일(현지시간) AI가 인류를 멸망시킬 것이라는 우려가 있느냐는 질문에 ”아니다, 전혀 없다”라"
+    },
+    {
+      "id": "f136b013beb3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] AI가 일할수록 'AX 인재' 몸값 뛴다…왜",
+      "link": "https://zdnet.co.kr/view/?no=20260911162934",
+      "published": "2026-09-12T01:30:21+00:00",
+      "summary": "[지디넷코리아]에이전틱 인공지능(AI)이 기업 업무를 직접 수행하는 단계로 확산되면서 국내 기업의 AI 전환(AX) 과정에서 인재 확보 부담이 커지고 있다. AI 모델을 개발하는 전문인력뿐 아니라 산업 현장에서 AI 에이전트에 업무를 맡기고 여러 에이전트를 조율·통제할 수 있는 'AX 인재' 수요가 빠르게 늘고 있어서다.12일 소프트웨어정책연구소(SPRi)가 발간한 '에이전틱 AI 시대의 핵심 자원, AX 인재 : 현황 진단 및 정책 과제' 보고서에 따르면 AI가 콘텐츠를 생성하는 도구에서 목표를"
+    },
+    {
+      "id": "c4f1470f0726",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "‘경주 헤리티지 AI시네마’ 개최…“AI로 복원한 10편의 문화유산 영상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215175",
+      "published": "2026-09-12T01:05:00+00:00",
+      "summary": "AI 기술로 복원한 문화유산 영화를 선보이는 ‘제1회 헤리티지 AI시네마’가 11일 경주 보문관광단지 프리미엄 멀티플렉스 '씨네Q'에서 열렸다.국가유산청, 경상북도, 경주시가 공동 주최하고 국립문화유산연구원과 경주화백컨벤션센터(HICO)가 주관하는 이번 행사는 ‘2026 세계국가유산산업전’ 두번째 참관객 프로그램으로 진행됐다. AI 기술로 복원한 문화유산 영상 10편을 연이어 상영했다. 개막작으로는 ‘사천왕사’를 선보였다. 신라의 호국 사찰 사천왕사를 중심으로 당나라의 침공을 막기 위해 문두루 비"
+    },
+    {
+      "id": "66b3bc21533e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플 폴더블폰 시장 진입 공격에 삼성 ‘팀 쿡’ 카드로 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215183",
+      "published": "2026-09-12T01:01:45+00:00",
+      "summary": "삼성이 애플의 첫 폴더블폰 발표에 맞춰 반격에 나섰다. 애플이 신제품 공개 과정에서 기존 폴더블폰 제품군을 직격하자, 삼성도 애플 전 CEO와 동명이인인 인물을 내세운 패러디 광고로 응수에 나섰다. 이번 신경전은 애플이 첫 폴더블 스마트폰인 '아이폰 듀오'를 공개하며 시작됐다. 존 터너스 애플 신임 CEO는 9일(현지시간) 신제품을 소개하는 과정에서 \"다른 기업들은 마치 두 대의 전화기를 어색하게 붙여놓은 것 같은 폴더블 기기를 만들어왔다\"며 기존 폴더블폰들의 주름이나 어색한 폼팩터 디자인, 그리"
+    },
+    {
+      "id": "e3d0e6b182e0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이폰 듀오 돌풍 예고…\"애플, 폴더블폰 시장 24.8% 점유\"",
+      "link": "https://zdnet.co.kr/view/?no=20260911170331",
+      "published": "2026-09-12T00:56:16+00:00",
+      "summary": "[지디넷코리아]애플이 첫 폴더블 아이폰 ‘아이폰 듀오’로 올해 전 세계 폴더블 스마트폰 시장에서 24.8% 점유율을 차지할 것이라는 전망이 나왔다.IT매체 나인투파이브맥은 최근 시장조사업체 트렌드포스 보고서를 인용해 이같이 보도했다.보고서에 따르면 2026년 전 세계 폴더블폰 출하량은 전년보다 0.5% 증가한 2020만대로 예상된다. 이 가운데 애플을 제외한 안드로이드 폴더블폰 출하량은 1520만 대에 그칠 전망이다. 이는 전년 대비 20% 이상 감소한 수준이다.이 같은 출하량 감소는 부품 가격의"
+    },
+    {
+      "id": "f9863d1b798a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "샌프란시스코 시, 메타에 AI 생성 아동 성착취 광고 중단 요구",
+      "link": "https://zdnet.co.kr/view/?no=20260912094534",
+      "published": "2026-09-12T00:45:34+00:00",
+      "summary": "[지디넷코리아]샌프란시스코 시가 메타에 AI로 생성된 아동 성착취물(CSAM) 광고 게재 중단을 요구하는 서한을 보냈다. 데이비드 츄(David Chiu) 시 검사장이 현지 시각 9월 9일 4쪽 분량의 서한을 메타 측에 전달했다. 와이어드(WIRED)가 이날 보도했다. 서한은 같은 광고가 반복적으로 게재된 이유에 대한 설명도 요구한다.와이어드 조사에 따르면 메타는 최근 몇 달 사이 미성년자의 정지 이미지를 성행위 영상으로 변환한 광고 350개 이상을 운영했다. 광고를 클릭하면 AI 이미지·영상 생"
+    },
+    {
+      "id": "c0cffebbc0e5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전남광주, 초광역 인재육성사업 선정…4년간 최대 600억 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215124",
+      "published": "2026-09-12T00:40:00+00:00",
+      "summary": "AI 생성 영상전남광주통합특별시가 재생에너지와 전력망, RE100 분야를 아우르는 에너지 융합인재 2800명을 양성한다. 교육부 초광역 인재육성사업에 선정되면서 4년간 최대 600억원을 지원받아 지역 대학과 산업계를 연계한 교육과정을 운영할 계획이다.전남광주는 교육부 ‘지역성장 인재양성체계(앵커) 초광역 성장엔진 인재육성사업’에 지역이 제안한 협업모델이 선정됐다고 11일 밝혔다.교육부는 지난 8일 지방정부·대학·기업이 제안한 19개 협업모델 가운데 6개 모델을 선정했다. 선정 모델에는 매년 최대 "
+    },
+    {
+      "id": "70c994224be9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국서 반대 부딪힌 재생에너지 프로젝트 567건…약 40% 취소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215113",
+      "published": "2026-09-12T00:40:00+00:00",
+      "summary": "미국에서 태양광과 풍력 등 재생에너지 발전사업을 제한하는 주·지방정부 규제가 지난해 말 기준 누적 888건으로 집계됐다. 지역사회의 조직적인 반대에 부딪힌 재생에너지 프로젝트도 지난해 말까지 미국 48개 주에서 567건이 확인됐으며, 이 가운데 약 40%가 취소된 것으로 나타났다.미국 컬럼비아대 사빈기후변화법센터(Sabin Center for Climate Change Law)가 지난 3일(현지시간) 공개한 ‘미국 재생에너지 시설 반대’ 보고서에 따르면 지난해 말 기준 미국 48개 주에서 재생에너"
+    },
+    {
+      "id": "11c3076237de",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "독일 작센안할트주, AfD 43.8% 1위…풍력 중단·태양광 제한 공약 변수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215114",
+      "published": "2026-09-12T00:35:00+00:00",
+      "summary": "지난 6일(현지시간)에 치러진 독일 작센안할트 주의회 선거에서 독일을 위한 대안(AfD)이 제1당에 오르면서 현지 재생에너지 정책의 향방이 변수로 떠올랐다. AfD는 신규 풍력발전 허가 중단과 농지 내 대규모 태양광발전소 제한, 재생에너지 지원 축소 등을 공약했다. 다만 단독 과반에는 미치지 못해 실제 정책 전환 여부는 향후 주정부 구성에 달려 있다.작센안할트 선거관리 당국의 잠정 집계에 따르면 6일 주의회 선거에서 AfD는 정당명부 투표 기준 43.8%를 얻어 제1당을 차지했다. 2021년 선거"
+    },
+    {
+      "id": "66456b31bdd2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수 섬박람회서 아동학대·실종 예방 캠페인…관람객 대상 안전 안내",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215150",
+      "published": "2026-09-12T00:30:00+00:00",
+      "summary": "AI 생성 영상여수시가 2026여수세계섬박람회 기간 아동학대와 실종 예방을 위한 현장 캠페인을 진행한다. 관람객이 많이 찾는 주행사장에서 아동 권리와 실종 예방수칙을 집중적으로 안내할 계획이다.여수는 박람회장을 찾는 시민과 관광객을 대상으로 아동학대 예방과 아동 권리 존중, 실종 예방 홍보 활동을 추진한다고 11일 밝혔다.아동학대 예방 분야에서는 아동을 존중하는 양육과 올바른 훈육에 대한 인식을 높이는 데 초점을 맞춘다.실종 예방을 위해서는 보호자와 아동에게 실종 예방수칙과 실종 발생 시 대처방법"
+    },
+    {
+      "id": "f96b4f8577e9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "프랑스 태양광 설비 34GW 돌파…2분기 발전량 18% 증가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215086",
+      "published": "2026-09-12T00:30:00+00:00",
+      "summary": "프랑스의 태양광 발전설비가 34기가와트(GW)에 도달했다. 올해 상반기에만 3GW가 새로 전력망에 연결됐으며, 2분기 태양광 발전량은 전년 같은 기간보다 18% 증가했다.프랑스 정부 통계·연구서비스(SDES)가 지난 4일(현지시간) 공개한 2026년 2분기 태양광 통계에 따르면 6월30일 기준 프랑스의 누적 태양광 발전설비는 34.0GW로 집계됐다.올해 상반기 새로 전력망에 연결된 태양광 설비는 3.0GW였다. 지난해 같은 기간의 2.9GW보다 소폭 늘어난 규모다. 지난해 6월 말 프랑스의 누적 "
+    },
     {
       "id": "714478d19503",
       "source": "ZDNet Korea",
@@ -243,6 +419,17 @@
       "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
       "published": "2026-09-11T18:58:01+00:00",
       "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October."
+    },
+    {
+      "id": "8029244ae8f0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "published": "2026-09-11T18:50:36+00:00",
+      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 237 # Comments: 154"
     },
     {
       "id": "8ee3dadcaad7",
@@ -3532,6 +3719,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260909230426",
       "published": "2026-09-09T14:04:26+00:00",
       "summary": "[지디넷코리아]AI 보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)가 지난 7일 삼성금융캠퍼스에서 ‘AI 리스크 컨퍼런스 서울 2026’을 개최, 성황리에 마무리했다. 삼성화재가 후원한 이번 컨퍼런스는 오픈AI, 마이크로소프트 등 AI 보안 선도 기업이 연사로 참여했다. 국내외 기업 관계자가 100명 넘게 참석했다.이번 'AI 리스크 컨퍼런스 서울 2026'은 단순히 보안 기술 소개를 넘어, ‘기업이 어떤 리스크에 어떻게 대비해야 하는가’에 집중해 방향성을 제시한 세션으"
+    },
+    {
+      "id": "47bb1c7d83cb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A Design Space Exploration of Async/Await",
+      "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "published": "2026-09-09T13:59:50+00:00",
+      "summary": "Article URL: https://cel.cs.brown.edu/blog/design-space-async-await/ Comments URL: https://news.ycombinator.com/item?id=49626718 Points: 222 # Comments: 48"
     },
     {
       "id": "043ebd644683",
