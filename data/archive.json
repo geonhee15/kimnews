@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-13T10:57:12.330649+00:00",
-  "count": 12849,
+  "updated_at": "2026-09-13T14:48:25.578771+00:00",
+  "count": 12856,
   "items": [
+    {
+      "id": "3cf0eeb2d211",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "published": "2026-09-13T14:28:12+00:00",
+      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specif"
+    },
+    {
+      "id": "ce4a5e69b2f0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KOSA·메가존클라우드, 도쿄서 국내 AI·SW 기업 일본 진출 지원",
+      "link": "https://zdnet.co.kr/view/?no=20260913210555",
+      "published": "2026-09-13T12:06:09+00:00",
+      "summary": "[지디넷코리아]국내 인공지능(AI)·소프트웨어(SW) 기업들이 일본 현지 기업과의 비즈니스 상담회를 통해 시장 진출 기회를 모색했다. 한국인공지능·소프트웨어산업협회(KOSA)와 메가존클라우드는 일본 도쿄에서 국내 AI·SW 기업 10개사가 참여하는 일본 진출 프로그램을 개최하고 현지 시장 수요 파악과 사업 협력 발굴을 지원했다고 13일 밝혔다.이번 행사는 대·중소기업·농어업협력재단의 '대·중소기업 동반진출 지원사업'의 일환으로 추진됐다. KOSA와 메가존클라우드는 3년째 사업을 공동 운영하며 국내"
+    },
+    {
+      "id": "b031692e6525",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your car is selling your data",
+      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "published": "2026-09-13T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta"
+    },
+    {
+      "id": "0db7c7419c8c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new phones are here",
+      "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "published": "2026-09-13T12:00:00+00:00",
+      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring every iPhone Duo video"
+    },
     {
       "id": "16fc4e29398a",
       "source": "Wired",
@@ -58,6 +102,17 @@
       "summary": ""
     },
     {
+      "id": "4b5b1f71a988",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Homebrew 7.0.0",
+      "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "published": "2026-09-13T08:41:17+00:00",
+      "summary": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/ Comments URL: https://news.ycombinator.com/item?id=49681545 Points: 264 # Comments: 114"
+    },
+    {
       "id": "7882b105d5a0",
       "source": "AI타임스",
       "kind": "article",
@@ -78,6 +133,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260913152527",
       "published": "2026-09-13T08:14:35+00:00",
       "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 산업 및 IT 업계는 굵직한 신제품 발표와 기업들의 주요 현안 논"
+    },
+    {
+      "id": "31beb9a7e9f8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "JetKVM Mini",
+      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "published": "2026-09-13T07:49:46+00:00",
+      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini Comments URL: https://news.ycombinator.com/item?id=49681152 Points: 297 # Comments: 116"
     },
     {
       "id": "ad86b9e4c913",
@@ -4984,6 +5050,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
       "published": "2026-09-09T12:05:01+00:00",
       "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among"
+    },
+    {
+      "id": "e3835ac1f4d2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stabilizing Rust's Never Type",
+      "link": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "published": "2026-09-09T11:57:45+00:00",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/ Comments URL: https://news.ycombinator.com/item?id=49625056 Points: 220 # Comments: 78"
     },
     {
       "id": "7835ef063902",
