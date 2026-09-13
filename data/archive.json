@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-13T17:51:54.410696+00:00",
-  "count": 12858,
+  "updated_at": "2026-09-13T20:09:44.135927+00:00",
+  "count": 12865,
   "items": [
+    {
+      "id": "1c55c53d0111",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "published": "2026-09-13T19:41:48+00:00",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative suppo"
+    },
+    {
+      "id": "93df82fcc20d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "published": "2026-09-13T19:40:15+00:00",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    },
+    {
+      "id": "1d43b5fbf153",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "published": "2026-09-13T18:30:16+00:00",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references"
+    },
+    {
+      "id": "17dfe2170860",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why is Google still serving dodgy ads?",
+      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "published": "2026-09-13T17:37:44+00:00",
+      "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 244 # Comments: 112"
+    },
     {
       "id": "ed84c49f63a2",
       "source": "TechCrunch",
@@ -23,6 +67,17 @@
       "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
       "published": "2026-09-13T16:04:00+00:00",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "27fb6e2d5130",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "published": "2026-09-13T15:44:38+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 226 # Comments: 111"
     },
     {
       "id": "3cf0eeb2d211",
@@ -317,6 +372,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215205",
+      "published": "2026-09-13T02:37:03+00:00",
+      "summary": "구글이 약점으로 꼽히는 AI 코딩 성능을 끌어올리기 위해 스타트업 메카나이즈(Mechanize) 인원을 대거 영입하는 대형 계약을 단행했다.비즈니스 인사이더는 11일(현지시간) 구글이 메카나이즈의 핵심 기술과 인력을 흡수하기 위한 15억달러(약 2조원) 규모의 인재 확보 계약을 마무리했다고 보도했다.이번 거래는 반독점 규제 위험을 줄이면서도 필요한 코딩 기술 역량을 단숨에 끌어올리기 위한 결정으로 해석된다.메카나이즈는 AI 모델의 코드 작성 및 프로그램 수정 능력을 전문적으로 끌어올리는 기술을 연"
+    },
+    {
+      "id": "85c9aa01b4a6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215205",
       "published": "2026-09-13T02:37:03+00:00",
       "summary": "구글이 약점으로 꼽히는 AI 코딩 성능을 끌어올리기 위해 스타트업 메카나이즈(Mechanize) 인원을 대거 영입하는 대형 계약을 단행했다.비즈니스 인사이더는 11일(현지시간) 구글이 메카나이즈의 핵심 기술과 인력을 흡수하기 위한 15억달러(약 2조원) 규모의 인재 확보 계약을 마무리했다고 보도했다.이번 거래는 반독점 규제 위험을 줄이면서도 필요한 코딩 기술 역량을 단숨에 끌어올리기 위한 결정으로 해석된다.메카나이즈는 AI 모델의 코드 작성 및 프로그램 수정 능력을 전문적으로 끌어올리는 기술을 연"
@@ -3719,6 +3785,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215089",
       "published": "2026-09-10T03:41:52+00:00",
       "summary": "‘GPT-6 아스트라’ 수요가 폭발적으로 증가하자, 오픈AI가 신규 유료 가입을 일시적으로 제한할 가능성을 내비쳤다. 급증하는 사용자 수를 현재의 컴퓨팅 자원만으로 감당하기 어려워지면서 기존 사용자에 대한 서비스 품질을 우선하겠다는 방침이다.티보 소티오 오픈AI 코덱스 책임자는 9일(현지시간) X를 통해 “아스트라에 대한 수요는 정말 전례 없는 수준”이라며 “이전에도 매우 가파른 성장세를 경험했지만, 지금과 같은 상황은 처음”이라고 밝혔다.그는 “수요를 유지하기 위해 가능한 모든 수단을 동원하고 "
+    },
+    {
+      "id": "1e019f6fe4d0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "link": "https://bensimms.moe/reverse-engineering-scooter/",
+      "published": "2026-09-10T03:32:04+00:00",
+      "summary": "Article URL: https://bensimms.moe/reverse-engineering-scooter/ Comments URL: https://news.ycombinator.com/item?id=49638071 Points: 264 # Comments: 67"
     },
     {
       "id": "12437fc687bc",
