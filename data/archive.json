@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-09-14T20:35:33.656558+00:00",
-  "count": 12969,
+  "updated_at": "2026-09-14T23:29:42.015615+00:00",
+  "count": 12984,
   "items": [
+    {
+      "id": "5671bbbeec93",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Home’s new security camera features cost up to $60 a month",
+      "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "published": "2026-09-14T22:28:52+00:00",
+      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and w"
+    },
+    {
+      "id": "d89e71aae30e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월14일] 잘나가던 AI 기업들이 ‘속도 늦추자’고 합의한 이유…‘죄수의 딜레마’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215218",
+      "published": "2026-09-14T22:00:00+00:00",
+      "summary": "다리오 아모데이 앤트로픽 CEO가 AI 개발 속도를 늦추자고 하자, 샘 알트먼 오픈AI CEO와 일론 머스크 CEO까지 동의했습니다. 이어 데미스 허사비스 구글 딥마인드 회장과 사티아 나델라 마이크로소프트 CEO까지 여기에 합류했습니다.최근 AI 에이전트가 실제 시스템을 공격하거나 악용되는 사례가 잇따르면서, 모델의 능력이 안전장치보다 빠르게 발전하고 있다는 판단이 커진 것이 직접적인 이유로 보입니다. 아모데이는 개발을 중단하자는 것이 아니라 안전·정렬·모니터링이 따라올 시간을 벌자는 입장입니다."
+    },
+    {
+      "id": "087742abdd4a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "published": "2026-09-14T21:51:02+00:00",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
+    },
+    {
+      "id": "696d25a6bd4b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "published": "2026-09-14T21:21:42+00:00",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his poi"
+    },
+    {
+      "id": "ec5f8246c73b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "published": "2026-09-14T21:04:32+00:00",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”"
+    },
+    {
+      "id": "19be0c3eff29",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump throws out power plant climate pollution rules",
+      "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+      "published": "2026-09-14T20:45:00+00:00",
+      "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufactu"
+    },
+    {
+      "id": "71a9a4ffc114",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "published": "2026-09-14T20:44:14+00:00",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
+    },
     {
       "id": "7bfd583ec8c0",
       "source": "TechCrunch",
@@ -47,6 +124,17 @@
       "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impac"
     },
     {
+      "id": "148d5129ac02",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "published": "2026-09-14T19:45:13+00:00",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
+    },
+    {
       "id": "7d5a853a7d25",
       "source": "AI타임스",
       "kind": "article",
@@ -56,6 +144,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215257",
       "published": "2026-09-14T19:42:09+00:00",
       "summary": "LG AI연구원은 14일 서울 강서구 마곡 LG사이언스파크 컨버전스홀에서 'LG AI 토크 콘서트 2026'을 열고 제조·과학·비즈니스 분야 전문가 AI 시리즈를 공개했다.임우형 LG AI연구원 공동 연구원장은 \"산업 현장의 문제를 해결하기 위해서는 수많은 변수와 단 1%의 예외까지 해결하는 AI가 필요하다\"며 개발 배경을 밝혔다.■ 공정 바뀌어도 OK…제조 AI로 리드타임 85% 단축제조 분야에서는 공정과 품질을 예측하는 '엑사원 태뷸러'와 비전 검사 모델 '엑사원 옴니 인스펙트'가 소개됐다.엑"
+    },
+    {
+      "id": "d5f706b24d62",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "published": "2026-09-14T19:38:46+00:00",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
+    },
+    {
+      "id": "5dea44066497",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "published": "2026-09-14T19:28:42+00:00",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps."
+    },
+    {
+      "id": "b7770902b2f7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "published": "2026-09-14T19:06:13+00:00",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry."
     },
     {
       "id": "b174ba489b4d",
@@ -100,6 +221,17 @@
       "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
       "published": "2026-09-14T17:41:20+00:00",
       "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air."
+    },
+    {
+      "id": "fe0c1bf17720",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "published": "2026-09-14T17:16:06+00:00",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 240 # Comments: 251"
     },
     {
       "id": "6fc53236546d",
@@ -179,6 +311,17 @@
       "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of "
     },
     {
+      "id": "4d3b47d1129d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HB솔루션·프로이천, '국책과제' 올레도스 검사방법 특허 등록...수요기업 삼성D",
+      "link": "https://zdnet.co.kr/view/?no=20260915014629",
+      "published": "2026-09-14T16:50:57+00:00",
+      "summary": "[지디넷코리아]HB솔루션과 프로이천이 올레도스(OLEDoS) 웨이퍼 검사방법 특허 2건을 지난 8월 지식재산처에 함께 등록했다. 올레도스는 실리콘 기판 위에 유기발광다이오드(OLED)를 증착하는 기술이다. 확장현실(XR) 기기에 적용할 수 있다.HB솔루션과 프로이천, 그리고 이엘피 등은 산업통상부 국책과제 '인공지능(AI)을 활용한 올레도스 디스플레이용 원장 동시 검사기술 개발'을 수행 중이다. 전체 연구기간은 2025년 4월부터 2027년 12월까지다. 연구비는 2025년과 2026년 각각 19"
+    },
+    {
       "id": "93175a33303b",
       "source": "TechCrunch",
       "kind": "article",
@@ -199,6 +342,17 @@
       "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
       "published": "2026-09-14T16:04:16+00:00",
       "summary": "Las Vegas will be Waymo's 15th commercial robotaxi market."
+    },
+    {
+      "id": "8845eba45897",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Distributed Systems Classics (2017)",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "published": "2026-09-14T16:02:01+00:00",
+      "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 212 # Comments: 42"
     },
     {
       "id": "156c8686b850",
@@ -243,6 +397,17 @@
       "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
       "published": "2026-09-14T15:00:00+00:00",
       "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026."
+    },
+    {
+      "id": "281657eca16c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dario, Please",
+      "link": "https://pop.rdi.sh/dario-please/",
+      "published": "2026-09-14T14:50:32+00:00",
+      "summary": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 201 # Comments: 93"
     },
     {
       "id": "bb7281719345",
