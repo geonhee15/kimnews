@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-09-14T16:35:44.255203+00:00",
-  "count": 12950,
+  "updated_at": "2026-09-14T20:35:33.656558+00:00",
+  "count": 12969,
   "items": [
+    {
+      "id": "7bfd583ec8c0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "published": "2026-09-14T20:07:37+00:00",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive."
+    },
+    {
+      "id": "6357acd54bdf",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "published": "2026-09-14T20:03:37+00:00",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, t"
+    },
+    {
+      "id": "dde13b21dfb5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
+      "published": "2026-09-14T19:53:47+00:00",
+      "summary": "글로벌 AI 빅테크 수장들이 잇따라 'AI 개발 속도 조절론'에 동참하는 가운데, 국내 AI 기업들도 관련 입장을 밝혔다.14일 업계에 따르면, 국내 AI 기업들의 입장은 크게 세 가지로 나뉘는 분위기였다. 글로벌 빅테크의 취지에 공감한다는 입장과 권력 불균형에 대한 우려와 동시에, 판단은 아직 이르다는 의견이 공존했다.■ AI 개발 속도 규제는 '자연스러운 흐름'...안전한 사회 적용 필요해먼저 한 AI 업계 관계자는 \"AI 기술과 산업이 성숙하는 과정에서 자연스럽고 타당한 흐름으로 보고 있다\""
+    },
+    {
+      "id": "144f463fd45d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Valve’s virtual reality plans hit actual reality",
+      "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+      "published": "2026-09-14T19:48:06+00:00",
+      "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impac"
+    },
+    {
+      "id": "7d5a853a7d25",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"탈모약 개발·암 진단·주식 투자도 AI로\"...LG, 전문가 AI로 승부수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215257",
+      "published": "2026-09-14T19:42:09+00:00",
+      "summary": "LG AI연구원은 14일 서울 강서구 마곡 LG사이언스파크 컨버전스홀에서 'LG AI 토크 콘서트 2026'을 열고 제조·과학·비즈니스 분야 전문가 AI 시리즈를 공개했다.임우형 LG AI연구원 공동 연구원장은 \"산업 현장의 문제를 해결하기 위해서는 수많은 변수와 단 1%의 예외까지 해결하는 AI가 필요하다\"며 개발 배경을 밝혔다.■ 공정 바뀌어도 OK…제조 AI로 리드타임 85% 단축제조 분야에서는 공정과 품질을 예측하는 '엑사원 태뷸러'와 비전 검사 모델 '엑사원 옴니 인스펙트'가 소개됐다.엑"
+    },
+    {
+      "id": "b174ba489b4d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+      "link": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
+      "published": "2026-09-14T18:44:44+00:00",
+      "summary": "The latest iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri."
+    },
+    {
+      "id": "8b4dbc40617a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "published": "2026-09-14T17:54:22+00:00",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he"
+    },
+    {
+      "id": "d7ed0dca14a0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "published": "2026-09-14T17:50:29+00:00",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 238 # Comments: 232"
+    },
+    {
+      "id": "df8604384c94",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "published": "2026-09-14T17:41:20+00:00",
+      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air."
+    },
+    {
+      "id": "6fc53236546d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "published": "2026-09-14T17:10:30+00:00",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
+    },
+    {
+      "id": "1abc8b060796",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "macOS 27 is available now",
+      "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+      "published": "2026-09-14T17:10:13+00:00",
+      "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Ma"
+    },
+    {
+      "id": "cd525428188e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "published": "2026-09-14T17:10:09+00:00",
+      "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent."
+    },
+    {
+      "id": "bef67c567798",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple releases iOS 27 with Siri AI overhaul",
+      "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "published": "2026-09-14T17:08:49+00:00",
+      "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is available as a beta tod"
+    },
+    {
+      "id": "6fc8592045e1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "published": "2026-09-14T17:00:00+00:00",
+      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
+    },
+    {
+      "id": "f7d394b00fef",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+      "link": "https://www.theverge.com/tech/994267/steam-frame-review",
+      "published": "2026-09-14T17:00:00+00:00",
+      "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as m"
+    },
+    {
+      "id": "cb4d04236fea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Valve’s Steam Frame costs $1,059",
+      "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+      "published": "2026-09-14T17:00:00+00:00",
+      "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of "
+    },
     {
       "id": "93175a33303b",
       "source": "TechCrunch",
@@ -234,6 +410,17 @@
       "summary": "[지디넷코리아]KTR이 정부·공공기관에 납품하는 영상정보처리기기의 보안기능시험 기관으로 지정받았다.KTR(한국화학융합시험연구원·원장 이승렬)은 국가정보원으로부터 IP 카메라와 영상정보 저장제품 등 영상정보처리기기 보안기능 시험기관으로 지정받았다고 14일 밝혔다.KTR은 시험기관 지정으로 CCTV 등 관련 제품 제조사에 보안기능시험제도에 따른 보안적합성 검증 서비스를 제공하고 보안기능 시험 확인서를 발급한다. 확인서는 발급일로부터 5년간 유효하다.KTR 관계자는 “KTR이 영상정보처리 보안기능 시험"
     },
     {
+      "id": "a3e1cc374de5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "published": "2026-09-14T12:40:57+00:00",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 268 # Comments: 235"
+    },
+    {
       "id": "246eab1a0ce3",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -432,6 +619,17 @@
       "summary": "[지디넷코리아]인공지능(AI) 개발 속도를 둘러싼 안전 우려가 커지는 가운데 앤트로픽과 오픈AI, 구글이 업계 공동 안전기준을 마련하기 위해 움직이는 것으로 나타났다.13일(현지시간) IT 전문매체 디인포메이션에 따르면 앤트로픽과 오픈AI, 구글은 지난 7월부터 각사 최고경영자(CEO) 바로 아래급 고위 관계자들로 실무그룹을 구성해 AI 업계 표준기구 설립을 논의하고 있다. 실무그룹은 정기적으로 회동하고 있으며 최근 일주일 사이에도 만나 논의를 이어간 것으로 전해졌다.논의 핵심은 정부가 직접 나서"
     },
     {
+      "id": "4a5028ec3e3e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "published": "2026-09-14T08:25:47+00:00",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 203 # Comments: 61"
+    },
+    {
       "id": "b3cc24a2d4b8",
       "source": "AI타임스",
       "kind": "article",
@@ -485,6 +683,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215227",
       "published": "2026-09-14T08:05:00+00:00",
       "summary": "대형언어모델(LLM)의 이전 계산 결과를 다음 토큰 생성에 직접 연결하는 새로운 트랜스포머 아키텍처가 제안됐다.프린스턴대학 연구진은 12일(현지시간) 토큰 처리 후 생성된 디코더의 최종 은닉 상태와 어텐션 캐시를 다음 단계로 전달하도록 설계한 '순환 루프 변환기(RLT·Recurrent Looped Transformer)' 아키텍처를 알파카이브(alphaXiv)를 통해 공개했다.기존 디코더 전용 LLM은 이전 토큰 정보를 KV 캐시에 저장한 뒤 어텐션으로 재참조할 뿐, 마지막 계산 결과를 다음 단"
+    },
+    {
+      "id": "73d3bda19558",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 아크릴, 국제컨퍼런스서 ‘풀스택 헬스케어 AX’ 제시 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215255",
+      "published": "2026-09-14T08:00:00+00:00",
+      "summary": "■ AX 인프라 전문 아크릴이 우즈베키스탄 국가건강보험기금(SHIF)의 공식 초청을 계기로 국제컨퍼런스에 참여, 현지 정부기관들과 국가 단위 헬스케어 AX 및 AI 데이터센터 구축 협력에 나선다고 밝혔다. 박외진 대표는 11일 제6세션 ‘보건의료 재정 및 전략적 구매의 디지털화’에서 '소버린 헬스케어 AX: GPU 인프라에서 파운데이션 모델, AI 운영까지'를 주제로 발표를 진행했다. 우즈베키스탄 디지털기술부(MDT)와도 별도 미팅을 갖고 AI 데이터센터 구축 방안을 논의했다.■ 에스투더블유(S2"
     },
     {
       "id": "34ecf5917759",
