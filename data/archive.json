@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-09-15T12:40:25.845537+00:00",
-  "count": 13057,
+  "updated_at": "2026-09-15T17:16:21.376175+00:00",
+  "count": 13076,
   "items": [
+    {
+      "id": "307b58817a42",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published": "2026-09-15T17:05:57+00:00",
+      "summary": ""
+    },
+    {
+      "id": "431e5089c7b5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "published": "2026-09-15T17:05:24+00:00",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp."
+    },
+    {
+      "id": "d96146396402",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "published": "2026-09-15T15:47:03+00:00",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
+    },
+    {
+      "id": "1b357f788821",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "published": "2026-09-15T15:00:00+00:00",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today"
+    },
+    {
+      "id": "6bb706e4425c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "published": "2026-09-15T14:42:37+00:00",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
+    },
+    {
+      "id": "c2c234e9b9f2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-15T14:30:00+00:00",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass."
+    },
+    {
+      "id": "ac172879148b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"SW·AI산업 현안 공동 대응\"...한국SW·ICT총연합회, 2차 운영위 개최",
+      "link": "https://zdnet.co.kr/view/?no=20260915224603",
+      "published": "2026-09-15T13:46:03+00:00",
+      "summary": "[지디넷코리아]한국SW·ICT총연합회(회장 이우용)는 15일 서울 서초구 메타빌드빌딩 AI 스페이스 센터(AI Space Center)에서 올해 제2차 운영위원회를 개최, SW·AI 산업계가 당면한 주요 현안과 정책·제도 개선과제에 대한 총연합회 차원의 공동 대응방안을 논의했다.이날 운영위원회에서는 회원 협·단체가 사전에 제출한 정책건의와 함께 최근 산업현장에서 겪고 있는 어려움이 폭넓게 제기됐다. 특히 ▲AI 사업의 적정대가와 발주 ▲계약체계 ▲SW 가치평가와 제값받기 ▲공공SW 사업 및 조달제"
+    },
+    {
+      "id": "1af00c344925",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "published": "2026-09-15T13:36:45+00:00",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This comb"
+    },
+    {
+      "id": "5c9e120a8f12",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "셀카 찍으면 AI가 피부 분석…올리브영, 모바일 '스킨스캔' 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260915221347",
+      "published": "2026-09-15T13:21:24+00:00",
+      "summary": "[지디넷코리아]CJ올리브영이 매장에서 제공하던 인공지능(AI) 기반 피부 진단 서비스를 모바일로 확대한다. 스마트폰으로 얼굴을 촬영하면 피부 상태를 분석하고 이에 맞는 화장품과 관리 방법까지 추천해준다.올리브영은 스마트폰으로 피부 상태를 측정할 수 있는 모바일 피부 진단 서비스를 선보인다고 15일 밝혔다.이번 서비스는 오프라인 매장에서 운영해 온 ‘스킨스캔’을 올리브영 앱으로 확장한 것이다. 기존에는 매장에 설치된 전용 기기로 피부를 촬영해야 했지만 앞으로는 매장을 찾지 않아도 스마트폰을 이용해 "
+    },
+    {
+      "id": "3dfa70f991e6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Java 27",
+      "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "published": "2026-09-15T13:13:43+00:00",
+      "summary": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/ Comments URL: https://news.ycombinator.com/item?id=49712041 Points: 246 # Comments: 190"
+    },
+    {
+      "id": "3db1a4603e8d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "딥엘 보이스, 화자 고유의음성 특징까지 보존하는 실시간 번역 지원",
+      "link": "https://zdnet.co.kr/view/?no=20260915221002",
+      "published": "2026-09-15T13:10:02+00:00",
+      "summary": "[지디넷코리아] 신규 보이스 AI 모델과 제품 업데이트로 화자 어투·감정·표현을 반영한 음성 특성 보존 기능 및 저지연 실시간 번역 지원 다국어 온라인 미팅 위한 새로운 데스크톱 앱 출시… 30개 이상 언어에서 음성 간 번역 지원 엔터프라이즈 유스케이스부터 라이브 현장으로 빠르게 확장…'세일즈포스 드림포스 2026' 전체 50개 스테이지에서 실시간 번역 제공 쾰른, 독일, 2026년 9월 15일 /PRNewswire/ -- 글로벌 언어 AI 기업 딥엘(DeepL)이 자사 음성 AI 기술 '딥엘 보"
+    },
+    {
+      "id": "0a13194ea994",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
+      "link": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
+      "published": "2026-09-15T13:00:00+00:00",
+      "summary": "It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods 5 with Wireless Charging Case are $30 chea"
+    },
+    {
+      "id": "0983b99cfbf9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 비밀 언어를 만들었대요!",
+      "link": "https://zdnet.co.kr/view/?no=20260915111632",
+      "published": "2026-09-15T12:57:52+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 AI들이 사람은 알아듣지 못하는 자기들만의 언어를 만들어 소통하고 있다는 사실이 알려지면서 관심이 쏠리고 있어요. 처음에는 사람 말을 그대로 따라 하던 AI가 점점 진화하면서 자기만의 표현 방식을 쓰기 시작했다는 건데요, 심지어 전문가들은 AI가 6개월 안에 스스로 똑똑해지는 시점이 올 수도 있다고 경고하고 있어요. 이런 흐름에 AI 패널들도 우려의 목소리를 내고 있는데요, 10명 중 7명이 지금의 AI 시스템을 다시 설계해야 한다고 답했대요"
+    },
+    {
+      "id": "8f63e07e5d9d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "link": "https://github.com/arnegiacomo/fugleramme",
+      "published": "2026-09-15T12:31:10+00:00",
+      "summary": "Article URL: https://github.com/arnegiacomo/fugleramme Comments URL: https://news.ycombinator.com/item?id=49711544 Points: 664 # Comments: 103"
+    },
     {
       "id": "b94706231bec",
       "source": "TechCrunch",
@@ -14,6 +168,17 @@
       "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation."
     },
     {
+      "id": "b80464be5e42",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CATL, IAA 트랜스포테이션 2026서 TECTRANS II 출시…글로벌 상용차 전동화 가속",
+      "link": "https://zdnet.co.kr/view/?no=20260915211002",
+      "published": "2026-09-15T12:10:02+00:00",
+      "summary": "[지디넷코리아]하노버, 독일 2026년 9월 15일 /PRNewswire/ -- 컨템퍼러리 암페렉스 테크놀로지(Contemporary Amperex Technology Co., Limited, CATL)가 독일 하노버에서 열린 IAA 트랜스포테이션 2026(IAA Transportation 2026)에서 차세대 상용차 배터리 솔루션 TECTRANS II를 9월 14일 공개했다. 아킨 리(Akin Li) CATL 해외사업부 총괄사장은 \"상용차 전동화는 글로벌 에너지 전환의 세 번째 물결로 부상하고 "
+    },
+    {
       "id": "9939a2a20c3b",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -23,6 +188,17 @@
       "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
       "published": "2026-09-15T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agree"
+    },
+    {
+      "id": "bdbc454bf264",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "published": "2026-09-15T12:00:41+00:00",
+      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
     },
     {
       "id": "01dec31883b8",
@@ -56,6 +232,17 @@
       "link": "https://www.youtube.com/shorts/MwCEDOa8c20",
       "published": "2026-09-15T11:33:07+00:00",
       "summary": ""
+    },
+    {
+      "id": "f632c2bfbbb7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "25 years of mass surveillance is enough",
+      "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "published": "2026-09-15T11:26:48+00:00",
+      "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html Comments URL: https://news.ycombinator.com/item?id=49710883 Points: 514 # Comments: 161"
     },
     {
       "id": "1760df78e184",
@@ -331,6 +518,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215268",
       "published": "2026-09-15T08:08:19+00:00",
       "summary": "AI가 인간의 통제를 벗어나지 않도록 개발 단계부터 적용할 원칙을 담은 ‘인본주의적 AI 행동 강령(Humanist AI Code of Conduct)’ 초안을 마이크로소프트(MS)가 공개했다. 최근 최첨단 AI 개발 속도를 조절해야 한다는 업계의 목소리가 커지는 가운데, MS가 AI의 안전성과 인간 통제권을 확보하기 위한 구체적인 행동 기준을 제시한 것이다.무스타파 술레이만 MS AI CEO는 13일(현지시간) “AI는 반드시 인간에게 종속되어야 하며 항상 인간을 위해 봉사해야 한다”고 밝혔다."
+    },
+    {
+      "id": "6ddc9173f4af",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "2026-09-15T07:00:44+00:00",
+      "summary": ""
     },
     {
       "id": "91d3b19fc019",
@@ -628,6 +826,17 @@
       "link": "https://www.linuxfromscratch.org/",
       "published": "2026-09-15T04:15:23+00:00",
       "summary": "Article URL: https://www.linuxfromscratch.org/ Comments URL: https://news.ycombinator.com/item?id=49707627 Points: 240 # Comments: 75"
+    },
+    {
+      "id": "8bb75901147b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "published": "2026-09-15T03:47:56+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ck790xg41ygro Comments URL: https://news.ycombinator.com/item?id=49707473 Points: 278 # Comments: 178"
     },
     {
       "id": "accfda93fa82",
