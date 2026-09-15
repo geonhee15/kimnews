@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-15T17:16:21.376175+00:00",
-  "count": 13076,
+  "updated_at": "2026-09-15T20:21:01.123027+00:00",
+  "count": 13092,
   "items": [
+    {
+      "id": "f7a589dc98da",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "published": "2026-09-15T20:12:53+00:00",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+    },
+    {
+      "id": "42094c0e8529",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-09-15T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "id": "c8346d06ee27",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "published": "2026-09-15T18:33:02+00:00",
+      "summary": "Robots can start working outside physical cages and without safety barriers."
+    },
+    {
+      "id": "0e140bdaa453",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "published": "2026-09-15T18:29:20+00:00",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+    },
+    {
+      "id": "0c64e4a7d59f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "published": "2026-09-15T18:00:09+00:00",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing."
+    },
+    {
+      "id": "21d36661141a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
+      "link": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
+      "published": "2026-09-15T17:50:40+00:00",
+      "summary": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors."
+    },
+    {
+      "id": "f63bc47323e3",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "published": "2026-09-15T17:47:51+00:00",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they com"
+    },
+    {
+      "id": "2436cefeed1f",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic researchers are quitting... and now we know why",
+      "link": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
+      "published": "2026-09-15T17:45:39+00:00",
+      "summary": ""
+    },
+    {
+      "id": "be59a8abca36",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "published": "2026-09-15T17:42:59+00:00",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
+    },
+    {
+      "id": "4995e69b29d8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "link": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
+      "published": "2026-09-15T17:16:01+00:00",
+      "summary": "You can’t always tell if someone is recording you with their smart glasses, but your phone can help."
+    },
     {
       "id": "307b58817a42",
       "source": "Google DeepMind",
@@ -23,6 +133,17 @@
       "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "published": "2026-09-15T17:05:24+00:00",
       "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp."
+    },
+    {
+      "id": "14e419ad42e8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "published": "2026-09-15T17:02:04+00:00",
+      "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one com"
     },
     {
       "id": "d96146396402",
@@ -89,6 +210,17 @@
       "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
       "published": "2026-09-15T13:36:45+00:00",
       "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This comb"
+    },
+    {
+      "id": "2e5f60207f1d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "link": "https://withcapsule.app/",
+      "published": "2026-09-15T13:31:40+00:00",
+      "summary": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) wr"
     },
     {
       "id": "5c9e120a8f12",
@@ -300,6 +432,17 @@
       "summary": "[지디넷코리아]칭다오, 중국 2026년 9월 15일 /PRNewswire/ -- 글로벌 소비자 전자제품 및 가전제품 분야를 선도하는 브랜드 하이센스(Hisense)가 일상 속에 영화관급 엔터테인먼트를 가져오도록 설계된 신형 C3 프로젝터 라인업으로 자사의 홈 엔터테인먼트 포트폴리오를 확장하고 있다. IFA 2026에서 공개된 C3 울트라(C3 Ultra)와 C3 울트라 맥스(C3 Ultra Max)는 이번 9월 전 세계 시장에 출시되며, C3 프로(C3 Pro)가 그 뒤를 이을 예정이다. 영화를 "
     },
     {
+      "id": "257957423999",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Let's make quality the norm again",
+      "link": "https://www.forbrukerradet.no/short-life/",
+      "published": "2026-09-15T10:00:16+00:00",
+      "summary": "Article URL: https://www.forbrukerradet.no/short-life/ Comments URL: https://news.ycombinator.com/item?id=49710109 Points: 220 # Comments: 225"
+    },
+    {
       "id": "14731ce38a65",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -476,6 +619,17 @@
       "summary": "애플이 차세대 아이폰 출시를 앞두고 AI 기능을 강화한 최신 모바일 운영체제 ‘iOS 27’을 공개했다. 이번 업데이트의 핵심은 대형언어모델(LLM)을 기반으로 전면 재설계한 ‘시리(Siri)’다. 애플은 새로운 시리를 베타 버전으로 우선 제공하며, 차세대 아이폰을 AI 중심 기기로 내세운다는 전략이다.애플은 14일(현지시간) iOS 27을 배포하고 새로운 시리 AI 기능을 베타 형태로 선보였다.새로운 시리를 사용하려면 아이폰의 설정 앱에서 별도로 참여를 신청해야 하며, 초기 이용 수요에 따라 대"
     },
     {
+      "id": "bbb9464c7177",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Alternatives to MinIO for single-node local S3",
+      "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "published": "2026-09-15T08:21:27+00:00",
+      "summary": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/ Comments URL: https://news.ycombinator.com/item?id=49709381 Points: 220 # Comments: 88"
+    },
+    {
       "id": "f4a79368fa71",
       "source": "AI타임스",
       "kind": "article",
@@ -518,6 +672,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215268",
       "published": "2026-09-15T08:08:19+00:00",
       "summary": "AI가 인간의 통제를 벗어나지 않도록 개발 단계부터 적용할 원칙을 담은 ‘인본주의적 AI 행동 강령(Humanist AI Code of Conduct)’ 초안을 마이크로소프트(MS)가 공개했다. 최근 최첨단 AI 개발 속도를 조절해야 한다는 업계의 목소리가 커지는 가운데, MS가 AI의 안전성과 인간 통제권을 확보하기 위한 구체적인 행동 기준을 제시한 것이다.무스타파 술레이만 MS AI CEO는 13일(현지시간) “AI는 반드시 인간에게 종속되어야 하며 항상 인간을 위해 봉사해야 한다”고 밝혔다."
+    },
+    {
+      "id": "54fa77c3bea0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CSS-Tricks in Limbo",
+      "link": "https://vale.rocks/micros/20260915-0135",
+      "published": "2026-09-15T07:27:46+00:00",
+      "summary": "Article URL: https://vale.rocks/micros/20260915-0135 Comments URL: https://news.ycombinator.com/item?id=49708993 Points: 236 # Comments: 102"
     },
     {
       "id": "6ddc9173f4af",
@@ -1013,6 +1178,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
       "published": "2026-09-14T21:21:42+00:00",
       "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his poi"
+    },
+    {
+      "id": "cea143705db7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "published": "2026-09-14T21:15:01+00:00",
+      "summary": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132 Points: 296 # Comments: 109"
     },
     {
       "id": "ec5f8246c73b",
