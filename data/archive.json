@@ -1,7 +1,315 @@
 {
-  "updated_at": "2026-09-16T06:21:02.749652+00:00",
-  "count": 13131,
+  "updated_at": "2026-09-16T11:54:16.290239+00:00",
+  "count": 13163,
   "items": [
+    {
+      "id": "912507063feb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "7 Best Android Phones of 2026, Tested and Reviewed",
+      "link": "https://www.wired.com/gallery/best-android-phones/",
+      "published": "2026-09-16T11:30:00+00:00",
+      "summary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money."
+    },
+    {
+      "id": "51c3a0d6bc14",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "이미지 영역에서의 1등을 굳힌 오픈AI ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/8wc1t8Rdv44",
+      "published": "2026-09-16T11:00:01+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fe515a04a41c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+      "link": "https://www.wired.com/story/best-robot-vacuum/",
+      "published": "2026-09-16T10:06:00+00:00",
+      "summary": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home."
+    },
+    {
+      "id": "388b62fd18b4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Self-Driving Cars Might Change Crash Testing Forever",
+      "link": "https://www.wired.com/story/how-self-driving-cars-might-change-crash-testing-forever/",
+      "published": "2026-09-16T10:00:00+00:00",
+      "summary": "Lie down in a car, and you’re more likely to get seriously hurt in a crash. But a driverless future is forcing governments to revisit long-standing safety issues."
+    },
+    {
+      "id": "1d35e2a3f7ce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "published": "2026-09-16T09:54:05+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 202 # Comments: 153"
+    },
+    {
+      "id": "4326e8d49761",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Boox Launches the Palma 3 E-Reader",
+      "link": "https://www.wired.com/story/boox-palma-3-announced/",
+      "published": "2026-09-16T09:36:00+00:00",
+      "summary": "The e-paper device maker also launched two new color digital notebooks last night, the Note Air6 C and Mini C."
+    },
+    {
+      "id": "176363bb3f4d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "published": "2026-09-16T09:30:00+00:00",
+      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead."
+    },
+    {
+      "id": "b20067daf5e0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브릴스, IPO 공모가 상단 1만 9500원 확정",
+      "link": "https://zdnet.co.kr/view/?no=20260916181102",
+      "published": "2026-09-16T09:15:10+00:00",
+      "summary": "[지디넷코리아]로봇 모듈화 플랫폼 기업 브릴스가 기관투자자 대상 기업공개(IPO) 수요예측에서 최종 공모가가 1만 9500원으로 확정됐다고 16일 밝혔다. 이는 희망 공모가 범위(1만 6500원~1만 9500원) 중 상단이다. 총 공모금액은 약 234억원, 상장 후 시가총액은 2216억원 수준이 될 전망이다.수요예측에는 국내외 기관투자자 2181곳이 참여해 1187.7대 1 경쟁률을 기록했다. 참여기관 98.9%가 공모가 상단 이상 가격을 제시했다.기관투자자의 의무보유확약 비율은 21.75%다. "
+    },
+    {
+      "id": "fcc0af6c7eda",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국우편사업진흥원, 4년 연속 KSQI 최우수 기관 선정",
+      "link": "https://zdnet.co.kr/view/?no=20260916173450",
+      "published": "2026-09-16T09:12:25+00:00",
+      "summary": "[지디넷코리아]한국우편사업진흥원은 한국표준협회 주관 2026년 콜센터품질지수(KSQI) 조사에서 기타 공공기관 부문 우수 기업에 4년 연속 선정됐다고 16일 밝혔다.한국우편사업진흥원 우편고객센터는 연간 850만 건 이상 상담을 처리한다. 24시간 AI 챗봇 ‘행복이’와 빅데이터 기반 인입호 예측 시스템을 도입해 상담 효율을 높였다. 우편정보 데이터를 G클라우드로 전환해 보안성도 강화했다.다누리콜센터와 협력해 12개 언어 맞춤 상담을 제공하며 외국인 접근성을 높였고, 개소 23년 만 누적 상담 2억"
+    },
+    {
+      "id": "c59518ef219a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷플릭스, 부산국제영화제 기간 마스터클래스 진행",
+      "link": "https://zdnet.co.kr/view/?no=20260916172012",
+      "published": "2026-09-16T09:12:16+00:00",
+      "summary": "[지디넷코리아]넷플릭스가 부산국제영화제 기간 신진 창작자 실무 역량을 기르기 위한 마스터클래스, 업계 대담, 워크숍을 진행한다.넷플릭스는 부산국제영화제(BIFF) 등과 협력해 아시아 신진 창작자 양성 프로그램 ‘크리에이티브 아시아’를 3년 연속 진행한다고 16일 밝혔다.행사는 프로그램의 구성과 범위를 한층 확대해, 오는 10월10일 동서대 센텀 캠퍼스에서 역대 최대 규모로 열린다.촬영, 스토리텔링, 촬영지 활용을 다루는 마스터클래스를 비롯해 제작 노하우와 AI 역할에 관한 업계 대담이 진행된다. "
+    },
+    {
+      "id": "831663ad9e61",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하오스와 이노베이트360, 비즈니스 매칭 위해 한국 기업 대만 진출 지원",
+      "link": "https://zdnet.co.kr/view/?no=20260916181045",
+      "published": "2026-09-16T09:10:45+00:00",
+      "summary": "[지디넷코리아]7개 한국 기업, 타이베이에서 대만 제조업체, 외식업체, 투자자 및 잠재적 사업 파트너와 만나 타이베이 2026년 9월 16일 /PRNewswire/ -- 9월 10일 타이베이에서 열린 대만-한국 비즈니스 매칭(Taiwan–Korea Business Matching) 행사에서 7개 한국 기업이 대만 기업 및 투자 업계 관계자 30여 명과 만남을 가졌다. HAOSHi and Innovate 360 Bring Korean Companies to Taiwan for Business Mat"
+    },
+    {
+      "id": "1401223ebbac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "호찌민시, 개발 구역 확장 및 지자체 외교 연계 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260916181034",
+      "published": "2026-09-16T09:10:34+00:00",
+      "summary": "[지디넷코리아]호찌민시, 베트남 2026년 9월 16일 /PRNewswire/ -- 호찌민시가 9월 10일부터 12일까지 붕따우방에서 개최된 제3회 호찌민시 우호 대화(3rd Ho Chi Minh City Friendship Dialogue, FD 2026)를 성료하며 글로벌 리소스를 연결하는 관문이자 지자체 외교를 강화하는 중심지로서의 입지를 확고히 하고 있다. 국제사회에서 탄력받는 도시 외교 이니셔티브 '도시 외교: 혁신과 지속 가능한 발전의 원동력(City Diplomacy: A Drivin"
+    },
+    {
+      "id": "dd2be3471ef3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이, M360 ASEAN 2026에서 지능형 연결성과 AI 전환 강조",
+      "link": "https://zdnet.co.kr/view/?no=20260916181024",
+      "published": "2026-09-16T09:10:24+00:00",
+      "summary": "[지디넷코리아]쿠알라룸푸르, 말레이시아 2026년 9월 16일 /PRNewswire/ -- 화웨이(Huawei)가 GSMA M360 아세안 2026(GSMA M360 ASEAN 2026)의 행사 파트너로 적극적으로 참여해 업계를 선도하는 관점과 기술 인사이트, 협업 솔루션을 제시하며 역내 지능형 경제로의 전환을 지원했다. 화웨이는 행사 기간 동안 지능형 모바일 네트워크, 디지털 신뢰, AI 전환, 디지털 포용 등 주요 산업 논의에 참여하며 첨단 커넥티비티, 컴퓨팅, 인공지능의 시너지가 아세안 전역"
+    },
+    {
+      "id": "ec8021decfd3",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 중국 모델의 성능이 미친듯이 좋았던 비밀 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/phQ48g_w3j8",
+      "published": "2026-09-16T09:00:38+00:00",
+      "summary": ""
+    },
+    {
+      "id": "11eee819c57a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
+      "link": "https://www.wired.com/story/best-2-in-1-laptops/",
+      "published": "2026-09-16T09:00:00+00:00",
+      "summary": "These portable computers balance tablet and laptop functionality, whether you want a screen that detaches or spins."
+    },
+    {
+      "id": "3b5e626eda84",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "published": "2026-09-16T08:54:46+00:00",
+      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be rev"
+    },
+    {
+      "id": "fa02d137eec0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"클로드 코드에 타사 모델 연결했더니 계정 정지\"...앤트로픽 \"차단 안 한다\" 해명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215343",
+      "published": "2026-09-16T08:54:08+00:00",
+      "summary": "앤트로픽의 코딩 에이전트 ‘클로드 코드’에 경쟁사나 오픈소스의 저렴한 AI 모델을 연결해 사용하는 개발자들이 늘고 있다. 클로드 코드가 제공하는 강력한 개발 환경은 그대로 활용하면서 토큰 비용을 낮추려는 움직임이다. 그러나 최근 한 개발자의 계정 정지 사례가 알려지며, 앤트로픽이 자사 모델 사용을 사실상 강제하는 것 아니냐는 논란이 일었다.15일(현지시간) 디 인포메이션에 따르면, 개발자 알렉스 게트먼은 최근 몇 줄의 코드로 구성된 프록시를 이용해 클로드 코드를 오픈AI의 ‘GPT-5.6 솔’에 "
+    },
+    {
+      "id": "14889b3ff55b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천 원도심서 18일 ‘글로컬 페스타’…13개국 음식·문화 한자리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215360",
+      "published": "2026-09-16T08:33:01+00:00",
+      "summary": "AI 생성 영상순천 원도심에 세계 각국의 음식과 문화공연, 체험 프로그램을 한자리에서 즐길 수 있는 축제가 열린다.순천시는 오는 18일 시민로와 황금2길 일원에서 ‘2026 순천 원도심 글로컬 페스타’를 개최한다고 밝혔다.이번 행사는 지역과 세계의 먹거리, 공연·체험 콘텐츠를 결합해 야간 방문객의 체류와 소비를 지역 상권으로 연결하기 위해 마련됐다.글로컬 푸드존에는 13개국 21팀이 참여해 각 나라의 특색 있는 음식을 선보인다.문화체험존에서는 사진 인화와 독서체험, AI 뮤직비디오, 아크릴류·키링"
+    },
+    {
+      "id": "9dedb20c7bbb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나주영산강축제, 내달 7일 개막…닷새간 공연·체험·미식 한자리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215356",
+      "published": "2026-09-16T08:32:49+00:00",
+      "summary": "AI 생성 영상나주시의 가을 영산강을 배경으로 공연과 체험, 미식, 정원을 함께 즐기는 ‘2026 나주영산강축제’가 내달 7일부터 닷새간 열린다.나주는 10월7일부터 11일까지 영산강정원 일원에서 ‘2026 나주영산강축제’를 개최한다고 밝혔다.올해 축제는 나주의 역사와 문화, 생태, 농업, 미식을 한데 모은 복합문화축제로 구성된다. 날짜별로 서로 다른 주제의 공연과 어린이 체험, 전시, 미식, 정원 프로그램을 운영한다.첫날인 7일에는 고려 태조 왕건과 나주 출신 장화황후의 이야기를 재해석한 창작 "
+    },
+    {
+      "id": "1a31fb4d7173",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전남광주, 2027년 계절노동 준비…농협·시군 담당자 100여명 교육",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215354",
+      "published": "2026-09-16T08:32:22+00:00",
+      "summary": "AI 생성 영상전남광주통합특별시가 2027년 계절노동 프로그램 운영을 앞두고 농협과 시군 담당자의 노무·인권·안전 관리 역량 강화에 나섰다.전남광주는 농협 전남본부와 함께 지난 14일 ‘2027년 계절노동·농업고용인력 업무 담당자 워크숍’을 열었다고 16일 밝혔다.워크숍에는 계절노동 프로그램을 운영하는 농협 담당자와 시군 팀장·업무 담당자 등 100여명이 참석했다.교육에서는 2027년 계절노동 프로그램의 정책 방향과 농촌인력중개센터 사업 개정사항, 운영 방향 등을 공유했다.현장에서 필요한 실무교육"
+    },
+    {
+      "id": "fc985f8c6951",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '제미나이 노트북'에 맞춤형 학습 기능 추가...\"듣고 말하며 공부한다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215347",
+      "published": "2026-09-16T08:30:31+00:00",
+      "summary": "구글이 AI를 활용한 학습 경험을 강화한다. 단순히 학습 자료를 요약하는 수준을 넘어 사용자가 AI와 직접 음성으로 대화하고, 자신의 학습 수준에 맞춰 퀴즈와 영상까지 활용할 수 있도록 ‘제미나이 노트북(Gemini Notebook)’의 기능을 대폭 확장했다. 구글은 15일(현지시간) AI 학습 도구 제미나이 노트북에 실시간 음성 대화와 맞춤형 학습 기능을 추가했다. 사용자가 보유한 학습 자료를 기반으로 AI와 대화하면서 복잡한 주제를 단계적으로 이해하고, 퀴즈와 영상 등을 활용해 학습할 수 있도"
+    },
+    {
+      "id": "3ab857923f34",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"외주 인력이 챗GPT 대화 검토\"...오픈AI, '프로젝트 릴리' 사생활 침해 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215344",
+      "published": "2026-09-16T08:22:03+00:00",
+      "summary": "오픈AI가 '챗GPT' 사용자들의 대화를 외부 계약직 인력에게 검토·평가하도록 한 비공개 프로젝트를 운영해 온 사실이 드러나 논란이 일고 있다. 사용자 대화를 모델 개선에 활용하는 것은 알려져 있었지만, 실제 사람이 대화 내용을 읽고 평가하는 구체적인 과정이 공개되면서 사생활 침해 우려가 커지고 있다.14일(현지시간) 404미디어에 따르면, 오픈AI가 수백명의 외주 계약직 인력을 동원해 챗GPT 사용자들의 대화 내용을 읽고 평가하도록 하는 비밀 프로젝트 ‘프로젝트 릴리(Project Lily)’를"
+    },
+    {
+      "id": "0ebecfd592e9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 자체 AI 칩 본격 배치...비용·전력 절감 속도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215334",
+      "published": "2026-09-16T08:12:21+00:00",
+      "summary": "메타가 자체 설계한 AI 칩을 데이터센터에 본격적으로 배치하며 AI 인프라 비용과 전력 소비 절감에 나선다. 15일(현지시간) 블룸버그에 따르면, 메타는 3세대 자체 AI 칩인 ‘MTIA 450(코드명 아르케)’을 테스트하고 있으며, 내년 상반기부터 데이터센터에 배치할 계획이다.4세대 칩 ‘MTIA 500(코드명 아스트리드)’도 한 달 뒤 설계를 마무리하고 2027년 말까지 데이터센터에 공급할 예정이다.메타의 자체 칩 개발은 2023년부터 시작됐다. 브로드컴과 설계를 협력하고 대만 TSMC에 생산"
+    },
+    {
+      "id": "b1ed9543429a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "어질리티, 사람 접근하면 멈추는 차세대 휴머노이드 '디지트 5' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215355",
+      "published": "2026-09-16T08:08:06+00:00",
+      "summary": "미국의 어질리티 로보틱스(Agility Robotics)가 사람과 같은 작업 공간에서 안전하게 움직일 수 있도록 설계한 차세대 휴머노이드 로봇을 공개했다. 기존 휴머노이드가 안전을 위해 작업자와 물리적으로 분리된 공간에서 운용돼야 했던 한계를 줄이고, 실제 산업 현장에서 사람과 로봇이 함께 일하는 환경을 구현하는 데 초점을 맞췄다. 어질리티 로보틱스는 15일(현지시간) 사람과 가까운 거리에서 안전하게 작업할 수 있도록 설계한 차세대 휴머노이드 로봇 '디지트 5(Digit 5)'를 공개했다.제조 및"
+    },
+    {
+      "id": "1464bb198d53",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 플래티어, CJ제일제당·하이트진로음료에 젠서 GEO 도입 확대 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215361",
+      "published": "2026-09-16T08:00:00+00:00",
+      "summary": "■ 버티컬 AI·DX 솔루션 전문 플래티어(대표 이상훈)는 생성형 검색 최적화(GEO) 서비스 ‘젠서 GEO(genser GEO)’의 적용 범위가 국내 주요 소비재 브랜드를 중심으로 빠르게 확대되고 있다고 밝혔다. 현재 젠서 GEO는 CJ제일제당, 하이트진로음료, 로저나인(골프넛츠) 등의 자사몰에 도입돼 운영 중이다. 기존 상품 페이지와 데이터만으로 적용이 가능해 별도 개발 리소스 없이 단기 구축을 마친 사례도 다수다.■ 플리토(대표 이정수)는 한화오션 맞춤형 AI 통역-번역 솔루션 ‘오톡(OTa"
+    },
+    {
+      "id": "feba34dd097d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리벨리온, 일본 현지에 AI 추론 인프라 지원…‘리벨랙’ 100대 이상 공급 계획",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215358",
+      "published": "2026-09-16T07:55:43+00:00",
+      "summary": "한국을 넘어 일본의 기업, 정부 기관, 개발자들도 현지에 구축된 ‘리벨리온 솔루션 기반 추론 인프라’를 이용할 수 있을 전망이다. AI 반도체 전문 리벨리온(대표 박성현)은 수직 통합형 글로벌 AI 기술 전문 ai&와 파트너십을 맺었다고 16일 밝혔다. ai&는 AI 워크로드의 특성에 따라 서로 다른 컴퓨팅 자원을 조합해 사용하는 이기종 인프라 모델을 운영한다. 리벨리온은 여기에 전력 효율과 운영 비용 절감에 초점을 맞춘 추론 특화 아키텍처를 더하는 역할이다. ai&가 유연하게 추론 자원을 배치하"
+    },
+    {
+      "id": "2ee5a09a830f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 통합 구독 상품 '메타 원' 공개...소셜미디어에 생성 AI 대거 결합",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215353",
+      "published": "2026-09-16T07:40:12+00:00",
+      "summary": "메타가 페이스북·인스타그램·왓츠앱과 '메타 AI'를 묶어 AI 사용량과 창작 기능을 확대하는 유료 구독 서비스를 내놨다. 기존 무료 서비스는 유지하면서 이미지·영상 생성과 AI 편집 기능을 더 많이 사용할 수 있도록 하고, 크리에이터와 기업에는 고객 응대와 콘텐츠 관리 등 전문 기능까지 제공하는 방식이다. 메타는 15일(현지시간) 페이스북, 인스타그램, 왓츠앱, 메타 AI의 기능과 AI 사용량을 확대할 수 있는 통합 구독 서비스 ‘메타 원(Meta One)’을 전 세계에 출시했다.일반 사용자부터 "
+    },
+    {
+      "id": "c766c36e803a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215351",
+      "published": "2026-09-16T07:27:44+00:00",
+      "summary": "세일즈포스가 엔비디아와 자체 CRM 데이터와 업무 방식에 특화된 추론 모델을 내놓았다. '클로드'와 '챗GPT' 등 외부 프론티어 모델에 대한 기업의 의존도를 낮추는 전략에 따른 것이다. 세일즈포스는 15일(현지시간) 드림포스 이벤트를 통해 엔비디아와 협력해 기업의 영업·마케팅·고객지원 업무에 특화된 자체 AI 추론 모델 ‘코아(Koa)’를 공개했다.엔비디아의 오픈웨이트 모델 ‘네모트론(Nemotron)’을 기반으로 사후학습을 진행한 세일즈포스 최초의 기업용 추론 모델이다.코아는 27년간 축적된 "
+    },
     {
       "id": "c94dd9b1db66",
       "source": "AI타임스",
@@ -12,6 +320,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215346",
       "published": "2026-09-16T06:18:02+00:00",
       "summary": "배경훈 부총리 겸 과학기술정보통신부 장관이 최근 글로벌 빅테크를 중심으로 떠오른 'AI 속도 조절론'에 대해 속도를 늦추는 것이 아닌 속도에 '책임'을 지는 방향이 더 중요하다는 입장을 표명했다.배경훈 장관은 16일 페이스북을 통해 \"최근 AI 개발의 속도를 조절해야 한다는 여러 의견이 나오고 있지만 사실 이런 논의가 처음은 아니다\"라며 \"대한민국의 입장에서 한 가지는 분명하다. 우리는 지금 AI의 속도를 늦출 여유가 없다\"라고 밝혔다.배 장관이 가장 우려한 대목은 '기술격차'다. 산업과 국민의 "
+    },
+    {
+      "id": "e8731f1a65e5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "갑자기 AI 규제를 찬성하는 대기업들의 소름돋는 전략",
+      "link": "https://www.youtube.com/shorts/YRNLKqpOXJE",
+      "published": "2026-09-16T06:00:28+00:00",
+      "summary": ""
     },
     {
       "id": "7940a04064bc",
@@ -201,6 +520,17 @@
       "summary": "[지디넷코리아]NHN클라우드가 인공지능(AI)과 클라우드를 결합한 전장 플랫폼 개발에 나서며 국방 AI 전환(AX) 사업 확대에 속도를 낸다.NHN클라우드는 고려대학교 기술경영전문대학원 국방기술경영학과 C5ISRT융합연구원과 국방 전장 클라우드 및 C5ISRT 분야 산학협력을 위한 업무협약을 체결했다고 16일 밝혔다.협약식은 지난 15일 경기 성남시 NHN클라우드 사옥 플레이뮤지엄에서 진행됐다.C5ISRT는 지휘·통제·통신·컴퓨터·사이버·정보·감시·정찰·표적획득 등을 아우르는 첨단 지휘통제·전장인"
     },
     {
+      "id": "7563ed9cd67b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "link": "https://security.apple.com/blog/apple-reference-image/",
+      "published": "2026-09-16T02:07:31+00:00",
+      "summary": "Article URL: https://security.apple.com/blog/apple-reference-image/ Comments URL: https://news.ycombinator.com/item?id=49721322 Points: 299 # Comments: 207"
+    },
+    {
       "id": "204d0f986dc0",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -309,6 +639,17 @@
       "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "published": "2026-09-15T21:47:38+00:00",
       "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+    },
+    {
+      "id": "09b4fd5bfab1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "published": "2026-09-15T21:07:47+00:00",
+      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 233 # Comments: 81"
     },
     {
       "id": "fc1dd798e6cd",
@@ -496,6 +837,17 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "published": "2026-09-15T17:38:18+00:00",
       "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 291 # Comments: 187"
+    },
+    {
+      "id": "3af0d91955b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "published": "2026-09-15T17:37:12+00:00",
+      "summary": "Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 254 # Comments: 309"
     },
     {
       "id": "4995e69b29d8",
