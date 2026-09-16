@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-16T19:23:56.316893+00:00",
-  "count": 13201,
+  "updated_at": "2026-09-16T22:15:36.654022+00:00",
+  "count": 13214,
   "items": [
+    {
+      "id": "72e84a979084",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "published": "2026-09-16T22:07:24+00:00",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked."
+    },
+    {
+      "id": "063687de1c62",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+      "published": "2026-09-16T22:00:00+00:00",
+      "summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만"
+    },
+    {
+      "id": "dcb3563ef0e2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "published": "2026-09-16T21:07:24+00:00",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+    },
+    {
+      "id": "eba407f3e764",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "published": "2026-09-16T21:00:00+00:00",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight."
+    },
+    {
+      "id": "373f4b3f81b1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "published": "2026-09-16T20:59:13+00:00",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether"
+    },
+    {
+      "id": "920886e0c3de",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+      "link": "https://www.youtube.com/watch?v=J3ljHm57yU0",
+      "published": "2026-09-16T20:51:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "0f9e08ee06dc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+      "published": "2026-09-16T20:44:41+00:00",
+      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood ."
+    },
+    {
+      "id": "58d2efb50bc7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "published": "2026-09-16T20:40:46+00:00",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate o"
+    },
+    {
+      "id": "4010c4eba538",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+      "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+      "published": "2026-09-16T20:23:16+00:00",
+      "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem."
+    },
+    {
+      "id": "b1ef4440a881",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "published": "2026-09-16T20:12:00+00:00",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+    },
     {
       "id": "0ea8d3479daa",
       "source": "TechCrunch",
@@ -12,6 +122,17 @@
       "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
       "published": "2026-09-16T19:02:49+00:00",
       "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley."
+    },
+    {
+      "id": "2144d66777eb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "link": "https://rohanbansal.com/qorl",
+      "published": "2026-09-16T18:50:00+00:00",
+      "summary": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 266 # Comments: 45"
     },
     {
       "id": "ed0873adba94",
@@ -122,6 +243,17 @@
       "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
       "published": "2026-09-16T16:00:00+00:00",
       "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from th"
+    },
+    {
+      "id": "2104dd14ac03",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Small programming tricks",
+      "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "published": "2026-09-16T15:56:47+00:00",
+      "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 315 # Comments: 160"
     },
     {
       "id": "85306a0db333",
@@ -1541,6 +1673,17 @@
       "link": "https://www.youtube.com/shorts/MwCEDOa8c20",
       "published": "2026-09-15T11:33:07+00:00",
       "summary": ""
+    },
+    {
+      "id": "6c36d69b74d9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tell the speakers that you liked their talks",
+      "link": "https://ohhelloana.blog/tell-the-speakers/",
+      "published": "2026-09-15T11:28:19+00:00",
+      "summary": "Article URL: https://ohhelloana.blog/tell-the-speakers/ Comments URL: https://news.ycombinator.com/item?id=49710903 Points: 256 # Comments: 72"
     },
     {
       "id": "f632c2bfbbb7",
