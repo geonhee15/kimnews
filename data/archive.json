@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-09-16T15:57:39.302150+00:00",
-  "count": 13186,
+  "updated_at": "2026-09-16T19:23:56.316893+00:00",
+  "count": 13201,
   "items": [
+    {
+      "id": "0ea8d3479daa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "published": "2026-09-16T19:02:49+00:00",
+      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley."
+    },
+    {
+      "id": "ed0873adba94",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "published": "2026-09-16T18:25:25+00:00",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+    },
+    {
+      "id": "fa5e4e67980c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best Movies to Stream This Month (September 2026)",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "published": "2026-09-16T18:23:37+00:00",
+      "summary": "The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month."
+    },
+    {
+      "id": "e8a7174ae92e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "published": "2026-09-16T17:20:29+00:00",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute p"
+    },
+    {
+      "id": "11096dcad20c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your AI agents can now control your Google Home devices",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language."
+    },
+    {
+      "id": "0e965f456d5b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your ‘health age’ is fake",
+      "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch announcement, I let out a distinc"
+    },
+    {
+      "id": "feb668c3d5eb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents con"
+    },
+    {
+      "id": "74a251894cbf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "published": "2026-09-16T16:30:00+00:00",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+    },
+    {
+      "id": "72398526cf13",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "published": "2026-09-16T16:30:00+00:00",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging"
+    },
+    {
+      "id": "c62d5c9ec48c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+      "link": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
+      "published": "2026-09-16T16:05:14+00:00",
+      "summary": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US."
+    },
+    {
+      "id": "71bdb30c9792",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "published": "2026-09-16T16:00:00+00:00",
+      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from th"
+    },
     {
       "id": "85306a0db333",
       "source": "TechCrunch",
@@ -23,6 +144,17 @@
       "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
       "published": "2026-09-16T15:00:00+00:00",
       "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass."
+    },
+    {
+      "id": "5210a40e5757",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "macOS 27 Golden Gate: The Ars Technica review",
+      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "published": "2026-09-16T14:50:06+00:00",
+      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence."
     },
     {
       "id": "78b5673223f4",
@@ -322,6 +454,17 @@
       "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead."
     },
     {
+      "id": "9f56728c7354",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+      "published": "2026-09-16T09:25:00+00:00",
+      "summary": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의 종합·분류·회귀 엘로(Elo) 평가에서 1위를 차지했다고 16일 밝혔다.코실로는 51개 데이터셋을 대상으로 진행한 종합 성적을 포함해 범주를 구분하는 분류와 숫자를 예측하는 회귀 평가에서 구글 리서치 '탭FM(TabFM)', 아마존 '미트라-v2(Mitra-v2)', 샤오미 '탭LDM(Xiaomi-TabLDM)' 등 빅테크 모델을 제치고 "
+    },
+    {
       "id": "b20067daf5e0",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -487,6 +630,17 @@
       "summary": "오픈AI가 '챗GPT' 사용자들의 대화를 외부 계약직 인력에게 검토·평가하도록 한 비공개 프로젝트를 운영해 온 사실이 드러나 논란이 일고 있다. 사용자 대화를 모델 개선에 활용하는 것은 알려져 있었지만, 실제 사람이 대화 내용을 읽고 평가하는 구체적인 과정이 공개되면서 사생활 침해 우려가 커지고 있다.14일(현지시간) 404미디어에 따르면, 오픈AI가 수백명의 외주 계약직 인력을 동원해 챗GPT 사용자들의 대화 내용을 읽고 평가하도록 하는 비밀 프로젝트 ‘프로젝트 릴리(Project Lily)’를"
     },
     {
+      "id": "500ad8e44052",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"외주 인력이 챗GPT 대화 검토\"...오픈AI, '프로젝트 릴리' 개인정보 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215344",
+      "published": "2026-09-16T08:22:03+00:00",
+      "summary": "오픈AI가 '챗GPT' 사용자들의 대화를 외부 계약직 인력에게 검토·평가하도록 한 비공개 프로젝트를 운영해 온 사실이 드러나 논란이 일고 있다. 사용자 대화를 모델 개선에 활용하는 것은 알려져 있었지만, 실제 사람이 대화 내용을 읽고 평가하는 구체적인 과정이 공개되면서 사생활 침해 우려가 커지고 있다.14일(현지시간) 404미디어에 따르면, 오픈AI가 수백명의 외주 계약직 인력을 동원해 챗GPT 사용자들의 대화 내용을 읽고 평가하도록 하는 비밀 프로젝트 ‘프로젝트 릴리(Project Lily)’를"
+    },
+    {
       "id": "0ebecfd592e9",
       "source": "AI타임스",
       "kind": "article",
@@ -529,6 +683,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215361",
       "published": "2026-09-16T08:00:00+00:00",
       "summary": "■ 버티컬 AI·DX 솔루션 전문 플래티어(대표 이상훈)는 생성형 검색 최적화(GEO) 서비스 ‘젠서 GEO(genser GEO)’의 적용 범위가 국내 주요 소비재 브랜드를 중심으로 빠르게 확대되고 있다고 밝혔다. 현재 젠서 GEO는 CJ제일제당, 하이트진로음료, 로저나인(골프넛츠) 등의 자사몰에 도입돼 운영 중이다. 기존 상품 페이지와 데이터만으로 적용이 가능해 별도 개발 리소스 없이 단기 구축을 마친 사례도 다수다.■ 플리토(대표 이정수)는 한화오션 맞춤형 AI 통역-번역 솔루션 ‘오톡(OTa"
+    },
+    {
+      "id": "7223d0e18d66",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] SKT, F5와 AI 클라우드 보안 파트너십 체결 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215364",
+      "published": "2026-09-16T08:00:00+00:00",
+      "summary": "■ SK텔레콤(대표 정재헌)은 글로벌 보안 기업 F5와 AI 클라우드 보안 사업 협력 강화를 위한 파트너십을 체결했다고 밝혔다. 이번 협약으로 SKT는 F5 솔루션의 부가가치 재판매 사업자(VAR)이자 관리형 서비스 사업자(MSP) 역할을 맡는다. F5는 미국에 본사를 둔 글로벌 멀티 클라우드 애플리케이션·API 보안 기업으로 전 세계 포춘 500대 기업의 90% 이상에 솔루션을 공급하고 있다.■ SK텔레콤은 서울 중구 SKT타워에서 스타트업 8곳과 만나 사업 추진 과정의 고충과 협력 방안을 공유"
     },
     {
       "id": "feba34dd097d",
