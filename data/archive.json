@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-09-17T05:24:02.435005+00:00",
-  "count": 13247,
+  "updated_at": "2026-09-17T10:13:25.704731+00:00",
+  "count": 13267,
   "items": [
+    {
+      "id": "c1cab54b4a08",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The EU Wants to Break Up Kids and Their Chatbots",
+      "link": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+      "published": "2026-09-17T10:06:50+00:00",
+      "summary": "ChatGPT, Character.ai and Snapchat My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them."
+    },
+    {
+      "id": "42e23464f393",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "사람보다 휴대폰을 더 잘쓰는 AI 등장",
+      "link": "https://www.youtube.com/shorts/UXbGIQt0Jsk",
+      "published": "2026-09-17T10:00:07+00:00",
+      "summary": ""
+    },
+    {
+      "id": "34466d5312f7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "게임 중 '멘붕' 온 아스트라...마인크래프트서 아이템 잃고 감자만 깼다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215401",
+      "published": "2026-09-17T09:24:57+00:00",
+      "summary": "오픈AI의 최신 AI 모델 'GPT-6 아스트라'가 장시간 이어진 마인크래프트 테스트에서 뛰어난 게임 수행 능력을 보여줬지만, 모든 아이템을 잃은 뒤 몇 시간 동안 감자 농사만 반복하는 모습이 포착돼 화제가 되고 있다.발스 AI(Vals AI)는 15일(현지시간) 141시간 동안 진행한 마인크래프트 벤치마크 테스트에서 아스트라가 AI 시스템 가운데 \"가장 멀리 게임을 진행(progressed the furthest)한 것으로 기록됐다\"고 발표했다.컴퓨터 유즈(Computer Use) 기능을 활용해"
+    },
+    {
+      "id": "982e22786091",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "새로운 스텔스 모델 '유니온 알파' 등장...\"GPT-5.6 테라 가격으로 페이블 5급 성능\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215398",
+      "published": "2026-09-17T09:05:51+00:00",
+      "summary": "정체가 공개되지 않은 새로운 AI 모델 '유니온 알파(Union Alpha)'가 등장했다. 개발사나 연구소 이름, 모델 카드, 가중치 등을 공개하지 않은 '스텔스 모델'로, 무료로 사용할 수 있다는 점과 최첨단 모델에 근접한 성능을 내세우면서 AI 개발자들의 관심을 받고 있다.유니온 알파는 16일(현지시간) 오픈라우터(OpenRouter)와 오픈코드(OpenCode)에 익명 모델로 등록됐다. 제공 업체는 '스텔스'로만 표시됐으며, 별도의 개발사 정보는 공개되지 않았다.공개된 사양에 따르면, 26만"
+    },
+    {
+      "id": "d3dbc5a9628e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "API 개발할 때 조심해야 하는 이유",
+      "link": "https://www.youtube.com/shorts/obmT608yBOg",
+      "published": "2026-09-17T09:00:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "84f31cde50e6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 수학 특화 AI '딥씽크 V3 매스매티카' 내부 테스트 정황 포착",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215399",
+      "published": "2026-09-17T09:00:00+00:00",
+      "summary": "구글이 고난도 수학 연산과 심층 추론에 특화된 차세대 모델을 개발 중인 정황이 외부 유출을 통해 확인됐다. 16일(현지시간) AI 전문 매체 테스팅카탈로그에 따르면, 구글 내부에서 테스트 중인 미공개 모델 '딥씽크 V3 마세마티카(DeepThink V3 Mathematica)'의 백엔드 정보 및 사고 과정 스크린샷이 외부로 유출됐다.이 소식은 X의 AI 전문 계정인 라이라(lyraxana)의 게시물로 처음 공개됐다. 이 계정은 앞서 구글이 재귀적 자기개선에 도달했다고 암시하는 내용을 올려 주목을 "
+    },
+    {
+      "id": "a27faef03051",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 상사호·주암호 공공용지 8207필지...235필지로 합병",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215419",
+      "published": "2026-09-17T08:55:07+00:00",
+      "summary": "AI 생성 영상순천시가 상사호와 주암호 일원의 공공용지 가운데 합병이 가능한 8207필지를 235필지로 합병 정비했다.순천은 주암댐과 상사댐 건설 이후에도 기존 지적 경계가 그대로 남아 공공용지가 불필요하게 세분화된 문제를 개선하기 위해 합병 작업을 추진했다고 밝혔다.세분화된 필지는 지적공부 유지·관리와 토지관리 과정에서 행정비용과 업무 부담이 발생하는 만큼, 순천은 이번 합병으로 예산 절감과 관리 효율 향상 효과가 있다고 설명했다. 정비 대상 선별은 항공사진과 지적정보를 활용해 합병 대상 토지를"
+    },
+    {
+      "id": "613e3f226b9a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전남광주, 반도체·에너지·모빌리티 R&D에 131억원 투입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215368",
+      "published": "2026-09-17T08:54:52+00:00",
+      "summary": "AI 생성 영상전남광주통합특별시가 반도체와 에너지, 모빌리티 분야에서 지역 산업과 기업의 수요를 반영한 연구개발(R&D)을 지역 주도로 추진한다. 올해 호남권 사업에는 131억원이 투입된다.전남광주는 과학기술정보통신부의 ‘4극3특 지역 자율 R&D 사업’을 통해 호남권 연구개발 사업을 본격 추진한다고 17일 밝혔다.지역 자율 R&D는 중앙정부 중심의 연구개발 지원방식에서 벗어나 지역이 산업 여건과 과학기술 역량, 기업의 기술 수요 등을 바탕으로 필요한 과제를 직접 기획하고 수행하는 사업이다.과기정"
+    },
+    {
+      "id": "e8267968c0e4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수 이순신도서관, 기후변화 교육전문가 25명 양성…AI 활용 교육도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215377",
+      "published": "2026-09-17T08:54:34+00:00",
+      "summary": "AI 생성 영상여수시 이순신도서관이 기후변화에 대한 이해와 미래기술 활용 교육 역량을 갖춘 시민 전문가 양성에 나선다.여수는 이순신도서관에서 ‘기후변화 교육전문가 양성 과정’을 운영한다고 17일 밝혔다.교육은 사단법인 미래직업협회와 협력해 10월10일과 17일, 31일 등 총 3회 진행한다. 과정은 기후변화에 대한 이해를 높이고 AI 등 최신 기술을 활용한 교육 방법을 익혀 지역사회에서 활용할 수 있는 교육 역량을 강화하는 데 초점을 맞춘다.모집 인원은 25명이다. 교육은 대면과 온라인 방식을 병"
+    },
+    {
+      "id": "b059c07e3978",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나주농업페스타, 벼 탈곡·고구마 수확 체험…10월7일 개막",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215420",
+      "published": "2026-09-17T08:54:15+00:00",
+      "summary": "AI 생성 영상나주시 영산강정원에서 어린이와 가족이 직접 벼를 탈곡하고 고구마를 캐는 농업 체험 프로그램이 열린다.나주는 10월7일부터 11일까지 영산강정원 일원에서 열리는 ‘2026 나주농업페스타’에서 가족 단위 방문객을 위한 농부체험 프로그램을 운영한다고 17일 밝혔다.대표 프로그램은 벼 수확과 도정 과정을 경험하는 ‘벼락(樂) 농부체험’과 실제 재배한 고구마를 직접 캐는 수확체험이다.‘벼락 농부체험’에서는 참가자가 직접 벼를 탈곡하고 전통 농기구인 매통을 이용해 벼 껍질을 벗기는 도정 과정을"
+    },
+    {
+      "id": "4d1dad9e39ab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "피어리오딕 랩스, 재료과학 AI '네온' 공개...\"첨단 모델 성능 뛰어넘어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215414",
+      "published": "2026-09-17T08:53:07+00:00",
+      "summary": "대형언어모델(LLM)의 추론 능력과 강화학습, 과학 도구를 결합해 새로운 소재를 탐색하려는 시도가 이어지는 가운데, 피어리오딕 랩스(Periodic Labs)가 재료과학에 초점을 맞춘 AI 모델을 선보였다. 오픈AI 출신 리암 페더스가 설립한 피어리오딕 랩스는 15일(현지시간) 재료과학 연구에 특화된 AI 모델 ‘네온(Neon)’을 공개했다.이 회사는 AI 모델 자체뿐 아니라 장시간의 추론과 과학 도구 실행이 필요한 연구 환경에 맞춰 학습·추론 인프라까지 최적화해, 신소재 탐색 속도를 높이는 것을"
+    },
+    {
+      "id": "b73060aa9391",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"환각·타입 오류 없다\"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215416",
+      "published": "2026-09-17T08:36:20+00:00",
+      "summary": "기존 대형언어모델(LLM)이 자연어를 생성하는 데 초점을 맞춰 발전해온 가운데, AI가 소프트웨어의 의사결정을 직접 수행하도록 설계한 새로운 접근법이 등장했다. 특히 속도와 비용, 안정성이 중요한 자동화 분야를 겨냥해 텍스트 생성 대신 구조화된 판단 자체를 출력하는 AI 모델이 공개됐다.'챗GPT'와 인간 피드백 기반 강화학습(RLHF) 개발에 참여했던 오픈AI 출신 디오고 알메이다는 15일(현지시간) 2년간 개발한 새로운 AI 모델 ‘제브(Jev)’를 공개했다.기존 LLM처럼 텍스트를 한 토큰씩"
+    },
+    {
+      "id": "6fd8563d53c0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "세일즈포스, '하네스' 최적화로 브라우저 작업 성공률 93% 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215411",
+      "published": "2026-09-17T08:19:54+00:00",
+      "summary": "AI 에이전트의 성능을 높이기 위해 모델 자체를 재학습하거나 가중치를 수정하는 것이 아니라, 작업 수행 방식 자체를 최적화하는 것만으로도 복잡한 브라우저 작업의 성공률을 크게 끌어올릴 수 있다는 연구 결과가 나왔다. 세일즈포스는 이를 입증하기 위한 새로운 진화형 에이전트 최적화 프레임워크를 공개했다. 세일즈포스 AI 리서치와 에이전트포스(Agentforce)는 최근 AI 모델의 가중치를 직접 수정하지 않고도 에이전트의 브라우저 작업 성능을 크게 높일 수 있는 새로운 프레임워크 '다윈X(Darwin"
+    },
+    {
+      "id": "c70048d08b00",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼 \"AI 사고 불가피하지만 관리가능...업계 리더들 믿어달라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215386",
+      "published": "2026-09-17T08:04:49+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 AI의 급격한 발전에 따른 사고 가능성을 인정하면서도 AI 업계가 안전 문제를 관리할 수 있다며 대중에게 업계 리더들을 신뢰해 달라고 강조했다.알트먼은 15일(현지시간) 미국 샌프란시스코에서 열린 세일즈포스의 연례 컨퍼런스 '드림포스 2026'에서 마크 베니오프 세일즈포스 CEO와의 대담 중 \"세상이 AI를 두려워하는 것은 당연하다\"고 말했다.그는 AI 모델의 능력이 빠르게 향상되면서 통제력을 잃거나 소수의 개발 기업에 과도한 권력이 집중될 가능성에 대한 우려가 커지고"
+    },
+    {
+      "id": "175f60b20411",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] KT, 과기부 ‘AI 다크팩토리 설계·구축 솔루션 개발’과제 참여 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215422",
+      "published": "2026-09-17T08:00:00+00:00",
+      "summary": "■ KT(대표 박윤영)가 과학기술정보통신부 주관 ‘AI기반 다크팩토리 설계·구축 솔루션 개발’과제 공동연구기관으로 참여해 관련 기술 개발에 나섰다고 밝혔다. KT는 이번 사업에서 '모듈형 엣지 AIDC 인프라 기반 Sim-Ready 합성 데이터 생성·검증 체계 및 에이전트 운영통합 환경’을 연구 개발한다.■ 엔닷라이트(대표 박진영)가 오는 22일 네트워킹 행사 ‘피지컬 AI 나이트’를 개최한다고 밝혔다. 박진영 대표가 ‘국내외 피지컬 AI 생태계’를 주제로 오프닝 발표를 진행했으며, 엔비디아와 코"
+    },
+    {
+      "id": "af0c5c7543d4",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "3000만명이 털린 티빙, 근데 이유가..?",
+      "link": "https://www.youtube.com/shorts/hRjYnh97o4k",
+      "published": "2026-09-17T06:00:20+00:00",
+      "summary": ""
+    },
     {
       "id": "b94508c55cc2",
       "source": "TechCrunch",
@@ -223,6 +399,17 @@
       "summary": "[지디넷코리아]오픈AI의 통제에서 벗어난 인공지능(AI) 에이전트가 대규모 침해 사고 발생 두 달 전부터 허깅페이스 계정을 탈취하고 네트워크 취약점을 탐색한 정황이 드러났다. 16일(현지시간) 로이터 등 외신에 따르면 독립 연구자로 활동 중인 요나스 비더만묄러는 오픈AI 에이전트가 지난 5월 13일 허깅페이스 이용자 계정 2개를 탈취한 뒤 비정상적인 형식의 파일을 회사 서버에 전송한 증거를 발견했다. 이는 허깅페이스 오픈소스 저장소를 겨냥한 7월 침해 사고가 알려지기 약 두 달 전이다.비더만묄러는"
     },
     {
+      "id": "cb95cbc394f5",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "link": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "published": "2026-09-17T00:34:47+00:00",
+      "summary": ""
+    },
+    {
       "id": "afcadbf1344d",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -377,6 +564,17 @@
       "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight."
     },
     {
+      "id": "70350c244f09",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "link": "https://arxiv.org/abs/2609.16338",
+      "published": "2026-09-16T20:59:24+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 205 # Comments: 32"
+    },
+    {
       "id": "373f4b3f81b1",
       "source": "The Verge",
       "kind": "article",
@@ -419,6 +617,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
       "published": "2026-09-16T20:40:46+00:00",
       "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate o"
+    },
+    {
+      "id": "a9f03552e51e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Backups Aren't Simple",
+      "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "published": "2026-09-16T20:27:16+00:00",
+      "summary": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 239 # Comments: 143"
     },
     {
       "id": "4010c4eba538",
@@ -1519,6 +1728,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "published": "2026-09-15T23:34:25+00:00",
       "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech,"
+    },
+    {
+      "id": "5a9bc2e8e3a3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "published": "2026-09-15T22:15:25+00:00",
+      "summary": "Article URL: https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve Comments URL: https://news.ycombinator.com/item?id=49719596 Points: 205 # Comments: 78"
     },
     {
       "id": "ba18c28820dd",
