@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-17T15:00:36.923069+00:00",
-  "count": 13291,
+  "updated_at": "2026-09-17T18:55:59.816743+00:00",
+  "count": 13302,
   "items": [
+    {
+      "id": "116dc1e88e65",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI Slowdown Debate Crashed Salesforce's Party",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "published": "2026-09-17T18:42:25+00:00",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down."
+    },
+    {
+      "id": "55166ffe5a3a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "published": "2026-09-17T18:30:30+00:00",
+      "summary": "The company suspended service in the city in April after one of its robotaxis got swept away."
+    },
+    {
+      "id": "8727852749fe",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "published": "2026-09-17T17:26:25+00:00",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government."
+    },
+    {
+      "id": "1f4c7dc351a1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "published": "2026-09-17T17:15:59+00:00",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+    },
+    {
+      "id": "75d60d881cbc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "published": "2026-09-17T17:15:00+00:00",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases."
+    },
+    {
+      "id": "e9fef9d2a8bb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Save $30 or more on a refurbished Apple TV 4K",
+      "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+      "published": "2026-09-17T17:14:07+00:00",
+      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lowe"
+    },
+    {
+      "id": "96853c5d4ee1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+      "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "published": "2026-09-17T16:09:58+00:00",
+      "summary": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent."
+    },
+    {
+      "id": "929a1116b170",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your robotaxi might be a narc",
+      "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
+      "published": "2026-09-17T15:00:00+00:00",
+      "summary": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, according to the Los Angeles Ti"
+    },
     {
       "id": "b9c5d11766fa",
       "source": "TechCrunch",
@@ -45,6 +133,17 @@
       "link": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
       "published": "2026-09-17T14:00:00+00:00",
       "summary": "Lunacy, purveyor of fine VST plugins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available"
+    },
+    {
+      "id": "abb7c3adbd04",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+      "link": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "published": "2026-09-17T14:00:00+00:00",
+      "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments availabl"
     },
     {
       "id": "119501a64e1c",
@@ -399,6 +498,17 @@
       "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 237 # Comments: 106"
     },
     {
+      "id": "451d2ddb7802",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "One year of sponsored Servo development",
+      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "published": "2026-09-17T08:13:54+00:00",
+      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 305 # Comments: 127"
+    },
+    {
       "id": "c70048d08b00",
       "source": "AI타임스",
       "kind": "article",
@@ -408,6 +518,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215386",
       "published": "2026-09-17T08:04:49+00:00",
       "summary": "샘 알트먼 오픈AI CEO가 AI의 급격한 발전에 따른 사고 가능성을 인정하면서도 AI 업계가 안전 문제를 관리할 수 있다며 대중에게 업계 리더들을 신뢰해 달라고 강조했다.알트먼은 15일(현지시간) 미국 샌프란시스코에서 열린 세일즈포스의 연례 컨퍼런스 '드림포스 2026'에서 마크 베니오프 세일즈포스 CEO와의 대담 중 \"세상이 AI를 두려워하는 것은 당연하다\"고 말했다.그는 AI 모델의 능력이 빠르게 향상되면서 통제력을 잃거나 소수의 개발 기업에 과도한 권력이 집중될 가능성에 대한 우려가 커지고"
+    },
+    {
+      "id": "d04b4ea3d7bd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CCC invites all model citizens to 40C3",
+      "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "published": "2026-09-17T08:03:54+00:00",
+      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 261 # Comments: 113"
     },
     {
       "id": "175f60b20411",
