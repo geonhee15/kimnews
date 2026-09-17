@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-09-17T10:13:25.704731+00:00",
-  "count": 13267,
+  "updated_at": "2026-09-17T15:00:36.923069+00:00",
+  "count": 13291,
   "items": [
+    {
+      "id": "b9c5d11766fa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "published": "2026-09-17T14:06:14+00:00",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
+    },
+    {
+      "id": "6cd145e69145",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "published": "2026-09-17T14:00:00+00:00",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and re"
+    },
+    {
+      "id": "df86c2796f98",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI is feared globally as the destroyer of jobs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "published": "2026-09-17T14:00:00+00:00",
+      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic wa"
+    },
+    {
+      "id": "205534becbef",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+      "link": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "published": "2026-09-17T14:00:00+00:00",
+      "summary": "Lunacy, purveyor of fine VST plugins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available"
+    },
+    {
+      "id": "119501a64e1c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "published": "2026-09-17T13:46:16+00:00",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions."
+    },
+    {
+      "id": "1e13290f370d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "published": "2026-09-17T13:38:33+00:00",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+    },
+    {
+      "id": "7852fc5bf1c1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lucid Motors has a potential robotaxi partner for Europe",
+      "link": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+      "published": "2026-09-17T13:26:32+00:00",
+      "summary": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet."
+    },
+    {
+      "id": "a6c807817c8d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
+      "link": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
+      "published": "2026-09-17T13:00:00+00:00",
+      "summary": "Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which aims to give artists the tools to capitalize on that exposure. Artists added to any "
+    },
+    {
+      "id": "ef450776bb55",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Watch Series 12 Review: Finally, a Readiness Score (2026)",
+      "link": "https://www.wired.com/review/apple-watch-series-12/",
+      "published": "2026-09-17T12:01:00+00:00",
+      "summary": "After wearing it day and night for a week, I found that better health tracking, faster charging, and a simpler interface make Apple’s latest smartwatch noticeably easier to live with."
+    },
+    {
+      "id": "ad928bffa6cb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Apple Watch Series 12 is the start of a new wearable era",
+      "link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch",
+      "published": "2026-09-17T12:00:00+00:00",
+      "summary": "You wouldn't know that the Apple Watch Series 12 is a big deal just by looking at it. It has the same design, buttons, sizes, and sensor types as generations of Apple Watches before it. But under the hood, the Series 12 builds in major changes that lay the groundwork for big idea"
+    },
+    {
+      "id": "ec58b6ee5d8c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
+      "link": "https://www.wired.com/gallery/iphone-buying-guide/",
+      "published": "2026-09-17T12:00:00+00:00",
+      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model."
+    },
+    {
+      "id": "8bba38711a93",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside the suddenly explosive world of AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "published": "2026-09-17T11:30:00+00:00",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An"
+    },
+    {
+      "id": "4eac0709a1b5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "다시 반격을 시작한 딥시크 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/2pMB34RXAaQ",
+      "published": "2026-09-17T11:00:32+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c35e5cdbfcf8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "published": "2026-09-17T11:00:00+00:00",
+      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures."
+    },
+    {
+      "id": "d23498b7c3f7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'코스닥 상장 도전' 덕산넵코어스, 예상 시총 2756억원",
+      "link": "https://zdnet.co.kr/view/?no=20260917180420",
+      "published": "2026-09-17T10:22:14+00:00",
+      "summary": "[지디넷코리아]특수목적 항법·항재밍 솔루션 기업 덕산넵코어스가 일반투자자 청약에서 비례경쟁률 665.64대 1, 총 경쟁률 332.82대 1을 기록했다고 17일 밝혔다. 일반투자자 배정 물량 75만 주 모집에 청약 건수 13만 2911건, 총 2억 4961만 4780주가 신청됐다. 청약증거금은 1조 8221억원이다. 앞서 기관투자자 대상 수요예측에서는 총 2269개 기관이 참여해 868.64대 1 경쟁률을 기록했다. 참여수량 97.13%가 희망공모가 범위 상단 이상 가격을 제시했다. 최종공모가는 "
+    },
+    {
+      "id": "17cda40c2d06",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디로보틱스, 시리즈C 펀딩에서 4억 달러 조달... 로보틱스 분야의 다각화 붐 촉진",
+      "link": "https://zdnet.co.kr/view/?no=20260917191024",
+      "published": "2026-09-17T10:10:24+00:00",
+      "summary": "[지디넷코리아]홍콩, 2026년 9월 17일 /PRNewswire/ -- 로보틱스 개발 인프라 분야의 선도적인 공급업체 디로보틱스(D-Robotics)가 9월 16일, 4억 달러 규모의 시리즈C 투자 라운드 마감을 발표했다. 이번 라운드에는 세계적인 선도 인터넷 기업의 전략적 투자와 함께 최상위 투자기관들의 신디케이트가 참여했으며, 기존 주주들의 지속적인 후속 투자가 이어졌다. 본 펀딩은 전체 컴퓨팅 수준에 걸친 선라이즈™(Sunrise™) 칩 포트폴리오를 확대하고, 로봇 개발 체인을 아우르는 소"
+    },
+    {
+      "id": "f411ccf038c5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "양쯔강 문명 포럼, 충칭서 개막…약 20개국의 목소리가 한자리에",
+      "link": "https://zdnet.co.kr/view/?no=20260917191013",
+      "published": "2026-09-17T10:10:13+00:00",
+      "summary": "[지디넷코리아]충칭, 중국 2026년 9월 17일 /PRNewswire/ -- 아이충칭(iChongqing) 보도. 2026 양쯔강 문명 포럼(Yangtze River Civilization Forum)이 9월 15일 충칭에서 개막했다. 이번 포럼에는 이집트, 브라질, 인도, 영국, 미국, 독일, 호주, 멕시코 등 약 20개국의 학자와 정부 관계자, 외교 대표들이 모여 세계의 위대한 강 문명들이 서로에게서 무엇을 배울 수 있는지 모색한다. The 2026 Yangtze Civilization Fo"
+    },
+    {
+      "id": "50a6aa4143c8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "줌라이언의 풀스택 휴머노이드 로봇, 세계 휴머노이드 로봇 대회 출전",
+      "link": "https://zdnet.co.kr/view/?no=20260917191003",
+      "published": "2026-09-17T10:10:03+00:00",
+      "summary": "[지디넷코리아]베이징 2026년 9월 17일 /PRNewswire/ -- 줌라이언 중공업 과학기술(Zoomlion Heavy Industry Science & Technology Co., Ltd., 이하 '줌라이언')이 최근 베이징에서 열린 제2회 세계 휴머노이드 로봇 대회(World Humanoid Robot Games)에 자체 개발한 휴머노이드 로봇을 출전시켜 제자리높이뛰기, 100미터 달리기, 제자리멀리뛰기 종목에서 경쟁했다. 이번 대회는 고속 운동과 복잡한 제어 환경에서 보행 알고리즘, 관"
+    },
     {
       "id": "c1cab54b4a08",
       "source": "Wired",
@@ -23,6 +221,17 @@
       "link": "https://www.youtube.com/shorts/UXbGIQt0Jsk",
       "published": "2026-09-17T10:00:07+00:00",
       "summary": ""
+    },
+    {
+      "id": "213c5fb2cb37",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이청 삼성디스플레이 사장, 中추격에 \"LCD 뼈아픈 경험 되풀이 안돼\"",
+      "link": "https://zdnet.co.kr/view/?no=20260917184346",
+      "published": "2026-09-17T09:55:18+00:00",
+      "summary": "[지디넷코리아]\"액정표시장치(LCD)의 뼈아픈 경험을 되풀이할 수 없다. 산·학·연이 '원팀'이 돼 핵심 기술을 지키고, 차세대 경쟁력을 키워 승부를 다시 우리 쪽으로 가져와야 한다.\"이청 한국디스플레이산업협회 회장(삼성디스플레이 사장)은 17일 서울 롯데호텔 월드에서 열린 '디스플레이 날' 기념식 환영사에서 국내 디스플레이 산업 육성전략에 대해 이같이 말했다.이 사장은 \"돌이켜보면 지난 1년은 결코 쉽지 않은 시간이었다\"며 \"대외적으로 중동 정세 불안과 원자재·물가 상승, 인플레이션에 따른 시장"
     },
     {
       "id": "34466d5312f7",
@@ -67,6 +276,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215399",
       "published": "2026-09-17T09:00:00+00:00",
       "summary": "구글이 고난도 수학 연산과 심층 추론에 특화된 차세대 모델을 개발 중인 정황이 외부 유출을 통해 확인됐다. 16일(현지시간) AI 전문 매체 테스팅카탈로그에 따르면, 구글 내부에서 테스트 중인 미공개 모델 '딥씽크 V3 마세마티카(DeepThink V3 Mathematica)'의 백엔드 정보 및 사고 과정 스크린샷이 외부로 유출됐다.이 소식은 X의 AI 전문 계정인 라이라(lyraxana)의 게시물로 처음 공개됐다. 이 계정은 앞서 구글이 재귀적 자기개선에 도달했다고 암시하는 내용을 올려 주목을 "
+    },
+    {
+      "id": "164a3c9aa048",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포스코 58년·LS전선 37년 무분규 깨졌다…AI 호황에 노사갈등 확산",
+      "link": "https://zdnet.co.kr/view/?no=20260917174131",
+      "published": "2026-09-17T08:59:07+00:00",
+      "summary": "[지디넷코리아]포스코에 이어 LS전선에서도 수십 년간 이어진 무분규 기록이 깨졌다. 임금 인상뿐 아니라 호실적에 따른 성과 배분과 노조 활동 보장 등을 둘러싼 갈등이 커지면서, 그동안 파업과 거리가 멀었던 제조업 현장까지 노사 대립이 확산하는 모습이다.17일 업계에 따르면 LS전선 노동조합은 전날 구미·인동·동해사업장에서 약 1시간 동안 부분파업을 벌였다. 1989년 노조 설립 이후 37년 만의 첫 파업이다. 구미사업장에서는 조합원 수백명이 참석한 가운데 파업 출정식도 열렸다. 회사 측은 대체인력"
+    },
+    {
+      "id": "52797dcf2cf1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI부터 UHD·해킹 대응…과기정통부·방미통위 정책 공조 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260917175609",
+      "published": "2026-09-17T08:56:09+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부와 방송미디어통신위원회가 AI와 미디어 OTT, 디지털 규제 분야에서 정책 공조를 확대한다. 새로 출범할 한국방송미디어통신진흥원 설립부터 지상파 UHD 정책, 통신사 침해사고 이용자 보호까지 양 부처가 공동 대응하기로 했다.과기정통부와 방미통위는 17일 1차 실무협의회를 열고 지난 6월 차관급 정책협의회에서 합의한 협력과제의 진행 상황과 주요 현안을 논의했다.두 부처는 지난 정책협의회 이후 AI 분야에서 먼저 협업을 시작했다. 방미통위가 구축한 배경·인물·객체·자막 "
     },
     {
       "id": "a27faef03051",
@@ -124,6 +355,17 @@
       "summary": "대형언어모델(LLM)의 추론 능력과 강화학습, 과학 도구를 결합해 새로운 소재를 탐색하려는 시도가 이어지는 가운데, 피어리오딕 랩스(Periodic Labs)가 재료과학에 초점을 맞춘 AI 모델을 선보였다. 오픈AI 출신 리암 페더스가 설립한 피어리오딕 랩스는 15일(현지시간) 재료과학 연구에 특화된 AI 모델 ‘네온(Neon)’을 공개했다.이 회사는 AI 모델 자체뿐 아니라 장시간의 추론과 과학 도구 실행이 필요한 연구 환경에 맞춰 학습·추론 인프라까지 최적화해, 신소재 탐색 속도를 높이는 것을"
     },
     {
+      "id": "37de31d438b0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한 폰에서 업무망·인터넷 따로 쓴다…KT, 5G ‘앱 슬라이싱’ 준비",
+      "link": "https://zdnet.co.kr/view/?no=20260917173133",
+      "published": "2026-09-17T08:41:07+00:00",
+      "summary": "[지디넷코리아]업무용 스마트폰과 개인용 스마트폰을 두 대씩 들고 다니던 불편이 사라진다. 한 대의 스마트폰에서 회사 업무 앱은 보안이 적용된 기업 전용망으로, 유튜브나 포털 같은 개인 앱은 일반 인터넷망으로 자동 연결하는 기술을 KT가 상용화한다. 개인과 업무 데이터가 한 단말에서 오가지만 통신 경로는 서로 철저하게 분리하는 방식이다.핵심은 5G SA 기반 ‘앱 슬라이싱’이다. 기존 기업전용 5G의 폐쇄망 보안성을 유지하면서 일반 인터넷까지 한 단말에서 이용할 수 있도록 기업용 5G를 한 단계 확"
+    },
+    {
       "id": "b73060aa9391",
       "source": "AI타임스",
       "kind": "article",
@@ -144,6 +386,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215411",
       "published": "2026-09-17T08:19:54+00:00",
       "summary": "AI 에이전트의 성능을 높이기 위해 모델 자체를 재학습하거나 가중치를 수정하는 것이 아니라, 작업 수행 방식 자체를 최적화하는 것만으로도 복잡한 브라우저 작업의 성공률을 크게 끌어올릴 수 있다는 연구 결과가 나왔다. 세일즈포스는 이를 입증하기 위한 새로운 진화형 에이전트 최적화 프레임워크를 공개했다. 세일즈포스 AI 리서치와 에이전트포스(Agentforce)는 최근 AI 모델의 가중치를 직접 수정하지 않고도 에이전트의 브라우저 작업 성능을 크게 높일 수 있는 새로운 프레임워크 '다윈X(Darwin"
+    },
+    {
+      "id": "c8f2e9c83fbe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "One Year of Sponsored Servo Development",
+      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "published": "2026-09-17T08:13:54+00:00",
+      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 237 # Comments: 106"
     },
     {
       "id": "c70048d08b00",
@@ -1772,6 +2025,17 @@
       "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
       "published": "2026-09-15T21:07:47+00:00",
       "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 233 # Comments: 81"
+    },
+    {
+      "id": "8090b6db5060",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "link": "https://jakeasmith.com/blog/http-build-url/",
+      "published": "2026-09-15T20:53:36+00:00",
+      "summary": "Article URL: https://jakeasmith.com/blog/http-build-url/ Comments URL: https://news.ycombinator.com/item?id=49718773 Points: 226 # Comments: 60"
     },
     {
       "id": "fc1dd798e6cd",
