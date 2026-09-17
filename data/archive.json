@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-09-16T22:15:36.654022+00:00",
-  "count": 13214,
+  "updated_at": "2026-09-17T00:35:12.784287+00:00",
+  "count": 13222,
   "items": [
+    {
+      "id": "633927753877",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "published": "2026-09-17T00:26:43+00:00",
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "e4b037c6a7f5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published": "2026-09-16T23:43:09+00:00",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+    },
+    {
+      "id": "86e160a7c3b9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+      "link": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+      "published": "2026-09-16T23:42:55+00:00",
+      "summary": "The Nurovi line includes three lidar-powered robovacs. But to get the model I’m most intrigued by, you’ll need a Costco membership."
+    },
+    {
+      "id": "a32b54a9e44b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "published": "2026-09-16T23:40:00+00:00",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Spe"
+    },
+    {
+      "id": "922a92047705",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s What Snap’s Expensive Specs Can Actually Do",
+      "link": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
+      "published": "2026-09-16T23:40:00+00:00",
+      "summary": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing."
+    },
     {
       "id": "72e84a979084",
       "source": "Wired",
@@ -14,6 +69,17 @@
       "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked."
     },
     {
+      "id": "02c07ea9802a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "published": "2026-09-16T22:02:46+00:00",
+      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades."
+    },
+    {
       "id": "063687de1c62",
       "source": "AI타임스",
       "kind": "article",
@@ -23,6 +89,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215331",
       "published": "2026-09-16T22:00:00+00:00",
       "summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만"
+    },
+    {
+      "id": "f7b8393b103c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바르셀로나, 도심 및 적정가 주택 관련 새 국제회의 HOWS 바르셀로나 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260917061003",
+      "published": "2026-09-16T21:10:03+00:00",
+      "summary": "[지디넷코리아] 바르셀로나, 2026년 9월 17일 /PRNewswire/ -- 도시 및 적정가 주택을 주제로 한 새 국제회의 HOWS 바르셀로나 – 하우징 월드 서밋(HOWS Barcelona – Housing World Summit)이 스마트 시티 엑스포 월드 콩그레스(Smart City Expo World Congress)의 일환으로 11월 3일부터 5일까지 그란 비아 전시장에서 개최된다. 이번 서밋은 오늘날 도시가 직면한 과제 중에서도 특히 시급하다고 꼽히는 주택에 관한 국제적 논의를 주도"
     },
     {
       "id": "dcb3563ef0e2",
@@ -342,6 +419,17 @@
       "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
       "published": "2026-09-16T13:23:02+00:00",
       "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+    },
+    {
+      "id": "50e4a1c6fa60",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hackers Got Inside a Flock Camera",
+      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "published": "2026-09-16T13:18:47+00:00",
+      "summary": "https://micahflee.com/flock-cameras-are-riddled-with-securit... Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 455 # Comments: 210"
     },
     {
       "id": "b0897f20ccb5",
