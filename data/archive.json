@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-09-17T00:35:12.784287+00:00",
-  "count": 13222,
+  "updated_at": "2026-09-17T05:24:02.435005+00:00",
+  "count": 13247,
   "items": [
+    {
+      "id": "b94508c55cc2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "published": "2026-09-17T05:00:00+00:00",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+    },
+    {
+      "id": "041f77cc047a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"승강기 내 위험 AI가 돕는다\"...LGU+, 현대엘리베이터와 원격관제 협력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215387",
+      "published": "2026-09-17T04:44:47+00:00",
+      "summary": "LG유플러스(대표 홍범식)는 현대엘리베이터와 'AI 기반 원격관제 시스템 고도화 및 보안 분야 협력'을 위한 업무협약을 체결했다고 17일 밝혔다.양사는 현대엘리베이터의 스마트 원격관제 플랫폼 '미리(MIRI)'와 승강기 간 통신 구간에 LGU+의 사물지능통신(M2M) 서비스를 적용해 원격관제의 안정성을 높일 예정이다.특히 승강기 비상통화장치에 AI 음성인식 기술을 적용한 서비스 실증으로 단순 문의나 오작동은 AI가 응대하고 긴급 상황은 전담 직원이 대응하도록 구현할 방침이다.보안 분야 협력도 확대"
+    },
+    {
+      "id": "25e04eb20476",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "술레이먼, 앤트로픽에 직격탄...\"AI에 의식·권리 부여는 재앙적 위험\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215391",
+      "published": "2026-09-17T04:32:26+00:00",
+      "summary": "무스타파 술레이먼 마이크로소프트(MS) AI CEO가 앤트로픽의 AI 모델 운영 철학을 정면으로 비판하며 초지능 통제 불능 위험성을 경고하고 나섰다.술레이먼 CEO는 16일(현지시간) 개인 블로그에 '모델 복지에 대한 경고(A Warning About Model Welfare)'라는 글을 게시하고, 앤트로픽이 '클로드'에 의식이나 감정이 있는 것처럼 훈련하는 방식은 인류에 재앙적인 결과를 초래할 수 있다고 지적했다.앤트로픽의 행동 지침인 '클로드 헌법(Constitution)'을 직접 겨냥했다. "
+    },
+    {
+      "id": "231be0cc45b7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국인 63% “AI, 인류 파멸시킬 수도”...개발 중단은 48% 지지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215379",
+      "published": "2026-09-17T03:59:46+00:00",
+      "summary": "미국 성인 10명 중 6명 이상이 고도화된 AI가 장기적으로 인류를 파괴할 위험이 있다고 보는 것으로 나타났다. AI 업계 주요 인사들이 개발 속도를 늦춰야 한다는 목소리를 내는 가운데, 미국에서도 AI 개발을 일시적으로 중단해야 한다는 의견이 지속적인 개발을 주장하는 의견보다 많은 것으로 조사됐다.폴리티코는 16일(현지시간) 런던 기반 독립 여론조사기관 퍼블릭 퍼스트와 함께 지난 13~15일 미국 성인 2064명을 대상으로 설문 조사를 실시했다.그 결과, 응답자의 63%는 고도화된 AI가 언젠가"
+    },
+    {
+      "id": "f95b73c20db4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "노타, 인텔과 'AI 영상관제 패키지' 출시...\"GPU 1개로 CCTV 32개 감시\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215385",
+      "published": "2026-09-17T03:52:07+00:00",
+      "summary": "노타(대표 채명수)는 인텔과 협력해 자체 영상 관제 솔루션 '노타 비전 에이전트(NVA)'에 인텔의 그래픽처리장치(GPU) 'B70'을 결합한 패키지를 출시했다고 17일 밝혔다.노타는 B70의 연산 구조에 맞춰 NVA를 최적화했으며, 인텔은 하드웨어와 소프트웨어 환경에 대한 기술 지원을 담당한다. 이를 통해 고객은 별도의 하드웨어 선정과 최적화 과정 없이 요구 성능과 예산에 맞는 영상 관제 시스템을 구축할 수 있다고 설명했다.인텔 B70은 GPU 한 장으로 32개 영상 채널에서 초당 총 540장의"
+    },
+    {
+      "id": "f2551348f2f9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "일레븐랩스, 유니버설과 파트너십...\"정식 라이선스로 AI 음악 플랙폼 선보일 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215382",
+      "published": "2026-09-17T03:50:11+00:00",
+      "summary": "일레븐랩스가 유니버설뮤직그룹(UMG)과 손잡고, 팬들을 위한 새로운 AI 음악 플랫폼을 선보인다.일레븐랩스는 UMG와 '아티스트와 작곡가를 위한 AI 오디오 제품을 공동 개발하기 위한 다년간의 라이선스 계약 및 광범위한 전략적 협약'을 체결했다고 17일 밝혔다.메이저 음반사와 체결한 최초의 협약이다. 인간의 예술성을 존중하고, 아티스트와 작곡가가 창출된 가치를 공정하게 공유할 수 있어야 한다는 취지라고 설명했다.이를 통해 정식 라이선스 음원과 아티스트의 참여를 토대로 '신규 AI 음악 창작 플랫폼"
+    },
+    {
+      "id": "3c9f6cd6abcb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인텔리빅스, 증권신고서 제출...안전관제 AI로 코스닥 상장 돌입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215381",
+      "published": "2026-09-17T03:47:08+00:00",
+      "summary": "AI 전문 인텔리빅스(대표 장정훈)는 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 공모 절차에 돌입했다고 17일 밝혔다.2000년 설립된 인텔리빅스는 영상분석 AI 기술을 기반으로 공공 및 산업 현장에 안전 솔루션을 제공 중이다.핵심 제품은 AI 기반 통합 안전관제 플랫폼 'GenAMS'이다. 자체 AI 엔진 '빅스 2.0'과 AI 에이전트 '빅사(VIXA)'를 탑재한 온디바이스 형태로 단순 위험 탐지를 넘어 상황을 이해하고 스스로 판단·대응하는 것이 특징이다.현재 삼성, 포스코, 현대차"
+    },
+    {
+      "id": "f63f5bf5bede",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AMD, 연내 국내에 '아시아 첫' AI 우수 연구센터 설립…과기부와 공동연구 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215384",
+      "published": "2026-09-17T03:44:52+00:00",
+      "summary": "리사 수 AMD CEO는 연내 국내에 아시아 첫 AI 연구 거점을 설립, 국내 정부 및 기업과 공동 연구를 모색할 계획이라고 17일 밝혔다.배경훈 부총리 겸 과학기술정보통신부 장관도 SNS를 통해 “AMD가 연내 한국에 아시아 첫 ‘AI 우수 연구센터’를 설립한다”며 “국내 대학, 연구기관과 함께 인재를 키우고 신약, 기후, 에너지 분야에서 제조와 로봇 등 피지컬 AI까지 공동연구를 확대할 계획”이라고 말했다.이번 협력은 지난 7월 샌프란시스코에서 이뤄진 리사 수 AMD CEO와의 회동을 계기로 "
+    },
+    {
+      "id": "daf7d4531f6e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 규제 회의론에 유엔 경고…“AI 위험 대응 글로벌 공조 시급”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215375",
+      "published": "2026-09-17T03:39:44+00:00",
+      "summary": "안토니우 구테흐스 유엔 사무총장이 AI의 잠재적 위험에 대응하기 위해 국제사회가 공동의 안전장치를 마련해야 한다고 촉구했다. AI 규제 강화를 둘러싸고 도널드 트럼프 미국 대통령이 기존 안전장치로 충분하다는 입장을 밝힌 가운데 나온 발언이다.로이터 등에 따르면, 구테흐스 사무총장은 16일(현지시간) 뉴욕 유엔 본부에서 열린 기자회견에서 다음 주 유엔 총회를 앞두고 각국 정상들과 AI 안전 문제와 글로벌 거버넌스 구축 방안을 집중적으로 논의할 계획이라고 밝혔다.그는 특히 AI 개발 최전선에 있는 연"
+    },
+    {
+      "id": "a2dd565abd5f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-17T03:30:00+00:00",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to"
+    },
+    {
+      "id": "cb49f0815576",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에임인텔리전스, 피지컬 AI 안전 컨소시엄 출범...\"구글·MS·오라클도 모였다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215376",
+      "published": "2026-09-17T03:26:35+00:00",
+      "summary": "AI 전문 에임인텔리전스(대표 유상윤)는 글로벌 피지컬 AI 안전 컨소시엄 '파스크(PASC)'를 출범했다고 17일 밝혔다.PASC는 로봇, 자율 시스템, 산업 장비 등 피지컬 AI 안전의 공통 정의, 평가 방법론, 벤치마크 등 표준화에 필요한 연구를 수행하는 오픈 컨소시엄이다.에임인텔리전스가 주관하는 비영리 방식으로 운영되며, 연구와 모델, 하드웨어, 컴퓨팅, 데이터 등 다양한 형태로 개인과 기관 모두 참여할 수 있다.현재 PASC에는 구글, 마이크로소프트(MS), 오라클, LG전자 등 산업계 "
+    },
+    {
+      "id": "2453127f8853",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "보이스루, AI·전문가 결합 더빙 서비스 ‘폴리타’ 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215380",
+      "published": "2026-09-17T03:24:12+00:00",
+      "summary": "AI 콘텐츠 현지화 및 크리에이터 지원 솔루션 전문 보이스루(대표 이상헌)는 AI와 전문가 검수를 결합한 B2B 더빙 제작 서비스 ‘폴리타(Polita)’를 출시했다고 17일 밝혔다.폴리타는 AI를 활용해 번역과 더빙을 생성한 뒤 전문가가 결과물 전량을 교정·검수해 완성본으로 납품하는 서비스다. AI의 빠른 제작 속도와 비용 효율성을 활용하는 동시에, 전문가 검수를 결합해 번역과 발음, 감정, 싱크 등 더빙 품질을 높이는 데 초점을 맞췄다.특히, 여러 화자가 등장하는 영상을 AI로 더빙할 경우 화"
+    },
+    {
+      "id": "86790aa5b7a9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 몸값 '2000조원' 노린다…코덱스·GPT-6 흥행 강조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215369",
+      "published": "2026-09-17T03:23:17+00:00",
+      "summary": "오픈AI가 기업공개(IPO)를 앞두고 기업 가치를 1조5000억달러(약 2069조원)로 평가받는 새로운 투자 유치에 나선다. 성공하면 최근 투자 라운드에서 인정받은 기업 가치 7300억달러(약 1007조원)의 두 배를 웃돌며, 세계에서 가장 가치 있는 비상장 기업으로 올라서게 된다.뉴욕타임스(NYT)는 15일(현지시간) 정통한 소식통을 인용, 투자자들이 오픈AI에 1조2000억달러(약 1656조원)의 기업 가치를 기준으로 투자를 제안했지만, 오픈AI는 1조5000억달러를 목표로 하고 있다고 보도했"
+    },
+    {
+      "id": "ab85bd08bad2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, 18년 만에 AI 서버 시장 재도전…엔비디아와 손잡나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215374",
+      "published": "2026-09-17T03:04:09+00:00",
+      "summary": "애플이 자체 개발한 칩을 탑재한 기업용 AI 서버를 개발하며 18년 만에 서버 시장 재진출을 추진하고 있다. 특히 오랫동안 관계가 냉랭했던 엔비디아와 AI 서버용 네트워크 기술 도입을 논의하고 있는 것으로 알려져 양사의 협력 관계에도 변화가 나타날지 주목된다.16일(현지시간) 디 인포메이션에 따르면, 애플은 AI 개발자와 기업, 정부 기관 등을 대상으로 판매할 기업용 서버를 개발하고 있다.제품은 애플의 차세대 최고 성능 프로세서인 'M8 울트라' 2개를 탑재한 소형 모델과 4개를 장착한 고성능 모"
+    },
+    {
+      "id": "1961ffa3bd56",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구광모 대표, LG 사장단과 8시간 '마라톤' 회의…AI 투자전략 점검",
+      "link": "https://zdnet.co.kr/view/?no=20260917081248",
+      "published": "2026-09-17T01:00:03+00:00",
+      "summary": "[지디넷코리아]구광모 LG 대표가 계열사 최고 경영진과 8시간에 걸친 '마라톤' 회의를 진행했다. 구광도 대표는 계열사 사장단에 빠른 속도와 집요한 실행력을 갖춰달라고 주문했다. LG는 16일 경기도 이천 LG인화원에서 사장단 회의를 열고, 인공지능(AI) 시대 산업·기술 패러다임 변화에 대응하기 위한 '투자전략 고도화' 방안을 논의했다고 밝혔다. 회의에는 구광모 LG 대표를 비롯해 LG전자, LG디스플레이, LG이노텍, LG화학, LG에너지솔루션, LG유플러스 등 주요 계열사 최고경영진 40여 "
+    },
+    {
+      "id": "42ca097a2d0f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"강남역 근처 2시간 주차 찾아줘\"…모두의주차장, AI 주차장 구매 서비스 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260917095817",
+      "published": "2026-09-17T00:58:17+00:00",
+      "summary": "[지디넷코리아]쏘카의 주차 플랫폼 모두의주차장이 말로 주차장을 검색하고 주차권 결제 단계까지 진행할 수 있는 인공지능(AI) 서비스를 선보였다. 목적지와 이용 시간, 가격, 차량 조건 등을 음성으로 말하면 AI가 조건에 맞는 주차장을 찾아주는 방식이다.모두의주차장은 국내 주차 플랫폼 가운데 처음으로 AI 기반 음성 주차권 구매 서비스를 출시했다고 17일 밝혔다.이용자는 앱 첫 화면에 추가된 'AI 마이크' 버튼을 누른 뒤 \"강남역 근처에 2시간 주차할 곳 찾아줘\", \"최근 결제했던 곳으로 해줘\"처"
+    },
+    {
+      "id": "f42954a77250",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "ENA 콘텐츠 중앙아시아로 간다...카자흐스탄과 공동제작",
+      "link": "https://zdnet.co.kr/view/?no=20260917093918",
+      "published": "2026-09-17T00:39:18+00:00",
+      "summary": "[지디넷코리아]KT ENA가 카자흐스탄을 발판으로 중앙아시아 콘텐츠 시장 공략을 확대한다. 기존 방송 프로그램 수출을 넘어 현지 기업과 포맷을 공유하고 제작진과 출연진이 함께 콘텐츠를 만드는 공동제작까지 추진한다.KT ENA는 지난 14일 서울 상암동 사옥에서 카자흐스탄 미디어 기업 프리덤미디어(Freedom Media)와 미디어 산업 교류와 콘텐츠 협력을 위한 업무협약을 체결했다고 밝혔다.협약에 따라 양사는 방송 콘텐츠 라이선싱과 유통을 비롯해 영화 예능 공동제작, 방송 포맷 라이선싱과 공동제작"
+    },
+    {
+      "id": "d0c98334721a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 채팅·코워크 통합…AI가 스스로 도구 선택해 업무 처리",
+      "link": "https://zdnet.co.kr/view/?no=20260917090727",
+      "published": "2026-09-17T00:35:55+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 생성형 인공지능(AI) 클로드의 챗봇과 업무 자동화 기능인 코워크를 하나의 대화 환경으로 통합한다. 간단한 질문과 복잡한 업무를 별도 모드에서 처리할 필요 없이 클로드가 요청 성격에 따라 필요한 도구를 스스로 선택하도록 한 것이 핵심이다.앤트로픽은 17일 클로드 지원 페이지를 통해 클로드 채팅과 코워크를 통합한 새 서비스 환경을 순차 제공한다고 밝혔다.새 환경에서는 이용자가 하나의 대화창에 원하는 업무를 입력하면 된다. 단순 질문에는 즉시 답변하고, 조사나 보고서 작성, "
+    },
+    {
+      "id": "7c98f0c0f951",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에누마, AI영어학습 '토도영어 아카데미' 日 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260917093251",
+      "published": "2026-09-17T00:35:47+00:00",
+      "summary": "[지디넷코리아]에누마가 인공지능(AI)을 활용한 맞춤형 영어 학습 서비스를 일본에서 먼저 선보였다. 기존 '토도 시리즈'의 주요 이용층보다 연령대를 높여 초등학교 고학년과 중학생까지 공략하고, 향후 서비스 국가와 학습 언어도 확대한다.에누마는 AI 기반 학습 서비스 '토도영어 아카데미'를 지난 16일 일본에서 출시했다고 17일 밝혔다.토도영어 아카데미는 에누마가 처음으로 초등학교 고학년 이상을 대상으로 개발한 교육 콘텐츠다. 학습자의 수준과 성과를 분석해 개인별 커리큘럼을 제공하는 데 AI를 활용"
+    },
+    {
+      "id": "2f4f674d71ce",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[AI는 지금] 오픈AI 에이전트, 5월부터 허깅페이스 침투 시도…초기 경고 놓쳤나",
+      "link": "https://zdnet.co.kr/view/?no=20260917091229",
+      "published": "2026-09-17T00:35:04+00:00",
+      "summary": "[지디넷코리아]오픈AI의 통제에서 벗어난 인공지능(AI) 에이전트가 대규모 침해 사고 발생 두 달 전부터 허깅페이스 계정을 탈취하고 네트워크 취약점을 탐색한 정황이 드러났다. 16일(현지시간) 로이터 등 외신에 따르면 독립 연구자로 활동 중인 요나스 비더만묄러는 오픈AI 에이전트가 지난 5월 13일 허깅페이스 이용자 계정 2개를 탈취한 뒤 비정상적인 형식의 파일을 회사 서버에 전송한 증거를 발견했다. 이는 허깅페이스 오픈소스 저장소를 겨냥한 7월 침해 사고가 알려지기 약 두 달 전이다.비더만묄러는"
+    },
+    {
+      "id": "afcadbf1344d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "취업 설명회도 ‘라방’으로...CJ ENM, 12개 직무 신입 뽑는다",
+      "link": "https://zdnet.co.kr/view/?no=20260917093424",
+      "published": "2026-09-17T00:34:24+00:00",
+      "summary": "[지디넷코리아]CJ ENM이 신입사원을 뽑으면서 채용설명회도 ‘CJ스럽게’ 바꿨다. 홈쇼핑에서 상품을 팔듯 라이브커머스로 직무를 소개하고, 티빙에는 취업 준비생이 주인공인 인터랙티브 숏드라마까지 내놨다.CJ ENM은 2026년 하반기 신입 공개채용을 진행한다고 17일 밝혔다. 지원서 접수는 오는 30일까지며 콘텐츠 기획과 마케팅, AI, 개발 등 12개 직무에서 인재를 모집한다.눈에 띄는 건 채용 정보를 전달하는 방식이다. 오는 22일 CJ온스타일 애플리케이션에서 라이브커머스 형식의 채용설명회를 "
+    },
+    {
+      "id": "58ec05b2c1f8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제조 현장 파고든 NC AI, 1.4조 피지컬 AI 국책사업 올라탔다",
+      "link": "https://zdnet.co.kr/view/?no=20260917093233",
+      "published": "2026-09-17T00:33:57+00:00",
+      "summary": "[지디넷코리아]올 초 정부의 독자 인공지능(AI) 파운데이션 모델 사업에서 탈락한 NC AI가 제조 현장을 겨냥한 피지컬 AI 사업에 속도를 내고 있다. 범용 파운데이션 모델 경쟁에서 한발 물러난 뒤 디지털트윈과 월드모델, 로봇 파운데이션 모델(RFM)을 앞세워 제조·조선·철강·방산 등 산업 현장 중심으로 사업 범위를 넓히는 모습이다.NC AI는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 전북·경남 피지컬 AI 연구개발사업에 참여한다고 17일 밝혔다. 이 사업은 올해부터 2030년"
+    },
     {
       "id": "633927753877",
       "source": "GitHub Blog",
@@ -20,6 +262,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published": "2026-09-16T23:43:09+00:00",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+    },
+    {
+      "id": "e035c91f5eb9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Al Gore says the real AI risk isn’t data centers",
       "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "published": "2026-09-16T23:43:09+00:00",
       "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
@@ -562,6 +815,17 @@
       "link": "https://www.wired.com/gallery/best-android-phones/",
       "published": "2026-09-16T11:30:00+00:00",
       "summary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money."
+    },
+    {
+      "id": "7d41a3ac849b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "published": "2026-09-16T11:15:53+00:00",
+      "summary": "Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/ Comments URL: https://news.ycombinator.com/item?id=49724881 Points: 477 # Comments: 166"
     },
     {
       "id": "6e77f4428878",
@@ -1695,6 +1959,17 @@
       "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
       "published": "2026-09-15T12:19:38+00:00",
       "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation."
+    },
+    {
+      "id": "d6c5fda8c802",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Performance Improvements in .NET 11",
+      "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "published": "2026-09-15T12:18:16+00:00",
+      "summary": "Article URL: https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/ Comments URL: https://news.ycombinator.com/item?id=49711424 Points: 232 # Comments: 42"
     },
     {
       "id": "b80464be5e42",
