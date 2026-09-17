@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-17T21:52:47.220301+00:00",
-  "count": 13314,
+  "updated_at": "2026-09-17T23:51:37.394168+00:00",
+  "count": 13332,
   "items": [
+    {
+      "id": "179abe2ce001",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published": "2026-09-17T23:25:52+00:00",
+      "summary": "The round values the data center giant at $30.9 billion."
+    },
+    {
+      "id": "91af8f857c03",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published": "2026-09-17T23:21:17+00:00",
+      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public"
+    },
+    {
+      "id": "120569aadbb6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에임인텔리전스, 피지컬AI 안전 연구 글로벌 컨소시엄 ‘PASC’ 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260918081204",
+      "published": "2026-09-17T23:12:04+00:00",
+      "summary": "[지디넷코리아]보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)는 로봇과 자율 시스템 등 피지컬 AI 전반의 안전 문제를 연구하기 위한 글로벌 컨소시엄 ‘PASC(Physical AI Safety Consortium, 파스크로 발음)’를 출범했다고 밝혔다.피지컬 AI는 언어 모델의 답변을 넘어 로봇, 자율 시스템, 산업 장비 등 실제 환경에서 판단하고 행동한다. 이에 따라 안전은 단순히 유해한 출력을 차단하는 문제를 넘어, 실제 행동이 초래할 수 있는 위험을 사전에 식별하"
+    },
+    {
+      "id": "95620c135e01",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "published": "2026-09-17T23:08:24+00:00",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
+    },
+    {
+      "id": "5a8c16744d13",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "published": "2026-09-17T22:34:09+00:00",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be."
+    },
+    {
+      "id": "56b4f8bbc76b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "published": "2026-09-17T22:20:21+00:00",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI."
+    },
+    {
+      "id": "11a6fbabc0b9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "published": "2026-09-17T22:14:59+00:00",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
+    },
+    {
+      "id": "72c8a192798c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월17일] 초지능 경고에서 에이전트 통제까지...'p(doom)'이 다시 주목받는 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215372",
+      "published": "2026-09-17T22:00:00+00:00",
+      "summary": "‘AI 종말론’이 다시 부각되면서 ‘p(doom)’이라는 표현도 주목받고 있습니다. AI의 대부로 불리는 제프리 힌튼 교수는 최근 인터뷰에서 “앞으로 10년 안에 AI가 인류를 멸종시킬 확률이 10%라는 추정은 비합리적이지 않다”​고 말했습니다. 다만 정확한 확률을 어떻게 계산해야 하는지는 아무도 모른다는 단서도 붙였습니다.p(doom)의 p는 확률을 뜻하는 ‘probability’의 첫 글자로, ‘Probability of Doom’, 즉 AI로 인해 인류가 멸종하거나 이에 준하는 파멸적 결과가"
+    },
+    {
+      "id": "dfd46a940317",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"100억마리보다 어떤 균주냐 중요\"…용인 hy 중앙연구소 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20260917164940",
+      "published": "2026-09-17T21:00:04+00:00",
+      "summary": "[지디넷코리아]“과거에는 유산균을 100억마리, 1000억마리 넣었다는 식으로 균수를 강조했다면 최근에는 이를 넘어선 확장된 기능성에 대한 요구가 커지고 있습니다”지난 17일 경기 용인시 hy 중앙연구소에서 만난 최일동 신성장팀장은 프로바이오틱스 시장의 변화를 이같이 설명했다.중앙연구소 실험실에는 투명한 관으로 연결된 여섯 개의 유리 용기가 놓여 있었다. 용기 안에는 탁한 갈색 액체가 쉴 새 없이 움직였다. 실제 사람의 분변을 활용해 장내 환경을 외부에 구현한 ‘대장모사시스템’이다. 온도는 체온과"
+    },
+    {
+      "id": "68bd4539fb7c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "published": "2026-09-17T20:36:13+00:00",
+      "summary": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 218 # Comments: 118"
+    },
     {
       "id": "07775eff571f",
       "source": "TechCrunch",
@@ -190,6 +300,39 @@
       "summary": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 345 # Comments: 111"
     },
     {
+      "id": "a0cef3806495",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "새로운 동료평가 시험, 혁신 기술로 ESR의 4시간 한계 극복 입증",
+      "link": "https://zdnet.co.kr/view/?no=20260918011024",
+      "published": "2026-09-17T16:10:24+00:00",
+      "summary": "[지디넷코리아] 알코르 사이언티픽(ALCOR Scientific)의 iSED® 분석기, 의학에서 가장 널리 사용되는 검사 중 하나의 실험실 물류 관리를 혁신하고 환자 치료 개선 7배 길어진 검체 안정성, 독립적 검증 완료. 알코르 사이언티픽의 iSED 분석기로 검사한 ESR 검체는 실온에서 최대 28시간, 냉장 상태에서 48시간까지 정확성을 유지해 기존 웨스터그렌(Westergren) 검사의 4시간 제한을 크게 뛰어넘었다. 현대 실험실 물류 관리의 획기적 진전. 연장된 검체 안정성은 분산된 채혈 "
+    },
+    {
+      "id": "615c03e585bb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로제로, 캐나다 및 독일로부터 최대 3억 달러 규모의 공동 자금 지원 약정 확보",
+      "link": "https://zdnet.co.kr/view/?no=20260918011013",
+      "published": "2026-09-17T16:10:13+00:00",
+      "summary": "[지디넷코리아] 몬트리올, 2026년 9월 17일 /PRNewswire/ -- 캐나다와 독일이 오늘 올인(ALL IN)에서 로제로(LawZero)가 근본적으로 새로운 형태의 안전하고 고도화된 첨단 인공지능(AI)을 개발할 수 있도록 최대 3억 캐나다달러의 자금을 지원한다고 발표했다. 최근 AI 시스템이 안전 경계를 넘어선 사례처럼 AI의 급속한 발전은 중대한 위험을 수반한다. AI 시스템이 도입될 수 있을 만큼 충분히 신뢰 가능하고, 주권적 가치를 수호하며, 인간의 기쁨과 노력을 보호하는 방식으로"
+    },
+    {
+      "id": "0edd0d64df1d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이 최신 보고서, 지능형 세계 2035를 향한 10대 핵심 방향 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260918011003",
+      "published": "2026-09-17T16:10:03+00:00",
+      "summary": "[지디넷코리아]선전, 중국 2026년 9월 17일 /PRNewswire/ -- 화웨이(Huawei)가 '오늘 행동하고, 내일을 만들다(Act Today. Shape Tomorrow.)'를 주제로 지능형 세계 보고서 시리즈 온라인 발표 행사를 9월 16일 개최했다. 화웨이는 이 행사에서 지능형 세계 2035: 비전을 행동으로(Intelligent World 2035: Turning Vision into Action)와 글로벌 디지털화 및 지능화 지수 2026(Global Digitalization "
+    },
+    {
       "id": "96853c5d4ee1",
       "source": "TechCrunch",
       "kind": "article",
@@ -210,6 +353,28 @@
       "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
       "published": "2026-09-17T15:00:00+00:00",
       "summary": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, according to the Los Angeles Ti"
+    },
+    {
+      "id": "5e11349dde5f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "지란지교시큐리티, 양자전환 사업 본격화…’Q-브릿지’ 출범",
+      "link": "https://zdnet.co.kr/view/?no=20260917231928",
+      "published": "2026-09-17T14:19:28+00:00",
+      "summary": "[지디넷코리아]지란지교시큐리티(대표 조원희)가 양자전환 사업을 본격화한다. 이를 위한 실행 프로젝트 '큐브릿지(Project Q-BRIDGE)'를 출범시켰다. 또 양자전환에 필요한 각 기술 영역의 전문역량을 하나의 전환 체계로 연결하기 위해 ‘K-양자전환 기술 및 사업협의체’를 구성했다. 협의체에는 KAIST, ICTK, 한빛에스아이, 빅오, 유니키와 지란지교시큐리티가 참여한다. 지란지교시큐리티가 사업 총괄 컨트롤타워를 맡는다.17일 회사에 따르면, 지란지교시큐리티는 메일•문서•모바일 등 기업의 "
+    },
+    {
+      "id": "db62727fbc20",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KIST, 2030년 세계 첫 5천 QPU급 RPU 개발",
+      "link": "https://zdnet.co.kr/view/?no=20260917162009",
+      "published": "2026-09-17T14:17:01+00:00",
+      "summary": "[지디넷코리아]한국과학기술연구원(KIST)이 삼성전자, 가온칩스 등과 COMS(상보형 금속 산화물 반도체) 기반 RPU(랜덤처리장치) 칩 설계를 완료했다. 오는 2030년까지 현대, 네이버, 쿠팡 등이 참여해 세계 최초 랜덤연산 프로세서를 구현하는 것이 목표다.장준연 KIST 부원장은 17일 열린 'KIST 임무중심연구소 대국민보고대회'에서 7개 임무중심연구소의 추진체계, 주요성과, 파급효과를 공개하며 이 같은 차세대반도체연구소 성과와 목표를 소개했다.차세대반도체연구소는 현재 RPU칩을 설계하고,"
     },
     {
       "id": "b9c5d11766fa",
@@ -267,6 +432,17 @@
       "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments availabl"
     },
     {
+      "id": "64a288e8d209",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스패로우, ‘GISEC 2026’ 참가…중동 SW 공급망 보안시장 공략",
+      "link": "https://zdnet.co.kr/view/?no=20260917225705",
+      "published": "2026-09-17T13:57:05+00:00",
+      "summary": "[지디넷코리아]애플리케이션 보안 전문기업 스패로우(대표 장일수)는 아랍에미리트 두바이에서 16일 개최한 'GISEC 2026(이하, 자이섹)'에 참가해 코드부터 SBOM까지 아우르는 SW(소프트웨어) 공급망 보안 강화 방안을 선보였다. 이번 행사를 발판으로 스패로우는 지난해부터 이어온 중동 보안 시장 공략에 속도를 낸다.'자이섹'은 중동·북아프리카 최대 사이버보안 전시회다. 두바이 엑스포 시티에 위치한 DEC(Dubai Exhibition Centre)에서 18일까지 열린다. 스패로우는 현지 파트"
+    },
+    {
       "id": "119501a64e1c",
       "source": "TechCrunch",
       "kind": "article",
@@ -278,6 +454,17 @@
       "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions."
     },
     {
+      "id": "207bacc97f32",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "식스도파민, ‘Low Slow No’ 음주 캠페인서 AI·VR 콘텐츠 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20260917224416",
+      "published": "2026-09-17T13:44:16+00:00",
+      "summary": "[지디넷코리아]AI 기반 이머시브 콘텐츠 기업 식스도파민(대표 박억)은 하이네켄코리아 및 경기북부경찰청과 함께 진행한 ‘Low Slow No’ 책임 음주 캠페인에 참여, AI와 VR을 결합한 이머시브 콘텐츠를 선보였다고 17일 밝혔다. ‘Low Slow No’는 가볍게 즐기고(Low), 천천히 마시며(Slow), 때로는 마시지 않는 선택(No)을 권하는 하이네켄 글로벌의 책임 음주 캠페인이다. 캠페인은 지난 9월 11일부터 13일까지 김포 현대프리미엄아울렛에서 진행됐다.식스도파민은 이번 캠페인에서"
+    },
+    {
       "id": "1e13290f370d",
       "source": "TechCrunch",
       "kind": "article",
@@ -287,6 +474,17 @@
       "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "published": "2026-09-17T13:38:33+00:00",
       "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
+    },
+    {
+      "id": "6e088baf2a92",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "태국 교통부 차관, 마음AI 방문…피지컬AI·AICC 기술 살펴",
+      "link": "https://zdnet.co.kr/view/?no=20260917222921",
+      "published": "2026-09-17T13:29:21+00:00",
+      "summary": "[지디넷코리아]시리퐁 앙까사꾼끼앗(Siripong Angkasakulkiat) 태국 교통부 차관 일행이 17일 경기도 성남시 판교에 위치한 마음AI(대표 유태준) 본사를 방문, 이 회사의 피지컬AI와 AICC(AI Contact Center) 기술을 참관했다.시리퐁 차관은 방한 기간 중 한국의 교통·인프라 및 첨단 기술 현장을 둘러본다. 시 차관과 함께 태국 교통부와 도시철도공사(MRTA) 등 태국 정부·공공기관 관계자들이 방한했다.시 차관의 이번 마음AI 방문에서 회사는 AI가 디지털 환경을 넘"
     },
     {
       "id": "7852fc5bf1c1",
