@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-09-18T12:37:12.847354+00:00",
-  "count": 13403,
+  "updated_at": "2026-09-18T16:43:20.095887+00:00",
+  "count": 13427,
   "items": [
+    {
+      "id": "b9ec57e90bca",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "published": "2026-09-18T16:35:49+00:00",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
+    },
+    {
+      "id": "83f634441dc4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "published": "2026-09-18T16:35:19+00:00",
+      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as we"
+    },
+    {
+      "id": "0dfaf81f0465",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Family offices are clamoring for AI investments",
+      "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "published": "2026-09-18T16:00:00+00:00",
+      "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though."
+    },
+    {
+      "id": "072271ddc8fb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang",
+      "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published": "2026-09-18T16:00:00+00:00",
+      "summary": "TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle."
+    },
+    {
+      "id": "c9cf5bf13979",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "published": "2026-09-18T15:30:16+00:00",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monor"
+    },
+    {
+      "id": "42838b1c7b3b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-18T15:30:00+00:00",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
+    },
+    {
+      "id": "ae1d04f654b4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "published": "2026-09-18T15:22:48+00:00",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf."
+    },
+    {
+      "id": "e916e903b3cf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+      "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+      "published": "2026-09-18T15:22:16+00:00",
+      "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side."
+    },
+    {
+      "id": "ab5f2351f321",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "published": "2026-09-18T15:00:08+00:00",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have."
+    },
+    {
+      "id": "089a7ffcc305",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "published": "2026-09-18T15:00:00+00:00",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing."
+    },
+    {
+      "id": "e3d9de257015",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "published": "2026-09-18T15:00:00+00:00",
+      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "a6b7c2b4dfce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
+      "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
+      "published": "2026-09-18T14:51:26+00:00",
+      "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor"
+    },
+    {
+      "id": "980af64b5353",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published": "2026-09-18T14:00:14+00:00",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
+    },
+    {
+      "id": "87f1a30af06e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet the winner of Nikon's Small World in Motion video contest",
+      "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "published": "2026-09-18T13:56:57+00:00",
+      "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder."
+    },
+    {
+      "id": "31f5f72947ba",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers used Claude to hack OpenAI",
+      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "published": "2026-09-18T13:30:12+00:00",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
+    },
+    {
+      "id": "d996e90bf28d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "셀레브라이트, 디지털 포렌식 및 수사 전문가 위한 글로벌 디지털 커뮤니티 'The 101' 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260918221013",
+      "published": "2026-09-18T13:10:13+00:00",
+      "summary": "[지디넷코리아] 고객과 전 세계 동료 및 셀레브라이트 전문가를 상시 연결하는 전용 플랫폼 버지니아 타이슨스 코너 및 이스라엘 페타티크바, 2026년 9월 18일 /PRNewswire/ -- 공공 및 민간 부문을 위한 AI 기반 디지털 수사 및 인텔리전스 솔루션 분야의 글로벌 선도기업인 셀레브라이트(Cellebrite DI Ltd.)(나스닥: CLBT)가 오늘 디지털 포렌식 및 수사 전문가를 위한 전용 글로벌 디지털 커뮤니티 The 101의 확대를 발표했다. The 101은 고객이 MyCellebr"
+    },
+    {
+      "id": "4d6071b15057",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DXC 엔지니어링과 록소, 기업 규모 자율주행 상용차 조기 도입 위해 협력",
+      "link": "https://zdnet.co.kr/view/?no=20260918221002",
+      "published": "2026-09-18T13:10:02+00:00",
+      "summary": "[지디넷코리아] DXC 엔지니어링(DXC Engineering)과 록소(LOXO)가 미들마일 및 라스트마일 물류용 레벨 4 자율주행 상용차의 도입을 앞당기기 위해 협력한다. 이번 협력으로 록소의 검증된 자율주행 기술과 DXC의 엔지니어링, AI, 데이터 및 시스템 통합 전문성이 결합해 대규모 자율 물류의 산업화를 지원하게 된다. 양사는 자율 물류를 시범 운영 단계를 넘어 운전자 부족, 비용 압박 및 증가하는 배송 수요에 대응할 수 있는 반복 가능한 기업 운영 단계로 발전시키는 것을 목표로 하고 있"
+    },
+    {
+      "id": "a956dbec68bd",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
+      "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
+      "published": "2026-09-18T13:00:00+00:00",
+      "summary": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators."
+    },
     {
       "id": "d315b0a0061a",
       "source": "MIT Tech Review",
@@ -12,6 +210,28 @@
       "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
       "published": "2026-09-18T12:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the quest"
+    },
+    {
+      "id": "d23745bd0642",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I don't like passkeys",
+      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "published": "2026-09-18T12:06:50+00:00",
+      "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 461 # Comments: 431"
+    },
+    {
+      "id": "5f5e85fc421e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국·중국 안보 전문가, AI에 핵무기식 통제선 제안…\"AI 사고 전용 군사 핫라인 필요\"",
+      "link": "https://zdnet.co.kr/view/?no=20260918210302",
+      "published": "2026-09-18T12:03:02+00:00",
+      "summary": "[지디넷코리아]미국과 중국의 안보 전문가들이 군사 AI에 핵무기 통제 방식의 안전장치를 적용하자는 제안을 내놓았다고 로이터가 현지 시각 9월 17일 보도했다. 제안을 작성한 사람은 브루킹스연구소 선임연구원 멜라니 시슨과 푸단대 장톈자오 교수이며, 두 사람의 글은 9월 9일 브루킹스연구소 홈페이지에 실렸다. 두 사람이 참여한 미중 AI·국가안보 대화는 2019년부터 브루킹스연구소 외교정책 프로그램과 칭화대 국제안보전략연구센터가 민데루 재단 지원으로 운영해 온 민간 트랙2 대화다.제안에는 핵무기 사용"
     },
     {
       "id": "7418bb9ea8f0",
@@ -34,6 +254,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260918104843",
       "published": "2026-09-18T11:13:47+00:00",
       "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 AI들, 사실 밥값(전기값)이 모자라서 고민이 많다고 해요. 똑똑할수록 더 많이 먹는 게 문제인데요, 가장 똑똑한 AI는 보통 AI보다 밥값이 무려 6배나 비싸다고 합니다. 등급별로 살펴보면 차이가 더 확 와닿는데요, 최고등급 AI는 15달러, 중간등급은 2.5달러, 저렴한 등급은 0.15달러로, 최고등급과 저렴등급 사이 격차가 자그마치 100배에 달해요. 게다가 해마다 요금표까지 계속 바뀌고 있어서 AI 친구들 밥값 관리가 만만치 않은 상황"
+    },
+    {
+      "id": "925a299a0f90",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "published": "2026-09-18T10:35:28+00:00",
+      "summary": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 244 # Comments: 57"
     },
     {
       "id": "a425a7a1cac6",
@@ -89,6 +320,17 @@
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "published": "2026-09-18T09:45:07+00:00",
       "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 295 # Comments: 230"
+    },
+    {
+      "id": "98a48ef741be",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "published": "2026-09-18T09:42:22+00:00",
+      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 354 # Comments: 194"
     },
     {
       "id": "a217c344f4c5",
@@ -606,6 +848,28 @@
       "link": "https://zdnet.co.kr/view/?no=20260918132222",
       "published": "2026-09-18T04:22:33+00:00",
       "summary": "[지디넷코리아]롯데이노베이트가 인공지능(AI) 데이터센터 투자 확대를 발판으로 데이터센터 설계·구축·운영(DBO) 사업을 새로운 성장동력으로 키운다. 최근 잇따라 데이터센터 운영 계약을 확보한 가운데 오는 2028년 DBO 사업 비중을 전체 매출의 30%까지 확대한다는 목표다.IBK투자증권 리서치본부 이승훈 본부장은 지난 17일 보고서를 통해 \"롯데이노베이트의 데이터센터 사업은 축적된 운용 노하우와 시장 성장에 힘입어 견조한 확장세가 지속될 것으로 전망된다\"며 \"롯데이노베이트는 신사업인 데이터센터"
+    },
+    {
+      "id": "6b56afe71d80",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "published": "2026-09-18T04:20:24+00:00",
+      "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 277 # Comments: 69"
+    },
+    {
+      "id": "676697f1f2fd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "published": "2026-09-18T04:09:48+00:00",
+      "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 234 # Comments: 65"
     },
     {
       "id": "5ba28650ca7a",
