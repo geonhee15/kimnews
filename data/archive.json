@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-18T19:13:17.415842+00:00",
-  "count": 13438,
+  "updated_at": "2026-09-18T21:42:14.899686+00:00",
+  "count": 13449,
   "items": [
+    {
+      "id": "30f68835878f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+      "published": "2026-09-18T21:16:26+00:00",
+      "summary": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)의 이미지 파일 처리 방식에서 보안 취약점을 발견하면서 시작됐다. 연구진"
+    },
+    {
+      "id": "94d373324211",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "published": "2026-09-18T21:07:24+00:00",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"larg"
+    },
+    {
+      "id": "c53e3175c0b8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "2026-09-18T20:18:14+00:00",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+    },
+    {
+      "id": "fb3b92a3bd09",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+      "link": "https://www.wired.com/review/apple-watch-ultra-4/",
+      "published": "2026-09-18T19:36:48+00:00",
+      "summary": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough."
+    },
+    {
+      "id": "fbb9ed44b26b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "published": "2026-09-18T19:21:09+00:00",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky."
+    },
+    {
+      "id": "c6737f1d412a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "published": "2026-09-18T19:20:50+00:00",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout."
+    },
     {
       "id": "87c7cae801b3",
       "source": "TechCrunch",
@@ -23,6 +89,17 @@
       "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "published": "2026-09-18T18:29:17+00:00",
       "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 ban"
+    },
+    {
+      "id": "47575c696f7a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성디스플레이, CSOT 美특허 3건에 무효심판 청구...침해소송 대응",
+      "link": "https://zdnet.co.kr/view/?no=20260919024257",
+      "published": "2026-09-18T18:02:52+00:00",
+      "summary": "[지디넷코리아]삼성디스플레이가 CSOT의 미국 특허 3건을 상대로 미국 특허심판원(PTAB)에 무효심판(IPR)을 청구했다. CSOT가 지난 3월 삼성디스플레이를 상대로 제기한 특허침해소송 대응 차원이다. 삼성디스플레이는 지난 17일(현지시간) CSOT의 미국 유기발광다이오드(OLED) 특허 3건(US12,133,429·11,957,031·11,257,891)을 상대로 특허심판원에 무효심판을 청구했다. 해당 특허 3건은 CSOT가 지난 3월 삼성디스플레이를 상대로 미국 텍사스동부연방법원에 특허침해"
     },
     {
       "id": "e3bd6008b555",
@@ -56,6 +133,28 @@
       "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "published": "2026-09-18T17:33:50+00:00",
       "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+    },
+    {
+      "id": "51c97ff24187",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "published": "2026-09-18T17:28:50+00:00",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool."
+    },
+    {
+      "id": "b982e5b1c152",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "published": "2026-09-18T17:28:01+00:00",
+      "summary": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 298 # Comments: 240"
     },
     {
       "id": "8a5f5f95a09b",
@@ -188,6 +287,17 @@
       "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
       "published": "2026-09-18T15:22:16+00:00",
       "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side."
+    },
+    {
+      "id": "d55be8172b1b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이, 초대형 데이터센터 AI 추론 가속 위한 OceanStor M900 Context Memory Storage 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260919001003",
+      "published": "2026-09-18T15:10:03+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 9월 18일 /PRNewswire/ -- 데이비드 왕(David Wang) 화웨이(Huawei) 부회장 겸 순환 회장이 화웨이 커넥트 2026(HUAWEI CONNECT 2026)에서 기조연설을 통해 OceanStor M900 Context Memory Storage를 공식 공개했다. 초대형 데이터센터의 AI 추론을 위해 설계된 제품으로 SuperPoD에 PB급 용량과 TB/s급 성능의 완전 공유형 메모리 공간을 제공한다. 이는 AI 인프라가 컴퓨팅 중심 모델에서 "
     },
     {
       "id": "ab5f2351f321",
@@ -749,6 +859,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215448",
       "published": "2026-09-18T06:25:56+00:00",
       "summary": "'챗GPT'를 MS 워드(Microsoft Word)에서 직접 사용할 수 있게 됐다. 별도의 AI 서비스로 이동하지 않아도 워드 안에서 메모를 바탕으로 문서 초안을 만들고, 까다로운 문장을 정리하거나 오탈자를 점검하는 것은 물론 문장 수정안까지 제안받을 수 있다. 오픈AI는 17일(현지시간) MS 워드에 챗GPT를 통합하고 무료 사용자를 포함한 전체 요금제로 서비스를 확대했다. 챗GPT는 워드 작업 창 옆에 표시되는 사이드바를 통해 이용할 수 있다. 사용자가 작성해 둔 메모를 바탕으로 문서 초안을"
+    },
+    {
+      "id": "393835fff94e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "published": "2026-09-18T06:11:17+00:00",
+      "summary": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 223 # Comments: 86"
     },
     {
       "id": "e048e5e70a9b",
