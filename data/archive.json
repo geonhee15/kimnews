@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-09-17T23:51:37.394168+00:00",
-  "count": 13332,
+  "updated_at": "2026-09-18T02:46:28.985468+00:00",
+  "count": 13338,
   "items": [
+    {
+      "id": "24ad102ccd14",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에바 ‘에이스 프로 맥스’, 기후에너지 혁신상 수상… 열화상 감지 ‘세이버’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215444",
+      "published": "2026-09-18T02:39:26+00:00",
+      "summary": "전기차 충전 솔루션 기업 에바(EVAR)가 AI 기반 완속충전기 ‘에이스 프로 맥스(ACE PRO MAX)’와 차량 하부 열화상 감지 솔루션 ‘세이버(SAVER)’를 앞세워 전기차 충전 안전 기술 강화에 나선다.에바는 차세대 전기차 충전기 에이스 프로 맥스가 기후에너지환경부가 주최하고 한국에너지공단이 주관하는 ‘2026 기후에너지 혁신상’을 수상했다고 18일 밝혔다. 청정전력과 미래에너지, 기후·환경 분야의 혁신 기술 및 제품을 발굴하기 위해 마련된 이번 시상에서 기술성과 시장 경쟁력, 국내외 파"
+    },
+    {
+      "id": "f0a6fb4362d8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "published": "2026-09-18T02:00:00+00:00",
+      "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous t"
+    },
     {
       "id": "179abe2ce001",
       "source": "TechCrunch",
@@ -9,6 +31,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published": "2026-09-17T23:25:52+00:00",
+      "summary": "The round values the data center giant at $30.9 billion."
+    },
+    {
+      "id": "e335278b8fe2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "published": "2026-09-17T23:25:52+00:00",
       "summary": "The round values the data center giant at $30.9 billion."
@@ -89,6 +122,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215372",
       "published": "2026-09-17T22:00:00+00:00",
       "summary": "‘AI 종말론’이 다시 부각되면서 ‘p(doom)’이라는 표현도 주목받고 있습니다. AI의 대부로 불리는 제프리 힌튼 교수는 최근 인터뷰에서 “앞으로 10년 안에 AI가 인류를 멸종시킬 확률이 10%라는 추정은 비합리적이지 않다”​고 말했습니다. 다만 정확한 확률을 어떻게 계산해야 하는지는 아무도 모른다는 단서도 붙였습니다.p(doom)의 p는 확률을 뜻하는 ‘probability’의 첫 글자로, ‘Probability of Doom’, 즉 AI로 인해 인류가 멸종하거나 이에 준하는 파멸적 결과가"
+    },
+    {
+      "id": "d11ebebd93f1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "published": "2026-09-17T21:13:31+00:00",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 257 # Comments: 81"
     },
     {
       "id": "dfd46a940317",
@@ -782,6 +826,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215414",
       "published": "2026-09-17T08:53:07+00:00",
       "summary": "대형언어모델(LLM)의 추론 능력과 강화학습, 과학 도구를 결합해 새로운 소재를 탐색하려는 시도가 이어지는 가운데, 피어리오딕 랩스(Periodic Labs)가 재료과학에 초점을 맞춘 AI 모델을 선보였다. 오픈AI 출신 리암 페더스가 설립한 피어리오딕 랩스는 15일(현지시간) 재료과학 연구에 특화된 AI 모델 ‘네온(Neon)’을 공개했다.이 회사는 AI 모델 자체뿐 아니라 장시간의 추론과 과학 도구 실행이 필요한 연구 환경에 맞춰 학습·추론 인프라까지 최적화해, 신소재 탐색 속도를 높이는 것을"
+    },
+    {
+      "id": "0910f4da2432",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "published": "2026-09-17T08:51:51+00:00",
+      "summary": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 218 # Comments: 315"
     },
     {
       "id": "37de31d438b0",
@@ -1651,6 +1706,17 @@
       "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
       "published": "2026-09-16T12:47:34+00:00",
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, the"
+    },
+    {
+      "id": "9ca3f0da8d21",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Wax motor",
+      "link": "https://en.wikipedia.org/wiki/Wax_motor",
+      "published": "2026-09-16T12:35:14+00:00",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Wax_motor Comments URL: https://news.ycombinator.com/item?id=49726007 Points: 260 # Comments: 50"
     },
     {
       "id": "06ccc3547bee",
