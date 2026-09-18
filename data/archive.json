@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-18T16:43:20.095887+00:00",
-  "count": 13427,
+  "updated_at": "2026-09-18T19:13:17.415842+00:00",
+  "count": 13438,
   "items": [
+    {
+      "id": "87c7cae801b3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "published": "2026-09-18T18:49:30+00:00",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+    },
+    {
+      "id": "ebc0279e37e8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "published": "2026-09-18T18:29:17+00:00",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 ban"
+    },
+    {
+      "id": "e3bd6008b555",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "published": "2026-09-18T17:59:53+00:00",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+    },
+    {
+      "id": "0968925e1d8e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "In India, the new iPhone can arrive faster than a pizza",
+      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+      "published": "2026-09-18T17:45:00+00:00",
+      "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps."
+    },
+    {
+      "id": "2ecb798515ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "published": "2026-09-18T17:33:50+00:00",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
+    },
+    {
+      "id": "8a5f5f95a09b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "published": "2026-09-18T17:26:41+00:00",
+      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point."
+    },
+    {
+      "id": "2cfcc62ce3e4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "published": "2026-09-18T17:09:56+00:00",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie"
+    },
+    {
+      "id": "2450b9eb88b8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "published": "2026-09-18T17:04:51+00:00",
+      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will d"
+    },
     {
       "id": "b9ec57e90bca",
       "source": "TechCrunch",
@@ -45,6 +133,17 @@
       "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
       "published": "2026-09-18T16:00:00+00:00",
       "summary": "TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle."
+    },
+    {
+      "id": "7d9df120332c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+      "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published": "2026-09-18T16:00:00+00:00",
+      "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle."
     },
     {
       "id": "c9cf5bf13979",
@@ -135,6 +234,17 @@
       "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor"
     },
     {
+      "id": "4882bdfeba4b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cloudflare Quick Tunnels",
+      "link": "https://try.cloudflare.com/",
+      "published": "2026-09-18T14:18:41+00:00",
+      "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 334 # Comments: 163"
+    },
+    {
       "id": "980af64b5353",
       "source": "TechCrunch",
       "kind": "article",
@@ -221,6 +331,17 @@
       "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
       "published": "2026-09-18T12:06:50+00:00",
       "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 461 # Comments: 431"
+    },
+    {
+      "id": "fd08a0ce69b5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "published": "2026-09-18T12:03:55+00:00",
+      "summary": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/ Comments URL: https://news.ycombinator.com/item?id=49753179 Points: 292 # Comments: 224"
     },
     {
       "id": "5f5e85fc421e",
