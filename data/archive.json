@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-09-18T21:42:14.899686+00:00",
-  "count": 13449,
+  "updated_at": "2026-09-18T23:35:38.832308+00:00",
+  "count": 13459,
   "items": [
+    {
+      "id": "76a0372ff9f2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "published": "2026-09-18T23:25:01+00:00",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+    },
+    {
+      "id": "f9a4bb924d85",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "published": "2026-09-18T23:13:31+00:00",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
+    },
+    {
+      "id": "75f2e474039f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "published": "2026-09-18T23:12:32+00:00",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+    },
+    {
+      "id": "c1f79b327ff9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
+      "link": "https://zdnet.co.kr/view/?no=20260918221337",
+      "published": "2026-09-18T23:00:02+00:00",
+      "summary": "[지디넷코리아]TSMC의 2.D 패키징 기술 'CoWoS-L'이 최소 2028년까지 인공지능(AI) 칩 패키징 시장 주류 자리를 지킬 것이라는 전망이 나왔다. 주요 그래픽처리장치(GPU) 업체와 하이퍼스케일러의 고성능 AI 칩 개발 경쟁으로 기판 대면적화가 2.5D 패키징 기술 핵심 과제로 떠올랐기 때문이다. 인텔의 차세대 패키징 솔루션 'EMIB-T'가 대항마지만, 기술 성숙도와 수율에서는 아직 TSMC를 쫓아가지 못하고 있다는 분석이다. 시장조사업체 트렌드포스는 18일(현지시간) 첨단 반도체 "
+    },
+    {
+      "id": "efac8155039f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이폰18프로 출시 첫날 ‘가격역전’...228만원 갤Z8폴드가 더 쌌다",
+      "link": "https://zdnet.co.kr/view/?no=20260918202921",
+      "published": "2026-09-18T22:21:34+00:00",
+      "summary": "[지디넷코리아]“아이폰18 프로는 지원금이 최대 85만원 정도예요. 갤럭시Z8폴드는 한 달 전보다 조건이 훨씬 좋아져서 출고가에서 120만원 넘게 빠집니다.”아이폰18 프로 시리즈 개통이 시작된 지난 18일 서울 구로구 신도림 테크노마트. 아이폰 신제품을 보러 온 소비자들로 매장이 붐비는 가운데 판매점에서는 아이폰보다 갤럭시Z8폴드의 가격 경쟁력을 강조하는 모습도 눈에 띄었다.이날 상가 내 판매점 5곳을 둘러본 결과 아이폰18 프로에는 최대 85만원의 지원금이 제시됐다. 공통지원금 45만원에 번호"
+    },
+    {
+      "id": "60718bada328",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215440",
+      "published": "2026-09-18T21:45:00+00:00",
+      "summary": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task summary)’에 원래 없던 지시를 스스로 추가한 사례를 공개했습니다."
+    },
+    {
+      "id": "0a40fe966578",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "published": "2026-09-18T21:44:33+00:00",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
+    },
     {
       "id": "30f68835878f",
       "source": "AI타임스",
@@ -25,6 +102,28 @@
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"larg"
     },
     {
+      "id": "26aa6d2ed37d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "published": "2026-09-18T21:00:32+00:00",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 362 # Comments: 136"
+    },
+    {
+      "id": "cd26f4fe6991",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "published": "2026-09-18T20:26:33+00:00",
+      "summary": "But the military's overall use of AI seems to be accelerating."
+    },
+    {
       "id": "c53e3175c0b8",
       "source": "TechCrunch",
       "kind": "article",
@@ -34,6 +133,17 @@
       "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
       "published": "2026-09-18T20:18:14+00:00",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+    },
+    {
+      "id": "dd6e32009411",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "published": "2026-09-18T20:02:54+00:00",
+      "summary": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 232 # Comments: 73"
     },
     {
       "id": "fb3b92a3bd09",
