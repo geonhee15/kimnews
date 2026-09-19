@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-09-19T19:36:36.341415+00:00",
-  "count": 13518,
+  "updated_at": "2026-09-19T21:46:21.317193+00:00",
+  "count": 13521,
   "items": [
+    {
+      "id": "8b6bb5abaf0f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "published": "2026-09-19T20:44:40+00:00",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing e"
+    },
+    {
+      "id": "5548e07a9eb7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "published": "2026-09-19T19:57:47+00:00",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+    },
     {
       "id": "57898d57305e",
       "source": "TechCrunch",
@@ -342,6 +364,17 @@
       "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "published": "2026-09-19T05:48:50+00:00",
       "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 274 # Comments: 108"
+    },
+    {
+      "id": "22d84158a4f4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "published": "2026-09-19T05:48:50+00:00",
+      "summary": "https://www.nature.com/articles/s41593-026-02433-7 Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 588 # Comments: 228"
     },
     {
       "id": "f8930e8f5698",
