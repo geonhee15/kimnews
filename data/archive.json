@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-09-19T14:48:47.420291+00:00",
-  "count": 13508,
+  "updated_at": "2026-09-19T17:41:27.882422+00:00",
+  "count": 13516,
   "items": [
+    {
+      "id": "57898d57305e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "published": "2026-09-19T17:30:00+00:00",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+    },
+    {
+      "id": "9092274cdd7a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "published": "2026-09-19T17:00:00+00:00",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next."
+    },
+    {
+      "id": "30c02ea0c69c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "published": "2026-09-19T15:25:03+00:00",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was "
+    },
+    {
+      "id": "e78e00a973ca",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "published": "2026-09-19T15:00:00+00:00",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
+    },
+    {
+      "id": "dead19ee1999",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "published": "2026-09-19T15:00:00+00:00",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+    },
+    {
+      "id": "333b8b7c15ec",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+      "published": "2026-09-19T15:00:00+00:00",
+      "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration wi"
+    },
+    {
+      "id": "968ce45da546",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The colorful, unique Hyte X50 PC case is $50 off",
+      "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+      "published": "2026-09-19T15:00:00+00:00",
+      "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, "
+    },
     {
       "id": "98c8b040465c",
       "source": "The Verge",
@@ -210,6 +287,17 @@
       "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "published": "2026-09-19T06:41:44+00:00",
       "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 206 # Comments: 117"
+    },
+    {
+      "id": "b0150da09d34",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "published": "2026-09-19T06:28:02+00:00",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 237 # Comments: 195"
     },
     {
       "id": "eec24b7f872e",
