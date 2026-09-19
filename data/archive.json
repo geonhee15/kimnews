@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-09-19T11:32:47.558947+00:00",
-  "count": 13500,
+  "updated_at": "2026-09-19T14:48:47.420291+00:00",
+  "count": 13508,
   "items": [
+    {
+      "id": "98c8b040465c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "published": "2026-09-19T14:00:00+00:00",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of "
+    },
+    {
+      "id": "8a01af0f9232",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"비싸도 산다\"…아이폰18 프로, 美서 예상보다 수요 강해",
+      "link": "https://zdnet.co.kr/view/?no=20260919004415",
+      "published": "2026-09-19T13:59:02+00:00",
+      "summary": "[지디넷코리아]애플의 ‘아이폰18 프로’ 시리즈에 대한 미국 내 수요가 예상보다 강하다는 조사 결과가 나왔다.맥루머스, 애플인사이더 등 외신은 18일(현지시간) 투자은행 에버코어 ISI가 미국 소비자 약 4천 명을 대상으로 실시한 설문조사 결과를 보도했다.조사 결과, 아이폰18 프로 시리즈의 교체 수요가 예상보다 강한 것으로 나타났다. 특히 소비자들은 더 비싼 프리미엄 모델과 높은 저장 용량을 갖춘 제품을 선호하는 것으로 조사됐다.에버코어에 따르면 응답자의 67%는 아이폰을 교체하는 이유로 기존 "
+    },
+    {
+      "id": "262a49094b1d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "published": "2026-09-19T13:00:00+00:00",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models."
+    },
+    {
+      "id": "cf32b9775100",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI regulation smackdown isn’t over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "published": "2026-09-19T13:00:00+00:00",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating"
+    },
+    {
+      "id": "cec60211d838",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+      "published": "2026-09-19T12:57:09+00:00",
+      "summary": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정(4.76%)'으로 이성주 iMBC 경영이사와 전동건 전 울산MBC 사장 "
+    },
     {
       "id": "90e7de1d5c9b",
       "source": "Wired",
@@ -23,6 +78,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
       "published": "2026-09-19T10:46:59+00:00",
       "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를"
+    },
+    {
+      "id": "717a9b6df5e7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Laya the open source version of Jev",
+      "link": "https://laya.convaiinnovations.com/",
+      "published": "2026-09-19T10:46:58+00:00",
+      "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 300 # Comments: 52"
     },
     {
       "id": "f8dcc056ac71",
@@ -56,6 +122,17 @@
       "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
       "published": "2026-09-19T09:30:00+00:00",
       "summary": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods."
+    },
+    {
+      "id": "26530ab51bba",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI-generated posters don’t have to be horrible",
+      "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "published": "2026-09-19T09:20:58+00:00",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 543 # Comments: 334"
     },
     {
       "id": "babcc3207877",
@@ -122,6 +199,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215485",
       "published": "2026-09-19T06:50:11+00:00",
       "summary": "스페이스XAI는 18일(현지시간) 음성을 텍스트로 변환하는 새로운 음성 전사 모델 ‘그록 보이스 트랜스크라이브 2.0(Grok Voice Transcribe 2.0)’을 공개했다.이를 두고 \"현재 사용 가능한 변환 모델 중 가장 정확한 모델 중 하나\"라고 강조했다. 실제 환경에서 수집한 다양한 음성 데이터를 바탕으로 전사 정확도를 크게 높였다는 설명이다.그록 보이스 트랜스크라이브 2.0은 그록 음성 기능에 사용되는 오디오 기반 모델을 바탕으로 개발됐다. 기존 '그록 보이스'는 하루 수만건의 고객지"
+    },
+    {
+      "id": "c2714f115b40",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "published": "2026-09-19T06:41:44+00:00",
+      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 206 # Comments: 117"
     },
     {
       "id": "eec24b7f872e",
