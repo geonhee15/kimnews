@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-09-19T06:38:04.828058+00:00",
-  "count": 13486,
+  "updated_at": "2026-09-19T11:32:47.558947+00:00",
+  "count": 13500,
   "items": [
+    {
+      "id": "90e7de1d5c9b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "published": "2026-09-19T11:00:00+00:00",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws."
+    },
+    {
+      "id": "f4074e128c7c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+      "published": "2026-09-19T10:46:59+00:00",
+      "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를"
+    },
+    {
+      "id": "f8dcc056ac71",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+      "published": "2026-09-19T10:06:23+00:00",
+      "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트 환경 관리 소홀에서 비롯된 사고라는 점이 드러났다.사고는 지난 5월 AI 보안 평가 전문 스타트업 이레귤러(Irregular)가 진행한 모의 침투 훈련 과정에서 일어났다. 가상 환경 내 격리된 기업 시스템을 공격하"
+    },
+    {
+      "id": "db520555b413",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "published": "2026-09-19T10:00:00+00:00",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful."
+    },
+    {
+      "id": "da80b3452f51",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+      "published": "2026-09-19T09:30:00+00:00",
+      "summary": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods."
+    },
+    {
+      "id": "babcc3207877",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215483",
+      "published": "2026-09-19T09:05:57+00:00",
+      "summary": "AI가 단순히 사람이 지정한 애플리케이션 코드를 작성하는 단계를 넘어, 자신이 구동되는 하드웨어 및 시스템 인프라 최적화 레이어까지 직접 진입하며 개발 과정을 진화시키고 있다.Z.ai(지푸 AI)는 17일(현지시간) 자체 개발한 'GLM'을 활용해 차세대 AI 모델의 추론 인프라를 직접 구축하고 최적화하는 사례를 공개했다.아직 AI가 스스로 후속 모델을 설계하고 학습하는 ‘재귀적 자기개선(RSI)’ 단계에는 도달하지 않았지만, GLM이 자신의 실행 환경을 개선하는 초기 형태가 나타나고 있다고 설명"
+    },
+    {
+      "id": "c45765095e2b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215492",
+      "published": "2026-09-19T08:47:54+00:00",
+      "summary": "SK하이닉스의 손자회사 솔리다임이 미국 첫 낸드플래시 생산거점 구축을 검토 중인 것으로 알려졌으나, SK하이닉스는 확정된 바 없다는 입장을 밝혔다.지난 18일 업계에 따르면 솔리다임은 미국 동부 지역에 낸드 양산라인을 세우기 위해 후보 부지와 세부 조건 등을 들여다보고 있는 것으로 전해졌다.솔리다임은 SK하이닉스가 2021년 말 90억달러(약 12조원)를 들여 인텔 낸드 사업을 인수하면서 출범한 법인이다. 현재 중국 다롄에서 생산시설을 가동 중이며, 미국에는 본사와 연구개발(R&D) 센터를 두고 "
+    },
+    {
+      "id": "954f65fc19da",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
+      "published": "2026-09-19T08:36:34+00:00",
+      "summary": "애플의 인수 검토설로 주목받은 AI 스타트업 프리즘ML(PrismML)이 한층 진화한 온디바이스 AI 압축 모델을 선보였다. 270억 매개변수급 대형언어모델(LLM)을 5.9기가바이트(GB) 수준으로 압축해 일반 PC와 노트북, 고성능 스마트폰에서도 원활하게 작동하는 신규 모델을 공개했다.캘리포니아 공과대학(Caltech) 스핀오프 기업인 프리즘ML은 지난 7월 54GB 크기의 모델을 4GB 미만으로 줄여 아이폰 17 프로에서 구동하는 데 성공하며 애플 등 빅테크의 인수 및 협력 검토 대상으로 떠"
+    },
+    {
+      "id": "604a6dc7d031",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215478",
+      "published": "2026-09-19T08:03:03+00:00",
+      "summary": "메타의 개인용 AI 에이전트 ‘뮤즈(Muse)’가 맥(Mac)으로 서비스를 확대하면서 AI가 사용자의 컴퓨터에서 직접 작업을 수행하는 시대가 본격화하고 있다. 또 뮤즈는 모바일 버전이 앱스토어 1위에 오르며 폭발적인 인기를 끌고 있지만, 사용자 데이터 접근에 따른 개인정보 보호와 보안 문제는 넘어야 할 최대 과제로 꼽힌다.메타는 17일(현지시간) 맥용 뮤즈를 공식 출시했다. 모바일과 웹에 이어 맥 데스크톱 환경으로 영역을 넓혀 파일, 메시지, 캘린더, 메모, 이메일 등 PC 내 주요 애플리케이션 "
+    },
+    {
+      "id": "5b7502c7d930",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알리바바, 보고 듣고 행동하는 옴니모달 '큐원3.8-옴니-플래시' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215481",
+      "published": "2026-09-19T07:24:53+00:00",
+      "summary": "알리바바가 오디오와 비디오를 이해하는 데 그치지 않고 사용자의 지시에 따라 도구를 호출하고 작업까지 수행할 수 있는 차세대 옴니모달 모델을 공개했다. 알리바바는 18일(현지시간) 단순한 콘텐츠 인식을 넘어 작업 계획과 실행이 가능한 새로운 옴니모달 모델 ‘큐원3.8-옴니-플래시(Qwen3.8-Omni-Flash)’를 공개했다.텍스트와 이미지뿐 아니라 오디오와 비디오를 입력으로 처리하며, 최대 100만 토큰의 컨텍스트를 지원한다. 출력은 텍스트 형태로 제공되지만 함수 호출과 웹 검색, 구조화된 출력"
+    },
+    {
+      "id": "673ebc3ad911",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브 2.0’ 공개...전사 정확도 1위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+      "published": "2026-09-19T06:50:11+00:00",
+      "summary": "스페이스XAI는 18일(현지시간) 음성을 텍스트로 변환하는 새로운 음성 전사 모델 ‘그록 보이스 트랜스크라이브 2.0(Grok Voice Transcribe 2.0)’을 공개했다.이를 두고 \"현재 사용 가능한 변환 모델 중 가장 정확한 모델 중 하나\"라고 강조했다. 실제 환경에서 수집한 다양한 음성 데이터를 바탕으로 전사 정확도를 크게 높였다는 설명이다.그록 보이스 트랜스크라이브 2.0은 그록 음성 기능에 사용되는 오디오 기반 모델을 바탕으로 개발됐다. 기존 '그록 보이스'는 하루 수만건의 고객지"
+    },
+    {
+      "id": "eec24b7f872e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215489",
+      "published": "2026-09-19T06:17:50+00:00",
+      "summary": "영국의 네오클라우드 엔스케일(Nscale)이 미국 뉴욕증권거래소(NYSE) 상장을 위한 기업공개(IPO)를 신청했다. 2024년 가상자산 채굴 인프라 기업에서 분사한 지 약 2년 만에 상장에 나선 것으로, 폭발적으로 늘어나는 AI 컴퓨팅 수요를 겨냥한 대규모 자금 조달에 나섰다.CNBC 등에 따르면, 엔스케일은 18일(현지시간) 미국 증권거래위원회(SEC)에 IPO 신청서를 제출했다.이를 통해 2026년 상반기 매출이 1억4060만달러(약 2000억원), 순손실은 10억2000만달러(약 1조400"
+    },
     {
       "id": "6cad87306410",
       "source": "AI타임스",
@@ -12,6 +144,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215488",
       "published": "2026-09-19T05:53:07+00:00",
       "summary": "미국 에어택시 스타트업 조비 에비에이션(Joby Aviation)이 사람의 조종 없이 미국 대륙을 동서로 가로지르는 완전 자율비행에 성공했다. 조비는 17일(현지시간) 자율비행 기술을 탑재한 개조형 세스나 카라반 항공기가 캘리포니아 콩코드에서 노스캐롤라이나 아우터뱅크스까지 3199마일(약 5148km)을 비행했다고 발표했다.기내에는 안전을 위한 조종사가 탑승했지만, 비행 과정에서 조종사의 직접적인 제어 입력은 전혀 없었다. 항공기는 활주와 이륙, 항로 비행, 착륙까지 모든 과정을 자율적으로 수행했"
+    },
+    {
+      "id": "fc4def13ac2a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "published": "2026-09-19T05:48:50+00:00",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 274 # Comments: 108"
     },
     {
       "id": "f8930e8f5698",
@@ -1552,6 +1695,17 @@
       "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
       "published": "2026-09-18T02:00:00+00:00",
       "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous t"
+    },
+    {
+      "id": "e578feacb14f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "link": "https://cactuscompute.com/needle",
+      "published": "2026-09-18T00:11:44+00:00",
+      "summary": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The k"
     },
     {
       "id": "179abe2ce001",
