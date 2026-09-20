@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-09-20T13:09:12.916462+00:00",
-  "count": 13567,
+  "updated_at": "2026-09-20T16:47:33.667892+00:00",
+  "count": 13573,
   "items": [
+    {
+      "id": "bf082777e5d1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "published": "2026-09-20T16:02:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!"
+    },
+    {
+      "id": "66e2af36f4f7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "published": "2026-09-20T15:39:22+00:00",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administratio"
+    },
+    {
+      "id": "3702d5d483ca",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "published": "2026-09-20T15:00:00+00:00",
+      "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sol"
+    },
+    {
+      "id": "90ca45e1e96b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[최경진의 未來法道] 프런티어 AI 시대, 한국 답은 검증 가능한 가속",
+      "link": "https://zdnet.co.kr/view/?no=20260920224904",
+      "published": "2026-09-20T13:49:04+00:00",
+      "summary": "[지디넷코리아]앤스로픽 최고경영자 다리오 아모데이가 최근 발표한 글이 전세계적인 AI 개발 중단 논쟁에 다시 불을 붙였다. 정확히는 중단이 아니라 외부 평가자에게 개발과정에 대한 상시 접근권을 주고, 공통 안전기준과 국제 공조를 통해 검증의 시간을 확보하자는 주장이다. 반면 도널드 트럼프 미국 대통령과 젠슨 황 엔비디아 최고경영자는 그와 정반대의 입장에 서 있는 것으로 비춰진다. 이러한 논의의 연장선상에서 다가오는 유엔총회 중에도 중요한 의제로 다룰 예정이다.이러한 논쟁은 처음이 아니다. 2000"
+    },
+    {
+      "id": "ec1104739e43",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "촌 \"사람과 사람 신뢰, 플랫폼 없이 직접 연결 첫 회사\"",
+      "link": "https://zdnet.co.kr/view/?no=20260920223212",
+      "published": "2026-09-20T13:32:12+00:00",
+      "summary": "[지디넷코리아]AI가 사람의 얼굴과 목소리를 복제하고 AI 에이전트가 사람 대신 온라인에서 활동하는 시대, 화면 너머의 상대가 진짜 사람인지 어떻게 확인할까. 블록체인 기반 분산신원인증(DID) 전문기업 촌(대표 신근영)이 그 답으로 사람과 사람 사이의 '관계'를 제시했다.촌은 지난 16일 오후 서울 코엑스 컨퍼런스룸에서 '투자자 데이 2026(CHON Investor Day 2026)' 사업설명회를 열고, 6년여 준비해 온 관계 기반 상호인증 기술과 사업 전략을 처음으로 공개했다. 행사에는 벤처"
+    },
+    {
+      "id": "e7b396a0556b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] Jev, 역사상 가장 빠르게 사용량이 증가한 유료 모델",
+      "link": "https://zdnet.co.kr/view/?no=20260920215302",
+      "published": "2026-09-20T12:53:02+00:00",
+      "summary": "[지디넷코리아]지난 15일, 미국 스타트업 타입세이프 AI(TypeSafe AI)가 2년가량의 비공개 개발을 끝내고 첫 모델 '제브(Jev)'를 공개했다. 투자금 4000만 달러를 유치했다는 발표도 함께 나왔다. 최고경영자 디오고 알메이다는 오픈AI 연구원 출신이다.공개 후 며칠 사이에 오픈라우터와 클라우드플레어의 모델 목록에 'Jev'가 올랐고, 버셀(Vercel)은 Jev가 역사상 가장 빠르게 사용량이 증가한 '유료'모델이라고 공식 발표했다. 이는 GPT-5.6 제품군의 2배, DeepSeek"
+    },
     {
       "id": "412c9081b4ce",
       "source": "The Verge",
