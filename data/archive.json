@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-09-20T19:14:20.938872+00:00",
-  "count": 13576,
+  "updated_at": "2026-09-20T21:35:49.811255+00:00",
+  "count": 13583,
   "items": [
+    {
+      "id": "b2eead9725e7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "2026-09-20T20:29:07+00:00",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+    },
     {
       "id": "1d7b901db018",
       "source": "TechCrunch",
@@ -36,6 +47,39 @@
       "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors,"
     },
     {
+      "id": "53bd8e879f06",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이, 새로운 AI 캠퍼스 시대를 여는 업그레이드된 Stellar AI Campus Network 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260921031002",
+      "published": "2026-09-20T18:10:02+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 9월 20일 /PRNewswire/ -- 화웨이(Huawei)가 화웨이 커넥트 2026(HUAWEI CONNECT 2026)에서 초고속 무선, 전방위 보안, 네트워크 자율화 분야의 혁신을 바탕으로 기업이 초고속의 안전한 AI 캠퍼스를 구축할 수 있도록 지원하는 업그레이드된 Stellar AI Campus Network Solution을 공개했다. Leon Wang, President of Huawei's Data Communication Product Line, d"
+    },
+    {
+      "id": "6de8a3e05a86",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "published": "2026-09-20T17:38:50+00:00",
+      "summary": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 212 # Comments: 160"
+    },
+    {
+      "id": "fcf78a18fca4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"BOE, 반도체 패키징 전략 분명...삼성·LGD 관심은 중간\"",
+      "link": "https://zdnet.co.kr/view/?no=20260921014801",
+      "published": "2026-09-20T17:16:26+00:00",
+      "summary": "[지디넷코리아]전 세계 주요 패널 업체 중 BOE와 이노룩스만 첨단 반도체 패키징 전략이 분명하다는 관측이 나왔다. 시장조사업체 옴디아는 이달 중순 중국에서 개최한 컨퍼런스에서 \"대부분의 패널 업체가 첨단 반도체 패키징 시장을 어느 정도 평가했다\"며 이처럼 밝혔다. 삼성디스플레이와 LG디스플레이의 반도체 패키징 기술에 대한 관심은 '중간'(medium)으로 분류했다. 여기서 말하는 첨단 반도체 패키징 기술은 팬아웃(FO)-패널레벨패키징(PLP)과 반도체 유리기판 등을 말한다. 최근 수익성이 떨어졌"
+    },
+    {
       "id": "bf082777e5d1",
       "source": "TechCrunch",
       "kind": "article",
@@ -56,6 +100,28 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
       "published": "2026-09-20T15:39:22+00:00",
       "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administratio"
+    },
+    {
+      "id": "c7c60effafc2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "published": "2026-09-20T15:18:44+00:00",
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/ Comments URL: https://news.ycombinator.com/item?id=49776729 Points: 422 # Comments: 224"
+    },
+    {
+      "id": "501a6fb10d06",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "link": "https://pirateface.co/",
+      "published": "2026-09-20T15:16:07+00:00",
+      "summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 352 # Comments: 115"
     },
     {
       "id": "3702d5d483ca",
@@ -3697,6 +3763,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215374",
       "published": "2026-09-17T03:04:09+00:00",
       "summary": "애플이 자체 개발한 칩을 탑재한 기업용 AI 서버를 개발하며 18년 만에 서버 시장 재진출을 추진하고 있다. 특히 오랫동안 관계가 냉랭했던 엔비디아와 AI 서버용 네트워크 기술 도입을 논의하고 있는 것으로 알려져 양사의 협력 관계에도 변화가 나타날지 주목된다.16일(현지시간) 디 인포메이션에 따르면, 애플은 AI 개발자와 기업, 정부 기관 등을 대상으로 판매할 기업용 서버를 개발하고 있다.제품은 애플의 차세대 최고 성능 프로세서인 'M8 울트라' 2개를 탑재한 소형 모델과 4개를 장착한 고성능 모"
+    },
+    {
+      "id": "9ab09e375a2e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "link": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "published": "2026-09-17T01:00:14+00:00",
+      "summary": "Article URL: https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html Comments URL: https://news.ycombinator.com/item?id=49735159 Points: 213 # Comments: 149"
     },
     {
       "id": "1961ffa3bd56",
