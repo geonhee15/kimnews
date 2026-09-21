@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-20T23:32:13.430150+00:00",
-  "count": 13584,
+  "updated_at": "2026-09-21T01:41:11.433307+00:00",
+  "count": 13593,
   "items": [
+    {
+      "id": "f59edeabbbdf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 리더의 서가] AI 시스템 설계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215464",
+      "published": "2026-09-21T00:00:00+00:00",
+      "summary": "AI 시스템 설계이한울 | 한빛미디어2026년 9월 7일추천이유저자는 LLM 구현을 넘어 실제 운영 환경에서 AI 시스템으 안정적으로 통제하고 평가하는 하네스 아키텍처와 평가주도 개발 (EDD) 방법론을 제시합니다. 이 책을 통해 독자는 데모와 운영 간의 간극을 이해하고 지속적으로 개선 가능한 AI 시스템을 설계할 수 있습니다. 상세보기 챗봇을 몇 번 두드려 보는 일과, 그 챗봇을 회사 서비스로 굴리는 일 사이에는 넓은 강이 있다. 한빛미디어가 지난 7일 펴낸 『AI 시스템 설계』(이한울)는 바로"
+    },
+    {
+      "id": "540abc1ffe63",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI로 취향 맛집 추천\"...티맵, 장소추천 서비스 개편",
+      "link": "https://zdnet.co.kr/view/?no=20260921085646",
+      "published": "2026-09-20T23:56:46+00:00",
+      "summary": "[지디넷코리아]티맵에서 AI 개인화 추천과 실제 운전자들의 이동 데이터를 결합해 맛집과 관광명소 등 장소 탐색 기능이 강화된다. AI가 이용자 취향에 맞는 장소를 골라주면 실제 사람들이 얼마나 많이 찾아갔는지 비교하고, 필요한 정보는 해당 장소를 방문한 이용자에게 직접 물어볼 수 있다.티맵모빌리티는 장소 추천 서비스 ‘어디갈까’를 개편해 21일부터 제공한다고 밝혔다.개편은 장소를 추천하는 데 그치지 않고 탐색부터 비교, 정보 확인까지 하나의 서비스 안에서 해결할 수 있도록 한 것이 특징이다. 개인"
+    },
+    {
+      "id": "c8d5fdbf3f50",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "금값의 오디세이…금리 인상 견딘 금, 귀향은 아직 멀다",
+      "link": "https://zdnet.co.kr/view/?no=20260921084903",
+      "published": "2026-09-20T23:56:09+00:00",
+      "summary": "[지디넷코리아]“예상된 인상 뒤 되살아난 금...시장은 다음 금리 경로를 읽었다.”오디세우스가 돌아가려는 곳은 고향 이타카다. 이번 주 연준이 제시한 목적지는 물가 안정이었다. 금리를 올려서라도 물가를 잡겠다는 의지를 드러냈다. 금값은 인상 직후 하락했지만 주 후반 회복했다. 시장은 당장의 인상뿐 아니라, 그 뒤에 이어질 정책 경로를 함께 살피기 시작했다.다만 목적지를 알았다고 항해가 끝난 것은 아니다. 금요일에는 금값이 회복되는 동안 달러와 장기금리도 강세를 보였다. 금의 반등을 금리 인하 기대"
+    },
+    {
+      "id": "c1f6c5e486ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"기술보다 사람”…에이블런, 제조기업 AX 장벽 해소책 제시",
+      "link": "https://zdnet.co.kr/view/?no=20260921085242",
+      "published": "2026-09-20T23:52:42+00:00",
+      "summary": "[지디넷코리아]에이블런이 ‘지역 제조기업 AX 전환 확산 웨비나 2026’의 주요 참가자 구성과 질의응답 내용을 공개하고, 제조 현장의 AX 실행 해법을 제안했다.21일 에이블런에 따르면, 지난 16일 열린 이번 웨비나에는 제조·생산(47.0%), IT·정보통신(18.7%) 등 다양한 업종에서 총 198명이 신청하고 최대 115명이 동시 접속했다. 전체 신청자 중 교육·인사 및 경영·전략 직무가 65.7%를 차지했으며, 중소·중견기업 비중이 62.1%, 팀장 이상 리더급이 55.1%를 기록했다. "
+    },
+    {
+      "id": "c8c71776d2b4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"기부채납지 개발 AI로 분석\"...SKT, 공공행정에 데이터 심는다",
+      "link": "https://zdnet.co.kr/view/?no=20260921085220",
+      "published": "2026-09-20T23:52:20+00:00",
+      "summary": "[지디넷코리아]SK텔레콤이 지방자치단체를 비롯한 공공기관의 AI 빅데이터 활용 사례를 공유했다. 행사 관광 분석부터 토지 개발, 공공데이터 검색, 개인정보를 고려한 합성데이터까지 AI와 민간 데이터를 행정 현장에 접목하는 방안이 소개됐다.SK텔레콤은 지난 18일 서울 중구 T타워에서 ‘그랜데이터 퍼블릭 데이 2026’을 열었다고 밝혔다. 이 자리에는 정부와 지자체, 공사 등 공공 분야 데이터 담당자 250여명이 참석했다.행사는 AI와 데이터를 활용해 공공기관 내부 업무 효율을 높이고 대민 서비스를"
+    },
+    {
+      "id": "30347a6e975e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "美 웬디스 대형 가맹사 파산보호 신청…매출 부진에 수익성 악화",
+      "link": "https://zdnet.co.kr/view/?no=20260921084047",
+      "published": "2026-09-20T23:48:15+00:00",
+      "summary": "[지디넷코리아]미국 햄버거 체인 웬디스의 대형 가맹사업자가 파산보호를 신청했다. 웬디스의 매출 부진과 원재료비 상승, 할인 확대가 가맹점 수익성을 압박한 결과다.18일(현지시간) CNBC에 따르면 웬디스의 주요 가맹사업자인 메리티지 호스피탈리티는 미국 연방파산법 11조(챕터 11)에 따른 파산보호를 신청했다. 챕터 11은 영업을 이어가면서 채무를 조정하고 경영 정상화를 추진하는 제도다.메리티지는 미국 15개 주에서 웬디스 매장 314곳을 운영하고 있다. 치킨·비스킷 체인 보쟁글스 매장 1곳과 자체"
+    },
+    {
+      "id": "864dc5448e0e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한화큐셀-포스코, '영농형 태양광' 보급 맞손",
+      "link": "https://zdnet.co.kr/view/?no=20260921083308",
+      "published": "2026-09-20T23:46:24+00:00",
+      "summary": "[지디넷코리아]한화솔루션 큐셀부문(이하 한화큐셀)과 포스코가 지난 17일 국내 영농형 태양광 활성화와 국내 산업 생태계 조성을 위한 업무협약(MOU)을 체결했다고 21일 밝혔다.양사는 영농형 태양광에 최적화된 모듈과 하부 구조물 패키지를 공동으로 개발, 공급하고 향후 국내 기업 간 얼라이언스를 구성해 영농형태양광 통합 솔루션을 마련할 계획이다.영농형 태양광은 영농과 태양광 발전을 병행해 농촌의 지속가능성을 높이는 솔루션이다. 모듈의 배치, 각도 등을 최적화해 작물 재배에 필요한 일조량을 공급하면서"
+    },
+    {
+      "id": "ad607cac2e8a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "published": "2026-09-20T22:13:46+00:00",
+      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 215 # Comments: 137"
+    },
     {
       "id": "b2eead9725e7",
       "source": "TechCrunch",
@@ -386,6 +474,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215496",
       "published": "2026-09-20T06:31:42+00:00",
       "summary": "젠슨 황 엔비디아 CEO가 AI로 인해 인류가 멸종하거나 2030년 세계가 끝날 가능성은 없다고 다시 한번 강조했다. 최근 AI 업계 일각에서 제기된 종말론적 우려에 대해 거듭 강하게 반박한 것이다.황 CEO는 18일(현지시간) CBS 뉴스의 '선데이 모닝' 인터뷰에서 AI가 초래할 수 있는 종말론적 시나리오와 관련해 “어떻게 표현하든 2030년이 세계의 종말이 되는 일은 없을 것”이라며 “세계가 끝날 가능성은 0%”라고 말했다.이번 인터뷰는 앤트로픽 출신 연구진이 \"AI를 만드는 사람들은 이번 "
+    },
+    {
+      "id": "b792e5265d5d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "published": "2026-09-20T06:16:42+00:00",
+      "summary": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 248 # Comments: 212"
     },
     {
       "id": "35b3d4506825",
