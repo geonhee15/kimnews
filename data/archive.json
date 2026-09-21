@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-09-21T14:07:22.993597+00:00",
-  "count": 13662,
+  "updated_at": "2026-09-21T19:26:01.013925+00:00",
+  "count": 13685,
   "items": [
+    {
+      "id": "8c336f96a3a8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "published": "2026-09-21T19:19:21+00:00",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+    },
+    {
+      "id": "f1372afcd716",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+      "published": "2026-09-21T18:33:02+00:00",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations."
+    },
+    {
+      "id": "3ca9c693e25e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "published": "2026-09-21T18:23:05+00:00",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50 megawatt nuclear power plant."
+    },
+    {
+      "id": "07f0396219d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "published": "2026-09-21T17:55:18+00:00",
+      "summary": "Muse isn't welcome as a shopper anymore."
+    },
+    {
+      "id": "2e58e993c2bc",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "An ex-OpenAI researcher just deleted language from the LLM...",
+      "link": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
+      "published": "2026-09-21T17:52:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e7f1ce0a32dc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+      "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+      "published": "2026-09-21T17:47:54+00:00",
+      "summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2"
+    },
+    {
+      "id": "45258d30e1d5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
+      "link": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
+      "published": "2026-09-21T17:22:19+00:00",
+      "summary": "Despite admitting to a “component issue,” the company refuses to say what went wrong, how many units are affected in how many countries, and why it won’t recall its $500 AI toothbrush."
+    },
+    {
+      "id": "90dc76b5dd06",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "published": "2026-09-21T16:57:26+00:00",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet."
+    },
+    {
+      "id": "7779d0298bc1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "published": "2026-09-21T16:38:51+00:00",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
+    },
+    {
+      "id": "54a892dd2a29",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Grok 4.7",
+      "link": "https://x.ai/news/grok-4-7",
+      "published": "2026-09-21T15:50:15+00:00",
+      "summary": "Article URL: https://x.ai/news/grok-4-7 Comments URL: https://news.ycombinator.com/item?id=49788838 Points: 317 # Comments: 262"
+    },
+    {
+      "id": "11b74f770b0c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "published": "2026-09-21T15:37:56+00:00",
+      "summary": "The president offered few details on what his proposed new AI Force would do."
+    },
+    {
+      "id": "fcd6487f0d72",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+      "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+      "published": "2026-09-21T15:13:32+00:00",
+      "summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knock"
+    },
+    {
+      "id": "8312974ba64c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "published": "2026-09-21T14:39:22+00:00",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience."
+    },
+    {
+      "id": "9927f0ad0273",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "published": "2026-09-21T14:30:00+00:00",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25."
+    },
+    {
+      "id": "2b739c845ebc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Attention is all you have",
+      "link": "https://alicegg.tech/2026/09/21/attention",
+      "published": "2026-09-21T14:26:56+00:00",
+      "summary": "Article URL: https://alicegg.tech/2026/09/21/attention Comments URL: https://news.ycombinator.com/item?id=49787726 Points: 330 # Comments: 95"
+    },
+    {
+      "id": "bb22b5607e33",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
+      "link": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
+      "published": "2026-09-21T14:15:09+00:00",
+      "summary": "It’s actually pretty good for an iPhone, given Apple’s long-standing reticence to make its products repairable."
+    },
+    {
+      "id": "c451dd499e57",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What Sun got wrong",
+      "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "published": "2026-09-21T14:03:18+00:00",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=49787436 Points: 359 # Comments: 191"
+    },
     {
       "id": "52cb0a08e221",
       "source": "The Verge",
@@ -12,6 +199,17 @@
       "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "published": "2026-09-21T14:00:00+00:00",
       "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which wa"
+    },
+    {
+      "id": "9aee1230fedb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'금융권 SW 공급망 보안 플랫폼' 시선...178곳 참여",
+      "link": "https://zdnet.co.kr/view/?no=20260921225144",
+      "published": "2026-09-21T13:51:44+00:00",
+      "summary": "[지디넷코리아]금융보안원(원장 박상원, 이하 금보원)이 올 2월 6일 운영을 시작한 '금융권 SW공급망보안 플랫폼'에 21일 현재 178개 금융회사가 참여하고 있는 것으로 나타났다. 이 플랫폼은 SW 공급망 보안 위협에 대한 금융권의 체계적인 공동 대응을 지원한다. 금융회사와 화이트해커, SW 개발사가 참여해 구축했다. 특히 '금융권 SW공급망보안 플랫폼'은 취약점 발굴(화이트해커)-검증(금융보안원)-패치개발(개발사)-조치(금융회사)의 전 과정을 하나로 연계했다.21일 금보원에 따르면, 플랫폼 운"
     },
     {
       "id": "f0e7c0e239ae",
@@ -45,6 +243,39 @@
       "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
       "published": "2026-09-21T13:36:52+00:00",
       "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, "
+    },
+    {
+      "id": "c5cbf563f4eb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인도 진출 10년의 기록...어피닛 ‘매스니치 서바이벌’ 책 출간",
+      "link": "https://zdnet.co.kr/view/?no=20260921223557",
+      "published": "2026-09-21T13:35:57+00:00",
+      "summary": "[지디넷코리아]AI 금융 기업 어피닛이 인도 금융 시장을 개척해 온 지난 10년의 여정을 담은 기업 논픽션 ‘매스니치 서바이벌’을 출간했다.21일 회사에 따르면, 이번 도서는 2014년 한국 스타트업으로 출발한 어피닛이 인도 현지에서 모바일 금융 플랫폼 ‘트루밸런스’를 성장시키기까지의 도전과 시행착오를 담아냈다. ‘크래프톤 웨이’를 집필한 이기문 작가가 경영진과 구성원들을 직접 취재해 완성했다.책 제목의 ‘매스니치(Mass Niche)’는 겉으로는 틈새처럼 보이지만 실제로는 거대한 규모를 가진 시"
+    },
+    {
+      "id": "77979f0058a0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "비즈니스 항공 스타트업 넥서스젯, 스테어랩 손잡고 ‘넥서스 ERP’ 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260921223034",
+      "published": "2026-09-21T13:30:34+00:00",
+      "summary": "[지디넷코리아]비즈니스 항공 지상조업 스타트업 넥서스젯이 프라이빗 제트 지상조업 업무 전 과정을 통합 관리하는 자체 시스템 ‘넥서스 ERP’를 구축해 현장에 도입했다.21일 회사에 따르면, 이번 시스템은 AI 업무 시스템 개발 기업 스테어랩과 협력해 기획부터 1차 개발까지 전 과정을 AI로 구현했다. 넥서스젯은 한국으로 입출국하는 전 세계 전용기의 운항 허가·급유·지상 장비·승무원 및 승객 출입국 지원·케이터링 등을 원스톱으로 처리하는 지상조업 전문 기업이다. 그간 비행 1건당 중복 문서 작성과 "
+    },
+    {
+      "id": "c20a3589f96f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포티넷 포티엔드포인트, ‘AV-컴패러티브스 2026'서 리더 인증",
+      "link": "https://zdnet.co.kr/view/?no=20260921221142",
+      "published": "2026-09-21T13:11:42+00:00",
+      "summary": "[지디넷코리아]미국 캘리포니아주 서니베일(Sunnyvale)에 본사가 있는 네트워크 보안 융합 글로벌 기업 포티넷(CEO 켄 지)이 AV-컴패러티브스(AV-Comparatives)의 '2026 엔드포인트 방어 및 대응(Endpoint Prevention and Response, EPR) 테스트'에서 '인증 리더(Certified Leader)'를 획득했다.포티넷은 작년에 '포티EDR(FortiEDR)'로 'AV-컴패러티브스' EPR 테스트 인증을 받은 데 이어 올해는 '포티엔드포인트 with ED"
     },
     {
       "id": "2e400574a3b9",
@@ -322,6 +553,17 @@
       "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 239 # Comments: 28"
     },
     {
+      "id": "b7a5191f9594",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ZuckOff is a free app that sees Meta glasses before they see you",
+      "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "published": "2026-09-21T10:27:50+00:00",
+      "summary": "https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 334 # Comments: 314"
+    },
+    {
       "id": "a78d336a75b9",
       "source": "Wired",
       "kind": "article",
@@ -573,6 +815,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260921134240",
       "published": "2026-09-21T04:42:40+00:00",
       "summary": "[지디넷코리아]포티투마루가 거대언어모델(LLM)부터 에이전틱 인공지능(AI)까지 국내외 특허 출원을 확대하며 엔터프라이즈 AI 시장을 겨냥한 기술 권리화에 속도를 내고 있다.포티투마루는 '대형 언어 모델 기반의 데이터 표현 생성 방법 및 시스템' 특허를 국내와 미국에 출원했다고 21일 밝혔다. 해당 특허는 한국에서 등록 결정이 완료됐으며 미국에서도 출원을 마쳤다.이번 특허는 LLM이 기업 내 비정형 문서에서 정보를 읽고 사용자가 원하는 형태의 표나 차트로 정리해 제공하는 기술이다. 기업 데이터에 "
+    },
+    {
+      "id": "849649d51d7c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "link": "https://github.com/volotat/mini-AGI/",
+      "published": "2026-09-21T04:42:37+00:00",
+      "summary": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first "
     },
     {
       "id": "40a1dec7d505",
