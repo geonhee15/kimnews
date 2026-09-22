@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-09-22T19:12:05.405342+00:00",
-  "count": 13809,
+  "updated_at": "2026-09-22T22:08:44.285740+00:00",
+  "count": 13832,
   "items": [
+    {
+      "id": "d848723d6bbb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월22일] “제미나이도 해킹했다”…구글 팬들은 오히려 ‘안도’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215553",
+      "published": "2026-09-22T22:00:00+00:00",
+      "summary": "구글의 ‘제미나이’가 보안 테스트 과정에서 실제 기업 3곳의 시스템에 침입한 사실이 뒤늦게 알려졌습니다. 그런데 이 소식이 전해진 뒤 X와 레딧에서는 의외의 반응이 나왔습니다. “구글이 돌아왔다”라거나 “제미나이도 파티에 합류했다”는 식의 환영이었습니다.제미나이는 지난 5월 AI 보안업체 이레귤러(Irregular)가 진행한 사이버보안 평가에서 가상의 기업을 공격하는 테스트를 수행하다 실제 기업 3곳의 시스템에 접근했습니다. 한 곳에서는 비밀번호를 반복해서 추측했고, 다른 두 곳에서는 공개 코드 "
+    },
+    {
+      "id": "7d5b31187cf5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "published": "2026-09-22T21:56:43+00:00",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+    },
+    {
+      "id": "c632c75c55f6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+      "published": "2026-09-22T21:09:40+00:00",
+      "summary": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 API 이용료를 기존 대비 절반 이하로 내렸다.22일(현지시간) 출시된 GPT-6 솔과 루나는 최첨단 모델의 대중화를 목표로 비용 효율성을 극대화한 것이 핵심이다.오픈AI는 기존 'GPT-5.6' 프로모션 가격 대비 API 비용을 50% 인하했다. 이에 따라 GPT-6 솔의 API 가격은 100만 토큰당 입력 2달러·출력 10달러, GPT-"
+    },
+    {
+      "id": "9872a0fd37f0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "published": "2026-09-22T20:52:40+00:00",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, "
+    },
+    {
+      "id": "e16a6514f1f4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215583",
+      "published": "2026-09-22T20:36:34+00:00",
+      "summary": "앤트로픽이 복잡한 추론과 에이전틱 코딩 분야에서 최고 성능을 기록함과 동시에 운영 비용을 대폭 낮춘 최신 프런티어 모델 '클로드 오퍼스 5.5(Claude Opus 5.5)'를 공개했다. 아티피셜 애널리시스(Artificial Analysis)의 지능 지수 1위에 올랐으며, API 기본 요금 인하와 토큰 효율성 향상을 통해 실제 작업 운영 비용을 이전 모델 대비 40% 절감한 것이 가장 큰 특징이다.앤트로픽은 22일(현지시간) 클로드 5.5 제품군의 첫 번째 플래그십 모델인 오퍼스 5.5를 출시했"
+    },
+    {
+      "id": "e1faea4c2db9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"에이전틱 AI 시대 연다\"…퀄컴, 2나노 '스냅드래곤8 엘리트 익스트림 6세대' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260923053611",
+      "published": "2026-09-22T20:36:11+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 모바일 플래그십 프로세서 브랜드를 세분화하며 '멀티 플래그십' 전략을 가동했다. 최상위 라인업 '익스트림'을 추가해 자율적으로 동작하는 에이전틱 인공지능(AI) 시대를 정조준한다.퀄컴은 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 최첨단 2nm(나노미터, 10억분의 1m) 공정을 적용한 차세대 모바일 플랫폼 '스냅드래곤8 엘리트 6세대'와 '스냅드래곤8 엘리트 익스트림 6세대' 2종을 공개했다.퀄컴이"
+    },
+    {
+      "id": "dda0938c844c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글 '제미나이 인텔리전스', 퀄컴 품고 달린다",
+      "link": "https://zdnet.co.kr/view/?no=20260923052031",
+      "published": "2026-09-22T20:22:02+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴과 구글이 인공지능(AI) 동맹을 강화한다. 기기가 바뀔 때마다 사용자가 누구인지 다시 설명할 필요 없이, 스마트폰부터 PC, 자동차에 이르기까지 개인 맥락과 취향을 하나로 잇는 진정한 일상 속 AI를 퀄컴 하드웨어 위에서 완성하겠다는 구상이다.22일(현지시간) 미국 하와이 마우이에서 개막한 '스냅드래곤 서밋 2026' 기조연설 무대에는 크리스티아노 아몬 퀄컴 최고경영자(CEO)와 릭 오스터로 구글 플랫폼·디바이스 총괄 수석부사장(SVP"
+    },
+    {
+      "id": "1f879123601f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "published": "2026-09-22T20:00:00+00:00",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
+    },
+    {
+      "id": "c351aafda77e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+      "published": "2026-09-22T20:00:00+00:00",
+      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming perf"
+    },
+    {
+      "id": "c02d074ad0bc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "published": "2026-09-22T20:00:00+00:00",
+      "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospe"
+    },
+    {
+      "id": "b970de9dfc40",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀄컴, 20년 만에 스마트폰 재정의…\"앱 중심서 '에이전틱 AI'로 대전환\"",
+      "link": "https://zdnet.co.kr/view/?no=20260923045809",
+      "published": "2026-09-22T19:58:09+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 스마트폰의 사용자 경험을 20년 만에 '앱(App) 중심'에서 '에이전트(Agent) 중심'으로 전면 전환하겠다고 선언했다. 사용자가 직접 앱을 찾아 터치하던 조작 방식을 끝내고, 기기 배후에서 인공지능(AI) 에이전트가 사용자 의도를 파악해 작업을 대리 완결하는 '에이전틱 AI 스마트폰' 시대를 열겠다는 포부다. 크리스티아노 아몬 퀄컴 사장 겸 최고경영자(CEO)는 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2"
+    },
+    {
+      "id": "08cb814402d2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+      "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+      "published": "2026-09-22T19:48:08+00:00",
+      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"avai"
+    },
+    {
+      "id": "a86d173f65f9",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "published": "2026-09-22T19:45:47+00:00",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
+    },
+    {
+      "id": "8a323fc54650",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀄컴 \"AI 에이전트, 먼 미래 아닌 실체…'신뢰' 생태계로 시장 연다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260923043226",
+      "published": "2026-09-22T19:32:26+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] \"인공지능(AI) 에이전트는 더 이상 먼 미래 비전이 아닙니다. 올해 서밋에서는 기기 속에서 살아 움직이는 에이전틱 경험을 직접 확인할 것입니다. 이제 기술 업계는 단순한 칩셋 성능 경쟁을 넘어, 소비자가 일상에서 믿고 쓸 수 있는 '신뢰' 기반 AI 생태계를 파트너들과 함께 완성해야 합니다.\"돈 맥과이어 퀄컴 수석부사장 겸 최고마케팅책임자(CMO)는 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026' 개막 기조연설에"
+    },
+    {
+      "id": "02720fa35b97",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "link": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "published": "2026-09-22T19:28:55+00:00",
+      "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Goo"
+    },
+    {
+      "id": "93ad4f430dbd",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "published": "2026-09-22T19:28:23+00:00",
+      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs."
+    },
+    {
+      "id": "8a098d05dfcb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "published": "2026-09-22T19:27:57+00:00",
+      "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
+    },
     {
       "id": "4cd6f9b84ccb",
       "source": "TechCrunch",
@@ -12,6 +199,17 @@
       "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
       "published": "2026-09-22T19:09:11+00:00",
       "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
+    },
+    {
+      "id": "84036e81477f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "published": "2026-09-22T19:08:58+00:00",
+      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra."
     },
     {
       "id": "0f7591f0eed9",
@@ -179,6 +377,39 @@
       "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 234 # Comments: 121"
     },
     {
+      "id": "b8fc1be6b294",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "차세대 AI부터 수술 로봇까지: IEEE, 미래를 이끄는 기술 혁신가들을 조명",
+      "link": "https://zdnet.co.kr/view/?no=20260923001024",
+      "published": "2026-09-22T15:10:24+00:00",
+      "summary": "[지디넷코리아] 세계 최대 기술•공학 커뮤니티, 의료 로봇, 무선 네트워크, 디지털 프라이버시, 전력전자, 컴퓨팅 기술 등에서 이룬 성과를 인정하는 2027 IEEE 기술 분야상 수상자 발표 피스카타웨이, 뉴저지, 2026년 9월 22일 /PRNewswire/ -- 인류의 이익을 위한 기술 발전에 전념하는 세계 최대 기술 전문 조직이자 공익 자선단체인 IEEE가 생명을 구하는 수술 로봇부터 차세대 Wi-Fi와 전기차에 이르는 혁신을 기리며 2027 IEEE 기술 분야상(2027 IEEE Techn"
+    },
+    {
+      "id": "ad045f9e4e7c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "홀리랜드, LARK M3 공개: 다인 및 다중 카메라 프로덕션을 위한 유연하고 확장 가능한 무선 오디오 시스템",
+      "link": "https://zdnet.co.kr/view/?no=20260923001014",
+      "published": "2026-09-22T15:10:14+00:00",
+      "summary": "[지디넷코리아] 최대 4개의 송신기와 4개의 수신기로 구성 가능해 그룹 인터뷰, 다인 콘텐츠 및 다중 카메라 촬영에 방송급 오디오 제공 미디어 하이라이트 확장 가능한 무선 오디오 시스템으로 최대 4개의 송신기와 4개의 수신기 지원 하나의 송신기에서 여러 카메라에 연결된 4개의 수신기로 동시에 오디오 전송 가능 4개의 송신기를 하나의 수신기와 페어링해 여러 사람의 오디오를 독립적으로 녹음 가능 무게 9g의 경량 송신기로 촬영 시 의상에 눈에 띄지 않게 장착 가능 AI 노이즈 캔슬링과 맞춤형 음성 튜"
+    },
+    {
+      "id": "56438fca0712",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "산업 기업의 3분의 1 이상이 사이버보안 위험을 성장의 최대 걸림돌로 인식, 새로운 글로벌 연구 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260923001003",
+      "published": "2026-09-22T15:10:03+00:00",
+      "summary": "[지디넷코리아] 연결된 운영, AI 도입, IT/OT 융합으로 인해 운영 리스크가 확대됨에 따라 산업 기업들의 사이버보안 투자 확대 밀워키, 2026년 9월 22일 /PRNewswire/ -- 산업 자동화 및 디지털 트랜스포메이션 분야의 세계 최대 기업인 로크웰 오토메이션(Rockwell Automation, Inc.,NYSE: ROK)은 오늘 17개국 1,500명의 제조 및 산업 운영 의사결정권자들의 의견을 바탕으로 한 산업 인사이트 보고서인 \"연결성 시대의 운영 복원력(Operational R"
+    },
+    {
       "id": "26ac30f11521",
       "source": "TechCrunch",
       "kind": "article",
@@ -201,6 +432,17 @@
       "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe."
     },
     {
+      "id": "2a6c38b291c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "BOE, IPC서 '15:1 종횡비' TGV 유리 코어 기판 전시",
+      "link": "https://zdnet.co.kr/view/?no=20260922233454",
+      "published": "2026-09-22T14:59:19+00:00",
+      "summary": "[지디넷코리아][베이징(중국)=이기종 기자] BOE가 15대 1 종횡비(AR:Aspect Ratio) 유리관통전극(TGV) 유리 코어 기판을 22일 중국 베이징에서 개막한 자체 연례행사 'IPC 2026'에서 처음 공개했다. BOE는 그간 10대 1 종횡비 TGV 유리 코어 기판을 전시했다. 종횡비는 유리기판 두께(홀 깊이)를 홀 지름(직경)으로 나눈 값이다. 종횡비가 높으면 기판 두께에 비해 비아 홀 크기가 작아 고집적 상호연결 구현에 유리하다. BOE가 전시한 15대 1 종횡비 TGV 유리 코"
+    },
+    {
       "id": "30e32128b9a6",
       "source": "The Verge",
       "kind": "article",
@@ -210,6 +452,17 @@
       "link": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
       "published": "2026-09-22T14:50:00+00:00",
       "summary": "Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers, the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of bein"
+    },
+    {
+      "id": "c37932fa2c11",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "published": "2026-09-22T14:42:59+00:00",
+      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ Comments URL: https://news.ycombinator.com/item?id=49802161 Points: 232 # Comments: 176"
     },
     {
       "id": "403a8c3df34e",
