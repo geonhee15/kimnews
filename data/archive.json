@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-09-22T15:42:36.642068+00:00",
-  "count": 13789,
+  "updated_at": "2026-09-22T19:12:05.405342+00:00",
+  "count": 13809,
   "items": [
+    {
+      "id": "4cd6f9b84ccb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "published": "2026-09-22T19:09:11+00:00",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
+    },
+    {
+      "id": "0f7591f0eed9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "published": "2026-09-22T18:40:30+00:00",
+      "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
+    },
+    {
+      "id": "2ef7fb1fd0ce",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "published": "2026-09-22T18:19:13+00:00",
+      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim."
+    },
+    {
+      "id": "fbb8f49c8640",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+      "link": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+      "published": "2026-09-22T18:10:57+00:00",
+      "summary": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow "
+    },
+    {
+      "id": "33617f8750d8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "published": "2026-09-22T18:00:00+00:00",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
+    },
+    {
+      "id": "1082e7acbaaf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo’s latest expansion strategy: teenagers",
+      "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "published": "2026-09-22T17:36:06+00:00",
+      "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors."
+    },
+    {
+      "id": "623b70d9e0d6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "published": "2026-09-22T17:06:16+00:00",
+      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
+    },
+    {
+      "id": "1d94d5abee72",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is reportedly working on a Whoop-like fitness tracker",
+      "link": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
+      "published": "2026-09-22T17:04:52+00:00",
+      "summary": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The device is in an early stage of de"
+    },
+    {
+      "id": "8237c06a6272",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "published": "2026-09-22T16:34:08+00:00",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVID"
+    },
+    {
+      "id": "82fae4259a23",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "published": "2026-09-22T16:30:07+00:00",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
+    },
+    {
+      "id": "96b458285557",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "published": "2026-09-22T16:30:00+00:00",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test"
+    },
+    {
+      "id": "a5991bed50dd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "published": "2026-09-22T16:29:05+00:00",
+      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 610 # Comments: 538"
+    },
+    {
+      "id": "c0cd9eebe194",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rivian’s R2 beat its own climate goals four years early",
+      "link": "https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half",
+      "published": "2026-09-22T16:03:45+00:00",
+      "summary": "Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The production process for the R2 would rely on more renewable energy, and the vehicle itself would feature more recycled and biodegradable materi"
+    },
+    {
+      "id": "20251380b628",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "published": "2026-09-22T16:01:10+00:00",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of t"
+    },
+    {
+      "id": "d87870abddd4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "published": "2026-09-22T16:00:00+00:00",
+      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use."
+    },
+    {
+      "id": "7c8cad3ce0a6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "link": "https://mouse.dev/blog/muse-runtime-export/",
+      "published": "2026-09-22T15:25:12+00:00",
+      "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 234 # Comments: 121"
+    },
     {
       "id": "26ac30f11521",
       "source": "TechCrunch",
@@ -34,6 +210,17 @@
       "link": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
       "published": "2026-09-22T14:50:00+00:00",
       "summary": "Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers, the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of bein"
+    },
+    {
+      "id": "403a8c3df34e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "published": "2026-09-22T14:30:12+00:00",
+      "summary": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy Comments URL: https://news.ycombinator.com/item?id=49801939 Points: 431 # Comments: 334"
     },
     {
       "id": "68af97949895",
@@ -100,6 +287,17 @@
       "link": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
       "published": "2026-09-22T13:54:13+00:00",
       "summary": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN, MS Now, and Politico from the"
+    },
+    {
+      "id": "87f993ea2bd8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "published": "2026-09-22T13:52:15+00:00",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 410 # Comments: 308"
     },
     {
       "id": "59ad56df00d2",
@@ -595,6 +793,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215559",
       "published": "2026-09-22T08:46:04+00:00",
       "summary": "오픈AI가 최근 AI를 활용한 수학 연구 성과를 잇달아 공개하면서 불거진 학계의 우려를 달래기 위해 독립적인 수학·AI 자문 그룹을 출범시켰다. 세계적인 수학자들로 구성된 외부 기구를 통해 AI가 만들어낸 수학적 성과의 중요성과 공개 방식을 검토하고, AI와 수학계의 소통을 강화한다는 취지다.오픈AI는 21일(현지시간) 뉴저지주 프린스턴의 고등연구소(IAS)에 수학 및 AI 자문 그룹(Advisory Group on Mathematics and Artificial Intelligence)을 신설한"
+    },
+    {
+      "id": "f54caef1ff40",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AMD's random number generator can't generate a 0?",
+      "link": "https://board.flatassembler.net/topic.php?t=24261",
+      "published": "2026-09-22T08:39:43+00:00",
+      "summary": "Article URL: https://board.flatassembler.net/topic.php?t=24261 Comments URL: https://news.ycombinator.com/item?id=49798204 Points: 220 # Comments: 160"
     },
     {
       "id": "46965513079a",
@@ -1220,6 +1429,17 @@
       "lang": "en",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "link": "https://huggingface.co/blog/omlx",
+      "published": "2026-09-21T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "28ffd41eb002",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "link": "https://huggingface.co/blog/evaleval-aisi",
       "published": "2026-09-21T15:00:00+00:00",
       "summary": ""
     },
