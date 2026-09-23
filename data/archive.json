@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-22T22:08:44.285740+00:00",
-  "count": 13832,
+  "updated_at": "2026-09-23T00:31:08.148611+00:00",
+  "count": 13845,
   "items": [
+    {
+      "id": "0a95ac6a5664",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] LLM 마스터: 모델 × 시스템 엔지니어링",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215467",
+      "published": "2026-09-23T00:00:00+00:00",
+      "summary": "LLM 마스터: 모델 × 시스템 엔지니어링에디 유·양기빈·장지선·조수현 | 프리렉2026년 9월 28일추천이유독자는 API 활용을 넘어 트랜스포머의 원리부터 파인튜닝, 서빙 최적화, 고급 RAG와 에이전트까지 LLM 개발의 전체 흐름을 익혀 실제 서비스를 구현하는 역량을 갖추게 됩니다.상세보기올 하반기 들어 서점에서 감지되는 흐름이 하나 있다. LLM을 '가져다 쓰는' 법을 찾던 개발자들이, 이제 '직접 손보고 서빙까지 책임지는' 쪽으로 질문을 옮긴다는 것이다. 기업들이 자체 모델과 사내 AI 서"
+    },
+    {
+      "id": "de0fe3a1768e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "모토로라, 차세대 플래그십폰 ‘시그니처 27’ 베일 벗었다",
+      "link": "https://zdnet.co.kr/view/?no=20260923082646",
+      "published": "2026-09-22T23:52:31+00:00",
+      "summary": "[지디넷코리아]모토로라가 미국 하와이 마우이에서 열린 ‘스냅드래곤 서밋 2026’ 행사에서 차세대 플래그십 스마트폰 ‘시그니처 27’을 공개했다고 엔가젯 등 외신들이 22일(현지시간) 보도했다.시그니처 27은 시그니처 시리즈를 새롭게 단장한 제품으로, 가장 큰 특징은 퀄컴의 최신 모바일 시스템온칩(SoC)인 ‘스냅드래곤 8 엘리트 익스트림 6세대’를 세계 최초로 탑재했다는 점이다.모토로라는 시그니처 27을 자사가 선보인 스마트폰 가운데 “가장 진보된 스마트폰”이라고 강조했다. 뱅앤올룹슨 스피커를 "
+    },
+    {
+      "id": "a4d5560d4f96",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG CNS, 데이터센터 업계 첫 '공간안전인증' 획득…재난 대응 체계 공인",
+      "link": "https://zdnet.co.kr/view/?no=20260923083710",
+      "published": "2026-09-22T23:37:40+00:00",
+      "summary": "[지디넷코리아]LG CNS가 국내 데이터센터 업계 최초로 '공간안전인증'을 획득하며 재난 예방과 대응 역량을 공식 인정받았다.지난해 행정안전부의 '재해경감 우수기업 인증'을 받은 데 이어 데이터센터 안전 운영 체계를 한층 고도화했다.LG CNS는 상암 데이터센터와 부산 데이터센터에서 공간안전인증 인증을 획득했다고 23일 밝혔다.공간안전인증은 한국안전인증원이 주관하고 소방청이 감독하는 국내 유일의 사업장 안전관리 수준 평가 제도다. 신기술 및 설비 개선, 안전경영, 소방안전, 위험물안전, 설비안전,"
+    },
+    {
+      "id": "66e89b006816",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미디어텍, 구글북용 SoC '디멘시티 CX C10 맥스' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260923080809",
+      "published": "2026-09-22T23:33:51+00:00",
+      "summary": "[지디넷코리아]대만 팹리스 미디어텍이 구글 AI 노트북 플랫폼 '구글북'용 새 시스템반도체(SoC)인 '디멘시티 CX C10 맥스'를 공개했다.디멘시티 CX C10 맥스는 Arm이 2024년 공개한 클라이언트용 컴퓨팅 서브시스템(CSS) 기반으로 설계됐다.Arm 코어텍스-X925 1개와 코어텍스-X4 3개, 코어텍스-A720 4개 등 총 8개 코어 CPU와 11코어 Arm 이모탈리스-G925 MC11 GPU를 조합했다.메모리는 LPDDR5X이며 최대 작동 속도는 9600MT/s이다. 노트북 내장 "
+    },
+    {
+      "id": "1b0641247d5f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published": "2026-09-22T23:21:49+00:00",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+    },
+    {
+      "id": "0da3a50fdc92",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, ‘화면 없는 웨어러블’ 만든다…’후프’와 경쟁",
+      "link": "https://zdnet.co.kr/view/?no=20260923080816",
+      "published": "2026-09-22T23:20:11+00:00",
+      "summary": "[지디넷코리아]애플이 화면이 없는 피트니스 트래커를 개발 중이라는 소식이 나왔다.블룸버그 통신은 22일(현지시간) 관계자를 인용해 애플이 후프(Whoop)의 손목 착용형 기기와 유사한 화면 없는 피트니스 추적기를 개발하고 있다고 보도했다.보도에 따르면 애플은 수개월간 해당 분야를 연구해 왔으며, 현재 시제품을 개발하고 있다. 이 프로젝트는 경영진의 지원을 받고 있지만, 애플은 아직 실제 제품 출시 여부를 결정하지 않은 상태다.현재 개발 중인 시제품은 센서가 탑재된 컴퓨팅 모듈을 내장한 얇은 천 소"
+    },
+    {
+      "id": "663c1d1bb81b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마트폰 앱 가고 에이전틱AI 시대 온다",
+      "link": "https://zdnet.co.kr/view/?no=20260923063855",
+      "published": "2026-09-22T22:25:31+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=전화평 기자] 퀄컴이 20년간 이어진 스마트폰 작동 방식을 '앱(App) 중심'에서 스스로 생각하고 행동하는 '에이전틱 인공지능(Agentic AI) 중심'으로 전면 전환하겠다고 선언했다.아울러 구글과 칩셋 및 운영체제(OS)를 아우르는 풀스택 동맹을 맺고, 모바일 최초로 5.0GHz 장벽을 넘어선 최첨단 2nm(나노미터, 10억분의 1m) 듀얼 플래그십 모바일 플랫폼을 전격 공개했다.크리스티아노 아몬 퀄컴 최고경영자(CEO)는 22일(현지시간) 미국 하와이 마우이에"
+    },
+    {
+      "id": "ba9ba36804dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GS인증 국산 AI CAD ‘직스캐드 AX’, 공공·산업 현장 도입 확대",
+      "link": "https://zdnet.co.kr/view/?no=20260922172121",
+      "published": "2026-09-22T22:00:01+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 설계 소프트웨어 전문기업 직스테크놀로지의 국산 AI CAD ‘직스캐드 AX(ZYXCAD AX)’가 공공·연구기관을 비롯해 방산, 로봇, 제조, 건축·건설 등 다양한 산업 현장에서 활용 범위를 넓히고 있다.직스캐드 AX는 국내 기술로 개발한 범용 AI CAD 소프트웨어로 GS(Good Software) 인증을 획득, 조달청 나라장터 디지털서비스몰에서 구매할 수 있다. 현재 한국항공우주연구원(KARI), 국방과학연구소(ADD), 국가유산청, 서울주택도시개발공사(SH) 등"
+    },
     {
       "id": "d848723d6bbb",
       "source": "AI타임스",
@@ -23,6 +111,17 @@
       "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
       "published": "2026-09-22T21:56:43+00:00",
       "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
+    },
+    {
+      "id": "9c31aabe56a0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "published": "2026-09-22T21:25:18+00:00",
+      "summary": "The frontier AI model race has entered its comparison shopping phase."
     },
     {
       "id": "c632c75c55f6",
@@ -69,6 +168,17 @@
       "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 모바일 플래그십 프로세서 브랜드를 세분화하며 '멀티 플래그십' 전략을 가동했다. 최상위 라인업 '익스트림'을 추가해 자율적으로 동작하는 에이전틱 인공지능(AI) 시대를 정조준한다.퀄컴은 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 최첨단 2nm(나노미터, 10억분의 1m) 공정을 적용한 차세대 모바일 플랫폼 '스냅드래곤8 엘리트 6세대'와 '스냅드래곤8 엘리트 익스트림 6세대' 2종을 공개했다.퀄컴이"
     },
     {
+      "id": "0d4ce2264444",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"에이전틱 AI 시대 연다\"…퀄컴, 2나노 '스냅드래곤8 엘리트 6세대 익스트림' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260923053611",
+      "published": "2026-09-22T20:36:11+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=전화평 기자] 퀄컴이 모바일 플래그십 프로세서 브랜드를 세분화하며 '멀티 플래그십' 전략을 가동했다. 최상위 라인업 '익스트림'을 추가해 자율적으로 동작하는 에이전틱 인공지능(AI) 시대를 정조준한다.퀄컴은 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 최첨단 2nm(나노미터, 10억분의 1m) 공정을 적용한 차세대 모바일 플랫폼 '스냅드래곤8 엘리트 6세대'와 '스냅드래곤8 엘리트 6세대 익스트림' 2종을 공개했다.퀄컴이 플래그십 라"
+    },
+    {
       "id": "dda0938c844c",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -78,6 +188,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260923052031",
       "published": "2026-09-22T20:22:02+00:00",
       "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴과 구글이 인공지능(AI) 동맹을 강화한다. 기기가 바뀔 때마다 사용자가 누구인지 다시 설명할 필요 없이, 스마트폰부터 PC, 자동차에 이르기까지 개인 맥락과 취향을 하나로 잇는 진정한 일상 속 AI를 퀄컴 하드웨어 위에서 완성하겠다는 구상이다.22일(현지시간) 미국 하와이 마우이에서 개막한 '스냅드래곤 서밋 2026' 기조연설 무대에는 크리스티아노 아몬 퀄컴 최고경영자(CEO)와 릭 오스터로 구글 플랫폼·디바이스 총괄 수석부사장(SVP"
+    },
+    {
+      "id": "221fc2c983f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글 '제미나이 인텔리전스', 퀄컴 스냅드래곤 품고 달린다",
+      "link": "https://zdnet.co.kr/view/?no=20260923052031",
+      "published": "2026-09-22T20:22:02+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=전화평 기자] 퀄컴과 구글이 인공지능(AI) 동맹을 강화한다. 기기가 바뀔 때마다 사용자가 누구인지 다시 설명할 필요 없이, 스마트폰부터 PC, 자동차에 이르기까지 개인 맥락과 취향을 하나로 잇는 진정한 일상 속 AI를 퀄컴 하드웨어 위에서 완성하겠다는 구상이다.22일(현지시간) 미국 하와이 마우이에서 개막한 '스냅드래곤 서밋 2026' 기조연설 무대에는 크리스티아노 아몬 퀄컴 최고경영자(CEO)와 릭 오스터로 구글 플랫폼·디바이스 총괄 수석부사장(SVP)이 함께 올"
     },
     {
       "id": "1f879123601f",
@@ -256,6 +377,17 @@
       "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
     },
     {
+      "id": "a1bdbf957c36",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "published": "2026-09-22T17:46:02+00:00",
+      "summary": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 344 # Comments: 233"
+    },
+    {
       "id": "1082e7acbaaf",
       "source": "TechCrunch",
       "kind": "article",
@@ -287,6 +419,17 @@
       "link": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
       "published": "2026-09-22T17:04:52+00:00",
       "summary": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The device is in an early stage of de"
+    },
+    {
+      "id": "51da4c1b518d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "published": "2026-09-22T16:51:31+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 226 # Comments: 62"
     },
     {
       "id": "8237c06a6272",
