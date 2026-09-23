@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-23T18:39:37.520473+00:00",
-  "count": 13932,
+  "updated_at": "2026-09-23T21:47:49.825878+00:00",
+  "count": 13949,
   "items": [
+    {
+      "id": "7c8eb15557b7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "published": "2026-09-23T21:00:00+00:00",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues."
+    },
+    {
+      "id": "2fb77ff61146",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "published": "2026-09-23T20:35:17+00:00",
+      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever."
+    },
+    {
+      "id": "c847bf17a24c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+      "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "published": "2026-09-23T20:30:00+00:00",
+      "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price "
+    },
+    {
+      "id": "25db5b942dfb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+      "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+      "published": "2026-09-23T20:30:00+00:00",
+      "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured"
+    },
+    {
+      "id": "ec17da22b421",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "published": "2026-09-23T19:35:53+00:00",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams."
+    },
+    {
+      "id": "cbbcb43d719f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "published": "2026-09-23T19:31:28+00:00",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+    },
+    {
+      "id": "0fc14c449af6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "published": "2026-09-23T19:05:00+00:00",
+      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots."
+    },
+    {
+      "id": "5b04c0c01738",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "published": "2026-09-23T19:00:00+00:00",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure "
+    },
     {
       "id": "63b1ce498789",
       "source": "Wired",
@@ -34,6 +122,17 @@
       "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
       "published": "2026-09-23T18:22:57+00:00",
       "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've trigg"
+    },
+    {
+      "id": "e1ef88a71366",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "published": "2026-09-23T18:06:47+00:00",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 330 # Comments: 312"
     },
     {
       "id": "c0bde7319b58",
@@ -78,6 +177,17 @@
       "link": "https://www.youtube.com/watch?v=ylO0DQeVEBQ",
       "published": "2026-09-23T17:17:22+00:00",
       "summary": ""
+    },
+    {
+      "id": "619f169d5ede",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+      "link": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+      "published": "2026-09-23T17:10:58+00:00",
+      "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\""
     },
     {
       "id": "587fd2519b09",
@@ -146,6 +256,17 @@
       "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos."
     },
     {
+      "id": "ae6ddd0fedff",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 3.8 text-to-speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "published": "2026-09-23T15:29:23+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/ Comments URL: https://news.ycombinator.com/item?id=49817615 Points: 211 # Comments: 107"
+    },
+    {
       "id": "712bd3bb6785",
       "source": "Google DeepMind",
       "kind": "article",
@@ -188,6 +309,17 @@
       "link": "https://drivingbench.com/",
       "published": "2026-09-23T15:14:22+00:00",
       "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 207 # Comments: 175"
+    },
+    {
+      "id": "63b93ddea955",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 세계 최초 풀코스 마라톤 완주한 ‘로봇 설계 원리’ 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215611",
+      "published": "2026-09-23T15:00:00+00:00",
+      "summary": "한국과학기술원(KAIST)이 개발한 세계 최초 ‘풀코스 마라톤 완주 로봇’의 설계 및 기술 원리가 네이처에 게재됐다. 이를 양산형 산업 로봇으로 확대해 나간다는 계획이다.KAIST(총장 배충식)는 황보제민 기계공학과 교수 연구팀이 개발한 사족보행로봇 ‘라이보2(RAIBO2)’의 장거리 주행 기술과 실제 마라톤 완주 결과가 네이처에 게재됐다고 23일 밝혔다. 이번 연구는 사족보행로봇 ‘라이보2’의 마라톤 풀코스 완주로 시작됐다. 라이보2는 지난 2024년 11월 열린 상주 곶감 마라톤 대회에서 배터"
     },
     {
       "id": "55656ec2efa4",
@@ -265,6 +397,17 @@
       "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
       "published": "2026-09-23T14:20:23+00:00",
       "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles."
+    },
+    {
+      "id": "4d55740f1039",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "published": "2026-09-23T14:04:34+00:00",
+      "summary": "Article URL: https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/ Comments URL: https://news.ycombinator.com/item?id=49816374 Points: 248 # Comments: 138"
     },
     {
       "id": "64c38aea7e1c",
@@ -476,6 +619,28 @@
       "summary": ""
     },
     {
+      "id": "887ff934cf47",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "published": "2026-09-23T09:41:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f88d6fe50c49",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tokens too cheap to meter",
+      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "published": "2026-09-23T09:21:17+00:00",
+      "summary": "Article URL: https://jyn.dev/tokens-too-cheap-to-meter/ Comments URL: https://news.ycombinator.com/item?id=49813482 Points: 202 # Comments: 160"
+    },
+    {
       "id": "497eda0ba9bf",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -507,6 +672,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260923181013",
       "published": "2026-09-23T09:10:13+00:00",
       "summary": "[지디넷코리아]베이징, 2026년 9월 23일 /PRNewswire/ -- IDC 세계 분기별 스마트 진공 로보틱스 트래커(IDC Worldwide Quarterly Smart Vacuum Robotics Tracker) 2026년 2분기 자료에 따르면, 로보락(Roborock)이 2026년 상반기 로봇 청소기 브랜드 중 출하량 및 판매액 기준 모두에서 세계 1위를 기록했다. 이 결과는 로보락의 해당 부문에서의 지속적인 리더십을 한층 강화하는 것으로, IDC에 따르면 회사는 2023년 1분기부터 "
+    },
+    {
+      "id": "b9b7e95764d2",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "published": "2026-09-23T09:00:00+00:00",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have a"
     },
     {
       "id": "9979fef912fd",
@@ -683,6 +859,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215617",
       "published": "2026-09-23T05:00:00+00:00",
       "summary": "■ 스카이인텔리전스(대표 이재철)는 KAIST 제조피지컬AI연구소, 다임리서치와 피지컬 AI 분야 기술 협력 및 산업 생태계 확산을 위한 3자 MOU를 체결했다고 밝혔다. 제조 현장의 AI 전환을 위해 공동 연구·사업 및 실증 과제 발굴부터 전문인력 양성, 생태계 확산과 공동 시장 개발까지 협력 범위를 넓혀갈 계획이다. 설비와 물류, 개별 로봇부터 로봇 군집 운영까지 아우르는 공동 연구와 사업을 추진, 실증 과제도 발굴해 나간다.■ 시티아이랩은 현대차 1차 벤더사 공장의 물대포 기반 진압 장비와 "
+    },
+    {
+      "id": "d3a4c56f21dd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 한컴위드, N2SF 기반 'AI 문서 분류 기술' 개발 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215629",
+      "published": "2026-09-23T05:00:00+00:00",
+      "summary": "■ 한컴위드(대표 송상엽)는 커넥셔너리와 AI 지능형 문서 자동 분류 제품 공동 개발을 위한 양해각서(MOU)를 체결했다고 밝혔다. 한컴위드의 데이터 보안 태세 관리(DSPM) 및 암호화 기술에 커넥셔너리의 AI 분류 엔진 '클래시피케이션 스튜디오'를 결합한다. 이를 통해 AI로 문서의 보안등급을 분류하고 암호화까지 연결하는 제품 개발로 국가 망 보안체계(N2SF) 전환에 따른 공공기관의 데이터 분류 수요에 선제적으로 대응한다는 설명이다.■ 리얼월드(대표 류중희)는 22일부터 양일간 서울 코엑스에"
     },
     {
       "id": "9fa638660866",
