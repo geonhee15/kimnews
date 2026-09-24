@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-09-24T09:40:30.862900+00:00",
-  "count": 14009,
+  "updated_at": "2026-09-24T14:27:20.699833+00:00",
+  "count": 14037,
   "items": [
+    {
+      "id": "aea56480d615",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is sending an AI satellite into space next week",
+      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "published": "2026-09-24T14:15:17+00:00",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers"
+    },
+    {
+      "id": "639be192379f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The vibes are bad for Flock in Washington",
+      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "published": "2026-09-24T14:15:05+00:00",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate"
+    },
+    {
+      "id": "cd0c1c81085d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I have some questions for Mark Zuckerberg",
+      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "published": "2026-09-24T14:15:00+00:00",
+      "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisingly good. CEO Mark Zuckerberg has obviously been out there taking a victory lap and participati"
+    },
+    {
+      "id": "632e06035fc6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215647",
+      "published": "2026-09-24T13:59:56+00:00",
+      "summary": "메타가 스마트폰을 거치지 않고 AI 에이전트와 직접 소통하는 전용 모바일 디바이스를 선보이며 자체 AI 생태계 확장에 나섰다.마크 저커버그 메타 CEO는 23일(현지시간) 미국 캘리포니아주 멘로파크 본사에서 열린 연례행사 '메타 커넥트 2026'에서 인기 AI 에이전트 '뮤즈(Muse)'를 즉각 호출해 사용할 수 있는 손바닥 크기의 디바이스 '뮤즈 참(Muse Charm)'을 선보였다. 최근 앱으로 출시돼 다운로드 차트 상위권을 차지한 뮤즈를 전용 하드웨어 영역으로 확장, 애플과 구글이 지배하는 "
+    },
+    {
+      "id": "88e145542516",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo’s driverless cars continue to crash less often than people",
+      "link": "https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver",
+      "published": "2026-09-24T13:53:01+00:00",
+      "summary": "Waymo's latest batch of self-reported data continues to affirm the company's message that its driverless cars are safer than human drivers. As policymakers continue to debate the safety and economic impact of autonomous vehicles, Waymo is hoping that its own data will help bring "
+    },
+    {
+      "id": "2cff46726473",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "published": "2026-09-24T13:31:43+00:00",
+      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Co"
+    },
+    {
+      "id": "1c0f61a0c31f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Everything is spying on you and there’s no opting out",
+      "link": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+      "published": "2026-09-24T13:30:00+00:00",
+      "summary": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risk"
+    },
+    {
+      "id": "1cf748401d1d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215646",
+      "published": "2026-09-24T13:29:05+00:00",
+      "summary": "구글의 차세대 모델 '제미나이 4'의 출시 시점이 당초 예상보다 대폭 앞당겨질 전망이다. 경쟁사들의 공세에 맞서 핵심 모델의 공개 일정을 앞당겨 격차를 줄이고 주도권을 탈환하겠다는 의도다.구글 딥마인드의 수장인 코레이 카부쿠오글루 수석 부사장은 23일(현지시간) 디 인포메이션이 주최한 'AI 어젠다 라이브 서밋' 인터뷰에서 제미나이 4의 개발 현황을 상세히 밝혔다.지난 8월 데미스 허사비스의 뒤를 이어 딥마인드 수장 자리에 오른 이후 가진 첫 인터뷰에서 핵심 모델의 '조기 공개'를 공식화한 것이다"
+    },
+    {
+      "id": "615115503ff9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "published": "2026-09-24T12:54:19+00:00",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+    },
+    {
+      "id": "a4ca924b398e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "안보리 무대 선 알트먼·아모데이 \"AI 통제 불능 위험...글로벌 공조 시급\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215645",
+      "published": "2026-09-24T12:15:25+00:00",
+      "summary": "AI 기업 핵심 리더들이 유엔 안전보장이사회(UNSC)에 참석해 고도화된 AI 시스템이 불러올 수 있는 국가 안보적 위협을 공식 경고했다. 첨단 AI 모델의 성능이 기하급수적으로 강력해짐에 따라 인간의 통제를 벗어나거나 악용될 위험성이 커지고 있는 만큼, 글로벌 차원의 강력한 안전 가이드라인과 공조 체제 구축이 시급하다는 지적이다.프랑스가 의장국을 맡아 23일(현지시간) 미국 뉴욕 유엔 본부에서 개최된 유엔 안보리 고위급 브리핑에는 샘 알트먼 오픈AI CEO가 현장에 직접 출석하고, 다리오 아모데"
+    },
+    {
+      "id": "2ee981c8f3ef",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Collinson Group의 5억 파운드 규모 성장 사업을 기반으로 지속되는Priority Pass의 여행 혁신",
+      "link": "https://zdnet.co.kr/view/?no=20260924211002",
+      "published": "2026-09-24T12:10:02+00:00",
+      "summary": "[지디넷코리아] Collinson Group은 최근 3억 5천 파운드 규모의 신규 자금 조달을 발표하며 5억 파운드에 이르는 성장 전략을 가속화할 예정임을 선언했습니다. 이는 그룹의 견조한 실적에 대한 강한 자신감과 공항 경험 분야에서 혁신을 주도하고 선두주자로서의 입지를 이어가겠다는 의지를 반영하고 있습니다. 디지털 로드맵의 가속화와 새로운 데이터와 AI 역량을 활용하여 그룹의 라운지 네트워크를 크게 확대하는 것이 핵심 주력 과제입니다. 서울, 대한민국, 2026년 9월 24일 /PRNewswi"
+    },
+    {
+      "id": "0cdddce4fc7e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "published": "2026-09-24T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinoi"
+    },
+    {
+      "id": "b2e10a3cd9cc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "published": "2026-09-24T11:52:32+00:00",
+      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapi"
+    },
+    {
+      "id": "fd66125a9bc1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "유튜브, 생성 AI 전면 도입...\"말 한마디로 편집하고 맞춤 피드 구축\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+      "published": "2026-09-24T11:41:06+00:00",
+      "summary": "세계 최대 동영상 플랫폼 유튜브에 크리에이터가 자연어로 동영상을 편집하고 시청자가 프롬프트로 자신만의 추천 알고리즘을 구축하는 등 AI 기능이 대대적으로 추가됐다.유튜브는 23일(현지시간) 연례행사 ‘메이드 온 유튜브’를 개최하고 생성 AI 기술을 편집, 알고리즘 피드, 스튜디오 분석, 쇼핑 등 서비스 전반에 통합한 신규 기능을 대거 공개했다.이번 발표 중 가장 눈길을 끄는 것은 크리에이터의 제작 부담을 혁신적으로 줄이는 대화형 AI 편집 도구다. 구글의 최신 멀티모달 모델인 '제미나이 옴니(Ge"
+    },
+    {
+      "id": "fe59c63f46b3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+      "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "published": "2026-09-24T11:00:04+00:00",
+      "summary": "Usable local AI is a lot of fun, but how much would you pay for it?"
+    },
+    {
+      "id": "d89821238b58",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+      "published": "2026-09-24T10:54:31+00:00",
+      "summary": "앤트로픽이 최신 AI 모델의 성능을 끌어내기 위한 프롬프트 작성과 작업 관리 전략을 제시했다. 단순히 모델에 더 많이 생각하라고 요구하기보다 작업의 목표와 완료 조건을 명확히 제시하고, 장시간 작업에서는 진행 상황을 체계적으로 관리하는 것이 중요하다는 설명이다. 앤트로픽은 23일(현지시간) 최신 AI 모델인 '클로드 오퍼스 5.5(Opus 5.5)'를 더 효과적으로 활용할 수 있도록 프롬프트 작성법과 장시간 작업 관리, 결과 검토 방법 등을 담은 사용 가이드를 공개했다.오퍼스 5.5가 모든 답변에"
+    },
+    {
+      "id": "a2d83b4ea60f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "published": "2026-09-24T10:46:56+00:00",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law."
+    },
+    {
+      "id": "80b633e1ac21",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+      "published": "2026-09-24T10:40:06+00:00",
+      "summary": "오픈AI가 '챗GPT'의 음성 모드에 에이전트 기능을 결합해 사용자가 말만으로 이메일·캘린더·슬랙 등 외부 서비스를 활용하고 복잡한 작업까지 수행할 수 있도록 기능을 확대했다. 이번 업데이트는 기존 고급 음성 모드에 웹 검색 및 액션 수행 에이전트와 외부 앱 플러그인 연동을 통합한 것이 핵심이다.오픈AI는 23일(현지시간) 최신 버전의 챗GPT 모바일 앱과 웹사이트에서 음성 모드에 플러그인 지원을 추가하고, '챗GPT 워크'에서도 음성으로 에이전트 기능을 사용할 수 있도록 했다고 발표했다.이에 따"
+    },
+    {
+      "id": "fefc947931e4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+      "published": "2026-09-24T10:26:22+00:00",
+      "summary": "딥시크가 대규모 AI 에이전트 학습 과정에서 수많은 실행 환경을 효율적으로 관리하고 에이전트의 예기치 않은 돌발 행동을 차단하기 위한 전용 인프라 기술을 공개했다.량원펑 딥시크 창립자를 포함한 연구진은 19일 대규모 에이전트 학습을 위해 설계된 샌드박스 플랫폼 ‘딥시크 엘라스틱 컴퓨트(DSec·DeepSeek Elastic Compute)’를 온라인 아카이브를 통해 발표했다.이번 발표는 AI 경쟁이 단순 텍스트 생성에서 코드를 실행하고 작업을 수행하는 에이전트 영역으로 이동하는 가운데, 에이전트 "
+    },
+    {
+      "id": "57163b1aae09",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI is dominating the conversation at Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "published": "2026-09-24T10:00:00+00:00",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a l"
+    },
+    {
+      "id": "a922900a9880",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '제미나이 3.8 플래시 TTS' 공개...'음성 디자인' 패러다임 연다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215636",
+      "published": "2026-09-24T09:54:04+00:00",
+      "summary": "구글이 자연어 프롬프트만으로 새로운 음성을 설계하고 대사별 연기와 억양까지 세밀하게 조절할 수 있는 텍스트 음성 변환(TTS) 모델 2종을 출시했다. 기존의 고정된 음성 선택 방식에서 벗어나 게임, 오디오북, 팟캐스트, 더빙, 음성 에이전트 등 다양한 분야에서 맞춤형 음성을 제작할 수 있도록 한 것이 특징이다.구글은 23일(현지시간) 제미나이 오디오 제품군에 '제미나이 3.8 플래시 TTS'와 '제미나이 3.8 플래시-라이트 TTS'를 추가했다고 밝혔다.플래시 TTS는 창작자와 개발자가 캐릭터 음"
+    },
     {
       "id": "7c24c3119adf",
       "source": "Wired",
@@ -23,6 +254,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215641",
       "published": "2026-09-24T09:21:57+00:00",
       "summary": "러시아의 사이버 공격이 격화하는 가운데 오픈AI가 우크라이나 정부에 AI 기반 사이버 방어 시스템 '데이브레이크(Daybreak)'를 무료로 제공한다. 이번 지원은 디지털 혁신부와 직접 협력해 병원, 발전소 등 민간 핵심 인프라를 디지털 위협으로부터 보호하는 데 집중된다.23일(현지시간) BBC에 따르면 이번 협력은 유엔 총회 부대행사에서 공식 발표됐다. 행사에는 사샤 베이커 오픈AI 국가안보정책 총괄과 드미트로 쿠슈네루크 주샌프란시스코 총영사 등이 참석했으며, 양측은 민간 인프라를 타깃으로 한 "
+    },
+    {
+      "id": "fa84433e7af8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브라마 AI, 멀티플스 주도로 1억 5000만 달러 투자 유치",
+      "link": "https://zdnet.co.kr/view/?no=20260924181003",
+      "published": "2026-09-24T09:10:03+00:00",
+      "summary": "[지디넷코리아] 브라마 AI가 기업용 시청각 콘텐츠 운영체제를 구축하는 가운데 연구개발(R&D), 글로벌 시장 진출 및 실리콘밸리 거점 확대에 이번 투자금이 투입될 예정 로스앤젤레스, 런던 및 뭄바이, 2026년 9월 24일 /PRNewswire/ -- 기업용 시청각 콘텐츠를 위한 AI 네이티브 운영체제 기업 브라마 AI(Brahma AI)가 멀티플스 얼터너티브 애셋 매니지먼트(Multiples Alternate Asset Management)가 미화 1억 달러를 투자한 우선주 발행을 통해 총 미"
     },
     {
       "id": "2a71dd2acaf4",
@@ -53,6 +295,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+      "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "published": "2026-09-24T08:40:55+00:00",
+      "summary": ""
+    },
+    {
+      "id": "86ae5df37e15",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
       "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "published": "2026-09-24T08:40:55+00:00",
       "summary": ""
@@ -122,6 +375,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
       "published": "2026-09-24T05:13:03+00:00",
       "summary": "메타가 연례 행사 '커넥트 2026'에서 개인용 AI 에이전트 '뮤즈(Muse)'의 지원 범위를 AI 안경으로 확대하고, 새로운 안경 제품군을 공개했다.23일(현지시간) 캘리포니아 멘로파크의 본사에서 열린 행사를 통해 공개된 뮤즈 탑재 AI 안경은 스마트폰을 확인하지 않고도 스포츠 경기 결과나 주변 맛집 등의 정보를 확인하고 실시간 대화 번역을 이용할 수 있도록 지원한다.사용자의 목표와 일정을 바탕으로 한 개인화 기능도 제공할 예정이다. 뮤즈의 국내 출시 일정은 미정이다.여기에 카메라를 제외한 첫"
+    },
+    {
+      "id": "ab4622ebf2be",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전' 추가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
+      "published": "2026-09-24T05:13:03+00:00",
+      "summary": "메타가 연례 행사 '커넥트 2026'에서 개인용 AI 에이전트 '뮤즈(Muse)'의 지원 범위를 AI 안경으로 확대하고, 새로운 안경 제품군을 공개했다.23일(현지시간) 캘리포니아 멘로파크의 본사에서 열린 행사를 통해 공개된 뮤즈 탑재 AI 안경은 스마트폰을 확인하지 않고도 스포츠 경기 결과나 주변 맛집 등의 정보를 확인하고 실시간 대화 번역을 이용할 수 있도록 지원한다.사용자의 목표와 일정을 바탕으로 한 개인화 기능도 제공할 예정이다. 뮤즈의 국내 출시 일정은 미정이다.여기에 카메라를 제외한 첫"
+    },
+    {
+      "id": "791facd8f0c8",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "published": "2026-09-24T05:08:57+00:00",
+      "summary": ""
     },
     {
       "id": "f226b76b1ba2",
@@ -210,6 +485,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215637",
       "published": "2026-09-24T03:06:33+00:00",
       "summary": "마이크로소프트(MS)가 AI 에이전트와 코딩 도구를 통합한 ‘슈퍼 앱’ 출시를 앞두고 코파일럿의 대규모 구독료 할인 정책을 펼치는 등 비즈니스 모델 재편에 본격적으로 나섰다.22일(현지시간) 디 인포메이션에 따르면, MS는 최근 영업 임직원들에게 기업 고객이 대량 라이선스를 구매하고 특정 기능 사용량에 따라 추가 결제를 약정할 경우 코파일럿 구독료를 30%에서 최대 50%까지 할인하도록 지침을 내렸다. 기존에는 2000개 이상 라이선스를 구매하는 기업에 10% 수준의 할인만 제공해 왔으나, 100"
+    },
+    {
+      "id": "b04c050c912b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ideas on modernizing the open-source desktop",
+      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "published": "2026-09-24T02:52:09+00:00",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ Comments URL: https://news.ycombinator.com/item?id=49825642 Points: 252 # Comments: 294"
     },
     {
       "id": "49f6ca67b4c1",
@@ -509,6 +795,17 @@
       "summary": "테슬라의 101억달러(약 13조6500억원) 규모 텍사스 태양광 셀·모듈 공장 건설 프로젝트가 현지 교육 당국의 세제지원 승인을 받으며 한 단계 진전했다. 다만 테슬라는 텍사스 외 다른 지역 후보지도 비교 검토 중이어서 최종 입지는 미정이다.텍사스주 라마 통합독립교육구 이사회는 지난 15일(현지시간) 테슬라의 ‘프로젝트 크리스털 선(Project Crystal Sun)’에 대한 적격 자산 과세가액 제한 협약 절차를 진행하는 결의안을 7대 0으로 승인했다. 교육구 승인을 받은 가운데 최종 협약 체결"
     },
     {
+      "id": "c73b6234cada",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "published": "2026-09-23T22:45:49+00:00",
+      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ Comments URL: https://news.ycombinator.com/item?id=49823664 Points: 243 # Comments: 30"
+    },
+    {
       "id": "febe6c5143e4",
       "source": "The Verge",
       "kind": "article",
@@ -771,6 +1068,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
       "published": "2026-09-23T18:00:00+00:00",
       "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prep"
+    },
+    {
+      "id": "d41b33ce7a4f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Making Tailscale Faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "published": "2026-09-23T17:49:07+00:00",
+      "summary": "Article URL: https://tailscale.com/blog/making-tailscale-faster Comments URL: https://news.ycombinator.com/item?id=49819880 Points: 205 # Comments: 80"
     },
     {
       "id": "a002c818d154",
