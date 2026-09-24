@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-09-23T21:47:49.825878+00:00",
-  "count": 13949,
+  "updated_at": "2026-09-24T00:11:36.709665+00:00",
+  "count": 13968,
   "items": [
+    {
+      "id": "54b15945d627",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+      "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+      "published": "2026-09-24T00:00:00+00:00",
+      "summary": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses."
+    },
+    {
+      "id": "be42d37342d8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "published": "2026-09-23T23:47:35+00:00",
+      "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options."
+    },
+    {
+      "id": "4ff27081b132",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "published": "2026-09-23T23:42:44+00:00",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses."
+    },
+    {
+      "id": "5cc9235fb0bf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "published": "2026-09-23T23:39:44+00:00",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+    },
+    {
+      "id": "103e41ba18f9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "published": "2026-09-23T23:37:17+00:00",
+      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catch"
+    },
+    {
+      "id": "809a9648bc65",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "published": "2026-09-23T23:33:22+00:00",
+      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\""
+    },
+    {
+      "id": "47685f48f267",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "published": "2026-09-23T23:19:42+00:00",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to commu"
+    },
+    {
+      "id": "febe6c5143e4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "published": "2026-09-23T22:45:00+00:00",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been f"
+    },
+    {
+      "id": "3493d8c6fc9f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "published": "2026-09-23T22:30:00+00:00",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length "
+    },
+    {
+      "id": "74ee20e4745e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published": "2026-09-23T22:17:39+00:00",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+    },
+    {
+      "id": "e48054252161",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월23일] AI 에이전트, 이제야 ‘진짜 개인 비서’에 가까워지나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215598",
+      "published": "2026-09-23T22:00:00+00:00",
+      "summary": "AI 에이전트라는 말이 등장한 지는 벌써 2~3년이 됐습니다. 하지만 최근 들어서야 일반 사용자들이 체감할 만한 서비스가 나오기 시작했습니다. 스페이스XAI의 ‘그록봇(Grok Bot)’은 출시 한 달 만에 이용자 40만명 이상을 확보했고, 메타의 개인용 에이전트 ‘뮤즈(Muse)’도 출시 첫 주 50만명 이상의 사용자를 확보한 것으로 알려졌습니다.아직 이 수치만으로 에이전트가 대중화됐다고 보기는 어렵습니다. 다만 그동안 기업이나 개발자의 생산성 도구에 가까웠던 AI 에이전트가 일반 소비자의 일상"
+    },
+    {
+      "id": "d8818a1d1f4c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "FXT, 시장 인사이트, 위험 인식, 트레이더 성장을 도와주는 멀티 에이전트 트레이딩 코파일럿 FXT AI 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260924061002",
+      "published": "2026-09-23T21:10:02+00:00",
+      "summary": "[지디넷코리아] 시드니 2026년 9월 23일 /PRNewswire/ -- FXT가 FXT 트레이딩 플랫폼에 직접 통합된 첨단 AI 트레이딩 코파일럿 FXT AI의 출시를 9월 23일 발표했다. FXT AI는 트레이더의 경쟁 우위를 즉시 높여주도록 설계돼 시장을 지속적으로 관찰하고 거래 이력을 검토하며 위험을 모니터링하는 전담 파트너 역할을 한다. FXT AI를 소개합니다. 손끝에서 시작되는 트레이딩 혁명. 트레이더들은 위험 노출을 관리하면서 방대한 시장 데이터를 이해하느라 애를 먹을 때가 많다."
+    },
     {
       "id": "7c8eb15557b7",
       "source": "Wired",
@@ -14,6 +146,28 @@
       "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues."
     },
     {
+      "id": "31e7b6a76d75",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "published": "2026-09-23T20:52:28+00:00",
+      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel."
+    },
+    {
+      "id": "9031130493a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀄컴, '스냅드래곤 사운드 엘리트 2세대' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260924054245",
+      "published": "2026-09-23T20:42:45+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 무선 이어폰 등 오디오 웨어러블 기기가 단순히 소리를 듣는 도구를 넘어, 사용자의 상황을 인지하고 대화형으로 돕는 '인공지능(AI) 비서'로 탈바꿈한다.퀄컴은 24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 차세대 지능형 오디오 기기를 위한 '스냅드래곤 사운드 엘리트 2세대 플랫폼'을 공개했다. 이번 신규 플랫폼은 프리미엄 오디오 기술에 강력한 온디바이스 AI, 클라우드 연동 AI, 초저전력 와이파이(Wi-Fi"
+    },
+    {
       "id": "2fb77ff61146",
       "source": "TechCrunch",
       "kind": "article",
@@ -23,6 +177,17 @@
       "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
       "published": "2026-09-23T20:35:17+00:00",
       "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever."
+    },
+    {
+      "id": "c4d0ba854854",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"스마트폰 다음은 XR\"…퀄컴·삼성·구글, 차세대 폼팩터 3자 연합 구축",
+      "link": "https://zdnet.co.kr/view/?no=20260924053226",
+      "published": "2026-09-23T20:32:26+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 스마트폰 시대를 이끌었던 퀄컴, 삼성전자, 구글이 차세대 개인화 인공지능(AI)과 확장현실(XR) 시장 주도권 확보를 위해 하드웨어, 운영체제(OS), 완제품을 아우르는 3자 협력 체계를 본격 가동한다.지아드 아스가르 퀄컴 수석 부사장 겸 XR·웨어러블·퍼스널 AI 본부장은 24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 웨어러블 및 XR 생태계 전략을 발표했다.발표는 구글과 합동 세션으로 진행됐으며, 삼성전자"
     },
     {
       "id": "c847bf17a24c",
@@ -45,6 +210,17 @@
       "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
       "published": "2026-09-23T20:30:00+00:00",
       "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured"
+    },
+    {
+      "id": "c9929ec2aee0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스냅드래곤 NPU 품은 리퀴드AI…'에이전틱 폰' 진화 앞당긴다",
+      "link": "https://zdnet.co.kr/view/?no=20260924045802",
+      "published": "2026-09-23T19:58:02+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 파운데이션 모델 전문 기업 '리퀴드 AI(Liquid AI)'와 손잡고 스마트폰 기기 단에서 사용자의 일상을 파악해 스스로 행동하는 '선제적(Proactive) 에이전트' 생태계 구축에 전격 나선다.크리스티아노 아몬 퀄컴 최고경영자(CEO)는 24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026' 기조연설에서 라민 하사니 리퀴드 AI CEO와 대담을 갖고 기기 단에서 선제적으로 작동하는 AI 에이전트의 청사진을 제"
     },
     {
       "id": "ec17da22b421",
@@ -212,6 +388,17 @@
       "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
     },
     {
+      "id": "466a305cc6f5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "published": "2026-09-23T16:35:34+00:00",
+      "summary": "Article URL: https://unlisted.careers/ghost-jobs/report/2026-09 Comments URL: https://news.ycombinator.com/item?id=49818698 Points: 221 # Comments: 281"
+    },
+    {
       "id": "754bef19407e",
       "source": "The Verge",
       "kind": "article",
@@ -309,6 +496,28 @@
       "link": "https://drivingbench.com/",
       "published": "2026-09-23T15:14:22+00:00",
       "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 207 # Comments: 175"
+    },
+    {
+      "id": "4747b2d3a732",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코그넥스, 반도체 제조사의 생산 확대 지원하는 새로운 웨이퍼 리더 출시",
+      "link": "https://zdnet.co.kr/view/?no=20260924001002",
+      "published": "2026-09-23T15:10:02+00:00",
+      "summary": "[지디넷코리아] In-Sight® 1750, 첨단 반도체 수요 증가 속 칩 제조업체의 생산 처리량과 제품 품질 유지 지원 네이틱, 매사추세츠, 2026년 9월 23일 /PRNewswire/ -- 산업용 머신 비전 분야의 글로벌 기술 선도기업 코그넥스(Cognex Corporation)(NASDAQ: CGNX)가 오늘 반도체 제조업체가 생산 중단을 줄이고 추적성을 개선하며 생산 처리량을 유지할 수 있도록 설계된 차세대 웨이퍼 및 패널 식별 시스템 In-Sight® 1750 Series를 출시한다고 "
+    },
+    {
+      "id": "617c7835e736",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배터리 교체없이 마라톤 완주 '라이온2', 네이처 실려",
+      "link": "https://zdnet.co.kr/view/?no=20260923185129",
+      "published": "2026-09-23T15:00:03+00:00",
+      "summary": "[지디넷코리아]2년 전 배터리 재충전이나 교체없이 마라톤 풀코스를 완주해 화제가 됐던 KAIST 국산 로봇개(4족보행 로봇)이 국내 로봇 연구로는 처음으로 국제학술지 '네이처'에 게재됐다.실린 내용은 KAIST 교원창업기업 라이온로보틱스(대표 황보제민, KAIST 교수)가 개발한 사족보행 로봇 ‘라이보2(RAIBO2)’의 장거리 주행 기술과 풀코스 마라톤 완주 결과에 대한 분석이다.황보제민 교수는 \"같은 용량의 배터리로 미국·중국 대표적인 로봇개들의 3배 넘는 거리를 이동하는 성능을 나타냈다. 로"
     },
     {
       "id": "63b93ddea955",
