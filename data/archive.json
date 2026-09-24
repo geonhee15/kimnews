@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-24T18:32:39.816059+00:00",
-  "count": 14060,
+  "updated_at": "2026-09-24T21:49:33.402073+00:00",
+  "count": 14081,
   "items": [
+    {
+      "id": "95f0d01d91f4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, 퀄컴 칩 의존 낮춰도 통신 특허 계약은 연장",
+      "link": "https://zdnet.co.kr/view/?no=20260925062734",
+      "published": "2026-09-24T21:30:01+00:00",
+      "summary": "[지디넷코리아]애플이 자체 모뎀 탑재를 늘리며 퀄컴 칩 의존도를 낮추고 있지만 무선통신 특허 관계는 이어간다. 퀄컴과 글로벌 라이선스 계약을 연장하면서 자체 칩 개발과 별개로 퀄컴의 핵심 무선통신 지식재산권을 계속 활용하게 됐다.24일(현지시간) 모바일월드라이브에 따르면 퀄컴은 애플과 글로벌 라이선스 계약을 갱신했다. 새 계약은 2027년 4월1일부터 발효된다.존 한 퀄컴 테크놀로지라이선싱 총괄부사장은 “애플과 라이선스 계약을 연장하게 돼 기쁘다”고 말했다.계약은 애플이 아이폰에 자체 개발한 셀룰"
+    },
+    {
+      "id": "a7f7e66bd9c2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI 파편화 끝낸다\"… 퀄컴, '모듈러' 품고 스냅드래곤·윈도우 생태계 대통합",
+      "link": "https://zdnet.co.kr/view/?no=20260925043330",
+      "published": "2026-09-24T20:57:39+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 각기 다른 AI 하드웨어로 인해 발생하는 소프트웨어 파편화 문제를 해결하기 위해 '통합 AI 소프트웨어 스택' 구축에 승부수를 던졌다. 데이터센터부터 로컬 PC, 초저전력 엣지 디바이스까지 아우르는 스냅드래곤 전체 포트폴리오를 하나의 개발 환경으로 묶겠다는 구상이다.퀄컴은 24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 최근 인수한 AI 소프트웨어 스타트업 '모듈러(Modular)'를 통한 차세대 AI "
+    },
+    {
+      "id": "972de63b7d21",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "published": "2026-09-24T20:45:00+00:00",
+      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case."
+    },
+    {
+      "id": "789ab5a04086",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "When chat is the wrong UI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "published": "2026-09-24T20:00:00+00:00",
+      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "679c03f8f218",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "published": "2026-09-24T19:59:26+00:00",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Ent"
+    },
+    {
+      "id": "35a924775fd7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "published": "2026-09-24T19:36:35+00:00",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare."
+    },
+    {
+      "id": "e4d4dd7136d5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "published": "2026-09-24T19:30:42+00:00",
+      "summary": "F-Droid's Android app store has been rebuilt from the ground up."
+    },
+    {
+      "id": "50750d3664b3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "published": "2026-09-24T19:00:42+00:00",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+    },
+    {
+      "id": "25097abf1048",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "published": "2026-09-24T18:52:38+00:00",
+      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers."
+    },
+    {
+      "id": "f9068218e968",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "published": "2026-09-24T18:39:47+00:00",
+      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots."
+    },
     {
       "id": "ff594e14bc2a",
       "source": "GitHub Blog",
@@ -23,6 +133,28 @@
       "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
       "published": "2026-09-24T18:19:23+00:00",
       "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF proc"
+    },
+    {
+      "id": "b7c2d31d5d3a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이, 6대 글로벌 전력 쇼케이스 공개하며 AI-에너지 시너지로 새로운 전력 시스템 구현",
+      "link": "https://zdnet.co.kr/view/?no=20260925031013",
+      "published": "2026-09-24T18:10:13+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 9월 24일 /PRNewswire/ -- 화웨이(Huawei)가 화웨이 커넥트 2026(HUAWEI CONNECT 2026) 기간 중 'AI × 에너지: 새로운 전력 시스템 구현(AI × Energy: Unlocking a New Power System)'을 주제로 2026 글로벌 전력 서밋(2026 Global Electric Power Summit)을 개최했다. 글로벌 전력 회사, 산업 단체, 생태계 파트너 및 미디어 관계자 600여 명이 한자리에 모여 에너지 "
+    },
+    {
+      "id": "8cf58b106d9d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "버드닷컴, AI 에이전트용 커뮤니케이션 인프라 출시와 함께 4억 5000만 달러 자금 조달",
+      "link": "https://zdnet.co.kr/view/?no=20260925031002",
+      "published": "2026-09-24T18:10:02+00:00",
+      "summary": "[지디넷코리아] JP모건(J.P. Morgan), 캐피털원(Capital One), 씨티(Citi)가 주도한 4억 5000만 달러 규모의 부채 금융은 4억 달러의 기간 대출과 5000만 달러의 회전신용한도로 구성된다. 전면 개편된 Bird 플랫폼은 규제 준수에 초점을 맞춘 Agentic Harness를 통해 AI 에이전트가 외부 세계에 접근해 메시지를 보내고, 전화를 걸고, 이메일을 직접 관리할 수 있도록 지원하며, Bird는 미국 시장 공략에 속도를 내고 있다. 버드는 사업 전반에 걸친 대대적인"
     },
     {
       "id": "f2982e605ee7",
@@ -124,6 +256,17 @@
       "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
     },
     {
+      "id": "c54f47ed5aa9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "published": "2026-09-24T16:35:13+00:00",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
+    },
+    {
       "id": "be41d8990ad1",
       "source": "The Verge",
       "kind": "article",
@@ -146,6 +289,17 @@
       "summary": ""
     },
     {
+      "id": "23080009cee6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "published": "2026-09-24T16:16:34+00:00",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time."
+    },
+    {
       "id": "ca0b8a6dd239",
       "source": "The Verge",
       "kind": "article",
@@ -155,6 +309,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
       "published": "2026-09-24T16:04:31+00:00",
       "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have G"
+    },
+    {
+      "id": "3a3ca66c4f10",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "published": "2026-09-24T16:01:16+00:00",
+      "summary": "\"There will obviously be legal consequences,\" prime minister promises."
     },
     {
       "id": "8d5ed4449ad2",
@@ -199,6 +364,39 @@
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "published": "2026-09-24T15:26:12+00:00",
       "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 429 # Comments: 117"
+    },
+    {
+      "id": "28c2eaf19250",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스타트레이더 (STARTRADER), Forex Expo Dubai 2026에서 '최우수 핀테크 포렉스 브로커' 수상",
+      "link": "https://zdnet.co.kr/view/?no=20260925001024",
+      "published": "2026-09-24T15:10:24+00:00",
+      "summary": "[지디넷코리아]중동 지역 최대 규모의 트레이딩 행사인 제9회 Forex Expo Dubai에서 수상한 이번 상은, 지속적인 상품 확장으로 채워온 한 해를 마무리하는 성과다. 아랍에미리트 두바이, 2026년 9월 24일 /PRNewswire/ -- 스타트레이더 (STARTRADER)가 HQMENA 주최로 진행된 Forex Expo Dubai Awards에서 '최우수 핀테크 포렉스 브로커(Best Fintech Forex Broker)'로 선정됐다. 시상식은 9월 22일과 23일 양일간 두바이 월드 "
+    },
+    {
+      "id": "0241b0cfb801",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "홀리랜드 위커넥트 2026, AI 시대에도 대체할 수 없는 가치를 탐구하다",
+      "link": "https://zdnet.co.kr/view/?no=20260925001014",
+      "published": "2026-09-24T15:10:14+00:00",
+      "summary": "[지디넷코리아] 선전, 중국 2026년 9월 24일 /PRNewswire/ -- 크리에이터는 AI로 대본을 작성하고 이미지를 만들고 편집 작업을 빠르게 할 수 있다. 무선 오디오 및 영상 전송 솔루션 선도 기업 홀리랜드(Hollyland)가 이 같은 변화에 대응해 30여 개국의 크리에이터를 브랜드 데이 행사인 위커넥트 2026(WeConnect 2026)에 초청했다. 이 프로그램에서는 온라인 대화와 오프라인 모임, 몰입형 문화 체험을 통해 근본적인 질문 하나를 탐구했다. AI 시대에 창작 과정에서"
+    },
+    {
+      "id": "dabad19467dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서민 경제의 견인차 역할 지속하는 BRI, 2026년 2분기 순이익 31조 2000억 루피아 기록",
+      "link": "https://zdnet.co.kr/view/?no=20260925001003",
+      "published": "2026-09-24T15:10:03+00:00",
+      "summary": "[지디넷코리아]자카르타, 인도네시아 2026년 9월 24일 /PRNewswire/ -- PT 뱅크 라캬트 인도네시아(PT Bank Rakyat Indonesia (Persero) Tbk, BRI, IDX: BBRI)가 경제 및 은행업계의 변화 속에서도 사업 성장을 이어가며 2026년 2분기 순이익이 전년 동기 대비 17.5% 증가한 31조 2000억 인도네시아 루피아를 기록했다고 발표했다. BRI는 자산, 대출 및 금융 부문에서 두 자릿수 성장을 기록하는 동시에 펀더멘털, 자산 건전성 및 수익성을"
     },
     {
       "id": "d97ab0b6a981",
@@ -617,6 +815,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260924143351",
       "published": "2026-09-24T05:33:51+00:00",
       "summary": "[지디넷코리아]\"데이터가 범람하는 AI시대에도 현장에서는 여전히 “분석은 완벽한데, 무엇을 해야 하지?”라는 질문이 반복됩니다. 이 책 '클루'는 숫자의 나열을 넘어 의사 결정의 실마리를 찾는 데이터 스토리텔링의 본질을 다룹니다.\"(신한금융그룹 진옥동 회장)\"AI가 우리 일상을 빠르게 대체하는 시대, 우리는 무엇을 준비하고 어떤 역할을 해야 할까? '클루'는 이 질문에 대한 명쾌한 해답을 제시한다. 정형화된 데이터와 AI가 건네는 단서(clue) 속에서 새로운 맥락과 의미를 읽어내어 하나의 스토리"
+    },
+    {
+      "id": "ad3a04cc049b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "published": "2026-09-24T05:21:10+00:00",
+      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 221 # Comments: 198"
     },
     {
       "id": "e350b67916dc",
@@ -1046,6 +1255,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215585",
       "published": "2026-09-23T23:10:00+00:00",
       "summary": "테슬라의 101억달러(약 13조6500억원) 규모 텍사스 태양광 셀·모듈 공장 건설 프로젝트가 현지 교육 당국의 세제지원 승인을 받으며 한 단계 진전했다. 다만 테슬라는 텍사스 외 다른 지역 후보지도 비교 검토 중이어서 최종 입지는 미정이다.텍사스주 라마 통합독립교육구 이사회는 지난 15일(현지시간) 테슬라의 ‘프로젝트 크리스털 선(Project Crystal Sun)’에 대한 적격 자산 과세가액 제한 협약 절차를 진행하는 결의안을 7대 0으로 승인했다. 교육구 승인을 받은 가운데 최종 협약 체결"
+    },
+    {
+      "id": "398d2a0367b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "link": "https://bastardica.mitpit.com",
+      "published": "2026-09-23T22:53:28+00:00",
+      "summary": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM. Comments URL: https://news.ycombinator.com/item?id=49823738 Points: 292 # Comments: 44"
     },
     {
       "id": "c73b6234cada",
@@ -1673,6 +1893,17 @@
       "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
       "published": "2026-09-23T13:00:00+00:00",
       "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told u"
+    },
+    {
+      "id": "edccc07fbd40",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
+      "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "published": "2026-09-23T13:00:00+00:00",
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1,000 GitHub users told "
     },
     {
       "id": "af0679fff09d",
