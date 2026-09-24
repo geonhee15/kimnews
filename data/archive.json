@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-09-24T14:27:20.699833+00:00",
-  "count": 14037,
+  "updated_at": "2026-09-24T18:32:39.816059+00:00",
+  "count": 14060,
   "items": [
+    {
+      "id": "ff594e14bc2a",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "published": "2026-09-24T18:26:12+00:00",
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "b041efe05167",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+      "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+      "published": "2026-09-24T18:19:23+00:00",
+      "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF proc"
+    },
+    {
+      "id": "f2982e605ee7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "published": "2026-09-24T18:04:44+00:00",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil do"
+    },
+    {
+      "id": "4e4df75b62db",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "published": "2026-09-24T17:52:29+00:00",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular control"
+    },
+    {
+      "id": "84926b42a90d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "published": "2026-09-24T17:39:24+00:00",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+    },
+    {
+      "id": "1867fd82cb15",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse will apparently let you download its entire filesystem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "published": "2026-09-24T17:14:12+00:00",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system f"
+    },
+    {
+      "id": "a1ce9e10697f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse sure looks a lot like OpenClaw",
+      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "published": "2026-09-24T17:10:38+00:00",
+      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fun"
+    },
+    {
+      "id": "93aa4cdf9f7e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "published": "2026-09-24T17:00:00+00:00",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June."
+    },
+    {
+      "id": "a5dfa895a3ae",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Now Google Chrome shares tabs to new devices that save where you were",
+      "link": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
+      "published": "2026-09-24T17:00:00+00:00",
+      "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switching feature is getting a memory upgrade, alongside new capabilities for Gemini in Chrome that can analyze more types of "
+    },
+    {
+      "id": "a0b7fc5d98d4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "published": "2026-09-24T17:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to "
+    },
+    {
+      "id": "2a87314b8117",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "published": "2026-09-24T16:35:13+00:00",
+      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway."
+    },
+    {
+      "id": "be41d8990ad1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These smart glasses have been recalled for overheating temples causing burns",
+      "link": "https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update",
+      "published": "2026-09-24T16:29:31+00:00",
+      "summary": "A company called Inmo that makes several different variations of smart glasses has issued a recall for its Air3 because the left temple \"can overheat during extended use, posing a risk of serious injury or death due to burn hazard.\" To date there have been 10 reports of users exp"
+    },
+    {
+      "id": "ec0422e215bd",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published": "2026-09-24T16:20:39+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ca0b8a6dd239",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "published": "2026-09-24T16:04:31+00:00",
+      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have G"
+    },
+    {
+      "id": "8d5ed4449ad2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google tests letting Gemini call businesses for you",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "published": "2026-09-24T16:00:00+00:00",
+      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
+    },
+    {
+      "id": "694a64cffb53",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Xbox reset gets ugly",
+      "link": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad",
+      "published": "2026-09-24T16:00:00+00:00",
+      "summary": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" Layoffs have become a "
+    },
+    {
+      "id": "abe3b4bede55",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "published": "2026-09-24T16:00:00+00:00",
+      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
+    },
+    {
+      "id": "8b8cdec4a4fa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "F-Droid 2.0",
+      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "published": "2026-09-24T15:26:12+00:00",
+      "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 429 # Comments: 117"
+    },
+    {
+      "id": "d97ab0b6a981",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-24T15:00:00+00:00",
+      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off."
+    },
+    {
+      "id": "7a30921b4198",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "published": "2026-09-24T14:31:00+00:00",
+      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence."
+    },
+    {
+      "id": "f3695eb4d096",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "published": "2026-09-24T14:30:00+00:00",
+      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
+    },
     {
       "id": "aea56480d615",
       "source": "The Verge",
@@ -34,6 +265,17 @@
       "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
       "published": "2026-09-24T14:15:00+00:00",
       "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisingly good. CEO Mark Zuckerberg has obviously been out there taking a victory lap and participati"
+    },
+    {
+      "id": "cfda18473833",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta puts its AI assistant on a keychain",
+      "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "published": "2026-09-24T14:03:38+00:00",
+      "summary": "Meta says the keychain-sized Muse Charm will ship in December."
     },
     {
       "id": "632e06035fc6",
@@ -199,6 +441,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
       "published": "2026-09-24T10:40:06+00:00",
       "summary": "오픈AI가 '챗GPT'의 음성 모드에 에이전트 기능을 결합해 사용자가 말만으로 이메일·캘린더·슬랙 등 외부 서비스를 활용하고 복잡한 작업까지 수행할 수 있도록 기능을 확대했다. 이번 업데이트는 기존 고급 음성 모드에 웹 검색 및 액션 수행 에이전트와 외부 앱 플러그인 연동을 통합한 것이 핵심이다.오픈AI는 23일(현지시간) 최신 버전의 챗GPT 모바일 앱과 웹사이트에서 음성 모드에 플러그인 지원을 추가하고, '챗GPT 워크'에서도 음성으로 에이전트 기능을 사용할 수 있도록 했다고 발표했다.이에 따"
+    },
+    {
+      "id": "75465c5a373a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Two-tier encryption in the UK",
+      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "published": "2026-09-24T10:39:19+00:00",
+      "summary": "Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/ Comments URL: https://news.ycombinator.com/item?id=49828731 Points: 289 # Comments: 278"
     },
     {
       "id": "fefc947931e4",
