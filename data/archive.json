@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-09-25T15:14:34.643406+00:00",
-  "count": 14135,
+  "updated_at": "2026-09-25T19:17:00.006214+00:00",
+  "count": 14162,
   "items": [
+    {
+      "id": "59224b4116d5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published": "2026-09-25T19:13:38+00:00",
+      "summary": "nthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+    },
+    {
+      "id": "10844e58a51f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "published": "2026-09-25T18:33:59+00:00",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout."
+    },
+    {
+      "id": "e54fdbca6491",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
+      "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "published": "2026-09-25T18:18:57+00:00",
+      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at A"
+    },
+    {
+      "id": "d32e95d90daf",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "published": "2026-09-25T18:00:00+00:00",
+      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases a"
+    },
+    {
+      "id": "a88a298b6e05",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Phones don’t have lights",
+      "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+      "published": "2026-09-25T17:42:59+00:00",
+      "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being t"
+    },
+    {
+      "id": "b1c562a58b18",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "published": "2026-09-25T17:30:00+00:00",
+      "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
+    },
+    {
+      "id": "509f1e9b63ac",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "published": "2026-09-25T17:29:46+00:00",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
+    },
+    {
+      "id": "29727e5a8735",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "published": "2026-09-25T17:24:36+00:00",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
+    },
+    {
+      "id": "0deae122285f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+      "link": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+      "published": "2026-09-25T17:23:30+00:00",
+      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is a"
+    },
+    {
+      "id": "bf95705d9b84",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla’s Optimus robot is going through growing pains",
+      "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "published": "2026-09-25T17:01:36+00:00",
+      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. Ho"
+    },
+    {
+      "id": "87cc74d87faf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "published": "2026-09-25T16:58:20+00:00",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration."
+    },
+    {
+      "id": "4e118e433f11",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "published": "2026-09-25T16:49:53+00:00",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told peo"
+    },
+    {
+      "id": "25dfcc264f60",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "link": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "published": "2026-09-25T16:22:05+00:00",
+      "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to detai"
+    },
+    {
+      "id": "896c43a13372",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "published": "2026-09-25T16:16:52+00:00",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
+    },
+    {
+      "id": "9443fdc0a286",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "published": "2026-09-25T16:00:00+00:00",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes late"
+    },
+    {
+      "id": "126480adeb3f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony and UMG are suing Suno again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "published": "2026-09-25T15:51:56+00:00",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sou"
+    },
+    {
+      "id": "e61edddea6d8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "published": "2026-09-25T15:48:14+00:00",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers."
+    },
+    {
+      "id": "56b964b8ffcd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "published": "2026-09-25T15:40:03+00:00",
+      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+    },
+    {
+      "id": "d9b556efa835",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "published": "2026-09-25T15:39:48+00:00",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogu"
+    },
+    {
+      "id": "83daa3547179",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "published": "2026-09-25T15:29:25+00:00",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 240 # Comments: 357"
+    },
     {
       "id": "f2ecb0783f23",
       "source": "TechCrunch",
@@ -23,6 +243,17 @@
       "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
       "published": "2026-09-25T15:00:00+00:00",
       "summary": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "c5e6fa0d0b26",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Factorio that you can touch",
+      "link": "https://factorio.com/blog/post/fff-447",
+      "published": "2026-09-25T14:24:42+00:00",
+      "summary": "Article URL: https://factorio.com/blog/post/fff-447 Comments URL: https://news.ycombinator.com/item?id=49845133 Points: 208 # Comments: 42"
     },
     {
       "id": "2a379ff6a809",
@@ -102,6 +333,28 @@
       "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI person"
     },
     {
+      "id": "0fdbee1f3dd8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Platform-Independent SIMD in Go",
+      "link": "https://go.dev/blog/simd-experiment",
+      "published": "2026-09-25T11:47:06+00:00",
+      "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 285 # Comments: 109"
+    },
+    {
+      "id": "df8cd96c6653",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "link": "https://github.com/git-bug/git-bug",
+      "published": "2026-09-25T11:38:31+00:00",
+      "summary": "Article URL: https://github.com/git-bug/git-bug Comments URL: https://news.ycombinator.com/item?id=49843174 Points: 232 # Comments: 81"
+    },
+    {
       "id": "3c27a0bbe4e8",
       "source": "AI타임스",
       "kind": "article",
@@ -157,6 +410,28 @@
       "summary": "A Nevada event aimed at a niche audience of fleet managers could mark a milestone in clean transportation."
     },
     {
+      "id": "de5205afa7d8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Xinhua Silk Road: MAZU 기상 조기 경보 솔루션 장학금, 중국은행 및 푸톈 상인들로부터 기부 받아",
+      "link": "https://zdnet.co.kr/view/?no=20260925181003",
+      "published": "2026-09-25T09:10:03+00:00",
+      "summary": "[지디넷코리아]베이징 2026년 9월 25일 /PRNewswire/ -- 중국의 전통적인 바다의 여신 마주(Mazu)의 이름을 따 글로벌 기상재해 예방을 지원하기 위해 제정된 마주 장학금(MAZU Scholarship)이 최근 중국은행(Bank of China, BOC)과 국내외 푸톈 상인들로부터 기부금을 받았다. 중국 남동부에 위치한 마주의 고향 푸톈시의 상인들과 해외 동포 상인들은 중국은행과 함께 장학금 및 네팔 맞춤형 'MAZU' 클라우드 플랫폼 구축을 지원하기 위해 각각 100만 위안과 2"
+    },
+    {
+      "id": "e8e4a675e1ce",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "머스크, '콜로서스 2' 투자 고삐…연내 엔비디아 칩 탑재 2배 늘린다",
+      "link": "https://zdnet.co.kr/view/?no=20260925153817",
+      "published": "2026-09-25T09:05:01+00:00",
+      "summary": "[지디넷코리아]일론 머스크 테슬라 최고경영자(CEO)가 창업한 인공지능(AI) 스타트업 'xAI'가 대규모 AI 데이터센터 '콜로서스(Colossus) 2' 규모를 확장한다. 올 연말까지 엔비디아 칩 사용량을 기존 대비 2배 이상 늘리기로 했다.일론 머스크 테슬라 최고경영자(CEO)는 25일(현지시간) 사회관계망서비스(SNS) X를 통해 이같은 계획을 밝혔다.머스크는 \"콜로서스 2에는 현재 그레이스블랙웰200(GB200) 칩 11만개와 GB300 44만개가 탑재돼 있다\"며 \"다음 주에는 22만개의"
+    },
+    {
       "id": "4f1bc0201f1d",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -199,6 +474,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260925161514",
       "published": "2026-09-25T07:55:38+00:00",
       "summary": "[지디넷코리아]한국과 멕시코가 인공지능(AI) 혜택을 글로벌 사회 전반으로 확대하기 위한 협력 기반을 마련했다. 25일 청와대에 따르면 이재명 대통령과 셰인바움 멕시코 대통령은 24일(현지시간) 멕시코시티 대통령궁에서 정상회담을 갖고 AI 협력 선언을 채택했다. 두 정상은 이 대통령의 멕시코 국빈방문을 계기로 AI·디지털 등 미래산업 분야의 협력 방안을 논의했다.양국은 이번 선언에 AI의 혜택을 누구나 누릴 수 있어야 한다는 '글로벌 AI 기본사회' 정신을 담았다. AI가 소수만의 특권이 아니라 "
+    },
+    {
+      "id": "932b5511d7cc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "published": "2026-09-25T07:27:45+00:00",
+      "summary": "Article URL: https://nyaa.sh/reviews/mac-mini-m6-emulation Comments URL: https://news.ycombinator.com/item?id=49841285 Points: 228 # Comments: 103"
     },
     {
       "id": "51bb6a44c749",
@@ -298,6 +584,17 @@
       "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
       "published": "2026-09-25T05:00:00+00:00",
       "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    },
+    {
+      "id": "d0aafe80c73a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What About Rails?",
+      "link": "https://jardo.dev/what-about-rails",
+      "published": "2026-09-25T02:50:16+00:00",
+      "summary": "Article URL: https://jardo.dev/what-about-rails Comments URL: https://news.ycombinator.com/item?id=49839664 Points: 240 # Comments: 160"
     },
     {
       "id": "771f2fd9c639",
