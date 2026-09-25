@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-09-25T00:12:52.303495+00:00",
-  "count": 14091,
+  "updated_at": "2026-09-25T04:58:09.826170+00:00",
+  "count": 14105,
   "items": [
+    {
+      "id": "771f2fd9c639",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "식당 광고에 AI 음식 사진 썼다가 역풍…\"입맛 떨어진다\"",
+      "link": "https://zdnet.co.kr/view/?no=20260925104931",
+      "published": "2026-09-25T02:09:34+00:00",
+      "summary": "[지디넷코리아]미국 식당가에서 인공지능(AI)으로 만든 음식 사진을 광고에 활용하는 사례가 늘고 있다. 전문 사진 촬영보다 빠르고 저렴하게 홍보물을 만들 수 있다는 장점 때문이지만, 실제 음식과 동떨어진 이미지가 소비자들의 거부감을 불러일으키는 현상도 나타나고 있다.24일(현지시간) 월스트리트저널(WSJ)에 따르면 최근 미국에서는 테이크아웃 메뉴판부터 델리 매장 진열대까지 AI로 생성한 음식 이미지가 확산하고 있다. 전문 사진 촬영을 기다리지 않고 필요한 이미지를 빠르게 만들 수 있고 마케팅 비용"
+    },
+    {
+      "id": "8b627427289a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국타이어, 전기차 타이어 개발 현장 공개…소음·마모·AI 해석까지",
+      "link": "https://zdnet.co.kr/view/?no=20260923110211",
+      "published": "2026-09-25T01:30:01+00:00",
+      "summary": "[지디넷코리아]한국타이어앤테크놀로지(한국타이어)가 권석준 성균관대 화학공학부 교수와 함께 전기차 전용 타이어 '아이온(iON)' 개발 현장을 공개했다. 내연기관과 달리 무거운 차체와 높은 토크, 정숙성에 따른 소음 문제 등 전기차 특성에 맞춰 소재·구조·가상개발 기술을 고도화하고 있다는 설명이다.00일 업계에 따르면 한국타이어는 최근 유튜브 채널에 권 교수와 연구실 학생들이 대전 한국테크노돔을 방문한 영상을 공개했다.권 교수는 성균관대 화학공학부와 미래에너지공학과 교수, 반도체융합공학과 겸임교수로"
+    },
+    {
+      "id": "732c880078ea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "published": "2026-09-25T01:25:53+00:00",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dea"
+    },
+    {
+      "id": "3c6b96631917",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "독일 변전소 1313곳, 배터리 연결로 태양광 150GW 추가 수용 가능",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215592",
+      "published": "2026-09-25T00:40:00+00:00",
+      "summary": "독일에서 변전소에 대규모 배터리저장장치를 연계해 태양광 발전 피크를 흡수하면 기존 변압기 용량의 시간대별 여유를 활용해 약 150기가와트(GW)의 태양광을 추가 설치할 수 있는 기술적 잠재력이 있다는 연구 결과가 나왔다. 기준 시나리오에서 함께 산정된 배터리 규모는 출력 약 60GW, 저장용량 240기가와트시(GWh)다.독일 프라운호퍼 에너지경제·에너지시스템기술연구소(Fraunhofer IEE)는 독일태양광산업협회(BSW-Solar)의 의뢰로 변전소와 대규모 배터리를 결합한 태양광 추가 설치 잠재"
+    },
+    {
+      "id": "7b7e91786684",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[써보고서] '스냅드래곤 AI' 입은 AR글래스...공간컴퓨팅·영화 속 장면 눈앞",
+      "link": "https://zdnet.co.kr/view/?no=20260925054239",
+      "published": "2026-09-25T00:30:10+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] \"이건 물병입니다.\"안경을 쓴 채 눈앞의 사물을 바라보며 \"이게 뭐야?\"라고 묻자 귓가에서 즉각 답변이 나왔다. 미국 인공지능(AI) 스타트업 프리즘ML(Prism ML)이 선보인 스마트글래스가 내놓은 대답이다. 놀라운 점은 이 모든 과정이 인터넷 연결 없이 온전히 기기 내부에서 이뤄졌다는 것이다. 온디바이스 AI가 일상에 완벽하게 구현된 순간이었다.24일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026' 데모 룸은 퀄컴의"
+    },
+    {
+      "id": "8c479335b6a3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "호주 주요 전력시장, 재생에너지 비중 80.5% 사상 최고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215589",
+      "published": "2026-09-25T00:20:00+00:00",
+      "summary": "호주 주요 전력시장인 국가전력시장(NEM)에서 재생에너지가 전체 전력소비의 80% 이상을 공급하는 기록이 처음 나왔다. 옥상태양광 출력도 17GW에 근접하며 사상 최고 수준을 기록했다.호주 전력시장 데이터 분석업체 글로벌파워에너지(Global Power Energy·GPE)가 호주에너지시장운영기관(AEMO) 자료를 분석한 결과 지난 19일(현지시간) 낮 12시30분께 NEM 전체 전력소비에서 재생에너지가 차지하는 비중은 80.5%까지 상승했다.이는 불과 하루 전 기록한 79.84%를 넘어선 수준이"
+    },
+    {
+      "id": "d3404c0e6371",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차",
+      "link": "https://zdnet.co.kr/view/?no=20260925071820",
+      "published": "2026-09-25T00:14:17+00:00",
+      "summary": "[지디넷코리아]미국과 중국 정상이 인공지능(AI) 개발·안전관리를 두고 시각차를 드러냈다. 미국은 AI가 가져올 평화와 번영을 부각한 반면, 중국은 AI가 인간 통제 아래 발전하도록 양국이 책임을 다해야 한다고 강조했다.도널드 트럼프 미국 대통령과 시진핑 중국 국가주석은 24일(현지시간) 미국 워싱턴DC 백악관에서 정상회담에서 이같은 의견을 공유한 것으로 전해졌다. 회담은 소인수 회담과 확대 회담으로 나눠 비공개로 진행됐으며 모두발언은 공개되지 않았다.트럼프 대통령은 회담에 앞선 환영식 연설에서 "
+    },
+    {
+      "id": "37b6de97fda6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI에 답 맡기는 학생들…교육 현장, AI 활용 원칙 세운다",
+      "link": "https://zdnet.co.kr/view/?no=20260923165837",
+      "published": "2026-09-25T00:09:18+00:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI)이 숙제와 과제의 답까지 대신 내놓으면서 학교 교육이 AI를 '잘 쓰는 법'에서 '언제, 어떻게 쓰게 할 것인가'로 눈을 돌리고 있다.25일 교육계에 따르면 국내외 교육 당국은 학생의 연령과 발달 단계에 따라 생성형 AI 활용 범위를 달리하거나 AI가 만든 정보를 비판적으로 판단하는 능력을 교육·평가하는 방안을 도입하고 있다. 서울시교육청은 최근 학생들의 AI 활용 능력과 함께 결과를 검증하는 역량까지 진단했고 미국 뉴욕시와 아랍에미리트(UAE) 아부다비 등은 "
+    },
+    {
+      "id": "50c03817d685",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성·LGD, 3분기 수익성 감소 전망…환율·칩플레이션 여파",
+      "link": "https://zdnet.co.kr/view/?no=20260923165035",
+      "published": "2026-09-25T00:08:09+00:00",
+      "summary": "[지디넷코리아]삼성디스플레이와 LG디스플레이의 3분기 영업이익률이 전년비 소폭 감소할 것으로 관측된다. 주요 고객 유기발광다이오드(OLED) 출하량은 견조하지만, 환율 급락과 메모리 반도체 가격 상승 여파가 크다. 삼성디스플레이와 LG디스플레이의 영업손익은 주요 고객인 애플의 아이폰 신제품 출시 일정에 따라 '상저하고' 실적 흐름을 보여 왔다. 업계에서는 두 기업의 3분기 수익성이 당초 기대보다 부진할 것이라는 우려가 나온다. 불리한 환율과 IT 시장 위축, 설비투자에 따른 감가상각 등이 부담이다"
+    },
+    {
+      "id": "0b7363f00969",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "영국, 배터리 계통접속 대기열에 재정보증 추진…MW당 최대 4500만원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215593",
+      "published": "2026-09-25T00:05:00+00:00",
+      "summary": "영국이 전력망 접속을 기다리는 배터리에 추가 재정 보증을 요구하는 방안을 추진한다. 실제 건설 가능성이 낮은 사업이 접속 용량을 선점하는 것을 막기 위해 프로젝트 규모에 따라 메가와트(MW)당 최대 2만5000파운드(약 4500만원)를 담보하도록 하는 방식이다.영국 에너지 규제기관 오프젬(Ofgem)은 지난 17일(현지시간) 배터리에 ‘과잉신청 기술 약정 부담금(OTCF)’을 도입하는 계통이용규정 개정안 CMP470을 승인하는 방향으로 검토하고 있다고 밝혔다. 현재 업계 의견수렴이 진행 중이며 최"
+    },
     {
       "id": "a5e983ef6119",
       "source": "The Verge",
@@ -298,6 +408,17 @@
       "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "published": "2026-09-24T17:39:24+00:00",
       "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+    },
+    {
+      "id": "4c671c9b8eae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "published": "2026-09-24T17:21:36+00:00",
+      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfast/whiteboard . We were miss"
     },
     {
       "id": "1867fd82cb15",
@@ -1398,6 +1519,17 @@
       "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
       "published": "2026-09-23T22:45:00+00:00",
       "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been f"
+    },
+    {
+      "id": "0307fd8b172d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "published": "2026-09-23T22:37:28+00:00",
+      "summary": "Article URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/ Comments URL: https://news.ycombinator.com/item?id=49823568 Points: 273 # Comments: 448"
     },
     {
       "id": "3493d8c6fc9f",
@@ -3039,6 +3171,17 @@
       "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
     },
     {
+      "id": "b83c0ba16111",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "published": "2026-09-22T17:49:46+00:00",
+      "summary": "Article URL: https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/ Comments URL: https://news.ycombinator.com/item?id=49805344 Points: 265 # Comments: 110"
+    },
+    {
       "id": "a1bdbf957c36",
       "source": "Hacker News",
       "kind": "article",
@@ -3455,6 +3598,17 @@
       "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
       "published": "2026-09-22T13:00:00+00:00",
       "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
+    },
+    {
+      "id": "13a80a7888d7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Fearless SIMD v1.0",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "published": "2026-09-22T12:23:37+00:00",
+      "summary": "Article URL: https://linebender.org/blog/fearless-simd-1-0/ Comments URL: https://news.ycombinator.com/item?id=49800085 Points: 217 # Comments: 33"
     },
     {
       "id": "dfe8374c98c0",
