@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-09-25T04:58:09.826170+00:00",
-  "count": 14105,
+  "updated_at": "2026-09-25T10:02:01.025815+00:00",
+  "count": 14122,
   "items": [
+    {
+      "id": "8a281af7250f",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "published": "2026-09-25T09:16:25+00:00",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligenc"
+    },
+    {
+      "id": "66ae6b401e00",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nearly a Decade Later, the Electric Tesla Semi Is Here",
+      "link": "https://www.wired.com/story/tesla-semi/",
+      "published": "2026-09-25T09:15:00+00:00",
+      "summary": "A Nevada event aimed at a niche audience of fleet managers could mark a milestone in clean transportation."
+    },
+    {
+      "id": "4f1bc0201f1d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사",
+      "link": "https://zdnet.co.kr/view/?no=20260925082237",
+      "published": "2026-09-25T08:30:01+00:00",
+      "summary": "[지디넷코리아]미국의 인공지능(AI) 데이터센터 투자 중심지인 텍사스주가 전력망과 환경 인허가에 이어 용수 사용에 대한 조사까지 확대했다.24일(현지시간) 블룸버그통신에 따르면 켄 팩스턴 텍사스주 법무장관은 주내 수백개 데이터센터 개발 사업을 대상으로 용수 사용량 보고 의무를 제대로 준수하고 있는지 조사에 착수했다.1차 조사 대상은 휴스턴·샌안토니오·댈러스·포트워스 등이 포함된 18개 카운티의 데이터센터 프로젝트다.텍사스에선 일정 규모 이상의 용수를 사용하는 사업자가 텍사스수자원개발위원회(TWDB"
+    },
+    {
+      "id": "5ef09fff0a86",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다",
+      "link": "https://zdnet.co.kr/view/?no=20260925080611",
+      "published": "2026-09-25T08:00:01+00:00",
+      "summary": "[지디넷코리아]깃허브가 폐쇄망 환경에서 인공지능(AI) 코딩 도구를 활용할 수 있는 환경을 구축했다. 사용자 권한 관리와 코드 검토 절차도 개선해 기업 개발팀 도구 도입과 운영 부담을 줄이는 데 초점을 맞췄다.깃허브는 이달 초 기업용 개발 플랫폼 '깃허브 엔터프라이즈 서버 3.22'를 정식 출시했다고 공식 홈페이지를 통해 밝혔다. 이번 버전에는 코파일럿 명령줄 인터페이스(CLI) 연동과 기업 전체 접근 권한 통합 관리, 보안 검토 편의 기능 등이 포함됐다.주요 변화는 깃허브 클라우드와 연결하지 않"
+    },
+    {
+      "id": "bcee238d92ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한·멕시코, '모두를 위한 AI' 협력 선언…2028년 APEC 이행 공동 점검",
+      "link": "https://zdnet.co.kr/view/?no=20260925161514",
+      "published": "2026-09-25T07:55:38+00:00",
+      "summary": "[지디넷코리아]한국과 멕시코가 인공지능(AI) 혜택을 글로벌 사회 전반으로 확대하기 위한 협력 기반을 마련했다. 25일 청와대에 따르면 이재명 대통령과 셰인바움 멕시코 대통령은 24일(현지시간) 멕시코시티 대통령궁에서 정상회담을 갖고 AI 협력 선언을 채택했다. 두 정상은 이 대통령의 멕시코 국빈방문을 계기로 AI·디지털 등 미래산업 분야의 협력 방안을 논의했다.양국은 이번 선언에 AI의 혜택을 누구나 누릴 수 있어야 한다는 '글로벌 AI 기본사회' 정신을 담았다. AI가 소수만의 특권이 아니라 "
+    },
+    {
+      "id": "51bb6a44c749",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽-아카마이, 116억 달러 컴퓨팅 계약…\"클로드 수요 급증 대응\"",
+      "link": "https://zdnet.co.kr/view/?no=20260925081732",
+      "published": "2026-09-25T07:20:01+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 급증하는 클로드 수요에 대응하기 위해 아카마이테크놀로지스와 인공지능(AI) 인프라 협력을 확대했다. 24일(현지시간) 블룸버그통신 보도에 따르면 앤트로픽은 아카마이와 7년간 116억 달러(약 15조 8500억원) 규모 컴퓨팅 자원 공급 계약을 체결했다. 이는 아카마이 계약 중 가장 큰 규모다.아카마이는 이번 계약에 따라 앤트로픽에 중앙처리장치(CPU) 기반 컴퓨팅 자원을 제공한다. CPU는 범용 반도체로 AI 서비스를 뒷받침하는 역할을 하면서 데이터센터에서 수요가 다시 늘"
+    },
+    {
+      "id": "e57eac295a5a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "네덜란드 소비자단체, 에픽게임즈 상대 1억 유로 규모 집단소송 제기",
+      "link": "https://zdnet.co.kr/view/?no=20260925111838",
+      "published": "2026-09-25T07:00:03+00:00",
+      "summary": "[지디넷코리아]네덜란드 소비자단체가 인기 배틀로얄 게임 '포트나이트'가 미성년자들의 과소비를 유도했다며 개발사 에픽게임즈를 상대로 대규모 집단소송에 나섰다.24일(현지시간) 게임 전문 매체 게임인더스트리비즈에 따르면, 네덜란드 비영리 소비자 권익 단체 '마사스하더 앤 콘슈멘트(SMC)'는 21세 미만 포트나이트 이용자들을 대리해 에픽게임즈를 상대로 1억 유로(약 1556억원) 이상의 환불 및 손해배상을 청구하는 집단소송을 제기했다. 부모 동의 없이 아동의 개인정보를 수집한 것에 대한 배상도 청구 "
+    },
+    {
+      "id": "123b1925aa78",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메타, 13년 만에 최고 월간 상승률…시총 2조 달러 눈앞",
+      "link": "https://zdnet.co.kr/view/?no=20260925152048",
+      "published": "2026-09-25T06:42:00+00:00",
+      "summary": "[지디넷코리아]메타 주가가 개인용 인공지능(AI) 비서 '뮤즈(Muse)' 흥행에 힘입어 급등하면서 시가총액 2조 달러(약 2733조 4000억원) 돌파를 눈앞에 두고 있다.24일(현지시간) 블룸버그통신 보도에 따르면 메타 주가는 9월 들어 36% 상승했다. 이 같은 흐름이 이어질 경우 지난 2013년 7월 이후 13년여 만에 가장 높은 월간 상승률을 기록하게 된다. 시가총액 2조 달러까지도 약 1%가량만 남겨둔 상태다.외신은 주가 상승의 가장 큰 배경이 메타가 최근 출시한 개인용 AI 비서 뮤즈"
+    },
+    {
+      "id": "267cf4676795",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "데이터브릭스, 로우제로 인수…\"기업 데이터 분석 편의↑\"",
+      "link": "https://zdnet.co.kr/view/?no=20260925085413",
+      "published": "2026-09-25T06:41:28+00:00",
+      "summary": "[지디넷코리아]데이터브릭스가 스프레드시트와 인공지능(AI) 에이전트를 결합해 데이터 분석 편의성 높이기에 나섰다.24일(현지시간) 테크크런치 등 외신에 따르면 데이터브릭스는 클라우드 기반 스프레드시트 스타트업 로우제로를 인수했다고 발표했다. 인수 금액과 세부 조건은 공개되지 않았다.로우제로는 100만 행을 넘는 실시간 데이터를 처리할 수 있는 스프레드시트 도구다. 데이터브릭스와 연동하면 기업 직원들이 별도 업무 분석 소프트웨어(SW)를 새로 익히는 부담을 줄이고 기존에 사용하던 표와 수식으로 데이"
+    },
+    {
+      "id": "806db01a39e5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "X·EU 법정 다툼에…美, 과징금 취소 소송 참여 움직임",
+      "link": "https://zdnet.co.kr/view/?no=20260925150055",
+      "published": "2026-09-25T06:40:19+00:00",
+      "summary": "[지디넷코리아]미국 정부가 사회관계망서비스(SNS) X(옛 트위터)의 온라인 규정 위반과 관련해 유럽연합(EU)으로부터 부과받은 1억2000만 유로(약 1867억원)의 과징금을 취소해달라며 제기한 소송에 참여하려는 움직임을 보이고 있다.24일(현지시간) 블룸버그 등 외신에 따르면 도널드 트럼프 미국 행정부는 X가 해당 처분을 취소해달라며 제기한 소송을 지원하기 위해 EU 일반법원에 소송 참가 신청서를 제출했다.브렛 슈메이트 법무부 민사국 차관보는 성명을 통해 “EU 집행위원회(EC)가 관할권 내에"
+    },
+    {
+      "id": "d1ede30a9dfa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[인터뷰] AI 시대 망설이는 기업들, 정부가 'AI 리더' 돼야",
+      "link": "https://zdnet.co.kr/view/?no=20260925050919",
+      "published": "2026-09-25T06:37:57+00:00",
+      "summary": "[지디넷코리아]\"많은 기업이 인공지능(AI) 도입을 검토하지만 본격적인 전환에는 망설이고 있습니다. 기술 변화가 빠르고 성공 사례도 충분하지 않기 때문입니다. 초고속인터넷망 구축과 전자정부 추진 당시처럼 정부가 먼저 AI 혁신 사례를 만들고 롤모델을 제시해야 합니다\"김동환 포티투마루 대표는 서울 서초구 반포동 사옥에서 진행한 인터뷰에서 AI 시대 정부의 역할이 인프라와 예산을 지원하는 데 그쳐서는 안 된다고 강조했다.정부는 첫 번째 수요자이자 성공 사례의 창출자로서 정부와 공공기관이 행정·복지·안"
+    },
+    {
+      "id": "2acbe3e64fda",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 알려준 PC 문제 해결법, 믿고 실행해도 될까",
+      "link": "https://zdnet.co.kr/view/?no=20260924000748",
+      "published": "2026-09-25T06:30:01+00:00",
+      "summary": "[지디넷코리아]무료 영화나 웹툰 등을 볼 수 있다는 사이트에서 콘텐츠를 클릭하자 갑자기 요란한 경고음이 들린다. 이어 \"당신의 컴퓨터가 바이러스에 감염됐다. 고객센터에 전화해 치료하라\"는 안내문이 화면 가득 깜빡인다.과거 미국과 유럽을 비롯해 여러 나라에서 기승을 부렸던 '고객지원 사기'의 전형적인 수법이다.이들은 아무런 문제가 없는 PC인데도 바이러스나 악성코드 감염, 시스템 오류를 알리는 허위 경고를 띄운 뒤 가짜 고객센터 번호로 전화를 걸게 했다. 상담원을 가장한 범죄자의 지시에 따르는 순간"
+    },
+    {
+      "id": "3378990c71c4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오라클, 스타게이트 데이터센터에 '불가항력' 통지…전력 확보 차질",
+      "link": "https://zdnet.co.kr/view/?no=20260925070133",
+      "published": "2026-09-25T05:44:23+00:00",
+      "summary": "[지디넷코리아]오라클이 미국 뉴멕시코주에 건설 중인 초대형 인공지능(AI) 데이터센터의 가동 지연 가능성에 대비해 개발사에 '불가항력' 통지를 보냈다. 대규모 전력 확보와 인허가 문제로 인한 비용 부담을 줄이려는 조치로 풀이된다.24일(현지시간) 블룸버그통신에 따르면 오라클은 뉴멕시코 남부에 건설 중인 데이터센터 '프로젝트 주피터' 개발사인 블루아울캐피털 계열사에 불가항력 조항을 인용한 통지서를 보냈다. 데이터센터가 계획대로 2028년 가동되지 못할 경우 지급 시점을 늦출 수 있도록 계약상 권리를"
+    },
+    {
+      "id": "c1caf72901aa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "published": "2026-09-25T05:00:00+00:00",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    },
     {
       "id": "771f2fd9c639",
       "source": "ZDNet Korea",
@@ -254,6 +408,28 @@
       "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
       "published": "2026-09-24T20:45:00+00:00",
       "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case."
+    },
+    {
+      "id": "575e6bf7aeec",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "published": "2026-09-24T20:34:32+00:00",
+      "summary": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that Comments URL: https://news.ycombinator.com/item?id=49836419 Points: 236 # Comments: 653"
+    },
+    {
+      "id": "84282fb2be6d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
+      "published": "2026-09-24T20:28:47+00:00",
+      "summary": "Article URL: https://launchvideo.io Comments URL: https://news.ycombinator.com/item?id=49836374 Points: 262 # Comments: 134"
     },
     {
       "id": "789ab5a04086",
@@ -3477,6 +3653,17 @@
       "link": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
       "published": "2026-09-22T14:00:33+00:00",
       "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also lay"
+    },
+    {
+      "id": "a3919cb50064",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
+      "published": "2026-09-22T14:00:08+00:00",
+      "summary": "Article URL: https://2dwillneverdie.com/ Comments URL: https://news.ycombinator.com/item?id=49801436 Points: 233 # Comments: 50"
     },
     {
       "id": "00991ef8e506",
