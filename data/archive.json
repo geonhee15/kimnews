@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-09-25T10:02:01.025815+00:00",
-  "count": 14122,
+  "updated_at": "2026-09-25T15:14:34.643406+00:00",
+  "count": 14135,
   "items": [
+    {
+      "id": "f2ecb0783f23",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "published": "2026-09-25T15:00:00+00:00",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends."
+    },
+    {
+      "id": "eb780d396d64",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "published": "2026-09-25T15:00:00+00:00",
+      "summary": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "2a379ff6a809",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+      "published": "2026-09-25T14:18:42+00:00",
+      "summary": "미국 백악관이 오픈AI와 앤트로픽 등 자국 AI 기업에 미국 정부의 검증절차가 완료될 때까지 신규 모델을 영국 AI안보연구소(AISI) 등 해외 기관에 제공하지 말라고 요청했다.폴리티코는 24일(현지시간) 정통한 소식통과 미국 행정부 고위 관계자를 인용, 미국 국가사이버국(NCC)의 요청으로 이같은 압박이 이뤄졌다고 보도했다.관계자에 따르면, 이번 조치는 미국 기업이 개발한 최첨단 AI 모델의 보안성을 자국 시스템에서 먼저 검증한 후 우방국과 공유하겠다는 방침을 확고히 한 것이다. 그는 \"이는 새"
+    },
+    {
+      "id": "6f9e29272f1d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215657",
+      "published": "2026-09-25T13:36:38+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 통제 불가능한 AI 연구소는 규제를 넘어 폐쇄해야 한다는 파격적인 발언을 내놓았다. AI 위험성에 대한 경고가 잇따르는 가운데 브래드 스미스 마이크로소프트(MS) 사장과 피터 틸 팔란티어 공동 창립자 등 주요 기술 리더들도 기술 통제와 책임론을 두고 각자 다른 시각을 드러냈다.황 CEO는 23일(현지시간) 뉴욕타임스(NYT)의 팟캐스트 '에즈라 클라인 쇼'에 출연, 안전 검증이 불가능한 프런티어 AI 연구소에 대해 강도 높게 경고했다. 그는 \"만약 그들이 다른 대안, 즉"
+    },
+    {
+      "id": "0c813792e59b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "published": "2026-09-25T13:00:00+00:00",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from m"
+    },
+    {
+      "id": "b12d3dfbc5e3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215652",
+      "published": "2026-09-25T12:45:44+00:00",
+      "summary": "오픈AI가 'GPT-6' 제품군을 장시간 작동하는 AI 에이전트 환경에서 효율적으로 구동할 수 있도록 '프롬프트 캐싱' 기능을 대폭 강화했다.오픈AI는 22일(현지시간) GPT‑6 제품군과 함께 기본 캐시 적중률을 높인 향상된 프롬프트 캐싱 시스템을 출시했다.코드베이스 리팩터링이나 대규모 조사, 문서·프레젠테이션 제작처럼 수 시간에 걸쳐 여러 차례 API 요청이 이어지는 작업에서 반복되는 컨텍스트를 재사용해 응답 속도와 비용 효율을 높이는 것이 핵심이다.지속형 에이전트는 작업 과정에서 동일한 지침"
+    },
+    {
+      "id": "5a4367520b18",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215654",
+      "published": "2026-09-25T12:36:36+00:00",
+      "summary": "전방 배치 엔지니어(FDE)의 채용이 1년 사이 급증하며, 직무 관련 지식과 현장 경험에 대한 교육 수요도 빠르게 증가하는 것으로 나타났다. 교육 전문 데이원컴퍼니(대표 신해동, 김동혁)는 기업 AX 전 과정을 지원하는 ‘데이원 AI 디플로이먼트 컴퍼니(DAY1 AI Deployment Company)’ 사업의 인재 양성 프로그램으로 ‘FDE 아카데미’를 신설했다고 25일 밝혔다. FDE는 기존 소프트웨어 엔지니어와 달리 고객사에 상주하며 맞춤형 솔루션을 구축하는 현장 파견형 엔지니어다. 단순 개"
+    },
+    {
+      "id": "8d64f07607d8",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "published": "2026-09-25T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on "
+    },
+    {
+      "id": "87f1b27bcc58",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "published": "2026-09-25T12:00:00+00:00",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI person"
+    },
+    {
+      "id": "3c27a0bbe4e8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+      "published": "2026-09-25T11:38:20+00:00",
+      "summary": "오픈AI가 개발자 생태계 확장을 위한 플랫폼 개편에 나선 것으로 알려졌다. 단순히 AI 모델을 API로 제공하는 것을 넘어, 아이디어 구상부터 프로토타입 제작, 실제 서비스 운영까지 애플리케이션 개발 전 과정을 지원하는 방향으로 플랫폼의 역할을 확대하려는 움직임이다.23일(현지시간) 테스팅카탈로그에 따르면, 오픈AI는 개발자 API 플랫폼의 새로운 온보딩 절차를 준비 중이다. 여기에는 '오픈AI 플랫폼(OpenAI Platform)'이라는 이름이 붙었다.이 과정에서 발견된 문구를 통해 AI 애플리"
+    },
+    {
+      "id": "d7738f2f3a43",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+      "published": "2026-09-25T11:12:52+00:00",
+      "summary": "구글과 오픈AI, 앤트로픽이 정부의 직접적인 감독 없이 최첨단 AI 모델의 안전 기준을 마련하는 업계 자율 규제기구 설립을 추진 중이다.24일(현지시간) 디 인포메이션에 따르면, 세 회사는 ‘프런티어 AI 표준기구(SAFA·Standards Authority for Frontier AI)’라는 가칭을 검토 중이며, 올해 말이나 2027년 초 출범을 목표로 하고 있다.SAFA는 최첨단 AI 모델 출시 전 제3자 안전성 평가를 지원하고 안전·보안 사고의 보고 절차를 규정하는 핵심 역할을 맡는다. 각 "
+    },
+    {
+      "id": "3b76fe848da6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215649",
+      "published": "2026-09-25T10:53:13+00:00",
+      "summary": "앤트로픽이 안전장치를 우회해 AI 모델의 지식이나 능력을 복제하려는 ‘모델 증류 공격’에 대응하기 위해, 안전장치에 의해 차단된 일부 요청에도 요금을 부과하기로 했다. 대규모 반복 요청을 통한 증류 시도를 억제하기 위한 방어 조치다.앤트로픽은 24일(현지시간)부터 '클로드'가 응답하기 전에 안전장치에 의해 거부한 요청 가운데 주요 위험 정책 범주에 해당하는 질의에 대해 일반 요청과 동일한 방식으로 과금을 시작한다고 발표했다.최근 몇 주 동안 자사 시스템을 대상으로 한 조직적인 공격이 발생했으며, "
+    },
     {
       "id": "8a281af7250f",
       "source": "MIT Tech Review",
@@ -34,6 +166,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260925082237",
       "published": "2026-09-25T08:30:01+00:00",
       "summary": "[지디넷코리아]미국의 인공지능(AI) 데이터센터 투자 중심지인 텍사스주가 전력망과 환경 인허가에 이어 용수 사용에 대한 조사까지 확대했다.24일(현지시간) 블룸버그통신에 따르면 켄 팩스턴 텍사스주 법무장관은 주내 수백개 데이터센터 개발 사업을 대상으로 용수 사용량 보고 의무를 제대로 준수하고 있는지 조사에 착수했다.1차 조사 대상은 휴스턴·샌안토니오·댈러스·포트워스 등이 포함된 18개 카운티의 데이터센터 프로젝트다.텍사스에선 일정 규모 이상의 용수를 사용하는 사업자가 텍사스수자원개발위원회(TWDB"
+    },
+    {
+      "id": "658df52be63c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "link": "https://www.dawo.community/en/",
+      "published": "2026-09-25T08:06:49+00:00",
+      "summary": "Article URL: https://www.dawo.community/en/ Comments URL: https://news.ycombinator.com/item?id=49841563 Points: 701 # Comments: 384"
     },
     {
       "id": "5ef09fff0a86",
