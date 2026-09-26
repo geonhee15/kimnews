@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-09-26T18:03:19.707876+00:00",
-  "count": 14231,
+  "updated_at": "2026-09-26T21:08:02.798810+00:00",
+  "count": 14234,
   "items": [
+    {
+      "id": "03a1af839ff3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "published": "2026-09-26T21:02:06+00:00",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+    },
     {
       "id": "c1577f87d022",
       "source": "TechCrunch",
@@ -12,6 +23,17 @@
       "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
       "published": "2026-09-26T17:44:00+00:00",
       "summary": "At least one social media company seems to be reversing its stance on whether it will accept advertising for Alex Gibney’s upcoming documentary about Elon Musk."
+    },
+    {
+      "id": "94a797a7f19f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "published": "2026-09-26T17:44:00+00:00",
+      "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads."
     },
     {
       "id": "499653b5b662",
@@ -1112,6 +1134,17 @@
       "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
       "published": "2026-09-25T11:00:28+00:00",
       "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
+    },
+    {
+      "id": "ca1aab53e114",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "link": "https://github.com/InfinityLoop1308/PipePipe",
+      "published": "2026-09-25T10:55:40+00:00",
+      "summary": "Article URL: https://github.com/InfinityLoop1308/PipePipe Comments URL: https://news.ycombinator.com/item?id=49842764 Points: 237 # Comments: 115"
     },
     {
       "id": "3b76fe848da6",
