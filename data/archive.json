@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-09-27T07:29:11.680954+00:00",
-  "count": 14261,
+  "updated_at": "2026-09-27T13:13:16.441037+00:00",
+  "count": 14270,
   "items": [
+    {
+      "id": "28993a847a59",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Googlebooks might be the real deal",
+      "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "published": "2026-09-27T12:00:00+00:00",
+      "summary": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This week, I flew to San Francisco t"
+    },
+    {
+      "id": "96f4710870ce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The smart home graveyard is getting crowded",
+      "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+      "published": "2026-09-27T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback "
+    },
+    {
+      "id": "3a1e0fad10b2",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - Opus 5.5, OpenAI DevDay o, GPT-6 Sol, Muse & Meta Connect, Grok 4.7, Qwen-Image-2.1 등",
+      "link": "https://www.youtube.com/watch?v=nZbxgWmgo6M",
+      "published": "2026-09-27T11:17:03+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ae265067c5df",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
+      "link": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
+      "published": "2026-09-27T10:15:00+00:00",
+      "summary": "These free iOS and Android apps create the physical friction you need to put down your phone."
+    },
+    {
+      "id": "0aad5f081e86",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+      "published": "2026-09-27T08:39:33+00:00",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 물리적·로보틱스 시뮬레이션 환경에서 치명적인 유해 명령을 거부하지 않고 수행한 연구 결과들이 잇달아 공개됐다. 오픈AI는 아스트라를 '가장 지능적이고 안전하게 정렬된 모델'로 소개했으나, 텍스트 통제와 실제 물리적 행위 사이의 격차가 드러난 것이다.AI 연구자인 알렉스 워머스는 21일(현지시간) 블로그와 깃허브를 통해 3D 루프탑 시뮬레이션 환경에서 진행한 '절벽 밀치기(Rooftop Push)' 실험 결과를 발표했다. 가상의 인물이 절벽 끝에 서 있는 상황에서"
+    },
     {
       "id": "54aa0437b716",
       "source": "AI타임스",
@@ -9,6 +64,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "오픈AI, 월 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 초고속 처리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+      "published": "2026-09-27T07:23:59+00:00",
+      "summary": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 24일(현지시간) 챗GPT의 비공개 프런트엔드 설정에서 프로 맥스의 흔적을 발견했다고 밝혔다.여기에 테스팅카탈로그 등이 확인한 내용에 따르면, 프로 맥스의 가격은 월 500달러다. 일부 지역에서는 부가가치세(VAT)가 포함돼 600달러로 표시될 수 있다.기존 챗GPT 프로 요금제와 비교해 새롭게 확인된 핵"
+    },
+    {
+      "id": "5346221a39e2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215681",
       "published": "2026-09-27T07:23:59+00:00",
       "summary": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 24일(현지시간) 챗GPT의 비공개 프런트엔드 설정에서 프로 맥스의 흔적을 발견했다고 밝혔다.여기에 테스팅카탈로그 등이 확인한 내용에 따르면, 프로 맥스의 가격은 월 500달러다. 일부 지역에서는 부가가치세(VAT)가 포함돼 600달러로 표시될 수 있다.기존 챗GPT 프로 요금제와 비교해 새롭게 확인된 핵"
@@ -34,6 +100,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215655",
       "published": "2026-09-27T06:34:42+00:00",
       "summary": "AI 에이전트 전문 라이너(대표 김진우)가 기존 MCP 생태계의 복잡한 진입 장벽을 해결하기 위해 ‘라이너 액션 MCP’를 선보인다. 서치·리서치 에이전트로서의 핵심 역량을 고도화하는 동시에, 사용자 환경에 최적화된 ‘통합 워크플로우 에이전트 환경’을 갖추겠다는 전략이다.라이너는 '라이너 액션 MCP(Liner Actions MCP)'를 국내에서도 사전 이용 형태로 선보인 데 이어, 1~2주 내로 공식 출시를 앞두고 있다고 27일 밝혔다. 이 기능은 사용자가 필요한 도구를 일일이 연결하지 않아도 "
+    },
+    {
+      "id": "1a8f0c70f1e4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "published": "2026-09-27T06:19:33+00:00",
+      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 348 # Comments: 300"
     },
     {
       "id": "ebaeefd691aa",
@@ -322,6 +399,17 @@
       "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole"
     },
     {
+      "id": "6ca9e42af9cf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Go Concurrency Distilled",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "published": "2026-09-26T14:34:49+00:00",
+      "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 269 # Comments: 106"
+    },
+    {
       "id": "066811954102",
       "source": "TechCrunch",
       "kind": "article",
@@ -350,6 +438,17 @@
       "category": "DEV",
       "lang": "ko",
       "title": "코딩하듯 영화 만드는 시대가 왔다...!",
+      "link": "https://www.youtube.com/watch?v=UXtt5Nb2H58",
+      "published": "2026-09-26T12:15:22+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4c660d20e2f8",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "개발자가 AI 영화를 만들면 생기는 일",
       "link": "https://www.youtube.com/watch?v=UXtt5Nb2H58",
       "published": "2026-09-26T12:15:22+00:00",
       "summary": ""
