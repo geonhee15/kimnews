@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-27T20:26:33.194225+00:00",
-  "count": 14281,
+  "updated_at": "2026-09-27T23:13:52.504388+00:00",
+  "count": 14287,
   "items": [
+    {
+      "id": "68272a8c95ae",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215694",
+      "published": "2026-09-27T21:15:40+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 CEO를 백악관으로 초청해 비공개 만찬을 가진다.악시오스는 27일(현지시간) 트럼프 대통령이 이날 저녁 백악관에서 아모데이 CEO와 만난다고 보도했다.이는 백악관이 주요 AI 기업 수장들을 소집해 개최할 예정인 회의를 앞두고 이뤄진 독대 자리다. 트럼프 대통령은 29일 기술 및 AI 분야 리더들과 함께 새로운 정부 웹사이트를 공개하는 행사를 주최할 예정이다. 여기에는 젠슨 황, 일론 머스크 등이 참석할 것으로 알려졌다.이번 만찬은 그동안 긴장 "
+    },
+    {
+      "id": "3f7b40b1cf0c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "published": "2026-09-27T20:46:36+00:00",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button,"
+    },
+    {
+      "id": "422a630cbf2f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "published": "2026-09-27T20:34:28+00:00",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+    },
+    {
+      "id": "23042c268aa4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "When did Google get so weird?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
+      "published": "2026-09-27T20:12:54+00:00",
+      "summary": "Article URL: https://sancho.bearblog.dev/google-weird/ Comments URL: https://news.ycombinator.com/item?id=49870367 Points: 499 # Comments: 262"
+    },
     {
       "id": "37376855b5c5",
       "source": "TechCrunch",
@@ -12,6 +56,17 @@
       "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
       "published": "2026-09-27T19:57:30+00:00",
       "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
+    {
+      "id": "b64a96ea7f04",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ember-1",
+      "link": "https://fireworks.ai/blog/ember-1",
+      "published": "2026-09-27T17:31:53+00:00",
+      "summary": "Article URL: https://fireworks.ai/blog/ember-1 Comments URL: https://news.ycombinator.com/item?id=49868830 Points: 289 # Comments: 159"
     },
     {
       "id": "b4079a6d73ce",
@@ -196,6 +251,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽, 클로드 최적화를 클로드에 맡겼더니… \"2주 만에 속도 3배 빨라져\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215678",
+      "published": "2026-09-27T06:59:27+00:00",
+      "summary": "앤트로픽이 AI 모델의 성능 개선을 넘어 실제 서비스 속도를 높이기 위해 자사 AI 모델 '클로드'를 대규모 최적화 작업에 직접 투입했다. 엔지니어가 일일이 코드를 분석하던 기존 방식에서 벗어나, AI가 스스로 병목 지점을 찾고 수정 코드 배포까지 주도한 것이 핵심이다.앤트로픽은 2026년 9월 23일(현지시간) 단 2주 만에 클로드 웹 서비스와 데스크톱 앱의 핵심 사용자 경험을 약 3배 빠르게 개선했다고 밝혔다.특히 속도 저하를 해결하기 위해 엔지니어와 클로드가 하나의 슬랙 채널에서 협력했으며,"
+    },
+    {
+      "id": "931e363f5977",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 최적화를 클로드에 맡겼더니…\"속도 3배 빨라져\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215678",
       "published": "2026-09-27T06:59:27+00:00",
       "summary": "앤트로픽이 AI 모델의 성능 개선을 넘어 실제 서비스 속도를 높이기 위해 자사 AI 모델 '클로드'를 대규모 최적화 작업에 직접 투입했다. 엔지니어가 일일이 코드를 분석하던 기존 방식에서 벗어나, AI가 스스로 병목 지점을 찾고 수정 코드 배포까지 주도한 것이 핵심이다.앤트로픽은 2026년 9월 23일(현지시간) 단 2주 만에 클로드 웹 서비스와 데스크톱 앱의 핵심 사용자 경험을 약 3배 빠르게 개선했다고 밝혔다.특히 속도 저하를 해결하기 위해 엔지니어와 클로드가 하나의 슬랙 채널에서 협력했으며,"
