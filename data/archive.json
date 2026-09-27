@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-09-27T17:45:23.001259+00:00",
-  "count": 14279,
+  "updated_at": "2026-09-27T20:26:33.194225+00:00",
+  "count": 14281,
   "items": [
+    {
+      "id": "37376855b5c5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "published": "2026-09-27T19:57:30+00:00",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
     {
       "id": "b4079a6d73ce",
       "source": "The Verge",
@@ -45,6 +56,17 @@
       "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
       "published": "2026-09-27T14:45:07+00:00",
       "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 271 # Comments: 231"
+    },
+    {
+      "id": "07d7bc005dd9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "published": "2026-09-27T14:45:07+00:00",
+      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 310 # Comments: 271"
     },
     {
       "id": "7347ff82dd95",
