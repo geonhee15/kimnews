@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-09-27T13:13:16.441037+00:00",
-  "count": 14270,
+  "updated_at": "2026-09-27T17:45:23.001259+00:00",
+  "count": 14279,
   "items": [
+    {
+      "id": "b4079a6d73ce",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "published": "2026-09-27T17:21:07+00:00",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attack"
+    },
+    {
+      "id": "a36fd869bae3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published": "2026-09-27T16:30:00+00:00",
+      "summary": "\"AI is the devil and I its maker.\""
+    },
+    {
+      "id": "4fd71fbb14f2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "published": "2026-09-27T16:02:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "83d7ee38d50c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "published": "2026-09-27T14:45:07+00:00",
+      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 271 # Comments: 231"
+    },
+    {
+      "id": "7347ff82dd95",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "10 Tells of a Slop UI",
+      "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "published": "2026-09-27T14:41:26+00:00",
+      "summary": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop Comments URL: https://news.ycombinator.com/item?id=49867038 Points: 235 # Comments: 170"
+    },
+    {
+      "id": "09dbeb7e0bae",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AMD \"BOE와 컴퓨팅·디스플레이 경험 함께 혁신\"",
+      "link": "https://zdnet.co.kr/view/?no=20260927220947",
+      "published": "2026-09-27T13:30:48+00:00",
+      "summary": "[지디넷코리아][베이징(중국)=이기종 기자] AMD가 BOE와 컴퓨팅과 디스플레이 경험을 함께 혁신해왔다고 밝혔다. 판샤오밍(潘晓明) AMD 수석부사장 겸 중화권 총괄사장은 지난 22일 중국 베이징국가컨벤션센터 2기에서 개막한 BOE의 자체 연례행사 'IPC 2026' 기조연설에서 \"BOE는 AMD의 중요 파트너\"라며 \"양사는 오랫동안 컴퓨팅과 디스플레이 경험을 중심으로 공동 혁신해왔다\"며 이처럼 밝혔다. 판샤오밍 부사장은 \"(양사 협력) 대표 성과인 리얼 e스포츠는 어느 한 가지 사양만으로 이뤄"
+    },
+    {
+      "id": "e199a2bfe7aa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, '두번째 탈옥' 사고...최근 몇년간 일어난 보안사고 보니",
+      "link": "https://zdnet.co.kr/view/?no=20260927214347",
+      "published": "2026-09-27T12:43:47+00:00",
+      "summary": "[지디넷코리아]최근 외신은 오픈AI AI 모델이 미국 인구조사국과 증권거래위원회(SEC) 등 미 정부 웹사이트의 공개 데이터에 접근했다고 보도했다. 오픈AI도 자체 조사에서 외부 시스템에 영향을 미친 사례를 확인하고 미 정부를 포함한 수십 곳에 통보했다. 미국 뿐 아니다. 오픈AI 에이전트는 뉴멕시코대 디지털도서관과 호주 보건복지연구원(AIHW)에도 접근을 시도했다. 특히 일부 에이전트는 정상 접근이 막히자 다른 경로를 찾거나 취약점을 탐색했다. 가뜩이나 지난 7월 발생한 '허깅페이스(Huggin"
+    },
     {
       "id": "28993a847a59",
       "source": "The Verge",
@@ -45,6 +122,17 @@
       "link": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
       "published": "2026-09-27T10:15:00+00:00",
       "summary": "These free iOS and Android apps create the physical friction you need to put down your phone."
+    },
+    {
+      "id": "66613329bea6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이재용·최태원·젠슨 황, 28일 뉴욕서 만난다",
+      "link": "https://zdnet.co.kr/view/?no=20260927191300",
+      "published": "2026-09-27T10:14:24+00:00",
+      "summary": "[지디넷코리아]이재용 삼성전자 회장, 최태원 SK그룹 회장, 젠슨 황 엔비디아 최고경영자(CEO)가 28일(현지시간) 미국 뉴욕에서 만난다. 고대역폭메모리(HBM)와 인공지능(AI) 인프라 협력 논의가 업계 관심사다. 27일 뉴스1 등에 따르면 이재용 회장과 최태원 회장은 28일 뉴욕에서 열리는 '코리아소사이어티 연례 갈라'에 참석할 예정이다. 젠슨 황 CEO는 코리아소사이어티의 '밴 플리트상' 수상자로 행사에 참석한다. 코리아소사이어티는 황 CEO 수상 배경에 대해 SK그룹과 삼성전자 등 한국 "
     },
     {
       "id": "0aad5f081e86",
@@ -111,6 +199,17 @@
       "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "published": "2026-09-27T06:19:33+00:00",
       "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 348 # Comments: 300"
+    },
+    {
+      "id": "c961f6c3595c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "published": "2026-09-27T06:19:33+00:00",
+      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 563 # Comments: 523"
     },
     {
       "id": "ebaeefd691aa",
