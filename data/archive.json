@@ -1,7 +1,172 @@
 {
-  "updated_at": "2026-09-27T01:48:26.366722+00:00",
-  "count": 14240,
+  "updated_at": "2026-09-27T07:29:11.680954+00:00",
+  "count": 14261,
   "items": [
+    {
+      "id": "54aa0437b716",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 월 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 초고속 처리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+      "published": "2026-09-27T07:23:59+00:00",
+      "summary": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 24일(현지시간) 챗GPT의 비공개 프런트엔드 설정에서 프로 맥스의 흔적을 발견했다고 밝혔다.여기에 테스팅카탈로그 등이 확인한 내용에 따르면, 프로 맥스의 가격은 월 500달러다. 일부 지역에서는 부가가치세(VAT)가 포함돼 600달러로 표시될 수 있다.기존 챗GPT 프로 요금제와 비교해 새롭게 확인된 핵"
+    },
+    {
+      "id": "6c10c5018c17",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 최적화를 클로드에 맡겼더니… \"2주 만에 속도 3배 빨라져\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215678",
+      "published": "2026-09-27T06:59:27+00:00",
+      "summary": "앤트로픽이 AI 모델의 성능 개선을 넘어 실제 서비스 속도를 높이기 위해 자사 AI 모델 '클로드'를 대규모 최적화 작업에 직접 투입했다. 엔지니어가 일일이 코드를 분석하던 기존 방식에서 벗어나, AI가 스스로 병목 지점을 찾고 수정 코드 배포까지 주도한 것이 핵심이다.앤트로픽은 2026년 9월 23일(현지시간) 단 2주 만에 클로드 웹 서비스와 데스크톱 앱의 핵심 사용자 경험을 약 3배 빠르게 개선했다고 밝혔다.특히 속도 저하를 해결하기 위해 엔지니어와 클로드가 하나의 슬랙 채널에서 협력했으며,"
+    },
+    {
+      "id": "5ca9ab83c94c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "라이너, 에이전트 연결 도구 '라이너 액션 MCP' 출시…국내 도입 임박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215655",
+      "published": "2026-09-27T06:34:42+00:00",
+      "summary": "AI 에이전트 전문 라이너(대표 김진우)가 기존 MCP 생태계의 복잡한 진입 장벽을 해결하기 위해 ‘라이너 액션 MCP’를 선보인다. 서치·리서치 에이전트로서의 핵심 역량을 고도화하는 동시에, 사용자 환경에 최적화된 ‘통합 워크플로우 에이전트 환경’을 갖추겠다는 전략이다.라이너는 '라이너 액션 MCP(Liner Actions MCP)'를 국내에서도 사전 이용 형태로 선보인 데 이어, 1~2주 내로 공식 출시를 앞두고 있다고 27일 밝혔다. 이 기능은 사용자가 필요한 도구를 일일이 연결하지 않아도 "
+    },
+    {
+      "id": "ebaeefd691aa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드 플러그인 개발 포털 공개...제출·검토·분석 통합 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+      "published": "2026-09-27T06:14:31+00:00",
+      "summary": "'클로드'가 외부 앱과 업무 도구, 데이터에 연결되는 사례가 늘면서 서드파티 확장 기능을 개발하려는 수요도 커지고 있다. 앤트로픽은 개발자들이 이런 확장 기능을 간편하게 만들고 실제 사용자에게 배포할 수 있도록 플러그인 개발과 관리 환경을 강화했다. 앤트로픽은 25일(현지시간) 클로드용 플러그인을 더 쉽게 개발하고 배포할 수 있도록 새로운 포털을 공개했다. 개발자는 이곳에서 플러그인을 제출하고 안전성 검토 진행 상황과 피드백을 확인하며, 승인된 플러그인의 사용량과 검색 데이터를 한곳에서 관리할 수"
+    },
+    {
+      "id": "bb6ec26e471f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스모어톡, 신한은행에 숏폼 영상 AI 공급…금융권 유스케이스 첫 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215687",
+      "published": "2026-09-27T06:01:58+00:00",
+      "summary": "스모어톡이 숏폼 생성 AI 기술을 신한은행에 공급한다. 생성 AI 서비스가 금융권의 엄격한 검토 기준을 통과해 정식 계약으로 이어졌다는 점에서 주목된다.스모어톡(대표 황현지)은 숏폼 영상 제작 AI ‘레이턴트 스튜디오(latent studio)’를 통해 신한은행과 ‘AI 숏폼 영상 콘텐츠 제작 서비스 공급 계약’을 체결했다고 27일 밝혔다.신한은행 S&T센터는 매일 PDF 리포트 형태로 배포해 온 데일리 환율 시황을 숏폼 영상으로 확대한다. 담당자가 그날의 환율 시황 설명문을 입력하면, AI가 시"
+    },
+    {
+      "id": "52fc3e2f3474",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KT, AI 모델 라우팅 기술로 글로벌 2위…“기업 AX 지원”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215686",
+      "published": "2026-09-27T05:59:09+00:00",
+      "summary": "KT가 AI 모델 라우팅 기술로 글로벌 평가에서 2위를 차지했다. 해당 기술은 '토큰 팩토리' 등 에이전틱 AI 서비스에 탑재돼 기업들의 AX와 운영 비용 최적화를 지원하는 데 활용될 예정이다.KT(대표 박윤영)는 자체 개발한 AI 모델 라우팅 기술 ‘오토모델라우터(AutoModelRouter)’가 LLM 라우터 전문 공개 벤치마크인 ‘라우터 아레나(RouterArena)’에서 종합 2위를 기록했다고 27일 밝혔다. 오토모델라우터는 여러 AI 모델 가운데 이용자의 요청에 가장 적합한 모델을 자동으"
+    },
+    {
+      "id": "d22af6fbf81f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "도쿄 통신비가 더 싸다고…일본 정부가 만든 '제멋대로 비교'",
+      "link": "https://zdnet.co.kr/view/?no=20260927145127",
+      "published": "2026-09-27T05:51:27+00:00",
+      "summary": "[지디넷코리아]서울의 통신 요금이 주요 도시 가운데 가장 비싸다는 일본 총무성의 조사 자료가 적지 않은 혼란을 일으킬 전망이다. 일본 정부가 3개월 전에 발표한 지난해 말 기준 비교에 따른 수치로, 일부 조사 항목에서는 신뢰도를 갖기 어려운 항목이 보여 논란이 예상된다.일본 총무성은 지난 6월30일 ‘전기통신서비스에 관한 내외 가격차 조사’를 공개했다. 조사대상은 도쿄를 비롯해 뉴욕, 런던, 파리, 뒤셀도르프, 서울 등 6개 도시 한정이다. 조사시점은 2025년 12월이다.이 보고서는 일본 총무성"
+    },
+    {
+      "id": "e8e80c521435",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로봇은 달라도 두뇌는 하나로…'범용 로봇 지능' 뜬다",
+      "link": "https://zdnet.co.kr/view/?no=20260927135147",
+      "published": "2026-09-27T05:01:43+00:00",
+      "summary": "[지디넷코리아]피지컬 인공지능(AI)이 공장과 물류 등 실제 환경으로 영역을 넓히면서 로봇을 작업마다 새로 학습시키는 대신, 축적한 경험을 다른 작업과 환경에도 활용하려는 움직임이 확산하고 있다. 이런 흐름 속에서 서로 다른 로봇의 경험을 하나로 연결하는 로봇 파운데이션 모델(RFM)이 새로운 기술 축으로 주목받고 있다.27일 업계에 따르면 국내외 로봇·AI 기업들은 특정 로봇이나 작업에 한정되지 않는 범용 로봇 지능 개발에 속도를 내고 있다. 기존 산업용 로봇은 정해진 작업과 환경에 맞춰 설계돼"
+    },
+    {
+      "id": "2c84a536f5c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 마이크론 최대실적 예고...개보위원장·통신3사 CEO 첫회동",
+      "link": "https://zdnet.co.kr/view/?no=20260927121709",
+      "published": "2026-09-27T03:17:09+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]10월1일(한국시간) 미국 마이크론이 2026회계연도 4분기(6월~8월) "
+    },
+    {
+      "id": "6828fc54bb07",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215683",
+      "published": "2026-09-27T03:08:03+00:00",
+      "summary": "문장 생성을 배제하고 의사결정에만 특화해 실리콘밸리에서 폭발적인 관심을 모은 타입세이프 AI의 ‘제브(Jev)’에 맞서, 스탠퍼드대학교와 엔비디아 연구진이 도전장을 내밀었다. AI 에이전트의 반복적인 도구 선택과 결과 검증을 별도 모델로 분리·속도화하는 오픈소스 모델을 공개하며 제브가 불을 붙인 '판단 전용 AI' 시장 경쟁에 불을 지핀 것이다.스탠퍼드대와 엔비디아 연구진은 23일(현지시간) AI 에이전트의 도구 선택과 결과 검증 같은 제한된 의사결정을 빠르게 처리할 수 있는 오픈소스 모델 ‘CL"
+    },
+    {
+      "id": "9aa042bf57c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "과기정통부, 반도체 연구시설 특별 점검",
+      "link": "https://zdnet.co.kr/view/?no=20260923163836",
+      "published": "2026-09-27T03:00:03+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부가 이달 말 한국기술교육대학교를 시작으로 전국 22개 대학 및 정부출연연구기관 반도체 연구시설에 대한 특별 점검에 나선다.최근 AI 데이터센터가 잇따라 지어지면서 반도체 연구도 덩달어 늘어 관련 연구실 사고가 급증하고 있다. 2023년 18건이던 것이 2025년 2년새 32건으로 두 배 급증했다.이에 따라 과기정통부는 연구시설 사고발생 위험요인을 찾아 개선하기 위한 특별 현장점검을 추진하기로 했다.우선 이달 말 한국기술교육대학교를 시작으로 연말까지 3개 기관 대상 시"
+    },
+    {
+      "id": "6e43dfd0400c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽 이어 구글 연구원 사임…\"AI 발전 속도 너무 빨라\"",
+      "link": "https://zdnet.co.kr/view/?no=20260927112006",
+      "published": "2026-09-27T02:44:09+00:00",
+      "summary": "[지디넷코리아]구글의 인공지능(AI) 연구원이 AI의 발전 속도가 지나치게 빠르다는 우려와 함께 회사를 떠났다. 앤트로픽에 이어 구글에서도 AI 발전 속도와 실존적 위험에 대한 업계 내부의 문제 제기가 이어지고 있다.구글의 AI 담당 조직인 구글 딥마인드 소속 로버트 오캘러핸은 지난 24일 자신의 엑스(X·옛 트위터)를 통해 구글 퇴사 사실을 공개했다.그는 개인 블로그에 공개한 사직서에서 \"자신이 속한 팀의 목표가 AI를 더 저렴하고 지연시간이 낮게 만드는 것\"이라며 \"현재로서는 이런 방향이 사람"
+    },
+    {
+      "id": "1faaced7c33b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPT-6 아스트라, 85년 난제 '에니그마' 암호 해독...도구·시뮬레이터 구현",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215677",
+      "published": "2026-09-27T02:28:18+00:00",
+      "summary": "'GPT-6 아스트라'가 제2차 세계대전 당시 앨런 튜링이 해독 기계 '봄브(Bombe)'를 개발해 맞섰던 독일군의 에니그마(Enigma) 암호문을 단 이틀 만에 해독했다. 2005년 온라인에 공개된 뒤 수많은 해독 시도가 있었지만 풀리지 않았던 암호문으로, AI가 암호 분석부터 필요한 도구 개발까지 스스로 수행했다는 점에서 주목된다.암호학 역사 연구자 프로데 바이어루트가 운영하는 암호학 역사 연구 플랫폼 크립토 셀러(Cryptocellar)는 24일(현지시간) 관련 결과 보고서를 공개했다.이에 "
+    },
+    {
+      "id": "6cdc841c66f6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "日, AI 광반도체 생산거점 키운다...타워세미컨 5.6조 투자",
+      "link": "https://zdnet.co.kr/view/?no=20260927112052",
+      "published": "2026-09-27T02:20:52+00:00",
+      "summary": "[지디넷코리아]일본이 AI 데이터센터 확대로 수요가 늘어나는 광반도체 생산거점 확보에 속도를 낸다. 이스라엘 파운드리 기업 타워세미컨덕터가 일본에 약 5조 6000억원을 투자하고, 일본 정부도 약 1조 4000억원을 지원한다.25일(현지시간) 톰스하드웨어 등에 따르면 타워세미컨덕터는 2029년 일본 내 광통신 반도체 생산능력을 300mm 웨이퍼 기준 월 4만 5000장으로 늘릴 계획이다. 2025년 대비 약 40배 규모다.대규모 증설 배경에는 AI 데이터센터가 자리한다. 수백 수천 개의 GPU를 "
+    },
+    {
+      "id": "1d09ea9f599a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 데브데이서 ‘상시 작동 에이전트’ 공개하나…‘o’ 포착",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215684",
+      "published": "2026-09-27T01:55:05+00:00",
+      "summary": "오픈AI가 오는 29일(현지시간) 개발자 행사 ‘데브데이’에서 상시 작동하는 에이전트 ‘o’를 공개할 가능성이 제기됐다.테스팅카탈로그에 따르면, X에서는 최근 오픈AI가 o라는 이름의 상시 작동 에이전트를 준비하고 있는 정황이 발견됐다.오픈AI 내부 화면에서 “\"o, 당신의 상시 작동 어시스턴트(o, your always-on assistant)”라는 문구가 노출됐으며, o를 표시 이름으로 사용하는 흔적도 확인된 것으로 알려졌다. 테스팅카탈로그는 이 에이전트가 다음 주 데브데이에서 공개될 가능성이"
+    },
     {
       "id": "528a8f0205fe",
       "source": "TechCrunch",
@@ -58,6 +223,17 @@
       "summary": "오픈AI의 AI 에이전트가 인터넷에서 예상하지 못한 방식으로 외부 웹사이트에 접근하거나 정보를 게시하는 사례가 잇달아 확인됐다. 일부는 정부 기관의 공개 정보를 조회한 것이었지만, 보안 제한을 우회하거나 외부 사이트에 정보를 게시하고 이용자 데이터를 다른 서비스로 전송한 사례도 드러났다.오픈AI는 25일(현지시간) 자사 모델이 학습과 평가 과정에서 인터넷에서 수행한 활동을 광범위하게 검토한 결과를 공개하고, 이 과정에서 확인된 일부 사례를 외부 기관에 통보했다고 밝혔다.이번 검토는 지난 7월 AI"
     },
     {
+      "id": "632ee1e9a58e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI 에이전트, 미국 정부 사이트 뒤졌다…‘에이전트 스팸’도 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215679",
+      "published": "2026-09-27T00:12:01+00:00",
+      "summary": "오픈AI의 AI 에이전트가 인터넷에서 예상하지 못한 방식으로 외부 웹사이트에 접근하거나 정보를 게시하는 사례가 잇달아 확인됐다. 일부는 정부 기관의 공개 정보를 조회한 것이었지만, 보안 제한을 우회하거나 외부 사이트에 정보를 게시하고 이용자 데이터를 다른 서비스로 전송한 사례도 드러났다.오픈AI는 25일(현지시간) 자사 모델이 학습과 평가 과정에서 인터넷에서 수행한 활동을 광범위하게 검토한 결과를 공개하고, 이 과정에서 확인된 일부 사례를 외부 기관에 통보했다고 밝혔다.이번 검토는 지난 7월 AI"
+    },
+    {
       "id": "31661e84db52",
       "source": "The Verge",
       "kind": "article",
@@ -80,6 +256,17 @@
       "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
     },
     {
+      "id": "e67a0a5d2664",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
+      "published": "2026-09-26T18:22:41+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 232 # Comments: 77"
+    },
+    {
       "id": "c1577f87d022",
       "source": "TechCrunch",
       "kind": "article",
@@ -100,6 +287,17 @@
       "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
       "published": "2026-09-26T17:44:00+00:00",
       "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads."
+    },
+    {
+      "id": "9ee7092aaa74",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "link": "https://github.com/reladraw/reladraw",
+      "published": "2026-09-26T17:10:40+00:00",
+      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for"
     },
     {
       "id": "499653b5b662",
@@ -199,6 +397,17 @@
       "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
       "published": "2026-09-26T10:30:00+00:00",
       "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages."
+    },
+    {
+      "id": "9c5cb1ddd8c7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "published": "2026-09-26T09:41:58+00:00",
+      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=49854875 Points: 210 # Comments: 257"
     },
     {
       "id": "c53bf0d1c71b",
@@ -1068,6 +1277,28 @@
       "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
       "published": "2026-09-25T13:55:37+00:00",
       "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 205 # Comments: 95"
+    },
+    {
+      "id": "c606ec64280f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "published": "2026-09-25T13:49:06+00:00",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand Comments URL: https://news.ycombinator.com/item?id=49844663 Points: 240 # Comments: 573"
+    },
+    {
+      "id": "dc9497017b3f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Does Georgism work? Five years later",
+      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "published": "2026-09-25T13:48:38+00:00",
+      "summary": "Article URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later Comments URL: https://news.ycombinator.com/item?id=49844657 Points: 272 # Comments: 181"
     },
     {
       "id": "6f9e29272f1d",
