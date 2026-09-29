@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-09-29T14:04:13.120522+00:00",
-  "count": 14482,
+  "updated_at": "2026-09-29T19:24:43.672773+00:00",
+  "count": 14519,
   "items": [
+    {
+      "id": "186d9722ffcf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "published": "2026-09-29T19:05:00+00:00",
+      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents."
+    },
+    {
+      "id": "15f6eda0a3f7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+      "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "published": "2026-09-29T18:45:00+00:00",
+      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially."
+    },
+    {
+      "id": "d2f48114455b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "published": "2026-09-29T18:35:00+00:00",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+    },
+    {
+      "id": "6bedb168f572",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+      "link": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+      "published": "2026-09-29T18:34:00+00:00",
+      "summary": "So is SpaceX just being selfish or what?"
+    },
+    {
+      "id": "61f4f9ecb90d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "published": "2026-09-29T18:11:09+00:00",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\""
+    },
+    {
+      "id": "a01f76272de4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "published": "2026-09-29T18:03:01+00:00",
+      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert."
+    },
+    {
+      "id": "bf3656661842",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "published": "2026-09-29T17:45:51+00:00",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+    },
+    {
+      "id": "91c5874e2895",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "published": "2026-09-29T17:35:03+00:00",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. "
+    },
+    {
+      "id": "be0359c20e16",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+      "link": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+      "published": "2026-09-29T17:29:14+00:00",
+      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional."
+    },
+    {
+      "id": "8d3af9c5d65f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "published": "2026-09-29T17:20:00+00:00",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+    },
+    {
+      "id": "dafbbe599bee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "published": "2026-09-29T17:17:15+00:00",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+    },
+    {
+      "id": "bb2fbcaf59e6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+    },
+    {
+      "id": "3d5a3e7129ac",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows."
+    },
+    {
+      "id": "85b0bf14146f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+    },
+    {
+      "id": "a53c5d4c9388",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your pre"
+    },
+    {
+      "id": "ddd00f86169a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks."
+    },
+    {
+      "id": "c49520a40d1f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "published": "2026-09-29T17:12:27+00:00",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations"
+    },
+    {
+      "id": "374a6aa133cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "published": "2026-09-29T16:55:56+00:00",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+    },
+    {
+      "id": "c0e34d390fe6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "published": "2026-09-29T16:30:48+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 302 # Comments: 202"
+    },
+    {
+      "id": "c7fbad391c6f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies",
+      "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+      "published": "2026-09-29T16:17:01+00:00",
+      "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. "
+    },
+    {
+      "id": "a5a07c08c42a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new CEO could change when it launches phones and laptops",
+      "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+      "published": "2026-09-29T16:09:44+00:00",
+      "summary": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone launch events in September and"
+    },
+    {
+      "id": "3fe21cf59563",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "published": "2026-09-29T16:00:00+00:00",
+      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recen"
+    },
+    {
+      "id": "e6b7c75b8f28",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This might be our first look at Google’s Pixel 11A",
+      "link": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+      "published": "2026-09-29T15:57:10+00:00",
+      "summary": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look at the Pixel 11A, which aside from having a slightly rounder oval-shaped re"
+    },
+    {
+      "id": "616951133e8d",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "published": "2026-09-29T15:00:00+00:00",
+      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "369ac3ba9bbd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "published": "2026-09-29T14:32:33+00:00",
+      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ Comments URL: https://news.ycombinator.com/item?id=49894005 Points: 377 # Comments: 274"
+    },
+    {
+      "id": "71e0c779412f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "published": "2026-09-29T14:22:31+00:00",
+      "summary": "Similar performance, security trade-offs also seen in current public models."
+    },
+    {
+      "id": "f626efc4d822",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
+      "link": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
+      "published": "2026-09-29T14:10:50+00:00",
+      "summary": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last upgrades to the basic Kindle model were limited to a bright"
+    },
+    {
+      "id": "a80137450e65",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "published": "2026-09-29T14:10:00+00:00",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
+    },
+    {
+      "id": "16e244dc865e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[사진집] 과기정통부, 18개 AI중심대학에 현판 증정",
+      "link": "https://zdnet.co.kr/view/?no=20260929230955",
+      "published": "2026-09-29T14:09:55+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부(과기정통부)와 정보통신기획평가원(IITP)은 29일 연세대학교 백양누리홀에서 'AI중심대학·AX대학원 공동 출범식'을 개최했다. 이날 행사에는 류제명 과기정통부 2차관을 비롯해 연세대학교 윤동섭 총장, 한림대학교 최양희 총장 등 참여대학 총장과 정보통신기획평가원 홍진배 원장, 연구책임자·참여기업 등 100여명이 참석했다. AI중심대학에는 18개 대학이 선정, 사업에 참여중이다. 이날 과기정통부는 이들 18개 AI중심대학에 현판을 증정했다. 아래 사진은 이날 열린 1"
+    },
+    {
+      "id": "a7ed26bf3cd7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "published": "2026-09-29T14:08:21+00:00",
+      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI ag"
+    },
     {
       "id": "3bc924f5c8ff",
       "source": "The Verge",
@@ -58,6 +388,17 @@
       "summary": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using."
     },
     {
+      "id": "73854880398e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"국가 AI경쟁력 강화 기여\"...AI중심대학-AX대학원 공동 선언",
+      "link": "https://zdnet.co.kr/view/?no=20260929221413",
+      "published": "2026-09-29T13:14:13+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부(과기정통부)와 정보통신기획평가원(IITP)이 공동 주관한 행사로 29일 연세대학교 백양누리홀에서 열린 'AI중심대학·AX대학원 공동 출범식'에서 눈길 끈 행사 중 하나가 'AI교육혁신 확산·공동협력 선언식'이다.이는 AI중심대학과 AX·AI대학원 간 학사-석박사 AI인재양성 협력을 위한 역량 결집 및 지속 가능한 거버넌스 구축을 위한 것으로, 공동 선언은 AI·SW중심대학협의회장인 신용태 숭실대 교수와 AI대학원협의회장인 이지형 성균관대 교수 2인이 했다. 현재 A"
+    },
+    {
       "id": "66600df6603d",
       "source": "The Verge",
       "kind": "article",
@@ -78,6 +419,28 @@
       "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
       "published": "2026-09-29T12:45:05+00:00",
       "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
+    },
+    {
+      "id": "0b4e55ec7bb6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "published": "2026-09-29T12:43:29+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss Comments URL: https://news.ycombinator.com/item?id=49892245 Points: 350 # Comments: 202"
+    },
+    {
+      "id": "79dd25a02855",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "최양희 한림대 총장 \"AI시대 대학, 근본적 구조 전환해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20260929213041",
+      "published": "2026-09-29T12:30:41+00:00",
+      "summary": "[지디넷코리아]\"AI학과 하나가 아니라 학제, 교과목, 학위, 대학이 함께 바뀌는 근본적인 구조 전환을 해야 합니다.\"최양희 한림대 총장은 29일 연세대학교 백양누리홀에서 열린 'AI중심대학·AX대학원 공동 출범식'에서 연사로 나서 이 같이 밝혔다. 이날 행사에는 류제명 과기정통부 2차관을 비롯해 연세대학교 윤동섭 총장 등 AI중심대학과 AX대학원 사업 참여대학 총장과 관계자 100여명이 참석했다.최 총장은 지난 2014년 7월부터 2017년 7월까지 3년간 미래창조과학부 장관(현재의 과기정통부)"
     },
     {
       "id": "2a7021cb4f1f",
@@ -146,6 +509,17 @@
       "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 내가 회사를 떠나도 내 노하우가 AI에 그대로 남아 있다면 어떨까요? 요즘 회사들은 직원들의 메일과 메신저, 업무 기록을 AI에게 학습시키고 있는데요. 이렇게 되면 내 말투와 일하는 방식까지 따라 하는 '디지털 쌍둥이'가 만들어져서, 내가 퇴사한 뒤에도 회사에서 계속 일하게 되는 셈이에요. 그런데 이 경험과 노하우는 과연 누구의 것일까요?이 질문에 대한 답은 아직 분명하지 않아요. AI 덕분에 생산성이 좋아졌다고 체감하는 곳은 41%인데, 결과를 "
     },
     {
+      "id": "df9607fc1455",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "published": "2026-09-29T11:35:18+00:00",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive Comments URL: https://news.ycombinator.com/item?id=49891480 Points: 433 # Comments: 255"
+    },
+    {
       "id": "31784b696c4e",
       "source": "Hacker News",
       "kind": "article",
@@ -155,6 +529,17 @@
       "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
       "published": "2026-09-29T11:14:45+00:00",
       "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 314 # Comments: 261"
+    },
+    {
+      "id": "ec32cd692efc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "You are no longer invited to dinner",
+      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "published": "2026-09-29T11:14:45+00:00",
+      "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host Comments URL: https://news.ycombinator.com/item?id=49891295 Points: 604 # Comments: 566"
     },
     {
       "id": "612aa821f5a8",
@@ -463,6 +848,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215747",
       "published": "2026-09-29T06:33:01+00:00",
       "summary": "AI 규제와 개발 속도를 둘러싸고 업계와 백악관의 입장 차이가 이어지는 가운데, 주요 IT 기업 최고경영진이 한자리에 모여 대통령과 미국의 AI 정책 방향을 논의한다. CNBC 등에 따르면, 29일(현지시간) 도널드 트럼프 대통령과 마이크 존슨 하원의장이 참석하는 백악관 회의에는 마크 저커버그 메타 CEO와 다리오 아모데이 앤트로픽 CEO를 비롯한 미국 주요 IT 기업 경영진이 참석한다.젠슨 황 엔비디아 CEO와 그렉 브록먼 오픈AI 사장도 참석하며, 순다르 피차이 구글 CEO와 일론 머스크 CE"
+    },
+    {
+      "id": "03884556b41a",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published": "2026-09-29T06:30:38+00:00",
+      "summary": ""
     },
     {
       "id": "8bed657ddd2f",
@@ -1255,6 +1651,17 @@
       "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
       "published": "2026-09-28T16:43:18+00:00",
       "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified."
+    },
+    {
+      "id": "1faa31f7712e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "link": "https://jagi.studio/posts/phyllotaxis/",
+      "published": "2026-09-28T16:18:57+00:00",
+      "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/ Comments URL: https://news.ycombinator.com/item?id=49880411 Points: 227 # Comments: 40"
     },
     {
       "id": "e882baf6f991",
