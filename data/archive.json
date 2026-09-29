@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-09-29T19:24:43.672773+00:00",
-  "count": 14519,
+  "updated_at": "2026-09-29T23:05:40.879660+00:00",
+  "count": 14536,
   "items": [
+    {
+      "id": "9080b4c66f43",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "published": "2026-09-29T22:25:45+00:00",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. "
+    },
+    {
+      "id": "9c56af780d58",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "published": "2026-09-29T22:20:59+00:00",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+    },
+    {
+      "id": "ad588013f3d3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개…소비자용 아닌 B2B 승부수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215779",
+      "published": "2026-09-29T22:07:16+00:00",
+      "summary": "오픈AI가 24시간 백그라운드에서 상시 가동되는 자율형 AI 에이전트 서비스 '닷츠(dots)'를 공개했다. 당초 메타의 개인 맞춤형 에이전트 '뮤즈(Muse)'를 겨냥한 제품으로 예상됐으나, 완전히 성격이 다른 기업용 업무 에이전트에 초점을 맞췄다.오픈AI는 29일(현지시간) 연례 개발자 행사 '데브데이 2026'에서 20여개의 신규 업데이트 항목 가운데 핵심 카드인 닷츠를 선보였다. 기존 단발성 질의응답을 넘어 사용자를 대행해 스스로 결정을 내리고 연속적인 업무 프로세스를 관장하는 '상시 가동"
+    },
+    {
+      "id": "565d54d4bc98",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[9월29일] AI가 수학 문제를 풀었다…수학자들이 진짜 걱정하는 것은 ‘정답 이후’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215742",
+      "published": "2026-09-29T22:00:00+00:00",
+      "summary": "최근 들어 AI 업계에서 새로운 수학적 발견을 잇달아 내놓고 있습니다. 오픈AI는 최근 새로운 내부 모델이 수학의 여러 분야에서 100개가 넘는 난제를 해결했다고 밝혔고, 나비에-스토크스 문제와 같은 오랜 난제에 대한 결과도 공개했습니다. 앤트로픽에서도 AI를 수학 연구에 활용한 성과가 이어지면서, AI가 수학 연구에 미치는 영향이 빠르게 커지고 있습니다.그런데 수학계에서는 반발이 등장했습니다. 그리고 이는 단순히 AI 때문에 일자리를 잃을 것이라는 우려를 넘어섭니다.기술이 예상보다 빠르게 답을 "
+    },
+    {
+      "id": "df90fda57708",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "published": "2026-09-29T21:51:36+00:00",
+      "summary": "EliseAI raises $350M, doubles valuation in a year."
+    },
+    {
+      "id": "5951ed2c50dd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "published": "2026-09-29T21:49:09+00:00",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing vario"
+    },
+    {
+      "id": "472122c3c123",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "published": "2026-09-29T21:14:49+00:00",
+      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion."
+    },
+    {
+      "id": "549daaf0ff2f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215778",
+      "published": "2026-09-29T20:54:18+00:00",
+      "summary": "오픈AI가 최상위 플래그십 모델 성능에 근접하면서도 비용을 획기적으로 낮춘 업그레이드 모델 'GPT-6.1 솔(Sol)'을 출시했다.샘 알트먼 오픈AI CEO는 29일(현지시간) 샌프란시스코에서 열린 '데브데이 2026' 행사를 통해 새로운 모델을 공개했다.GPT-6.1 솔은 개발자와 기업 사용자를 겨냥해 에이전트 기반 코딩, 복잡한 문서 분석, 컴퓨터 활용 및 장기 업무 자동화에 특화된 기능을 대폭 강화했다. 그는 \"우리의 목표는 개발자와 기업이 예산 걱정 없이 가장 유능한 AI 에이전트를 마음"
+    },
+    {
+      "id": "27fec59261e9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "챗GPT, 외부 서비스까지 품는다…오픈AI 생태계 확장",
+      "link": "https://zdnet.co.kr/view/?no=20260930054225",
+      "published": "2026-09-29T20:42:25+00:00",
+      "summary": "[지디넷코리아]오픈AI가 챗GPT를 외부 서비스와 기업용 소프트웨어가 연결되는 플랫폼으로 확대한다. 챗GPT 계정으로 다른 서비스에 로그인하고 외부 앱을 챗GPT 안에서 직접 사용하는 데 이어 기업이 파트너 소프트웨어를 구매할 수 있는 마켓플레이스까지 마련했다.오픈AI는 29일(현지시간) 미국 샌프란시스코에서 열린 개발자 행사 데브데이 2026에서 외부 서비스를 챗GPT와 연결하는 기능을 확대하고 '플러그인 익스텐션'과 기업용 '오픈AI 마켓플레이스'를 공개했다.이용자는 '챗GPT로 로그인(Sig"
+    },
+    {
+      "id": "c65b8df499eb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "published": "2026-09-29T20:15:47+00:00",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+    },
+    {
+      "id": "c9c09a90b8f9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화",
+      "link": "https://zdnet.co.kr/view/?no=20260930051109",
+      "published": "2026-09-29T20:12:25+00:00",
+      "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 에이전트 업무 범위를 넓히는 동시에 보안과 데이터 보호 장치도 강화했다오픈AI는 29일(현지시간) 미국 샌프란시스코에서 열린 개발자 행사 데브데이 2026에서 코덱스 시큐리티 클라우드 기능을 강화하고 새로운 기업용 데이터 보호 체계 '프라이빗 인텔리전스'를 공개했다.코덱스 시큐리티 클라우드는 기업 코드를 지속적으로 검사해 보안 취약점을 찾고 실제 위험 여부를 확인한 뒤 수정안까지 만든다. 프라이빗 인텔리전스는 기업이 민감한 정보를 외부에 노출하지 않고 오픈"
+    },
+    {
+      "id": "51c16d7b9817",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "published": "2026-09-29T19:52:37+00:00",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+    },
+    {
+      "id": "bf4ab117599c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, AI 에이전트 행동 범위 확대…컴퓨터도 직접 조작",
+      "link": "https://zdnet.co.kr/view/?no=20260930044132",
+      "published": "2026-09-29T19:43:03+00:00",
+      "summary": "[지디넷코리아]오픈AI가 개발자가 사람을 대신해 여러 업무를 처리하는 인공지능(AI) 에이전트를 만들 수 있도록 개발 도구를 강화했다. AI가 브라우저와 프로그램을 직접 조작하고 장시간 맡은 일을 이어가는 기능까지 제공한다.오픈AI는 29일(현지시간) 미국 샌프란시스코에서 열린 개발자 행사 데브데이 2026에서 에이전트 응용프로그램 인터페이스(API)에 컴퓨터 사용 기능을 추가하고 새로운 디시전스 API를 공개했다. 코딩 에이전트 코덱스도 클라우드에서 계속 작업할 수 있도록 기능을 확대했다.에이전"
+    },
+    {
+      "id": "d6b0c443de7e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, 'GPT-6.1 솔' 공개…아스트라급 성능에 5분의 1 가격",
+      "link": "https://zdnet.co.kr/view/?no=20260930041339",
+      "published": "2026-09-29T19:14:55+00:00",
+      "summary": "[지디넷코리아]오픈AI가 최상위 모델 GPT-6 아스트라에 가까운 성능을 내면서 이용 비용을 크게 낮춘 새로운 인공지능(AI) 모델 'GPT-6.1 솔'을 공개했다.오픈AI는 29일(현지시간) 미국 샌프란시스코에서 열린 개발자 행사 데브데이 2026에서 GPT-6.1 솔을 선보였다. 지난 22일 GPT-6 솔을 공개한 지 일주일 만에 내놓은 후속 모델로 에이전트 코딩과 컴퓨터 사용, 전문 업무 능력을 끌어올렸다.샘 알트먼 오픈AI 최고경영자(CEO)는 \"GPT-6.1 솔은 GPT-6 아스트라에 매"
+    },
     {
       "id": "186d9722ffcf",
       "source": "Wired",
@@ -12,6 +166,17 @@
       "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
       "published": "2026-09-29T19:05:00+00:00",
       "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents."
+    },
+    {
+      "id": "80e1c8fea66a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "시키지 않아도 일한다…오픈AI, AI 에이전트 '닷츠' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20260930034418",
+      "published": "2026-09-29T18:47:47+00:00",
+      "summary": "[지디넷코리아]오픈AI가 사용자가 일일이 시키지 않아도 일정과 업무 변화를 살피고 필요한 일을 먼저 처리하는 AI 에이전트 '닷츠(Dots)'를 공개했다. 기존 챗GPT가 질문에 답하는 도구였다면 닷츠는 사용자를 대신해 일을 맡고 계속 처리하는 에이전트다.오픈AI는 29일(현지시간) 미국 샌프란시스코에서 열린 개발자 행사 데브데이 2026에서 닷츠와 협업 공간 챗GPT 스페이스를 선보였다. 닷츠는 GPT-6 아스트라를 기반으로 이용자 업무와 선호를 파악해 하루 24시간 맡은 일을 이어간다.일례로 "
     },
     {
       "id": "15f6eda0a3f7",
@@ -256,6 +421,17 @@
       "summary": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look at the Pixel 11A, which aside from having a slightly rounder oval-shaped re"
     },
     {
+      "id": "e8df4396b9b5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CAS, 노바티스와 협력해 AI 활용형 반응 정보학 고도화",
+      "link": "https://zdnet.co.kr/view/?no=20260930001003",
+      "published": "2026-09-29T15:10:03+00:00",
+      "summary": "[지디넷코리아] 연구자들에게 반응 데이터 검색 및 분석을 지원하는 통합 합성 데이터 기반과 첨단 맞춤형 검색 플랫폼 제공 콜럼버스, 오하이오, 2026년 9월 29일 /PRNewswire/ -- 미국화학회(American Chemical Society) 산하 CAS가 오늘 노바티스 바이오메디컬 리서치(Novartis Biomedical Research)와 반응 데이터에 대한 접근성을 높이고 AI 기반 연구를 지원하기 위한 협력을 발표했다. 이번 협력에서는 CAS의 독보적인 과학 데이터 큐레이션 전"
+    },
+    {
       "id": "616951133e8d",
       "source": "GitHub Blog",
       "kind": "article",
@@ -265,6 +441,17 @@
       "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
       "published": "2026-09-29T15:00:00+00:00",
       "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "a9e4adf38d9a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[사진집] 과기정통부, 15개 인공지능혁신대학원에 현판 증정",
+      "link": "https://zdnet.co.kr/view/?no=20260929234054",
+      "published": "2026-09-29T14:40:54+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부(과기정통부)와 정보통신기획평가원(IITP)은 29일 연세대학교 백양누리홀에서 'AI중심대학·AX대학원 공동 출범식'을 개최했다.이날 행사에는 류제명 과기정통부 2차관을 비롯해 연세대학교 윤동섭 총장, 한림대학교 최양희 총장 등 참여대학 총장과 정보통신기획평가원 홍진배 원장, 연구책임자·참여기업 등 100여명이 참석했다. 인공지능혁신대학원에는 15개 대학이 선정, 사업에 참여중이다.이날 과기정통부는 이들 15개 인공지능혁신대학원에 현판을 증정했다. 아래 사진은 이날 "
     },
     {
       "id": "369ac3ba9bbd",
