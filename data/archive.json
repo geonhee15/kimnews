@@ -1,7 +1,260 @@
 {
-  "updated_at": "2026-09-30T15:18:52.170249+00:00",
-  "count": 14621,
+  "updated_at": "2026-09-30T20:11:31.384130+00:00",
+  "count": 14653,
   "items": [
+    {
+      "id": "0908094c9952",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published": "2026-09-30T20:01:45+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bae0407f57a7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "published": "2026-09-30T19:30:00+00:00",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too."
+    },
+    {
+      "id": "a7e73c8d7222",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DoorDash’s drone strategy started on the ground",
+      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "published": "2026-09-30T19:22:13+00:00",
+      "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event."
+    },
+    {
+      "id": "1a2487d6016e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+      "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+      "published": "2026-09-30T19:09:57+00:00",
+      "summary": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant."
+    },
+    {
+      "id": "063e900af694",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "published": "2026-09-30T19:00:57+00:00",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    },
+    {
+      "id": "92e5d7003776",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "published": "2026-09-30T19:00:00+00:00",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events."
+    },
+    {
+      "id": "111658b2568d",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "published": "2026-09-30T18:25:04+00:00",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says."
+    },
+    {
+      "id": "0e94909091ce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "published": "2026-09-30T18:23:57+00:00",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "id": "0fa37d461925",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI Tamagotchis are coming",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "published": "2026-09-30T18:07:38+00:00",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for phy"
+    },
+    {
+      "id": "f425970bef23",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "published": "2026-09-30T17:45:00+00:00",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+    },
+    {
+      "id": "7bcdeae850a3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+      "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+      "published": "2026-09-30T17:45:00+00:00",
+      "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be "
+    },
+    {
+      "id": "ff08950ba955",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "published": "2026-09-30T17:24:45+00:00",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
+    },
+    {
+      "id": "713967a219d9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’",
+      "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+      "published": "2026-09-30T17:21:29+00:00",
+      "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single d"
+    },
+    {
+      "id": "7782a051fe49",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Did a 50 year old military secret just solve agent prompt injection?",
+      "link": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "published": "2026-09-30T17:16:43+00:00",
+      "summary": ""
+    },
+    {
+      "id": "56596cebb62c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "published": "2026-09-30T17:15:49+00:00",
+      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats n"
+    },
+    {
+      "id": "fb66007abee5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Xbox is not for sale’ says Microsoft’s gaming chief",
+      "link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+      "published": "2026-09-30T16:24:30+00:00",
+      "summary": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox entirely, and then reported earlier this month that both "
+    },
+    {
+      "id": "c7d78c6fb85b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "published": "2026-09-30T16:24:23+00:00",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
+    },
+    {
+      "id": "f893adc841b8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "published": "2026-09-30T16:03:48+00:00",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments."
+    },
+    {
+      "id": "53d587fad728",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "published": "2026-09-30T16:00:24+00:00",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+    },
+    {
+      "id": "ccb72720b180",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "published": "2026-09-30T16:00:00+00:00",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
+      "id": "0c0561b41616",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+      "link": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+      "published": "2026-09-30T16:00:00+00:00",
+      "summary": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the"
+    },
+    {
+      "id": "8db151f858bc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "published": "2026-09-30T15:54:52+00:00",
+      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool."
+    },
+    {
+      "id": "762c1b708b1f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "published": "2026-09-30T15:18:49+00:00",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the la"
+    },
     {
       "id": "51e2daa9cd8a",
       "source": "Google DeepMind",
@@ -89,6 +342,39 @@
       "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
       "published": "2026-09-30T14:27:11+00:00",
       "summary": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+    },
+    {
+      "id": "e57f092fc6e1",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "published": "2026-09-30T14:06:15+00:00",
+      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip."
+    },
+    {
+      "id": "45b74124946f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK하이닉스, 'NPE' 모노리식3D 특허 8건 재심사 청구...모노리식3D 공격 대응",
+      "link": "https://zdnet.co.kr/view/?no=20260930221938",
+      "published": "2026-09-30T13:28:55+00:00",
+      "summary": "[지디넷코리아]SK하이닉스가 특허관리전문기업(NPE) '모노리식3D'의 특허 8건을 상대로 미국 특허청에 결정계 재심사(EPR)를 청구했다. 결정계 재심사는 특허청에 해당 특허의 특허성을 다시 판단해달라고 요청하는 절차다.모노리식3D가 미국 국제무역위원회(ITC)에 SK하이닉스를 상대로 신청한 특허침해조사 2건에 사용한 특허는 13건이다. 30일 기준 13건 중 8건에 대해 SK하이닉스가 재심사를 청구했다. 재심사를 청구한 특허 8건에는 지난주 청구한 1건(US12,564,006)이 포함된다. 지"
+    },
+    {
+      "id": "62269a4f602a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔키화이트햇, 카스퍼스키 개최 글로벌 보안대회서 우승",
+      "link": "https://zdnet.co.kr/view/?no=20260930222026",
+      "published": "2026-09-30T13:20:26+00:00",
+      "summary": "[지디넷코리아]글로벌 사이버 보안기업 카스퍼스키(한국지사장 이효은)가 개최한 글로벌 사이버보안 경진대회 ‘카스퍼스키{CTF}’가 지난 8월 30일 성공적으로 종료, 최종 우승팀 5곳이 탄생했다. 이 중에는 한국 팀 1곳도 포함됐다. '오딘(Odin)'이라는 이름으로 출전한 엔키화이트햇(ENKI WhiteHat)이다.카스퍼스키의 글로벌 연구·분석팀(GReAT)과 카스퍼스키 아카데미가 2년 연속 공동 주최한 이번 대회에는 98개국에서 총 1657개 팀이 참가했다. 지난해 첫 대회에 이어 참가 규모가 "
     },
     {
       "id": "f16ebf440202",
@@ -256,6 +542,17 @@
       "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 348 # Comments: 185"
     },
     {
+      "id": "3df934f34e4f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "You said no MCP",
+      "link": "https://earendil.com/posts/you-said-no-mcp/",
+      "published": "2026-09-30T09:55:23+00:00",
+      "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 527 # Comments: 309"
+    },
+    {
       "id": "68c8341af3c4",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -265,6 +562,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260930174819",
       "published": "2026-09-30T09:41:46+00:00",
       "summary": "[지디넷코리아]유료방송을 채널 거래 플랫폼이 아닌 K콘텐츠 기간 미디어 플랫폼으로 규정하고, 이에 맞춘 규제 혁신이 필요하다는 주장이 제기됐다. 가입자 정체와 수익성 악화를 겪는 유료방송 생태계가 무너지면 K컬처와 콘텐츠 생태계 역시 붕괴해 미디어 환경 변화에 맞춘 새로운 법 체계와 규제 완화가 필요하다는 설명이다.홍종윤 서울대 교수는 30일 서울 종로구 프레스센터에서 열린 지속가능한 미디어 생태계와 규제 혁신 세미나에서 “유료방송은 방송 채널과 시청자를 잇는 핵심 콘텐츠 유통 인프라”라며 “유료"
+    },
+    {
+      "id": "19b3f832b078",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"한국판 코어위브 넘는다\"...'1조 몸값' 엘리스그룹, 코스닥 도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215816",
+      "published": "2026-09-30T09:35:00+00:00",
+      "summary": "코어위브, 람다 등 네오클라우드 열기가 뜨거운 가운데 엘리스그룹이 GPU 대여를 넘어 데이터센터부터 AI 서비스까지 아우르는 '풀스택'으로 글로벌 시장을 두드린다.엘리스그룹(대표 김재원)은 30일 서울 여의도 CCMM에서 기자간담회를 열고 코스닥 상장을 통한 성장 전략을 밝혔다.2015년 설립된 엘리스그룹은 ▲모듈형 AI 데이터센터(AI PMDC) ▲인프라 관리 소프트웨어 'ECI' ▲GPU 클라우드 서비스(GPUaaS) ▲헬피(Helpy) 기반 교육·기업 AX 솔루션 등 4단계 풀스택 구조를 갖"
     },
     {
       "id": "4a2335d9ebff",
@@ -443,6 +751,17 @@
       "summary": "교황 레오 14세가 AI 안전 문제를 둘러싸고 젠슨 황 엔비디아 CEO를 공개적으로 비판했다. AI가 인류에 미칠 수 있는 위험에 대한 우려를 가볍게 여겨서는 안 되며, 전문가들의 경고를 진지하게 받아들여야 한다는 주장이다.파이낸셜타임스에 따르면, 교황은 28일(현지시간) 프랑스 방문을 마치고 로마로 돌아오는 비행기에서 황 CEO가 최근 AI 규제와 관련해 내놓은 발언을 언급했다.그는 엔비디아가 AI 모델 개발자를 위한 새로운 안전 도구를 발표한 사실을 알고 있다면서도 황 CEO의 안전에 대한 입"
     },
     {
+      "id": "189b620f7f57",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 최수연 네이버 대표, UNGC이사회 참석 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215818",
+      "published": "2026-09-30T08:00:00+00:00",
+      "summary": "■ 최수연 네이버 대표가 지난 19일(현지시간) 미국 뉴욕 UN본부에서 열린 UN글로벌콤팩트(UNGC) 이사회에 참석했다고 밝혔다. 안토니우 구테흐스 UN 사무총장, 산다 오잠보 UNGC 사무총장 등 이사회 주요 멤버들이 참석해 지속가능발전을 위한 기업의 역할을 논의했다. 최 대표는 네이버의 디지털·AI 기반 도구 활용을 검토해볼 것을 제안했다. 네이버클라우드의 협업 플랫폼 '네이버웍스'와 네이버의 AI 통역-번역 서비스 '파파고 플러스'가 포함된다.■ AI 마케팅 성과 분석 플랫폼 전문 에이비일"
+    },
+    {
       "id": "0e0fc0e52426",
       "source": "AI타임스",
       "kind": "article",
@@ -463,6 +782,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260930161942",
       "published": "2026-09-30T07:26:31+00:00",
       "summary": "[지디넷코리아]정부가 추진하는 대국민 인공지능(AI) 서비스 '모두의 AI' 베타 버전 공개가 코앞으로 다가왔다.30일 업계에 따르면 모두의 AI 사업자로 선정된 SK텔레콤·KT·카카오 컨소시엄은 10월 중 베타 서비스를 시작한다. 초기에는 제한된 이용자를 대상으로 서비스를 제공한 뒤 이용자 반응과 안정성을 점검해 12월 정식 서비스로 확대할 예정이다.모두의 AI는 과학기술정보통신부가 추진하는 전 국민 AI 서비스 보편적 활용 지원 사업이다. 국민 누구나 비용 부담 없이 AI를 이용할 수 있도록 "
+    },
+    {
+      "id": "9b375f6d3fc9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양경자청 하동사무소, 이차전지 및 첨단소재 기업 투자 유치 박차",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215820",
+      "published": "2026-09-30T07:20:00+00:00",
+      "summary": "광양만권경제자유구역청(청장 구충곤) 하동사무소(소장 최윤종)는 30일부터 10월2일까지 서울 코엑스 C홀에서 개최되는 ‘제14회 국제첨단소재기술대전(INTRA 2026)’에 참가한다고 밝혔다.광양경자청 하동사무소는 하동군과 협업해 행사장 내 홍보관을 운영하고, 소장을 포함한 10여 명이 참가해 박람회 참가 기업을 대상으로 하동지구의 개발 현황과 투자 환경 등을 소개하며 투자 유치 상담도 진행한다.광양만권경제자유구역 하동지구는 대송산업단지와 갈사만조선산업단지 등이 있으며, 특히 대송산업단지는 포스코"
     },
     {
       "id": "27a3928601f0",
@@ -1763,6 +2093,17 @@
       "summary": "[지디넷코리아]오는 2028년 재사용 발사체의 수직 이착륙 비행 시험을 위한 1호 시연체 조립에 들어갔다. 이 시연체는 실제 재사용 발사체 개발에 앞서, 관련 기술을 검증하기 위한 시험용 비행체다.한국항공우주연구원은 29일 한화에어로스페이스 순천 조립장에서 시연체 조립에 착수했다고 밝혔다.시연체는 높이 12.2m, 무게 6.4톤 규모다. 재사용 차세대 발사체용으로 개발 중인 80톤급 엔진의 10분의 1 정도인 8톤급이다. 총조립과 지상시험을 거쳐 2028년 나로우주센터에서 저고도 수직 이착륙 비행"
     },
     {
+      "id": "1b3151b8a164",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "published": "2026-09-29T10:10:20+00:00",
+      "summary": "Article URL: https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart Comments URL: https://news.ycombinator.com/item?id=49890733 Points: 299 # Comments: 344"
+    },
+    {
       "id": "f43c459fccad",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -2234,6 +2575,17 @@
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "published": "2026-09-29T04:07:00+00:00",
       "summary": ""
+    },
+    {
+      "id": "5fd1c88dd7bf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Solving Factorio Quality",
+      "link": "https://exyr.org/2026/solving-factorio-quality/",
+      "published": "2026-09-29T02:27:54+00:00",
+      "summary": "Article URL: https://exyr.org/2026/solving-factorio-quality/ Comments URL: https://news.ycombinator.com/item?id=49887343 Points: 240 # Comments: 91"
     },
     {
       "id": "87cb80d9486e",
