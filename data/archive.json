@@ -1,7 +1,315 @@
 {
-  "updated_at": "2026-10-01T10:27:58.043929+00:00",
-  "count": 14728,
+  "updated_at": "2026-10-01T17:06:03.555754+00:00",
+  "count": 14763,
   "items": [
+    {
+      "id": "7abe4ab2d6ad",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony brings AI graphics upscaling to the regular PS5",
+      "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+      "published": "2026-10-01T16:53:39+00:00",
+      "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says"
+    },
+    {
+      "id": "42aa2acc063e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "published": "2026-10-01T16:49:22+00:00",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
+    },
+    {
+      "id": "45a357f69039",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "published": "2026-10-01T16:44:35+00:00",
+      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
+    },
+    {
+      "id": "38abccc89fea",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "With most information hidden, the game Stratego",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "published": "2026-10-01T16:28:04+00:00",
+      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key."
+    },
+    {
+      "id": "298e1d3454fc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can VR glasses save VR?",
+      "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+      "published": "2026-10-01T16:10:32+00:00",
+      "summary": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this. The M"
+    },
+    {
+      "id": "4bdb3b5e1475",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Office and Teams chief is leaving",
+      "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+      "published": "2026-10-01T16:02:37+00:00",
+      "summary": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microsoft Teams earlier this year. Roslansky's departure has trigge"
+    },
+    {
+      "id": "8ee8663dd65c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside Microsoft’s big Copilot rethink",
+      "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "published": "2026-10-01T16:00:00+00:00",
+      "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest "
+    },
+    {
+      "id": "aa9a3a0aa731",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "published": "2026-10-01T15:12:00+00:00",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
+    },
+    {
+      "id": "ff7be17190f4",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "published": "2026-10-01T15:07:16+00:00",
+      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "6209f14a41a7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "published": "2026-10-01T14:36:50+00:00",
+      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6"
+    },
+    {
+      "id": "2a5543410a9d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "공정위, '어펄마-도레이첨단소재 FCCL' 기업결합 공청회 이르면 이달 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261001144900",
+      "published": "2026-10-01T14:09:04+00:00",
+      "summary": "[지디넷코리아]공정거래위원회가 사모투자(PE) 운용사 어펄마캐피탈이 지난해 6월 신고한 '도레이첨단소재 연성동박적층판(FCCL) 사업 기업결합' 심사 공청회를 이르면 이달 개최할 예정인 것으로 1일 파악됐다. 한 업계 관계자는 \"공정위가 4분기 관련 공청회 개최를 검토하고 있다\"며 \"공청회는 이르면 10월 열릴 수 있다\"고 밝혔다. 어펄마가 도레이첨단소재 FCCL 사업부와 기업결합을 공정위에 신고한 것은 지난해 6월이다. 이미 1년이 넘었다. 어펄마는 지난 2025년 4월 SKC로부터 플렉시온(옛"
+    },
+    {
+      "id": "e405e05f815e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "published": "2026-10-01T14:00:00+00:00",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps."
+    },
+    {
+      "id": "7e6a02057f73",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "published": "2026-10-01T14:00:00+00:00",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double "
+    },
+    {
+      "id": "42af8f3d5491",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "git에서 파일을 날려도 안전한 이유",
+      "link": "https://www.youtube.com/shorts/CIjvQ1uGkGA",
+      "published": "2026-10-01T13:30:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "63827a7d869e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung raised prices on the Galaxy S26 by $100",
+      "link": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+      "published": "2026-10-01T13:17:16+00:00",
+      "summary": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $100 more expensive than their S25 predecessors when they launched earlier this year, which Samsung s"
+    },
+    {
+      "id": "8a5f83a1ccde",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "5300명 중 단 1명, AI 해커톤 최종 우승자는 누굴까? | AX 인재전쟁 우승 인터뷰 | OpenAI × 조코딩AX파트너스",
+      "link": "https://www.youtube.com/watch?v=oYcCa3dVfnY",
+      "published": "2026-10-01T13:00:32+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f5d1391a3af2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "published": "2026-10-01T13:00:00+00:00",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
+    },
+    {
+      "id": "a9c406a5b299",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+      "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "published": "2026-10-01T13:00:00+00:00",
+      "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI."
+    },
+    {
+      "id": "77bfd7233a28",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "2회 '미래기술 전략포럼' 열려...\"피지컬AI로 미래 선도\"",
+      "link": "https://zdnet.co.kr/view/?no=20261001214530",
+      "published": "2026-10-01T12:45:30+00:00",
+      "summary": "[지디넷코리아]인공지능(AI), 반도체, 양자 등 미래 기술간 시너지를 통해 국가경쟁력 향상을 도모하는 민간주도 단체인 '미래기술 전략포럼' 두번째 행사가 1일 오후 서울 여의도 국회의원회관 제8간담회의실에서 열렸다.행사에는 포럼 공동회장인 송승현 한국정보통신기술협회(TTA) 회장과 최경진 한국인공지능법학회장(가천대 교수)을 비롯해 간사를 맡고 있는 유승재 인공지능산업협회 부회장, 최형두 의원(국민의 힘), 정은아 수산아이앤티 대표, 윤석주 페르소나에이아이 이사, 이임평 서울시립대 교수, 임성국 "
+    },
+    {
+      "id": "7e29604720d3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
+      "link": "https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/",
+      "published": "2026-10-01T12:15:00+00:00",
+      "summary": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and physics."
+    },
+    {
+      "id": "2027c442c7ad",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "published": "2026-10-01T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by "
+    },
+    {
+      "id": "8970e977c958",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "published": "2026-10-01T12:00:00+00:00",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
+    },
+    {
+      "id": "09aa8a74b1bc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"30여 출연연 7대 기구로 통합, 재편…R&D 평가원도 신설해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261001203752",
+      "published": "2026-10-01T11:37:52+00:00",
+      "summary": "[지디넷코리아]정부 R&D 사업 조직 전부를 한 곳으로 몰아 관리하는 국무총리실 산하 ‘R&D 평가원’을 신설할 것과 출연연구기관 30여개를 7대 기구로 통합하는 구조개편안이 제기됐다.특히, 이 같은 주장이 과기계 노조 고위직에서 연구조직 통폐합을 선제적으로 거론된데다, 과기정통부 및 국가과학기술연구회의 행정전문화 추진에도 영향을 미치는 등 출연연 R&D 체계 전부를 흔드는 것이어서 귀추가 주목된다.신명호 한국항공우주연구원 노동조합 부위원장은 1일 한준호 의원(더불어민주당, 과학기술정보방송통신위원"
+    },
+    {
+      "id": "2d8551d74b37",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈놀, 미니인턴 기업용 AI 챗봇 개편",
+      "link": "https://zdnet.co.kr/view/?no=20261001200257",
+      "published": "2026-10-01T11:02:57+00:00",
+      "summary": "[지디넷코리아]AI 기반 커리어 플랫폼 '미니인턴'을 운영하는 오픈놀(대표 권인택)은 미니인턴의 AI 챗봇과 인재 적합도 조회 기능을 개편, 서비스에 반영했다고 1일 밝혔다. 구직자와 기업회원의 이용 목적에 따라 챗봇 응대 흐름을 나누고, 기업이 챗봇에서 바로 인재 추천을 받을 수 있게 한 것이 핵심이다.이번 개편으로 기업회원은 AI 챗봇에서 ▲이용 문의 ▲인재 추천받기 두 메뉴 중 필요한 것을 골라 쓸 수 있다. 서비스 이용 방법을 묻는 경로와 채용에 필요한 인재를 찾는 경로를 한 창에서 함께 "
+    },
+    {
+      "id": "fb595b10c8d3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "published": "2026-10-01T10:59:57+00:00",
+      "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 386 # Comments: 82"
+    },
+    {
+      "id": "8aa95eb3c6b8",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "published": "2026-10-01T10:32:24+00:00",
+      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-ha"
+    },
+    {
+      "id": "08173c212e32",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
+      "link": "https://www.wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race/",
+      "published": "2026-10-01T10:30:00+00:00",
+      "summary": "James Dolan has put surveillance at the center of his sports and entertainment empire. Now he’s getting involved in GOP politics by backing a candidate who supports Flock, ICE, and AI data centers."
+    },
+    {
+      "id": "7f82670c5069",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 골라준 답 하나만 믿어도 될까요",
+      "link": "https://zdnet.co.kr/view/?no=20261001100820",
+      "published": "2026-10-01T10:19:31+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. AI가 골라준 답 하나만 믿어도 될까요? 출처를 달아줘도 사람들은 잘 확인하지 않는다는 토론 결과가 나왔어요. 마침 2026년 10월에는 SKT·카카오·KT가 '모두의 AI'를 선보이는데요, 질문 하나로 정보 검색부터 비교 판단, 공공서비스 처리까지 대화 안에서 끝나다 보니 링크를 열어볼 일은 더 줄어들 수 있어요.문제는 편리함이 생각하는 힘을 갉아먹을 수 있다는 점이에요. 2025년 연구에서 지식노동자 319명이 스스로 답한 내용을 보면, AI를"
+    },
     {
       "id": "d9e51fc052e4",
       "source": "The Verge",
@@ -12,6 +320,17 @@
       "link": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
       "published": "2026-10-01T10:15:48+00:00",
       "summary": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could never match. Today, Huawei one-upped everybody with the "
+    },
+    {
+      "id": "5f7d08643806",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국의 로봇 손, 쑤저우 자수 학습 성공… 애자일링크, 정교한 로봇 손 출하량 1만 5000개 돌파",
+      "link": "https://zdnet.co.kr/view/?no=20261001191003",
+      "published": "2026-10-01T10:10:03+00:00",
+      "summary": "[지디넷코리아]쑤저우, 중국 2026년 10월 1일 /PRNewswire/ -- 중국 기업 애자일링크(AGILINK)가 개발한 로봇 손이 명장 자수가 푸샹훙(Fu Xianghong)으로부터 비단실을 가르는 법, 바늘에 실을 꿰는 법, 자수틀에 천을 당겨 고정하는 법, 그리고 바느질하는 법을 포함한 쑤저우 자수의 기초 기법을 배웠다. The robot “apprentices” with Suzhou embroidery inheritor Fu Xianghong 이번 시연은 로봇 손이 마주할 수 있는 가"
     },
     {
       "id": "abf98f2726c6",
@@ -212,6 +531,17 @@
       "summary": "[지디넷코리아]LG전자와 카카오모빌리티, 로보티즈가 3자 로봇 연합을 확대한다. 기존 로봇 배송 서비스를 넘어 휴머노이드 기반 솔루션으로 영역을 넓힌다는 구상이다.1일 업계에 따르면 LG전자와 LG전자의 로봇 자회사 베어로보틱스, 카카오모빌리티, 로보티즈 등은 이기종 로봇 파트너십 확대를 추진하고 있다. 이번 파트너십은 협력 범위를 배송 로봇에서 휴머노이드 등으로 넓히는 것이 골자다. 로봇 업계 한 관계자는 \"카카오모빌리티가 플랫폼을 제공하고, LG전자, 베어로보틱스, 로보티즈가 로봇 하드웨어를 "
     },
     {
+      "id": "66889430ca11",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자·카카오모빌리티·로보티즈, 로봇연합 확대 모색…배송 넘어 휴머노이드까지",
+      "link": "https://zdnet.co.kr/view/?no=20261001152147",
+      "published": "2026-10-01T08:39:23+00:00",
+      "summary": "[지디넷코리아]LG전자와 카카오모빌리티, 로보티즈가 3자 로봇 연합 확대를 모색하고 있다. 기존 로봇 배송 서비스를 넘어 휴머노이드 기반 솔루션으로 영역을 넓힐지 주목된다. 1일 업계에 따르면 LG전자와 LG전자의 로봇 자회사 베어로보틱스, 카카오모빌리티, 로보티즈 등은 이기종 로봇 파트너십을 이어가며 협력 확대를 검토하고 있다. 업계에서는 협력 범위가 배송 로봇에서 휴머노이드 등으로 넓어질 것으로 보고 있다. 로봇 업계 한 관계자는 \"카카오모빌리티가 플랫폼을 제공하고, LG전자, 베어로보틱스, "
+    },
+    {
       "id": "efd9ad403646",
       "source": "AI타임스",
       "kind": "article",
@@ -287,6 +617,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215854",
       "published": "2026-10-01T07:29:04+00:00",
       "summary": "AI 생성 영상순천시 원도심에서 음식과 예술을 함께 즐기는 ‘2026 순천 푸드앤아트페스티벌’이 오는 16일부터 사흘간 열린다.순천은 오는 16일부터 18일까지 원도심 일원에서 열리는 축제를 앞두고 푸드마켓 운영자 모집과 컨설팅, 아트마켓 운영 준비를 마쳤다고 밝혔다.올해 축제는 10주년을 맞아 순천의 식재료인 미나리와 그린 컬러를 결합한 ‘미나리 그린’을 콘셉트로 운영한다.푸드마켓 운영자는 총 3차례 심사를 거쳐 선정됐다. 메뉴 구성과 맛, 가격 적정성 등을 검토하고 전문가 컨설팅을 통해 메뉴 "
+    },
+    {
+      "id": "42d389971b7e",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "published": "2026-10-01T06:01:43+00:00",
+      "summary": ""
     },
     {
       "id": "4d4158bd94a0",
@@ -806,6 +1147,17 @@
       "summary": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant."
     },
     {
+      "id": "22e9f4e9fc00",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "published": "2026-09-30T19:04:50+00:00",
+      "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 238 # Comments: 92"
+    },
+    {
       "id": "063e900af694",
       "source": "TechCrunch",
       "kind": "article",
@@ -826,6 +1178,17 @@
       "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
       "published": "2026-09-30T19:00:00+00:00",
       "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events."
+    },
+    {
+      "id": "bc2bd98da4e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Before pixels: Modular industrial dashboards",
+      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "published": "2026-09-30T18:49:06+00:00",
+      "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 258 # Comments: 46"
     },
     {
       "id": "aba9c2b9ad3a",
@@ -870,6 +1233,17 @@
       "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
       "published": "2026-09-30T18:23:57+00:00",
       "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "id": "80eacf1d23de",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "published": "2026-09-30T18:17:45+00:00",
+      "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 216 # Comments: 94"
     },
     {
       "id": "0fa37d461925",
@@ -1497,6 +1871,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215815",
       "published": "2026-09-30T08:44:58+00:00",
       "summary": "리사 수 AMD CEO가 지난 3월에 이어 10월에 다시 한국을 찾는다. AI 인프라의 중요성이 확대되는 가운데, 국내 대표 반도체 기업들과 협력을 모색할 전망이다.30일 업계에 따르면, 리사 수 CEO는 오는 10월8일 방한해 국내 NPU 기업들과 간담회를 진행할 예정이다.AMD는 최근 국내 기업과의 협력을 적극 강화하고 있다. 지난 3월 방한 당시에는 업스테이지와 전략적 협력을 확대하며 대형언어모델(LLM) ‘솔라’ 개발에 AMD GPU 활용을 약속한 바 있다. 삼성전자, 네이버 등 국내 대기"
+    },
+    {
+      "id": "8be95aeda149",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "published": "2026-09-30T08:43:21+00:00",
+      "summary": "Article URL: https://github.com/maanHimself/OpenDLSS-NR Comments URL: https://news.ycombinator.com/item?id=49906100 Points: 209 # Comments: 100"
     },
     {
       "id": "081748b0f539",
