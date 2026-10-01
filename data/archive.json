@@ -1,7 +1,304 @@
 {
-  "updated_at": "2026-10-01T03:40:42.435130+00:00",
-  "count": 14696,
+  "updated_at": "2026-10-01T10:27:58.043929+00:00",
+  "count": 14728,
   "items": [
+    {
+      "id": "d9e51fc052e4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Huawei made a whole camera to attach to its latest phone",
+      "link": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+      "published": "2026-10-01T10:15:48+00:00",
+      "summary": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could never match. Today, Huawei one-upped everybody with the "
+    },
+    {
+      "id": "abf98f2726c6",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "감정표현이 남다른 새로운 TTS 등장, fish audio Drama3",
+      "link": "https://www.youtube.com/shorts/3iXHvrKVY24",
+      "published": "2026-10-01T10:02:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "9b47f68bd4b3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The People of Utah vs. Kevin O’Leary",
+      "link": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
+      "published": "2026-10-01T10:00:02+00:00",
+      "summary": "On the morning of May 11th, the celebrity investor Kevin O’Leary appeared on Fox Business and announced that he was under attack by Chinese agents. For weeks, he had been going on TV and posting online to tout his project, called Wonder Valley, after his nickname from the reality"
+    },
+    {
+      "id": "035c82bbf136",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
+      "link": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/",
+      "published": "2026-10-01T10:00:00+00:00",
+      "summary": "The Mac Studio can run frontier-level AI language models locally. It’s only a preview of what’s to come."
+    },
+    {
+      "id": "0acea99e2247",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How smaller, distributed batteries could help the grid",
+      "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "published": "2026-10-01T10:00:00+00:00",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use"
+    },
+    {
+      "id": "ba5e9b38c560",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "래블업 \"AI 지능도 측정하는 시대…1인 1에이전트 인프라 구축\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215865",
+      "published": "2026-10-01T09:52:34+00:00",
+      "summary": "래블업이 'AI 팩토리' 비전을 중심으로 1인 1에이전트 시대를 실현하겠다고 밝혔다.래블업(대표 신정규)은 29일 서울 코엑스에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’을 개최하고 기술 개발 현황과 사업 계획을 발표했다.2015년 설립, GPU 가상화 기술 및 ML옵스 등 AI 플랫폼 기술로 모델 학습과 배포를 지원해 왔다. 창업 초기 기업의 AI 도입 지원에 집중해 왔으며, 2024년 말부터 추론 효율화로 영역을 확장해 AI 작업 범위에 맞춘 '컴포저블(Composable)' "
+    },
+    {
+      "id": "4109da1097f7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"위성·로봇 제어도 차단\"…오픈AI·앤트로픽 '안전장치 오탐'에 개발자 이탈",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215850",
+      "published": "2026-10-01T09:46:53+00:00",
+      "summary": "AI 모델의 안전장치가 사이버보안이나 로봇, 항공우주 분야의 정상적인 개발 작업까지 위험한 요청으로 오인하면서 개발자들의 불만이 커지고 있다. AI 코딩 에이전트가 개발 현장의 필수 도구로 자리 잡은 가운데 과도한 차단과 거절이 오히려 업무 생산성을 떨어뜨린다는 지적이다.소프트웨어 개발 도구 전문 제트브레인스(JetBrains)가 최근 공개한 '2026년 개발자 생태계' 조사에 따르면, 전 세계 전문 개발자 1만5000명 이상 가운데 90%가 업무에서 AI 코딩 에이전트를 매주 한 번 이상 사용하"
+    },
+    {
+      "id": "e4e64415adaa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 물리 법칙 배우는 영상 생성 프레임워크 ‘파이시스-랭’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215862",
+      "published": "2026-10-01T09:34:33+00:00",
+      "summary": "영상 생성 AI가 현실과 구분하기 어려울 정도로 정교한 영상을 만들어내고 있지만, 물리 법칙까지 제대로 이해하는 것은 여전히 과제로 남아 있다. 엔비디아가 영상 속 물체의 움직임과 상호작용, 원인과 결과를 물리학적 관점에서 이해하도록 돕는 새로운 접근법을 내놨다. 엔비디아는 30일(현지시간) 영상 생성 AI가 실제 물리 법칙을 더 잘 반영하도록 돕는 오픈 프레임워크 ‘파이시스-랭(Physis-Lang)’을 공개했다.영상이 겉보기에는 그럴듯하더라도, 물체가 벽을 통과하거나 버터가 물감처럼 퍼지는 등"
+    },
+    {
+      "id": "cedbc40c8222",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Secrets of the US Spyware King",
+      "link": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+      "published": "2026-10-01T09:30:00+00:00",
+      "summary": "In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool."
+    },
+    {
+      "id": "3685be4d3651",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈클로, 기업용 AI 에이전트 제어 플랫폼 'OCE' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215847",
+      "published": "2026-10-01T09:21:43+00:00",
+      "summary": "오픈소스 AI 에이전트 오픈클로(OpenClaw)가 기업 환경에서 지속형 AI 에이전트를 안전하게 운영할 수 있도록 지원하는 기업용 제어 플랫폼을 공개했다.오픈클로는 29일(현지시간) 보안과 권한 관리, 감사, 인프라 통제를 기업이 중앙에서 관리할 수 있도록 설계된 ‘오픈클로 엔터프라이즈(OCE)’를 공개했다.MIT 라이선스로 무료 제공되며, 깃허브에서 다운로드할 수 있다. 특정 AI 모델이나 공급업체에 종속되지 않는 구조를 채택했으며, 기업은 자체적으로 사용하는 AI 모델과 에이전트 하네스, 샌"
+    },
+    {
+      "id": "837923272b86",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인셉션, 음성 에이전트 ‘머큐리 보이스’ 출시…'확산 모델'로 지연시간 한계 깼다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215864",
+      "published": "2026-10-01T09:14:11+00:00",
+      "summary": "AI 음성 에이전트 시장에서 반응 속도와 지능을 동시에 확보하려는 시도가 이어지는 가운데, 확산(Diffusion) 기반 언어모델(dLLM)을 개발해 온 인셉션(Inception)이 음성 전용 모델을 내놓았다. 기존 자율주행·이미지 생성 등에 주로 쓰이던 확산 방식을 언어와 음성 영역으로 확장해 기존 모델의 한계를 극복하겠다는 취지다.인셉션은 2026년 9월 29일(현지시간) 음성 에이전트에 특화된 확산 언어모델 ‘머큐리 보이스(Mercury Voice)’를 기업 고객을 대상으로 정식 출시했다.기"
+    },
+    {
+      "id": "ffc12e5bb493",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI \"중국 문샷의 '보호된 추론' 대규모 추출 시도 차단\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215845",
+      "published": "2026-10-01T09:01:19+00:00",
+      "summary": "오픈AI가 자사 첨단 AI 모델의 핵심 성능을 구성하는 ‘보호된 추론(Protected Reasoning)’을 대규모로 빼내려던 조직적인 시도를 적발해 차단했다고 밝혔다. 특히 이번 활동의 핵심 조직이 중국의 문샷 AI와 연결돼 있다고 주장했다.30일(현지시간) 발표에 따르면, 공격은 지난 7월1일 처음 포착됐다. 초기에는 규모가 크지 않았지만 7월24일과 25일에는 4000개가 넘는 계정에서 특정 추출 패턴을 활용한 요청 약 1만6000건이 집중적으로 발생했다.이후 1만5000개가 넘는 사용자 "
+    },
+    {
+      "id": "303f5d06bcda",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 이미 인터넷은 AI에 다 털렸다??",
+      "link": "https://www.youtube.com/shorts/9A-mMgMzzdY",
+      "published": "2026-10-01T09:00:22+00:00",
+      "summary": ""
+    },
+    {
+      "id": "04ad607aabde",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Noise from Universal’s latest ride made rich locals furious, fast",
+      "link": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
+      "published": "2026-10-01T09:00:04+00:00",
+      "summary": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In a meeting attended by at least 350 people yesterday, park execs also promised that Fast & Furious: "
+    },
+    {
+      "id": "ef9afac9b17b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "링크드인 \"AI 안전 직종 채용 91% 급증...고용 한파 속 틈새 성장\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215861",
+      "published": "2026-10-01T08:54:04+00:00",
+      "summary": "전반적인 고용시장이 얼어붙은 가운데 AI 안전 관련 일자리가 빠르게 늘고 있다. 링크드인 조사에서 AI 안전 분야 채용이 지난 1년 동안 91% 증가한 것으로 나타났다. AI 모델의 보안과 오남용 문제가 커지면서 관련 인력을 찾는 기업도 늘어나는 모습이다.비즈니스인사이더에 따르면, 다니엘 샤페로 링크드인 CEO는 29일(현지시간) 열린 ‘탤런트 커넥트’ 행사에서 현재 채용 시장이 대체로 “동결된” 상태라고 진단하면서도 일부 직무와 산업에서는 성장세가 나타나고 있다고 밝혔다. 이날 공개한 조사에서 "
+    },
+    {
+      "id": "0b37cdbb858c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "핑거, 2차전지 장비업체 제일엠앤에스 인수…사업 다각화 속도",
+      "link": "https://zdnet.co.kr/view/?no=20261001174058",
+      "published": "2026-10-01T08:50:39+00:00",
+      "summary": "[지디넷코리아]핑거가 2차전지 믹싱장비 업체 제일엠앤에스 인수에 나선다. 최근 제조업체 인수를 통해 사업 영역을 넓히고 있는 가운데 2차전지 장비 분야까지 진출하며 사업 다각화에 속도를 내는 모습이다.1일 금융감독원 전자공시시스템에 따르면 핑거는 푸른재무안정 신기술투자조합 제1호에 140억원을 출자하기로 결정했다. 출자 후 핑거의 조합 지분율은 99.22%다.해당 조합은 핑거와 푸른인베스트먼트가 업무집행조합원으로 참여하며 출자금을 통해 에프지투자3호에 투자한다.에프지투자3호는 타 회사 투자와 지분"
+    },
+    {
+      "id": "661393a70c91",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코나아이, 휴온스그룹에 기업 복지 플랫폼 ‘코나비즈’ 공급",
+      "link": "https://zdnet.co.kr/view/?no=20261001174711",
+      "published": "2026-10-01T08:47:11+00:00",
+      "summary": "[지디넷코리아]핀테크(금융+기술) 기업 코나아이가 기업 복지 플랫폼 '코나비즈'를 통해 휴온스그룹에 식권카드를 공급한다.1일 회사에 따르면, 도입 대상은 휴온스·휴온스글로벌·휴메딕스 등 휴온스그룹 8개 계열사다. 기존 모바일 식권을 전면 교체해 이날부터 임직원 식대 지원에 활용한다.코나비즈 식권카드는 일반 신용·체크카드 결제망을 사용해 제휴 여부와 무관하게 카드 단말기가 있는 모든 식당에서 결제할 수 있다. 실물 카드나 모바일 간편결제 태그 방식으로 직관적인 결제를 지원한다.결제 전 회사 규정을 "
+    },
+    {
+      "id": "1bbe073e67be",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"원하는 선수·장면만 골라본다”…세븐미닛, ‘7CUT’ 상용화",
+      "link": "https://zdnet.co.kr/view/?no=20261001174043",
+      "published": "2026-10-01T08:40:43+00:00",
+      "summary": "[지디넷코리아]AI 시청 에이전트 개발사 세븐미닛이 AI 시청 솔루션 '7CUT'을 '웨이브 골프'에 첫 상용화 적용한다.1일 회사에 따르면, 7CUT은 영상의 맥락과 시청자의 의도를 실시간 파악해 단일 영상 콘텐츠를 시청자가 원하는 방식에 맞춰 재구성해 주는 AI 솔루션이다.웨이브 골프 이용자는 자연어로 원하는 장면을 요청할 수 있다. 특정 선수의 출전 장면이나 벙커샷, 선수 패션 등 관심사에 맞춘 영상 감상이 가능하며 라이브 경기 접속 시 AI 하이라이트 기능도 지원한다.웨이브 관계자는 “시청"
+    },
+    {
+      "id": "2f26bb7b2b71",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자·카카오모빌리티·로보티즈, 로봇연합 확대…배송 넘어 휴머노이드로",
+      "link": "https://zdnet.co.kr/view/?no=20261001152147",
+      "published": "2026-10-01T08:39:23+00:00",
+      "summary": "[지디넷코리아]LG전자와 카카오모빌리티, 로보티즈가 3자 로봇 연합을 확대한다. 기존 로봇 배송 서비스를 넘어 휴머노이드 기반 솔루션으로 영역을 넓힌다는 구상이다.1일 업계에 따르면 LG전자와 LG전자의 로봇 자회사 베어로보틱스, 카카오모빌리티, 로보티즈 등은 이기종 로봇 파트너십 확대를 추진하고 있다. 이번 파트너십은 협력 범위를 배송 로봇에서 휴머노이드 등으로 넓히는 것이 골자다. 로봇 업계 한 관계자는 \"카카오모빌리티가 플랫폼을 제공하고, LG전자, 베어로보틱스, 로보티즈가 로봇 하드웨어를 "
+    },
+    {
+      "id": "efd9ad403646",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215849",
+      "published": "2026-10-01T08:15:19+00:00",
+      "summary": "플랫폼과 서비스에 AI 도입 경쟁이 심화하는 가운데, 네이버 웨일이 'AI 브라우저'로 본격 탈바꿈한다. 탄탄한 기반 사용자층을 중심으로 편의성을 극대화하는 데 초점을 맞췄다. 네이버(대표 최수연)는 웨일 브라우저에 ‘AI 챗’ 기능을 정식 출시했다고 1일 밝혔다. 기반 모델은 비공개다.최근 AI와 서비스의 결합이 증가하면서 단순히 'AI 검색 엔진'을 넘어선 에이전트형 'AI 브라우저'의 도입이 증가하고 있다. 구글도 크롬 브라우저 내부에서 제미나이를 즉각적으로 활용하며 페이지를 분석, 요약, "
+    },
+    {
+      "id": "5f226c09a8df",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "美, 자율전투사령부 만든다…드론·AI 전력 한곳서 총괄",
+      "link": "https://zdnet.co.kr/view/?no=20261001170918",
+      "published": "2026-10-01T08:14:28+00:00",
+      "summary": "[지디넷코리아]미국이 드론과 인공지능(AI) 기반 무기를 전담하는 4성 장군급 '자율전투사령부' 신설을 추진한다.30일(현지시간) 로이터통신에 따르면 피트 헤그세스 미국 국방장관은 이날 연설에서 미군의 드론과 로봇 등 자율체계 역량을 통합하는 자율전투사령부 신설 계획을 발표했다. 새 사령부는 4성 장군이 지휘하며 각 군에 흩어진 자율·로봇 전력을 미군 전체로 확대하고 조달과 실제 작전을 연결하는 역할을 맡는다.자율전투사령부가 출범하면 미군의 12번째 통합전투사령부가 된다. 미군이 새로운 통합전투사"
+    },
+    {
+      "id": "c16df116bd80",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 가격 급락, 기술 역사상 최고 속도…기업 지속가능성은 '비상'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215863",
+      "published": "2026-10-01T08:07:48+00:00",
+      "summary": "AI 기술 비용이 지난 수년간 폭락 수준으로 급감하며 인류 기술 역사상 가장 빠른 하락세를 기록 중이다. 마이크로칩의 데이터 처리 용량이 2년마다 2배씩 증가한다는 반도체 성능 발전의 대명사 '무어의 법칙'은 물론, 가격 하락 폭이 컸던 DNA 염기서열 분석과 리튬 배터리 단가 하락 속도마저 가볍게 제쳤다.AI 연구기관 에포크 AI(Epoch AI)가 최근 발표한 보고에 따르면, 동일 수준의 AI 지능을 얻는 데 드는 비용은 분기마다 평균 50%씩 급감하고 있으며 연간 단위로는 약 13배씩 저렴해"
+    },
+    {
+      "id": "a1cccdad1a22",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "0.1+0.2 는 0.3이 아닙니다",
+      "link": "https://www.youtube.com/shorts/MJ-5MfSqAII",
+      "published": "2026-10-01T08:00:09+00:00",
+      "summary": ""
+    },
+    {
+      "id": "62ef263c54da",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPU 클라우드 제공업체 GMI, 엔비디아 등으로부터 9000억 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215859",
+      "published": "2026-10-01T07:35:00+00:00",
+      "summary": "GPU 기반 클라우드 서비스를 제공하는 미국의 GMI 클라우드가 엔비디아를 비롯한 투자자들로부터 총 6억6800만달러(약 9000억원) 규모의 자금 조달에 성공했다. GMI 클라우드는 30일(현지시간) 6억6800만달러 규모의 시리즈B 투자를 유치했다고 밝혔다.이 가운데 2억2300만달러는 지분 투자로, AI·로봇 분야 투자사 ARCHIV가 주도했으며 엔비디아가 참여했다. 나머지 4억4500만달러는 대만 CTBC은행이 주도한 신용 한도 형태로 조달했다.국내에서는 KB인베스트먼트, DSC인베스트먼트"
+    },
+    {
+      "id": "c51d82713d2b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포시립도서관, 10월 문화의 달 전시…작가 3명 개인전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215857",
+      "published": "2026-10-01T07:29:38+00:00",
+      "summary": "AI 생성 영상목포시립도서관이 10월 문화의 달을 맞아 한국화와 문인화 등 다양한 작품을 선보인다.목포시립도서관은 10월 한 달 동안 도서관 내 전시 공간에서 조선미·김영곤·이광길 작가의 개인전을 운영한다고 1일 밝혔다.1층 전시갤러리에서는 10월1일부터 31일까지 조선미 작가의 개인전이 열린다. 전시는 ‘상생’을 주제로 인간과 자연, 물질과 정신의 조화로운 공존을 표현한 작품으로 구성된다.3층 문화라운지에서는 두 차례에 걸쳐 전시를 진행한다. 10월1일부터 15일까지는 김영곤 작가의 한국화를 선"
+    },
+    {
+      "id": "c53239e91e32",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천, 푸드앤아트페스티벌 16일 개막…10주년 ‘미나리 그린’ 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215854",
+      "published": "2026-10-01T07:29:04+00:00",
+      "summary": "AI 생성 영상순천시 원도심에서 음식과 예술을 함께 즐기는 ‘2026 순천 푸드앤아트페스티벌’이 오는 16일부터 사흘간 열린다.순천은 오는 16일부터 18일까지 원도심 일원에서 열리는 축제를 앞두고 푸드마켓 운영자 모집과 컨설팅, 아트마켓 운영 준비를 마쳤다고 밝혔다.올해 축제는 10주년을 맞아 순천의 식재료인 미나리와 그린 컬러를 결합한 ‘미나리 그린’을 콘셉트로 운영한다.푸드마켓 운영자는 총 3차례 심사를 거쳐 선정됐다. 메뉴 구성과 맛, 가격 적정성 등을 검토하고 전문가 컨설팅을 통해 메뉴 "
+    },
+    {
+      "id": "4d4158bd94a0",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "모르면 손해인 클로드의 무료 크레딧 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/sE9sLmvuRAg",
+      "published": "2026-10-01T06:00:21+00:00",
+      "summary": ""
+    },
     {
       "id": "4fdc6d033d2c",
       "source": "AI타임스",
@@ -133,6 +430,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261001112709",
       "published": "2026-10-01T02:27:09+00:00",
       "summary": "[지디넷코리아]노타의 멀티모달 인공지능(AI) 모델 최적화 기술이 세계적인 AI 학술대회에 채택되며 기술력을 인정받았다.노타는 멀티모달 AI 모델의 성능 저하를 최소화하면서 그래픽처리장치(GPU) 메모리 사용량을 낮추는 연구 논문이 세계적인 AI 학술대회 '뉴립스(NeurIPS) 2026' 메인트랙에 채택됐다고 1일 밝혔다. 채택 논문은 '멀티모달 대규모 언어모델을 위한 모달리티 인지 전문가 프루닝(Modality-Aware Expert Pruning for MoE-Based Multimodal "
+    },
+    {
+      "id": "424c0017a6e1",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 쓰는 개발자의 진화과정",
+      "link": "https://www.youtube.com/shorts/hsVPLyIoy3I",
+      "published": "2026-10-01T02:00:15+00:00",
+      "summary": ""
     },
     {
       "id": "2bb553aa1d20",
@@ -276,6 +584,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260923112942",
       "published": "2026-09-30T22:31:35+00:00",
       "summary": "[지디넷코리아]한미 무역협상에 따른 대미 투자 첫 프로젝트로 가스복합화력발전소 사업이 확정됐다. 추후 양국은 원자력 발전소, 알래스카 LNG 등 타 에너지 부문에서의 공동 투자도 논의한다.도널드 트럼프 미국 대통령은 30일(현지시간) 한미 전략투자 프로젝트로 텍사스 가스복합화력발전 프로젝트(프로젝트 스타)와 한미 원전 프레임워크(프로젝트 파워) 및 알래스카 LNG 프로젝트(프로젝트 노스) 등 세 건의 프로젝트가 추진된다고 발표했다.텍사스 가스복합화력발전 프로젝트의 경우 양국이 추진을 확정한 사안이"
+    },
+    {
+      "id": "6e8e56ef5f77",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "published": "2026-09-30T22:03:04+00:00",
+      "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 223 # Comments: 106"
     },
     {
       "id": "4c887c604c84",
@@ -452,6 +771,17 @@
       "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
       "published": "2026-09-30T19:30:00+00:00",
       "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too."
+    },
+    {
+      "id": "781046776b03",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "EDG C++ front-end goes public",
+      "link": "https://edgcpp.org/#transition",
+      "published": "2026-09-30T19:26:37+00:00",
+      "summary": "https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 219 # Comments: 105"
     },
     {
       "id": "a7e73c8d7222",
@@ -837,6 +1167,17 @@
       "link": "https://zdnet.co.kr/view/?no=20260930222026",
       "published": "2026-09-30T13:20:26+00:00",
       "summary": "[지디넷코리아]글로벌 사이버 보안기업 카스퍼스키(한국지사장 이효은)가 개최한 글로벌 사이버보안 경진대회 ‘카스퍼스키{CTF}’가 지난 8월 30일 성공적으로 종료, 최종 우승팀 5곳이 탄생했다. 이 중에는 한국 팀 1곳도 포함됐다. '오딘(Odin)'이라는 이름으로 출전한 엔키화이트햇(ENKI WhiteHat)이다.카스퍼스키의 글로벌 연구·분석팀(GReAT)과 카스퍼스키 아카데미가 2년 연속 공동 주최한 이번 대회에는 98개국에서 총 1657개 팀이 참가했다. 지난해 첫 대회에 이어 참가 규모가 "
+    },
+    {
+      "id": "e451dd5da6df",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The last time my family was replaced by technology",
+      "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "published": "2026-09-30T13:06:11+00:00",
+      "summary": "Article URL: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/ Comments URL: https://news.ycombinator.com/item?id=49908394 Points: 244 # Comments: 516"
     },
     {
       "id": "f16ebf440202",
@@ -2564,6 +2905,17 @@
       "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
       "published": "2026-09-29T10:10:20+00:00",
       "summary": "Article URL: https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart Comments URL: https://news.ycombinator.com/item?id=49890733 Points: 299 # Comments: 344"
+    },
+    {
+      "id": "3be77654ea30",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why the Bronze Age Collapsed",
+      "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "published": "2026-09-29T10:10:18+00:00",
+      "summary": "Article URL: https://www.worksinprogress.news/p/why-really-caused-the-bronze-age Comments URL: https://news.ycombinator.com/item?id=49890732 Points: 244 # Comments: 143"
     },
     {
       "id": "f43c459fccad",
