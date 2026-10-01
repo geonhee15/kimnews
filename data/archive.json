@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-10-01T17:06:03.555754+00:00",
-  "count": 14763,
+  "updated_at": "2026-10-01T21:49:16.370904+00:00",
+  "count": 14787,
   "items": [
+    {
+      "id": "b19fd6725464",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "link": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "published": "2026-10-01T21:20:12+00:00",
+      "summary": ""
+    },
+    {
+      "id": "76fbd8110b9c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "published": "2026-10-01T21:08:11+00:00",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+    },
+    {
+      "id": "9b877108350b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "published": "2026-10-01T20:11:55+00:00",
+      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
+    },
+    {
+      "id": "ef72310323aa",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "published": "2026-10-01T19:58:31+00:00",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms."
+    },
+    {
+      "id": "de1510ca2c94",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "최대선 센터장 \"사이버보안 특화 모델 AI 기본법 사각지대...기준 마련 시급\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215867",
+      "published": "2026-10-01T19:56:01+00:00",
+      "summary": "최대선 숭실대 AI안전성연구센터장이 정부 주도로 개발 중인 '사이버보안 특화 AI 파운데이션 모델'이 정작 안전성을 규율하는 'AI 기본법'의 법적 규제와 관리 체계에서 벗어나 있어 명확한 기준과 평가 체계 마련이 시급하다고 지적했다.최대선 센터장은 1일 오후 국가AI전략위원회에서 열린 'AI 개발 속도조절론' 세미나에 참석해 보안 특화 모델은 현행 AI 기본법상 별도 관리 대상인 고영향 AI 영역에 사이버보안이 포함되지 않는 실정이라고 지적했다.안전성 확보 의무가 부과되는 최첨단 AI(제32조)"
+    },
+    {
+      "id": "9c82b1806b58",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "published": "2026-10-01T19:47:51+00:00",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, des"
+    },
+    {
+      "id": "157c33ed291c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "국가AI전략위 \"AI 속도조절보다 RSI 초지능 완성 전 기술 추격 우선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215868",
+      "published": "2026-10-01T19:46:46+00:00",
+      "summary": "국가인공지능전략위원회가 글로벌 미·중 패권 경쟁 속에서 대두된 'AI 개발 속도조절론'에 휩쓸리지 않고, 한국이 기술 격차 축소와 글로벌 규범 제정을 동시에 주도해야 한다는 방안을 제시했다. 국가인공지능전략위원회는 1일 오후 서울 종로구 광화문 KT빌딩에서 'AI 개발 속도조절론' 세미나를 개최하고 AI 경쟁력 확보와 안전 통제 사이에서 한국이 취해야 할 해법을 다각도로 논의했다. 이날 세미나에서 환영사를 맡은 하정우 상근 부위원장은 \"AI 위험성이 증가했지만 속도조절로 한국의 AI 역량까지 조절"
+    },
+    {
+      "id": "455b9f55715a",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The one OpenAI announcement that can actually make you money...",
+      "link": "https://www.youtube.com/watch?v=No-JPdFvYWU",
+      "published": "2026-10-01T19:34:14+00:00",
+      "summary": ""
+    },
+    {
+      "id": "6ac84a39564c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "published": "2026-10-01T19:33:05+00:00",
+      "summary": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 423 # Comments: 148"
+    },
+    {
+      "id": "5517270ea59c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "published": "2026-10-01T19:21:53+00:00",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+    },
+    {
+      "id": "f1758c8ead9b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android Central ‘will continue’ despite laying off its staff",
+      "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+      "published": "2026-10-01T19:20:29+00:00",
+      "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including "
+    },
+    {
+      "id": "e7987ba2f42e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can good design stop content creators from having sex in robotaxis?",
+      "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+      "published": "2026-10-01T19:19:42+00:00",
+      "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public."
+    },
+    {
+      "id": "2b9451a0ecfb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "published": "2026-10-01T19:18:03+00:00",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+    },
+    {
+      "id": "63b44b31e918",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "published": "2026-10-01T18:52:58+00:00",
+      "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip"
+    },
+    {
+      "id": "62020ecb663c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "published": "2026-10-01T18:14:42+00:00",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+    },
+    {
+      "id": "a63776ad3ac3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "원자층 재배열, 차세대 반도체용 초박 절연막 제조 길 열었다",
+      "link": "https://zdnet.co.kr/view/?no=20261001190912",
+      "published": "2026-10-01T18:00:01+00:00",
+      "summary": "[지디넷코리아]물질의 기본 기능은 유지하면서도, 새로운 기능을 더하는 원자 설계법이 개발됐다.과학기술정보통신부는 이대수·이길호·최시영 포항공과대학교(POSTECH) 물리학과 교수와 박세영 숭실대학교 박세영 교수 공동 연구팀이 원자층 조성 배열을 정밀하게 설계하고, 원자를 쌓는 순서를 바꿔 금속과 초박막 절연재료에 새로운 기능을 구현하는데 성공했다고 2일 밝혔다.연구결과는 과학기술 분야 세계 3대 학술지 '사이언스(Science)'에 2일(현지시간 1일 오후2시,EDT) 게재됐다.물질은 원자 종류와"
+    },
+    {
+      "id": "0e3532837c30",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "published": "2026-10-01T17:50:19+00:00",
+      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+    },
+    {
+      "id": "551b9e33eb92",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "published": "2026-10-01T17:12:21+00:00",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta "
+    },
     {
       "id": "7abe4ab2d6ad",
       "source": "The Verge",
@@ -47,6 +245,28 @@
       "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key."
     },
     {
+      "id": "34d713be0482",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "With most information hidden, the game Stratego had stumped AI—until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "published": "2026-10-01T16:28:04+00:00",
+      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key."
+    },
+    {
+      "id": "15b310dba217",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "published": "2026-10-01T16:18:57+00:00",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 350 # Comments: 137"
+    },
+    {
       "id": "298e1d3454fc",
       "source": "The Verge",
       "kind": "article",
@@ -58,6 +278,28 @@
       "summary": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this. The M"
     },
     {
+      "id": "1d6622c00faa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로크웰 오토메이션 신규 보고서: 생명과학 제조기업의 90%, 디지털 트랜스포메이션을 비즈니스의 핵심 요소로 인식",
+      "link": "https://zdnet.co.kr/view/?no=20261002011002",
+      "published": "2026-10-01T16:10:02+00:00",
+      "summary": "[지디넷코리아] 새로운 조사 결과 제조기업은 품질 향상, 규제 대응 태세 강화 및 운영 성과 제고를 위해 연결된 데이터, 사이버보안 및 인공 지능에 투자 중 밀워키, 2026년 10월 1일 /PRNewswire/ -- 산업 자동화 및 디지털 트랜스포메이션 분야의 글로벌 선도 기업인 로크웰 오토메이션(Rockwell Automation, Inc., NYSE: ROK)은 오늘 생명과학 분야 제조 및 산업 운영 의사결정권자들의 의견을 바탕으로 한 업계 인사이트 보고서인 \"생명과학 제조를 위한 새로운 운"
+    },
+    {
+      "id": "413c5f639c82",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"항상 주변에 삼성·국정원이 있는지 확인하라\"",
+      "link": "https://zdnet.co.kr/view/?no=20261002004931",
+      "published": "2026-10-01T16:07:41+00:00",
+      "summary": "[지디넷코리아]\"항상 주변에 삼성전자와 국정원이 있는지 확인하라. (한국) 입국이 금지되거나 체포되면 위챗(중국 SNS)으로 하트 4개를 보내라.\" 1일 서울고등법원에서 열린 산업기술 해외유출 사건 항소심 공판에서 \"(중국 D램 업체) CXMT 근무 시절 다른 한국인 공정 엔지니어에 비해 (자신은) 역할이 미미했다\"고 주장하던 피고인은 CXMT 근무 시절 이러한 보안지침이 있었다는 사실은 시인했다. 피고인은 지난 2016년 8월 CXMT에 가장 먼저 입사한 삼성전자 출신 한국인 2명 중 1명이다."
+    },
+    {
       "id": "4bdb3b5e1475",
       "source": "The Verge",
       "kind": "article",
@@ -67,6 +309,17 @@
       "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
       "published": "2026-10-01T16:02:37+00:00",
       "summary": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microsoft Teams earlier this year. Roslansky's departure has trigge"
+    },
+    {
+      "id": "4b7e6e1fb777",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "published": "2026-10-01T16:01:56+00:00",
+      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 238 # Comments: 62"
     },
     {
       "id": "8ee8663dd65c",
@@ -210,6 +463,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261001214530",
       "published": "2026-10-01T12:45:30+00:00",
       "summary": "[지디넷코리아]인공지능(AI), 반도체, 양자 등 미래 기술간 시너지를 통해 국가경쟁력 향상을 도모하는 민간주도 단체인 '미래기술 전략포럼' 두번째 행사가 1일 오후 서울 여의도 국회의원회관 제8간담회의실에서 열렸다.행사에는 포럼 공동회장인 송승현 한국정보통신기술협회(TTA) 회장과 최경진 한국인공지능법학회장(가천대 교수)을 비롯해 간사를 맡고 있는 유승재 인공지능산업협회 부회장, 최형두 의원(국민의 힘), 정은아 수산아이앤티 대표, 윤석주 페르소나에이아이 이사, 이임평 서울시립대 교수, 임성국 "
+    },
+    {
+      "id": "354534b42988",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "published": "2026-10-01T12:44:38+00:00",
+      "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 215 # Comments: 107"
     },
     {
       "id": "7e29604720d3",
