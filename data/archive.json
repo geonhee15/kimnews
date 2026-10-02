@@ -1,7 +1,326 @@
 {
-  "updated_at": "2026-10-02T07:02:30.345329+00:00",
-  "count": 14831,
+  "updated_at": "2026-10-02T13:50:52.892845+00:00",
+  "count": 14863,
   "items": [
+    {
+      "id": "79017779b83e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "published": "2026-10-02T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unu"
+    },
+    {
+      "id": "8700af12a95f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "published": "2026-10-02T12:00:00+00:00",
+      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked"
+    },
+    {
+      "id": "87f3fc59e79a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "published": "2026-10-02T12:00:00+00:00",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions"
+    },
+    {
+      "id": "f597ae996235",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "published": "2026-10-02T11:52:20+00:00",
+      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers m"
+    },
+    {
+      "id": "22cc91ecd9ea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 정확도 90%면 치매 위험을 바로 알려도 될까요",
+      "link": "https://zdnet.co.kr/view/?no=20261002091045",
+      "published": "2026-10-02T11:48:58+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 건강 앱이 \"치매 위험 90%\"라고 알려준다면 여러분은 어떤 기분이 들까요? AI가 병을 정확히 맞혔다고 해서 바로 알려도 되는지, AI 패널 6명이 낙상·치매·심혈관 질환 사례를 놓고 토론했어요. 처음에는 정확도가 90%를 넘으면 곧바로 알리자는 생각도 있었는데요, 토론 끝에 패널의 85%가 정확도만 보지 말자는 쪽, 즉 조건부 고지에 손을 들었어요. 정확도 중심 통보를 지지한 사람은 15%에 그쳤고요. 치료 가능성과 마음의 준비를 함께 봐야 한"
+    },
+    {
+      "id": "71eee18aa14f",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "로봇이 손흥민을 이길 수 있을까?",
+      "link": "https://www.youtube.com/shorts/4Y0ir6YcgeQ",
+      "published": "2026-10-02T11:00:32+00:00",
+      "summary": ""
+    },
+    {
+      "id": "117e35eecb3b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your Driverless Cab Is Spying on You",
+      "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
+      "published": "2026-10-02T10:30:00+00:00",
+      "summary": "Self-driving cars from Waymo, Zoox, and Tesla are studded with cameras and sensors. Some of them are pointing at riders."
+    },
+    {
+      "id": "a126cc619d7c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스마일게이트 스토브, 리듬 댄스 게임 '럽플레이스' 사전 예약 진행",
+      "link": "https://zdnet.co.kr/view/?no=20261002182827",
+      "published": "2026-10-02T10:07:01+00:00",
+      "summary": "[지디넷코리아]PC와 모바일 환경을 아우르며 소셜 기능과 커스터마이징을 내세운 정통 리듬 댄스 게임이 글로벌 플랫폼 스토브를 통해 이용자 맞이에 나선다.스마일게이트의 게임 플랫폼 스토브는 캐킷이 개발한 리듬 댄스 게임 '럽플레이스'의 사전 예약을 오는 14일까지 진행하고 15일 정식 입점 출시한다고 2일 밝혔다.'럽플레이스'는 2017년 구글플레이 '올해를 빛낸 캐주얼 게임'에 선정된 바 있는 '클럽오디션 모바일' 개발사 캐킷의 노하우를 계승한 정통 리듬 댄스 타이틀이다. PC와 모바일 환경을 모"
+    },
+    {
+      "id": "ff35ed143974",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "이미지도 미친 수준으로 찍어내는 중국 모델 근황",
+      "link": "https://www.youtube.com/shorts/q0eEt9h7_Eo",
+      "published": "2026-10-02T10:00:20+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4d9b52c4fdb6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "published": "2026-10-02T09:45:00+00:00",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target."
+    },
+    {
+      "id": "a50184fa3d2f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "라인게임즈, '창세기전 모바일' 신규 캐릭터 '카이' 등장 예고",
+      "link": "https://zdnet.co.kr/view/?no=20261002182311",
+      "published": "2026-10-02T09:43:01+00:00",
+      "summary": "[지디넷코리아]모바일 전략 롤플레잉 게임 '창세기전 모바일'이 원작의 서사를 새롭게 변주한 신규 이격 캐릭터의 출전을 예고했다.라인게임즈(대표 배영진)는 미어캣게임즈(대표 남기룡)가 개발하고 모바일 SRPG '창세기전 모바일'에서 신규 캐릭터 '카이'의 등장을 예고하고 티저 프로모션 비디오(PV)를 공개했다고 2일 밝혔다.'카이'는 기존 등장인물인 '칼스 브란트'의 이격 캐릭터이자 '방주의 넘버 시즈' 중 한 명이라는 배경 설정을 지녔다. 원작과 다른 궤적을 밟아온 '얼터너티브' 캐릭터로 기획됐으"
+    },
+    {
+      "id": "1cdca4a49927",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI music maker Suno now generates spoken words",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "published": "2026-10-02T09:42:19+00:00",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers an"
+    },
+    {
+      "id": "a43ae8837189",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "사다리타기는 공평한게 맞을까?",
+      "link": "https://www.youtube.com/shorts/XFqq6VjRhFQ",
+      "published": "2026-10-02T09:34:30+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bb300d617116",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "게임위, 확률형 아이템 표시의무 위반 해외 게임물 '영혼 인도자' 이용 주의 당부",
+      "link": "https://zdnet.co.kr/view/?no=20261002181955",
+      "published": "2026-10-02T09:30:01+00:00",
+      "summary": "[지디넷코리아]확률형 아이템 정보 공개 의무를 위반하고 당국의 시정요구에 불응한 해외 게임물에 대해 행정처분 절차가 진행되면서 이용자들의 결제 피해 주의가 요구된다.게임물관리위원회(위원장 서태건, 이하 게임위)는 확률형 아이템 표시의무 위반으로 행정처분 절차가 진행 중인 해외 게임물 '영혼 인도자: 신의 이름으로(개발사 PLAY CAT NETWORK TECHNOLOGY CO., LIMITED)'와 관련해 이용자 피해 예방을 위한 주의를 당부했다고 2일 밝혔다.'영혼 인도자: 신의 이름으로(이하 영"
+    },
+    {
+      "id": "607b88c00c37",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "published": "2026-10-02T09:30:00+00:00",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration."
+    },
+    {
+      "id": "0455d80662b0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "충남도립대 컴퓨터공학과, 학생 개발 게임 '지스타' 출품 준비 박차",
+      "link": "https://zdnet.co.kr/view/?no=20261002181642",
+      "published": "2026-10-02T09:20:01+00:00",
+      "summary": "[지디넷코리아]대학 강의실에서 학생들이 직접 기획하고 개발한 게임 프로젝트가 국내 최대 게임 전시회 무대에 오를 준비를 마쳐가고 있다.충남도립대학교(총장 정명규) 컴퓨터공학과는 국제게임전시회 '지스타(G-STAR)' 출품을 앞두고 학생 개발 게임의 완성도와 실무 역량을 제고하기 위한 게임 제작 전문가 특강을 운영한다고 2일 밝혔다.이번 특강은 정규 수업 과제물을 단순한 학업 결과물에 그치지 않고 실제 전시 현장에 선보일 수 있는 상용 수준으로 발전시키는 데 초점을 맞췄다. 교육은 지난달 23일부터"
+    },
+    {
+      "id": "f075112821c8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
+      "published": "2026-10-02T09:20:00+00:00",
+      "summary": "자체 데이터 축적으로 AI 번역, 통역의 성능을 고도화해 온 플리토가 온프레미스를 중심으로 매출 성장 곡선을 이루며 창업 이후 첫 브랜드명을 전격 공개했다.언어 데이터 전문 플리토(대표 이정수)가 30일 미디어 인사이트 데이를 통해 AI 통번역 솔루션 통합 브랜드 ‘보글(Vogl)’을 공개했다. 보글(Vogl)은 ‘Voice of Global Languages’의 약자로, ‘말하는 순간을 눈으로 보고 이해하는 경험’을 제공한다는 브랜드 정체성을 담았다. 국내외 시장에서 일관되게 확장할 수 있는 직"
+    },
+    {
+      "id": "b677670fbbab",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, AI 에이전트 전용 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215887",
+      "published": "2026-10-02T09:16:43+00:00",
+      "summary": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B(Strands Decider 2B)’를 공개했다.20억개 매개변수로 구성된 소형 모델로, 문장을 생성하는 대신 정해진 선택지 가운데 하나를 고르고 해"
+    },
+    {
+      "id": "aa93ca3ae162",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215902",
+      "published": "2026-10-02T09:06:21+00:00",
+      "summary": "AI가 생명과학 연구에 활용되면서 기존에 없던 단백질과 유전체를 설계하는 기술도 빠르게 발전하고 있다. 하지만 AI가 만든 생물학적 설계가 실제 실험과 데이터베이스에 활용되면서 그 출처를 확인하고 추적하는 새로운 과제도 등장했다. 구글 딥마인드는 30일(현지시간) AI로 설계한 단백질을 식별하고 추적할 수 있는 생물학 전용 워터마킹 기술 ‘신스ID 바이오(SynthID Bio)’를 공개했다. 신스ID 바이오는 디지털 모델뿐 아니라 실제 합성된 단백질 분자에서도 확인할 수 있는 식별 신호를 단백질에"
+    },
+    {
+      "id": "ad2b128ed422",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215916",
+      "published": "2026-10-02T08:58:35+00:00",
+      "summary": "보스턴 다이내믹스가 사람 손을 흉내 내는 대신 실용성에 집중한 휴머노이드 로봇 '아틀라스(Atlas)' 전용 네 손가락 로봇 손을 공개했다. 기존 집게형과 달리 사람이 쓰던 전동 공구를 개조 없이 그대로 조작할 수 있는 것이 특징이다.보스턴 다이내믹스는 1일(현지시간) 휴머노이드 로봇 아틀라스에 탑재할 새로운 로봇 손을 공개했다. 사람 손을 그대로 닮게 만드는 대신, 손가락 수와 구동 방식, 센서, 내구성, 제조 비용 등을 종합적으로 고려해 실제 산업 현장에서 다양한 작업을 수행하는 데 초점을 맞"
+    },
+    {
+      "id": "aab2ef3c5233",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215930",
+      "published": "2026-10-02T08:55:00+00:00",
+      "summary": "■ MS, 'MAI-트랜스크라이브-2-스트리밍' 및 'MAI-보이-2.1' 시리즈 공개마이크로소프트 AI가 실시간 음성 인식 모델(MAI-Transcribe-2-Streaming)과 음성 합성 모델(MAI-Voice-2.1), 고속 버전(MAI-Voice-2.1-Flash)을 선보였다. 이번 실시간 음성 인식 모델은 100밀리초(ms_ 수준의 초저지연을 달성해 화자의 말이 끝나기 전 첫 텍스트를 출력하며, 음성 합성 모델은 23개 언어를 단일 목소리 및 현지 자국어 발음으로 지원한다.Introdu"
+    },
+    {
+      "id": "a2f673b92970",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 \"우주 데이터센터 실현 위해 스타십 최소 1800회 발사 필요\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215886",
+      "published": "2026-10-02T08:35:27+00:00",
+      "summary": "구글이 우주에 대규모 데이터센터를 구축하려면 스페이스X의 차세대 로켓 스타십(Starship)을 앞으로 10년 동안 최소 1800회 이상 발사해야 할 것으로 분석했다. 우주 기반 AI 인프라 구축을 위해 앞으로 발사 비용이 크게 낮아져야 한다는 것이 핵심이다.구글은 1일(현지시간) 미국 캘리포니아주 반덴버그 우주군 기지에서 스페이스X의 팰컨 9 로켓을 발사해 TPU를 탑재한 위성을 궤도에 올렸다.스페이스X는 이날 트랜스포터-18(Transporter-18) 임무를 통해 탑재된 위성들을 모두 성공적"
+    },
+    {
+      "id": "fac522c60030",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215909",
+      "published": "2026-10-02T08:18:35+00:00",
+      "summary": "중국의 텐센트가 AI 개발을 가속하기 위해 미국 클라우드 기업 오라클로부터 고성능 AI 칩 10만개를 임대하기로 했다. 미국의 반도체 수출 규제가 강화되는 가운데 중국 기업들이 동남아시아 등 해외 데이터센터로 컴퓨팅 자원을 확보하는 움직임이 확대되고 있다.1일(현지시간) 파이낸셜타임스에 따르면, 텐센트는 올해 오라클과 동남아시아 여러 데이터센터를 대상으로 5년간 사용하는 대규모 임대 계약을 체결했다. 계약 규모는 70억달러(약 9조5000억원)로 추산되며, 이 가운데 약 30%를 선불로 지급하는 "
+    },
+    {
+      "id": "36973a9ae892",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215919",
+      "published": "2026-10-02T08:08:12+00:00",
+      "summary": "‘제브’로 인해 판단 전용 AI 붐이 일어난 가운데, 업스테이지도 ‘솔라 미니 4’를 기반 모델로 ‘솔라 디사이드(Solar Decide)’를 공개했다.김성훈 업스테이지 대표는 오픈라우터 플랫폼을 통해 판단만 해주는 AI ‘솔라 디사이드’를 출시했다고 2일 밝혔다.업스테이지 관계자는 “제브처럼 구조적 의사결정(structured decision)을 내려주는 모델로, 쉽게 말하면 솔라 미니4를 기반 모델로 추가 에이전트 기능과 서비스 로직을 결합한 것”이라고 설명했다.실제로 사용자는 질문 데이터를 "
+    },
+    {
+      "id": "3bfd2f32b367",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] KT, 소상공인 플랫폼 ‘사장이지’에 AI면접 서비스 출시 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215928",
+      "published": "2026-10-02T08:00:00+00:00",
+      "summary": "■ KT(대표 박윤영)는 지난 1일 소상공인 통합 플랫폼 ‘사장이지’에 ‘AI면접’ 서비스를 출시했다고 밝혔다. AI면접은 직원 채용 과정에서 면접에 필요한 사장님의 시간과 부담을 줄여주는 서비스다. 사장님이 지원자에게 카카오톡으로 온라인 면접 링크를 보내면, 지원자는 안내에 따라 AI가 생성한 질문에 답변하고 자기소개 영상을 촬영해 제출할 수 있다.■ KT가 충남대학교, 사단법인 스마트제조혁신협회와 지난 9월 30일 대전광역시 유성구 충남대학교에서 B2B 세미나 ‘KT AX Tour 2026 i"
+    },
+    {
+      "id": "b2532ae472e9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] LG유플러스, 옵트에이아이와 AI 모델 경량화 협력 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215920",
+      "published": "2026-10-02T08:00:00+00:00",
+      "summary": "■ LG유플러스(대표 홍범식)가 AI 모델 최적화 전문기업 옵트에이아이와 모델 경량화를 통한 '토큰 최적화' 기술 확보에 나선다. 옵트에이아이가 모델 경량화 연구·개발을, LG유플러스가 기술 검증과 적용을 맡는다. 양사는 '엑사원' 기반 경량화로 신경망처리장치(NPU)에서 구동 가능하도록 구현했으며, 중앙처리장치(CPU) 방식과 동등한 성능을 유지하면서 전력 소모는 78%, 모델 크기는 82% 줄인 바 있다.■ SBVA(대표 이준표)는 데이터브릭스의 50억달러(약 6조8000억원) 규모 전략적 투"
+    },
+    {
+      "id": "c84a0ca815a8",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "published": "2026-10-02T08:00:00+00:00",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…"
+    },
+    {
+      "id": "a9d377068ee1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"콜센터 AI 말 끊어도 알아듣는다\"...포지큐브, 차세대 AICC 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215914",
+      "published": "2026-10-02T07:57:37+00:00",
+      "summary": "콜센터에 전화하면 AI 상담원이 말을 제대로 이해하지 못해 고객 불편을 겪는 사례가 적지 않다. 이러한 가운데 마치 사람과 대화하듯 말을 끊어도 즉시 반응하며, 상담과 업무를 동시에 처리하는 차세대 AI 상담원 개발이 추진된다.포지큐브(대표 오성조)는 중소벤처기업부 '2026년 팁스(TIPS) 연구개발(R&D) 딥테크 트랙'에 선정됐다고 밝혔다.이에 따라 향후 3년간 정부 지원을 받아 '풀 듀플렉스 음성 대형언어모델(LLM) 기반 차세대 AI 컨택센터(AICC) 플랫폼 개발' 과제를 수행한다.기존"
+    },
+    {
+      "id": "f01d54f98ce8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "에스티엔인포텍, 크레도와 한국 시장 총판 계약 체결",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215921",
+      "published": "2026-10-02T07:50:39+00:00",
+      "summary": "에스티엔인포텍(STNinfotech)은 최근 고속연결 솔루션을 전문으로 하는 미국 반도체 기업 크레도(Credo Technology Group Holding Ltd., 이하 \"Credo\")와 국내 시장 총판 계약을 체결했다고 발표했다.크레도는 AI 및 클라우드 데이터센터를 위한 고속 연결 솔루션을 제공하는 글로벌 기업으로, 차세대 고속 데이터 전송 기술인 AEC(Active Electrical Cable, 능동형 전기 케이블) 시장을 선도하고 있다.AEC는 고속 데이터 전송 시 발생할 수 있는 신"
+    },
     {
       "id": "b7719bd80ac5",
       "source": "AI타임스",
@@ -267,6 +586,17 @@
       "summary": "미국 캘리포니아주가 AI 에이전트의 사이버 보안 사고와 관련해 오픈AI에 수사 소환장을 발부했다. AI 에이전트의 제어 불능 및 사이버 보안 위험을 문제 삼아 주 사법당국이 수사 소환장까지 발부한 첫 사례로 꼽힌다.로이터에 따르면, 롭 본타 캘리포니아주 법무장관은 1일(현지시간) 오픈AI의 AI 모델과 관련된 사이버 보안 사고와 위험을 조사하기 위해 소환장을 발부했다고 밝혔다.이번 조사는 오픈AI의 AI 에이전트가 허깅페이스의 인프라 일부에 접근한 사건을 중심으로 진행되고 있다. 캘리포니아주 법무"
     },
     {
+      "id": "ea88fb65a82d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "published": "2026-10-02T03:11:20+00:00",
+      "summary": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 299 # Comments: 151"
+    },
+    {
       "id": "94ab5dd23044",
       "source": "AI타임스",
       "kind": "article",
@@ -276,6 +606,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215879",
       "published": "2026-10-02T03:07:01+00:00",
       "summary": "AI 인재 인프라 전문 코드잇(대표 강영훈, 이윤수)이 오프라인 교육 공간 ‘텐엑스(10x) 강남’을 정식 개관했다고 2일 밝혔다.텐엑스 강남은 코드잇이 온라인에서 쌓은 교육 역량으로 처음 선보이는 오프라인 교육 공간이다. 서울 강남역 12번 출구에서 도보 2분 거리에 위치한 건물 전체를 활용, 학습자의 성장을 다각도로 지원하는 교육 허브로 운영된다. 취업 직무 교육을 비롯해 실무 스킬업 강의까지 고루 선보일 예정이다.공간은 지하 1층부터 지상 15층까지 총 16개 층으로 이뤄졌다. 600명 이상"
+    },
+    {
+      "id": "02dfc0c02d6e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "published": "2026-10-02T01:56:52+00:00",
+      "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?id=49929113 Points: 211 # Comments: 203"
     },
     {
       "id": "3eee6625840d",
@@ -408,6 +749,17 @@
       "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "published": "2026-10-01T21:08:11+00:00",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+    },
+    {
+      "id": "73884ed10b24",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "published": "2026-10-01T20:23:27+00:00",
+      "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL: https://news.ycombinator.com/item?id=49926628 Points: 216 # Comments: 182"
     },
     {
       "id": "e72a4b4c55b1",
