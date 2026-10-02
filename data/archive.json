@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-02T18:53:53.631134+00:00",
-  "count": 14882,
+  "updated_at": "2026-10-02T22:46:23.872343+00:00",
+  "count": 14893,
   "items": [
+    {
+      "id": "07bd3b4b97a1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+      "published": "2026-10-02T22:00:00+00:00",
+      "summary": "오픈AI는 29일(현지시간) 열린 ‘데브데이 2026’에서 챗GPT의 새로운 방향을 보여주는 기능으로 ‘로그인’과 ‘플러그인’을 내놓았습니다. 샘 알트먼 CEO는 2일 X에서 \"챗GPT/플러그인 확장 기능을 이용한 로그인에 우리가 생각하는 것보다 훨씬 더 큰 잠재력이 있다고 생각한다\"라고 따로 언급했습니다.겉으로 보면 단순히 로그인 기능을 추가하고 플러그인의 활용 범위를 넓힌 것처럼 보이지만, 내용을 들여다보면 챗GPT를 다른 서비스를 이용하기 위한 새로운 출발점으로 만들려는 움직임에 가깝습니다."
+    },
+    {
+      "id": "1294af861294",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "published": "2026-10-02T21:09:14+00:00",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money."
+    },
+    {
+      "id": "7de71e10b5ad",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "published": "2026-10-02T21:08:37+00:00",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big sc"
+    },
+    {
+      "id": "ab3b90b2a3a2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
+      "link": "https://zdnet.co.kr/view/?no=20261002190003",
+      "published": "2026-10-02T21:00:03+00:00",
+      "summary": "[지디넷코리아]사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 ‘누디파이(Nudify)’ AI가 유럽에서 엄격하게 금지된다. 유럽연합(EU)이 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어올린다.1일(현지시간) EU 집행위원회(EC)에 따르면 AI로 동의하지 않은 성적이며 은밀한 콘텐츠를 생성하거나 조작하는 시스템을 금지하는 인공지능법(AI Act) 규정이 오는 12월2일부터 적용된"
+    },
+    {
+      "id": "1fe8d4ad391d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "은행권, 오픈소스 AI에이전트 해킹 가시화…\"국가적 AiPT 대비해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261002205944",
+      "published": "2026-10-02T20:45:01+00:00",
+      "summary": "[지디넷코리아]최근 은행권 개인정보 유출 과정에서 중국산 오픈소스 인공지능(AI)기반 에이전트가 해킹 테스트 도구로 악용됐다는 진단이 나온 가운데, 국가적으로 AI기반 지속 위협(AiPt·AI-Powered Persistent Threats)에 대비하기 위한 노력이 필요하다는 진단이 나왔다.문종현 지니언스시큐리티 센터장은 최근 링크드인을 통해 국내 여러 곳을 대상으로 수행한 공격과 관련해 분석한 결과 중국산 오픈소스 AI기반 에이전트가 활용됐을 가능성을 제기했다. 9월 30일부터 신한은행은 물론이"
+    },
+    {
+      "id": "89884c3f3661",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "은행 전산망은 확대…보안 격차에 '해킹'",
+      "link": "https://zdnet.co.kr/view/?no=20261002200821",
+      "published": "2026-10-02T20:30:01+00:00",
+      "summary": "[지디넷코리아]국내 3대 은행이라고 부를 수 있는 KB국민은행·신한은행·하나은행서 외부 해킹으로 인한 개인정보 유출이 이뤄지면서, 금융소비자 불안이 고조되고 있다.3일 금융업계에 따르면 30일 KB국민은행서는 직원용 업무시스템서 119명, 신한은행서는 대출중개모집인 채널을 통해 2만5000명, 하나은행 직원용 업무시스템서 89명의 이름·전화번호·주민등록번호·휴대전화번호 등 개인정보가 유출됐다. 이뿐만 아니라 우리은행에서도 해킹 정황이 발견됐으며, BNK부산은행서도 정보 유출이 일어난 것으로 전해졌"
+    },
+    {
+      "id": "8dab0d79a85e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "published": "2026-10-02T20:08:40+00:00",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level o"
+    },
+    {
+      "id": "496b478936e1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+      "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
+      "published": "2026-10-02T19:52:36+00:00",
+      "summary": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say."
+    },
+    {
+      "id": "bb1486ed4634",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "published": "2026-10-02T18:39:36+00:00",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue."
+    },
     {
       "id": "34bd47021b98",
       "source": "TechCrunch",
@@ -388,6 +487,17 @@
       "summary": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B(Strands Decider 2B)’를 공개했다.20억개 매개변수로 구성된 소형 모델로, 문장을 생성하는 대신 정해진 선택지 가운데 하나를 고르고 해"
     },
     {
+      "id": "077e7f091378",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215887",
+      "published": "2026-10-02T09:16:43+00:00",
+      "summary": "AI 에이전트가 복잡한 작업을 수행할수록 매 순간 어떤 행동을 선택할지 빠르게 판단하는 능력이 중요해지고 있다. 이런 판단을 생성 AI에 맡기는 대신 별도의 소형 모델로 처리해 속도와 비용을 낮추려는 움직임이 확대되고 있다.아마존은 1일(현지시간) AI 에이전트의 판단을 빠르고 저렴하게 처리할 수 있는 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B(Strands Decider 2B)’를 공개했다.20억개 매개변수로 구성된 소형 모델로, 문장을 생성하는 대신 정해진 선택지 가운데 하나를 고르고 해"
+    },
+    {
       "id": "aa93ca3ae162",
       "source": "AI타임스",
       "kind": "article",
@@ -438,6 +548,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215909",
+      "published": "2026-10-02T08:18:35+00:00",
+      "summary": "중국의 텐센트가 AI 개발을 가속하기 위해 미국 클라우드 기업 오라클로부터 고성능 AI 칩 10만개를 임대하기로 했다. 미국의 반도체 수출 규제가 강화되는 가운데 중국 기업들이 동남아시아 등 해외 데이터센터로 컴퓨팅 자원을 확보하는 움직임이 확대되고 있다.1일(현지시간) 파이낸셜타임스에 따르면, 텐센트는 올해 오라클과 동남아시아 여러 데이터센터를 대상으로 5년간 사용하는 대규모 임대 계약을 체결했다. 계약 규모는 70억달러(약 9조5000억원)로 추산되며, 이 가운데 약 30%를 선불로 지급하는 "
+    },
+    {
+      "id": "833721eb1b95",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아로",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215909",
       "published": "2026-10-02T08:18:35+00:00",
       "summary": "중국의 텐센트가 AI 개발을 가속하기 위해 미국 클라우드 기업 오라클로부터 고성능 AI 칩 10만개를 임대하기로 했다. 미국의 반도체 수출 규제가 강화되는 가운데 중국 기업들이 동남아시아 등 해외 데이터센터로 컴퓨팅 자원을 확보하는 움직임이 확대되고 있다.1일(현지시간) 파이낸셜타임스에 따르면, 텐센트는 올해 오라클과 동남아시아 여러 데이터센터를 대상으로 5년간 사용하는 대규모 임대 계약을 체결했다. 계약 규모는 70억달러(약 9조5000억원)로 추산되며, 이 가운데 약 30%를 선불로 지급하는 "
