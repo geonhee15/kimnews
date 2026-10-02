@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-10-02T01:15:02.650900+00:00",
-  "count": 14801,
+  "updated_at": "2026-10-02T07:02:30.345329+00:00",
+  "count": 14831,
   "items": [
+    {
+      "id": "b7719bd80ac5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '불량 에이전트' 무단 활동 100여곳 조직에 통보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215896",
+      "published": "2026-10-02T06:47:16+00:00",
+      "summary": "오픈AI가 자사 AI 에이전트의 비정상적인 활동이 확인된 제3자 조직 100곳 이상에 관련 사실을 통보했다. 에이전트의 통제 실패와 무단 데이터 수집 정황이 꼬리를 물고 터져 나오면서, 전체 피해 규모와 파장이 어디까지 확대될지 가늠조차 하기 힘든 상황이다.오픈AI는 9월26일 집계 기준 내부 가이드라인상 통지 대상에 해당하는 비정상 활동을 포착하고, 영향권에 있는 100여개 조직에 관련 내용을 통보했다고 밝혔다.다만 이번 통보가 해당 조직의 시스템이 실제로 침해됐거나 개인정보가 유출됐음을 의미하"
+    },
+    {
+      "id": "73857111cf29",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 중국 'GLM-5.3' 해킹 위험성 경고...\"클로드 미소스와 맞먹는 능력\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215893",
+      "published": "2026-10-02T06:11:44+00:00",
+      "summary": "앤트로픽이 중국 오픈웨이트 모델 ‘GLM-5.3’의 사이버 공격 능력에 대해 경고했다. 강력한 해킹 능력을 갖췄지만, 안전장치가 상대적으로 취약해 악의적인 공격자에게 악용될 가능성이 크다는 지적이다.앤트로픽은 29일(현지시간) 공개한 보고서를 통해 GLM-5.3이 자율적으로 엔드투엔드 사이버 익스플로잇을 개발하는 능력에서 지난 4월 공개된 ‘클로드 미소스 프리뷰(Claude Mythos Preview)’에 근접했다고 밝혔다.크롬 V8 엔진의 취약점을 공격하는 '익스플로잇벤치(ExploitBench"
+    },
+    {
+      "id": "4b3689c84e4f",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 AI응답 자체가 사기일 수 있다?? 신종 사기 수법 등장 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/SL5SJMe48qA",
+      "published": "2026-10-02T06:00:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "04cd50eee56b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "비드래프트, 중국 모델스코프서 '연구기관' 인증…AX-RAY 기반 중국 진출 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215897",
+      "published": "2026-10-02T05:47:33+00:00",
+      "summary": "AI 전문 비드래프트(대표 김민식)가 중국 AI 모델 플랫폼 모델스코프(ModelScope)로부터 '연구기관' 공식 인증을 획득했다고 2일 밝혔다. 국내 AI 조직 가운데 해당 인증을 받은 곳은 유일하다는 설명이다.모델스코프는 알리바바와 중국컴퓨터학회(CCF)가 공동 설립한 오픈소스 AI 모델 커뮤니티로, 14만개 이상의 모델과 2000만명 이상의 사용자를 보유한 중국 최대 AI 유통 플랫폼이다. 구글, 메타, 딥시크 등 글로벌 주요 기업도 해당 플랫폼에 조직을 운영 중이지만, 공식 인증 표시는 "
+    },
+    {
+      "id": "a6250e3d33db",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"잘 가라 02\"…슈워제네거 '터미네이터 2' 오마주한 휴머노이드 해체 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215894",
+      "published": "2026-10-02T05:34:03+00:00",
+      "summary": "미국의 휴머노이드 로봇 스타트업 피규어 AI가 자사 2세대 휴머노이드 로봇 '피규어 02' 기종을 전량 퇴역시키며 영화 '터미네이터 2'를 오마주한 이색 해체 영상을 공개했다. 피규어 AI는 30일(현지시간) 단편 영상 'F.02 퇴역(Decommission)'을 공식 발표하고, 피규어 02 로봇들이 핀란드 이마트라의 제강 공장에서 스스로 쇳물 속으로 뛰어내려 해체되는 과정을 선보였다.이번 이벤트는 브렛 애드콕 CEO가 8월 진행한 온라인 설문조사에서 시작됐다. 장비 퇴역 방식을 묻는 투표에 영화"
+    },
+    {
+      "id": "240b906d605e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "늦게 올리면 뺏긴다! AI로 숏폼 영상 한 번에 올리는 법",
+      "link": "https://www.youtube.com/shorts/ZIbqvLf71ig",
+      "published": "2026-10-02T05:30:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d13215fe39b4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "덱스터픽쳐스 '너에게 다이브', 라쿠텐 비키 109개국 1위 등 흥행 순항",
+      "link": "https://zdnet.co.kr/view/?no=20261002140901",
+      "published": "2026-10-02T05:30:01+00:00",
+      "summary": "[지디넷코리아]덱스터픽쳐스의 첫 오리지널 지식재산권(IP) 드라마 '너에게 다이브'가 방영 첫 주 글로벌 주요 OTT 플랫폼에서 1위에 오르며 흥행에 시동을 걸었다.덱스터스튜디오 콘텐츠 제작 자회사 덱스터픽쳐스(대표이사 김동현)는 드라마 '너에게 다이브(DIVE INTO YOU)'가 라쿠텐 비키 109개국 1위와 일본 디즈니+ 1위를 기록하는 등 글로벌 순위에 안착했다고 2일 밝혔다.지난 달 26일 첫 공개된 이번 작품은 덱스터픽쳐스와 일본 종합 엔터 기업 아뮤즈의 한국법인 아뮤즈엔터테인먼트가 공"
+    },
+    {
+      "id": "b82bc24fbcaa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 모델 개발부터 서비스까지 한 번에…KACI, AI-PaaS 성과 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261002142500",
+      "published": "2026-10-02T05:25:18+00:00",
+      "summary": "[지디넷코리아]한국인공지능클라우드산업협회(KACI)가 인공지능(AI) 모델 개발부터 실제 산업 서비스 구현까지 지원하는 서비스형 플랫폼(PaaS) 기술의 연구개발 성과 확산에 나선다. 바이오·물류·문서 등 다양한 분야에서 실증한 기술을 실제 서비스 적용과 사업화로 연결한다는 목표다.KACI는 지난 1일 서울 양재 엘타워에서 'AI 모델과 서비스 개발을 위한 PaaS 기술 개발 성과공유회'를 개최하고 AI-PaaS 핵심 기술과 산업별 실증 성과를 공개했다고 2일 밝혔다.이번 행사는 과학기술정보통신부"
+    },
+    {
+      "id": "5396abf5a9fe",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 넘어 퀀텀시대로…양자기술 현재와 미래를 '한 눈에'",
+      "link": "https://zdnet.co.kr/view/?no=20261002100423",
+      "published": "2026-10-02T05:24:12+00:00",
+      "summary": "[지디넷코리아]'비욘드 인공지능(AI)'을 이끌 차세대 기술로 각광받고 있는 양자컴퓨팅 산업의 현재와 미래를 진단하는 퀀텀포럼이 열린다. 정책 결정자와 협단체 대표들이 참여하는 6인 토크쇼와 컨퍼런스와 핵심 기술 중심 전시로 구성된 이번 행사는 대한민국 양자 기술의 현주소를 확인하는 멋진 기회가 될 것으로 기대된다. 과학기술정보통신부 주최로 오는 6일부터 8일까지 서울 삼성동 코엑스에서 열리는 AI페스타 세부 행사로 퀀텀포럼과 전시가 마련됐다. 퀀텀포럼은 6일 오전 10시부터 오후 1시까지 웨스틴"
+    },
+    {
+      "id": "2e2698d9564f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포티투닷, 엔비디아·딥마인드·제노 창시자 영입…SDV 기술 강화",
+      "link": "https://zdnet.co.kr/view/?no=20261002141743",
+      "published": "2026-10-02T05:17:43+00:00",
+      "summary": "[지디넷코리아]현대자동차그룹 글로벌 소프트웨어센터 포티투닷이 분산 컴퓨팅과 음성 인공지능(AI), 자율주행 분야 전문가 3명을 영입했다. 소프트웨어 중심 자동차(SDV)와 지능형 모빌리티 기술 개발 역량을 강화하기 위한 인사다.포티투닷은 안젤로 코르사로 수석 연구위원, 김재영 글레오 AI 모델 그룹 리드, 차오 팡 SV VLA 팀 리드가 최근 합류했다고 2일 밝혔다.안젤로 코르사로 수석 연구위원은 지난달 초 미국 실리콘밸리 오피스에 합류했다. 분산 컴퓨팅과 실시간 시스템, 로보틱스 미들웨어를 주요"
+    },
+    {
+      "id": "0394e2215a0c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국립박물관문화재단 이사장, 김현환 전 문체부 차관 임명",
+      "link": "https://zdnet.co.kr/view/?no=20261002141711",
+      "published": "2026-10-02T05:17:11+00:00",
+      "summary": "[지디넷코리아]국립박물관문화재단 신임 이사장에 김현환 전 문화체육관광부 제1차관이 임명됐다.문화체육관광부는 최휘영 장관이 2일 김현환 신임 국립박물관문화재단 이사장을 임명하고 임명장을 수여했다고 밝혔다. 임기는 3년이다.김 신임 이사장은 문체부에서 관광정책국장과 콘텐츠정책국장, 기획조정실장, 제1차관 등 주요 보직을 거친 문화예술 정책 전문가다.현재 한국외국어대학교 글로벌문화콘텐츠학과 초빙교수와 경희대학교 관광대학원 특임교수를 맡아 후학 양성과 강연 활동 등을 이어가고 있다.국립박물관문화재단은 문"
+    },
+    {
+      "id": "e4e704cf5d2c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔씨 '아스트라에 오라티오', 글로벌 CBT 개시",
+      "link": "https://zdnet.co.kr/view/?no=20261002140646",
+      "published": "2026-10-02T05:15:01+00:00",
+      "summary": "[지디넷코리아]엔씨 신작 신전기 마법 RPG '아스트라에 오라티오'가 글로벌 비공개 베타 테스트(CBT)를 시작하고 게임성 점검에 나섰다.엔씨(공동대표 김택진, 박병무)는 디나미스 원이 개발 중인 '아스트라에 오라티오(이하 아스오라)'의 글로벌 CBT를 모바일 플랫폼에서 진행한다고 2일 밝혔다.테스터로 선발된 참가자는 아스오라의 스토리와 전투, 캐릭터 교류 콘텐츠 등을 체험할 수 있다. 오는 6일까지 5일간 진행되는 이번 CBT에서는 '도쿄, 공무원, 그리고 마법사', '미나토구 마법사들의 반짝반"
+    },
+    {
+      "id": "3596586762e5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "문체부, 한글날 제정 100주년…전국 한글주간 행사",
+      "link": "https://zdnet.co.kr/view/?no=20261002140819",
+      "published": "2026-10-02T05:08:19+00:00",
+      "summary": "[지디넷코리아]한글날 제정 100주년을 맞아 광화문광장을 비롯한 전국 곳곳에서 한글의 지난 100년을 돌아보고 미래를 조명하는 문화행사가 펼쳐진다.문화체육관광부는 훈민정음 반포 580돌과 한글날 제정 100주년을 맞아 오는 6일부터 17일까지 ‘내 곁에 한글’을 주제로 ‘2026 한글주간’을 개최한다고 2일 밝혔다. 주요 한글 관련 단체·기관과 국어문화원, 지방자치단체 등이 참여한다.대표 행사인 2026 한글한마당-광화문은 6일부터 8일까지 서울 광화문광장에서 열린다. 뮤지컬 내 곁에, 도포를 입"
+    },
+    {
+      "id": "9194a9cfa0f9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오퍼스 5.5 ‘이것은 중요합니다’ 남발…습관 못 버린 AI 글쓰기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215890",
+      "published": "2026-10-02T05:07:01+00:00",
+      "summary": "AI 모델이 작성한 글을 구분하는 기준이 단어 단위에서 문장 구조와 습관적 구문 패턴으로 바뀌고 있다. 과거 자주 지적되던 '엠 대시(—)'나 특정 단어 남용은 크게 줄었지만, 최신 모델들도 여전히 자신만의 특유한 글쓰기 습관을 버리지 못한 것으로 나타났다.마케팅 기업 그래파이트(Graphite)는 1일(현지시간) 최신 주요 AI 모델의 글쓰기 방식을 분석, 인간이 쓴 글보다 최소 2배 이상 자주 쓰이는 AI 특유의 구문 1만3000개를 발견했다고 발표했다. 챗GPT 출시 이전 작성된 인간의 기사"
+    },
+    {
+      "id": "18756f252750",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국타이어, 타임지 선정 '2026 세계 최고의 기업'",
+      "link": "https://zdnet.co.kr/view/?no=20261002140331",
+      "published": "2026-10-02T05:03:31+00:00",
+      "summary": "[지디넷코리아]한국타이어앤테크놀로지(한국타이어)가 '2026 세계 최고의 기업'에 선정됐다.한국타이어는 미국 시사주간지 타임이 선정하는 '2026 세계 최고의 기업'에 이름을 올렸다고 2일 밝혔다.타임은 2023년부터 글로벌 시장조사기관 스태티스타와 함께 임직원 만족도, 최근 3년간 기업 성장률, ESG 주요 지표 등을 종합 평가해 매년 세계 최고의 기업 1000곳을 선정하고 있다.한국타이어는 최근 3년간 이어진 실적 성장과 지속가능경영 성과가 이번 선정에 반영됐다고 설명했다. 회사는 지난해 타이"
+    },
+    {
+      "id": "5c52fdd7c12d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "published": "2026-10-02T05:00:00+00:00",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
+    },
+    {
+      "id": "24dfee256616",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성, 갤S27 부품 양산 돌입...모델 늘지만 '리유즈'는 수익성 변수",
+      "link": "https://zdnet.co.kr/view/?no=20261002093752",
+      "published": "2026-10-02T04:59:48+00:00",
+      "summary": "[지디넷코리아]삼성전자가 내년에 출시할 갤럭시S27 시리즈 부품 양산에 돌입했다. 삼성전자가 갤럭시S27 시리즈를 기존보다 1종 많은 4종으로 구성해 부품 생산량은 늘어날 것으로 예상된다. 다만, 메모리 반도체 가격 급등으로 삼성전자가 일정 부품을 다시 사용(리유즈)하는 사례도 있기 때문에, 이는 부품협력사 수익성에 변수가 될 수 있다. 2일 한 부품업계 관계자는 \"지난달부터 갤럭시S27 시리즈 일부 부품 양산을 시작했다\"며 \"이달 중순부터 관련 부품 양산이 본격화할 것\"이라고 말했다. 시리즈 4"
+    },
+    {
+      "id": "3167a44c167a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로브로스 \"내년 상반기 휴머노이드 AI 모델 공개…제조·물류부터 공략\"",
+      "link": "https://zdnet.co.kr/view/?no=20261002133902",
+      "published": "2026-10-02T04:54:55+00:00",
+      "summary": "[지디넷코리아]휴머노이드 로봇 기업 로브로스가 내년 상반기 자체 휴머노이드 인공지능(AI) 모델을 공개한다. 범용 휴머노이드보다 제조·물류 현장에 사용할 수 있는 고성능 모델을 먼저 상용화하고, 현장에서 확보한 데이터로 적용 분야를 넓힐 계획이다.임대규 로브로스 최고AI책임자(CAIO)는 최근 지디넷코리아 인터뷰에서 \"2027년 상반기 자체 휴머노이드 AI 모델을 공개할 계획\"이라며 \"모델 자체 벤치마크 점수보다 로브로스의 휴머노이드 플랫폼 전체가 실제 산업 현장에서 작업을 끝까지 안정적으로 수행"
+    },
+    {
+      "id": "1d735a63c927",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 내부 기밀 유출 혐의로 정렬·안전팀 연구원 3명 해고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215876",
+      "published": "2026-10-02T04:06:23+00:00",
+      "summary": "오픈AI가 내부 기밀 정보를 사내 절차를 벗어나 접근·취급한 혐의로 안전·정렬 분야 연구원 3명을 해고했다. 어떤 기밀이 유출됐는지 등 정확한 사유는 공개되지 않았다.1일(현지시간) 월스트리트저널(WSJ)에 따르면, 오픈AI는 최근 임직원들에게 안전 팀에서 근무하던 자스민 왕, 토멕 코르박, 미키타 발레스니 등 연구원 3명의 해고 사실을 통보했다. 오픈AI 대변인은 공식 성명을 통해 \"민감한 회사 정보의 접근 및 취급과 관련된 내부 정책을 위반한 세 명의 직원과 결별했다\"며 \"조사 결과 이들이 확"
+    },
+    {
+      "id": "7b85d241bca4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "브록먼 오픈AI 사장, 사내 반발에 '친AI' 정치 단체 340억 추가 기부 철회",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215884",
+      "published": "2026-10-02T03:56:26+00:00",
+      "summary": "그렉 브록먼 오픈AI 사장이 친AI 정치활동위원회(Super PAC) '리딩 더 퓨처(Leading the Future)'에 약속했던 2500만달러(약 340억원) 추가 기부를 철회했다. 오픈AI 내부에서 반발이 커지고 AI 규제를 둘러싼 논란이 이어지자 추가 기부를 진행하지 않기로 한 것이다.뉴욕타임스(NYT)는 1일(현지시간) 브록먼 사장과 아내 안나가 지난해 리딩 더 퓨처에 2500만달러를 기부한 데 이어 올해 같은 금액을 추가로 기부하기로 했지만, 당초 약속과 달리 추가 기부는 이뤄지지 않"
+    },
+    {
+      "id": "f85fb733bf04",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "업스테이지 ‘솔라 프로 4’, 다음 포털 금융 서비스에 전면 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215885",
+      "published": "2026-10-02T03:45:23+00:00",
+      "summary": "업스테이지가 독자 개발한 최고 성능 인공지능(AI) 모델 ‘솔라 프로 4’를 다음 포털에 본격적으로 적용하고 있다.김성훈 업스테이지 대표는 2일 페이스북을 통해 다음 포털의 개편 소식을 발표했다.이번 개편으로 추가된 신기능은 다음 포털 내 ‘금융’ 판에서 확인할 수 있다. 해당 서비스는 실시간 국내외 금융 정보를 개요(Overview)와 지도 형태로 제공한다. 사용자가 다음 포털 계정으로 로그인할 경우 관심사나 원하는 종목을 직접 설정하는 기능도 지원한다.아울러 이슈 테마와 실시간 트렌드를 한눈에"
+    },
+    {
+      "id": "33d9dc8c7fd3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 14일 투자자 행사 개최...11월 추수감사절 전 상장 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215878",
+      "published": "2026-10-02T03:40:07+00:00",
+      "summary": "앤트로픽이 기업공개(IPO) 일정을 구체화하며 상장 준비에 속도를 내고 있다. 오는 11월 안으로 상장을 완료한다는 목표다.1일(현지시간) 블룸버그에 따르면, 앤트로픽은 오는 14일 본사가 있는 미국 샌프란시스코에서 예비 투자자들을 대상으로 투자자의 날(Investor Day) 행사를 열고 IPO를 위한 본격적인 투자자 접촉에 나설 예정이다.시장에서는 앤트로픽이 11월9일이 포함된 주부터 IPO 공식 마케팅을 시작할 가능성이 높은 것으로 보고 있다. 일정대로 진행되면 11월26일 추수감사절 연휴에"
+    },
+    {
+      "id": "74600221056a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아·소프트뱅크, 오픈AI 투자 잔여분 27조 최종 집행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215880",
+      "published": "2026-10-02T03:24:20+00:00",
+      "summary": "엔비디아와 소프트뱅크가 오픈AI에 각각 100억달러씩, 총 200억달러(약 27조원)의 추가 투자를 집행했다. 앞서 약정했던 300억달러(약 40조원) 규모 투자 가운데 잔여분을 최종 납입한 것이다.디 인포메이션에 따르면, 소프트뱅크는 1일 도쿄증권거래소 공시를 통해 오픈AI에 대한 최종 투자 집행을 완료했다고 밝혔다. 소식통에 따르면, 엔비디아도 같은 규모의 100억달러 투자를 마무리했다.이번 투자로 오픈AI가 앞서 발표한 대규모 자금 조달 라운드는 사실상 마무리됐다. 오픈AI는 지난 3월 약 "
+    },
+    {
+      "id": "2d04c947fbb5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "캘리포니아주, '불량 에이전트' 관련 오픈AI에 수사 소환장 발부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215883",
+      "published": "2026-10-02T03:16:46+00:00",
+      "summary": "미국 캘리포니아주가 AI 에이전트의 사이버 보안 사고와 관련해 오픈AI에 수사 소환장을 발부했다. AI 에이전트의 제어 불능 및 사이버 보안 위험을 문제 삼아 주 사법당국이 수사 소환장까지 발부한 첫 사례로 꼽힌다.로이터에 따르면, 롭 본타 캘리포니아주 법무장관은 1일(현지시간) 오픈AI의 AI 모델과 관련된 사이버 보안 사고와 위험을 조사하기 위해 소환장을 발부했다고 밝혔다.이번 조사는 오픈AI의 AI 에이전트가 허깅페이스의 인프라 일부에 접근한 사건을 중심으로 진행되고 있다. 캘리포니아주 법무"
+    },
+    {
+      "id": "94ab5dd23044",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "코드잇, 600명 수용 AI 오프라인 교육 공간 ‘텐엑스 강남’ 개관",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215879",
+      "published": "2026-10-02T03:07:01+00:00",
+      "summary": "AI 인재 인프라 전문 코드잇(대표 강영훈, 이윤수)이 오프라인 교육 공간 ‘텐엑스(10x) 강남’을 정식 개관했다고 2일 밝혔다.텐엑스 강남은 코드잇이 온라인에서 쌓은 교육 역량으로 처음 선보이는 오프라인 교육 공간이다. 서울 강남역 12번 출구에서 도보 2분 거리에 위치한 건물 전체를 활용, 학습자의 성장을 다각도로 지원하는 교육 허브로 운영된다. 취업 직무 교육을 비롯해 실무 스킬업 강의까지 고루 선보일 예정이다.공간은 지하 1층부터 지상 15층까지 총 16개 층으로 이뤄졌다. 600명 이상"
+    },
     {
       "id": "3eee6625840d",
       "source": "TechCrunch",
@@ -133,6 +408,17 @@
       "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "published": "2026-10-01T21:08:11+00:00",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+    },
+    {
+      "id": "e72a4b4c55b1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "published": "2026-10-01T20:14:23+00:00",
+      "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombinator.com/item?id=49926536 Points: 219 # Comments: 72"
     },
     {
       "id": "9b877108350b",
@@ -267,6 +553,17 @@
       "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
     },
     {
+      "id": "f3f78422f0eb",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "2026-10-01T19:01:31+00:00",
+      "summary": ""
+    },
+    {
       "id": "63b44b31e918",
       "source": "The Verge",
       "kind": "article",
@@ -320,6 +617,17 @@
       "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
       "published": "2026-10-01T17:12:21+00:00",
       "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta "
+    },
+    {
+      "id": "f0a9091eda5e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "published": "2026-10-01T16:57:03+00:00",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256 Comments URL: https://news.ycombinator.com/item?id=49924179 Points: 315 # Comments: 306"
     },
     {
       "id": "7abe4ab2d6ad",
@@ -487,6 +795,17 @@
       "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system."
     },
     {
+      "id": "9d6521417c9c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "published": "2026-10-01T15:07:42+00:00",
+      "summary": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/ Comments URL: https://news.ycombinator.com/item?id=49922674 Points: 207 # Comments: 32"
+    },
+    {
       "id": "ff7be17190f4",
       "source": "GitHub Blog",
       "kind": "article",
@@ -507,6 +826,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
       "published": "2026-10-01T14:36:50+00:00",
       "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6"
+    },
+    {
+      "id": "d4175f109d79",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cloudflare K2: serverless event streams",
+      "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "published": "2026-10-01T14:09:10+00:00",
+      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/ Comments URL: https://news.ycombinator.com/item?id=49921923 Points: 226 # Comments: 90"
     },
     {
       "id": "2a5543410a9d",
