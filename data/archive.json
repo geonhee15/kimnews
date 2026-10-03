@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-03T07:05:50.885121+00:00",
-  "count": 14930,
+  "updated_at": "2026-10-03T12:31:43.457497+00:00",
+  "count": 14945,
   "items": [
+    {
+      "id": "d0639cc1e9d4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "published": "2026-10-03T12:00:00+00:00",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs."
+    },
+    {
+      "id": "28a18d2eee26",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'AI 반감' 가리는 귀여운 캐릭터…메타 '뮤즈' 흥행 이끈 알렉산드르 왕",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+      "published": "2026-10-03T11:42:47+00:00",
+      "summary": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한 과제를 가벼운 이미지 뒤로 가리려는 시도라는 분석이다. 이러한 전략의 최전선에는 메타가 9월 선보인 AI 개인 비서 앱 '뮤즈(Muse)'와 이를 지휘한 Z세대 알렉산드르 왕 최고 AI책임자(CAIO)가 있다.월스트리트저널(WSJ)이 최근 소비자 1300명을 대상으로 실시한 조사에 따르면 응답자의 절반"
+    },
+    {
+      "id": "65b8a8e6d2e9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 중국의 토큰 그레이마켓...미국AI 정가 10%에 판매",
+      "link": "https://zdnet.co.kr/view/?no=20261003195105",
+      "published": "2026-10-03T10:51:05+00:00",
+      "summary": "[지디넷코리아]베이징 하이뎬구는 대학과 IT 기업이 몰린 동네다. 미국 매체 디인포메이션이 어제(2일) 전한 이야기는 이 동네의 평범한 사무용 건물 하나에서 시작한다. 입주사 30여 곳 가운데 여섯 곳이 같은 장사를 한다. 앤트로픽의 클로드를 비롯한 미국 AI 모델 사용권을 중국 고객에게 파는 일이다. 앤트로픽은 국가안보를 이유로 중국에 클로드를 팔지 않는다. 그런데도 중국에서 수요는 넘치고, 이 수요를 받아내는 업자가 수천에서 수만 곳으로 추정된다고 이 매체는 전했다.업계에서는 이 장사를 '토큰"
+    },
+    {
+      "id": "1571cc9ea17c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국 최초의 현대식 대학, 131주년의 탁월함 기념",
+      "link": "https://zdnet.co.kr/view/?no=20261003191002",
+      "published": "2026-10-03T10:10:02+00:00",
+      "summary": "[지디넷코리아]톈진, 중국 2026년 10월 3일 /PRNewswire/ -- 중국 최초의 현대식 대학인 톈진대학교가 2026년 10월 2일 개교 131주년을 맞았다. 이번 기념일은 세계가 직면한 가장 시급한 과제에 선구적인 통찰과 깊은 헌신으로 꾸준히 대응하며 글로벌 혁신과 사회 발전에 확고하게 기여해 온 톈진대학교의 오랜 전통을 조명한다. 새로운 시대를 이끌 인재 양성 개교 131주년을 맞은 톈진대학교는 미래를 내다보는 인재 양성에 대한 확고한 의지를 더욱 분명히 하고 있다. 국가 신흥 공학 "
+    },
+    {
+      "id": "e224b38a83b9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
+      "published": "2026-10-03T10:05:59+00:00",
+      "summary": "AI타임스와 이스트에이드의 10월 첫째 주(9월24일~10월1일) 이슈 분석 결과, 청주 10대 흉기 성폭행과 DMZ 폭발 관련 소식이 상위권을 차지했다.이번 주 검색량 1위를 기록한 '청주 10대 흉기 성폭행(9.71%)'은 충북 청주의 한 골목에서 일면식 없는 20대 여성을 흉기로 찌르고 성폭행을 시도한 10대가 경찰에 붙잡혀 구속된 사건이다.이 외에도 추석 연휴 동안 '추석 가정폭력 급증(2.25%)' '옥천 일가족 3명 사망(2.06%)' '남양주 별장 흉기 피습(1.89%)' 등이 잇따랐"
+    },
+    {
+      "id": "db81875965e4",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "개발자가 바나나를 만드는 방법",
+      "link": "https://www.youtube.com/shorts/0CVKKvRoInU",
+      "published": "2026-10-03T09:00:32+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f9d1bc25d607",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI시대...공공 DaaS 제도화 논의 정책토론회 6일 열려",
+      "link": "https://zdnet.co.kr/view/?no=20261003163006",
+      "published": "2026-10-03T07:30:06+00:00",
+      "summary": "[지디넷코리아]한국인공지능클라우드산업협회 산하 DaaS 지원분과위원회는 오는 6일 국회도서관 지하 1층 대강당에서 ‘AI 시대, 공공 업무환경 혁신을 위한 DaaS 제도화 전략’을 주제로 국회 정책토론회를 개최한다고 밝혔다.DaaS(Desktop as a Service·서비스형 데스크톱)는 PC 운영체제와 업무용 프로그램, 데이터 등을 개인 PC가 아닌 중앙 서버나 클라우드에 두고, 인터넷을 통해 언제 어디서나 가상 데스크톱 환경을 이용할 수 있게 제공하는 서비스를 말한다.DaaS 지원분과위원회가"
+    },
+    {
+      "id": "959c71d2d4e6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "안랩, 이용자 계정정보 보호 위한 5대 보안 수칙 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261003160058",
+      "published": "2026-10-03T07:00:58+00:00",
+      "summary": "[지디넷코리아]최근 계정정보 및 개인정보 유출 사고가 잇따르면서 유출된 정보를 악용한 계정 탈취와 피싱 등 2차 피해에 대한 우려가 커지고 있다. 이에, AI-네이티브 보안 플랫폼 기업 안랩(대표 강석균)이 계정 탈취와 피싱 등 추가 피해를 예방하기 위해 5대 이용자 계정 보호 수칙과 서비스 운영 기업이 점검해야 할 보안 수칙을 2일 발표했다.공격자는 유출된 아이디와 비밀번호를 다른 서비스에 반복적으로 대입하는 ‘크리덴셜 스터핑(Credential Stuffing)’ 공격을 시도하거나, 이름·전화"
+    },
     {
       "id": "ca678d9b41fe",
       "source": "AI타임스",
@@ -12,6 +100,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
       "published": "2026-10-03T06:03:13+00:00",
       "summary": "AI 검색 결과가 질문자, 시장, 언어, 플랫폼에 따라 다양하게 나타나면서 브랜드의 AI 검색 성과를 단순 평균 노출률로 판단하기가 어려워지고 있다. 이에 AI 검색 가시성을 단순히 '얼마나 많이 보이는가'보다 '중요한 질문에서 얼마나 정확히 설명되고 인용되는가'로 재정의하고, 고객의 질문 의도와 구매 여정에 맞춘 다단계 측정 및 실질적인 콘텐츠 보완 대책이 새로운 해법으로 제시됐다.글로벌 콘텐츠 마케팅 전문 버블쉐어(대표 이수아)의 AI 검색 가시성 솔루션 ‘비비(VIVI)’는 챗GPT, 제미나"
+    },
+    {
+      "id": "ddc0341c5b4b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "완주율 51%의 레이스…한국타이어의 세번째 녹색지옥 정복기",
+      "link": "https://zdnet.co.kr/view/?no=20261002142919",
+      "published": "2026-10-03T05:31:19+00:00",
+      "summary": "[지디넷코리아]가장 빠른 차도 끝까지 달릴 수 있다고 장담하기 어려운 24시간 내구 레이스. 사고와 기상 변화, 차량 이상 등 수많은 변수 속에서 완주율은 51%에 그쳤다. 한국컴피티션은 이 무대에서 3년 연속 완주 기록을 세웠다.3일 업계에 따르면 한국앤컴퍼니그룹은 최근 한국컴피티션 레이싱팀의 2026년 '뉘르부르크링 24시(Nürburgring 24H)' 도전기를 담은 모터스포츠 다큐멘터리 '더 퍼스트 4(THE FIRST 4)'를 공개했다.'더 퍼스트 4'는 한국앤컴퍼니그룹이 공식 후원하는 "
     },
     {
       "id": "724b8a8d2956",
@@ -31,6 +130,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "딥시크, 슈퍼 앱 형태 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
+      "published": "2026-10-03T04:58:48+00:00",
+      "summary": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness)’ v0.2 프리뷰를 출시했다.오픈AI나 앤트로픽처럼 대화와 코드 작성, 다양한 업무를 단일 인터페이스로 집약해 문서와 스프레드시트, PDF를 업로드해 내용을 정리하거나 데이터를 분석하고 차트와 슬라이드를 만드는 "
+    },
+    {
+      "id": "a3e6a319c302",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크, 데스크톱 앱 '딥시크 하네스' 출시...\"챗·코딩·문서 통합\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
       "published": "2026-10-03T04:58:48+00:00",
       "summary": "딥시크가 AI를 활용한 문서 작업과 개발을 하나의 공간에서 처리할 수 있는 데스크톱 앱을 내놓으며 채팅과 코딩, 문서 작업을 한데 모은 일종의 ‘슈퍼 앱’ 형태의 ‘AI 작업 공간’ 경쟁에 뛰어들었다.딥시크는 지난달 29일 맥OS와 윈도우용 ‘딥시크 하네스(DeepSeek Harness)’ v0.2 프리뷰를 출시했다.오픈AI나 앤트로픽처럼 대화와 코드 작성, 다양한 업무를 단일 인터페이스로 집약해 문서와 스프레드시트, PDF를 업로드해 내용을 정리하거나 데이터를 분석하고 차트와 슬라이드를 만드는 "
@@ -69,6 +179,17 @@
       "summary": "애플이 맥에서 AI 에이전트가 개인 데이터에 접근하는 과정에서 발생할 수 있는 보안과 개인정보 침해 위험을 줄이기 위해 운영체제 차원의 통제를 강화한다.애플은 2일(현지시간) 맥OS의 ‘전체 디스크 접근(Full Disk Access)’ 권한에 추가적인 제어 기능을 도입할 예정이라고 밝혔다. 이 권한을 허용하면 앱이 맥에 저장된 파일뿐 아니라 메일과 메시지, 웹 브라우징 기록 등 광범위한 데이터에 접근할 수 있다.전체 디스크 접근은 원래 백업 앱 등이 시스템 데이터를 제대로 처리할 수 있도록 마련"
     },
     {
+      "id": "1e2971db327e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, AI 에이전트 무단 접근 증가로 맥OS '전체 디스크 접근' 제어 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215938",
+      "published": "2026-10-03T03:39:36+00:00",
+      "summary": "애플이 맥에서 AI 에이전트가 개인 데이터에 접근하는 과정에서 발생할 수 있는 보안과 개인정보 침해 위험을 줄이기 위해 운영체제 차원의 통제를 강화한다.애플은 2일(현지시간) 맥OS의 ‘전체 디스크 접근(Full Disk Access)’ 권한에 추가적인 제어 기능을 도입할 예정이라고 밝혔다. 이 권한을 허용하면 앱이 맥에 저장된 파일뿐 아니라 메일과 메시지, 웹 브라우징 기록 등 광범위한 데이터에 접근할 수 있다.전체 디스크 접근은 원래 백업 앱 등이 시스템 데이터를 제대로 처리할 수 있도록 마련"
+    },
+    {
       "id": "15336897df14",
       "source": "AI타임스",
       "kind": "article",
@@ -97,6 +218,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "회계 업무서 AI '100%’ vs 인간 '37%'...역전 18개월 만에 '완벽' 단계로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215935",
+      "published": "2026-10-03T01:47:06+00:00",
+      "summary": "최첨단 AI 모델이 월말 결산과 같은 세부 회계 업무를 '100%'에 가깝게 완수하며 사실상 '완벽' 단계에 들어섰다는 연구 결과가 나왔다. 다만 연구진은 이번 결과를 단순히 '인간 직무 대체'로 해석하기보다, 인간이 시간·비용의 한계로 하지 못했던 정교한 대량 작업을 AI가 어떻게 해내는가로 벤치마크의 평가 패러다임이 이동하고 있음을 보여주는 핵심 사례로 조명했다.데이터 분석 전문 머코어(Mercor)가 1일(현지시간) 발표한 평가 결과에 따르면, 앤트로픽의 '클로드 오퍼스 5'는 실제와 유사한"
+    },
+    {
+      "id": "f6267e974adc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "회계 업무서 AI '완벽' 단계 도달…인간 '37%' 역전",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215935",
       "published": "2026-10-03T01:47:06+00:00",
       "summary": "최첨단 AI 모델이 월말 결산과 같은 세부 회계 업무를 '100%'에 가깝게 완수하며 사실상 '완벽' 단계에 들어섰다는 연구 결과가 나왔다. 다만 연구진은 이번 결과를 단순히 '인간 직무 대체'로 해석하기보다, 인간이 시간·비용의 한계로 하지 못했던 정교한 대량 작업을 AI가 어떻게 해내는가로 벤치마크의 평가 패러다임이 이동하고 있음을 보여주는 핵심 사례로 조명했다.데이터 분석 전문 머코어(Mercor)가 1일(현지시간) 발표한 평가 결과에 따르면, 앤트로픽의 '클로드 오퍼스 5'는 실제와 유사한"
@@ -432,6 +564,28 @@
       "summary": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say."
     },
     {
+      "id": "daac4c88eda4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "published": "2026-10-02T19:37:01+00:00",
+      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 218 # Comments: 145"
+    },
+    {
+      "id": "319bbbccd45c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "published": "2026-10-02T19:26:54+00:00",
+      "summary": "Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 205 # Comments: 92"
+    },
+    {
       "id": "92e5089a282f",
       "source": "Hacker News",
       "kind": "article",
@@ -628,6 +782,17 @@
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "published": "2026-10-02T14:30:00+00:00",
       "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off."
+    },
+    {
+      "id": "a3a93772292e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "published": "2026-10-02T14:22:12+00:00",
+      "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html Comments URL: https://news.ycombinator.com/item?id=49933869 Points: 235 # Comments: 155"
     },
     {
       "id": "5af8b0e950fc",
