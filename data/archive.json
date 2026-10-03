@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-03T16:44:36.003023+00:00",
-  "count": 14961,
+  "updated_at": "2026-10-03T19:28:32.052454+00:00",
+  "count": 14965,
   "items": [
+    {
+      "id": "cb1d54a3ad58",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "published": "2026-10-03T18:00:00+00:00",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception."
+    },
+    {
+      "id": "ccf8a2b6a213",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "published": "2026-10-03T16:49:10+00:00",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, "
+    },
     {
       "id": "5d01df3b349e",
       "source": "TechCrunch",
@@ -232,6 +254,17 @@
       "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
       "published": "2026-10-03T09:36:04+00:00",
       "summary": "Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/ Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 205 # Comments: 35"
+    },
+    {
+      "id": "69c4293847e7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "published": "2026-10-03T09:36:04+00:00",
+      "summary": "https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 323 # Comments: 235"
     },
     {
       "id": "db81875965e4",
@@ -837,6 +870,17 @@
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "published": "2026-10-02T17:32:05+00:00",
       "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second."
+    },
+    {
+      "id": "3ec2b603daf2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This startup pays NYC residents to run air conditioners on free batteries",
+      "link": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "published": "2026-10-02T17:20:21+00:00",
+      "summary": "Bonus: Every Electric’s batteries are beloved by household cats."
     },
     {
       "id": "2674efcc19c4",
