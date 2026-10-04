@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-10-04T13:29:50.599361+00:00",
-  "count": 15020,
+  "updated_at": "2026-10-04T17:45:53.092607+00:00",
+  "count": 15028,
   "items": [
+    {
+      "id": "e0c5f67c70e2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "published": "2026-10-04T16:16:04+00:00",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But h"
+    },
+    {
+      "id": "0109132151a1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "published": "2026-10-04T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "e34e5bca2589",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "published": "2026-10-04T15:21:59+00:00",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, G"
+    },
+    {
+      "id": "ec1325ce7013",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "published": "2026-10-04T15:15:10+00:00",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety."
+    },
+    {
+      "id": "ca122a31140b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로보파티, IROS에서 고성능 풀스택 오픈소스 휴머노이드 로봇 RP1 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261004221002",
+      "published": "2026-10-04T13:10:02+00:00",
+      "summary": "[지디넷코리아]피츠버그, 2026년 10월 4일 /PRNewswire/ -- 로보파티가 2026년 9월 28일 IROS 2026에서 RP1(ROBOTO 01)을 공개하며 글로벌 데뷔를 알렸다. 2026년 1월 출시하여 GitHub에서 2500개 이상의 스타를 확보한 완전 오픈소스 휴머노이드 프로젝트 RPO(ROBOTO ORIGIN)를 기반으로, 로보파티는 RP1을 연구자, 교육자, 로봇 개발자 및 체화된 AI 팀을 위해 설계된 세계 최초의 고성능 풀스택 오픈소스 이족 보행 휴머노이드 로봇으로 내세"
+    },
     {
       "id": "3531aa1ce47f",
       "source": "The Verge",
@@ -12,6 +67,17 @@
       "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
       "published": "2026-10-04T13:00:00+00:00",
       "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live trans"
+    },
+    {
+      "id": "8d57b7a26e52",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "published": "2026-10-04T12:51:53+00:00",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 320 # Comments: 174"
     },
     {
       "id": "412ebf555bed",
@@ -311,6 +377,17 @@
       "summary": "[지디넷코리아]SaaS 메일협업·메일보안 전문기업 크리니티(대표 유병선)가 6일부터 8일까지 서울 코엑스 C홀에서 열리는 ‘인공지능 페스타 2026(AI FESTA 26)’에 참가해 기업메일 중심 AI Work OS '써팀(SirTEAM)'을 선보이며 데이터 플랫폼 기업으로의 전환 전략을 제시했다.'AI 페스타 26'은 과학기술정보통신부 인공지능주간의 대표 행사다. AI 기술의 실제 산업 적용 사례를 공유한다. 크리니티는 이번 행사에서 조직의 업무 데이터를 연결하고, 축적된 정보를 AI가 활용하는"
     },
     {
+      "id": "cbea760980a9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "published": "2026-10-04T04:10:47+00:00",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 236 # Comments: 238"
+    },
+    {
       "id": "e5eb6a65b491",
       "source": "AI타임스",
       "kind": "article",
@@ -518,6 +595,17 @@
       "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
       "published": "2026-10-03T22:07:13+00:00",
       "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 295 # Comments: 191"
+    },
+    {
+      "id": "cd520ee6d4e6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "published": "2026-10-03T20:49:15+00:00",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 208 # Comments: 88"
     },
     {
       "id": "04ac2e5a73ad",
