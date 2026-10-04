@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-10-04T20:47:19.642756+00:00",
-  "count": 15031,
+  "updated_at": "2026-10-04T23:47:06.114356+00:00",
+  "count": 15037,
   "items": [
+    {
+      "id": "ce54621e637a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "6G 코어망에 AI 어떻게 넣나...표준 설계부터 갑론을박",
+      "link": "https://zdnet.co.kr/view/?no=20261004151505",
+      "published": "2026-10-04T22:00:01+00:00",
+      "summary": "[지디넷코리아]6G 코어망에 AI를 어떻게 넣을지를 두고 글로벌 통신업계의 의견이 엇갈리고 있다. 기존 5G 단독모드(SA) 코어망을 활용하면서 AI 기능을 추가하는 방식부터 AI 에이전트를 중심으로 코어망을 대폭 재설계하는 방안까지 제시됐다. 이미 5G SA에 막대한 비용을 투입한 통신사들은 투자 보호와 점진적인 전환을 요구하고 있어 기술적 이상과 상업적 현실 사이에서 표준화 진통이 예상된다.시장조사업체 옴디아는 최근 3GPP에서 진행 중인 6G 코어망 논의를 분석해 AI 구현 방식에 따라 크게"
+    },
+    {
+      "id": "0b8dd32c3aab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "사람은 내리고 AI는 올린다…뒤집히는 통신망 공식",
+      "link": "https://zdnet.co.kr/view/?no=20261004150224",
+      "published": "2026-10-04T21:30:01+00:00",
+      "summary": "[지디넷코리아]로봇과 드론, AI 안경 등 피지컬AI 확산이 통신망의 데이터 흐름을 바꿀 것으로 예상된다. 사람이 스마트폰으로 영상과 게임을 내려받는 데 집중했던 것과 달리 AI 기기는 카메라와 센서로 수집한 데이터를 끊임없이 망으로 올려보내기 때문이다.RCR와이어리스에 따르면 아닐 군투팔리 버라이즌 기술제품개발수석부사장은 인텔리전트 RAN 포럼에서 센서와 웨어러블, 기계, 로봇, 드론 등 피지컬 AI가 만들어낼 데이터 증가를 거론하며 통신망의 업링크 역량 강화를 강조했다.군투팔리 수석부사장은 “"
+    },
+    {
+      "id": "ed173c35415a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new Fitbit Edge leaks",
+      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "published": "2026-10-04T21:02:09+00:00",
+      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference b"
+    },
+    {
+      "id": "989d0c7a9363",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷플릭스 라이브 딜레마...\"투자 비중 5%인데 시청시간은 1%”",
+      "link": "https://zdnet.co.kr/view/?no=20261004144141",
+      "published": "2026-10-04T21:00:02+00:00",
+      "summary": "[지디넷코리아]넷플릭스가 라이브 콘텐츠에 연간 콘텐츠 예산의 약 5%를 투입했는데 실제 시청시간에서 차지하는 비중은 1% 수준으로 나타났다. 넷플릭스는 라이브 콘텐츠가 전체 시청시간을 끌어올리는 데는 아직 한계가 있으나 신규 가입자 유치와 가입자 유지, 광고 사업에서는 다른 역할을 하고 있다고 판단하고 있다.블룸버그와 버라이어티 등에 따르면 테드 사란도스 넷플릭스 최고경영자(CEO)는 미국 로스앤젤레스에서 열린 ‘블룸버그 스크린타임’ 행사에서 올해 넷플릭스의 이용자 참여도 성장세와 라이브 콘텐츠 "
+    },
     {
       "id": "e0406c3815e8",
       "source": "TechCrunch",
@@ -23,6 +67,28 @@
       "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "published": "2026-10-04T20:08:34+00:00",
       "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+    },
+    {
+      "id": "96234dae2e5b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "link": "https://github.com/omlahore/RemoveMacAI",
+      "published": "2026-10-04T19:42:25+00:00",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 285 # Comments: 169"
+    },
+    {
+      "id": "8fc65f097815",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "소니, 메타에 XR 특허 418건 양도...하드웨어 사업 축소 수순",
+      "link": "https://zdnet.co.kr/view/?no=20261005032140",
+      "published": "2026-10-04T18:41:33+00:00",
+      "summary": "[지디넷코리아]소니가 메타에 확장현실(XR) 특허 418건을 양도했다. 소니는 XR 하드웨어 사업을 축소하려는 의도로 보인다. 메타는 XR 특허 포트폴리오를 보강했다. 5일 미국 특허상표청에 따르면 소니는 지난 6~9월 미국 XR 특허 43건을 메타에 양도했다. 월별로 ▲6월 2건 ▲7월 20건 ▲9월 21건 등을 차례로 이전했다. 특허 43건은 가상현실(VR)과 증강현실(AR), 혼합현실(MR) 등 XR, 그리고 헤드 마운티드 디스플레이(HMD) 시스템 관련 기술이다. 현재까지 미국 특허상표청 "
     },
     {
       "id": "e0c5f67c70e2",
