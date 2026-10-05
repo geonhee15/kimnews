@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-10-05T03:36:59.872576+00:00",
-  "count": 15055,
+  "updated_at": "2026-10-05T10:51:32.008782+00:00",
+  "count": 15077,
   "items": [
+    {
+      "id": "2c6bbe6784b1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215977",
+      "published": "2026-10-05T10:48:15+00:00",
+      "summary": "뇌-컴퓨터 인터페이스(BCI) 전문 뉴럴링크가 레이블이 지정되지 않은 5만시간 분량의 원시 신경 데이터로 디코딩 AI 모델을 사전학습하는 데 성공했다. 자연어 처리와 컴퓨터 비전 분야를 혁신했던 대규모 자기지도 학습 방식을 BCI 디코딩 체계에 본격 도입한 것으로 평가받는다.뉴럴링크는 1일(현지시간) 자사의 BCI 플랫폼을 뒷받침하는 AI 훈련 기술 방식의 연구 업데이트를 공개했다. 그동안 공개된 BCI 디코딩 모델 중 최대 규모인 5만 시간 분량의 신경 기록을 활용해 파운데이션 모델 방식의 사전"
+    },
+    {
+      "id": "53a30e79e7b5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - Gemini 4 Argon, DevDay, Tavus 영상 튜링테스트 통과, Eleven V4, ideogram 4.5, Kling 4.0 등",
+      "link": "https://www.youtube.com/watch?v=bdp9Crdw0hw",
+      "published": "2026-10-05T10:30:22+00:00",
+      "summary": ""
+    },
+    {
+      "id": "241f633bb016",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'인간 vs 로봇' 케이지 파이트, 캘리포니아서 ‘중단 명령’ 받았다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215975",
+      "published": "2026-10-05T10:19:04+00:00",
+      "summary": "미국의 로봇 스타트업 REK가 샌프란시스코에서 추진한 인간과 휴머노이드 로봇 간의 케이지 파이트 경기를 두고 캘리포니아주 규제 당국의 제재가 내려졌다.4일(현지시간) 톰스하드웨어에 따르면, 캘리포니아주 체육위원회(CSAC)는 최근 REK와 창립자 겸 CEO인 시크스 리브에게 허가받지 않은 인간 대 로봇 대결의 개최와 홍보, 후원을 즉각 중단하라는 내용을 담은 '활동 중지 명령서'를 발송했다.CSAC는 주정부의 사전 승인이나 라이선스 없이 이러한 격투 이벤트를 조직할 경우 비즈니스 및 전문직 법률 "
+    },
+    {
+      "id": "9f253b06bb90",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "a16z \"미국 가구 2.2%만 AI 유료 구독…기술이 경기 순환 핵심 주도\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215973",
+      "published": "2026-10-05T09:58:47+00:00",
+      "summary": "벤처캐피털(VC) 앤드리슨 호로위츠(a16z)가 최근 상반기 시장 흐름을 100개 이상의 차트로 정리한 보고서 '시장 현황(State of Markets II)'를 공개했다. 이번 보고에서는 AI 기술의 광범위한 침투 속에서도 실제 유료 활용의 깊이는 여전히 초기 수준에 머물러 있으며, 거시 경제의 중심축이 소프트웨어에서 하드웨어와 인프라로 이동하고 있다는 점이 집중 조명됐다.a16z의 데이비드 조지 파트너가 주도해 작성한 이번 보고서에서 소비자 측면의 가장 눈에 띄는 숫자는 AI 유료 구독 가구"
+    },
+    {
+      "id": "abd32f03ab22",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Billion Dollar AI Advantage Is Disappearing",
+      "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "published": "2026-10-05T09:53:12+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1d4906922dea",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPT-6 아스트라, 217년 된 나폴레옹 암호 6시간 만에 해독",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215961",
+      "published": "2026-10-05T09:00:44+00:00",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 217년 동안 풀리지 않았던 나폴레옹 시대의 군사 암호를 한 장의 이미지와 한 번의 프롬프트만으로 단 6시간 만에 해독했다. 사이버보안 기업 센티넬원의 엔지니어 카터 처치는 최근 아스트라를 이용해 크립티아나(Cryptiana)의 ‘미해결 역사 암호’ 목록에 수십 년간 남아 있던 암호문을 풀었다고 밝혔다.이 암호문은 1809년 나폴레옹 전쟁 당시 프랑스군이 사용한 것으로, 나폴레옹의 의붓아들이자 이탈리아 부왕이었던 외젠 드 보아르네의 본부에서 프랑스 장군 오귀스트"
+    },
+    {
+      "id": "42533d849350",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MIT·사카나, 자가 진화 AI 에이전트 'SIFT' 발표...'검증 비용 병목' 해결",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215967",
+      "published": "2026-10-05T08:33:42+00:00",
+      "summary": "AI 에이전트가 스스로 문제 해결 방식을 개선하는 ‘재귀적 자기개선(RSI)’ 연구가 활발하지만, 수많은 변종 후보를 일일이 검증하는 데 막대한 비용과 시간이 들어 실용화의 걸림돌이 돼 왔다. 이러한 ‘검증 비용 병목(Evaluation Bottleneck)’을 대폭 줄여 에이전트 자가 진화의 실현 가능성을 끌어올린 새로운 기술이 등장했다.MIT와 사카나 AI 연구진은 최근 코딩 에이전트가 스스로 자신의 지침과 도구, 코드를 수정하면서 더 나은 버전을 찾아갈 수 있도록 하는 새로운 프레임워크 ‘S"
+    },
+    {
+      "id": "0d0d72a6beaa",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published": "2026-10-05T08:00:00+00:00",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a se"
+    },
+    {
+      "id": "07606ffb496b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, 11조 규모 AI 칩 투자자에 매각 후 리스…재무 부담 낮춘다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215966",
+      "published": "2026-10-05T07:38:20+00:00",
+      "summary": "아마존이 80억달러(약 11조원) 규모의 엔비디아 최신 AI 칩을 외부 투자자에게 넘기고 다시 임대하는 방식으로 자금을 조달하는 방안을 추진하고 있다. 대규모 AI 데이터센터 투자에 필요한 자산을 별도 법인으로 이전해 재무 부담을 낮추려는 움직임이다.2일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 몇 주 동안 자산운용사 및 기관 투자자들과 접촉해 해당 구조의 거래 가능성을 타진하고 있다.계획대로 진행되면 미국 내 주요 데이터센터에 배치하고 있는 수천개의 엔비디아 '그레이스 블랙웰' 칩을 특"
+    },
+    {
+      "id": "559e4e2ee5dd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215972",
+      "published": "2026-10-05T07:22:36+00:00",
+      "summary": "구글이 AI가 자동으로 작성한 부정확한 버그 제보가 급증하자 오픈소스 소프트웨어 취약점 보상 프로그램의 일부를 일시 중단했다. 실제 보안 취약점을 찾는 데 투입될 인력이 무더기로 들어오는 엉터리 제보를 검증하는 데 소모되면서 프로그램 운영에 부담이 커졌기 때문이다.구글은 1일(현지시간)부터 ‘오픈소스 소프트웨어 취약점 보상 프로그램(OSS VRP)’에서 제품 취약점 제보 접수를 일시 중단한다고 발표했다. 구글 보안 팀은 공식 블로그를 통해 “자동화된 제보가 크게 늘었으며, 그중 대부분이 유효하지 "
+    },
+    {
+      "id": "139a3b0c89fb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[최경진 未來法道] AI가 바꾼 것은 속도, 기본이 아니다",
+      "link": "https://zdnet.co.kr/view/?no=20261005161931",
+      "published": "2026-10-05T07:19:31+00:00",
+      "summary": "[지디넷코리아]은행이 뚫렸다. 한두 곳이 아니다. 지난 9월 말부터 은행과 저축은행, 캐피탈사를 가리지 않고 개인정보 유출이 잇따라 확인됐고, 공격 시도를 받은 곳은 그보다 많다. 공공부문 유출 사고도 끊이지 않아 정부는 기관장에게까지 책임을 묻는 대책을 내놓았다. 대통령은 지난달 보안을 국가안보 관점에서 다뤄야 한다고 강조한 데 이어, 이번에도 철저한 조사와 대책 마련을 지시했다.방향은 옳다. 데이터 유출과 정보시스템 침입은 보안사고이자 개인정보 침해이고, 동시에 국가안보 문제다. 데이터가 개인"
+    },
+    {
+      "id": "bda5cd2ea64c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "챗GPT서 옷 입어보고 쇼핑한다... 오픈AI, '가상 착용' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215969",
+      "published": "2026-10-05T07:10:56+00:00",
+      "summary": "'챗GPT'에 온라인 쇼핑 과정에서 상품을 찾는 것을 넘어 실제로 입어본 모습을 확인하고 마음에 드는 상품을 저장할 수 있는 기능이 추가됐다. 오픈AI는 1일(현지시간) 챗GPT에 의류와 액세서리를 가상으로 착용해 볼 수 있는 ‘가상 착용(Try On)’ 기능과 관심 상품을 저장할 수 있는 ‘즐겨찾기(Favorites)’ 기능을 전 세계에 출시했다고 밝혔다. 웹은 물론 챗GPT 모바일 앱에서도 제공된다.가상 착용 기능은 챗GPT 쇼핑 결과에 표시되는 트라이 온 버튼을 누른 뒤 셀카나 전신 사진을 "
+    },
+    {
+      "id": "4c9b6168dce4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "리사 수 AMD CEO, 7일 '게이머 데이' 참석차 방한",
+      "link": "https://zdnet.co.kr/view/?no=20261005154802",
+      "published": "2026-10-05T06:49:39+00:00",
+      "summary": "[지디넷코리아]리사 수 AMD 최고경영자(CEO)가 오는 7일 한국을 찾는다. 지난 3월 이후 약 7개월만이며 서울 용산 드래곤시티호텔에서 열리는 'AMD 게이머 데이' 행사에 참석할 예정이다.리사 수 CEO는 2014년 취임 이후 12년 만인 지난 3월 하순 처음으로 한국을 공식 방문했다. 당시 국내 고객사와 협력사, 스타트업, 정부 관계자 등 다양한 이해관계자들과 만나 협력 방안을 논의했다.당시 최수연 네이버 대표, 전영현 삼성전자 DS부문장, 이재용 삼성전자 회장, 김성훈 업스테이지 대표, "
+    },
+    {
+      "id": "fcb58c5a7765",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215971",
+      "published": "2026-10-05T06:38:48+00:00",
+      "summary": "반도체 기업 브로드컴이 앤트로픽의 대규모 컴퓨팅 인프라 구축을 지원하기 위해 최대 600억달러(약 80조원) 규모의 자금 조달에 나선다. AI 칩과 서버에 대한 금융 지원을 통해 칩 판매를 늘리는 동시에 고객사의 컴퓨팅 수요를 뒷받침하는 구조다.2일(현지시간) 블룸버그에 따르면, 뱅크오브아메리카, 씨티그룹, 모건스탠리 등으로 구성된 브로드컴 주간 은행단은 420억달러(약 56조원) 규모의 선순위 담보 대출 상품을 구성해 시장의 여러 투자자에게 배분하는 작업에 착수했다.브로드컴은 이 자금에 대해 잔"
+    },
+    {
+      "id": "0380f1bee38e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"전직 미국 관료 사칭\"…중국 해커, AI 정책 전문가 계정 노렸다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215963",
+      "published": "2026-10-05T06:20:52+00:00",
+      "summary": "중국과 연계된 해커들이 전직 미국 정부 관료와 AI 전문가를 사칭해 미국의 AI 정책 전문가들을 노린 피싱 공격을 벌이고 있는 것으로 나타났다. 사이버보안 기업 프루프포인트(Proofpoint)는 1일(현지시간) 중국 해커들이 미국의 싱크탱크와 대학, 로펌 등에 소속된 AI 정책 전문가의 계정 정보를 훔치려 했다고 밝혔다.TA419(일명 '머스탱 판다')라는 이 그룹은 2025년 4월부터 미국과 일본의 싱크탱크, 방산업체, 대학, 로펌 관계자를 대상으로 자격 증명 탈취 공격을 반복해 왔다. 공격 "
+    },
+    {
+      "id": "5dc29d96dcb2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "네덜란드 대형 안경 체인, 몰래 촬영 우려로 메타 스마트 안경 판매 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215962",
+      "published": "2026-10-05T06:09:06+00:00",
+      "summary": "네덜란드 대형 안경 체인 한스 안데르스(Hans Anders)가 개인정보 보호 논란이 커지자, 메타의 레이밴 스마트 안경 판매를 네덜란드와 벨기에에서 중단했다. 한스 안데르스의 모회사 넥사이(Nexeye)는 2일(현지시간) “스마트 안경을 둘러싼 지속적인 대중적·정치적 논의와 이 기술을 어떤 조건에서 사용할 수 있는지를 둘러싼 의문이 제기되고 있다”며 “논의와 후속 결정이 나올 때까지 제품을 다시 판매할지, 판매한다면 어떤 방식으로 할지 판단을 보류한다”고 밝혔다.논란은 공공장소에서 메타 안경을 "
+    },
+    {
+      "id": "57c4ad92fe42",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 'AI 페스타 26' 개막…국감·삼성전자 실적도 주목",
+      "link": "https://zdnet.co.kr/view/?no=20261005111000",
+      "published": "2026-10-05T04:01:24+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]과학기술정보통신부가 주최하는 공식 인공지능 주간 행사 'AI 페스타 26("
+    },
+    {
+      "id": "d8eab0452f71",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review "
+    },
+    {
+      "id": "6d50dfd02b53",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글, 英서 2조원 집단소송…플레이스토어 ‘과다 수수료 공방’",
+      "link": "https://zdnet.co.kr/view/?no=20261005105606",
+      "published": "2026-10-05T03:14:51+00:00",
+      "summary": "[지디넷코리아]구글이 영국에서 안드로이드 스마트폰 이용자 수백만 명에게 10년 넘게 앱 다운로드 비용을 과도하게 부과했다는 주장과 관련해 12억 파운드(약 2조 1336억원) 규모의 소송에 대응할 준비를 하고 있다.4일(현지시간) 파이낸셜타임스 등 외신에 따르면 막판 합의가 이뤄지지 않는다면 구글을 상대로 한 집단소송 재판은 이번 주 런던에서 시작돼 7주간 진행될 예정이다.이번 소송은 아부다비 국부펀드 무바달라의 지원을 받는 포트리스 인베스트먼트 그룹이 소송 비용을 지원한다.반독점 소송에서 원고 "
+    },
+    {
+      "id": "b3aa6f42ab21",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부, 4.7조 '프론티어 AI' 12월 공모…내년 2월 출자 대상 뽑는다",
+      "link": "https://zdnet.co.kr/view/?no=20261002195243",
+      "published": "2026-10-05T03:05:02+00:00",
+      "summary": "[지디넷코리아]정부가 '독자 AI 파운데이션 모델(독파모)' 프로젝트와 별도로 추진되는 프론티어 인공지능(AI) 개발 사업을 연내 본격화한다. 내년도 예산안이 국회를 통과하는 즉시 프론티어 AI 공모에 나서고 독파모 3차수 평가가 완료되는 내년 2월경 출자 대상을 선정한다는 계획이다.독파모 사업 마지막 해인 2027년에는 기존 독파모 개발을 당초 계획대로 이어가 예정된 지원 절차를 마무리 짓는다. 동시에 프론티어급 AI 모델 개발을 위한 별도 사업을 추가하는 '투트랙'으로 간다.류제명 과학기술정보"
+    },
     {
       "id": "cac51e4ae87c",
       "source": "ZDNet Korea",
@@ -56,6 +276,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261005104154",
       "published": "2026-10-05T02:00:02+00:00",
       "summary": "[지디넷코리아]LG유플러스는 글로벌 구독 플랫폼 기업 뱅고(Bango)와 협력해 해외 AI·콘텐츠 서비스 도입을 확대한다고 6일 밝혔다.협력으로 LG유플러스는 오는 11월 영상 편집 AI 서비스를 시작으로 생성형, 생산성, 크리에이티브 AI 등 서비스를 자사 구독 플랫폼 ‘유독’에 선보일 계획이다.LG유플러스는 최근 AI 활용 확산에 따라 한국 가입자가 해외 사이트를 직접 찾거나 결제할 필요 없이 다양한 서비스를 편리하게 이용할 수 있도록 포트폴리오를 강화하고 있다.양사는 이를 위해 뱅고 글로벌 "
+    },
+    {
+      "id": "8ed4b697f28b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "published": "2026-10-05T01:54:08+00:00",
+      "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 213 # Comments: 184"
     },
     {
       "id": "559659212445",
@@ -2355,6 +2586,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215896",
       "published": "2026-10-02T06:47:16+00:00",
       "summary": "오픈AI가 자사 AI 에이전트의 비정상적인 활동이 확인된 제3자 조직 100곳 이상에 관련 사실을 통보했다. 에이전트의 통제 실패와 무단 데이터 수집 정황이 꼬리를 물고 터져 나오면서, 전체 피해 규모와 파장이 어디까지 확대될지 가늠조차 하기 힘든 상황이다.오픈AI는 9월26일 집계 기준 내부 가이드라인상 통지 대상에 해당하는 비정상 활동을 포착하고, 영향권에 있는 100여개 조직에 관련 내용을 통보했다고 밝혔다.다만 이번 통보가 해당 조직의 시스템이 실제로 침해됐거나 개인정보가 유출됐음을 의미하"
+    },
+    {
+      "id": "3dd0a4a739fe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "link": "https://niklasroy.com/gtc/",
+      "published": "2026-10-02T06:33:06+00:00",
+      "summary": "This is a functional 30-minute pendulum clock entirely from discarded materials—cardboard, zip ties, tape, a yardstick, and a paperclip escapement, built in the German Eldorado of precision watchmaking: Glashütte. It also acts as a reference clock for GTC, a new satirical univers"
     },
     {
       "id": "5caa5e9833bf",
