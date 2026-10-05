@@ -1,7 +1,348 @@
 {
-  "updated_at": "2026-10-05T10:51:32.008782+00:00",
-  "count": 15077,
+  "updated_at": "2026-10-05T19:28:46.062907+00:00",
+  "count": 15117,
   "items": [
+    {
+      "id": "e5bc1145522b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "published": "2026-10-05T19:05:19+00:00",
+      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes "
+    },
+    {
+      "id": "cff99755f1de",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "published": "2026-10-05T18:54:30+00:00",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take "
+    },
+    {
+      "id": "c98f7fcd9bd0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+      "link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+      "published": "2026-10-05T18:41:48+00:00",
+      "summary": "There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US would effectively spell the end of their businesses. Hyundai"
+    },
+    {
+      "id": "b341e34355de",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "published": "2026-10-05T18:29:00+00:00",
+      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
+    },
+    {
+      "id": "679c92771700",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "published": "2026-10-05T18:08:39+00:00",
+      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the"
+    },
+    {
+      "id": "ef2570a88d2a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "published": "2026-10-05T18:07:07+00:00",
+      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf."
+    },
+    {
+      "id": "27c13fe0f5ce",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "published": "2026-10-05T17:29:22+00:00",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
+    },
+    {
+      "id": "6f8d37e8ee59",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+      "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "published": "2026-10-05T17:26:44+00:00",
+      "summary": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI."
+    },
+    {
+      "id": "bd4541896e29",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "published": "2026-10-05T16:55:42+00:00",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying s"
+    },
+    {
+      "id": "9fc6544ecb7b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "published": "2026-10-05T16:44:21+00:00",
+      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders"
+    },
+    {
+      "id": "14a08ba07ad6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "published": "2026-10-05T16:43:35+00:00",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
+    },
+    {
+      "id": "201585782ba2",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "published": "2026-10-05T15:59:40+00:00",
+      "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub "
+    },
+    {
+      "id": "52d7bcb886bd",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "published": "2026-10-05T15:47:52+00:00",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this"
+    },
+    {
+      "id": "373d3d6282eb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+      "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
+      "published": "2026-10-05T15:43:13+00:00",
+      "summary": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded Tegra X1+ processor, 3GB of RA"
+    },
+    {
+      "id": "92503af14a2d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "published": "2026-10-05T15:14:24+00:00",
+      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now."
+    },
+    {
+      "id": "987deae5f2b6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new M6 Mac Mini is over $100 off",
+      "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
+      "published": "2026-10-05T15:08:31+00:00",
+      "summary": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition starts at $899 — except for right now. You can grab the base model that has 256GB of storage, 16GB "
+    },
+    {
+      "id": "cad9894f8a65",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "published": "2026-10-05T15:00:00+00:00",
+      "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco."
+    },
+    {
+      "id": "909e3ff1edfa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "published": "2026-10-05T15:00:00+00:00",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off."
+    },
+    {
+      "id": "de97868a805f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "published": "2026-10-05T14:35:09+00:00",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap."
+    },
+    {
+      "id": "d6da84ab4d44",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "published": "2026-10-05T14:30:00+00:00",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything "
+    },
+    {
+      "id": "11b9c6e31151",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘과 서호주대학교, 호주의 양자 역량 강화를 위한 파트너십 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261005231013",
+      "published": "2026-10-05T14:10:13+00:00",
+      "summary": "[지디넷코리아] 퀀티넘(Quantinuum)과 서호주대학교(The University of Western Australia, UWA), 하이브리드 양자-AI-HPC 컴퓨팅 시대에 대비해 호주의 인력과 혁신 생태계 구축을 지원하기 위한 양해각서(MOU) 체결 퀀티넘, UWA 소속 연구원과 학생, 기업가에게 세계에서 가장 정확도가 높은 상용 양자컴퓨터인 Helios¹를 포함한 자사의 풀스택 양자컴퓨팅 생태계 이용 기회 제공 이번 협력으로 핵심 광물, 에너지, 농업, 보건의료 등 호주 경제의 핵심 분야"
+    },
+    {
+      "id": "0e93703689aa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자, 북미서 5GW 대형 AIDC 칠러 장기 공급계약",
+      "link": "https://zdnet.co.kr/view/?no=20261005230637",
+      "published": "2026-10-05T14:10:11+00:00",
+      "summary": "[지디넷코리아]LG전자가 세계 최대 인공지능 데이터센터(AIDC) 시장 북미에서 대규모 냉각 솔루션 장기 공급계약을 성사시키며 글로벌 공조·냉각 시장에서 압도적 입지를 입증했다.LG전자 미국법인은 북미 대형 인프라 플랫폼 기업 '에어 컨트롤 콘셉트(AIR Control Concept, 이하 에어)'와 AIDC용 칠러(Chiller) 장기 공급계약(LTA)을 체결했다고 5일 밝혔다. 이번 계약으로 LG전자는 총 5기가와트(GW) 규모 AIDC 열 관리 고효율 칠러 등 냉각 솔루션을 순차 공급한다. "
+    },
+    {
+      "id": "af69fc74fcc4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아세안+3 경제, 기초여건 강화와 금융통합 심화를 통해 대외 충격에 대응하고 있어",
+      "link": "https://zdnet.co.kr/view/?no=20261005231002",
+      "published": "2026-10-05T14:10:02+00:00",
+      "summary": "[지디넷코리아] 싱가포르, 2026년 10월 5일 /PRNewswire/ -- AMRO는 오늘 「2026년 아세안+3 금융안정보고서(ASEAN+3 Financial Stability Report, AFSR)」와 「아세안+3 지역경제전망(ASEAN+3 Regional Economic Outlook, AREO) 10월 업데이트」를 발표했다. 두 보고서는 중동발 에너지 충격에도 불구하고, 강한 AI 관련 수출과 투자에 힘입어 역내 경제가 견조한 성과를 보이고 있음을 강조했다. 경제성장률은 2026년과 "
+    },
+    {
+      "id": "5fc2b7e7b11a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[보안칼럼] 공급망 보안, SBOM, 기업 보안, SW 보안",
+      "link": "https://zdnet.co.kr/view/?no=20261005225828",
+      "published": "2026-10-05T13:58:28+00:00",
+      "summary": "[지디넷코리아]1년 정도 된 것 같다. 정부기관의 소프트웨어 공급망 보안 담당자와 이야기를 나눈 적이 있는데, 요즘 정보보안 이슈가 발생하면 일단 SW 공급망 보안 부서로 넘기는 분위기가 있어 일이 너무 많다고 푸념했다.무한대로 넓어지는 ‘공급망’ 침해사고?개발사 기준으로는 SW 개발에 사용한 오픈소스나 라이브러리, 외부 서비스가 주요 공급망인데, 오픈소스가 또 다른 오픈소스를 사용한다면 그것 또한 개발사의 공급망에 포함된다.공급사의 공급망에는 개발사 공급망과 함께 SW 개발·배포와 연관된 개발사"
+    },
+    {
+      "id": "55697230aaec",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI glasses face their first major government crackdown",
+      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "published": "2026-10-05T13:39:30+00:00",
+      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders."
+    },
+    {
+      "id": "41cba094bfb7",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "published": "2026-10-05T13:29:32+00:00",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The fronti"
+    },
+    {
+      "id": "beb9e443927e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "published": "2026-10-05T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup build"
+    },
+    {
+      "id": "c93ab518f479",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215976",
+      "published": "2026-10-05T12:01:19+00:00",
+      "summary": "10월31일까지 ‘구글 AI 프로’ 연간 구독권을 40% 할인된 가격으로 구매할 수 있다. 신규 연간 구독자를 대상으로 기존 연간 플랜 요금인 29만 원에서 40% 할인된 17만4000원(월 환산 1만4500원)에 이용 가능하다.구글이 ‘구글 AI 프로(Google AI Pro)’ 캠페인과 동시에 국내 이용자 대상 특별 할인 프로모션을 진행한다고 5일 밝혔다. 구글은 이전부터 AI 서비스의 특별 프로모션을 주기적으로 선보이고 있다. 2025년 8월에는 대학생을 대상으로 AI 프로 1년 무료 이용권"
+    },
+    {
+      "id": "2c5b84a9b518",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "클로드, 18개 분야 36편 논문 원고 작성… 앤트로픽이 조명한 AI 과학 연구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215979",
+      "published": "2026-10-05T11:48:07+00:00",
+      "summary": "앤트로픽이 매슈 슈워츠 하버드대학교 물리학 교수의 기고문 '클로드형 과학(Claude-shaped science)'을 공식 블로그에 게재하며 프론티어 모델을 활용한 과학 연구의 새로운 접근법을 조명했다. 이번 작업은 AI 모델에 거대한 과학적 난제를 곧바로 던져주던 기존 방식에서 벗어나, LLM이 잘 해결할 수 있는 영역인 '클로드형(Claude-shaped) 문제'를 찾아내 밀착 적용했다는 점에서 의미가 크다.슈워츠 교수는 1일(현지시간) 공개된 글을 통해 AI 성과 발표와 연구자들이 현장에서 "
+    },
+    {
+      "id": "d987c230bbbf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 10월6일까지 '음성 인터뷰어' 가동…대화록 공개·음성 학습 수집 결합",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215978",
+      "published": "2026-10-05T11:20:00+00:00",
+      "summary": "앤트로픽이 지난 9월29일 공식 연구 발표를 시작으로, 대화형 AI 연구 도구인 '앤트로픽 인터뷰어(Anthropic Interviewer)'를 일반 클로드 및 클로드 코드 사용자 대상으로 전면 가동하며 대규모 질적 연구에 나섰다.앤트로픽 인터뷰어는 연구진의 질문 프레임워크를 바탕으로 능동적인 인터뷰를 수행하는 연구 에이전트로, 지난 2025년 12월 처음 등장했다.당시 8만명 이상의 비공개 인터뷰를 통해 요약 보고서 형태만 냈던 것과 달리, 9월29일부터 10월6일까지 진행되는 이번 2차 연구는"
+    },
+    {
+      "id": "d623869f570f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"해킹 비상 한국, 이제 시작\"...보안전문가들 CSF 구축 등 해법 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261005201759",
+      "published": "2026-10-05T11:17:59+00:00",
+      "summary": "[지디넷코리아]은행 등 금융권 7개사를 대상으로 일어난 해킹으로 전자, 항공, 건설 분야도 내부 점검에 들어가는 등 오픈소스 AI에이전트 '아르텍스(ARTEX)' 파장이 이어지고 있다.금융당국에 따르면 신한·KB국민·하나·BNK부산은행과 예가람·웰컴저축은행, 현대캐피탈 등 7개 사의 침해 사고에서 동일한 공격자의 IP가 여러 곳에서 발견됐고, 공격자는 AI 도구를 활용해 다수 금융사를 대상으로 대량으로 자동화된 공격을 시행했다. 이에, 금감원은 전 금융권 약 500개 사에 공격 IP와 보안 유의 "
+    },
     {
       "id": "2c6bbe6784b1",
       "source": "AI타임스",
@@ -12,6 +353,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215977",
       "published": "2026-10-05T10:48:15+00:00",
       "summary": "뇌-컴퓨터 인터페이스(BCI) 전문 뉴럴링크가 레이블이 지정되지 않은 5만시간 분량의 원시 신경 데이터로 디코딩 AI 모델을 사전학습하는 데 성공했다. 자연어 처리와 컴퓨터 비전 분야를 혁신했던 대규모 자기지도 학습 방식을 BCI 디코딩 체계에 본격 도입한 것으로 평가받는다.뉴럴링크는 1일(현지시간) 자사의 BCI 플랫폼을 뒷받침하는 AI 훈련 기술 방식의 연구 업데이트를 공개했다. 그동안 공개된 BCI 디코딩 모델 중 최대 규모인 5만 시간 분량의 신경 기록을 활용해 파운데이션 모델 방식의 사전"
+    },
+    {
+      "id": "8c5408d718b7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "published": "2026-10-05T10:47:06+00:00",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 368 # Comments: 179"
     },
     {
       "id": "53a30e79e7b5",
@@ -36,6 +388,17 @@
       "summary": "미국의 로봇 스타트업 REK가 샌프란시스코에서 추진한 인간과 휴머노이드 로봇 간의 케이지 파이트 경기를 두고 캘리포니아주 규제 당국의 제재가 내려졌다.4일(현지시간) 톰스하드웨어에 따르면, 캘리포니아주 체육위원회(CSAC)는 최근 REK와 창립자 겸 CEO인 시크스 리브에게 허가받지 않은 인간 대 로봇 대결의 개최와 홍보, 후원을 즉각 중단하라는 내용을 담은 '활동 중지 명령서'를 발송했다.CSAC는 주정부의 사전 승인이나 라이선스 없이 이러한 격투 이벤트를 조직할 경우 비즈니스 및 전문직 법률 "
     },
     {
+      "id": "becaca60dcbe",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KAIST, 데이터 변화해도 검색 정확도 유지하는 ‘CONDA’ 기술 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215974",
+      "published": "2026-10-05T10:05:00+00:00",
+      "summary": "KAIST 연구진이 ‘AI가 최신 정보를 더 정확하고 빠르게 찾는 기술’을 개발했다. 서비스 적용도 진행한다는 계획이다.한국과학기술원(KAIST, 총장 배충식)은 김민수 전산학부 교수 연구팀이 데이터가 지속적으로 추가, 삭제되는 환경에서도 높은 검색 정확도를 안정적으로 유지하는 동적 벡터 검색 기술 ‘콘다(CONDA, Connectivity-Aware Dynamic Index)’를 개발했다고 5일 밝혔다. 생성 AI는 학습이 끝난 뒤 새롭게 등장한 정보를 스스로 알지 못한다. 이를 보완하기 위해 "
+    },
+    {
       "id": "9f253b06bb90",
       "source": "AI타임스",
       "kind": "article",
@@ -58,6 +421,17 @@
       "summary": ""
     },
     {
+      "id": "eb75b85d9392",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "JEDEC, 첫 '실리콘 포토닉스' 신뢰성 표준 발표…AI인프라 변혁 예고",
+      "link": "https://zdnet.co.kr/view/?no=20261005183555",
+      "published": "2026-10-05T09:43:20+00:00",
+      "summary": "[지디넷코리아]'실리콘 포토닉스(SiPh)'의 업계 첫 신뢰성 표준이 제정됐다. 실리콘 포토닉스는 삼성전자, TSMC, 인텔 등 주요 반도체 기업이 연구개발 중인 차세대 인공지능(AI) 인프라 기술이다. 표준 제정으로 상용화 속도가 빨라질 수 있다. 5일 업계에 따르면 국제반도체표준화기구(JEDEC·제덱)는 최근 실리콘 포토닉스 신뢰성 표준을 발표했다.제덱이 발표한 'JESD264' 표준은 실리콘 포토닉스 기술에 대한 전반적인 신뢰성 기준을 제시한다. 모듈레이터·광다이오드·도파로 등 실리콘 포토닉"
+    },
+    {
       "id": "1d4906922dea",
       "source": "AI타임스",
       "kind": "article",
@@ -78,6 +452,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215967",
       "published": "2026-10-05T08:33:42+00:00",
       "summary": "AI 에이전트가 스스로 문제 해결 방식을 개선하는 ‘재귀적 자기개선(RSI)’ 연구가 활발하지만, 수많은 변종 후보를 일일이 검증하는 데 막대한 비용과 시간이 들어 실용화의 걸림돌이 돼 왔다. 이러한 ‘검증 비용 병목(Evaluation Bottleneck)’을 대폭 줄여 에이전트 자가 진화의 실현 가능성을 끌어올린 새로운 기술이 등장했다.MIT와 사카나 AI 연구진은 최근 코딩 에이전트가 스스로 자신의 지침과 도구, 코드를 수정하면서 더 나은 버전을 찾아갈 수 있도록 하는 새로운 프레임워크 ‘S"
+    },
+    {
+      "id": "0de1d9198bdb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에비던트, 크레스트옵틱스 인수 완료",
+      "link": "https://zdnet.co.kr/view/?no=20261005171002",
+      "published": "2026-10-05T08:10:02+00:00",
+      "summary": "[지디넷코리아] 니덤, 메사추세츠, 2026년 10월 5일 /PRNewswire/ -- 에비던트(Evident)가 오늘 로마에 본사를 둔 스피닝 디스크 공초점 및 초고해상도 현미경용 첨단 광학 이미징 시스템 개발 및 제조업체인 크레스트옵틱스(CrestOptics S.p.A.) 인수를 완료했다고 발표했다. 이번 인수로 에비던트의 생명과학 이미징 포트폴리오를 확대하고 연구, 제약 및 바이오테크 분야를 위한 고속, 하이콘텐츠(high-content) 3D 이미징 역량도 강화된다. 2011년 설립된 크레"
+    },
+    {
+      "id": "fc760f74cb2e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "published": "2026-10-05T08:09:36+00:00",
+      "summary": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger Comments URL: https://news.ycombinator.com/item?id=49962012 Points: 414 # Comments: 301"
     },
     {
       "id": "0d0d72a6beaa",
@@ -177,6 +573,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215962",
       "published": "2026-10-05T06:09:06+00:00",
       "summary": "네덜란드 대형 안경 체인 한스 안데르스(Hans Anders)가 개인정보 보호 논란이 커지자, 메타의 레이밴 스마트 안경 판매를 네덜란드와 벨기에에서 중단했다. 한스 안데르스의 모회사 넥사이(Nexeye)는 2일(현지시간) “스마트 안경을 둘러싼 지속적인 대중적·정치적 논의와 이 기술을 어떤 조건에서 사용할 수 있는지를 둘러싼 의문이 제기되고 있다”며 “논의와 후속 결정이 나올 때까지 제품을 다시 판매할지, 판매한다면 어떤 방식으로 할지 판단을 보류한다”고 밝혔다.논란은 공공장소에서 메타 안경을 "
+    },
+    {
+      "id": "9621f006a58e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "published": "2026-10-05T05:37:40+00:00",
+      "summary": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html Comments URL: https://news.ycombinator.com/item?id=49961057 Points: 256 # Comments: 205"
     },
     {
       "id": "57c4ad92fe42",
@@ -441,6 +848,17 @@
       "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
       "published": "2026-10-04T21:02:09+00:00",
       "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference b"
+    },
+    {
+      "id": "c4dae3f4c3db",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "published": "2026-10-04T21:01:28+00:00",
+      "summary": "https://archive.org/details/tippett-archive/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 227 # Comments: 30"
     },
     {
       "id": "989d0c7a9363",
@@ -1101,6 +1519,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261002212844",
       "published": "2026-10-03T23:00:02+00:00",
       "summary": "[지디넷코리아]글로벌 메모리 반도체 시장 '풍향계' 마이크론이 시장 전망을 크게 웃도는 분기 실적을 기록하면서, 삼성전자와 SK하이닉스의 3분기 실적 기대감도 커지고 있다.4일 업계에 따르면 삼성전자와 SK하이닉스는 3분기 역대급 영업이익을 거둘 것으로 점쳐진다. 최근 일각에서 불거진 스마트폰·PC 수요 둔화 우려와 '인공지능(AI) 고점론'을 완전히 불식하며 실적 우상향 기조를 이어갈 것이란 관측이다.증권가에서는 원·달러 환율 하락 등 일부 비우호적 거시경제 변수에도 양사가 견조한 이익 체력을 "
+    },
+    {
+      "id": "99448fd15204",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We ported the original Doom to SQL",
+      "link": "https://cedardb.com/blog/sqldoom/",
+      "published": "2026-10-03T22:14:00+00:00",
+      "summary": "Article URL: https://cedardb.com/blog/sqldoom/ Comments URL: https://news.ycombinator.com/item?id=49948300 Points: 285 # Comments: 43"
     },
     {
       "id": "fc9cf307f929",
@@ -8779,6 +9208,17 @@
       "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
       "published": "2026-09-27T16:02:00+00:00",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "2d8a31f1c6de",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Welcome RL Environments to the hub",
+      "link": "https://huggingface.co/blog/rl-environments",
+      "published": "2026-09-27T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "83d7ee38d50c",
