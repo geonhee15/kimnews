@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-10-06T19:31:23.545264+00:00",
-  "count": 15242,
+  "updated_at": "2026-10-06T23:15:26.458699+00:00",
+  "count": 15263,
   "items": [
+    {
+      "id": "0611f088eb4c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "published": "2026-10-06T22:53:09+00:00",
+      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
+    },
+    {
+      "id": "de93957e3e51",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월6일] “아모데이와 같은 방향이라더니”…알트먼, “앤트로픽과 근본적으로 다르다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215995",
+      "published": "2026-10-06T22:00:00+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 5일(현지시간) 폴리티코와의 인터뷰에서 “AI의 혜택을 위해 어느 정도의 나쁜 일은 감수해야 한다”고 말한 것이 눈길을 끌었습니다. 이번 발언은 ‘AI의 혜택을 위해 일부 위험을 감수해야 한다’는 취지로 주목받았지만, 인터뷰 전체를 보면 알트먼이 더 강조한 것은 오픈AI와 앤트로픽의 AI 안전·규제 접근법이 다르다는 점입니다.알트먼은 앤트로픽과 오픈AI 사이에 AI 규제를 바라보는 “근본적인 세계관 차이(fundamental difference in worldview)"
+    },
+    {
+      "id": "0592c53ff4c1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The best robot vacuum and mop deals during October Prime Day",
+      "link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
+      "published": "2026-10-06T22:00:00+00:00",
+      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some o"
+    },
+    {
+      "id": "14688b396131",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+      "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+      "published": "2026-10-06T21:39:53+00:00",
+      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub th"
+    },
+    {
+      "id": "62ff5c4ea858",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Building Git infrastructure for agent-scale development",
+      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "published": "2026-10-06T20:57:56+00:00",
+      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "e9c02be74881",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "published": "2026-10-06T20:50:32+00:00",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent."
+    },
+    {
+      "id": "41d50e6a2888",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "published": "2026-10-06T20:47:01+00:00",
+      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
+    },
+    {
+      "id": "74bb9f217280",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
+      "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
+      "published": "2026-10-06T20:37:54+00:00",
+      "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. Howe"
+    },
+    {
+      "id": "512000151651",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "published": "2026-10-06T20:35:20+00:00",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
+    },
+    {
+      "id": "f35ab5ace434",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "published": "2026-10-06T20:32:10+00:00",
+      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. Th"
+    },
+    {
+      "id": "d2d4642172b6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026)",
+      "link": "https://www.wired.com/story/prime-day-vacuum-deals-10-06-2026/",
+      "published": "2026-10-06T20:06:46+00:00",
+      "summary": "I’ve compared cordless sticks, watched robot vacuums chase stains, and cleaned plenty of car crumbs. These discounts get my recommendation."
+    },
+    {
+      "id": "ab70d19f83b1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "published": "2026-10-06T20:00:30+00:00",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+    },
+    {
+      "id": "54713a520258",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "published": "2026-10-06T19:57:04+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b50cae8bfd51",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "published": "2026-10-06T19:56:50+00:00",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
+    },
     {
       "id": "8a0191e22fd5",
       "source": "The Verge",
@@ -12,6 +166,17 @@
       "link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
       "published": "2026-10-06T19:30:00+00:00",
       "summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often "
+    },
+    {
+      "id": "3b7ef17bf204",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "published": "2026-10-06T19:21:14+00:00",
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs."
     },
     {
       "id": "fe778f0680e7",
@@ -91,6 +256,28 @@
       "summary": "Apple TV has had a really great run in 2026 - and a cozy new addition is helping expand its lineup even more. As the streaming service has attempted to grow in order to better compete with the likes of Disney and Netflix, it has steadily broadened the range of its series. This ye"
     },
     {
+      "id": "6c7a0e3e338d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로크웰 오토메이션, 포티넷 방화벽 및 기존 고객 인프라 지원을 위해 SecureOT 관리형 서비스 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261007021013",
+      "published": "2026-10-06T17:10:13+00:00",
+      "summary": "[지디넷코리아] 새로운 서비스는 제조업체가 기존 인프라 투자와 관계없이 OT 환경을 안전하게 보호하고 유지보수할 수 있도록 지원합니다. 밀워키, 2026년 10월 6일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 트랜스포메이션 전문 기업인로크웰 오토메이션(NYSE: ROK)은 오늘 자사의 산업 사이버 보안 솔루션 제품군인 SecureOT™에 두 가지 신규 서비스를 추가한다고 발표했습니다. 이번에 추가된 서비스는 포티넷(Fortinet)과 함께 제공하는 방화벽 관리 서비스(Fir"
+    },
+    {
+      "id": "a27f3e16662d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "브이키, AI 경제의 AI 안전 및 보안 강화를 위해 클라우드사인 AI에 대한 전략적 지분 투자 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261007021003",
+      "published": "2026-10-06T17:10:03+00:00",
+      "summary": "[지디넷코리아] 싱가포르, 2026년 10월 6일 /PRNewswire/ -- 타워 캐피털 아시아(Tower Capital Asia, 이하 'TCA')의 포트폴리오 기업이자 디지털 신원 및 모바일 애플리케이션 보호 및 보안(Mobile Application Protection & Security, 이하 'MAPS') 분야의 선도 공급업체인 브이키(V-Key)가 이날 싱가포르에 본사를 둔 AI 사이버보안 및 웹 무결성 보호 공급업체 클라우드사인 AI(CloudsineAI)에 대한 전략적 투자를 발표"
+    },
+    {
       "id": "76a4021ac871",
       "source": "TechCrunch",
       "kind": "article",
@@ -100,6 +287,17 @@
       "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
       "published": "2026-10-06T16:35:00+00:00",
       "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy."
+    },
+    {
+      "id": "0047c2116891",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "link": "https://github.com/FeSens/openTPU",
+      "published": "2026-10-06T16:23:25+00:00",
+      "summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 200 # Comments: 263"
     },
     {
       "id": "1e88f1b3352b",
@@ -421,6 +619,17 @@
       "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 340 # Comments: 69"
     },
     {
+      "id": "e9315390fcbc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Polars 2.0",
+      "link": "https://pola.rs/posts/release-polars-2/",
+      "published": "2026-10-06T11:59:01+00:00",
+      "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 399 # Comments: 94"
+    },
+    {
       "id": "306ea85b5a2f",
       "source": "Hacker News",
       "kind": "article",
@@ -452,6 +661,17 @@
       "link": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
       "published": "2026-10-06T11:11:51+00:00",
       "summary": "Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 251 # Comments: 118"
+    },
+    {
+      "id": "8421afa9e7c8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "link": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "published": "2026-10-06T11:11:51+00:00",
+      "summary": "Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 303 # Comments: 150"
     },
     {
       "id": "3c4abd07e231",
@@ -669,6 +889,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "MS·메타의 '클로드' 사용 축소...앤트로픽 B2B 성장세에 변수 되나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215998",
+      "published": "2026-10-06T09:06:29+00:00",
+      "summary": "앤트로픽의 주요 기업 고객인 마이크로소프트(MS)와 메타가 내부 직원들의 클로드(Claude) 사용을 줄이고 있다. 두 회사가 자체 AI 도구와 경쟁 모델 활용을 늘리면서 앤트로픽이 빠르게 늘어난 기업용 수요를 계속 유지하는 데 부담으로 작용할 수 있다는 분석이 나온다.5일(현지시간) 디 인포메이션에 따르면, MS는 올해 초 직원들의 앤트로픽 AI 사용에 연간 최소 10억달러(약 1조3000억원)를 지출할 것으로 예상했지만, 비용 절감을 위해 직원들에게 클로드 사용을 줄이고 자체 AI 도구를 더 "
+    },
+    {
+      "id": "2b8925e290db",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS는 3분의 1·메타는 절반...'클로드' 사내 사용 대폭 축소",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215998",
       "published": "2026-10-06T09:06:29+00:00",
       "summary": "앤트로픽의 주요 기업 고객인 마이크로소프트(MS)와 메타가 내부 직원들의 클로드(Claude) 사용을 줄이고 있다. 두 회사가 자체 AI 도구와 경쟁 모델 활용을 늘리면서 앤트로픽이 빠르게 늘어난 기업용 수요를 계속 유지하는 데 부담으로 작용할 수 있다는 분석이 나온다.5일(현지시간) 디 인포메이션에 따르면, MS는 올해 초 직원들의 앤트로픽 AI 사용에 연간 최소 10억달러(약 1조3000억원)를 지출할 것으로 예상했지만, 비용 절감을 위해 직원들에게 클로드 사용을 줄이고 자체 AI 도구를 더 "
