@@ -1,7 +1,535 @@
 {
-  "updated_at": "2026-10-06T07:06:14.547964+00:00",
-  "count": 15161,
+  "updated_at": "2026-10-06T14:10:41.608405+00:00",
+  "count": 15214,
   "items": [
+    {
+      "id": "1890a15c7ad3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "published": "2026-10-06T14:00:49+00:00",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs."
+    },
+    {
+      "id": "9008e2e12630",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger",
+      "link": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed",
+      "published": "2026-10-06T13:32:43+00:00",
+      "summary": "Paramount has completed its $110 billion acquisition of Warner Bros. Discovery, forming a combined company known as Skydance. The merger officially puts Paramount and WBD's film studios, along with major networks and brands like HBO, CBS News, and CNN, under one roof. The road to"
+    },
+    {
+      "id": "bd571e682389",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon reportedly pays $120 million to stream the Emmys for free",
+      "link": "https://www.theverge.com/entertainment/1005436/amazon-prime-video-emmys-deal",
+      "published": "2026-10-06T13:26:52+00:00",
+      "summary": "The Emmys have a new home - and it looks like Amazon paid plenty for the rights. The awards show and Amazon announced a six-year deal that will move the Emmys from its traditional broadcast television home to Prime Video. The shift begins with the 2027 ceremony, which will air ne"
+    },
+    {
+      "id": "133ce1d8657d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "published": "2026-10-06T13:19:01+00:00",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. Ho"
+    },
+    {
+      "id": "ee05ac09d8d2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mistral Large 4",
+      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "published": "2026-10-06T13:15:49+00:00",
+      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 279 # Comments: 109"
+    },
+    {
+      "id": "92804cc5532d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won’t update his MacBook",
+      "link": "https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls",
+      "published": "2026-10-06T13:15:28+00:00",
+      "summary": "After suffering years of frustration with Apple's parental control features, I've been eagerly anticipating the revamped Screen Time that launched last month with iOS 27. Unfortunately, I can't use it. Technically, this is because my 18-year-old son hasn't got round to updating h"
+    },
+    {
+      "id": "61756fe25055",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "published": "2026-10-06T13:15:23+00:00",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence."
+    },
+    {
+      "id": "826716080456",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+      "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "published": "2026-10-06T13:00:00+00:00",
+      "summary": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round."
+    },
+    {
+      "id": "f0c90a89ab42",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Facebook tests going Reels-first in India",
+      "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "published": "2026-10-06T12:38:53+00:00",
+      "summary": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center."
+    },
+    {
+      "id": "a89e9102fefd",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026)",
+      "link": "https://www.wired.com/story/macbook-air-prime-day-10-6-2026/",
+      "published": "2026-10-06T12:38:32+00:00",
+      "summary": "At $1,099, the MacBook Air is $200 off its retail price for Prime Day, its lowest price in months."
+    },
+    {
+      "id": "6a5dc489ac60",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The easiest Apple Watch to recommend is $50 off",
+      "link": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
+      "published": "2026-10-06T12:30:00+00:00",
+      "summary": "The Apple Watch SE 3 is the smartwatch that we recommend for most people because it’s affordable, yet packed with most of the features found in pricier versions. We spotted Amazon October Prime Day discounts across the lineup, including both the 40mm and 44mm sizes, and GPS only "
+    },
+    {
+      "id": "bef705eee812",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "published": "2026-10-06T12:21:53+00:00",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming."
+    },
+    {
+      "id": "22383f4f9edd",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "신입PD들도 쩔쩔매는 트렌드 조사, AI로 하는 법",
+      "link": "https://www.youtube.com/shorts/zhaYrZlsCmI",
+      "published": "2026-10-06T12:00:31+00:00",
+      "summary": ""
+    },
+    {
+      "id": "af299c12cc2d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The planetary wave headed for California isn’t what you think it is",
+      "link": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
+      "published": "2026-10-06T12:00:00+00:00",
+      "summary": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"freak\" phenomenon \"bringing trouble,\" it's worth understanding what this wave really is and isn't. Calle"
+    },
+    {
+      "id": "306ea85b5a2f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "link": "https://www.helgilibrary.com/companies/jetbrains",
+      "published": "2026-10-06T11:45:55+00:00",
+      "summary": "Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 204 # Comments: 222"
+    },
+    {
+      "id": "1ba3d875d755",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
+      "link": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+      "published": "2026-10-06T11:30:00+00:00",
+      "summary": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099), $50 lower than the usual price for the base Pixel 11, while the 256GB 11 Pro XL is $999, a $300 ["
+    },
+    {
+      "id": "24ee4f241796",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Verge’s guide to the best October Prime Day deals",
+      "link": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
+      "published": "2026-10-06T11:01:52+00:00",
+      "summary": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them all into this package is the easiest way to keep the blast of upcoming coverage under control. Below, "
+    },
+    {
+      "id": "d09abb4b5663",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "초고가 요금제 등장한 코덱스 근황ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/QRawgZ_hYgU",
+      "published": "2026-10-06T11:00:20+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d1f9eab7223a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "published": "2026-10-06T10:35:00+00:00",
+      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at produc"
+    },
+    {
+      "id": "77e3e305fb1a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "published": "2026-10-06T10:35:00+00:00",
+      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours. As the world races to meet growing electricity "
+    },
+    {
+      "id": "7664de6e524d",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "BasiGo and its fleet of electric buses",
+      "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+      "published": "2026-10-06T10:35:00+00:00",
+      "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport opera"
+    },
+    {
+      "id": "98eb8fa27194",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "published": "2026-10-06T10:30:00+00:00",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”"
+    },
+    {
+      "id": "ac799c365035",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Save Up to $200 on the Best Prime Day Apple Deals (2026)",
+      "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
+      "published": "2026-10-06T10:26:48+00:00",
+      "summary": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories."
+    },
+    {
+      "id": "5ff2e9f34b7d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[포토] 참가사·부스 역대 최대…AI 페스타 첫날 이모저모",
+      "link": "https://zdnet.co.kr/view/?no=20261006181459",
+      "published": "2026-10-06T09:50:59+00:00",
+      "summary": "[지디넷코리아]정부가 주최하는 국내 최대 인공지능(AI) 행사 'AI페스타 26'이 개막 첫날부터 북적였다. AI가 산업과 일상에 적용되는 현장을 직접 살펴보기 위해 하루 만에 약 2만명의 참관객이 서울 코엑스를 찾았다.과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 'AI페스타 26'이 6일 서울 코엑스 C홀에서 개막했다. 과기정통부 AI 주간의 대표 행사인 AI페스타는 올해 'AI, 현실이 되다. 모두의 AI'를 주제로 오는 8일까지 사흘간"
+    },
+    {
+      "id": "8d1bce5e5d18",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "link": "https://www.nobelprize.org/prizes/physics/2026/",
+      "published": "2026-10-06T09:48:46+00:00",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 243 # Comments: 75"
+    },
+    {
+      "id": "f254bde578f2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "하정우 부위원장 \"AI 모델만 잘해선 3강 못 간다…생태계 전체 키워야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261006181222",
+      "published": "2026-10-06T09:28:05+00:00",
+      "summary": "[지디넷코리아]하정우 국가인공지능전략위원회 부위원장이 한국이 인공지능(AI) 3강으로 도약하려면 AI 모델 경쟁을 넘어 전력과 반도체, 데이터센터, 산업 AI, 피지컬 AI까지 전체 생태계의 경쟁력을 함께 키워야 한다고 강조했다.하 부위원장은 6일 서울 코엑스에서 열린 'AI 페스타 2026' AI산업정책토크쇼에서 전력과 AI 반도체, 그래픽처리장치(GPU), 데이터센터 등 기반 인프라부터 AI 에이전트와 피지컬 AI까지 이어지는 경쟁력을 확보해야 한다고 밝혔다. 국내 AI 기업이 성장할 수 있도"
+    },
+    {
+      "id": "bffe426867d4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"K-콘텐츠 경쟁력 앞세워 세계로\"…스튜디오메타케이, 글로벌 AI 콘텐츠 시장 정조준",
+      "link": "https://zdnet.co.kr/view/?no=20261006180717",
+      "published": "2026-10-06T09:26:00+00:00",
+      "summary": "[지디넷코리아]AI 콘텐츠·엔터테크 기업 스튜디오메타케이가 글로벌 인공지능(AI) 콘텐츠 시장을 공략하기 위해 축적한 AI 영상 제작 역량과 사례를 선보인다.스튜디오메타케이는 6일 서울 코엑스에서 열린 'AI페스타26'에 참가해 생성형 AI와 버추얼 휴먼 기술을 실제 상업 콘텐츠 제작 현장에 적용한 사례와 실무형 워크플로우를 소개했다.2022년 설립된 회사는 기획부터 영상 생성, 합성, 편집, 후반제작까지 전체 프로세스에 AI를 접목한 제작 역량을 구축했다. 이를 토대로 넷플릭스 '월간남친', E"
+    },
+    {
+      "id": "f2ccf03e8909",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215987",
+      "published": "2026-10-06T09:19:10+00:00",
+      "summary": "미국 오픈소스 진영의 기대주 리플렉션 AI가 첫 자체 오픈웨이트 모델을 선보였다. 최첨단 모델 수준의 성능에는 미치지 못했으나, 코딩·추론·에이전트 작업에 특화해 경쟁 모델 대비 적은 연산으로 동급 성능을 내는 뛰어난 효율성을 강점으로 내세웠다.리플렉션 AI는 5일(현지시간) 첫 오픈웨이트 모델 ‘빔(Beam)’을 공개했다. 빔은 총 5010억개 매개변수를 갖춘 희소 전문가 혼합(MoE) 모델로, 토큰당 실제 활성화되는 매개변수는 230억개다.2조개 이상의 매개변수를 사용하는 대형 모델에 비해 추"
+    },
+    {
+      "id": "c69511ddeba1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배민, 전북 외식업주 대상 4주 교육…로컬마케팅·푸드테크 다룬다",
+      "link": "https://zdnet.co.kr/view/?no=20261006175833",
+      "published": "2026-10-06T09:18:47+00:00",
+      "summary": "[지디넷코리아]배달의민족이 전북 지역 외식업주를 대상으로 4주간 맞춤형 교육을 진행한다.배달의민족 운영사 우아한형제들은 ‘찾아가는 배민아카데미 전북특별자치도편’ 참가자를 모집한다고 6일 밝혔다.이번 교육은 배민과 전북 경제통상진흥원, 전주대학교가 체결한 ‘전북특별자치도 외식업주 역량강화를 위한 업무협약’을 바탕으로 마련됐다.교육 과정은 지역 외식 상권 트렌드와 운영전략, 로컬 맞춤 브랜딩과 마케팅, 푸드테크를 활용한 매장 운영, 손익분석과 식자재 원가 계산 등으로 구성됐다.NICE지니데이타 주시태"
+    },
+    {
+      "id": "01687a9d3349",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔이에스, 프로젝트 기반 통합 업무 관리 툴 'AI 원웍스' 첫 선",
+      "link": "https://zdnet.co.kr/view/?no=20261006180412",
+      "published": "2026-10-06T09:13:57+00:00",
+      "summary": "[지디넷코리아]ICT·센서 제어 기술을 바탕으로 스마트 팩토리와 사물인터넷(IoT) 솔루션을 공급하는 기업인 엔이에스는 그동안 축적한 기술력을 바탕으로 스마트 업무지원 시스템 'AI 원웍스(AI OneWorks)'를 개발 중이다.6일 오후 'AI 페스타 2026’ 행사장인 서울 코엑스 C홀에서 만난 엔이에스 관계자는 \"AI 원웍스는 프로젝트를 중심으로 참여자, 회의록, 고객 요구사항, 업무 일정, 파일 등을 연결해 업무의 시작부터 처리 결과까지 통합 관리할 수 있는 솔루션\"이라고 설명했다.회의 후"
+    },
+    {
+      "id": "66ce6ae4f509",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포스코퓨처엠, 삼성SDI와 'LFP' 양극재 6조 공급 계약",
+      "link": "https://zdnet.co.kr/view/?no=20261006174744",
+      "published": "2026-10-06T09:11:40+00:00",
+      "summary": "[지디넷코리아]포스코퓨처엠(대표 엄기천)이 삼성SDI에 6조원 규모 리튬·인산·철(LFP) 양극재를 장기 공급한다.포스코퓨처엠은 6일 삼성SDI와 LFP 양극재를 포함한 이차전지소재 일괄 공급을 위한 배터리용 소재 장기 공급계약을 체결했다고 밝혔다.지난 8월 삼성SDI와 합의한 내년부터 2032년까지 19만톤 규모의 LFP 양극재 장기 공급 합의 물량을 두 배 이상 대폭 늘려 본 계약을 맺은 것이다.양사는 이번 계약을 통해 2023년 포스코퓨처엠이 삼성SDI와 체결한 공급계약을 개정, 기존 니켈코"
+    },
+    {
+      "id": "0e26b85941f9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "서부발전, AI로 유연탄 수입·재고 전과정 통합 관리",
+      "link": "https://zdnet.co.kr/view/?no=20261006180824",
+      "published": "2026-10-06T09:08:24+00:00",
+      "summary": "[지디넷코리아]서부발전이 인공지능(AI)을 활용해 발전용 유연탄의 선박 운항부터 하역, 저탄장 재고까지 전 과정을 연계해 예측·관리하는 통합관제 체계를 구축했다.한국서부발전(사장 이정복)은 ‘유연탄 수입·재고 통합관제시스템’ 구축을 마치고 지난달 30일부터 본격 운영에 나섰다고 6일 밝혔다.서부발전은 애초 10월 말 완료할 예정이었으나 핵심 기능을 단계적으로 조기 개통해 구축 완료 시점을 한 달 앞당겼다.통합관제시스템은 서부발전이 지난 6월 구축한 ‘선박운항일정 자동화 예측시스템(ETA-Pro)’"
+    },
+    {
+      "id": "1f6d3901a00e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] \"우리 AI, 잘 쓰게 만들어야\"…이해민·하정우, 산업 활용성 ‘집중 점검’",
+      "link": "https://zdnet.co.kr/view/?no=20261006173042",
+      "published": "2026-10-06T09:06:35+00:00",
+      "summary": "[지디넷코리아]“모델을 많이 사용할 수 있도록 만든 것이 굉장히 인상적입니다. 잘 사용할 수 있도록 응용 프로그램 인터페이스(API) 가이드라인이나 헬프센터도 잘되기를 바랍니다.”하정우 국가인공지능전략위원회 부위원장은 6일 서울 강남구 코엑스에서 열린 ‘AI페스타 26’ 독자 AI 파운데이션 모델 특별관에서 SK텔레콤 에이닷엑스(A.X) K2 시연을 살펴본 뒤 이같이 밝혔다. 인공지능(AI) 모델 자체 성능뿐 아니라 개발자와 기업이 실제 산업 현장에서 얼마나 쉽게 활용할 수 있는지에 관심을 보인 "
+    },
+    {
+      "id": "77c423614dc9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS·메타의 '클로드' 사용 축소...앤트로픽 B2B 성장세에 변수 되나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215998",
+      "published": "2026-10-06T09:06:29+00:00",
+      "summary": "앤트로픽의 주요 기업 고객인 마이크로소프트(MS)와 메타가 내부 직원들의 클로드(Claude) 사용을 줄이고 있다. 두 회사가 자체 AI 도구와 경쟁 모델 활용을 늘리면서 앤트로픽이 빠르게 늘어난 기업용 수요를 계속 유지하는 데 부담으로 작용할 수 있다는 분석이 나온다.5일(현지시간) 디 인포메이션에 따르면, MS는 올해 초 직원들의 앤트로픽 AI 사용에 연간 최소 10억달러(약 1조3000억원)를 지출할 것으로 예상했지만, 비용 절감을 위해 직원들에게 클로드 사용을 줄이고 자체 AI 도구를 더 "
+    },
+    {
+      "id": "979b63c0040b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "과기정통부 \"내년 민간 정보보호 예산 44% 증액…보안 공백 없다”",
+      "link": "https://zdnet.co.kr/view/?no=20261006180603",
+      "published": "2026-10-06T09:06:03+00:00",
+      "summary": "[지디넷코리아]한국인터넷진흥원(KISA) 취약점관리센터의 내년도 운영 예산 요구액이 반영되지 않아 보안 공백이 우려된다는 보도에 대해 과학기술정보통신부가 민간 분야 정보보호 예산을 대폭 확대했다고 6일 설명했다.과기정통부에 따르면 2027년 민간 분야 정보보호 예산안은 5231억원으로 올해 3634억원보다 44% 늘었다. 최근 커지는 AI 기반 사이버 보안 위협에 대응하고 기업의 보안 역량을 강화하기 위한 사업을 새롭게 반영했다.우선 국내 독자 AI 기술을 활용한 보안 특화 AI 모델 개발에 70"
+    },
+    {
+      "id": "8fc1a4a8fdb6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"챗GPT 못 써도 OK\"…그래파이, 기업 AI 보안 해법 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261006175100",
+      "published": "2026-10-06T09:02:17+00:00",
+      "summary": "[지디넷코리아]기업용 인공지능(AI) 도입이 늘면서 내부 데이터 외부 유출 우려가 AI 활용의 주요 과제로 떠오르고 있다. 엔터프라이즈 AI 데이터 인프라 기업 그래파이는 'AI 페스타 26'에서 기업 내부 데이터를 연결해 AI 답변의 정확도를 높이는 기술을 선보였다.그래파이는 6일 서울 강남구 코엑스에서 열린 'AI 페스타 26'에서 통합 데이터베이스(DB) 엔진 '아카식DB'와 이를 기반으로 한 '엔터프라이즈 메모리'를 전시했다. 회사는 기업이 보유한 문서, 정형 데이터, 이미지, 관계 데이터"
+    },
+    {
+      "id": "b76a75129072",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "음악 검색은 도대체 음악을 어떻게 찾는걸까?",
+      "link": "https://www.youtube.com/shorts/TSS7NfidNkU",
+      "published": "2026-10-06T09:00:18+00:00",
+      "summary": ""
+    },
+    {
+      "id": "721c4844611b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"5초 만에 물성 파악\"…KAIST, 시뮬레이션으로 월드 모델 고도화",
+      "link": "https://zdnet.co.kr/view/?no=20261006174502",
+      "published": "2026-10-06T08:58:04+00:00",
+      "summary": "[지디넷코리아]한국과학기술원(KAIST)이 정밀한 물리 법칙의 시뮬레이션을 기반으로 한 월드 파운데이션 모델(WFM)을 개발한다. 해당 모델은 5초 분량의 짧은 영상만으로 옷·헝겊 등 기존 모델에서는 학습이 어려웠던 물체를 완벽히 파악할 수 있다는 강점이 있다.KAIST는 서울 코엑스에서 6일부터 8일까지 열리는 'AI 페스타 26'에서 자체 개발 중인 월드 파운데이션 모델을 소개했다.KAIST는 엄격한 물리 법칙 기반의 시뮬레이션을 통한 월드 모델을 개발하고 있다. 로봇이 실제 현장에서 학습을 "
+    },
+    {
+      "id": "c45e22037784",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT에 '시각적 광고' 도입…이미지 생성 옆 노출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215993",
+      "published": "2026-10-06T08:56:02+00:00",
+      "summary": "오픈AI가 '챗GPT'의 이미지 생성 기능에 광고를 결합한 새로운 시각적 광고 형식을 선보인다. 사용자가 이미지를 생성하는 동안 제품이나 서비스와 관련된 광고가 생성 결과 옆에 표시되는 방식이다. 오픈AI는 5일(현지시간) 새로운 시각적 광고를 이달 말부터 미국에서 일부 광고주를 대상으로 테스트한다고 밝혔다.광고는 사용자가 생성하는 이미지와 명확하게 구분되며 '광고' 표시도 붙는다. 오픈AI는 기존 광고와 마찬가지로 광고가 챗GPT의 답변에 영향을 주지 않는다고 강조했다.새 광고 형식은 제품 자체"
+    },
+    {
+      "id": "bfff8430c2b5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "노르웨이, 공공장소 ‘AI 안경’ 일시 금지 추진…세계 첫 규제 움직임",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215999",
+      "published": "2026-10-06T08:50:59+00:00",
+      "summary": "웨어러블 기술을 둘러싼 개인정보 보호 우려가 커지는 가운데, 노르웨이가 주요 국가 가운데 처음으로 일부 공공장소에서 AI 안경 사용을 일시적으로 금지하는 방안을 제안했다. 카메라와 마이크가 탑재된 AI 안경을 통해 본인도 모르는 사이 사진이나 영상, 음성이 기록될 수 있다는 우려가 커지면서 나온 조치다.5일(현지시간) 파이낸셜타임스와 로이터 등에 따르면, 노르웨이 정부는 공원과 해변, 박물관, 쇼핑센터, 공공 행사장 등 사람들이 많이 모이는 장소에서 AI 안경 사용을 제한하는 법안을 조만간 의회에"
+    },
+    {
+      "id": "1c64874ee7c8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "위키피디아 \"오픈AI 불량 에이전트, 5월 장애·무단 편집 연관 가능성\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216002",
+      "published": "2026-10-06T08:46:07+00:00",
+      "summary": "위키피디아를 운영하는 위키미디어 재단이 오픈AI의 ‘불량 에이전트(rogue agents)’가 지난 5월 발생한 데이터 서비스 장애와 연관됐을 가능성이 있다고 밝혔다. 오픈AI 에이전트가 위키미디어 플랫폼에서 대규모 페이지를 방문하고 과도한 데이터 요청을 보내면서 서비스에 부담을 줬다는 설명이다.위키미디어 재단은 5일(현지시간) 블로그를 통해 위키미디어 플랫폼에서 오픈AI 불량 에이전트의 활동을 확인했다고 밝혔다.특히 5월 발생한 위키데이터 쿼리 서비스(Wikidata Query Service)의"
+    },
+    {
+      "id": "152531494b4d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한전KDN, ‘2026년 발전5사 AI-ICT 컨퍼런스’개최... 인공지능 기반 발전산업 혁신 모색",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216018",
+      "published": "2026-10-06T08:40:00+00:00",
+      "summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)은 1일과 2일, 코트야드 바이 메리어트 세종 그랜드볼룸에서 ‘2026년 발전 5사 AI-ICT 컨퍼런스’를 개최했다고 밝혔다.한전KDN이 주관한 이번 행사는 발전 5사(남동발전, 남부발전, 동서발전, 서부발전, 중부발전 가나다 順)와 함께 발전산업의 지능형 전환 선도와 지속가능한 미래를 위한 신기술 공유, 공공부문의 인공지능(AI) 활용 확대 흐름에 발맞춰 발전산업 현장에 적용할 수 있는 AI 기술과 활용 방안을 모색하기 위해 마련됐다.컨퍼런스에는"
+    },
+    {
+      "id": "78f6108fe48d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 두산로보틱스, 989억 규모 피지컬 AI 국책과제 2건 선정 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216013",
+      "published": "2026-10-06T08:26:19+00:00",
+      "summary": "■ 두산로보틱스(대표 권영민)는 산업통상부와 한국산업기술기획평가원이 공동 주관한 'K-온디바이스 AI 반도체 기술개발사업'과 '로봇산업 기술개발사업'이 국책과제로 선정됐다고 밝혔다. 총 연구개발비는 989억원이며, 이 중 정부 지원금은 681억원이다. 에이딘로보틱스, 모빌린트 등과 온디바이스 AI 반도체 기반 차세대 협동로봇을, 딥엑스 등과 원전 특화 용접 AI 솔루션을 개발할 예정이다.■ 메가존클라우드(대표 염동훈)는 엔터프라이즈 AI 운영체제(OS) '에어 스튜디오 v3'를 업데이트했다고 밝혔"
+    },
+    {
+      "id": "0144a128480c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "코히어, 에이전트 비용·보안 통제 플랫폼 '노스 2' 출시...알레프 알파 인수 후 첫 행보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216014",
+      "published": "2026-10-06T08:25:05+00:00",
+      "summary": "캐나다의 기업용 AI 전문 코히어가 AI 에이전트의 예산 통제 및 메모리 기능을 대폭 강화한 '노스 2(North 2)'를 공개했다. 지난달 독일의 대표 AI 스타트업 알레프 알파(Aleph Alpha)와 200억달러(약 26조원) 규모의 합병 계약을 체결한 이후 선보이는 첫 대형 플랫폼 업데이트다.코히어는 5일(현지시간) 노스 2 출시를 통해 기업들이 AI 에이전트를 도입할 때 직면하는 최대 난제인 예상치 못한 비용 폭증과 보안 및 맥락 유지 한계를 정면으로 해결하는 데 중점을 뒀다고 밝혔다.기"
+    },
+    {
+      "id": "d7f3f351ca0f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아-그로크 27조 계약 파장…소외된 엔지니어들 \"거래 불공정\" 소송",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216009",
+      "published": "2026-10-06T08:11:49+00:00",
+      "summary": "엔비디아가 AI 칩 스타트업 그로크(Groq)와 체결한 200억달러(약 27조원) 규모의 라이선스 계약이 소송에 휘말렸다. 계약 과정에서 그로크의 일부 주주와 엔지니어들이 제대로 된 대가를 받지 못했고, 사실상 회사의 핵심 기술과 인력을 엔비디아에 넘긴 거래였다는 게 원고 측 주장이다.파이낸셜타임스에 따르면, 그로크의 전직 엔지니어인 벤저민 세레브린과 조슈아 루빈은 2일(현지시간) 델라웨어 기업법원에 제출한 소장에서 그로크 이사회가 2025년 회사의 핵심 자산과 주요 인력을 엔비디아에 넘기면서 다"
+    },
+    {
+      "id": "35f87592e164",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "19세 청년의 반란...고스트, 개인용 AI PC '코어'로 147억 투자 유치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216012",
+      "published": "2026-10-06T08:02:23+00:00",
+      "summary": "클라우드가 아닌 개인 기기 안에서 직접 작동하는 로컬 AI 에이전트에 대한 관심이 높아지는 가운데, 19세 창업가가 이끄는 스타트업이 대형 기술 기업 중심의 하드웨어 시장에 도전장을 내밀어 눈길을 끌고 있다.고스트(Ghost)는 5일(현지시간) 로컬에서 AI 에이전트를 지속적으로 실행할 수 있는 전용 PC '코어(Core)'를 공개하고, 1100만달러(약 147억원) 규모의 시드 투자를 유치했다고 밝혔다.이번 투자는 앤드리슨 호로위츠(a16z)가 주도했으며, 앱스트랙트, 오더셔스 벤처스, SV 엔"
+    },
+    {
+      "id": "46bfa0210167",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 딥엑스-두산로보틱스, 원전 제조 ‘AI 용접 솔루션’ 공동개발 협력 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216017",
+      "published": "2026-10-06T08:00:00+00:00",
+      "summary": "■ 딥엑스와 두산로보틱스가 원자력발전소 제조 현장의 숙련 용접공 부족 문제를 해결하기 위해 ‘AI 지능형 용접 로봇 솔루션’ 개발에 협력한다. 비전 AI와 협동로봇 기술을 결합해 용접 공정을 지능화하는 것이 핵심이다. 두산로보틱스는 컨소시엄 총괄과 시스템 통합 아키텍처 설계를 맡아 협동로봇 용접 셀 개발, 미소 변위 보정 AI 및 실시간 용접기 제어 기술을 개발한다. 딥엑스는 NPU AI 장치와 소프트웨어 개발 키트(SDK)를 제작, 용접 환경에서의 내환경성 검증과 신뢰성 인증을 지원한다. ■ 사"
+    },
+    {
+      "id": "82fbff080b1c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "화웨이, 퀄컴에 '로직폴딩' 칩 관련 특허 라이선스 제공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216000",
+      "published": "2026-10-06T07:22:19+00:00",
+      "summary": "화웨이가 퀄컴에 새로운 반도체 설계 기술인 ‘로직폴딩(LogicFolding)’과 관련된 특허를 라이선스했다. 이 기술은 극자외선(EUV) 장비 없이도 칩 내부 데이터 처리 효율을 높여 기술 규제 속에서 성능 격차를 줄일 수 있는 화웨이의 차세대 반도체 설계 솔루션이다.화웨이는 5일 퀄컴과 수년에 걸친 포괄적인 특허 교차 라이선스 계약을 체결했다고 밝혔다. 계약에는 AI, 5G 기기, 컴퓨팅, 네트워크, 근거리 및 공동 패키징 광학 기술 등이 포함된다. 퀄컴은 컴퓨팅·AI·네트워크 관련 미국 특허"
+    },
     {
       "id": "2f4e122eecee",
       "source": "AI타임스",
@@ -289,6 +817,17 @@
       "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I wil"
     },
     {
+      "id": "1f6035076b20",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "published": "2026-10-05T22:55:11+00:00",
+      "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 268 # Comments: 179"
+    },
+    {
       "id": "bce4fe8e78cc",
       "source": "Hacker News",
       "kind": "article",
@@ -298,6 +837,17 @@
       "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
       "published": "2026-10-05T22:46:45+00:00",
       "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ Comments URL: https://news.ycombinator.com/item?id=49971846 Points: 387 # Comments: 278"
+    },
+    {
+      "id": "c5555f9a3df3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "published": "2026-10-05T22:30:02+00:00",
+      "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 234 # Comments: 147"
     },
     {
       "id": "d8a13f76b92d",
@@ -322,6 +872,17 @@
       "summary": ""
     },
     {
+      "id": "943ab625a7ae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Find the flattest route between any two points in SF",
+      "link": "https://flattensf.com/",
+      "published": "2026-10-05T21:40:50+00:00",
+      "summary": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 244 # Comments: 83"
+    },
+    {
       "id": "5c7bb31e8322",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -331,6 +892,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261006064033",
       "published": "2026-10-05T21:40:33+00:00",
       "summary": "[지디넷코리아]7일 낮 발사 예정인 누리호 5호기 이송이 시작됐다.우주항공청과 한국항공우주연구원은 6일 오전 6시부터 한국형발사체(누리호)의 발사대 이송을 시작했다고 밝혔다.항우연은 지난 5일 오후 6시 30분 발사준비위원회를 열고, 기술적 준비 상황과 기상 상황 등을 검토한뒤 누리호를 발사대로 이송하기로 결정했다.발사체는 무인 특수이동차량(트랜스포터)에 실려 나로우주센터 내 발사체종합조립동에서 제2발사대까지 1.8km 정도를 약 1시간 30분에 걸쳐 이송할 예정이다.누리호는 발사대에 도착한 후 "
+    },
+    {
+      "id": "f32340eddd6a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "published": "2026-10-05T21:15:07+00:00",
+      "summary": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 235 # Comments: 62"
     },
     {
       "id": "476f3a4524ec",
@@ -683,6 +1255,17 @@
       "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
       "published": "2026-10-05T14:30:00+00:00",
       "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything "
+    },
+    {
+      "id": "970997a6f461",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The lamps in my house",
+      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "published": "2026-10-05T14:12:14+00:00",
+      "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 258 # Comments: 103"
     },
     {
       "id": "11b9c6e31151",
