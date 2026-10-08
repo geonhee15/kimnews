@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-10-08T14:46:01.654978+00:00",
-  "count": 15462,
+  "updated_at": "2026-10-08T20:12:05.872530+00:00",
+  "count": 15491,
   "items": [
+    {
+      "id": "e173082eaf75",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "published": "2026-10-08T20:04:26+00:00",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture."
+    },
+    {
+      "id": "6d3aa9096ced",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
+      "link": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
+      "published": "2026-10-08T19:30:21+00:00",
+      "summary": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search experien"
+    },
+    {
+      "id": "84d2dccd7d9e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "published": "2026-10-08T19:30:00+00:00",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get."
+    },
+    {
+      "id": "dc67595f10ef",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Paramount is making a Cyberpunk 2077 film",
+      "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+      "published": "2026-10-08T19:14:03+00:00",
+      "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di B"
+    },
+    {
+      "id": "ed5e56bea04c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+      "link": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
+      "published": "2026-10-08T19:11:45+00:00",
+      "summary": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday."
+    },
+    {
+      "id": "89e5ccef634d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
+      "link": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+      "published": "2026-10-08T18:48:36+00:00",
+      "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White Hous"
+    },
+    {
+      "id": "24ade8ad3047",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "published": "2026-10-08T18:20:32+00:00",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
+    },
+    {
+      "id": "8b3af56135e6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "published": "2026-10-08T18:19:45+00:00",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+    },
+    {
+      "id": "517615f483da",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "published": "2026-10-08T18:19:42+00:00",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+    },
+    {
+      "id": "6671ab1a6b06",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "published": "2026-10-08T18:18:00+00:00",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
+    },
+    {
+      "id": "30b03b3c3227",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "published": "2026-10-08T18:16:24+00:00",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
+    },
+    {
+      "id": "29f0918592d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "published": "2026-10-08T18:10:55+00:00",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
+    },
+    {
+      "id": "c7dafa4340b4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "published": "2026-10-08T17:58:33+00:00",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $25"
+    },
+    {
+      "id": "4103dc1a92a5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "published": "2026-10-08T17:57:01+00:00",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens "
+    },
+    {
+      "id": "77fb6dcbd02f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Older Pixel watches are losing free cellular access to several safety features",
+      "link": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending",
+      "published": "2026-10-08T17:40:05+00:00",
+      "summary": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection, and Safety Check to work through cellular networks without the need for a carri"
+    },
+    {
+      "id": "c96fbdba38f3",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "published": "2026-10-08T17:02:52+00:00",
+      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub "
+    },
+    {
+      "id": "3fb0996e2479",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "published": "2026-10-08T17:00:00+00:00",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"s"
+    },
+    {
+      "id": "a49b3efed174",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "published": "2026-10-08T16:59:39+00:00",
+      "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 244 # Comments: 67"
+    },
+    {
+      "id": "92b1b89c5f89",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "published": "2026-10-08T16:45:58+00:00",
+      "summary": "Article URL: https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html Comments URL: https://news.ycombinator.com/item?id=50008187 Points: 223 # Comments: 130"
+    },
+    {
+      "id": "d6f327fbaf8b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "published": "2026-10-08T16:45:00+00:00",
+      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates."
+    },
+    {
+      "id": "134162d51aea",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "published": "2026-10-08T16:32:46+00:00",
+      "summary": "Amazon killed its app store, so Google Play it is."
+    },
+    {
+      "id": "3742ab36a07b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
+    },
+    {
+      "id": "30ed0810cefc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy."
+    },
+    {
+      "id": "d6f9a1fdf986",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "published": "2026-10-08T15:42:26+00:00",
+      "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro."
+    },
     {
       "id": "c58adcf2b865",
       "source": "The Verge",
@@ -45,6 +309,28 @@
       "link": "https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder",
       "published": "2026-10-08T14:16:37+00:00",
       "summary": "After resurrecting iconic consoles like the 2600 and Mattel's Intellivision, Atari is relaunching one of the brand's personal computers that originally debuted 43 years ago. The 800XL is a faithful recreation of the all-in-one 8-bit PC that's being resurrected as part of a collab"
+    },
+    {
+      "id": "6f25dd815cdd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "보리카와 오픈웨이, 불가리아 유로 결제 혁신으로 페이360 어워즈 수상",
+      "link": "https://zdnet.co.kr/view/?no=20261008231013",
+      "published": "2026-10-08T14:10:13+00:00",
+      "summary": "[지디넷코리아] 불가리아의 결제 혁신과 성공적인 유로화 전환에 기여한 공로 인정받아 최우수 파트너십 이니셔티브상 영예 런던, 2026년 10월 8일 PRNewswire / -- 보리카(BORICA AD)와 오픈웨이(OpenWay)가 불가리아의 결제 인프라와 성공적인 유로화 전환에 기여한 공로로 페이360 어워즈 2026(PAY360 Awards 2026)에서 최우수 파트너십 이니셔티브상(Best Partnership Initiative Award)을 공동 수상했다. BORICA and OpenWa"
+    },
+    {
+      "id": "eb19e525cc0a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로크웰 오토메이션과 업계 선도 기업, 제약 개발의 디지털 트랜스포메이션을 가속화하기 위한 디지털 CMC 컨소시엄 출범",
+      "link": "https://zdnet.co.kr/view/?no=20261008231002",
+      "published": "2026-10-08T14:10:02+00:00",
+      "summary": "[지디넷코리아] 새로운 산업 협력을 통해 제약 분야의 가장 복잡한 개발 과제 해결 및 혁신적인 치료제에 대한 환자 접근성 단축 밀워키, 2026년 10월 8일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 트랜스포메이션 전문 기업인 Rockwell Automation, Inc.(NYSE: ROK)는 오늘, 의약품 개발 가속화를 위한 디지털 표준 및 인프라 발전에 중점을 둔 비경쟁적 비영리 산업 협력체인 디지털 CMC 컨소시엄의 창립 회원사임을 발표했습니다. Rockwell Aut"
     },
     {
       "id": "9a8814ae8837",
@@ -100,6 +386,17 @@
       "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
       "published": "2026-10-08T13:28:39+00:00",
       "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
+    },
+    {
+      "id": "1667c4a28486",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Beauty in DVD Menus",
+      "link": "https://vale.rocks/posts/dvd-menus",
+      "published": "2026-10-08T13:22:01+00:00",
+      "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 204 # Comments: 128"
     },
     {
       "id": "3b42723d72be",
@@ -199,6 +496,17 @@
       "link": "https://www.youtube.com/shorts/kKHFaD3maTk",
       "published": "2026-10-08T12:00:26+00:00",
       "summary": ""
+    },
+    {
+      "id": "d96d331a2547",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "published": "2026-10-08T12:00:20+00:00",
+      "summary": "Article URL: https://quesma.com/blog/invisible-cities-one-shot/ Comments URL: https://news.ycombinator.com/item?id=50004790 Points: 298 # Comments: 156"
     },
     {
       "id": "7232c5ffc807",
@@ -2509,6 +2817,17 @@
       "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
       "published": "2026-10-06T16:00:00+00:00",
       "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
+    },
+    {
+      "id": "d6c6097162ee",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Slow Formation of Durable Software",
+      "link": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "published": "2026-10-06T15:54:24+00:00",
+      "summary": "Article URL: https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/ Comments URL: https://news.ycombinator.com/item?id=49980346 Points: 220 # Comments: 93"
     },
     {
       "id": "bb4c5cf8a0e4",
