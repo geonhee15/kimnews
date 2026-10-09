@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-10-09T13:36:28.762588+00:00",
-  "count": 15555,
+  "updated_at": "2026-10-09T19:00:33.858361+00:00",
+  "count": 15585,
   "items": [
+    {
+      "id": "4997d5c4787a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "published": "2026-10-09T18:57:06+00:00",
+      "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off."
+    },
+    {
+      "id": "7453b4dc77ba",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft tries to spark new life into Windows",
+      "link": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
+      "published": "2026-10-09T17:00:00+00:00",
+      "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like "
+    },
+    {
+      "id": "919e36594f51",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "published": "2026-10-09T16:56:42+00:00",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted m"
+    },
+    {
+      "id": "cd8c1599d939",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple and LG leak shows new ‘tap to control’ HomeKit features",
+      "link": "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor",
+      "published": "2026-10-09T16:45:31+00:00",
+      "summary": "A post on X from \"pdfu,\" who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to the new leak, they could include an NFC-based \"Proximity Control\" feature that pops u"
+    },
+    {
+      "id": "facbb87963aa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "published": "2026-10-09T16:45:00+00:00",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+    },
+    {
+      "id": "4d195bb374cc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "published": "2026-10-09T16:40:14+00:00",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+    },
+    {
+      "id": "27adef4e1ca1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
+      "link": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
+      "published": "2026-10-09T16:09:08+00:00",
+      "summary": "The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee."
+    },
+    {
+      "id": "2af86cdc964c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+      "published": "2026-10-09T16:07:26+00:00",
+      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software."
+    },
+    {
+      "id": "2bcdfdcd04a9",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "published": "2026-10-09T16:00:00+00:00",
+      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "7a7a537ef4e7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Remember Orkut? Its founder wants to bring it back",
+      "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+      "published": "2026-10-09T15:56:15+00:00",
+      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content."
+    },
+    {
+      "id": "85e2c103bdb1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "published": "2026-10-09T15:43:33+00:00",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+    },
+    {
+      "id": "68aefad32eeb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "YouTube, Meta, and Twitch won’t say if they’ll allow the US government to livestream an execution",
+      "link": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
+      "published": "2026-10-09T15:15:30+00:00",
+      "summary": "YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge's requests for comment after an unnamed Pentagon official said yesterday that the execution of Nidal Ha"
+    },
+    {
+      "id": "922fc4fbf2e3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI is in the computer",
+      "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
+      "published": "2026-10-09T15:10:12+00:00",
+      "summary": "It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlong into the smart home, the actual strategy appears to be almost always the same. A"
+    },
+    {
+      "id": "551571a605dc",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I’m Still Convinced the iPod Was the Perfect Gadget",
+      "link": "https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/",
+      "published": "2026-10-09T15:00:00+00:00",
+      "summary": "Apple’s original music player got many things right. Chief among them: It didn’t connect to the internet."
+    },
+    {
+      "id": "5995fdfa78fa",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "published": "2026-10-09T14:25:43+00:00",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press"
+    },
+    {
+      "id": "e2b406e40b58",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "published": "2026-10-09T14:00:00+00:00",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its stra"
+    },
+    {
+      "id": "17166aac1102",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI \"연구원 3명 해고, 안전문제 제기 때문 아냐\"",
+      "link": "https://zdnet.co.kr/view/?no=20261009225448",
+      "published": "2026-10-09T13:54:48+00:00",
+      "summary": "[지디넷코리아]오픈AI가 안전 담당 연구원 해고 사태에 대해 본격적으로 해명하고 나섰다.CNBC를 비롯한 외신들에 따르면 오픈AI는 8일(현지시간) 안전 전문 연구자 3명을 해고한 것은 ‘심각한 신뢰 위반’을 저질렀기 때문이라고 반박했다.오픈AI는 지난 주 재스민 왕, 토멕 코박, 미키타 바레스니 등 안전팀 소속 연구원 3명을 해고했다.해고된 세 명의 연구원은 오픈AI 이사회 및 이사회 산하 안전위원회에 보낸 편지에서 인공지능(AI)의 안전우려를 제기한 뒤 해고됐다고 주장했다. 세 명 모두 9월 "
+    },
     {
       "id": "e4d3ab89049c",
       "source": "The Verge",
@@ -14,6 +201,61 @@
       "summary": "Google's new operating system is off to a rocky start. The five newly launched Googlebook laptops have hardware that ranges from great to excellent, but the software in its current state is the weak point. There are four of us on staff at The Verge actively testing Googlebooks an"
     },
     {
+      "id": "1871b87cf138",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기경학회 기후&에너지 칼럼] 전력수급기본계획은 왜 빗나갈까",
+      "link": "https://zdnet.co.kr/view/?no=20261009223352",
+      "published": "2026-10-09T13:33:52+00:00",
+      "summary": "[지디넷코리아]지난 8월 제12차 전력수급기본계획(전기본)의 2040년 전력소비량 전망이 약 847TWh로 제시됐다. 넉 달 전 잠정안은 약 658TWh였다. 반도체와 AI 데이터센터 투자계획을 반영하자 15년 뒤의 숫자가 넉 달 만에 29% 늘었다. 전기본을 하나의 숫자 대신 여러 시나리오로 제시하자는 제안은 학계와 국회에서 이미 여러 차례 나왔다. 이 글은 그 앞뒤의 질문을 다룬다. 전망은 왜 빗나갈 수밖에 없는가. 그렇다면 우리는 무엇을 바꿔야 하는가.그림1은 2002년 1차부터 2025년 "
+    },
+    {
+      "id": "387822ae46cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[인사] 국토교통부",
+      "link": "https://zdnet.co.kr/view/?no=20261009222416",
+      "published": "2026-10-09T13:24:16+00:00",
+      "summary": "[지디넷코리아]◇국장급 승진 ▲국토정보정책관 이대섭 ▲지방시대기획관(국토공간혁신국장) 한정희◇과장급 전보 ▲규제개혁법무담당관 김영아 ▲건축안전과장 위은환 ▲토지정책과장 강태석 ▲모빌리티총괄과장 윤성업 ▲12.29 여객기 참사피해자지원단 계획총괄과장 안재혁 ▲공공택지조사개발과장 이랑"
+    },
+    {
+      "id": "b11ee57ab1bd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메타, 아동 성착취물 유도 광고 탐지에 LLM 도입",
+      "link": "https://zdnet.co.kr/view/?no=20261009221920",
+      "published": "2026-10-09T13:19:20+00:00",
+      "summary": "[지디넷코리아]메타가 현지 시각 10월 7일 올해 상반기 페이스북과 인스타그램에서 아동 성착취 콘텐츠 3,320만 건에 조치했다고 발표했다. 이 가운데 97% 이상은 이용자 신고 전에 자체 시스템이 먼저 찾아냈다. 인도에서는 같은 기간 530만 건에 조치했고, 98% 이상을 신고 전에 탐지했다.메타는 정상 광고처럼 보이지만 이용자를 외부 불법 사이트로 유도하는 광고를 찾는 대형언어모델(LLM) 시스템을 도입했다. 메타는 이 수법을 '사인포스팅(signposting)'이라고 부르며, 탐지를 피하려는"
+    },
+    {
+      "id": "7ce251c1a7a8",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft barred from sponsoring foreign workers for US residency",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+      "published": "2026-10-09T13:14:33+00:00",
+      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim."
+    },
+    {
+      "id": "6f889ae2851f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "published": "2026-10-09T13:12:47+00:00",
+      "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 428 # Comments: 179"
+    },
+    {
       "id": "df172c777375",
       "source": "The Verge",
       "kind": "article",
@@ -23,6 +265,17 @@
       "link": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
       "published": "2026-10-09T13:12:45+00:00",
       "summary": "Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg. The ban, which went into effect on Thursday, restricts ads and paid mar"
+    },
+    {
+      "id": "101fe2333ed6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cloudflare acquires Deno",
+      "link": "https://deno.com/blog/cloudflare",
+      "published": "2026-10-09T13:03:48+00:00",
+      "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 783 # Comments: 420"
     },
     {
       "id": "9761bef96d19",
@@ -80,6 +333,17 @@
       "summary": "스페이스X가 대규모 주파수 확보에 나서며 전통적인 지상 이동통신 시장에 도전장을 던졌다. 위성 인터넷 스타링크에 이어 저궤도 위성과 지상 인프라를 결합한 모바일 네트워크 구축을 가속, 글로벌 통신 시장의 판도 변화와 함께 수익 다각화에 속도를 내는 양상이다.스페이스X는 8일(현지시간) 사모펀드 운용사 그레인 매니지먼트(Grain Management)로부터 미국 전역의 800메가헤르츠(MHz) 대역 무선 주파수 사용권 인수 계약을 체결했다고 발표했다. 거래 금액은 공개되지 않았으나, 업계에 따르면 "
     },
     {
+      "id": "c3282d0682ab",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "published": "2026-10-09T11:03:48+00:00",
+      "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 316 # Comments: 137"
+    },
+    {
       "id": "b0a73c1aedeb",
       "source": "Wired",
       "kind": "article",
@@ -113,6 +377,17 @@
       "summary": "엔비디아의 지원을 받으며 초대형 상장으로 주목받았던 데이터센터 전문 퍼머스(Firmus)가 50억달러(약 6조7000억원) 규모의 호주 증시 기업공개(IPO)를 철회했다. 수요예측 과정에서 고평가 논란과 부채 우려가 불거지자 공모 절차를 전면 취소한 것으로, 이번 사례는 초대형 AI 인프라 기업에 대한 공모 시장의 첫 검증이자 AI 기업 가치 평가에 경고등이 켜진 상징적 사건이라는 점에서 시장의 비상한 관심을 받고 있다.9일 로이터와 월스트리트저널(WSJ) 등에 따르면, 호주 증권거래소(ASX) "
     },
     {
+      "id": "052609386ccc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "published": "2026-10-09T10:12:11+00:00",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 353 # Comments: 185"
+    },
+    {
       "id": "a0063ecc832c",
       "source": "Wired",
       "kind": "article",
@@ -135,6 +410,17 @@
       "summary": "[지디넷코리아]스페이스X가 미국 전역을 아우르는 800MHz 대역 주파수 확보에 나섰다. 지상 이동통신사와 직접 경쟁을 예고한 셈이다. 위성통신의 약점으로 꼽혔던 실내 통신 문제를 해결하고, 위성과 지상망을 결합한 이동통신 서비스로 사업을 확대한다는 전략으로 풀이된다.8일(현지시간) 로이터와 월스트리트저널 등에 따르면 스페이스X는 미국 투자회사 그레인매니지먼트가 보유한 800MHz 대역 주파수 면허 전체를 인수하는 계약을 체결했다. 최대 14MHz 폭의 주파수가 대상이다. 인수 금액은 공식 공개되"
     },
     {
+      "id": "364dc6e70dfe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "published": "2026-10-09T10:00:26+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/ Comments URL: https://news.ycombinator.com/item?id=50018350 Points: 242 # Comments: 156"
+    },
+    {
       "id": "ddde233626be",
       "source": "Wired",
       "kind": "article",
@@ -155,6 +441,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
       "published": "2026-10-09T09:48:26+00:00",
       "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear poli"
+    },
+    {
+      "id": "b10edcc4041f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sorry, I'm in a meeting",
+      "link": "https://iminafleeting.com/",
+      "published": "2026-10-09T09:21:48+00:00",
+      "summary": "Article URL: https://iminafleeting.com/ Comments URL: https://news.ycombinator.com/item?id=50018088 Points: 542 # Comments: 181"
     },
     {
       "id": "cb359bb75b58",
@@ -300,6 +597,17 @@
       "summary": "[지디넷코리아]글로벌 인공지능(AI) 인프라 기업 코어위브가 한국 시장 공략에 속도를 내고 있다. 국내 여러 데이터센터 사업자들과 협력 방안을 논의하는 가운데 고성능 그래픽처리장치(GPU) 공급뿐 아니라 AI 추론 시장으로 사업 영역을 넓히려는 움직임도 본격화하고 있다.9일 업계에 따르면 코어위브는 한국 데이터센터 사업 진출 가능성을 열어두고 국내 여러 사업자들과 협의를 진행하고 있는 것으로 파악됐다. 구체적인 투자 규모와 데이터센터 위치, 협력 기업 등은 공개되지 않았다.코어위브는 최근 아시아 "
     },
     {
+      "id": "13358535edc0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "韓 공략 시동 건 코어위브…데이터센터 협력·추론 사업 키운다",
+      "link": "https://zdnet.co.kr/view/?no=20261009152305",
+      "published": "2026-10-09T07:06:12+00:00",
+      "summary": "[지디넷코리아]글로벌 인공지능(AI) 인프라 기업 코어위브가 한국 시장 공략에 속도를 내고 있다. 국내 여러 데이터센터 사업자들과 협력 방안을 논의하는 가운데 고성능 그래픽처리장치(GPU) 공급뿐 아니라 AI 추론 시장으로 사업 영역을 넓히려는 움직임도 본격화하고 있다.9일 업계에 따르면 코어위브는 한국 데이터센터 사업 진출 가능성을 열어두고 국내 여러 사업자들과 협의를 진행하고 있는 것으로 파악됐다. 구체적인 투자 규모와 데이터센터 위치, 협력 기업 등은 공개되지 않았다.코어위브는 최근 아시아 "
+    },
+    {
       "id": "b9d60fd93cb5",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -309,6 +617,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261009115744",
       "published": "2026-10-09T07:00:03+00:00",
       "summary": "[지디넷코리아]한국인의 디지털 기술 활용 능력은 세계 최상위 수준이지만 개인정보 보호와 온라인 정보 검증 등 안전 역량은 상대적으로 부족한 것으로 나타났다. 생성형 인공지능(AI)이 일상으로 확산하면서 기술을 능숙하게 사용하는 것뿐 아니라 안전하고 책임 있게 활용하는 능력을 높여야 한다는 지적이 나온다.국무조정실 지속가능발전추진단이 2027년 유엔 고위급 정치포럼(HLPF) 제출용으로 지난달 30일 공개한 '대한민국 지속가능발전 국가보고서' 초안에 따르면 한국은 정보·데이터 문해력과 디지털 콘텐츠"
+    },
+    {
+      "id": "0345c6287016",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Impactful scheduling for GPU clusters",
+      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published": "2026-10-09T06:20:29+00:00",
+      "summary": ""
     },
     {
       "id": "0da363824cf8",
@@ -716,6 +1035,17 @@
       "link": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
       "published": "2026-10-08T19:11:45+00:00",
       "summary": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday."
+    },
+    {
+      "id": "6e925a18df92",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The value of not getting to the point (2015)",
+      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "published": "2026-10-08T19:04:56+00:00",
+      "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 218 # Comments: 74"
     },
     {
       "id": "89e5ccef634d",
