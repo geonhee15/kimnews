@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-10-09T00:23:04.088385+00:00",
-  "count": 15501,
+  "updated_at": "2026-10-09T06:27:38.649321+00:00",
+  "count": 15523,
   "items": [
+    {
+      "id": "fd42393ecf61",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
+      "link": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
+      "published": "2026-10-09T04:46:11+00:00",
+      "summary": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later found to be unlawful in federal court."
+    },
+    {
+      "id": "8699085446e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈AI, 수학 난제 해결 주장…학계, 신뢰성에 의문 드러내",
+      "link": "https://zdnet.co.kr/view/?no=20261009073816",
+      "published": "2026-10-09T04:00:01+00:00",
+      "summary": "[지디넷코리아]오픈AI가 인공지능(AI)으로 수학 난제를 대거 풀었다고 발표했지만 일부 연구에서 오류가 발견되면서 결과의 신뢰성을 둘러싼 논란이 일고 있다.8일(현지시간) 테크크런치에 따르면 오픈AI는 지난 6일 AI를 활용한 수학 연구 원고 722건을 공개한 후 하루 만에 오류가 발견된 원고 3건을 철회했다. 일부 수학자들은 AI가 내놓은 풀이가 실제로 맞는지 확인하기 어렵고 연구 결과를 충분히 검토하지 않은 채 발표한 것 아니냐는 의문을 제기했다.오픈AI는 이번 연구에 아직 일반에 공개하지 않"
+    },
+    {
+      "id": "1d3f64633a36",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+      "published": "2026-10-09T03:45:25+00:00",
+      "summary": "오픈AI에서 해고된 안전 연구원 3명이 회사에 외부 안전 평가기관과의 협력 강화와 최첨단 AI 모델의 추론 과정을 감시할 수 있는 능력 유지를 촉구했다. 이들은 이번 해고가 내부 직원들에게 불이익에 대한 공포를 심어주는 '위축 효과(Chilling Effect)'를 일으키고, AI 위험을 검증하는 외부 협력 체계에도 악영향을 미칠 수 있다고 경고했다.자스민 왕, 토멕 코르박, 미키타 발레스니는 8일(현지시간) 오픈AI 이사회와 안전 관련 위원회에 보낸 공개서한에서 이같이 주장했다. 세 사람은 오픈"
+    },
+    {
+      "id": "4344b8e893b7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향",
+      "link": "https://zdnet.co.kr/view/?no=20261009114316",
+      "published": "2026-10-09T03:07:51+00:00",
+      "summary": "[지디넷코리아]삼성전자가 올해 스마트폰 출하량 목표를 2억 4000만대에서 2억 3000만대 초반으로 낮췄다. 메모리 반도체 가격 급등에 따른 완제품 가격 인상, 수요 위축 등이 주요 원인이다. 삼성전자는 올해 남은 기간 애플 아이폰 판매량에 따라 스마트폰 출하량 1위를 애플에 빼앗길 수도 있다. 9일 업계에 따르면 삼성전자는 최근 부품 협력사에 4분기 스마트폰 부품 발주량 전망치를 낮춰 통보한 것으로 파악됐다. 한 업계 관계자 A는 \"삼성전자가 최근 협력사에 연간 스마트폰 출하량 2억 3000만"
+    },
+    {
+      "id": "51e44f6c5950",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216102",
+      "published": "2026-10-09T03:05:00+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 실리콘밸리 기술 리더들을 백악관으로 불러 모아 최고 영예의 훈장을 수여하고 24억달러(약 3조2000억원) 규모의 AI 연구 투자를 확정 지었다. 하지만 정책 발표 직전 수혜 기업의 주식을 사들인 이해충돌 논란과 함께, 비자 발급 중단 및 AI 안전 감사를 앞세운 길들이기가 동시에 진행되고 있다.트럼프 대통령은 8일(현지시간) 워싱턴 D.C.에서 열린 정상회담에서 젠슨 황 엔비디아 CEO, 일론 머스크 CEO, 세르게이 브린 구글 공동창업자, 리사 수 AMD CEO에게"
+    },
+    {
+      "id": "4a8ce0c2d664",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 외국인 노동자 단속 강화…MS·어도비 영주권 신청 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216097",
+      "published": "2026-10-09T02:59:01+00:00",
+      "summary": "도널드 트럼프 행정부가 마이크로소프트(MS)와 어도비를 비롯한 주요 기술 기업의 외국인 노동자 영주권 취득 절차를 중단했다. 미국인 일자리를 보호하고 취업 비자 제도의 부정 이용을 막겠다는 명분으로, 외국인 전문 인력의 영주권 취득 경로를 겨냥한 대대적인 단속에 나선 것이다. 로이터 등에 따르면, JD 밴스 미국 부통령은 8일(현지시간) MS가 미국 노동자를 해고하면서 외국인 노동자를 고용해 왔다고 비판했다. 그는 MS가 지난해 미국인 직원 약 6000명을 해고하면서 'H-1B' 취업 비자와 영주"
+    },
+    {
+      "id": "074e398e6a61",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "애플, ‘스마트홈 허브’ 베일 벗나…13일 공개 유력",
+      "link": "https://zdnet.co.kr/view/?no=20261009111208",
+      "published": "2026-10-09T02:38:24+00:00",
+      "summary": "[지디넷코리아]애플이 오는 13일(이하 현지시간) 새로운 스마트홈 제품을 선보일 전망이라고 나인투파이브맥 등 외신들이 8일 보도했다. 보도에 따르면 애플은 이날 언론 관계자들에게 행사 초대장을 발송했다.그렉 조스위악 애플 글로벌 마케팅 담당 수석부사장은 애플 로고가 자수로 새겨지는 과정을 담은 티저 영상을 공개했다. 애플은 이와 함께 언론 관계자들에게 초대장을 보내며 신제품 공개를 예고했다.이번 행사에서는 오랫동안 출시설이 제기돼 온 스마트홈 허브를 비롯해 차세대 애플 TV 4K와 새롭게 단장한 "
+    },
+    {
+      "id": "64336a339091",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성·TSMC, 올 3분기도 파운드리 '희비교차'…점유율 격차 확대 전망",
+      "link": "https://zdnet.co.kr/view/?no=20261009083023",
+      "published": "2026-10-09T02:30:01+00:00",
+      "summary": "[지디넷코리아]삼성전자, TSMC 간 파운드리 사업의 희비가 엇갈렸다. 삼성전자 파운드리 사업부의 경우, 올 3분기 매출이 전년동기 및 전분기 대비 소폭 증가하는 데 그쳤다. 반면 TSMC는 두 자릿 수의 성장세로 삼성전자와의 격차를 더 확대할 수 있게 됐다.9일 업계에 따르면 삼성전자, TSMC의 파운드리 사업 매출은 기업별로 상이한 흐름을 보이고 있다.앞서 삼성전자는 올 3분기 연결기준 잠정 실적으로 매출 195조원, 영업이익 107조 4000억원을 기록했다. 사상 첫 영업이익 100조원 돌파"
+    },
+    {
+      "id": "7f2213b22a84",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 연간 매출 추정치 27조 하향…빅테크 주가 일제히 요동",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216098",
+      "published": "2026-10-09T02:18:39+00:00",
+      "summary": "오픈AI의 연간 반복 매출(ARR)이 당초 시장에 알려진 수치보다 200억달러(약 26조8600억원)가량 적은 것으로 확인되면서 월가와 글로벌 기술 시장이 크게 요동쳤다.8일(현지시간) 파이낸셜타임스(FT)에 따르면, 오픈AI는 최근 투자자 설명회를 통해 9월 말 기준 ARR이 500억달러(약 67조1500원)에 육박했다고 공개했다. 이는 지난달 말 시장과 주요 매체를 통해 알려졌던 680억~700억달러를 크게 밑도는 수치다.이번 수치 하향은 오픈AI의 사업 성과가 악화된 것이 아니라, 경쟁사인 "
+    },
+    {
+      "id": "ca400f3c8eb2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "헬피, 케냐 호마베이 카운티 보건부와 결핵 및 고혈압 선별검사 시범사업 MOU 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261009111007",
+      "published": "2026-10-09T02:10:07+00:00",
+      "summary": "[지디넷코리아] 인구 규모의 시범사업 통해 호마베이 내 5개 하위 행정구역의 취약계층 주민 10만 명 대상 검사 실시 멜버른, 호주, 2026년 10월 9일 /PRNewswire/ -- 전 세계 의료 서비스를 혁신하고 있는 인공지능(AI) 기반 예방의료 네트워크 헬피 AI(Helfie AI, 이하 '헬피')가 오늘 케냐 호마베이 카운티 보건부(Homa Bay County Ministry of Health)와 인구 규모의 건강 선별검사 및 모니터링 프로그램 시범 운영을 위한 양해각서(MOU)를 체결"
+    },
+    {
+      "id": "91376a882631",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+      "published": "2026-10-09T01:27:51+00:00",
+      "summary": "구글 클라우드가 기업용 AI 통합 솔루션인 '제미나이 에이전트(Gemini agent)'를 공개하며 차세대 에이전트 시장 주도권 잡기에 나섰다. 이번 발표는 단발성 질의응답을 처리하는 대화형 챗봇 단계를 넘어, 기업 내 실질적인 자율 수행 디지털 동료를 구축하려는 구글의 전략적 기조를 잘 보여준다.구글 클라우드는 8일(현지시간) 미국 샌프란시스코에서 '제미나이 앳 워크' 행사를 열고 제미나이 에이전트를 선보였다. 순다르 피차이 구글 CEO는 \"제미나이는 현재 월간 활성 사용자(MAU) 수가 10억"
+    },
+    {
+      "id": "d3ef19c08ec4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "먹고 입고 쓰는 한글…유통업계, 한글날 제정 100주년 마케팅 활발",
+      "link": "https://zdnet.co.kr/view/?no=20261008111304",
+      "published": "2026-10-09T01:08:44+00:00",
+      "summary": "[지디넷코리아]한글날 제정 100주년을 맞아 유통업계가 한글을 활용한 상품과 행사를 선보인다. 한글 모양 초콜릿과 시집 속 문장을 담은 파자마, 브랜드 정체성을 담은 한글 폰트 등 일상에서 한글을 접하는 기회를 넓혔다. 음료에 우리말 이름을 붙이는 이벤트와 팝업스토어, 도심 속 미디어아트 등 즐길 거리도 마련했다.9일 업계에 따르면 롯데웰푸드는 국립한글박물관과 협업해 ‘에이비씨 한글 한정판’을 출시했다. 기존 알파벳 형태 대신 한글 자음과 모음을 담았다. 자음 19종과 모음 10종, 특수문자 5종"
+    },
+    {
+      "id": "7e84c8c0406a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"오픈AI 매출 기대이하\" 전망에…반도체 주 충격파",
+      "link": "https://zdnet.co.kr/view/?no=20261009094454",
+      "published": "2026-10-09T00:45:44+00:00",
+      "summary": "[지디넷코리아]챗GPT로 생성형 인공지능(AI) 바람을 일으킨 오픈AI의 연간 매출이 기대에 크게 못 미치는 것으로 나타났다. 그 여파로 S&P500, 나스닥 등 미국 주요 증시가 일제히 약세로 돌아섰다.8일(현지시간) 파이낸셜타임스를 비롯한 주요 외신들에 따르면 개발사인 오픈AI는 투자자들에게 연간 환산 매출이 500억 달러 수준으로 예상된다고 말했다.이 같은 실적은 당초 예상치인 700억 달러에 200억 달러 가량 못 미치는 수준이다.이는 투자자들이 그 동안 갖고 있던 불안을 더 강화시킬 가능"
+    },
+    {
+      "id": "59ff3446cbe7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "일본, 태양광 지원체계 바꾼다…공공부지·카포트·인프라에 집중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216064",
+      "published": "2026-10-09T00:40:00+00:00",
+      "summary": "일본이 2027년 4월부터 일반적인 지상형 사업용 태양광을 고정가격매입제도(FIT)와 시장연동형 프리미엄제도(FIP)의 신규 지원 대상에서 제외하는 대신, 공공부지와 태양광 카포트, 철도·공항 등 지역과의 충돌 가능성이 상대적으로 낮은 사업에 지원을 집중하는 방안을 추진한다.일본 경제산업성 산하 재생가능에너지 주력전원화 소위원회는 지난 9월30일(현지시간) 2027년도 이후 사업용 태양광 지원 대상과 관련해 10개 후보 유형 가운데 4개 유형을 지원 중점화 대상으로 선정하는 사무국안을 검토했다.대"
+    },
+    {
+      "id": "3b2ab0d6d31c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, 23~24일 독서문화축제…야외 독서·섬 체험 운영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216083",
+      "published": "2026-10-09T00:30:00+00:00",
+      "summary": "AI 생성 영상여수시가 책과 지역의 섬을 연계한 독서문화축제를 이순신도서관에서 연다.여수는 오는 10월23일부터 24일까지 이틀간 이순신도서관 일원에서 ‘2026 독서문화축제 BOOK적BOOK적 IN 여수’를 개최한다고 8일 밝혔다.올해 축제는 ‘섬, 책과 추억을 잇다’를 주제로 독서와 공연, 어린이 체험 등을 함께 즐길 수 있도록 구성했다.대표 프로그램인 ‘텐트 밖은 도서관’은 이순신도서관 2층 야외 공간에서 진행된다. 시민과 관광객이 야외에서 책을 읽고 공연을 함께 즐길 수 있도록 마련했다.섬"
+    },
+    {
+      "id": "e3b64676ae12",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "유럽 태양광발전소 ‘사이버 보안’ 경고…인터넷 노출 시스템 7,942개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216067",
+      "published": "2026-10-09T00:30:00+00:00",
+      "summary": "유럽 태양광발전소의 관리·제어 관련 시스템 7942개가 외부 인터넷에서 접근 가능한 상태로 확인됐다. 스페인에서만 전체의 35%인 2766개가 발견됐다. 다만 이번 조사는 시스템의 인터넷 노출 여부를 확인한 것으로, 해당 설비가 실제 해킹됐다는 의미는 아니다.네덜란드 인터넷 인텔리전스 업체 모닷(Modat)은 네덜란드 국가사이버보안센터(NCSC-NL) 연구자와 공동으로 진행한 조사에서 유럽 태양광·풍력 발전시설과 연결된 인터넷 노출 시스템 8547개를 확인했다고 6일(현지시간) 밝혔다. 연구 결과"
+    },
+    {
+      "id": "d5df67cbfc03",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인천 첫 ‘햇빛소득마을’ 강화 길정리…2MW 수상태양광 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216046",
+      "published": "2026-10-09T00:20:00+00:00",
+      "summary": "인천 강화 길정리에 주민이 직접 참여하는 2메가와트(MW) 규모 수상태양광 발전소가 들어선다. 주민과 지역 농협이 사업에 공동 출자하고 발전수익을 주민 배당과 마을 복지 등에 활용하는 방식으로, 인천에서 추진되는 첫 ‘햇빛소득마을’이다.인천광역시는 강화군 양도면 길정리의 ‘길정햇빛소득마을협동조합’이 행정안전부 주관 햇빛소득마을 공모사업에 최종 선정됐다고 7일 밝혔다. 인천에 따르면 길정리 사업은 이번 공모에서 2MW 규모의 수상태양광 사업으로 선정됐으며, 인천은 이를 전국 최대 규모의 주민주도형 "
+    },
     {
       "id": "8011cf38050e",
       "source": "AI타임스",
@@ -14,6 +201,17 @@
       "summary": "국내 주요 금융기관을 겨냥해 대규모 사이버 공격을 감행한 중국 거주 26세 해커가 어설픈 보안 관리로 신원 단서를 노출했다. 이번 사건은 침투 테스트용 AI 에이전트와 대형언어모델(LLM)이 실제 사이버 범죄에 본격 악용된 사례로 확인됐다.미국 사이버보안 전문 크라우드스트라이크(CrowdStrike)는 7일(현지시간) 한국 금융기관 대상 해킹 캠페인 인프라 및 AI 코딩 도구 세션 분석 결과를 담은 보고서를 공개했다. 이에 따르면 2026년 9월 말부터 10월 초까지 최소 9개 국내 은행을 겨냥해"
     },
     {
+      "id": "a43b0efa07b5",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, bu"
+    },
+    {
       "id": "7a9b3557fdfa",
       "source": "AI타임스",
       "kind": "article",
@@ -23,6 +221,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215960",
       "published": "2026-10-09T00:00:00+00:00",
       "summary": "이너 프롬프트이너리드(박설영) | 건기원2026년 8월 20일추천이유이 책은 AI를 제대로 활용하기 위해 먼저 자신의 문제를 정의하고 맥락 있는 질문을 만드는 사고법을 안내합니다. 독자는 체크리스트와 워크시트, RMS 프레임워크를 통해 오랫동안 쌓아온 경험과 판단 기준을 질문으로 전환하며, 개인의 질문이 팀과 조직의 자산으로 확장되는 과정까지 학습합니다.상세보기 영풍문고 AI 활용서 매대 앞에서 자주 보이는 장면이 있다. 40~50대 직장인이 '프롬프트 모음집'을 집어 들었다가 몇 장 넘겨 보고 "
+    },
+    {
+      "id": "740232e9c876",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아트프라이스, 2026년 제33회 현대 미술 시장 연례보고서 발표: 기록적인 거래, 가격 동향, 시장 지배력의 균형 및 글로벌 사우스 출신 아티스트들",
+      "link": "https://zdnet.co.kr/view/?no=20261009081003",
+      "published": "2026-10-08T23:10:03+00:00",
+      "summary": "[지디넷코리아] 파리, 2026년 10월 8일 PRNewswire / -- 프리즈 런던(Frieze London)과 아트 바젤 파리(Art Basel Paris)의 개막을 앞두고 아트프라이스(Artprice)가 큰 변화를 겪고 있는 시장의 현황을 분석한 33차 현대 미술 시장 연례보고서(Contemporary Art Market Report)의 출간을 발표했다. Artprice's 2026 Contemporary Art Market Report cover, featuring I See Genera"
+    },
+    {
+      "id": "2df5dbbc76f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"엔비디아 루빈 HBM4, 12단이 대세\"",
+      "link": "https://zdnet.co.kr/view/?no=20261008174405",
+      "published": "2026-10-08T23:00:02+00:00",
+      "summary": "[지디넷코리아]엔비디아 차세대 그래픽처리장치(GPU) '베라 루빈'에 탑재할 6세대 고대역폭메모리(HBM4)에서 12단 제품 비중이 대부분을 차지할 것이라는 전망이 나왔다. 최근 업계 일각에서 확산한 'HBM 단수 하향' 우려와 다르다. 시장조사업체 카운터포인트리서치는 9일 HBM4에서 12단 제품이 주력이 될 것이라고 추정했다. 카운터포인트의 이번 전망은 최근까지 업계 일각 전망과 엇갈린다. 최근 엔비디아가 주요 HBM 공급사에 주력품 사양을 12단에서 8단으로 낮춰달라고 요청했다는 언론 보도가"
     },
     {
       "id": "7e61eaf39e5a",
@@ -56,6 +276,17 @@
       "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
       "published": "2026-10-08T21:01:18+00:00",
       "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will br"
+    },
+    {
+      "id": "bc791ff4671a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "published": "2026-10-08T20:42:16+00:00",
+      "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 259 # Comments: 153"
     },
     {
       "id": "1f7f17f1184a",
@@ -672,6 +903,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261008184308",
       "published": "2026-10-08T09:51:55+00:00",
       "summary": "[지디넷코리아]AMD의 최고위 경영진이 한국의 인공지능(AI) 모델 경량화 및 최적화 기술력을 직접 확인하기 위해 노타 본사를 찾았다. 앞서 국내 AI 인프라 생태계 기업 13곳과 만난 가운데 개별 기업의 현장을 방문했다는 점에서 이례적인 행보다.8일 업계에 따르면 전날 리사 수 AMD 최고경영자(CEO)와 함께 방한한 잭 후인 AMD 컴퓨팅 및 그래픽 그룹 총괄 수석부사장, 조 마크리 AMD 부사장은 이날 오후 서울 강남구에 위치한 노타 사무실을 방문했다. 후인 수석부사장은 노타의 AI 모델 최"
+    },
+    {
+      "id": "d1156d78431f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Yes, and",
+      "link": "https://htmx.org/essays/yes-and/",
+      "published": "2026-10-08T09:48:18+00:00",
+      "summary": "Article URL: https://htmx.org/essays/yes-and/ Comments URL: https://news.ycombinator.com/item?id=50003796 Points: 329 # Comments: 89"
     },
     {
       "id": "23f309de1a04",
