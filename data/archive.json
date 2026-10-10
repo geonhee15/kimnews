@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-10-10T08:45:58.698223+00:00",
-  "count": 15641,
+  "updated_at": "2026-10-10T14:47:40.706460+00:00",
+  "count": 15662,
   "items": [
+    {
+      "id": "d6bf88a245de",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "published": "2026-10-10T14:41:16+00:00",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolve"
+    },
+    {
+      "id": "1c2c0a8959e6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-10-10T14:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "id": "536259f12e8c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "조코딩의 AI 리터러시 특강 1강 : 2026년, AI 지능은 어디까지 발전했나?",
+      "link": "https://www.youtube.com/watch?v=AHlWV-nI9yo",
+      "published": "2026-10-10T13:44:08+00:00",
+      "summary": ""
+    },
+    {
+      "id": "29df653f2fc2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Lobbying Is Corruption",
+      "link": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "published": "2026-10-10T13:05:58+00:00",
+      "summary": "Article URL: https://carette.xyz/posts/lobbying_and_corruption/ Comments URL: https://news.ycombinator.com/item?id=50032556 Points: 224 # Comments: 88"
+    },
+    {
+      "id": "94fe89cc3fc9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+      "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+      "published": "2026-10-10T13:00:00+00:00",
+      "summary": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inc"
+    },
+    {
+      "id": "3ff38c3f5934",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "published": "2026-10-10T13:00:00+00:00",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing"
+    },
+    {
+      "id": "9ad54eae121d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "티씨케이, 반도체 식각 SiC 포커스링 특허 정정...디에스테크노 상대 분쟁",
+      "link": "https://zdnet.co.kr/view/?no=20261010213456",
+      "published": "2026-10-10T12:54:21+00:00",
+      "summary": "[지디넷코리아]반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 1건을 정정했다. 일반적으로 특허 무효화 가능성이 있을 때 특허권자는 특허 권리범위를 좁혀 정정한다. SiC 포커스링은 반도체 식각 공정에 사용하는 소모성 부품이다.티씨케이는 지난 2019년 디에스테크노를 상대로 서울중앙지방법원에 특허침해소송을 제기했다. 디에스테크노는 대응 차원에서 티씨케이 특허 4건을 상대로 특허심판원에 여러 심판을 청구했다. 특허 3건에 대한 특허성 판단은 끝났고, 나머지 특허 1건 특허성 판"
+    },
+    {
+      "id": "8e21337302fd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 트럼프가 'SI'를 외치는 이유",
+      "link": "https://zdnet.co.kr/view/?no=20261010212201",
+      "published": "2026-10-10T12:22:01+00:00",
+      "summary": "[지디넷코리아]도널드 트럼프 미국 대통령이 미국 시간 8일 자신의 소셜미디어 트루스소셜에 글을 올렸다. '인공지능(AI)'이라는 말을 새 용어 '슈퍼 인텔리전스(SI)' 대신 쓰는 사람을 백악관은 \"적(THE ENEMY)\"으로 간주한다는 내용이다. 적으로 간주하면 무엇이 달라지는지는 밝히지 않았다.이 글은 갑자기 나온 것이 아니다. 트럼프는 9월 중순 트루스소셜에서 AI의 새 이름을 두고 몇 차례 투표를 벌였고, 9월 22일 유엔총회 연설에서 앞으로 AI를 공식적으로 '슈퍼 인텔리전스'라 부르겠다"
+    },
+    {
+      "id": "03e707d71389",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "published": "2026-10-10T12:00:00+00:00",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims."
+    },
+    {
+      "id": "93b4048e17b2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
+      "published": "2026-10-10T11:35:00+00:00",
+      "summary": "엔비디아가 AI 추론 칩 개발업체 d-매트릭스(d-Matrix)에 투자할 계획인 것으로 알려졌다. 경쟁 관계에 있는 반도체 업체들과 협력을 확대해 자사 GPU를 중심으로 한 AI 컴퓨팅 생태계를 넓히려는 움직임으로 풀이된다.디 인포메이션은 8일(현지시간) 거래에 정통한 소식통 3명을 인용해 엔비디아가 d-매트릭스에 투자할 계획이라고 보도했다. 투자 규모와 구체적인 조건은 공개되지 않았다.d-매트릭스는 AI 추론 작업에 특화된 칩을 개발하는 스타트업으로, 엔비디아와 경쟁하는 것을 목표로 설립됐다. "
+    },
+    {
+      "id": "8857c48d3545",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"금융권 AI 해킹 대응\"…파이오링크, CTEM·웹방화벽 등 공급",
+      "link": "https://zdnet.co.kr/view/?no=20261010201449",
+      "published": "2026-10-10T11:14:49+00:00",
+      "summary": "[지디넷코리아]최근 금융권 침해사고를 계기로 AI 기반 사이버 공격에 대한 우려가 커지고 있다. AI가 취약점 탐색부터 공격경로 분석, 침투 시도까지 자동화하면서 기존의 주기적인 취약점 점검과 사후 대응만으로는 고도화되는 사이버 위협에 대응하기 어려워지고 있기 때문이다.파이오링크(대표 조영철)는 AI 기반 공격에 대응하기 위해 지속적 위협 노출관리(CTEM)를 통한 선제적 위험 관리, 웹방화벽을 통한 실시간 공격 차단, 24시간 보안관제를 결합한 다층 방어체계가 필요하다고 9일 강조했다.최근 금융"
+    },
+    {
+      "id": "4a4aedb0fc59",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽 AI 모델, 미제 살인사건 허위제보 '논란'",
+      "link": "https://zdnet.co.kr/view/?no=20261010193638",
+      "published": "2026-10-10T10:41:16+00:00",
+      "summary": "[지디넷코리아]미국 앤트로픽의 인공지능(AI) 모델이 미해결 살인 사건에 대해 거짓 제보를 한 사실이 확인돼 파장이 일고 있다.9일(현지시간) 테크크런치를 비롯한 주요 외신에 따르면 앤트로픽의 AI 모델이 지난 7월 18일 필라델피아 경찰청(PPD)의 미제 사건 제보 웹사이트에 접속한 뒤 목격자인 것처럼 거짓 제보를 남겼다.앤트로픽 AI 모델의 거짓 제보는 내부 스팸 필터에 걸려 실제 수사 인력에 전달되지는 않았다.하지만 앤트로픽은 사건 발생 두 달 후인 지난 9월 28일 이 같은 사실을 알게 됐"
+    },
+    {
+      "id": "a751b36270bf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
+      "published": "2026-10-10T09:53:43+00:00",
+      "summary": "마이크로소프트(MS)가 AI 에이전트의 의사결정을 빠르고 효율적으로 처리하는 전용 모델을 공개했다. MS는 9일(현지시간) 구조화된 의사결정 작업에 특화한 AI 모델 '마이크로소프트 디시전-1(Microsoft-Decision-1)'을 공개했다.초기 버전은 '큐원3.5-9B'를 기반으로 구축됐으며, 앞으로 마이크로소프트의 'MAI'와 오픈AI의 다른 모델을 기반으로도 확장할 계획이다.이 모델은 모델 선택과 요청 분류, 작업 우선순위 지정, 결과 검증, 에이전트 제어 등 다양한 작업에서 기존 대형언"
+    },
+    {
+      "id": "d1c38a220c37",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "published": "2026-10-10T09:51:49+00:00",
+      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 260 # Comments: 152"
+    },
+    {
+      "id": "3a0b7caeb855",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이소영 중기부 장관 산업계와 첫 소통...\"신성장 혁신기업 육성\"",
+      "link": "https://zdnet.co.kr/view/?no=20261010181545",
+      "published": "2026-10-10T09:15:45+00:00",
+      "summary": "[지디넷코리아]이소영 중소벤처기업부(중기부) 장관이 8일 중소기업중앙회를 방문해 김기문 회장 등 중소기업단체협의회 소속 단체장들을 만나 중소기업에 대한 정책 방향에 대해 의견을 나눴다. 중소기업계와 소통 첫걸음이다.이번 자리는 이 장관 취임을 계기로 중소벤처기업부와 중소기업계 간 소통과 협력 기반을 강화하기 위해 마련됐다. 차담회에는 중소기업중앙회를 비롯해 벤처기업협회, 한국여성경제인협회, 이노비즈협회 등 12개 주요 중소기업단체 대표들이 참석했다.현장에서 이 장관은 중소기업이 우리 경제를 지탱하"
+    },
+    {
+      "id": "369c5103b40d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216113",
+      "published": "2026-10-10T09:06:51+00:00",
+      "summary": "테슬라가 유럽에서 운전자 보조 소프트웨어인 '완전 자율 주행 감독형(FSD·Full Self-Driving Supervised)'의 명칭을 '테슬라 보조 주행(Tesla Assisted Driving)'으로 변경했다. 유럽 규제 당국이 기존 명칭이 실제 기능보다 높은 수준의 자율주행을 제공하는 것처럼 오해를 일으킬 수 있다고 지적한 데 따른 조치다. 독일 교통부는 6일(현지시간) 공식 홈페이지를 통해 테슬라와의 협의를 통해 명칭 변경에 합의했다고 발표했다.또 테슬라는 스페인과 네덜란드, 슬로바키아"
+    },
+    {
+      "id": "a5f0fc9b2c4b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알리바바, 연산 단계 줄여 속도·효율 높인 '큐원 이미지 2.1 터보' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216108",
+      "published": "2026-10-10T08:51:37+00:00",
+      "summary": "알리바바가 기존 이미지 생성 모델보다 작업 과정을 대폭 간소화해 속도를 높인 이미지 생성·편집 모델 '큐원 이미지 2.1 터보(Qwen-Image-2.1-Turbo)'를 공개했다. 이미지 생성에 소요되는 반복 연산 단계를 줄여 처리 속도를 높이고 효율성을 극대화하는 것이 목적이다.알리바바는 9일(현지시간) 기존 ‘큐원 이미지 2.1’을 기반으로 개발한 ‘큐원 이미지 2.1 터보’를 출시했다. 원본 모델의 70억개 매개변수 구조와 성능을 그대로 유지하면서, 디노이징(Denoising) 단계를 기본 "
+    },
+    {
+      "id": "22fc323f8ee3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개발원, 일본 도쿄도에 K-전자정부 혁신 노하우 지속 전수",
+      "link": "https://zdnet.co.kr/view/?no=20261010173520",
+      "published": "2026-10-10T08:35:20+00:00",
+      "summary": "[지디넷코리아]일본 도쿄도 디지털서비스국 공무원 대표단이 8일 오후 한국지역정보개발원(이하 개발원)을 방문해 디지털 행정 혁신 노하우를 공유하고 교류 시간을 가졌다.개발원에 따르면, 이번 방문은 디지털 행정 추진 선진 사례를 공유하고 교류를 이어가기 위해 추진됐다. 도쿄도 디지털서비스국 총무부 도네 도시키(TONE Toshiki) 디지털 인사전략과장을 비롯한 대표단 5명이 개발원을 찾았다.개발원은 지난해 미야사카 마나부 도쿄도 부지사를 비롯한 대표단 방문에 이어 올해도 도쿄도 대표단을 맞아 K-전"
+    },
     {
       "id": "312d6f1c3c2f",
       "source": "AI타임스",
@@ -102,6 +300,17 @@
       "summary": "[지디넷코리아]텍스트를 생성하지 않는 인공지능(AI) 모델 '제브(Jev)'의 개발사 타입세이프AI가 모델 출시 몇 주 만에 75억 달러의 기업가치를 인정받았다.테크크런치에 따르면 타입세이프AI는 안드리센호로위츠(a16z)가 주도한 투자 라운드에서 8억7천만 달러를 유치했다. 세쿼이아와 기존 투자사 DCVC도 참여했다.제브는 지난달 15일 출시 직후 빠르게 입소문을 타며 주목받았다. 타입세이프AI는 포춘 500대 기업의 3분의 1이 이미 제브를 사용하고 있다고 주장했다.2024년 설립된 타입세이프"
     },
     {
+      "id": "f6d5680e380a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "텍스트 대신 확률값 출력 AI '제브', 출시 몇 주 만에 기업가치 75억 달러 평가",
+      "link": "https://zdnet.co.kr/view/?no=20261010105326",
+      "published": "2026-10-10T03:32:37+00:00",
+      "summary": "[지디넷코리아]텍스트를 생성하지 않는 인공지능(AI) 모델 '제브(Jev)'의 개발사 타입세이프AI가 모델 출시 몇 주 만에 75억 달러의 기업가치를 인정받았다.테크크런치에 따르면 타입세이프AI는 안드리센호로위츠(a16z)가 주도한 투자 라운드에서 8억7천만 달러를 유치했다. 세쿼이아와 기존 투자사 DCVC도 참여했다.제브는 지난달 15일 출시 직후 빠르게 입소문을 타며 주목받았다. 타입세이프AI는 포춘 500대 기업의 3분의 1이 이미 제브를 사용하고 있다고 주장했다.2024년 설립된 타입세이프"
+    },
+    {
       "id": "8dd7cb217918",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -133,6 +342,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261010011219",
       "published": "2026-10-10T03:23:16+00:00",
       "summary": "[지디넷코리아]넥슨이 신작 MMORPG '템빨: 오버기어드'의 원작 IP 구현 방향과 주요 콘텐츠를 소개하는 공식 영상 '템빨: 오버토크' 2편을 공개했다.지난 8일 공개된 영상에는 이종범 작가와 개발사 그레이게임즈의 최병천 PD, 윤순준 디렉터가 출연해 원작 '템빨'의 방대한 세계와 서사를 MMORPG 문법으로 재해석한 기획 의도와 세부 시스템을 설명했다.'템빨: 오버기어드'는 원작 주인공 '그리드'의 행적을 그대로 답습하는 대신, 이용자가 게임 내 세계관의 주역이 되어 고유한 이야기를 완성하는"
+    },
+    {
+      "id": "c4c3852a5a4b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "published": "2026-10-10T03:02:47+00:00",
+      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 262 # Comments: 136"
     },
     {
       "id": "cd9351892562",
@@ -2828,6 +3048,17 @@
       "link": "https://www.wired.com/story/shark-prime-day-vacuum-deals-10-07-2026/",
       "published": "2026-10-07T19:46:11+00:00",
       "summary": "Save on two Shark models I recommend after testing, including my favorite robot vacuum and a powerful cordless stick."
+    },
+    {
+      "id": "09c161260784",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "published": "2026-10-07T19:15:57+00:00",
+      "summary": "Article URL: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo Comments URL: https://news.ycombinator.com/item?id=49997481 Points: 222 # Comments: 45"
     },
     {
       "id": "4c57b12cefae",
