@@ -1,8 +1,44 @@
 {
   "issue_date": "2026-10-11",
-  "generated_at": "2026-10-10T19:05:57.125472+00:00",
-  "count": 1,
+  "generated_at": "2026-10-10T22:30:10.595051+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "73edd16d3632",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accep",
+      "content": "Microsoft’s CEO calls for putting an ‘emergency brake’ on AI.\n\nIn a lengthy post on X , Microsoft’s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a “set of nested black boxes” whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind “tamper-proof human readable evidence.”\n\nMany of his recommendations align with what we’ve heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It’s on that last point that he appears to go slightly farther than some others in the field, saying:\n\nWe must assume a model is compromised and contain it from the start. Think of it like an emergency brake. An authorized person should always be able to pause or shut down a model mid-task. More advanced models will require more advanced containment technologies that we need to standardize on.\n\nUnfortunately, Nadella also refers to AI as “super intelligence” throughout the post.\n\nThis is the title for the native ad",
+      "published": "2026-10-10T22:10:17+00:00"
+    },
+    {
+      "id": "3ac4762a27fd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "content": "Microsoft CEO Satya Nadella is the latest tech executive to offer lengthy thoughts on how AI safety might be improved.\n\nIn a Saturday morning post on X , Nadella wrote that it’s time “to step back and assess the trust architecture” of AI.\n\n“We can’t treat Super Intelligence as a set of nested black boxes and simply accept or reject its recommendations, answers, and actions,” Nadella wrote, using the Trump administration’s preferred term for AI .\n\nAs outlined by Nadella, this approach “means separating the model from the harness that orchestrates its work,” as well as “externalizing controls and safeguards.” He also called for “every meaningful model action” to be documented with “tamper-proof human readable evidence,” and for systems where “an authorized person” always has the ability “to pause or shut down a model mid-task.”\n\n“We must assume a model is compromised and contain it from the start,” he said. “Think of it like an emergency brake.”\n\nNadella’s comments come as leading AI companies acknowledge more and more incidents where they seemed to lose control of their models , and after Anthropic CEO Dario Amodei published a plan for more cautious AI development.\n\nGet 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.",
+      "published": "2026-10-10T21:47:51+00:00"
+    },
+    {
+      "id": "9e7afe8a5aba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "content": "Apple revealed in a regulatory filing that it has reached an agreement to bring on team members and technology from personalized audio startup Huxe, in what’s commonly known as a reverse acqui-hire deal.\n\nAs first reported in MacRumors , Apple disclosed to the European Commission that it has agreed to make employment offers to “certain employees of Huxe AI,” and to “receive a non-exclusive license to Huxe’s intellectual property rights.”\n\nReverse acqui-hires emerged in recent years as a way for larger companies to hire key team members and license technology from startups without acquiring the startups outright — presumably allowing them to build up AI talent and tech without drawing as much antitrust scrutiny. (Confusingly, these deals have both been referred to as “reverse acqui-hires” and as plain old “acqui-hires.” )\n\nIn the case of Huxe, the startup was founded by developers who’d previously worked on the AI-generated podcast features in NotebookLM (recently renamed Gemini Notebook ). But Huxe announced on May 21 that it was shutting down , with the team posting on the Huxe website that the company would be removing its app from the Apple and Google stores, halting service, and deleting user data.\n\n“The team is moving on to new things, and we won’t be continuing development of the product,” the company said. It also thanked its users, saying, “The fact that you used it, told friends about it, sent us your suggestions and your ideas, made it feel like we built it together.”\n\nOn June 9, shortly after Huxe’s announcement, Apple notified the European Commission of its deal.\n\nThe filing does not say who received employment offers or if they accepted. Nor does it disclose anything about Apple’s plans.\n\nPossibly related: Huxe’s shutdown announcement came just a day after Spotify unveiled AI-powered podcast generation features of its own , so Apple could be hoping to add similar functionality to its Podcasts app. Tech executives seem enamored with the idea that personalized audio can replace regular podcasts (and maybe even parent-child interaction ?), though it’s not clear how many normal listeners agree.\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing [email protected] .\n\nGet 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.\n\nElon Musk intensifies attack on Ambani over Starlink India launch delay Jagmeet Singh\n\nRemember Orkut? Its founder wants to bring it back Jagmeet Singh\n\nUS bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers Aisha Malik\n\nCal AI’s 19-year-old founder just raised $10M for his new AI startup Julie Bort\n\nGoogle releases a new local-first Granola competitor Ivan Mehta\n\nAnthropic is giving startups a free year of Claude Team and $1,000 in credits Russell Brandom\n\nAt 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI Dominic-Madori Davis",
+      "published": "2026-10-10T19:50:00+00:00"
+    },
     {
       "id": "06dcc00532fa",
       "source": "TechCrunch",

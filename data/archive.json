@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-10-10T19:05:57.229640+00:00",
-  "count": 15665,
+  "updated_at": "2026-10-10T22:30:10.695303+00:00",
+  "count": 15671,
   "items": [
+    {
+      "id": "73edd16d3632",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "published": "2026-10-10T22:10:17+00:00",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accep"
+    },
+    {
+      "id": "3ac4762a27fd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "2026-10-10T21:47:51+00:00",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+    },
+    {
+      "id": "9e7afe8a5aba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published": "2026-10-10T19:50:00+00:00",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+    },
     {
       "id": "06dcc00532fa",
       "source": "TechCrunch",
@@ -144,6 +177,28 @@
       "link": "https://zdnet.co.kr/view/?no=20261010201449",
       "published": "2026-10-10T11:14:49+00:00",
       "summary": "[지디넷코리아]최근 금융권 침해사고를 계기로 AI 기반 사이버 공격에 대한 우려가 커지고 있다. AI가 취약점 탐색부터 공격경로 분석, 침투 시도까지 자동화하면서 기존의 주기적인 취약점 점검과 사후 대응만으로는 고도화되는 사이버 위협에 대응하기 어려워지고 있기 때문이다.파이오링크(대표 조영철)는 AI 기반 공격에 대응하기 위해 지속적 위협 노출관리(CTEM)를 통한 선제적 위험 관리, 웹방화벽을 통한 실시간 공격 차단, 24시간 보안관제를 결합한 다층 방어체계가 필요하다고 9일 강조했다.최근 금융"
+    },
+    {
+      "id": "e8356ad2b39d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "published": "2026-10-10T10:57:31+00:00",
+      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 223 # Comments: 200"
+    },
+    {
+      "id": "92056d2ea7fa",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "published": "2026-10-10T10:52:09+00:00",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 222 # Comments: 112"
     },
     {
       "id": "4a4aedb0fc59",
@@ -3664,6 +3719,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261007213423",
       "published": "2026-10-07T12:34:23+00:00",
       "summary": "[지디넷코리아]구글이 현지 시각 10월 6일 제미나이 API 릴리스 노트를 통해 이미지 생성·편집 모델 '제미나이 나노 바나나 2.1(gemini-nano-banana-2.1)'을 정식 출시했다. 나노 바나나 2(제미나이 3.1 플래시 이미지)의 후속 모델로, 플래시급 속도와 비용을 유지하면서 화질과 프롬프트 반영 정확도, 여러 차례 대화를 이어 가며 편집할 때의 캐릭터 일관성, 이미지 속 글자 표현을 높였다. 상위 모델인 나노 바나나 프로(제미나이 3 프로 이미지)보다 효율에 초점을 맞춘 모델이"
+    },
+    {
+      "id": "16ac415161e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "2D Vehicles",
+      "link": "https://patkerr.co.uk/2d-vehicles/",
+      "published": "2026-10-07T12:30:40+00:00",
+      "summary": "Article URL: https://patkerr.co.uk/2d-vehicles/ Comments URL: https://news.ycombinator.com/item?id=49991852 Points: 270 # Comments: 62"
     },
     {
       "id": "99bab758a179",
