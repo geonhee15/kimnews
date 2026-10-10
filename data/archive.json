@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-10-10T14:47:40.706460+00:00",
-  "count": 15662,
+  "updated_at": "2026-10-10T19:05:57.229640+00:00",
+  "count": 15665,
   "items": [
+    {
+      "id": "06dcc00532fa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "published": "2026-10-10T16:25:42+00:00",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform."
+    },
     {
       "id": "d6bf88a245de",
       "source": "The Verge",
@@ -23,6 +34,17 @@
       "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "published": "2026-10-10T14:00:00+00:00",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "id": "4dde8a614d45",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부 주최 AI해킹 대회 12월 열린다...'ACDC' 예선 참가자 모집",
+      "link": "https://zdnet.co.kr/view/?no=20261010225607",
+      "published": "2026-10-10T13:56:07+00:00",
+      "summary": "[지디넷코리아]과학기술정보통신부와 한국인터넷진흥원(KISA, 원장 이상중)이 오는 12월 열리는 '인공지능(AI) 해킹 방어 대회(2026 AI Cyber Defense Contest, ACDC)'의 예선 참가자를 26일까지 모집한다.'AI 해킹 방어 대회(ACDC)'는 인공지능을 활용해 사이버 위협에 대응하는 ‘인공지능을 활용한 보안(AI for Security)’, 인공지능 자체를 공격으로부터 보호하는 ‘인공지능의 안전성 확보(Security for AI)’, 인공지능이 구동되는 환경을 보호하"
     },
     {
       "id": "536259f12e8c",
@@ -2971,6 +2993,17 @@
       "link": "https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/",
       "published": "2026-10-07T21:08:31+00:00",
       "summary": "I’ve compared cordless sticks, watched robot vacuums chase stains, and cleaned plenty of car crumbs. These discounts get my recommendation."
+    },
+    {
+      "id": "aa86e0658834",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+      "published": "2026-10-07T21:06:54+00:00",
+      "summary": "Article URL: https://tonym.us/wsl2-vs-wsl3-benchmarks.html Comments URL: https://news.ycombinator.com/item?id=49998801 Points: 205 # Comments: 178"
     },
     {
       "id": "d46ad0e2d4b7",
