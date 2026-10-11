@@ -1,7 +1,260 @@
 {
-  "updated_at": "2026-10-11T07:11:57.330622+00:00",
-  "count": 15715,
+  "updated_at": "2026-10-11T14:02:24.428586+00:00",
+  "count": 15742,
   "items": [
+    {
+      "id": "1f20aa9f594a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "published": "2026-10-11T14:00:00+00:00",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    },
+    {
+      "id": "696022ccd67a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "published": "2026-10-11T13:00:00+00:00",
+      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS"
+    },
+    {
+      "id": "821aff37ecb5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "펜타시큐리티, 금융권 연쇄 침해 대응 가이드 배포",
+      "link": "https://zdnet.co.kr/view/?no=20261011211729",
+      "published": "2026-10-11T12:17:29+00:00",
+      "summary": "[지디넷코리아]사이버보안 전문기업 펜타시큐리티가 최근 금융권에서 잇따라 발생하고 있는 개인정보 침해사고와 AI 활용 공격 정황에 대응해 보안 가이드를 배포했다.최근 국내 주요 은행을 비롯한 금융권에서 외부 업무시스템과 정보조회 서비스 등을 대상으로 한 침해사고가 연이어 발생했다. 일부 사고에서는 인증 절차가 충분히 적용되지 않은 시스템이 공격에 노출됐으며, 크리덴셜 스터핑과 AI 에이전트·자동화 도구를 활용한 것으로 의심되는 공격 정황도 나타났다. 공격 자동화로 짧은 시간에 더 많은 시스템과 계정"
+    },
+    {
+      "id": "0cfb2a08beb3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261011210506",
+      "published": "2026-10-11T12:05:06+00:00",
+      "summary": "[지디넷코리아]SK쉴더스(대표 민기식)가 AI 자동화 공격 시대의 주요 위협으로 부상한 쉐도IT(Shadow IT)와 API 보안 이슈를 분석한 'AI 자동화 공격 시대, Shadow IT를 노린 침해사고 분석 및 대응 가이드'를 지난 8일 공개했다.이번 가이드는 최근 금융권 침해사고 사례를 바탕으로 AI 기반 공격도구의 활용 방식과 실제 침해 경로를 분석하고, 기업이 유사 공격에 대비하기 위해 갖춰야 할 보안 체계를 제시했다.SK쉴더스는 현재까지 공개된 사고 정황을 종합해 볼 때 이번 사고는 A"
+    },
+    {
+      "id": "ed8a561c1c44",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "연봉 5억 주고 뽑는 개발자는 뭘 할까?",
+      "link": "https://www.youtube.com/watch?v=YW2i4bFzhVE",
+      "published": "2026-10-11T11:30:30+00:00",
+      "summary": ""
+    },
+    {
+      "id": "78ef79ebbc0b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "published": "2026-10-11T11:30:00+00:00",
+      "summary": "A long day’s haul in the video game slop mines."
+    },
+    {
+      "id": "2c451045052d",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - 수학 끝났다, 챗GPT 대화형 UI, Claude Motion, Haiku 5.5, AI 인권 등장, Grok Bot 업데이트, 어도비 망했다 등",
+      "link": "https://www.youtube.com/watch?v=gcFqz2lgCvA",
+      "published": "2026-10-11T11:27:43+00:00",
+      "summary": ""
+    },
+    {
+      "id": "430c69df9d79",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인기 1위에 매출 톱10 진입…카카오게임즈 '도깨비의세계', 초반 흥행 청신호",
+      "link": "https://zdnet.co.kr/view/?no=20261011122232",
+      "published": "2026-10-11T11:00:03+00:00",
+      "summary": "[지디넷코리아]카카오게임즈의 신작 2.5D MMORPG '도깨비의세계'가 정식 출시 직후 주요 앱마켓 인기 순위 정상을 차지했다. 매출 순위 역시 상위권 진입에 성공하며 순항 중이다.11일 모바일인덱스에 따르면 도깨비의세계는 지난 8일 정식 출시 이후 구글 플레이와 애플 앱스토어 인기 순위 1위를 기록했다.매출 순위에서도 가시적인 성과가 나타나고 있다. 출시 초반 최고 순위는 6위(구글), 2위(애플)를 기록하며 양대 앱 마켓 상위권에 자리 잡았다.슈퍼캣이 개발하고 카카오게임즈가 서비스하는 도깨비"
+    },
+    {
+      "id": "d623f11b3610",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "published": "2026-10-11T11:00:00+00:00",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this t"
+    },
+    {
+      "id": "46a7fe79b8e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가드스퀘어 \"AI 해킹 시대, 금융·플랫폼 보안 마지막 관문은 신뢰할 수 있는 앱\"",
+      "link": "https://zdnet.co.kr/view/?no=20261011194807",
+      "published": "2026-10-11T10:48:07+00:00",
+      "summary": "[지디넷코리아]최근 금융·핀테크·이커머스·대형 플랫폼을 겨냥한 사이버 공격이 잇달으면서 모바일 앱 보안도 주목받고 있다. 생성형 AI와 자동화 도구가 취약점 탐색, 악성코드 변형, 피싱 문구 제작뿐 아니라 모바일 앱 분석과 역공학 속도까지 높이고 있기 때문이다. AI가 공격 진입장벽을 낮추고 공격 속도를 높이고 있는 가운데 벨기에 소재 글로벌 모바일 앱 보호 프로그램 선도기업 가드스퀘어(Guardsquare)가 모바일 AI 해킹공격에 대비한 대응안을 제시했다.가드스퀘어 한국총판인 징코스테크놀로지 "
+    },
+    {
+      "id": "530757af235c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
+      "published": "2026-10-11T10:46:59+00:00",
+      "summary": "앤트로픽이 스타트업 지원 프로그램 ‘클로드 스타트업(Claude Startups)’ 신규 신청자에 대한 클로드 팀 1년 이용권과 1000달러 상당 API 크레딧 제공을 일시 중단했다. 프로그램 확대 발표 뒤 신청이 급증하면서 혜택 제공이 한도를 넘어섰다는 설명이다. 회사는 기존 신청서를 다시 검토하겠다고 밝혔으며, 일부 신청자의 승인 상태가 바뀔 수 있다고 안내했다.포브스는 9일(현지시간) 앤트로픽의 스타트업 지원 확대가 발표 후 사흘 만에 제동이 걸렸다고 보도했다. 앤트로픽은 앞서 자격을 갖춘 "
+    },
+    {
+      "id": "cf201793a713",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "“AI와 직장 동료처럼 대화하라”…클로드 코드 개발자의 프롬프트 조언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216135",
+      "published": "2026-10-11T10:15:39+00:00",
+      "summary": "'클로드 코드' 개발자인 보리스 체르니 앤트로픽 책임자가 AI에게 복잡한 지시문을 주기보다 직장 동료에게 말하듯 자연스럽게 요청하라고 조언했다. 원하는 결과와 작업에 들일 노력, 결과를 확인할 방법을 알려주는 것이 핵심이다.체르니 책임자는 7일(현지시간) X에 “클로드에게 직장 동료처럼 말하라”며 “유도하는 특별한 비결은 없다. 대부분의 작업에서 지나치게 자세히 설명하거나 지시할 필요는 없다”고 썼다. AI 모델의 성능이 높아지면서 길고 정형화된 프롬프트를 세밀하게 설계해야 할 필요도 줄었다는 취"
+    },
+    {
+      "id": "c043c0db3068",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "우크라이나, 얀덱스 데이터센터 잇단 공격…디지털 인프라가 새 표적으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216134",
+      "published": "2026-10-11T09:50:49+00:00",
+      "summary": "우크라이나가 러시아의 데이터·통신 인프라 공격에 대한 대응으로 러시아 IT 대기업 얀덱스의 데이터센터를 잇달아 공격했다. 양국이 상대의 디지털 기반시설을 겨냥하면서 전쟁의 파장이 인터넷·클라우드 서비스와 민간 경제로 번질 수 있다는 우려가 커지고 있다.얀덱스는 9일(현지시간) 러시아 칼루가 지역의 데이터센터가 드론 공격을 받아 일부 설비가 가동 중단됐다고 밝혔다. 회사는 전날 밤 랴잔 지역의 시설도 공격받았다고 발표했다. 칼루가 시설은 얀덱스의 최대 데이터센터다.볼로디미르 젤렌스키 우크라이나 대통"
+    },
+    {
+      "id": "33869e160134",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 내부 AI 평가서 실시간 인터넷 차단…“안전장치 검증 때까지”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216133",
+      "published": "2026-10-11T09:23:36+00:00",
+      "summary": "앤트로픽이 자사 AI 모델의 모든 내부 평가에서 실시간 인터넷 접속을 중단하기로 했다. 모델이 실제 웹사이트에서 의도하지 않은 행동을 한 사례가 확인된 데 따른 조치로, 다만 내부에서 사용하는 모든 AI 에이전트의 인터넷 접속을 전면 차단한다는 뜻은 아니다.앤트로픽은 9일(현지시간) 보고서를 통해 기존에 일부 고위험·사이버보안 평가에 적용하던 인터넷 차단을 모든 내부 평가로 확대한다고 밝혔다. 보안·모니터링 체계가 의도하지 않은 행동을 제대로 탐지하는지 확인할 때까지 실시간 접속을 중단한다는 방침"
+    },
+    {
+      "id": "c88a1855c0e9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "할리우드, AI 불안 속 저커버그·머스크·알트먼 영화 잇따라 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216132",
+      "published": "2026-10-11T08:54:55+00:00",
+      "summary": "할리우드가 마크 저커버그 메타 CEO와 일론 머스크 CEO, 샘 알트먼 오픈AI CEO 등 기술 업계 거물들이 등장하는 작품을 연이어 선보인다. AI의 위험과 빅테크의 영향력에 대한 대중의 불안이 커지는 가운데, 이들 작품이 어떤 반향을 일으킬지 관심이 모인다.애런 소킨 감독의 소니 픽처스 영화 ‘소셜 레코닝(The Social Reckoning)’은 9일(현지시간) 미국에서 개봉했다. 2010년작 ‘소셜 네트워크’의 후속작으로, 페이스북 내부 문서를 폭로한 내부고발자 프랜시스 하우건의 2021년"
+    },
+    {
+      "id": "3a583a80e88a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "얀 르쿤의 월드 모델 'H-제파', 단·장기 계획 분리로 로봇 경로 계획 성공률 73% 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216129",
+      "published": "2026-10-11T08:34:43+00:00",
+      "summary": "기존 월드 모델은 단기 세부 동작과 장기 목표를 하나의 잠재 공간에서 동시에 처리하며 예측 정확도가 떨어지는 한계가 있었다. 얀 르쿤이 참여한 새로운 연구에서는 시간 범위와 추상화 수준을 단계별로 분리한 계층형 월드 모델 ‘H-제파(H-JEPA)’를 해결책으로 제시, 시뮬레이션 미로 탐색 실험에서 단일 계층 모델의 성공률을 18%에서 73%로 높였으며 계획에 필요한 연산량도 줄였다.뉴욕대학교(NYU) AMI 랩을 비롯해 인리아(INRIA Paris), 브라운 대학교 등 글로벌 산학 공동 연구진은 "
+    },
+    {
+      "id": "f2ddbd78692c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "제너시스랩 등 '2차 모두의 창업' AI솔루션 103개 선정",
+      "link": "https://zdnet.co.kr/view/?no=20261011163230",
+      "published": "2026-10-11T07:32:30+00:00",
+      "summary": "[지디넷코리아]중소벤처기업부(중기부)는 12일 '2차 모두의 창업' 프로젝트 도전자의 아이디어 구체화와 사업 모델 고도화를 지원할 인공지능(AI) 솔루션 공급기업 50개사의 103개 솔루션을 공개한다고 밝혔다.'모두의 창업'은 아이디어를 가진 국민 누구나 창업에 도전하고, 교육·멘토링과 단계별 지원을 통해 창업 인재로 성장할 수 있게 돕는 프로젝트다. 이 중 AI 솔루션 지원은 도전자가 시장 조사, 콘텐츠 제작, 서비스 개발 등 창업 준비에 필요한 작업을 수행하고, 자신의 아이디어를 실제 제품과 "
+    },
+    {
+      "id": "ac3cc81972c6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아레나, 2700억 투자 유치…AI 안전성 평가 '정렬 지수' 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216131",
+      "published": "2026-10-11T07:32:04+00:00",
+      "summary": "사용자 평가를 기반으로 가파른 성장세를 이어온 AI 모델 평가 플랫폼 아레나(Arena)가 기업가치 4조원 고지에 올랐다. 아레나는 이번 대규모 투자 유치를 발판 삼아 단순한 성능 비교를 넘어 AI의 안전성과 신뢰성을 측정하는 '정렬 지수(Alignment Index)' 분야로 사업 영역을 본격 확장한다.8일(현지시간) 블룸버그에 따르면, 아레나는 2억달러(약 2700억원) 규모의 시리즈 B 투자를 유치하며 기업가치 31억달러(약 4조원)를 인정받았다. 이번 투자금을 바탕으로 기존 모델 성능 평가"
+    },
+    {
+      "id": "ec8d249a45b9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "컬리N마트 성공 공식 통할까…토스·오아시스, 장보기 시장 승부수",
+      "link": "https://zdnet.co.kr/view/?no=20261011135312",
+      "published": "2026-10-11T07:30:22+00:00",
+      "summary": "[지디넷코리아]플랫폼 안에서 또 다른 커머스 플랫폼을 이용할 수 있게 한 협력 방식이 플랫폼의 성장으로 이어지고 있다. 컬리N마트에 이어 유사한 전략을 채택한 토스와 오아시스도 이들의 성공 방정식을 따라갈 수 있을지 귀추가 주목된다.11일 국가데이터처에 따르면 국내 온라인 식료품 거래액은 2019년 17조1700억원에서 지난해 52조3000억원으로 3배 이상 확대됐다. 특히 농축수산물 등 신선식품 온라인 거래액은 연평균 25.5% 성장하며 전체 식료품 시장보다 빠른 성장세를 보이고 있는 상황이다."
+    },
+    {
+      "id": "52c8a61b4be0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중기부-국세청 협업 \"2559개 AI 중소·스타트업 집중 지원\"",
+      "link": "https://zdnet.co.kr/view/?no=20261011161305",
+      "published": "2026-10-11T07:13:05+00:00",
+      "summary": "[지디넷코리아]중소벤처기업부(중기부)와 국세청이 유망 AI 중소·스타트업의 성장을 뒷받침하기 위해 2559개사를 대상으로 양 기관의 지원을 집중 연계한다.이번 지원은 지난해 12월 양 기관이 체결한 'AI 중소·스타트업 성장지원을 위한 업무협약' 후속조치다. 중기부가 AI 분야에서 성장 가능성이 높은 중소·스타트업을 발굴하고 기술개발(R&D)·사업화·금융·창업·글로벌 진출 등을 지원하면, 국세청이 해당 기업에 세정지원을 연계하는 부처 협업 모델이다.중기부는 올해 AI 모델·서비스 개발과 AI 기술"
+    },
+    {
+      "id": "1eff5c0eba4f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"한국기업 보안 민낯\"...김용대 교수 쓴 SNS글 화제",
+      "link": "https://zdnet.co.kr/view/?no=20261011153232",
+      "published": "2026-10-11T06:32:32+00:00",
+      "summary": "[지디넷코리아]\"아 숨도 안 쉬고 읽었습니다. ㅎㅎㅎ 정말 너무 공감이 가네요. 모든 기업들의 인프라 조직과 보안 조직간의 평가와 내부 기싸움 공시 등등 모든것이 다 들어있는거 같습니다.\"(CISO 출신 어느 보안기업 대표)\"저 또한 교수님 글을 숨도 쉬지 않고 읽었습니다. 너무 많은 인사이트로 많은 부분을 되돌아 보며 현업에서 할 수 있는 일이 무엇일까 더욱 고민하는 기회가 되었습니다.\"(대기업 CISO)보안전문가인 KAIST 김용대 교수(전기및전자공학부와 정보보호대학원 겸직)가 산학연 보안전문"
+    },
+    {
+      "id": "a25951b134d0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LineageOS 24.0",
+      "link": "https://lineageos.org/Changelog-32/",
+      "published": "2026-10-11T06:18:59+00:00",
+      "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 213 # Comments: 66"
+    },
+    {
+      "id": "3244a8522124",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 사고 치면 누가 책임지나…트럼프 '개발사 책임론'에 논란",
+      "link": "https://zdnet.co.kr/view/?no=20261011105038",
+      "published": "2026-10-11T05:30:01+00:00",
+      "summary": "[지디넷코리아]도널드 트럼프 미국 행정부가 인공지능(AI) 안전사고에 대한 개발사의 법적 책임을 강화하려는 가운데 책임 소재를 둘러싼 논쟁이 확산하고 있다. AI 에이전트가 이용자의 구체적인 지시 없이 자율적으로 행동하면서 사고 발생 시 개발사와 이용자 중 누구에게 책임을 물어야 할지 불분명해져서다.10일(현지시간) 블룸버그통신에 따르면 트럼프 행정부는 새로운 AI 안전 규제를 도입하는 대신 기존 법률을 활용해 AI 개발사에 사고 책임을 묻는 방안을 추진하고 있다. 스콧 베선트 미국 재무장관과 데"
+    },
     {
       "id": "d9dc84a72211",
       "source": "ZDNet Korea",
@@ -322,6 +575,17 @@
       "summary": "[지디넷코리아] 비전 완성도와 실행 능력을 기준으로 평가 노이다, 인도, 2026년 10월 11일 /PRNewswire/ -- 풀스택 에이전틱 AI 품질 엔지니어링 플랫폼인 테스트뮤 AI(TestMu AI)가 2026 가트너® 매직 쿼드런트™ 에이전틱 소프트웨어 품질 보증 플랫폼 부문(2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms)에서 리더(Leader)로 선정됐다고 발표했다. 해당 연구 보고서는 [여기"
     },
     {
+      "id": "e2efb26772cc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "published": "2026-10-10T22:50:10+00:00",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 377 # Comments: 83"
+    },
+    {
       "id": "73edd16d3632",
       "source": "The Verge",
       "kind": "article",
@@ -364,6 +628,17 @@
       "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
       "published": "2026-10-10T16:25:42+00:00",
       "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform."
+    },
+    {
+      "id": "83a1abacc24b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "published": "2026-10-10T15:47:01+00:00",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 206 # Comments: 75"
     },
     {
       "id": "d6bf88a245de",
@@ -1840,6 +2115,17 @@
       "summary": "[지디넷코리아]트럼프 행정부가 주요 IT 기업의 고숙련 외국인 영주권 취득 지원에 제동 걸었다. 이들 기업의 제도 악용을 줄이고 미국인 인력 채용을 늘리기 위한 조치다.8일(현지시간) 테크크런치 등 주요 외신에 따르면 미국 정부는 마이크로소프트와 어도비 등 8개 기업의 외국인 숙련 근로자 영주권 취득 지원 프로그램 참여를 중단한다고 밝혔다. 대상에는 캡제미니·코그니전트·HCL·인포시스·타타·위프로도 포함됐다.키스 손더링 미국 노동부 장관도 이들 기업과 관련한 영주권 취득용 노동인증 신청을 받아들이"
     },
     {
+      "id": "cca552cddc1b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nix wrote half of my debugger",
+      "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "published": "2026-10-09T07:29:08+00:00",
+      "summary": "Article URL: https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger Comments URL: https://news.ycombinator.com/item?id=50017247 Points: 215 # Comments: 50"
+    },
+    {
       "id": "f5b604ab141d",
       "source": "The Verge",
       "kind": "article",
@@ -1882,6 +2168,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261009115744",
       "published": "2026-10-09T07:00:03+00:00",
       "summary": "[지디넷코리아]한국인의 디지털 기술 활용 능력은 세계 최상위 수준이지만 개인정보 보호와 온라인 정보 검증 등 안전 역량은 상대적으로 부족한 것으로 나타났다. 생성형 인공지능(AI)이 일상으로 확산하면서 기술을 능숙하게 사용하는 것뿐 아니라 안전하고 책임 있게 활용하는 능력을 높여야 한다는 지적이 나온다.국무조정실 지속가능발전추진단이 2027년 유엔 고위급 정치포럼(HLPF) 제출용으로 지난달 30일 공개한 '대한민국 지속가능발전 국가보고서' 초안에 따르면 한국은 정보·데이터 문해력과 디지털 콘텐츠"
+    },
+    {
+      "id": "41a1d575a2df",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "published": "2026-10-09T06:52:49+00:00",
+      "summary": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50016956 Points: 204 # Comments: 58"
     },
     {
       "id": "0345c6287016",
