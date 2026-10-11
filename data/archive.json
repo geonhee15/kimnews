@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-10-11T14:02:24.428586+00:00",
-  "count": 15742,
+  "updated_at": "2026-10-11T18:53:01.312241+00:00",
+  "count": 15752,
   "items": [
+    {
+      "id": "7b8aff6872f0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "published": "2026-10-11T18:33:56+00:00",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling i"
+    },
+    {
+      "id": "56262937ef50",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "published": "2026-10-11T17:31:07+00:00",
+      "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the App"
+    },
+    {
+      "id": "def3c8f09626",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepSeek Solved AI’s Memory Problem",
+      "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "published": "2026-10-11T16:53:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ced895f1f92f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "published": "2026-10-11T16:52:33+00:00",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    },
+    {
+      "id": "743abe1eba1c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "published": "2026-10-11T16:02:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "6664e0e2dda8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "published": "2026-10-11T14:28:39+00:00",
+      "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 345 # Comments: 180"
+    },
     {
       "id": "1f20aa9f594a",
       "source": "TechCrunch",
@@ -45,6 +111,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261011210506",
       "published": "2026-10-11T12:05:06+00:00",
       "summary": "[지디넷코리아]SK쉴더스(대표 민기식)가 AI 자동화 공격 시대의 주요 위협으로 부상한 쉐도IT(Shadow IT)와 API 보안 이슈를 분석한 'AI 자동화 공격 시대, Shadow IT를 노린 침해사고 분석 및 대응 가이드'를 지난 8일 공개했다.이번 가이드는 최근 금융권 침해사고 사례를 바탕으로 AI 기반 공격도구의 활용 방식과 실제 침해 경로를 분석하고, 기업이 유사 공격에 대비하기 위해 갖춰야 할 보안 체계를 제시했다.SK쉴더스는 현재까지 공개된 사고 정황을 종합해 볼 때 이번 사고는 A"
+    },
+    {
+      "id": "8e12f57fb246",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I paid people to try and follow my README",
+      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "published": "2026-10-11T11:47:29+00:00",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 313 # Comments: 165"
     },
     {
       "id": "ed8a561c1c44",
@@ -124,6 +201,17 @@
       "summary": "앤트로픽이 스타트업 지원 프로그램 ‘클로드 스타트업(Claude Startups)’ 신규 신청자에 대한 클로드 팀 1년 이용권과 1000달러 상당 API 크레딧 제공을 일시 중단했다. 프로그램 확대 발표 뒤 신청이 급증하면서 혜택 제공이 한도를 넘어섰다는 설명이다. 회사는 기존 신청서를 다시 검토하겠다고 밝혔으며, 일부 신청자의 승인 상태가 바뀔 수 있다고 안내했다.포브스는 9일(현지시간) 앤트로픽의 스타트업 지원 확대가 발표 후 사흘 만에 제동이 걸렸다고 보도했다. 앤트로픽은 앞서 자격을 갖춘 "
     },
     {
+      "id": "0f77a858e150",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "link": "https://nitter.net",
+      "published": "2026-10-11T10:37:55+00:00",
+      "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 362 # Comments: 170"
+    },
+    {
       "id": "cf201793a713",
       "source": "AI타임스",
       "kind": "article",
@@ -133,6 +221,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216135",
       "published": "2026-10-11T10:15:39+00:00",
       "summary": "'클로드 코드' 개발자인 보리스 체르니 앤트로픽 책임자가 AI에게 복잡한 지시문을 주기보다 직장 동료에게 말하듯 자연스럽게 요청하라고 조언했다. 원하는 결과와 작업에 들일 노력, 결과를 확인할 방법을 알려주는 것이 핵심이다.체르니 책임자는 7일(현지시간) X에 “클로드에게 직장 동료처럼 말하라”며 “유도하는 특별한 비결은 없다. 대부분의 작업에서 지나치게 자세히 설명하거나 지시할 필요는 없다”고 썼다. AI 모델의 성능이 높아지면서 길고 정형화된 프롬프트를 세밀하게 설계해야 할 필요도 줄었다는 취"
+    },
+    {
+      "id": "897ddc706370",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "IRCv3",
+      "link": "https://ircv3.net/",
+      "published": "2026-10-11T10:11:27+00:00",
+      "summary": "Article URL: https://ircv3.net/ Comments URL: https://news.ycombinator.com/item?id=50041540 Points: 260 # Comments: 238"
     },
     {
       "id": "c043c0db3068",
@@ -1101,6 +1200,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
       "published": "2026-10-10T02:06:32+00:00",
       "summary": "앤트로픽과 오픈AI 등 주요 AI 기업들이 대규모 재앙적 사고 이후 닥쳐올 대중적 분노와 정치적 반란 사태를 가정해 비공개 시나리오 검토에 착수한 것으로 확인됐다. 이들은 앞으로 6개월에서 1년 안에 실제 치명적인 사고가 발생할 수 있다고 보고, 위기 발생 직후의 대응 전략을 가다듬고 있다.9일(현지시간) 악시오스에 따르면, 이번 시나리오 기획에 참여한 핵심 관계자들은 금융 서비스 마비, 인터넷 접속 중단, 전력 및 상수도 시설 차단 등 대규모 인프라 마비 사태를 예상하고 있다. 안전이 확보되지 "
+    },
+    {
+      "id": "e0e54632c95f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The RAM shortage is bringing back DDR4",
+      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "published": "2026-10-10T01:37:08+00:00",
+      "summary": "Article URL: https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback Comments URL: https://news.ycombinator.com/item?id=50028647 Points: 215 # Comments: 205"
     },
     {
       "id": "87a6b704d146",
