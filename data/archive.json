@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-11T22:39:12.499626+00:00",
-  "count": 15756,
+  "updated_at": "2026-10-12T01:47:37.528910+00:00",
+  "count": 15761,
   "items": [
+    {
+      "id": "7fe118dca0d0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "2026-10-12T00:59:01+00:00",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that."
+    },
+    {
+      "id": "f80fcb88b96b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] 핸즈온 머신러닝 with 사이킷런. 파이토치",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216139",
+      "published": "2026-10-12T00:03:08+00:00",
+      "summary": "핸즈온 머신러닝 with 사이킷런. 파이토치오렐리앙 제롱 | 한빛미디어2026년 9월 28일추천이유저자는 머신러닝의 기본 원리부터 트랜스포머, LLM, 멀티모달까지 실제 코드로 직접 구현하며 현대 AI 기술의 흐름을 이해하도록 안내합니다. 기초 개념과 최신 기술을 체계적으로 연결하여 AI를 단순히 사용하는 것을 넘어 원리를 깊이 있게 학습할 수 있습니다.상세보기영풍문고 개발서 서가에서 '핸즈온 머신러닝'은 판이 바뀔 때마다 다시 찾는 독자가 많은 이름이다. 한빛미디어가 지난달 28일 펴낸 『핸즈온"
+    },
     {
       "id": "d7d62089dd4f",
       "source": "TechCrunch",
@@ -12,6 +34,17 @@
       "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "published": "2026-10-11T21:14:40+00:00",
       "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name an"
+    },
+    {
+      "id": "f8f3a66cca7a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "link": "https://theonion.com/archivehunt/",
+      "published": "2026-10-11T19:43:32+00:00",
+      "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 244 # Comments: 34"
     },
     {
       "id": "7b8aff6872f0",
@@ -146,6 +179,17 @@
       "summary": "[지디넷코리아]사이버보안 전문기업 펜타시큐리티가 최근 금융권에서 잇따라 발생하고 있는 개인정보 침해사고와 AI 활용 공격 정황에 대응해 보안 가이드를 배포했다.최근 국내 주요 은행을 비롯한 금융권에서 외부 업무시스템과 정보조회 서비스 등을 대상으로 한 침해사고가 연이어 발생했다. 일부 사고에서는 인증 절차가 충분히 적용되지 않은 시스템이 공격에 노출됐으며, 크리덴셜 스터핑과 AI 에이전트·자동화 도구를 활용한 것으로 의심되는 공격 정황도 나타났다. 공격 자동화로 짧은 시간에 더 많은 시스템과 계정"
     },
     {
+      "id": "7fdccc80e29a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The tilde in your PATH may not be your HOME",
+      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "published": "2026-10-11T12:13:13+00:00",
+      "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 210 # Comments: 142"
+    },
+    {
       "id": "0cfb2a08beb3",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -240,6 +284,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
+      "published": "2026-10-11T10:46:59+00:00",
+      "summary": "앤트로픽이 스타트업 지원 프로그램 ‘클로드 스타트업(Claude Startups)’ 신규 신청자에 대한 클로드 팀 1년 이용권과 1000달러 상당 API 크레딧 제공을 일시 중단했다. 프로그램 확대 발표 뒤 신청이 급증하면서 혜택 제공이 한도를 넘어섰다는 설명이다. 회사는 기존 신청서를 다시 검토하겠다고 밝혔으며, 일부 신청자의 승인 상태가 바뀔 수 있다고 안내했다.포브스는 9일(현지시간) 앤트로픽의 스타트업 지원 확대가 발표 후 사흘 만에 제동이 걸렸다고 보도했다. 앤트로픽은 앞서 자격을 갖춘 "
+    },
+    {
+      "id": "085bd1f30d22",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 재검토",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
       "published": "2026-10-11T10:46:59+00:00",
       "summary": "앤트로픽이 스타트업 지원 프로그램 ‘클로드 스타트업(Claude Startups)’ 신규 신청자에 대한 클로드 팀 1년 이용권과 1000달러 상당 API 크레딧 제공을 일시 중단했다. 프로그램 확대 발표 뒤 신청이 급증하면서 혜택 제공이 한도를 넘어섰다는 설명이다. 회사는 기존 신청서를 다시 검토하겠다고 밝혔으며, 일부 신청자의 승인 상태가 바뀔 수 있다고 안내했다.포브스는 9일(현지시간) 앤트로픽의 스타트업 지원 확대가 발표 후 사흘 만에 제동이 걸렸다고 보도했다. 앤트로픽은 앞서 자격을 갖춘 "
