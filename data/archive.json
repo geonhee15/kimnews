@@ -1,7 +1,249 @@
 {
-  "updated_at": "2026-10-13T00:37:57.072789+00:00",
-  "count": 15851,
+  "updated_at": "2026-10-13T07:07:11.520786+00:00",
+  "count": 15877,
   "items": [
+    {
+      "id": "ac2ab8728c6f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"돈보다 GPU 우선\"... 미 VC 업계, 스타트업 인프라 확보 경쟁 재점화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216210",
+      "published": "2026-10-13T06:53:57+00:00",
+      "summary": "대형 벤처캐피털(VC)들이 AI 스타트업에 필요한 고성능 칩과 데이터센터를 직접 확보하는 데 나서고 있다. 대형 클라우드 업체들이 자체 AI 개발팀과 대기업 고객에게 GPU를 우선 배정하면서 스타트업의 컴퓨팅 자원 확보가 어려워지자, 투자금을 지원하는 수준을 넘어 인프라까지 직접 제공하려는 움직임이다.12일(현지시간) 디 인포메이션에 따르면, 앤드리슨 호로위츠(a16z)와 제너럴 캐피탈리스트 등 주요 VC들은 자체 컴퓨팅 클러스터를 구축하거나 데이터센터 운영사와 협력하는 방안을 추진하고 있다. A"
+    },
+    {
+      "id": "f73c814620ef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS 사장 \"세탁기·우유보다 못한 AI 규제…이제 법적 의무화 나설 때\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216185",
+      "published": "2026-10-13T06:42:38+00:00",
+      "summary": "브래드 스미스 마이크로소프트(MS) 부회장 겸 사장이 AI에 대한 글로벌 안전 규제와 독립적인 검증 체계 마련을 촉구했다. 현재 AI는 슈퍼마켓에서 판매하는 우유나 가정용 세탁기보다도 안전 규제가 느슨하다며, AI 시스템이 통제를 벗어나거나 보안 사고를 일으킬 경우 기업이 피해자에게 이를 알리고 사고 보고서를 제출하도록 법으로 의무화해야 한다고 주장했다.스미스 사장은 12일(현지시간) BBC와의 인터뷰에서 AI를 \"도구이자 무기\"라고 규정하며 국제적으로 통용되는 안전 규칙을 마련해야 한다고 강조했"
+    },
+    {
+      "id": "1a8dacfc4633",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "멜론차트에 오른 AI곡은 어떻게 만들었을까?",
+      "link": "https://www.youtube.com/shorts/yAoRN51Ev94",
+      "published": "2026-10-13T06:40:03+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7159aafa3dd1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "트럼프 행정부, AI 테스트 전담 기관 백악관 직속 편입...의사결정 통합 가속화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216193",
+      "published": "2026-10-13T06:34:34+00:00",
+      "summary": "트럼프 행정부가 첨단 AI 모델의 안전성과 성능을 평가하는 상무부 산하 기관의 핵심 간부들을 백악관 직속 체계로 편입하는 조직 개편을 추진한다. AI 모델 검증 업무를 백악관의 주요 정책 결정 과정과 긴밀하게 연결해 정부 차원의 대응을 효율화하려는 움직임으로 풀이된다.12일(현지시간) 디 인포메이션에 따르면, 백악관은 지난 9월 초지능 혁신 및 표준 발전 센터(CAISSI) 소속 고위 간부 3명이 백악관에 직접 보고하도록 하는 조직 개편 절차에 착수했다. 이들은 백악관 과학기술정책실(OSTP) 실"
+    },
+    {
+      "id": "a9921f2df724",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인텔·브로드컴 CEO \"AI 최대 걸림돌은 전력·칩 아닌 자본\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216207",
+      "published": "2026-10-13T06:30:53+00:00",
+      "summary": "AI 산업의 성장세가 이어지는 가운데, 반도체와 전력 부족보다 자금 조달 문제가 산업 확장의 최대 걸림돌로 떠오를 수 있다는 경고가 나왔다. 브로드컴과 인텔 CEO는 AI 인프라 수요가 당분간 공급을 웃돌 것으로 전망하면서도, 막대한 투자 비용을 회수하고 지속 가능한 수익 모델을 확보하는 것이 장기적인 과제라고 강조했다.CNBC에 따르면, 혹 탄 브로드컴 CEO는 12일(현지시간) 싱가포르에서 열린 DBS 아시아 미래 전망 컨퍼런스에서 AI 산업의 최대 제약 요인으로 자본을 꼽았다. 그는 \"가장 "
+    },
+    {
+      "id": "1cc8cd062117",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔씨 '아스오라', 'AGF 2026' 메인 스폰서 참가…150부스 규모 전시",
+      "link": "https://zdnet.co.kr/view/?no=20261013152036",
+      "published": "2026-10-13T06:30:01+00:00",
+      "summary": "[지디넷코리아]엔씨가 신작 RPG '아스트라에 오라티오'를 앞세워 국내 서브컬처 팬들과의 접점을 확대한다. 오는 12월 열리는 'AGF 2026'에 메인 스폰서로 참가해 대규모 전시 공간을 운영할 예정이다.엔씨(공동대표 김택진, 박병무)는 신전기 마법 RPG '아스트라에 오라티오(이하 아스오라)'를 통해 'AGF 2026(Anime X Game Festival 2026)'에 메인 스폰서로 참가한다고 밝혔다. 아스오라는 디나미스 원이 개발 중인 게임이다.'AGF 2026'은 국내 최대 규모의 서브컬"
+    },
+    {
+      "id": "d126c9ab40d0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "구글, 새 피트니스 트래커 ‘핏빗 엣지’ 공개…\"배터리 일주일 간다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261013111841",
+      "published": "2026-10-13T06:28:50+00:00",
+      "summary": "[지디넷코리아]구글이 차세대 피트니스 트래커 ‘구글 핏빗 엣지’를 공개했다고 엔가젯 등 외신이 12일(현지시간) 보도했다.구글의 최신 웨어러블 기기인 핏빗 엣지는 스마트워치 라인업인 ‘픽셀 워치’처럼 모든 고급 기능을 갖추지는 않았지만, 슬림한 디자인과 미니멀한 OLED 디스플레이를 유지하면서 ‘핏빗 에어’ 보다 한층 향상된 기능을 제공한다.핏빗 엣지는 새로운 시계 화면으로 빠르게 전환할 수 있을 뿐 아니라, 걸음 수·수면 점수·날씨 등 사용자가 중요하게 여기는 정보를 효과적으로 강조할 수 있도록"
+    },
+    {
+      "id": "e9a1a377df96",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수 여문문화의거리, 정원·버스킹 어우러진 축제 공간으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216198",
+      "published": "2026-10-13T06:27:02+00:00",
+      "summary": "AI 생성 영상여수시 여문문화의거리가 정원과 공연, 마켓을 결합한 도심형 축제 공간으로 활용되고 있다.여수는 지난 11일 개막한 ‘2026 남도 K-가든 페스티벌’을 오는 10월31일까지 여문문화의거리와 여서미관광장 일원에서 운영한다고 13일 밝혔다.올해 행사는 ‘섬 품은 여수 밤정원’을 주제로 진행된다. 여문문화의거리에는 국내 정원작가들이 조성한 작가정원 10곳과 지역 상인들이 참여한 상가정원이 음식점과 상점 사이에 마련됐다. 거리 곳곳에서는 플리마켓과 버스킹 공연을 운영하고 야간경관도 함께 조"
+    },
+    {
+      "id": "169e8d20561c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 에이전트 위험 사전에 잡는다…카카오, 세이프티 장치 마련 속도",
+      "link": "https://zdnet.co.kr/view/?no=20261013144159",
+      "published": "2026-10-13T06:22:00+00:00",
+      "summary": "[지디넷코리아]카카오가 행동하는 인공지능인 AI 에이전트 시대를 맞아 AI 리스크를 감지·평가·대응하는 체계를 구축하고, 위험을 탐지할 수 있는 기술적 조치를 마련해 빠른 시일 내 서비스에 적용할 것이라는 포부를 밝혔다.김경훈 AI 세이프티 리더는 13일 경기도 용인시에서 열린 개발자 컨퍼런스 ‘이프카카오(if(kakao)26)’에서 “AI에 대한 리스크를 식별하고 이를 사전에 판단하는 것은 단 하나의 부서에서만 할 수 없다”며 기존 기능 조직과 TF를 구성해 AI 리스크를 관리하는 방법을 소개했"
+    },
+    {
+      "id": "0afdaa733728",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "시스코 \"AI 에이전트 통제, 네트워크·보안 통합이 핵심\"",
+      "link": "https://zdnet.co.kr/view/?no=20261013152018",
+      "published": "2026-10-13T06:21:37+00:00",
+      "summary": "[지디넷코리아]\"인공지능(AI) 에이전트가 어떤 데이터에 접근하고 무슨 행동을 하는지 정확히 파악하려면, 네트워크와 보안을 통합해야 합니다. 그래야 에이전트가 어디서 작동하든 통일된 보안 정책을 적용하고, 업무에 필요한 권한만 줄 수 있습니다.\"무케시 찬드 탭리얄 시스코 APJC 지역 SASE 비즈니스 리더는 13일 서울 아셈타워에서 열린 'AI 시대의 사이버보안 미디어 라운드테이블' 기자간담회에서 이같이 밝혔따. 그는 네트워크와 보안을 통합한 '시스코 SASE'의 AI 에이전트 통제 역량을 소개"
+    },
+    {
+      "id": "1b1c9422c0db",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "크래프톤, 'AI Native' 신입 100명 이상 채용…역대 최대 규모",
+      "link": "https://zdnet.co.kr/view/?no=20261013151751",
+      "published": "2026-10-13T06:17:51+00:00",
+      "summary": "[지디넷코리아]크래프톤이 AI 기반 신규 사업 확대에 발맞춰 역대 최대 규모의 신입 공개채용에 나선다. AI 활용 역량을 갖춘 'AI Native' 인재를 전 직군에 걸쳐 100명 이상 선발할 계획이다.크래프톤(대표 김창한)은 '2027 크래프톤 채용연계형 인턴십 채용'을 실시한다고 13일 밝혔다. 이번 채용 규모는 크래프톤의 역대 신입 공개채용 중 최대다.이번 채용은 AI 기반 신규 사업을 함께 추진할 신입 인재를 확보하고 육성하기 위해 마련됐다. 크래프톤은 게임 개발과 운영 과정에서 축적한 기"
+    },
+    {
+      "id": "2ca68f732131",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "지멘스, 신규 에이전틱 플랫폼 공개...반도체 등 제조 AX 겨냥",
+      "link": "https://zdnet.co.kr/view/?no=20261013134348",
+      "published": "2026-10-13T06:15:23+00:00",
+      "summary": "[지디넷코리아]지멘스가 차세대 엔터프라이즈 에이전틱 시스템 '인텔리전스 센터 X'로 기업 인공지능 전환(AX) 시장을 겨냥한다. 메모리 반도체와 배터리, 디스플레이 등 산업이 1차 타깃이다. 지멘스는 13일 서울 강남 조선 팰리스에서 기자간담회를 열고, 기업용 인공지능(AI) 애플리케이션 확장을 위한 신규 에이전틱 플랫폼 인텔리전스 센터 X를 공개했다. AI 도입이 늘고 있지만 대다수 기업이 투자 대비 가치(ROI)를 창출하지 못하는 원인 진단과 기술 해법을 제시했다. 사이먼 게린 지멘스 최고기술"
+    },
+    {
+      "id": "c82d2146d178",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS '코파일럿' 기업 평가 반등…변화 주도한 라만나, 오피스 수장으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216208",
+      "published": "2026-10-13T06:10:05+00:00",
+      "summary": "마이크로소프트(MS)의 업무용 AI 비서 ‘코파일럿’이 앤트로픽 모델 도입과 제품·조직 개편을 거치며 기업 고객들로부터 개선됐다는 평가를 받고 있다. 이 변화를 주도한 찰스 라만나 수석 부사장은 최근 오피스 사업까지 맡으며 회사 내 입지를 넓혔다.디 인포메이션은 12일(현지시간) 라만나와 사내 관계자, 고객 인터뷰 등을 통해 코파일럿 서비스 개선 과정을 소개했다.이에 따르면, 코파일럿은 지난해 여름까지도 오류가 많고 엑셀이나 파워포인트 작업을 자동화하기에 부족하다는 고객 불만이 쌓였다. 그러나 M"
+    },
+    {
+      "id": "6432f75f0456",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "파수 AI 'AI-R DLP', 글로벌 사이버보안 어워드 수상",
+      "link": "https://zdnet.co.kr/view/?no=20261013150254",
+      "published": "2026-10-13T06:02:54+00:00",
+      "summary": "[지디넷코리아]파수AI(대표 조규곤)의 AI 보안 솔루션 ‘AI-R DLP(AI Radar DLP)’가 ‘2026 사이버시큐리티 브레이크스루 어워드(Cybersecurity Breakthrough Awards)’에서 ‘올해의 최고 리테일 산업 보안 솔루션(Retail Cybersecurity Solution of the Year)’으로 선정됐다.13일 회사에 따르면, '사이버시큐리티 브레이크스루 어워드'는 2014년 설립된 미국계 기술 시장조사·인텔리전스 및 어워드 운영 기업 테크 브레이크스루(T"
+    },
+    {
+      "id": "c299b095baec",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코난테크, 국방 AI 플랫폼 '아르고스' 공개…정보분석 고도화",
+      "link": "https://zdnet.co.kr/view/?no=20261013145527",
+      "published": "2026-10-13T05:55:27+00:00",
+      "summary": "[지디넷코리아]코난테크놀로지가 여러 출처에 흩어진 정보를 인공지능(AI)으로 통합·분석하는 국방 특화 플랫폼을 선보인다.코난테크놀로지는 다음 달 13일 서울 용산 나인트리 로카우스에서 '제5회 코난테크놀로지 국방 AI 서밋'을 개최한다고 13일 밝혔다.올해 행사는 '아르고스(ARGOS)로 글로벌 미래 신안보를 열다'를 주제로 열린다. 코난테크놀로지는 이 자리에서 전출처 정보분석 플랫폼 '코난 아르고스'를 최초 공개한다. 국방 온디바이스 AI 기술과 미래 신안보 분야의 주요 기술 동향도 소개할 예정"
+    },
+    {
+      "id": "9d7c5f6af8be",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷이즈게임즈 '연운', 신규 산해 지역 '청주' 15일 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261013145045",
+      "published": "2026-10-13T05:55:01+00:00",
+      "summary": "[지디넷코리아]넷이즈게임즈의 무협 오픈월드 게임 '연운'이 산맥과 해안 풍경을 결합한 신규 지역 '청주'를 선보이고 강호 세계관 확장에 나선다.넷이즈게임즈와 산하 개발사 에버스톤 스튜디오는 오픈월드 무협 타이틀 '연운'에 신규 산해 지역 '청주'를 공개한다고 13일 밝혔다.청주는 거친 산악 지대와 해안 풍경이 조화를 이루는 산해 테마 지역으로 유교 사상이 뿌리내린 배경을 갖췄다. 이용자는 오는 15일 업데이트 이후 동쪽 봉우리에서 여정을 시작해 황하와 바다가 만나는 갯벌 및 소나무 숲 산길을 탐험"
+    },
+    {
+      "id": "d67f6b9d226e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포, 직영 육묘장서 꽃묘 직접 생산…가을 국화 3000본 식재",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216190",
+      "published": "2026-10-13T05:40:00+00:00",
+      "summary": "AI 생성 영상목포시가 직영 육묘장에서 꽃묘를 직접 생산해 주요 관광지와 시가지에 계절별 꽃경관을 조성하고 있다.목포는 석현동 직영 육묘장 내 하우스 10동에서 씨앗 파종부터 육묘까지 꽃묘 생산 전 과정을 직접 수행하고 있다고 13일 밝혔다.생산한 꽃묘는 자체 인력을 활용해 시가지 화단과 교통섬, 대형 화분 등에 식재한다. 또한 꽃묘를 직접 생산·식재하면서 꽃 구입 예산을 절감하고 계절에 맞는 도심 경관을 개선하고 있다.특히 올해는 직접 생산한 국화 3000본을 시민의 날과 목포항구축제 행사장 등"
+    },
+    {
+      "id": "bce25c5d5008",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "비드래프트, NPU 가속 소프트웨어 ‘VKORE’ 개발… 추론·학습 동시 구현",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216203",
+      "published": "2026-10-13T05:22:38+00:00",
+      "summary": "AI 전문 비드래프트가 신경망처리장치(NPU)의 추론 성능을 극대화하고 기존에 불가능하다고 여겨졌던 학습까지 구현하는 가속 소프트웨어 계층 ‘VKORE’를 13일 공개했다. 엔비디아 GPU의 CUDA처럼 NPU 환경에서 연산 효율과 활용 범위를 넓히는 구조로, 반도체 칩 교체 없이 소프트웨어 적용만으로 성능을 끌어냈다는 설명이다.실제로 트랜스포머 모델의 LoRA 학습 테스트에서 엔비디아 B200 GPU 1장이 1시간 걸리는 작업을 서버 CPU는 약 320시간 소요했으며, NPU를 기본 방식으로 구"
+    },
+    {
+      "id": "a5293e898b60",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 업무 플랫폼 '팔레트 에이전트' 글로벌 출시…\"기획부터 앱 제작까지 통합 지원\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216199",
+      "published": "2026-10-13T04:58:51+00:00",
+      "summary": "AI 플랫폼 전문 팔레트가 23일 AI 에이전트 서비스 '팔레트 에이전트(Palette Agent)'를 글로벌 시장에 공식 출시했다고 밝혔다.글로벌 빅테크 기업들이 AI 에이전트 시장에 잇따라 진출하며 경쟁을 확대하는 가운데, 팔레트는 여러 AI 모델과 업무 도구를 연계하고 사용자가 필요한 앱을 직접 제작할 수 있는 통합 업무 환경을 제시했다. 개별 AI 서비스를 오가는 대신 하나의 플랫폼에서 다양한 작업을 처리할 수 있도록 지원하는 방식이다.AI 에이전트는 사용자가 세부적인 작업 절차를 일일이 "
+    },
+    {
+      "id": "40b9bdf6a4ba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"요금 왜 올랐어?\"...통신사 앱 속 AI가 답변에서 납부까지 원스톱 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216195",
+      "published": "2026-10-13T04:53:53+00:00",
+      "summary": "이동통신 가입자들이 요금제 등 자신의 통신계정 관리를 위해 이용하는 통신사 앱에도 에이전트 기능이 도입되기 시작했다. 이제 통신사 앱에서 AI 에이전트의 도움을 받아 휴대폰 미납요금 납부에서 로밍 가입, 매장 안내 등을 더 간편하게 이용할 수 있게 됐다.LG유플러스(대표 홍범식)는 통합 고객 플랫폼 '유플러스원(U+one)'을 '액셔너블 AI 에이전트' 방식으로 업데이트한다고 13일 밝혔다. 질문에 답하던 기존 AI 검색방식에서 나아가 분석, 추천, 실행까지 하나의 대화 안에서 처리하는 것이 특징"
+    },
+    {
+      "id": "04783237f417",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성·LG, KES 2026서 AI 가전·데이터센터·로봇 출격...생활·산업 속 AI 기술 뽐내",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216192",
+      "published": "2026-10-13T04:52:46+00:00",
+      "summary": "삼성전자와 LG전자가 일상 가전부터 모바일, 로봇, 데이터센터를 아우르는 최신 AI 기술력으로 일반인 대상 시선잡기 경쟁에 나선다.삼성전자와 LG전자는 13일부터 나흘간 서울 강남구 코엑스에서 열리는 한국전자전(KES 2026)에 참가해 AI 기술을 적용한 제품과 솔루션을 선보인다고 13일 밝혔다.삼성전자는 디스플레이, 가전, 모바일 등 AI 기술을 탑재한 최신 제품을 출품한다.가전 부문에서는 내부 카메라로 식재료를 인식·관리하는 ‘AI 푸드매니저' 기능을 탑재한 '비스포크 AI 패밀리허브' 냉장"
+    },
+    {
+      "id": "234060181679",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "IMF \"AI는 고용 시장의 '느린 쓰나미'…아시아 고령화 해법 될 수 있어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216184",
+      "published": "2026-10-13T04:52:05+00:00",
+      "summary": "국제통화기금(IMF)이 인공지능(AI)을 아시아의 고령화와 노동력 부족 문제를 완화할 핵심 수단으로 지목하는 한편, 전 세계 고용 시장에는 '느리게 이동하는 쓰나미'가 될 수 있다고 경고했다. AI 도입에 따른 생산성 향상이 고령화로 인한 경제성장 둔화를 상쇄할 수 있다는 분석이다. 다만 전 세계 일자리와 조세 체계에도 대규모 변화가 예상되는 만큼, 각국 정부가 노동시장 충격에 선제적으로 대응해야 한다고 경고했다.로이터 등에 따르면, 크리스탈리나 게오르기에바 IMF 총재는 12일(현지시간) 태국 "
+    },
     {
       "id": "750fe2e32436",
       "source": "AI타임스",
@@ -102,6 +344,17 @@
       "summary": "[지디넷코리아]삼성SDS가 항공물류 전문기업 우정항공의 지분 전량을 인수한다. 항공화물 혼재와 터미널 운영 역량을 확보해 항공운송 경쟁력을 높이고 불확실성이 커진 디지털 물류 플랫폼의 화물 가시성도 강화한다는 계획이다.12일 관련 업계에 따르면 삼성SDS는 우정항공 지분 100%를 인수하기 위한 주식양수도계약을 체결했다. 인수 금액은 공개되지 않았으며 삼성SDS는 연말까지 관련 절차를 마무리할 예정이다.삼성SDS와 2022년부터 업무협약을 맺고 협력해온 우정항공은 여러 화주의 소규모 화물을 모아 "
     },
     {
+      "id": "b682bfec6193",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "link": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "published": "2026-10-12T22:52:31+00:00",
+      "summary": ""
+    },
+    {
       "id": "a6b3507132da",
       "source": "AI타임스",
       "kind": "article",
@@ -111,6 +364,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216150",
       "published": "2026-10-12T22:00:00+00:00",
       "summary": "AI가 개발한 암 치료제가 임상시험을 통과했더라도, 인간이 작동 원리를 이해하지 못한다면 믿을 수 있을까요. 세계적인 수학자 테런스 타오 UCLA 교수가 최근 강연에서 던진 질문이 온라인에서 논쟁을 불러일으켰습니다. 인간의 이해가 중요하다는 취지였지만, 사람들은 환자의 생명을 구할 수 있다면 원리를 몰라도 상관없다는 반응을 보였습니다.논쟁의 발단은 지난 9일(현지시간) 캘리포니아공과대학교에서 열린 타오 교수의 '수학 2.0(Math 2.0)' 강연이었습니다.그는 AI가 수학 난제를 해결하는 시대에"
+    },
+    {
+      "id": "1660e319ca1e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "published": "2026-10-12T21:40:18+00:00",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 350 # Comments: 280"
     },
     {
       "id": "b90aaf3708a1",
@@ -144,6 +408,17 @@
       "link": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
       "published": "2026-10-12T20:13:28+00:00",
       "summary": "My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”"
+    },
+    {
+      "id": "ec046eb327dc",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Every app on Earth is now open source... whether it likes it or not",
+      "link": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
+      "published": "2026-10-12T19:15:23+00:00",
+      "summary": ""
     },
     {
       "id": "4a7a118a8c00",
@@ -1211,6 +1486,17 @@
       "link": "https://www.youtube.com/watch?v=gcFqz2lgCvA",
       "published": "2026-10-11T11:27:43+00:00",
       "summary": ""
+    },
+    {
+      "id": "01270bd59e07",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The baffling intelligence of a single cell (2024)",
+      "link": "https://jsomers.net/e-coli-chemotaxis/",
+      "published": "2026-10-11T11:02:30+00:00",
+      "summary": "Article URL: https://jsomers.net/e-coli-chemotaxis/ Comments URL: https://news.ycombinator.com/item?id=50041866 Points: 205 # Comments: 27"
     },
     {
       "id": "430c69df9d79",
