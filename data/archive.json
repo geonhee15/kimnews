@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-10-14T18:35:54.390822+00:00",
-  "count": 16086,
+  "updated_at": "2026-10-14T21:57:31.152528+00:00",
+  "count": 16105,
   "items": [
+    {
+      "id": "9980660ca07e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "published": "2026-10-14T21:11:28+00:00",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizon"
+    },
+    {
+      "id": "073ac825a687",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "published": "2026-10-14T21:00:00+00:00",
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it."
+    },
+    {
+      "id": "0e623dfea5e9",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump Aides Admit the House Is a Lost Cause",
+      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "published": "2026-10-14T21:00:00+00:00",
+      "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House."
+    },
+    {
+      "id": "8efeb56f6011",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "published": "2026-10-14T20:03:43+00:00",
+      "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigati"
+    },
+    {
+      "id": "b98224271e19",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub availability report: September 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "published": "2026-10-14T20:01:35+00:00",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "ff7e15e8ebdf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "published": "2026-10-14T20:00:00+00:00",
+      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments."
+    },
+    {
+      "id": "0f4ee50fae79",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "published": "2026-10-14T19:26:30+00:00",
+      "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 429 # Comments: 102"
+    },
+    {
+      "id": "950b545c984e",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "published": "2026-10-14T19:11:33+00:00",
+      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The Gi"
+    },
+    {
+      "id": "e19f5db841b6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "published": "2026-10-14T19:06:03+00:00",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, h"
+    },
+    {
+      "id": "191d455f7361",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+      "published": "2026-10-14T19:00:00+00:00",
+      "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives."
+    },
+    {
+      "id": "ef53a3c5234e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "published": "2026-10-14T18:47:54+00:00",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Charact"
+    },
+    {
+      "id": "c051c44a3400",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+      "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
+      "published": "2026-10-14T18:38:59+00:00",
+      "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV"
+    },
+    {
+      "id": "642e27cc0764",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "published": "2026-10-14T18:37:21+00:00",
+      "summary": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/ Comments URL: https://news.ycombinator.com/item?id=50092730 Points: 232 # Comments: 164"
+    },
+    {
+      "id": "11519aac6c3e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "published": "2026-10-14T18:32:52+00:00",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 212 # Comments: 161"
+    },
     {
       "id": "7fffa2c12470",
       "source": "TechCrunch",
@@ -80,6 +234,17 @@
       "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 214 # Comments: 78"
     },
     {
+      "id": "527e2ff1ce1e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "published": "2026-10-14T17:45:23+00:00",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 776 # Comments: 374"
+    },
+    {
       "id": "2cd41eb86327",
       "source": "The Verge",
       "kind": "article",
@@ -89,6 +254,17 @@
       "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
       "published": "2026-10-14T17:24:42+00:00",
       "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure"
+    },
+    {
+      "id": "56e74557213e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "published": "2026-10-14T17:10:15+00:00",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years."
     },
     {
       "id": "66fd002bf9ba",
@@ -122,6 +298,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
       "published": "2026-10-14T16:43:24+00:00",
       "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, includin"
+    },
+    {
+      "id": "ab99bcdb2f33",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "published": "2026-10-14T16:41:49+00:00",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges."
     },
     {
       "id": "bf04c0598e44",
@@ -177,6 +364,17 @@
       "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
       "published": "2026-10-14T15:16:04+00:00",
       "summary": "Deezer said that the new toggle will be rolled out by the end of the year."
+    },
+    {
+      "id": "4d4c9ee2d6e9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Passkeys are not a trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "published": "2026-10-14T15:15:45+00:00",
+      "summary": "Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/ Comments URL: https://news.ycombinator.com/item?id=50088935 Points: 331 # Comments: 517"
     },
     {
       "id": "6037f96a29e7",
@@ -650,6 +848,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216263",
       "published": "2026-10-14T07:50:00+00:00",
       "summary": "반도체 설계 기업 Arm이 퀄컴과의 소송에서 불리한 평결을 받았다. 배심원단은 계약 위반과 사업 방해를 인정했으나, 손해배상금은 명목상 금액인 2달러만 부과했다.미국 델라웨어주 배심원단은 13일(현지시간) 5일간의 재판 끝에 이같이 평결했다. 이번 공방은 소프트뱅크의 지배권 확보 이후 자체 칩 판매 영역으로 갈등이 깊어진 배경에서 비롯됐다.배심원단은 소프트웨어 패치 및 설계 도구 제공 의무 위반을 인정했으나, 나머지 5건의 위반 주장은 기각했다. 또 Arm이 메타와의 계약 체결을 앞둔 퀄컴의 협상"
+    },
+    {
+      "id": "18016434a73f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양경자청, 국제해양플랜트산업전서 기업 유치 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216268",
+      "published": "2026-10-14T07:30:00+00:00",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 14일부터 16일까지 사흘간 부산 벡스코(BEXCO)에서 열리는 ‘2026 국제해양에너지플랜트산업전’에 참가해 투자유치 활동을 펼친다고 밝혔다.‘2026 국제해양에너지플랜트산업전’은 산업통상자원부와 부산시가 주최하는 국내 유일의 조선·해양에너지플랜트 전문 산업전시회이다. 이번 산업전시회에는 글로벌 조선사를 비롯한 15개국 170여 개 기업이 참가해 600개 부스를 운영하며, 조선·해양플랜트, 해양에너지, 관련 기자재 등으로 친환경·탈탄소 기술과 AI, 자동화 "
     },
     {
       "id": "e8dbee2201e7",
