@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-10-14T08:40:16.659879+00:00",
-  "count": 16022,
+  "updated_at": "2026-10-14T14:02:44.127407+00:00",
+  "count": 16059,
   "items": [
+    {
+      "id": "9a74582c96f0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We might not have to wait 13 years for the next GTA",
+      "link": "https://www.theverge.com/games/1011028/next-gta-faster-development",
+      "published": "2026-10-14T13:42:29+00:00",
+      "summary": "Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto. As part of Bloomberg's expansive report on the making of GTA VI, Rockstar technical lead Phil Hooker said that the \"engine, the tools and the team we've built during this project will"
+    },
+    {
+      "id": "f2fd7ad1b8d5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "초지능 AI도 무조건 틀리던 문제의 비밀",
+      "link": "https://www.youtube.com/shorts/_X63momyXYs",
+      "published": "2026-10-14T13:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "cd10c7a0583b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Alexa Tablet 12 Pro is almost the Android tablet we needed",
+      "link": "https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review",
+      "published": "2026-10-14T13:00:00+00:00",
+      "summary": "We have to talk about this screen. It's the first thing you notice, and maybe the only thing that matters, about the Alexa Tablet 12 Pro. It's a 12-inch, 2800 x 1840 panel with a new technology Amazon calls \"Nanomatte\" that is meant to decrease glare and increase the feeling that"
+    },
+    {
+      "id": "5490ed6c04e5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "published": "2026-10-14T12:55:06+00:00",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
+    },
+    {
+      "id": "3662c04052b0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "옵스왓, N2SF 대응 SW공급망 보안 플랫폼 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261014214459",
+      "published": "2026-10-14T12:44:59+00:00",
+      "summary": "[지디넷코리아]미국 플로리다주 탬파(Tampa)에 본사가 있는 보안기업 옵스왓(OPSWAT)이 국가망 보안체계(National Network Security FRAMEwork, N²SF) 전환에 대응, 소프트웨어 공급망 보안부터 파일 전송, 망간 데이터 이동까지 아우르는 ‘소프트웨어 공급망 통합 보안 플랫폼’을 발표했다.국내 디지털포렌식 악성코드 및 침해사고 분석 대응 전문기업 인섹시큐리티(대표 김종광)가 유통을 담당한다.국가 망 보안체계(N²SF)는 국가·공공기관의 업무 정보를 중요도에 따라 기"
+    },
+    {
+      "id": "160e5e74a1fa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"CES 2027, AI로 어떤 일 일어날지 볼 수 있을 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20261014213104",
+      "published": "2026-10-14T12:36:17+00:00",
+      "summary": "[지디넷코리아]\"CES 2027에선 인공지능(AI)으로 실제 어떤 일이 일어날지 보게 될 것\"이라고 킨제이 파브리치오 미국 소비자기술협회(CTA) 회장 겸 최고경영자(CEO)가 14일 밝혔다. CES는 내년 1월 6~9일(현지시간) 미국에서 열린다. CTA가 CES를 개최·주관한다. 2027년은 CES 60주년을 맞는 해다. 파브리치오 CEO는 14일 서울 강남 코엑스에서 개최한 기자간담회에서 \"CES 2026에서 AI 관점에서 제조와 가정에서 활용할 수 있는 AI 콘셉트와 아이디어를 볼 수 있었"
+    },
+    {
+      "id": "2735a8d6b043",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "사이버 침해, 국가연구기관 평가에 포함한다",
+      "link": "https://zdnet.co.kr/view/?no=20261014212628",
+      "published": "2026-10-14T12:26:28+00:00",
+      "summary": "[지디넷코리아]\"과기정통부는 출연연구기관의 사이버보안을 강화해 나아가겠습니다.\"과기정통부가 14일 이 같은 제목의 보도설명자료를 내놨다. 앞서 동아일보가 14일자로 '해킹 막는 국가 연구기관들, 서버 97%가 백신없이 운영'이라는 제목의 기사를 보도한데 따른 것이다. 기사에 따르면, 서버 백신은 AI 해킹 속 기초 보안장치인데, 23개 출연연구기관 중 18개 기관의 설치율이 3분의1 미만이며 외부 접촉 서버 중 48%가 백신이 설치가 안됐다.과기정통부의 경우 전체 서버가 10개인데, 백신 설치는 "
+    },
+    {
+      "id": "8a579600d3e7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 깃 대신 쓰는 자체 코드 관리 시스템 '사이언' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261014212553",
+      "published": "2026-10-14T12:25:53+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 현지 시각 10월 13일 회사 엔지니어링 블로그를 통해 자체 개발한 코드 관리 시스템 '사이언(Scion)'을 공개했다. 사이언은 개발자 대부분이 사용하는 코드 관리 도구 '깃(Git)'을 대신해 앤트로픽 내부에서 사용하는 시스템이다. 깃은 여러 개발자가 수정한 코드의 변경 기록을 저장하고 합치는 버전 관리 도구다.앤트로픽은 코드 변경량이 급격히 증가하면서 새 시스템이 필요해졌다고 설명했다. 앤트로픽 저장소에 하루 반영되는 코드 변경은 2026년 5월 약 2,500건에서 "
+    },
+    {
+      "id": "86dc206ed3ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SECUI->SECUi로...시큐아이, 영문 사명 변경",
+      "link": "https://zdnet.co.kr/view/?no=20261014210451",
+      "published": "2026-10-14T12:04:51+00:00",
+      "summary": "[지디넷코리아]시큐아이(대표 정삼용)가 영문 사명을 'SECUI'에서 'SECUi'로 변경했다. 이번 사명 변경은 영문 사명 'SECUi'의 발음 인지성을 높이는 동시에, 글로벌 보안 기업으로서의 시큐아이의 정체성을 명확히 하고 경쟁력을 강화하기 위해 추진됐다고 회사는 14일 설명했다.새로 공개한 CI는 기존 'SECUI'의 마지막 영문자 'I'를 소문자 'i'로 변경해 기존 브랜드의 연속성을 유지하고 지능형 보안을 의미하는 'Intelligence'를 강조했다.신규 심볼은 감시자의 눈과 방패를 "
+    },
+    {
+      "id": "39f9441c553d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 우리 집 냉장고가 해킹기지가 될 수 있다고",
+      "link": "https://zdnet.co.kr/view/?no=20261014095100",
+      "published": "2026-10-14T12:01:20+00:00",
+      "summary": "[지디넷코리아]안녕하세요, 혹시 우리 집 냉장고가 해킹의 통로가 될 수 있다는 이야기, 들어보셨나요? 요즘 냉장고에는 AI가 들어가서, 안에 달린 카메라로 식재료의 신선도를 재고 내가 자주 사는 물건까지 스스로 배워요. 더 눈여겨볼 점은 이 계산을 인터넷 서버가 아니라 냉장고가 직접 한다는 건데요, 말하자면 냉장고가 스스로 계산하는 작은 컴퓨터가 된 셈이에요.그런데 AI 전문가 패널들은 이런 AI 가전의 위험도를 10점 만점에 8.5점으로 봤어요. 보안 업데이트를 믿을 수 있는 장치와 데이터 동의"
+    },
+    {
+      "id": "3f5d19c89727",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "조코딩의 AI 리터러시 강의 2강 : AI는 모든 형태의 콘텐츠를 다룬다",
+      "link": "https://www.youtube.com/watch?v=lN1IOA6evoQ",
+      "published": "2026-10-14T12:00:38+00:00",
+      "summary": ""
+    },
+    {
+      "id": "71c2002b9f93",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "극단적인 전략을 펼친 Grok Bot ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/PWE80I3FIDM",
+      "published": "2026-10-14T12:00:14+00:00",
+      "summary": ""
+    },
+    {
+      "id": "31daf50f554f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI스페라, 싱가포르 '거브웨어 2026' 참여... 'AITEM' 소개",
+      "link": "https://zdnet.co.kr/view/?no=20261014202006",
+      "published": "2026-10-14T11:20:06+00:00",
+      "summary": "[지디넷코리아]사이버 위협 인텔리전스 기업 AI스페라(AI SPERA, 대표 강병탁)가 13~15일 싱가포르 샌즈 엑스포 앤 컨벤션센터에서 열린 사이버보안 행사 ‘거브웨어(GovWare) 2026’에 참여했다.자사 AI 기반 위협 노출 관리 플랫폼 ‘AITEM(AI-Powered Threat Exposure Management)’을 활용한 보안 운영 자동화 사례와 차세대 공격표면관리(ASM) 방향을 발표했다.강병탁 AI스페라 대표는 행사 첫날인 13일 공식 컨퍼런스에서 ‘가시성 확보에서 위협 헌팅"
+    },
+    {
+      "id": "46442989a80f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "슈퍼마이크로, 통합 오픈 컴퓨팅 프로젝트 포트폴리오 확대로 랙 스케일 AI 데이터센터 배포 가속",
+      "link": "https://zdnet.co.kr/view/?no=20261014201002",
+      "published": "2026-10-14T11:10:02+00:00",
+      "summary": "[지디넷코리아] 랙 스케일 AI/HPC 시스템, ORv3 및 ORW 랙, 48V DC 전원, 네트워킹, 액체 냉각 솔루션을 아우르는 통합 오픈 컴퓨팅 프로젝트(OCP) 기반 포트폴리오로 기존 및 신규 데이터센터에서 더 높은 밀도의 컴퓨팅 구현 DCBBS 냉각수, 랙 내장형 CDU, 스위치, 인프라 관리용 슈퍼마이크로 시스템 관리 소프트웨어 스위트를 통해 인프라에서 지능형 운영까지 포트폴리오 확장 슈퍼마이크로 DCBBS, 해당 OCP 기반 기술을 통합 랙 스케일 솔루션으로 결합해 컴퓨팅, 전력, 네"
+    },
+    {
+      "id": "e65601e756d2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "published": "2026-10-14T11:00:30+00:00",
+      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
+    },
+    {
+      "id": "29adac2a2226",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "스마트폰 키보드에 숨겨진 비밀",
+      "link": "https://www.youtube.com/shorts/PoGzFDHXpHI",
+      "published": "2026-10-14T11:00:27+00:00",
+      "summary": ""
+    },
+    {
+      "id": "cc948f775b0c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "published": "2026-10-14T11:00:00+00:00",
+      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
+    },
+    {
+      "id": "1f4f761de528",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My Friend Has No Soul",
+      "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "published": "2026-10-14T11:00:00+00:00",
+      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting."
+    },
+    {
+      "id": "ef2a1f5559fc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한미일 등 13개국 양자 전주기 협력·대화 나서",
+      "link": "https://zdnet.co.kr/view/?no=20261014195009",
+      "published": "2026-10-14T10:50:09+00:00",
+      "summary": "[지디넷코리아]우리나라를 비롯한 미국·영국·일본·프랑스 등 13개국이 양자 관련 협력을 강화한다. 정책부터 연구개발, 산업화에 이르기까지 전주기적 협력 방안을 모색한다.과학기술정보통신부는 14일부터 16일까지 사흘간 서울에서 '제9차 양자기술다자대화(MDQ)'와 '양자기술 산업화 비즈니스 나이트'를 개최한다고 밝혔다.15~16일 이틀간 서울 정동 1928아트센터에서 열리는 MDQ에서는 각국 최신 정책과 추진 현황을 공유하고, 경제협력개발기구(OECD)의 ‘양자기술권고안’ 발표 및 논의가 진행된다."
+    },
+    {
+      "id": "c0459814ad78",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"녹화 방송인데 AI가 주문 안내\"…SK스토아, 패션 프로그램 '패라스' 시작",
+      "link": "https://zdnet.co.kr/view/?no=20261014192016",
+      "published": "2026-10-14T10:36:47+00:00",
+      "summary": "[지디넷코리아]SK스토아가 인공지능(AI) 음성 복제 기술과 실시간 채팅을 결합한 패션 전문 프로그램을 선보인다. 녹화 방송에서도 쇼호스트 목소리로 주문 현황을 안내하고, 모바일 채팅을 통해 시청자 질문에 실시간으로 답하는 방식이다.SK스토아는 오는 15일 오후 10시 31분 신규 패션 프로그램 '패라스(Fashion Live Station)'를 첫 방송한다고 14일 밝혔다.패라스는 패션과 기차역을 결합한 콘셉트로, 방송 중 구매하는 고객에게 다양한 혜택을 제공하는 프로그램이다. 여성의류와 캐주얼"
+    },
+    {
+      "id": "2e7e3c4082e3",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI로 만든 곡이 인기차트를 흔들었다 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/VmRVy6QDPfI",
+      "published": "2026-10-14T10:00:22+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1399e05c46f4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "라이엇게임즈, 2026 LCK 시청 지표 발표…평균 분당 시청자 수 70만 돌파",
+      "link": "https://zdnet.co.kr/view/?no=20261014175541",
+      "published": "2026-10-14T09:30:01+00:00",
+      "summary": "[지디넷코리아]국내 리그 오브 레전드 프로 e스포츠 리그인 LCK가 프랜차이즈 도입 6년 만에 평균 분당 시청자 수 70만을 돌파하며 역대 최고 지표를 경신했다.라이엇 게임즈는 지난 4월1일부터 9월13일까지 진행된 '2026 리그 오브 레전드 챔피언스 코리아(LCK)'의 공식 시청 지표를 14일 발표했다.발표에 따르면 2026 LCK의 평균 분당 시청자 수(AMA)는 71만 4000명을 기록해 2025년 대비 13% 증가했다. 프랜차이즈 시스템을 처음 도입한 2021년(32만 6000명)과 비교"
+    },
+    {
+      "id": "b4ad14e0090e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "published": "2026-10-14T09:30:00+00:00",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional."
+    },
+    {
+      "id": "8abcf0a0a71a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Amazon pushes up prices across the Internet",
+      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "published": "2026-10-14T09:28:17+00:00",
+      "summary": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 223 # Comments: 213"
+    },
+    {
+      "id": "14e057d1ca84",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 \"소형 AI, IoT 기기 감염해 자율 복제하는 'AI 웜' 수준 도달\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216242",
+      "published": "2026-10-14T09:23:32+00:00",
+      "summary": "앤트로픽이 소형 AI 모델이 인터넷에 연결된 사물인터넷(IoT) 기기를 감염시켜 스스로 복제하고 증식할 수 있는 수준에 가까워졌다고 경고했다. 데이터센터 GPU 없이도 스마트 TV나 가전 등 보안이 취약한 기기를 활용해 AI 모델을 전파하는 구조로, 중앙 서버가 없어 기존 악성코드보다 차단과 제거가 까다롭다.앤트로픽은 12일(현지시간) 공개한 연구 보고서에 따르면 매개변수 300억개 이하의 소형 모델은 취약 기기 탐색, 접근, 모델 복사 및 추론 환경 구축 등 자율 복제의 핵심 단계를 이미 상당 "
+    },
+    {
+      "id": "d07f2253029e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "싹 달라진 챗GPT의 새로운 UI",
+      "link": "https://www.youtube.com/shorts/Vhod5GQn7cU",
+      "published": "2026-10-14T09:00:11+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b32f412e3393",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 추론 감시 어려운 '루프 트랜스포머' 적용 모델 안전 확보에 전력",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216244",
+      "published": "2026-10-14T09:00:00+00:00",
+      "summary": "오픈AI가 차세대 주력 AI 모델을 안전하게 출시하기 위해 정렬 작업과 보안 강화에 집중하고 있는 것으로 알려졌다. 새 모델에 사용하는 ‘루프 트랜스포머(Loop Transformer)’ 설계가 AI의 추론 과정을 감시하기 어렵게 만들 수 있는 가운데, 모델과 테스트 환경의 안전성을 확보하는 작업을 진행하고 있다.디 인포메이션은 13일(현지시간) 관계자들을 인용해 오픈AI가 미공개 차세대 모델을 경영진이 안전하게 공개할 수 있다고 판단하는 수준까지 발전시키기 위해 노력하고 있다고 보도했다.관계자에"
+    },
+    {
+      "id": "41df4c8c5579",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 불법 증류 차단 고강도 방어 체계 도입...“추출 시도 최대 99% 감축”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216253",
+      "published": "2026-10-14T08:58:10+00:00",
+      "summary": "앤트로픽이 AI 모델의 성능을 몰래 복제하는 ‘불법 증류’를 막기 위해 추론 데이터 보호와 공격 탐지 기능을 강화하고, 반복적으로 공격에 나선 계정을 대거 차단하는 등 대응 수위를 높이고 있다. 앤트로픽은 12일(현지시간) 자사 AI 모델 ‘클로드(Claude)’의 핵심 추론 능력을 무단으로 복제하는 불법 증류 공격을 차단하기 위해 방어 체계를 대폭 강화했다고 발표했다. 새로운 보안 조치를 통해 공격자들이 수집하는 추론 데이터양을 기존보다 약 90~99% 줄였다고 밝혔다. 증류는 성능이 뛰어난 A"
+    },
+    {
+      "id": "6f4b9705f125",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216246",
+      "published": "2026-10-14T08:39:48+00:00",
+      "summary": "구글이 로봇이 실제 환경을 이해하고 스스로 작업 방법을 개선하도록 돕는 AI 기술 개발에 나섰다. 물리 법칙과 3D 공간을 추론하고 가상 시뮬레이션에서 동작을 검증하는 방식으로, 로봇의 정교한 조작 능력과 작업 효율을 높이는 데 초점을 맞췄다. 구글은 13일(현지시간) 로봇의 물리적 상황 이해와 제어, 시뮬레이션 구축, 동작 개선을 지원하는 모델 ‘로보틱스용 제미나이 4 아르곤(Gemini 4 Argon for Robotics)’을 공개했다.영상과 3D 공간, 물리 법칙을 함께 추론해 로봇이 복잡"
+    },
+    {
+      "id": "e7923e4007d3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "link": "https://typeof.net/Iosevka/",
+      "published": "2026-10-14T08:27:59+00:00",
+      "summary": "Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 314 # Comments: 114"
+    },
     {
       "id": "41fca38c93f1",
       "source": "AI타임스",
@@ -23,6 +353,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216258",
       "published": "2026-10-14T08:07:35+00:00",
       "summary": "스페이스XSI가 그록과 커서, X 프리미엄을 결합한 상품을 선보이며 AI 서비스 구독 시장에서 오픈AI와 앤트로픽에 도전장을 내밀었다. 스페이스XSI는 13일(현지시간) X의 유료 서비스와 AI 챗봇 '그록', AI 코딩 도구 '커서'를 하나로 묶은 통합 구독 상품 'X 구독(The X Subscription)'을 출시했다.개별 서비스로 나뉘어 있던 구독 체계를 통합해 사용자 선택의 폭을 넓히고, 오픈AI와 앤트로픽 등 경쟁사와의 유료 AI 시장 경쟁에서 우위를 확보하려는 전략이다.새 구독 상품은"
+    },
+    {
+      "id": "e8ce05569bff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 롯데이노베이트, CMC그룹과 베트남 데이터센터 사업 확장 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216266",
+      "published": "2026-10-14T08:00:00+00:00",
+      "summary": "■ 롯데이노베이트(대표 김경엽)는 베트남 하노이에서 현지 IT 기업 CMC그룹과 전략적 사업 협력을 위한 업무협약(MOU)을 체결했다고 밝혔다. 양사는 하이퍼스케일 데이터센터, 전기차 충전사업(CPO), 사이버보안, 오프쇼어 IT 서비스, 클라우드 등 5개 분야에서 협력 기회를 모색한다. 국내에서 쌓은 데이터센터 설계·구축·운영(DBO) 역량을 바탕으로 베트남 하이퍼스케일 데이터센터 시장 진출을 검토할 계획이다.■ 카테노이드(대표 김형석)는 클라우드 기반 라이브 스트리밍 플랫폼 '콜러스 라이브'에"
+    },
+    {
+      "id": "d7a1a419f6e3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "Arm, 퀄컴과의 라이선스 계약 위반 소송서 패소...손해배상금은 2달러에 불과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216263",
+      "published": "2026-10-14T07:50:00+00:00",
+      "summary": "반도체 설계 기업 Arm이 퀄컴과의 소송에서 불리한 평결을 받았다. 배심원단은 계약 위반과 사업 방해를 인정했으나, 손해배상금은 명목상 금액인 2달러만 부과했다.미국 델라웨어주 배심원단은 13일(현지시간) 5일간의 재판 끝에 이같이 평결했다. 이번 공방은 소프트뱅크의 지배권 확보 이후 자체 칩 판매 영역으로 갈등이 깊어진 배경에서 비롯됐다.배심원단은 소프트웨어 패치 및 설계 도구 제공 의무 위반을 인정했으나, 나머지 5건의 위반 주장은 기각했다. 또 Arm이 메타와의 계약 체결을 앞둔 퀄컴의 협상"
     },
     {
       "id": "e8dbee2201e7",
@@ -267,6 +619,17 @@
       "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more."
     },
     {
+      "id": "ebf08b93802e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Felix Rieseberg Homepage",
+      "link": "https://felixrieseberg.com/",
+      "published": "2026-10-14T04:42:33+00:00",
+      "summary": "Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 238 # Comments: 87"
+    },
+    {
       "id": "e5dc7facf0da",
       "source": "AI타임스",
       "kind": "article",
@@ -430,6 +793,17 @@
       "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
       "published": "2026-10-13T22:36:59+00:00",
       "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+    },
+    {
+      "id": "06f9e43c2f16",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
+      "published": "2026-10-13T22:33:33+00:00",
+      "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 242 # Comments: 99"
     },
     {
       "id": "5e19f79730f1",
@@ -2005,6 +2379,17 @@
       "summary": "Article URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html Comments URL: https://news.ycombinator.com/item?id=50061791 Points: 252 # Comments: 123"
     },
     {
+      "id": "61e6f815d6bb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "published": "2026-10-12T19:28:48+00:00",
+      "summary": "Article URL: https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002 Comments URL: https://news.ycombinator.com/item?id=50061659 Points: 239 # Comments: 47"
+    },
+    {
       "id": "ec046eb327dc",
       "source": "Fireship",
       "kind": "youtube",
@@ -2478,6 +2863,17 @@
       "summary": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average."
     },
     {
+      "id": "c333d56a7737",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "published": "2026-10-12T10:09:37+00:00",
+      "summary": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa... https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wa... https://www.youtube.com/watch?v=8JnHdr30v4g https://www.youtube.com/watch?v=Nf4FEFlgv3Q https://www.tibane.net/research/ledger-nano-x-implant Comments U"
+    },
+    {
       "id": "14b391d1b459",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -2498,6 +2894,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261012183414",
       "published": "2026-10-12T09:34:14+00:00",
       "summary": "[지디넷코리아]박정현 지방시대위원장은 12일 “지역에서 쌓은 경험을 국가 균형성장으로 이어가고 주민의 삶에서 지방시대의 성과를 확인하겠다”고 밝혔다.박 위원장은 이날 열린 취임식에서 “민주정부의 자치분권과 균형발전을 계승하고, ‘5극3특’을 지역의 기회로 만들고 현장 문제를 국가의 해법으로 연결하겠다”며 이같이 말했다.지역이 스스로 성장전략을 결정하고 실행하도록 권한·재정을 뒷받침하고, 산업 성과를 주민의 소득·일자리와 생활 여건 개선으로 연결하겠다는 구상이다.박 위원장은 충청남도 정무부지사와 부"
+    },
+    {
+      "id": "a85eb0016524",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "published": "2026-10-12T09:05:02+00:00",
+      "summary": "Article URL: https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html Comments URL: https://news.ycombinator.com/item?id=50053487 Points: 207 # Comments: 35"
     },
     {
       "id": "b9f44bda06d4",
