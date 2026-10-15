@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-15T21:39:14.882561+00:00",
-  "count": 16233,
+  "updated_at": "2026-10-15T23:52:34.135840+00:00",
+  "count": 16245,
   "items": [
+    {
+      "id": "4e591eb0dc82",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "published": "2026-10-15T23:44:56+00:00",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
+    },
+    {
+      "id": "cbc4deaeac3a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "published": "2026-10-15T23:33:45+00:00",
+      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026."
+    },
+    {
+      "id": "f6dd1498b537",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+      "published": "2026-10-15T23:18:28+00:00",
+      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"Bu"
+    },
+    {
+      "id": "3b21e2c3a3ee",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "published": "2026-10-15T22:43:23+00:00",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT'"
+    },
+    {
+      "id": "fff85fc750a4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "published": "2026-10-15T22:35:55+00:00",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, an"
+    },
+    {
+      "id": "e55205499256",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월15일] AI 수학 능력 급발전의 파장…과학 연구부터 인터넷 보안까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216279",
+      "published": "2026-10-15T22:00:00+00:00",
+      "summary": "지난주 오픈AI가 722편의 수학 연구 원고를 공개하면서 AI의 과학 연구 능력에 관심이 집중됐습니다. 그동안 AI가 과학 연구를 수십년 앞당길 수 있다는 전망이 이어졌지만, 일반인들이 그 의미를 체감하기는 쉽지 않았습니다. 그런데 최근 AI의 수학적 문제 해결 능력이 실제로 얼마나 발전했는지 보여주는 연구 결과와 함께, 어떤 분야에 영향을 미칠지에 대한 구체적인 전망이 나오기 시작했습니다.대표적인 분야가 물리학과 경제학 등 이론 연구입니다. AI가 실제 학술 논문에 등장하는 이론적 문제를 해결하"
+    },
+    {
+      "id": "3577aef4bcaa",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The tech backlash is now in theaters",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "published": "2026-10-15T21:39:52+00:00",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose am"
+    },
+    {
+      "id": "36c5e9e94ea9",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Plex now helps sell movie theater tickets",
+      "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+      "published": "2026-10-15T21:22:15+00:00",
+      "summary": "Discovery data from Plex users will help studios, advertisers."
+    },
     {
       "id": "e992302dce05",
       "source": "Wired",
@@ -9,6 +97,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "We Got Hot and Heavy with Meta’s Muse—And Baffled by Apple’s HomeView",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "published": "2026-10-15T21:18:15+00:00",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI."
+    },
+    {
+      "id": "e53a8d902c77",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
       "published": "2026-10-15T21:18:15+00:00",
       "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI."
@@ -168,6 +267,17 @@
       "summary": "[지디넷코리아]0.7nm급 차세대 반도체 소자 제작 기술이 국내서도 개발됐다. 지난 6월 IBM이 발표한 이래 두 번째다. 연구결과는 과학기술 분야 세계 3대 학술지 '사이언스'에 16일 오전 3시(KST) 게재됐다.과학기술정보통신부는 조문호 기초과학연구원(IBS) 반데르발스 양자 물질 연구단장 연구팀이 2차원 반도체를 구성하는 원자를 선택적으로 바꿔, 하나의 박막에 반도체·절연체·준금속 영역을 원하는 층과 위치에 구현하는 0.7nm급 모듈형 트랜지스터 제작 기술을 개발했다고 밝혔다.2차원 반도체"
     },
     {
+      "id": "e68bc2292207",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "published": "2026-10-15T18:00:00+00:00",
+      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog ."
+    },
+    {
       "id": "adad86560602",
       "source": "Hacker News",
       "kind": "article",
@@ -278,6 +388,17 @@
       "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America."
     },
     {
+      "id": "3f5d5f8ea1d5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "published": "2026-10-15T16:24:52+00:00",
+      "summary": "Article URL: https://zachlandes.com/trolley-problem/ Comments URL: https://news.ycombinator.com/item?id=50106023 Points: 259 # Comments: 120"
+    },
+    {
       "id": "0371b4e59543",
       "source": "The Verge",
       "kind": "article",
@@ -375,6 +496,17 @@
       "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
       "published": "2026-10-15T15:12:58+00:00",
       "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon."
+    },
+    {
+      "id": "237183e51601",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Celebrating 70 Years of Fortran",
+      "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "published": "2026-10-15T15:03:17+00:00",
+      "summary": "Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/ Comments URL: https://news.ycombinator.com/item?id=50104726 Points: 203 # Comments: 93"
     },
     {
       "id": "15c0ca5aa8a6",
