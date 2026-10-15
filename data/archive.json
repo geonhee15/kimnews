@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-10-15T18:28:29.230989+00:00",
-  "count": 16203,
+  "updated_at": "2026-10-15T21:39:14.882561+00:00",
+  "count": 16233,
   "items": [
+    {
+      "id": "e992302dce05",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We Got Hot and Heavy with Meta’s Muse—And Baffled by Apple’s HomeView",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "published": "2026-10-15T21:18:15+00:00",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI."
+    },
+    {
+      "id": "0c88b138bfd3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216309",
+      "published": "2026-10-15T21:17:00+00:00",
+      "summary": "메타가 복잡한 코딩과 여러 단계에 걸친 작업을 개인용 컴퓨터에서 수행하는 데 초점을 맞춘 오픈웨이트 모델 ‘뮤즈 스파크 오픈(Muse Spark Open)’을 공개했다. 8160억개의 매개변수를 갖춘 멀티모달 모델로, 애플과 협력해 맥 스튜디오 두 대를 연결한 환경에서 실행하도록 최적화했다.메타는 15일(현지시간) 뮤즈 스파크 오픈의 가중치를 공개하고 외부 플랫폼을 통한 API 서비스를 시작했다고 밝혔다. 회사는 이를 “현재까지 가장 뛰어난 미국 오픈웨이트 모델”이라고 소개했다. 개발자가 모델을 "
+    },
+    {
+      "id": "6f1f70f2f7c9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "published": "2026-10-15T21:09:33+00:00",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Go"
+    },
+    {
+      "id": "68902d9fb310",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "published": "2026-10-15T21:00:28+00:00",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools."
+    },
+    {
+      "id": "3f40e02b3fc5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "published": "2026-10-15T20:04:53+00:00",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+    },
+    {
+      "id": "ce360f256595",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "published": "2026-10-15T19:57:16+00:00",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt"
+    },
+    {
+      "id": "9183f3244594",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "published": "2026-10-15T19:55:25+00:00",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+    },
+    {
+      "id": "286a1e5db0e6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Withings now charges $100 per year to sync your data to other apps",
+      "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
+      "published": "2026-10-15T19:52:13+00:00",
+      "summary": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by Ma"
+    },
+    {
+      "id": "496fa1cac217",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The next developer interface is ambient intelligence",
+      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "published": "2026-10-15T19:39:27+00:00",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "e51179316fba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "published": "2026-10-15T19:29:05+00:00",
+      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization."
+    },
+    {
+      "id": "a0cff30463d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "published": "2026-10-15T19:14:26+00:00",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
+    },
+    {
+      "id": "dad3c8ccd2d8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
+      "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
+      "published": "2026-10-15T19:00:49+00:00",
+      "summary": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21."
+    },
+    {
+      "id": "aa4aab04954b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "published": "2026-10-15T18:56:46+00:00",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
+    },
     {
       "id": "276f28a777b0",
       "source": "The Verge",
@@ -12,6 +155,28 @@
       "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
       "published": "2026-10-15T18:15:36+00:00",
       "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra"
+    },
+    {
+      "id": "1542fdb65472",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "IBS, 0.7nm급 차세대 반도체 소자 제작 기술 개발…'사이언스' 실려",
+      "link": "https://zdnet.co.kr/view/?no=20261015135222",
+      "published": "2026-10-15T18:00:02+00:00",
+      "summary": "[지디넷코리아]0.7nm급 차세대 반도체 소자 제작 기술이 국내서도 개발됐다. 지난 6월 IBM이 발표한 이래 두 번째다. 연구결과는 과학기술 분야 세계 3대 학술지 '사이언스'에 16일 오전 3시(KST) 게재됐다.과학기술정보통신부는 조문호 기초과학연구원(IBS) 반데르발스 양자 물질 연구단장 연구팀이 2차원 반도체를 구성하는 원자를 선택적으로 바꿔, 하나의 박막에 반도체·절연체·준금속 영역을 원하는 층과 위치에 구현하는 0.7nm급 모듈형 트랜지스터 제작 기술을 개발했다고 밝혔다.2차원 반도체"
+    },
+    {
+      "id": "adad86560602",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "published": "2026-10-15T17:47:39+00:00",
+      "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 465 # Comments: 280"
     },
     {
       "id": "bf416052190a",
@@ -31,6 +196,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Volvo makes a bigger bet on Nvidia",
+      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "published": "2026-10-15T17:34:40+00:00",
+      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles."
+    },
+    {
+      "id": "27dfbcb3ef8a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
       "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
       "published": "2026-10-15T17:34:40+00:00",
       "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles."
@@ -58,12 +234,34 @@
       "summary": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but "
     },
     {
+      "id": "ca064416befe",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이 NG WAN 솔루션, 대규모 상용화로 통신사업자 성장 견인",
+      "link": "https://zdnet.co.kr/view/?no=20261016021003",
+      "published": "2026-10-15T17:10:03+00:00",
+      "summary": "[지디넷코리아]빈 2026년 10월 15일 /PRNewswire/ -- 존 차이(John Cai) 화웨이(Huawei) 데이터통신 제품라인 부사장이 10월 13일 UBBF 2026 기간에 열린 Net5.5G 지능형 IP 네트워크 서밋(Net5.5G Intelligent IP Network Summit)에서 기조 연설자로 나서 불확실한 미래 속에서 AI가 확실한 기회라고 강조했다. NG WAN Solution의 대대적 구축은 NG WAN의 전면적인 상용화를 의미하는 것이며 화웨이는 업계 이해관계자들"
+    },
+    {
       "id": "6f50ed3ae916",
       "source": "Ars Technica",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+      "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+      "published": "2026-10-15T16:57:24+00:00",
+      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024."
+    },
+    {
+      "id": "a9ae7b3e86be",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Neutron's first launch slips again amid trouble with carbon composites",
       "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
       "published": "2026-10-15T16:57:24+00:00",
       "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024."
@@ -100,6 +298,39 @@
       "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "published": "2026-10-15T16:08:03+00:00",
       "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+    },
+    {
+      "id": "e4e349942799",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "published": "2026-10-15T16:04:05+00:00",
+      "summary": "Article URL: https://www.krea.ai/krea-3 Comments URL: https://news.ycombinator.com/item?id=50105648 Points: 203 # Comments: 72"
+    },
+    {
+      "id": "35c1802f30f0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "published": "2026-10-15T16:04:01+00:00",
+      "summary": "https://twitter.com/nickcammarata/status/2110757819427574056 Comments URL: https://news.ycombinator.com/item?id=50105647 Points: 374 # Comments: 125"
+    },
+    {
+      "id": "a336679a4b0c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "published": "2026-10-15T16:03:19+00:00",
+      "summary": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/ Comments URL: https://news.ycombinator.com/item?id=50105635 Points: 227 # Comments: 239"
     },
     {
       "id": "16b495973e6a",
@@ -157,6 +388,17 @@
       "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
     },
     {
+      "id": "8d8fe0b822b7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "published": "2026-10-15T14:58:48+00:00",
+      "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 202 # Comments: 174"
+    },
+    {
       "id": "b5e8aee7d6b2",
       "source": "TechCrunch",
       "kind": "article",
@@ -177,6 +419,39 @@
       "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
       "published": "2026-10-15T14:29:33+00:00",
       "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+    },
+    {
+      "id": "f6ca923637f3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "벌긴, 전력 및 신호 연결용 6000 Series Hybrid Buccaneer 커넥터 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261015231023",
+      "published": "2026-10-15T14:10:23+00:00",
+      "summary": "[지디넷코리아] 전력과 신호 접점을 작은 인터페이스 하나에 결합한 새 고내구성 커넥터로 공간이 제한된 분야에 적합 케임브리지, 잉글랜드, 2026년 10월 15일 /PRNewswire/ -- 인피니트 일렉트로닉스(Infinite Electronics) 계열사로 외부 환경으로부터 차단된 커넥터와 부품을 제조하는 선도 기업 벌긴(Bulgin)이 전력과 신호 연결을 견고한 커넥터 하나에 결합한 새 하이브리드 원형 커넥터를 선보이며 6000 Series Buccaneer 제품군을 확장했다. 시험 및 측정"
+    },
+    {
+      "id": "984923c54bc8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Net5.5G 지능형 IP 네트워크 서밋 성료, AI 시대 새 성장의 기반으로 안전하고 복원력 있는 IP 네트워크 강조",
+      "link": "https://zdnet.co.kr/view/?no=20261015231013",
+      "published": "2026-10-15T14:10:13+00:00",
+      "summary": "[지디넷코리아]빈 2026년 10월 15일 /PRNewswire/ -- 글로벌 울트라 브로드밴드 포럼(Global Ultra-Broadband Forum•UBBF) 2026 기간에 Net5.5G 지능형 IP 네트워크 서밋(Net5.5G Intelligent IP Network Summit)이 성황리에 열렸다. '네트워크의 보안과 복원력, 통신사업자의 지능형 새 성장(Security and Resilience for Networks, Smart New Growth for Carriers)'을 주제로"
+    },
+    {
+      "id": "834dc01285fe",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "누베이, 남아공 현지 결제 수납 서비스 허가 획득",
+      "link": "https://zdnet.co.kr/view/?no=20261015231002",
+      "published": "2026-10-15T14:10:02+00:00",
+      "summary": "[지디넷코리아] 남아공은 아프리카 최대 규모를 다투는 디지털 커머스 시장, 이를 계기로 '모든 결제를 어디서나' 전략 고도화 박차…현지 매입 인프라를 52개 시장으로 확대 몬트리올, 2026년 10월 15일 /PRNewswire/ -- 모든 결제를 어디서나 처리할 수 있는 인프라를 구축하는 글로벌 핀테크 기업 누베이(Nuvei)가 남아프리카공화국 결제협회(Payments Association of South Africa, PASA)로부터 남아공 내 가맹점 결제 서비스 제공을 위한 허가를 획득했다고"
     },
     {
       "id": "f6a80eb4adfe",
@@ -210,6 +485,17 @@
       "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
       "published": "2026-10-15T13:44:32+00:00",
       "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep Comments URL: https://news.ycombinator.com/item?id=50103630 Points: 244 # Comments: 373"
+    },
+    {
+      "id": "be49ac9ffe62",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I know why the mathematicians weep",
+      "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "published": "2026-10-15T13:44:32+00:00",
+      "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep Comments URL: https://news.ycombinator.com/item?id=50103630 Points: 317 # Comments: 504"
     },
     {
       "id": "53eff0fad0cb",
@@ -278,6 +564,17 @@
       "summary": "[지디넷코리아]디지털보안 및 지능형 관제 솔루션 전문기업 마크애니가 인도네시아 세마랑(Semarang)에서 현지 정부 기관 및 관계자들을 대상으로 '국토교통과학기술진흥원(KAIA) 개념증명(POC) 결과보고 세미나'를 성공적으로 개최했다. 국토교통과학기술진흥원(KAIA)이 행사에서 자사의 AI 선별관제 기술을 선보였다.15일 회사에 따르면, 세마랑 현지에서 열린 이번 세미나는 현지 시정부 유관 부처 담당자 및 프로젝트 주요 관계자들이 다수 참석한 가운데 진행됐다. 이번 행사는 지난 프로젝트 성과 "
     },
     {
+      "id": "f8805eb41d47",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "link": "https://libreboot.org/news/libreboot2610.html",
+      "published": "2026-10-15T12:52:16+00:00",
+      "summary": "Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 227 # Comments: 130"
+    },
+    {
       "id": "65b143893baf",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -319,6 +616,28 @@
       "title": "조코딩의 AI 리터러시 특강 3강 : 2026, AI 에이전트가 바꾼 우리의 업무",
       "link": "https://www.youtube.com/watch?v=Y3Xz4C3kgBA",
       "published": "2026-10-15T11:50:41+00:00",
+      "summary": ""
+    },
+    {
+      "id": "09c8c62eb314",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "link": "https://unfenced.land/",
+      "published": "2026-10-15T11:38:57+00:00",
+      "summary": "Article URL: https://unfenced.land/ Comments URL: https://news.ycombinator.com/item?id=50102247 Points: 230 # Comments: 158"
+    },
+    {
+      "id": "3449f9032f48",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published": "2026-10-15T11:34:01+00:00",
       "summary": ""
     },
     {
@@ -364,6 +683,17 @@
       "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
       "published": "2026-10-15T10:43:36+00:00",
       "summary": "Article URL: https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/ Comments URL: https://news.ycombinator.com/item?id=50101813 Points: 207 # Comments: 36"
+    },
+    {
+      "id": "02718c7c51d9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "published": "2026-10-15T10:43:36+00:00",
+      "summary": "https://www.theguardian.com/technology/2026/oct/15/israeli-f... https://www.theverge.com/tech/1011956/discover-tech-zero-cli... Comments URL: https://news.ycombinator.com/item?id=50101813 Points: 322 # Comments: 467"
     },
     {
       "id": "8cde9de43dc2",
