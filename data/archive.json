@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-10-16T12:57:18.261158+00:00",
-  "count": 16313,
+  "updated_at": "2026-10-16T17:09:47.016324+00:00",
+  "count": 16332,
   "items": [
+    {
+      "id": "9c0111bfb241",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "published": "2026-10-16T16:30:00+00:00",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs count"
+    },
+    {
+      "id": "9b442a0b8b3b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "published": "2026-10-16T16:06:38+00:00",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets."
+    },
+    {
+      "id": "300f6f24ed29",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "published": "2026-10-16T16:01:37+00:00",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+    },
+    {
+      "id": "3bfc8ea76568",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "published": "2026-10-16T15:41:00+00:00",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab."
+    },
+    {
+      "id": "c62b03496285",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s HomeView has an app problem",
+      "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "published": "2026-10-16T15:38:17+00:00",
+      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch"
+    },
+    {
+      "id": "f56dfc61f128",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "published": "2026-10-16T15:33:49+00:00",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+    },
+    {
+      "id": "eeabc1fa6e7c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+      "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "published": "2026-10-16T15:02:23+00:00",
+      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and"
+    },
+    {
+      "id": "8e35ce9df655",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "published": "2026-10-16T15:00:00+00:00",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best "
+    },
+    {
+      "id": "7da7a9f7ac89",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "published": "2026-10-16T14:26:51+00:00",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+    },
+    {
+      "id": "a97709d768f7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The incredible flying Tesla Roadster is just for show",
+      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+      "published": "2026-10-16T14:15:29+00:00",
+      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying c"
+    },
+    {
+      "id": "7d69957b1b8c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+      "published": "2026-10-16T14:03:25+00:00",
+      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it."
+    },
+    {
+      "id": "8f38ee5a37c2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "published": "2026-10-16T14:02:40+00:00",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outs"
+    },
+    {
+      "id": "8fbd10a7014c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "published": "2026-10-16T14:00:00+00:00",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
+    },
+    {
+      "id": "0fd3f7241b38",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+      "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+      "published": "2026-10-16T13:33:21+00:00",
+      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit c"
+    },
+    {
+      "id": "a94d9cdd1a29",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iPhone Duo orders are already delayed into 2027",
+      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+      "published": "2026-10-16T13:10:11+00:00",
+      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch"
+    },
+    {
+      "id": "5e1259ecf8c6",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
+      "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
+      "published": "2026-10-16T13:00:00+00:00",
+      "summary": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life."
+    },
     {
       "id": "ba25e19b93f8",
       "source": "TechCrunch",
@@ -34,6 +210,17 @@
       "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
       "published": "2026-10-16T12:30:00+00:00",
       "summary": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP. I stood about 20 fee"
+    },
+    {
+      "id": "e8ee3b704f7b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+      "published": "2026-10-16T12:00:05+00:00",
+      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there."
     },
     {
       "id": "bbc78aaac8e3",
@@ -1255,6 +1442,17 @@
       "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "published": "2026-10-15T15:02:36+00:00",
       "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+    },
+    {
+      "id": "57332f8584bc",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "published": "2026-10-15T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "8d8fe0b822b7",
@@ -3719,6 +3917,17 @@
       "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "published": "2026-10-13T19:35:29+00:00",
       "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons."
+    },
+    {
+      "id": "ebf64d3e4beb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Yet another way to invoke functions without parentheses",
+      "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "published": "2026-10-13T19:25:18+00:00",
+      "summary": "Article URL: https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/ Comments URL: https://news.ycombinator.com/item?id=50077225 Points: 207 # Comments: 91"
     },
     {
       "id": "59e6747e6d72",
