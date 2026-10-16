@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-10-16T19:57:21.634342+00:00",
-  "count": 16340,
+  "updated_at": "2026-10-16T22:32:03.054241+00:00",
+  "count": 16350,
   "items": [
+    {
+      "id": "c224e94a1259",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-16T21:22:28+00:00",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+    },
+    {
+      "id": "227d66cb364d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "published": "2026-10-16T20:49:04+00:00",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely"
+    },
+    {
+      "id": "52569f7f1d2a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "published": "2026-10-16T20:20:07+00:00",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG."
+    },
+    {
+      "id": "14c25df8a136",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "published": "2026-10-16T20:05:08+00:00",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there."
+    },
+    {
+      "id": "eb5c26ecda95",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "published": "2026-10-16T19:11:50+00:00",
+      "summary": "The bug is fixed, but privacy concerns remain."
+    },
+    {
+      "id": "4ad10f95f5ce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "published": "2026-10-16T18:55:59+00:00",
+      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 508 # Comments: 212"
+    },
     {
       "id": "c2cf114f8140",
       "source": "The Verge",
@@ -135,6 +201,17 @@
       "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
     },
     {
+      "id": "4268ff1b5271",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 시대 새로운 성장을 위한 네트워크 가치 재편",
+      "link": "https://zdnet.co.kr/view/?no=20261017001003",
+      "published": "2026-10-16T15:10:03+00:00",
+      "summary": "[지디넷코리아]빈 2026년 10월 16일 /PRNewswire/ -- 세계광대역협회(World Broadband Association, WBBA)가 네트워크 X 2026(Network X 2026) 기간 중 빈에서 브로드밴드 발전 총회(Broadband Development Congress, BDC)를 개최했다. 이번 총회에서 화웨이(Huawei)의 밥 첸(Bob Chen) 광통신 사업부 사장은 'AI 시대 새로운 성장을 위한 네트워크 가치 재편(Reshaping Network Value for"
+    },
+    {
       "id": "eeabc1fa6e7c",
       "source": "The Verge",
       "kind": "article",
@@ -155,6 +232,17 @@
       "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "published": "2026-10-16T15:00:00+00:00",
       "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best "
+    },
+    {
+      "id": "5d38dcfcc5ce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Waymo in Toronto",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "published": "2026-10-16T14:44:17+00:00",
+      "summary": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/ Comments URL: https://news.ycombinator.com/item?id=50118981 Points: 219 # Comments: 326"
     },
     {
       "id": "7da7a9f7ac89",
@@ -454,6 +542,17 @@
       "summary": "마이크로소프트(MS)가 2조8000억개의 매개변수를 갖춘 대규모 AI 모델 'MAI-베이스-2(MAI-Base-2)'의 사전 학습 완료를 발표했다. 정식 출시 전 무스타파 술레이먼 MS AI CEO까지 나서 개발 성과를 강조하면서, 오픈AI 등 외부 모델에 대한 의존도를 낮출 독자적인 개발 역량을 부각하려는 행보로 풀이된다.MS는 15일(현지시간) 자체 개발한 ‘MAI-베이스-2’의 사전 학습을 마쳤다고 발표했다. 이 모델은 2조8000억개의 매개변수 가운데 토큰 하나를 처리할 때 활성화되는 매개"
     },
     {
+      "id": "eb496a59d9e1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+      "published": "2026-10-16T09:08:58+00:00",
+      "summary": "마이크로소프트(MS)가 2조8000억개의 매개변수를 갖춘 대규모 AI 모델 'MAI-베이스-2(MAI-Base-2)'의 사전 학습 완료를 발표했다. 정식 출시 전 무스타파 술레이먼 MS AI CEO까지 나서 개발 성과를 강조하면서, 오픈AI 등 외부 모델에 대한 의존도를 낮출 독자적인 개발 역량을 부각하려는 행보로 풀이된다.MS는 15일(현지시간) 자체 개발한 ‘MAI-베이스-2’의 사전 학습을 마쳤다고 발표했다. 이 모델은 2조8000억개의 매개변수 가운데 토큰 하나를 처리할 때 활성화되는 매개"
+    },
+    {
       "id": "063ddbfbe2ba",
       "source": "조코딩",
       "kind": "youtube",
@@ -485,6 +584,17 @@
       "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "published": "2026-10-16T09:00:00+00:00",
       "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal "
+    },
+    {
+      "id": "28c195ea6bfb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216350",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "세르게이 브린 구글 공동 창립자가 제미나이 모델이 후속 모델 개발을 돕는 비중이 커지고 있다며, 구글이 ‘재귀적 자기개선(RSI)’ 단계에 들어서기 시작했다고 밝혔다. 내부 개발 속도가 빨라져 새 모델 소개 영상이 공개될 때면 이미 몇 개의 후속 모델을 더 개발한 상태일 것이라고도 말했다.브린 창립자는 14일(현지시간) 공개된 신형 모델 ‘제미나이 4 아르곤’ 개발 과정을 다룬 좌담회에서 이같이 밝혔다.그는 아르곤에 앞서 '제미나이 플래시' 모델들이 잇따라 출시된 것을 거론하며, 기존 모델을 후속"
     },
     {
       "id": "254950903972",
