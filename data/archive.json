@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-16T22:32:03.054241+00:00",
-  "count": 16350,
+  "updated_at": "2026-10-17T00:46:38.349949+00:00",
+  "count": 16361,
   "items": [
+    {
+      "id": "71c34d913bb5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브, PHP·테라폼 코드 취약점 찾는 'AI 스캔' 정식 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261017092459",
+      "published": "2026-10-17T00:24:59+00:00",
+      "summary": "[지디넷코리아]깃허브가 현지 시각 10월 15일 코드 변경 요청(풀 리퀘스트)에 포함된 보안 취약점을 AI로 찾는 'AI 스캔' 기능을 정식 출시했다. 풀 리퀘스트는 개발자가 수정한 코드를 프로젝트에 반영해 달라고 요청하는 절차다.AI 스캔은 깃허브의 기존 코드 보안 분석 도구 코드QL(CodeQL)이 지원하지 않는 언어와 형식의 코드를 검사한다. 웹 개발 언어 PHP와 셸 스크립트, 클라우드 인프라 설정 언어 테라폼, 컨테이너 설정 파일 도커파일, 자바 웹 페이지 기술 JSP, C# 웹 화면 기"
+    },
+    {
+      "id": "4f22f4dc83f0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인스타·페북 상업용 계정, AI 학습 강제 활용...\"언론사 비상\"",
+      "link": "https://zdnet.co.kr/view/?no=20261017091913",
+      "published": "2026-10-17T00:23:50+00:00",
+      "summary": "[지디넷코리아]페이스북과 인스타그램을 운영하는 메타(Meta)가 상업용 이용 약관을 개정해 논란이 일고 있다. 새 약관에 따르면, 메타 플랫폼에 비즈니스 계정을 가진 기업이나 언론사, 유명인은 자사 웹사이트의 데이터를 메타가 인공지능(AI) 학습용으로 수집(스크래핑)하는 데 강제로 동의한 것으로 간주된다.하버드대 저널리즘 연구 프로젝트인 '니먼 랩(Nieman Lab)' 등 외신에 따르면, 메타는 이달 초 비즈니스 헬프 센터와 메타 비즈니스 스위트를 통해 '상업용 이용 약관' 업데이트를 공지했다."
+    },
+    {
+      "id": "f358f4893544",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"풍선 띄워 드론 잡는다\"…풍선 탑재형 레이더 등장",
+      "link": "https://zdnet.co.kr/view/?no=20261016151243",
+      "published": "2026-10-17T00:17:07+00:00",
+      "summary": "[지디넷코리아]이스라엘의 항공우주·방위산업체 IAI(Israel Aerospace Industries)가 새로운 풍선 탑재형 레이더 시스템을 공개할 예정이라고 과학매체 인터레스팅엔지니어링이 최근 보도했다.IAI는 워싱턴 D.C.에서 열리는 미국 육군협회 연례 전시회(AUSA 2026)에서 신형 레이더 시스템 ‘포인트@에어(POINT@AIR)를 선보일 예정이다.이 시스템음 헬륨으로 채워진 계류식 풍선에 능동형 전자스캔 배열(AESA) 레이더를 탑재해 지상 상공으로 띄우는 방식이다. IAI 측은 이 "
+    },
+    {
+      "id": "b3c30f5eaea0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "All the news about the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "published": "2026-10-16T23:36:26+00:00",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It"
+    },
+    {
+      "id": "fd0d02b8cf32",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "published": "2026-10-16T22:51:22+00:00",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexual"
+    },
+    {
+      "id": "98d501e7d637",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "일본 성우들 \"AI로 목소리 복제, 허락받고 돈 내라”",
+      "link": "https://zdnet.co.kr/view/?no=20261016211936",
+      "published": "2026-10-16T22:30:02+00:00",
+      "summary": "[지디넷코리아]일본 성우와 배우들이 자신의 목소리를 AI 학습이나 음성 합성에 이용하려면 사전에 허락을 받고 별도의 대가를 지급하라는 지침을 마련했다. AI가 실제 성우를 대신해 목소리를 생성하는 것은 물론 기존 음성을 학습하는 단계부터 권리자의 동의를 받겠다는 뜻이다.16일 일본 IT 전문매체인 IT미디어에 따르면 약 2600명의 성우와 배우가 가입한 일본배우연합은 '음성 생성AI 이용 가이드라인'을 발표했다. 발표에 따르면 AI 개발사와 콘텐츠 제작사, 서비스 사업자 등이 성우의 목소리를 이용"
+    },
+    {
+      "id": "041d8b5b46dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "공급량 허덕이는 아이폰듀오...이통사, 차수별 순차 개통 불가피",
+      "link": "https://zdnet.co.kr/view/?no=20261016192820",
+      "published": "2026-10-16T22:00:01+00:00",
+      "summary": "[지디넷코리아]애플 첫 폴더블폰 아이폰 듀오의 초도 물량이 부족한 가운데, 이동통신 3사가 사전예약 신청자에게 단말기를 차수별로 순차 개통에 나설 것으로 보인다. 사전예약 기간에 구매를 신청하더라도 실제 제품 수령까지 상당한 시간이 걸릴 수 있다는 관측이 나온다는 뜻이다.17일 통신업계에 따르면 SK텔레콤, KT, LG유플러스가 확보한 아이폰 듀오 초도 물량은 기존에 출시해왔던 플래그십 스마트폰의 10분의 1 수준에 그치는 것으로 알려졌다.통신사들은 일반적으로 사전예약 판매에서 실제 확보한 단말기"
+    },
+    {
+      "id": "e1b9c77dc340",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월16일] AI 수요는 넘치는데 채권은 급락…코어위브가 드러낸 '부채 위험'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216325",
+      "published": "2026-10-16T22:00:00+00:00",
+      "summary": "최근 며칠 동안 글로벌 증시에서 AI 관련 주식이 급락했습니다. 엔비디아를 비롯한 반도체 기업들이 직격탄을 맞았고, 미국 반도체 기업들의 시가총액은 최근 매도세로 최대 2조달러(약 2800조원)가 사라질 것으로 예상됐습니다. AI 투자 열풍의 최대 수혜주들이 한꺼번에 매도 대상이 된 것입니다.그런데 AI 수요가 줄어서 생긴 문제가 아니라는 것이 주목됩니다. 예를 들어 세계 최대 반도체 위탁생산업체 TSMC는 AI 칩 수요에 힘입어 6분기 연속 사상 최고 실적을 기록했습니다. AI 데이터센터 기업들"
+    },
     {
       "id": "c224e94a1259",
       "source": "TechCrunch",
@@ -12,6 +100,28 @@
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "published": "2026-10-16T21:22:28+00:00",
       "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+    },
+    {
+      "id": "436078dd064a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷플릭스는 왜 1000명 자르고 콘텐츠 수장 바꿨나",
+      "link": "https://zdnet.co.kr/view/?no=20261016190612",
+      "published": "2026-10-16T21:00:03+00:00",
+      "summary": "[지디넷코리아]넷플릭스가 직원 1000명을 감원하고 글로벌 콘텐츠 사업을 총괄하는 최고책임자를 교체했다.미국 현지 언론은 콘텐츠 투자 확대에도 시청시간 증가세가 둔화하고 새로운 흥행작 확보에 어려움을 겪는 상황에 주목하고 있다. 유튜브와의 경쟁, 주가 하락에 따른 투자자들의 압박도 조직 개편의 배경으로 거론된다.16일(현지시간) 넷플릭스는 글로벌 콘텐츠 사업을 이끌어온 벨라 바자리아 최고콘텐츠책임자(CCO)가 퇴이하고 디즈니 출신의 피터 라이스가 후임을 맡게 됐다고 밝혔다.앞서 이틀 전에는 전체 "
+    },
+    {
+      "id": "a4babed168a5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "published": "2026-10-16T20:59:01+00:00",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard."
     },
     {
       "id": "227d66cb364d",
@@ -56,6 +166,17 @@
       "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
       "published": "2026-10-16T19:11:50+00:00",
       "summary": "The bug is fixed, but privacy concerns remain."
+    },
+    {
+      "id": "82ab6c2140f2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "published": "2026-10-16T19:04:47+00:00",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 210 # Comments: 196"
     },
     {
       "id": "4ad10f95f5ce",
