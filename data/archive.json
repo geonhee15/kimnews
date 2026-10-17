@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T16:23:21.810668+00:00",
-  "count": 16419,
+  "updated_at": "2026-10-17T18:41:30.715994+00:00",
+  "count": 16422,
   "items": [
     {
       "id": "7cc15d40c9c6",
@@ -12,6 +12,17 @@
       "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "published": "2026-10-17T15:04:36+00:00",
       "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such "
+    },
+    {
+      "id": "16882d975f2f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Solar surpasses nuclear power globally for first time",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "published": "2026-10-17T14:01:01+00:00",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 305 # Comments: 169"
     },
     {
       "id": "b0bd315f6892",
@@ -67,6 +78,17 @@
       "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
       "published": "2026-10-17T11:15:11+00:00",
       "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too."
+    },
+    {
+      "id": "3aeb9e2b0c32",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "published": "2026-10-17T10:59:31+00:00",
+      "summary": "Article URL: https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/ Comments URL: https://news.ycombinator.com/item?id=50129947 Points: 201 # Comments: 28"
     },
     {
       "id": "c12f46769376",
@@ -342,6 +364,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261017094356",
       "published": "2026-10-17T05:00:03+00:00",
       "summary": "[지디넷코리아]스티브 워즈니악의 친필 서명이 담긴 애플-1 컴퓨터가 약 114만8200달러(약 15억4000만원)이라는 기록적인 가격에 낙찰돼 주목되고 있다.엔가젯 등 외신은 경매 전문 기업 본햄스가 진행한 경매에서 일명 ‘햇필드 애플-1’ 컴퓨터가 익명의 구매자에게 114만8200달러에 낙찰됐다고 최근 보도했다.현재 전 세계에 남아 있는 애플-1 컴퓨터는 약 74대로 추정된다. 이번에 낙찰된 제품은 이 가운데 실제로 작동하는 몇 안 되는 기기 중 하나다. 이 컴퓨터는 1976년 제작돼 최초 소유"
+    },
+    {
+      "id": "6efdfaddfed7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "published": "2026-10-17T04:36:53+00:00",
+      "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 209 # Comments: 66"
     },
     {
       "id": "30a23764e441",
