@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-10-17T09:26:40.048502+00:00",
-  "count": 16402,
+  "updated_at": "2026-10-17T13:05:17.929667+00:00",
+  "count": 16416,
   "items": [
+    {
+      "id": "b0bd315f6892",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "published": "2026-10-17T13:00:00+00:00",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest o"
+    },
+    {
+      "id": "9d44a1cef178",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bose makes a strong argument to tether to your phone again",
+      "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "published": "2026-10-17T13:00:00+00:00",
+      "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence"
+    },
+    {
+      "id": "51e6e996556b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+      "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "published": "2026-10-17T12:00:00+00:00",
+      "summary": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of"
+    },
+    {
+      "id": "75a47d9f2e1a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Science says your boss should talk less in meetings",
+      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "published": "2026-10-17T11:15:11+00:00",
+      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too."
+    },
+    {
+      "id": "c12f46769376",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+      "published": "2026-10-17T10:47:45+00:00",
+      "summary": "■ 블랙포레스트랩스, 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인’ 가중치 공개블랙포레스트랩스(BFL)가 56억개의 매개변수를 갖춘 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인(FLUX 3 Image Klein)’의 가중치를 공개했다. 최대 10장의 참조 이미지와 4K 이미지 생성을 지원하며, 특정 영역만 선택해 수정하거나 원하는 위치에 요소를 배치할 수 있다. 개인과 연 매출 500만달러 미만 기업에는 무료 상업적 이용을 허용하며, 그 이상 기업은 별도 계약이나 API를 이용해야 한다"
+    },
+    {
+      "id": "49f8c507d0ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CXMT, 3분기 매출 23조 전망...전년비 600% '껑충'",
+      "link": "https://zdnet.co.kr/view/?no=20261017151149",
+      "published": "2026-10-17T10:42:59+00:00",
+      "summary": "[지디넷코리아]중국 창신메모리(CXMT)가 인공지능(AI) 열풍 수혜로 3분기 실적 대폭발을 예고했다. CXMT는 D램 메모리 시장에서 삼성전자와 SK하이닉스를 매섭게 추격 중이다. 17일 외신과 업계에 따르면 CXMT는 최근 실적 예고 공지에서 3분기 매출이 1147억~1197억 위안(약 22조 9500억~23조 9500억원)에 이를 것이라고 추정했다. 전년 동기 대비 589~619% 급증한 수치다. 전 분기 대비로도 15~20% 많다.CXMT 예고대로 3분기 실적이 나오면 1~3분기 누적 매출"
+    },
+    {
+      "id": "c276ee25e306",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "published": "2026-10-17T10:30:00+00:00",
+      "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform."
+    },
+    {
+      "id": "8028054cc3ef",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+      "published": "2026-10-17T10:27:01+00:00",
+      "summary": "AI로 소프트웨어를 만드는 작업이 쉬워지면서, 결과물이 실제로 제대로 작동하는지 검증하는 문제가 부각되고 있다. AI 코딩 서비스 업체 레플릿도 외부 업체의 상용 테스트 플랫폼을 활용하는 것으로 알려졌다. 기업용 에이전트에 이어 AI 코딩 분야에서도 LLM에만 의존하지 않고 별도의 통제·검증 장치를 결합하는 움직임이 나타나고 있다.디 인포메이션은 15일(현지시간) 레플릿을 비롯한 기업들이 네트워크 장애 등 다양한 상황에서 소프트웨어의 작동을 확인하기 위해 시뮬레이션 도구를 사용하고 있다고 보도했다"
+    },
+    {
+      "id": "78082ef9b711",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+      "published": "2026-10-17T09:45:28+00:00",
+      "summary": "오픈AI 직원의 회의실 도청 혐의 사건을 계기로 미국 AI 기업을 겨냥한 첩보 활동에 대한 우려가 커지고 있다. 미국 정보당국은 AI 기밀 보호를 국가 경쟁력과 안보의 문제로 강조했으며, 주요 AI 기업들은 사건 이전부터 직원들에게 금전적 제안은 물론 일상적인 대화와 연애를 통한 정보 수집까지 경계하도록 교육해 온 것으로 드러났다.CNBC는 16일(현지시간) 제이 클레이튼 미국 국가정보국장이 오픈AI 사건과 관련해 미국 기업과 정부 모두 외국의 정보 수집 활동을 경계해야 한다고 밝혔다고 보도했다."
+    },
+    {
+      "id": "7543f23659c9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "임일빈·위영광 SOOP \"스타크래프트 리마스터, 연내 신규리그 띄운다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261017180019",
+      "published": "2026-10-17T09:16:31+00:00",
+      "summary": "[지디넷코리아]SOOP이 '스타크래프트: 리마스터(스타1)' 기반 신규 e스포츠 리그를 연내 공개하고 종목의 지속 가능한 생태계 확장에 나선다.기존 최상위권 중심의 리그 운영을 넘어 풀뿌리 아마추어와 스트리머, 팬덤을 잇는 새로운 무대를 마련해 스타1의 롱런을 견인하겠다는 구상이다.SOOP의 임일빈 e스포츠콘텐츠사업본부장과 위영광 콘텐츠제작본부장은 17일 서울 잠실 롯데월드 아이스링크에서 열린 '구글 플레이 ASL 시즌22' 결승전 1세트 종료 후 지디넷코리아와 만나 e스포츠 리그 운영 비전과 향"
+    },
+    {
+      "id": "f08be0e72f69",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "조델, 마이디어 그룹 투자 유치 이어 CIIF에서 산업용 체화된 지능 실행 위한 풀스택 신제품 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261017181003",
+      "published": "2026-10-17T09:10:03+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 10월 17일 /PRNewswire/ -- 포춘 글로벌 500대 기업(Fortune Global 500) 마이디어 그룹(Midea Group)으로부터 전략적 산업 투자를 유치한 쑤저우 소재 조델 로보틱스(Jodell Robotics)가 CIIF에서 산업용 체화된 지능 실행을 위한 풀스택 제품군을 선보이며 주목받았다. 이번 제품군은 다섯 손가락을 갖춘 생체 모방 덱스터러스 핸드(dexterous hand) 모차르트(Mozart), 자체 개발한 시촉각 센서(visuo-"
+    },
     {
       "id": "b6d91c6ab078",
       "source": "AI타임스",
@@ -36,6 +157,28 @@
       "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it."
     },
     {
+      "id": "14f8051b4c48",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "published": "2026-10-17T08:37:46+00:00",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 299 # Comments: 118"
+    },
+    {
+      "id": "7afe0cb9b7c1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "published": "2026-10-17T08:21:25+00:00",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 251 # Comments: 97"
+    },
+    {
       "id": "294cab8a0183",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -64,6 +207,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "\"눈 깜빡임으로 충전\"…배터리 없는 스마트 안경 등장",
+      "link": "https://zdnet.co.kr/view/?no=20261017095126",
+      "published": "2026-10-17T08:00:01+00:00",
+      "summary": "[지디넷코리아]분당 약 14~20회 깜빡이는 눈의 움직임에서 에너지를 얻어 작동하는 스마트 안경이 개발됐다. 배터리 없이도 눈 깜빡임과 턱 움직임 등을 감지해 건강 상태를 추적할 수 있는 것이 특징이다.과학매체 뉴아틀라스는 미국 노스웨스턴대학교 연구진이 얼굴의 움직임에서 발생하는 에너지를 활용해 작동하는 배터리 없는 스마트 안경을 개발했다고 최근 보도했다.전 세계 인구의 절반가량인 40억 명 이상이 안경을 착용하는 만큼, 일상적으로 사용하는 안경에 건강 모니터링 기능을 결합하면 별도의 웨어러블 기"
+    },
+    {
+      "id": "b3923bc316ea",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"눈 깜빡이면 충전\"…배터리 없는 스마트 안경 등장",
       "link": "https://zdnet.co.kr/view/?no=20261017095126",
       "published": "2026-10-17T08:00:01+00:00",
       "summary": "[지디넷코리아]분당 약 14~20회 깜빡이는 눈의 움직임에서 에너지를 얻어 작동하는 스마트 안경이 개발됐다. 배터리 없이도 눈 깜빡임과 턱 움직임 등을 감지해 건강 상태를 추적할 수 있는 것이 특징이다.과학매체 뉴아틀라스는 미국 노스웨스턴대학교 연구진이 얼굴의 움직임에서 발생하는 에너지를 활용해 작동하는 배터리 없는 스마트 안경을 개발했다고 최근 보도했다.전 세계 인구의 절반가량인 40억 명 이상이 안경을 착용하는 만큼, 일상적으로 사용하는 안경에 건강 모니터링 기능을 결합하면 별도의 웨어러블 기"
