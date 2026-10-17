@@ -1,0 +1,19 @@
+{
+  "issue_date": "2026-10-18",
+  "generated_at": "2026-10-17T16:23:21.749712+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "7cc15d40c9c6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such ",
+      "content": "Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms.\n\nAfter backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page :\n\n… Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms.\n\nMany, including Neiman Lab and James Grimmelmann, a professor of digital and information law at Cornell, interpreted it as an attempt to give Meta the right to use content scraped from sites to train its AI products for free and supersede blocking instructions in a site’s robots.txt file.\n\nAndy Stone , Meta’s vice president of communications, and spokesperson Daniel Roberts pushed back, saying that “There is no change to how Meta uses web crawlers; any suggestion to the contrary is false.” Today’s update to its terms and a new statement go further, removing the controversial language entirely. Roberts said in a follow-up statement to The Verge this morning:\n\n“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves. It does not change how Meta uses web crawlers. As always, content owners can use robots.txt to signal their preferences. This is not about scraping news sites, and these updates don’t give us new rights that supersede those preferences.”\n\nThis is the title for the native ad",
+      "published": "2026-10-17T15:04:36+00:00"
+    }
+  ]
+}
