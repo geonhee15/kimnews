@@ -1,7 +1,172 @@
 {
-  "updated_at": "2026-10-17T05:15:55.001791+00:00",
-  "count": 16386,
+  "updated_at": "2026-10-17T09:26:40.048502+00:00",
+  "count": 16402,
   "items": [
+    {
+      "id": "b6d91c6ab078",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+      "published": "2026-10-17T09:06:23+00:00",
+      "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대학교, 구글 딥마인드 등 연구진 35명은 지난 9일 아카이브를 통해 이론물리 평가 벤치마크 ‘시오피즈이밸(TheoPhysEval)’과 이를 활용한 평가 결과를 담은 논문을 공개했다."
+    },
+    {
+      "id": "6ccc744f59f7",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+      "link": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+      "published": "2026-10-17T09:00:00+00:00",
+      "summary": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies."
+    },
+    {
+      "id": "2439389a52ac",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "published": "2026-10-17T09:00:00+00:00",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it."
+    },
+    {
+      "id": "294cab8a0183",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "초기투자액셀러레이터협회 새 회장에 홍종철 인포뱅크 부사장",
+      "link": "https://zdnet.co.kr/view/?no=20261017171123",
+      "published": "2026-10-17T08:11:23+00:00",
+      "summary": "[지디넷코리아]초기투자액셀러레이터협회(KAIA)는 16일 열린 이사회에서 홍종철 현 협회 부회장(인포뱅크 부사장)을 차기 회장 최종 후보 1인으로 선출했다고 밝혔다.협회장 취임과 임기는 내년 2월 개최 예정인 총회 의결을 통해 확정된다.홍 후보는 후보 소견서를 통해 초기투자 재원 확대와 투자 생태계의 상생 구조 확립을 주요 운영 방향으로 제시했다. 액셀러레이터(AC)의 유망 창업기업 발굴과 투자·보육을 뒷받침하도록 정책 협력과 회원사 지원을 확대한다는 구상이다.이를 위한 5대 핵심 과제로는 ▲모태"
+    },
+    {
+      "id": "97301a630b06",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+      "published": "2026-10-17T08:02:23+00:00",
+      "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 전문가들의 평가가 엇갈리고 있다.비즈니스인사이더 등에 따르면, 15일(현지시간) 전 오픈AI 연구원 닉 카마라타가 공개한 에세이 ‘신경망은 이미 정돈돼 있다(Neural Networks"
+    },
+    {
+      "id": "b8cd2b133fce",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"눈 깜빡임으로 충전\"…배터리 없는 스마트 안경 등장",
+      "link": "https://zdnet.co.kr/view/?no=20261017095126",
+      "published": "2026-10-17T08:00:01+00:00",
+      "summary": "[지디넷코리아]분당 약 14~20회 깜빡이는 눈의 움직임에서 에너지를 얻어 작동하는 스마트 안경이 개발됐다. 배터리 없이도 눈 깜빡임과 턱 움직임 등을 감지해 건강 상태를 추적할 수 있는 것이 특징이다.과학매체 뉴아틀라스는 미국 노스웨스턴대학교 연구진이 얼굴의 움직임에서 발생하는 에너지를 활용해 작동하는 배터리 없는 스마트 안경을 개발했다고 최근 보도했다.전 세계 인구의 절반가량인 40억 명 이상이 안경을 착용하는 만큼, 일상적으로 사용하는 안경에 건강 모니터링 기능을 결합하면 별도의 웨어러블 기"
+    },
+    {
+      "id": "a949d22ac6a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "K-GX, 기후기술이 산업경쟁력이 되기 위한 조건",
+      "link": "https://zdnet.co.kr/view/?no=20261017162218",
+      "published": "2026-10-17T07:56:49+00:00",
+      "summary": "[지디넷코리아]글로벌 산업경쟁력의 기준이 달라지고 있다. 유럽연합(EU)의 탄소국경조정제도(CBAM)가 올해부터 본격 시행되고 영국도 2027년 자체 CBAM 도입을 앞두면서, 제품의 탄소집약도가 가격과 시장 접근을 좌우하는 변수로 부상하고 있다. 수출 제조업 비중이 높은 한국에 녹색전환은 탄소감축을 넘어 산업경쟁력의 핵심 과제가 됐다.정부가 지난 7일 발표한 한국형 녹색대전환(K-GX)은 산업 탈탄소를 국가 성장전략의 주요 축으로 제시했다. 향후 10년간 재정과 기후금융을 통해 1000조원 규모"
+    },
+    {
+      "id": "d7391f435970",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "센스톤, 정부 피지컬AI 보안 과제서 OT 설비 보안 전담",
+      "link": "https://zdnet.co.kr/view/?no=20261017163413",
+      "published": "2026-10-17T07:34:13+00:00",
+      "summary": "[지디넷코리아]OT 보안 전문기업 센스톤(대표 유창훈)은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 ‘협업지능 시스템을 위한 피지컬AI 기반 다중 계층 보안 기술 개발’ 국책 과제의 공동연구개발기관에 참여, 피지컬AI 명령이 실제 산업설비 동작으로 이어지는 OT 구간의 보안 기술 개발을 맡는다.16일 회사에 따르면, 센스톤은 주관기관인 라온시큐어 및 전북대학교, 서강대학교 등과 컨소시엄을 구성, 다크팩토리 환경에 필요한 피지컬AI 다중 계층 보안 기술을 개발한다. 이 과제에서 센스"
+    },
+    {
+      "id": "e269b1d8889e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브 \"AI시대 개발 환경, 명령에서 의도로\"…앰비언트 인텔리전스 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261017112854",
+      "published": "2026-10-17T07:12:51+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 시대의 새로운 개발 환경으로 '앰비언트 인텔리전스(Ambient Intelligence)'가 제시됐다. AI 에이전트가 작업 계획과 실행, 검증을 맡고 개발자는 방향 설정과 결과 검토·통제에 집중하도록 한다는 구상이다.자연어로 코드를 생성하고 시제품을 만드는 데 주목한 바이브 코딩과 달리 에이전트를 실제 서비스 개발 흐름에 통합하고 개발자의 검토와 통제를 함께 중시한다는 점이 특징이다.17일 마틴 우드워드 깃허브 개발자 관계 부문 부사장은 공식 블로그를 통해 차세대 "
+    },
+    {
+      "id": "d3c0cadd583d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+      "published": "2026-10-17T06:40:58+00:00",
+      "summary": "오픈AI가 '챗GPT'와 구글 크롬 브라우저의 통합을 강화했다. 챗GPT가 사용자가 열어 둔 여러 탭의 정보를 한꺼번에 분석하는 것은 물론, 탭을 직접 제어해 양식 작성이나 자료 정리 같은 작업도 수행할 수 있게 됐다.오픈AI는 15일(현지시간) X를 통해 크롬용 챗GPT 확장 프로그램의 개선 사항을 공개했다. 업데이트된 확장 프로그램은 브라우저에서 열린 탭의 내용을 활용해 질문에 답하고, 사용자의 요청에 따라 해당 탭에서 작업을 진행할 수 있다.이 기능은 크롬에 설치하는 확장 프로그램을 통해 제"
+    },
+    {
+      "id": "96dbcda63205",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216363",
+      "published": "2026-10-17T06:17:31+00:00",
+      "summary": "AI타임스와 이스트에이드의 10월 둘째 주(10월9일~15일) 이슈 분석 결과, 코스피 급락을 포함한 증시 이슈와 쿠팡 서비스 장애, 인천 흉기 난동 등이 상위권을 차지했다.이번 주 검색량 1위는 '코스피 6400선 붕괴(5.00%)'가 차지했다. 코스피는 외국인 매도와 반도체주 약세로 연속 하락했으며, 특히 지난 15일에는 장중 8% 넘게 급락해 서킷브레이커가 발동되기도 했다.이후 소폭 반등해 5668에 장을 마감했지만, 연이은 하락으로 빚을 내 주식에 투자했다가 강제 처분된 반대매매 규모는 3"
+    },
+    {
+      "id": "f892e975ec25",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "글로벌 정부 AI CITY 혁신 서밋 성황리 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261017151013",
+      "published": "2026-10-17T06:10:13+00:00",
+      "summary": "[지디넷코리아]—화웨이(Huawei), 14개 파트너와 글로벌 AI CITY 혁신 및 발전 생태계 연합(Global AI CITY Innovation & Development Ecosystem Alliance) 공동 출범으로 AI CITY의 새 시대 개척 상하이 2026년 10월 17일 /PRNewswire/ -- 화웨이 커넥트 2026(HUAWEI CONNECT 2026) 기간에 글로벌 정부 AI CITY 혁신 서밋(Global Government AI CITY Innovation Summit)"
+    },
+    {
+      "id": "9627d2912a85",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마카오를 위한 인텔리전스 기반 보안: CTM과 화웨이, AI 시대 네트워크 보안 강화 위해 협력",
+      "link": "https://zdnet.co.kr/view/?no=20261017151003",
+      "published": "2026-10-17T06:10:03+00:00",
+      "summary": "[지디넷코리아]빈 2026년 10월 17일 /PRNewswire/ -- CTM이 네트워크 X 2026(Network X 2026)에서 보안 목표 네트워크에 관한 기조연설을 통해, 기존의 단순한 연결 통로였던 네트워크를 지능성과 확정성, 보안성을 갖춘 인프라로 발전시키기 위한 노력을 가속하고 있다고 강조했다. 이를 통해 마카오 기업의 디지털 및 지능형 전환에도 속도를 높이고 있다. Hudson Lou, Head of Network Services and Development at CTM, deliv"
+    },
+    {
+      "id": "a175f5ea14e5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 이런 단순한 이유로 비밀번호가 털립니다 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/-DA5ofg1YdE",
+      "published": "2026-10-17T06:00:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "57adb4ea27a1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"애플2로 바꿔줄게\"…잡스 편지 덕에 '애플1' 15억원 낙찰",
+      "link": "https://zdnet.co.kr/view/?no=20261017094356",
+      "published": "2026-10-17T05:00:03+00:00",
+      "summary": "[지디넷코리아]스티브 워즈니악의 친필 서명이 담긴 애플-1 컴퓨터가 약 114만8200달러(약 15억4000만원)이라는 기록적인 가격에 낙찰돼 주목되고 있다.엔가젯 등 외신은 경매 전문 기업 본햄스가 진행한 경매에서 일명 ‘햇필드 애플-1’ 컴퓨터가 익명의 구매자에게 114만8200달러에 낙찰됐다고 최근 보도했다.현재 전 세계에 남아 있는 애플-1 컴퓨터는 약 74대로 추정된다. 이번에 낙찰된 제품은 이 가운데 실제로 작동하는 몇 안 되는 기기 중 하나다. 이 컴퓨터는 1976년 제작돼 최초 소유"
+    },
     {
       "id": "30a23764e441",
       "source": "AI타임스",
@@ -452,6 +617,17 @@
       "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
       "published": "2026-10-16T18:21:54+00:00",
       "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities."
+    },
+    {
+      "id": "b45ae9f9a849",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "published": "2026-10-16T18:06:17+00:00",
+      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 217 # Comments: 189"
     },
     {
       "id": "36eaee967dab",
