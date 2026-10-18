@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-10-18T05:09:18.340960+00:00",
-  "count": 16458,
+  "updated_at": "2026-10-18T09:34:59.420300+00:00",
+  "count": 16478,
   "items": [
+    {
+      "id": "835cd03111af",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - 딥시크 미쳤다, Gemini 4, Muse Wonder, Spark Open, 오픈AI 스파이, GPT-Live-1.1, Fish Audio Drama 3, 테슬라 등",
+      "link": "https://www.youtube.com/watch?v=xUrRNBz4j1I",
+      "published": "2026-10-18T09:00:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "04eeb895b5fb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
+      "link": "https://www.wired.com/story/best-airpods-case/",
+      "published": "2026-10-18T09:00:00+00:00",
+      "summary": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too."
+    },
+    {
+      "id": "9dd7920b9cc8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216375",
+      "published": "2026-10-18T08:51:14+00:00",
+      "summary": "오픈AI가 ‘GPT-6 아스트라 프로(GPT-6 Astra Pro)’를 업그레이드해 여러 AI 에이전트가 하나의 작업을 나눠 동시에 처리할 수 있도록 했다. 사용자가 각 에이전트의 진행 상황과 결과를 직접 확인할 수 있도록 한 것도 특징이다.오픈AI는 16일(현지시간) X를 통해 GPT-6 아스트라 프로의 업데이트를 발표했다. 이번 기능은 챗GPT의 채팅 탭에서 일부 프로(Pro) 요금제 사용자를 대상으로 제공되며, 계정에 따라 이용 가능 여부가 다를 수 있다.이번 업데이트의 핵심은 여러 에이전트"
+    },
+    {
+      "id": "eb66ecc806d9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 빅테크 실적 발표...과방위 국감 마무리",
+      "link": "https://zdnet.co.kr/view/?no=20261018163738",
+      "published": "2026-10-18T08:35:30+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 ICT 및 산업계에서는 램리서치·LG디스플레이를 비롯해 테슬라·G"
+    },
+    {
+      "id": "603841bac6a6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리퀴드 AI, 제브 성능 앞선 멀티모달 의사결정 모델 ‘d1-울트라’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216371",
+      "published": "2026-10-18T08:13:21+00:00",
+      "summary": "리퀴드 AI가 기존 선두 모델인 '제브(Jev)'를 성능 평가에서 앞선 멀티모달 의사결정 모델 'd1-울트라(d1-ultra)'를 공개했다. 텍스트와 이미지를 함께 분석하는 것은 물론, 판단 정확도와 확률값의 신뢰도를 높인 것이 특징이다. 독립 평가에서도 의사결정 모델 가운데 1위를 기록했다.리퀴드 AI는 15일(현지시간) d1-울트라를 공개하고 자사의 API를 통해 제공하기 시작했다고 밝혔다. 리퀴드 AI는 이 모델이 기존 의사결정 모델이 잘 처리하지 못하는 복잡하고 불규칙한 실제 업무에 초점을"
+    },
+    {
+      "id": "2e55016bce4d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 모델 신작] 영상 생성 ‘클링 4.0’·감정 조절 음성 ‘드라마 3’ 등 6종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216369",
+      "published": "2026-10-18T07:50:00+00:00",
+      "summary": "■ 클링 AI, 영상 생성 모델 ‘클링 4.0’ 정식 출시클링 AI가 영상의 사실성과 움직임, 장면 제어 능력을 강화한 ‘클링 4.0(Kling 4.0)’을 정식 출시했다. 한 번에 30초 길이의 영상을 생성하며, 여러 참조 자료와 주요 프레임을 지정해 인물·장면의 일관성과 전개를 조정할 수 있다. 개편된 클링 AI 웹사이트에서 이용할 수 있으며, MCP와 명령줄 인터페이스(CLI)를 통한 외부 도구 연동도 지원한다.For Those Who Create. KLING 4.0 Is Now Fully "
+    },
+    {
+      "id": "6964637eba7b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 양자컴퓨터 핵심 오류 40분의 1로 줄여…실용화 걸림돌 해결 실마리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216374",
+      "published": "2026-10-18T07:40:31+00:00",
+      "summary": "구글이 양자컴퓨터의 복잡한 계산에 필요한 특수 양자 상태를 기존보다 훨씬 정확하게 만드는 데 성공했다. 새로운 오류 정정 기술을 적용해 오류를 약 40분의 1로 줄였으며, 실제 양자칩에서 기술이 작동한다는 사실을 입증했다. 대규모 양자컴퓨터를 구현하는 데 필요한 하드웨어 부담을 줄일 수 있는 연구 성과로 평가된다.구글 퀀텀 AI는 15일(현지시간) 자체 개발한 양자 프로세서 '윌로우(Willow)'에서 '매직 스테이트 배양(Magic State Cultivation)' 기술을 구현했다고 발표했다."
+    },
+    {
+      "id": "3b081947fb5b",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "코드를 몰라도 프로그램 복제가 가능하다..?",
+      "link": "https://www.youtube.com/shorts/StlLe-BDFoc",
+      "published": "2026-10-18T07:30:08+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e337cf4e5254",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI 도청 혐의 직원, 보석 신청…“사우디행 편도 항공권, 도주 목적 아냐”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216377",
+      "published": "2026-10-18T07:05:27+00:00",
+      "summary": "오픈AI 사무실에 몰래 녹음 장치를 설치한 혐의로 체포된 전직 직원이 미국 사법당국의 수사를 피해 도주하려 한 것이 아니라며 보석을 신청했다. 사우디아라비아행 편도 항공권을 구매한 것은 평소 여행 방식에 따른 것이며, 수사가 시작되기 전에 이미 계획한 일정이었다는 주장이다.블룸버그에 따르면, 압둘라흐만 알포잔의 변호인단은 17일(현지시간) 법원에 제출한 서류에서 석방을 요청하며 항공권 구매가 도주 계획과 무관하다고 밝혔다.편도 항공권을 먼저 구매하고 귀국편을 나중에 예약하는 것은 수년간 유지해 온"
+    },
+    {
+      "id": "cfd7864b7b32",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"4분기 성숙 공정 파운드리 가동률 91%… 내년 1분기 가격 인상\"",
+      "link": "https://zdnet.co.kr/view/?no=20261018152447",
+      "published": "2026-10-18T07:03:05+00:00",
+      "summary": "[지디넷코리아]4분기 전 세계 성숙 공정 파운드리 팹 가동률이 91%이고, 내년 1분기에도 웨이퍼 가격이 오를 것이라고 시장조사업체 시그마인텔이 최근 전망했다. 시그마인텔이 집계한 성숙 공정은 12인치 웨이퍼의 28나노미터(nm)와 40나노, 90나노, 그리고 8인치 웨이퍼의 150나노, 350나노 등이다. 시그마인텔은 성숙 공정 파운드리 업계 전반 가동률이 높고 에너지·소재 비용이 올라 웨이퍼 가격 상승이 불가피하다고 설명했다. 이들 웨이퍼 가격은 내년 1분기에 전 분기 대비 12인치(28·40"
+    },
+    {
+      "id": "d27caa7f09a3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코나미 \"생성형AI는 도구일 뿐, 혁신 본질은 사람\"",
+      "link": "https://zdnet.co.kr/view/?no=20261018114757",
+      "published": "2026-10-18T07:00:05+00:00",
+      "summary": "[지디넷코리아]생성형 인공지능(AI) 기술이 게임 개발 환경을 빠르게 바꾸고 있는 가운데, 일본 대표 게임사 코나미가 \"AI로 제작 문턱이 낮아지더라도 혁신적인 게임을 만드는 본질은 결국 사람과 창작자\"라는 명확한 시각을 내놓았다.코나미그룹이 최근 발간한 통합보고서에 따르면, 핵심 계열사인 코나미디지털엔터테인먼트의 하야카와 히데키 대표는 사업 전략 인터뷰를 통해 생성형 AI의 확산이 게임 산업에 미칠 영향과 대응 기조를 구체적으로 밝혔다.일각에서는 AI 기술 고도화로 누구나 손쉽게 게임을 제작할 "
+    },
+    {
+      "id": "168351689a5b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중국, AI 핵심 기술 수출 제한 추진…'독자 AI' 중요성 커졌다",
+      "link": "https://zdnet.co.kr/view/?no=20261018095644",
+      "published": "2026-10-18T07:00:04+00:00",
+      "summary": "[지디넷코리아]중국이 매개변수 2조 개 이상 첨단 인공지능(AI) 모델과 국방용 AI 에이전트 등 핵심 기술의 해외 이전을 제한하는 방안을 추진한다.18일 AI 업계에 따르면 중국 상무부와 과학기술부는 지난 16일 AI와 바이오의약, 태양광 등 40개 기술을 수출 금지·제한 목록에 추가하는 개정 초안을 공개했다. 이 가운데 AI 관련 기술은 23개다.이번 개정안은 매개변수가 2조 개 이상이거나 세계 최고 수준의 특정 성능을 갖춘 AI 모델 핵심 기술을 수출 제한 대상으로 분류했다. 국방과 주요 정"
+    },
+    {
+      "id": "b8d2dd1f064b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 언론사 콘텐츠 AI 학습 논란에 약관 수정…자동 수집 권한은 유지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216372",
+      "published": "2026-10-18T06:34:38+00:00",
+      "summary": "메타가 페이스북과 인스타그램 등의 비즈니스 계정에 적용할 새 약관에서 AI 학습 관련 문구를 삭제했다. 언론사 웹사이트의 기사까지 AI 학습에 사용할 수 있다는 지적이 나오자 약관을 수정한 것이다. 그러나 외부 웹사이트의 콘텐츠를 자동으로 수집할 수 있다는 조항은 그대로 유지해 언론계의 반발이 이어지고 있다.하버드대학교 산하 언론 전문 매체 니먼랩(Nieman Lab)은 17일(현지시간) 메타가 논란이 된 상업용 서비스 약관을 수정했지만, 법률 전문가들은 여전히 광범위한 콘텐츠 수집을 허용하는 내"
+    },
+    {
+      "id": "7b2dd0892e32",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "문화유산 디지털 전환, 승부처는 ‘사용자 경험’…기술을 서비스로 잇는다",
+      "link": "https://zdnet.co.kr/view/?no=20261018153224",
+      "published": "2026-10-18T06:32:24+00:00",
+      "summary": "[지디넷코리아]문화유산을 기록하고 복원하는 디지털 기술을 실제 콘텐츠와 서비스로 연결하기 위한 현장의 과제가 제시됐다. AI가 역사 기록을 정확하게 읽도록 데이터를 정비하고, 관람객의 배움과 참여를 설계하는 한편, 완성된 콘텐츠가 일상에서 지속적으로 소비될 통로까지 마련해야 한다는 제언이다.18일 국립공주박물관 강당에서 진행된 ‘2026 디지털헤리티지페스타 산업 컨퍼런스’ 두 번째 세션은 ‘기술에서 콘텐츠와 서비스로’를 주제로 구성됐다. 유승민 텍스트웨이 대표, 이애진 플로우디엑스 대표, 김군호 "
+    },
+    {
+      "id": "426d66d570a1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김선민 의원 \"연구재단 관리 연구부정 예비조사 3년…이유 뭔가\"",
+      "link": "https://zdnet.co.kr/view/?no=20261018153001",
+      "published": "2026-10-18T06:30:01+00:00",
+      "summary": "[지디넷코리아]한국연구재단이 관리하는 연구부정 조사의 완료 기간이 가장 긴 경우 최대 911일이 소요된 것으로 나타났다. 지난 1일 기준 1,037일째 진행형인 사건도 있었다.김선민 의원(국회 과학기술정보방송통신위원회, 조국혁신당)이 한국연구재단으로부터 제출받은 2021년 이후 현재까지 연구부정 사건 처리현황을 분석한 결과, 전체 83건 가운데 예비조사 착수 이후 판정까지 6개월 이상 걸린 사건이 총49건으로 나타났다.연구부정은 연구 과정이나 결과에서 위조·변조·표절, 부당한 저자 표시 등 연구의"
+    },
+    {
+      "id": "90d764e871d4",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "배터리 1%가 유독 오래가는 이유",
+      "link": "https://www.youtube.com/shorts/UmC_NkTTdp4",
+      "published": "2026-10-18T06:00:35+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ba3ab5cd4678",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "테슬라 '로드스터'가 보급된다면...패러디 영상 봇물",
+      "link": "https://zdnet.co.kr/view/?no=20261018145452",
+      "published": "2026-10-18T05:54:52+00:00",
+      "summary": "[지디넷코리아]일론 머스크 CEO의 '날으는 차' 공언이 현실화되자, X(구 트위터)를 비롯한 SNS에서 이를 패러디한 AI 생성 동영상 제작이 유행처럼 번지고 있다. 네티즌들의 유쾌한 상상력이 돋보이는 이 영상들은 '만약 로드스터가 우리 일상에 보급된다면?'이라는 가상 시나리오를 바탕으로 생성형 AI를 활용해 제작됐다.테슬라 차세대 ‘로드스터’는 정지 상태에서 시속 97㎞까지 단 0.81초 만에 도달한다. 지난 15일 공개된 영상에서 로드스터는 대형 트럭을 포함한 차량 5대를 가볍게 뛰어넘는 공"
+    },
+    {
+      "id": "b04b8ff8f6d3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 美 의회에 'AI 안전 법안' 제안…\"위험 임박 시 차단\"",
+      "link": "https://zdnet.co.kr/view/?no=20261018093724",
+      "published": "2026-10-18T05:00:03+00:00",
+      "summary": "[지디넷코리아]앤트로픽이 고위험 인공지능(AI) 출시를 막고 개발사 안전 점검을 의무화하는 법안을 미국 의회에 비공식 제안한 것으로 전해졌다. 17일(현지시간) 미국 정치매체 폴리티코 보도에 따르면 앤트로픽 관계자들은 미 연방의회 의원들에게 첨단 AI 안전과 보안을 규제하는 법안 초안을 제출했다. 초안은 대규모 피해가 예상되고 위험이 임박했을 때 정부가 AI 출시나 사용을 막을 수 있다는 점이 골자다. 피해 기준은 10억 달러를 넘는 재산 피해 또는 50명을 초과하는 사망·중상자 발생 위험이다.위"
+    },
+    {
+      "id": "c77e1113d7c9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "국악 무대에서 촉각 전시·AI 영화까지…공주서 넓힌 문화유산의 경계",
+      "link": "https://zdnet.co.kr/view/?no=20261018134012",
+      "published": "2026-10-18T04:40:12+00:00",
+      "summary": "[지디넷코리아]문화유산의 디지털 전환이 기록과 보존을 넘어 관객의 참여와 새로운 창작으로 이어져야 한다는 제언이 나왔다. 국악 공연을 화면으로 옮기거나 유물을 디지털로 재현하는 데서 나아가, 사람들이 유산을 이해하고 경험하는 방식까지 설계해야 한다는 진단이다.18일 국립공주박물관 강당에서 진행된 ‘2026 디지털헤리티지페스타 산업 컨퍼런스’ 첫 번째 세션에서는 ‘디지털 헤리티지의 새로운 경계’를 주제로 국악과 청동문화재, AI 영화의 활용 가능성이 논의됐다. 최한이 국악인과 조준동 성균관대 명예교"
+    },
     {
       "id": "250693da4735",
       "source": "AI타임스",
@@ -177,6 +386,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261018092603",
       "published": "2026-10-18T00:26:03+00:00",
       "summary": "[지디넷코리아]AI 네이티브 보안 플랫폼기업 안랩(대표 강석균)은 지난 13일부터 15일까지 싱가포르 샌즈 엑스포 앤 컨벤션 센터에서 열린 보안 컨퍼런스 '거브웨어 2026(GovWare 2026)에 참가했다.이 행사는 싱가포르 사이버보안청이 주관한 ‘싱가포르 국제 사이버 위크(Singapore International Cyber Week)’의 부대 행사다.아시아 핵심 금융·기술 허브인 싱가포르에서도 비즈니스 인프라 보호를 위한 AI 보안 수요가 급증하는 가운데, 안랩은 이번 행사에서 통합 브랜드"
+    },
+    {
+      "id": "bd3a0c614c3d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "published": "2026-10-18T00:14:22+00:00",
+      "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator."
     },
     {
       "id": "ff1a757682be",
