@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-10-18T13:34:02.156254+00:00",
-  "count": 16492,
+  "updated_at": "2026-10-18T16:55:12.855892+00:00",
+  "count": 16498,
   "items": [
+    {
+      "id": "ca7940b25587",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published": "2026-10-18T16:30:00+00:00",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that D"
+    },
+    {
+      "id": "68e7a8e21e28",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "published": "2026-10-18T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "738c914f7fe4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+      "published": "2026-10-18T15:00:00+00:00",
+      "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the"
+    },
+    {
+      "id": "4f1f2729808b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김대자 산단공 이사장 \"제조AX·탄소중립·5극3특 구현…산단 대전환으로 지방성장 이끌 것”",
+      "link": "https://zdnet.co.kr/view/?no=20261018232833",
+      "published": "2026-10-18T14:28:33+00:00",
+      "summary": "[지디넷코리아]김대자 한국산업단지공단 이사장은 16일 “대한민국 산업이 딛고 선 초석인 산업단지가 이제는 산업의 전환을 이끄는 핵심 공간이 되어야 한다”고 밝혔다.김 이사장은 이날 대구 본사에서 열린 취임식에서 “AI가 제조업의 문법을 바꾸고 탄소발자국이 무역의 조건이 되는 등 산업환경이 빠르게 변화하고 있다”며 이같이 말했다.김 이사장은 “산업단지를 관리하는 기관을 넘어 산업의 전환을 이끄는 기관으로 산단공의 역할을 새롭게 정립하겠다”고 덧붙였다.김 이사장은 “산업단지 혁신을 지원하기 위해서는 "
+    },
     {
       "id": "31bc37d76292",
       "source": "The Verge",
@@ -353,6 +397,28 @@
       "link": "https://zdnet.co.kr/view/?no=20261018134012",
       "published": "2026-10-18T04:40:12+00:00",
       "summary": "[지디넷코리아]문화유산의 디지털 전환이 기록과 보존을 넘어 관객의 참여와 새로운 창작으로 이어져야 한다는 제언이 나왔다. 국악 공연을 화면으로 옮기거나 유물을 디지털로 재현하는 데서 나아가, 사람들이 유산을 이해하고 경험하는 방식까지 설계해야 한다는 진단이다.18일 국립공주박물관 강당에서 진행된 ‘2026 디지털헤리티지페스타 산업 컨퍼런스’ 첫 번째 세션에서는 ‘디지털 헤리티지의 새로운 경계’를 주제로 국악과 청동문화재, AI 영화의 활용 가능성이 논의됐다. 최한이 국악인과 조준동 성균관대 명예교"
+    },
+    {
+      "id": "b2de72c7a5da",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "published": "2026-10-18T04:33:49+00:00",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 209 # Comments: 69"
+    },
+    {
+      "id": "db9be7c2e1a6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "published": "2026-10-18T03:19:49+00:00",
+      "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 264 # Comments: 345"
     },
     {
       "id": "250693da4735",
