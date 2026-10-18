@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-10-18T09:34:59.420300+00:00",
-  "count": 16478,
+  "updated_at": "2026-10-18T13:34:02.156254+00:00",
+  "count": 16492,
   "items": [
+    {
+      "id": "31bc37d76292",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump says Google kisses his ass",
+      "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "published": "2026-10-18T13:25:01+00:00",
+      "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario"
+    },
+    {
+      "id": "f0b14ce6fddc",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "200배 빠르고 400배 저렴한 AI⚡️직접 써봤다",
+      "link": "https://www.youtube.com/watch?v=6oZC4Ed2vnY",
+      "published": "2026-10-18T12:15:38+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a581f33190e3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cities want to put the boot on robotaxis",
+      "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "published": "2026-10-18T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta"
+    },
+    {
+      "id": "3245a593b13c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "J벤처스 \"이스라엘-한국-실리콘밸리 연결 가교될 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20261018200458",
+      "published": "2026-10-18T11:08:02+00:00",
+      "summary": "[지디넷코리아]미국 실리콘밸리에 기반을 둔 초기 단계 스타트업 전문 벤처캐피털(VC)인 J벤처스(J-Ventures)의 공동창업자이자 매니징 파트너인 오데드 헤르모니(Oded Hermoni)가 최근 한국을 방문했다. 그가 2018년 설립한 J벤처스는 일반 VC와 다르다. 이스라엘과 미국의 기술·투자 생태계를 연결하는 ‘네트워크형 VC’다. 시드(Seed)부터 시리즈A(Series A) 단계의 스타트업에 주로 투자한다. 주요 투자 분야는 AI, 사이버보안, 핀테크, 헬스케어, SaaS, 딥테크 등이"
+    },
+    {
+      "id": "b2d6baae96b0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"LG디스플레이, 2029년 플립 OLED 양산 목표\"...애플 스튜디오 겨냥 추정",
+      "link": "https://zdnet.co.kr/view/?no=20261018190505",
+      "published": "2026-10-18T10:30:28+00:00",
+      "summary": "[지디넷코리아]\"LG디스플레이가 플립(FLiPP) 유기발광다이오드(OLED)를 2029년 양산한다는 목표를 정했다\"고 시장조사업체 시그마인텔이 최근 밝혔다. 플립 OLED는 유기재료 증착 후 노광 공정으로 적녹청(RGB) OLED 서브픽셀을 형성하는 기술이다. 아직 양산성이 검증된 기술은 아니다. 현재 상용화한 대부분의 RGB OLED는 파인메탈마스크(FMM)를 사용해 서브픽셀을 증착한다. LG디스플레이는 물론 삼성디스플레이, BOE, CSOT, 티엔마, 비전옥스 등이 양산 중인 RGB OLED는"
+    },
+    {
+      "id": "abd45c6be55b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "published": "2026-10-18T10:30:00+00:00",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts."
+    },
+    {
+      "id": "06e8870ddcca",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…“30분도 안 걸렸다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216380",
+      "published": "2026-10-18T10:10:14+00:00",
+      "summary": "앤트로픽의 ‘클로드’가 미국 국가안보국(NSA)이 제공한 암호 표준 숫자의 출처를 추적해 25년 넘게 이어진 의문을 풀었다. 기존 암호를 깨뜨린 성과가 아니라, 암호 설계에 의도적인 약점이 숨겨져 있을 수 있다는 의심을 줄인 발견이다.앤트로픽은 16일(현지시간) 연구 결과를 공개하고, 내부 연구용 클로드 모델이 30분도 걸리지 않아 미국 국립표준기술연구소(NIST)의 타원곡선 5종에 쓰인 ‘시드(seed)’의 생성 방식을 찾아냈다고 밝혔다. 시드는 암호에 사용할 수학적 구조를 만드는 출발값이다.N"
+    },
+    {
+      "id": "353cfb7d7b36",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기자수첩] 중국 상포, 국내 HCI 시장 확대...데이터 주권 문제 없나",
+      "link": "https://zdnet.co.kr/view/?no=20261018185610",
+      "published": "2026-10-18T09:56:10+00:00",
+      "summary": "[지디넷코리아]브로드컴의 VM웨어 인수(2023년 11월 완료)와 이에 따른 라이선스 정책 변화로 국내 가상화 환경 교체 수요를 두고 여러 국내외 업체가 경쟁하고 있다. 이 중 한 곳이 중국계 IT 기업 상포테크놀로지(Sangfor Technologies, 이하 상포)다.보안으로 출발한 상포는 2000년 설립됐다. 2018년 선전증권거래소에 상장했다. 차세대 방화벽과 인터넷접근관리, 엔드포인트 보안 등 네트워크 보안 제품을 기반으로 성장했다. 이후 서버 가상화와 하이퍼컨버지드인프라(HCI), 가상"
+    },
+    {
+      "id": "f797ccaef24e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'제미나이 4 아르곤', 역할 나눠 27시간 만에 마인크래프트 클리어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216379",
+      "published": "2026-10-18T09:30:30+00:00",
+      "summary": "구글의 ‘제미나이 4 아르곤’ 기반 AI 에이전트 4개가 사람의 개입 없이 협력해 마인크래프트의 최종 보스를 물리쳤다. 스스로 역할을 나누고 코드를 작성했으며, 동료가 잃어버린 아이템을 회수하거나 전투 전략을 수정하면서 하루 넘게 공동 목표를 수행했다.구글 딥마인드 연구진은 15일(현지시간) 이 같은 실험 결과를 담은 논문을 아카이브에 공개했다. 에이전트들은 무작위로 생성한 세계에서 서바이벌 모드로 시작해 27시간14분 만에 엔더 드래곤을 쓰러뜨렸다. 그동안 프로그램 2783개를 작성·실행했으며,"
+    },
+    {
+      "id": "9352593ede74",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "안 이달고, 애나 민턴, 아나클라우디아 로스바흐, HOWS 바르셀로나 주요 연사로 참여",
+      "link": "https://zdnet.co.kr/view/?no=20261018181002",
+      "published": "2026-10-18T09:10:02+00:00",
+      "summary": "[지디넷코리아] 바르셀로나, 2026년 10월 18일 /PRNewswire/ -- 바르셀로나 시의회(Barcelona City Council)가 주최 및 추진하고 피라 데 바르셀로나(Fira de Barcelona)가 주관하는 도시 및 저렴한 주택에 관한 새로운 국제회의인 HOWS 바르셀로나–세계 주택 정상회의(HOWS Barcelona – Housing World Summit)가 Smart City Expo World Congress와 함께 11월 3일부터 5일까지 그란 비아 전시장에서 정부, "
+    },
     {
       "id": "835cd03111af",
       "source": "조코딩",
@@ -47,6 +157,17 @@
       "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 ICT 및 산업계에서는 램리서치·LG디스플레이를 비롯해 테슬라·G"
     },
     {
+      "id": "ec7d6ea4e17a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 빅테크 실적 발표·과방위 종합국감 이목 집중",
+      "link": "https://zdnet.co.kr/view/?no=20261018163738",
+      "published": "2026-10-18T08:35:30+00:00",
+      "summary": "[지디넷코리아]ㅂ지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 ICT 및 산업계에서는 램리서치·LG디스플레이를 비롯해 테슬라·"
+    },
+    {
       "id": "603841bac6a6",
       "source": "AI타임스",
       "kind": "article",
@@ -75,6 +196,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "구글, 양자컴퓨터 핵심 오류 40분의 1로 줄여…실용화 걸림돌 해결 실마리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216374",
+      "published": "2026-10-18T07:40:31+00:00",
+      "summary": "구글이 양자컴퓨터의 복잡한 계산에 필요한 특수 양자 상태를 기존보다 훨씬 정확하게 만드는 데 성공했다. 새로운 오류 정정 기술을 적용해 오류를 약 40분의 1로 줄였으며, 실제 양자칩에서 기술이 작동한다는 사실을 입증했다. 대규모 양자컴퓨터를 구현하는 데 필요한 하드웨어 부담을 줄일 수 있는 연구 성과로 평가된다.구글 퀀텀 AI는 15일(현지시간) 자체 개발한 양자 프로세서 '윌로우(Willow)'에서 '매직 스테이트 배양(Magic State Cultivation)' 기술을 구현했다고 발표했다."
+    },
+    {
+      "id": "2ab84e48d8fd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 양자컴퓨터 핵심 오류 40분의 1로 줄여…실용화 해결 실마리",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216374",
       "published": "2026-10-18T07:40:31+00:00",
       "summary": "구글이 양자컴퓨터의 복잡한 계산에 필요한 특수 양자 상태를 기존보다 훨씬 정확하게 만드는 데 성공했다. 새로운 오류 정정 기술을 적용해 오류를 약 40분의 1로 줄였으며, 실제 양자칩에서 기술이 작동한다는 사실을 입증했다. 대규모 양자컴퓨터를 구현하는 데 필요한 하드웨어 부담을 줄일 수 있는 연구 성과로 평가된다.구글 퀀텀 AI는 15일(현지시간) 자체 개발한 양자 프로세서 '윌로우(Willow)'에서 '매직 스테이트 배양(Magic State Cultivation)' 기술을 구현했다고 발표했다."
@@ -133,6 +265,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261018095644",
       "published": "2026-10-18T07:00:04+00:00",
       "summary": "[지디넷코리아]중국이 매개변수 2조 개 이상 첨단 인공지능(AI) 모델과 국방용 AI 에이전트 등 핵심 기술의 해외 이전을 제한하는 방안을 추진한다.18일 AI 업계에 따르면 중국 상무부와 과학기술부는 지난 16일 AI와 바이오의약, 태양광 등 40개 기술을 수출 금지·제한 목록에 추가하는 개정 초안을 공개했다. 이 가운데 AI 관련 기술은 23개다.이번 개정안은 매개변수가 2조 개 이상이거나 세계 최고 수준의 특정 성능을 갖춘 AI 모델 핵심 기술을 수출 제한 대상으로 분류했다. 국방과 주요 정"
+    },
+    {
+      "id": "87e4e362b2ff",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "published": "2026-10-18T06:50:36+00:00",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 304 # Comments: 143"
     },
     {
       "id": "b8d2dd1f064b",
@@ -3609,6 +3752,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216301",
       "published": "2026-10-15T07:39:01+00:00",
       "summary": "마이크로소프트(MS)가 2~6주 뒤의 중기 날씨 예측 정확도를 높이는 AI 프레임워크를 공개했다. 기존 예보 모델에서 반복적으로 발생하는 오차를 머신러닝으로 분석해 보정하는 방식이라, 대규모 AI 모델을 새로 개발하지 않고도 기존 예보의 성능을 개선할 수 있다는 설명이다.MS와 외부 연구진은 14일(현지시간) 확률적 편향 보정(PBC·Probabilistic Bias Correction) 기술을 개발했다고 발표했다.관련 연구 결과를 담은 논문 ‘머신러닝을 활용한 중기 예보 기술 개선(Advanci"
+    },
+    {
+      "id": "3192a5892da0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "link": "https://github.com/antirez/c64-hw-simulator",
+      "published": "2026-10-15T07:18:14+00:00",
+      "summary": "Article URL: https://github.com/antirez/c64-hw-simulator Comments URL: https://news.ycombinator.com/item?id=50100366 Points: 206 # Comments: 33"
     },
     {
       "id": "860e668db26d",
