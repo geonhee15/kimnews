@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-10-19",
-  "generated_at": "2026-10-18T16:55:12.740979+00:00",
-  "count": 3,
+  "generated_at": "2026-10-18T19:11:40.419251+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "a8987cbac6db",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe",
+      "content": "Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs.\n\nCarolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia’s ABC13 “I know they’re taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward.”\n\nPolice responded to the scene and asked Marvin to move out of the robot’s way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention.\n\nThe delivery robots have become a common sight on the streets of downtown Philadelphia and have sparked backlash. This is not even Marvin’s first brush with them. And earlier this year, one was kicked over in Center City. Broad concern has grown about how autonomous systems, including robotaxis, delivery robots, and AI agents, are impacting jobs, especially for lower-skill workers .\n\nThis is the title for the native ad",
+      "published": "2026-10-18T18:28:10+00:00"
+    },
     {
       "id": "ca7940b25587",
       "source": "TechCrunch",
@@ -11,9 +23,21 @@
       "lang": "en",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that D",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "content": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney.\n\nCharacter.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO , and the startup previously said that Disney had agreed to acquire some of its assets for $20 million.\n\nA legal filing spotted by Bloomberg revealed more details about the agreement between Character.AI and Disney, with Disney agreeing to make employment offers to at least 60 Character.AI employees — the majority of the workforce — paying them an estimated $60 million in annual compensation.\n\nThe filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.\n\nThe filing says that despite its “large and engaged user base,” Character.AI has been hobbled by high costs and “potential litigation-related liabilities and regulatory engagement.” (The company was sued by the mother of a 14-year-old boy who said her son became obsessed with one of Character.AI’s chatbots before committing suicide; it also faces government investigations over child safety concerns .)\n\nGet 50% off a second pass Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner. Save 50% off a second pass. Meet scaling and investment leaders, ask questions, find solutions, and more. Last day to save Oct. 16",
       "published": "2026-10-18T16:30:00+00:00"
+    },
+    {
+      "id": "2058a8cbe8c4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "content": "Anthropic has granted external evaluators “employee-like access” to assess the risks of its models, following through on a commitment to increase safeguards over concerns the technology could run catastrophically out of control.\n\nMETR, a nonprofit that has worked with leading labs including OpenAI, Anthropic, Google and Meta, now has a team embedded in the Claude maker’s office with access to its hardware and internal systems.\n\nA greater role for third-party evaluators is among the main concrete steps the labs have proposed in response to rising concern about the dangers more capable AI systems could pose to the economy, cyber security and humanity at large.\n\nAnthropic chief executive Dario Amodei achieved a rare moment of unity with arch-rivals Sam Altman and Elon Musk in September when the OpenAI and SpaceX bosses rallied behind his proposal to embed external auditors in the leading labs.\n\nThursday’s announcement marks the first step to implementing these pledges. OpenAI has yet to lay out plans to bring in evaluators after Altman said Amodei’s proposals were a good idea.\n\n“As models have become more powerful, they’ve required stronger safeguards and more challenging risk assessment,” Anthropic said on Thursday. “We want to be publicly accountable for the decisions we’re making. But we can’t publicly share all the information relevant to our safety work.”\n\nCritics of Anthropic’s proposal to use evaluators have argued the arrangements could lead to conflicts of interest, pointing to issues in the accounting sector, and that greater government regulation is required.\n\nAnthropic argued that sharing information publicly could benefit malicious actors or competitors and added that its evaluators will operate similarly to bank supervision, whereby regulators assign resident examiners to work inside the largest banks.\n\n“If a bank’s risk-taking could threaten the public, third parties try to see that in advance,” the company said.\n\nAnthropic is also under pressure to reassure investors that safety issues will not overshadow its initial public offering, expected this year at a more than $2tn valuation. It devoted a large part of investor presentations this week to laying out its safety practices.\n\nMETR was one of the organisations that investigated the hack of Hugging Face by rogue OpenAI models, reviewing thousands of logs and receiving company laptops.\n\nAnthropic has now onboarded six METR employees, giving them company hardware, office space and “access to internal tools and systems that are roughly on par with what our own risk assessment teams have access to.”\n\nThe lab said it has encouraged employees to share information with the evaluators as they would with a fellow employee working in risk.\n\nAnthropic is not paying METR for this arrangement. The research group does not accept donations from AI companies or their staff. It is funded by donations from individuals and philanthropic organisations, as well as government bodies such as the UK’s AI Security Institute.\n\nThe evaluators will publish their analysis, and Anthropic cannot veto publication. However, it can require them to redact information that falls into certain categories, such as customer data, details covered by attorney-client privilege or information about model architectures.\n\nAnthropic added it was still working with Accenture, which was named a partner on safety testing last month, with each committing at least $1 billion to set up new safeguards.\n\nAnother third-party tester is SecureBio, which reviews chemical and biological weapon risk for the company.\n\n“We’re embedding evaluators voluntarily, and we believe every frontier AI company should do the same,” Anthropic said.\n\nMETR said: “We stand ready to work with all frontier AI developers to bring better evidence to the public.”",
+      "published": "2026-10-18T16:25:19+00:00"
     },
     {
       "id": "68e7a8e21e28",
