@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-10-18T19:11:40.498446+00:00",
-  "count": 16502,
+  "updated_at": "2026-10-18T21:30:55.070058+00:00",
+  "count": 16506,
   "items": [
+    {
+      "id": "cc786b7f5fb0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published": "2026-10-18T20:37:40+00:00",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+    },
     {
       "id": "a8987cbac6db",
       "source": "The Verge",
@@ -12,6 +23,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "published": "2026-10-18T18:28:10+00:00",
       "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe"
+    },
+    {
+      "id": "f9aba0843508",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "published": "2026-10-18T16:32:00+00:00",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 215 # Comments: 83"
     },
     {
       "id": "ca7940b25587",
@@ -157,6 +179,17 @@
       "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts."
     },
     {
+      "id": "3b40f73a62a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "published": "2026-10-18T10:21:51+00:00",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 210 # Comments: 59"
+    },
+    {
       "id": "06e8870ddcca",
       "source": "AI타임스",
       "kind": "article",
@@ -254,6 +287,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261018163738",
       "published": "2026-10-18T08:35:30+00:00",
       "summary": "[지디넷코리아]ㅂ지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 ICT 및 산업계에서는 램리서치·LG디스플레이를 비롯해 테슬라·"
+    },
+    {
+      "id": "459b3008d78a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Parser Combinators",
+      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "published": "2026-10-18T08:19:53+00:00",
+      "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 206 # Comments: 76"
     },
     {
       "id": "603841bac6a6",

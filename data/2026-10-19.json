@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-10-19",
-  "generated_at": "2026-10-18T19:11:40.419251+00:00",
-  "count": 5,
+  "generated_at": "2026-10-18T21:30:55.008946+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "cc786b7f5fb0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "content": "Anthropic announced today that it’s creating a “public benefit fund” that will give the company “increased flexibility and scale” to support projects for societal good.\n\nAnthropic said that it will commit 5% of its shares to the fund — structured as a wholly-owned entity within the company — with the option to contribute an additional 2% for every 50% increase in Anthropic’s value. And it offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”\n\nThere’s also the impact that AI might have on the job market, which Anthropic has already committed $200 million to study . But the company said, “Given the pace of AI progress, bolder approaches may be needed. The Fund will have the versatility to pursue them.”\n\nAnthropic’s announcement comes as the AI industry faces increasingly negative public sentiment, which CEO Dario Amodei has described as “fundamentally a crisis of trust.”\n\nIf you’re wondering who will actually decide which public benefits are worth funding, Anthropic said it will share more information about structure and governance in the coming months.\n\nGet 50% off a second pass Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner. Save 50% off a second pass. Meet scaling and investment leaders, ask questions, find solutions, and more. Last day to save Oct. 16",
+      "published": "2026-10-18T20:37:40+00:00"
+    },
     {
       "id": "a8987cbac6db",
       "source": "The Verge",
@@ -14,6 +26,18 @@
       "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe",
       "content": "Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs.\n\nCarolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia’s ABC13 “I know they’re taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward.”\n\nPolice responded to the scene and asked Marvin to move out of the robot’s way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention.\n\nThe delivery robots have become a common sight on the streets of downtown Philadelphia and have sparked backlash. This is not even Marvin’s first brush with them. And earlier this year, one was kicked over in Center City. Broad concern has grown about how autonomous systems, including robotaxis, delivery robots, and AI agents, are impacting jobs, especially for lower-skill workers .\n\nThis is the title for the native ad",
       "published": "2026-10-18T18:28:10+00:00"
+    },
+    {
+      "id": "f9aba0843508",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 215 # Comments: 83",
+      "content": "I think good products carry something of the people who make them. Their experience, what they care about, and how they think things should work. You might not know who those people are, but you can feel their perspective in the product.\n\nThe industry often talks about software as though it comes out of a factory. You collect requirements, build features, and measure whether they work. Follow the process and you should get a good result. Now we're talking automating this whole pipeline with agents.\n\nBut two teams can talk to similar customers, have access to the same technology, and make very different things. The difference comes from how they understand what they see and the style they go about building it. The founder background or company DNA also shapes this a lot.\n\nAt Linear , we have always valued intuition over process or data. I think people sometimes understand that as making decisions based on personal preference, without much thought or evidence. What we mean by it is that your intuition develops through experience and understanding. You work on something, talk to customers, make mistakes, and learn what to pay attention to. The intuition is your point of view on something, and forcing to use your judgment, not hide behind faceless data.\n\nBefore we launched, we talked to people across companies and roles about how they worked. We had our own frustrations with this type software, but those conversations helped us understand what mattered beyond our own experience. Our perspective got better after those conversations.\n\nSo eventually the products develops a character through what its makers pay attention to, what they decide not to do and what they keep working on after it technically works. I sometimes think of this as the soul of a product. You feel that someone cares about how the whole thing comes together.\n\nA feature can work perfectly well on its own and still make the product worse. Recognizing that requires some belief about what the product should be. Someone has to make the call, then stay close enough to customers to see whether they were right.\n\nRecently, many products are starting to feel messy to me, including products from very successful companies. There seems to be more thought going into what the technology can do and what can be added than the form it should take. The product changes are primarily additive, not improving the core problem.\n\nI think the reasons for this is that it's lot easier to add new capabilities, than rethink existing capabilities. So each product becomes a collection of abilities, without actually having unified point of view.\n\nI wonder whether some of this comes from how the work is organized. Individuals work with agents to produce changes independently, each operating a small software factory. Each change might make sense on its own, but together they start to resemble Frankenstein’s monster rather than a carefully shaped sculpture.\n\nWithout the shared perspective, soul, or thought, the product becomes an average of all those outputs. The choices that once gave it character are being diluted by day. More things work, but it becomes harder to feel someone or even something behind them.\n\nMaking software is getting easier. I hope that gives people more room to develop a perspective and follow it further. To understand a problem deeply and keep shaping an answer until the pieces belong together.\n\nI want to feel the creator behind the software, not the factories.",
+      "published": "2026-10-18T16:32:00+00:00"
     },
     {
       "id": "ca7940b25587",
