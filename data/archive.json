@@ -1,7 +1,260 @@
 {
-  "updated_at": "2026-10-19T14:16:29.573243+00:00",
-  "count": 16574,
+  "updated_at": "2026-10-19T20:02:44.567433+00:00",
+  "count": 16604,
   "items": [
+    {
+      "id": "14797ddb6293",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "published": "2026-10-19T19:49:17+00:00",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”"
+    },
+    {
+      "id": "39364480d431",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published": "2026-10-19T19:28:34+00:00",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+    },
+    {
+      "id": "e0cbdaebf666",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "published": "2026-10-19T19:00:12+00:00",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+    },
+    {
+      "id": "8a80c03ccaae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "published": "2026-10-19T18:49:04+00:00",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+    },
+    {
+      "id": "d8b025fa5c17",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "published": "2026-10-19T18:47:22+00:00",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "deba2ef5f137",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "published": "2026-10-19T18:37:27+00:00",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+    },
+    {
+      "id": "bfc9f6f34b11",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ReactOS reaches major milestone with NTFS install support",
+      "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "published": "2026-10-19T18:30:56+00:00",
+      "summary": "ReactOS gains NTFS install support with new driver."
+    },
+    {
+      "id": "99997d801024",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "published": "2026-10-19T18:22:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automate"
+    },
+    {
+      "id": "9697b5b7d2e3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "published": "2026-10-19T18:00:39+00:00",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
+    },
+    {
+      "id": "969f26342a18",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "published": "2026-10-19T17:45:55+00:00",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou"
+    },
+    {
+      "id": "adb04af1de24",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "published": "2026-10-19T16:59:22+00:00",
+      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
+    },
+    {
+      "id": "92c8fa7b63cc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "published": "2026-10-19T16:55:56+00:00",
+      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity."
+    },
+    {
+      "id": "7b13bc491eed",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MiniMax M3.1 Flash",
+      "link": "https://www.minimax.io/blog/minimax-m31f",
+      "published": "2026-10-19T16:39:09+00:00",
+      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 215 # Comments: 80"
+    },
+    {
+      "id": "a4f8add62d33",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "published": "2026-10-19T16:37:10+00:00",
+      "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository Comments URL: https://news.ycombinator.com/item?id=50154518 Points: 263 # Comments: 231"
+    },
+    {
+      "id": "5f06773ca124",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "published": "2026-10-19T16:13:22+00:00",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+    },
+    {
+      "id": "b355a81c2103",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple teases MacBook Pro event next week",
+      "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "published": "2026-10-19T16:04:29+00:00",
+      "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro "
+    },
+    {
+      "id": "a6e6cc13173c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "published": "2026-10-19T16:00:00+00:00",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue."
+    },
+    {
+      "id": "3828b83894d3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "published": "2026-10-19T15:44:20+00:00",
+      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to pro"
+    },
+    {
+      "id": "98d4c14e87ed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "published": "2026-10-19T15:37:09+00:00",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+    },
+    {
+      "id": "348ee3fa4ded",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "published": "2026-10-19T15:28:24+00:00",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 240 # Comments: 44"
+    },
+    {
+      "id": "d069e5ed5c74",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "published": "2026-10-19T14:45:43+00:00",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
+    },
+    {
+      "id": "ee7b6fe969ac",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+      "published": "2026-10-19T14:41:48+00:00",
+      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]"
+    },
+    {
+      "id": "abe5ae2eb477",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "published": "2026-10-19T14:30:00+00:00",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and"
+    },
     {
       "id": "80ecfb7031e8",
       "source": "The Verge",
@@ -36,6 +289,17 @@
       "summary": "Apple said that it will ban AI apps that don't moderate offensive content."
     },
     {
+      "id": "3138156fc7fe",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "published": "2026-10-19T12:42:55+00:00",
+      "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO."
+    },
+    {
       "id": "cb361e5c71b9",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -56,6 +320,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261019092844",
       "published": "2026-10-19T12:30:02+00:00",
       "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 프랑스에서 폭동이 일어난 뒤 유럽이 난민의 문을 어떻게 할지 관심이 커지고 있는데요, 오늘은 그 배경과 선택지를 카드뉴스로 짚어봤어요. 최근 프랑스에서는 차별과 폭력을 멈추라는 시위가 열렸고, 이슬람계 시민들도 거리로 나왔어요. 한편 독일과 프랑스는 불법 이주를 막겠다며 이웃 나라와의 국경 검문을 다시 시작했어요.난민이 생기는 뿌리를 보면 사헬 지대가 있어요. 이곳 1억 3,500만 명이 식량 위기와 분쟁 위험에 놓여 있는데요, 비가 오지 않거나 "
+    },
+    {
+      "id": "54f65ec239fa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "published": "2026-10-19T12:30:00+00:00",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
     },
     {
       "id": "fe37012c3b0b",
@@ -113,6 +388,17 @@
       "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos."
     },
     {
+      "id": "008a10b6c159",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Alternatives to animal testing are finally taking off",
+      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "published": "2026-10-19T11:10:54+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 253 # Comments: 78"
+    },
+    {
       "id": "0a86dc1284a3",
       "source": "Ars Technica",
       "kind": "article",
@@ -122,6 +408,17 @@
       "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
       "published": "2026-10-19T11:05:49+00:00",
       "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters."
+    },
+    {
+      "id": "b91b41475712",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "published": "2026-10-19T10:53:39+00:00",
+      "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 213 # Comments: 68"
     },
     {
       "id": "e130ef859d91",
@@ -166,6 +463,17 @@
       "link": "https://www.youtube.com/watch?v=R1klN8XsPG4",
       "published": "2026-10-19T10:00:01+00:00",
       "summary": ""
+    },
+    {
+      "id": "c04055c92cb8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
+      "published": "2026-10-19T09:59:32+00:00",
+      "summary": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 454 # Comments: 85"
     },
     {
       "id": "0467406c89b9",
@@ -804,6 +1112,17 @@
       "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
       "published": "2026-10-18T15:00:00+00:00",
       "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the"
+    },
+    {
+      "id": "8ee1043aca16",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "link": "https://huggingface.co/blog/hf-torchneuron",
+      "published": "2026-10-18T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "4f1f2729808b",
@@ -1596,6 +1915,17 @@
       "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "published": "2026-10-17T20:21:19+00:00",
       "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+    },
+    {
+      "id": "53cd80359a17",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "It's still ok to enjoy programming",
+      "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "published": "2026-10-17T19:53:20+00:00",
+      "summary": "Article URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming Comments URL: https://news.ycombinator.com/item?id=50134472 Points: 260 # Comments: 249"
     },
     {
       "id": "62c17ee3ef1c",
