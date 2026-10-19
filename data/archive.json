@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-19T20:02:44.567433+00:00",
-  "count": 16604,
+  "updated_at": "2026-10-19T23:38:25.131186+00:00",
+  "count": 16616,
   "items": [
+    {
+      "id": "e21f2616bf23",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "published": "2026-10-19T22:49:27+00:00",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, sa"
+    },
+    {
+      "id": "110f2d56979e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published": "2026-10-19T22:04:28+00:00",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+    },
+    {
+      "id": "ee312e0839dd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월19일] 뇌 읽는 AI, 공상과학을 현실로 이끄는 기술들",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216396",
+      "published": "2026-10-19T22:00:00+00:00",
+      "summary": "사람의 뇌와 AI를 연결하자는 이야기는 오래됐습니다. '특이점이 온다(The Singularity Is Near)'의 저자 레이 커즈와일은 뇌를 디지털 지능과 연결해 사고 능력을 확장하는 미래를 예견했습니다. 일론 머스크도 인간이 AI에 뒤처지지 않도록 뇌와 컴퓨터를 연결해야 한다는 구상으로 뉴럴링크를 설립했습니다. 하지만 뇌와 AI를 연결해 인간의 지능을 확장한다는 구상은 아직 공상과학에 가까운 이야기로 여겨집니다.최근 이 오래된 전망을 다시 꺼낸 글이 나왔습니다. 기업가이자 투자자인 사투르닌 "
+    },
+    {
+      "id": "8d4ba51cd027",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 규모",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216418",
+      "published": "2026-10-19T21:41:29+00:00",
+      "summary": "일론 머스크 CEO가 내년 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 약속했다. 현재 주가로 약 105억달러(약 14조원) 규모다. 앤트로픽이 회사 지분 5%를 공익 기금에 배정하겠다고 발표하자, 대중에게 직접 주식을 나눠주겠다고 나선 것이다.머스크는 19일(현지시간) X를 통해 “내년에는 미국에 있는 모든 어린이에게 내가 보유한 스페이스X 주식 1주씩을 나눠주겠다”며 “앞으로 있을 많은 일의 시작일 뿐”이라고 밝혔다. 이 글은 게시 13시간 만에 좋아요 48만개를"
+    },
+    {
+      "id": "a08833248cf3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "published": "2026-10-19T21:28:20+00:00",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and al"
+    },
+    {
+      "id": "79e9c13511c1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"국내 보안기업 연대 경쟁력 높이고 글로벌로 진출해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261020021953",
+      "published": "2026-10-19T20:56:13+00:00",
+      "summary": "[지디넷코리아]국내 보안 기업들이 글로벌 보안 플랫폼과의 연동에 소극적인 상태가 지속될 경우 몇 년 안에 시장에서 설 자리를 잃게 될 것이란 경고가 나왔다.임종인 한국트러스트연합(KOTA) 설립준비위원장은 국내 보안 솔루션들이 표준화된 데이터 형식으로 서로 연동할 수 있도록 오픈소스 어댑터를 만들고 배포해야 한다면서 이 같은 전망을 내놨다. 한국형 오픈 보안 생태계 구축 없이는 한국 정보보호 산업의 미래 또한 없다는 이야기다.19일 서울 을지로 더그랜드롯데서울에서 만난 임 위원장은 22일 열리는 "
+    },
+    {
+      "id": "41ed7cc9eb0b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 연방기관서 딥시크 퇴출…기반 기술 활용 외부 서비스도 포함",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216417",
+      "published": "2026-10-19T20:29:07+00:00",
+      "summary": "미국 정부가 연방 민간기관의 중국 딥시크 사용 제한을 강화했다. 딥시크 제품뿐 아니라 해당 기술을 활용해 다른 기업이 만든 제품과 서비스도 IT 시스템에서 제거하고, 향후 구매를 금지하도록 했다.미 국토안보부(DHS)는 19일(현지시간) 연방관보 웹사이트에 이 같은 내용의 명령을 공개했다. 여기서 ‘민간기관(Federal Civilian Executive Branch)’은 민간기업이 아니라 연방정부 행정부에 속한 비군사 정부기관을 뜻한다.앞서 미 상무부와 해군 등은 정부 기기에서 딥시크 사용을 금"
+    },
+    {
+      "id": "c3018bad7dcf",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "published": "2026-10-19T20:21:53+00:00",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."
+    },
+    {
+      "id": "c428ad10a281",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "2026-10-19T20:09:24+00:00",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+    },
     {
       "id": "14797ddb6293",
       "source": "Wired",
@@ -102,6 +201,17 @@
       "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
     },
     {
+      "id": "0925aea11147",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "published": "2026-10-19T18:00:39+00:00",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
+    },
+    {
       "id": "969f26342a18",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -111,6 +221,17 @@
       "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
       "published": "2026-10-19T17:45:55+00:00",
       "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou"
+    },
+    {
+      "id": "cc5ab8f76340",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mercury 3: Diffusion at scale",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "published": "2026-10-19T17:27:11+00:00",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 209 # Comments: 82"
     },
     {
       "id": "adb04af1de24",
@@ -133,6 +254,17 @@
       "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
       "published": "2026-10-19T16:55:56+00:00",
       "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity."
+    },
+    {
+      "id": "92993022741a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Android apps running native on macOS",
+      "link": "https://github.com/kksimp/Mac.apk",
+      "published": "2026-10-19T16:45:30+00:00",
+      "summary": "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 231 # Comments: 107"
     },
     {
       "id": "7b13bc491eed",
