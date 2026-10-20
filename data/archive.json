@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-10-20T07:30:43.110973+00:00",
-  "count": 16650,
+  "updated_at": "2026-10-20T12:54:07.258418+00:00",
+  "count": 16687,
   "items": [
+    {
+      "id": "f595fd457871",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "'로봇이 아닙니다' 를 증명하는 방법",
+      "link": "https://www.youtube.com/shorts/CYS2LJWiQCQ",
+      "published": "2026-10-20T12:30:35+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a01e37b715d3",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "published": "2026-10-20T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.”"
+    },
+    {
+      "id": "7391bed3988a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "published": "2026-10-20T12:00:00+00:00",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools matu"
+    },
+    {
+      "id": "77a53ed8b688",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "앤트로픽이 잘 쓰던 깃을 버린 이유",
+      "link": "https://www.youtube.com/shorts/TSHtmp4gEHY",
+      "published": "2026-10-20T11:00:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3bc3da248dc4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "published": "2026-10-20T11:00:00+00:00",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+    },
+    {
+      "id": "4683b0bf9f04",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "published": "2026-10-20T11:00:00+00:00",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use "
+    },
+    {
+      "id": "701f7ec55840",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
+      "link": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
+      "published": "2026-10-20T11:00:00+00:00",
+      "summary": "The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete."
+    },
+    {
+      "id": "c1807bd0978e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "published": "2026-10-20T10:16:47+00:00",
+      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speake"
+    },
+    {
+      "id": "5cf8b14f80e4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 소방관이 불길 앞에서 철수할 수 있을까요",
+      "link": "https://zdnet.co.kr/view/?no=20261020101329",
+      "published": "2026-10-20T10:13:22+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 소방관이 불길 앞에서 물러나는 건 도망일까요? 오늘은 이 질문에서 출발해 보려고 해요. 2026년 10월 17일 부천 화재에서 소방관이 순직한 뒤, 우리 사회는 '언제 물러나야 하나'를 묻기 시작했어요. 언론은 구조가 어려우면 대원 보호가 먼저라고 요구하고 있고, 이재명 대통령도 고인의 희생을 잊지 않겠다고 밝혔는데요. 문제는 한국에는 철수 기준이 분명하지 않고, 판단이 고스란히 지휘관 몫이라는 점이에요.미국과 비교하면 차이가 뚜렷해요. 미국은 생"
+    },
+    {
+      "id": "84bec9c04c4d",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "일레븐랩스 다 따라잡아버린 오픈소스 등장",
+      "link": "https://www.youtube.com/shorts/FFfEr4vaIrQ",
+      "published": "2026-10-20T10:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5d3f792e97e5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
+      "link": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/",
+      "published": "2026-10-20T09:30:00+00:00",
+      "summary": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy."
+    },
+    {
+      "id": "246b7238e48a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216438",
+      "published": "2026-10-20T09:26:21+00:00",
+      "summary": "구글이 AI 자료 제작 도구 '제미나이 노트북(Gemini Notebook)'에 프레젠테이션과 동영상을 만들기 전 구성안을 검토하고 수정할 수 있는 기능을 추가했다. AI가 명령어를 입력받자마자 완성본을 만드는 방식에서 벗어나, 사용자가 기획 단계부터 AI와 함께 내용을 구성하고 결과물을 다듬을 수 있도록 했다.구글은 19일(현지시간) 제미나이 노트북의 '슬라이드 덱(Slide Decks)'과 '비디오 오버뷰(Video Overviews)'에 공동 제작(Co-creation) 기능을 도입한다고 밝"
+    },
+    {
+      "id": "dadbd0abc7dd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김동관 빠진 국감서 한화 KAI 인수 도마…김종출 \"아무나 가질 수 없다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261020182023",
+      "published": "2026-10-20T09:20:23+00:00",
+      "summary": "[지디넷코리아]한화그룹의 한국항공우주산업(KAI) 지분 확대가 국정감사 쟁점으로 떠올랐다. 최대주주인 한국수출입은행은 현재 지분 매각 계획이 없다고 밝혔고, 김종출 KAI 사장은 한화의 경영권 확보가 항공우주산업 내 경쟁을 위축시킬 수 있다고 우려했다.황기연 수출입은행장은 20일 국회 재정경제기획위원회 국정감사에서 KAI 매각 여부를 묻는 윤후덕 더불어민주당 의원의 질의에 \"현재 KAI 매각 계획이 없다\"고 답했다. 최근 발주한 우주·항공산업 컨설팅에 대해서도 \"민영화나 매각을 전제로 용역을 실시"
+    },
+    {
+      "id": "b76dcd29882f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216444",
+      "published": "2026-10-20T09:14:45+00:00",
+      "summary": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다. 인텔과 퀄컴의 인수 가능성이 거론된 지 약 5개월 만에 매각 대신 독자 성장에 나서기로 했다.텐스토렌트는 19일(현지시간) 시리즈E 투자 라운드에서 15억달러(약 2조원)를 조달했다고 밝혔다. 이번 기업가치는 2024년 투자 당시 평가받은 26억달러(약 3조4000억원)의 두 배를 웃돈다.이번 투자는 트레이스 캐피털이 주도했으며, 이노베"
+    },
+    {
+      "id": "f10676109363",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘, 오류 정정 세계 기록을 10배 경신하며 2029년까지 내결함성 양자 컴퓨팅을 구현하는 선도적 경로 입증",
+      "link": "https://zdnet.co.kr/view/?no=20261020181055",
+      "published": "2026-10-20T09:10:55+00:00",
+      "summary": "[지디넷코리아] 퀀티넘의 헬리오스 컴퓨터가 자사의 오류 정정 아키텍처로 100만 번의 연산당 오류 단 5건에 해당하는 세계 최고 수준의 논리 충실도 99.9995%를 달성했다. 오류율은 퀀티넘이 2026년 9월 세운 자체 기록보다 10배 낮으며 초전도 시스템을 사용해 구글 퀀텀 AI가 보고한 다른 모든 하드웨어 방식을 통틀어 발표된 최고 결과보다 100배 낮다. 퀀티넘은 동일한 하드웨어에서 서로 다른 코드를 사용해 잇따라 성과를 냈으며, 이는 오류 정정 아키텍처와 이온 트랩 기술이 정확도를 빠르게"
+    },
+    {
+      "id": "99b3281f3f2b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "금융가 포럼 연례 회의 개막",
+      "link": "https://zdnet.co.kr/view/?no=20261020181034",
+      "published": "2026-10-20T09:10:34+00:00",
+      "summary": "[지디넷코리아]베이징, 2026년 10월 20일 /PRNewswire/ -- 차이나 데일리(China Daily)의 뉴스 보도 The Annual Conference of Financial Street Forum 2026 opens in Beijing on Monday. ZHANG LINWAN / CHINA DAILY 금융가 포럼(Financial Street Forum) 2026 연례 회의가 월요일 베이징에서 개막했으며, 전 세계에서 온 귀빈 400명 이상이 한자리에 모였다. 올해 연례 회의의 "
+    },
+    {
+      "id": "88b8bfc8f06f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "published": "2026-10-20T09:08:54+00:00",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 777 # Comments: 269"
+    },
+    {
+      "id": "6ce8a01104b1",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "스파이 때문에 다 털릴뻔한 오픈 AI ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/_zKWNoPpF-o",
+      "published": "2026-10-20T09:00:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1fe61f1bcea9",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "published": "2026-10-20T09:00:00+00:00",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fab"
+    },
+    {
+      "id": "a6b67385b87f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216450",
+      "published": "2026-10-20T08:44:24+00:00",
+      "summary": "미국의 스카이폴 AI(Skyfall AI)가 복잡한 물리적 제품의 설계를 자동화하는 월드모델 ‘스카이-001(SKY-001)’을 공개했다. 아이디어나 2D 스케치를 입력하면 설계 구조를 계층적으로 나누고, 컴퓨터 지원 설계(CAD)와 건축정보모델링(BIM) 소프트웨어에서 실제로 구현할 수 있는 단계별 제작 계획을 생성하는 모델이다.스카이폴 AI는 19일(현지시간) ‘스카이-001’이 기존 대형언어모델(LLM) 중심의 접근법을 넘어 장기적인 공간 계획과 반복적인 3D 추론을 수행하도록 설계됐다고 밝"
+    },
+    {
+      "id": "18f3ba5b6a3a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "[LIVE] 어떤 AI가 가장 투자를 잘할까? | 6개 AI 모의 투자 라이브 실험",
+      "link": "https://www.youtube.com/watch?v=FiGKu8pdkW0",
+      "published": "2026-10-20T08:44:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3a0daf8fdbc9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엘리스그룹, AI 인프라 상장 랠리 가세.. 코어위브 악재 돌파할까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216452",
+      "published": "2026-10-20T08:26:52+00:00",
+      "summary": "AI 인프라 운영·관리 솔루션 기업들이 기업공개(IPO) 랠리를 이어 가며 잇따라 자본시장 평가무대에 오른다. 하지만, 최근 불거진 미국 코어위브발 AI 투자 우려 속 투자심리가 위축된 상황이어서 이들 기업들이 어떻게 기업가치를 입증하며 악재를 돌파할 지 주목된다. 20일 한국거래소에 따르면, 이날 코스닥 시장에 상장한 엘리스그룹(대표 김재원)은 공모가(9만500원)보다 16% 낮은 7만5700원에 거래를 시작한 뒤 낙폭을 키워 공모가 대비 32.0% 하락한 6만1500원에 첫날 거래를 마쳤다.시"
+    },
+    {
+      "id": "3618e4a7efe3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "플리토, 3분기 누적 창사이래 최대 실적 실현...영업이익률 50% 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216447",
+      "published": "2026-10-20T08:20:56+00:00",
+      "summary": "AI 데이터 및 솔루션 전문 플리토가 창사 이래 최대 실적을 일궜다.플리토(대표 이정수)는 20일 연결 기준 2026년 3분기 누적 매출 약 311억 원, 영업이익 약 103억 원을 기록했다고 밝혔다. 매출은 전년 동기 대비 20.7%, 영업익은 89.7% 증가했다.누적 영업이익은 100억원 선을 돌파하며 이미 지난해 연간 전체 영업익(약 62억원)을 크게 상회했다. 3분기 매출과 영업이익도 각각 약 178억원, 약 90억원으로 분기 기준 최대치를 기록했다. 특히 영업이익률은 50.4%에 달해 높"
+    },
+    {
+      "id": "c31cdd14facf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216440",
+      "published": "2026-10-20T08:18:36+00:00",
+      "summary": "KT(대표 박윤영)는 의료 AI 전문 아크릴(대표 박외진)과 의료기관의 데이터 활용 및 AI 서비스 도입을 위한 의료 AX 사업을 공동 추진한다고 20일 밝혔다.두 회사는 KT의 AI·클라우드·데이터 기반 통합구축 역량과 의료 AX사업 추진 경험에 아크릴의 의료 데이터·AI 기술 및 병원 구축·실증 경험을 결합, 의료기관 맞춤형 AX 사업 모델을 공동 발굴할 계획이다.또 의료기관별 공동 제안과 실증을 추진하고, 기술 검증에서 실제 사업화까지 이어지는 협력 체계를 마련하는 한편, 정부·공공 연구과제"
+    },
+    {
+      "id": "fbef3e4d6e29",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216436",
+      "published": "2026-10-20T08:17:30+00:00",
+      "summary": "AI·임베디드 솔루션 전문 MDS테크는 국내 기업의 휴머노이드 홈로봇 프로젝트에 40억원 규모의 엔비디아 젯슨(Jetson) 기반 AI 플랫폼 패키지를 공급한다고 20일 밝혔다. MDS테크의 AI 사업 조직 출범 이후 단일 프로젝트 기준 최대 규모의 수주 성과다.MDS테크는 국내기업 A사의 휴머노이드 홈로봇 프로젝트에 젯슨 모듈과 엔비디아 글로벌 에코파트너사들의 시스템･센서 등 주요 제품으로 구성된 ‘젯슨 풀 패키지(Full Package)’를 공급한다.MDS테크는 해당 프로젝트의 개발 단계부터 "
+    },
+    {
+      "id": "99b0a79bd247",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216451",
+      "published": "2026-10-20T08:16:09+00:00",
+      "summary": "앤트로픽의 '클로드 코드'가 개발자의 맥(Mac)에 숨어 있던 암호화폐 채굴 프로그램을 찾아냈다. 악성 프로그램이 CPU 자원을 과도하게 점유해 컴퓨터 성능을 떨어뜨리자, AI 에이전트가 시스템 상태를 분석해 원인을 밝혀냈다.톰스하드웨어에 따르면, 개발자이자 레딧 이용자인 'UntilHEX'는 18일(현지시간) 맥의 온도를 모니터링하는 앱을 개발하던 중 클로드 코드에 온도 센서 데이터를 분석해 달라고 요청했다. 센서 수치가 예상보다 높게 나타났기 때문이다.클로드 코드는 분석 과정에서 암호화폐 채굴"
+    },
+    {
+      "id": "213d01c1c950",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "👀 진짜 큰거 왔다는 테슬라 발표회 ㄷㄷㄷ",
+      "link": "https://www.youtube.com/shorts/aYeMREPo-1I",
+      "published": "2026-10-20T08:00:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5ebdbeda52c3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216455",
+      "published": "2026-10-20T08:00:00+00:00",
+      "summary": "■ NC AI(대표 이연수)는 3D 생성 AI '바르코 3D'와 사운드 생성 AI '바르코 사운드'의 상품 개편에 맞춰 다음 달 30일까지 첫 달 구독료 50% 할인 프로모션을 진행한다고 밝혔다. 신규 가입자와 무료 이용자가 유료 요금제를 결제하면 할인과 함께 보너스 포인트도 지급한다. 바르코 3D는 텍스트나 이미지로 3D 애셋을, 바르코 사운드는 콘텐츠 맥락에 맞는 효과음과 환경음을 생성하는 서비스다.■ KT(대표 박윤영)는 서울 송파구 소피텔 앰배서더 서울에서 AI 스타트업 육성 프로그램 ‘K"
+    },
+    {
+      "id": "8d761caf6ac2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216448",
+      "published": "2026-10-20T07:56:19+00:00",
+      "summary": "중국어를 사용하는 해커가 AI 에이전트를 활용해 미국과 캐나다, 호주, 일본의 기업 웹사이트 100여곳을 해킹한 것으로 드러났다. 이번 사건의 본질은 고도의 기술력을 갖춘 전문 해커 조직이 아니라, 누구라도 몇백만 원의 토큰 비용만으로 AI 에이전트를 동원해 대규모 침입을 감행할 수 있게 되었다는 점에 있다. 공격자는 직접 복잡한 해킹 작업을 수행하는 대신 AI 에이전트에 취약점 탐색과 침입을 맡겼으며, 전체 공격에 들어간 비용은 약 5000달러(약 660만원)에 불과했다.로이터는 19일(현지시간"
+    },
+    {
+      "id": "55eefd8e19ea",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216445",
+      "published": "2026-10-20T07:38:57+00:00",
+      "summary": "미국 국방부 고위 관계자가 AI 기업들이 정부에 협조하지 않으면 수출 통제 등 강력한 조치를 시행할 수 있다고 경고했다. AI 기술이 국가 안보에 미치는 영향이 커지는 가운데, 도널드 트럼프 행정부가 AI 기업에 대한 감독과 통제를 강화할 수 있음을 시사한 것이다.에밀 마이클 미 국방부 연구·공학 담당 차관은 19일(현지시간) 디 인포메이션과의 인터뷰에서 정부가 AI 기업의 행동을 제한할 수 있는 다양한 방법이 있다고 밝혔다.그는 “적대국에 이점을 줄 수 있다고 판단되는 기술의 수출 제한부터 외국"
+    },
     {
       "id": "13aaffaf89c6",
       "source": "AI타임스",
@@ -377,6 +707,17 @@
       "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
     },
     {
+      "id": "089bbaf6df18",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "published": "2026-10-19T23:22:18+00:00",
+      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 551 # Comments: 154"
+    },
+    {
       "id": "e21f2616bf23",
       "source": "TechCrunch",
       "kind": "article",
@@ -386,6 +727,17 @@
       "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "published": "2026-10-19T22:49:27+00:00",
       "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, sa"
+    },
+    {
+      "id": "001ba1afcabb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "An ad-free Android TV",
+      "link": "https://cretezy.com/2026/ad-free-android-tv",
+      "published": "2026-10-19T22:32:37+00:00",
+      "summary": "Article URL: https://cretezy.com/2026/ad-free-android-tv Comments URL: https://news.ycombinator.com/item?id=50158942 Points: 276 # Comments: 93"
     },
     {
       "id": "110f2d56979e",
@@ -718,6 +1070,17 @@
       "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
     },
     {
+      "id": "58afc66bddb5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "published": "2026-10-19T15:31:34+00:00",
+      "summary": "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 341 # Comments: 253"
+    },
+    {
       "id": "348ee3fa4ded",
       "source": "Hacker News",
       "kind": "article",
@@ -727,6 +1090,28 @@
       "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
       "published": "2026-10-19T15:28:24+00:00",
       "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 240 # Comments: 44"
+    },
+    {
+      "id": "74bc875dbf2d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "published": "2026-10-19T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "ac996306193e",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "MPS in PyTorch 2.15",
+      "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "published": "2026-10-19T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "d069e5ed5c74",
@@ -1054,6 +1439,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Gemini 4 Argon Really Surprised Me",
+      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "published": "2026-10-19T08:49:21+00:00",
+      "summary": ""
+    },
+    {
+      "id": "33f674b74e52",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini 4 Argon Is Not What I Expected",
       "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
       "published": "2026-10-19T08:49:21+00:00",
       "summary": ""
@@ -1629,6 +2025,17 @@
       "link": "https://huggingface.co/blog/hf-torchneuron",
       "published": "2026-10-18T15:00:00+00:00",
       "summary": ""
+    },
+    {
+      "id": "8e4a79539722",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "link": "https://github.com/tywr/Nordwand-Mono",
+      "published": "2026-10-18T14:48:01+00:00",
+      "summary": "Article URL: https://github.com/tywr/Nordwand-Mono Comments URL: https://news.ycombinator.com/item?id=50141581 Points: 360 # Comments: 110"
     },
     {
       "id": "4f1f2729808b",
