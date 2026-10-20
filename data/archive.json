@@ -1,7 +1,172 @@
 {
-  "updated_at": "2026-10-20T20:54:27.164268+00:00",
-  "count": 16741,
+  "updated_at": "2026-10-20T23:35:41.746013+00:00",
+  "count": 16761,
   "items": [
+    {
+      "id": "9e13cc6c1fc0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "published": "2026-10-20T23:04:19+00:00",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann h"
+    },
+    {
+      "id": "6f520f816c52",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "published": "2026-10-20T23:01:23+00:00",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+    },
+    {
+      "id": "dd30cc03b1f8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "published": "2026-10-20T22:24:02+00:00",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+    },
+    {
+      "id": "5bc76992d537",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "published": "2026-10-20T22:11:34+00:00",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you"
+    },
+    {
+      "id": "90cd33a0079a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216432",
+      "published": "2026-10-20T22:00:00+00:00",
+      "summary": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI)가 과학 연구 능력을 종합적으로 측정하는 새로운 지수를 내놨습니다. 첫 평가에서는 오픈AI의 'GPT-6 아스트라'가 1위를 차지했지만, 과학 분야별 성적은 상당히 달랐습니다. 일반적"
+    },
+    {
+      "id": "dc35f3debe72",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "published": "2026-10-20T21:25:22+00:00",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+    },
+    {
+      "id": "a2f8c4ced0c6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "published": "2026-10-20T21:14:33+00:00",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year."
+    },
+    {
+      "id": "5793bb730601",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "1만원 에어프라이어…이마트, ‘와우샵’ 본격 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261020172037",
+      "published": "2026-10-20T21:00:03+00:00",
+      "summary": "[지디넷코리아]이마트가 초저가 생활용품 매장 ‘와우샵’을 본격적으로 확대한다. 식품 중심의 장보기에 주방용품과 화장품, 소형가전 등을 더해 고객의 매장 방문을 늘린다는 전략이다.이마트는 오는 22일 스타필드 마켓 월계점과 이마트 은평점에 각각 100평 규모의 와우샵을 연다고 21일 밝혔다. 30일에는 스타필드 마켓 군산점에 문을 여는 등 연내 전문점을 총 5곳으로 늘릴 계획이다. 이마트와 이마트 에브리데이 안에도 ‘와우샵 존’을 마련해 상품을 순차적으로 확대한다.지난해 12월부터 진행한 시범운영에"
+    },
+    {
+      "id": "fa0d82748cb6",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT "
+    },
+    {
+      "id": "c01d8489f332",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Melt it, spin it, use it again",
+      "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typi"
+    },
+    {
+      "id": "4e58e81d165f",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Robotic therapy for stroke patients",
+      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy. Johannes Lachner"
+    },
+    {
+      "id": "b3f2fb2211c7",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Nebraska native explores galaxies far, far away",
+      "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12"
+    },
+    {
+      "id": "7e9b1a64c6b2",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "A champion for brain injury patients",
+      "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a great way to learn about the human experience of what people go throug"
+    },
+    {
+      "id": "cd8f38311fc4",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "A cleaner path to rare earth metals",
+      "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air. “I’m motivated b"
+    },
+    {
+      "id": "670da25a336b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Netflix is telling investors not to worry, even though you’re watching less and less",
+      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "published": "2026-10-20T20:52:07+00:00",
+      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and lev"
+    },
     {
       "id": "8c352137400b",
       "source": "TechCrunch",
@@ -190,6 +355,17 @@
       "summary": "Meta argues nobody “decided” to pirate books to train AI."
     },
     {
+      "id": "968b91d90bec",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What shall I teach my son?",
+      "link": "https://stevekrouse.com/ends",
+      "published": "2026-10-20T17:25:07+00:00",
+      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 204 # Comments: 278"
+    },
+    {
       "id": "d7e53c1e79d9",
       "source": "TechCrunch",
       "kind": "article",
@@ -210,6 +386,17 @@
       "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
       "published": "2026-10-20T17:00:00+00:00",
       "summary": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system in"
+    },
+    {
+      "id": "c1e9783e611b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "link": "https://github.com/google-pytorch/torch_tpu",
+      "published": "2026-10-20T16:40:24+00:00",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 231 # Comments: 54"
     },
     {
       "id": "ae706f5720d1",
@@ -298,6 +485,39 @@
       "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "published": "2026-10-20T15:20:25+00:00",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “ca"
+    },
+    {
+      "id": "e78fe5b90267",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "CAS, 마이크로소프트와 협력해 제약, 생명과학 및 화학 산업 혁신 가속화",
+      "link": "https://zdnet.co.kr/view/?no=20261021001025",
+      "published": "2026-10-20T15:10:25+00:00",
+      "summary": "[지디넷코리아] CAS Connections℠, 전문가가 직접 선별한 신뢰할 수 있는 과학 지식을 Microsoft Copilot에 통합 콜럼버스, 오하이오, 2026년 10월 20일 /PRNewswire/ -- 미국화학회(American Chemical Society) 산하 사업부인 CAS가 오늘 Microsoft Copilot에서 CAS Connections를 이용할 수 있게 됐다고 발표했다. 이 커넥터를 통해 Copilot 고객은 CAS Content Collection™과 과학 연구를 위해"
+    },
+    {
+      "id": "11d5337697ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "DJI 오즈모 포켓 4P 펄 화이트 출시, 전 세계 시네마틱 크리에이터 위한 새로운 스타일 제안",
+      "link": "https://zdnet.co.kr/view/?no=20261021001014",
+      "published": "2026-10-20T15:10:14+00:00",
+      "summary": "[지디넷코리아]DJI 듀얼 렌즈 짐벌 카메라의 새로운 펄 화이트 에디션, 17스톱 다이내믹 레인지•10-bit HDR 영상•D-Log 2 컬러 사이언스 지원 선전, 중국 2026년 10월 20일 /PRNewswire/ -- 민간용 드론 및 크리에이티브 카메라 기술 분야의 글로벌 리더 DJI가 오늘 한국에서 Osmo Pocket 4P (오즈모 포켓 4P) 펄 화이트를 출시한다고 밝혔다. 새로운 펄 화이트 컬러는 호평받는 Osmo Pocket 4P의 듀얼 렌즈 촬영 성능을 그대로 갖췄으며, 17스톱의"
+    },
+    {
+      "id": "53c33e0caffa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "셀레브라이트, 2026년 3분기 실적 11월 12일 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261021001004",
+      "published": "2026-10-20T15:10:04+00:00",
+      "summary": "[지디넷코리아] 버지니아 타이슨스코너 및 이스라엘 페타티크바, 2026년 10월 20일 /PRNewswire/ -- 공공 및 민간 부문을 위한 AI 기반 디지털 수사 및 인텔리전스 솔루션 분야의 글로벌 선도기업 셀레브라이트(Cellebrite DI Ltd., 나스닥: CLBT)가 오늘 2026년 11월 12일 목요일 미국 증시 개장 전에 2026년 3분기 실적을 발표한다고 밝혔다. 셀레브라이트는 같은 날 오전 실시간 콘퍼런스콜과 웹캐스트를 열어 2026년 3분기 실적을 살펴보고 2026년 전망을 "
     },
     {
       "id": "1ad626fdd533",
