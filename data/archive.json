@@ -1,7 +1,194 @@
 {
-  "updated_at": "2026-10-20T17:43:57.602323+00:00",
-  "count": 16717,
+  "updated_at": "2026-10-20T20:54:27.164268+00:00",
+  "count": 16741,
   "items": [
+    {
+      "id": "8c352137400b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "published": "2026-10-20T20:40:41+00:00",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+    },
+    {
+      "id": "fbca6507b8e2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "published": "2026-10-20T20:35:10+00:00",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
+    },
+    {
+      "id": "7f8def35a60e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "published": "2026-10-20T20:26:58+00:00",
+      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income f"
+    },
+    {
+      "id": "3bbcc0913995",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+      "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+      "published": "2026-10-20T20:20:12+00:00",
+      "summary": "A lifetime ad-free subscription is available."
+    },
+    {
+      "id": "d875526d41bc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "published": "2026-10-20T20:07:58+00:00",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt."
+    },
+    {
+      "id": "9ffcb7d0ea61",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+      "link": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "published": "2026-10-20T20:07:21+00:00",
+      "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Inn"
+    },
+    {
+      "id": "8e8c564dba02",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "published": "2026-10-20T20:00:33+00:00",
+      "summary": "It's probably time to audit your Gemini settings."
+    },
+    {
+      "id": "914d635dce80",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "published": "2026-10-20T20:00:00+00:00",
+      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving."
+    },
+    {
+      "id": "98ab8296b78f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenBSD 8.0 arrives with security record still intact",
+      "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+      "published": "2026-10-20T19:57:18+00:00",
+      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests"
+    },
+    {
+      "id": "c79bd539683e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
+      "link": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
+      "published": "2026-10-20T19:06:40+00:00",
+      "summary": "Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune. In July, as part of an organizational \"reset,\" Sharma announced planned layoffs affecting 3,200 staffers over the course of Microsoft's 2027 fiscal year, i"
+    },
+    {
+      "id": "6997e0b5b8e0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
+      "link": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
+      "published": "2026-10-20T18:45:39+00:00",
+      "summary": "Microsoft is reportedly planning to launch an Xbox \"next-generation handheld device\" for the holiday season of 2027. The Xbox next-gen console, codename Project Helix, would then launch in the holidays of 2028, according to a new report from Fortune. The report doesn't make it cl"
+    },
+    {
+      "id": "19ec684210d6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "published": "2026-10-20T18:38:24+00:00",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+    },
+    {
+      "id": "95a999787bc7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "published": "2026-10-20T18:36:53+00:00",
+      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat."
+    },
+    {
+      "id": "a32120f571ba",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SimCity, but with Permits",
+      "link": "https://permit.petercai.com/",
+      "published": "2026-10-20T18:29:09+00:00",
+      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 260 # Comments: 121"
+    },
+    {
+      "id": "95bae5732862",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "published": "2026-10-20T17:55:12+00:00",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+    },
+    {
+      "id": "44c44074209f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "published": "2026-10-20T17:41:58+00:00",
+      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites."
+    },
+    {
+      "id": "af79bcdda7f7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "published": "2026-10-20T17:40:20+00:00",
+      "summary": "Meta argues nobody “decided” to pirate books to train AI."
+    },
     {
       "id": "d7e53c1e79d9",
       "source": "TechCrunch",
@@ -69,6 +256,17 @@
       "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog ."
     },
     {
+      "id": "ea660c83de0f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Voxtral 3",
+      "link": "https://mistral.ai/news/voxtral-3/",
+      "published": "2026-10-20T16:02:07+00:00",
+      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 400 # Comments: 110"
+    },
+    {
       "id": "5958e905fd07",
       "source": "TechCrunch",
       "kind": "article",
@@ -124,6 +322,17 @@
       "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children."
     },
     {
+      "id": "f94a2f3c4ea9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "published": "2026-10-20T14:30:31+00:00",
+      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 245 # Comments: 157"
+    },
+    {
       "id": "ddda3b77ed5d",
       "source": "The Verge",
       "kind": "article",
@@ -144,6 +353,17 @@
       "link": "https://emudhra.we-have-a-problem.com/",
       "published": "2026-10-20T13:58:33+00:00",
       "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 219 # Comments: 98"
+    },
+    {
+      "id": "4169578d7b9b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "link": "https://kaba.cx/posts/20261020_Tor/",
+      "published": "2026-10-20T13:39:24+00:00",
+      "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 255 # Comments: 62"
     },
     {
       "id": "f068dd9338fa",
@@ -177,6 +397,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261020223659",
       "published": "2026-10-20T13:36:59+00:00",
       "summary": "[지디넷코리아]스마트TV 이용자들이 AI 코딩 에이전트를 활용해 TV의 광고와 시청 기록 추적 기능을 제거하고 있다고 테크크런치가 현지 시각 10월 19일 보도했다. 이용자들은 앤트로픽의 클로드 코드와 딥시크 V4.1 플래시 같은 AI 도구로 TV 설정을 변경해 홈 화면 광고를 제거하고 앱 실행 속도를 개선하고 있다. AI 코딩 에이전트는 이용자의 요청에 따라 명령어를 작성하고 실행까지 하는 AI 도구다. 상당수 스마트TV에는 화면 캡처나 소리를 분석해 이용자가 시청하는 콘텐츠를 파악하는 자동 콘"
+    },
+    {
+      "id": "d1a9470c33ad",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "link": "https://blog.cloudflare.com/typescript-rust-port/",
+      "published": "2026-10-20T13:18:07+00:00",
+      "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 270 # Comments: 128"
     },
     {
       "id": "79fabced0e44",
@@ -221,6 +452,17 @@
       "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
       "published": "2026-10-20T13:06:44+00:00",
       "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will au"
+    },
+    {
+      "id": "c1d3de8ff9a2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Publish fake stats, get cited in LLMs",
+      "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "published": "2026-10-20T13:06:22+00:00",
+      "summary": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 288 # Comments: 163"
     },
     {
       "id": "edbaf8c9af4c",
@@ -421,6 +663,17 @@
       "summary": "[지디넷코리아]한화그룹의 한국항공우주산업(KAI) 지분 확대가 국정감사 쟁점으로 떠올랐다. 최대주주인 한국수출입은행은 현재 지분 매각 계획이 없다고 밝혔고, 김종출 KAI 사장은 한화의 경영권 확보가 항공우주산업 내 경쟁을 위축시킬 수 있다고 우려했다.황기연 수출입은행장은 20일 국회 재정경제기획위원회 국정감사에서 KAI 매각 여부를 묻는 윤후덕 더불어민주당 의원의 질의에 \"현재 KAI 매각 계획이 없다\"고 답했다. 최근 발주한 우주·항공산업 컨설팅에 대해서도 \"민영화나 매각을 전제로 용역을 실시"
     },
     {
+      "id": "76791c7060c7",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "published": "2026-10-20T09:17:47+00:00",
+      "summary": ""
+    },
+    {
       "id": "b76dcd29882f",
       "source": "AI타임스",
       "kind": "article",
@@ -474,6 +727,17 @@
       "link": "https://github.com/deepseek-ai/DeepInfer",
       "published": "2026-10-20T09:08:54+00:00",
       "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 1828 # Comments: 676"
+    },
+    {
+      "id": "8508437332f0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "published": "2026-10-20T09:08:54+00:00",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 2004 # Comments: 782"
     },
     {
       "id": "6ce8a01104b1",
