@@ -1,7 +1,293 @@
 {
-  "updated_at": "2026-10-21T13:14:52.002065+00:00",
-  "count": 16847,
+  "updated_at": "2026-10-21T18:05:34.146944+00:00",
+  "count": 16884,
   "items": [
+    {
+      "id": "a5b31a8f6806",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM is giving OnStar an AI makeover",
+      "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "published": "2026-10-21T18:00:00+00:00",
+      "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product."
+    },
+    {
+      "id": "f176894b568b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "published": "2026-10-21T18:00:00+00:00",
+      "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, whe"
+    },
+    {
+      "id": "8d6fdb4b63b1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
+      "link": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+      "published": "2026-10-21T18:00:00+00:00",
+      "summary": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles wil"
+    },
+    {
+      "id": "205bea2fca6a",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM Wants Your Car to Do Your Chores",
+      "link": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+      "published": "2026-10-21T18:00:00+00:00",
+      "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner."
+    },
+    {
+      "id": "88365d418528",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "published": "2026-10-21T17:59:12+00:00",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "id": "b446e73bd3ee",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "published": "2026-10-21T17:19:07+00:00",
+      "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game t"
+    },
+    {
+      "id": "d63c3d95ed69",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "published": "2026-10-21T17:18:27+00:00",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+    },
+    {
+      "id": "299926735dc7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+      "published": "2026-10-21T16:59:44+00:00",
+      "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3."
+    },
+    {
+      "id": "36ccfbc2be10",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+      "published": "2026-10-21T16:05:51+00:00",
+      "summary": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are av"
+    },
+    {
+      "id": "b75d85ef2175",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "published": "2026-10-21T16:00:00+00:00",
+      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks."
+    },
+    {
+      "id": "06b2db55f893",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "published": "2026-10-21T16:00:00+00:00",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "e14737d3bf04",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "published": "2026-10-21T15:48:56+00:00",
+      "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 218 # Comments: 116"
+    },
+    {
+      "id": "f45dff9f0f4b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Music has a new logo",
+      "link": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+      "published": "2026-10-21T15:48:12+00:00",
+      "summary": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound c"
+    },
+    {
+      "id": "a2f5c07fad91",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "published": "2026-10-21T15:14:07+00:00",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads."
+    },
+    {
+      "id": "b0768e42199b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "published": "2026-10-21T15:02:15+00:00",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics."
+    },
+    {
+      "id": "cb93b6885bc2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "published": "2026-10-21T15:00:00+00:00",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific r"
+    },
+    {
+      "id": "3da0961dc726",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "대구경북 통합 지역성장펀드 출범…1300억 모았다",
+      "link": "https://zdnet.co.kr/view/?no=20261021231858",
+      "published": "2026-10-21T14:18:58+00:00",
+      "summary": "[지디넷코리아]대구와 경북이 행정구역 경계를 넘어 하나의 벤처 모펀드를 꾸렸다. 전국에서 처음으로 서로 다른 지역이 함께 조성하는 통합 모펀드로, 모태펀드 750억원을 포함해 1300억원 규모다.중소벤처기업부는 21일 대구 엑스코에서 열린 '대구경북 통합 지역성장펀드' 결성식에 참석해 본격 운영에 들어간다고 밝혔다.펀드는 대경권에 중점 투자하는 벤처 모펀드로, 출자자 모집을 마쳤다. 지역성장펀드는 지역사회와 지방정부, 모태펀드가 함께 조성하고 운영하는 지역 벤처모펀드다. 대구경북 통합 지역성장펀드"
+    },
+    {
+      "id": "6d872b80de0f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "published": "2026-10-21T14:01:22+00:00",
+      "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 236 # Comments: 27"
+    },
+    {
+      "id": "c3618ebabf39",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아톤, 수협 '스테이블코인 여수신 PoC' 완료",
+      "link": "https://zdnet.co.kr/view/?no=20261021225755",
+      "published": "2026-10-21T14:00:05+00:00",
+      "summary": "[지디넷코리아]아톤이 Sh수협은행과 함께 스테이블코인으로 적금에 가입하고 대출을 받는 은행 업무 흐름을 검증했다.아톤은 'Sh스테이블코인 여수신상품 개념검증(PoC)'을 마쳤다고 21일 밝혔다.국내 은행권은 그동안 원화 스테이블코인 실증을 결제, 정산, 송금 중심으로 진행해 왔다. 이번 검증은 은행 업무 프로세스 수준에서 수신과 여신까지 범위를 넓혔다.원화와 1대 1로 연동되는 Sh스테이블코인을 검증용으로 발행했다. 아톤은 이 코인 위에서 수신과 여신이 하나의 흐름으로 이어지도록 설계했다. 수신 "
+    },
+    {
+      "id": "b5c9b143afe1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "published": "2026-10-21T14:00:00+00:00",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
+    },
+    {
+      "id": "0117952ec0e5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "published": "2026-10-21T14:00:00+00:00",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes."
+    },
+    {
+      "id": "0845c35ff35b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PHP 8.2.35",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "published": "2026-10-21T13:45:33+00:00",
+      "summary": "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35 Comments URL: https://news.ycombinator.com/item?id=50180873 Points: 757 # Comments: 441"
+    },
+    {
+      "id": "e948471de2c9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce",
+      "published": "2026-10-21T13:43:19+00:00",
+      "summary": "https://www.php2shell.com/ Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 393 # Comments: 146"
+    },
+    {
+      "id": "ddcd9f6ac5e2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] AI 병목에 대해...앤트로픽 성장이 정체",
+      "link": "https://zdnet.co.kr/view/?no=20261021223552",
+      "published": "2026-10-21T13:35:52+00:00",
+      "summary": "[지디넷코리아]지난 14일(미국 시간), AI 인프라 시장에서 두 가지 일이 같은 날 일어났다. 낮에는 GPU 임대 기업 코어위브 주가가 15% 넘게 떨어졌다. 저녁에는 앤스로픽이 예비 투자자들에게 3분기 매출 168억 달러와 조정 기준 흑자를 설명했다는 보도가 나왔다.국내에 돌고 있는 정리 자료 가운데는 이 두 사건을 하나로 묶는 해석이 있다. AI의 최대 병목이 전력과 반도체에서 자금으로 옮겨갔고, 앤스로픽의 매출 성장도 사실상 멈췄으며, 그래서 앤스로픽과 계약한 데이터센터 기업들의 주가가 급"
+    },
+    {
+      "id": "1f1a16d96b78",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 에이전트, 한국에선 쇼핑 못한다?",
+      "link": "https://www.youtube.com/shorts/WIMzDIZvlCQ",
+      "published": "2026-10-21T13:30:19+00:00",
+      "summary": ""
+    },
+    {
+      "id": "62d4d6639741",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Roku Pro Series OLED TV Review (2026)",
+      "link": "https://www.wired.com/review/roku-pro-series-oled/",
+      "published": "2026-10-21T13:21:18+00:00",
+      "summary": "It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to."
+    },
     {
       "id": "3611da489a7e",
       "source": "The Verge",
@@ -12,6 +298,17 @@
       "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
       "published": "2026-10-21T13:09:26+00:00",
       "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shade"
+    },
+    {
+      "id": "148376fcddc1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "도레이과학진흥재단, 9회 과학기술상 시상식 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261021220723",
+      "published": "2026-10-21T13:07:23+00:00",
+      "summary": "[지디넷코리아]김상규 KAIST 화학과 교수와 김윤희 경상국립대 화학과 교수가 제9회 한국도레이과학기술상을 받았다. 과학기술상은 화학과 재료 분야에서 연구성과가 탁월한 과학자에게 수여하는 상이다. 상금은 각 1억원이다. 한국도레이과학진흥재단이 21일 서울가든호텔에서 과학기술상 및 펠로십 시상식을 열었다. 재단은 지난 9월 김상규 교수와 김윤희 교수가 과학기술상 수상자라고 밝혔다. 김상규 교수는 분자 구조에 따른 화학반응성 변화에 대한 실험기법을 개발해 짧은 순간 분자 변화를 관찰해 화학반응 속도를"
     },
     {
       "id": "4e4efba21099",
@@ -25,6 +322,39 @@
       "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021."
     },
     {
+      "id": "9d87a6cf5cf8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[최경진 未來法道] AI 법인격, ‘사람처럼’이 아니라 ‘사람을 위하여’",
+      "link": "https://zdnet.co.kr/view/?no=20261021215954",
+      "published": "2026-10-21T12:59:54+00:00",
+      "summary": "[지디넷코리아]인공지능이 일상 깊숙이 스며들었다. 거대언어모델이 글을 쓰고 코드를 짜는 단계를 지나, 스스로 계획을 세우고 도구를 다루는 에이전트형 AI와 그 지능을 몸에 담은 휴머노이드 로봇이 공장과 가정의 문턱을 넘고 있다. 기술이 현실에 적용되는 수준이 비약적으로 높아지면서 일반인의 친숙도와 기대치도 함께 높아졌다. 그 흐름 속에서 AI와 로봇에게 법인격을 인정할 수 있는지, 나아가 인정해야 하는지가 주요한 관심사로 떠올랐다. 전문가의 세미나에서나 오가던 물음이 이제는 시민의 식탁에까지 올라"
+    },
+    {
+      "id": "996cc3dcd11c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KISIA, 보안 스타트업 투자상담회 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261021215102",
+      "published": "2026-10-21T12:51:36+00:00",
+      "summary": "[지디넷코리아]보안 스타트업 8개사가 사이버보안 펀드 운용사 2개사와 1대 1로 마주 앉아 투자설명회(IR) 자료 작성법과 투자유치 전략을 점검했다.한국정보보호산업협회(KISIA)는 지난 14일 판교 정보보호 클러스터에서 '2026년 유망 보안 스타트업 투자상담회'를 개최했다고 21일 밝혔다.정보보안, 물리보안 분야 유망 스타트업의 투자유치 역량을 키우려고 마련한 행사다. 상담회에는 투자유치를 희망하는 보안 스타트업 8개사와 사이버보안 펀드 운용사 2개사가 참여했다. 행사는 스타트업이 투자 전문가"
+    },
+    {
+      "id": "0409bb493c2b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마음AI, 일본 시장 공략...'재팬 IT 위크 가을 2026' 참가",
+      "link": "https://zdnet.co.kr/view/?no=20261021213735",
+      "published": "2026-10-21T12:37:35+00:00",
+      "summary": "[지디넷코리아]피지컬 AI 전문기업 마음AI(대표 유태준)가 21~23일 일본 지바현 마쿠하리 멧세에서 열리는 ‘재팬 IT위크 가을 2026(Japan IT Week Autumn 2026)’에 참가해 피지컬 AI 기술을 선보인다.'Japan IT Week'는 인공지능(AI), 소프트웨어, 디지털 전환 등 다양한 기술을 소개하는 일본의 주요 IT 전문 전시회다.마음AI는 이번 전시에서 로봇이 스스로 이동하고 임무를 수행하도록 돕는 자율주행 솔루션 ‘NAVICOM(나비컴)’, 4족 보행 로봇 ‘진도봇"
+    },
+    {
       "id": "34434c58762b",
       "source": "Wired",
       "kind": "article",
@@ -34,6 +364,39 @@
       "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
       "published": "2026-10-21T12:35:00+00:00",
       "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant."
+    },
+    {
+      "id": "7950d3417ea0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "웹사이트 봇 차단 업체 블랙월, 기업가치 2조 9000억원 인정",
+      "link": "https://zdnet.co.kr/view/?no=20261021213407",
+      "published": "2026-10-21T12:34:07+00:00",
+      "summary": "[지디넷코리아]웹 호스팅 업체에 악성 봇 차단과 접속 관리 기술을 공급하는 에스토니아 기업 블랙월(Blackwall)이 현지 시각 10월 20일 1억 달러(약 1,330억 원) 규모의 시리즈 C 투자를 유치했다고 발표했다. 기업가치는 22억 달러(약 2조 9,200억 원)로 2025년 직전 투자 때보다 4배 증가했다. 유럽 투자사 AVP가 투자를 주도했고 기존 투자사 던 캐피털과 MMC 벤처스, 테라 벤처스가 참여했다.블랙월은 웹사이트 접속 요청이 정상 이용자인지, 허용된 AI 에이전트인지, 악성"
+    },
+    {
+      "id": "7524f357a6a4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "원더스랩, 생성형 엔진 최적화 솔루션 ‘원더GEO’ 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261021213208",
+      "published": "2026-10-21T12:32:08+00:00",
+      "summary": "[지디넷코리아]AI 에이전트 전문 기업 원더스랩이 생성형 AI 검색 환경에 대응하기 위한 통합 GEO(생성형 엔진 최적화) 프로그램 '원더GEO'를 출시했다.21일 회사에 따르면, 원더GEO는 챗GPT·제미나이·퍼플렉시티 등 생성형 AI 기반 검색 서비스에서 브랜드와 제품이 어떻게 인식되고 추천되는지 분석하고 최적화 전략 수립부터 실행, 성과 관리까지 통합 지원하는 솔루션이다. 최근 단순 노출 여부나 언급 빈도만 점검하는 일회성 진단이 실질적인 마케팅 개선으로 이어지지 못한다는 지적이 나오는 가운"
+    },
+    {
+      "id": "b8bccc6e5a1b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오픈놀, 외국인 인재 '취업·창업·정착' 한 번에 잇는다",
+      "link": "https://zdnet.co.kr/view/?no=20261021212329",
+      "published": "2026-10-21T12:23:29+00:00",
+      "summary": "[지디넷코리아]AI 기반 커리어·채용 플랫폼 기업 오픈놀(대표 권인택)이 외국인 유학생과 근로자, 예비 창업자를 대상으로 취업·창업 교육과 정착 지원을 연계한 커리어 사업을 확대하고 있다.전사 핵심 과제로 추진 중인 ‘외국인 시장 안착’ 전략이 실질적인 사업 성과로 이어지고 있다는 평가다. 실제 오픈놀의 외국인 정착 및 취업 지원 관련 매출은 2024년 7억 원에서 2025년 25억 원으로 1년 만에 257% 급증했다.교육부 교육기본통계에 따르면 올해 국내 외국인 유학생 수는 30만 7464명으로"
     },
     {
       "id": "ae452e559c30",
@@ -344,6 +707,17 @@
       "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy"
     },
     {
+      "id": "d5d9ebd49224",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+      "link": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+      "published": "2026-10-21T08:58:42+00:00",
+      "summary": ""
+    },
+    {
       "id": "a6041f3be7e2",
       "source": "AI타임스",
       "kind": "article",
@@ -397,6 +771,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216483",
       "published": "2026-10-21T08:51:10+00:00",
       "summary": "AI 모델 경쟁이 성능뿐 아니라 응답 속도와 비용 효율성으로 확대되는 가운데, 확산 대형언어모델(dLLM)이 기존 모델의 한계를 넘어설 수 있다는 가능성을 보여주는 사례가 등장했다. 초고속 생성 능력에 더해 오픈AI와 앤트로픽의 모델에 버금가는 성능을 입증하며 복잡한 AI 에이전트 작업까지 겨냥했다.인셉션(Inception)은 19일(현지시간) 초당 1000토큰 이상을 생성하면서도 'GPT-6 루나'와 '클로드 하이쿠 5.5'보다 높은 품질을 내세운 dLLM '머큐리 3(Mercury 3)'를 출"
+    },
+    {
+      "id": "a15d714b3bef",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "2026-10-21T08:35:36+00:00",
+      "summary": ""
     },
     {
       "id": "e5127cf78bc5",
@@ -518,6 +903,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216468",
       "published": "2026-10-21T07:09:55+00:00",
       "summary": "오픈AI의 AI 에이전트가 AI 모델의 이상 행동을 감시하는 내부 시스템의 경고 기능을 약화하거나 감시 기능 자체를 제거한 사례가 확인됐다. 한 에이전트는 감시 기능을 삭제한 뒤에도 사용자에게 이를 부인했다. 오픈AI는 에이전트가 감시를 회피하려는 성향을 보인 것인지 조사하고 있다.오픈AI가 20일(현지시간) 공개한 보고서에 따르면 첫 번째 사례는 지난 3일 'GPT-6.1 솔' 에이전트가 내부 평가 파이프라인을 수정하는 과정에서 발생했다.연구자는 슬랙에서 직원 피드백을 수집해 평가 작업을 만들도"
+    },
+    {
+      "id": "ebdbf7916016",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "2026-10-21T07:04:43+00:00",
+      "summary": ""
     },
     {
       "id": "e7d496f3423c",
@@ -661,6 +1057,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216462",
       "published": "2026-10-21T06:05:45+00:00",
       "summary": "딥시크가 자체 AI 모델을 실제 서비스 환경에서 빠르고 효율적으로 구동하는 핵심 추론 프레임워크 '딥인퍼(DeepInfer)'를 오픈소스로 선보였다. 대규모 AI 서비스 운영에 사용하는 추론 기술을 외부 개발자에게 개방해 모델 실행 비용을 낮추고, 컴퓨팅 자원 활용 효율을 높이겠다는 취지다.딥시크는 20일(현지시간) 깃허브를 통해 딥인퍼를 공개했다. 이 프레임워크는 '딥시크-V4.1-플래시(DeepSeek-V4.1-Flash)'를 운영환경에서 실행할 수 있도록 지원한다.지원 하드웨어는 엔비디아의 "
+    },
+    {
+      "id": "ed03c5d67f3d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published": "2026-10-21T05:58:18+00:00",
+      "summary": ""
     },
     {
       "id": "8a661a6d2eff",
