@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-10-21T18:05:34.146944+00:00",
-  "count": 16884,
+  "updated_at": "2026-10-21T21:41:02.758590+00:00",
+  "count": 16913,
   "items": [
+    {
+      "id": "7af5d795af60",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "published": "2026-10-21T21:30:02+00:00",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027."
+    },
+    {
+      "id": "050d14a983ea",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216500",
+      "published": "2026-10-21T21:25:06+00:00",
+      "summary": "오픈AI가 구글 클라우드를 통해 최신 AI 모델과 코딩 에이전트 ‘코덱스’를 판매한다. 챗GPT와 제미나이로 경쟁하는 두 회사가 기업 시장에서는 판매 협력에 나선 것이다. 오픈AI는 구글의 기업 고객에게 접근할 통로를 확보하고, 구글은 자사 모델뿐 아니라 경쟁사 모델을 원하는 고객까지 클라우드에 붙잡아 두겠다는 전략이다.양사는 21일(현지시간) 공식 발표를 통해 오픈AI의 첨단 모델과 '코덱스'를 구글 클라우드의 AI 모델 제공 플랫폼 ‘모델 가든’에 도입한다고 밝혔다. 일부 기업 고객을 대상으로"
+    },
+    {
+      "id": "9b366c7063a2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published": "2026-10-21T21:14:19+00:00",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "id": "f08bd2233725",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "published": "2026-10-21T20:57:40+00:00",
+      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\""
+    },
+    {
+      "id": "0fa868022d32",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인도 통신공룡 지오플랫폼, 4.5조원 IPO 100분 만에 완판",
+      "link": "https://zdnet.co.kr/view/?no=20261022055558",
+      "published": "2026-10-21T20:55:58+00:00",
+      "summary": "[지디넷코리아]인도 최대 이동통신사를 거느린 지오플랫폼이 기업공개(IPO) 첫날 약 100분 만에 전체 공모 물량에 해당하는 청약을 확보했다. 기관투자자 청약 경쟁률은 9배를 넘었지만 개인투자자 청약은 배정 물량에 미치지 못해 투자자 유형별 수요 차이가 뚜렷하게 나타났다.21일(현지시간) 로이터통신 등에 따르면 지오플랫폼은 청약 개시 100분 만에 전체 공모 물량을 채웠다. 기관투자자 배정 물량은 접수 시작 10분 만에 소화됐다.당일 오후 5시 기준 전체 청약 경쟁률이 3배를 넘었다. 적격기관투자"
+    },
+    {
+      "id": "ba25f19a2b58",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216499",
+      "published": "2026-10-21T20:47:30+00:00",
+      "summary": "AI가 웹사이트 구동에 널리 쓰이는 프로그래밍 언어 PHP에서 중대 보안 취약점을 찾아내면서 유럽 정부와 병원, 학교 등이 웹사이트를 잇달아 중단했다. 공격자가 서버를 장악할 수 있는 결함이 확인되자 피해를 막기 위해 접속부터 차단한 것이다. 긴급 수정본은 배포됐지만, 공격자 역시 AI로 이를 분석해 업데이트하지 않은 서버를 노릴 수 있어 대응 속도가 중요해졌다.로이터와 블룸버그 등은 21일(현지시간) PHP에서 두 가지 심각한 취약점이 공개된 뒤 유럽 각국 정부와 기관들이 긴급 업데이트와 서비스"
+    },
+    {
+      "id": "91b7861f29ed",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+      "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "published": "2026-10-21T20:46:56+00:00",
+      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billi"
+    },
+    {
+      "id": "d1157ee2dc70",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "글로벌 OTT 리더들 서울 집결...스트리밍 산업 미래 논의",
+      "link": "https://zdnet.co.kr/view/?no=20261022053911",
+      "published": "2026-10-21T20:39:11+00:00",
+      "summary": "[지디넷코리아]글로벌 OTT와 미디어 업계 전문가들이 서울에 모여 스트리밍 시장의 변화와 콘텐츠 수익화 전략을 논의한다. 광고 기반 무료 스트리밍부터 팬덤 비즈니스, 콘텐츠 지식재산권(IP) 확장, AI 기술 활용까지 다양한 산업 현안을 다룰 예정이다.방송미디어통신위원회는 한국방송광고진흥공사와 함께 오는 11월5일 서울 광화문 포시즌스 호텔에서 '2026 국제 OTT 포럼'을 개최한다.올해로 5주년을 맞은 포럼에서는 글로벌 광고 기반 무료 스트리밍 플랫폼 투비(Tubi)의 데이비드 살몬 부사장이 "
+    },
+    {
+      "id": "db5fa07700d0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "published": "2026-10-21T20:36:56+00:00",
+      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the interne"
+    },
+    {
+      "id": "ea27a52aa910",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+      "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "published": "2026-10-21T20:33:09+00:00",
+      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving."
+    },
+    {
+      "id": "3a71f242c36f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "published": "2026-10-21T20:27:41+00:00",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "id": "f00db17ee512",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+      "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
+      "published": "2026-10-21T20:22:31+00:00",
+      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues w"
+    },
+    {
+      "id": "d4c59a3be100",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "published": "2026-10-21T19:54:00+00:00",
+      "summary": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask g"
+    },
+    {
+      "id": "89a26fab14ea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "published": "2026-10-21T19:53:20+00:00",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Andr"
+    },
+    {
+      "id": "704e57b497c7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "published": "2026-10-21T19:52:20+00:00",
+      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ."
+    },
+    {
+      "id": "a6907a14964f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "published": "2026-10-21T19:44:40+00:00",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps."
+    },
+    {
+      "id": "60b961d1e59a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "published": "2026-10-21T19:42:32+00:00",
+      "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices."
+    },
+    {
+      "id": "40df8cad7a26",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "published": "2026-10-21T19:30:00+00:00",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals."
+    },
+    {
+      "id": "5bc492a5243c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "published": "2026-10-21T19:30:00+00:00",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Ama"
+    },
+    {
+      "id": "cb6dedd4c6c1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The internet is having a very bad cybersecurity day",
+      "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "published": "2026-10-21T19:03:28+00:00",
+      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week."
+    },
+    {
+      "id": "398fde19f83e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+      "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+      "published": "2026-10-21T19:02:49+00:00",
+      "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f"
+    },
+    {
+      "id": "6c506226eb40",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "published": "2026-10-21T18:51:56+00:00",
+      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion."
+    },
+    {
+      "id": "c9891f8bb305",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "published": "2026-10-21T18:51:42+00:00",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
+    },
+    {
+      "id": "70459bd967a5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "published": "2026-10-21T18:20:40+00:00",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules."
+    },
     {
       "id": "a5b31a8f6806",
       "source": "TechCrunch",
@@ -157,6 +421,28 @@
       "summary": "OpenEvidence is booming despite questions about accuracy and ads."
     },
     {
+      "id": "a1776f3bc79c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미래 여행, 지금 시작: 2026 제투어 글로벌 테크놀로지 익스피리언스 데이 개막",
+      "link": "https://zdnet.co.kr/view/?no=20261022001013",
+      "published": "2026-10-21T15:10:13+00:00",
+      "summary": "[지디넷코리아]중국 우후, 2026년 10월 21일 /PRNewswire/ -- 미래 여행의 시작을 알리는 2026 제투어 글로벌 테크놀로지 익스피리언스 데이가 10월 20일 중국 안후이성 우후에서 공식 개막했다. 오전에는 그룹 연구개발(R&D) 센터에서 핵심 행사인 글로벌 이노베이션 콘퍼런스가 열리며 2,000여 명의 해외 게스트와 미디어, 사용자가 한자리에 모여 첨단 기술 성과와 제품 라인업, 지능형 모빌리티의 미래 청사진을 살펴다. Yin Tongyue, Chairman of Chery Au"
+    },
+    {
+      "id": "7fd5babd9cf6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "셀레브라이트, Genesis 성과 기반 가을 릴리스 공개: 더 많은 증거, 더 깊은 통찰, 더 넓어진 수사 접근성",
+      "link": "https://zdnet.co.kr/view/?no=20261022001003",
+      "published": "2026-10-21T15:10:03+00:00",
+      "summary": "[지디넷코리아] 수사관들, 에이전틱 AI 활용 시 수작업 검토 대비 증거 발견 성과 크게 향상됐다고 평가…2026년 가을 릴리스, 기기 및 운영체제 접근 지원 확대 버지니아 타이슨스 코너 및 이스라엘 페타티크바, 2026년 10월 21일 /PRNewswire/ -- 공공 및 민간 부문을 위한 AI 기반 디지털 수사 및 정보 분석 솔루션 분야의 글로벌 선도 기업 셀레브라이트(Nasdaq: CLBT)가 오늘 자사의 최신 제품 혁신을 담은 2026년 가을 릴리스(Autumn 2026 Release)를 "
+    },
+    {
       "id": "b0768e42199b",
       "source": "Wired",
       "kind": "article",
@@ -199,6 +485,17 @@
       "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
       "published": "2026-10-21T14:01:22+00:00",
       "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 236 # Comments: 27"
+    },
+    {
+      "id": "81b6e03853a5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "published": "2026-10-21T14:00:26+00:00",
+      "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 348 # Comments: 117"
     },
     {
       "id": "c3618ebabf39",
@@ -641,6 +938,17 @@
       "summary": ""
     },
     {
+      "id": "ef70253df808",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21T09:26:30+00:00",
+      "summary": ""
+    },
+    {
       "id": "4ab439b23d1f",
       "source": "Hacker News",
       "kind": "article",
@@ -650,6 +958,17 @@
       "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "published": "2026-10-21T09:08:08+00:00",
       "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 366 # Comments: 145"
+    },
+    {
+      "id": "1962403477f6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "published": "2026-10-21T09:08:08+00:00",
+      "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 769 # Comments: 378"
     },
     {
       "id": "19c32ca47d8e",
