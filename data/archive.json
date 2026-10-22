@@ -1,7 +1,304 @@
 {
-  "updated_at": "2026-10-22T09:48:40.102440+00:00",
-  "count": 16979,
+  "updated_at": "2026-10-22T14:49:34.843472+00:00",
+  "count": 17011,
   "items": [
+    {
+      "id": "c8c57c740639",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published": "2026-10-22T14:30:24+00:00",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    },
+    {
+      "id": "73a9cdb8356b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+      "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+      "published": "2026-10-22T14:24:49+00:00",
+      "summary": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much wider"
+    },
+    {
+      "id": "57a7da53744a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "published": "2026-10-22T14:03:00+00:00",
+      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets."
+    },
+    {
+      "id": "9ec0f0955ef6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "published": "2026-10-22T14:00:00+00:00",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The tu"
+    },
+    {
+      "id": "388005207ccb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "published": "2026-10-22T13:53:26+00:00",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users"
+    },
+    {
+      "id": "be3f252bec10",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "published": "2026-10-22T13:26:52+00:00",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+    },
+    {
+      "id": "8d9ade445ef1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "published": "2026-10-22T13:20:37+00:00",
+      "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of wha"
+    },
+    {
+      "id": "2e308748fb2a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+      "link": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+      "published": "2026-10-22T13:04:32+00:00",
+      "summary": "General Motors' plans will require quite a lot of customers' trust."
+    },
+    {
+      "id": "0e0162203f84",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Googlebooks just aren’t ready",
+      "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
+      "published": "2026-10-22T13:00:00+00:00",
+      "summary": "EEvery Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support. "
+    },
+    {
+      "id": "8d3790aab867",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "published": "2026-10-22T13:00:00+00:00",
+      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant appr"
+    },
+    {
+      "id": "023019d5a84d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "published": "2026-10-22T13:00:00+00:00",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor."
+    },
+    {
+      "id": "fbdce6a3a7d1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "허블, AI 뉴스 에이전트 ‘탭뷰 AI’ 지스타 2026서 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261022215032",
+      "published": "2026-10-22T12:50:32+00:00",
+      "summary": "[지디넷코리아]모바일 콘텐츠 기업 허블이 이용자의 뉴스 소비 성향에 맞춰 정보의 깊이를 조절하는 AI 뉴스 에이전트 '탭뷰 AI'를 선보인다.22일 회사에 따르면, 탭뷰 AI는 별도의 앱 설치나 회원가입 절차 없이 기존 제휴 앱 안에서 곧바로 구동되는 인앱 서비스다. 이용자의 개인정보를 수집하지 않고 접속 앱·시간대·지역 정보만으로 소비 성향을 정밀 추정해 맞춤형 뉴스를 제공한다. 특히 화면 스크롤에 따라 정보의 깊이가 단계적으로 심화되는 단일 인터페이스를 갖췄다. 홈 피드의 '유저 맞춤 제목'과"
+    },
+    {
+      "id": "491fe2145783",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "창업도시 4곳→10곳…지역 주도 창업거점 확산",
+      "link": "https://zdnet.co.kr/view/?no=20261022214007",
+      "published": "2026-10-22T12:40:07+00:00",
+      "summary": "[지디넷코리아]정부가 비수도권 광역자치단체 10곳 가운데 6곳을 창업도시로 추가 선정한다. 선정된 창업도시는 2030년까지 4년간 600억원 안팎의 직접 지원 예산을 받는다.중소벤처기업부는 이같은 내용의 '창업도시 조성 프로젝트' 추가 공모를 23일 시작한다고 밝혔다.프로젝트는 지역의 인재, 기술, 자본을 한데 모아 창업기업의 지역 창업과 성장, 정착을 돕기 위해 올해 시작했다. 중기부는 올해 상반기 과학기술원이 있는 지역을 중심으로 대전, 대구, 광주, 울산 4곳을 선도모델로 선정했다. 이들 지"
+    },
+    {
+      "id": "6d499c641684",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오프로드 트레저 헌트: 제투어의 몰입형 시승 체험",
+      "link": "https://zdnet.co.kr/view/?no=20261022211003",
+      "published": "2026-10-22T12:10:03+00:00",
+      "summary": "[지디넷코리아]중국 우후, 2026년 10월 22일 /PRNewswire/ -- 로드트립과 캠핑의 인기가 높아지며, 운전자들은 오프로드 차량에 험로 주파력을 넘어 편의성, 승차감, 실제 여행 상황 전반의 적응력까지 기대하게 됐다. 오프로드 기술이 실제 여행 수요를 어떻게 더 잘 충족할 것인가가 핵심 과제로 떠올랐다. 10월 21일, 2026 제투어 글로벌 테크놀로지 익스피리언스 데이의 오프로드 시승 행사가 저장성 모간산에서 열리며, 참가자들에게 산악 실전 체험의 기회를 제공했다. 전 세계 미디어와"
+    },
+    {
+      "id": "38cdbf40bdf7",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "깃 없이도 코드 관리가 가능한 이유",
+      "link": "https://www.youtube.com/shorts/b270jMdTTsY",
+      "published": "2026-10-22T11:00:04+00:00",
+      "summary": ""
+    },
+    {
+      "id": "cd39ca85f7bb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+      "link": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+      "published": "2026-10-22T11:00:00+00:00",
+      "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy."
+    },
+    {
+      "id": "435be935b0d4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+      "link": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+      "published": "2026-10-22T10:43:13+00:00",
+      "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads model at the beginning of this year."
+    },
+    {
+      "id": "b7224c2f6a97",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 모델 연결 도구 라이트LLM 해킹…비밀번호 빼내는 악성 코드 배포",
+      "link": "https://zdnet.co.kr/view/?no=20261022193126",
+      "published": "2026-10-22T10:31:26+00:00",
+      "summary": "[지디넷코리아]여러 AI 모델 서비스를 하나의 방식으로 연결하는 오픈소스 도구 라이트LLM(LiteLLM)의 1.107.0 버전에 악성 코드가 포함돼 배포됐다. 소프트웨어 공급망 보안 업체 세이프뎁(SafeDep)이 현지 시각 10월 21일 분석 결과를 공개했다. 라이트LLM은 개발자가 오픈AI와 앤트로픽 등 여러 AI 서비스를 같은 방식으로 사용하도록 돕는 도구다.테크크런치에 따르면 공격자는 파이썬 패키지 저장소 PyPI와 도커 허브, 깃허브 컨테이너 저장소에 변조된 파일을 업로드했다. 악성 코"
+    },
+    {
+      "id": "6c15fda6c67e",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+      "published": "2026-10-22T10:30:00+00:00",
+      "summary": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way."
+    },
+    {
+      "id": "23cff57de330",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스]유럽의 마지막 페니실린 공장이 문 닫을 위기에요",
+      "link": "https://zdnet.co.kr/view/?no=20261022130235",
+      "published": "2026-10-22T10:29:01+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 유럽의 마지막 페니실린 공장이 문을 닫을 위기에 놓였다는 소식, 들어보셨나요? 오스트리아 쿤들 공장이 그 주인공인데요, 세계 원료약 시장의 약 80%를 중국이 차지하면서 값싼 중국산 원료에 밀려 유럽 대다수의 페니실린 공장이 이미 문을 닫았어요. 사실 이 위기는 2000년대 초 유럽 기업들이 비용을 아끼려고 생산 기지를 아시아로 옮기면서 시작됐는데요, 팬데믹과 전쟁이 터지고 나서야 약 공급이 끊길 수 있다는 걸 실감하게 됐어요.우리나라도 남의 일이"
+    },
+    {
+      "id": "ab981a23b694",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG CNS, 기업용 챗GPT 이용자 3만명 확보…공급부터 업무 적용 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261022191127",
+      "published": "2026-10-22T10:20:43+00:00",
+      "summary": "[지디넷코리아]LG CNS가 기업용 인공지능(AI) 서비스 '챗GPT 엔터프라이즈' 국내 이용자 약 3만 명을 확보했다고 밝혔다.LG CNS는 22일 서울 강남구 라움 아트센터에서 열린 '오픈AI 데브데이 익스체인지: 서울'에서 챗GPT 엔터프라이즈 공급 현황을 공개했다. 올해 2월 시작한 오픈AI 리셀러 사업을 통해 금융과 유통, 바이오, 제조 등 고객사 임직원 약 3만 명이 챗GPT 엔터프라이즈 서비스를 사용하고 있다고 했다.이날 발표에 나선 진요한 LG CNS AI센터장 상무는 기업 고객에게"
+    },
+    {
+      "id": "7d02cc4ebe3a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK스토아, 하나투어와 일본 여행 특집전…AI 인플루언서도 등장",
+      "link": "https://zdnet.co.kr/view/?no=20261022191253",
+      "published": "2026-10-22T10:18:01+00:00",
+      "summary": "[지디넷코리아]SK스토아가 하나투어와 손잡고 일본 여행상품을 집중 판매한다. 가을 단풍과 겨울 온천 여행 수요를 겨냥해 지역별 패키지를 선보이고, 인공지능(AI) 인플루언서를 활용한 방송 콘텐츠도 마련했다.SK스토아는 오는 31일까지 'SK스토아X하나투어 트래블 페스타'를 진행한다고 22일 밝혔다.이번 특집전은 일본 홋카이도와 규슈, 고베·오사카 등 주요 관광지를 중심으로 구성했다. 온천 리조트와 전통 료칸 숙박, 현지 특식 등을 결합한 패키지 상품을 순차적으로 판매한다.먼저 23일 오후 10시 "
+    },
+    {
+      "id": "227c93860a7a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아기상어, 크리스마스 영화로 돌아온다…12월 5일 CGV 개봉",
+      "link": "https://zdnet.co.kr/view/?no=20261022190900",
+      "published": "2026-10-22T10:13:01+00:00",
+      "summary": "[지디넷코리아]전 세계적으로 인기를 끈 '아기상어'가 크리스마스를 앞두고 극장가를 찾는다. 애니메이션과 실사 영상을 결합하고 관객이 노래와 춤을 함께 즐길 수 있도록 구성한 가족 영화다.더핑크퐁컴퍼니는 영화 '아기상어 크리스마스 스페셜: 산타 선발 대회'를 오는 12월 5일 CGV에서 개봉한다고 22일 밝혔다. 이날 티저 포스터와 첫 번째 스틸컷도 공개했다.이번 영화는 산타 할아버지가 부상을 입자 바닷속에서 새로운 산타를 뽑는 대회가 열리면서 벌어지는 이야기를 담았다.아기상어와 친구들이 산타 선발"
+    },
+    {
+      "id": "c524b5b4e429",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "link": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+      "published": "2026-10-22T10:01:00+00:00",
+      "summary": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why."
+    },
+    {
+      "id": "544b8c87677e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "지금 AI 쓰는 사람이 대단한 이유",
+      "link": "https://www.youtube.com/shorts/usdH6FJ-p3k",
+      "published": "2026-10-22T10:00:31+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7c5a27edcdbb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "published": "2026-10-22T10:00:00+00:00",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health."
+    },
+    {
+      "id": "5a4d1f7d5053",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "published": "2026-10-22T10:00:00+00:00",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the rig"
+    },
     {
       "id": "c594d401439a",
       "source": "조코딩",
@@ -221,6 +518,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216539",
       "published": "2026-10-22T08:05:22+00:00",
       "summary": "오픈AI가 '챗GPT' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제공 지역을 기존보다 26개국 늘려 전 세계 89개국으로 확대한다고 발표했다. 최근 유럽과 동남아시아, 대만으로 서비스를 확대한 데 이은 조치다.이번 확장으로 멕시코와 브라질에 이어 아르"
+    },
+    {
+      "id": "37b716d9a906",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jailbreaking the Switch 2",
+      "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "published": "2026-10-22T08:01:52+00:00",
+      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 348 # Comments: 125"
     },
     {
       "id": "0de50b28a3f3",
@@ -452,6 +760,17 @@
       "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
       "published": "2026-10-22T02:24:17+00:00",
       "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet."
+    },
+    {
+      "id": "f3c198480855",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "published": "2026-10-22T02:18:41+00:00",
+      "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 374 # Comments: 115"
     },
     {
       "id": "5fb8906afc49",
@@ -2368,6 +2687,17 @@
       "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
+      "id": "dacfb7bcddbb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PingCap TiDB Leaks",
+      "link": "https://fulcrumsec.vg/pingcap/",
+      "published": "2026-10-20T22:45:39+00:00",
+      "summary": "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 394 # Comments: 66"
+    },
+    {
       "id": "dd30cc03b1f8",
       "source": "TechCrunch",
       "kind": "article",
@@ -3578,6 +3908,17 @@
       "summary": "[지디넷코리아]일본 기업을 겨냥한 사이버 공격 일부에 중국산 인공지능(AI) 에이전트 '아텍스(ARTEX)'가 사용된 것으로 확인됐다.요미우리신문, 산케이신문 등 여러 외신은 GMO인터넷그룹 산하 보안업체가 이런 내용을 확인했다고 20일 보도했다.업체는 피해 기업들의 의뢰를 받아 지난달 18일 일본 기업을 대상으로 한 공격에 사용된 해외 공개 서버 6대를 특정했다. 또 이들 서버 모두에서 아텍스가 사용된 흔적을 발견했다. 다른 AI 에이전트의 사용 흔적은 없어 아텍스가 공격에 사용됐을 가능성이 높"
     },
     {
+      "id": "89a78c431366",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "published": "2026-10-20T06:20:54+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cp814l80pw2o Comments URL: https://news.ycombinator.com/item?id=50162044 Points: 249 # Comments: 59"
+    },
+    {
       "id": "acd4ff22e2aa",
       "source": "Hugging Face",
       "kind": "article",
@@ -3752,6 +4093,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216441",
       "published": "2026-10-20T04:54:35+00:00",
       "summary": "오픈AI의 코딩 에이전트 ‘코덱스’를 이끄는 티보 소티오가 X 계정 페이지 트래픽 순위에서 일론 머스크 CEO를 제치고 1위에 올랐다. 코덱스 이용 한도를 되살려 주는 ‘리셋’ 공지로 개발자들 사이에서 인기를 얻은 인물이다. 최근에는 28일 동안 매일 제품을 개선하거나 이용 한도를 초기화하겠다고 약속하며 게시물 하나하나에 관심이 쏠리고 있다.웹 트래픽 분석 전문 시밀러웹은 18일(현지시간) 9월 X 계정 페이지 트래픽 점유율 순위를 공개했다. 소티오의 계정 ‘@thsottiaux’가 1위, 축구 "
+    },
+    {
+      "id": "aa796844fd02",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "No more icons in every menu by default",
+      "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "published": "2026-10-20T04:27:08+00:00",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/icons-in-every-menu/ Comments URL: https://news.ycombinator.com/item?id=50161346 Points: 401 # Comments: 229"
     },
     {
       "id": "d14a9993db59",
