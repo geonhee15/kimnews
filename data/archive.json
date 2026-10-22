@@ -1,7 +1,304 @@
 {
-  "updated_at": "2026-10-22T04:51:44.498612+00:00",
-  "count": 16950,
+  "updated_at": "2026-10-22T09:48:40.102440+00:00",
+  "count": 16979,
   "items": [
+    {
+      "id": "c594d401439a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "구글이 단백질에 몰래 새겨 넣은 것",
+      "link": "https://www.youtube.com/shorts/cBtB1Qr4vVA",
+      "published": "2026-10-22T09:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f23635942bad",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "톱텍 \"삼성D, BOE와 특허 계약서 제출해야\" vs. 삼성D \"비밀유지계약 때문에 어렵다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261022175251",
+      "published": "2026-10-22T08:59:32+00:00",
+      "summary": "[지디넷코리아]삼성디스플레이와 톱텍의 위약벌(계약파기위약금) 청구소송 항소심에서 삼성디스플레이가 BOE와 체결한 특허 라이선스 계약서 원본 제출 여부가 쟁점으로 부상했다. 삼성디스플레이는 지난해 4분기 미국 국제무역위원회(ITC) 영업비밀침해조사 절차 중 BOE로부터 특허 로열티를 받는 부분과 관련해 작성한 합의서를 금액 등 일부 가림처리 후 수원고등법원 재판부에 제출했는데, 톱텍은 가림처리한 부분을 모두 공개해야 한다고 주장하고 있다. 9일 수원고법에서 열린 위약벌청구소송 항소심 변론기일에서도 "
+    },
+    {
+      "id": "928825e36c75",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "챗GPT 광고주 10만 곳 넘어…오픈AI, 89개국으로 광고 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261022175056",
+      "published": "2026-10-22T08:57:20+00:00",
+      "summary": "[지디넷코리아]오픈AI가 챗GPT 광고 사업을 확대하며 수익원 다변화에 나섰다. 무료 이용자 기반으로 광고 수익을 늘려 구독료 중심 사업 구조를 넓히려는 전략이다. 22일 업계에 따르면 오픈AI는 21일(현지시간) 챗GPT 광고주가 10만 곳을 넘어섰으며, 광고 제공 국가를 기존 63개국에서 89개국으로 확대했다고 밝혔다.오픈AI는 지난 2월 미국에서 무료 챗GPT 이용자 대상으로 광고를 시범 도입했다. 이후 8월 한국을 포함한 5개국으로 대상을 넓히는 등 광고 사업의 해외 확장을 추진해 왔다.챗"
+    },
+    {
+      "id": "66e0434f3ca8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "레드햇-엔비디아, AI 에이전트 보안·추론·인프라 협력 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261022175720",
+      "published": "2026-10-22T08:57:20+00:00",
+      "summary": "[지디넷코리아]레드햇이 엔비디아와 손잡고 자율형 인공지능(AI) 에이전트 도입을 위한 보안과 운영 기반을 강화한다. 레드햇은 '레드햇 AI 팩토리 위드 엔비디아'를 기반으로 에이전트 보안과 모델 배포를 위한 설계를 엔비디아와 추진한다고 22일 밝혔다. 엔비디아 차세대 인프라 '베라 루빈'도 출시 당일부터 지원한다.핵심은 에이전트가 작동하는 환경에서 안전성과 통제력을 확보한다는 점이다. 두 기업은 에이전트를 격리된 환경에서 실행하는 오픈소스 기술 '오픈셸' 기반으로 기업용 표준 설계인 '오픈셸 레퍼"
+    },
+    {
+      "id": "abeab9afc4b3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "김경훈 오픈AI코리아 대표 \"한국, AI 에이전트 '닷츠' 이용자 세계 3위\"",
+      "link": "https://zdnet.co.kr/view/?no=20261022170607",
+      "published": "2026-10-22T08:55:36+00:00",
+      "summary": "[지디넷코리아]한국이 오픈AI 인공지능(AI) 에이전트 '닷츠' 이용자가 세계에서 세 번째로 많은 나라로 집계됐다.김경훈 오픈AI코리아 총괄 대표는 22일 서울 강남구 라움 아트센터에서 열린 '오픈AI 데브데이 익스체인지: 서울'에서 한국이 닷츠 국가별 주간활성이용자 수 기준 세계 3위를 기록했다고 밝혔다. 챗GPT 프로 이용 규모도 세계 5위권을 유지하고 있다고 설명했다.김 대표는 \"챗GPT 프로 같은 경우도 한국이 인구가 아주 많은 나라가 아님에도 글로벌 5위권을 유지하고 있다\"며 \"새로운 기"
+    },
+    {
+      "id": "10060b439eb7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216552",
+      "published": "2026-10-22T08:55:05+00:00",
+      "summary": "AI 에이전트가 학술 논문을 직접 읽고 연구 결과를 코드에 반영해 스스로 성능을 개선하는 기술이 등장했다. 기존 에이전트가 작업 실패 기록과 시행착오에 의존해 개선 방법을 찾았다면, 새로운 프레임워크는 관련 연구를 검색하고 검증된 기술을 에이전트의 작동 구조에 적용한다.캘리포니아대학교 샌타바버라 캠퍼스(UCSB)와 마이크로소프트(MS) 연구진은 최근 에이전트가 작업을 수행하는 과정에서 드러난 문제를 분석한 뒤 관련 학술 논문을 찾아 해결책을 구현하고, 실제 성능 평가를 통해 개선 효과를 검증하는 "
+    },
+    {
+      "id": "d87ae08aa88a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그라비티, ‘라그나로크 온라인 PLUS+’ 국내 CBT 시작",
+      "link": "https://zdnet.co.kr/view/?no=20261022175500",
+      "published": "2026-10-22T08:55:00+00:00",
+      "summary": "[지디넷코리아]그라비티가 원작 세계관을 확장한 MMORPG 신작 ‘라그나로크 온라인 PLUS+’의 국내 테스트를 시작하고, 주요 콘텐츠와 PC·모바일 서비스 안정성을 점검한다.그라비티는 ‘라그나로크 온라인 PLUS+’의 국내 비공개 테스트(CBT)를 진행한다고 22일 밝혔다. 테스트는 오는 29일까지 진행된다.PC 버전은 공식 홈페이지에서 클라이언트를 내려받아 참여할 수 있다. 모바일 버전은 구글플레이에서 다운로드하거나 애플 앱스토어의 'TestFlight'를 통해 참여할 수 있다.‘라그나로크 온"
+    },
+    {
+      "id": "7298cbb2379c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"아이 데리러 가야 해\" 한마디에 회의 변경…오픈AI '닷츠'로 업무 더 쉬워졌다",
+      "link": "https://zdnet.co.kr/view/?no=20261022173135",
+      "published": "2026-10-22T08:53:36+00:00",
+      "summary": "[지디넷코리아]\"배우자 대신 아이를 데리러 가야 하는데 상사와 면담이 잡혀 있어. 면담을 옮기고 양해를 구해줘.\"이처럼 요청을 받은 오픈AI의 인공지능(AI) 에이전트 '닷츠'는 상사와의 면담 일정을 다음 날로 옮겼다. 업무용 메신저 슬랙으로 일정 변경에 대한 양해를 구하는 메시지도 보냈다.천지은 오픈AI 아시아태평양 교육 리드는 22일 '오픈AI 데브데이 익스체인지 서울'에 앞서 열린 미디어 브리핑에서 업무와 육아를 병행하는 직장인을 가정해 닷츠 활용법을 시연했다. 일정 조정부터 발표자료와 시연"
+    },
+    {
+      "id": "f64be784a30a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216516",
+      "published": "2026-10-22T08:48:26+00:00",
+      "summary": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 '플린트(Flint)'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브는 21일(현지시간) 플린트를 공개하고 모델 가중치를 허깅페이스에 아파치 2.0 라이선스로 배포했다.모델은 총 400억개 매개변수로 구성됐지만, 전문가 혼합(MoE) 구조를 적용해 토큰"
+    },
+    {
+      "id": "b582cc072462",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"취임 두 달도 안 됐는데\"…하정우, 강원·대구·포항 돌며 '지역 AX' 고삐",
+      "link": "https://zdnet.co.kr/view/?no=20261022154308",
+      "published": "2026-10-22T08:43:45+00:00",
+      "summary": "[지디넷코리아]하정우 국가인공지능(AI)전략위원회 상근 부위원장이 취임 두 달도 안 돼 지역 산업과 주민 생활 속 AI 확산을 위한 현장 행보에 적극 나서 주목받고 있다. 지역 기업과 주민들의 목소리를 듣고 정책 지원 방안을 모색하며 취임 당시 강조한 '국민이 체감하는 AI 성과' 창출에 속도를 내는 모습이다.22일 업계에 따르면 하 부위원장은 이날 경북 포항의 제조 AI·로봇 실증 시설과 포스텍·데이터센터 건설 현장을 방문했다. 지난 19~20일 강원 평창·강릉·동해와 21일 대구에 이어 나흘간"
+    },
+    {
+      "id": "7eacbd89cedf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"상품 분석·광고 검수\"…한국딥러닝, AI 에이전트 커머스 실증",
+      "link": "https://zdnet.co.kr/view/?no=20261022174208",
+      "published": "2026-10-22T08:42:08+00:00",
+      "summary": "[지디넷코리아]한국딥러닝이 인공지능(AI) 에이전트 활용 범위를 문서 처리에서 커머스 콘텐츠 제작으로 넓힌다. 상품정보 분석부터 광고 제작과 검수까지 연결해 기업의 수작업 부담을 줄일 수 있는지 검증한다는 구상이다. 한국딥러닝은 SK텔레콤과 '딥 에이전트'를 활용한 커머스 콘텐츠 제작 실증을 진행한다고 22일 밝혔다. 현재 부산창조경제혁신센터의 'SK텔레콤 스타트업 오픈이노베이션 챌린지 2026' 협업 과제로 추진하고 있다.이번 실증 핵심은 AI가 쇼핑몰 상품페이지에 담긴 이미지와 텍스트를 분석하"
+    },
+    {
+      "id": "c88934449673",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "published": "2026-10-22T08:41:18+00:00",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data th"
+    },
+    {
+      "id": "321d66f2d070",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216528",
+      "published": "2026-10-22T08:40:06+00:00",
+      "summary": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 '플로라(Flora)'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션 모델 개발과 물리적 AI 연구를 가속한다는 목표다.엔비디아는 20일(현지시간) 플로라를 공개하고, 모델 가중치를 허깅페이스에 배포했다.플로라는 엔비디아의 휴머노이드 로봇용 파운데이션 "
+    },
+    {
+      "id": "efcf439d757c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "크리에이터-브랜드 연결 플랫폼 선언 CJ온스타일 첫 페스타 'CCFK' 가보니",
+      "link": "https://zdnet.co.kr/view/?no=20261022164811",
+      "published": "2026-10-22T08:34:08+00:00",
+      "summary": "[지디넷코리아]CJ온스타일에서 판매하는 다양한 브랜드 제품을 직접 체험하고, 크리에이터와 브랜드가 새로운 협업 기회를 모색할 수 있는 자리가 마련됐다. 뷰티와 패션, 라이프스타일 등 100여 개 브랜드가 참여한 행사장에서는 소비자와 크리에이터를 연결하려는 CJ온스타일의 새로운 시도를 엿볼 수 있었다.22일 서울 코엑스에서 열린 '크리에이터 커머스 페스티벌 코리아 2026(CCFK)'는 CJ온스타일이 올해 처음 개최한 크리에이터 커머스 행사다. 오는 24일까지 사흘간 열리며, 크리에이터와 브랜드, "
+    },
+    {
+      "id": "9e749fc7369f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216544",
+      "published": "2026-10-22T08:30:49+00:00",
+      "summary": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은 20일(현지시간) 음성-텍스트 변환(STT)과 텍스트-음성 변환(TTS) 모델을 결합한 새로운 음성 AI 제품군 '복스트랄 3(Voxtral 3)"
+    },
+    {
+      "id": "b211b4fdb59f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216548",
+      "published": "2026-10-22T08:23:51+00:00",
+      "summary": "바이트댄스와 알리바바, 텐센트 등 중국 빅테크 기업들이 미국의 대중국 반도체 수출 규제가 이어지는 가운데 엔비디아의 신형 그래픽 카드 300만개 이상을 주문했다. 첨단 AI 칩을 확보하기 어려워지자, 상대적으로 성능이 낮지만 중국에 합법적으로 공급할 수 있는 제품으로 눈을 돌린 것이다. 다만 주문량이 엔비디아의 생산 능력을 크게 웃돌아 실제 공급 규모는 제한될 전망이다.로이터는 20일(현지시간) 정통한 소식통을 인용, 이들 기업이 엔비디아의 워크스테이션용 그래픽 카드 'RTX PRO 5500'을 "
+    },
+    {
+      "id": "42ae74b84805",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷마블, ‘나 혼자만 레벨업:어라이즈’ 2.5주년 업데이트 실시",
+      "link": "https://zdnet.co.kr/view/?no=20261022162627",
+      "published": "2026-10-22T08:20:01+00:00",
+      "summary": "[지디넷코리아]넷마블이 ‘나 혼자만 레벨업:어라이즈’ 출시 2.5주년을 맞아 신규 캐릭터와 전투 콘텐츠를 선보이고, 기념 보상을 제공한다.넷마블(대표 김병규)은 넷마블네오가 개발한 PC·모바일 액션 게임 ‘나 혼자만 레벨업:어라이즈’에 ‘BEYOND’ 업데이트를 진행했다고 22일 밝혔다.신규 SSR 헌터 ‘수호의 성벽 고건희’는 원작 캐릭터 고건희의 새로운 모습을 담은 수속성 버스터다. 현무의 힘으로 적을 타격하는 ‘산울림’, 청룡의 힘을 활용한 ‘용오름’, 일대를 무너뜨리는 버스트 스킬 ‘붕천파"
+    },
+    {
+      "id": "82a151d4ca9b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카스퍼스키 \"세계기업 75% 1년내 보안 기능 강화\"",
+      "link": "https://zdnet.co.kr/view/?no=20261022171458",
+      "published": "2026-10-22T08:14:58+00:00",
+      "summary": "[지디넷코리아]글로벌 사이버 보안기업 카스퍼스키(한국지사장 이효은)는 최근 자체 조사를 인용, 세계 기업의 75%가 향후 1년 내 IT 보안 기능을 강화할 계획이라고 22일 밝혔다. 사이버 위협 규모와 복잡성이 지속적으로 증가하면서 기업의 IT 보안 역량 강화가 중요한 과제로 부상했다. 이에, 숙련된 사이버 보안 인력 수요도 높아졌다. 반면 사이버보안 전문인력 부족 현상이 지속되면서 관련 분야의 인력난이 더욱 심화될 가능성도 제기된다고 설명했다.카스퍼스키 내부 시장조사센터가 18개국을 대상으로 실"
+    },
+    {
+      "id": "f55f7ba37859",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216549",
+      "published": "2026-10-22T08:12:39+00:00",
+      "summary": "앤트로픽이 기업용 AI 보안 시장 공략을 위해 코드 취약점 탐지와 수정 추적을 자동화하는 보안 분석 도구를 강화했다. 일회성 검사에서 벗어나 코드 변경에 맞춰 위험 요소를 지속적으로 점검하고, 기업 환경에 맞춰 대응 우선순위를 정하는 기능을 앞세웠다. 앤트로픽은 21일(현지시간) AI 기반 코드 보안 분석 도구 ‘클로드 시큐리티(Claude Security)’의 최신 버전을 공개 베타로 출시했다.코드 변경 사항을 지속적으로 분석하고 취약점이 해결됐는지 추적하는 기능을 강화했으며, 기업별 보안 정책"
+    },
+    {
+      "id": "dbf33da81f25",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216539",
+      "published": "2026-10-22T08:05:22+00:00",
+      "summary": "오픈AI가 '챗GPT' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제공 지역을 기존보다 26개국 늘려 전 세계 89개국으로 확대한다고 발표했다. 최근 유럽과 동남아시아, 대만으로 서비스를 확대한 데 이은 조치다.이번 확장으로 멕시코와 브라질에 이어 아르"
+    },
+    {
+      "id": "0de50b28a3f3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "순천만국가정원, 3년 연속 관람객 300만명 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216506",
+      "published": "2026-10-22T08:01:46+00:00",
+      "summary": "AI 생성 영상순천만국가정원이 올해도 관람객 300만명을 넘어섰다.순천시는 순천만국가정원 누적 관람객이 지난 18일 300만명을 돌파해 3년 연속 300만명 이상을 기록했다고 21일 밝혔다.순천은 2023 순천만국제정원박람회 이후에도 관람객 방문이 이어지고 있다고 설명했다. 순천만국가정원은 계절별 정원 경관과 함께 휴식·치유 공간으로 운영되고 있다.순천은 앞으로 생태를 기반으로 휴식과 치유, 교육, 문화 기능을 강화하고 체류형 콘텐츠를 확대할 계획이다. 지역 상권과 연계해 국가정원을 찾은 방문객의"
+    },
+    {
+      "id": "369d0e9b2f59",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216533",
+      "published": "2026-10-22T08:00:00+00:00",
+      "summary": "■ 모빌린트(대표 신동주)는 LG전자와 휴머노이드 로봇용 신경망처리장치(NPU)와 AI 컴퓨팅 플랫폼을 개발한다고 밝혔다. 이번 사업은 산업통상부 ‘K-온디바이스 AI 반도체 기술개발사업'의 일환으로 진행된다. 모빌린트는 주관연구개발기관으로 NPU와 모듈, 소프트웨어를 통합한 컴퓨팅 플랫폼 개발을 담당한다. 개발된 플랫폼은 LG전자의 일상공간용 휴머노이드 환경과 연계해 단계적으로 검증할 예정이다.■ 네이버(대표 최수연)는 한국도로공사·카카오모빌리티·티맵모빌리티 등과 '민·관 교통안전 데이터 공유 "
+    },
+    {
+      "id": "38962edc21c8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216541",
+      "published": "2026-10-22T07:58:45+00:00",
+      "summary": "해커들이 앤트로픽의 '클로드'와 스페이스X의 '그록' 등 여러 상용 AI 모델을 결합해 중남미 금융기관 400여곳을 대상으로 사이버 공격을 자동화한 것으로 드러났다. AI 에이전트들이 표적 정보를 수집하고 공격을 계획·실행하는 방식으로 비밀번호와 고객 데이터를 탈취하고 은행 계좌에 접근한 것으로 조사됐다.사이버보안 스타트업 스트레이커(Straiker)는 20일(현지시간) 해킹 그룹 '사이버카르텔(CyberCartel)'의 내부 운영 정보와 공격 기록을 분석한 결과, 이 같은 사실을 확인했다고 밝혔"
+    },
+    {
+      "id": "94af50f4c561",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수 ‘2026 문화의 달’ 마무리…도심·해양공원·섬서 문화행사",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216495",
+      "published": "2026-10-22T07:50:00+00:00",
+      "summary": "AI 생성 영상여수시 곳곳에서 나흘간 진행된 ‘2026 문화의 달’ 행사가 지난 19일 막을 내렸다.여수는 지난 16일부터 19일까지 여수세계섬박람회 주행사장과 종포해양공원, 웅천친수공원, 장도 등에서 공연과 시민 참여형 문화예술 프로그램을 운영했다고 밝혔다.17일 여수세계섬박람회 주행사장에서는 문화의 달 기념식과 함께 여수의 지역적 특색을 담은 주제공연이 열렸다. 서도밴드와 솔라, 자이언티 등도 무대에 올랐다.종포해양공원에서는 빛 조형물과 버스킹, 지역예술가 참여 프로그램을 결합한 해양거리예술제"
+    },
+    {
+      "id": "aa84ea04b348",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "나주, 치매안심돌봄학교서 가을소풍…숲길 걷기·문화공연 진행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216492",
+      "published": "2026-10-22T07:45:00+00:00",
+      "summary": "AI 생성 영상나주가 숲속치매안심돌봄학교 참여 어르신과 가족을 대상으로 가을소풍을 운영했다.나주는 지난 13일과 20일 이틀간 ‘2026년 숲속치매안심돌봄학교’ 참여자를 대상으로 ‘추억의 교복DAY’ 가을소풍을 진행했다고 밝혔다.행사에는 돌봄학교 참여 노인과 가족, 자원봉사자, 협업기관 관계자 등 200여명이 참여했다. 참가자들은 옛 교복을 입고 사진을 촬영하고 가을 숲길을 함께 걸으며 신체·인지 활동과 문화 프로그램에 참여했다.곡성문화원 할머니인형극단 ‘민들레’는 ‘심청전’ 인형극을 선보였으며,"
+    },
+    {
+      "id": "d1f9a3a7a6f3",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "🚨 전세계가 난리난 PHP 보안사고",
+      "link": "https://www.youtube.com/shorts/6BNrU-nXJSA",
+      "published": "2026-10-22T07:30:06+00:00",
+      "summary": ""
+    },
+    {
+      "id": "acdaabae42f9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "신입이 취업 못 하는 진짜 이유는 따로 있다??",
+      "link": "https://www.youtube.com/shorts/JqWXVw8hB0w",
+      "published": "2026-10-22T06:00:37+00:00",
+      "summary": ""
+    },
     {
       "id": "3c9e94a66e6c",
       "source": "AI타임스",
@@ -201,6 +498,17 @@
       "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 288 # Comments: 138"
     },
     {
+      "id": "420968b05ee3",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published": "2026-10-21T22:51:31+00:00",
+      "summary": ""
+    },
+    {
       "id": "e5c54262155d",
       "source": "TechCrunch",
       "kind": "article",
@@ -320,6 +628,17 @@
       "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
       "published": "2026-10-21T21:48:52+00:00",
       "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage."
+    },
+    {
+      "id": "3f9a12e53412",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "1억 명이 매일 여는 날씨 앱의 비결",
+      "link": "https://www.youtube.com/shorts/ZGlYMc5vT_A",
+      "published": "2026-10-21T21:45:20+00:00",
+      "summary": ""
     },
     {
       "id": "547f88304012",
