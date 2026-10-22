@@ -1,7 +1,161 @@
 {
-  "updated_at": "2026-10-22T19:01:03.199084+00:00",
-  "count": 17034,
+  "updated_at": "2026-10-22T22:18:44.813320+00:00",
+  "count": 17059,
   "items": [
+    {
+      "id": "8a9f83e0478b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "2026-10-22T22:08:24+00:00",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the mostly highly valued private company ever."
+    },
+    {
+      "id": "57f1185c032b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216515",
+      "published": "2026-10-22T22:00:00+00:00",
+      "summary": "테슬라와 스페이스X의 합병이 본격적으로 논의되고 있습니다. 두 회사는 각각 독립 이사들로 구성된 특별위원회를 설치했으며, 일론 머스크 CEO도 합병에 상당한 장점이 있다고 밝혔습니다. 양사의 기업가치를 합치면 3조5000억달러(약 4634조원)에 달하는 초대형 기업이 탄생하게 됩니다. 월가에서는 합병을 기정사실로 보는 분위기지만, 정작 합병 가격을 놓고는 의견이 엇갈리고 있습니다. 테슬라 주주들에게 얼마나 많은 대가를 지급할 것인지, 머스크의 지배력이 얼마나 커질 것인지가 주요 쟁점입니다.하지만 "
+    },
+    {
+      "id": "2ad477e8fba7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "published": "2026-10-22T21:51:25+00:00",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing"
+    },
+    {
+      "id": "4a11d810e17e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "published": "2026-10-22T21:17:29+00:00",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, lar"
+    },
+    {
+      "id": "de384f2d477b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fall 2026 earnings watch",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "published": "2026-10-22T21:15:16+00:00",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for "
+    },
+    {
+      "id": "8f865127b19d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "published": "2026-10-22T21:05:05+00:00",
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator."
+    },
+    {
+      "id": "b6245c3993b8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "published": "2026-10-22T20:32:05+00:00",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your product"
+    },
+    {
+      "id": "a2c59c18699b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "published": "2026-10-22T20:24:04+00:00",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan applicati"
+    },
+    {
+      "id": "0181ab9a9ca2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "published": "2026-10-22T20:23:48+00:00",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they c"
+    },
+    {
+      "id": "2be492bd0bdf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "link": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+      "published": "2026-10-22T20:05:51+00:00",
+      "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem."
+    },
+    {
+      "id": "61f6fe0c6c38",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "published": "2026-10-22T19:56:32+00:00",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”"
+    },
+    {
+      "id": "04b94ac91823",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "published": "2026-10-22T19:45:00+00:00",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to"
+    },
+    {
+      "id": "7412790b08ac",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+      "published": "2026-10-22T19:13:42+00:00",
+      "summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of Brit"
+    },
+    {
+      "id": "1d422f0ef052",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "published": "2026-10-22T19:07:09+00:00",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+    },
     {
       "id": "b75b0eb02f84",
       "source": "TechCrunch",
@@ -12,6 +166,17 @@
       "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "published": "2026-10-22T19:00:00+00:00",
       "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    },
+    {
+      "id": "d51e5f125a8c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     },
     {
       "id": "7a3f3f8eac56",
@@ -69,6 +234,17 @@
       "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communi"
     },
     {
+      "id": "44df2502e814",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "어드벤트, 아부다비 사무소 개설로 글로벌 입지 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261023031002",
+      "published": "2026-10-22T18:10:02+00:00",
+      "summary": "[지디넷코리아]아부다비, 아랍에미리트, 2026년 10월 22일 /PRNewswire/ -- 선도적인 글로벌 사모펀드 투자사 어드벤트(Advent)가 오늘 아랍에미리트 수도 아부다비의 국제금융센터인 ADGM에 새로운 사무소를 개설하면서 글로벌 네트워크를 중동으로 확대했다고 발표했다. 이번 사무소 개설은 어드벤트가 중동 전역에서 오랫동안 구축해 온 관계를 바탕으로 이뤄졌으며, 새로운 사무소를 현지 거점으로 삼아 투자자와의 협력을 강화하고 기존 포트폴리오 기업을 지원하는 한편, 잠재적인 투자 기회를 "
+    },
+    {
       "id": "0b5df85446d1",
       "source": "The Verge",
       "kind": "article",
@@ -89,6 +265,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
       "published": "2026-10-22T18:00:00+00:00",
       "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose con"
+    },
+    {
+      "id": "f63334201e79",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "published": "2026-10-22T17:44:06+00:00",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 225 # Comments: 120"
     },
     {
       "id": "a86d8b2fd017",
@@ -190,6 +377,17 @@
       "summary": "Apple’s Mac Mini M4 is one of the best mini computers you can buy, and it’s $150 off. While it’s a good deal on a new, older-generation model, it’s more expensive than it was at launch."
     },
     {
+      "id": "4b8ad8baf6d2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "published": "2026-10-22T15:26:22+00:00",
+      "summary": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 269 # Comments: 97"
+    },
+    {
       "id": "73a823a5f96f",
       "source": "Wired",
       "kind": "article",
@@ -199,6 +397,28 @@
       "link": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
       "published": "2026-10-22T15:14:37+00:00",
       "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off."
+    },
+    {
+      "id": "fd1c28b22c9b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아클린, Nomex® 제조 능력의 전략적 확대 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261023001014",
+      "published": "2026-10-22T15:10:14+00:00",
+      "summary": "[지디넷코리아] 아스투리아스에 수백만 달러 투자해 공급망 회복력 강화하고 항공우주, 전력 인프라, 전기차, 방위 산업 및 기타 핵심 시장의 Nomex® 종이 수요 증가 뒷받침 알파레타, 조지아, 2026년 10월 22일 /PRNewswire/ -- 선도적인 소재 과학 기업 아클린(Arclin)이 스페인 아스투리아스 공장의 플록(floc) 생산능력을 확대하기 위해 수백만 달러를 투자한다고 이날 발표했다. 이번 투자는 Nomex® 사업의 장기적인 성장에 투자하고 전 세계 고객에 대한 공급을 강화하려는"
+    },
+    {
+      "id": "7ccbfcfb8a89",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "테라코스, 코르티코스테로이드에 충분히 반응하지 않는 환자의 면역 관련 이상반응 치료를 위한 유럽 MDR 승인 획득",
+      "link": "https://zdnet.co.kr/view/?no=20261023001004",
+      "published": "2026-10-22T15:10:04+00:00",
+      "summary": "[지디넷코리아] 더블린, 2026년 10월 22일 /PRNewswire/ -- 체외광분반술(extracorporeal photopheresis, ECP)을 통해 환자 곁에서 시행하는 면역조절 치료 분야의 글로벌 선도 기업 테라코스 디벨롭먼트(Therakos Development Limited)가 THERAKOS™ CELLEX™ 광분반술 시스템의 적응증 확대에 대해 EU MDR에 따른 인증을 받았다고 오늘 발표했다. 이에 따라 이 시스템은 유럽에서 코르티코스테로이드에 충분히 반응하지 않는 성인 환자"
     },
     {
       "id": "dc39a084c6c3",
@@ -234,6 +454,28 @@
       "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028."
     },
     {
+      "id": "7c41edd2147a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "published": "2026-10-22T14:32:38+00:00",
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 830 # Comments: 311"
+    },
+    {
+      "id": "30ed41d1f7cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "테슬라, 차 팔아 남기는 몫 늘었는데…영업이익은 반토막",
+      "link": "https://zdnet.co.kr/view/?no=20261022232504",
+      "published": "2026-10-22T14:32:20+00:00",
+      "summary": "[지디넷코리아]테슬라가 자동차 사업 수익성을 개선하고도 미래 사업에 쏟는 비용이 늘면서 이익 방어에 실패했다. 인공지능(AI)·로봇 전환에 드는 비용 부담으로 올해 3분기 영업이익이 반토막 났다.테슬라는 21일(현지시간) 발표한 3분기 실적 자료에서 매출 280억 4600만 달러, 영업이익 7억 1800만 달러를 기록했다고 밝혔다. 매출은 지난해 같은 기간과 비슷했지만 영업이익은 56% 감소했다. 영업이익률은 5.8%에서 2.6%로 낮아졌다.자동차 사업에서는 판매량 감소와 마진 개선이 동시에 나타"
+    },
+    {
       "id": "c8c57c740639",
       "source": "Google DeepMind",
       "kind": "article",
@@ -254,6 +496,17 @@
       "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
       "published": "2026-10-22T14:24:49+00:00",
       "summary": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much wider"
+    },
+    {
+      "id": "7708804a4c6f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "published": "2026-10-22T14:08:12+00:00",
+      "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 311 # Comments: 147"
     },
     {
       "id": "57a7da53744a",
@@ -289,6 +542,17 @@
       "summary": "Claude Duet is available through waitlist for Pro and Max plan users"
     },
     {
+      "id": "81f01fc432d3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "published": "2026-10-22T13:33:39+00:00",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 861 # Comments: 594"
+    },
+    {
       "id": "adabea6b4105",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -320,6 +584,17 @@
       "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
       "published": "2026-10-22T13:20:37+00:00",
       "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of wha"
+    },
+    {
+      "id": "d3f90a44c24c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "published": "2026-10-22T13:11:00+00:00",
+      "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 345 # Comments: 324"
     },
     {
       "id": "2e308748fb2a",
