@@ -1,7 +1,139 @@
 {
-  "updated_at": "2026-10-21T21:41:02.758590+00:00",
-  "count": 16913,
+  "updated_at": "2026-10-22T00:14:17.432938+00:00",
+  "count": 16929,
   "items": [
+    {
+      "id": "4b9d45be77a3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] 그냥 Postgres를 쓰세요",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216345",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "그냥 Postgres를 쓰세요이매뉴얼 트러머 | 에이콘출판사2026년 8월 20일추천이유이 책은 PostgreSQL이 관계형 데이터베이스를 넘어 JSON, 벡터 검색, 시계열 데이터 등 현대 애플리케이션의 다양한 워크로드를 감당할 수 있음을 실제 예제로 보여줍니다. 개발자가 기술 스택을 늘리기 전에 Postgres의 가능성을 먼저 확인하고 실무에서 효과적으로 활용하도록 돕습니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로,"
+    },
+    {
+      "id": "e9aea9bd611b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+      "published": "2026-10-21T23:36:31+00:00",
+      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to "
+    },
+    {
+      "id": "e5c54262155d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "published": "2026-10-21T22:51:22+00:00",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "id": "2a29adba9ad9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "published": "2026-10-21T22:45:34+00:00",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+    },
+    {
+      "id": "529abf5a2ecf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "published": "2026-10-21T22:39:50+00:00",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put."
+    },
+    {
+      "id": "eb652e4d458c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Data centers could erase decades of air quality gains",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "published": "2026-10-21T22:33:44+00:00",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How de"
+    },
+    {
+      "id": "687ce540c5d7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "published": "2026-10-21T22:16:05+00:00",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores."
+    },
+    {
+      "id": "d314eed63aa9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월21일] 코어위브 위기에 젠슨 황이 직접 나선 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216463",
+      "published": "2026-10-21T22:00:00+00:00",
+      "summary": "지난주 AI 산업의 부채 문제가 불거지면서 세계 금융시장이 흔들렸습니다. 특히 AI 클라우드 업체 코어위브의 주가와 채권 가격이 급락하면서 AI 인프라 투자에 대한 경고가 쏟아졌습니다. 그런데 이 과정에서 눈길을 끈 인물은 코어위브 경영진이 아닌 젠슨 황 엔비디아 CEO였습니다.그는 지난 15일(현지시간) 스웨덴 스톡홀름에서 코어위브의 재무 상태가 매일 개선되고 있다며 투자자들을 안심시켰습니다. 다음 날 독일 베를린에서도 AI 시장의 혼란에 대해 \"이 모든 것은 지나갈 것\"이라며 낙관적인 전망을 "
+    },
+    {
+      "id": "bce7f9143cc1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Railway Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "published": "2026-10-21T21:58:03+00:00",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 246 # Comments: 111"
+    },
+    {
+      "id": "e39d3c9c610b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+      "link": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+      "published": "2026-10-21T21:57:22+00:00",
+      "summary": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating."
+    },
+    {
+      "id": "b56242a544ae",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "published": "2026-10-21T21:48:52+00:00",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage."
+    },
+    {
+      "id": "547f88304012",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla profits drop 43% in Q3",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "published": "2026-10-21T21:35:07+00:00",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026."
+    },
     {
       "id": "7af5d795af60",
       "source": "The Verge",
@@ -23,6 +155,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216500",
       "published": "2026-10-21T21:25:06+00:00",
       "summary": "오픈AI가 구글 클라우드를 통해 최신 AI 모델과 코딩 에이전트 ‘코덱스’를 판매한다. 챗GPT와 제미나이로 경쟁하는 두 회사가 기업 시장에서는 판매 협력에 나선 것이다. 오픈AI는 구글의 기업 고객에게 접근할 통로를 확보하고, 구글은 자사 모델뿐 아니라 경쟁사 모델을 원하는 고객까지 클라우드에 붙잡아 두겠다는 전략이다.양사는 21일(현지시간) 공식 발표를 통해 오픈AI의 첨단 모델과 '코덱스'를 구글 클라우드의 AI 모델 제공 플랫폼 ‘모델 가든’에 도입한다고 밝혔다. 일부 기업 고객을 대상으로"
+    },
+    {
+      "id": "fe489e3b9b47",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "통신비 두번 올린 美AT&T, 3분기 매출 5.3% 증가",
+      "link": "https://zdnet.co.kr/view/?no=20261022061549",
+      "published": "2026-10-21T21:15:49+00:00",
+      "summary": "[지디넷코리아]미국 통신사 AT&T가 올해 두 차례 무선통신 요금을 인상한 가운데 3분기 매출이 전년 동기 대비 5.3% 증가했다. 기존 가입자에 대한 요금 조정과 광인터넷 사업 확장이 매출 성장을 뒷받침했다.AT&T는 21일(현지시간) 3분기 매출 323억 달러, 조정 주당순이익(EPS) 0.65달러를 기록했다고 발표했다. 매출은 지난해 같은 기간 307억 달러보다 16억 달러 늘었고, 조정 주당순이익은 0.54달러에서 약 20% 증가했다.AT&T는 지난 4월 일부 구형 무제한 요금제의 월 이용"
     },
     {
       "id": "9b366c7063a2",
@@ -212,6 +355,17 @@
       "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Ama"
     },
     {
+      "id": "b1aa2102f34f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "published": "2026-10-21T19:14:01+00:00",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 291 # Comments: 248"
+    },
+    {
       "id": "cb6dedd4c6c1",
       "source": "TechCrunch",
       "kind": "article",
@@ -232,6 +386,17 @@
       "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
       "published": "2026-10-21T19:02:49+00:00",
       "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f"
+    },
+    {
+      "id": "aeeee71db11d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitLab Critical Patch Release",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "published": "2026-10-21T19:01:12+00:00",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 225 # Comments: 53"
     },
     {
       "id": "6c506226eb40",
@@ -320,6 +485,17 @@
       "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "published": "2026-10-21T17:59:12+00:00",
       "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "id": "11fd72f93ab4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "published": "2026-10-21T17:45:13+00:00",
+      "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 317 # Comments: 194"
     },
     {
       "id": "b446e73bd3ee",
