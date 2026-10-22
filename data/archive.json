@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-10-22T14:49:34.843472+00:00",
-  "count": 17011,
+  "updated_at": "2026-10-22T19:01:03.199084+00:00",
+  "count": 17034,
   "items": [
+    {
+      "id": "b75b0eb02f84",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    },
+    {
+      "id": "7a3f3f8eac56",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Foundations of Scalable AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "published": "2026-10-22T18:48:04+00:00",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated"
+    },
+    {
+      "id": "a17467c64485",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "published": "2026-10-22T18:43:53+00:00",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
+    },
+    {
+      "id": "77ceee47df66",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "published": "2026-10-22T18:38:47+00:00",
+      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
+    },
+    {
+      "id": "b990e6d53b1d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+      "link": "https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update",
+      "published": "2026-10-22T18:30:00+00:00",
+      "summary": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pokémon DLC experiences, and a new UI that was buil"
+    },
+    {
+      "id": "8d55a6ef2dc3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "published": "2026-10-22T18:15:00+00:00",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communi"
+    },
+    {
+      "id": "0b5df85446d1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
+      "link": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
+      "published": "2026-10-22T18:07:02+00:00",
+      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the acci"
+    },
+    {
+      "id": "711975d102bd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "published": "2026-10-22T18:00:00+00:00",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose con"
+    },
+    {
+      "id": "a86d8b2fd017",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
+      "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
+      "published": "2026-10-22T17:42:52+00:00",
+      "summary": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I t"
+    },
+    {
+      "id": "ac81d02b0227",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "published": "2026-10-22T17:21:31+00:00",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped mak"
+    },
+    {
+      "id": "9a391375183c",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published": "2026-10-22T17:21:30+00:00",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog"
+    },
+    {
+      "id": "aafad3221e33",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "published": "2026-10-22T17:04:31+00:00",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen."
+    },
+    {
+      "id": "38435b404b4a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Arc browser is shutting down",
+      "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+      "published": "2026-10-22T17:03:37+00:00",
+      "summary": "The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. "
+    },
+    {
+      "id": "a015b08fddf3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "published": "2026-10-22T16:47:17+00:00",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+    },
+    {
+      "id": "ac2a5a50847e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "published": "2026-10-22T16:00:00+00:00",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+    },
+    {
+      "id": "9af0ab84dcf8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla is prepping a Cybercab onslaught",
+      "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "published": "2026-10-22T15:44:39+00:00",
+      "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides."
+    },
+    {
+      "id": "b794893a403f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Save $150 on the Apple Mac Mini M4, but There’s a Catch",
+      "link": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+      "published": "2026-10-22T15:30:31+00:00",
+      "summary": "Apple’s Mac Mini M4 is one of the best mini computers you can buy, and it’s $150 off. While it’s a good deal on a new, older-generation model, it’s more expensive than it was at launch."
+    },
+    {
+      "id": "73a823a5f96f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
+      "link": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
+      "published": "2026-10-22T15:14:37+00:00",
+      "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off."
+    },
+    {
+      "id": "dc39a084c6c3",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The last real programmers are dying out...",
+      "link": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "published": "2026-10-22T15:09:31+00:00",
+      "summary": ""
+    },
+    {
+      "id": "234c0358cf8c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "published": "2026-10-22T15:03:58+00:00",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
+    },
+    {
+      "id": "4d0055be8475",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "published": "2026-10-22T14:59:28+00:00",
+      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028."
+    },
     {
       "id": "c8c57c740639",
       "source": "Google DeepMind",
@@ -56,6 +287,17 @@
       "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "published": "2026-10-22T13:53:26+00:00",
       "summary": "Claude Duet is available through waitlist for Pro and Max plan users"
+    },
+    {
+      "id": "adabea6b4105",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "순찰로봇부터 폐쇄망용 초경량 AI까지…기술기업 8사 8색 '눈길'",
+      "link": "https://zdnet.co.kr/view/?no=20261022173407",
+      "published": "2026-10-22T13:29:42+00:00",
+      "summary": "[지디넷코리아]경찰청, 인천광역시 주최로 21~24일 인천 송도컨벤시아에서 열린 '제8회 국제치안산업대전'에서는 인공지능(AI)과 로봇을 앞세운 치안 기술, 솔루션이 대거 등장했다.순찰로봇이 화재와 쓰러짐을 감지해 관제센터에 알리고, 영상분석 AI가 얼굴을 인식해 군중 속에서 실종자를 재빠르게 찾는다. AI 감식 기술로 사건 현장을 3차원으로 복원하고, 외부망과 분리된 폐쇄망에서 작동하는 소형 AI는 대규모의 서버 없이도 정확한 판단을 내릴 수 있다.참관객들은 이들 기술 기업의 홍보 부스에서 발걸"
     },
     {
       "id": "be3f252bec10",
@@ -594,6 +836,17 @@
       "title": "🚨 전세계가 난리난 PHP 보안사고",
       "link": "https://www.youtube.com/shorts/6BNrU-nXJSA",
       "published": "2026-10-22T07:30:06+00:00",
+      "summary": ""
+    },
+    {
+      "id": "8d502ff25183",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "published": "2026-10-22T07:11:31+00:00",
       "summary": ""
     },
     {
