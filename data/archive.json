@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-22T22:18:44.813320+00:00",
-  "count": 17059,
+  "updated_at": "2026-10-23T00:47:43.544915+00:00",
+  "count": 17074,
   "items": [
+    {
+      "id": "1f7d917e6d53",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "published": "2026-10-23T00:45:37+00:00",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+    },
+    {
+      "id": "a21e0d35f4a9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Etsy is cracking down on AI slop listings",
+      "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "published": "2026-10-23T00:09:58+00:00",
+      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your wo"
+    },
+    {
+      "id": "088f1a49dcf2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] 클로드 코드로 완성하는 에이전틱 코딩 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216346",
+      "published": "2026-10-23T00:00:00+00:00",
+      "summary": "클로드 코드로 완성하는 에이전틱 코딩 자동화오사와 후미타카 | 위키북스2026년 10월 7일추천이유이 책은 Claude Code를 실제 업무에 안전하게 활용하는 방법을 제시하며, 명세와 테스트를 통해 AI 결과물을 검증하는 개발 프로세스를 제안합니다. 초보 개발자부터 경험자까지 Docker, TDD, 권한 관리 등을 실습하며 AI와 사람의 역할을 명확히 구분하는 법을 배울 수 있습니다.상세보기 위키북스가 지난 7일 『클로드 코드로 완성하는 에이전틱 코딩 자동화』(오사와 후미타카 지음, 최용 옮김)"
+    },
+    {
+      "id": "146b542bc2a5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "published": "2026-10-22T23:50:41+00:00",
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
+    },
+    {
+      "id": "0e54f99832ee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "published": "2026-10-22T23:15:00+00:00",
+      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
+    },
+    {
+      "id": "913b83884bf6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀄컴이 닦은 길에 엔비디아 진입...Arm 윈도 PC 경쟁 본격화",
+      "link": "https://zdnet.co.kr/view/?no=20261022155356",
+      "published": "2026-10-22T23:00:03+00:00",
+      "summary": "[지디넷코리아]지난 9년간 Arm 기반 윈도 PC 시장을 사실상 독점해 온 퀄컴이 강력한 경쟁자를 맞았다. 엔비디아가 GPU 기술력을 앞세운 'RTX 스파크'를 정식 출시하면서다.퀄컴은 마이크로소프트와 함께 소프트웨어 호환성 문제를 해결하고 Arm 기반 PC 생태계를 구축해 왔다. 특히 자체 설계한 오라이언 CPU를 탑재한 스냅드래곤 X 엘리트로 Arm 기반 윈도 PC의 성능을 한 단계 끌어올렸다.엔비디아는 이렇게 구축된 생태계에 PC와 서버 시장에서 검증된 블랙웰 GPU를 앞세워 진입했다. CP"
+    },
+    {
+      "id": "d2affd84160e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "published": "2026-10-22T23:00:00+00:00",
+      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second "
+    },
+    {
+      "id": "91789f5929f5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[1보] SK하이닉스 \"솔리다임 프리IPO·IPO 검토 중단\"",
+      "link": "https://zdnet.co.kr/view/?no=20261023073816",
+      "published": "2026-10-22T22:39:20+00:00",
+      "summary": "[지디넷코리아]SK하이닉스가 손자회사 솔리다임 프리 기업공개(IPO)와 기업공개 검토를 중단한다고 23일 밝혔다. SK하이닉스는 \"솔리다임 성장 가능성이나 투자 필요성이 달라졌기 때문은 아니다\"면서도 \"최근 자본시장 여건과 주가흐름 등을 고려할 때, 현재 IPO가 SK하이닉스와 기존 주주에게 가장 유리한 선택인지 재검토할 필요가 있다고 판단했다\"고 설명했다. 최근 국회 정무위원회 국정감사에서 이찬진 금융감독원장과 이억원 금융위원장 등이 SK하이닉스의 솔리다임 상장 추진과 관련해 중복상장 규제 대상"
+    },
     {
       "id": "8a9f83e0478b",
       "source": "TechCrunch",
@@ -36,6 +124,17 @@
       "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing"
     },
     {
+      "id": "f00595724c50",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "published": "2026-10-22T21:24:41+00:00",
+      "summary": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 270 # Comments: 114"
+    },
+    {
       "id": "4a11d810e17e",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -56,6 +155,17 @@
       "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
       "published": "2026-10-22T21:15:16+00:00",
       "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for "
+    },
+    {
+      "id": "6b719d8977a5",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "published": "2026-10-22T21:07:09+00:00",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base."
     },
     {
       "id": "8f865127b19d",
@@ -344,6 +454,39 @@
       "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
     },
     {
+      "id": "6e2217ce780f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "published": "2026-10-22T16:27:47+00:00",
+      "summary": "Article URL: https://arc.net/ Comments URL: https://news.ycombinator.com/item?id=50197601 Points: 225 # Comments: 204"
+    },
+    {
+      "id": "bc4a880bf4da",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "published": "2026-10-22T16:14:31+00:00",
+      "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 220 # Comments: 83"
+    },
+    {
+      "id": "51c1377dd682",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "published": "2026-10-22T16:08:00+00:00",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 219 # Comments: 264"
+    },
+    {
       "id": "ac2a5a50847e",
       "source": "TechCrunch",
       "kind": "article",
@@ -386,6 +529,17 @@
       "link": "https://github.com/oosexgang/hackios-xnu-kernel",
       "published": "2026-10-22T15:26:22+00:00",
       "summary": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 269 # Comments: 97"
+    },
+    {
+      "id": "62617f48c02d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "published": "2026-10-22T15:26:22+00:00",
+      "summary": "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 316 # Comments: 120"
     },
     {
       "id": "73a823a5f96f",
@@ -573,6 +727,17 @@
       "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
       "published": "2026-10-22T13:26:52+00:00",
       "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+    },
+    {
+      "id": "ed98a2f31f46",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "2026-10-22T13:24:34+00:00",
+      "summary": ""
     },
     {
       "id": "8d9ade445ef1",
