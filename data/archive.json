@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-10-23T19:28:36.681431+00:00",
-  "count": 17151,
+  "updated_at": "2026-10-23T22:31:08.012031+00:00",
+  "count": 17164,
   "items": [
+    {
+      "id": "94a541ac4e64",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216572",
+      "published": "2026-10-23T22:00:00+00:00",
+      "summary": "AI를 구동하는 컴퓨팅 자원이 석유처럼 금융시장에서 거래되는 시대가 다가오고 있습니다. GPU를 빌리는 가격에 이어 챗GPT와 클로드 같은 AI 모델을 기업이 사용할 때 내는 토큰 요금까지 새로운 금융상품의 기준으로 삼으려는 움직임입니다. 컴퓨팅이 AI 산업의 핵심 자원으로 자리 잡으면서, 가격 변동에 따른 위험을 줄이기 위한 시장이 생겨나고 있습니다.월스트리트저널(WSJ)은 22일(현지시간) 미국 스타트업 실리콘 데이터(Silicon Data)의 카르멘 리 창업자가 세계 최대 파생상품 거래소 운"
+    },
+    {
+      "id": "f2e82e75b81a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published": "2026-10-23T21:59:19+00:00",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
+    {
+      "id": "a88455976dfe",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "published": "2026-10-23T21:39:26+00:00",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft b"
+    },
+    {
+      "id": "14588855fe3c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "published": "2026-10-23T21:11:07+00:00",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk o"
+    },
+    {
+      "id": "a1e6963f5324",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+      "published": "2026-10-23T20:28:43+00:00",
+      "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations."
+    },
+    {
+      "id": "60e74795d867",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "published": "2026-10-23T20:19:55+00:00",
+      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting."
+    },
+    {
+      "id": "3445bee08952",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "published": "2026-10-23T19:32:39+00:00",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared b"
+    },
     {
       "id": "c8ecda615fb1",
       "source": "TechCrunch",
@@ -91,6 +168,17 @@
       "summary": "Sound designer lets Half Life-related codename slip at a conference."
     },
     {
+      "id": "c6e9a21b486f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "백업만 믿다 150억 날린 제약사…에브리존 \"랜섬웨어, 단말에서 막아야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024011940",
+      "published": "2026-10-23T16:26:56+00:00",
+      "summary": "[지디넷코리아]김준영 에브리존 전략사업본부 총괄 팀장이 23일 \"지금은 랜섬웨어에 감염되면 개인정보와 기밀 정보까지 유출된다고 봐야 한다\"고 말했다. 랜섬웨어 피해를 방지하기 위해서는 방산 업체가 기술 유출과 업무 중단을 함께 막는 보안 체계를 갖춰야 한다고 제안했다.김 팀장은 이날 방산기술보호·보안협의회가 주최한 '2026 AI기반 방산기술보호 컨퍼런스'에서 'AI 시대의 랜섬웨어: 탐지에서 차단과 복구로'를 주제로 발표했다.에브리존은 한국인터넷진흥원(KISA) 자료를 인용해 국내 랜섬웨어 신고"
+    },
+    {
       "id": "2986f76ed00b",
       "source": "TechCrunch",
       "kind": "article",
@@ -124,6 +212,17 @@
       "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
     },
     {
+      "id": "2eaae9f3cd9e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "황인봉 방산기술보호·보안협의회장 \"AI 공격엔 AI로 대응\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024005020",
+      "published": "2026-10-23T15:59:18+00:00",
+      "summary": "[지디넷코리아]황인봉 방산기술보호·보안협의회장이 23일 \"AI를 이용한 공격에는 AI 기반의 지능형 탐지와 대응이 필요하다\"고 말했다. 또 \"사후 대응에서 벗어나 위협을 사전에 차단하는 능동적 보안 체계로 전환해야 한다\"고 강조했다.황 회장은 이날 서울 용산구 국방컨벤션에서 개최한 '2026 AI기반 방산기술보호 컨퍼런스'에서 이같이 말했다.방보협이 주최한 행사로, 방산기술 보호, 드론과 대드론, 문서와 사이버 보안을 주제로 3부에 걸쳐 진행했다. 한국방위산업진흥회, 한국기업보안협의회, 명지대 방"
+    },
+    {
       "id": "0532ba1fec4b",
       "source": "The Verge",
       "kind": "article",
@@ -133,6 +232,28 @@
       "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
       "published": "2026-10-23T15:24:45+00:00",
       "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Mot"
+    },
+    {
+      "id": "9603305da83e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘, 2026년 11월 5일 3분기 재무 결과 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261024001013",
+      "published": "2026-10-23T15:10:13+00:00",
+      "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 10월 23일 /PRNewswire/ -- 퀀티넘(Quantinuum Inc.)(나스닥: QNT)이 2026년 9월 30일 마감한 3분기 재무 실적을 2026년 11월 5일 장 마감 후 발표한다고 밝혔다. 퀀티넘은 같은 날 미국 동부시간 오후 5시에 콘퍼런스콜을 열고 재무 실적을 설명할 예정이다. 콘퍼런스콜은 여기에서 실시간 웹캐스트로 청취할 수 있다. 웹캐스트 녹화본은 콘퍼런스콜 종료 후 퀀티넘 투자자 관계(Quantinuum Investor Re"
+    },
+    {
+      "id": "12e0bcaef649",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "선미, 지능형 커머스를 위한 컴퓨팅 선택의 폭을 넓히는 Windows 상업용 제품군 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261024001003",
+      "published": "2026-10-23T15:10:03+00:00",
+      "summary": "[지디넷코리아]싱가포르, 2026년 10월 23일 /PRNewswire/ -- 선미 테크놀로지(SUNMI Technology, 06810.HK)가 오늘 선미 개발자 콘퍼런스 2026(SUNMI Developer Conference 2026, SDC 2026)에서 새로운 Windows 상업용 제품군을 공개했다. 이번 제품군은 18.5인치, 21.5인치, 27인치 모델로 구성된 FLEX 3 WIN과 T3 PRO WIN, T3 PRO MAX WIN으로 이뤄졌다. 이번 출시는 선미가 2013년 이후 처음"
     },
     {
       "id": "3253b1f47950",
@@ -872,6 +993,17 @@
       "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 233 # Comments: 129"
     },
     {
+      "id": "26082c0790c0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "published": "2026-10-22T22:43:19+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill Comments URL: https://news.ycombinator.com/item?id=50202114 Points: 253 # Comments: 121"
+    },
+    {
       "id": "91789f5929f5",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -1475,6 +1607,17 @@
       "link": "https://pwn.watch/",
       "published": "2026-10-22T14:08:12+00:00",
       "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 311 # Comments: 147"
+    },
+    {
+      "id": "a078a8d12ba6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "link": "https://github.com/dsmurrell/onkey",
+      "published": "2026-10-22T14:04:44+00:00",
+      "summary": "Hi all I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve. Lately however, the app I’ve been using has flooded t"
     },
     {
       "id": "57a7da53744a",
