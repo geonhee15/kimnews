@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-10-23T10:31:45.053766+00:00",
-  "count": 17121,
+  "updated_at": "2026-10-23T15:28:31.139242+00:00",
+  "count": 17136,
   "items": [
+    {
+      "id": "3253b1f47950",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+      "link": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
+      "published": "2026-10-23T15:00:00+00:00",
+      "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments."
+    },
+    {
+      "id": "f5d9acdfacc3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+      "published": "2026-10-23T13:43:21+00:00",
+      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over."
+    },
+    {
+      "id": "62227d6c1deb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "published": "2026-10-23T13:41:10+00:00",
+      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities Comments URL: https://news.ycombinator.com/item?id=50208837 Points: 309 # Comments: 232"
+    },
+    {
+      "id": "42a617e71c50",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 김정은 없는 북한, 우리는 어떻게 해야 할까요",
+      "link": "https://zdnet.co.kr/view/?no=20261023094803",
+      "published": "2026-10-23T13:23:57+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 SNS에서 김정은 사망설이 또 돌고 있는데요, 먼저 결론부터 말씀드리면 지금까지 확인된 증거는 하나도 없어요. 사망했다는 영상이 갑자기 늘어난 건 맞지만 객관적인 근거는 찾아볼 수 없고, 오히려 북한 관영매체는 현지 지도 사진을 보도하며 공개 활동이 계속되고 있다고 전하고 있어요. 심지어 이름이 같은 가수 김정은 씨의 소식과 뒤섞여 퍼진 경우도 있었답니다.사실 이런 소문은 처음이 아니에요. 2020년 4월에도 사망설이 크게 퍼졌고, 심지어 심"
+    },
+    {
+      "id": "fd6cc24cfc4a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국데이터산업진흥원, 케냐 ICTA와 데이터·AI 협력 MOU 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261023221801",
+      "published": "2026-10-23T13:18:01+00:00",
+      "summary": "[지디넷코리아]한국데이터산업진흥원(원장 양재수, 이하 K-DATA)은 21일 주한 케냐대사관에서 케냐 정보통신기술원(ICT Authority, 이하 ICTA)과 데이터·인공지능(AI) 분야 협력을 위한 업무협약(MoU)을 체결했다.이날 협약식에서는 윌리엄 카보고(William Kabogo) 케냐 정보통신디지털경제부 장관과 월드뱅크 스텔라 모칸(Stela Mocan) 글로벌 디지털 & AI 부총재실 디렉터가 입회한 가운데, 양재수 K-DATA 원장과 제시 마루티 키베우(Jessy Maruti Kiv"
+    },
+    {
+      "id": "943748f0e5b2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "People are vibe coding their way to better TVs",
+      "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "published": "2026-10-23T13:00:00+00:00",
+      "summary": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user "
+    },
+    {
+      "id": "9a85ade1d877",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Retro gaming is being overrun with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "published": "2026-10-23T12:00:00+00:00",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible freq"
+    },
+    {
+      "id": "d824b04b855b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+      "published": "2026-10-23T11:15:03+00:00",
+      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein."
+    },
+    {
+      "id": "bc98b9ef5dcb",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "'ㅎㅏㄴㄱㅡㄹ.txt'의 정체",
+      "link": "https://www.youtube.com/shorts/pdiiGVBF0ks",
+      "published": "2026-10-23T11:00:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7b332deee770",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
+      "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "published": "2026-10-23T10:58:03+00:00",
+      "summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Bioscien"
+    },
     {
       "id": "37c8a0df4b2a",
       "source": "AI타임스",
@@ -25,6 +135,17 @@
       "summary": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 밝혔다. 초기 프로그램에는 엔비디아와 스노우플레이크, 데이터브릭스, 베인앤컴퍼니, 부즈앨런해밀턴 등 130개 이상의 기업이 참여했다.협력사는 고"
     },
     {
+      "id": "2d55cf7c257b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배경훈 \"양자산업 초기 시장 창출, 정부가 마중물 역할\"",
+      "link": "https://zdnet.co.kr/view/?no=20261023185008",
+      "published": "2026-10-23T09:50:08+00:00",
+      "summary": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 양자산업의 초기 시장 창출을 위해 정부가 기업과 함께 사업모델을 발굴하고 단계적인 산업화 로드맵을 마련하겠다고 밝혔다.배 부총리는 23일 과기정통부 대상 종합감사에서 이주희 의원의 질의에 “양자산업 활성화에 정부가 마중물 역할을 해야 된다고 생각한다”며 “정부에서도 이런 비즈니스 모델을 잘 고민하고 전략을 수립하고 기업과 같이 단계적인 로드맵을 수립해야 된다고 생각한다”고 말했다.이 의원은 “양자산업도 기술개발만큼이나 동시에 추진돼야 할 게"
+    },
+    {
       "id": "c68daecee6c0",
       "source": "AI타임스",
       "kind": "article",
@@ -34,6 +155,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216573",
       "published": "2026-10-23T09:44:11+00:00",
       "summary": "케빈 웨일 전 오픈AI 과학 부문 책임자가 AI와 로봇을 활용해 신약 개발의 실험 과정을 자동화하는 스타트업 워프 사이언스(Warp Sciences)를 설립했다.22일(현지시간) 블룸버그에 따르면, 워프 사이언스는 2억1500만달러(약 2800억원)의 시리즈 A 투자금을 확보하며 공식 출범했다.투자 유치 이후 기업가치는 8억6500만달러(약 1조1400억원)로 평가됐다. 라이트스피드 벤처 파트너스가 투자를 주도했으며 IVP, 메이필드, 럭스 캐피털, 프렘지 인베스트, 멘로 벤처스 등이 참여했다.엔"
+    },
+    {
+      "id": "cec254e31b31",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Early Black Friday Smart Bird Feeder Deals (2026)",
+      "link": "https://www.wired.com/story/early-black-friday-smart-bird-feeder-deals-october-2026/",
+      "published": "2026-10-23T09:30:00+00:00",
+      "summary": "I’ve spent years testing smart bird feeders. These are the currently discounted models I’d buy for myself—or give as gifts."
     },
     {
       "id": "059d760b4c05",
@@ -463,6 +595,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216570",
       "published": "2026-10-23T03:22:03+00:00",
       "summary": "오픈AI가 신규 투자 유치 과정에서 목표 기업가치를 기존 1조4000억달러(약 1855조원)에서 1조2500억달러(약 1656조원)로 낮췄다. 일부 투자자의 미온적인 반응과 대규모 자금 조달에 따른 피로감, AI 인프라 투자 붐의 지속 가능성에 대한 우려가 반영된 것으로 풀이된다.22일(현지시간) CNBC와 파이낸셜타임스 등에 따르면, 오픈AI는 최대 300억달러(약 39조7000억원) 규모의 신규 투자 라운드 마무리 단계에 접어들었다.아랍에미리트(UAE) 투자자들과 미국 투자사 코아투(Coatu"
+    },
+    {
+      "id": "3111e95034e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "published": "2026-10-23T00:52:01+00:00",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 273 # Comments: 178"
     },
     {
       "id": "1f7d917e6d53",
@@ -1081,6 +1224,17 @@
       "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
     },
     {
+      "id": "d34747657438",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "2026-10-22T15:00:00+00:00",
+      "summary": ""
+    },
+    {
       "id": "4d0055be8475",
       "source": "TechCrunch",
       "kind": "article",
@@ -1101,6 +1255,17 @@
       "link": "https://quad9.net/news/blog/au-revoir-france/",
       "published": "2026-10-22T14:32:38+00:00",
       "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 830 # Comments: 311"
+    },
+    {
+      "id": "2e3a687fb9da",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Quad9 to exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "published": "2026-10-22T14:32:38+00:00",
+      "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 1299 # Comments: 447"
     },
     {
       "id": "30ed41d1f7cb",
