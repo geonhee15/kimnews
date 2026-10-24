@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-10-23T22:31:08.012031+00:00",
-  "count": 17164,
+  "updated_at": "2026-10-24T00:59:40.458244+00:00",
+  "count": 17174,
   "items": [
+    {
+      "id": "3481a88bc2d9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LLM '명령'에 두 글자 추가했더니…로봇이 한 섬뜩한 행동",
+      "link": "https://zdnet.co.kr/view/?no=20261023193807",
+      "published": "2026-10-24T00:17:20+00:00",
+      "summary": "[지디넷코리아]오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다.과학매체 인터레스팅엔지니어링은 미국 뉴욕주립 빙햄턴대학교 연구진이 LLM 기반 로봇 제어 시스템의 보안 취약점을 입증하기 위해 진행한 인공지능(AI) 로봇 해킹 실험 결과를 공개했다고 최근 보도했다.연구진은 LLM에 악의적으로 심어 놓은 숨겨진 트리거 단어가 로봇을 기존 작업 계획에서 벗어나 위험한 행동을 하도록 유도할 수 있다"
+    },
+    {
+      "id": "91bbc5d8b921",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 시대 '디지털 증거 체계' 구축 협력방안 모색",
+      "link": "https://zdnet.co.kr/view/?no=20261024015955",
+      "published": "2026-10-24T00:14:41+00:00",
+      "summary": "[지디넷코리아]수사기관과 국가기관, 학계, 민간 전문가들이 한자리에 모여 디지털포렌식 기술 발전, 조사 역량 강화, 디지털 증거 신뢰성 확보 관련 최신 연구와 현장 경험을 공유하는 행사가 열린다.디지털포렌식 전문기업 플레인비트(대표 김진국)가 다음달 9~11일 서울 서초구 엘타워에서 'K-디지털포렌식 위크 2026(K-DFS 2026)'을 공동 개최한다고 23일 밝혔다.국가정보원, 국가보안기술연구소, 경찰청, 공소청, 중대범죄수사청, 한국정보보호학회 디지털포렌식연구회, 한국디지털포렌식학회, 플레인"
+    },
+    {
+      "id": "6ce62a0d1618",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216604",
+      "published": "2026-10-24T00:05:59+00:00",
+      "summary": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비교해 3D 작업 능력이 개선됐다고 평가했다. 다만 처리 시간이 길고 웹페이지 디자인은 여전히 부족하다는 평가도 나왔다.테스팅카탈로그는 23일(현지시간) 테스트 참여자들의 게시물을 인용, 카본이 일부 파트너에게 제공되고 AI 모델 비교 플랫폼 LM아레나에서도 시험되고 있다고 전했다.카본은 이달 초 구글 내"
+    },
+    {
+      "id": "20d4e81c87da",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216603",
+      "published": "2026-10-23T23:22:34+00:00",
+      "summary": "문샷 AI의 새 플래그십 모델 ‘키미 K3.1 프로(Kimi K3.1 Pro)’가 아티피셜 애널리시스 성능 평가(AAII)에서 전체 4위, 오픈 모델 중 1위에 올랐다. 금융 분석과 코딩 능력을 끌어올려 미국 최첨단 모델과의 격차를 좁혔다. 모델 크기를 유지하면서 사후학습을 강화해 성능을 높인 것이 특징이다.문샷은 23일(현지시간) 공식 발표를 통해 K3.1 시리즈의 첫 모델인 키미 K3.1 프로를 출시했다. 키미 웹사이트와 모바일 앱, 업무용 '키미 워크', 코딩 도구 '키미 코드', API에서"
+    },
+    {
+      "id": "e1788414d570",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published": "2026-10-23T23:05:49+00:00",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "id": "c3f5af7047db",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스타링크, 美이통시장 직접 진출...기지국 8만개 구축 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261024053025",
+      "published": "2026-10-23T22:00:02+00:00",
+      "summary": "[지디넷코리아]스페이스X가 위성통신 서비스 스타링크를 미국의 주요 이동통신사로 키우기 위해 지상 기지국 8만곳 확보를 추진한다. 위성망과 지상망을 결합해 AT&T, 버라이즌, T모바일 등 기존 이동통신 3사와 직접 경쟁하겠다는 구상이다.23일(현지시간) 라이트리딩닷컴 블룸버그 등 외신에 주요 따르면 스페이스X는 미국 내 약 8만개 기지국 부지 이용을 위해 통신타워 사업자들과 협의하고 있다. 이는 기존 미국 주요 이동통신사의 네트워크와 비슷한 규모다.그윈 쇼트웰 스페이스X 사장은 최근 실적발표에서 "
+    },
     {
       "id": "94a541ac4e64",
       "source": "AI타임스",
@@ -89,6 +155,17 @@
       "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
       "published": "2026-10-23T19:25:13+00:00",
       "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers."
+    },
+    {
+      "id": "4fe61f58628d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "published": "2026-10-23T19:09:54+00:00",
+      "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 210 # Comments: 88"
     },
     {
       "id": "730fe2d80750",
@@ -207,6 +284,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "published": "2026-10-23T16:02:43+00:00",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
+    },
+    {
+      "id": "fa253438cfc5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
       "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
       "published": "2026-10-23T16:02:43+00:00",
       "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
@@ -394,6 +482,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "스페이스X, 엔비디아 등 130여개사와 기업 AI 공략…그록 도입·연동 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216585",
+      "published": "2026-10-23T09:51:55+00:00",
+      "summary": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 밝혔다. 초기 프로그램에는 엔비디아와 스노우플레이크, 데이터브릭스, 베인앤컴퍼니, 부즈앨런해밀턴 등 130개 이상의 기업이 참여했다.협력사는 고"
+    },
+    {
+      "id": "ceb453664892",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, 엔비디아 등 130여개사와 기업 공략…그록 도입·연동 지원",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216585",
       "published": "2026-10-23T09:51:55+00:00",
       "summary": "스페이스X가 엔비디아 등 130여개 기업이 참여한 협력망을 구축하고 ‘그록’의 기업 시장 확대에 나선다. 협력사들이 고객사의 AI 도입을 돕고 기존 업무 소프트웨어와 연결하는 기능을 개발하도록 해, 그록을 실제 업무에 활용할 수 있는 환경을 넓히겠다는 전략이다.스페이스X는 22일(현지시간) 공식 발표를 통해 ‘스페이스X SI 파트너 네트워크’를 출범했다고 밝혔다. 초기 프로그램에는 엔비디아와 스노우플레이크, 데이터브릭스, 베인앤컴퍼니, 부즈앨런해밀턴 등 130개 이상의 기업이 참여했다.협력사는 고"
@@ -4764,6 +4863,17 @@
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "published": "2026-10-20T17:12:48+00:00",
       "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
+    },
+    {
+      "id": "d25a0783c54e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Real Kevin Bacon",
+      "link": "https://pudding.cool/2026/10/kevin-bacon/",
+      "published": "2026-10-20T17:10:05+00:00",
+      "summary": "Article URL: https://pudding.cool/2026/10/kevin-bacon/ Comments URL: https://news.ycombinator.com/item?id=50169499 Points: 230 # Comments: 69"
     },
     {
       "id": "e446001338a6",
