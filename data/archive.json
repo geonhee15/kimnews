@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-10-24T05:34:49.201777+00:00",
-  "count": 17189,
+  "updated_at": "2026-10-24T09:47:53.600495+00:00",
+  "count": 17198,
   "items": [
+    {
+      "id": "95bc27b83932",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216614",
+      "published": "2026-10-24T09:37:43+00:00",
+      "summary": "SK그룹이 국내에 초대형 AI 데이터센터를 구축하기 위해 글로벌 빅테크 기업과 금융투자자들을 상대로 자금 조달 협상을 진행하고 있다. 첫 단계인 5기가와트(GW) 규모 데이터센터 구축에만 3500억달러(약 464조원)가 필요할 것으로 추산했다. 막대한 투자비를 자체적으로 부담하는 대신 입주 기업과 외부 투자자들에게 분담시키고, 실제 AI 수요에 맞춰 투자 규모를 조절한다는 계획이다.정석근 SK텔레콤 AI CIC장 겸 SK하이퍼 대표는 23일(현지시간) 블룸버그TV와의 인터뷰에서 2035년까지 국내"
+    },
+    {
+      "id": "85bfcaff444c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
+      "link": "https://www.wired.com/review/ray-ban-meta-audio/",
+      "published": "2026-10-24T09:15:00+00:00",
+      "summary": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with."
+    },
+    {
+      "id": "7652ab3f0605",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+      "published": "2026-10-24T09:03:54+00:00",
+      "summary": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(Anthropic-managed) 클로드 서비스, 즉 '관리형 클로드 서비스'를 출시했다고 밝혔다. 이번 서비스는 기존 구글 클라우드 IAM(Identity and Access Manag"
+    },
+    {
+      "id": "3199325661c6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+      "published": "2026-10-24T08:30:12+00:00",
+      "summary": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드 실행과 브라우저 조작, 기업 업무 자동화 과정에서 발생할 수 있는 보안 위험을 원천 차단하는 것이 핵심이다.구글 클라우드는 22일(현지시간) A"
+    },
+    {
+      "id": "a2bed6b58e52",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216612",
+      "published": "2026-10-24T08:01:33+00:00",
+      "summary": "앤트로픽이 '클로드'를 활용해 오픈소스 소프트웨어 123개 라이브러리의 보안 속성을 수학적으로 검증하는 데 성공했다. 몇주 만에 239개 테스트 진입점에서 특정 조건 아래 어떤 입력을 넣어도 프로그램이 충돌하지 않는다는 것을 증명했으며, 기존 테스트로 발견하지 못했던 버그도 찾아냈다.앤트로픽은 22일(현지시간) 정리증명 전문 시어럼(Theorem)과 협력해 구글의 오픈소스 소프트웨어 테스트 프로젝트인 'OSS-퍼즈(OSS-Fuzz)'에 등록된 라이브러리를 대상으로 대규모 형식 검증(Formal V"
+    },
+    {
+      "id": "c498e2587097",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 터미널서 AI 에이전트 다루는 '제미나이 API CLI' 오픈소스 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216607",
+      "published": "2026-10-24T07:18:18+00:00",
+      "summary": "구글이 터미널에서 제미나이 API의 주요 기능을 사용할 수 있는 명령줄 도구(CLI) '제미나이 API CLI(Gemini API CLI)'를 공개했다. AI 에이전트가 간단한 명령어만으로 이미지와 영상, 음악을 생성하고 문서 분석과 음성 전사까지 수행할 수 있도록 지원한다.구글은 23일(현지시간) 제미나이 API CLI의 실험적 프리뷰 버전을 공개했다고 밝혔다. 이 도구는 별도의 의존성 설치 없이 실행할 수 있는 바이너리 형태로 제공되며, 맥OS와 리눅스, 윈도우에서 사용할 수 있다. 소스 코드"
+    },
+    {
+      "id": "7c5985f44194",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216600",
+      "published": "2026-10-24T07:07:08+00:00",
+      "summary": "메타의 AI 비서 '뮤즈'가 아시아에 진출하면서 국내 출시 여부와 네이버 대응에 관심이 모이고 있다.메타는 23일 뮤즈의 일본 서비스를 시작했다. 지난 9월 북미에서 처음 선보인 뒤 한 달여 만의 첫 해외 진출이다.뮤즈는 질문에 답하는 기존 챗봇과 달리 이메일 작성·발송, 일정 관리, 여행 예약, 쇼핑 등을 이용자 대신 수행하는 개인 AI 에이전트다. 일본 이용자는 iOS·안드로이드 앱과 웹사이트를 통해 뮤즈를 이용할 수 있다.메타는 일본 출시에 맞춰 중고거래 플랫폼 메루카리, 자산관리 서비스 머"
+    },
+    {
+      "id": "7baf00281228",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SFC, \"삼성D에 애플 맥북 OLED용 청색호스트 공급...청색도판트 놓쳐\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024143943",
+      "published": "2026-10-24T06:40:11+00:00",
+      "summary": "[지디넷코리아]코스피 상장에 도전하는 청색 유기발광다이오드(OLED) 재료업체 SFC가 삼성디스플레이에 애플 맥북 프로 OLED 재료세트용 청색 호스트를 공급한다고 밝혔다. 애플은 다음 주 첫 번째 OLED 맥북 프로를 공개할 예정이다. 패널은 모두 삼성디스플레이가 IT 8.6세대 OLED A6 라인에서 만들어 납품한다. SFC는 삼성디스플레이와 일본 호도가야 합작사다. SFC는 지난 19일 제출한 증권신고서에서 \"삼성디스플레이의 모바일 유기재료 세트 M10부터 M16까지 7년 연속 청색 호스트·"
+    },
+    {
+      "id": "af6b37d4d642",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "기업 폰트 관리 '골칫거리'…응답자 62%가 문제 지적",
+      "link": "https://zdnet.co.kr/view/?no=20261024145325",
+      "published": "2026-10-24T05:53:59+00:00",
+      "summary": "[지디넷코리아]기업 실무자 10명 중 6명 이상이 글꼴 누락이나 불일치를 주요 업무 과제로 꼽았다. 기업이 정한 글꼴을 여러 부서와 협력사가 동일하게 사용하는 데 어려움을 겪고 있다는 조사 결과다.글로벌 폰트 기업 모노타입이 중견기업과 대기업을 대상으로 조사한 결과 응답자 62%가 '폰트 누락 또는 불일치'를 업무에서 겪는 가장 큰 어려움 3가지 중 하나로 선택했다. 글꼴 관리가 디자인을 넘어 브랜드 이미지와 업무 효율에도 영향을 미친다는 분석이다.기업마다 글꼴을 확보하는 경로도 달랐다. 응답자 "
+    },
     {
       "id": "eaccff9d10ec",
       "source": "ZDNet Korea",
