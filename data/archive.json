@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-24T17:08:57.229278+00:00",
-  "count": 17218,
+  "updated_at": "2026-10-24T19:29:35.047515+00:00",
+  "count": 17222,
   "items": [
+    {
+      "id": "3b2689ff437c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-10-24T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "id": "9c18cec527eb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published": "2026-10-24T18:32:21+00:00",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or"
+    },
     {
       "id": "1015ed58ea2a",
       "source": "TechCrunch",
@@ -210,6 +232,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216608",
       "published": "2026-10-24T08:30:12+00:00",
       "summary": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로 가상머신(microVM)을 할당해 코드 실행과 브라우저 조작, 기업 업무 자동화 과정에서 발생할 수 있는 보안 위험을 원천 차단하는 것이 핵심이다.구글 클라우드는 22일(현지시간) A"
+    },
+    {
+      "id": "dff4607d705b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "published": "2026-10-24T08:06:39+00:00",
+      "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 222 # Comments: 104"
     },
     {
       "id": "a2bed6b58e52",
@@ -3433,6 +3466,17 @@
       "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
       "published": "2026-10-21T19:42:32+00:00",
       "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices."
+    },
+    {
+      "id": "4617fecdc369",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Physicists trap a single antimatter particle for a month",
+      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "published": "2026-10-21T19:40:01+00:00",
+      "summary": "Article URL: https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/ Comments URL: https://news.ycombinator.com/item?id=50186450 Points: 238 # Comments: 70"
     },
     {
       "id": "40df8cad7a26",
