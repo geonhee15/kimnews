@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-10-24T13:47:49.111776+00:00",
-  "count": 17210,
+  "updated_at": "2026-10-24T17:08:57.229278+00:00",
+  "count": 17218,
   "items": [
+    {
+      "id": "1015ed58ea2a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Block’s new voice model sounds eerily human",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published": "2026-10-24T16:00:00+00:00",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "id": "fc5d224a1643",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "published": "2026-10-24T15:00:00+00:00",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
+    },
+    {
+      "id": "39be79bdbda8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published": "2026-10-24T15:00:00+00:00",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
+      "id": "e6f9a234c203",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "published": "2026-10-24T14:15:00+00:00",
+      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28"
+    },
+    {
+      "id": "b22236addd79",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published": "2026-10-24T14:00:00+00:00",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "id": "5931c8560ab9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "published": "2026-10-24T14:00:00+00:00",
+      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in mod"
+    },
+    {
+      "id": "024bf29f1567",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "'중국판 엔비디아' 캠브리콘, 매출 급등…\"국산화 노력 수혜\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024160155",
+      "published": "2026-10-24T13:00:03+00:00",
+      "summary": "[지디넷코리아]중국 인공지능(AI) 반도체 팹리스 캠브리콘 3분기 매출이 급등했다고 사우스차이나모닝포스트(SCMP) 등이 23일(현지시간) 보도했다. 캠브리콘의 3분기 매출은 35억 3000만위안(약 6900억원)으로 전년 동기 대비 105% 뛰었다. 순이익은 148% 증가한 14억위안(2700억원)이다.캠브리콘은 지난 2016년 설립된 팹리스다. '중국판 엔비디아'로 불린다. AI 데이터센터와 에지 AI용 프로세서 'MLU' 시리즈를 개발해 왔다. 화웨이와 알리바바 등 현지 대형 IT 기업이 고"
+    },
     {
       "id": "7c38b94559ab",
       "source": "ZDNet Korea",
@@ -265,6 +342,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261024110823",
       "published": "2026-10-24T03:52:45+00:00",
       "summary": "[지디넷코리아]일본 택배업체 사가와큐빈(佐川急便)이 지난 9월 30일 발견된 부정 액세스로 최대 약 5323만건의 개인정보가 유출됐을 가능성이 있다고 23일 발표했다.FNN, 아사히신문 등 여러 외신 보도에 따르면 유출 가능성이 있는 정보는 6월 21일부터 9월 30일까지 약 100일간 보관된 택배 송장에 적힌 발송인·수취인의 이름, 주소, 전화번호, 법인·개인 계약 고객 정보, 회원제 웹서비스 '스마트클럽' 등록자의 이름·주소·전화번호·이메일·회원 ID 등이다. 신용카드 정보와 비밀번호는 포함되"
+    },
+    {
+      "id": "a2902bcb1483",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "published": "2026-10-24T03:43:54+00:00",
+      "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 205 # Comments: 58"
     },
     {
       "id": "b5b519e190e1",
