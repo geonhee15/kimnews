@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-10-24T21:47:33.120706+00:00",
-  "count": 17226,
+  "updated_at": "2026-10-24T23:57:34.921678+00:00",
+  "count": 17229,
   "items": [
+    {
+      "id": "044211fbff00",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마이크로칩 \"헤일로 AI 가속기와 결합한 턴키 솔루션으로 승부\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024184335",
+      "published": "2026-10-24T22:00:01+00:00",
+      "summary": "[지디넷코리아]\"폭넓은 솔루션을 제공하지 못하는 인공지능(AI) 반도체 스타트업은 경쟁하기 어려울 것입니다.\"마크 라이튼(Mark Reiten) 마이크로칩 테크놀로지 수석부사장은 최근 에지 AI 반도체 스타트업 '헤일로(Hailo)' 인수 배경을 묻는 본지 서면 인터뷰에서 이같이 밝혔다. 글로벌 반도체 공룡 시각에서 단일 칩 기반 팹리스 스타트업은 자생이 힘들다는 분석이다. 헤일로 외에도 하바나랩스, 그록 등 유망 AI 반도체 스타트업이 잇따라 글로벌 기업에 인수됐다. 스타트업 홀로 급변하는 AI"
+    },
     {
       "id": "999489798b25",
       "source": "The Verge",
@@ -34,6 +45,17 @@
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "published": "2026-10-24T19:47:19+00:00",
       "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 284 # Comments: 249"
+    },
+    {
+      "id": "46a784d23490",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "No signs of AI payoff outside the tech sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "published": "2026-10-24T19:47:19+00:00",
+      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 429 # Comments: 423"
     },
     {
       "id": "3b2689ff437c",
@@ -229,6 +251,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+      "published": "2026-10-24T10:13:05+00:00",
+      "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개했다고 밝혔다. 중단 11일 만에 작업을 재개했으며, 이 사실은 이날 공개했다.중단 계기는 내부 연구 모델이 인터넷 주소를 처리하는 DNS 서비"
+    },
+    {
+      "id": "4ccfc86cfb63",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
       "published": "2026-10-24T10:13:05+00:00",
       "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개했다고 밝혔다. 중단 11일 만에 작업을 재개했으며, 이 사실은 이날 공개했다.중단 계기는 내부 연구 모델이 인터넷 주소를 처리하는 DNS 서비"
