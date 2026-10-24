@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-24T09:47:53.600495+00:00",
-  "count": 17198,
+  "updated_at": "2026-10-24T13:47:49.111776+00:00",
+  "count": 17210,
   "items": [
+    {
+      "id": "7c38b94559ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "안찬토, 징둥로지스틱스와 손잡고 한국 브랜드의 글로벌 마켓플레이스 판매 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261024211002",
+      "published": "2026-10-24T12:10:02+00:00",
+      "summary": "[지디넷코리아]징둥로지스틱스, 안찬토의 Operations Experience(OXM) 플랫폼을 통해 고객 온보딩 지원, 200개 이상의 사전 구축 연동 기능으로 온라인 판매 채널과 물류 운영 연결 징둥로지스틱스가 안찬토와 파트너십을 체결하고 한국 브랜드를 비롯한 고객사가 단일 플랫폼에서 글로벌 마켓플레이스에 입점하고 매장을 운영할 수 있도록 지원한다. 안찬토의 OXM 플랫폼은 징둥로지스틱스에 다수의 판매자와 마켓플레이스를 통합 관리하는 운영 모델을 제공해 제3자 물류(3PL) 사업 확대에 따라 "
+    },
+    {
+      "id": "a2cfba02482b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "published": "2026-10-24T12:00:00+00:00",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began."
+    },
+    {
+      "id": "87b5af5c0dd6",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "published": "2026-10-24T11:50:28+00:00",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before."
+    },
+    {
+      "id": "b863bec06b92",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+      "published": "2026-10-24T11:38:59+00:00",
+      "summary": "순다르 피차이 구글 CEO가 클라우드 사업의 단기 매출을 일부 포기하더라도 첨단 AI 모델 개발에 컴퓨팅 자원을 우선 투입하겠다고 밝혔다. 연구진에게 충분한 연산 자원을 제공하는 것을 타협할 수 없는 원칙으로 제시하고, 실제로 클라우드 사업과 AI 연구 사이에서 자원을 조정하고 있다고 설명했다.피차이 CEO는 20일(현지시간) 공개된 알렉스 캔트로위츠의 ‘빅 테크놀로지 팟캐스트’ 인터뷰에서 “우리 클라우드 사업은 첨단 AI 개발을 지원하기 위해 컴퓨팅 자원을 조정하면서 단기 매출을 일부 포기하고 "
+    },
+    {
+      "id": "962ce9eafff0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가을비도 삼켜버린 5000명의 열기…다시 달린 이봉주, 함께 뛴 공직사회",
+      "link": "https://zdnet.co.kr/view/?no=20261024155153",
+      "published": "2026-10-24T11:36:04+00:00",
+      "summary": "[지디넷코리아]24일 오전 8시. '네이버웍스와 함께 하는 세종런26'이 열리는 세종중앙공원엔 참가자들로 북적이고 있었다. 공원 인근 주차장엔 이미 '만차' 안내판이 걸렸다. 출발까지 한 시간이 남은 시각이었다. 참가자들은 공식 티셔츠 위로 배번을 고쳐 달며 도시축제마당으로 모여들었다. 빗줄기에도 몸을 푸는 참가자들 사이로 기록칩을 점검하는 소리와 음악소리가 뒤섞였다.이날 열린 '세종런 26'에는 약 5000명이 참가했다.세종특별자치시육상연맹이 주최·주관하고 세종시체육회·세종시·네이버클라우드가 후"
+    },
+    {
+      "id": "dbaf83077210",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+      "published": "2026-10-24T10:53:21+00:00",
+      "summary": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정을 위반했다고만 설명했지만, 조사 대상은 아스트라의 내부 설계에 관한 보도와 외부 안전 연구자에게 보낸 '시그널(Signal)' 메시지였던 것으로 나타났다. 다만 연구원들은 기밀 유출을 부인하고 있어 실제 유출 여부와 해고의 정당성을 둘러싼 논란은 이어지고 있다.월스트리트저널(WSJ)은 22일(현지시간)"
+    },
+    {
+      "id": "3a2b01abb78b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "9 Unique Apps to Try on the iPhone Duo",
+      "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+      "published": "2026-10-24T10:45:00+00:00",
+      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo."
+    },
+    {
+      "id": "ad4228e8a80e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+      "published": "2026-10-24T10:13:05+00:00",
+      "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델의 강화학습과 내부 추론을 이달 1일 재개했다고 밝혔다. 중단 11일 만에 작업을 재개했으며, 이 사실은 이날 공개했다.중단 계기는 내부 연구 모델이 인터넷 주소를 처리하는 DNS 서비"
+    },
     {
       "id": "95bc27b83932",
       "source": "AI타임스",
@@ -58,6 +146,17 @@
       "summary": "앤트로픽이 '클로드'를 활용해 오픈소스 소프트웨어 123개 라이브러리의 보안 속성을 수학적으로 검증하는 데 성공했다. 몇주 만에 239개 테스트 진입점에서 특정 조건 아래 어떤 입력을 넣어도 프로그램이 충돌하지 않는다는 것을 증명했으며, 기존 테스트로 발견하지 못했던 버그도 찾아냈다.앤트로픽은 22일(현지시간) 정리증명 전문 시어럼(Theorem)과 협력해 구글의 오픈소스 소프트웨어 테스트 프로젝트인 'OSS-퍼즈(OSS-Fuzz)'에 등록된 라이브러리를 대상으로 대규모 형식 검증(Formal V"
     },
     {
+      "id": "06cb3021f672",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216617",
+      "published": "2026-10-24T07:55:00+00:00",
+      "summary": "중국 국영 통신회사 차이나텔레콤의 네트워크에서 대중국 수출이 금지된 엔비디아의 ‘블랙웰 울트라 B300’ GPU 32개가 포착됐다. 중국 기업의 첨단 AI 칩 확보 정황이 거듭 드러나면서 미국 수출 통제의 실효성이 다시 도마에 올랐다. 다만 이번에 발견된 칩의 실제 설치 장소와 입수 경로는 확인되지 않았다.디 인포메이션은 22일(현지시간) 이스라엘 보안업체 라바가 외부에 노출된 모니터링 시스템을 통해 차이나텔레콤 네트워크에 연결된 B300 32개를 확인했다고 전했다. B300은 엔비디아의 고성능 "
+    },
+    {
       "id": "c498e2587097",
       "source": "AI타임스",
       "kind": "article",
@@ -86,6 +185,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "SFC, \"삼성D에 애플 맥북 OLED용 청색호스트 공급...청색도판트 놓쳐\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024143943",
+      "published": "2026-10-24T06:40:11+00:00",
+      "summary": "[지디넷코리아]코스피 상장에 도전하는 청색 유기발광다이오드(OLED) 재료업체 SFC가 삼성디스플레이에 애플 맥북 프로 OLED 재료세트용 청색 호스트를 공급한다고 밝혔다. 애플은 다음 주 첫 번째 OLED 맥북 프로를 공개할 예정이다. 패널은 모두 삼성디스플레이가 IT 8.6세대 OLED A6 라인에서 만들어 납품한다. SFC는 삼성디스플레이와 일본 호도가야 합작사다. SFC는 지난 19일 제출한 증권신고서에서 \"삼성디스플레이의 모바일 유기재료 세트 M10부터 M16까지 7년 연속 청색 호스트·"
+    },
+    {
+      "id": "0b2e563e910a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SFC \"삼성D에 맥북 OLED용 청색호스트 공급...청색도판트 놓쳐\"",
       "link": "https://zdnet.co.kr/view/?no=20261024143943",
       "published": "2026-10-24T06:40:11+00:00",
       "summary": "[지디넷코리아]코스피 상장에 도전하는 청색 유기발광다이오드(OLED) 재료업체 SFC가 삼성디스플레이에 애플 맥북 프로 OLED 재료세트용 청색 호스트를 공급한다고 밝혔다. 애플은 다음 주 첫 번째 OLED 맥북 프로를 공개할 예정이다. 패널은 모두 삼성디스플레이가 IT 8.6세대 OLED A6 라인에서 만들어 납품한다. SFC는 삼성디스플레이와 일본 호도가야 합작사다. SFC는 지난 19일 제출한 증권신고서에서 \"삼성디스플레이의 모바일 유기재료 세트 M10부터 M16까지 7년 연속 청색 호스트·"
@@ -210,6 +320,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261024102746",
       "published": "2026-10-24T01:27:46+00:00",
       "summary": "[지디넷코리아]정부의 9월 잠정 집계에 따르면 2025년 산업부문 온실가스 배출량은 2억 4293만 톤이다. 2023년(확정치)보다 3.3% 감소했다. 같은 기간 철강·석유화학·시멘트 부문에서는 생산지표와 배출량이 같은 방향으로 움직였다. 반면 반도체·디스플레이 업종은 반도체 생산지수가 35.9% 상승했음에도 배출량은 22.2% 감소했다. 정부는 스크러버를 통한 공정 저감 효율 개선이 배출 증가를 억제했다고 설명했다. 같은 '감소'라도 업종마다 원인이 달랐던 셈이다.배출량이 줄어든 이유가 다르면 "
+    },
+    {
+      "id": "da7297101374",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "published": "2026-10-24T01:16:58+00:00",
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 256 # Comments: 40"
     },
     {
       "id": "9ebda219f0f9",
@@ -4786,6 +4907,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216432",
       "published": "2026-10-20T22:00:00+00:00",
       "summary": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI)가 과학 연구 능력을 종합적으로 측정하는 새로운 지수를 내놨습니다. 첫 평가에서는 오픈AI의 'GPT-6 아스트라'가 1위를 차지했지만, 과학 분야별 성적은 상당히 달랐습니다. 일반적"
+    },
+    {
+      "id": "cc59fb9938b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Bringing uv and ty together",
+      "link": "https://astral.sh/blog/uv-ty-integration",
+      "published": "2026-10-20T21:30:56+00:00",
+      "summary": "Article URL: https://astral.sh/blog/uv-ty-integration Comments URL: https://news.ycombinator.com/item?id=50172962 Points: 201 # Comments: 65"
     },
     {
       "id": "dc35f3debe72",
