@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-10-25T13:17:18.671531+00:00",
-  "count": 17280,
+  "updated_at": "2026-10-25T17:08:27.439981+00:00",
+  "count": 17288,
   "items": [
+    {
+      "id": "e65d003672c8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-25T16:57:32+00:00",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
+      "id": "08a1aaff1fd1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "published": "2026-10-25T16:20:17+00:00",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, "
+    },
+    {
+      "id": "3449a65ac9cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "published": "2026-10-25T16:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "32b758836b96",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published": "2026-10-25T14:10:00+00:00",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+    },
+    {
+      "id": "b754cffa3553",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "published": "2026-10-25T13:25:32+00:00",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is"
+    },
+    {
+      "id": "8406faa70106",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[보안 리딩기업] 프라이빗AI \"제로트러스트 시장 선도\"",
+      "link": "https://zdnet.co.kr/view/?no=20261025214440",
+      "published": "2026-10-25T12:44:40+00:00",
+      "summary": "[지디넷코리아]\"AI위협 통제는 우리가 국내 보안기업 중 최고라고 자부합니다.\"김영랑 프라이빗에이아이(프라이빗AI) 대표는 최근 지디넷코리아와 인터뷰에서 \"기술 중심 서비스 회사로 우뚝 서겠다\"며 이 같이 밝혔다.프라이빗AI는 네트워크 보안에서 출발해 AI 거버넌스 영역으로 도약하고 있는 보안 전문 기업이다. 김영랑 대표가 2018년 3월 14일 설립했다. 김 대표가 이 날을 회사 창립일로 삼은 건 이유가 있다. 무리수인 파이(π) 값이 3.14이기 때문이다. 무한한 정보를 다루는 기업이 되자는 "
+    },
     {
       "id": "5ceddec436b3",
       "source": "Wired",
@@ -597,6 +663,17 @@
       "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 429 # Comments: 423"
     },
     {
+      "id": "dd225aa38be2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "SpeedCrunch 1.1",
+      "link": "https://www.speedcrunch.org/",
+      "published": "2026-10-24T19:19:43+00:00",
+      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 203 # Comments: 42"
+    },
+    {
       "id": "f63fc2216a9e",
       "source": "Hacker News",
       "kind": "article",
@@ -881,6 +958,17 @@
       "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
       "published": "2026-10-24T08:06:39+00:00",
       "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 222 # Comments: 104"
+    },
+    {
+      "id": "fbba8bb2a7a6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "link": "https://broccoli2shell.com/",
+      "published": "2026-10-24T08:06:39+00:00",
+      "summary": "https://www.aikido.dev/blog/python-packages-vulnerable-node2... Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 369 # Comments: 189"
     },
     {
       "id": "a2bed6b58e52",
