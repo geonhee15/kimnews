@@ -1,8 +1,20 @@
 {
   "issue_date": "2026-10-26",
-  "generated_at": "2026-10-25T17:08:27.375349+00:00",
-  "count": 3,
+  "generated_at": "2026-10-25T19:35:47.786207+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "dbb60130181b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser.",
+      "content": "Zen rips off all the best bits of Arc, but skips the AI and bloat.\n\nI know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design . Atlassian bought the company last year and shifted its focus to developing Dia , its even more AI-focused browser. And soon enough, Arc will officially be no more , leaving dedicated users in a lurch. But I abandoned Arc quite some time ago for the Zen Browser and haven’t really missed it. If you’re willing to deal with some minor inconveniences, I think you’ll find Zen is the Arc replacement you’re looking for.\n\nZen unabashedly rips off all the best bits of Arc. Visually, they’re almost indistinguishable. It has the launcher-like pinned sites, tab bar on the left, siloed spaces, and mods that let you customize the browser’s UI to your liking. It takes the bits that made Arc’s interface feel fresh, then strips out everything that made it bloated and drove me into the arms of another.\n\nMost notably, Zen is AI-free .\n\nThere’s no agent in a sidebar hounding me to let it handle tasks. I’m not worried about Zen training an LLM on my browsing activity. It’s just a web browser.\n\nZen prides itself on its privacy features: “Beautifully designed, privacy-focused, and packed with features. We care about your experience, not your data,” it proudly proclaims. Now, I’m no fool. I know that nothing I do on the internet is really private, but with Arc, it always felt like my data was an integral part of the business plan. That’s not the case with Zen. It’s a free and open-source project that relies on volunteers and donations.\n\nIn addition to Zen Mods that can do anything from tweak the look of an active tab to overhaul how PiP videos are handled, you can also install Firefox extensions. Yes, you can install Chrome extensions in Arc, but anecdotally, I’ve found that Zen handles extensions better. Both Zen and Arc are different enough from a UI perspective that not all extensions display properly, but Zen offers more workarounds.\n\nZen also just kind of lets me focus on the task at hand. Links open in “glance” view, which is a temporary pop-over tab, which is really great when you’re doing some window shopping or light research. If I want to open it in a proper tab, it’s just a click away. Zen also has a floating bar that pops up whenever you press Command+T or CTRL+T. From here you can launch a new tab, switch to an existing tab, perform a search from the search engine of your choice, and even trigger an extension.\n\nZen isn’t perfect. I love its clean UI and organizational features, but it can’t play DRM-protected video content right now. That means Netflix, Spotify, HBO, Disney+, and more do not work in Zen. The Zen Team is working to obtain a Widevine license from Google. In the meantime, I use Chrome when I want to watch a movie, which is fine. Zen is built on Firefox, and Firefox’s Web MIDI support is lacking. So I have to fire up Chrome semi-regularly anyway.\n\nI also miss Arc’s Boosts in some cases, but I’ve learned to accept the web as it is.\n\nIf you tried Zen a long time ago and were turned off by its buggy early builds, rest assured it’s come a long way. Look, if you are all in on Arc’s AI features , Dia is probably more your speed. Personally, I always loved Arc’s interface, but never really dug the vibes. Zen just feels right.\n\nThis is the title for the native ad",
+      "published": "2026-10-25T19:24:50+00:00"
+    },
     {
       "id": "e65d003672c8",
       "source": "TechCrunch",
