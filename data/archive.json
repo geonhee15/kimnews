@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-10-25T08:23:01.001863+00:00",
-  "count": 17262,
+  "updated_at": "2026-10-25T13:17:18.671531+00:00",
+  "count": 17280,
   "items": [
+    {
+      "id": "5ceddec436b3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Wallhack M-001 Review: When Fun Overrides Specs",
+      "link": "https://www.wired.com/review/wallhack-m-001/",
+      "published": "2026-10-25T12:30:00+00:00",
+      "summary": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time."
+    },
+    {
+      "id": "73ae74885c96",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital"
+    },
+    {
+      "id": "5b8ea63d1452",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+      "link": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+      "published": "2026-10-25T12:00:00+00:00",
+      "summary": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter."
+    },
+    {
+      "id": "2b9cc3bf4532",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - KIMI K3 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+      "link": "https://www.youtube.com/watch?v=2dbCeyC-WFw",
+      "published": "2026-10-25T11:46:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7b69b6bef64d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
+      "link": "https://www.wired.com/gallery/best-folding-phones/",
+      "published": "2026-10-25T11:30:00+00:00",
+      "summary": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones."
+    },
+    {
+      "id": "524f237162a1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+      "link": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+      "published": "2026-10-25T11:00:00+00:00",
+      "summary": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet."
+    },
+    {
+      "id": "22a39ad8c353",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216631",
+      "published": "2026-10-25T10:33:16+00:00",
+      "summary": "구체적인 임무 없이 가상 섬에 놓인 AI 에이전트들이 스스로 농구와 볼링을 하고, 블록으로 조형물을 만드는 행동을 보였다. 이 과정에서 시뮬레이터 개발자도 몰랐던 물체 던지기 기술까지 발견했다. 연구진은 이런 활동이 놀이의 특징을 갖췄으며, 탐색하며 쌓은 경험이 이후 과제 수행에도 도움이 됐다고 설명했다.MIT 연구진은 최근 아카이브를 통해 AI 에이전트의 자발적인 탐색과 학습을 분석한 연구 '이 기계는 놀고 있는가(Is this machine playing?)'를 공개했다.연구진은 앤트로픽의 코"
+    },
+    {
+      "id": "1714e3ed9860",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+      "link": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
+      "published": "2026-10-25T10:15:00+00:00",
+      "summary": "Powering a car dashboard is more demanding on your handset than you might think. These tips will save battery life and help your phone chill out."
+    },
+    {
+      "id": "cc40e950c4a4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "'클로드'가 그림에 숨긴 문장, '아스트라'가 풀었다…암호 규칙 없이 88% 해독",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216630",
+      "published": "2026-10-25T09:57:13+00:00",
+      "summary": "AI가 밤하늘의 별과 도시의 건물에 문장을 숨기고, 다른 AI가 이를 해독하는 실험 결과가 나왔다. 글자를 작게 써넣거나 파일 안에 텍스트를 끼워 넣은 것이 아니라, 별의 위치와 건물 높이 자체를 문자로 바꿨다. 해독하는 AI는 암호 규칙을 전달받지 않고도 이미지 속 패턴을 분석해 문장을 복원했다.니키타 케진 등 연구진은 21일(현지시간) 온라인 연구 커뮤니티 레스롱(LessWrong)에 공개한 실험 결과를 통해 ‘클로드 페이블 5.1’이 그림에 숨긴 메시지 50개 중 44개(88%)를 ‘GPT-"
+    },
+    {
+      "id": "7e0cfd90d5aa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 모델 신작] 텐센트 월드 모델부터 잭 도시의 음성 AI까지 9종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216628",
+      "published": "2026-10-25T09:32:30+00:00",
+      "summary": "■ 텐센트, 명령에 따라 장면 바꾸는 월드 모델 ‘Hy-Nomas’ 오픈소스화텐센트가 텍스트 명령과 카메라 움직임에 맞춰 영상을 이어 만드는 월드 모델 ‘Hy-Nomas’를 오픈소스로 공개했다. 사용자는 영상이 생성되는 도중 사물을 추가하거나 등장인물의 행동, 배경, 화풍을 바꿀 수 있다. 카메라 시점과 이동 경로도 지정할 수 있으며, 앞서 생성한 장면의 정보를 다음 구간에 활용하도록 설계했다. 모델 가중치와 실행 코드를 제공하고, RTX 4090 한 장에서 실행하는 저메모리 설정도 마련했다. I"
+    },
+    {
+      "id": "4a7d6ce447ee",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "미친 프레임워크 등장 👀",
+      "link": "https://www.youtube.com/watch?v=qP2pj1JI8J0",
+      "published": "2026-10-25T09:01:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "3a388ed1c48c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "published": "2026-10-25T09:00:40+00:00",
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 336 # Comments: 204"
+    },
+    {
+      "id": "592f033f155e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216553",
+      "published": "2026-10-25T08:37:08+00:00",
+      "summary": "AI로 만든 노래 ‘꿈꾸던 어른이 되었나요?’가 최근 멜론 3위, 유튜브 뮤직 2위에 올랐다. 어른이 된 뒤 마주한 현실과 고민을 담아 공감을 얻은 이 곡은 멜로디와 목소리가 AI로 만들어졌다는 사실이 알려지며 더 큰 화제를 모았다.이 곡을 만든 글로리웨이브 팀(이용석·최성혁)의 제작 계기와 AI 활용 방식, 해결 과제 등 뒷이야기를 들었다.글로리웨이브는 황치열, 길구봉구 등과 작업하며 10년 넘게 활동한 베테랑 작곡팀이다. 최근 AI 음악 전용 프로젝트 '머무르'를 꾸려 여러 곡을 발표해 왔다."
+    },
     {
       "id": "a8b829b09feb",
       "source": "AI타임스",
@@ -12,6 +155,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
       "published": "2026-10-25T08:10:30+00:00",
       "summary": "아마존웹서비스(AWS)의 2026년과 2027년 컴퓨팅 용량이 사실상 모두 판매된 것으로 나타났다. AI 인프라 수요가 예상치를 웃돌며 급증함에 따라, 2028년 공급 물량까지 상당 부분 예약된 상태다.앤디 재시 아마존 CEO는 23일(현지시간) 앤드리슨 호로위츠의 벤 호로위츠 공동 창업자 및 에릭 토렌버그 제너럴 파트너와 진행한 영상 팟캐스트에서 AI 연구소와 기업 고객의 폭발적인 수요를 따라잡는 데 어려움을 겪고 있다고 밝혔다.재시 CEO는 “2027년 용량은 대부분 판매됐다”며 “온디맨드 수"
+    },
+    {
+      "id": "d749b3c74f82",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+      "published": "2026-10-25T08:10:30+00:00",
+      "summary": "아마존웹서비스(AWS)의 2026년과 2027년 컴퓨팅 용량이 사실상 모두 판매된 것으로 나타났다. AI 인프라 수요가 예상치를 웃돌며 급증함에 따라, 2028년 공급 물량까지 상당 부분 예약된 상태다.앤디 재시 아마존 CEO는 23일(현지시간) 앤드리슨 호로위츠의 벤 호로위츠 공동 창업자 및 에릭 토렌버그 제너럴 파트너와 진행한 영상 팟캐스트에서 AI 연구소와 기업 고객의 폭발적인 수요를 따라잡는 데 어려움을 겪고 있다고 밝혔다.재시 CEO는 “2027년 용량은 대부분 판매됐다”며 “온디맨드 수"
+    },
+    {
+      "id": "97d3d3c14c57",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "가상공간서 땅 파며 학습…HD현대, 무인 굴착기 개발 속도",
+      "link": "https://zdnet.co.kr/view/?no=20261025170107",
+      "published": "2026-10-25T08:01:07+00:00",
+      "summary": "[지디넷코리아]HD현대사이트솔루션이 가상공간에서 장비 움직임과 흙의 반응을 재현해 무인 굴착기 개발 속도를 높인다.HD현대사이트솔루션은 산업통상부 '인공지능(AI) 무인 자율 굴착기 개발을 위한 고정밀 시뮬레이션 기반 디지털 트윈 플랫폼 개발' 국책과제 사업자로 선정됐다고 25일 밝혔다.과제는 총사업비 63억 3000만원 규모로 2029년 12월까지 진행된다. HD현대사이트솔루션과 심지, 한국건설기계연구원, 한국생산기술연구원, 한국건설기계산업협회가 컨소시엄으로 참여한다.개발 목표는 건설장비 설계와"
+    },
+    {
+      "id": "8e413504ed1a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "일본 GMO, FX 자동매매 서버 해킹…모든 이용자에 5000엔 위로금",
+      "link": "https://zdnet.co.kr/view/?no=20261025163442",
+      "published": "2026-10-25T07:54:00+00:00",
+      "summary": "[지디넷코리아]일본 GMO인터넷그룹이 외환증거금거래(FX) 자동매매용 서버 해킹 피해를 계기로 정부의 능동적 사이버 방어를 긴급 요청했다. 이에 일본 정부는 개별 기업의 요청으로 발동하는 제도가 아니라며 신중한 태도를 보였다. 해킹으로 거래 계좌 인증정보가 유출돼 이용자들의 부정 거래 피해가 잇따랐다.요미우리신문, 아사히신문 등 여러 외신은 GMO가 해킹 피해 보상 방침을 발표하고 정부에 지원을 요청했다고 25일 보도했다.해킹된 서비스는 오나마에닷컴(お名前.com) 데스크톱 클라우드다. 개인투자자"
     },
     {
       "id": "acf31a5c1395",
@@ -179,6 +355,17 @@
       "summary": "젠슨 황 엔비디아 CEO가 무대에서 함께 놀아준 소형 로봇 ‘마이크로덕’이 사전 주문 2만대 돌파를 앞뒀다. 뒤뚱뒤뚱 걷고 명령에 따라 공중제비까지 도는 모습으로 관심을 끌면서, 개발사 측은 올해 가장 많이 팔리는 로봇이 될 수 있다는 기대를 내놨다.클렘 델랑그 허깅페이스 CEO는 22일(현지시간) 황 CEO가 독일 베를린에서 열린 GTC 기조연설에서 마이크로덕을 시연한 뒤 사전 주문이 늘었다고 전했다.무대에 등장한 로봇들은 작은 발을 구르며 전자음을 내고, 앉거나 잠든 듯 쓰러지는 동작을 선보였"
     },
     {
+      "id": "16dadfad07f5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "published": "2026-10-25T01:33:49+00:00",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 220 # Comments: 69"
+    },
+    {
       "id": "e47271fc59a5",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -196,6 +383,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "머스크 “AI 에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216624",
+      "published": "2026-10-25T01:08:35+00:00",
+      "summary": "일론 머스크 CEO가 AI 에이전트의 증가로 3~5년 안에 통신 대역폭 수요가 현재의 1000배에 이를 것이라고 전망했다. 사람보다 많은 AI 에이전트가 각각 사람보다 많은 데이터를 주고받게 된다는 설명이다. 스페이스X는 최근 미국 전역의 저주파 대역 주파수 인수 계약에 이어 기지국 부지 최소 8만곳의 이용권 확보를 추진하며 위성과 지상을 연결하는 통신망 구축에 나섰다.머스크 CEO는 지난 20일(현지시간) 열린 스페이스X 3분기 실적 발표에서 “앞으로 3~5년 안에 지금의 1000배에 달하는 대"
+    },
+    {
+      "id": "da84b5d25eae",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216624",
       "published": "2026-10-25T01:08:35+00:00",
       "summary": "일론 머스크 CEO가 AI 에이전트의 증가로 3~5년 안에 통신 대역폭 수요가 현재의 1000배에 이를 것이라고 전망했다. 사람보다 많은 AI 에이전트가 각각 사람보다 많은 데이터를 주고받게 된다는 설명이다. 스페이스X는 최근 미국 전역의 저주파 대역 주파수 인수 계약에 이어 기지국 부지 최소 8만곳의 이용권 확보를 추진하며 위성과 지상을 연결하는 통신망 구축에 나섰다.머스크 CEO는 지난 20일(현지시간) 열린 스페이스X 3분기 실적 발표에서 “앞으로 3~5년 안에 지금의 1000배에 달하는 대"
