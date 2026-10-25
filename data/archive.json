@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-10-25T19:35:47.897396+00:00",
-  "count": 17289,
+  "updated_at": "2026-10-25T22:03:06.136689+00:00",
+  "count": 17298,
   "items": [
+    {
+      "id": "13a803781649",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "published": "2026-10-25T21:40:27+00:00",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but "
+    },
+    {
+      "id": "7ed88f9d7476",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "2026-10-25T21:31:16+00:00",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    },
+    {
+      "id": "a1786b727077",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "published": "2026-10-25T20:20:08+00:00",
+      "summary": "\"That's a 12-year-old view of the world.\""
+    },
+    {
+      "id": "3f48394f7774",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "published": "2026-10-25T20:16:19+00:00",
+      "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Telling"
+    },
     {
       "id": "dbb60130181b",
       "source": "The Verge",
@@ -14,6 +58,50 @@
       "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser."
     },
     {
+      "id": "364d6140a90e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "published": "2026-10-25T18:23:54+00:00",
+      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who"
+    },
+    {
+      "id": "c8614b08e9f8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "published": "2026-10-25T18:04:11+00:00",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 274 # Comments: 68"
+    },
+    {
+      "id": "f468c758efe7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "published": "2026-10-25T17:30:55+00:00",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 295 # Comments: 159"
+    },
+    {
+      "id": "56820e764894",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "published": "2026-10-25T17:15:38+00:00",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 321 # Comments: 165"
+    },
+    {
       "id": "e65d003672c8",
       "source": "TechCrunch",
       "kind": "article",
@@ -23,6 +111,17 @@
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "published": "2026-10-25T16:57:32+00:00",
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
+      "id": "339a45caf9e9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "무보-신보, 선진감사 시스템 구축 맞손",
+      "link": "https://zdnet.co.kr/view/?no=20261026014235",
+      "published": "2026-10-25T16:42:35+00:00",
+      "summary": "[지디넷코리아]한국무역보험공사는 지난 23일 신용보증기금과 감사전문성을 높이고 내부통제체계를 고도화하기 위해 감사업무 협약을 체결했다고 25일 밝혔다.무보와 신보는 중동전쟁과 보호무역주 확산으로 통상환경 불확실성이 짙어진 가운데, 효율적이고 투명한 정책금융 지원에 필요한 감사업무 전문성 강화와 내부통제체계 고도화를 위해 협약을 체결했다.두 기관은 협약에 따라 ▲우수 감사사례 벤치마킹 ▲인공지능(AI)·빅데이터 등 IT 감사 기법 역량 강화 ▲감사활동 전문분야 인력지원 등 다양한 분야에서 협력하기로"
     },
     {
       "id": "08a1aaff1fd1",
