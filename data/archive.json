@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-10-26T17:21:22.795778+00:00",
-  "count": 17380,
+  "updated_at": "2026-10-26T21:45:02.895647+00:00",
+  "count": 17409,
   "items": [
+    {
+      "id": "c8876c368df2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+      "published": "2026-10-26T21:28:25+00:00",
+      "summary": "기업공개(IPO)를 추진하는 앤트로픽이 상장신청서에서 AI 보안 사고와 데이터센터 반발, 반도체 공급망 의존 등 사업을 위협할 위험 요인을 공개했다. 차세대 모델의 학습을 한 달 넘게 늦추고, 안전성 평가 중 AI가 외부 시스템에 접근한 사실도 드러났다. 대규모 투자금을 확보하더라도 안전 문제와 전력·반도체 공급 차질로 개발과 서비스 확대가 막힐 수 있다는 설명이다.앤트로픽은 26일(현지시간) 공개한 IPO 서류에서 94페이지를 위험 요인 설명에 할애했다. 여기에는 이미 발생한 보안 사고뿐 아니라"
+    },
+    {
+      "id": "a434e9011b47",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "published": "2026-10-26T21:27:15+00:00",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED."
+    },
+    {
+      "id": "e6b717afe95b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽 IPO 서류에 드러난 재무 부담…800조 지출 약정·빅테크 의존",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216688",
+      "published": "2026-10-26T21:15:25+00:00",
+      "summary": "기업공개(IPO)를 추진하는 앤트로픽의 상장 신청서에서 막대한 장기 지출 약정과 빅테크에 대한 높은 의존도가 드러났다. 향후 10년에 걸쳐 약속한 지출은 6000억달러(약 796조원)를 넘으며, 계약 상당수는 취소할 수 없거나 실제 사용량과 관계없이 비용을 지급해야 한다. 빠른 매출 성장으로 분기 영업 흑자를 기록했지만, 상장 이후에도 장기 계약 비용을 충당하고 추가 자금을 확보해야 하는 과제를 안았다.26일(현지시간) 로이터와 블룸버그 등에 따르면, 앤트로픽은 상장 신청서에서 8개 파트너사와 향"
+    },
+    {
+      "id": "b0292b1b4d4b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216687",
+      "published": "2026-10-26T20:52:10+00:00",
+      "summary": "앤트로픽이 상장 신청서를 공개하고 나스닥 입성을 위한 본격적인 절차에 들어갔다. 기업용 AI 수요에 힘입어 올해 상반기 매출이 지난해 같은 기간의 약 14배로 늘어난 가운데, 첨단 AI 개발과 서비스 운영에 필요한 대규모 자금 확보에 나섰다. 오는 11월 투자자 대상 공모 마케팅을 시작할 예정으로, 주요 AI 개발사의 자금 조달 경쟁에도 속도가 붙을 전망이다.앤트로픽은 26일(현지시간) 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 증권 신고서 ‘S-1’을 공개 제출했다. 지난 6월 비공"
+    },
+    {
+      "id": "c01a4f84c365",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "마이크 시실리아 오라클 CEO \"SW 조작은 AI…사람은 업무 집중\"",
+      "link": "https://zdnet.co.kr/view/?no=20261027041537",
+      "published": "2026-10-26T20:41:39+00:00",
+      "summary": "[지디넷코리아][라스베이거스(미국)=이나연 기자] \"사람이 하루 종일 소프트웨어를 조작하는 대신 이제는 소프트웨어가 사람을 위해 일하게 됩니다.\"마이크 시실리아 오라클 최고경영자(CEO)는 26일(현지시간) 미국 라스베이거스 베네시안 엑스포에서 열린 '오라클 AI 월드 2026' 기조연설에서 인공지능(AI)이 기업 업무를 직접 수행하는 새로운 소프트웨어 운영 방식에 대해 이같이 밝혔다.시실리아 CEO는 기업용 AI 구현을 위한 핵심 요소로 안전한 데이터 접근, 비즈니스 맥락 이해, 고성능 인프라,"
+    },
+    {
+      "id": "f76dbbb16041",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "published": "2026-10-26T20:04:16+00:00",
+      "summary": "Included is the ability to limit which applications Siri can directly access."
+    },
+    {
+      "id": "07f861cf8900",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
+      "link": "https://www.wired.com/story/apple-airtag-deal-october-2026/",
+      "published": "2026-10-26T19:40:31+00:00",
+      "summary": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker."
+    },
+    {
+      "id": "ae1353e9886e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 대남 방송 재개·소방 빨대 논란 속 역삼동 방화·프랑스 시위 관심",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216685",
+      "published": "2026-10-26T19:28:52+00:00",
+      "summary": "AI타임스와 이스트에이드의 10월 셋째 주(10월16일~22일) 이슈 분석 결과 대남 확성기 가동 재개와 대법원장 탄핵 공방 등 주요 정치권 이슈를 포함해 프랑스 시위와 역삼동 화재 등 사건·사고 소식이 상위권에 올랐다.이번 주 검색량 1위는 '김여정 대남확성기 가동(4.54%)'이 차지했다. 김여정 노동당 총무부장은 이달 중 대남 확성기 방송 재개를 예고했다. 실제 재개되면 지난해 6월 중단 이후 약 1년 4개월 만인 것으로 확인됐다.2위는 '선관위 특검 직원 사망(3.47%)'이 차지했다. 6"
+    },
+    {
+      "id": "4f48681f75ae",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "published": "2026-10-26T19:22:40+00:00",
+      "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
+    },
+    {
+      "id": "915f1bb46f9b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+      "published": "2026-10-26T19:04:40+00:00",
+      "summary": "Apple claims this is the most significant update ever for the iPad mini line."
+    },
+    {
+      "id": "decdc539e1c2",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "China just dropped a new frontier model... and nobody can explain how",
+      "link": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "published": "2026-10-26T18:55:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "9742c308e7e1",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "published": "2026-10-26T18:51:06+00:00",
+      "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for t"
+    },
+    {
+      "id": "d76d43239e27",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "published": "2026-10-26T18:50:41+00:00",
+      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk."
+    },
+    {
+      "id": "3f23a7c8e7a0",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
+      "link": "https://www.wired.com/review/google-fitbit-edge/",
+      "published": "2026-10-26T18:49:49+00:00",
+      "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression."
+    },
+    {
+      "id": "b08e45e4c228",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기자수첩] 삼성은 덜어야 했고, 애플은 더해야 했다",
+      "link": "https://zdnet.co.kr/view/?no=20261027012200",
+      "published": "2026-10-26T17:54:56+00:00",
+      "summary": "[지디넷코리아]지난해(2025년) 3분기. 애플은 여전히 첫 번째 폴더블폰 아이폰 듀오 기술 콘셉트와 공급망을 확정하지 못하고 있었다.애플은 일반적으로 제품 콘셉트를 결정한 뒤 부품업체와 2년여간 완제품을 개발한다. 완제품 개발 과정에서도 기술 사양이 바뀌는 경우가 있지만, 아이폰 듀오 개발 속도는 너무 더뎠다. 애플이 계획대로 올해(2026년) 하반기 아이폰 듀오를 출시하려면 기술 콘셉트를 서둘러 확정해야 했다. 당시 업계 한 관계자는 \"이 속도라면 애플이 제때 폴더블폰(아이폰 듀오)을 내놓을 "
+    },
+    {
+      "id": "dd21aaa6d2dc",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Will the real Anthropic please stand up",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "published": "2026-10-26T17:45:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays"
+    },
+    {
+      "id": "7fdfbc356ea4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "published": "2026-10-26T17:45:00+00:00",
+      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+    },
+    {
+      "id": "710f670f31c8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "published": "2026-10-26T17:30:55+00:00",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealRe"
+    },
+    {
+      "id": "19ffc926ee17",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
+      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "published": "2026-10-26T17:28:07+00:00",
+      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhon"
+    },
     {
       "id": "4ec437395d61",
       "source": "The Verge",
@@ -14,6 +223,17 @@
       "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300"
     },
     {
+      "id": "ad5bebf2e2f9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브 행사 직전 '맞불'…엔타이어, AI 개발 플랫폼 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261025170814",
+      "published": "2026-10-26T17:00:02+00:00",
+      "summary": "[지디넷코리아]토마스 돔케 깃허브 전 최고경영자(CEO)가 깃허브 연례 개발자 행사 '깃허브 유니버스 26' 하루 전 새 인공지능(AI) 개발 플랫폼을 내놨다. AI가 작성한 코드를 사람이 일일이 검토하는 대신 여러 AI 에이전트가 품질을 평가하도록 해 개발 속도를 높이겠다는 전략이다.엔타이어는 AI 에이전트와 개발자가 함께 작업할 수 있는 독립형 개발 플랫폼을 출시했다고 27일 밝혔다. 기존 깃허브 코드 검토 방식을 대체하는 '트레일스'를 비롯해 코드 저장과 관리부터 테스트까지 지원하는 기능을 "
+    },
+    {
       "id": "a78b3bcc0ae2",
       "source": "The Verge",
       "kind": "article",
@@ -23,6 +243,17 @@
       "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
       "published": "2026-10-26T17:00:00+00:00",
       "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over an"
+    },
+    {
+      "id": "d1090637a411",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Some iPhone Duo screens are already failing",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "published": "2026-10-26T16:51:49+00:00",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens."
     },
     {
       "id": "90d901312431",
@@ -45,6 +276,17 @@
       "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "published": "2026-10-26T16:46:36+00:00",
       "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever."
+    },
+    {
+      "id": "4f18b3504818",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "published": "2026-10-26T16:35:44+00:00",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 210 # Comments: 79"
     },
     {
       "id": "d5a77fc6007d",
@@ -80,6 +322,28 @@
       "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
     },
     {
+      "id": "782760ffbbad",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "published": "2026-10-26T15:58:25+00:00",
+      "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
+    },
+    {
+      "id": "7167a99161c5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CSS-Tricks has a new owner",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "published": "2026-10-26T15:51:23+00:00",
+      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 314 # Comments: 70"
+    },
+    {
       "id": "27bdee8369b5",
       "source": "The Verge",
       "kind": "article",
@@ -102,6 +366,17 @@
       "summary": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22nd release addresses three notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot tim"
     },
     {
+      "id": "40a64b0c045e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "published": "2026-10-26T15:11:59+00:00",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 478 # Comments: 67"
+    },
+    {
       "id": "85ea72e42b39",
       "source": "Wired",
       "kind": "article",
@@ -111,6 +386,28 @@
       "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
       "published": "2026-10-26T14:50:47+00:00",
       "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI."
+    },
+    {
+      "id": "4425ab6b6cc4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "데이원컴퍼니, 지아이티아카데미 인수…\"공공 직업훈련 시장 공략\"",
+      "link": "https://zdnet.co.kr/view/?no=20261026233601",
+      "published": "2026-10-26T14:36:01+00:00",
+      "summary": "[지디넷코리아]성인 교육 콘텐츠 기업 데이원컴퍼니가 기업·정부간 거래(B2G) 사업 확대를 위해 IT 전문 교육기관 지아이티아카데미 인수를 완료했다.26일 회사에 따르면, 지아이티아카데미는 IT·디자인 분야 대표 국비지원 교육기관인 '그린컴퓨터아카데미'와 '그린컴퓨터아트학원'을 운영하는 기업이다. 1995년 설립 이후 30여년간 IT 전문인력 양성과 직업훈련을 전개해 왔으며, 전국 20개 이상의 교육 지점과 국가·국제자격증 공식시험센터를 포괄하는 오프라인 인프라를 보유하고 있다. 특히 고용노동부의"
+    },
+    {
+      "id": "ad0449757826",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "앤트로픽, 나스닥 상장 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261026232729",
+      "published": "2026-10-26T14:35:56+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 챗봇 '클로드' 개발사 앤트로픽이 미국 나스닥 상장을 본격 추진한다.26일(현지시간) 로이터통신에 따르면 앤트로픽은 이날 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 증권신고서 제출했다. 회사는 나스닥에 'ANT'라는 종목코드로 상장할 계획이다.이번 증권신고서에는 앤트로픽의 매출 성장세와 대규모 손실, AI 인프라 투자 부담 등이 담겼다. 앤트로픽은 지난 6월 비공개로 상장 서류를 제출했으며, 이번에 주요 재무정보를 일반 투자자에게 공개했다.앤트로픽의 올해"
     },
     {
       "id": "17a2a9678e46",
@@ -287,6 +584,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261026204607",
       "published": "2026-10-26T11:46:27+00:00",
       "summary": "[지디넷코리아]HD현대마린솔루션이 핵심 사업인 애프터마켓(AM) 사업이 안정화됐다면서도, 장기 성장 동력으로 기대하는 이중연료(DF)엔진 공급 비중이 증가하고 있어 매출 상승세가 이어질 것으로 전망했다.HD현대마린솔루션은 26일 올해 3분기 실적발표 컨퍼런스콜에서 이같은 사업 전망을 밝혔다.회사는 올해 3분기 매출 6501억원, 영업이익 957억원을 기록했다고 26일 밝혔다. 전년 동기 대비 각각 26.7%, 2.2% 증가한 수치다. 사상 최대 분기 매출을 경신한 반면 영업이익은 시장 전망치를 하"
+    },
+    {
+      "id": "b194553fb7bf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pharo 14",
+      "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "published": "2026-10-26T11:15:50+00:00",
+      "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 215 # Comments: 54"
     },
     {
       "id": "a6cb45e07bbf",
@@ -15321,6 +15629,17 @@
       "category": "AI",
       "lang": "en",
       "title": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
+      "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "published": "2026-10-13T21:26:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "8576614ee30f",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "published": "2026-10-13T21:26:16+00:00",
       "summary": ""
