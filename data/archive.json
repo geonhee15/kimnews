@@ -1,7 +1,293 @@
 {
-  "updated_at": "2026-10-26T11:04:44.910452+00:00",
-  "count": 17348,
+  "updated_at": "2026-10-26T17:21:22.795778+00:00",
+  "count": 17380,
   "items": [
+    {
+      "id": "4ec437395d61",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "published": "2026-10-26T17:10:23+00:00",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300"
+    },
+    {
+      "id": "a78b3bcc0ae2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Everything old is new again with the Fitbit Edge",
+      "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+      "published": "2026-10-26T17:00:00+00:00",
+      "summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over an"
+    },
+    {
+      "id": "90d901312431",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "2026-10-26T16:49:42+00:00",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+    },
+    {
+      "id": "2064605b3c8a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "published": "2026-10-26T16:46:36+00:00",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever."
+    },
+    {
+      "id": "d5a77fc6007d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "published": "2026-10-26T16:01:55+00:00",
+      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity."
+    },
+    {
+      "id": "b94b4b065132",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "published": "2026-10-26T15:58:27+00:00",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career"
+    },
+    {
+      "id": "d94499b8994a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
+      "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "published": "2026-10-26T15:58:25+00:00",
+      "summary": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
+    },
+    {
+      "id": "27bdee8369b5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "T-Mobile’s new plans include swappable subscription perks",
+      "link": "https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks",
+      "published": "2026-10-26T15:39:54+00:00",
+      "summary": "T-Mobile is launching new \"T-Mix\" plans that bundle wireless service with subscriptions to services like Netflix, Apple TV, YouTube Premium, Xbox Game Pass Ultimate, device promotions, and more, as reported earlier by Fierce Network. The Standard plan starts at $55 / month (with "
+    },
+    {
+      "id": "e113b3866a75",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s new Surface Laptop Ultra update fixes reboot and display bugs",
+      "link": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
+      "published": "2026-10-26T15:28:11+00:00",
+      "summary": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22nd release addresses three notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot tim"
+    },
+    {
+      "id": "85ea72e42b39",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "published": "2026-10-26T14:50:47+00:00",
+      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI."
+    },
+    {
+      "id": "17a2a9678e46",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic officially files for its public debut",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "published": "2026-10-26T14:35:22+00:00",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+    },
+    {
+      "id": "7e815ba2b151",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "published": "2026-10-26T14:25:43+00:00",
+      "summary": "The new iPad mini features a thinner and lighter design than its predecessor."
+    },
+    {
+      "id": "55a738e23349",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+      "published": "2026-10-26T14:08:04+00:00",
+      "summary": "Matiks has introduced a new platform for users to create games using AI."
+    },
+    {
+      "id": "3d5e11ee6812",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "published": "2026-10-26T14:00:00+00:00",
+      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the "
+    },
+    {
+      "id": "4b012562c871",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개발원, 2363억 내년 정보화사업 설명회 28일 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261026225142",
+      "published": "2026-10-26T13:51:42+00:00",
+      "summary": "[지디넷코리아]한국지역정보개발원(이하 개발원)은 오는 28일 오후 2시 개발원 청사 2층 KLID홀에서 ‘2027년도 정보화사업 통합설명회’를 개최한다.이번 설명회는 개발원이 내년에 추진할 운영·유지관리 사업과 감리용역 등 총 63개 사업 약 2363억 원 규모의 발주계획을 사전에 공유한다. IT 기업 및 이해관계자와의 투명하고 실질적인 소통의 장을 마련하기 위해 개최된다.전체 발주 규모 2363억 원 중 운영 및 유지관리 사업이 총 45개 사업 약 2350억 원, 감리용역 사업이 총 18개 사업"
+    },
+    {
+      "id": "15892865fcbc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국이냐, 중국이냐…AI 냉전에 선택 압박 거세다",
+      "link": "https://zdnet.co.kr/view/?no=20261026225023",
+      "published": "2026-10-26T13:50:23+00:00",
+      "summary": "[지디넷코리아]AP통신이 현지 시각 10월 25일 미국과 중국이 각자 AI 진영을 형성하면서 다른 나라들이 어느 한쪽을 선택하라는 압박을 받고 있다고 보도했다. 미국은 AI 반도체와 공급망 협력체 '팍스 실리카'를, 중국은 '세계AI협력기구(WAICO)'를 이끌고 있다.인구 약 2,100만 명의 카자흐스탄은 두 진영에 모두 참여했다. 카자흐스탄 AI 장관은 6월 워싱턴을 방문해 팍스 실리카에 가입했고, 3주 뒤 상하이에서 WAICO 창립 회원국으로 서명했다. WAICO 창립 회원국에는 파키스탄과 "
+    },
+    {
+      "id": "28de0ce8dd5f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"PHP 피해 고객이 직접 보안자산 점검\"...로그프레소, 스캐너 앱 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261026224006",
+      "published": "2026-10-26T13:40:06+00:00",
+      "summary": "[지디넷코리아]통합보안 전문기업 로그프레소(대표 양봉열)는 PHP 원격 코드 실행 취약점 ‘PHP2shell’을 진단하는 ‘PHP2shell 스캐너’ 앱을 지난 24일 로그프레소 스토어에 고객 대상으로 공개했다고 26일 밝혔다.'PHP2shell'은 웹 개발 언어 PHP 엔진에서 발견된 원격 코드 실행 취약점 두 건(CVE-2026-109618, CVE-2026-109619)이다. PHP 보안팀은 두 취약점의 심각도를 CVSS v4.0 기준 9.2점(Critical)으로 평가했다. PHP 보안팀은"
+    },
+    {
+      "id": "9c6a80efc6ff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 실업급여를 줘야 할까, 근속보상을 줘야 할까",
+      "link": "https://zdnet.co.kr/view/?no=20261026102124",
+      "published": "2026-10-26T13:39:44+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 1년만 일해도 600만 원의 목돈을 쥘 수 있다면 어떨까요? 조선업 청년을 대상으로 한 목돈 제도가 바로 그런 내용인데요. 청년이 매달 12만 5천 원씩 1년 동안 넣으면 본인 납입금은 150만 원이고, 나머지 450만 원은 정부와 지자체가 보태 줘요. 내 돈은 전체의 4분의 1뿐이고 나머지 4분의 3을 나라가 채워 주는 셈이라, 저금통에 친구들이 용돈을 얹어 주는 것처럼 청년에게는 꽤 큰 혜택이에요.그런데 이 돈을 어디서 마련할지를 두고 논쟁이 "
+    },
+    {
+      "id": "366cc234843c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "published": "2026-10-26T13:32:49+00:00",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI "
+    },
+    {
+      "id": "af83715f773f",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI뉴스 - KIMI 미쳤다, 대규모 AI 해킹, GPU 해킹, Claude Duet, 스마트폰 Agent, 이미지, 영상 API 가격 경쟁, Dessa 등",
+      "link": "https://www.youtube.com/watch?v=cvpNLI-O9PY",
+      "published": "2026-10-26T13:30:07+00:00",
+      "summary": ""
+    },
+    {
+      "id": "1b397be01c56",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
+      "link": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
+      "published": "2026-10-26T13:00:00+00:00",
+      "summary": "The repair company iFixit released its repairability rating for Apple’s very first foldable iPhone. It comes as users report a wave of cracked-screen issues."
+    },
+    {
+      "id": "75b5a277b4d9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "link": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+      "published": "2026-10-26T12:58:40+00:00",
+      "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software."
+    },
+    {
+      "id": "55f58e121358",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "남동발전, 이도테라원 손잡고 해상풍력 등 재생E 공동개발",
+      "link": "https://zdnet.co.kr/view/?no=20261026214603",
+      "published": "2026-10-26T12:46:03+00:00",
+      "summary": "[지디넷코리아]한국남동발전(사장 이현빈)은 인공지능(AI) 기반 인프라 전문기업 이도테라원과 손잡고 인천 해상풍력을 비롯한 재생에너지 공동개발에 나선다고 26일 밝혔다.남동발전과 이도테라원은 협약에 따라 인천 옹진군 굴업도 서측 약 40km 해상에 조성하는 435㎿ 규모 ‘인천에코윈드 해상풍력’ 사업을 성공적으로 추진하고, 국내 재생에너지 보급 확대를 위한 전략적 파트너십을 구축할 계획이다.두 기관은 인천에코윈드 해상풍력 사업 공동개발과 구체적인 협력 방안을 모색하는 한편, 앞으로 육·해상풍력과 "
+    },
+    {
+      "id": "179d8fedaaa3",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "published": "2026-10-26T12:40:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, execut"
+    },
+    {
+      "id": "1fd635f4d7ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "베로소프트, AI를 산업적 가치로 전환하는 Verovia 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261026211003",
+      "published": "2026-10-26T12:10:03+00:00",
+      "summary": "[지디넷코리아] 마이크로소프트 기술 중심의 새로운 AI 오케스트레이션 플랫폼, 산업 시스템과 기업용 애플리케이션, AI 에이전트를 연결해 운영 자동화와 AI 도입 가속화 몬트리올, 2026년 10월 26일 /PRNewswire/ -- 마이크로소프트(Microsoft) 기술 중심의 산업 기술 기업인 베로소프트(Verosoft)가 오늘 산업 분야 기업들이 AI 실험 단계를 넘어 운영 전반에 인공지능을 활용할 수 있도록 설계한 AI 오케스트레이션 및 자동화 플랫폼 Verovia의 출시를 발표했다. Ve"
+    },
+    {
+      "id": "0618322a47ee",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "HD현대마린솔루션 \"AM 사업 안정세…DF엔진 기반 매출 지속 성장\"",
+      "link": "https://zdnet.co.kr/view/?no=20261026204607",
+      "published": "2026-10-26T11:46:27+00:00",
+      "summary": "[지디넷코리아]HD현대마린솔루션이 핵심 사업인 애프터마켓(AM) 사업이 안정화됐다면서도, 장기 성장 동력으로 기대하는 이중연료(DF)엔진 공급 비중이 증가하고 있어 매출 상승세가 이어질 것으로 전망했다.HD현대마린솔루션은 26일 올해 3분기 실적발표 컨퍼런스콜에서 이같은 사업 전망을 밝혔다.회사는 올해 3분기 매출 6501억원, 영업이익 957억원을 기록했다고 26일 밝혔다. 전년 동기 대비 각각 26.7%, 2.2% 증가한 수치다. 사상 최대 분기 매출을 경신한 반면 영업이익은 시장 전망치를 하"
+    },
     {
       "id": "a6cb45e07bbf",
       "source": "AI타임스",
@@ -124,6 +410,17 @@
       "summary": "[지디넷코리아] 이번 학기 AI 역량 평가 추진…진단 결과를 교육과 연계해 학생 역량 향상 지원 서울 대한민국, 2026년 10월 26일 /PRNewswire/ -- 서강대학교 AI중심대학은 10월 26일 네이버, 코드프레소와 AI역량평가 협력을 위한 업무협약(MOU)을 체결했다. 세 기관은 이번 학기 AI 역량 평가 실시를 목표로 학생의 AI 역량을 체계적으로 진단하고, 산업 현장의 수요를 대학 교육에 반영하기 위한 협력을 추진한다. 이번 협약은 서강대의 AI 인재양성 기반에 기업의 기술•산업 "
     },
     {
+      "id": "ee2fac7a608e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "published": "2026-10-26T09:01:00+00:00",
+      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But co"
+    },
+    {
       "id": "98e60ecea5b8",
       "source": "Wired",
       "kind": "article",
@@ -144,6 +441,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216677",
       "published": "2026-10-26T08:55:07+00:00",
       "summary": "메타가 개인용 AI 에이전트 ‘뮤즈(Muse)’에 실시간 음성 대화를 제공하기 시작하고, 애니메이션 아바타 공유 기능도 준비하고 있다. 외부 업무 도구 연결과 소기업 지원 기능을 추가한 데 이어 사용자와 소통하는 방식까지 늘리며 서비스 고도화에 속도를 내고 있다.테스팅카탈로그는 25일(현지시간) X를 통해 뮤즈의 음성 통화 기능이 전날부터 차례로 배포되고 있다고 전했다. 이용자가 뮤즈 에이전트와 실시간으로 음성 대화를 나누는 기능이다.이용자 데이브 갬브릴은 자신의 X를 통해 뮤즈에 음성 통화 기능"
+    },
+    {
+      "id": "1b0ece5bf0f1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "link": "https://blocks.manifold3d.ch/",
+      "published": "2026-10-26T08:46:09+00:00",
+      "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 386 # Comments: 181"
     },
     {
       "id": "5afdef650c52",
@@ -342,6 +650,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216646",
       "published": "2026-10-26T03:56:50+00:00",
       "summary": "엔비디아가 AI 에이전트 구동에 필요한 소프트웨어를 GPU당 연간 2000달러(약 264만원)에 제공하는 구상을 밝혔다. 하드웨어 판매에 집중해 온 사업 구조를 구독형 소프트웨어로 확장해 매출을 확보하려는 전략이다. 보안과 접근 권한 관리, 인프라 운영 등 기업용 AI 에이전트에 필요한 기능을 앞세워 고객의 엔비디아 생태계 의존도를 높이려는 움직임으로 풀이된다.젠슨 황 엔비디아 CEO는 지난 22일(현지시간) 독일 베를린에서 열린 GTC 행사에서 소프트웨어 라이선스 사업의 성장 가능성을 언급했다."
+    },
+    {
+      "id": "a348f1f49360",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "published": "2026-10-26T03:29:05+00:00",
+      "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 213 # Comments: 77"
     },
     {
       "id": "660932c2f120",
@@ -1002,6 +1321,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261025111619",
       "published": "2026-10-25T04:48:51+00:00",
       "summary": "[지디넷코리아]퇴근길에도 내일 할 일이 머릿속을 맴돈다면 휴대전화로 일을 시킬 수 있는 인공지능(AI) 비서를 두면 어떨까.오픈AI와 앤트로픽이 사용자가 자리를 비운 동안에도 업무를 처리하는 AI 비서를 잇달아 선보였다. 오픈AI는 지난달 29일 '닷츠'를 공개했고 앤트로픽은 지난 21일(현지시간) '클로드 듀엣'을 시험 공개했다.김경훈 오픈AI코리아 대표는 지난 22일 '오픈AI 데브데이 익스체인지: 서울'에서 한국이 닷츠 주간 활성 이용자 수 기준 세계 3위라고 밝혔다. 공개한 지 한 달도 지"
+    },
+    {
+      "id": "cbe4894dc992",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "link": "https://github.com/notaroomba/keybytes",
+      "published": "2026-10-25T03:47:56+00:00",
+      "summary": "Article URL: https://github.com/notaroomba/keybytes Comments URL: https://news.ycombinator.com/item?id=50228115 Points: 246 # Comments: 86"
     },
     {
       "id": "50e4ee2be09f",
@@ -1926,6 +2256,17 @@
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "published": "2026-10-23T23:05:49+00:00",
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "id": "0c0358e75b60",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "published": "2026-10-23T22:04:55+00:00",
+      "summary": "Article URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline Comments URL: https://news.ycombinator.com/item?id=50215997 Points: 367 # Comments: 149"
     },
     {
       "id": "c3f5af7047db",
@@ -14969,6 +15310,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "published": "2026-10-13T21:26:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "637dacc78e0b",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "published": "2026-10-13T21:26:16+00:00",
       "summary": ""
