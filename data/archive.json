@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-10-27T16:47:15.288772+00:00",
-  "count": 17506,
+  "updated_at": "2026-10-27T21:05:28.483396+00:00",
+  "count": 17526,
   "items": [
+    {
+      "id": "0cd2ce392323",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "published": "2026-10-27T19:39:04+00:00",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries."
+    },
+    {
+      "id": "6d03b399f409",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+      "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+      "published": "2026-10-27T19:32:07+00:00",
+      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval."
+    },
+    {
+      "id": "b4bbe341db3f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "published": "2026-10-27T18:55:35+00:00",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+    },
+    {
+      "id": "8abbd55f339c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "published": "2026-10-27T18:49:08+00:00",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make."
+    },
+    {
+      "id": "2b1ed5d98f73",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "link": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+      "published": "2026-10-27T18:20:28+00:00",
+      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand."
+    },
+    {
+      "id": "732b29f5638a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "published": "2026-10-27T17:30:00+00:00",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the "
+    },
+    {
+      "id": "1a8a560deec8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "published": "2026-10-27T17:08:08+00:00",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+    },
+    {
+      "id": "f3d686286ba3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "published": "2026-10-27T16:51:22+00:00",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater ris"
+    },
+    {
+      "id": "f5d63c374b94",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ghostty 1.4.0",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "published": "2026-10-27T16:51:22+00:00",
+      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 462 # Comments: 138"
+    },
+    {
+      "id": "31a4062d6269",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "published": "2026-10-27T16:44:40+00:00",
+      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta mis"
+    },
     {
       "id": "c37ffeaf5a40",
       "source": "TechCrunch",
@@ -12,6 +122,17 @@
       "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "published": "2026-10-27T16:30:57+00:00",
       "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
+    },
+    {
+      "id": "2ebb28352cd5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "published": "2026-10-27T16:14:18+00:00",
+      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste you"
     },
     {
       "id": "7dc73ec1eb4a",
@@ -25,6 +146,39 @@
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
     },
     {
+      "id": "73d0d0be247b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "published": "2026-10-27T16:00:22+00:00",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon."
+    },
+    {
+      "id": "9e29fa13230a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "published": "2026-10-27T16:00:00+00:00",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, "
+    },
+    {
+      "id": "60aba8e20c95",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "published": "2026-10-27T16:00:00+00:00",
+      "summary": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene cla"
+    },
+    {
       "id": "f1870750d315",
       "source": "The Verge",
       "kind": "article",
@@ -36,12 +190,34 @@
       "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Am"
     },
     {
+      "id": "7573f4a2ccf0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "published": "2026-10-27T15:28:26+00:00",
+      "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 325 # Comments: 175"
+    },
+    {
       "id": "be0d0c4a25b5",
       "source": "Wired",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "published": "2026-10-27T15:10:26+00:00",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use."
+    },
+    {
+      "id": "5e691d2c25bc",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
       "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
       "published": "2026-10-27T15:10:26+00:00",
       "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use."
@@ -91,6 +267,17 @@
       "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 286 # Comments: 71"
     },
     {
+      "id": "f29f21ff6fab",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "published": "2026-10-27T14:06:42+00:00",
+      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 625 # Comments: 213"
+    },
+    {
       "id": "b090a010a754",
       "source": "Ars Technica",
       "kind": "article",
@@ -135,6 +322,17 @@
       "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Key"
     },
     {
+      "id": "0effa83152c4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AI에이전트 경쟁력 진단\"...'미래기술 전략포럼' 다음달 5일 행사",
+      "link": "https://zdnet.co.kr/view/?no=20261027223206",
+      "published": "2026-10-27T13:32:06+00:00",
+      "summary": "[지디넷코리아]인공지능(AI), 반도체, 양자 등 미래 기술간 시너지를 통해 국가경쟁력 향상을 도모하는 민간주도 단체인 '미래기술 전략포럼' 세번째 행사가 다음달 5일 오후 3시 국회 의원회관 제8간담회의실에서 열린다.이번 3차 포럼 역시 인공지능산업협회(KAIIA)가 주최하고, 한국정보통신기술협회(TTA, 회장 손승현)와한국인공지능법학회 (회장 최경진 가천대 교수)가 공동 주관한다.'미래기술 전략포럼'은 글로벌 기술 경쟁 심화에 대응해 인공지능(AI)과 반도체 등 국가 핵심 미래기술 분야에서 산"
+    },
+    {
       "id": "2059c49d08a3",
       "source": "Wired",
       "kind": "article",
@@ -166,6 +364,17 @@
       "link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
       "published": "2026-10-27T13:04:28+00:00",
       "summary": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini. Last year'"
+    },
+    {
+      "id": "e9338f2c0005",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New iMac with M6",
+      "link": "https://www.apple.com/imac/",
+      "published": "2026-10-27T13:02:02+00:00",
+      "summary": "Article URL: https://www.apple.com/imac/ Comments URL: https://news.ycombinator.com/item?id=50258538 Points: 255 # Comments: 310"
     },
     {
       "id": "8f4ea9d85864",
@@ -628,6 +837,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216724",
       "published": "2026-10-27T08:20:00+00:00",
       "summary": "칩스앤미디어(대표 김상현)는 AI SoC와 로보틱스 분야 신규 라이선스 공급 성과에 힘입어 3분기 매출액(연결 기준) 71.6억 원, 영업이익 16.6억 원을 기록했다고 27일 밝혔다. 이는 전년동기 대비 각각 8.2%, 8.7% 증가한 수치다.라이선스 매출은 전년동기 대비 33.0% 증가한 44.3억 원을 기록하며 전체 매출 성장을 이끌었다. 메모리 수급 영향에 따른 고객사 칩 생산 감소로 로열티 매출은 줄었지만 AI·모빌리티 분야 신규 라이선스 확대가 이를 보완했다. 당기순이익은 환차손과 금융"
+    },
+    {
+      "id": "58735aa73b9f",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Build specialized multimodal models with LFM3",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "published": "2026-10-27T08:16:52+00:00",
+      "summary": ""
     },
     {
       "id": "d525d679f48e",
