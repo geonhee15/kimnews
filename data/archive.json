@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-26T21:45:02.895647+00:00",
-  "count": 17409,
+  "updated_at": "2026-10-27T00:52:31.953688+00:00",
+  "count": 17421,
   "items": [
+    {
+      "id": "ecd92ffcdb11",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216582",
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "테디노트의 LangGraph 에이전트 비법노트이경록·김태한·임한택·최재훈·강민석·김성연 | 리코멘드2026년 7월 6일추천이유저자들은 LangGraph를 활용해 단순 챗봇을 넘어 도구를 사용하고 협업하는 실무급 에이전트를 설계·구축하는 방법을 단계적으로 제시합니다. 상태 관리, 워크플로 그래프화, 멀티에이전트 패턴까지 현장에서 검증된 실전 기법을 담았습니다.상세보기 국내에서 랭체인을 공부해 본 개발자라면 '테디노트'라는 이름을 한 번쯤 지나쳤을 가능성이 크다. 리코멘드가 지난 7월 6일 펴낸 『테"
+    },
+    {
+      "id": "63acee9679fc",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T23:34:58+00:00",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have"
+    },
+    {
+      "id": "32a2e1a5a43d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216690",
+      "published": "2026-10-26T23:01:41+00:00",
+      "summary": "오픈AI가 컴퓨터 작업 성능을 높이고 이용 비용을 낮춘 ‘GPT-6.1 테라’를 출시했다. 문서 처리와 코딩 등 반복 업무를 대규모로 자동화하려는 기업·개발자 수요를 겨냥했다. API 가격을 ‘GPT-6.1 솔’의 절반으로 책정하고, 외부 평가에서도 작업당 비용과 환각을 줄여 비용 대비 성능 경쟁력을 강화했다.오픈AI는 26일(현지시간) 공식 블로그를 통해 GPT-5.6 테라의 후속 모델을 공개했다. 송장 정보를 읽어 회계 프로그램에 입력하거나 도면을 해석하는 등 반복적인 컴퓨터 업무를 주요 활용"
+    },
+    {
+      "id": "0b1e98afce5d",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "link": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "published": "2026-10-26T22:51:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f7462142b5bc",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "published": "2026-10-26T22:40:37+00:00",
+      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat."
+    },
+    {
+      "id": "1c5b722885bf",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "published": "2026-10-26T22:36:06+00:00",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
+    },
+    {
+      "id": "c563a2f16b9e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월26일] “빅테크 빼면 AI 효과=0”…아폴로 보고서가 보여준 것과 보여주지 못한 것",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216649",
+      "published": "2026-10-26T22:00:00+00:00",
+      "summary": "미국의 대형 투자회사 아폴로 리서치가 빅테크를 제외한 미국 기업들의 AI 재무 성과가 '0'이라는 분석을 내놓자, 미국 언론들이 잇달아 이를 비중 있게 다뤘습니다. 25일(현지시간) 블룸버그는 '아폴로 이코노미스트, 기술업계 밖 AI 성과는 0이라고 주장'이라는 제목을 달았습니다. 테크크런치도 'AI가 대부분 기업에 가져다준 재무적 성과는 0'이라고 보도했고, 비즈니스 인사이더도 비슷한 내용을 전했습니다. AI에 막대한 돈을 쏟아붓고도 아직 뚜렷한 성과가 보이지 않는다는 메시지는 그만큼 강렬합니다"
+    },
+    {
+      "id": "1bb0325fa5e4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "published": "2026-10-26T21:45:31+00:00",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Excha"
+    },
     {
       "id": "c8876c368df2",
       "source": "AI타임스",
@@ -34,6 +122,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216688",
       "published": "2026-10-26T21:15:25+00:00",
       "summary": "기업공개(IPO)를 추진하는 앤트로픽의 상장 신청서에서 막대한 장기 지출 약정과 빅테크에 대한 높은 의존도가 드러났다. 향후 10년에 걸쳐 약속한 지출은 6000억달러(약 796조원)를 넘으며, 계약 상당수는 취소할 수 없거나 실제 사용량과 관계없이 비용을 지급해야 한다. 빠른 매출 성장으로 분기 영업 흑자를 기록했지만, 상장 이후에도 장기 계약 비용을 충당하고 추가 자금을 확보해야 하는 과제를 안았다.26일(현지시간) 로이터와 블룸버그 등에 따르면, 앤트로픽은 상장 신청서에서 8개 파트너사와 향"
+    },
+    {
+      "id": "9e859fc885cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"서버 생태계 전반 위협\"...PHP이어 노드.js서도 보안 취약점 발견",
+      "link": "https://zdnet.co.kr/view/?no=20261027060701",
+      "published": "2026-10-26T21:07:01+00:00",
+      "summary": "[지디넷코리아]PHP에 이어 자바스크립트 서버 실행 환경인 노드.js(Node.js)에서도 보안 취약점이 발견됐다.Node.js는 자바를 서버에서 실행할 수 있게 해주는 환경이다. 웹과 클라우드 개발에서 상당히 중요한 위치를 차지하고 있다.AI 기반 오펜시브 사이버 보안 기업 티오리(Theori, 대표 박세준)는 웹 서버 및 백엔드 개발에 광범위하게 쓰이는 Node.js 런타임의 치명적 취약점인 ‘Node2shell(CVE-2026-111497)’에 대해 자체 재현 및 검증을 완료하고, 기업·기관"
     },
     {
       "id": "b0292b1b4d4b",
@@ -102,6 +201,17 @@
       "summary": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
     },
     {
+      "id": "f27cc7c2441e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "published": "2026-10-26T19:05:41+00:00",
+      "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 221 # Comments: 41"
+    },
+    {
       "id": "915f1bb46f9b",
       "source": "Ars Technica",
       "kind": "article",
@@ -155,6 +265,17 @@
       "link": "https://www.wired.com/review/google-fitbit-edge/",
       "published": "2026-10-26T18:49:49+00:00",
       "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression."
+    },
+    {
+      "id": "0b22434f85c7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "published": "2026-10-26T17:56:55+00:00",
+      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 257 # Comments: 169"
     },
     {
       "id": "b08e45e4c228",
@@ -595,6 +716,17 @@
       "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
       "published": "2026-10-26T11:15:50+00:00",
       "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 215 # Comments: 54"
+    },
+    {
+      "id": "453b206753a8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Websites Should Be Printable",
+      "link": "https://brennenputh.me/blog/printable-websites/",
+      "published": "2026-10-26T10:32:14+00:00",
+      "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 258 # Comments: 170"
     },
     {
       "id": "a6cb45e07bbf",
