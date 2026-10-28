@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-10-28T18:37:13.910455+00:00",
-  "count": 17648,
+  "updated_at": "2026-10-28T22:52:36.377639+00:00",
+  "count": 17682,
   "items": [
+    {
+      "id": "31132cf92fc2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "published": "2026-10-28T22:47:50+00:00",
+      "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+    },
+    {
+      "id": "628e360d4c24",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216742",
+      "published": "2026-10-28T22:00:00+00:00",
+      "summary": "AI가 글을 쓰고 그림을 그리면서 시작된 인간의 창의성에 관한 논쟁이 이제 인간의 정체성과 존재 가치를 묻는 근본적인 질문으로 이어지고 있습니다. AI가 수학과 과학 발견에 참여하고 스스로 판단해 행동하는 수준으로 발전하면서, 인간이 다른 존재와 구별되는 근거는 무엇인지 다시 생각해야 한다는 전문가들의 의견이 잇따르는 것입니다. 특히 인간의 지적 능력이 더 이상 특별하지 않다면 무엇으로 인간의 가치를 설명할 수 있는지가 핵심적인 질문으로 떠오르고 있습니다.니콜라스 디르크스 뉴욕과학아카데미 회장 겸"
+    },
+    {
+      "id": "f765f2cb7caf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "published": "2026-10-28T21:58:32+00:00",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+    },
+    {
+      "id": "55f2816aa075",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "published": "2026-10-28T21:48:37+00:00",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+    },
+    {
+      "id": "28ecc21919a2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "published": "2026-10-28T21:34:30+00:00",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+    },
+    {
+      "id": "3aff358fefb6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "published": "2026-10-28T21:34:04+00:00",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which"
+    },
+    {
+      "id": "84453b9b0bd1",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "published": "2026-10-28T21:25:30+00:00",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+    },
+    {
+      "id": "e4481a70aeac",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "애플, 16년 만에 터치스크린 맥북 출시…스티브 잡스의 원칙 뒤집었다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216769",
+      "published": "2026-10-28T21:09:36+00:00",
+      "summary": "애플이 창사 이래 처음으로 터치스크린을 탑재한 맥북 프로를 공개했다. 스티브 잡스 창업자가 2010년 노트북 터치스크린을 강하게 비판한 이후 16년 만에 기존 입장을 바꾼 것이다. 새로운 맥북 프로는 OLED 디스플레이와 아이폰의 '다이내믹 아일랜드'까지 도입하고, 화면을 손가락으로 조작할 수 있도록 운영체제도 개선했다.애플은 28일(현지시간) 미국 로스앤젤레스에서 신제품 발표 행사를 열고 '프로LED XDR(PROLED XDR)' 디스플레이를 탑재한 14인치와 16인치 맥북 프로를 공개했다. 가"
+    },
+    {
+      "id": "02ed6c5fc963",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔타이어 도전장에 깃허브 \"우린 늘 진화\"…인프라·커뮤니티로 승부",
+      "link": "https://zdnet.co.kr/view/?no=20261029060921",
+      "published": "2026-10-28T21:09:21+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] \"세상에 새로운 깃허브가 필요하다고 생각하지 않습니다. 시대 변화에 맞춰 진화하는 인공지능(AI) 플랫폼이 필요합니다. 우리는 그렇게 하고 있습니다.\"카일 데이글 깃허브 최고운영책임자(COO)는 미국 샌프란시스코에서 열린 '깃허브 유니버스 26' 기자간담회에서 엔타이어와의 경쟁에 대해 이같이 밝혔다. 토마스 돔케 전 최고경영자(CEO)가 세운 경쟁사 존재감을 인정하면서도 기존 깃허브를 발전시키는 데 집중하겠다는 입장이다.엔타이어는 깃허브 유니버스 "
+    },
+    {
+      "id": "f114901cdc64",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Creating AI value with enterprise context",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "published": "2026-10-28T20:32:02+00:00",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when s"
+    },
+    {
+      "id": "8553e25fa44d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google says its investments in AI are driving more searches",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "published": "2026-10-28T20:22:26+00:00",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a stat"
+    },
+    {
+      "id": "a2389f40f004",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+      "published": "2026-10-28T20:22:15+00:00",
+      "summary": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼스 5.5'와 오픈AI의 'GPT-6 아스트라'를 제치고 정상에 올랐다. 특히 사이버 보안과 장시간 자율 작업 능력을 대폭 개선했으며, 복잡한 소프트웨어의 취약점을 찾아내고 공격 가능성을 검증한 뒤 수정하는 작업에서 최고 수준의 성능을 기록했다.구글 딥마인드는 28일(현지시간) 공식 블로그를 통해 플래그"
+    },
+    {
+      "id": "f52939ac20ef",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "published": "2026-10-28T20:20:00+00:00",
+      "summary": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsof"
+    },
+    {
+      "id": "e697485a8631",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 연준 '매파적' 금리 동결…2027년부터 회의 체계 전면 개편",
+      "link": "https://zdnet.co.kr/view/?no=20261029045440",
+      "published": "2026-10-28T20:18:23+00:00",
+      "summary": "[지디넷코리아]미국 연방준비제도(연준)가 27~28일(현지시간) 연 공개시장위원회(FOMC)에서 연방기금금리 범위를 현행과 같은 수준인 3.75%~4.00%로 동결하기로 결정했다.인플레이션 우려 속에서도 지난 9월 금리를 0.25%p 상향 조정한 이후, 금융 및 신용 여건이 긴축됐다는 점에서 금리를 유지하기로 했다. 이번 결정은 FOMC 위원 12명 중 2명이 금리 동결에 반대했다. FOMC 위원 12명 중 2명인 리사 쿡 연준이사와 베스 해맥 클리블랜드 연방은행 총재는 0.25%p 금리 인상을 "
+    },
+    {
+      "id": "fb48f0b76c13",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "published": "2026-10-28T20:12:44+00:00",
+      "summary": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with ever"
+    },
+    {
+      "id": "e489529133d6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "에티살랏, 2026년 1~9월 연결 순이익 46% 증가한 172억 디르함으로 역대 최대 실적 달성",
+      "link": "https://zdnet.co.kr/view/?no=20261029051003",
+      "published": "2026-10-28T20:10:03+00:00",
+      "summary": "[지디넷코리아] 2026년 첫 9개월 연결 매출 576억 디르함으로 전년 동기 대비 10.0% 증가 2026년 첫 9개월 연결 순이익 172억 디르함으로 전년 동기 대비 45.9% 증가 그룹 전체 가입자 수 2억 5480만 명 달성 창립 50주년 맞아 에티살랏이라는 이름으로 새로운 성장 시대 개막 아부다비, 아랍에미리트, 2026년 10월 28일 /PRNewswire/ -- 에티살랏(etisalat)이 오늘 2026년 3분기 연결 재무 실적을 발표하며, 전년 동기 대비 6.9% 증가한 195억 디"
+    },
+    {
+      "id": "e601a2528f09",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "published": "2026-10-28T20:03:00+00:00",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau"
+    },
+    {
+      "id": "0d6a69153417",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "published": "2026-10-28T20:01:00+00:00",
+      "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online."
+    },
+    {
+      "id": "eef9a131b5fb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "published": "2026-10-28T20:00:00+00:00",
+      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot."
+    },
+    {
+      "id": "14e0a659be9d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "published": "2026-10-28T19:19:58+00:00",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+    },
+    {
+      "id": "0f4637c5cbb7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hands-on with the new OLED iPad Mini",
+      "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
+      "published": "2026-10-28T19:18:58+00:00",
+      "summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The \"Pro and te"
+    },
+    {
+      "id": "c7e17493d7b3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+      "published": "2026-10-28T19:10:29+00:00",
+      "summary": "It's not as different from the previous model as you might have expected."
+    },
+    {
+      "id": "2d260fb65762",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "published": "2026-10-28T19:05:46+00:00",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul"
+    },
+    {
+      "id": "cce5e743e043",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+      "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+      "published": "2026-10-28T18:57:22+00:00",
+      "summary": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now."
+    },
+    {
+      "id": "c10be22da036",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "published": "2026-10-28T18:47:27+00:00",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+    },
     {
       "id": "b3be882bfaf0",
       "source": "The Verge",
@@ -34,6 +309,17 @@
       "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
       "published": "2026-10-28T18:14:11+00:00",
       "summary": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have"
+    },
+    {
+      "id": "dd4759c6e588",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브 \"AI 작업 배분까지 자동화…개발자, 목표·결과 검토에 집중\"",
+      "link": "https://zdnet.co.kr/view/?no=20261029031253",
+      "published": "2026-10-28T18:12:53+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] \"그동안 개발자는 여러 인공지능(AI) 에이전트에 작업을 맡기고 진행 상황까지 챙겨야 했습니다. 이제는 이런 조율까지 AI가 합니다. 개발자는 작업 목표 설정과 결과 검토에만 집중하면 됩니다.\"제이 파리크 마이크로소프트 코어AI 부문 수석부사장은 28~29일(현지시간) 미국 샌프란시스코 포트넘매이슨에서 열린 '깃허브 유니버스 26' 기조연설에서 이같이 밝혔다.이날 깃허브는 개발 목표에 따라 에이전트를 실행하고 작업을 배분하는 '코파일럿 프로젝트'를"
     },
     {
       "id": "b51e2dc2d54e",
@@ -146,6 +432,17 @@
       "summary": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen."
     },
     {
+      "id": "757bdf1ce262",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "published": "2026-10-28T17:13:29+00:00",
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 587 # Comments: 132"
+    },
+    {
       "id": "224f4c08418a",
       "source": "The Verge",
       "kind": "article",
@@ -223,6 +520,28 @@
       "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
     },
     {
+      "id": "a8889e85af60",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브, AI 모델 선택·작업 관리 자동화…\"내년 애저 100% 전환\"",
+      "link": "https://zdnet.co.kr/view/?no=20261028171650",
+      "published": "2026-10-28T16:10:02+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] 깃허브가 인공지능(AI) 에이전트로 소프트웨어 개발 전 과정을 지원하는 플랫폼 기능을 확대했다. 작업 계획부터 코드 작성과 검증까지 연결해 개발자가 여러 에이전트에 작업을 맡기고 결과를 검토할 수 있게 돕겠단 전략이다.깃허브는 28~29일(현지시간) 미국 샌프란시스코에서 열린 연례 개발자 컨퍼런스 '깃허브 유니버스 2026'에서 코파일럿 앱과 퓨전, 프로젝트, 오토메이션 등 신규 제품과 기능을 공개했다. 개발 속도와 품질을 높이고, 작업에 필요한 "
+    },
+    {
+      "id": "36062f5f8c2f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브, 광업·건설·농업까지 확산…\"개발 프로젝트 18배 늘어\"",
+      "link": "https://zdnet.co.kr/view/?no=20261028154724",
+      "published": "2026-10-28T16:10:01+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] 인공지능(AI) 코딩 에이전트가 IT 업계를 넘어 광업과 건설업, 보건의료, 농업 등 산업 전반으로 확산하고 있는 것으로 나타났다. 산업별 현장 문제를 해결하기 위한 AI 개발 프로젝트가 최근 수년간 크게 늘었다는 분석이다. 깃허브가 지난 27일(현지시간) 공개한 '옥토버스 2026' 보고서에 따르면 광업·채석업·석유·가스 채굴업을 지원하는 코드 저장소는 2022년 수치보다 약 65배로 늘어난 것으로 집계됐다. 초기 규모가 작았던 사업지원 서비스업"
+    },
+    {
       "id": "ded431185c4d",
       "source": "GitHub Blog",
       "kind": "article",
@@ -287,6 +606,28 @@
       "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
       "published": "2026-10-28T15:00:00+00:00",
       "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+    },
+    {
+      "id": "43fdb5ceb277",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국도 숏폼 드라마에 푹…유튜브, '쇼츠 시리즈' 도입",
+      "link": "https://zdnet.co.kr/view/?no=20261028233717",
+      "published": "2026-10-28T14:42:24+00:00",
+      "summary": "[지디넷코리아]최근 1년간 국내 유튜브 숏폼 드라마 조회수가 130% 이상 증가한 가운데, 유튜브는 시청자들이 여러 에피소드를 연속으로 감상할 수 있는 '쇼츠 시리즈' 기능을 도입한다. 크리에이터들이 연재형 콘텐츠를 제작하고 이를 수익으로 연결할 수 있도록 지원한다는 계획이다.28일 유튜브에 따르면 쇼츠 시리즈는 여러 쇼츠 영상을 하나의 연재형 콘텐츠로 묶어 제공하는 기능이다. 크리에이터는 맞춤형 썸네일을 활용해 시즌과 에피소드를 체계적으로 구성할 수 있으며, 시청자는 연속 재생 기능을 통해 다음"
+    },
+    {
+      "id": "3010c3369f24",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "CNC Stone Carving",
+      "link": "https://carmelitegothic.com/cnc-stone-carving/",
+      "published": "2026-10-28T14:38:22+00:00",
+      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 357 # Comments: 109"
     },
     {
       "id": "b9630f2d3529",
@@ -608,6 +949,17 @@
       "summary": "앤트로픽이 내년 7~8월 인간 연구원의 도움 없이 차세대 AI 모델을 개발하는 '완전한 재귀적 자가 개선(RSI)' 단계에 도달할 수 있다는 전망이 나왔다. 첨단 AI 모델의 연구개발 능력을 평가한 결과, 앤트로픽의 성능이 지난 1년간 일정한 속도로 향상됐다는 분석이다. AI 모델 평가 전문기업 발스 AI(Vals AI)의 공동 창업자이자 CEO인 라얀 크리슈난은 27일(현지시간) 공개된 조 론스데일의 팟캐스트 '아메리칸 옵티미스트'에 출연해 \"최근 추정에 따르면 앤트로픽은 2027년 7월 또는 "
     },
     {
+      "id": "8adbfd469d61",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "발스 AI “앤트로픽, 내년 여름 RSI에 도달”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216767",
+      "published": "2026-10-28T09:37:43+00:00",
+      "summary": "앤트로픽이 내년 7~8월 인간 연구원의 도움 없이 차세대 AI 모델을 개발하는 '완전한 재귀적 자가 개선(RSI)' 단계에 도달할 수 있다는 전망이 나왔다. 첨단 AI 모델의 연구개발 능력을 평가한 결과, 앤트로픽의 성능이 지난 1년간 일정한 속도로 향상됐다는 분석이다. AI 모델 평가 전문기업 발스 AI(Vals AI)의 공동 창업자이자 CEO인 라얀 크리슈난은 27일(현지시간) 공개된 조 론스데일의 팟캐스트 '아메리칸 옵티미스트'에 출연해 \"최근 추정에 따르면 앤트로픽은 2027년 7월 또는 "
+    },
+    {
       "id": "93e1ccdaba2a",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -735,6 +1087,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "수천만 달러 GPU 노린다…고속도로 화물 운송망 덮친 첨단 범죄 기승",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216760",
+      "published": "2026-10-28T08:28:52+00:00",
+      "summary": "미국에서 AI 데이터센터에 들어가는 고가의 서버와 반도체 부품을 노린 조직적인 화물 절도 범죄가 급증하고 있다. 범죄 조직들은 운송업체 계정 해킹과 피싱, GPS 신호 조작, 차량 충돌 등 첨단 기술과 물리력을 결합해 화물을 가로채고 있다. 지난 6월 이후 도난당한 컴퓨팅 장비와 관련 부품의 피해액만 1억달러(약 1300억원)를 넘어선 것으로 전해졌다.NBC에 따르면, 지난 2월에는 1300만달러(약 173억원) 상당의 컴퓨터 서버 장비를 싣고 조지아주 페이엣빌로 향하던 트레일러가 범죄 조직의 표"
+    },
+    {
+      "id": "3e685b5388b6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "수천만달러 GPU 노린다…고속도로 화물 운송망 덮친 첨단 범죄 기승",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216760",
       "published": "2026-10-28T08:28:52+00:00",
       "summary": "미국에서 AI 데이터센터에 들어가는 고가의 서버와 반도체 부품을 노린 조직적인 화물 절도 범죄가 급증하고 있다. 범죄 조직들은 운송업체 계정 해킹과 피싱, GPS 신호 조작, 차량 충돌 등 첨단 기술과 물리력을 결합해 화물을 가로채고 있다. 지난 6월 이후 도난당한 컴퓨팅 장비와 관련 부품의 피해액만 1억달러(약 1300억원)를 넘어선 것으로 전해졌다.NBC에 따르면, 지난 2월에는 1300만달러(약 173억원) 상당의 컴퓨터 서버 장비를 싣고 조지아주 페이엣빌로 향하던 트레일러가 범죄 조직의 표"
@@ -5512,6 +5875,17 @@
       "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
       "published": "2026-10-23T14:47:41+00:00",
       "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms wi"
+    },
+    {
+      "id": "e9b9a75c6a06",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Start Doing Graph Theory",
+      "link": "https://vertex.degree/",
+      "published": "2026-10-23T13:49:50+00:00",
+      "summary": "Article URL: https://vertex.degree/ Comments URL: https://news.ycombinator.com/item?id=50208960 Points: 538 # Comments: 120"
     },
     {
       "id": "f5d9acdfacc3",
