@@ -1,7 +1,359 @@
 {
-  "updated_at": "2026-10-28T12:49:48.709906+00:00",
-  "count": 17610,
+  "updated_at": "2026-10-28T18:37:13.910455+00:00",
+  "count": 17648,
   "items": [
+    {
+      "id": "b3be882bfaf0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "published": "2026-10-28T18:36:26+00:00",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes n"
+    },
+    {
+      "id": "021bed471018",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "published": "2026-10-28T18:30:00+00:00",
+      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways."
+    },
+    {
+      "id": "7f47d61d8e0c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+      "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
+      "published": "2026-10-28T18:14:11+00:00",
+      "summary": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have"
+    },
+    {
+      "id": "b51e2dc2d54e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s where to preorder the latest MacBook Pros",
+      "link": "https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date",
+      "published": "2026-10-28T18:10:23+00:00",
+      "summary": "Apple finally showed off its 14- and 16-inch MacBook Pro laptops that have the PROLED XDR display at the October 2026 \"Pro and Tell\" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight, and bringing back the g"
+    },
+    {
+      "id": "2c29df02da32",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s how macOS is changing for touchscreens",
+      "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+      "published": "2026-10-28T17:48:28+00:00",
+      "summary": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it se"
+    },
+    {
+      "id": "578688d09bd7",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "published": "2026-10-28T17:46:32+00:00",
+      "summary": "But the AI responses get more forthright when asked outside the US."
+    },
+    {
+      "id": "ab2f263b04eb",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Deepseek's New AI Has A Secret",
+      "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "published": "2026-10-28T17:32:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "4916f4718e79",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple ‘Pro and Tell’ event: everything announced this week",
+      "link": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
+      "published": "2026-10-28T17:27:38+00:00",
+      "summary": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades an"
+    },
+    {
+      "id": "5003e19680a9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "published": "2026-10-28T17:26:10+00:00",
+      "summary": "Apple's new touchscreen MacBook Pro starts at $2,899."
+    },
+    {
+      "id": "55a6c1ea092c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display",
+      "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+      "published": "2026-10-28T17:25:04+00:00",
+      "summary": "The OLED display is the main draw, but the price is a lot to reckon with."
+    },
+    {
+      "id": "2877bb4c96c8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
+      "published": "2026-10-28T17:19:23+00:00",
+      "summary": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED "
+    },
+    {
+      "id": "50ffa9bad484",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hands-on with Apple’s touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+      "published": "2026-10-28T17:16:55+00:00",
+      "summary": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all "
+    },
+    {
+      "id": "231debd43faf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+      "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "published": "2026-10-28T17:15:16+00:00",
+      "summary": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen."
+    },
+    {
+      "id": "224f4c08418a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
+      "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
+      "published": "2026-10-28T17:12:47+00:00",
+      "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves u"
+    },
+    {
+      "id": "418b4c9e56de",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "published": "2026-10-28T17:10:37+00:00",
+      "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 220 # Comments: 347"
+    },
+    {
+      "id": "fb2eced45e2f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "published": "2026-10-28T17:01:23+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 365 # Comments: 312"
+    },
+    {
+      "id": "6dc8225b4617",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "published": "2026-10-28T17:00:58+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5bad73c806bd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "published": "2026-10-28T17:00:00+00:00",
+      "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch."
+    },
+    {
+      "id": "89cf1eccc75e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "published": "2026-10-28T17:00:00+00:00",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+    },
+    {
+      "id": "e4cb215c6f49",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "published": "2026-10-28T17:00:00+00:00",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+    },
+    {
+      "id": "ded431185c4d",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "published": "2026-10-28T16:09:28+00:00",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "a3fe99bf540d",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "published": "2026-10-28T16:07:40+00:00",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "d2c96056f790",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "published": "2026-10-28T15:53:52+00:00",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+    },
+    {
+      "id": "1528173e38f4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "published": "2026-10-28T15:53:21+00:00",
+      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta."
+    },
+    {
+      "id": "c23e32e1c34d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "published": "2026-10-28T15:41:18+00:00",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+    },
+    {
+      "id": "808490c22211",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "published": "2026-10-28T15:00:00+00:00",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+    },
+    {
+      "id": "b9630f2d3529",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "published": "2026-10-28T14:34:25+00:00",
+      "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16."
+    },
+    {
+      "id": "c9391958591e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "published": "2026-10-28T14:26:36+00:00",
+      "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google."
+    },
+    {
+      "id": "d5d9be8b29ee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta has a new AI pet app called Waddle World",
+      "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "published": "2026-10-28T13:53:31+00:00",
+      "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI."
+    },
+    {
+      "id": "c7e652e17b28",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Did the AI bubble just pop?",
+      "link": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+      "published": "2026-10-28T13:31:29+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7519b00b2eae",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Emacs Turns 50",
+      "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "published": "2026-10-28T13:25:11+00:00",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 264 # Comments: 108"
+    },
+    {
+      "id": "113a58afa6f9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "뱅크오브아메리카, 고객에 \"AI 비서에 은행 비밀번호 주지 말라\"",
+      "link": "https://zdnet.co.kr/view/?no=20261028212659",
+      "published": "2026-10-28T12:26:59+00:00",
+      "summary": "[지디넷코리아]미국 대형 은행 뱅크오브아메리카가 고객들에게 AI 비서나 AI 에이전트에 은행 아이디와 비밀번호를 알려 주지 말라고 안내했다. 테크크런치는 현지 시각 10월 27일 뱅크오브아메리카가 'AI 시대의 금융 자산 보호'라는 제목의 이메일을 고객들에게 일괄 발송했다고 보도했다.뱅크오브아메리카는 이메일에서 아이디와 비밀번호를 다른 사람이나 외부 서비스와 공유하지 말라고 당부했으며, 고객 대신 업무를 처리해 주겠다는 AI 도구와 에이전트도 공유 금지 대상에 포함했다. 뱅크오브아메리카는 로그인 "
+    },
     {
       "id": "66cc379313c4",
       "source": "The Verge",
@@ -91,6 +443,28 @@
       "summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discuss"
     },
     {
+      "id": "91275fdecea1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "컴팔과 ARC 클라우드, 대규모 AI 인프라 가속화 위한 전략적 파트너십 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261028201002",
+      "published": "2026-10-28T11:10:02+00:00",
+      "summary": "[지디넷코리아] MOU에 첨단 AI 컴퓨팅 시스템, 고성능 GPU 클러스터, 차세대 데이터 센터 인프라를 아우르는 글로벌 전략적 협력 방안 담아 새너제이, 캘리포니아, 2026년 10월 28일 /PRNewswire/ -- 컴팔 일렉트로닉스(Compal Electronics, Inc.)(TWSE: 2324, 이하 '컴팔')와 ARC 클라우드(ARC Cloud)가 오늘 대규모 AI 컴퓨팅 인프라 분야에서 전략적 협력을 진전시키기 위한 양해각서(MOU)를 체결했다고 발표했다. ARC Cloud Boar"
+    },
+    {
+      "id": "982e02adcfff",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "link": "https://emudhra.we-have-a-problem.com/apple.html",
+      "published": "2026-10-28T11:03:40+00:00",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 851 # Comments: 332"
+    },
+    {
       "id": "3a5ada1c4bc6",
       "source": "조코딩",
       "kind": "youtube",
@@ -144,6 +518,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261028184455",
       "published": "2026-10-28T10:00:53+00:00",
       "summary": "[지디넷코리아]28일 웨스틴 서울 파르나스 하모니볼룸에 구름떼 같은 인파가 몰렸다. 휴먼컨설팅그룹(HCG)이 개최한 인공지능(AI) 컨퍼런스 ‘그라운드 원’ 행사장 한편에 마련된 5개의 HR 전문 AI 에이전트 부스에 방문하기 위해서다.HCG의 그라운드 원은 HR 리더들을 대상으로 현장에서 마주하는 질문과 AI를 조직에 적용하고 신뢰하는 방법, 사람과 AI의 역할을 어떻게 재설계할지를 다룬 컨퍼런스다. 이날 HCG는 AI를 통해 얻은 정교한 답변을 HR 실무와 연결할 수 있는 ‘일라이자엑스(eli"
+    },
+    {
+      "id": "f13d00861b26",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"나 결혼해\" 했더니 신청서가 '척’…HCG 'AI 에이전트 5총사' 출격",
+      "link": "https://zdnet.co.kr/view/?no=20261028184455",
+      "published": "2026-10-28T10:00:53+00:00",
+      "summary": "[지디넷코리아]28일 웨스틴 서울 파르나스 하모니볼룸에 구름떼 같은 인파가 몰렸다. 휴먼컨설팅그룹(HCG)이 개최한 ‘그라운드 원’ 인공지능(AI) 컨퍼런스와, 행사장 입구에 마련된 인적자원(HR) 전문 AI 에이전트 부스에 방문하기 위해서다.HCG의 그라운드 원은 HR 리더들을 대상으로 현장에서 마주하는 질문과 AI를 조직에 적용하고 신뢰하는 방법, 사람과 AI의 역할을 어떻게 재설계할지를 다룬 컨퍼런스다. 이날 HCG는 AI를 통해 얻은 정교한 답변을 HR 실무와 연결할 수 있는 ‘일라이자엑스"
     },
     {
       "id": "d116a9c2d3d2",
@@ -452,6 +837,17 @@
       "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
       "published": "2026-10-28T06:00:00+00:00",
       "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn."
+    },
+    {
+      "id": "e4b4fc2b8872",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "published": "2026-10-28T05:58:17+00:00",
+      "summary": ""
     },
     {
       "id": "c8976e8c190c",
@@ -782,6 +1178,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
       "published": "2026-10-27T20:48:58+00:00",
       "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing i"
+    },
+    {
+      "id": "888f2df9e645",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "published": "2026-10-27T20:35:09+00:00",
+      "summary": "Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/ Comments URL: https://news.ycombinator.com/item?id=50265393 Points: 277 # Comments: 170"
     },
     {
       "id": "7594d8829df8",
@@ -2685,6 +3092,17 @@
       "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
       "published": "2026-10-26T13:13:36+00:00",
       "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ Comments URL: https://news.ycombinator.com/item?id=50243061 Points: 214 # Comments: 526"
+    },
+    {
+      "id": "181fdbf1643d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "link": "https://www.circuithub.com/post/unveiling-the-grid",
+      "published": "2026-10-26T13:13:31+00:00",
+      "summary": "Article URL: https://www.circuithub.com/post/unveiling-the-grid Comments URL: https://news.ycombinator.com/item?id=50243060 Points: 285 # Comments: 127"
     },
     {
       "id": "1b397be01c56",
