@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-10-27T21:05:28.483396+00:00",
-  "count": 17526,
+  "updated_at": "2026-10-28T00:30:33.821029+00:00",
+  "count": 17545,
   "items": [
+    {
+      "id": "03f987fe0fc2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-27T23:34:27+00:00",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+    },
+    {
+      "id": "dc246ab9995b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "2026-10-27T22:55:41+00:00",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+    },
+    {
+      "id": "79d3dc4f1289",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "published": "2026-10-27T22:37:30+00:00",
+      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+    },
+    {
+      "id": "77a01b8214f0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "published": "2026-10-27T22:26:03+00:00",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
+    },
+    {
+      "id": "e9a6a3e31845",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+      "published": "2026-10-27T22:17:10+00:00",
+      "summary": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전 모델보다 물리 현상과 인간 행동을 사실적으로 구현하고, 제미나이의 추론 능력을 결합해 복잡한 사건을 여러 단계에 걸쳐 시뮬레이션할 수 있도록 개선했다. 게임과 영상 제작은 물론 로봇과 AI 에이전트의 가상 훈련에도 활용할 수 있는 기술이다.구글 딥마인드는 27일(현지시간) 공식 블로그를 통해 새로운 실시간 월드 모델 지니 4를 발표했다."
+    },
+    {
+      "id": "e12a4f2d8d81",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월27일] 앤트로픽 IPO에 걸린 건 '거의 모든 것'...AI 붐의 미래 가른다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216703",
+      "published": "2026-10-27T22:00:00+00:00",
+      "summary": "26일(현지시간) 뉴욕타임스(NYT)는 앤트로픽의 기업공개(IPO)를 앞두고 “거의 모든 것이 걸려 있다(nearly everything is at stake)”고 표현했습니다. 앤트로픽의 상장이 단일 기업의 증시 입성에 그치지 않고, AI 산업 전체의 성장 전망과 투자 열풍을 검증하는 시험대가 됐다는 의미입니다.AI 서비스 매출은 빠르게 늘고 있지만, 이를 뒷받침하는 반도체와 데이터센터, 전력, 금융에는 이미 천문학적인 자금이 투입됐습니다. 앤트로픽의 실적과 상장 이후 주가는 이 투자가 지속 가"
+    },
+    {
+      "id": "0803f566255f",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "published": "2026-10-27T21:50:04+00:00",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
+    },
+    {
+      "id": "6c86ddaf106b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published": "2026-10-27T21:44:34+00:00",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+    },
+    {
+      "id": "df17d9269091",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "published": "2026-10-27T21:38:28+00:00",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+    },
+    {
+      "id": "39849737a80a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "published": "2026-10-27T21:31:14+00:00",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
+    },
+    {
+      "id": "f70278df4f5a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "published": "2026-10-27T20:48:58+00:00",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing i"
+    },
     {
       "id": "0cd2ce392323",
       "source": "Wired",
@@ -47,6 +168,17 @@
       "summary": "You can apparently now tell AI tools what sort of protein you want them to make."
     },
     {
+      "id": "dd47f4a34804",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "published": "2026-10-27T18:44:17+00:00",
+      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 220 # Comments: 122"
+    },
+    {
       "id": "2b1ed5d98f73",
       "source": "Wired",
       "kind": "article",
@@ -58,6 +190,17 @@
       "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand."
     },
     {
+      "id": "0503827aaaee",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오라클, 오픈AI와 AI 보안 위협 공동 대응…\"취약점 찾아 고친다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261028025822",
+      "published": "2026-10-27T17:58:22+00:00",
+      "summary": "[지디넷코리아][라스베이거스(미국)=이나연 기자] 인공지능(AI)이 기존 소프트웨어 보안 취약점을 빠르게 드러내는 환경 속에서 오라클이 오픈AI와 손잡고 기업용 보안 기술 강화에 나섰다. 양사 기술을 결합해 취약점 탐지부터 검증·수정까지 지원하고 AI 에이전트 확산에 따른 보안 위협에 대응할 방침이다.클레이 마고요크 오라클 최고경영자(CEO)는 27일(현지시간) 미국 라스베이거스 베네시안 엑스포에서 열린 '오라클 AI 월드 2026' 기조연설에서 샘 알트먼 오픈AI CEO와 기업 AI 보안 대응 "
+    },
+    {
       "id": "732b29f5638a",
       "source": "The Verge",
       "kind": "article",
@@ -67,6 +210,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
       "published": "2026-10-27T17:30:00+00:00",
       "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the "
+    },
+    {
+      "id": "a4b4b9ef5af9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "피오스 지노믹스 생물정보학 팀 및 서비스, 엑셀라로 이전",
+      "link": "https://zdnet.co.kr/view/?no=20261028021003",
+      "published": "2026-10-27T17:10:03+00:00",
+      "summary": "[지디넷코리아]에든버러 소재 팀, 엑셀라 과학 컨설팅 그룹에 합류하며 오믹스 분석 전문성과 영국•유럽 내 입지 강화 스코틀랜드 에든버러 및 인도 하이데라바드, 2026년 10월 27일 /PRNewswire/ -- 글로벌 과학 정보학 기업 엑셀라(Excelra)가 피오스 지노믹스(Fios Genomics Ltd)의 생물정보학 서비스와 담당 팀이 2026년 10월 20일부로 엑셀라로 이전했다고 이날 발표했다. Fios Genomics bioinformatics team and services move"
     },
     {
       "id": "1a8a560deec8",
@@ -102,6 +256,17 @@
       "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 462 # Comments: 138"
     },
     {
+      "id": "38f67785eec5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ghostty 1.4",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "published": "2026-10-27T16:51:22+00:00",
+      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 692 # Comments: 214"
+    },
+    {
       "id": "31a4062d6269",
       "source": "The Verge",
       "kind": "article",
@@ -124,6 +289,17 @@
       "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers."
     },
     {
+      "id": "fa8960f24433",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "published": "2026-10-27T16:25:30+00:00",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 230 # Comments: 132"
+    },
+    {
       "id": "2ebb28352cd5",
       "source": "The Verge",
       "kind": "article",
@@ -133,6 +309,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
       "published": "2026-10-27T16:14:18+00:00",
       "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste you"
+    },
+    {
+      "id": "dabd00ffb638",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "published": "2026-10-27T16:08:32+00:00",
+      "summary": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 265 # Comments: 319"
     },
     {
       "id": "7dc73ec1eb4a",
@@ -221,6 +408,17 @@
       "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
       "published": "2026-10-27T15:10:26+00:00",
       "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use."
+    },
+    {
+      "id": "610d62456197",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엑스피펜, 모바일 영감과 전문 창작을 연결하는 전문가용 올 시나리오 드로잉 패드 매직 프로 13 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261028001002",
+      "published": "2026-10-27T15:10:02+00:00",
+      "summary": "[지디넷코리아]로스앤젤레스, 2026년 10월 27일 /PRNewswire/ -- 디지털 아트 혁신 분야의 글로벌 선도 기업 엑스피펜(XPPen)이 10월 27일, 업계 최초의 하드웨어 수준 액정 타블렛 모드(Drawing Display Mode)를 통해 데스크톱급 드로잉 디스플레이로도 작동하는 전문가용 올 시나리오 드로잉 패드 매직 프로 13(Magic Pro 13)을 공식 출시했다. 이 제품은 X4 스마트 칩 스타일러스(X4 Smart Chip Stylus), 3K 120Hz 종이 질감 디스플"
     },
     {
       "id": "f298e4708d8b",
@@ -804,6 +1002,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216717",
       "published": "2026-10-27T08:36:59+00:00",
       "summary": "자산 가치는 시간이 지날수록 하락한다는 감가상각 개념이 GPU 시장에서는 통하지 않는 것으로 확인됐다.미국 벤처캐피털 앤드리슨 호로위츠(a16z)는 H200·B200·A100 등 주요 GPU 5종의 렌탈 가격 추이를 공개했다. GPU 가격 데이터 업체 오른(Ornn)의 지수를 분석한 결과, 올해 1월1일 가격을 100으로 놓았을 때 10월 기준 5종 모두 연초 대비 렌탈 가격이 오른 것으로 집계됐다.상승 폭은 H200이 약 2.6배로 가장 높았으며, B200·RTX PRO 6000·H100 순이었"
+    },
+    {
+      "id": "83af927a2393",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구석기 역사공원 리모델링 조성사업, 선사시대 흔적 담은 체험형 역사문화공간 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216730",
+      "published": "2026-10-27T08:35:00+00:00",
+      "summary": "경기도 남양주시 구석기 역사공원에 선사시대의 역사와 문화를 친근하게 전달하기 위한 리모델링 사업이 추진됐다. 이번 사업은 구석기시대의 생활상과 유적의 역사적 가치를 시각적으로 표현하고, 방문객들이 자연 속에서 역사와 문화를 함께 경험할 수 있는 교육·체험형 공간을 조성하는 데 중점을 뒀다.공원에는 구석기시대의 생활 모습을 형상화한 조형물과 역사 안내시설이 설치돼 방문객들의 이해를 돕는다. 특히 구석기인의 모습을 친근한 캐릭터로 재해석한 청동색 조형물은 역사공원의 상징성을 높이는 동시에 어린이와 가"
     },
     {
       "id": "ebd1784cb3bd",
