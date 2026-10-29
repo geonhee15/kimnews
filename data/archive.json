@@ -1,7 +1,425 @@
 {
-  "updated_at": "2026-10-29T08:26:23.652726+00:00",
-  "count": 17723,
+  "updated_at": "2026-10-29T15:22:54.822314+00:00",
+  "count": 17771,
   "items": [
+    {
+      "id": "00d49b29ad42",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "published": "2026-10-29T15:00:00+00:00",
+      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents"
+    },
+    {
+      "id": "0cab95ab3988",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "published": "2026-10-29T14:39:37+00:00",
+      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients a"
+    },
+    {
+      "id": "07efd9ce934f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "published": "2026-10-29T14:35:26+00:00",
+      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+    },
+    {
+      "id": "148660826a0b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "published": "2026-10-29T14:13:21+00:00",
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 295 # Comments: 64"
+    },
+    {
+      "id": "da2775c19036",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그룹14, 글로벌 제조 입지 가속화 위해 1억 5000만 유로 규모의 시리즈 D 연장 마감",
+      "link": "https://zdnet.co.kr/view/?no=20261029231002",
+      "published": "2026-10-29T14:10:02+00:00",
+      "summary": "[지디넷코리아] 익명의 신규 투자자의 투자로 그룹14의 시리즈 D 누적 투자 유치액이 6억 6500만 달러를 넘어섰다. 스페인에 그룹14의 세 번째 대규모 배터리 활물질 생산시설(BAM-4)을 건설할 수 있는 기반을 마련했다. 한국의 BAM-3는 이미 가동 중이며 생산 규모를 확대하고 있고, 미국의 BAM-2는 2027년 상반기 가동에 들어갈 예정이다. 우딘빌, 미국 워싱턴주, 2026년 10월 29일 /PRNewswire/ -- 세계적인 첨단 실리콘 배터리 소재 제조•공급업체 그룹14 테크놀로지"
+    },
+    {
+      "id": "9ea7ac0714e5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "published": "2026-10-29T14:00:00+00:00",
+      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it cou"
+    },
+    {
+      "id": "613a30f6df58",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "published": "2026-10-29T14:00:00+00:00",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity."
+    },
+    {
+      "id": "9ba97510e0df",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+      "link": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+      "published": "2026-10-29T13:52:48+00:00",
+      "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on "
+    },
+    {
+      "id": "99c22d1d0d48",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+      "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
+      "published": "2026-10-29T13:43:53+00:00",
+      "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security."
+    },
+    {
+      "id": "2f834acab1cd",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "link": "https://www.wired.com/story/petkit-sale-october-2026/",
+      "published": "2026-10-29T13:41:26+00:00",
+      "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now."
+    },
+    {
+      "id": "390d9ba83bc4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "link": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "published": "2026-10-29T13:40:04+00:00",
+      "summary": "Article URL: https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter Comments URL: https://news.ycombinator.com/item?id=50288867 Points: 233 # Comments: 134"
+    },
+    {
+      "id": "86e4bcd529dd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+      "link": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+      "published": "2026-10-29T13:37:56+00:00",
+      "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid of LEDs. It's a far cry from the types of"
+    },
+    {
+      "id": "3325d75b24db",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "중기부 차관 뤼튼 방문...\"AI유니콘 성장 전략 곧 발표\"",
+      "link": "https://zdnet.co.kr/view/?no=20261029223725",
+      "published": "2026-10-29T13:37:25+00:00",
+      "summary": "[지디넷코리아]노용석 중기부 제1차관이 29일 서울 서초구 소재 인공지능(AI) 유니콘 기업 뤼튼테크놀로지스를 방문, 간담회를 개최했다.중기부는 혁신 AI 스타트업을 대상으로 ▲발굴부터 도약까지 전주기 지원 ▲혁신 성장 가속화 ▲글로벌 시장 도약 촉진 등의 과제를 마련, AI 유니콘으로 육성하기 위한 전략을 수립하고 있다. 조만간 이를 발표할 예정이다. 이번 간담회는 중기부의 'AI 스타트업 유니콘 성장 전략 수립'을 앞두고 이뤄졌다.중기부는 국가 AI 전략위원회와 함께 올해 초부터 'AI 스타트"
+    },
+    {
+      "id": "1153f1e18082",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "published": "2026-10-29T13:30:00+00:00",
+      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the busi"
+    },
+    {
+      "id": "0e32c808999f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple finally combined a toaster and a refrigerator",
+      "link": "https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator",
+      "published": "2026-10-29T13:21:02+00:00",
+      "summary": "For more than 15 years, Apple has had a pretty simple answer to the idea of a touchscreen MacBook: no. Yesterday, Apple finally decided to think different and announce one anyway. \"You've gotta touch it to believe it,\" says Apple CEO John Ternus. He might be right: I haven't yet "
+    },
+    {
+      "id": "d5bb66e39291",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "published": "2026-10-29T13:00:00+00:00",
+      "summary": "Deepgram said that it is committed to keep Pipecat open source."
+    },
+    {
+      "id": "d5eaaa965ce7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+      "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+      "published": "2026-10-29T13:00:00+00:00",
+      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot."
+    },
+    {
+      "id": "368016542ebc",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "published": "2026-10-29T12:58:34+00:00",
+      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access."
+    },
+    {
+      "id": "8aa07bc63086",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "published": "2026-10-29T12:41:56+00:00",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 212 # Comments: 161"
+    },
+    {
+      "id": "0eb28a818295",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"자율 SOC 실현 촉진\"...이글루, AI에이전트 '에어' 3종으로 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261029212655",
+      "published": "2026-10-29T12:26:55+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍스(AiR works)’, ‘에어 클루(AiR clue)’ 3종 라인업으로 확장한다.내년 1분기에는 AI 에이전트 오케스트레이션 플랫폼 'AiR works'를 출시, 각 조직 환경에 최적화한 ‘에이전틱 SOC(Agentic SOC)’ 구현을 지원하고, ‘자율형 보안운영센터(Autonom"
+    },
+    {
+      "id": "9878b3236dc6",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "published": "2026-10-29T12:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a no"
+    },
+    {
+      "id": "16408fda24ff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "IPX, '나루토·개구리 중사 케로로' 국내 사업권 확보…굿즈·팝업 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261029205602",
+      "published": "2026-10-29T11:56:02+00:00",
+      "summary": "[지디넷코리아]라인프렌즈로 알려진 IPX가 일본 인기 애니메이션 '나루토'와 '개구리 중사 케로로'의 국내 지식재산권(IP) 사업에 나선다. 두 작품의 국내 라이선싱과 상품 개발, 브랜드 협업 등을 추진하며 캐릭터 사업 영역을 일본 애니메이션으로 확대한다.IPX는 일본 TV도쿄의 애니메이션 IP인 나루토와 개구리 중사 케로로의 국내 마스터 IP 사업권을 확보했다고 29일 밝혔다.특히 나루토의 경우 국내 최초로 한국 마스터 라이선시로 단독 선정됐다. 마스터 라이선시는 특정 지역에서 IP를 활용한 상"
+    },
+    {
+      "id": "b7609294bd41",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "개발원, 'IT기술 활용 공공서비스 촉진' 주관기관 공모",
+      "link": "https://zdnet.co.kr/view/?no=20261029204904",
+      "published": "2026-10-29T11:49:04+00:00",
+      "summary": "[지디넷코리아]행정안전부와 한국지역정보개발원(이하 개발원)은 ‘2027년 첨단 정보기술 활용 공공서비스 촉진사업’ 주관기관 공모를 오는 11월 13일까지 추진한다.‘첨단 공공서비스 촉진사업’은 첨단 IT 기술을 활용해 국민 편익과 행정 효율성을 높이고, 혁신적인 공공서비스 모델을 발굴·확산하기 위한 사업이다. 매년 중앙부처, 지방정부, 공공기관 등을 대상으로 공모를 통해 추진한다.이번 공모 대상은 사전 선호도 조사 및 사업검토위원회의 검토를 거쳐 선정된 총 6개 과제다. 주요 과제는 ▲긴급차량 우"
+    },
+    {
+      "id": "a8c56f7710aa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한영대학교, 틸론과 협력해 AI 교육혁신 기반 강화",
+      "link": "https://zdnet.co.kr/view/?no=20261029204109",
+      "published": "2026-10-29T11:41:09+00:00",
+      "summary": "[지디넷코리아]한영대학교(총장 임정섭)가 전체 교직원과 재학생을 위한 AI 활용 기반을 마련하고, 지역 산업과 연계한 직업교육 혁신에 속도를 낸다. 이를 위해 28일 틸론소프트(대표 최백준)와 대학의 디지털전환(DX)·인공지능전환(AX)을 위한 업무협약(MOU)을 체결했다.이날 협약식과 함께 ‘AI·VDI 기반 교육환경 구축' 프로젝트 완료보고와 도입 시연회도 열렸다. 전남 여수에 있는 한영대학교는 지역사회와 산업계가 요구하는 전문기술인재 양성을 추진해 왔다. 이번 협약과 교육환경 구축을 계기로 "
+    },
+    {
+      "id": "5c2f53755c6c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "배터리 공장 몰린 헝가리 정권 교체에 韓·中 기업 긴장",
+      "link": "https://zdnet.co.kr/view/?no=20261029174134",
+      "published": "2026-10-29T11:24:13+00:00",
+      "summary": "[지디넷코리아]국내외 자동차·배터리 산업의 흐름을 읽는 시간. '세계車트'는 글로벌 완성차·배터리 업계의 주요 소식과 시장 변화, 기술 트렌드를 외신을 통해 짚어봅니다. [편집자주]일본 완성차 업체들이 중국에서 판매 부진을 겪고, BYD는 해외로 성장 무게중심을 옮기는 가운데 유럽 배터리 생산 거점인 헝가리에서는 환경 규제가 공급망의 새 변수로 떠올랐다.도요타의 9월 세계 판매량은 자회사 다이하쓰를 포함해 92만 1847대로 전년 동기보다 2.9% 감소했다. 생산량도 98만 9168대로 4.5% "
+    },
+    {
+      "id": "dedc08b7768d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "핼러윈 낀 주말 나들이...낮보다 환한 밤",
+      "link": "https://zdnet.co.kr/view/?no=20261029132507",
+      "published": "2026-10-29T11:22:25+00:00",
+      "summary": "[지디넷코리아]핼러윈 데이를 맞은 이번 주말에는 고궁 돌담길과 건물 외벽, 성곽, 호수 위로 화려한 조명과 영상이 펼쳐지는 야간 행사가 전국 곳곳에서 열린다. 10월의 마지막 주말 가을밤 나들이 행선지로 ‘빛’을 따라가는 인파가 몰릴 것으로 보여 주목되고 있다.우선 서울 중구 정동에서는 근대문화유산과 빛이 어우러진 가을밤 축제가 열린다. ‘2026 정동야행’이 30일부터 31일까지 덕수궁과 정동 일대에서 펼쳐진다. 30일은 오후 6시부터 10시까지, 31일은 오후 2시부터 10시까지 운영하며 정동"
+    },
+    {
+      "id": "f264189da1a9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SK, 시그넷 상폐 후 일렉링크에 매각…전기차 충전 사업 정리 수순",
+      "link": "https://zdnet.co.kr/view/?no=20261029185327",
+      "published": "2026-10-29T11:17:09+00:00",
+      "summary": "[지디넷코리아]SK가 전기차 충전기 제조사 SK시그넷을 완전자회사로 만든 뒤 매각한다. 전기차 수요 둔화와 충전기 보조금 축소로 사업 환경이 악화한 가운데, 그룹 핵심사업과의 연계성이 낮다고 판단한 사업에서 투자금을 회수해 자본과 경영역량을 재배분하려는 조치다.SK는 29일 이사회를 열고 SK시그넷과 현금교부형 포괄적 주식교환을 추진하기로 결정했다고 공시했다. SK를 제외한 나머지 주주가 보유한 SK시그넷 주식을 모두 넘겨받고, 주당 8200원의 현금을 지급하는 방식이다.주식교환 예정일은 2027"
+    },
+    {
+      "id": "ad970f41155a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "미친 출혈경쟁을 시작한 영상AI ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/0HlAQqAV3Zs",
+      "published": "2026-10-29T11:00:12+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f4c365f6e8ff",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "published": "2026-10-29T10:45:00+00:00",
+      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore."
+    },
+    {
+      "id": "fcd8f65f52ad",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+      "link": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
+      "published": "2026-10-29T10:15:00+00:00",
+      "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose."
+    },
+    {
+      "id": "cee40f471c68",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "published": "2026-10-29T10:11:12+00:00",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed priva"
+    },
+    {
+      "id": "bb4e202c4b41",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI has come for Arizona’s water",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "published": "2026-10-29T10:00:04+00:00",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the "
+    },
+    {
+      "id": "685b0055de61",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Gave My Blood to the AI Death Clock",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me."
+    },
+    {
+      "id": "89fbf634524e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists"
+    },
+    {
+      "id": "3c31c7ebeec8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216778",
+      "published": "2026-10-29T09:00:15+00:00",
+      "summary": "앤트로픽이 직원 한 명으로 운영되던 바이오테크 스타트업을 인수하고 '클로드'를 활용한 자체 신약 개발에 나섰다. 창업자 한 명이 클로드로 외부 연구소 11곳을 관리하며 18개월도 안 돼 희귀 근육질환 치료제의 동물실험에서 성과를 거둔 사례를 바탕으로, AI 중심의 새로운 신약 개발 방식을 시험한다.앤트로픽은 27일(현지시간) 지난 7월 희귀 유전성 근육질환 치료제를 개발하는 미스릴 메디신(Mithril Medicine)을 인수했다고 공식 블로그를 통해 밝혔다.구체적인 인수 금액은 공개하지 않았다."
+    },
+    {
+      "id": "e14522a38e07",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "수상할 정도로 무술이 뛰어난 유니트리 로봇",
+      "link": "https://www.youtube.com/shorts/QovrqJx1goM",
+      "published": "2026-10-29T09:00:04+00:00",
+      "summary": ""
+    },
+    {
+      "id": "0ed71e204ea8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216802",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "글로벌 AI 모델 평가업체 아티피셜 애널리시스(AA)가 종합 성능 평가 기준을 대폭 개편하면서 주요 AI 모델의 순위가 달라졌다. 오픈AI의 'GPT-6 아스트라'와 'GPT-6.1 솔'이 상위권으로 올라왔으며, 구글의 최신 모델 '제미나이 4 카본'이 앤트로픽의 '클로드 오퍼스 5.5'를 제치고 1위를 차지했다. 새 평가에서는 기존 지식·추론 문제의 비중을 조정하고 실제 코딩과 과학 연구를 수행하는 능력을 강화했다. 전체 평가에서 비공개 데이터 등을 활용하는 비중을 60%로 높여, 모델이 공개 "
+    },
+    {
+      "id": "5c197556e416",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216779",
+      "published": "2026-10-29T08:50:02+00:00",
+      "summary": "엔비디아가 40개 언어의 음성을 텍스트로 변환하고 여러 사람이 겹쳐 말하는 상황에서도 화자를 구분하는 오픈웨이트 AI 모델을 공개했다. 자연어 명령으로 받아쓰기 방식을 지정할 수 있고, 전문용어와 고유명사 인식도 지원한다. 공개 음성 인식 모델 성능 평가에서 최고 수준의 정확도를 기록했다.엔비디아는 28일(현지시간) 음성 인식 AI 모델 '네모트론 3.5 트랜스크라이브(Nemotron 3.5 Transcribe)'를 공개했다. 신모델은 전문가 혼합(MoE) 구조로, 음성 처리 장치를 포함한 전체 "
+    },
     {
       "id": "3f2cb4429feb",
       "source": "AI타임스",
@@ -12,6 +430,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216804",
       "published": "2026-10-29T08:20:00+00:00",
       "summary": "오픈AI가 올해 안에 '챗GPT'의 일반 대화 기능과 업무 자동화 기능(챗GPT 워크)을 통합한다. 이용자가 별도의 작업 모드로 전환하지 않아도 AI에 질문하고 문서를 작성하거나 외부 프로그램을 조작하는 등 복잡한 업무를 하나의 대화에서 처리할 수 있도록 개편할 계획이다. AI가 질문에 답하는 챗봇을 넘어 실제 업무를 수행하는 에이전트로 진화하면서, 일반 대화와 작업 실행의 경계를 없애려는 움직임이다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 28일(현지시간) X를 통해 \"올해 중 채팅과 워크"
+    },
+    {
+      "id": "5e4396e25f6b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광주 20대, 수도권으로 순유출…전남에선 오히려 순유입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216814",
+      "published": "2026-10-29T08:20:00+00:00",
+      "summary": "올해 상반기 광주의 20대는 수도권으로 빠져나간 인원이 들어온 인원보다 많았지만, 전남과의 이동에서는 반대였다. 50·60대는 전남으로의 순유출이 두드러져 연령에 따라 인구 이동의 방향이 달랐다.국가데이터처 국가통계포털(KOSIS)의 전출지·전입지·연령별 이동자수를 분석한 결과, 올해 1~6월 광주의 20대는 수도권과의 이동에서 2218명이 순유출됐다. 전남과의 이동에서는 527명이 광주로 순유입됐다.분석 대상은 전남광주통합특별시 출범 이전인 올해 1~6월의 주민등록 전입신고 기반 자료다. 당시 "
     },
     {
       "id": "0d0e699e230d",
@@ -102,6 +531,17 @@
       "summary": "중국 최대 D램 제조업체 창신메모리(CXMT)가 생산 수율이 20~30%에 그치는 상황에서도 AI 반도체용 고대역폭메모리(HBM) 생산에 나선다. 미국의 수출 규제로 첨단 메모리 확보가 어려워진 중국 AI 반도체 업계에 공급하기 위해서다. 다만 제품 성능과 생산 효율 모두 SK하이닉스·삼성전자와 격차가 커 당장 경쟁력을 확보하기는 어려울 전망이다.로이터는 28일(현지시간) CXMT가 HBM3E 시제품을 중국 내 여러 AI 칩 설계업체에 공급했으며, 앞으로 2개월 안에 제한적인 생산을 시작할 계획이"
     },
     {
+      "id": "e1c0873cd5a0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "CXMT, 수율 20%에도 HBM3E 양산 추진…SK하이닉스는 70%",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216797",
+      "published": "2026-10-29T07:26:12+00:00",
+      "summary": "중국 최대 D램 제조업체 창신메모리(CXMT)가 생산 수율이 20~30%에 그치는 상황에서도 AI 반도체용 고대역폭메모리(HBM) 생산에 나선다. 미국의 수출 규제로 첨단 메모리 확보가 어려워진 중국 AI 반도체 업계에 공급하기 위해서다. 다만 제품 성능과 생산 효율 모두 SK하이닉스·삼성전자와 격차가 커 당장 경쟁력을 확보하기는 어려울 전망이다.로이터는 28일(현지시간) CXMT가 HBM3E 시제품을 중국 내 여러 AI 칩 설계업체에 공급했으며, 앞으로 2개월 안에 제한적인 생산을 시작할 계획이"
+    },
+    {
       "id": "2ac826e454ae",
       "source": "AI타임스",
       "kind": "article",
@@ -122,6 +562,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216793",
       "published": "2026-10-29T07:14:30+00:00",
       "summary": "과학기술정보통신부가 내년에 피지컬 AI 학습용 데이터를 생산·활용하는 '피지컬 AI 트레이닝센터'를 구축한다. 이와 함께 우정사업본부와 현장 실증사업도 추진한다.과기정통부는 29일 서울 대한상공회의소에서 피지컬 AI 모델·데이터·로봇 업계 등 산학연 전문가들과 이 같은 내용을 포함한 피지컬 AI 정책 방향을 논의했다고 밝혔다. 이날 참석자들은 초기 단계 피지컬 AI와 AI 로봇 활용의 필요성 및 방안을 집중 논의했다.트레이닝센터는 월드 모델·파운데이션 모델 등 핵심기술 고도화에 필요한 양질의 데이"
+    },
+    {
+      "id": "42e00b9a1ac7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Zero click, silent, remote Android DoS",
+      "link": "https://smsofdeath.com/",
+      "published": "2026-10-29T07:08:50+00:00",
+      "summary": "Article URL: https://smsofdeath.com/ Comments URL: https://news.ycombinator.com/item?id=50285452 Points: 230 # Comments: 124"
     },
     {
       "id": "551702b697c1",
@@ -165,6 +616,17 @@
       "title": "GPT와의 대화를 보호하는 신기능 ㄷㄷ",
       "link": "https://www.youtube.com/shorts/2SYNXdTjRKs",
       "published": "2026-10-29T05:00:13+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f654d99d5028",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "published": "2026-10-29T04:37:07+00:00",
       "summary": ""
     },
     {
@@ -397,6 +859,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216584",
       "published": "2026-10-29T00:00:00+00:00",
       "summary": "하네스 엔지니어링으로 완성하는 에이전틱 AI고돈호 | 한빛미디어2026년 10월 25일추천이유저자는 프롬프트 튜닝을 넘어 코드로 AI 모델을 제어하는 하네스 엔지니어링의 원리를 ReAct 패턴 직접 구현부터 보안, 배포까지 실전 프로젝트 3개를 통해 전달합니다. 안정적으로 작동하는 프로덕션 수준의 AI 에이전트 구축을 원하는 개발자에게 필수적인 내용을 담고 있습니다.상세보기 이달 6일 국회 과학기술정보방송통신위원회의 과학기술정보통신부 국정감사에서는 AI 예산의 균형이 도마에 올랐다. 성능과 인프라"
+    },
+    {
+      "id": "0819870710cf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "published": "2026-10-28T23:45:46+00:00",
+      "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 225 # Comments: 107"
     },
     {
       "id": "2b560b4f2851",
@@ -795,6 +1268,17 @@
       "summary": ""
     },
     {
+      "id": "8cf77de8a030",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "DeepSeek's New AI Is An Absolute Monster",
+      "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "published": "2026-10-28T17:32:40+00:00",
+      "summary": ""
+    },
+    {
       "id": "4916f4718e79",
       "source": "The Verge",
       "kind": "article",
@@ -1046,6 +1530,39 @@
       "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
       "published": "2026-10-28T15:00:00+00:00",
       "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+    },
+    {
+      "id": "e9b65476dd5b",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "published": "2026-10-28T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "e14448ebe153",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "published": "2026-10-28T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "822cbb7267bd",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "published": "2026-10-28T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "43fdb5ceb277",
@@ -3345,6 +3862,17 @@
       "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
       "published": "2026-10-26T21:27:15+00:00",
       "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED."
+    },
+    {
+      "id": "9ad1782bd005",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "published": "2026-10-26T21:24:18+00:00",
+      "summary": "Article URL: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/ Comments URL: https://news.ycombinator.com/item?id=50251200 Points: 305 # Comments: 210"
     },
     {
       "id": "e6b717afe95b",
