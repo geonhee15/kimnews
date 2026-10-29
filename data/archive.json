@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-10-29T15:22:54.822314+00:00",
-  "count": 17771,
+  "updated_at": "2026-10-29T20:25:39.089174+00:00",
+  "count": 17794,
   "items": [
+    {
+      "id": "426159ea8a1a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "published": "2026-10-29T20:08:31+00:00",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+    },
+    {
+      "id": "2ac824e55e12",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216818",
+      "published": "2026-10-29T20:06:36+00:00",
+      "summary": "미국 정보당국이 젠슨 황 엔비디아 CEO와 가까운 중국 여성 사업가를 중국 정보기관의 정보원으로 판단한 사실이 알려졌다. 도널드 트럼프 미국 대통령은 약 1년 전 관련 첩보를 보고받았지만, 별다른 조치를 취하지 않은 것으로 전해졌다. 황 CEO는 해당 인물과의 만남은 정상적인 고객 관계였으며, 관련 기업의 AI 칩 불법 유출 의혹도 사실이 아니라고 반박했다.뉴욕타임스(NYT)는 29일(현지시간) 미국 정보당국의 감시 활동을 알고 있는 관계자들과 정부 관리, 업계 인사들을 인용해 이같이 전했다.의혹"
+    },
+    {
+      "id": "26c2c9fb2c77",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "published": "2026-10-29T20:05:47+00:00",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+    },
+    {
+      "id": "977e0ca74032",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "published": "2026-10-29T19:56:19+00:00",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+    },
+    {
+      "id": "8be9b46b8345",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+      "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+      "published": "2026-10-29T19:17:49+00:00",
+      "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?"
+    },
+    {
+      "id": "8bda83d26e7a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published": "2026-10-29T19:14:36+00:00",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+    },
+    {
+      "id": "2a02527ce593",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump declares robot imports a national security threat",
+      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "published": "2026-10-29T19:07:53+00:00",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs."
+    },
+    {
+      "id": "14b8d3f07e81",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "published": "2026-10-29T18:45:31+00:00",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on b"
+    },
+    {
+      "id": "f14afe907625",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "published": "2026-10-29T18:39:43+00:00",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched."
+    },
+    {
+      "id": "acd5c19895a3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "published": "2026-10-29T18:29:12+00:00",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
+    },
+    {
+      "id": "b65551f71fa4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "published": "2026-10-29T17:54:38+00:00",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
+    },
+    {
+      "id": "bef309c9ed17",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s new laptop supports one of the coolest features for color pros",
+      "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "published": "2026-10-29T17:48:09+00:00",
+      "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PRO"
+    },
+    {
+      "id": "ab3fc14721c8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+    },
+    {
+      "id": "0d448b6f0d0f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "published": "2026-10-29T16:42:32+00:00",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+    },
+    {
+      "id": "16ae3acb59e3",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "published": "2026-10-29T16:42:17+00:00",
+      "summary": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half Comments URL: https://news.ycombinator.com/item?id=50291945 Points: 349 # Comments: 296"
+    },
+    {
+      "id": "63e221981ae0",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "published": "2026-10-29T16:24:55+00:00",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
+    },
+    {
+      "id": "c9bc54dd1369",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "published": "2026-10-29T16:21:00+00:00",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+    },
+    {
+      "id": "1380f6c2d4d5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SuperMe raises $20M for its network of AI expert profiles",
+      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "published": "2026-10-29T16:19:43+00:00",
+      "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles."
+    },
+    {
+      "id": "592d8c9447c4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "H.264 Is Magic (2016)",
+      "link": "https://sidbala.com/h-264-is-magic/",
+      "published": "2026-10-29T15:53:03+00:00",
+      "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 211 # Comments: 101"
+    },
     {
       "id": "00d49b29ad42",
       "source": "TechCrunch",
@@ -12,6 +221,17 @@
       "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
       "published": "2026-10-29T15:00:00+00:00",
       "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents"
+    },
+    {
+      "id": "25bcc20f816d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "published": "2026-10-29T14:57:55+00:00",
+      "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 225 # Comments: 130"
     },
     {
       "id": "0cab95ab3988",
@@ -45,6 +265,17 @@
       "link": "https://mistral.ai/news/mistral-large-4-oss/",
       "published": "2026-10-29T14:13:21+00:00",
       "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 295 # Comments: 64"
+    },
+    {
+      "id": "97c69767e512",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "published": "2026-10-29T14:13:21+00:00",
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 910 # Comments: 258"
     },
     {
       "id": "da2775c19036",
@@ -212,6 +443,17 @@
       "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 212 # Comments: 161"
     },
     {
+      "id": "fa3ec02c97f0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "DoorDash to acquire Instacart",
+      "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "published": "2026-10-29T12:33:05+00:00",
+      "summary": "Article URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 324 # Comments: 529"
+    },
+    {
       "id": "0eb28a818295",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -320,6 +562,17 @@
       "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
       "published": "2026-10-29T10:45:00+00:00",
       "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore."
+    },
+    {
+      "id": "a880627d36a7",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "published": "2026-10-29T10:42:41+00:00",
+      "summary": "Article URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers Comments URL: https://news.ycombinator.com/item?id=50286987 Points: 223 # Comments: 98"
     },
     {
       "id": "fcd8f65f52ad",
