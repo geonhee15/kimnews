@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-10-30T11:40:47.687860+00:00",
-  "count": 17850,
+  "updated_at": "2026-10-30T17:11:38.713292+00:00",
+  "count": 17872,
   "items": [
+    {
+      "id": "ca5ba522b3be",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "published": "2026-10-30T17:00:00+00:00",
+      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+    },
+    {
+      "id": "9c3f3ffa9875",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "published": "2026-10-30T16:03:45+00:00",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
+    },
+    {
+      "id": "0b69bf202583",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "OpenAI Claims It Just Did The Impossible",
+      "link": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "published": "2026-10-30T15:57:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "df0bbac44ff5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "published": "2026-10-30T15:29:02+00:00",
+      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of "
+    },
+    {
+      "id": "5e69d46f7240",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+      "link": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "published": "2026-10-30T15:00:00+00:00",
+      "summary": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors."
+    },
+    {
+      "id": "df53709b0c4a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "published": "2026-10-30T14:58:06+00:00",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal"
+    },
+    {
+      "id": "c86b1aba5799",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "published": "2026-10-30T14:23:26+00:00",
+      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need"
+    },
+    {
+      "id": "2de43eb32773",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "published": "2026-10-30T13:54:25+00:00",
+      "summary": "DoorDash said that it is open to working with third-party agent makers."
+    },
+    {
+      "id": "43425902a336",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "published": "2026-10-30T13:52:14+00:00",
+      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely un"
+    },
+    {
+      "id": "4fae4b078954",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "머스크·저커버그, AI 대신 '초지능' 사용…트럼프 영향",
+      "link": "https://zdnet.co.kr/view/?no=20261030222234",
+      "published": "2026-10-30T13:23:08+00:00",
+      "summary": "[지디넷코리아]실리콘밸리에서 친 트럼프 성향이 강한 일론 머스크와 마크 저커버그가 인공지능(AI) 대신 초지능(SI)이란 용어를 사용해 눈길을 끌었다.CNBC에 따르면 저커버그는 지난 21일(현지시간) 메타 실적 발표 컨퍼런스콜에서 “개인의 초지능을 모든 사람에게 전달하는 것이 목표다”라고 강조했다.당시 저커버그는 AI란 용어 대신 SI를 사용해 눈길을 끌었다. 물론 메타는 지난 해 이미 메타 초지능 연구소(Meta Superintelligence Labs)란 조직을 만들었기 때문에 저커버그의 초"
+    },
+    {
+      "id": "412cd8d0c1b6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "published": "2026-10-30T13:01:14+00:00",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the com"
+    },
+    {
+      "id": "4c5233ddbb44",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "published": "2026-10-30T13:00:00+00:00",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
+    },
+    {
+      "id": "5e142ae11514",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "published": "2026-10-30T13:00:00+00:00",
+      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed t"
+    },
+    {
+      "id": "1fde13d4dafc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔비디아, 40개 언어 받아쓰는 오픈 음성인식 모델 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261030214136",
+      "published": "2026-10-30T12:41:36+00:00",
+      "summary": "[지디넷코리아]엔비디아가 현지 시각 10월 28일 음성을 글로 옮기는 오픈 가중치 AI 모델 '네모트론 3.5 트랜스크라이브(Nemotron 3.5 Transcribe)'를 공개했다. 오픈 가중치 모델은 학습을 마친 모델 파일을 공개해 누구나 내려받아 실행할 수 있는 모델이다. 네모트론 3.5 트랜스크라이브는 40개 언어 받아쓰기를 지원하고, 영어와 대부분의 지원 언어 사이 음성 번역도 처리한다.전체 매개변수는 약 340억 개지만, 작업마다 일부 전문가 모듈만 작동하는 전문가 혼합(MoE) 구조여"
+    },
+    {
+      "id": "077c36eaec70",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 우리 집에 도둑이 들었는데 아무도 모른다면",
+      "link": "https://zdnet.co.kr/view/?no=20261030110220",
+      "published": "2026-10-30T12:37:07+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 기업들이 해킹당했다는 소식이 많이 들리고 있죠. 그런데 우리 집에 도둑이 들었는데 아무도 모른다면 얼마나 아찔할까요? 기업 해킹의 진짜 문제는 바로 이렇게 '몰래 머무는 침입자'예요. 요즘은 AI 덕분에 해킹 도구를 만들기가 훨씬 쉬워졌는데요, AI가 가짜 메일을 대신 써 주고 보안이 약한 곳도 빨리 찾아주다 보니 해커가 되는 문턱이 확 낮아졌어요. 게다가 다크웹에서는 기업 데이터베이스 한 건이 수백~수천 달러에 팔리기 때문에, 해커들은 포기"
+    },
+    {
+      "id": "36ce1a5afaad",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "link": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "published": "2026-10-30T12:30:00+00:00",
+      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be"
+    },
+    {
+      "id": "506afb0d941c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "published": "2026-10-30T12:08:00+00:00",
+      "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead Comments URL: https://news.ycombinator.com/item?id=50302814 Points: 525 # Comments: 354"
+    },
+    {
+      "id": "465633efdc5d",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "하루 2만명이 쓰는 게임을 만든 비밀",
+      "link": "https://www.youtube.com/shorts/fxlpfCEIGUc",
+      "published": "2026-10-30T12:00:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "42fad8bc11f3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "published": "2026-10-30T12:00:00+00:00",
+      "summary": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens "
+    },
     {
       "id": "9c3f80267141",
       "source": "The Verge",
@@ -168,12 +377,34 @@
       "summary": "[지디넷코리아]한국딥러닝(대표 김지현)이 IBK기업은행과 비전언어모델(VLM) 기반 인공지능(AI) 에이전트를 활용해 보이스피싱 피해구제 업무를 자동화하는 기술을 검증했다. 기존 수작업으로 진행하던 서류 처리시간을 88% 줄이고 문서 인식 정확도도 개선했다.한국딥러닝은 IBK기업은행 금융소비자지원부와 공동으로 보이스피싱 피해구제 업무 자동화 실증을 완료했다고 30일 밝혔다.이번 실증은 지난 4월부터 8월까지 진행됐다. 보이스피싱 피해구제 과정에서 팩스로 접수되는 신청서와 신분증 등을 AI가 분석하"
     },
     {
+      "id": "d26c9c1a9261",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "published": "2026-10-30T07:09:12+00:00",
+      "summary": "https://cursor.com/blog/claude-code-extension-security-notic... https://cyberplace.social/@GossiTheDog/117528831681803563 https://doublepulsar.com/anthropic-hacked-to-deliver-remote-... Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 382 # Comments: 361"
+    },
+    {
       "id": "ea089f4d8069",
       "source": "TechCrunch",
       "kind": "article",
       "category": "TECH",
       "lang": "en",
       "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "published": "2026-10-30T07:01:00+00:00",
+      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker."
+    },
+    {
+      "id": "7767879e874d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
       "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "published": "2026-10-30T07:01:00+00:00",
       "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker."
@@ -2916,6 +3147,17 @@
       "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
       "published": "2026-10-28T08:30:00+00:00",
       "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously."
+    },
+    {
+      "id": "203da26b48cd",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "link": "https://github.com/da-luce/astroterm",
+      "published": "2026-10-28T08:29:55+00:00",
+      "summary": "Article URL: https://github.com/da-luce/astroterm Comments URL: https://news.ycombinator.com/item?id=50270651 Points: 212 # Comments: 25"
     },
     {
       "id": "8bf5cc7b3cd4",
