@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-10-29T20:25:39.089174+00:00",
-  "count": 17794,
+  "updated_at": "2026-10-30T00:03:22.127997+00:00",
+  "count": 17813,
   "items": [
+    {
+      "id": "5d1db20a7774",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published": "2026-10-29T23:42:22+00:00",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+    },
+    {
+      "id": "9b629da6bb7c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+      "published": "2026-10-29T22:21:59+00:00",
+      "summary": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 '자기 평가(Self-Assessment)'라는 새로운 안전 감시 기술의 개발 및 운영 결과를 공개했다. 이 기술은 "
+    },
+    {
+      "id": "768768fd4f10",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "published": "2026-10-29T22:19:32+00:00",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"drop"
+    },
+    {
+      "id": "ffc27e35e62f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "두산로보틱스, 3Q 매출 59% 상승...북미 자동화 사업이 견인",
+      "link": "https://zdnet.co.kr/view/?no=20261029195515",
+      "published": "2026-10-29T21:56:14+00:00",
+      "summary": "[지디넷코리아]두산로보틱스가 3분기 북미 자동화 솔루션 사업에 힘입어 매출을 크게 늘렸다. 영업손실이 이어졌지만 적자 폭은 줄었다.두산로보틱스는 3분기 매출 162억원, 영업손실 134억원을 기록했다고 29일 공시했다. 매출은 전년 동기 102억원보다 59% 증가했다. 영업손실은 지난해 같은 기간 153억원에서 19억원 줄었다.북미 자동화 솔루션 사업이 매출 증가를 이끌었다. 미국법인 생산라인 최종 공정(EOL·End-of-Line) 사업 매출이 전년 동기 대비 55% 늘었다. EOL은 제조 공정"
+    },
+    {
+      "id": "a869acf7d6a2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+      "published": "2026-10-29T21:52:24+00:00",
+      "summary": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데 이어 이용자가 실제로 처리할 수 있는 업무량을 늘리는 데 초점을 맞췄다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 29일(현지시간) X를 통해 \"오늘부터 프로 100·200·500"
+    },
+    {
+      "id": "7b7980431950",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+      "published": "2026-10-29T21:29:38+00:00",
+      "summary": "앤트로픽이 미국 정부를 제치고 스페이스X의 최대 고객으로 올라섰다. 올해 3분기 스페이스X 전체 매출의 34.5%가 앤트로픽에 AI 컴퓨팅 자원을 제공한 데서 발생한 것으로 알려졌다. 블룸버그는 29일(현지시간) 사정에 정통한 관계자를 인용, 스페이스X가 최근 분기 공시에서 익명으로 처리한 최대 고객 '고객 B(Customer B)'가 앤트로픽이라고 전했다.스페이스X는 지난 22일 공개한 3분기 실적 공시에서 고객 B가 전체 매출의 34.5%를 차지했다고 밝혔다. 3분기 매출 146억달러를 기준으"
+    },
+    {
+      "id": "6e443d23241d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+      "published": "2026-10-29T21:16:49+00:00",
+      "summary": "미스트랄 AI가 이달 초 선보인 '미스트랄 라지 4(Mistral Large 4)'의 성능을 개선하고 모델 가중치를 공개하며 정식 출시했다. 기존에는 API를 통해서만 이용할 수 있었지만, 이제 기업과 개발자가 직접 모델을 내려받아 자체 시스템에서 운영하고 추가 학습할 수 있게 됐다. 특히 사이버 보안에 초점을 맞춰 외부 AI 서비스에 의존하지 않고 기업 내부에서 취약점 분석과 사고 대응을 수행하도록 지원한다.미스트랄은 29일(현지시간) 공식 블로그를 통해 라지 4의 오픈웨이트 버전을 공개했다고 "
+    },
+    {
+      "id": "01b7bc36a636",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"다음 날에도 맛있게\"…CU가 밥 짓는 물 바꾼 이유",
+      "link": "https://zdnet.co.kr/view/?no=20261028175950",
+      "published": "2026-10-29T21:00:03+00:00",
+      "summary": "[지디넷코리아]편의점 CU가 도시락과 삼각김밥의 품질을 높이기 위해 밥 짓는 물까지 바꿨다. 자체 공장에 연수 설비를 도입해 냉장 유통 중 밥이 딱딱해지는 현상을 줄이는 데 나섰다. 상품과 포장, 매장 조리 방식도 개선해 간편식을 일상적인 한 끼로 끌어올린다는 전략이다.임형근 BGF리테일 상품본부장은 지난 28일 충북 진천 BGF푸드 진천푸드센터에서 열린 간담회에서 “간편한 먹거리를 넘어 일상 식사 채널로 가고 싶다”며 “편의점이 식당을 대체하는 역할을 해야겠다는 생각을 갖고 움직이고 있다”고 말"
+    },
+    {
+      "id": "48892695c53a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216776",
+      "published": "2026-10-29T21:00:00+00:00",
+      "summary": "인간과 AI가 하나로 합쳐지는 미래를 예언한 세계적인 미래학자 레이 커즈와일(78)이 자신의 디지털 복제본을 실제로 만들었습니다. 이 AI는 얼굴과 목소리는 물론, 지식과 사고방식까지 재현하며 사람들과 대화합니다. 특히 만들어진 이후에도 새로운 정보를 배우고 대화 경험을 기억하도록 설계됐습니다. 그가 사망하더라도 복제 AI는 계속 존재하며 독자적인 경험을 쌓을 수 있다는 점에서, 인간의 정체성과 의식의 연속성에 관한 새로운 질문을 던지고 있습니다.커즈와일은 2005년 베스트셀러 '특이점이 온다(T"
+    },
+    {
+      "id": "6df3a3601910",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+      "published": "2026-10-29T20:51:03+00:00",
+      "summary": "중국 AI 기업들이 최첨단 모델의 성능을 확보하기 위해 집중적으로 분석하는 대상이 앤트로픽의 '클로드'에서 오픈AI의 'GPT-6 아스트라'로 바뀌고 있는 것으로 알려졌다. 딥시크와 문샷 AI는 최근 출시한 AI 모델을 개발하면서 아스트라의 출력 데이터를 학습에 상당 부분 활용한 것으로 전해졌다.디 인포메이션은 28일(현지시간) 중국 AI 연구소들의 모델 개발에 정통한 관계자들을 인용, 앤트로픽이 자사 모델의 추론 정보를 빼내는 시도를 차단하자 중국 연구소들이 오픈AI 모델로 눈을 돌렸다고 보도했"
+    },
+    {
+      "id": "0495b2f83a7e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔타이어, 깃허브 또 겨냥…\"개발자는 새 플랫폼 원해\"",
+      "link": "https://zdnet.co.kr/view/?no=20261030053515",
+      "published": "2026-10-29T20:40:37+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] \"깃허브는 새로운 깃허브가 필요하지 않다고 생각할 수 있지만 개발자들은 분명히 원합니다. 소프트웨어 개발과 오픈소스의 미래를 거대 기업 손에 맡겨선 안 됩니다.\"토마스 돔케 엔타이어 최고경영자(CEO)는 개발자가 코드 호스팅 플랫폼을 선택할 수 있어야 하며, 이런 선택권이 개발자 생태계에 필수적이라고 29일(현지시간) 지디넷코리아에 밝혔다.앞서 카일 데이글 깃허브 최고운영책임자(COO)는 29일까지 미국 샌프란시스코에서 열린 ‘깃허브 유니버스 26"
+    },
+    {
+      "id": "ad687d123406",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216819",
+      "published": "2026-10-29T20:29:29+00:00",
+      "summary": "오픈AI가 AI 모델의 행동 원칙을 대폭 개편하고, 인간의 의도를 이해해 스스로 판단하는 능력을 핵심 기준으로 제시했다. AI가 단순한 질의응답을 넘어 복잡한 업무를 자율적으로 수행하는 에이전트로 발전하면서, 이용자의 지시만으로는 모든 상황을 통제하기 어려워졌기 때문이다. 이에 따라 AI가 예상하지 못한 상황에서도 인간의 목적과 가치를 바탕으로 판단하되, 이용자의 감독과 통제권을 유지하도록 한다는 방침이다.오픈AI는 29일(현지시간) 공식 블로그를 통해 AI 모델의 행동을 규정한 '모델 스펙(Mo"
+    },
+    {
+      "id": "9814b2710416",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "published": "2026-10-29T20:18:49+00:00",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot."
+    },
     {
       "id": "426159ea8a1a",
       "source": "TechCrunch",
@@ -113,6 +256,17 @@
       "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
     },
     {
+      "id": "d8509cfda121",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "분자에 영향 미치는 원자거리는 4~7nm…사이언스 게재",
+      "link": "https://zdnet.co.kr/view/?no=20261029182135",
+      "published": "2026-10-29T18:00:01+00:00",
+      "summary": "[지디넷코리아]금속 촉매에서는 멀리 떨어진 원자 배열이 분자의 결합력 세기에 영향을 미친다는 사실이 새로 규명됐다. 이는 촉매 성능이 결합 지점 주변의 구조만으로 결정되는 것은 아니라는 뜻이다.과학기술정보통신부는 기초과학연구원(IBS) 양자나노과학 연구단과 막스플랑크 다학제과학연구소가 공동으로 금속 촉매 표면에서 분자가 결합한 지점으로부터 수 나노미터(nm) 멀리 떨어진 원자 구조도 화학 결합의 세기에 영향을 미친다는 사실을 규명했다고 30일 밝혔다.연구는 과기정통부의 IBS 기초과학연구단 지원 "
+    },
+    {
       "id": "b65551f71fa4",
       "source": "TechCrunch",
       "kind": "article",
@@ -133,6 +287,39 @@
       "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
       "published": "2026-10-29T17:48:09+00:00",
       "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PRO"
+    },
+    {
+      "id": "0717070ca7c1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "published": "2026-10-29T17:43:48+00:00",
+      "summary": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-... , https://archive.ph/K7bih Comments URL: https://news.ycombinator.com/item?id=50293047 Points: 260 # Comments: 176"
+    },
+    {
+      "id": "f810e9feccd5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로크웰 오토메이션, OEM의 새로운 사이버보안 규제 대응을 지원하기 위한 SecureOT 기능 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261030021013",
+      "published": "2026-10-29T17:10:13+00:00",
+      "summary": "[지디넷코리아] SecureOT 기능은 장비 제조 기업이 취약성을 식별하고, 사이버보안 태세를 문서화하며, 장비 수명 주기 전반에 걸쳐 규제 준수 준비를 지원할 수 있도록 돕습니다. 밀워키, 2026년 10월 29일 /PRNewswire/ -- 산업 자동화 및 디지털 트랜스포메이션 전문 세계 최대 기업인 로크웰 오토메이션(Rockwell Automation, Inc., NYSE: ROK)은 오늘, 장비 제조 업체(OEM)의 규제 준수 노력을 간소화하고 보안 중심 설계 관행을 강화하며, 장비 수명 "
+    },
+    {
+      "id": "5fc68b3c4baa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "ICANN, 국제 인터넷의 날 맞아 글로벌 연결 57년 기념",
+      "link": "https://zdnet.co.kr/view/?no=20261030021002",
+      "published": "2026-10-29T17:10:02+00:00",
+      "summary": "[지디넷코리아] 로스앤젤레스, 2026년 10월 29일 /PRNewswire/ -- ICANN(Internet Corporation for Assigned Names and Numbers, 국제인터넷주소관리기구)이 10월 27일 국제 인터넷의 날(World Internet Day)을 맞아 인터넷 구축에 기여한 선구자들과 인터넷 운영을 지속적으로 뒷받침하는 글로벌 커뮤니티의 공로를 되새긴다. 올해는 인터넷의 전신인 아파넷(ARPANET)을 통해 첫 메시지가 전송된 지 57년이 되는 해다. 전체 인터"
     },
     {
       "id": "ab3fc14721c8",
@@ -210,6 +397,17 @@
       "link": "https://sidbala.com/h-264-is-magic/",
       "published": "2026-10-29T15:53:03+00:00",
       "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 211 # Comments: 101"
+    },
+    {
+      "id": "0f74e79ffc6c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "장병규 크래프톤 의장, ‘정주영 창업경진대회’서 도전 통한 가능성 확장 강조",
+      "link": "https://zdnet.co.kr/view/?no=20261030004040",
+      "published": "2026-10-29T15:40:40+00:00",
+      "summary": "[지디넷코리아]장병규 크래프톤 의장이 창업과 글로벌 시장 진출 경험을 바탕으로 익숙한 범위를 벗어나는 선택의 중요성을 강조했다.크래프톤은 장병규 의장이 서울 코엑스 3층 오디토리움에서 열린 ‘2026 정주영 창업경진대회’ 데모데이에서 ‘무한으로의 확장’을 주제로 기조연설을 진행했다고 29일 밝혔다.지난 28일 아산나눔재단이 주최한 이번 대회는 올해로 15회째를 맞았다. 정주영 현대그룹 창업자의 어록 ‘인간의 가능성은 무한하다’를 바탕으로 ‘무한(Infinite)’을 주제로 열렸다.장 의장은 새로운"
     },
     {
       "id": "00d49b29ad42",
@@ -463,6 +661,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261029212655",
       "published": "2026-10-29T12:26:55+00:00",
       "summary": "[지디넷코리아]인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 자사 사이버보안 AI 에이전트 브랜드 ‘에어(AiR, AI Road)’를 ‘에어 메이트(AiR mate)’, ‘에어 웍스(AiR works)’, ‘에어 클루(AiR clue)’ 3종 라인업으로 확장한다.내년 1분기에는 AI 에이전트 오케스트레이션 플랫폼 'AiR works'를 출시, 각 조직 환경에 최적화한 ‘에이전틱 SOC(Agentic SOC)’ 구현을 지원하고, ‘자율형 보안운영센터(Autonom"
+    },
+    {
+      "id": "b27792345072",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "If IPv4 were land",
+      "link": "https://iptrust.co/blog/if-ipv4-were-land",
+      "published": "2026-10-29T12:19:00+00:00",
+      "summary": "Article URL: https://iptrust.co/blog/if-ipv4-were-land Comments URL: https://news.ycombinator.com/item?id=50287775 Points: 217 # Comments: 274"
     },
     {
       "id": "9878b3236dc6",
