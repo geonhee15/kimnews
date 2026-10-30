@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-10-30T17:11:38.713292+00:00",
-  "count": 17872,
+  "updated_at": "2026-10-30T21:30:09.914095+00:00",
+  "count": 17899,
   "items": [
+    {
+      "id": "0a8f9548b7ac",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "published": "2026-10-30T21:26:59+00:00",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+    },
+    {
+      "id": "0cd9828418cf",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "published": "2026-10-30T21:19:26+00:00",
+      "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms."
+    },
+    {
+      "id": "6b40843223d7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "published": "2026-10-30T21:17:40+00:00",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+    },
+    {
+      "id": "7f9a7e11df23",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "published": "2026-10-30T21:01:32+00:00",
+      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has receive"
+    },
+    {
+      "id": "fae5c6bc9b11",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "published": "2026-10-30T20:48:43+00:00",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math"
+    },
+    {
+      "id": "114e114e996b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "published": "2026-10-30T20:40:13+00:00",
+      "summary": "People who love AI don't always love telling others they used it."
+    },
+    {
+      "id": "52abf4225e32",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "published": "2026-10-30T20:38:46+00:00",
+      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines."
+    },
+    {
+      "id": "91e73326aaa8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "published": "2026-10-30T20:26:10+00:00",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI compani"
+    },
+    {
+      "id": "7f6f67f39ce6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "published": "2026-10-30T19:55:13+00:00",
+      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture."
+    },
+    {
+      "id": "10e7af8423c4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "published": "2026-10-30T19:30:52+00:00",
+      "summary": "But it's still early days for the relatively new e-commerce use case."
+    },
+    {
+      "id": "4ffb79687ff6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "FP 마켓츠: 민주당 양원 석권이 시장 기본 전망",
+      "link": "https://zdnet.co.kr/view/?no=20261031041002",
+      "published": "2026-10-30T19:10:02+00:00",
+      "summary": "[지디넷코리아] 리마솔, 키프로스, 2026년 10월 30일 /PRNewswire/ -- 미국 유권자들이 하원 전체 435석과 상원 35석을 선출하는 투표를 앞두고 있는 가운데 11월 3일 의회 주도권의 향방에 관심이 쏠리고 있다. 이번 중간선거는 최근 자연스럽게 주목받고 있는 도널드 트럼프 대통령의 남은 임기 국정 운영 방향을 결정하는 데 중요한 역할을 할 전망이다. 공화당은 하원에서 민주당의 214석보다 많은 218석을 보유하고 있으며, 상원에서도 53대 47로 다수당의 지위를 점하고 있다. "
+    },
+    {
+      "id": "bfad1f3cd2c4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "published": "2026-10-30T18:21:38+00:00",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku abo"
+    },
+    {
+      "id": "05290e52ec17",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+      "link": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+      "published": "2026-10-30T18:13:42+00:00",
+      "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust."
+    },
+    {
+      "id": "f07de52bacc8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[르포] AI로 게임 만들고 로봇과 대화…깃허브가 넓힌 개발 생태계",
+      "link": "https://zdnet.co.kr/view/?no=20261031030544",
+      "published": "2026-10-30T18:05:44+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] 깃허브 개발 생태계가 코드 작성과 관리를 넘어 디자인과 로봇 구현 등으로 넓어지고 있다. 깃허브는 29일까지 미국 샌프란시스코 포트넘매이슨에서 열린 '깃허브 유니버스 26'에 전시장을 마련했다. AI 코딩을 활용한 게임 제작부터 디자인 구현, 로봇과의 상호작용까지 새로운 개발 사례를 공유했다.깃허브 부스는 신기능 설명을 듣는 공간과 코파일럿 앱을 직접 사용할 수 있는 공간으로 이뤄졌다. '언더 더 후드(Under the Hood)'는 깃허브 직원들"
+    },
+    {
+      "id": "4110c3ae8576",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "published": "2026-10-30T17:47:12+00:00",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+    },
+    {
+      "id": "130282d6227b",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "published": "2026-10-30T17:38:19+00:00",
+      "summary": "Low costs and offline security mean magnetic tape still has a job."
+    },
+    {
+      "id": "3a6d75de1796",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "published": "2026-10-30T17:38:04+00:00",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present per"
+    },
+    {
+      "id": "4229b6a26d54",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The delightfully messy state of Apple gadgets",
+      "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "published": "2026-10-30T17:25:20+00:00",
+      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful produc"
+    },
+    {
+      "id": "fb6059d7dc9f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Rivian’s autonomy gamble faces its first real test",
+      "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+      "published": "2026-10-30T17:16:09+00:00",
+      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, wh"
+    },
     {
       "id": "ca5ba522b3be",
       "source": "TechCrunch",
@@ -12,6 +221,39 @@
       "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
       "published": "2026-10-30T17:00:00+00:00",
       "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry."
+    },
+    {
+      "id": "5b9aef69167b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브 제품 부사장 \"AI 코딩 가성비 시대 이끌 것\"",
+      "link": "https://zdnet.co.kr/view/?no=20261031015613",
+      "published": "2026-10-30T16:56:13+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] \"웹사이트에서 글자 한 줄을 수정하는 데 가장 비싼 인공지능(AI) 모델을 사용할 필요는 없습니다. 기업이 AI 개발 도구를 효율적으로 활용하려면 작업에 적합한 모델을 선택하고 비용을 통제할 수 있어야 합니다.\"루이스 비텐코트-에밀리오 깃허브 제품 부문 수석부사장(SVP)은 최근 미국 샌프란시스코에서 열린 '깃허브 유니버스 2026' 현장에서 지디넷코리아와 만나 이같이 밝혔다.비텐코트-에밀리오 수석부사장은 AI 에이전트 활용이 늘면서 기업 비용 부"
+    },
+    {
+      "id": "deb872c83022",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "published": "2026-10-30T16:53:49+00:00",
+      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up."
+    },
+    {
+      "id": "3cd165998731",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Unleash Your Edge: 지타이, '팬텀 블레이드 제로'와 글로벌 전략적 파트너십 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261031011002",
+      "published": "2026-10-30T16:10:02+00:00",
+      "summary": "[지디넷코리아]베이징, 2026년 10월 30일 /PRNewswire/ -- 양쯔메모리테크놀로지스(YMTC) 산하 소비자용 스토리지 브랜드 지타이(ZHITAI)가 전 세계 게이머들의 주목을 받고 있는 AAA 액션 게임 '팬텀 블레이드 제로(Phantom Blade Zero)'와의 전략적 파트너십을 체결했다고 발표했다. 양사는 'Unleash Your Edge'를 테마로 한정판 컬래버레이션 기프트 박스를 선보인다. 이번 기프트 박스는 게임 특유의 어두운 무협 미학을 하드웨어와 액세서리에 담아 국내 "
     },
     {
       "id": "9c3f3ffa9875",
@@ -36,6 +278,17 @@
       "summary": ""
     },
     {
+      "id": "8e4ea505ae1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "published": "2026-10-30T15:52:18+00:00",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 415 # Comments: 310"
+    },
+    {
       "id": "df0bbac44ff5",
       "source": "The Verge",
       "kind": "article",
@@ -45,6 +298,17 @@
       "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
       "published": "2026-10-30T15:29:02+00:00",
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of "
+    },
+    {
+      "id": "0698f4ca3208",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Northflank Breached",
+      "link": "https://status.northflank.com",
+      "published": "2026-10-30T15:10:31+00:00",
+      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 285 # Comments: 215"
     },
     {
       "id": "5e69d46f7240",
@@ -67,6 +331,17 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
       "published": "2026-10-30T14:58:06+00:00",
       "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal"
+    },
+    {
+      "id": "c016fb2d0bed",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "깃허브 \"올해 韓 이용자 350만 명…정부 AI 정책 영향\"",
+      "link": "https://zdnet.co.kr/view/?no=20261030234712",
+      "published": "2026-10-30T14:47:12+00:00",
+      "summary": "[지디넷코리아][샌프란시스코(미국)=김미정 기자] \"한국 깃허브 개발자 수가 1년 만에 100만 명 이상 증가해 350만 명을 넘어섰습니다. 한국에서 깃허브를 사용하는 조직과 코드 저장소도 함께 늘고 있습니다. 전 세계에서 나타나는 개발 생태계 성장이 한국에서도 확인됐습니다.\"탈라 카라드셰 깃허브 비즈니스 인사이트 부문 수석 디렉터는 최근 미국 샌프란시스코에서 열린 '깃허브 유니버스 2026'에서 지디넷코리아와 만나 한국 개발 생태계 성장세를 이같이 평가했다. 카라드셰 디렉터는 깃허브가 매년 발간"
     },
     {
       "id": "c86b1aba5799",
@@ -333,6 +608,17 @@
       "summary": "[지디넷코리아]유라클이 애플 맥 스튜디오(Mac Studio)를 활용한 인공지능(AI) 코딩 도구 공급을 확대한다. 기업이 별도 GPU 서버를 구축하지 않고도 내부 개발 환경에서 AI를 활용할 수 있도록 애플 공인 파트너와 협력한다.유라클(대표 조준희, 권태일)은 지난 21일부터 이틀간 열린 '애플 파트너 인에이블먼트(Apple Partner Enablement)' 행사에서 애플 공인 파트너(APN)를 대상으로 AI 코딩 솔루션 '아테나 코드어시스턴트'를 소개했다고 30일 밝혔다.아테나 코드어시스"
     },
     {
+      "id": "0ff63bdb6f22",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "nemotron-halloween",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "published": "2026-10-30T08:57:24+00:00",
+      "summary": ""
+    },
+    {
       "id": "78819ea78730",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -419,6 +705,17 @@
       "link": "https://www.youtube.com/shorts/SCr2l-0qEMM",
       "published": "2026-10-30T07:00:34+00:00",
       "summary": ""
+    },
+    {
+      "id": "0fd08ba94ef1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216836",
+      "published": "2026-10-30T06:45:00+00:00",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 '2026 전문가그룹 간담회'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기 위해 각 분야 전문가들이 지역의 산업 강점을 활용한 신규 투자유치 기회와 산업 간 연계·협력 방안에 대해 논의했다.전문가들은 글로벌 공급망 재편과 탄소중립 전환, AI 기술 발전, 산"
     },
     {
       "id": "e1251f4cdc44",
