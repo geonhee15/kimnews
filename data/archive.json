@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-10-31T06:45:18.617290+00:00",
-  "count": 17942,
+  "updated_at": "2026-10-31T13:07:06.627289+00:00",
+  "count": 17963,
   "items": [
+    {
+      "id": "808c7b398c6b",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 모델 9개, 똑같은 광고 시켜봄 💰",
+      "link": "https://www.youtube.com/watch?v=cS1cBP5YtqU",
+      "published": "2026-10-31T12:15:03+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a7b94fb986f3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts."
+    },
+    {
+      "id": "2ce64cc9342a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+      "published": "2026-10-31T10:58:00+00:00",
+      "summary": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은 AI 영화 제작에 사용한 프롬프트와 작업 과정까지 공개하며 기술 개선에 활용하겠다고 밝혔다.머스크의 스페이스XSI는 23일(현지시간) X를 통해 '"
+    },
+    {
+      "id": "680dadbf4a1d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "published": "2026-10-31T10:30:00+00:00",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat."
+    },
+    {
+      "id": "0f7547a62595",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "published": "2026-10-31T10:00:00+00:00",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs."
+    },
+    {
+      "id": "ad5dc4e668b0",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "스펙 없이 삼일PwC 간 컴공 4학년의 비결",
+      "link": "https://www.youtube.com/shorts/f3XvOfhjNZE",
+      "published": "2026-10-31T09:54:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "81b4991d5b81",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+      "published": "2026-10-31T09:53:02+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 있다고 밝혔으며, 세계적인 메모리 공급 부족과 초지능의 발전 방향에 대해서도 견해를 제시했다.알트먼 CEO는 29일(현지시간) 공개된 스트라이프 공동 창업자 존 콜리슨의 팟캐스트 '치키"
+    },
+    {
+      "id": "2326528f584d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+      "published": "2026-10-31T09:16:47+00:00",
+      "summary": "국내 이용자들이 업무에서 챗GPT를 가장 많이 활용하는 분야는 여전히 문서·글 편집인 것으로 나타났다. 그러나 이미지와 디자인 등 시각 자료 제작 비중이 1년 사이 두 배 이상 늘어나며 주요 활용 분야로 떠올랐다. 정보 검색이나 문서 작성뿐 아니라 실제 업무 결과물을 만드는 데 AI를 활용하는 사례가 늘어나는 것으로 분석된다.오픈AI가 26일(현지시간) 공개한 챗GPT 이용 통계 '시그널스(OpenAI Signals)'의 한국 데이터를 분석한 결과, 올해 3분기 개인용 챗GPT 계정의 업무 관련 "
+    },
+    {
+      "id": "e4d5caa07083",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+      "published": "2026-10-31T09:05:26+00:00",
+      "summary": "구글이 지구 궤도에 발사한 위성에서 데이터센터급 AI 반도체인 TPU를 가동하고, AI 모델의 추론 결과를 지상으로 전송하는 데 성공했다. 우주에서 데이터센터급 TPU로 실제 AI 작업을 수행한 첫 사례로, 지상 데이터센터의 연산 기능을 우주로 옮기려는 장기 프로젝트가 첫 기술적 성과를 거뒀다. 첫 실험에서는 AI 모델 '젬마 4(Gemma 4)'를 이용해 우주를 주제로 한 시를 생성했다.구글은 30일(현지시간) 공식 블로그를 통해 지난 10월1일 발사한 '프로젝트 선캐처(Project Sunca"
+    },
+    {
+      "id": "3ee0befa6d90",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Sunrise Alarm Clock (2026): Hatch, Lumie",
+      "link": "https://www.wired.com/story/should-you-get-a-sunrise-alarm-clock/",
+      "published": "2026-10-31T09:01:00+00:00",
+      "summary": "I’ve never been a morning person. This bedside gadget is the only thing that’s ever changed that."
+    },
+    {
+      "id": "c3b9d9806acc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+      "published": "2026-10-31T08:55:40+00:00",
+      "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석한 결과, 제미나이 라이브의 오프라인 모드와 관련된 문구를 발견했다고 보도했다.발견된 코드에는 인터넷 연결 없"
+    },
+    {
+      "id": "3ef182c880ae",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216845",
+      "published": "2026-10-31T08:38:01+00:00",
+      "summary": "구글이 '제미나이'에서 구글 문서와 PDF, 스프레드시트, 프레젠테이션 등을 직접 생성하고 편집할 수 있는 기능을 추가했다. 기존에는 파일을 생성하거나 내려받는 기능을 제공했지만, 이제는 채팅을 벗어나지 않고 내용을 수정하고 AI에 추가 작업을 요청할 수 있다.구글은 29일(현지시간) 공식 블로그를 통해 제미나이 앱에서 문서와 PDF, 프레젠테이션, 스프레드시트, 코드 파일 등을 생성하고 미리 보거나 편집할 수 있도록 기능을 확대했다고 밝혔다.사용자는 채팅창에서 파일을 만든 뒤 전체 화면으로 확장"
+    },
+    {
+      "id": "bf659cdf8c13",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "독일 엔비전, 유기 분자로 양자 컴퓨팅 칩 개발…OLED 제조 기술 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216849",
+      "published": "2026-10-31T08:29:54+00:00",
+      "summary": "독일 양자 기술 스타트업 엔비전(NVision)이 유기 분자 하나를 양자 정보의 기본 단위인 큐비트로 활용하고, 빛으로 상태를 읽어내는 기술을 개발했다. 특히 스마트폰 OLED 디스플레이 제조에 쓰이는 박막 기술을 이용해 기존 광자 반도체 칩에 큐비트를 구현할 가능성을 제시했다. 복잡한 전용 제조 공정에 대한 의존도를 낮추고 대규모 양자 컴퓨터를 개발할 수 있는 새로운 접근법으로 평가된다.엔비전은 28일(현지시간) 자사의 연구 결과를 국제 학술지 '네이처(Nature)'에 발표했다. 논문 제목은 "
+    },
+    {
+      "id": "9f36b5a34231",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+      "published": "2026-10-31T08:09:05+00:00",
+      "summary": "오픈AI가 청소년의 폭력 행위를 예방하기 위해 챗GPT에서 무기 관련 정보 제공을 제한한다. 폭력 의도가 드러나지 않은 질문이라도 실제 악용할 수 있는 구체적인 무기·보안 시스템 정보는 청소년에게 제공하지 않기로 했다. 폭력에 대한 집착이 감지되면 대화를 자동으로 종료하고, 반복될 경우 계정을 일시 정지하는 조치도 도입한다.오픈AI는 30일(현지시간) 커뮤니티 안전 보고서를 발표하고 이 같은 내용을 담은 새로운 청소년 보호 조치를 공개했다.특히 2026년 3분기 동안 200건 이상의 위협 사례를 "
+    },
+    {
+      "id": "475b482f5952",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+      "published": "2026-10-31T08:01:47+00:00",
+      "summary": "중국 AI 칩 제조업체 일루바타르 코어엑스(Iluvatar CoreX)가 자체 개발한 GPU ‘톈가이 300(Tiangai 300)’이 엔비디아의 ‘H200’과 대등하거나 일부 AI 작업에서 앞서는 성능을 보였다고 밝혔다.사우스차이나모닝포스트(SCMP)에 따르면, 일루바타르는 28일 중국 상하이에서 열린 '2026 미디어 오픈데이'에서 톈가이 300의 실제 작동 모습을 언론에 처음 공개했다.현장에서는 엔비디아 H200과 나란히 이미지·동영상 생성 작업을 실행하고, Z.ai의 'GLM-5.3' 등 "
+    },
+    {
+      "id": "2db52771bed1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성 사장단, 올트먼과 'AI 미래전략' 논의",
+      "link": "https://zdnet.co.kr/view/?no=20261031160238",
+      "published": "2026-10-31T07:08:02+00:00",
+      "summary": "[지디넷코리아]삼성이 31일 경기도 용인 삼성인력개발원에서 삼성전자 등 주요 관계사 사장단을 대상으로 샘 올트먼 오픈AI 최고경영자(CEO) 초청 간담회를 개최했다고 밝혔다.간담회 주제는 '인공지능(AI)이 바꿀 다음 10년, 기업의 선택'이었다. 간담회에 전자·금융·바이오 등 관계사 사장단 50여명이 참석했다. 삼성 사장단과 샘 올트먼 CEO는 AI 기술 발전 방향과 활용 가능성을 살펴보고, 미래 시장과 사업기회 의견을 교환했다. AI가 기업 의사결정과 조직 운영에 미칠 영향을 전망하고, 새로운"
+    },
+    {
+      "id": "3b8156a48b40",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기고] 대학·공공연 R&D에 19.2조원 쓰고 기술료 수입 2800억원 그쳐",
+      "link": "https://zdnet.co.kr/view/?no=20261031154116",
+      "published": "2026-10-31T06:41:16+00:00",
+      "summary": "[지디넷코리아]우리나라 대학과 공공연구기관이 한 해 쓰는 연구개발비는 19조 2000억원이다. 같은 기간 이들이 기술을 팔아 거둔 기술료는 2780억원이다. 1억원을 투자해 연간 140만원 수익을 돌려받았다. 1.4%에 그친다. 이는 지식재산처와 과학기술정보통신부가 지난달 30일 제13회 과학기술관계장관회의에서 의결한 '지식재산(IP) 기반 연구개발(R&D) IP 사업화 혁신지원방안'에 담긴 숫자다. 다른 숫자도 크게 다르지 않다. 2024년 국가 R&D에서 나온 특허출원 4만 4079건 가운데 "
+    },
+    {
+      "id": "84b497065e42",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LG전자, 휴머노이드 직접 만든다…부품 내재화로 경쟁력↑",
+      "link": "https://zdnet.co.kr/view/?no=20261031010426",
+      "published": "2026-10-31T04:55:06+00:00",
+      "summary": "[지디넷코리아]LG전자가 세미 휴머노이드 '클로이드'를 서울 양재 데이터 팩토리에서 직접 생산하고 있는 것으로 확인됐다. 그동안 클로이드는 애지봇과 로보스타 등이 위탁생산해 왔다. LG전자는 액추에이터·연산 칩 등 핵심 부품을 내재화하며 자체 생산 역량을 키울 전망이다.31일 로봇 업계에 따르면 LG전자는 최근 양재 데이터 팩토리에서 클로이드를 만들고 있다. 아직 양산 단계가 아닌 만큼 공장 설비 대신 수작업으로 조립하는 것으로 보인다.데이터 팩토리는 가정과 공장을 본뜬 환경에서 로봇이 실제 작업"
+    },
     {
       "id": "f50452c29909",
       "source": "ZDNet Korea",
@@ -56,6 +254,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261031121003",
       "published": "2026-10-31T03:10:03+00:00",
       "summary": "[지디넷코리아]상하이 2026년 10월 31일 /PRNewswire/ -- 친환경 기술 분야의 글로벌 선도 기업 엔비전(Envision)이 자체 개발한 기상 파운데이션 모델 엔비전 톈지(Envision Tianji)가 유럽 중기 예보 센터(European Centre for Medium-Range Weather Forecasts, ECMWF)가 주관하는 AI 기상 경진대회인 AI 웨더 퀘스트(AI Weather Quest)의 최신 평가에서 종합 1위를 차지했다고 이날 발표했다. 톈지는 전 세계 약"
+    },
+    {
+      "id": "1929280fb183",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI한테 버튼 하나 부탁했을 뿐인데",
+      "link": "https://www.youtube.com/shorts/SdXqSqwk620",
+      "published": "2026-10-31T02:57:06+00:00",
+      "summary": ""
     },
     {
       "id": "2f50e219a6d3",
@@ -210,6 +419,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216806",
       "published": "2026-10-31T00:15:00+00:00",
       "summary": "스웨덴에서 기후변화로 봄철 적설량이 줄어들면 태양광 발전량이 과거보다 약 5% 증가할 수 있다는 연구 결과가 나왔다. 기온 상승은 태양전지의 발전효율을 떨어뜨리지만, 눈이 패널을 덮어 발생하는 발전 손실이 줄어드는 효과가 이를 일부 상쇄하는 것으로 분석됐다. 다만 지역과 온실가스 배출 시나리오에 따라 발전량이 감소하는 곳도 있었다.스웨덴 왕립공과대학교(KTH)와 스웨덴 기상수문연구소(SMHI), 중국 저장공업대학교 공동 연구진이 지난 11일(현지시간) 국제학술지 '커뮤니케이션스 지구·환경'에 발표"
+    },
+    {
+      "id": "5a482c8bb689",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "published": "2026-10-30T23:51:24+00:00",
+      "summary": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 202 # Comments: 59"
     },
     {
       "id": "453b72682e0c",
@@ -782,6 +1002,17 @@
       "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
       "published": "2026-10-30T14:23:26+00:00",
       "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need"
+    },
+    {
+      "id": "fcad68757a0e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "published": "2026-10-30T14:08:20+00:00",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 218 # Comments: 266"
     },
     {
       "id": "2de43eb32773",
