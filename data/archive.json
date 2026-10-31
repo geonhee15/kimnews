@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-10-31T17:42:31.704278+00:00",
-  "count": 17972,
+  "updated_at": "2026-10-31T20:41:33.456628+00:00",
+  "count": 17976,
   "items": [
+    {
+      "id": "d54e2d8ec43a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+      "published": "2026-10-31T20:10:51+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 "
+    },
     {
       "id": "18d69c6c75b8",
       "source": "TechCrunch",
@@ -34,6 +45,17 @@
       "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
       "published": "2026-10-31T15:00:00+00:00",
       "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highes"
+    },
+    {
+      "id": "875e7b07487c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "published": "2026-10-31T14:29:03+00:00",
+      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 208 # Comments: 113"
     },
     {
       "id": "232bca88da82",
@@ -100,6 +122,17 @@
       "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "published": "2026-10-31T10:30:11+00:00",
       "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 218 # Comments: 106"
+    },
+    {
+      "id": "c7c6b02d4b1d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "published": "2026-10-31T10:30:11+00:00",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 279 # Comments: 130"
     },
     {
       "id": "680dadbf4a1d",
@@ -196,6 +229,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+      "published": "2026-10-31T08:55:40+00:00",
+      "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석한 결과, 제미나이 라이브의 오프라인 모드와 관련된 문구를 발견했다고 보도했다.발견된 코드에는 인터넷 연결 없"
+    },
+    {
+      "id": "fc5d10632a43",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
       "published": "2026-10-31T08:55:40+00:00",
       "summary": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일(현지시간) 구글 안드로이드 앱 최신 버전(v17.71.17)의 코드를 분석한 결과, 제미나이 라이브의 오프라인 모드와 관련된 문구를 발견했다고 보도했다.발견된 코드에는 인터넷 연결 없"
