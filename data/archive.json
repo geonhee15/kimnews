@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-10-31T13:07:06.627289+00:00",
-  "count": 17963,
+  "updated_at": "2026-10-31T17:42:31.704278+00:00",
+  "count": 17972,
   "items": [
+    {
+      "id": "18d69c6c75b8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31T16:12:55+00:00",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+    },
+    {
+      "id": "a58c062caa3e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "published": "2026-10-31T16:05:00+00:00",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It ["
+    },
+    {
+      "id": "b245c0fd8dea",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "published": "2026-10-31T15:00:00+00:00",
+      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highes"
+    },
+    {
+      "id": "232bca88da82",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "published": "2026-10-31T14:00:00+00:00",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
+    },
     {
       "id": "808c7b398c6b",
       "source": "노마드 코더",
@@ -12,6 +56,17 @@
       "link": "https://www.youtube.com/watch?v=cS1cBP5YtqU",
       "published": "2026-10-31T12:15:03+00:00",
       "summary": ""
+    },
+    {
+      "id": "7265a4015564",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "경이로운 7대 미래도시 글로벌 투표 공식 개시",
+      "link": "https://zdnet.co.kr/view/?no=20261031211002",
+      "published": "2026-10-31T12:10:02+00:00",
+      "summary": "[지디넷코리아] 두바이, 아랍에미리트, 2026년 10월 31일 /PRNewswire/ -- 필리핀 뉴 클라크 시티(New Clark City)가 '스위치온' 행사를 개최하며, 뉴세븐원더스(New7Wonders)가 www.7wondersfc.com에서 우리의 미래를 만들어 갈 도시 개발 사업을 선정하는 전 세계 대중 투표를 시작했다. 7 Wonders Future Cities voting switch-on 뉴세븐원더스는 이날 세계 도시의 날을 맞아 필리핀에서 열린 기념비적인 행사에서 경이로운 7대"
     },
     {
       "id": "a7b94fb986f3",
@@ -36,6 +91,17 @@
       "summary": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은 AI 영화 제작에 사용한 프롬프트와 작업 과정까지 공개하며 기술 개선에 활용하겠다고 밝혔다.머스크의 스페이스XSI는 23일(현지시간) X를 통해 '"
     },
     {
+      "id": "6d0a8c7592e2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "published": "2026-10-31T10:30:11+00:00",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 218 # Comments: 106"
+    },
+    {
       "id": "680dadbf4a1d",
       "source": "Wired",
       "kind": "article",
@@ -45,6 +111,17 @@
       "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
       "published": "2026-10-31T10:30:00+00:00",
       "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat."
+    },
+    {
+      "id": "815a77b3e9b9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "published": "2026-10-31T10:23:41+00:00",
+      "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 200 # Comments: 132"
     },
     {
       "id": "0f7547a62595",
@@ -188,6 +265,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261031154116",
       "published": "2026-10-31T06:41:16+00:00",
       "summary": "[지디넷코리아]우리나라 대학과 공공연구기관이 한 해 쓰는 연구개발비는 19조 2000억원이다. 같은 기간 이들이 기술을 팔아 거둔 기술료는 2780억원이다. 1억원을 투자해 연간 140만원 수익을 돌려받았다. 1.4%에 그친다. 이는 지식재산처와 과학기술정보통신부가 지난달 30일 제13회 과학기술관계장관회의에서 의결한 '지식재산(IP) 기반 연구개발(R&D) IP 사업화 혁신지원방안'에 담긴 숫자다. 다른 숫자도 크게 다르지 않다. 2024년 국가 R&D에서 나온 특허출원 4만 4079건 가운데 "
+    },
+    {
+      "id": "22f098e49061",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Digital minimalism",
+      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "published": "2026-10-31T06:16:36+00:00",
+      "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 211 # Comments: 153"
     },
     {
       "id": "84b497065e42",
@@ -3356,6 +3444,17 @@
       "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
       "published": "2026-10-28T17:32:40+00:00",
       "summary": ""
+    },
+    {
+      "id": "13677d63ada2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "link": "https://github.com/chris124567/cfsolve",
+      "published": "2026-10-28T17:29:23+00:00",
+      "summary": "Article URL: https://github.com/chris124567/cfsolve Comments URL: https://news.ycombinator.com/item?id=50277379 Points: 283 # Comments: 96"
     },
     {
       "id": "4916f4718e79",
