@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-10-31T20:41:33.456628+00:00",
-  "count": 17976,
+  "updated_at": "2026-10-31T23:45:40.994599+00:00",
+  "count": 17984,
   "items": [
+    {
+      "id": "a504a4c34eba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31T21:41:00+00:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "id": "f16e41803f16",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-10-31T21:17:03+00:00",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+    },
+    {
+      "id": "63f9a438ebdc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GAC, 1등상 4개 등 8관왕으로 기술 혁신력 입증",
+      "link": "https://zdnet.co.kr/view/?no=20261101061013",
+      "published": "2026-10-31T21:10:13+00:00",
+      "summary": "[지디넷코리아]쑤저우, 중국 2026년 11월 1일 /PRNewswire/ -- GAC이 10월 28일 장쑤성 쑤저우에서 열린 2026 중국자동차공학회 과학기술상(2026 China-SAE Science and Technology Award) 시상식에서 총 8개 상을 수상했다. 자동차용 칩, 전기 구동, 차량 안전, 지능형 주행 거버넌스, 차체 설계 분야에서 GAC이 주도한 프로젝트 2개와 참여한 프로젝트 2개가 각각 1등상을 받았으며, GAC이 주도한 프로젝트 1개가 2등상을 수상했다. GAC "
+    },
+    {
+      "id": "18ee2c241747",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "투워즈 부다와 ICP DAS, 시카고 APTA 2026에서 iTLC 지능형 교통 제어 솔루션 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20261101061003",
+      "published": "2026-10-31T21:10:03+00:00",
+      "summary": "[지디넷코리아]전략적 협력을 통해 스마트 교차로 기술 고도화 및 해외 시장 기회 확대 시카고 2026년 11월 1일 /PRNewswire/ -- iTLC 지능형 교통 제어 시스템의 해외 유통사인 투워즈 부다(Towards Buddha Co., Ltd.)가 기술 파트너인 ICP DAS와 함께 미국 시카고에서 열린 APTA 2026 트랜스폼 및 엑스포(APTA 2026 TRANSform & EXPO)에 참가해 iTLC-9000 시리즈와 지능형 교통 관리 분야의 활용 사례를 선보였다. 이번 전시에서는 "
+    },
+    {
+      "id": "9bd6dc477498",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "published": "2026-10-31T21:06:58+00:00",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a "
+    },
     {
       "id": "d54e2d8ec43a",
       "source": "AI타임스",
@@ -12,6 +67,28 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
       "published": "2026-10-31T20:10:51+00:00",
       "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 "
+    },
+    {
+      "id": "e384a7bb6630",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "link": "https://karpathy.bearblog.dev/hacker-tube/",
+      "published": "2026-10-31T19:56:53+00:00",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 496 # Comments: 187"
+    },
+    {
+      "id": "1963a6f44297",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "published": "2026-10-31T19:16:30+00:00",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 263 # Comments: 126"
     },
     {
       "id": "18d69c6c75b8",
@@ -5028,6 +5105,17 @@
       "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "published": "2026-10-27T16:01:38+00:00",
       "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    },
+    {
+      "id": "e89a4b51645f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Simple circuits can create complex behaviors",
+      "link": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "published": "2026-10-27T16:01:06+00:00",
+      "summary": "Article URL: https://aatishb.com/myriad/lets-build-a-brain/ Comments URL: https://news.ycombinator.com/item?id=50261253 Points: 201 # Comments: 66"
     },
     {
       "id": "73d0d0be247b",
