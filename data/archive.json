@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-11-01T16:25:45.521407+00:00",
-  "count": 18037,
+  "updated_at": "2026-11-01T20:41:51.930776+00:00",
+  "count": 18042,
   "items": [
+    {
+      "id": "bac526c2aa7d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Patrick Stewart taught us what good men do with power",
+      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "published": "2026-11-01T17:28:16+00:00",
+      "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 244 # Comments: 171"
+    },
+    {
+      "id": "c9835ec7c13b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s HomeView could add security camera features",
+      "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "published": "2026-11-01T17:16:07+00:00",
+      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. Accordi"
+    },
+    {
+      "id": "5c72f1324daa",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "published": "2026-11-01T17:04:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
     {
       "id": "612bdb077ffa",
       "source": "TechCrunch",
@@ -221,6 +254,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261101145858",
       "published": "2026-11-01T06:07:43+00:00",
       "summary": "[지디넷코리아]김도승 전북대 법학전문대학원 교수가 1일 \"인공지능(AI) 시대 개인정보 보호를 정보주체의 동의에만 맡겨서는 안 된다\"라면서 \"동의를 잘 받으라고만 하는 건 국가나 사회의 책임 있는 행동이 아니다\"라고 밝혔다. 김 교수는 이날 서울 서대문구 연세대 백양누리에서 열린 '제3회 모두의 토론회' 발제에서 이같이 강조했다.그는 '개인정보는 어떤 방식으로 쓰이고 있을까'를 주제로 발표했다. 이제는 포털 로그인이나 배달 주문처럼 일상 곳곳에서 개인정보가 쓰이고 있지만, 개인정보 보호는 10여 "
+    },
+    {
+      "id": "a4bdd5254cfe",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "published": "2026-11-01T06:06:19+00:00",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 251 # Comments: 175"
     },
     {
       "id": "901bceec02ee",
@@ -1805,6 +1849,17 @@
       "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "published": "2026-10-30T14:08:20+00:00",
       "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 218 # Comments: 266"
+    },
+    {
+      "id": "2d9b8ebe534f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "published": "2026-10-30T13:58:42+00:00",
+      "summary": "Article URL: https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/ Comments URL: https://news.ycombinator.com/item?id=50303984 Points: 219 # Comments: 51"
     },
     {
       "id": "2de43eb32773",
