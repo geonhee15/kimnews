@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-11-02T03:56:53.249093+00:00",
-  "count": 18064,
+  "updated_at": "2026-11-02T11:58:34.277062+00:00",
+  "count": 18088,
   "items": [
+    {
+      "id": "188a95402692",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+      "link": "https://www.wired.com/story/comedians-making-fun-of-ai/",
+      "published": "2026-11-02T11:30:00+00:00",
+      "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots."
+    },
+    {
+      "id": "65ffe43f63eb",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "published": "2026-11-02T10:00:00+00:00",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video."
+    },
+    {
+      "id": "c617af58e741",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디어비, AI 캐릭터 교감 플랫폼 '디어비' 출시…창작 생태계 구축",
+      "link": "https://zdnet.co.kr/view/?no=20261102185350",
+      "published": "2026-11-02T09:55:01+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 캐릭터 교감과 이용자 창작 콘텐츠(UGC) 생태계를 결합한 신규 플랫폼이 나온다.디어비(대표 배준석)는 차세대 AI 컴패니언 및 AI 사용자 생성 콘텐츠(UGC) 플랫폼 '디어비'를 구글 플레이와 공식 웹페이지를 통해 정식 출시했다고 2일 밝혔다.'디어비'는 AI 캐릭터와의 대화를 통해 유대감을 형성하고, 이용자가 직접 캐릭터와 스토리를 제작해 공유할 수 있는 플랫폼이다.이 플랫폼은 ▲가상 무대에서 서사를 즐기는 '테마' 콘텐츠 ▲캐릭터 피규어 제작 ▲옷 입히기 ▲전"
+    },
+    {
+      "id": "1e7ca83ad2b1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "폴라리스AI, 유비테크와 휴머노이드 사업화 속도…로보월드서 기술 시연",
+      "link": "https://zdnet.co.kr/view/?no=20261102185413",
+      "published": "2026-11-02T09:54:26+00:00",
+      "summary": "[지디넷코리아]폴라리스AI가 글로벌 로봇 제조사 유비테크 로보틱스와 협력해 국내 휴머노이드 로봇 시장 공략에 나선다. 산업 현장부터 상업시설, 가정까지 다양한 환경에 적용할 수 있는 로봇을 선보이고 국내 고객 확보에 나설 계획이다.폴라리스AI는 양시 킨텍스에서 열리는 '2026 로보월드'에 참가해 유비테크의 휴머노이드 로봇 제품과 활용 기술을 소개한다고 2일 밝혔다.이번 행사에는 유비테크 본사 관계자들도 직접 참석한다. 이들은 전시 현장에서 로봇 작동 시연과 기술 설명을 지원하고, 폴라리스AI와 "
+    },
+    {
+      "id": "779d8f2bbe0d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국형 우주 데이터센터, 2028년 첫 궤도 실증 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261102182318",
+      "published": "2026-11-02T09:50:38+00:00",
+      "summary": "[지디넷코리아]지상 데이터센터(DC)의 전력과 냉각 문제를 극복하기 위해 2035년까지 우주 DC를 단계적으로 구축하는 구상이 제시됐다. 첫 단계로 2028년 누리호 7차 발사를 활용해 100kg급 소형 우주 DC의 궤도 실증을 추진한다는 계획이다.이춘우 K문샷 추진단 우주미션 PD는 2일 국회에서 열린 우주데이터센터포럼 3차 토론회에서 “지상 DC는 막대한 전력 수요, 냉각수 부족, 부지 확보 난항, 각종 환경 규제, 데이터 전송 지연 등 한계가 있다”며 “우주의 무한한 태양광 자원과 복사냉각 "
+    },
+    {
+      "id": "a825db2839e6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국에머슨, '제어부터 예지보전까지' AI 데이터센터 냉각 자동화 기술 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261102183826",
+      "published": "2026-11-02T09:39:24+00:00",
+      "summary": "[지디넷코리아]한국에머슨이 인공지능(AI) 데이터센터 냉각 효율을 높이고 설비 장애를 예방하기 위한 산업용 자동화 기술을 선보인다.한국에머슨은 서울 양재 aT센터에서 열리는 데이터센터코리아 2026에 참가해 냉각·유틸리티 설비의 제어부터 상태 진단, 정밀 계측까지 지원하는 자동화 솔루션을 공개한다고 2일 밝혔다.AI와 고성능 컴퓨팅 확산으로 데이터센터의 전력 사용량과 냉각 수요가 증가하면서 관련 설비의 안정적인 운영이 중요해지고 있다. 특히 냉각 계통의 이상은 서버 운영에 직접적인 영향을 줄 수 "
+    },
+    {
+      "id": "6d21516ab85e",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The agentic web is here",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "published": "2026-11-02T09:35:19+00:00",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated"
+    },
+    {
+      "id": "baab4f3030e0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"반도체 클러스터 속도 더해야\"…정부, 팹 조기 구축에 '한목소리'",
+      "link": "https://zdnet.co.kr/view/?no=20261102173624",
+      "published": "2026-11-02T09:31:25+00:00",
+      "summary": "[지디넷코리아]삼성전자, SK하이닉스 등이 주도하는 국내 반도체 생태계 강화 전략에 정부가 지속적인 힘을 싣고 있다.김정관 산업통상부 장관은 2일 서울 중구 페럼타워에서 열린 국민경제자문회의 공개 포럼에서 \"3대 메가 프로젝트의 반도체 팹 가동 시점을 2년 이상 앞당기겠다\"고 밝혔다.김 장관은 \"프로젝트의 민간 투자 규모는 총 1600조원 규모로, 사업 착수연도 국내총생산(GDP)의 약 60%에 달하는 압도적인 수준\"이라며 \"민간의 투자 계획이 차질 없이 집행되도록 인허가 일괄처리와 초광역특구법 "
+    },
+    {
+      "id": "f6e2a9105bde",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광주 백화점 판매 4.6% 늘었지만…대형마트는 8.6% 감소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216912",
+      "published": "2026-11-02T09:28:59+00:00",
+      "summary": "광주 백화점 판매가 지난해 부진에서 회복했지만, 대형마트는 감소세를 이어갔다. 백화점 판매가 늘었음에도 대형마트의 부진이 이어지면서 지역 대형소매점 전체 판매는 줄어든 것으로 나타났다.호남지방데이터청이 10월30일 발표한 '9월 산업활동동향'의 통합 이전 광주광역시 지역 통계표를 분석한 결과, 올해 1~9월 백화점 판매는 전년 동기보다 4.6% 증가했다. 반면 대형마트는 8.6% 감소했고, 대형소매점 전체도 1.0% 줄었다.이는 물가 변동을 제거한 불변판매액지수(2020년=100)의 1~9월 평균"
+    },
+    {
+      "id": "84c5e8c94c74",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "알트먼 CEO, 삼성·SK 회동…스타게이트 협력 강화 '기대'",
+      "link": "https://zdnet.co.kr/view/?no=20261102182648",
+      "published": "2026-11-02T09:28:31+00:00",
+      "summary": "[지디넷코리아]샘 알트먼 오픈AI 최고경영자(CEO)가 약 1년 만에 한국서 삼성·SK그룹 경영진을 잇달아 만나 사업 협력을 논의했다. 초대형 인공지능(AI) 인프라 사업 '스타게이트' 핵심 참여사들과 접촉하면서 메모리 반도체 공급과 국내 AI 데이터센터 구축 논의에 속도가 붙을 것이란 기대가 나오고 있다.2일 IT 업계 따르면 알트먼 CEO는 지난달 30일 1박 2일 일정으로 방한했다. 이번 방문에는 리차드 호 하드웨어 담당 부사장과 아르빈드 KC 최고인사책임자(CPO), 키란 마니 아시아태평양"
+    },
+    {
+      "id": "0880af5f0f9c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216893",
+      "published": "2026-11-02T09:24:54+00:00",
+      "summary": "최첨단 AI 모델 50개를 하나의 군집으로 묶어 협업하도록 했지만, 정작 문명 건설에는 실패했다. AI 에이전트들이 5900개의 메시지를 주고받으며 복잡한 규칙과 역할 분담에 매달린 탓이다. 여러 AI를 연결하더라도 의사결정 구조가 비효율적이면 전체 성과가 떨어질 수 있다는 사실을 보여주는 실험이다.Y콤비네이터(Y Combinator)와 올람 랩스(Olam Labs) 연구진은 29일(현지시간) 마인크래프트 등 다양한 게임 환경에서 수십~수백개의 AI 에이전트 군집을 실험한 결과를 공개했다. 여러 "
+    },
+    {
+      "id": "81cf4bd52c29",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216891",
+      "published": "2026-11-02T09:06:49+00:00",
+      "summary": "앤트로픽이 내부 업무에 사용하는 AI 서비스의 가치가 직원 급여 비용을 넘어선 것으로 나타났다. '클로드'의 활용이 급증하면서 AI가 기업 운영의 핵심 생산 자원으로 자리 잡고 있음을 보여주는 사례다.비즈니스 인사이더는 1일(현지시간) 앤트로픽의 기업공개(IPO) 신고서를 인용해 지난 4월 기준 내부 클로드 사용 가치가 월간 직원 보상 비용을 초과했다고 보도했다.AI 사용 가치는 고객에게 판매하는 소매 요금을 기준으로 계산했으며, 직원 보상 비용에서는 주식 보상을 제외했다. 따라서 실제 AI 운영"
+    },
+    {
+      "id": "38427027c6bb",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"빨간 하트 하나에 코딩 방식 바뀐다\"…AI의 숨겨진 시각적 영향 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216913",
+      "published": "2026-11-02T09:00:00+00:00",
+      "summary": "단순한 빨간색 하트 이미지 하나만으로 AI가 코드를 작성하는 방식이 완전히 달라진다는 연구 결과가 나왔다. 특히 AI가 이미지의 영향을 받아 작업 방식을 바꾸면서도 그 이유를 제대로 설명하지 못하는 것으로 나타나, 시각 정보를 처리하는 AI의 의사결정 과정에 새로운 의문이 제기됐다.구글 딥마인드와 스탠퍼드대학교 공동 연구진은 지난달 27일(현지시간) 논문 사전 공개 사이트 아카이브(arXiv)에 '하트는 재귀를 의미한다(A Heart Means Recursion)'라는 제목의 논문을 발표했다. 이"
+    },
+    {
+      "id": "0683da9254ce",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 코딩 다음은 신약 개발…IPO 앞두고 생명과학 투자 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216907",
+      "published": "2026-11-02T08:57:10+00:00",
+      "summary": "앤트로픽이 기업공개(IPO)를 앞두고 생명과학과 신약 개발을 차세대 핵심 성장 동력으로 내세웠다. 소프트웨어 코딩과 기업용 AI 시장에서 거둔 성과를 바탕으로 제약·바이오 산업까지 사업을 확대하고, 자체 연구소와 바이오 기업 인수를 통해 직접 생명과학 연구에도 뛰어들고 있다.비즈니스 인사이더는 지난달 31일(현지시간) 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 S-1 상장 신청서에서 생명과학 사업을 주요 성장 전략으로 제시했다고 보도했다.앤트로픽은 AI가 과학적 발견을 가속하고 주요 질병의 "
+    },
+    {
+      "id": "c8cf3b10d3c4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216915",
+      "published": "2026-11-02T08:41:15+00:00",
+      "summary": "마이크로소프트(MS)와 UC버클리 연구진이 AI 코딩 에이전트의 작업 성공률을 유지하면서 모델 이용 비용을 최대 30.9% 줄이는 오픈소스 도구를 공개했다. 이전 작업에서 얻은 정보를 재활용하고 불필요한 도구 호출과 반복적인 실패를 줄이는 방식으로, AI 모델 자체를 수정하지 않고도 운영 비용을 낮출 수 있다는 것이 특징이다.연구진은 최근 논문 사전 공개 사이트 아카이브(arXiv)를 통해 코딩 에이전트의 비용을 최적화하는 플러그인 ‘토큰이코노마이저(TokenEconomizer)’를 온라인 아카이"
+    },
+    {
+      "id": "e8d7f5be5be5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216914",
+      "published": "2026-11-02T08:14:55+00:00",
+      "summary": "생성 AI와 AI 에이전트가 기업이 정한 정책과 범위 안에서만 움직이도록 통제하는 'AI 가드레일' 시장을 겨냥해 국내 솔루션 기업들이 잰걸음에 나섰다.AI 가드레일은 AI의 입력과 출력, 행동을 정해진 기준 안에 묶어 두는 안전장치다. 입·출력을 판정·차단하는 제품으로 좁게 보기도 하고, 개발·운영 전 과정의 보안 체계나 조직 차원의 거버넌스로까지 확장되기도 한다.최근에는 AI 에이전트가 확산하면서 통제 대상도 '말(텍스트)'를 넘어 '행동'으로 넓어지는 양상이다. AI 에이전트가 수행한 잘못된"
+    },
+    {
+      "id": "0b8f448b690f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216910",
+      "published": "2026-11-02T08:12:34+00:00",
+      "summary": "스위스의 암호화 전문 프로톤(Proton)이 소프트웨어 개발을 AI 중심으로 전환하면서 내부 갈등을 겪고 있다. 최고 기술책임자(CTO)는 개발자가 직접 코드를 작성하는 시대가 끝났다고 선언했으며, 경영진은 AI 활용을 강하게 독려하는 과정에서 보안 검증을 요구한 직원들과 충돌했다. 논란이 커지자 회사는 직원들의 AI 활용 능력을 재평가하려던 계획을 취소했다.404미디어는 29일(현지시간) 프로톤의 내부 메모와 슬랙 대화, 회의 녹음, 직원 인터뷰 등을 토대로 회사의 AI 전환 과정에서 발생한 갈"
+    },
+    {
+      "id": "a56a8a950029",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "시스코, 27세 엔지니어에게 AI 토큰 무제한 제공…2년 내 기존 코드 98% 재작성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216918",
+      "published": "2026-11-02T08:03:00+00:00",
+      "summary": "시스코가 27세 엔지니어에게 AI 토큰을 무제한으로 제공하며, 2년 안에 회사의 기존 소프트웨어 코드 98%를 재작성하는 프로젝트를 맡겼다. 단 2명의 팀으로 대규모 코드 개편을 추진하겠다는 제안에 경영진이 힘을 실은 것으로, AI가 소프트웨어 개발 방식과 기업의 인재 활용 전략을 바꾸고 있음을 보여주는 사례다.포춘은 30일(현지시간) 시스코의 사장 겸 최고제품책임자(CPO) 지투 파텔이 27세 엔지니어 파드마나반 크리슈나무르티에게 회사의 레거시 코드를 대대적으로 개편하는 임무를 맡겼다고 보도했다"
+    },
+    {
+      "id": "95ac58b8d0c6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 네이버클라우드, 육군 군수사령부와 ‘실전용 AI 에이전트‘ 개발 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216917",
+      "published": "2026-11-02T08:00:00+00:00",
+      "summary": "■ 네이버클라우드(대표 김유원)는 육군 군수사령부와 ‘실전형 AI 군수 역량 강화를 위한 업무협약’을 체결했다고 밝혔다. 양 기관은 ▲AI 기반 군 특화 조달 플랫폼 ▲상태기반정비(CBM+) ▲디지털 트윈 기반 스마트 물류 등 군수 현장에 적용할 AI 서비스를 공동 개발·실증한다. 군수 특화 클라우드 구축과 전방 배치 엔지니어(FDE)를 투입해 군수 AI 에이전트 개발을 지원할 예정이다.■ KT(대표 박윤영)는 퇴직·은퇴 임직원 출신 시니어 IT서포터즈를 강사로 1인가구 어르신 대상 생성형 AI "
+    },
+    {
+      "id": "5d8be6d9f3fc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "커서에서 '클로드 코드' 사칭 악성 프로그램 유포…최대 5000명 영향",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216919",
+      "published": "2026-11-02T07:57:58+00:00",
+      "summary": "커서의 'VS 코드(VS Code)' 확장 프로그램 마켓플레이스에서 앤트로픽의 '클로드 코드'를 사칭한 악성 확장 프로그램이 유통돼 최대 5000명의 사용자가 영향을 받은 것으로 나타났다. 해당 프로그램은 사용자 시스템 정보를 수집하고 공격자의 원격 접근을 시도했지만, 대부분의 시스템에서는 핵심 단계가 실패해 심각한 피해로 이어지지는 않은 것으로 확인됐다.커서는 30일(현지시간) 악성 변조된 클로드 코드 확장 프로그램이 전날 마켓플레이스에 등록돼 유통됐다고 발표했다. 해당 버전은 앤트로픽이 개발한"
+    },
+    {
+      "id": "ec22182db2db",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"개인정보 훔쳐 AI로 피해자 가치 평가\"…클로드 거부하면 다른 모델로 전환",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216895",
+      "published": "2026-11-02T07:51:23+00:00",
+      "summary": "윈도우 PC에서 개인정보를 훔친 뒤 AI를 이용해 피해자의 자산 가치와 보안 수준까지 평가하는 악성코드가 발견됐다. 특히 AI 모델이 분석을 거부하면 다른 모델로 자동 전환하는 기능까지 갖췄다. 탈취한 정보를 단순히 빼돌리는 데 그치지 않고, AI를 활용해 돈이 될 만한 공격 대상을 선별하는 방식이다.보안업체 시스코 탈로스(Cisco Talos)는 31일(현지시간) 공식 블로그를 통해 AI 모델을 활용해 피해자의 가치를 자동으로 평가하는 신종 정보 탈취 악성코드 '볼타-오토독서(VOLTA-AUTO"
+    },
     {
       "id": "53565804d63b",
       "source": "AI타임스",
@@ -157,6 +388,17 @@
       "summary": "[지디넷코리아]국내 최대인 최신 GPU 8,496개를 갖춘 국가 슈퍼컴퓨터 6호기 '한강'이 다음 달 정식 서비스에 들어간다.과학기술정보통신부와 한국과학기술정보연구원(KISTI)은 2일 대전 KISTI 본원에서 슈퍼컴퓨터 6호기 ‘한강’ 가동식을 개최했다.가동식에는 김성수 과기정통부 연구개발정책실장, 이식 KISTI 원장을 비롯한 산·학·연 및 유관기관 관계자 등 200여 명이 참석했다.한강에는 엔비디아 CPU-GPU 통합 가속기 칩인 ‘GH200’ 등 최신 GPU 8,496개와 CPU 9,936"
     },
     {
+      "id": "51141dbf16a1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "OccupySaaS",
+      "link": "https://occupysaas.com/",
+      "published": "2026-11-02T00:17:27+00:00",
+      "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 317 # Comments: 184"
+    },
+    {
       "id": "6a43dea5d2b2",
       "source": "AI타임스",
       "kind": "article",
@@ -309,6 +551,17 @@
       "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
       "published": "2026-11-01T14:00:00+00:00",
       "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay?"
+    },
+    {
+      "id": "905b9f9dd2c9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "published": "2026-11-01T13:02:30+00:00",
+      "summary": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It's fast. It can diff C++ files of tens of thousands of lines in unde"
     },
     {
       "id": "5141d046e8ba",
@@ -3103,6 +3356,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261030004040",
       "published": "2026-10-29T15:40:40+00:00",
       "summary": "[지디넷코리아]장병규 크래프톤 의장이 창업과 글로벌 시장 진출 경험을 바탕으로 익숙한 범위를 벗어나는 선택의 중요성을 강조했다.크래프톤은 장병규 의장이 서울 코엑스 3층 오디토리움에서 열린 ‘2026 정주영 창업경진대회’ 데모데이에서 ‘무한으로의 확장’을 주제로 기조연설을 진행했다고 29일 밝혔다.지난 28일 아산나눔재단이 주최한 이번 대회는 올해로 15회째를 맞았다. 정주영 현대그룹 창업자의 어록 ‘인간의 가능성은 무한하다’를 바탕으로 ‘무한(Infinite)’을 주제로 열렸다.장 의장은 새로운"
+    },
+    {
+      "id": "9cb5fb29d56c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "link": "https://outcrop.rocks/",
+      "published": "2026-10-29T15:22:41+00:00",
+      "summary": "I've been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. I"
     },
     {
       "id": "00d49b29ad42",
