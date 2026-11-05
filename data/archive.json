@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-11-05T12:47:30.275615+00:00",
-  "count": 18432,
+  "updated_at": "2026-11-05T20:27:00.004949+00:00",
+  "count": 18468,
   "items": [
+    {
+      "id": "2daa30ad4318",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "published": "2026-11-05T20:23:21+00:00",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "c2f87777501f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "published": "2026-11-05T19:48:28+00:00",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+    },
+    {
+      "id": "652194d628ad",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "published": "2026-11-05T19:12:58+00:00",
+      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months"
+    },
+    {
+      "id": "d4389379ad95",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "published": "2026-11-05T19:12:39+00:00",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
+    },
+    {
+      "id": "beec8115be1e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "published": "2026-11-05T19:06:12+00:00",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+    },
+    {
+      "id": "068e502293ad",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse has a voice mode now",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "published": "2026-11-05T19:03:04+00:00",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of "
+    },
+    {
+      "id": "ee372a44bc11",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "published": "2026-11-05T18:02:27+00:00",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business."
+    },
+    {
+      "id": "9a9901e5d9a8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "published": "2026-11-05T18:00:00+00:00",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+    },
+    {
+      "id": "d6e417735b6f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "published": "2026-11-05T18:00:00+00:00",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
+    },
+    {
+      "id": "c9e17351b56f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude AI can plug directly into your bank account",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "published": "2026-11-05T18:00:00+00:00",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for examp"
+    },
+    {
+      "id": "fcdeeb33e505",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "published": "2026-11-05T17:51:52+00:00",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor electe"
+    },
+    {
+      "id": "94140df0bd2a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+      "published": "2026-11-05T17:40:27+00:00",
+      "summary": "Using a capture card and open source software to run PS5 video through a PC GPU."
+    },
+    {
+      "id": "34dcaba3b0fd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The FAA is finally ditching floppy disks",
+      "link": "https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids",
+      "published": "2026-11-05T17:13:42+00:00",
+      "summary": "It's the year 2026 and the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks. But those technology artifacts could be headed for the dustbin after Transportation Secretary Sean Duffy announced an effort to ditc"
+    },
+    {
+      "id": "d7d8d497b872",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "published": "2026-11-05T17:05:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bdee62fd6c75",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "published": "2026-11-05T17:00:00+00:00",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it rele"
+    },
+    {
+      "id": "2f21eb4645fb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "published": "2026-11-05T16:16:45+00:00",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
+    },
+    {
+      "id": "4f1b66cd015f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "link": "https://motorolanews.com/motorola-signature-27-2/",
+      "published": "2026-11-05T16:01:34+00:00",
+      "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 277 # Comments: 183"
+    },
+    {
+      "id": "451369ee8852",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Accessibility statements now have a home on GitHub",
+      "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "published": "2026-11-05T16:00:00+00:00",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blo"
+    },
+    {
+      "id": "566bde3ccb60",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "published": "2026-11-05T14:44:20+00:00",
+      "summary": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/ Comments URL: https://news.ycombinator.com/item?id=50379704 Points: 448 # Comments: 80"
+    },
+    {
+      "id": "f74e9483c41e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기고] 프리미엄 안드로이드폰 칩셋 시장이 재편된다",
+      "link": "https://zdnet.co.kr/view/?no=20261105223454",
+      "published": "2026-11-05T14:04:57+00:00",
+      "summary": "[지디넷코리아]메모리 가격 급등으로 스마트폰 제조사 부담이 점점 커지고 있다. 최근 프리미엄 스마트폰에서 시스템온칩(SoC, 모바일 AP)은 메모리와 함께 가장 비싼 두 부품 중 하나다. SoC 또한 원가 부담을 줄이려는 제조사 노력에 맞춰 변하고 있다.업계는 이제 제약 없는 '미래 보장형(future-proofing)', 즉 미래를 대비해 무조건 최고 사양을 넣는 전략을 버렸다. 스마트폰 제조사와 칩 제조사는 단순한 사양 경쟁에서 벗어나, 프리미엄 디바이스가 요구하는 성능을 충족하면서도 수익률 "
+    },
+    {
+      "id": "d8976cfadbba",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "link": "https://www.wired.com/story/aina-smart-ring/",
+      "published": "2026-11-05T14:00:00+00:00",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap."
+    },
+    {
+      "id": "fe282d1a9fe1",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+      "published": "2026-11-05T14:00:00+00:00",
+      "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price."
+    },
+    {
+      "id": "2038f035586c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[현장] 틸론, 차세대 VDI '디스테이션X' 발표...\"AI업무 관문\"",
+      "link": "https://zdnet.co.kr/view/?no=20261105225221",
+      "published": "2026-11-05T13:52:21+00:00",
+      "summary": "[지디넷코리아]우리나라에서 가장 오래된 25년의 가상 데스크톱(VDI) 역사를 지닌 틸론(대표 최백준)이 5일 제주에서 차세대(3세대) 제품을 내놓고 공공과 민간 시장 확대에 나섰다. 제주는 이 회사의 소프트웨어(SW) 자회사 틸론소프트가 소재해 있다.이날 틸론은 틸론소프트와 함께 자사 연례 컨퍼런스 ‘디 아더 데이 2026(The Other Day 2026)’를 개최하고 차세대 3세대 VDI 제품인 '디스테이션X(Dstation X)'를 발표했다.앞서 이 제품은 국가정보원 보안기능 시험제도에 따"
+    },
+    {
+      "id": "d2ce00b1ef3a",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "published": "2026-11-05T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and"
+    },
+    {
+      "id": "9acea63dc1e8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Download your favourite YouTube videos",
+      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "published": "2026-11-05T13:00:11+00:00",
+      "summary": "Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/ Comments URL: https://news.ycombinator.com/item?id=50378571 Points: 206 # Comments: 93"
+    },
+    {
+      "id": "dc51a63e5643",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "published": "2026-11-05T13:00:00+00:00",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs."
+    },
+    {
+      "id": "a663b12a7128",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "금보원, 클라우드 사업자 점검 영역 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261105214315",
+      "published": "2026-11-05T12:49:27+00:00",
+      "summary": "[지디넷코리아]금융보안원이 클라우드 사업자 평가의 기술분야 점검 대상을 가상자원 관리시스템에서 외부에 노출된 운영, 개발, 테스트 시스템까지 넓힌다. 인공지능(AI)으로 점검할 자산을 식별하고 취약점을 파악하는 자동화도 도입할 계획이다. 2027년도 평가부터 사전협의된 클라우드 사업자를 대상으로 본격 적용된다.금보원은 클라우드 보안 위협에 선제적으로 대응하기 위해 '클라우드 서비스 제공자(CSP) 안전성 대표평가'를 고도화한다고 5일 밝혔다.서면 평가(증적, 실사, 시연 등)의 한계를 극복하고자 "
+    },
+    {
+      "id": "815eaaa81eb2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "sshole",
+      "link": "https://sshhole.com",
+      "published": "2026-11-05T12:19:02+00:00",
+      "summary": "Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 1902 # Comments: 497"
+    },
+    {
+      "id": "eb142cce8371",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엘앤에프, 내년 영업익 120% 증가 전망…\"46파이·LFP 본격 성장\"",
+      "link": "https://zdnet.co.kr/view/?no=20261105180135",
+      "published": "2026-11-05T12:14:34+00:00",
+      "summary": "[지디넷코리아]엘앤에프가 46파이(지름 46mm 원통형 배터리), 리튬인산철(LFP) 등 양극재 수요 확대 전망에 따라 내년 영업이익이 120% 이상 성장할 것으로 전망했다.엘앤에프는 5일 3분기 실적발표 컨퍼런스콜에서 사업 전망을 이같이 밝혔다.엘앤에프는 올해 3분기 매출액 8744억원, 영업손실 265억원을 기록했다. 전년 동기 대비 매출은 34% 증가한 반면 영업이익은 적자전환했다. 이는 환율 변동과 원재료(리튬) 가격 하락 등 외부 요인에 따른 것으로, 양극재 사업 자체는 순탄하게 전개되고"
+    },
+    {
+      "id": "9cbb1df0d6a3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "published": "2026-11-05T12:00:41+00:00",
+      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
+    },
     {
       "id": "68620cf5336d",
       "source": "TechCrunch",
@@ -25,6 +355,28 @@
       "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals."
     },
     {
+      "id": "99307f588f8a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"손에 쥔 장비가 가치를 갖도록\"…넥슨 ‘템빨: 오버기어드’, 11월 26일 정식 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261105205927",
+      "published": "2026-11-05T11:59:27+00:00",
+      "summary": "[지디넷코리아]넥슨이 오는 26일 신작 MMORPG ‘템빨: 오버기어드’를 정식 출시한다. 이용자는 원작의 대장장이 ‘그리드’처럼 직접 장비를 만들고, 제작에 대성공하면 자신의 이름과 장인 등급을 새길 수 있다. 다른 이용자가 제작한 장비를 착용하고 전투에 나설 수도 있다넥슨은 5일 공식 유튜브 채널에서 진행한 온라인 쇼케이스 ‘오버 월드’에서 정식 출시일과 출시 후 6개월간의 업데이트 계획을 공개했다. 최병천 그레이게임즈 PD와 윤순준 그레이게임즈 디렉터가 출연해 실제 플레이 영상으로 장비 성장"
+    },
+    {
+      "id": "48d64b541640",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[포토] VDI 전문업체 틸론, 'TheOtherDay 2026' 제주서 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261105205416",
+      "published": "2026-11-05T11:54:16+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 및 국내 최고 가상 데스크톱 인프라(VDI) 전문기업 틸론(대표 최백준)이 개최한 자체 연례 컨퍼런스 '디아더데이(TheOtherDay 2026)' 행사가 5일 제주특별자치도 메종 글래드에서 열렸다. 틸론은 제주에 '틸론소프트'라는 자회사를 설립, 운영하고 있다. 이날 행사서 틸론은 자사의 차세대 VDI 플랫폼 'Dstation X(디스테이션 X)'와 제주서 시행하려고 하는 AI인프라 사업 등을 소개했다. 이 제품은 최근 국가정보원 보안기능 시험제도에 따른 '보안기능"
+    },
+    {
       "id": "5e2594c91f2a",
       "source": "Wired",
       "kind": "article",
@@ -45,6 +397,28 @@
       "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
       "published": "2026-11-05T11:39:42+00:00",
       "summary": "Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now moving its desktop app fully to Rust - a modern programming langu"
+    },
+    {
+      "id": "0ce11baf53c0",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "휴네시온, 빅스포서 N2SF·OT 보안 솔루션 소개",
+      "link": "https://zdnet.co.kr/view/?no=20261105202549",
+      "published": "2026-11-05T11:29:05+00:00",
+      "summary": "[지디넷코리아]휴네시온이 한국전력공사 주최 전시회에 참가해 국가망보안체계(N2SF) 구축 사례와 발전소 등 기반시설용 일방향 망연계 솔루션을 소개했다.회사는 4~6일 광주 김대중컨벤션센터에서 열리는 '빛가람 국제전력기술 엑스포(BIXPO, 빅스포) 2026'에 참가한다고 5일 밝혔다.빅스포는 한국전력이 2015년 나주 혁신도시로 이전하면서 지역 거점을 확보하고 에너지 신기술 기업에 새로운 시장 출구를 열어 주기 위해 마련한 행사로, 올해 11회째를 맞았다. '혁신과 가능성의 만남'을 주제로 국내외"
+    },
+    {
+      "id": "50933d3282f7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "실버포트 \"기존 인증 시스템 변경 없이 MFA 구현 가능\"",
+      "link": "https://zdnet.co.kr/view/?no=20261105200348",
+      "published": "2026-11-05T11:12:44+00:00",
+      "summary": "[지디넷코리아]실버포트가 기존 인증 시스템을 그대로 둔 채 모든 계정의 접근을 요청 순간에 통제하고 인공지능(AI) 에이전트의 이상행위까지 차단하는 '실버포트 ID 보안 플랫폼(Silverfort Identity Security Platform)'으로 국내 금융, 제조 분야 엔터프라이즈 고객을 다수 확보했다.필립 리처드슨 실버포트 아시아태평양 지역 기술제휴 매니저는 지디넷코리아와 만나 이 기술의 작동 방식과 적용 범위를 설명했다.리처드슨 매니저는 인프라를 바꾸지 않고 접근 시점에서 보호를 적용한다"
     },
     {
       "id": "afb68b876637",
@@ -122,6 +496,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261105183146",
       "published": "2026-11-05T10:40:01+00:00",
       "summary": "[지디넷코리아]카카오게임즈가 캐주얼 두뇌 트레이닝 게임 '오늘두호두'에 시공간능력 훈련 콘텐츠를 추가하고 이용자 편의 기능을 개선했다.카카오게임즈(공동대표 김태환·이시우)는 인지기능 측정 및 치료 전문 스타트업 벨루가가 개발한 캐주얼 두뇌 트레이닝 게임 '오늘두호두'에 신규 콘텐츠 업데이트를 실시했다고 5일 밝혔다.이번 업데이트에서는 시공간능력 훈련을 위한 신규 미니게임 '크러시 라인'을 추가했다. 이용자는 다양한 블록을 활용한 게임을 통해 시공간능력을 훈련할 수 있다.신규 이용자를 위한 '호박사"
+    },
+    {
+      "id": "32627f40f314",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "published": "2026-11-05T10:35:16+00:00",
+      "summary": ""
     },
     {
       "id": "3269ba09a106",
@@ -287,6 +672,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217045",
       "published": "2026-11-05T07:48:17+00:00",
       "summary": "메타가 여러 AI 코딩 에이전트를 동시에 실행하고 관리할 수 있도록 지원하는 스타트업 컨덕터(Conductor)를 인수했다. AI 모델 경쟁을 넘어 개발자가 여러 에이전트를 효율적으로 활용할 수 있는 코딩 환경까지 확보하려는 전략으로 풀이된다.메타는 4일(현지시간) 여러 AI 코딩 에이전트를 동시에 운용할 수 있는 오케스트레이션 플랫폼 스타트업 컨덕터를 인수했다고 밝혔다.재무적 상세 조건은 공개되지 않았으나, 이번 인수를 통해 메타는 AI 코딩 제품 라인업을 대폭 강화할 계획이다. 2024년 설립"
+    },
+    {
+      "id": "e283ede18be5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "published": "2026-11-05T07:44:30+00:00",
+      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 224 # Comments: 117"
     },
     {
       "id": "3c4b0d7c1ddd",
