@@ -1,7 +1,183 @@
 {
-  "updated_at": "2026-11-06T15:34:29.297435+00:00",
-  "count": 18560,
+  "updated_at": "2026-11-06T21:04:28.758919+00:00",
+  "count": 18578,
   "items": [
+    {
+      "id": "557f5a61a175",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "published": "2026-11-06T20:02:22+00:00",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and th"
+    },
+    {
+      "id": "844000902583",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "2026-11-06T18:44:38+00:00",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+    },
+    {
+      "id": "9b38cc280c1e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published": "2026-11-06T18:44:20+00:00",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+    },
+    {
+      "id": "d69f655fa949",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "published": "2026-11-06T18:43:43+00:00",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public."
+    },
+    {
+      "id": "bd6af519ee19",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "published": "2026-11-06T18:10:10+00:00",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse a"
+    },
+    {
+      "id": "d0028ae49d42",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "published": "2026-11-06T17:43:02+00:00",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content."
+    },
+    {
+      "id": "1f15210e4e83",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Just about anyone can rent access to White House IP addresses",
+      "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "published": "2026-11-06T17:40:06+00:00",
+      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synt"
+    },
+    {
+      "id": "68da9a88ce7b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+      "link": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+      "published": "2026-11-06T17:24:36+00:00",
+      "summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how quickly developers have embraced iPhone Duo, and we're grateful for their creativ"
+    },
+    {
+      "id": "0ce6df6f00be",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "published": "2026-11-06T17:23:52+00:00",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even "
+    },
+    {
+      "id": "ed4daf2bf3b3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "published": "2026-11-06T17:00:00+00:00",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \""
+    },
+    {
+      "id": "ea457e9a1688",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The one thing holding theoretical CS together just broke... kinda",
+      "link": "https://www.youtube.com/watch?v=iw9SZgyahqg",
+      "published": "2026-11-06T16:42:38+00:00",
+      "summary": ""
+    },
+    {
+      "id": "518c83b7805e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
+      "link": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+      "published": "2026-11-06T16:39:15+00:00",
+      "summary": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For com"
+    },
+    {
+      "id": "89c69653d214",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "published": "2026-11-06T16:19:12+00:00",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures."
+    },
+    {
+      "id": "b24c941226f5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "published": "2026-11-06T16:00:00+00:00",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled."
+    },
+    {
+      "id": "df1513e3aeaf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "published": "2026-11-06T15:54:47+00:00",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    },
+    {
+      "id": "cdb5db715da4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Deus Ex",
+      "link": "https://www.filfre.net/2026/11/deus-ex/",
+      "published": "2026-11-06T15:44:36+00:00",
+      "summary": "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 283 # Comments: 145"
+    },
     {
       "id": "b9a75cf7acb3",
       "source": "The Verge",
@@ -58,6 +234,17 @@
       "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful."
     },
     {
+      "id": "3554d94e9690",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini Omni 1.2 Flash",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published": "2026-11-06T13:35:27+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 257 # Comments: 202"
+    },
+    {
       "id": "ae61bff79761",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -100,6 +287,17 @@
       "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
       "published": "2026-11-06T12:30:00+00:00",
       "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Du"
+    },
+    {
+      "id": "9bda8b973b1c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tesla to wind down Cybertruck production",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "published": "2026-11-06T12:13:51+00:00",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 639 # Comments: 1408"
     },
     {
       "id": "31f5b188e0e4",
