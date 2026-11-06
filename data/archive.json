@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-11-06T07:55:05.443860+00:00",
-  "count": 18521,
+  "updated_at": "2026-11-06T15:34:29.297435+00:00",
+  "count": 18560,
   "items": [
+    {
+      "id": "b9a75cf7acb3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+      "published": "2026-11-06T15:10:28+00:00",
+      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as"
+    },
+    {
+      "id": "d2acd3e67c67",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "published": "2026-11-06T14:13:32+00:00",
+      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset."
+    },
+    {
+      "id": "b711736cf997",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TikTok’s For You page needs to change, says the EU",
+      "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+      "published": "2026-11-06T14:00:49+00:00",
+      "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to"
+    },
+    {
+      "id": "4e7d42b7efc6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "published": "2026-11-06T14:00:00+00:00",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching resul"
+    },
+    {
+      "id": "e12da453ed2e",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+      "link": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+      "published": "2026-11-06T13:50:20+00:00",
+      "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful."
+    },
+    {
+      "id": "ae61bff79761",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "published": "2026-11-06T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-ro"
+    },
+    {
+      "id": "c98943873075",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "published": "2026-11-06T13:02:16+00:00",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+    },
+    {
+      "id": "475ae042ad21",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "published": "2026-11-06T13:00:00+00:00",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+    },
+    {
+      "id": "8e177e17501b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+      "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+      "published": "2026-11-06T12:30:00+00:00",
+      "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Du"
+    },
+    {
+      "id": "31f5b188e0e4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Enough Phone is made by and for people fed up with big screens",
+      "link": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
+      "published": "2026-11-06T12:00:00+00:00",
+      "summary": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kick"
+    },
+    {
+      "id": "c2832482b671",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "앤트로픽이 미래 수요에 계속 베팅하는 이유",
+      "link": "https://www.youtube.com/shorts/T1C-85nvQSg",
+      "published": "2026-11-06T11:00:36+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c2ebc565acbd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] 퇴근 후 카톡에 답 안하면 불성실한 걸까요",
+      "link": "https://zdnet.co.kr/view/?no=20261106162131",
+      "published": "2026-11-06T11:00:04+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 퇴근 후 카톡에 답하지 않으면 불성실한 걸까요? 이 질문을 두고 전문가 5명에게 물었더니, 모두 '조건부 찬성'이라는 같은 결론에 닿았어요. 이미 해외에서는 움직임이 시작됐는데요, 프랑스가 2017년 세계 최초로 퇴근 후 연락을 법으로 다뤘어요. 직원 50인 이상 회사는 연락을 끊는 방법을 노사가 함께 정하게 했고, 호주도 2024년 법제화 대열에 들어왔어요. 우리나라에서도 2026년 10월 문자 해고 논란이 불거지면서 관심이 더 커졌고요.현실을 "
+    },
+    {
+      "id": "c6f1ae7b6525",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
+      "link": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "These monthly deliveries get kids reading, coding, and cooking while encouraging them to learn about science and the world."
+    },
+    {
+      "id": "9f674328bd54",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+      "link": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "Air conditioners can now follow you from room to room to cut power draw. Saving the planet, however, won’t come from a smarter breeze."
+    },
+    {
+      "id": "c8e8c90b723d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 반도체 쓸어가자 자동차업계 '비상'…내년 가격 폭등 경고",
+      "link": "https://zdnet.co.kr/view/?no=20261106194204",
+      "published": "2026-11-06T10:42:04+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 데이터센터 투자 확대가 자동차 산업의 새로운 비용 부담으로 떠오르고 있다. AI 인프라 구축에 반도체 생산 역량이 집중되면서 자동차 업계 반도체 확보 경쟁이 심화하고 있기 때문이다. 특히 내년에는 반도체와 전자부품 가격 상승이 본격화하면서 완성차 업체 수익성까지 압박할 수 있다는 경고가 나온다.5일(현지시간) 블룸버그통신과 로이터통신 등에 따르면 독일 자동차 부품업체 아우모비오는 AI 데이터센터 수요 급증으로 내년 반도체 가격이 가파르게 상승할 것으로 전망했다.클라우"
+    },
+    {
+      "id": "9ff09b7ca959",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔비디아, 네이버에 1.3조원 납입…‘AI 팩토리’ 물살",
+      "link": "https://zdnet.co.kr/view/?no=20261106174059",
+      "published": "2026-11-06T10:33:02+00:00",
+      "summary": "[지디넷코리아]엔비디아가 네이버에 1조3400억원 규모의 자금을 납입하며 인공지능(AI) 팩토리 투자의 매듭을 지었다. 이번 납입으로 엔비디아는 네이버의 3대 주주에 등극한다. 네이버는 AI 팩토리 구축을 기반으로 한 AI 인프라 사업을 가속화한다.6일 금융감독원 전자공시시스템에 따르면 네이버는 엔비디아로부터 제3자 배정 유상증자에 따른 신주 인수대금 1조3412억원이 전액 납입됐다고 공시했다.해당 유상증자를 통해 발행되는 신주는 655만8435주로, 보통주다. 이를 통해 엔비디아가 확보하는 네이"
+    },
+    {
+      "id": "af24142fcb09",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed"
+    },
+    {
+      "id": "d37a28bdbb9a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "published": "2026-11-06T09:27:12+00:00",
+      "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 434 # Comments: 262"
+    },
+    {
+      "id": "f5d54dbb735e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 시대 네트워크, 끊기지 않고 막히지 않고 닫히지 않아야 한다",
+      "link": "https://zdnet.co.kr/view/?no=20261106182300",
+      "published": "2026-11-06T09:23:00+00:00",
+      "summary": "[지디넷코리아]AI 경쟁을 말할 때 우리는 흔히 모델과 반도체, 데이터센터를 떠올린다. 그러나 AI는 데이터를 모으고, 학습하고, 추론하고, 그 결과를 현장으로 되돌려 보내는 ‘흐름’으로 작동하며, 이 흐름의 모든 마디를 잇는 것이 통신 네트워크다.정부가 지난해 말 발표한 ‘Hyper AI 네트워크 전략’이 네트워크를 AI 시대의 고속도로이자 대동맥으로 규정한 것은 정확한 진단이다. 다만 2026년 AI 예산 9조9천억 원 가운데 이 전략의 이행 예산이 2900억 원 남짓이니, 민간 투자가 중심인"
+    },
+    {
+      "id": "df213da0a3cf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이렌, 실적 전망치 넘겼지만…\"40억 달러 달성은 내년\"",
+      "link": "https://zdnet.co.kr/view/?no=20261106175524",
+      "published": "2026-11-06T09:19:51+00:00",
+      "summary": "[지디넷코리아]아이렌이 인공지능(AI) 클라우드 사업 성장에 힘입어 시장 전망을 웃도는 분기 실적을 냈지만, 연환산 매출 목표 달성 시점을 내년으로 미뤘다. 6일 IT 업계에 따르면 아이렌의 2027 회계연도 1분기 매출은 2억 2800만 달러(약 3000억원)로 직전 분기보다 66% 늘었다. 이는 시장 전망치 2억 2100만 달러(약 2994억원)를 웃돈 수치다. AI 클라우드 매출은 같은 기간 7100만 달러(약 961억원)에서 2억 달러(약 2709억원)로 약 세 배 올랐다.아이렌은 연환산 "
+    },
+    {
+      "id": "03d213cf7619",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미국발 AI 투자 불안…배경훈 부총리 \"경쟁국은 기회로 삼는다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261106181057",
+      "published": "2026-11-06T09:19:21+00:00",
+      "summary": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 미국 중간선거 이후 커진 인공지능(AI) 투자 불안에도 한국은 투자를 멈춰서는 안 된다고 강조했다. 데이터센터 규제를 내건 후보의 당선으로 사업 지연 우려가 커졌지만, 국가 간 AI 경쟁은 계속될 것이라는 판단이다.배 부총리는 6일 서울스퀘어에서 열린 국가인공지능전략위원회 제3차 전체회의를 마친 뒤 기자들과 만나 \"미국이 주춤한다고 해도 중국이나 프랑스, 캐나다는 오히려 기회로 삼고 있다\"며 \"한국이 지금 분위기에 휩쓸려 투자를 멈추면 안 "
+    },
+    {
+      "id": "393f8ebfb03b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "IT서비스 4사, 3분기 외형 성장 지속…AI·데이터센터 앞세워 대외 공략 가속",
+      "link": "https://zdnet.co.kr/view/?no=20261106181618",
+      "published": "2026-11-06T09:17:48+00:00",
+      "summary": "[지디넷코리아]인공지능(AI)과 데이터센터를 미래 성장동력으로 육성하는 국내 주요 IT서비스 기업들이 올해 3분기 외형 성장세를 이어갔다. 신사업 확대를 추진하는 가운데 기업별 매출 성장률과 수익성 개선에는 차이가 나타났다.각 기업은 AI 팩토리, 클라우드, 피지컬 AI, 로봇 등 그룹 사업과 연계한 차세대 기술을 중심으로 사업 영역을 넓히고 있다. 이를 바탕으로 대외 고객 확보에도 속도를 낼 계획이다.6일 각사 실적 발표에 따르면 롯데이노베이트, 신세계I&C, CJ올리브네트웍스, 포스코DX 등 "
+    },
+    {
+      "id": "63fa17d85ca2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "안찬토, 스탠리블랙앤데커와 파트너십 확대하며 국내 최초 공구 옴니채널 쇼핑 경험 구현",
+      "link": "https://zdnet.co.kr/view/?no=20261106181055",
+      "published": "2026-11-06T09:10:55+00:00",
+      "summary": "[지디넷코리아]안찬토의 주문 관리 시스템(Order Management System, OMS)이 판매 채널, 배송업체, 기업용 시스템과의 연동 범위를 확대해 글로벌 공구 제조업체의 한국 내 온·오프라인 판매를 하나의 시스템으로 통합한다. 스탠리블랙앤데커가 안찬토 OMS 활용을 확대해 한국 내 온·오프라인 공구 쇼핑을 연결했다. 고객은 온라인으로 구매한 제품을 체험센터에서 수령하고, 구매한 공구의 사용법도 교육받을 수 있다. 스탠리블랙앤데커는 자사 온라인 스토어와 체험센터에서만 구매할 수 있는 전동"
+    },
+    {
+      "id": "01b5df5f9706",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "예링크, 글로벌 업계 리더들을 한자리에 모아 AI 기반 업무 공간의 미래 탐색",
+      "link": "https://zdnet.co.kr/view/?no=20261106181045",
+      "published": "2026-11-06T09:10:45+00:00",
+      "summary": "[지디넷코리아]뮌헨, 2026년 11월 6일 /PRNewswire/ -- 예링크(Yealink)가 뮌헨 BMW 벨트(BMW Welt)에서 워크플레이스 포워드 서밋(Workplace Forward Summit)을 성공적으로 개최해, 글로벌 협업 생태계 전반에서 업계 리더, 기술 전문가, 기업 고객, 채널 파트너 400명을 한자리에 모았다. 마이크로소프트(Microsoft)와 퀄컴(Qualcomm) 등의 선도 기술 기업, AVIXA 등의 업계 단체, 프로스트앤설리번(Frost & Sullivan)의 "
+    },
+    {
+      "id": "04e00b9ee535",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "게임 제작에 모션캡쳐가 없어질 수 있다??",
+      "link": "https://www.youtube.com/shorts/sbZTBNR_TYE",
+      "published": "2026-11-06T09:00:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "bbb04899c646",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217107",
+      "published": "2026-11-06T08:44:08+00:00",
+      "summary": "구글 출신 연구진이 설립한 리커시브 인텔리전스(Ricursive Intelligence)가 매개변수 규모가 8배 가까이 큰 AI 모델을 코딩 성능 평가에서 앞서는 오픈웨이트 모델을 공개했다. 기존 선두 모델보다 개발 비용은 약 10분의 1에 불과하다고 밝혀, 대형 모델에 맞먹는 성능을 적은 비용으로 구현한 사례로 주목받고 있다.리커시브 인텔리전스는 최근 650억개 매개변수를 갖춘 오픈웨이트 AI 모델 '리플-65B 프리뷰(Ripple-65B Preview)'를 공개했다. 터미널 기반 코딩과 복잡한"
+    },
+    {
+      "id": "1f42bdf05e71",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217096",
+      "published": "2026-11-06T08:25:00+00:00",
+      "summary": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한 시간과 비용, 인허가 부담을 줄이고 기존 통신시설에 남아 있는 전력과 통신 인프라를 활용하려는 전략이다.디 인포메이션은 5일(현지시간) 엔비디아가 사모펀드 아폴로 글로벌 매니지먼트와 손잡고 아폴로가 소유한 광대역 통신업체 브라이트스피드(Brightspeed)의 기존 시설을 AI 데이터센터로 전환하는 방안을 논의하고 있다고 보도했다.브라이트"
+    },
+    {
+      "id": "c011157a4e63",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+      "published": "2026-11-06T08:21:04+00:00",
+      "summary": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속에 대한 독립 평가 보고서를 공개하고, 지난해 10월 이후 앤트로픽의 모델 성능 개선 속도가 이전보다 약 1.9배 빨라졌다고 밝혔다. 이는 과거 약 2년 동안 이뤄졌던 수준의 성능 향상"
+    },
+    {
+      "id": "d0a3a723db54",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, '클로드' 게임 복제 제한 완화…\"비슷한 게임 만들 수 있어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217115",
+      "published": "2026-11-06T08:10:00+00:00",
+      "summary": "앤트로픽이 '클로드 코드'의 게임 복제 금지 조치를 완화했다. 기존 게임을 그대로 복제하는 것은 계속 금지하지만, 특정 게임을 참고해 비슷한 장르의 독창적인 게임을 만드는 작업은 허용하기로 했다.앤트로픽은 4일(현지시간) 최근 게임 개발 관련 요청을 지나치게 제한한다는 이용자들의 지적에 따라 '클로드 오퍼스 5.5'의 지침을 수정했다. 기존 게임의 복제를 요청받더라도 단순히 거부하는 대신, 같은 장르의 새로운 게임을 제작하도록 제안하는 방식이다.애디 오스마니 앤트로픽 기술 담당자는 X를 통해 \"지"
+    },
+    {
+      "id": "8e2982fd6a22",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 리얼월드, 로봇 파운데이션 모델 ‘리얼덱스’ 시연 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217113",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "■ 리얼월드(대표 류중희)는 중국 상하이에서 열리는 중국국제수입박람회(CIIE 2026)에 참가해 로봇 파운데이션 모델(RFM) ‘리얼덱스’를 시연한다고 밝혔다. 한국과 일본 제조 현장의 실데이터로 학습해 다섯 손가락 로봇 핸드의 정밀 조작을 지원한다. 현장에서는 휴머노이드 로봇이 움직이는 컨베이어 벨트 위에서 서로 다른 형태의 물체를 집어 옮기는 모습을 선보인다.■ 도구로보틱스(대표 김진효)는 ‘글로벌 ICT 표준 컨퍼런스(GISC) 2026’에서 ‘2026 ICT 특허경영대상’ 과학기술정보통신"
+    },
     {
       "id": "0af89e36ce3d",
       "source": "AI타임스",
@@ -25,6 +355,28 @@
       "summary": "구글이 동영상 생성 AI의 최대 영상 길이를 15초로 늘리고 가격을 30% 인하했다. 기존 영상을 대화로 수정하는 기능과 참조 이미지의 일관성도 개선해 광고 등 상업용 영상 제작에 활용할 수 있도록 했다.구글은 5일(현지시간) 동영상 생성 AI 모델 ‘제미나이 옴니 1.2 플래시(Gemini Omni 1.2 Flash)’를 출시했다.이번 모델은 제미나이 API와 기업용 서비스에서 정식 제공된다. 720p 영상 생성 비용은 초당 0.07달러로, 전작인 옴니 1.1보다 30% 저렴하다. 360p나 7"
     },
     {
+      "id": "cfe0ed84c0ac",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "link": "https://github.com/ppmpreetham/BUI",
+      "published": "2026-11-06T07:40:35+00:00",
+      "summary": "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 453 # Comments: 185"
+    },
+    {
+      "id": "162026eba9a8",
+      "source": "Two Minute Papers",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "link": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "published": "2026-11-06T07:27:02+00:00",
+      "summary": ""
+    },
+    {
       "id": "48bbbe822fce",
       "source": "AI타임스",
       "kind": "article",
@@ -45,6 +397,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217097",
       "published": "2026-11-06T07:10:19+00:00",
       "summary": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에 실시간 음성 대화와 영상 통화 기능을 추가했다. 사용자는 화면 속 AI 아바타와 얼굴을 마주한 듯 대화할 수 있으며, 아바타는 대화 내용과 말투에 맞춰 표정과 몸짓을 바꾼다.메타는 5일(현지시간) '뮤즈 리얼타임 보이스(Muse Realtime Voice)'와 '뮤즈 리얼타임 아바타(Muse Realtime Avatar)'를 결합한 실시간 대화 기능을 미국 사용자에게 제공하기 시작했다고 밝혔다. 지난 9월 개발자 행사 '메타 커넥트 2026'에서 "
+    },
+    {
+      "id": "a5a515e819c5",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "말 겹쳐도 다 알아듣는 미친 전사 AI",
+      "link": "https://www.youtube.com/shorts/vNpf7-58Wc8",
+      "published": "2026-11-06T07:00:17+00:00",
+      "summary": ""
     },
     {
       "id": "6ab4eb3666f3",
@@ -100,6 +463,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261106154333",
       "published": "2026-11-06T06:43:33+00:00",
       "summary": "[지디넷코리아]소프트웨어(SW) 분야 신입 취업문이 좁아졌지만, 관련 산업 전체 인력 수요는 중장기적으로 늘어날 것이라는 분석이 나왔다. 이에 숙련 SW 인력 확보에 난항을 겪을 수 있다는 전망이다.6일 소프트웨어정책연구소(SPRi)가 발간한 '에이전틱 인공지능(AI) 시대의 SW인재 수요전망 분석' 보고서에 따르면 국내 SW 분야 채용 흐름 전망이 이같이 나타났다.보고서에 따르면 국내 4년제 대학 SW 전공 졸업자 취업률은 2022년 68.1%에서 2024년 57.3%로 10.8%포인트(p) 떨"
+    },
+    {
+      "id": "c6bdd7d6b89d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "팔란티어, 신발 제조사 창신과 맞손…AI로 신발 제조 공정 혁신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217101",
+      "published": "2026-11-06T06:40:00+00:00",
+      "summary": "팔란티어 테크놀로지스(PLTR)은 글로벌 신발 제조기업 창신INC와 개발·생산 운영 전반에 ‘파운드리’와 AI 플랫폼 ‘AIP’를 적용하는 파트너십을 체결했다고 6일 밝혔다.이번 협력으로 신발 개발과 샘플 기획부터 공장 생산까지 이어지는 정보와 업무 흐름을 연결해 창신의 각 팀이 전 과정을 한눈에 파악할 수 있도록 지원한다.파트너십은 최근 진행된 ‘에이전트캠프’ 성과를 바탕으로 체결됐다. 에이전트캠프는 AI 에이전트를 직접 구축해 실제 업무에 적용해 보는 과정으로 양사는 창신의 실제 데이터를 활용"
     },
     {
       "id": "00d2f3353520",
@@ -245,6 +619,39 @@
       "summary": "마이크로소프트(MS)가 전력 공급 지연과 인허가 문제로 영국 AI 클라우드 기업 엔스케일(Nscale)의 미국 데이터센터 추가 임대 계획을 철회했다. 네비우스와 아이렌 등 다른 네오클라우드 업체의 데이터센터 감독도 강화하면서 AI 인프라 투자 전략을 재검토하고 있다.5일(현지시간) 블룸버그와 로이터 등에 따르면, MS는 지난해 엔스케일과 텍사스주 워드 카운티 데이터센터에서 약 240메가와트(MW)의 컴퓨팅 용량을 임대하는 계약을 체결했다. 당시 추가로 최대 700MW를 확보할 수 있는 옵션도 포함"
     },
     {
+      "id": "661524e38cbe",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "published": "2026-11-06T05:00:48+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5b57146e7ef6",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI 여러 개가 내 컴퓨터를 동시에 조작하게 해주는 오픈소스 ㄷㄷ",
+      "link": "https://www.youtube.com/shorts/AJNTPMiyf_0",
+      "published": "2026-11-06T05:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c282d2791fcf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Pwn.college",
+      "link": "https://pwn.college/",
+      "published": "2026-11-06T03:27:14+00:00",
+      "summary": "Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 238 # Comments: 39"
+    },
+    {
       "id": "8956cfab7411",
       "source": "The Verge",
       "kind": "article",
@@ -276,6 +683,17 @@
       "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
       "published": "2026-11-06T00:01:38+00:00",
       "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16."
+    },
+    {
+      "id": "53e37f550b47",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "published": "2026-11-06T00:00:24+00:00",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/ Comments URL: https://news.ycombinator.com/item?id=50386338 Points: 254 # Comments: 85"
     },
     {
       "id": "8b0c1f4ace1b",
@@ -749,6 +1167,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261106001013",
       "published": "2026-11-05T15:10:13+00:00",
       "summary": "[지디넷코리아] KV(key-value, 키값) 캐시 솔루션으로 Supermicro Petascale 스토리지 서버와 IBM Storage Scale 소프트웨어, NVIDIA Dynamo 추론 소프트웨어, NVIDIA Spectrum-X 이더넷 스위치 통합 성능 테스트 결과, KV 캐시를 사용하지 않는 시스템 대비 긴 컨텍스트 구간의 첫 토큰 생성 시간(TTFT) 단축 GPU 활용률과 처리량, 인프라 확장성을 높여 고객의 추론 효율을 대폭 개선 새너제이, 캘리포니아, 2026년 11월 5일 /PR"
+    },
+    {
+      "id": "af9ac3db0c5a",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "published": "2026-11-05T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "566bde3ccb60",

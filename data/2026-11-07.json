@@ -1,0 +1,19 @@
+{
+  "issue_date": "2026-11-07",
+  "generated_at": "2026-11-06T15:34:29.105067+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "b9a75cf7acb3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as",
+      "content": "iOS’s keyboard won’t suggest or swipe-type a lengthy list of insults and political phrases.﻿\n\nA researcher found over 100,000 words and phrases in “every major language” that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won’t pop up as predictive text suggestions and iOS’s keyboard may automatically alter them when swipe-typing, like changing “left wing conspiracy” to “left wrong conspiracy.”\n\nKauffman posted the full list online , including the individual lists for different languages.\n\nMost of the words and phrases on the list are offensive, slurs, or related to topics like sex and drugs. But it also contains political phrases like “illegal immigrant,” “dictator Trump,” “sleepy Joe,” “covid was a hoax,” and “left wing conspiracy” as well as some less controversial phrases like “Santa isn’t real” and “iMessage isn’t working.” Kauffman found some discrepancies on the list, too, where one phrase is blocked while its counterpart isn’t, such as blocking “bad girl” but not “bad boy.”\n\nAccording to Reuters , Kauffman used OpenAI’s Codex and Anthropic’s Claude Code to help find the list “deep in the bowels” of iOS. On his website, Kauffman says the phrase list was stored as a hash table, which he was able to convert back to text. Another researcher told Reuters they were able to independently obtain the same list. Apple told Reuters that its keyboard is designed to avoid potentially inappropriate or offensive suggestions, but iPhone users can still type in what they want, or override predictive text suggestions. “Apple did not immediately respond to The Verge ’s request for comment.\n\nThis is the title for the native ad",
+      "published": "2026-11-06T15:10:28+00:00"
+    }
+  ]
+}
