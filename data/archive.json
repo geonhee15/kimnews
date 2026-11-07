@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-11-07T18:18:46.473446+00:00",
-  "count": 18644,
+  "updated_at": "2026-11-07T22:10:23.019827+00:00",
+  "count": 18650,
   "items": [
+    {
+      "id": "4e27fd7661d8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07T21:17:08+00:00",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+    },
+    {
+      "id": "309aa74d2e4e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "published": "2026-11-07T18:12:12+00:00",
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 202 # Comments: 45"
+    },
+    {
+      "id": "553bb7f3f46c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "link": "https://hunch.net/?p=13764006",
+      "published": "2026-11-07T18:02:17+00:00",
+      "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 258 # Comments: 145"
+    },
     {
       "id": "8500326cbee6",
       "source": "TechCrunch",
@@ -12,6 +45,17 @@
       "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
       "published": "2026-11-07T17:18:00+00:00",
       "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
+    },
+    {
+      "id": "3ea19a90fa2c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "published": "2026-11-07T17:06:36+00:00",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 247 # Comments: 159"
     },
     {
       "id": "fafe090b50e6",
@@ -135,6 +179,17 @@
       "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 225 # Comments: 106"
     },
     {
+      "id": "10ead22c8372",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Running a law firm on Free software",
+      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "published": "2026-11-07T09:39:06+00:00",
+      "summary": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 209 # Comments: 97"
+    },
+    {
       "id": "35aef39b7d32",
       "source": "Hacker News",
       "kind": "article",
@@ -254,6 +309,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261107142644",
       "published": "2026-11-07T05:26:44+00:00",
       "summary": "[지디넷코리아]AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형, 이정아)가 주관한 ‘2026 블록체인&AI 해커톤’이 지난 9월말 성황리에 막을 내렸다. 이 행사는 올해 두번째 열렸다. 글로벌디지털혁신네트워크(GDIN)가 공동 주관하고, 한국디지털인증협회가 주최, 행정안전부가 후원했다.모바일 신분증을 기반으로 AI와 웹3(Web3) 기술을 결합한 창의적이고 실용적인 서비스 아이디어를 발굴해 국내 디지털 신원 생태계와 관련 산업 확장을 촉진하기 위해 마련했다. 올해 대회에는 총 318개팀이 참가"
+    },
+    {
+      "id": "784f3bb3a017",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "published": "2026-11-07T05:20:18+00:00",
+      "summary": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 281 # Comments: 228"
     },
     {
       "id": "c9085c0847b0",
