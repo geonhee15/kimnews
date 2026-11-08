@@ -1,7 +1,150 @@
 {
-  "updated_at": "2026-11-08T07:41:12.431058+00:00",
-  "count": 18679,
+  "updated_at": "2026-11-08T14:32:43.734445+00:00",
+  "count": 18697,
   "items": [
+    {
+      "id": "99c5c7a08f0c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI가 회계사를 없앤다고요? 삼일PwC 답은 정반대",
+      "link": "https://www.youtube.com/shorts/FQHZgfJYxYA",
+      "published": "2026-11-08T14:26:47+00:00",
+      "summary": ""
+    },
+    {
+      "id": "727061c9fab1",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "개발자는 끝났다",
+      "link": "https://www.youtube.com/shorts/tb7fFBV3Pm0",
+      "published": "2026-11-08T14:20:31+00:00",
+      "summary": ""
+    },
+    {
+      "id": "75334c491a93",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "해커톤 나갔다가 삼일PwC에서 일하게 된 사람들",
+      "link": "https://www.youtube.com/shorts/mMTOqXD1JOk",
+      "published": "2026-11-08T14:18:48+00:00",
+      "summary": ""
+    },
+    {
+      "id": "84fd93e9e600",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "회계법인이 '회계 모르는 사람'을 찾는 이유",
+      "link": "https://www.youtube.com/shorts/jQc3O2hbVF8",
+      "published": "2026-11-08T14:11:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "83d03e116c5b",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "삼일PwC 문제엔 정답이 없습니다 (출제 측 힌트)",
+      "link": "https://www.youtube.com/shorts/e-YnU4rzWz4",
+      "published": "2026-11-08T14:10:37+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f9f627796d15",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "published": "2026-11-08T12:00:00+00:00",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark."
+    },
+    {
+      "id": "b56f6232a287",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "published": "2026-11-08T10:00:00+00:00",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?"
+    },
+    {
+      "id": "d3aada11c466",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "published": "2026-11-08T10:00:00+00:00",
+      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade."
+    },
+    {
+      "id": "51a6f41b2a73",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "published": "2026-11-08T10:00:00+00:00",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality."
+    },
+    {
+      "id": "c667472e1eaa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+      "published": "2026-11-08T09:14:24+00:00",
+      "summary": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한 활동으로 꼽았지만, 실제 AI 사용 비중은 4% 수준에 그쳤다.앤트로픽은 5일(현지시간) 공식 블로그를 통해 '과학적 발견을 위한 AI: 연구자들은 클로드를 어떻게 사용하는가'라는 보고서를 공개했다.지난 8월2일부터 9월30일까지 '클로드'와 '클로드 코드'에서 이뤄진 과학 연구 관련 세션 20만704"
+    },
+    {
+      "id": "37fb3a9c3f25",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까",
+      "link": "https://zdnet.co.kr/view/?no=20261108172642",
+      "published": "2026-11-08T08:26:42+00:00",
+      "summary": "[지디넷코리아]미국 중간선거 다음 날인 11월 4일, 미국 10년 만기 국채 금리는 4.918%로 내려왔다. 10월 초 24년 만의 최고치인 5.34%까지 올랐던 금리다. 민주당이 상원과 하원을 모두 가져간 이 선거를 두고 시장의 해석은 두 갈래였다. 하나는 분열 정부에서는 대규모 재정 확대가 어려워 국채 발행 부담이 줄어든다는 해석이다. 다른 하나는 AI다. 아문디 투자연구소의 에이든 야오는 이번 선거가 트럼프에 대한 심판이라기보다 AI에 대한 국민투표에 가깝다고 평가했다.필자는 금리 하락에 두"
+    },
+    {
+      "id": "6ba5440a7fa5",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+      "published": "2026-11-08T07:59:00+00:00",
+      "summary": "중국 앤트그룹이 이미지와 동영상을 이해하고 복잡한 작업을 수행하는 멀티모달 AI 모델 '링 3.2 플래시(Ling-3.2-flash)'를 출시했다. 앤트로픽의 '클로드 오퍼스 5'를 일부 성능 평가에서 앞섰으며, 외부 웹 제작 평가에서도 상위 10위에 올랐다. 특히 저렴한 사용료와 100만토큰의 긴 컨텍스트를 앞세워 기업용 AI 에이전트 시장을 공략하고 있다.앤트그룹의 링 개발팀은 5일 최신 멀티모달 모델 링 3.2 플래시를 공개했다. 이번 모델은 총 5600억개의 매개변수를 보유했으며, 실제 추"
+    },
+    {
+      "id": "144d92c855fa",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "양봉열 대표 \"보안시장, SIEM과 Observability 경계 무너져\"",
+      "link": "https://zdnet.co.kr/view/?no=20261108162434",
+      "published": "2026-11-08T07:24:34+00:00",
+      "summary": "[지디넷코리아]\"현재 보안시장은 SIEM(심으로 발음)과 Observability(옵서버빌러티로 발음, 가시성)경계가 이미 무너졌습니다.\"양봉열 로그프레소 대표가 최근 본인 페이스북에 올린 글이다. 이 글 뒤에 양 대표는 \"데이터독(Datadog), 스플렁크(Splunk), 수모 로직(Sumo Logic) 등과 경쟁할 수 있는 유일한 국내 벤더는 로그프레소\"라고 덧붙였다. 이어 \"장애 발생 시 사이버 공격이 원인인지 DB 병목 문제인지 구분 없이 AI 에이전트가 일관되게 진단하고 조치할 수 있는 "
+    },
     {
       "id": "3e098b2d9c88",
       "source": "ZDNet Korea",
@@ -31,6 +174,17 @@
       "category": "TECH",
       "lang": "ko",
       "title": "[ZD브리핑] '엔비디아 AI 데이' 개최...KT·네이버·게임 빅3 실적 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261108125202",
+      "published": "2026-11-08T04:33:53+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 AI와 ICT 산업계의 기대를 모았던 젠슨 황 엔비디아 최고경영자"
+    },
+    {
+      "id": "6a40d457cc51",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 삼성·SK·LG 엔비디아 'AI 데이' 총출동 ..KT·네이버·게임 빅3 실적 발표",
       "link": "https://zdnet.co.kr/view/?no=20261108125202",
       "published": "2026-11-08T04:33:53+00:00",
       "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 AI와 ICT 산업계의 기대를 모았던 젠슨 황 엔비디아 최고경영자"
@@ -80,12 +234,34 @@
       "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO) 장녀인 매디슨 황 엔비디아 옴니버스·로보틱스 제품 마케팅 수석이사가 방한을 돌연 취소했다. 국내 주요 기업 및 정부 관계자들과 예정됐던 협력 논의도 무산됐다. 엔비디아는 황 수석이사의 불참과 관계없이 '엔비디아 AI 데이 서울 2026'을 예정대로 개최한다.엔비디아는 8일 '엔비디아 AI 데이 서울 2026' 주요 참석자 변경 사항을 안내하며 \"기존 참석 예정이었던 디슨 황 수석이사는 부득이한 사정으로 이번 행사에 참석하지 못하게 됐다\"고 밝혔다"
     },
     {
+      "id": "d94c6460e1e8",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Goodbye Claude, Hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "published": "2026-11-08T03:11:48+00:00",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 443 # Comments: 283"
+    },
+    {
       "id": "764fe027b468",
       "source": "AI타임스",
       "kind": "article",
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽, 클로드로 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+      "published": "2026-11-08T03:08:58+00:00",
+      "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성하고, 전문 연구 경험이 부족한 분야에서도 AI가 과학자의 연구를 도울 수 있다는 가능성을 보여줬다.앤트로픽은 4일(현지시간) 공식 블로그를 통해 자체 생물학 연구팀이 클로드와 함께 '볼트 입자(vault particle)'의 새로운 형태를 발견하고 3D 구조를 밝혀냈다고 발표했다. 연구진은 4개월이 채"
+    },
+    {
+      "id": "8c04649f4e08",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217145",
       "published": "2026-11-08T03:08:58+00:00",
       "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성하고, 전문 연구 경험이 부족한 분야에서도 AI가 과학자의 연구를 도울 수 있다는 가능성을 보여줬다.앤트로픽은 4일(현지시간) 공식 블로그를 통해 자체 생물학 연구팀이 클로드와 함께 '볼트 입자(vault particle)'의 새로운 형태를 발견하고 3D 구조를 밝혀냈다고 발표했다. 연구진은 4개월이 채"
@@ -108,6 +284,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+      "published": "2026-11-08T02:48:25+00:00",
+      "summary": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식 블로그를 통해 AI 개발 환경 '키로 크루(Kiro Crew)'에서 키로 봇을 제공하기 시작했다고 밝혔다.키로 크루는 이미 여러 AI 에이전트의 병"
+    },
+    {
+      "id": "49f5491f7b29",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217141",
       "published": "2026-11-08T02:48:25+00:00",
       "summary": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식 블로그를 통해 AI 개발 환경 '키로 크루(Kiro Crew)'에서 키로 봇을 제공하기 시작했다고 밝혔다.키로 크루는 이미 여러 AI 에이전트의 병"
@@ -163,6 +350,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "독일 노동시장 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217143",
+      "published": "2026-11-08T01:27:21+00:00",
+      "summary": "AI로부터 안전한 직업을 찾기보다 앞으로 새롭게 생겨날 일자리를 준비해야 한다는 독일 노동시장 전문가의 주장이 나왔다. AI가 기존 업무를 대체하더라도 새로운 직무와 산업이 등장하기 때문에 청년들이 과거의 직업 구조에 맞춰 진로를 선택해서는 안 된다는 것이다.독일 연방고용청 산하 노동시장·직업연구소(IAB)의 엔초 베버 교수는 지난 3일(현지시간) 베를린에서 열린 독일 정부의 '디지털 서밋 2026'에서 AI와 청년 고용의 미래에 대해 이같이 밝혔다.베버 교수는 IAB의 경제전망 및 거시경제 분석"
+    },
+    {
+      "id": "2f09c8e38972",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "독일 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217143",
       "published": "2026-11-08T01:27:21+00:00",
       "summary": "AI로부터 안전한 직업을 찾기보다 앞으로 새롭게 생겨날 일자리를 준비해야 한다는 독일 노동시장 전문가의 주장이 나왔다. AI가 기존 업무를 대체하더라도 새로운 직무와 산업이 등장하기 때문에 청년들이 과거의 직업 구조에 맞춰 진로를 선택해서는 안 된다는 것이다.독일 연방고용청 산하 노동시장·직업연구소(IAB)의 엔초 베버 교수는 지난 3일(현지시간) 베를린에서 열린 독일 정부의 '디지털 서밋 2026'에서 AI와 청년 고용의 미래에 대해 이같이 밝혔다.베버 교수는 IAB의 경제전망 및 거시경제 분석"
