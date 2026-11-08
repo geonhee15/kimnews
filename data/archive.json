@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-11-08T19:09:15.181141+00:00",
-  "count": 18702,
+  "updated_at": "2026-11-08T22:52:51.627586+00:00",
+  "count": 18714,
   "items": [
+    {
+      "id": "54540af7e1b8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217150",
+      "published": "2026-11-08T21:42:12+00:00",
+      "summary": "중국 스파이 의혹을 받는 여성과의 관계로 논란에 휩싸인 젠슨 황 엔비디아 CEO가 불륜 사실을 인정하고 가족과 직원들에게 사과했다. 엔비디아 이사회는 외국 정보기관의 접근 의혹에 대한 독립 조사에 착수했지만, 황 CEO는 계속 회사를 이끌 것이라고 밝혔다.황 CEO는 8일(현지시간) 엔비디아 공식 홈페이지에 공개한 메시지에서 \"나는 아내에게 충실하지 못했다. 내 행동으로 아내와 아이들에게 상처를 줬다. 내가 한 일에는 어떤 변명도 있을 수 없다\"라며 \"진심으로 사과한다\"라고 밝혔다. 이어 \"가족은"
+    },
+    {
+      "id": "c160b3532b35",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "GSMA MWC26 도하 개막, 글로벌 산업 표준 조정 및 중동•북아프리카 연결성 격차 해소 촉구",
+      "link": "https://zdnet.co.kr/view/?no=20261109061003",
+      "published": "2026-11-08T21:10:03+00:00",
+      "summary": "[지디넷코리아] 통신사업자와 기술 리더, 정책 입안자, 혁신가들이 오늘 도하에 모여 3일간 전시와 협력, 토론을 통해 중동•북아프리카 연결성의 미래 모색 도하, 카타르, 2026년 11월 8일 /PRNewswire/ -- 카타르 통신정보기술부(Ministry of Communications and Information Technology, MCIT)와 협력해 개최하는 MWC26 도하(MWC26 Doha)가 8일 도하 전시컨벤션센터(DECC)에서 개막했다. 이번 행사에는 연결성 생태계 관계자들이 한"
+    },
+    {
+      "id": "52128cd3b955",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published": "2026-11-08T21:00:11+00:00",
+      "summary": "In a memo to the company, Huang admitted that he had an affair."
+    },
+    {
+      "id": "455546a6d3c2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "published": "2026-11-08T20:26:43+00:00",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 289 # Comments: 219"
+    },
+    {
+      "id": "4968c109b68c",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-08T20:22:39+00:00",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: "
+    },
+    {
+      "id": "21dcb9cb513e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "published": "2026-11-08T19:18:19+00:00",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly sho"
+    },
+    {
+      "id": "0b2ed92cb599",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "published": "2026-11-08T18:16:07+00:00",
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 499 # Comments: 309"
+    },
     {
       "id": "998829a4397c",
       "source": "TechCrunch",
@@ -45,6 +122,17 @@
       "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
       "published": "2026-11-08T16:00:00+00:00",
       "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of stora"
+    },
+    {
+      "id": "2fa72333015d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성D, 'NPE' 네오레이어 특허 6건 재심사 청구...4건 재심사 명령",
+      "link": "https://zdnet.co.kr/view/?no=20261109003401",
+      "published": "2026-11-08T15:53:52+00:00",
+      "summary": "[지디넷코리아]특허관리전문기업(NPE) 네오레이어(NeoLayer)가 삼성전자를 상대로 제기한 첫 번째 특허소송에 사용한 특허 6건 모두에 대해 삼성디스플레이가 미국 특허청에 결정계 재심사를 청구했다. 6건 중 4건은 재심사 명령이 나왔고, 나머지 2건은 특허청의 재심사 개시 결정 여부를 기다리고 있다. 9일 업계에 따르면 삼성디스플레이는 지난달 30일 네오레이어의 미국 특허 1건(7,649,583·액정표시장치, 아래 '583 특허)을 상대로 미국 특허청에 결정계 재심사(EPR)를 청구했다. 결정"
     },
     {
       "id": "01a81384cad8",
@@ -122,6 +210,17 @@
       "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
       "published": "2026-11-08T12:00:00+00:00",
       "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark."
+    },
+    {
+      "id": "7b9372757a8b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "published": "2026-11-08T10:22:04+00:00",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 327 # Comments: 128"
     },
     {
       "id": "b56f6232a287",
@@ -300,6 +399,17 @@
       "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 443 # Comments: 283"
     },
     {
+      "id": "dbf170a2e9be",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Goodbye Claude, hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "published": "2026-11-08T03:11:48+00:00",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 662 # Comments: 416"
+    },
+    {
       "id": "764fe027b468",
       "source": "AI타임스",
       "kind": "article",
@@ -427,6 +537,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+      "published": "2026-11-08T00:51:29+00:00",
+      "summary": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미지 2.6 프롬프트 가이드'를 공개하고 이미지 생성·편집을 위한 작성 원칙과 실제 사례를 소개했다. 이미지 2.6은 개발자용 API에서 'GPT-Image-2.6'이라는 명칭을 사용한다"
+    },
+    {
+      "id": "b1c25d2fb9be",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것·유지할 것 구분\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217140",
       "published": "2026-11-08T00:51:29+00:00",
       "summary": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미지 2.6 프롬프트 가이드'를 공개하고 이미지 생성·편집을 위한 작성 원칙과 실제 사례를 소개했다. 이미지 2.6은 개발자용 API에서 'GPT-Image-2.6'이라는 명칭을 사용한다"
@@ -3983,6 +4104,17 @@
       "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
       "published": "2026-11-04T17:10:31+00:00",
       "summary": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, w"
+    },
+    {
+      "id": "ee61588caf0f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Declarative Dragging",
+      "link": "https://declarative-dragging.github.io/",
+      "published": "2026-11-04T17:05:07+00:00",
+      "summary": "Article URL: https://declarative-dragging.github.io/ Comments URL: https://news.ycombinator.com/item?id=50368481 Points: 228 # Comments: 28"
     },
     {
       "id": "b11417987f02",
