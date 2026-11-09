@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-11-09T02:18:42.507171+00:00",
-  "count": 18726,
+  "updated_at": "2026-11-09T10:02:07.905584+00:00",
+  "count": 18757,
   "items": [
+    {
+      "id": "21e6a0c630db",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 논란에 엔비디아 침묵…정부 \"GPU 공급 차질 없어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217190",
+      "published": "2026-11-09T09:54:03+00:00",
+      "summary": "젠슨 황 엔비디아 CEO를 둘러싼 논란 이후 처음 열린 주요 공식 행사에서 엔비디아 관계자들이 관련 질문에 답변을 피했다. 황 CEO의 딸인 매디슨 황 수석이사의 방한이 취소되고 엔비디아 주가도 급락한 가운데, 한국 정부는 이미 계약한 GPU 공급에는 차질이 없을 것으로 전망했다.9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'은 엔비디아 이사회가 황 CEO에 대한 외국 정보기관 접근 의혹을 조사하겠다고 발표한 뒤 처음 열린 주요 공식 행사다.로이터 등에 따르면 국내 반도체 공급과 "
+    },
+    {
+      "id": "07088b5e8f2d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217188",
+      "published": "2026-11-09T09:52:34+00:00",
+      "summary": "엔비디아가 리얼월드·업스테이지·모티프테크놀로지스 등 국내 AI 스타트업 3곳에 투자한다.엔비디아는 9일 서울 코엑스에서 국내 AI 스타트업 20여개 사가 참석한 가운데 열린 ‘AI 스타트업 파트너십 포럼'에서 이 같은 투자계획을 공개했다.리얼월드는 피지컬 AI 구현을 위한 로봇파운데이션모델(RFM)에서, 업스테이지와 모티프는 거대언어모델(LLM) 모델 분야에서 주목받고 있는 기업들이다. 앞서 지난 4월 엔비디아는 포인트투테크놀로지의 7600만 달러 규모 시리즈B 투자 라운드에도 참여한 바 있다.엔"
+    },
+    {
+      "id": "241e68883463",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "카카오모빌리티-엔비디아, 레벨4 자율주행 협력…기아 PBV 우선 적용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217187",
+      "published": "2026-11-09T09:52:08+00:00",
+      "summary": "카카오모빌리티와 엔비디아가 자율주행 기술과 컴퓨팅·센싱·안전 기술을 기아 목적기반차량(PBV)에 통합, 레벨4 자율주행 고도화에 나선다.카카오모빌리티(대표 류긍선)는 엔비디아와 레벨4 자율주행 기술 협력을 위한 업무협약(MOU)을 체결한다고 9일 밝혔다.카카오모빌리티는 강남 도심 운행으로 검증한 자체 자율주행 AI 모델의 엔드투엔드(E2E) 고도화를 위해 대규모 AI 연산을 실시간으로 처리하는 엔비디아 ‘드라이브 AGX 토르’ 2개를 탑재한 자율주행 컴퓨팅 유닛(ADCU)을 도입한다.센서와 하드웨"
+    },
+    {
+      "id": "89fc518a9926",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체",
+      "link": "https://zdnet.co.kr/view/?no=20261109180536",
+      "published": "2026-11-09T09:27:35+00:00",
+      "summary": "[지디넷코리아]국내 인공지능(AI) 반도체 업계가 글로벌 빅테크들과 동맹을 계기로 노선 선택의 기로에 섰다. 엔비디아 중심 독점 생태계에 밀착해 글로벌 표준과 실전 레퍼런스를 선점하려는 진영과, AMD 및 토종 인프라 스타트업과 손잡고 '개방형 이기종 연합'을 꾸려 대안 시장을 개척하려는 진영으로 나뉘는 양상이다.리벨리온은 9일 서울 코엑스에서 열린 '엔비디아 AI 데이'에서 엔비디아의 핵심 연결 기술인 'NV링크 퓨전(NVLink Fusion)' 체제에 전격 합류하는 업무협약(MOU)을 발표했다"
+    },
+    {
+      "id": "51955ed04332",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "PSI \"비공개 앤트로픽 AI로 18년 된 양자 난제 증명\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217177",
+      "published": "2026-11-09T09:26:11+00:00",
+      "summary": "비공개 앤트로픽 AI 모델을 활용해 18년간 풀리지 않았던 양자 컴퓨팅 분야의 난제 '아론슨-암바이니스(Aaronson-Ambainis) 추측'을 증명했다는 연구 결과가 나왔다. AI가 수학적 증명을 작성하고 컴퓨터를 통한 검증까지 통과한 것으로, 모델 개발사가 아닌 외부 기업이 자체 연구 시스템을 활용해 성과를 냈다는 점에서도 주목된다.피지컬 슈퍼 인텔리전스(PSI)는 6일(현지시간) 공식 홈페이지를 통해 비공개 앤트로픽 모델을 활용한 자체 연구 시스템으로 아론슨-암바이니스 추측의 완전한 증명을"
+    },
+    {
+      "id": "9e73f7783c78",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "AI야, 네고해달라는 데 어떻게 거절해?",
+      "link": "https://www.youtube.com/shorts/JsUBYmpSf7g",
+      "published": "2026-11-09T09:18:40+00:00",
+      "summary": ""
+    },
+    {
+      "id": "7ed4c4ca499e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넷마블 '페이트/그랜드 오더', 전 세계 누적 다운로드 1억회 기록",
+      "link": "https://zdnet.co.kr/view/?no=20261109173034",
+      "published": "2026-11-09T09:14:02+00:00",
+      "summary": "[지디넷코리아]넷마블이 서비스하는 모바일 RPG '페이트/그랜드 오더'가 전 세계 누적 다운로드 1억회를 기록했다.넷마블(대표 김병규)은 이를 기념해 지난 7일부터 오는 21일까지 전 세계 이용자를 대상으로 특별 캠페인을 진행한다고 9일 밝혔다.페이트/그랜드 오더는 2015년 7월 일본에서 처음 출시된 이후 서비스 지역을 확대해 왔다. 국내에서는 2017년 11월부터 넷마블이 한국어판을 서비스하고 있다.이번 캠페인에서는 이용자가 원하는 5성 서번트 1종을 선택해 획득할 수 있는 기회를 제공한다. "
+    },
+    {
+      "id": "670b0fb11ce3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 로봇 AI 추론 5배 빠르게 하는 'V플래시' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217176",
+      "published": "2026-11-09T09:10:53+00:00",
+      "summary": "엔비디아가 로봇의 움직임을 계획하는 AI 추론 속도를 5배 높이면서 경로 예측 오류도 줄이는 기술을 공개했다. 이동 경로의 좌표를 하나씩 생성하는 대신 전체 경로를 한꺼번에 예측하는 방식으로, 로봇과 자율주행 차량의 실시간 제어 성능을 개선하는 데 활용할 수 있다는 설명이다.엔비디아는 6일(현지시간) 로봇과 자율주행 차량 등 피지컬 AI의 시각적 계획(Visual Planning)을 가속하는 새로운 디코딩 프레임워크 'V플래시(VFlash)'를 공개했다. 기존 비전언어모델(VLM)의 순차적인 토큰"
+    },
+    {
+      "id": "ac21150d6b5a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카오스재단·서울대, 12월 19일 자연과학 공개강연 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261109180950",
+      "published": "2026-11-09T09:09:50+00:00",
+      "summary": "[지디넷코리아]카오스재단이 서울대학교 자연과학대학과 함께 다음 달 19일 서울대 관악캠퍼스 종합체육관에서 제34회 '서울대 자연과학 공개강연'을 개최한다고 9일 밝혔다.서울대 자연과학 공개강연은 1994년부터 이어져 온 과학 대중화 프로그램이다. 카오스재단은 2014년부터 서울대와 공동으로 행사를 주최하고 있다.올해 강연은 '과학자의 꿈과 도전: 아름다운 오답'을 주제로 진행된다. 과학자들이 연구 과정에서 겪는 실패와 시행착오를 통해 새로운 발견에 도달하는 과정을 수학과 화학, 지구환경과학 분야의"
+    },
+    {
+      "id": "6e40d4a9bc01",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 코딩 전 설계 오류 잡는 '코끼리-금붕어' 플러그인 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217179",
+      "published": "2026-11-09T09:03:42+00:00",
+      "summary": "구글이 AI 코딩 에이전트의 설계와 검토 과정을 개선하기 위한 '코끼리-금붕어 모델(EGM)' 플러그인을 오픈소스로 공개했다. 코드를 작성하기 전에 상세한 설계 명세서를 만들고, 대화 맥락이 없는 별도의 AI 에이전트가 이를 독립적으로 검토하도록 하는 것이 핵심이다. 설계에 참여한 AI가 자신의 잘못된 가정을 그대로 받아들이는 문제를 줄이고, 코드 구현 전에 오류를 발견하려는 목적이다.구글은 최근 자사 소프트웨어 엔지니어들을 위해 내부적으로 개발한 EGM 플러그인을 아파치 2.0 라이선스로 공개했"
+    },
+    {
+      "id": "7ab475c3f0bf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오게임즈 '패스 오브 엑자일 2', 12월 12일 정식 출시…신규 클래스 2종 추가",
+      "link": "https://zdnet.co.kr/view/?no=20261109172735",
+      "published": "2026-11-09T09:02:01+00:00",
+      "summary": "[지디넷코리아]카카오게임즈가 국내 서비스를 맡은 '패스 오브 엑자일 2' 신규 콘텐츠와 전작 '패스 오브 엑자일' 업데이트 계획이 공개됐다.카카오게임즈(공동대표 김태환·이시우)는 지난 7일부터 8일까지 뉴질랜드 오클랜드 아오티아 센터에서 열린 엑자일콘 2026에서 그라인딩 기어 게임즈가 개발한 패스 오브 엑자일 시리즈의 주요 신규 정보가 발표됐다고 9일 밝혔다.엑자일콘은 개발사 그라인딩 기어 게임즈가 주최하는 행사로, 2023년 이후 3년 만에 개최됐다. 올해 행사에서는 패스 오브 엑자일 2의 정"
+    },
+    {
+      "id": "87cf845a6fb5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부, 헝가리에 \"배터리는 전략 산업\"…협력 중요성 강조",
+      "link": "https://zdnet.co.kr/view/?no=20261109084549",
+      "published": "2026-11-09T09:00:02+00:00",
+      "summary": "[지디넷코리아]최근 헝가리가 전기차 및 배터리 기업 대상 제재를 이어가자, 우리나라 정부가 현지 진출 배터리 기업에 대한 경영 지원과 양국 경제협력 확대 요청 등 대응에 나섰다.박정성 산업통상부 통상교섭본부장은 9일 헝가리를 방문해 어니터 오르반 부총리 겸 외교부 장관, 이스트반 카피타니 경제에너지부 장관 및 비크토리아 뢰린츠 지역개발부 장관과 각각 면담을 갖고, 양국 경제협력 확대와 헝가리 진출 우리 기업의 애로 해소 및 투자환경 개선 방안을 논의했다.박 본부장은 한국이 헝가리의 주요 투자국이자"
+    },
+    {
+      "id": "9d9f054ee6ca",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "인텔리빅스, 안전 AI 앞세워 글로벌 스마트시티 시장 공략",
+      "link": "https://zdnet.co.kr/view/?no=20261109175655",
+      "published": "2026-11-09T08:57:15+00:00",
+      "summary": "[지디넷코리아]인텔리빅스가 스페인 바르셀로나에서 인공지능(AI) 기반 도시 안전관제 기술을 선보이며 해외 시장 확대에 나섰다.인텔리빅스는 지난 3일부터 5일까지 열린 '스마트시티 엑스포 월드 콩그레스 2026(SCEWC 2026)'에 참가했다고 9일 밝혔다. 인텔리빅스는 성남시가 운영한 '성남관'에서 주요 AI 영상분석 제품을 전시하고 통합 안전관제 기술을 시연했다.이번 행사에서 선보인 제품은 통합관제 플랫폼 '젠AMS'와 엣지형 영상분석 장치 '빅스원', 전천후 AI 비전 센서 '빅스올캠' 등 "
+    },
+    {
+      "id": "d1325825cdcc",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217183",
+      "published": "2026-11-09T08:51:32+00:00",
+      "summary": "AI 사전 학습 데이터의 0.1%만 오염시켜도 이를 기반으로 개발한 AI 에이전트에 원격 코드 실행(RCE) 백도어를 심을 수 있다는 연구 결과가 나왔다. 정상적인 데이터로 미세조정과 강화학습을 거쳐도 백도어가 제거되지 않았으며, 평소에는 정상적으로 작동하다가 특정 조건에서만 악성 명령을 생성해 탐지도 어려운 것으로 나타났다.앤트로픽 등이 참여한 공동 연구진은 지난달 27일 논문 사전 공개 사이트 아카이브에 발표한 '사전 학습 데이터 오염을 통한 에이전트 백도어(Agentic Backdoors v"
+    },
+    {
+      "id": "e6dc5ff3b5ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "넥슨, '오버워치' 아마추어 이스포츠 대회 'OWGS' 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261109172307",
+      "published": "2026-11-09T08:50:01+00:00",
+      "summary": "[지디넷코리아]넥슨이 PC 게임 '오버워치'의 청소년·대학생 대상 아마추어 이스포츠 대회 'OWGS'를 개최한다.넥슨코리아(공동대표 강대현·김정욱)는 블리자드 엔터테인먼트가 개발한 오버워치의 국내 아마추어 대회 'OWGS Youth'와 'OWGS Campus' 참가자를 오는 15일까지 모집한다고 9일 밝혔다.이번 대회는 넥슨이 오버워치를 국내 퍼블리싱한 이후 처음 개최하는 아마추어 이스포츠 대회다. 지난 8월 '오버워치 데이'에서 발표한 국내 풀뿌리 이스포츠 활성화 계획의 일환으로 마련됐다.대회는"
+    },
+    {
+      "id": "ade02b69e05d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메가존클라우드, 오픈AI 셀렉트 파트너 선정…기업 AI 도입 사업 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261109174825",
+      "published": "2026-11-09T08:48:41+00:00",
+      "summary": "[지디넷코리아]메가존클라우드(대표 염동훈)가 오픈AI 공식 파트너 자격을 확보하고 기업용 인공지능(AI) 시장 공략을 강화한다.자체 AI 플랫폼과 오픈AI 제품을 결합해 기업의 AI 도입부터 구축, 운영까지 지원할 계획이다.메가존클라우드는 오픈AI 파트너 네트워크에서 '셀렉트(Select)' 등급 파트너로 선정됐다고 9일 밝혔다.오픈AI 파트너 네트워크는 기업 고객의 AI 활용을 확대하기 위해 지난 6월 출범한 공식 협력 프로그램이다. 산업별 전문성과 기술 구축 역량, 고객 기반 등을 갖춘 기업을"
+    },
+    {
+      "id": "e98d0528c334",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "모티프, 엔비디아 투자 받는다…글로벌 AI '톱5' 도전",
+      "link": "https://zdnet.co.kr/view/?no=20261109174701",
+      "published": "2026-11-09T08:47:01+00:00",
+      "summary": "[지디넷코리아]엔비디아를 신규 투자자로 맞이하는 모티프테크놀로지스가 차세대 거대언어모델(LLM)을 개발해 글로벌 인공지능(AI) 모델 상위 5위권 진입에 도전한다.모티프테크놀로지스는 신규 AI 파운데이션 모델 '모티프 4' 개발을 위한 투자 유치를 마무리하고 본격적인 개발에 착수했다고 9일 밝혔다. 이번 브릿지 투자 라운드에는 기존 투자자들과 함께 엔비디아가 참여할 예정이다. 구체적인 투자 규모와 기업가치 등은 공개하지 않았다.모티프 4는 지난 8월 공개한 오픈웨이트 모델 '모티프 3' 후속 모델"
+    },
+    {
+      "id": "8a56fa525723",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "모티프, 엔비디아 투자로 독파모 후속작 ‘모티프 4’ 개발한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217182",
+      "published": "2026-11-09T08:35:23+00:00",
+      "summary": "모티프테크놀로지스(대표 임정환)는 차세대 파운데이션 대형언어모델(LLM) ‘모티프 4’ 개발을 위한 투자 유치를 마무리하고, 본격적인 개발에 착수했다고 9일 밝혔다.이번 투자는 지난 5월 240억원 규모의 시리즈B에 이은 브릿지 라운드다. 기존 투자자와 함께 엔비디아가 참여할 예정이며, 투자 금액은 비공개다.모티프 4는 ‘모티프 3’의 후속 모델로 내년 1분기 오픈웨이트로 공개된다. 모티프 3는 과학기술정보통신부 ‘독자 AI 파운데이션 모델’ 사업을 통해 엔비디아 'B200' GPU 768장으로 "
+    },
+    {
+      "id": "7cec804333fa",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "누스 리서치, 중국 AI 모델의 정치 편향 답변 22%→0.9%로 줄여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217181",
+      "published": "2026-11-09T08:33:37+00:00",
+      "summary": "누스 리서치가 알리바바의 오픈웨이트 모델 '큐원3.8-27B(Qwen3.8-27B)'의 정치적 답변 성향을 바꾼 '아레테-27B(Arete-27B)'를 공개했다. 지도 미세조정(SFT)만으로 중국 정부의 입장을 옹호하는 선전성 답변 비율을 22%에서 0.9%로 낮추면서도 기존 모델의 코딩과 에이전트 성능을 거의 유지한 것이 특징이다.누스 리서치는 6일(현지시간) 큐원3.8-27B를 기반으로 개발한 아레테-27B의 모델 가중치와 학습 데이터, 평가 자료를 공개했다. 중국의 국가 이념이 반영된 답변과"
+    },
+    {
+      "id": "ddbe979b9995",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LGU+, 서울대·KAIST·연세대와 '말투·맥락 이해하는 음성 AI' 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217180",
+      "published": "2026-11-09T08:23:55+00:00",
+      "summary": "LG유플러스가 국내 대학교들과 한국어에 특화된 차세대 음성 AI 개발에 나선다.LGU+는 9일 서울대학교·한국과학기술원(KAIST)·연세대학교와 음성을 주고 받는 음성 대 음성(V2V) 기술 기반 'K-보이스 엔진'을 개발하기로 하고 ‘K-보이스 AI 얼라이언스’를 출범했다고 밝혔다.얼라이언스 참여 기관들은 향후 한국어 음성 AI 성능 평가기준을 마련하고, K-보이스 엔진과 관련 기술을 공동 개발한다. 사람과 자연스럽게 대화하며 말투와 맥락을 파악하고, 대화가 길어져도 앞선 내용을 놓치지 않는 음"
+    },
+    {
+      "id": "9558a17ba7ca",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 AI, 구형 RSA 암호 약점 2건 발견…인수분해 비용 30배 낮출 알고리즘 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217169",
+      "published": "2026-11-09T08:21:30+00:00",
+      "summary": "구글이 AI 에이전트를 활용해 구형 1024비트 RSA 암호의 디지털 서명 위조에 활용할 수 있는 약점을 규명하고, 여러 암호 키를 한꺼번에 인수분해하는 비용을 줄이는 새로운 알고리즘을 개발했다. AI가 인간 전문가와 협력해 복잡한 암호 분석과 수학적 난제 해결을 가속할 수 있음을 보여주는 성과다.구글 딥마인드는 6일(현지시간) X를 통해 AI 에이전트를 활용한 1024비트 RSA 암호 분석 연구에서 두 가지 성과를 거뒀다고 밝혔다.연구진은 인간 연구자의 감독 아래 AI 에이전트를 활용해 암호 분"
+    },
+    {
+      "id": "c16b9ae729ff",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "아마존, '아스트로' 실패 딛고 가정용 로봇 재도전…피지컬 AI 발전에 기대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217178",
+      "published": "2026-11-09T08:06:43+00:00",
+      "summary": "아마존이 가정용 로봇 '아스트로(Astro)'의 부진에도 차세대 로봇 개발에 다시 나섰다. 과거와 달리 AI가 실제 환경을 인식하고 움직이는 '피지컬 AI(Physical AI)' 기술이 빠르게 발전하면서 가정용 로봇의 실용화 가능성도 높아졌다는 판단이다.CNBC는 8일(현지시간) 아마존이 최근 채용 공고를 통해 차세대 가정용 로봇 개발 조직을 구성하고 인력을 모집하고 있다고 보도했다. 채용 공고에는 변화하는 가정환경을 탐색하고 가족 구성원과 같은 공간에서 자율적으로 작동하는 로봇을 개발한다는 내"
+    },
+    {
+      "id": "c85895d5822c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London."
+    },
+    {
+      "id": "e802911c7de8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "published": "2026-11-09T05:26:29+00:00",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+    },
+    {
+      "id": "84e153cdaee0",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "RIP, Harvest",
+      "link": "https://aphyr.com/posts/427-rip-harvest",
+      "published": "2026-11-09T01:58:21+00:00",
+      "summary": "Article URL: https://aphyr.com/posts/427-rip-harvest Comments URL: https://news.ycombinator.com/item?id=50420035 Points: 347 # Comments: 102"
+    },
     {
       "id": "be639efda5eb",
       "source": "ZDNet Korea",
@@ -80,6 +355,17 @@
       "summary": "[지디넷코리아]인공지능(AI) 기반 지식관리 솔루션 기업 텍스트웨이가 독일 프랑크푸르트 도서전에 참가해 해외 출판·콘텐츠 기업들과 사업 협력 가능성을 모색했다.텍스트웨이는 경북문화재단 콘텐츠진흥원이 주관하는 ‘콘텐츠 기업 국내·외 판로개척 지원사업’에 선정돼 지난달 독일에서 열린 2026 프랑크푸르트 도서전에 참가했다고 9일 밝혔다.프랑크푸르트 도서전은 세계 각국 출판사와 콘텐츠 기업, 저작권 관계자 등이 참여하는 국제 출판산업 행사다. 텍스트웨이는 현장에서 독립 부스를 운영하며 글로벌 출판사와 "
     },
     {
+      "id": "1b9920c20258",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Unlocking any car from X brand in most of the world",
+      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "published": "2026-11-09T00:10:50+00:00",
+      "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 345 # Comments: 136"
+    },
+    {
       "id": "5dc7fa475f42",
       "source": "AI타임스",
       "kind": "article",
@@ -89,6 +375,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217029",
       "published": "2026-11-09T00:00:00+00:00",
       "summary": "AI 에이전트 시대의 연결 프로토콜후루카와 히데카즈 | 인사이트2026년 8월 20일추천이유저자는 MCP와 A2A 프로토콜을 단계별로 학습하고 직접 구현해 보면서 AI를 질의응답 도구에서 벗어나 실질적인 업무 자동화를 수행하는 동료로 만드는 방법을 제시합니다.상세보기 코딩 에이전트를 어떻게 쓰느냐고 묻던 개발자들이 이제는 에이전트를 사내 도구에 어떻게 잇느냐고 묻는다. 질문의 무게가 '사용'에서 '연결'로 옮겨 가고 있다. 영풍문고 북마스터는 이 질문에 인사이트가 지난 8월 펴낸 『 AI 에이전트"
+    },
+    {
+      "id": "41b186ee1a43",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I'm not convinced the AI bubble exists",
+      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "published": "2026-11-08T23:44:36+00:00",
+      "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 279 # Comments: 466"
     },
     {
       "id": "32f41f2e1108",
@@ -111,6 +408,17 @@
       "link": "https://ketchup3d.github.io/app/",
       "published": "2026-11-08T22:35:35+00:00",
       "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 206 # Comments: 53"
+    },
+    {
+      "id": "ee420c0e6a83",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "published": "2026-11-08T22:20:09+00:00",
+      "summary": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff... , https://archive.ph/Hxn5h https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a... , https://archive.ph/atMcp https://www.cnn.com/2026/11/08/business/nvidia-investigation... Comments URL: https://news.ycombin"
     },
     {
       "id": "54540af7e1b8",
@@ -168,6 +476,28 @@
       "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: "
     },
     {
+      "id": "95cce2b8b40e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-08T20:22:39+00:00",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: "
+    },
+    {
+      "id": "04aad1e2268b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "published": "2026-11-08T19:37:42+00:00",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 247 # Comments: 171"
+    },
+    {
       "id": "5761da4d0192",
       "source": "Hacker News",
       "kind": "article",
@@ -177,6 +507,17 @@
       "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "published": "2026-11-08T19:20:32+00:00",
       "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 251 # Comments: 188"
+    },
+    {
+      "id": "16e32b4f1733",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "published": "2026-11-08T19:20:32+00:00",
+      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 404 # Comments: 287"
     },
     {
       "id": "21dcb9cb513e",
