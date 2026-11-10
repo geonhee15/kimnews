@@ -1,7 +1,359 @@
 {
-  "updated_at": "2026-11-10T18:17:29.048564+00:00",
-  "count": 18921,
+  "updated_at": "2026-11-10T23:38:12.489692+00:00",
+  "count": 18966,
   "items": [
+    {
+      "id": "3aa788455e58",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, '제미나이 4 카본' 정식 출시…'페이블 5.2'의 4분의 1 가격",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217249",
+      "published": "2026-11-10T23:12:13+00:00",
+      "summary": "구글이 최상위 AI 모델 '제미나이 4 카본(Gemini 4 Carbon)'을 정식 출시했다. 최근 앤트로픽의 신형 모델에 AI 성능 평가 1위 자리를 내줬지만, 4분의 1 수준의 API 가격을 내세워 개발자와 기업 시장 공략에 나섰다.구글은 10일(현지시간) 공식 블로그를 통해 제미나이 4 카본을 일반 개발자와 기업, 유료 구독자에게 제공하기 시작했다고 발표했다. 지난달 28일 모델을 처음 공개한 지 약 2주 만이다.당시에는 '페어윈드' 프로그램에 참여한 일부 사이버 보안 전문가에게만 제공했으나"
+    },
+    {
+      "id": "57697beb52d1",
+      "source": "AI Explained",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+      "link": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "published": "2026-11-10T23:11:36+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f61b91fbf954",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한국 디지털·AI 경쟁력, 세계 10위 도약...전년 대비 8단계 상승",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217238",
+      "published": "2026-11-10T23:05:00+00:00",
+      "summary": "우리나라의 디지털·AI 경쟁력이 전세계 10위 수준인 것으로 나타났다. 특히 AI 관련 지표가 다수 반영되는 '기술인프라'와 '효율성' 분야는 각각 3위에 오르며 글로벌 경쟁력을 확인했다.과학기술정보통신부는 스위스 국제경영개발원(IMD)의 ‘2026년 세계 디지털·AI 경쟁력(WDAIR) 평가'에서 한국이 70개국 중 10위를 기록하며 전년 대비 8단계 올랐다고 11일 밝혔다.특히 ‘AI 도입 지수’(8위) 등 올해 새로 도입된 AI 지표 6개 가운데 4개가 12위권에 들며 전반적으로 높은 경쟁력"
+    },
+    {
+      "id": "06d69a1da1b9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"한국서 통하면 세계서도 통한다\"...넷플릭스의 K콘텐츠 10년 이야기",
+      "link": "https://zdnet.co.kr/view/?no=20261110223529",
+      "published": "2026-11-10T22:53:00+00:00",
+      "summary": "[지디넷코리아]넷플릭스가 한국 진출 10년간 80여 개 제작사와 협업해 200편이 넘는 K콘텐츠를 선보인 가운데, 세계적 흥행의 비결로 한국 고유의 정서와 제작 현장의 자율성을 꼽았다. 글로벌 시청자를 의식하기보다 한국에서 통하는 이야기를 발굴하고 제작진의 강점을 존중하는 전략이 K콘텐츠의 경쟁력으로 이어졌다는 뜻이다.김기재 넷플릭스 한국콘텐츠부문 크리에이티브 이그제큐티브(CE)는 지난 10일 서울 마포구 한국영상자료원에서 열린 '넷플릭스 글로벌 전략과 프로덕션의 이해' 영화인 교육에서 “K콘텐츠"
+    },
+    {
+      "id": "6ea91b293692",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "2026-11-10T22:35:01+00:00",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
+    },
+    {
+      "id": "6c06723e378e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AMD, AI 인프라 겨냥 에픽 임베디드 9006 SP7 CPU 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261111021324",
+      "published": "2026-11-10T22:00:01+00:00",
+      "summary": "[지디넷코리아]AMD가 10일(현지시간) 임베디드 환경을 겨냥한 x86 프로세서인 에픽 임베디드 9006 SP7 CPU를 출시했다. 작년 3월 젠5 아키텍처 기반 에픽 임베디드 9005 프로세서를 출시한 지 1년 8개월만이다.에픽 임베디드 9006 SP7은 소켓 당 최대 코어 수를 전 세대(192개) 대비 33% 늘린 256개로 늘리고 PCI 익스프레스 6.0 레인(lane, 데이터 전송 통로) 96개, DDR5 메모리 채널 16개를 확보해 코어 수와 메모리/입출력 성능을 크게 강화했다.사전브리핑"
+    },
+    {
+      "id": "0e696a8d6916",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[11월10일] 젠슨 황 불륜 스캔들 뒤에 가려진 'AI 스파이 전쟁'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217207",
+      "published": "2026-11-10T22:00:00+00:00",
+      "summary": "젠슨 황 엔비디아 CEO의 불륜 스캔들이 연일 화제입니다. 그러나 이번 사건에서 주목해야 할 것은 사생활보다 세계 최대 AI 반도체 기업의 CEO가 중국 정보기관의 표적이 됐을 가능성입니다. 미국 정보당국은 관련 의혹을 트럼프 대통령에게까지 보고한 것으로 알려졌습니다.이번 사건은 AI 기업의 기술과 사업 정보, 경영진까지 국가 간 첩보전의 주요 관심 대상이 됐다는 사실을 보여줍니다. AI 기업들이 막대한 경제적 영향력을 확보하고 정부의 기술 정책에도 직접 관여하면서 이들을 둘러싼 정보의 가치도 커"
+    },
+    {
+      "id": "f4bd29210867",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "published": "2026-11-10T22:00:00+00:00",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta say"
+    },
+    {
+      "id": "bee6467c3a9c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217248",
+      "published": "2026-11-10T21:59:21+00:00",
+      "summary": "앤트로픽이 최대 1조4000억달러(약 1882조원)의 기업가치를 목표로 기업공개(IPO)에 나선다. 당초 시장에서 거론됐던 2조달러보다 낮은 수준으로, 최근 기술주 하락과 AI 투자 수익성에 대한 의문이 커진 가운데 월가의 AI 투자 열기를 가늠하는 시험대가 될 전망이다.로이터는 10일(현지시간) 앤트로픽이 주당 70~78달러의 희망 공모가를 제시하고 투자자 모집에 착수했다고 보도했다. 이후 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 수정 증권신고서에서 구체적인 공모 조건이 확인됐다.앤트로픽"
+    },
+    {
+      "id": "b48ac228d21d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "published": "2026-11-10T21:40:31+00:00",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated re"
+    },
+    {
+      "id": "517b404334ba",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "published": "2026-11-10T21:12:59+00:00",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+    },
+    {
+      "id": "1b5cd6020612",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘, 캔터 컨버전스 제4회 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스 참가",
+      "link": "https://zdnet.co.kr/view/?no=20261111061014",
+      "published": "2026-11-10T21:10:14+00:00",
+      "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: QNT, 이하 '회사')의 경영진이 2026년 11월 10일부터 12일까지 플로리다주 마이애미에서 열리는 캔터 컨버전스 제4회 연례 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스(Cantor Convergence 4th Annual Crypto, FinTech, AI & Energy Infrastructure Conference)에 참가한다고"
+    },
+    {
+      "id": "b622da96d00c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "퀀티넘-REIKEN, 일본 내 양자-AI 하이브리드 슈퍼컴퓨팅 상용화 앞당겨 줄 파트너십 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261111061003",
+      "published": "2026-11-10T21:10:03+00:00",
+      "summary": "[지디넷코리아] 퀀티넘 Reimei 양자 컴퓨터가 H2 시스템으로 업그레이드되면서 REIKEN의 하이브리드 양자 슈퍼컴퓨팅 플랫폼이 세계 최고 수준으로 자리매김하고 전자, 에너지, 생명과학 분야 전반으로 연구를 확장할 수 있는 기반이 마련됐다. 퀀티넘과 REIKEN은 이 선도적 컴퓨팅 아키텍처를 바탕으로 내결함성 '메이드 위드 재팬(Made with Japan)' 양자 컴퓨터를 개발, 일본의 장기적인 양자 리더십을 확대해 나아갈 예정이다. 양사는 소프트뱅크(SoftBank Corp.)와 협력해 양"
+    },
+    {
+      "id": "618a3d390701",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "published": "2026-11-10T21:08:52+00:00",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+    },
+    {
+      "id": "6deaeadbf952",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "published": "2026-11-10T20:52:13+00:00",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+    },
+    {
+      "id": "c4002beef7ca",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "published": "2026-11-10T20:47:05+00:00",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
+    },
+    {
+      "id": "99b82ea21634",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "published": "2026-11-10T20:43:55+00:00",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas."
+    },
+    {
+      "id": "0fe980d78f5c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "published": "2026-11-10T20:30:01+00:00",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World ."
+    },
+    {
+      "id": "500f9e7efdf8",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "published": "2026-11-10T19:57:52+00:00",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+    },
+    {
+      "id": "4ca70d3e113c",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "published": "2026-11-10T19:35:59+00:00",
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say."
+    },
+    {
+      "id": "bcb834c54cfb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "published": "2026-11-10T19:23:34+00:00",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+    },
+    {
+      "id": "0e5b96af8e1d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "published": "2026-11-10T19:04:05+00:00",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He "
+    },
+    {
+      "id": "ca7d2169f71d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "published": "2026-11-10T19:03:52+00:00",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+    },
+    {
+      "id": "eec0121e62d4",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "published": "2026-11-10T19:00:26+00:00",
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets."
+    },
+    {
+      "id": "77e54fa08899",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Pixel Tag tracker is now available",
+      "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub la"
+    },
+    {
+      "id": "a230cfdb7909",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "link": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "published": "2026-11-10T19:00:00+00:00",
+      "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing w"
+    },
+    {
+      "id": "3b653b3aeaff",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "published": "2026-11-10T18:49:52+00:00",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+    },
+    {
+      "id": "79a992c75125",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "published": "2026-11-10T18:49:19+00:00",
+      "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."
+    },
+    {
+      "id": "9e0936eb0299",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "One of our favorite multi-filament 3D printers is $100 off",
+      "link": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+      "published": "2026-11-10T18:42:03+00:00",
+      "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 "
+    },
+    {
+      "id": "9a3882de1083",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Did Anthropic just save its $1 trillion IPO?",
+      "link": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+      "published": "2026-11-10T18:19:55+00:00",
+      "summary": ""
+    },
+    {
+      "id": "012c3c52f5b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "published": "2026-11-10T18:02:02+00:00",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 256 # Comments: 114"
+    },
+    {
+      "id": "bd04709aadea",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance",
+      "published": "2026-11-10T18:01:15+00:00",
+      "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (S"
+    },
     {
       "id": "ac42dbf54d76",
       "source": "The Verge",
@@ -45,6 +397,17 @@
       "link": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
       "published": "2026-11-10T17:32:39+00:00",
       "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any"
+    },
+    {
+      "id": "fdd78b554686",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Val Town is winding down",
+      "link": "https://blog.val.town/winding-down",
+      "published": "2026-11-10T17:31:14+00:00",
+      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 270 # Comments: 70"
     },
     {
       "id": "01fe8a6cb63f",
@@ -91,6 +454,17 @@
       "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud."
     },
     {
+      "id": "4c0ababf827c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+      "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+      "published": "2026-11-10T16:50:38+00:00",
+      "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud."
+    },
+    {
       "id": "42731d4c6983",
       "source": "Hacker News",
       "kind": "article",
@@ -111,6 +485,28 @@
       "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
       "published": "2026-11-10T16:20:30+00:00",
       "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms lik"
+    },
+    {
+      "id": "dcc2e0dd9b4e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "link": "https://www.blender.org/download/releases/5-3/",
+      "published": "2026-11-10T16:15:43+00:00",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 409 # Comments: 57"
+    },
+    {
+      "id": "a8fd340efd21",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "published": "2026-11-10T16:03:47+00:00",
+      "summary": ""
     },
     {
       "id": "9b8df15c96f1",
@@ -166,6 +562,61 @@
       "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
       "published": "2026-11-10T15:29:30+00:00",
       "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+    },
+    {
+      "id": "c75850de6e93",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Smart home devices should work without the internet",
+      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "published": "2026-11-10T15:25:20+00:00",
+      "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 630 # Comments: 225"
+    },
+    {
+      "id": "2431dd841cec",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로크웰 오토메이션, 현대 제조업을 위한 고성능 비주얼라이제이션을 제공하는 PanelView Pro 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261111001035",
+      "published": "2026-11-10T15:10:35+00:00",
+      "summary": "[지디넷코리아] 새로운 HMI는 성능, 내구성, 모듈형 설계를 결합했으며, FactoryTalk View ME 애플리케이션에서의 마이그레이션을 간소화합니다. 위스콘신주 밀워키, 2026년 11월 10일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 트랜스포메이션 전문 기업인 Rockwell Automation, Inc.(NYSE: ROK)는 오늘 까다로운 산업 환경을 위해 설계된 고성능 그래픽 터미널인 PanelView™ Pro의 출시를 발표했습니다. FactoryTalk® Vi"
+    },
+    {
+      "id": "6665b5490125",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "/정정보도 - 미국 소비자 기술 협회/",
+      "link": "https://zdnet.co.kr/view/?no=20261111001024",
+      "published": "2026-11-10T15:10:24+00:00",
+      "summary": "[지디넷코리아] 2026년 9월 21일 미국소비자기술협회가 PR 뉴스와이어(PR Newswire)를 통해 배포한 '테케드라 마와카나 웨이모 공동 CEO, CES 2027 기조연설자로 나선다' 보도자료에 변경 사항이 있음을 해당 기업으로부터 전달받아 알려드립니다. 행사 일시가 2027년 1월 5일(화) 오후 6시 30분(태평양 표준시, PST)으로 업데이트되었으며, 정정된 보도자료의 전체 내용은 다음과 같습니다: 테케드라 마와카나 웨이모 공동 CEO, CES 2027 기조연설자로 나선다 웨이모, 자"
+    },
+    {
+      "id": "c6997848cb3a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "메이블린 뉴욕, 대표 슬로건 재해석해 새 시대의 Maybe에 새로운 의미 부여",
+      "link": "https://zdnet.co.kr/view/?no=20261111001014",
+      "published": "2026-11-10T15:10:14+00:00",
+      "summary": "[지디넷코리아] 30년 넘게 이어온 '그녀는 미를 타고났나봐(Maybe she's born with it)'가 모든 여성의 무한한 가능성을 기리는 메시지로 진화한다. 뉴욕, 2026년 11월 10일 /PRNewswire/ -- 세계 1위* 메이크업 브랜드 메이블린 뉴욕(Maybelline New York)이 뷰티 업계에서 가장 널리 알려진 슬로건 가운데 하나인 자사의 대표 슬로건을 새롭게 개편해 앞으로 지속적으로 사용한다고 이날 발표했다. 1991년 처음 선보인 '그녀는 미를 타고났나봐. 메이블린"
+    },
+    {
+      "id": "f8998b7e5628",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "트라이넷엑스, 연구자가 신뢰할 수 있도록 사람이 검증한 임상기록 정보 추출해 주는 기능 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20261111001003",
+      "published": "2026-11-10T15:10:03+00:00",
+      "summary": "[지디넷코리아] 자연어 처리로 추출한 새 임상 정보에 신뢰도 점수 부여…사람이 주석을 단 기록으로 검증하고 같은 비식별 환자의 구조화된 EHR 데이터와 연결 케임브리지, 매사추세츠, 2026년 11월 10일 /PRNewswire/ -- 인공지능(AI)으로 임상기록에서 정보를 추출하는 일이 그 어느 때보다 쉬워지면서, 연구자에게 이제 더 어려운 질문은 그 데이터를 믿고 실사용 근거 생성에 활용해도 되는가가 됐다. 전 세계 연합형 의료 데이터 네트워크를 선도하는 트라이넷엑스(TriNetX®)가 임상 "
     },
     {
       "id": "2021ac1ed288",
@@ -322,6 +773,28 @@
       "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways t"
     },
     {
+      "id": "c67246e903d9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ableton Live 13",
+      "link": "https://www.ableton.com/en/live/",
+      "published": "2026-11-10T12:58:04+00:00",
+      "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 256 # Comments: 276"
+    },
+    {
+      "id": "9fbe4c62e932",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What's new in the .NET 11 runtime",
+      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "published": "2026-11-10T12:20:07+00:00",
+      "summary": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 232 # Comments: 160"
+    },
+    {
       "id": "692eab86d345",
       "source": "Ars Technica",
       "kind": "article",
@@ -430,6 +903,17 @@
       "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
       "published": "2026-11-10T11:00:00+00:00",
       "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet."
+    },
+    {
+      "id": "867c45335618",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI usage generates a fragile codebase",
+      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "published": "2026-11-10T10:25:58+00:00",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 334 # Comments: 376"
     },
     {
       "id": "6429515c251b",
@@ -1222,6 +1706,17 @@
       "link": "https://postalpro.usps.com/zcb",
       "published": "2026-11-09T19:58:59+00:00",
       "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 496 # Comments: 259"
+    },
+    {
+      "id": "abf5e278eb75",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "published": "2026-11-09T19:51:47+00:00",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
     },
     {
       "id": "73f8d0c5bbba",
