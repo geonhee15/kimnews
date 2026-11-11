@@ -1,7 +1,326 @@
 {
-  "updated_at": "2026-11-11T10:53:07.302783+00:00",
-  "count": 19022,
+  "updated_at": "2026-11-11T18:18:08.172011+00:00",
+  "count": 19054,
   "items": [
+    {
+      "id": "2254e4d01b8b",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "published": "2026-11-11T18:13:52+00:00",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that"
+    },
+    {
+      "id": "ecd635b64723",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "published": "2026-11-11T17:37:32+00:00",
+      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges."
+    },
+    {
+      "id": "4412f9049ede",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "published": "2026-11-11T17:04:26+00:00",
+      "summary": "Apple has already made the forum read-only."
+    },
+    {
+      "id": "e4e4bed6850f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "published": "2026-11-11T17:00:00+00:00",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection."
+    },
+    {
+      "id": "d779b115e018",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "published": "2026-11-11T16:33:08+00:00",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over."
+    },
+    {
+      "id": "c99dd929e583",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "published": "2026-11-11T16:16:07+00:00",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
+    },
+    {
+      "id": "caf950a242a5",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "published": "2026-11-11T16:14:44+00:00",
+      "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+    },
+    {
+      "id": "b800836e0906",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "published": "2026-11-11T16:00:00+00:00",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a bui"
+    },
+    {
+      "id": "c90fc97b1f08",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "published": "2026-11-11T15:30:00+00:00",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?"
+    },
+    {
+      "id": "a63ccbf1a62d",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published": "2026-11-11T15:00:15+00:00",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+    },
+    {
+      "id": "c0be86768c83",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "published": "2026-11-11T15:00:00+00:00",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that."
+    },
+    {
+      "id": "6513efad19e6",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "published": "2026-11-11T15:00:00+00:00",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to"
+    },
+    {
+      "id": "b33a4900e274",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그래디언트 'iKAOS', 정부출연연 22곳 과학 콘텐츠 제공",
+      "link": "https://zdnet.co.kr/view/?no=20261111231118",
+      "published": "2026-11-11T14:11:18+00:00",
+      "summary": "[지디넷코리아]그래디언트가 운영하는 과학 콘텐츠 포털 'iKAOS(아이카오스)'에서 국가과학기술연구회(NST)와 22개 정부출연연구기관의 과학기술 콘텐츠를 제공한다. 이용자들은 개별 연구기관의 채널을 방문하지 않고도 주요 연구 성과와 과학 지식을 한곳에서 찾아볼 수 있게 됐다.그래디언트는 자체 개발한 과학 콘텐츠 포털 iKAOS에 국가과학기술연구회와 소관 정부출연연구기관의 콘텐츠를 제공하는 'ONEST' 채널이 입점했다고 11일 밝혔다.ONEST는 국가과학기술연구회와 22개 정부출연연구기관의 연구"
+    },
+    {
+      "id": "5302848b582a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "published": "2026-11-11T14:08:57+00:00",
+      "summary": "The four-week project hints that AI could make formal verification far more practical."
+    },
+    {
+      "id": "c3ca424026c2",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "published": "2026-11-11T14:00:00+00:00",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+    },
+    {
+      "id": "4c80d3550ccd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "published": "2026-11-11T14:00:00+00:00",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking"
+    },
+    {
+      "id": "64a73521b9c5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "published": "2026-11-11T13:56:05+00:00",
+      "summary": "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 249 # Comments: 136"
+    },
+    {
+      "id": "b2dc2320fa55",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "KISA, 시중 IP카메라 10종 보안 점검...3개 제품 미흡",
+      "link": "https://zdnet.co.kr/view/?no=20261111225422",
+      "published": "2026-11-11T13:54:22+00:00",
+      "summary": "[지디넷코리아]한국인터넷진흥원(KISA)은 한국소비자원(원장 윤수현)과 함께 시중에 유통 중인 아이피(IP) 카메라 10개 제품의 보안성을 점검했다. 점검 기간은 올 2월 25일부터 6월 8일까지 약 4개월이다. 점검 결과, 사생활 침해 가능성 등 보안 취약점이 발견된 제품 제조사에 신속한 개선을 권고했다.11일 KISA에 따르면, 점검한 IP카메라 10개 제품은 다후아 DH-H3B, 로보뷰 GI-ROBOA7(RoboView A7), 브이스타캠 VSTARCAM-800X, 샤오미 MJSXJ16CM("
+    },
+    {
+      "id": "5a679af58018",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "link": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "published": "2026-11-11T13:36:15+00:00",
+      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services."
+    },
+    {
+      "id": "2e5f4ac69e98",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI스페라, 크리미털IP 위협정보 스플렁크서 활용 앱 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261111222931",
+      "published": "2026-11-11T13:29:31+00:00",
+      "summary": "[지디넷코리아]사이버 위협 인텔리전스 전문기업 AI스페라(AI SPERA)는 자사 위협 인텔리전스 플랫폼 크리미널 IP(Criminal IP)의 위협 정보를 스플렁크(Splunk)에서 활용할 수 있는 신규 앱(Criminal IP TI Feed)을 출시했다.스플렁크는 기업의 보안 위협 탐지와 IT 시스템 관리를 지원하는 글로벌 기업이다. 공식 앱 마켓플레이스인 스플렁크베이스(Splunkbase)를 통해 다양한 보안·IT 관련 앱을 제공하고 있다. 이번에 AI스페라가 출시한 ‘Criminal IP "
+    },
+    {
+      "id": "ef04d245f098",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "데이터산업진흥원, 'AI·데이터 문제해결은행' 서비스 개편한다",
+      "link": "https://zdnet.co.kr/view/?no=20261111221730",
+      "published": "2026-11-11T13:17:30+00:00",
+      "summary": "[지디넷코리아]한국데이터산업진흥원(K-DATA, 원장 양재수)이 ‘2026년 AI·데이터 문제해결은행 운영·기능 고도화’ 서비스 개편을 위한 의견수렴으로 포털 시연과 함께 참석자들의 의견을 듣고 발전방향을 공유했다.‘AI·데이터 문제해결은행’은 과학기술정보통신부와 한국데이터산업진흥원이 기업의 디지털 전환(DX) 및 인공지능 전환(AX) 촉진을 위해 중소·소상공인·예비창업자 등이 현장의 다양한 문제를 데이터 기반으로 해결할 수 있게 지원해왔다.11일 진흥원에 따르면 서비스 개편은 ▲기업 문제 중심의"
+    },
+    {
+      "id": "7b8c6dd933aa",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "published": "2026-11-11T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30,"
+    },
+    {
+      "id": "01592904a462",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "กว่า 10,000 คนตบเท้าร่วม GSMA MWC26 Doha ที่จัดพร้อม ITU ครั้งแรกของโลก ผลักดันภูมิภาคตะวันออกกลางและแอฟริกาเหนือก้าวขึ้นเป็นศูนย์กลางนโยบายและการสร้างนวัตกรรมการเชื่อมต่อระดับโลก",
+      "link": "https://zdnet.co.kr/view/?no=20261111211002",
+      "published": "2026-11-11T12:10:02+00:00",
+      "summary": "[지디넷코리아] MWC26 Doha ได้รวบรวมเหล่าผู้นำระดับสูงในอุตสาหกรรม ผู้กำหนดนโยบาย และหน่วยงานกำกับดูแล มาพบปะกันเป็นเวลาสามวัน เพื่อร่วมจัดนิทรรศการ อภิปราย สร้างเครือข่าย และเจรจาธุรกิจ ณ กรุงโดฮา โดฮา, กาตาร์, 11 พ.ย. 2569 /PRNewswire/ -- MWC26 Doha ได้ปิดฉากลงแล้วในวันนี้ โดยมีผู้เข้"
+    },
+    {
+      "id": "051364feb158",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "link": "https://pietromiotti.com/latest/maya-site/?maya",
+      "published": "2026-11-11T12:05:22+00:00",
+      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 762 # Comments: 283"
+    },
+    {
+      "id": "bc3d97984d48",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "link": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "published": "2026-11-11T12:00:00+00:00",
+      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography."
+    },
+    {
+      "id": "517a3aab9892",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "published": "2026-11-11T11:02:00+00:00",
+      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand."
+    },
+    {
+      "id": "e3d1a75d237c",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "이제 움짤까지 만들어버리는 새로운 챗GPT 이미지 모델ㄷㄷㄷ",
+      "link": "https://www.youtube.com/shorts/lZTq_7H_hDk",
+      "published": "2026-11-11T11:00:09+00:00",
+      "summary": ""
+    },
+    {
+      "id": "8a94d58f4d58",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "published": "2026-11-11T11:00:00+00:00",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late."
+    },
+    {
+      "id": "7a66435cd128",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엠브이아이-셀리코, AR 글래스 '아이케인' 판매 협력 MOU 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261111191724",
+      "published": "2026-11-11T10:17:38+00:00",
+      "summary": "[지디넷코리아]엠브이아이(대표 김용태)는 AR·AI 기반 비전테크 기업 셀리코(대표 김정석)와 시각보조 AR 글래스 ‘아이케인(EyeCane)’의 판매 협력을 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.양사는 이번 협약에 따라 ‘아이케인’의 판매·유통을 비롯해 제품 공급과 품질관리, 기술 지원·교육, 사후관리(A/S), 공동 홍보 등에서 협력한다. 엠브이아이는 판매와 영업 활동을 맡고, 고객·시장 정보를 셀리코와 공유할 예정이다.셀리코가 개발한 ‘아이케인’은 카메라로 촬영한 영상을 실시간으"
+    },
     {
       "id": "ee220e43a437",
       "source": "Wired",
@@ -12,6 +331,17 @@
       "link": "https://www.wired.com/gallery/the-best-ipad/",
       "published": "2026-11-11T10:00:00+00:00",
       "summary": "Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs."
+    },
+    {
+      "id": "748a26c8efd7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\"",
+      "link": "https://zdnet.co.kr/view/?no=20261111183252",
+      "published": "2026-11-11T09:58:25+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 에이전트가 검색과 쇼핑, 결제 등 플랫폼의 핵심 기능을 수행하기 시작하면서 국내 플랫폼 산업의 경쟁 구도가 변화하고 있다. 글로벌 빅테크가 AI 기술과 자본력을 앞세워 시장 영향력을 확대하는 가운데 국내 기업들이 축적한 이용자 데이터와 서비스 인프라를 활용할 수 있는 정책 환경을 조성해야 한다는 제언이 나왔다.과학기술정보통신부와 정보통신정책연구원(KISDI)은 11일 서울 양재 엘타워에서 'AI 전환기 혁신 기반 강화와 플랫폼 정책 방향'을 주제로 디지털플랫폼 정책포"
     },
     {
       "id": "17dc062c17cb",
@@ -504,6 +834,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "link": "https://www.youtube.com/watch?v=2hJkprFnzhY",
+      "published": "2026-11-10T23:52:20+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2d0aa049b5b6",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
       "link": "https://www.youtube.com/watch?v=2hJkprFnzhY",
       "published": "2026-11-10T23:52:20+00:00",
       "summary": ""
@@ -1255,6 +1596,17 @@
       "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
       "published": "2026-11-10T15:00:00+00:00",
       "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\""
+    },
+    {
+      "id": "06cf2eb56162",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "link": "https://huggingface.co/blog/token-pooling",
+      "published": "2026-11-10T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "527dba776c25",
