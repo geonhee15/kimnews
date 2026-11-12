@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-11-12T16:30:34.872778+00:00",
-  "count": 19173,
+  "updated_at": "2026-11-12T22:25:33.293515+00:00",
+  "count": 19221,
   "items": [
+    {
+      "id": "e29b135da7b3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "published": "2026-11-12T22:22:28+00:00",
+      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free."
+    },
+    {
+      "id": "de35e53776a3",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "published": "2026-11-12T22:14:41+00:00",
+      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here."
+    },
+    {
+      "id": "ec09f89a3e4c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[11월12일] \"2027년 AI 지능 폭발\"…빅테크 이어 외부 연구진도 잇따라 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217310",
+      "published": "2026-11-12T22:00:00+00:00",
+      "summary": "2027년이 AI 발전의 중대한 전환점이 될 것이라는 전망이 이어지고 있습니다. 올봄부터 오픈AI와 앤트로픽 내부에서 제기됐던 급격한 기술 발전에 대한 경고가 하반기에는 외부 평가기관의 분석으로 이어지면서, 당시 발언들이 무엇을 의미했는지 조금씩 드러나고 있습니다.지난해 'AI 2027' 시나리오로 화제를 모았던 AI 퓨처스 프로젝트(AI Futures Project)는 10일 새로운 분석을 발표하고, 인간 최고 수준의 연구자를 능가하는 AI가 2027년에 등장할 가능성이 높다고 전망했습니다.특히"
+    },
+    {
+      "id": "9402974053fb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "published": "2026-11-12T21:55:32+00:00",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It"
+    },
+    {
+      "id": "a231a118a496",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "published": "2026-11-12T21:45:00+00:00",
+      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday tha"
+    },
+    {
+      "id": "46947056dc2a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217351",
+      "published": "2026-11-12T21:33:23+00:00",
+      "summary": "미국이 중국 기업의 첨단 AI 반도체 접근을 차단하기 위해 해외 데이터센터의 GPU 임대까지 규제하는 방안을 추진하고 있다. 젠슨 황 엔비디아 CEO의 사임으로 규제 강화 가능성이 커지자, 중국 AI 기업들은 해외 컴퓨팅 자원 확보를 서두르는 것으로 알려졌다.디 인포메이션은 11일(현지시간) 사안에 정통한 관계자 2명을 인용해 미국 상무부가 중국 AI 기업의 해외 데이터센터 원격 접근을 제한하는 규정을 마무리하고 있다고 보도했다. 이르면 이달 중 발표될 수 있으며, 현재 다른 정부 부처들과 협의 "
+    },
+    {
+      "id": "746f48851290",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "published": "2026-11-12T21:28:53+00:00",
+      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest pr"
+    },
+    {
+      "id": "497d5e25d6bb",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "published": "2026-11-12T21:27:10+00:00",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
+    },
+    {
+      "id": "f797ab5f4090",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jensen Huang just pulled out of Nvidia...",
+      "link": "https://www.youtube.com/watch?v=SOwUWPtXQ9I",
+      "published": "2026-11-12T21:17:10+00:00",
+      "summary": ""
+    },
+    {
+      "id": "a1988e6f5954",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "published": "2026-11-12T21:00:00+00:00",
+      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Micro"
+    },
+    {
+      "id": "a3a85143beb7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217350",
+      "published": "2026-11-12T20:56:23+00:00",
+      "summary": "젠슨 황 CEO의 사임으로 경영 공백이 발생한 엔비디아가 새로운 경영 체제를 가동했다. 13년간 회사의 재무와 사업 전략을 담당해 온 콜레트 크레스가 임시 CEO를 맡고, 창업 초기부터 이사회에 참여한 하비 존스가 초대 의장에 선임됐다. 두 사람은 직원들에게 회사의 미래에 대한 확신을 강조하며 경영 안정화에 나섰다.CNBC는 12일(현지시간) 크레스 임시 CEO와 존스 의장이 황 전 CEO의 사임 직후 직원들에게 보낸 이메일을 입수해 공개했다. 존스 의장이 먼저 인사 내용을 설명했으며, 크레스 C"
+    },
+    {
+      "id": "96d75e1ffa92",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft Outlook is down",
+      "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "published": "2026-11-12T20:43:02+00:00",
+      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure"
+    },
+    {
+      "id": "0d160169d9f2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217349",
+      "published": "2026-11-12T20:36:17+00:00",
+      "summary": "젠슨 황 엔비디아 CEO의 사임을 촉발한 중국 간첩 연루 의혹이 미국 정치권으로 번지고 있다. 백악관 고위 관계자들이 하워드 러트닉 상무장관의 경질 문제를 논의하는 것으로 알려졌으며, 미국 의회에서도 대중국 AI 반도체 수출 통제에 대한 책임을 묻는 목소리가 커지고 있다.로이터는 12일(현지시간) 사안에 정통한 관계자 2명을 인용해 백악관 고위 관리들이 러트닉 장관의 경질 여부를 논의하고 있다고 보도했다.러트닉 장관은 중국 기업 수십 곳을 미국의 수출 제한 대상 명단에 추가하지 않고, 엔비디아의 "
+    },
+    {
+      "id": "9a5410f1e407",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "published": "2026-11-12T20:26:47+00:00",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+    },
+    {
+      "id": "bf6069d60b1b",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "published": "2026-11-12T20:16:24+00:00",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla"
+    },
+    {
+      "id": "696d80d7cb2c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+      "link": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+      "published": "2026-11-12T20:01:33+00:00",
+      "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers."
+    },
+    {
+      "id": "90f21f85662a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "published": "2026-11-12T19:49:11+00:00",
+      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features."
+    },
+    {
+      "id": "12992b51542c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217348",
+      "published": "2026-11-12T19:47:53+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 사생활 논란 끝에 사임했다. 33년간 회사를 이끈 창업자의 퇴진으로 엔비디아 주가가 장중 14% 넘게 급락했으며, AI 산업 전반의 투자와 공급망에도 불확실성이 커지고 있다.엔비디아는 12일(현지시간) 공식 발표를 통해 황 CEO가 사장과 CEO, 이사회 이사직에서 즉시 물러났다고 밝혔다. 후임자가 결정될 때까지 콜레트 크레스 최고재무책임자(CFO)가 임시 CEO를 맡으며, 이사회는 내부와 외부에서 정식 후임자를 물색하기로 했다. 이사회 의장에는 하비 존스가 선임됐다.황"
+    },
+    {
+      "id": "8a069d85c9ae",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "published": "2026-11-12T19:42:40+00:00",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incide"
+    },
+    {
+      "id": "b43bedb46cb6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "published": "2026-11-12T19:27:45+00:00",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
+    },
+    {
+      "id": "f351d90a85c2",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "published": "2026-11-12T19:23:03+00:00",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon."
+    },
+    {
+      "id": "8ed32eca64b3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "published": "2026-11-12T19:11:00+00:00",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+    },
+    {
+      "id": "72669ed7534c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "published": "2026-11-12T19:03:39+00:00",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users."
+    },
+    {
+      "id": "2dc85c1dd9d5",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
+      "link": "https://www.wired.com/story/climate-change-abolishes-ice/",
+      "published": "2026-11-12T19:00:00+00:00",
+      "summary": "Humanity has thrived thanks to a stable cryosphere, but burning fossil fuels has increased the risk of “accelerating and partly irreversible” harm to the planet’s cold places."
+    },
+    {
+      "id": "18cfb41a0a85",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "published": "2026-11-12T18:59:58+00:00",
+      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry."
+    },
+    {
+      "id": "b2d14e809d45",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "published": "2026-11-12T18:57:45+00:00",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
+    },
+    {
+      "id": "fa77000fecdf",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "published": "2026-11-12T18:39:23+00:00",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
+    },
+    {
+      "id": "ac3cf6188e7f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Rust 1.100",
+      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "published": "2026-11-12T18:39:05+00:00",
+      "summary": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/ Comments URL: https://news.ycombinator.com/item?id=50472038 Points: 204 # Comments: 115"
+    },
+    {
+      "id": "fb7fb37b0a92",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "published": "2026-11-12T18:05:41+00:00",
+      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize."
+    },
+    {
+      "id": "0ab91f964cfb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "published": "2026-11-12T18:01:48+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 390 # Comments: 258"
+    },
+    {
+      "id": "df7bce7c01ab",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "published": "2026-11-12T18:00:50+00:00",
+      "summary": ""
+    },
+    {
+      "id": "b50d0d3da2d8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "published": "2026-11-12T17:59:15+00:00",
+      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value."
+    },
+    {
+      "id": "680b217f8ee3",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Jensen Huang scandal is hardly over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "published": "2026-11-12T17:44:33+00:00",
+      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e"
+    },
+    {
+      "id": "d76b6aa7d45e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "published": "2026-11-12T17:36:40+00:00",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
+    },
+    {
+      "id": "e5db841c4a65",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "published": "2026-11-12T17:17:58+00:00",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+    },
+    {
+      "id": "a302e030fcb1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로크웰 오토메이션, 소프트웨어 정의 자동화를 위한 LogixEdge 컨트롤러 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261113021003",
+      "published": "2026-11-12T17:10:03+00:00",
+      "summary": "[지디넷코리아] 산업용 PC 기반 플랫폼이 Logix 제어와 엣지 컴퓨팅 및 컨테이너화된 애플리케이션 지원을 결합 위스콘신주 밀워키, 2026년 11월 13일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 트랜스포메이션 전문 기업인 Rockwell Automation, Inc.(NYSE: ROK)는 오늘 제조업체들이 시스템 아키텍처를 단순화하고 소프트웨어 정의 자동화를 가속화할 수 있도록 설계된 새로운 산업 제어 플랫폼인 LogixEdge™ 컨트롤러를 출시했다고 발표했습니다. L"
+    },
+    {
+      "id": "b6219ea57afb",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "link": "https://github.com/simpsoka/zigzag",
+      "published": "2026-11-12T17:02:42+00:00",
+      "summary": "Article URL: https://github.com/simpsoka/zigzag Comments URL: https://news.ycombinator.com/item?id=50470488 Points: 213 # Comments: 85"
+    },
+    {
+      "id": "ec338f49dd8c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "published": "2026-11-12T17:00:52+00:00",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
+    },
+    {
+      "id": "faf9a0af6f2d",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+      "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+      "published": "2026-11-12T17:00:17+00:00",
+      "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's de"
+    },
+    {
+      "id": "baadb8c35ca6",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "published": "2026-11-12T17:00:00+00:00",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos."
+    },
+    {
+      "id": "e06c8be67ada",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "published": "2026-11-12T16:29:13+00:00",
+      "summary": "Article URL: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep Comments URL: https://news.ycombinator.com/item?id=50469994 Points: 236 # Comments: 164"
+    },
     {
       "id": "9f3e2c0818c2",
       "source": "TechCrunch",
@@ -12,6 +463,17 @@
       "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
       "published": "2026-11-12T16:12:44+00:00",
       "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
+    },
+    {
+      "id": "b94d2eb72479",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "시전, AI 기반 시전 인텔리전스 선보여 브랜드가 더 많이 보고 확신을 갖고 행동하도록 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261113011002",
+      "published": "2026-11-12T16:10:02+00:00",
+      "summary": "[지디넷코리아] 시전 MCP를 통해 첫 기능 제공, 시전 포트폴리오 전반으로 빠르게 확대할 계획 시카고, 2026년 11월 13일 /PRNewswire/ -- 소비자 및 미디어 인텔리전스와 커뮤니케이션 기술 분야의 글로벌 선도 기업 시전(Cision)이 11월 12일, 시전 포트폴리오 전반의 폭넓고 깊이 있는 데이터, 전문성, 역량을 전문 AI와 결합한 시전 인텔리전스(Cision Intelligence)를 선보였다고 밝혔다. 시전 인텔리전스는 브랜드가 변화를 더 일찍 포착하고 확신을 갖고 행동하"
     },
     {
       "id": "9aa4a409dd31",
@@ -34,6 +496,17 @@
       "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
       "published": "2026-11-12T15:37:29+00:00",
       "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
+    },
+    {
+      "id": "4ca0fcad6bd2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "I'm making LLMs work on small and old devices",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "published": "2026-11-12T15:23:10+00:00",
+      "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 233 # Comments: 85"
     },
     {
       "id": "1e536ff04913",
@@ -91,6 +564,17 @@
       "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
     },
     {
+      "id": "c00c9d94abd6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔비디아 젠슨 황 CEO 사임... \"콜렛 크레스 CFO가 대행\"",
+      "link": "https://zdnet.co.kr/view/?no=20261112233500",
+      "published": "2026-11-12T14:35:25+00:00",
+      "summary": "[지디넷코리아]33년간 엔비디아 최고경영자(CEO)를 수행핬던 젠슨 황이 사임했다. 후임 CEO가 선임될 때까지 콜렛 크레스 최고재무책임자(CFO)가 임시 CEO를 맡는다.엔비디아 이사회는 12일(현지시간) 젠슨 황이 엔비디아 회장과 CEO, 이사회에서 물러난다고 밝혔다.콜렛 크레스 CFO는 기존 CFO 직책을 수행하면서 임시 CEO를 맡는다. 엔비디아 이사회는 정식 후임자 선임을 위한 절차에 착수했으며, 내부 및 외부 후보자를 모두 검토할 계획이다.하비 C. 존스 엔비디아 이사회 의장은 \"콜렛 "
+    },
+    {
       "id": "122bcaf68e71",
       "source": "TechCrunch",
       "kind": "article",
@@ -100,6 +584,17 @@
       "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "published": "2026-11-12T14:30:01+00:00",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "5eacb73a89c5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "published": "2026-11-12T14:18:49+00:00",
+      "summary": "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 216 # Comments: 77"
     },
     {
       "id": "0bee947fee33",
@@ -221,6 +716,17 @@
       "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
       "published": "2026-11-12T14:00:00+00:00",
       "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild."
+    },
+    {
+      "id": "5f4be4f95521",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217346",
+      "published": "2026-11-12T14:00:00+00:00",
+      "summary": "메타가 선점했던 AI 안경 시장에 구글과 삼성전자가 가세하면서 경쟁을 예고했다.구글은 삼성전자·젠틀몬스터·와비파커와 협업한 제미나이 기반 '인텔리전트 아이웨어' 라인업을 공개하고 12일(현지 시간)부터 한국과 미국에서 사전 예약판매에 들어 간다고 밝혔다.정식 출시일은 오는 12월10일이다. 젠틀몬스터 컬렉션은 한국과 미국에서, 와비파커 컬렉션은 미국에서만 판매된다.이 제품은 지난 5월 '구글 I/O 2026'에서 처음 공개됐고, 삼성전자는 7월 '갤럭시 언팩'에서 추가 디자인을 선보였다. 삼성전자"
     },
     {
       "id": "4dab032ec10a",
@@ -388,6 +894,17 @@
       "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 247 # Comments: 100"
     },
     {
+      "id": "899dd1f3890b",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+      "link": "https://pron.github.io/posts/correctness-and-complexity",
+      "published": "2026-11-12T10:28:26+00:00",
+      "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 337 # Comments: 155"
+    },
+    {
       "id": "5d84c9c5a921",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -419,6 +936,17 @@
       "link": "https://www.wired.com/review/rocco-super-smart-fridge/",
       "published": "2026-11-12T10:08:00+00:00",
       "summary": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic."
+    },
+    {
+      "id": "51fdab1e92ab",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published": "2026-11-12T10:07:35+00:00",
+      "summary": ""
     },
     {
       "id": "776609216b63",
