@@ -1,7 +1,359 @@
 {
-  "updated_at": "2026-11-13T10:03:23.925503+00:00",
-  "count": 19277,
+  "updated_at": "2026-11-13T17:43:26.321404+00:00",
+  "count": 19316,
   "items": [
+    {
+      "id": "737c44bf10ba",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "published": "2026-11-13T17:25:45+00:00",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction."
+    },
+    {
+      "id": "f2be4e7d3f42",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "link": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+      "published": "2026-11-13T17:15:54+00:00",
+      "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse."
+    },
+    {
+      "id": "72a108f0ee82",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The new Apple TV has a YouTube problem",
+      "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "published": "2026-11-13T16:55:57+00:00",
+      "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on th"
+    },
+    {
+      "id": "1e73f8676cc0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s massive Outlook outage continues",
+      "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "published": "2026-11-13T16:17:11+00:00",
+      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access"
+    },
+    {
+      "id": "41a7716bf00b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "published": "2026-11-13T16:00:12+00:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+    },
+    {
+      "id": "829f0bb235e0",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "link": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "published": "2026-11-13T16:00:00+00:00",
+      "summary": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the u"
+    },
+    {
+      "id": "ff7642db4d3d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-13T15:58:00+00:00",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "id": "4b6fb48a5883",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "published": "2026-11-13T15:26:53+00:00",
+      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage."
+    },
+    {
+      "id": "0ce914f58371",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+      "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+      "published": "2026-11-13T15:22:14+00:00",
+      "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the col"
+    },
+    {
+      "id": "a205b76c6ca0",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "published": "2026-11-13T14:57:55+00:00",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident."
+    },
+    {
+      "id": "3f71f1038680",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "published": "2026-11-13T14:47:16+00:00",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a"
+    },
+    {
+      "id": "dc079a88ec2d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "published": "2026-11-13T14:44:48+00:00",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+    },
+    {
+      "id": "698798262133",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+      "link": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "published": "2026-11-13T14:30:00+00:00",
+      "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt "
+    },
+    {
+      "id": "e2b7de8a660c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오만투자청, 역사적 국빈 방문 기간 중국 파트너들과 역대 최대 규모 투자 패키지 체결",
+      "link": "https://zdnet.co.kr/view/?no=20261113231002",
+      "published": "2026-11-13T14:10:02+00:00",
+      "summary": "[지디넷코리아]수십억 달러 규모 협약으로 투자, 에너지, 광업, 물류, 기술, 우주 분야 망라…프로젝트 대부분 오만에서 추진 예정 무스카트, 오만, 2026년 11월 13일 /PRNewswire/ -- 오만의 국부펀드 오만투자청(Oman Investment Authority, OIA)이 하이삼 빈 타리크(Haitham bin Tarik) 오만 술탄의 중국 국빈 방문 기간에 중국 기관 및 기업들과 하루 기준 역대 최대 규모인 수십억 달러 투자 협약 패키지를 체결했다. 오만 술탄의 중국 방문은 이번이"
+    },
+    {
+      "id": "19787caf965f",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "published": "2026-11-13T14:00:00+00:00",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's b"
+    },
+    {
+      "id": "0cdba16c4113",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "published": "2026-11-13T13:15:20+00:00",
+      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
+    },
+    {
+      "id": "681234f98689",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오라이트, SEMA 2026에서 근접 자동차 작업용 Oclip 2 시리즈 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20261113221024",
+      "published": "2026-11-13T13:10:24+00:00",
+      "summary": "[지디넷코리아]라스베이거스, 2026년 11월 13일 /PRNewswire/ -- 올가을 초 성공적인 글로벌 출시에 이어, 오라이트(Olight)가 좁은 차량 공간에서 작고 다용도로 사용할 수 있는 핸즈프리 조명이 필요한 자동차 기술자, 정비사, 검사원을 겨냥해 라스베이거스에서 열린 2026 SEMA 쇼(11월 3~6일)에 호평을 받은 Oclip 2 시리즈를 선보였다. Oclip 2 Series 엔진룸 깊숙이 들어간 커넥터를 점검하는 기술자의 경우, 한 손은 배선을 젖히고 다른 손은 공구를 움직여"
+    },
+    {
+      "id": "bf0fc6949506",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "항차, 글로벌 딜러 콘퍼런스에서 LINGTRA AI-Fork 로봇 공개하고 2030 비전 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261113221014",
+      "published": "2026-11-13T13:10:14+00:00",
+      "summary": "[지디넷코리아]항저우, 중국 2026년 11월 13일 /PRNewswire/ -- 선도 지게차 제조기업이자 지능형 자재 취급 솔루션 기업 항차그룹(HANGCHA Group)이 항저우에서 열린 제4회 글로벌 딜러 콘퍼런스(Global Dealers Conference)에 100여 국가와 지역의 딜러 약 500명을 초청했다. '더 스마트하게 움직이고, 더 멀리 나아가다(Move Smarter, Go Further)'라는 주제로 창립 70주년을 축하하며 파트너들과 함께 제품을 살펴보고 미래를 계획했다."
+    },
+    {
+      "id": "5d52dec5fa9c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Xinhua Silk Road: '중국 북부 생활자기의 수도', 산업 전환으로 글로벌 입지 확대 모색",
+      "link": "https://zdnet.co.kr/view/?no=20261113221003",
+      "published": "2026-11-13T13:10:03+00:00",
+      "summary": "[지디넷코리아]베이징 2026년 11월 13일 /PRNewswire/ -- 11월 5일 개막한 2026 중국(베이징) 국제 정품 도자기 박람회(2026 China (Beijing) International Exquisite Ceramics Expo)에서 중국 북부 산시성 화이런시의 도자기 생산업체 20곳이 정교한 전시품과 함께 도자기 장인들의 뛰어난 기량을 선보였다. Photo shows a visitor appreciating ceramic artworks at the Huairen Cerami"
+    },
+    {
+      "id": "2fc205b01cdf",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "published": "2026-11-13T13:10:00+00:00",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a forme"
+    },
+    {
+      "id": "a8ec4ce88744",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 대신 건 전화, 받는 사람은 왜 지칠까요",
+      "link": "https://zdnet.co.kr/view/?no=20261113100421",
+      "published": "2026-11-13T12:55:08+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 '피클' 같은 앱이 식당이나 미용실에 대신 전화를 걸어 예약해 주는 일이 부쩍 늘었는데요. 거는 사람은 전화 공포증도 줄고 기다리는 시간도 아낄 수 있어서 참 편해졌어요. 그런데 전화를 받는 가게 입장에서는 이야기가 달라요. 기계음 응대에 지치고, 같은 질문이 반복되다 보니 부담이 커지고 있거든요.받는 쪽의 피로도를 10점 만점으로 살펴봤더니, 단순 예약 응대는 4.5점으로 그래도 견딜 만했어요. 하지만 복합 상담은 8.2점, 같은 질문을 되"
+    },
+    {
+      "id": "a2a0d96e048e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "published": "2026-11-13T12:52:19+00:00",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+    },
+    {
+      "id": "6f73ddaf99c7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그라비티, 3분기 영업익 287억원…전년比 35.0%↑",
+      "link": "https://zdnet.co.kr/view/?no=20261113210355",
+      "published": "2026-11-13T12:03:55+00:00",
+      "summary": "[지디넷코리아]그라비티가 라그나로크 지식재산권(IP) 기반 모바일 신작을 해외에 선보이며 3분기 매출과 영업이익을 함께 늘렸다. 내년에는 ‘라그나로크 온라인3’ 등 주요 신작을 여러 지역에 출시하고 신규 플랫폼 사업도 추진한다.그라비티는 올해 3분기 매출 1971억원, 영업이익 287억원을 기록했다고 13일 밝혔다. 매출은 전년 동기 대비 41.9%, 전분기 대비 21.8% 증가했다. 영업이익은 같은 기간 각각 35.0%, 4.2% 늘었다.올해 1~3분기 누적 매출은 5209억원, 영업이익은 87"
+    },
+    {
+      "id": "586380fc0330",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "published": "2026-11-13T11:45:00+00:00",
+      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out."
+    },
+    {
+      "id": "e10482fe199f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Even Black Friday Will Be More Expensive Than Usual",
+      "link": "https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/",
+      "published": "2026-11-13T11:30:00+00:00",
+      "summary": "The AI memory crunch is coming for your holiday shopping list."
+    },
+    {
+      "id": "ccc9138cfae9",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "에어팟 케이스와 아이폰으로 마우스를 만들어버린 개발자들",
+      "link": "https://www.youtube.com/shorts/GW2FAReF9HI",
+      "published": "2026-11-13T11:00:17+00:00",
+      "summary": ""
+    },
+    {
+      "id": "f27d160a31f2",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen",
+      "link": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+      "published": "2026-11-13T11:00:00+00:00",
+      "summary": "William Gibson released his seminal novel Neuromancer in 1984. WIRED has an exclusive look at how it eventually made its way to Apple TV—thanks in no small part to Drake."
+    },
+    {
+      "id": "a196abc95fde",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "사람인, 3분기 영업익 69억원…전년比 19%↑",
+      "link": "https://zdnet.co.kr/view/?no=20261113190553",
+      "published": "2026-11-13T10:11:15+00:00",
+      "summary": "[지디넷코리아]사람인의 올해 3분기 매출과 영업이익이 모두 오름세를 보였다. 9월 하반기 채용 시즌이 본격화되면서 인공지능(AI)을 활용한 서비스 고도화로 채용을 통한 플랫폼 매출과 컨설팅 수익이 늘어난 데 따른 것이다.사람인은 13일 3분기 매출 330억원, 영업이익 69억원을 기록했다고 공시했다. 매출은 전년 동기 대비 7% 증가한 수치다. 영업이익도 19% 성장했다.영업비용은 260억원으로 전년 동기보다 4% 늘었으며, 당기순이익은 66억원으로 지난해 같은 기간보다 10%가량 줄었다.사람인 "
+    },
+    {
+      "id": "f46ecbf5a56d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "아이티센씨티에스, 3분기 영업익 141억원…전년비 27.4% ↑",
+      "link": "https://zdnet.co.kr/view/?no=20261113190245",
+      "published": "2026-11-13T10:02:50+00:00",
+      "summary": "[지디넷코리아]아이티센씨티에스(대표 한상욱)가 인공지능(AI) 인프라 사업 확대와 주요 계열사의 실적 개선에 힘입어 3분기 매출과 영업이익 모두 성장했다.아이티센씨티에스는 올해 3분기 연결 기준 매출 3056억원, 영업이익 141억원을 기록했다고 13일 밝혔다. 전년 동기 대비 각각 18.1%, 27.4% 증가한 수치다.3분기 누적 연결 매출은 8151억원으로 지난해 같은 기간보다 13.4% 증가했다. 영업이익은 42억원에서 244억원으로 486% 늘었으며, 당기순이익은 407억원 증가한 620억"
+    },
+    {
+      "id": "5a21e16cf783",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, an"
+    },
+    {
+      "id": "303a007a18d1",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google f"
+    },
+    {
+      "id": "5035770a1d80",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "로레알, 국내 스타트업 3곳과 中 수입박람회 참가…AI·바이오 기술 선봬",
+      "link": "https://zdnet.co.kr/view/?no=20261113184711",
+      "published": "2026-11-13T09:55:01+00:00",
+      "summary": "[지디넷코리아]로레알 그룹이 국내 스타트업 3곳과 함께 중국 상하이에서 열린 국제수입박람회에 참가해 인공지능(AI)과 바이오 기술을 활용한 차세대 뷰티 솔루션을 선보였다. 국내 기업들은 맞춤형 향수 추천과 AI 검색 최적화, 바이오 기술 등을 소개하며 글로벌 시장 진출 가능성을 모색했다.로레알코리아는 '2026 로레알 빅뱅'에 선정된 국내 스타트업 본작, 오가시스, 링카이브 등 3개사가 중국 상하이에서 열린 '제9회 중국국제수입박람회(CIIE)'에 참가했다고 13일 밝혔다.로레알 빅뱅은 로레알 그"
+    },
     {
       "id": "27aa6719b044",
       "source": "AI타임스",
@@ -122,6 +474,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261113170721",
       "published": "2026-11-13T08:07:21+00:00",
       "summary": "[지디넷코리아]노타가 글로벌 반도체 기업과의 협력 확대에 힘입어 올해 3분기 매출을 전년 동기 대비 51% 늘렸다. 영업손실도 줄이며 수익성 개선 흐름을 보였다.13일 금융감독원 전자공시시스템에 따르면 노타의 3분기 연결 기준 매출은 45억 9000만원으로 전년 동기 30억 3000만원 대비 51.4% 증가했다. 같은 기간 영업손실은 37억 1000만원으로 전년 동기 42억 9000만원보다 약 13.5% 줄었다.전분기와 비교해도 실적 개선이 나타났다. 3분기 플랫폼과 솔루션 사업 매출은 전분기 대"
+    },
+    {
+      "id": "0087cffdf67e",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "XYBench: Helping with the problem behind the question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "published": "2026-11-13T08:02:35+00:00",
+      "summary": ""
     },
     {
       "id": "0b7983b66b71",
@@ -254,6 +617,39 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217386",
       "published": "2026-11-13T06:52:51+00:00",
       "summary": "2026년 대한민국 인터넷대상의 최고 영예인 대통령상에 AI 인프라 솔루션 기업 '엘리스그룹'이 선정됐다.과학기술정보통신부(장관 배경훈)는 13일 서울 포스트타워에서 '대한민국 인터넷대상'과 '디지털 혁신상' 시상식을 개최했다고 밝혔다. 올해로 21회를 맞은 대한민국 인터넷대상은 인터넷 분야 최고 권위의 정부 시상으로 올해는 12개 단체가 수상자로 선정됐다.대통령상을 수상한 엘리스그룹은 국내 최초 온수 냉각 'B300' AI 데이터센터와 자체 AI 클라우드·에이전트 기술을 개발·서비스화해 국내 A"
+    },
+    {
+      "id": "bd6706331f0d",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "published": "2026-11-13T05:05:22+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fb58dded8012",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "IceWM",
+      "link": "https://ice-wm.org/",
+      "published": "2026-11-13T04:54:53+00:00",
+      "summary": "Article URL: https://ice-wm.org/ Comments URL: https://news.ycombinator.com/item?id=50478515 Points: 321 # Comments: 179"
+    },
+    {
+      "id": "31f6f6854b4f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "link": "https://brave.com/blog/search-api-agentic-payments/",
+      "published": "2026-11-13T03:08:08+00:00",
+      "summary": "Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 219 # Comments: 125"
     },
     {
       "id": "a8f2f83913a7",
@@ -584,6 +980,17 @@
       "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
       "published": "2026-11-12T22:14:41+00:00",
       "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here."
+    },
+    {
+      "id": "c57318155e01",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "published": "2026-11-12T22:03:09+00:00",
+      "summary": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/ Comments URL: https://news.ycombinator.com/item?id=50474959 Points: 366 # Comments: 100"
     },
     {
       "id": "ec09f89a3e4c",
@@ -4269,6 +4676,17 @@
       "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
       "published": "2026-11-10T12:00:21+00:00",
       "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts."
+    },
+    {
+      "id": "2d15cae7a994",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "published": "2026-11-10T11:13:04+00:00",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
     },
     {
       "id": "e4b692b0e4a9",
@@ -36188,6 +36606,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Jensen Huang & Lex Fridman visit Taiwan",
+      "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "published": "2026-10-13T21:26:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "eb23fa48c5bc",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Jensen Huang & Lex in Taiwan",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "published": "2026-10-13T21:26:16+00:00",
       "summary": ""
