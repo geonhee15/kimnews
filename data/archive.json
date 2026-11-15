@@ -1,7 +1,216 @@
 {
-  "updated_at": "2026-11-15T00:19:31.015781+00:00",
-  "count": 19433,
+  "updated_at": "2026-11-15T06:55:49.306478+00:00",
+  "count": 19458,
   "items": [
+    {
+      "id": "44eae4bd2584",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "북한 해킹조직, 정부·금융 서버 겨냥…국내 30곳 표적 명단 확인",
+      "link": "https://zdnet.co.kr/view/?no=20261115140951",
+      "published": "2026-11-15T06:12:23+00:00",
+      "summary": "[지디넷코리아]북한과 연계된 것으로 추정되는 해킹조직이 웹 프로그래밍 언어 PHP의 보안 취약점 'PHP2쉘(PHP2shell)'을 악용해 정부기관과 금융회사 서버를 노린 정황이 확인됐다.15일 사이버보안 기업 사이퍼마(CYFIRMA)가 공개한 위협 분석 보고서에 따르면 북한 라자루스 그룹과 연계된 것으로 추정되는 공격자가 취약점을 악용해 한국을 포함한 전 세계 서버를 공격 대상으로 삼은 정황이 포착됐다.PHP2쉘은 PHP 런타임 자체에 있는 원격코드실행(RCE) 취약점 2건(CVE-2026-10"
+    },
+    {
+      "id": "b5c070899968",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대차그룹 웹사이트, 국내외 웹 어워드 13개 상 수상",
+      "link": "https://zdnet.co.kr/view/?no=20261115140635",
+      "published": "2026-11-15T05:06:35+00:00",
+      "summary": "[지디넷코리아]현대자동차그룹이 생성형 인공지능(AI)의 정보 접근성과 이해도를 높이는 방향으로 공식 웹사이트를 개편해 국내외 웹 관련 시상식에서 13개 상을 받았다.현대차그룹은 공식 웹사이트가 올해 국내 웹 어워드에서 5개, 해외 웹 어워드에서 8개 등 총 13개 상을 수상했다고 15일 밝혔다.현대차그룹은 지난 13일 한국인터넷소통협회가 주관한 '제19회 대한민국소통어워즈'에서 국회 산업통상자원중소벤처기업위원회 위원장상과 대한민국AI브랜드대상 그룹·지주사 부문, 대한민국디지털콘텐츠대상 브랜드콘텐츠"
+    },
+    {
+      "id": "be7aa7c1c8ec",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[인터뷰] 시스코 혁신 수장 \"韓, AI 투자만으론 부족…보안·인재 함께 키워야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261115110004",
+      "published": "2026-11-15T05:00:03+00:00",
+      "summary": "[지디넷코리아][멜버른(호주)=장유미 기자] \"한국이 인공지능(AI) 분야에서 장기적인 경쟁력을 확보하려면 변화에 유연하게 대응할 수 있는 인프라를 구축하고 보안을 그 안에 내재화해야 합니다. 기술 투자와 인재 양성도 반드시 함께 이뤄져야 합니다.\"가이 디드리히 시스코 수석부사장 겸 글로벌 혁신 책임자는 지난 9~11일 호주 멜버른에서 열린 '시스코 라이브 APJC 2026'에 참석한 후 지디넷코리아와 만나 한국의 AI 경쟁력 강화 방안에 대해 이같이 강조했다. 한국 정부가 소버린 AI 모델 개발"
+    },
+    {
+      "id": "db00b55ec46a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "풀무원, 임직원이 AI 에이전트 직접 개발…AX 해커톤 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261115131827",
+      "published": "2026-11-15T04:25:01+00:00",
+      "summary": "[지디넷코리아]풀무원이 임직원이 직접 업무용 인공지능(AI) 에이전트를 개발하는 ‘AX 해커톤’을 열고 사내 AI 활용 확대에 나섰다.풀무원은 지난 12~13일 서울 강남구 수서 본사에서 전사 임직원을 대상으로 AX 해커톤을 개최했다고 15일 밝혔다.이번 행사는 최근 구축한 ‘AX 테크 플랫폼’을 활용해 실무자가 업무 과정에서 시간이 많이 들거나 비효율적인 부분을 찾아 이를 해결하는 AI 에이전트를 직접 만드는 방식으로 진행됐다.풀무원은 비개발 직군도 참여할 수 있도록 사전 교육과 코칭을 제공했다"
+    },
+    {
+      "id": "b0fcfa5d6a6f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 삼성전자 갤럭시링 특허 분쟁 결론 임박...지스타·MS 이그나이트 개막",
+      "link": "https://zdnet.co.kr/view/?no=20261115124937",
+      "published": "2026-11-15T04:19:47+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주에는 삼성전자 갤럭시링 특허 분쟁의 1차 결론이 나오고, 주요 기업"
+    },
+    {
+      "id": "e5e76eb4eab2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217415",
+      "published": "2026-11-15T03:54:46+00:00",
+      "summary": "구글이 '제미나이'에 구글 월렛(Google Wallet)을 연동해 개인 금융 정보를 분석하는 기능을 추가했다. 사용자의 소비 내역과 금융 계좌 정보를 바탕으로 지출 패턴을 분석하고, 예산 관리와 저축 계획까지 제안하는 기능이다.구글은 13일(현지시간) 공식 블로그를 통해 제미나이의 개인화 기능인 '퍼스널 인텔리전스(Personal Intelligence)'에 구글 월렛을 새롭게 연결한다고 밝혔다. 미국 내 모든 제미나이 앱 사용자를 대상으로 웹과 안드로이드, iOS에서 차례로 제공한다.사용자는 "
+    },
+    {
+      "id": "2ac2bc068b9d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "승조원 없는 함정, 미 해역으로…HD현대·안두릴, 무인수상함 진수",
+      "link": "https://zdnet.co.kr/view/?no=20261115124842",
+      "published": "2026-11-15T03:48:42+00:00",
+      "summary": "[지디넷코리아]HD현대가 미국 안두릴과 항해부터 무장 운영까지 자동화하는 무인수상함을 건조하고 미국 해역 시험 운항을 준비한다.HD현대는 지난 12일 울산 HD현대중공업에서 미국 방산 기업 안두릴과 공동 개발한 경하중량 600톤급 중형 무인수상함의 진수식을 열었다고 밝혔다. 양사가 지난해 11월 협약을 맺은 뒤 약 1년 만에 건조한 함정이다.이번 함정은 배 자체를 움직이고 관리하는 기술에 군사 임무를 수행하는 자율화 기술을 결합한 것이 특징이다. HD한국조선해양이 개발한 '브이에이원'이 함정의 무"
+    },
+    {
+      "id": "0ca1654af15e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "테슬라, '사이버캡' 사전 주문 시작…월 40만원 안 내면 운행 불가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217417",
+      "published": "2026-11-15T03:40:27+00:00",
+      "summary": "테슬라가 일부 고객을 대상으로 완전 자율주행차 '사이버캡(Cybercab)'의 개인 구매를 위한 사전 주문을 시작했다. 차량 가격은 약 4000만원이지만, 운행하려면 매달 40만원의 구독료를 내야 하고 이용 지역과 상업적 운행도 제한된다.테슬라는 13일(현지시간) X를 통해 일부 고객에게 개인용 사이버캡 사전 주문 기회를 제공한다고 발표했다. 이는 로보택시 전용으로 개발한 자율주행차를 일반 고객에게 직접 판매하려는 첫 단계다.공개된 주문 페이지에는 차량 가격 2만9990달러와 월 299달러의 '오"
+    },
+    {
+      "id": "229ce0d2b2dc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "C++26, 표준화 사상 첫 부결…연내 확정 불투명",
+      "link": "https://zdnet.co.kr/view/?no=20261115104827",
+      "published": "2026-11-15T03:31:27+00:00",
+      "summary": "[지디넷코리아]C++ 프로그래밍 언어의 차기 표준인 'C++26'이 국제표준화기구(ISO) 승인 단계에서 사상 처음으로 부결됐다.프로그램 실행 중 오류를 감지하는 '계약(Contracts)' 기능을 둘러싸고 언어 창시자와 표준화위원회 의견이 충돌하면서다. 이번 부결로 연내 표준 확정이 불투명해졌으며, 정적 리플렉션 등 다른 신기능 도입도 지연될 가능성이 커졌다.15일 더레지스터 등 외신에 따르면 C++26 국제표준초안(DIS)은 지난 10월 ISO 회원국 표준기구 투표에서 찬성 13표, 반대 9표"
+    },
+    {
+      "id": "d45fa66c0e0d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217420",
+      "published": "2026-11-15T03:23:42+00:00",
+      "summary": "메타가 직원들을 대상으로 예측 시장 앱 '테이크(Takes)'를 테스트하고 있다. 실제 돈을 걸지 않고 가상 포인트로 각종 사건이나 이벤트의 결과를 예측하는 방식으로, 칼시나 폴리마켓과 달리 현금 거래를 지원하지 않는 것이 특징이다.월스트리트저널(WSJ)은 13일(현지시간) 메타 직원들이 개발 중인 예측 시장 앱을 시험하고 있다고 보도했다.이용자는 '크레드(Cred)'라는 가상 포인트를 걸고 특정 사건의 결과를 예측한다. 예상이 맞으면 포인트를 얻고 틀리면 잃는 구조다.테스트에 등장한 질문에는 팀"
+    },
+    {
+      "id": "5791034afb60",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대홈쇼핑, 쇼호스트·카메라 없는 '100% AI 방송' 도입",
+      "link": "https://zdnet.co.kr/view/?no=20261115122232",
+      "published": "2026-11-15T03:23:41+00:00",
+      "summary": "[지디넷코리아]현대홈쇼핑이 쇼호스트와 카메라 촬영 없이 인공지능(AI)만으로 제작한 홈쇼핑 방송을 선보인다. AI가 음성과 영상을 모두 생성하는 방식으로, 방송 제작 비용을 줄이는 동시에 기존 촬영 방식으로 구현하기 어려웠던 상품 정보까지 시각적으로 전달한다는 구상이다.현대홈쇼핑은 데이터홈쇼핑 채널 '현대홈쇼핑 플러스샵'에 100% AI 방송 시스템인 'AI-REAL'을 도입한다고 15일 밝혔다. 첫 정규 방송은 오는 16일 오후 3시 20분 진행되는 '제주 하트 골드키위' 판매 방송이다.AI-R"
+    },
+    {
+      "id": "7a604ed40ba7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+      "published": "2026-11-15T03:13:03+00:00",
+      "summary": "중국에서 엔비디아의 수출 제한 AI 칩을 기반으로 추진 중인 4조원대 데이터센터 사업이 차질을 빚을 가능성이 커지고 있다. 미국의 규제 강화 움직임과 젠슨 황 전 엔비디아 CEO의 사임으로 핵심 GPU 확보가 불투명해진 가운데, 중국 기업들은 여전히 엔비디아 칩을 전제로 대규모 투자를 진행하고 있는 것으로 나타났다.로이터는 13일(현지시간) 중국의 조달 공고와 투자 계획, 건설 계약, 기업 공시 등 150건 이상을 분석한 결과, 엔비디아의 수출 제한 프로세서를 기반으로 한 프로젝트와 장비 계약 규"
+    },
+    {
+      "id": "068545e390e0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 사용자 사진 무단 접근으로 이탈리아서 1.2조 벌금",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217416",
+      "published": "2026-11-15T02:49:30+00:00",
+      "summary": "이탈리아 개인정보보호 당국이 안드로이드 사용자의 동의 없이 스마트폰 사진과 동영상에 접근한 메타에 8억8700만달러(약 1조1886억원)의 벌금을 부과했다. 페이스북 앱의 사진 추천 기능이 사용자에게 충분히 고지되지 않은 채 개인 갤러리 데이터에 접근했다는 이유에서다.이탈리아 당국은 14일(현지시간) 발표를 통해 메타가 페이스북 앱에서 사용자의 사진과 동영상을 확인하고, 게시할 만한 콘텐츠를 추천하는 기능을 운영하면서 별도의 명확한 동의를 받지 않았다고 밝혔다. 이탈리아에서 약 2000만명의 안드"
+    },
+    {
+      "id": "fd490c3857df",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217422",
+      "published": "2026-11-15T02:29:43+00:00",
+      "summary": "젠슨 황 전 엔비디아 CEO의 불륜과 사임 논란이 생성 AI를 활용한 풍자 영상과 이미지로 이어지고 있다. 영화 '매트릭스'의 주인공부터 뮤직비디오 속 가수까지 황의 얼굴을 합성한 영상들이 수백만 조회수를 기록하고 있다. AI 산업을 성장시킨 황이 자신이 공급해 온 GPU와 AI 기술로 만들어진 밈의 주인공이 됐다는 점이 눈길을 끈다.최근 X와 인스타그램, 레딧 등에는 황을 풍자한 AI 생성 영상과 이미지가 잇따라 등장하고 있다. 영화 속 인물로 바꾸거나 불륜과 중국 스파이 의혹을 패러디한 콘텐츠"
+    },
+    {
+      "id": "a1755c1d4d0c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "스페이스X, 스타십 첫 발사탑 포획 성공…1단 부스터 회수는 실패",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217421",
+      "published": "2026-11-15T01:55:08+00:00",
+      "summary": "스페이스X가 초대형 우주선 '스타십(Starship)'을 지구 궤도에서 귀환시켜 발사탑의 기계식 팔로 붙잡는 데 처음으로 성공했다. 약 22시간 동안 지구를 14바퀴 돈 우주선을 회수하면서 완전 재사용 로켓 개발에 중요한 진전을 이뤘다. 그러나 1단 로켓 '슈퍼헤비'는 귀환 과정에서 문제가 발생해 파괴됐다. 목표였던 부스터와 우주선의 동시 회수에는 실패한 것이다.스페이스X는 14일(현지시간) 15번째 스타십 시험비행에서 상단 우주선의 첫 발사탑 포획에 성공했다고 밝혔다. 전날 텍사스주 스타베이스에"
+    },
+    {
+      "id": "156fb408c6e6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "목포 고하도에 100억원 투입…폐교 부지, 문화복지 플랫폼으로",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217383",
+      "published": "2026-11-15T00:30:00+00:00",
+      "summary": "목포 고하도가 해양수산부의 2027년 ‘어촌뉴딜3.0 어촌회복형’ 사업 대상지로 선정됐다. 국·도비 79억원을 포함해 2027년부터 2030년까지 총 100억원이 투입된다.목포시는 고하도가 해양수산부 어촌뉴딜3.0 공모사업 대상지로 최종 선정됐다고 12일 밝혔다. 사업비는 국비 70억원과 도비 9억원, 시비 21억원 등 총 100억원이다.목포시는 사업을 통해 충무 폐교 부지에 체류형 문화복지 플랫폼을 조성하고 고하도 마을안길 포장과 마을연결로 개설 등 생활 기반을 개선할 계획이다.태양광·에너지저장"
+    },
+    {
+      "id": "4bf95db42931",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "루마니아 재생에너지 접속 기술승인 114.9GW…주요 인허가 확보는 14% 그쳐",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217356",
+      "published": "2026-11-15T00:25:00+00:00",
+      "summary": "루마니아에서 전력망 접속 기술승인을 받은 재생에너지 발전사업 용량이 114.9기가와트(GW)에 달하지만, 접속계약과 건축허가, 발전시설 설립허가까지 확보한 사업은 16.2GW에 그친 것으로 집계됐다. 전체 접속승인 용량은 전월 대비 소폭 감소했으나 주요 인허가를 모두 확보한 사업 규모는 5.28% 증가했다.루마니아 에너지규제청(ANRE)이 지난 9일(현지시간) 발표한 재생에너지 발전사업 현황에 따르면, 10월1일 기준 최대 계통 송출 승인용량이 1메가와트(MW) 이상인 사업 중 유효한 전력망 접속"
+    },
+    {
+      "id": "a45788f269a8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "베트남, 태양광 발전가격 상한 최대 16.9% 인상…ESS 결합형 우대 유지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217323",
+      "published": "2026-11-15T00:10:00+00:00",
+      "summary": "베트남이 2026년 태양광 발전가격 상한을 전년 대비 6.9~16.9% 인상했다. 배터리에너지저장장치(ESS)를 결합한 발전소에는 별도로 높은 상한을 적용하며, 북부 수상태양광의 최고 가격은 킬로와트시(kWh)당 2120.31동(약 110원)으로 정해졌다.베트남 산업무역부는 지난 5일(현지시간) 이 같은 내용을 담은 2026년 태양광 발전가격 체계 결정 제2946호를 시행했다. 가격 상한은 지상형과 수상형 태양광을 구분하고, 북부·중부·남부 3개 지역과 ESS 설치 여부에 따라 각각 다르게 적용된"
+    },
+    {
+      "id": "c26ec24bbb4a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "\"은 대신 구리\"… 호주, 우주선용 태양전지 개발 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217312",
+      "published": "2026-11-15T00:10:00+00:00",
+      "summary": "호주 태양전지 개발업체 선드라이브솔라(SunDrive Solar)가 은 대신 구리를 전극에 적용한 초박형 태양전지로 우주선용 태양광 패널 개발에 나섰다. 2027년 4월까지 우주선에 장착할 패널 시제품을 제작하고, 우주 환경을 모사한 시험을 통해 실제 비행용 제품 개발에 필요한 성능을 검증할 계획이다.선드라이브와 호주 우주선 개발업체 스페이스머신스컴퍼니(SMC)는 지난 9일 이 같은 공동 연구개발 계획을 발표했다. 양사 기술진은 지난 10월 1일 호주 커넬에 있는 선드라이브 시설에서 프로젝트를 시"
+    },
     {
       "id": "04d251fa3e1e",
       "source": "TechCrunch",
@@ -12,6 +221,17 @@
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "published": "2026-11-15T00:08:07+00:00",
       "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c"
+    },
+    {
+      "id": "d8c6e7581f9a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217408",
+      "published": "2026-11-15T00:00:00+00:00",
+      "summary": "LG유플러스가 AI 토큰 최적화 기술 성과를 바탕으로 내년 B2B AI 시장에 진출한다고 15일 밝혔다.자체 AI 통화 에이전트 '익시오'와 AI 컨택센터(AICC) 및 사내 AI 전환(AX)에서 쌓은 역량에 정부 주도 '모두의 AI' 모델 서빙 노하우를 더해 기업 시장을 공략한다는 전략이다. 사업은 협력사와의 제휴형 모델 및 자체 인프라 구축 방식으로 전개한다.LGU+는 ▲컴퓨트 ▲모델 파운드리 ▲AI 게이트웨이 ▲에이전트 등 계층별 토큰 최적화 성과를 구체적으로 공개했다.컴퓨트 계층에서는 특정"
     },
     {
       "id": "298d620579cc",
@@ -56,6 +276,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217413",
       "published": "2026-11-14T22:52:49+00:00",
       "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아의 사업 경쟁력과 미국 AI 산업에 타격을 줄 수 있다며 복귀를 지지하고 있다.CNBC는 14일(현지시간) 브래드 거스트너 알티미터 캐피털 CEO와 개빈 베이커 아트레이데스매니지먼트 C"
+    },
+    {
+      "id": "60d58471c0ce",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "published": "2026-11-14T22:26:30+00:00",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 412 # Comments: 204"
     },
     {
       "id": "681bfc28b3f8",
@@ -135,6 +366,17 @@
       "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day."
     },
     {
+      "id": "2b8c5948ffba",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A family tree of software job titles",
+      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "published": "2026-11-14T17:45:19+00:00",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 275 # Comments: 132"
+    },
+    {
       "id": "f09fa3b949ac",
       "source": "TechCrunch",
       "kind": "article",
@@ -177,6 +419,28 @@
       "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
       "published": "2026-11-14T16:34:15+00:00",
       "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    },
+    {
+      "id": "90f8739143a4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "published": "2026-11-14T15:40:52+00:00",
+      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 229 # Comments: 99"
+    },
+    {
+      "id": "874e8d1daa9a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "published": "2026-11-14T15:04:15+00:00",
+      "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 218 # Comments: 14"
     },
     {
       "id": "00ac207bdf92",
@@ -298,6 +562,17 @@
       "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
       "published": "2026-11-14T11:30:00+00:00",
       "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more."
+    },
+    {
+      "id": "ed4f0a751351",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "published": "2026-11-14T11:13:17+00:00",
+      "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 225 # Comments: 87"
     },
     {
       "id": "690a9b9be569",
