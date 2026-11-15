@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-11-15T14:28:48.528721+00:00",
-  "count": 19479,
+  "updated_at": "2026-11-15T19:54:44.110394+00:00",
+  "count": 19489,
   "items": [
+    {
+      "id": "b6eb3cfc1699",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "published": "2026-11-15T19:15:43+00:00",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules "
+    },
+    {
+      "id": "febed9ea783c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "published": "2026-11-15T18:29:14+00:00",
+      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
+    },
+    {
+      "id": "372585993663",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "published": "2026-11-15T17:05:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "85c4e4be8c88",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s first smart glasses are coming together",
+      "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "published": "2026-11-15T16:59:16+00:00",
+      "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying"
+    },
+    {
+      "id": "7a20787f7291",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "All AI-generated code should be Open Source",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "published": "2026-11-15T14:46:58+00:00",
+      "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 841 # Comments: 444"
+    },
     {
       "id": "c6c8ae4dff26",
       "source": "The Verge",
@@ -23,6 +78,39 @@
       "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
       "published": "2026-11-15T13:57:30+00:00",
       "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"p"
+    },
+    {
+      "id": "f1069af1dc4f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "published": "2026-11-15T13:15:22+00:00",
+      "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 298 # Comments: 167"
+    },
+    {
+      "id": "ad0775b55fcc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "내 돈 주고 산 테슬라 사이버캡…구독료 끊으면 운전도 못 한다",
+      "link": "https://zdnet.co.kr/view/?no=20261115215513",
+      "published": "2026-11-15T13:11:24+00:00",
+      "summary": "[지디넷코리아]테슬라가 운전대 없는 자율주행차 '사이버캡'을 개인에게 판매하기 시작했지만, 구매 이후에도 매달 구독료를 내야 차량을 운행할 수 있다. 구독을 해지하면 직접 운전하는 것도 불가능해 사실상 차량을 이용할 수 없게 된다. 자동차를 소유하더라도 운행 권한은 소프트웨어 구독에 달린 셈이다.14일(현지시간) 미국 IT 전문매체 더버지와 전기차 전문매체 일렉트렉 등에 따르면 테슬라는 최근 공개한 사이버캡 자율주행 구독 계약에 차량 운행을 위해 유효한 구독 서비스가 반드시 필요하다는 조건을 명시"
+    },
+    {
+      "id": "427418e3e2be",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "라이엇, TFT 세트19 ‘프리즘 투어’ 공개…\"음악이 게임플레이의 일부\"",
+      "link": "https://zdnet.co.kr/view/?no=20261115010552",
+      "published": "2026-11-15T13:00:03+00:00",
+      "summary": "[지디넷코리아]라이엇게임즈가 ‘전략적 팀 전투(TFT)’ 세트 19 ‘프리즘 투어’에서 이용자가 짠 덱에 맞춰 음악이 달라지는 방식을 선보인다.라이엇게임즈는 지난 11일 진행된 미디어 브리핑에서 ‘프리즘 투어’의 주요 콘텐츠를 소개했다. 케이틀린 스튜어트 털리 글로벌 PR 리드는 “더 많은 밴드와 더 큰 무대에 전 세계 음악 장르를 담은 글로벌 투어”라고 이번 세트를 소개했다. 챔피언 94명이 등장하며, 게임 속 밴드 14팀과 솔로 아티스트 10명이 총 24개 음악 장르를 맡는다.개발진은 서로 다"
     },
     {
       "id": "5c45c07c6d4b",
@@ -67,6 +155,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261115205153",
       "published": "2026-11-15T11:54:24+00:00",
       "summary": "[지디넷코리아]세무사시험 수석합격자가 인공지능(AI)을 활용한 부정행위를 시인하면서 정부가 국가자격시험 전반에 대한 전수조사에 나선다. 나흘 앞으로 다가온 대학수학능력시험에서도 유사한 부정행위가 발생하지 않도록 AI 기기 점검 절차를 마련하고 시험장 관리·감독을 강화하기로 했다.청와대는 15일 하준경 정책실장 주재로 'AI 활용 부정시험 확산 방지 긴급대책회의'를 개최했다고 밝혔다.이번 회의는 최근 세무사시험 수석합격자가 AI 기술을 이용해 부정행위를 저질렀다고 인정한 데 따른 것이다. 해당 합격"
+    },
+    {
+      "id": "b0fe271e4334",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "published": "2026-11-15T11:40:51+00:00",
+      "summary": "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol... Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 346 # Comments: 152"
     },
     {
       "id": "59e07f0bf43d",
@@ -38410,6 +38509,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Jensen Huang & Lex Fridman visit Taiwan's Night Markets and Computex",
+      "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "published": "2026-10-13T21:26:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "62fcc454249b",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Jensen Huang visits Taiwan w/ Lex Fridman",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "published": "2026-10-13T21:26:16+00:00",
       "summary": ""
