@@ -1,7 +1,128 @@
 {
-  "updated_at": "2026-11-14T20:42:44.419461+00:00",
-  "count": 19420,
+  "updated_at": "2026-11-15T00:19:31.015781+00:00",
+  "count": 19433,
   "items": [
+    {
+      "id": "04d251fa3e1e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "2026-11-15T00:08:07+00:00",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c"
+    },
+    {
+      "id": "298d620579cc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "출시 전 AI는 누가 감시하나…美 싱크탱크 경고",
+      "link": "https://zdnet.co.kr/view/?no=20261114205549",
+      "published": "2026-11-14T23:30:01+00:00",
+      "summary": "[지디넷코리아]오픈AI와 앤트로픽 등 인공지능(AI) 개발사가 정식 출시 전이거나 자체 연구개발(R&D)에만 활용하는 AI 모델에 대해서도 독립 검증 체계를 마련해야 한다는 제언이 나왔다. 가장 앞선 기술 역량을 갖춘 AI 모델이 주로 기업 내부에서 운영되는 만큼 상용 서비스 중심 감독 체계로는 잠재 위험을 파악하기 어렵다는 분석이다.미국 싱크탱크 카네기국제평화재단이 최근 발간한 '신뢰하되 검증하라(Trust but Verify)' 보고서에 따르면 연구진은 AI 개발사의 비공개 모델에 대한 감독 "
+    },
+    {
+      "id": "16bde50932c8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217414",
+      "published": "2026-11-14T23:20:19+00:00",
+      "summary": "마이크로소프트(MS)가 전 세계 기업과 정부 기관에 큰 혼란을 일으킨 클라우드 서비스 장애를 완전히 복구했다. 24시간 넘게 이어진 장애로 이메일과 일부 협업 서비스에 장애가 발생하면서 금융기관들은 팩스와 전화 등 구식 통신 수단까지 동원했다. 한편에서는 이메일이 끊긴 덕분에 업무에서 잠시 해방됐다며 반기는 직장인들이 등장했고, 이를 소재로 한 밈도 쏟아졌다.MS는 14일(현지시간) X를 통해 아웃룩과 팀즈를 비롯한 마이크로소프트 365 서비스의 전 세계 장애를 모두 해결했다고 발표했다. \"사고의"
+    },
+    {
+      "id": "74b61971e3c2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"청소년 SNS에 경고문 의무\"...빅테크, 美뉴욕주에 소송",
+      "link": "https://zdnet.co.kr/view/?no=20261114225122",
+      "published": "2026-11-14T23:00:02+00:00",
+      "summary": "[지디넷코리아]미국 뉴욕주가 청소년이 쓰는 SNS에 정신건강 경고문을 띄우도록 한 법이 시행을 앞두고 법정 다툼에 들어갔다. 뉴욕주는 청소년과 보호자에게 건강 정보를 주려는 조치라고 설명했다. 구글과 메타를 회원으로 둔 단체는 정부가 정한 메시지를 민간 플랫폼이 대신 전하도록 강제하는 것은 표현의 자유 침해라고 맞섰다.13로이터에 따르면 인터넷기업 단체 넷초이스는 내년 1월1일 시행 예정인 뉴욕주의 소셜미디어 경고문 표시법을 막아 달라며 연방법원에 소송을 냈다. 넷초이스에는 구글, 유튜브, 페이스"
+    },
+    {
+      "id": "4769a327185c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+      "published": "2026-11-14T22:52:49+00:00",
+      "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아의 사업 경쟁력과 미국 AI 산업에 타격을 줄 수 있다며 복귀를 지지하고 있다.CNBC는 14일(현지시간) 브래드 거스트너 알티미터 캐피털 CEO와 개빈 베이커 아트레이데스매니지먼트 C"
+    },
+    {
+      "id": "681bfc28b3f8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"AR 글래스 출하량, 내년 2배 증가\"",
+      "link": "https://zdnet.co.kr/view/?no=20261113164610",
+      "published": "2026-11-14T22:00:02+00:00",
+      "summary": "[지디넷코리아]전세계 증강현실(AR) 글래스 출하량이 내년 2배 가까이 성장할 것이란 전망이 나왔다. 특히 자막·길 안내·인공지능(AI) 답변 등을 눈앞에 띄워주는 정보형 제품이 시장 확대를 주도할 것으로 기대된다.15일 시장조사업체 시그마인텔은 전 세계 AR 글래스 출하량이 2026년 175만 1000대에서 2027년 348만2000대로 늘어날 것이라고 전망했다.성장세를 주도할 제품은 자막·길 안내·AI 답변 등을 눈앞에 띄워주는 정보형 AR 글래스다. 정보형 제품은 주변공간을 계속 인식할 필요"
+    },
+    {
+      "id": "b7b23413e384",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "2026-11-14T21:41:22+00:00",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+    },
+    {
+      "id": "3de9ba59242c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[글로벌 줍줍] GTA6 하라고 모두 쉬라는 회사 어디",
+      "link": "https://zdnet.co.kr/view/?no=20261114223909",
+      "published": "2026-11-14T21:00:03+00:00",
+      "summary": "[지디넷코리아]'글로벌 줍줍'은 정신없이 지나간 한 주, 쏟아지는 뉴스 속에서 놓치면 후회할 글로벌 테크·산업 이슈를 정리한 코너입니다. 일요일, 커피 한 잔과 함께 글로벌 소식을 쉽고 재미있게 만나보세요. 여러분의 새 한 주를 응원합니다. 각 외신별 '기사 원문 바로가기' 링크는 지디넷코리아 웹사이트에서만 활성화 됩니다. [편집자 주]글로벌 PC 주변기기 기업 로지텍이 락스타게임즈의 최고 기대작 '그랜드 테프트 오토6(GTA6)' 출시일인 오는 19일을 '로지 게임 데이'로 지정하고 전 직원에게"
+    },
+    {
+      "id": "0c0a4043a9f1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "바닷물로 전기 만들고 열 식힌다...해상 AI 데이터센터 나온다",
+      "link": "https://zdnet.co.kr/view/?no=20261114222214",
+      "published": "2026-11-14T21:00:02+00:00",
+      "summary": "[지디넷코리아]스타트업 드로그(Drogue)가 바다의 열로 전력을 생산하고 해수로 냉각하는 해상 AI 데이터센터 개발에 나섰다. 육상 전력망에 의존하지 않고 AI 추론에 필요한 전력과 냉각 수요를 바다에서 해결한다는 구상이다.14일 씨넷재팬에 따르면 드로그가 2000만달러를 조달했으며, 2028년 초 시제품 선박을 가동할 계획이다. 도요타자동차의 벤처캐피털인 도요타벤처스 드로그에 투자했다.도요타벤처스의 투자기업 소개에 따르면 드로그는 해양 열에너지를 활용해 해상에서 전력을 생산하는 시스템을 개발하"
+    },
+    {
+      "id": "21a4f95ad383",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현지 스타트업에서 필리핀 최대 IPO로: 마인트, 세계 최대 핀테크 무대에서 성장 스토리 소개",
+      "link": "https://zdnet.co.kr/view/?no=20261115031013",
+      "published": "2026-11-14T18:10:13+00:00",
+      "summary": "[지디넷코리아]싱가포르 2026년 11월 15일 /PRNewswire/ -- 필리핀의 선도적인 핀테크 기업 지캐시(GCash)가 미화 9억 6600만 달러(609억 페소) 규모의 역사적인 기업공개(IPO)에 이어 4년 연속으로 싱가포르 핀테크 페스티벌(Singapore Fintech Festival, SFF) 2026에 참가한다. GCash is joining Singapore Fintech Festival 2026, the biggest gathering of fintech players, fo"
+    },
+    {
+      "id": "9377d894c35b",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코윈, 고성능 스토리지 제품으로 완전 전기화 사회 지원",
+      "link": "https://zdnet.co.kr/view/?no=20261115031002",
+      "published": "2026-11-14T18:10:02+00:00",
+      "summary": "[지디넷코리아]뮌헨 2026년 11월 15일 /PRNewswire/ -- 코윈(KOWIN)이 독일 뮌헨에서 열린 일렉트로니카 2026(Electronica 2026)에서 임베디드 스토리지, SSD, DRAM 모듈, 이동식 스토리지를 아우르는 전체 스토리지 포트폴리오를 선보였다. 코윈은 신뢰성이 높은 스토리지 솔루션을 제공하며, 이번 전시회에서 강조된 완전 전기화 사회의 발전을 지원한다. KOWIN High-performance Storage Products showcase at electronic"
+    },
     {
       "id": "218ca7b4f1c9",
       "source": "TechCrunch",
@@ -58,6 +179,17 @@
       "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
     },
     {
+      "id": "00ac207bdf92",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "운전대 없는 테슬라 '사이버캡', 개인도 산다…가격은 4000만원",
+      "link": "https://zdnet.co.kr/view/?no=20261114234839",
+      "published": "2026-11-14T15:00:03+00:00",
+      "summary": "[지디넷코리아]테슬라가 운전대와 페달이 없는 완전자율주행 차량 '사이버캡'을 일반 소비자에게 판매하기 시작했다. 차량 가격은 3만 달러(약 4000만원) 수준이지만, 실제 운행하려면 매달 299달러(약 40만원)의 자율주행 서비스 구독료를 별도로 내야 한다.14일(현지시간) 로이터통신 등에 따르면 테슬라는 전날 사회관계망서비스(SNS) 엑스(X)를 통해 일부 고객에게 사이버캡을 개인용으로 구매할 수 있는 초청장을 발송했다고 밝혔다. 그동안 로보택시 서비스에 활용해 온 자율주행 전용 차량을 개인 소"
+    },
+    {
       "id": "b703b8604b0d",
       "source": "The Verge",
       "kind": "article",
@@ -111,6 +243,17 @@
       "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
       "published": "2026-11-14T12:45:45+00:00",
       "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 348 # Comments: 137"
+    },
+    {
+      "id": "497effdf6956",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "published": "2026-11-14T12:45:45+00:00",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 436 # Comments: 164"
     },
     {
       "id": "99dea6f8b25a",
