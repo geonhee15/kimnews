@@ -1,7 +1,271 @@
 {
-  "updated_at": "2026-11-16T03:09:26.411818+00:00",
-  "count": 19516,
+  "updated_at": "2026-11-16T11:11:10.183630+00:00",
+  "count": 19548,
   "items": [
+    {
+      "id": "e4bc07a85b46",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "published": "2026-11-16T11:00:00+00:00",
+      "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to"
+    },
+    {
+      "id": "53f5f94d495b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "published": "2026-11-16T11:00:00+00:00",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos."
+    },
+    {
+      "id": "f84a1f44370e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "포티넷, 1년 5개월만에 새 한국지사장 찾았다...김종덕 선임",
+      "link": "https://zdnet.co.kr/view/?no=20261116194844",
+      "published": "2026-11-16T10:48:44+00:00",
+      "summary": "[지디넷코리아]미국계 글로벌 네트워크보안 융합 솔루션 전문기업 포티넷((Fortinet)이 신임 한국지사장으로 김종덕 전 데이터이쿠 코리아 지사장을 선임했다.한국지사장이 공석인지 1년 5개월만에 이뤄진 선임이다. 앞서 조원균 전 한국포티넷 지사장은 작년 6월 사임, 다음달인 7월 클라우드플레어코리아 지사장으로 자리를 옮겼다.포티넷 미국 본사는 2000년 11월 설립됐다. 캘리포니아 서니베일에 위치해 있다. 2026년 3분기 누적 매출이 59억7600만 달러(약 8조7000억원)를 기록했다. 한국 "
+    },
+    {
+      "id": "38caaf9005a8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "오니스트, 연말 선물 세트 '리추얼 에디션' 3종 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261116193809",
+      "published": "2026-11-16T10:38:41+00:00",
+      "summary": "[지디넷코리아]이너뷰티 브랜드 오니스트는 연말을 맞아 한정판 선물 세트 '리추얼 에디션' 3종을 출시했다고 16일 밝혔다.이번 에디션은 '나를 위하는 마음이 너에게도 이어지도록'이라는 콘셉트로 기획됐다. 체크 패턴의 패키지에 붉은색 벨벳 리본과 크리스마스 장식을 더해 연말 선물용으로 구성했다.선물 세트는 '트리플콜라겐 오렌지'와 '트리플샤인 포도'를 한 박스씩 담은 '글로우 시너지 세트'와 각 제품을 2박스씩 담은 단일 제품 세트 2종으로 구성됐다. 모든 세트에는 실크 수면 안대가 포함된다.트리플"
+    },
+    {
+      "id": "73e3be1fc11a",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "예스24, 3Q 매출 3.9%↓...차입금 1900억원에 순손실 지속",
+      "link": "https://zdnet.co.kr/view/?no=20261116180915",
+      "published": "2026-11-16T10:17:25+00:00",
+      "summary": "[지디넷코리아]예스24가 올해 3분기 원가 절감에 힘입어 영업이익을 지난해 같은 기간보다 2배 이상 늘리며 상반기 적자 흐름에서 벗어났다. 그러나 매출 감소세가 지속되고 차입금 증가에 따른 이자 부담이 커진 가운데 당기순손실을 기록했다. 1~9월 누적 기준으로도 연결 영업적자에서 벗어나지 못했다.특히 총차입금이 1900억원대로 불어나며 단기 유동성 압박이 커진 데다, 연결 자회사 8곳 중 7곳이 완전자본잠식 상태에 빠진 것으로 나타났다.16일 예스24 분기보고서에 따르면 올해 3분기(7~9월) 연"
+    },
+    {
+      "id": "e0786e0ad7c6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217466",
+      "published": "2026-11-16T09:31:44+00:00",
+      "summary": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개변수를 유지하면서 실제 연산에 사용하는 매개변수를 25% 줄였으며, 외부 평가에서는 성능이 향상되고 작업당 비용은 약 67% 감소한 것으로 나타났다.알리바바 큐원팀은 16일(현지시간) 공식 블로그를 통해 큐원4 맥스의 새로운 아키텍처와 벤치마크, API 가격을 발표했다. 지난 11일 프리뷰 서비스를 시작한 지 5일 만으로, 당시 공개하지 "
+    },
+    {
+      "id": "89af3588d977",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "IT서비스 4사, AI·클라우드 타고 3분기 외형 성장…수익성은 '희비'",
+      "link": "https://zdnet.co.kr/view/?no=20261116182600",
+      "published": "2026-11-16T09:28:45+00:00",
+      "summary": "[지디넷코리아]삼성SDS, LG CNS, SK AX, 현대오토에버 등 주요 IT서비스 기업 4사가 기업들의 인공지능 전환(AX)과 클라우드 수요에 힘입어 3분기 외형 성장을 이뤘다. 각 사는 AI 기술과 산업별 사업 역량을 강화해 성장세를 이어간다는 방침이다.16일 각 사 분기보고서와 실적 설명 자료에 따르면 삼성SDS, LG CNS, SK AX, 현대오토에버의 3분기 별도 기준 매출은 전년 동기 대비 각각 7.1%, 9.8%, 21.0%, 15.0% 증가했다.다만 영업이익은 회사별로 엇갈렸다. "
+    },
+    {
+      "id": "a020a4c05b6c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성SDS, 연구개발비 10.5% 감소…AI 역량은 AX센터로 결집",
+      "link": "https://zdnet.co.kr/view/?no=20261116175118",
+      "published": "2026-11-16T09:28:17+00:00",
+      "summary": "[지디넷코리아]삼성SDS가 올해 3분기까지 약 1493억원을 연구개발(R&D)에 투입하며 인공지능(AI)과 클라우드 기술 경쟁력 강화에 나섰다. 연구개발비는 전년 동기보다 감소했지만 AI 에이전트와 클라우드 인프라, 보안 분야를 중심으로 핵심 기술 확보를 지속 추진하는 모습이다.16일 금융감독원 전자공시시스템(DART)에 따르면 삼성SDS는 올해 3분기 누적 연결 기준 연구개발비로 1492억 9354만원을 지출했다. 이는 전년 동기 1668억 2273만원보다 약 10.5% 감소한 규모다.연결 매출"
+    },
+    {
+      "id": "867b986c6285",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미래에셋, 디지털엑스에 305억원 추가 출자…지분율 98.13%로 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261116180314",
+      "published": "2026-11-16T09:27:55+00:00",
+      "summary": "[지디넷코리아]미래에셋그룹이 가상자산 거래소 디지털엑스(구 코빗)에 약 305억원을 추가 출자하면서 지배력 굳히기에 나섰다.16일 금융감독원 전자공시시스템에 따르면, 디지털엑스 최대주주인 미래에셋컨설팅은 디지털엑스가 실시하는 304억 8700만원 규모 제3자 배정 유상증자에 참여하기로 했다.이번 유상증자로 미래에셋컨설팅은 디지털엑스 보통주 614만 5310주를 추가 취득한다. 신주 발행가액은 주당 4961원이며, 액면가액은 100원이다.유상증자는 현금 납입이 아닌 현물출자 방식으로 진행된다. 미래"
+    },
+    {
+      "id": "b312a8f1cc66",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "현대오토에버, SI·ITO 성장 속 AI 기술 개발…바이브코딩·에이전트 추진",
+      "link": "https://zdnet.co.kr/view/?no=20261116181624",
+      "published": "2026-11-16T09:27:21+00:00",
+      "summary": "[지디넷코리아]현대오토에버가 시스템통합(SI)과 IT아웃소싱(ITO) 사업 성장에 힘입어 매출을 늘리는 가운데 인공지능(AI) 수요 대응을 위한 기술 개발을 추진한다.바이브코딩 기반 개발 도구와 전장SW 기술지원용 AI 에이전트로 개발 생산성과 업무 자동화 역량을 높이고, 현대차그룹 AI 데이터센터 합작법인 출자로 인프라 사업 기반도 확대한다.16일 현대오토에버 분기보고서에 따르면 올해 1~3분기 연결 매출은 3조 4111억원으로 전년 동기 대비 16.4% 증가했다. 영업이익은 1806억원으로 1"
+    },
+    {
+      "id": "c4acc814b4a2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI 생성물 표시, 유통 플랫폼 책임은 공백…”별도 법률로 규율해야\"",
+      "link": "https://zdnet.co.kr/view/?no=20261116174250",
+      "published": "2026-11-16T09:24:12+00:00",
+      "summary": "[지디넷코리아]AI 기본법은 생성형 AI 결과물을 표시할 의무를 사업자에게만 지우고 있어, 결과물이 실제로 퍼지는 SNS나 OTT 등 플랫폼의 책임은 비어 있다는 지적이 나왔다.법무법인 태평양의 박지연 TMT 그룹장은 16일 서울 글래드 여의도에서 열린 2026년 하반기 AI법정책포럼 공개 세미나에서 \"AI 기본법상 생성형 AI 결과물 표시 의무는 사업자에게 부과돼 있지만, 실제 결과물이 유통되는 SNS나 OTT 등 플랫폼 사업자에게는 표시 유지 의무가 명확하게 규정돼 있지 않다\"고 말했다.이어 "
+    },
+    {
+      "id": "85d9e5551ea4",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "SGA솔루션즈, 3분기 연결 매출 첫 1000억 돌파",
+      "link": "https://zdnet.co.kr/view/?no=20261116181440",
+      "published": "2026-11-16T09:14:40+00:00",
+      "summary": "[지디넷코리아]통합 IT보안 전문기업 SGA솔루션즈(대표 최영철)가 올해 3분기 누적 연결 매출 1074억 원, 영업이익 19억 원을 기록했다. 누적 매출이 창사 이래 처음으로 1000억 원을 넘었다. 지난해 연간 매출(616억 원)도 웃돌았다. 단, 영업이익은 전년 동기 투자자산 처분이익 반영에 따른 기저효과 등으로 감소했지만 누적 기준 흑자를 유지했다.이번 매출 1000억 원 돌파는 올해 연결 편입한 금융 IT운영 전문기업 크레온유니티 인수를 통해 기존 보안 중심의 사업구조를 IT인프라 영역으"
+    },
+    {
+      "id": "df334bda32a7",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217465",
+      "published": "2026-11-16T09:06:58+00:00",
+      "summary": "미국 정부가 엔비디아와 오픈AI, 앤트로픽 등 주요 AI 기업 20여곳을 '국가 대표기업(National Champions)'으로 선정하고 해외 사업 수주를 지원할 계획이다. 반도체와 AI 모델, 클라우드 등을 하나로 묶어 수출하고 정부가 금융과 외교, 수출 허가 절차까지 지원하는 것으로, 중국과의 글로벌 AI 시장 경쟁에서 미국 기술의 영향력을 높이려는 전략이다.월스트리트저널(WSJ)은 15일(현지시간) 트럼프 행정부가 엔비디아를 비롯해 아마존, 마이크로소프트, 오픈AI, 앤트로픽 등 20여개 "
+    },
+    {
+      "id": "1805e4eddb35",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217463",
+      "published": "2026-11-16T09:00:00+00:00",
+      "summary": "1년 전 미국 기업들이 주도했던 영상 생성 모델 성능 평가에서 중국 기업들이 최상위권을 차지했다. 알리바바의 '완 3.0(Wan 3.0)'이 1위, 미니맥스의 오픈웨이트 모델 'H3'가 3위에 올랐으며, 바이트댄스의 '시댄스 2.5(Seedance 2.5)'도 4위를 기록했다.아티피셜 애널리시스(AA)의 13일 기준 음성 포함 텍스트·영상 생성 평가에서 알리바바 완 3.0이 1175점으로 1위를 차지했다.미국 유토파이 스튜디오의 '유토파이 X(Utopai X)'가 1170점으로 2위, 중국 미니맥"
+    },
+    {
+      "id": "2a455fb8e613",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217455",
+      "published": "2026-11-16T08:57:15+00:00",
+      "summary": "앤트그룹이 로봇이 손끝의 촉각 정보를 이해하고 물체를 잡는 힘까지 판단할 수 있도록 하는 AI 모델을 공개했다. 시각과 언어, 동작 생성에 이어 촉각까지 로봇 AI에 결합한 것으로, 열쇠로 자물쇠를 열거나 치약을 적절한 힘으로 짜는 등 섬세한 손동작을 구현할 수 있도록 했다.앤트그룹 산하 로비앤트(Robbyant)는 10일 촉각 기반 로봇 파운데이션 모델 '링봇 터치(LingBot-Touch)'를 오픈소스로 공개했다. 이 모델은 약 5000시간에 달하는 실제 촉각 데이터를 학습해 접촉 위치와 압력"
+    },
+    {
+      "id": "0011c89da5d1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "수주잔고 100배 폭증… 국내 AI 인프라 업계, 3분기 실적 '약진'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217462",
+      "published": "2026-11-16T08:38:33+00:00",
+      "summary": "국내 AI 인프라 서비스 기업들이 시장의 의구심과 우려 속에서도 3분기 들어 약진한 실적을 보이며 본격적인 성장곡선 진입에 대한 기대감을 높이고 있다. 다만, 아직은 1~2년 단기 계약과 정부사업 및 단일 고객 의존도가 높다는 제약도 향후 넘어야 할 과제로 제기되고 있다. 씨이랩(대표 윤세혁·채정환)은 올해 3분기 말 기준 수주잔고 3603억4000만원을 기록하며 전년 동기(35억3000만원) 대비 약 102배의 로켓 성장세를 보였다. 3분기 매출은 56억3000만원으로 46.5% 늘었고, 올해 "
+    },
+    {
+      "id": "2b6ac8394691",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217447",
+      "published": "2026-11-16T08:18:33+00:00",
+      "summary": "엔비디아가 사람의 작업 영상을 보고 새로운 동작을 학습하는 데 이어, 자신의 행동으로 주변 환경이 어떻게 변할지까지 예측하는 차세대 로봇 AI 모델 '그루트 2(GR00T 2)'를 공개했다. 새로운 작업 50개를 대상으로 한 실험에서 추가 시연 없이 평균 40%의 성공률을 기록했으며, 작업당 5회의 시연과 30분간의 추가 학습으로 성공률을 95%까지 높였다.엔비디아는 지난 9일(현지시간) 미국 오스틴에서 열린 로봇 학습 학회(CoRL)에서 그루트 2를 발표했다. 핵심은 로봇의 동작뿐 아니라 동작 "
+    },
+    {
+      "id": "41c62575ba50",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "같은 전남인데 저수율 52.5%p 차이…구례 33.5% 최저·여순광 86% 최고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217445",
+      "published": "2026-11-16T08:10:00+00:00",
+      "summary": "전남의 농업용 저수지 저수율이 관할 지역에 따라 최대 52.5%포인트 차이를 보였다. 구례 관할 저수지는 33.5%로 한국농어촌공사 전남지역본부 관할 중 가장 낮았고, 순천·광양·여수 관할은 86.0%로 가장 높았다.한국농어촌공사 농업기반시설관리시스템에 따르면 15일 오후 11시20분 기준 전남지역본부 관할 저수지 1047곳의 저수율은 48.4%로 집계됐다. 평년 저수율 63.2%보다 14.8%p 낮았으며, 지난해 같은 시기 71.9%와 비교하면 23.5%p 하락했다. 이 집계에는 광주 관할 저수"
+    },
+    {
+      "id": "197a213c005d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전력난·주민 반발에 AI 데이터센터 바다로…파력 발전까지 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217459",
+      "published": "2026-11-16T08:06:36+00:00",
+      "summary": "주민 반발과 전력·냉각수 확보 문제로 육상 데이터센터 건설이 어려워지면서 기업들이 바다로 눈을 돌리고 있다. 파도와 조류를 이용해 전력을 생산하고 바닷물로 서버를 냉각하는 해상 데이터센터는 아직 개발 초기 단계지만, 대규모 투자와 함께 상용화를 위한 실증 사업도 추진되고 있다.월스트리트저널(WSJ)은 14일(현지시간) 미국과 유럽, 일본 기업들이 해상 부유식 데이터센터와 해저 데이터센터 개발에 나서고 있다고 보도했다. 육상 데이터센터를 둘러싼 주민 반발과 전력망 연결 지연, 냉각수 부족 문제를 해"
+    },
+    {
+      "id": "6ca09de18052",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217456",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "■ 멋쟁이사자처럼(대표 나성영)은 베트남 호치민에 피지컬 AI 현장 데이터 거점 '피지컬 AI 데이터랩'을 개소했다고 밝혔다. 약 131㎡ 규모에 주방·세탁·조립 등 7개 작업 셀을 갖췄다. 작업자가 비전 장치·촉각 장갑 등 웨어러블 장비를 착용하고, 학습 데이터를 수집하는 방식이다. 해당 데이터랩은 국내 대학 연구실과 피지컬 AI 기업에도 개방될 예정이다.■ 그렙(대표 임성수)은 AI 시험 감독 솔루션 '모니토'의 AI 에이전트에 비전언어모델(VLM)을 적용해 부정행위 탐지 기능을 강화했다고 밝"
+    },
+    {
+      "id": "33330372e6f9",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황이 키운 동남아 AI 컴퓨팅 사업…미국 규제 강화에 위기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217446",
+      "published": "2026-11-16T07:59:26+00:00",
+      "summary": "젠슨 황 전 엔비디아 CEO가 미국의 첨단 반도체 수출 제한 속에서도 중국 고객을 유지하기 위해 동남아시아 데이터센터와 현지 클라우드 협력사 네트워크를 확대해 온 것으로 드러났다. 중국 기업들이 해외 데이터센터의 GPU를 원격으로 이용하는 사업이 급성장했지만, 최근 반도체 밀수 의혹과 미국의 규제 강화 움직임으로 사업 기반이 흔들리고 있다.월스트리트저널(WSJ)은 14일(현지시간) 황 전 CEO가 중국 고객들의 막대한 AI 컴퓨팅 수요를 확보하기 위해 동남아시아 클라우드 사업자들과 긴밀한 협력 관"
+    },
+    {
+      "id": "eb8ca300c984",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "전남광주, 호남·전라선 고속열차 우선 배정 건의...\"이용객 9.2% 증가에 따른 좌석난 해소\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217432",
+      "published": "2026-11-16T07:45:00+00:00",
+      "summary": "전남광주통합특별시가 2028년 말 평택~오송 2복선화 사업 완료 이후 늘어나는 고속열차 운행 물량을 호남선·전라선에 우선 배정해 달라고 정부에 건의할 계획이다. KTX·SRT 통합 이후 지역 주요 5개 역의 철도 이용객이 전년보다 9.2% 늘어난 가운데, 추가 증편의 주요 기반인 평택~오송 2복선화 사업은 지난 9월 기준 공정률 35.1%를 기록했다.전남광주통합특별시는 15일 광주송정·목포·나주·순천·여수엑스포역의 올해 9~10월 이용객이 311만5574명으로, 지난해 같은 기간보다 26만1320"
+    },
+    {
+      "id": "42979d9dbd02",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "중국 에이스, AI 보컬 음악 생성 세계 1위…수노 제쳤다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217452",
+      "published": "2026-11-16T07:43:33+00:00",
+      "summary": "중국 AI 기업들이 이미지와 영상 생성에 이어 음악 생성 분야에서도 존재감을 키우고 있다. AI 보컬 합성 기술을 앞세운 에이스 스튜디오가 글로벌 음악 생성 AI 평가에서 미국 수노를 앞지르며 시장 경쟁 구도에 변화를 예고했다. 중국 AI 음악 기업 에이스 스튜디오(ACE Studio)의 지난 10일(현지시간) 음악 생성 모델 ‘에이스 뮤직 v1(ACE Music v1)’이 글로벌 음악 생성 AI 평가에서 '수노(Suno)'를 제치고 1위에 올랐다.ACE Music v1 just hit #1 on"
+    },
+    {
+      "id": "b4d0a195846b",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "NULL 번호판을 쓴 사람의 최후",
+      "link": "https://www.youtube.com/shorts/1hg9POiarjE",
+      "published": "2026-11-16T06:00:36+00:00",
+      "summary": ""
+    },
     {
       "id": "e963b7260e64",
       "source": "AI타임스",
@@ -45,6 +309,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217436",
       "published": "2026-11-16T02:41:36+00:00",
       "summary": "싱가포르 클라우드 컴퓨팅 기업 메가스피드가 중국 스파이 의혹을 받는 전 임원 앨리스 황이 지난해 8월 퇴사했으며, 현재 회사에서 어떤 직책도 맡고 있지 않다고 밝혔다. 엔비디아의 고성능 AI 칩이 중국으로 우회 공급됐다는 의혹도 부인하고, 외부 법률 전문가를 선임해 관련 주장에 대한 조사에 나섰다고 설명했다.메가스피드는 15일(현지시간) CNBC 등에 보낸 성명에서 \"앨리스 황은 2025년 8월30일부로 공식 퇴사했으며 현재 회사에서 어떤 역할도 맡고 있지 않다\"라고 밝혔다. 사생활에 대해서는 언"
+    },
+    {
+      "id": "c4c3f08648b2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "link": "https://iter.ca/post/ubo-uxss/",
+      "published": "2026-11-16T02:04:48+00:00",
+      "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 350 # Comments: 98"
     },
     {
       "id": "ac3de5766ebd",
@@ -179,6 +454,17 @@
       "summary": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵심 원리와 함께 설명합니다. 이 책은 개발 환경과 운영 환경의 데이터 크기 차이로 인한 문제를 해결하고, AI 시대에 안정적인 배치 시스템을 구축하도록 안내합니다.상세보기 \"코딩 에이전트로 짠 배치 코드를 운영에 그대로 올려도 될까요?\" 최근 개발팀 단위로 들어오는 도서 문의에서 자주 함께 나오는 질문이"
     },
     {
+      "id": "47eaf004c28a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What's Next for Nvidia?",
+      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "published": "2026-11-15T23:55:55+00:00",
+      "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 256 # Comments: 330"
+    },
+    {
       "id": "4590b87cc640",
       "source": "TechCrunch",
       "kind": "article",
@@ -188,6 +474,17 @@
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
       "published": "2026-11-15T23:30:00+00:00",
       "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+    },
+    {
+      "id": "1ac2566c032a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Old Bitly links are being hijacked",
+      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "published": "2026-11-15T22:11:43+00:00",
+      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 280 # Comments: 144"
     },
     {
       "id": "1d8754cffe6e",
@@ -245,6 +542,28 @@
       "summary": "젠슨 황 전 엔비디아 CEO가 사임한 지 며칠 만에 측근들과 복귀 가능성을 논의하기 시작한 것으로 알려졌다. 실리콘밸리 주요 경영진은 복귀를 위한 조직적인 로비에 나서고 백악관의 지원까지 확보할 계획이다.파이낸셜타임스(FT)는 15일(현지시간) 복수의 소식통을 인용해 황 전 CEO가 측근들과 엔비디아 CEO 복귀 가능성을 논의하고 있다고 보도했다.황의 측근 한 명은 실리콘밸리 주요 경영진으로 구성된 '워룸(war room)'을 조직해 복귀 전략을 조율하고, 엔비디아 이사회를 설득하는 동시에 백악관"
     },
     {
+      "id": "969ea219ed01",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Handwriting, as a Font",
+      "link": "https://ductus.sorenblank.com",
+      "published": "2026-11-15T19:42:13+00:00",
+      "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 282 # Comments: 52"
+    },
+    {
+      "id": "623cf4de64ac",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "link": "https://bruceroettgers.eu/blog/protomaps/",
+      "published": "2026-11-15T19:26:22+00:00",
+      "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 330 # Comments: 56"
+    },
+    {
       "id": "b6eb3cfc1699",
       "source": "The Verge",
       "kind": "article",
@@ -278,6 +597,17 @@
       "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
     },
     {
+      "id": "5a59f082ae87",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Crows make decisions faster than we can",
+      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "published": "2026-11-15T17:53:31+00:00",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 237 # Comments: 161"
+    },
+    {
       "id": "372585993663",
       "source": "TechCrunch",
       "kind": "article",
@@ -298,6 +628,17 @@
       "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
       "published": "2026-11-15T16:59:16+00:00",
       "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying"
+    },
+    {
+      "id": "02621a49b429",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Emacs Is My Browser",
+      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "published": "2026-11-15T15:21:21+00:00",
+      "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 206 # Comments: 121"
     },
     {
       "id": "7a20787f7291",
@@ -38817,6 +39158,17 @@
       "category": "AI",
       "lang": "en",
       "title": "Jensen Huang visits Taiwan w/ Lex Fridman",
+      "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "published": "2026-10-13T21:26:16+00:00",
+      "summary": ""
+    },
+    {
+      "id": "c3eef2458829",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "Taiwan: Street Food with the CEO of a $5 Trillion Company | Jensen Huang and Lex Fridman",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "published": "2026-10-13T21:26:16+00:00",
       "summary": ""
