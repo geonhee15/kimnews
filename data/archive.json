@@ -1,7 +1,282 @@
 {
-  "updated_at": "2026-11-19T01:20:24.677507+00:00",
-  "count": 19857,
+  "updated_at": "2026-11-19T09:03:04.348354+00:00",
+  "count": 19887,
   "items": [
+    {
+      "id": "7b6a07d1cf46",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글 검색 AI 모드에 ‘임시 대화’ 추가…기록 저장·개인화 제외",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217572",
+      "published": "2026-11-19T08:40:32+00:00",
+      "summary": "구글이 검색 서비스의 AI 모드에 대화 기록과 개인화에 반영되지 않는 ‘임시 대화’ 기능을 추가했다. 일회성으로 검색한 내용이 기록에 남거나 이후 추천에 영향을 주지 않도록 선택할 수 있다.구글은 17일(현지시간) 공식 블로그를 통해 ‘임시 대화(Temporary threads)’를 전 세계에 차례로 도입한다고 밝혔다. 데스크톱과 모바일 브라우저가 대상이며, AI 모드가 지원하는 모든 언어에서 제공한다.사용자는 별도 설정 변경 없이 AI 모드 오른쪽 상단의 임시 대화 아이콘을 눌러 기능을 사용할 "
+    },
+    {
+      "id": "f982730b1f2c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217593",
+      "published": "2026-11-19T08:32:41+00:00",
+      "summary": "LG전자가 AI 데이터센터 냉각 전담 사업부를 신설하고 로봇 인재를 임원으로 발탁하는 등 LG그룹 주요 계열사가 2027년도 임원인사에서 AI 관련 부문을 강화했다.LG그룹은 19일 계열사별 이사회를 열고 2027년도 임원인사를 실시했다. 이번 임원인사에서는 AI 관련 인재 발탁이 눈에 띈다. LG전자는 AIDC 냉각과 로봇 분야 인재를, LG이노텍은 피지컬 AI와 반도체 기판 연구개발(R&D) 인력을, LG유플러스는 B2B AI 사업 책임자를 임원에 올렸다. 그룹 AI 연구 조직인 LG AI연구"
+    },
+    {
+      "id": "d8f85ee92a8b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "챗GPT 음성 받아쓰기 기능 개선...실시간 텍스트 변환·10분 녹음 제한 폐지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217580",
+      "published": "2026-11-19T08:30:53+00:00",
+      "summary": "오픈AI가 '챗GPT'의 음성 받아쓰기를 개선해 말하는 동안 변환된 문장을 화면에서 확인할 수 있도록 했다. 기존 10분 녹음 제한도 없애 긴 질문이나 설명을 음성으로 입력하기 편해졌다.오픈AI는 18일(현지시간) 공식 릴리스 노트를 통해 ‘라이브 받아쓰기(Live Dictation)’를 전 세계 모든 챗GPT 요금제에 차례로 배포한다고 밝혔다. iOS와 안드로이드, 웹, 데스크톱 앱이 대상이다.기존에는 녹음을 마친 뒤 텍스트 변환 결과를 기다려야 했다. 이번 업데이트에서는 사용자가 말하는 동안 "
+    },
+    {
+      "id": "8bfede497f12",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "허깅페이스, 코딩 에이전트 맞춤 어댑터 공개…'큐원' 고난도 평가 39%→65%",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217584",
+      "published": "2026-11-19T08:23:14+00:00",
+      "summary": "허깅페이스가 알리바바의 ‘큐원3.8-27B’를 특정 코딩 에이전트에 맞춰 추가 학습한 LoRA 어댑터를 공개했다. 'SWE-벤치 프로'의 고난도 51개 과제 평가에서 성공률을 39.2%에서 64.7%로 높이고 작업에 필요한 도구 호출도 줄였다는 설명이다.허깅페이스는 18일(현지시간) ‘큐원3.8-27B’용 LoRA 어댑터 ‘큐원3.8-27B-pi-adapted’를 공개했다.이 어댑터는 오픈소스 코딩 에이전트 도구인 ‘파이(pi)’에 최적화한 것으로, 기존 모델의 기본 구조와 가중치는 그대로 두고 "
+    },
+    {
+      "id": "836d2323b47b",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "인텔, 첨단 '18A-P' 공정 첫 외부 고객 확보…고객명 비공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217587",
+      "published": "2026-11-19T08:12:15+00:00",
+      "summary": "인텔이 첨단 반도체 제조 공정 ‘18A’의 성능 개선판인 ‘18A-P’에서 첫 외부 고객을 확보했다고 밝혔다. 외부 기업의 칩 생산을 확대하려는 파운드리 사업에서 성과를 냈지만, 고객명과 계약 규모·생산 일정은 공개하지 않았다.CNBC에 따르면 립부 탄 인텔 CEO는 18일(현지시간) 미국 텍사스주 오스틴에서 열린 ‘투모로우X 서밋’에서 “18A 생산에 직접 관여하고 있으며, 방금 첫 고객과 계약을 체결했다”고 말했다.푸슈카르 라나데 인텔 기술 책임자는 이후 고객이 선택한 공정은 기존 18A가 아"
+    },
+    {
+      "id": "515431f24550",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "메타, 주주 소송에 신주 발행 보류…AI 투자금 조달 계획 차질",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217588",
+      "published": "2026-11-19T08:01:30+00:00",
+      "summary": "메타가 투자자들의 소송으로 의결권 없는 ‘클래스 C’ 주식 발행 계획을 잠정 중단했다. AI 투자금을 조달하면서 마크 저커버그 CEO의 지배력을 유지하려던 자본 구조 개편에 제동이 걸렸다.파이낸셜타임스(FT)는 18일(현지시간) 메타가 델라웨어주 법원에 제출한 서류에서 관련 소송이 진행되는 동안 클래스 C 주식을 발행하지 않겠다고 밝혔다고 보도했다. 당초 새 주식의 거래는 내년 1월 시작할 계획이었다.캘리포니아주 교직원연금(CalSTRS)과 덴마크 연기금 PFA 등은 저커버그와 이사회가 일반 주주"
+    },
+    {
+      "id": "04863c45a19a",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "점점 더 진짜같아지는 AI 전화 근황",
+      "link": "https://www.youtube.com/shorts/pJUARFMJQUo",
+      "published": "2026-11-19T08:00:28+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2c95833de2e6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217576",
+      "published": "2026-11-19T07:56:26+00:00",
+      "summary": "중국군이 AI 기반 군사 역량을 강화하기 위해 엔비디아의 첨단 반도체 확보를 추진하고 있다는 미국 의회 자문기구의 보고서가 나왔다. 중국산 칩의 성능과 제조·소프트웨어 기술에 제약이 남아 있어, 미국의 수출 통제를 우회한 첨단 연산 자원 확보가 중요해졌다는 분석이다.미중경제안보검토위원회(USCC)는 18일(현지시간) 공개한 2026년 연례 보고서에서 중국 인민해방군이 무기와 지휘통제, 표적 식별, 군수 체계에 AI를 통합하는 ‘지능화 전쟁(Intelligentized Warfare)’을 추진하고 "
+    },
+    {
+      "id": "f22012c714a1",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다...AI 인사이트 협력 제휴",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217582",
+      "published": "2026-11-19T07:51:15+00:00",
+      "summary": "AI타임스와 영풍문고가 쏟아지는 AI 정보 속 신뢰할 수 있는 '지식과 지혜의 길라잡이'가 되기 위한 협력에 나선다.AI타임스와 영풍문고는 19일 서울 영풍문고 본사에서 상호협력을 위한 업무협약(MOU)을 맺고 서점의 도서 큐레이션 역량과 AI 전문매체의 저널리즘을 결합한 독자 서비스를 발굴, 제공하는데 협력하기로 했다.이번 협약으로 우선 영풍문고가 AI타임스에 연재 중인 ‘AI리더의 서가' 코너를 상설화해 협력 수위를 높인다. 이 코너는 AI산업·AI기술 등 AI타임스의 주요 기사 콘텐츠와 함께"
+    },
+    {
+      "id": "146a46674a8a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광주 의료AI 플랫폼 45억 고도화…병·의원 465곳 진료기록 백업 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217585",
+      "published": "2026-11-19T07:50:50+00:00",
+      "summary": "광주가 의료데이터를 저장·조회하는 기존 시스템을 병·의원의 진료기록 관리와 의료AI 기술 검증·유통까지 지원하는 플랫폼으로 고도화한다. 협력 병·의원 465곳의 진료기록 백업·복구 체계를 구축하고, AI 진단지원 솔루션 최소 15종을 유통플랫폼에 탑재하는 것이 핵심이다.19일 광주테크노파크의 조달공고와 과업지시서에 따르면 '클라우드기반 의료데이터 활용 통합플랫폼 고도화(2차)' 사업에 총 44억9788만원이 책정됐다. 지난 10월26일 공고했으며, 이달 18일부터 입찰서 접수를 시작했다. 사업기간"
+    },
+    {
+      "id": "c5e018acb6bf",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "여수, AI 데이터센터 유치 공식화…가뭄 겪은 산단, 전력·용수 부담은",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217583",
+      "published": "2026-11-19T07:50:05+00:00",
+      "summary": "전남광주 여수시가 AI 데이터센터 유치를 공식화했다. 여수는 과거 가뭄으로 산업용수 공급이 제한됐으며, 새 데이터센터가 들어서면 기존 산업 수요에 더해 추가적인 전력·용수 공급이 필요할 수 있다.여수시의회는 지난 17일 제259회 정례회 제2차 본회의에서 박숙희 의원이 대표발의한 '여수시 인공지능 데이터센터 유치 지원에 관한 조례안'을 원안 가결했다.조례안에는 후보 입지와 전력·용수 등 기반시설 확보 가능성 조사, 제조업 특화 데이터센터 유치 지원, 산업 연계사업 발굴 등이 담겼다.서영학 여수시장"
+    },
+    {
+      "id": "8b0efc1eb1ba",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217586",
+      "published": "2026-11-19T07:25:13+00:00",
+      "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역"
+    },
+    {
+      "id": "c5350f39b682",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217579",
+      "published": "2026-11-19T07:00:22+00:00",
+      "summary": "엔비디아가 로컬 AI 에이전트를 24시간 구동할 수 있는 ‘RTX 스파크(RTX Spark)’ 소형 데스크톱을 19일 글로벌 출시했다. 에이수스·델·MSI 등이 제품을 선보이며, 국내에서는 19일부터 에이수스 제품의 사전예약이 시작됐다.RTX 스파크 소형 데스크톱은 20코어 그레이스 CPU와 6144개 쿠다 코어의 블랙웰 RTX GPU, 최대 128GB 통합 메모리를 탑재해 최대 1페타플롭의 AI 성능을 낸다.또 1200억 매개변수 규모 대형언어모델(LLM)을 로컬에서 실행하고 90GB 이상 3D"
+    },
+    {
+      "id": "a769a699b88e",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "사람보다 낫다는 오픈웨이트 AI 말동무",
+      "link": "https://www.youtube.com/shorts/7M5wBtkX4BE",
+      "published": "2026-11-19T06:00:33+00:00",
+      "summary": ""
+    },
+    {
+      "id": "69a71baba03c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "자동차안전학회 설립 20주년…추계학술대회 개최",
+      "link": "https://zdnet.co.kr/view/?no=20261119094519",
+      "published": "2026-11-19T05:00:03+00:00",
+      "summary": "[지디넷코리아]사단법인 한국자동차모빌리티안전학회(KASA)는 19일부터 3일간 광주 김대중컨벤션센터에서 '2026 한국자동차모빌리티안전학회 추계학술대회'를 개최한다고 밝혔다. 이번 학술대회는 자동차 및 모빌리티 안전 분야의 학술·기술 발전과 산업 경쟁력 강화, 안전 문화 확산을 위해 마련됐다. 정부·산업계·학계·연구기관 및 언론계 관계자 등 500여 명이 참석해 미래 모빌리티 안전의 주요 현안을 논의했다.올해는 학회 설립 20주년을 맞아 자동차 안전 분야에서 축적해 온 성과를 돌아보고 미래 20년"
+    },
+    {
+      "id": "ad95cd78e097",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "지구 저궤도서 핵폭탄 터지면…7일 만에 위성 98% 무력화",
+      "link": "https://zdnet.co.kr/view/?no=20261119124305",
+      "published": "2026-11-19T04:37:40+00:00",
+      "summary": "[지디넷코리아]현재 지구 저궤도에는 약 1만 7776개의 인공위성이 떠 있어 민간 및 군사 분야의 핵심 기반 시설을 지원하는 거대한 네트워크를 형성하고 있다. 만약 누군가 지구 저궤도에서 핵폭탄을 터뜨린다면 어떤 일이 벌어질까?IT매체 기즈모도는 최근 미국 위스콘신-매디슨대학교와 프린스턴대학교 물리학자들이 수행한 관련 연구를 보도했다. 해당 논문은 논문 사전 공개 사이트 아카이브(arXiv)에 게재됐다. 이 논문은 아직 심사를 거치지는 않았다. 연구진은 다중 충돌 및 파편 발생 모델과 방사성 핵분"
+    },
+    {
+      "id": "3aec47db0352",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "크래프톤 '에이지 트위스터' 시연 느낌은...세대 넘는 모험 재미 극대화",
+      "link": "https://zdnet.co.kr/view/?no=20261118065859",
+      "published": "2026-11-19T04:34:01+00:00",
+      "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 크래프톤이 지스타 2026에서 선보인 신작 '에이지 트위스터'는 나이를 자유롭게 바꾸며 퍼즐을 해결하는 2인 협동 어드벤처 게임이다. 유년기부터 노년기까지 각 연령대에 따라 달라지는 능력을 활용하고, 두 플레이어가 협력해 장애물을 극복하는 방식이 특징이다.직접 체험한 에이지 트위스터는 협동 플레이의 재미가 확실한 게임이었다. 함께 플레이하는 상대방과 말을 맞춰가며 장애물을 통과하는 과정이 자연스럽게 몰입감을 높였다. 다만 귀여"
+    },
+    {
+      "id": "376780e320bd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "크래프톤 '타래: 언바운드' 해보니...호쾌한 동양풍 액션 합격점",
+      "link": "https://zdnet.co.kr/view/?no=20261118072911",
+      "published": "2026-11-19T04:16:26+00:00",
+      "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 크래프톤이 퍼블리싱하고 국내 게임 개발사 바운더리가 개발 중인 신작 '타래: 언바운드'는 동양의 전통 미학과 핵앤슬래시 장르의 전투를 결합한 액션 RPG다. 서양 중세 판타지를 배경으로 한 기존 작품들과 달리 동아시아의 역사와 신화를 재해석한 세계관을 앞세웠다.지스타 2026을 앞두고 직접 체험한 타래: 언바운드는 게임에 진입하는 순간부터 동양풍 분위기가 뚜렷하게 느껴졌다. 배경과 환경 디자인 전반에 동양적인 색채가 반영돼 작"
+    },
+    {
+      "id": "dc03384e2ef2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이세영 뤼튼 \"AI 캐릭터·스토리 플랫폼 크랙 IP, 게임·웹툰·영화 등 확장\"",
+      "link": "https://zdnet.co.kr/view/?no=20261119131456",
+      "published": "2026-11-19T04:15:35+00:00",
+      "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 이세영 뤼튼테크놀로지스 대표는 19일 부산 벡스코에 마련한 지스타 2026 크랙 간담회 자리서 ‘글로벌 컨슈머 AI 기업이 그리는 엔터테인먼트의 미래’를 주제로 발표했다.이 대표는 뤼튼이 지스타에 참가한 이유로 \"AI와 게임의 공통점인 상호작용\"을 꼽았다. 특히 이용자가 직접 참여하고 선택에 따라 결과가 달라진다는 점에서 AI 엔터테인먼트와 게임이 맞닿아 있다는 것이 이 대표의 설명이었다.또 이날 AI 캐릭터·스토리 플랫폼인 "
+    },
+    {
+      "id": "2ef5bb227ef5",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "정부, 드론 배터리 표준 제정 추진…\"기업 美 진출 지원\"",
+      "link": "https://zdnet.co.kr/view/?no=20261119125628",
+      "published": "2026-11-19T04:14:31+00:00",
+      "summary": "[지디넷코리아]산업통상부 국가기술표준원(이하 국표원)과 국방부는 군에서도 사용하는 소형드론의 배터리 크기와 성능시험 방법에 관한 한국산업표준(KS) 제정을 추진한다고 19일 밝혔다. 표준안은 미국의 드론 배터리 표준을 바탕으로 작성됐으며, 20일부터 60일간 예고고시를 통해 의견을 수렴한 뒤 내년 상반기 중 KS 제정을 완료할 계획이다.이번 표준화는 군에 필요한 드론 배터리를 안정적으로 확보하고, 국내 기업의 해외 시장 공급 기회 확대 등 생태계 활성화에 기여하기 위한 것이다. 국방부는 한미 드론"
+    },
+    {
+      "id": "0ef60594eb45",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "핵앤슬래시에 전략 요소 더했다…'POE2' 총괄 디렉터가 밝힌 1.0 청사진",
+      "link": "https://zdnet.co.kr/view/?no=20261119123000",
+      "published": "2026-11-19T03:45:01+00:00",
+      "summary": "[지디넷코리아]카카오게임즈가 국내 서비스를 맡고 있는 '패스 오브 엑자일2(POE2)'의 개발사 그라인딩 기어 게임즈(GGG)가 다음달 12일 정식 출시를 앞두고 신규 직업과 공성전 콘텐츠를 공개했다.GGG는 이번 정식 출시에서 기존 핵앤슬래시의 특징을 유지하면서도 다양한 전략 요소를 포함한 콘텐츠를 선보인다. 신규 직업과 공성전으로 전투 방식의 폭을 넓히고, 게임 전반의 밸런스를 조정해 완성도를 높인다는 계획이다.GGG는 19일 부산 광안리 호메로스 호텔에서 열린 미디어 간담회에서 정식 출시 버"
+    },
+    {
+      "id": "2827a47c9459",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엔씨, 스타트업과 10년 동행…지스타 부스 채운 슈퍼조이·지니소프트",
+      "link": "https://zdnet.co.kr/view/?no=20261119124316",
+      "published": "2026-11-19T03:43:16+00:00",
+      "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] HTML5 게임 플랫폼을 선보인 슈퍼조이와 슬링샷·덱빌딩을 결합한 공포 게임을 출품한 지니소프트가 지스타 2026에서 관람객과 만났다.19일 부산 벡스코 지스타 2026 B2C관에 마련된 '스타트업 with 엔씨' 부스에서는 두 기업이 준비한 게임을 직접 체험할 수 있다. 슈퍼조이는 플랫폼과 출품작을 시연하고 이용자 의견을 모으는 데, 지니소프트는 글로벌 시장을 겨냥해 만든 게임을 국내 관람객에게 알리는 데 초점을 맞췄다.슈퍼"
+    },
+    {
+      "id": "84b2e7a7bd86",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "뤼튼, AI시대 새로운 창작 생태계 제시 \"일의 시대에서 놀이의 시대로\"",
+      "link": "https://zdnet.co.kr/view/?no=20261119122756",
+      "published": "2026-11-19T03:38:00+00:00",
+      "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 인공지능(AI)이 기존 일자리를 대체한다는 우려가 가중되는 시기지만 AI가 새로운 직업을 만들어낼 수도 있다는 전망이 나왔다.이동재 뤼튼테크놀로지스 CPO는 19일 부산 벡스코에서 열린 지스타 2026 크랙 부스에서 ‘일이 사라진 자리에, 놀이를 만드는 직업’을 주제로 발표하며 AI 시대 콘텐츠 산업의 변화와 새로운 직업의 가능성을 제시했다.이 CPO는 AI 기술 발전으로 기존 노동시장이 변화하고, 노동시간이 줄어들면서 여가와"
+    },
+    {
+      "id": "e62417536eaf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "외국인 관광객 2000만 시대...K미용의료 강남언니 가입자도 1000만 넘어",
+      "link": "https://zdnet.co.kr/view/?no=20261119122804",
+      "published": "2026-11-19T03:28:04+00:00",
+      "summary": "[지디넷코리아]외국인 관광객의 국내 미용의료 수요가 증가하는 가운데 미용의료 플랫폼 '강남언니'의 글로벌 이용자가 1000만명을 넘어섰다. 한국 피부과와 성형외과를 찾는 외국인 이용자가 늘면서 해외 시장에서의 성장세도 빨라지고 있다.강남언니 운영사 힐링페이퍼는 국내외 누적 이용자가 1천40만명을 기록했다고 19일 밝혔다. 누적 앱 다운로드는 1600만건, 한국 미용의료 병원 예약은 1300만건을 넘어섰다.힐링페이퍼는 2019년 일본에 진출한 이후 태국과 중화권, 영미권 등으로 서비스를 확대해 왔다"
+    },
+    {
+      "id": "95eff268b4b0",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "GTA 6, Crime, Prison Gangs, Jewel Heists, Miami, Corrupt Cops & Money | Lex Fridman Podcast #505",
+      "link": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+      "published": "2026-11-19T03:15:09+00:00",
+      "summary": ""
+    },
     {
       "id": "f45057932c4e",
       "source": "TechCrunch",
@@ -12,6 +287,17 @@
       "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "published": "2026-11-19T00:42:56+00:00",
       "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+    },
+    {
+      "id": "055116303546",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "published": "2026-11-19T00:29:45+00:00",
+      "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 223 # Comments: 69"
     },
     {
       "id": "800d073790cf",
@@ -45,6 +331,28 @@
       "link": "https://zdnet.co.kr/view/?no=20261119085702",
       "published": "2026-11-18T23:57:02+00:00",
       "summary": "[지디넷코리아]넥센타이어가 실물 타이어를 만들기 전에 가상 환경에서 설계와 성능을 검증하는 개발 방식을 확대하고 있다.넥센타이어는 체코 프라하에서 열린 '퓨처 타이어 콘퍼런스 2026'에서 인공지능(AI)을 활용한 타이어 개발 체계를 소개했다고 19일 밝혔다. 김종명 중앙연구소장이 기조연설을 맡았다.개발 과정은 수천 개 설계안을 단계적으로 평가해 최종 후보를 선정하는 구조다. AI가 설계 후보와 예상 성능을 제시하면, 타이어 변형과 응력 등을 계산하는 유한요소해석(FEA)으로 수백 개를 추린다. "
+    },
+    {
+      "id": "256d7fa3d966",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "We need smart people who give a shit",
+      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "published": "2026-11-18T23:53:49+00:00",
+      "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 524 # Comments: 268"
+    },
+    {
+      "id": "d7a1158c897a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "published": "2026-11-18T23:52:50+00:00",
+      "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 236 # Comments: 80"
     },
     {
       "id": "60f7a07b439f",
@@ -207,6 +515,17 @@
       "category": "TECH",
       "lang": "en",
       "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "published": "2026-11-18T22:11:15+00:00",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+    },
+    {
+      "id": "753d8d1836d7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "published": "2026-11-18T22:11:15+00:00",
       "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
@@ -375,6 +694,17 @@
       "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
       "published": "2026-11-18T19:00:00+00:00",
       "summary": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports."
+    },
+    {
+      "id": "ad6665492f04",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Genie 4 is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "published": "2026-11-18T18:49:51+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 246 # Comments: 162"
     },
     {
       "id": "314a774d5ef5",
