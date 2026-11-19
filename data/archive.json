@@ -1,7 +1,359 @@
 {
-  "updated_at": "2026-11-18T19:17:02.642181+00:00",
-  "count": 19819,
+  "updated_at": "2026-11-19T01:20:24.677507+00:00",
+  "count": 19857,
   "items": [
+    {
+      "id": "f45057932c4e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "published": "2026-11-19T00:42:56+00:00",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect."
+    },
+    {
+      "id": "800d073790cf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[기고] 피지컬 AI 승부처는 '두뇌'가 아니라 '시스템 전체'",
+      "link": "https://zdnet.co.kr/view/?no=20261118090735",
+      "published": "2026-11-19T00:00:01+00:00",
+      "summary": "[지디넷코리아]피지컬 인공지능(AI) 경쟁 무게중심이 이동하고 있다. 이제 관건은 거대 AI 모델이 얼마나 정교하게 추론하느냐를 넘어, 그 판단을 물리적 현실 세계에서 얼마나 빠르고 안정적으로 실행하느냐에 있다. 연구실 시제품으로 가능성을 증명하는 것과, 지속적으로 가동하는 제조·물류 현장에서 신뢰성 있게 작동하는 시스템을 구현하는 것은 차원이 다른 과제다. 기계는 주변환경을 정확하게 감지하고 상황을 해석한 뒤, 그 결과를 즉시 정밀한 움직임으로 옮겨야 한다. 이 모든 과정은 극도로 제한된 전력과"
+    },
+    {
+      "id": "7688739ab3df",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] 강화학습 기본과 PyTorch 제2판",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217285",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "강화학습 기본과 PyTorch 제2판추상목 | 자유아카데미2026년 8월 31일추천이유저자가 환경과 에이전트의 개념부터 시작하여 그림으로 이해하고 수식으로 구조를 확인한 뒤 코드로 마무리하는 단계적 학습 방식을 제시합니다. 강화학습의 기본 이론부터 심화까지 체계적으로 익힐 수 있도록 구성되었습니다.상세보기 매장 도서 검색대에서 '강화학습'을 찾는 손님이 다시 늘었다는 전언이 있다. 언어 모델 정렬에 쓰이는 RLHF와 로봇 제어가 화제가 되면서, 한때 알파고의 기술로만 알려졌던 분야를 다시 공부하려"
+    },
+    {
+      "id": "2921099e6ec1",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 설계하고 엔지니어가 고른다…넥센타이어, 개발 방식 전환",
+      "link": "https://zdnet.co.kr/view/?no=20261119085702",
+      "published": "2026-11-18T23:57:02+00:00",
+      "summary": "[지디넷코리아]넥센타이어가 실물 타이어를 만들기 전에 가상 환경에서 설계와 성능을 검증하는 개발 방식을 확대하고 있다.넥센타이어는 체코 프라하에서 열린 '퓨처 타이어 콘퍼런스 2026'에서 인공지능(AI)을 활용한 타이어 개발 체계를 소개했다고 19일 밝혔다. 김종명 중앙연구소장이 기조연설을 맡았다.개발 과정은 수천 개 설계안을 단계적으로 평가해 최종 후보를 선정하는 구조다. AI가 설계 후보와 예상 성능을 제시하면, 타이어 변형과 응력 등을 계산하는 유한요소해석(FEA)으로 수백 개를 추린다. "
+    },
+    {
+      "id": "60f7a07b439f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한온시스템, 인도서 전기차 열관리 사업 확대 모색",
+      "link": "https://zdnet.co.kr/view/?no=20261119085232",
+      "published": "2026-11-18T23:52:32+00:00",
+      "summary": "[지디넷코리아]한온시스템이 여러 열관리 기능을 하나로 묶는 기술을 앞세워 인도 완성차 업체와 협력 확대를 모색한다.한온시스템은 인도 마힌드라 앤 마힌드라와 마루티 스즈키를 대상으로 테크쇼를 열고 차량용 열관리 기술과 제품을 소개했다고 19일 밝혔다.행사는 지난 10월 5일 첸나이의 마힌드라 리서치 밸리와 12일 구루그람 마루티 스즈키 TAG 오피스에서 각각 진행됐다. 고객사 경영진과 연구개발·구매 담당자들이 참석해 현지 차량에 적용할 기술과 신규 제품 협력 가능성을 살폈다.한온시스템은 고효율 공조"
+    },
+    {
+      "id": "723f204b3c44",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "YCS, 인도서 신분증 복사 없는 모바일 호텔 체크인 선보여",
+      "link": "https://zdnet.co.kr/view/?no=20261119083944",
+      "published": "2026-11-18T23:51:37+00:00",
+      "summary": "[지디넷코리아]야놀자그룹의 글로벌 호스피탈리티 솔루션 멤버사 야놀자클라우드솔루션(이하 YCS)이 인도에서 신분증 복사 없이 휴대전화로 본인 확인을 마칠 수 있는 디지털 호텔 체크인 서비스를 선보인다. 19일 회사에 따르면, YCS는 호텔운영시스템(PMS) 인도 고유식별청(UIDAI)의 오프라인 본인확인수행기관(OVSE) 등록을 마쳤다. OVSE는 UIDAI의 중앙 데이터베이스에 직접 접속하지 않고도 이용자가 제공한 신원정보의 진위를 확인할 수 있도록 등록된 기관을 뜻한다. YCS는 이번 등록을 토"
+    },
+    {
+      "id": "8e5d2c447699",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "갤럭시도 차 키로…폴스타 4, 디지털 키 구글·삼성 호환 기기로 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261119084659",
+      "published": "2026-11-18T23:46:59+00:00",
+      "summary": "[지디넷코리아]폴스타가 폴스타4 소프트웨어를 업데이트해 스마트폰 키부터 캠핑·주차까지 차량 활용 기능을 넓힌다.폴스타는 19일 전기 SUV 폴스타4에 운영체제 업그레이드와 신규 편의 기능을 포함한 무선 소프트웨어 업데이트(OTA)를 실시한다고 밝혔다. 디지털 키는 애플 기기뿐 아니라 구글과 삼성의 호환 안드로이드 기기에서도 사용할 수 있게 된다. 스마트폰으로 문을 잠그거나 열고 시동을 거는 기능으로, 지원 기기 확대에 맞춰 순차적으로 활성화한다. 기존 디지털 키 작동 성능도 개선한다.차량을 이용하"
+    },
+    {
+      "id": "ba416d0b54ad",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "published": "2026-11-18T23:45:00+00:00",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+    },
+    {
+      "id": "1a9b0dc9f914",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"아이폰 듀오2, 7.6인치 화면·터치ID 그대로\"",
+      "link": "https://zdnet.co.kr/view/?no=20261119080507",
+      "published": "2026-11-18T23:40:22+00:00",
+      "summary": "[지디넷코리아]애플의 2세대 폴더블폰 '아이폰 듀오'가 1세대 제품과 동일한 화면 크기와 터치ID 기반 지문 인식 센서를 유지할 가능성이 제기됐다.IT매체 맥루머스 등 외신은 18일(현지시간) 유명 IT 팁스터 디지털챗스테이션을 인용해 이같이 보도했다.디지털챗스테이션은 웨이보를 통해 \"아이폰 듀오2에 관한 정보는 아직 제한적이지만, 엔지니어링 시제품에는 7.6인치 내부 디스플레이와 5.4인치 외부 디스플레이, 측면 지문 인식 센서가 탑재돼 있다\"고 밝혔다. 이어 \"페이스ID가 추가될 것이라는 확실"
+    },
+    {
+      "id": "44e1b0e3fe25",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "구글, 세계 3위 성능 '제미나이 4 네온' 출시…작업 비용 32% 절감",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217546",
+      "published": "2026-11-18T23:39:28+00:00",
+      "summary": "구글이 최상위 모델에 가까운 성능을 유지하면서 복잡한 업무의 처리 비용을 낮춘 '제미나이 4 네온(Gemini 4 Neon)'을 출시했다. 종합 지능 평가에서 기존 '제미나이 4 카본'을 소폭 앞섰으며, 코딩과 기업 업무 자동화, 과학 연구 등 다양한 분야에서 높은 성능을 기록한 것이 특징이다.구글은 18일(현지시간) 공식 블로그를 통해 제미나이 4 제품군의 새로운 모델인 네온을 공개했다.네온은 복잡하고 장시간에 걸친 작업에 특화한 카본과 빠른 일상 업무를 처리하는 '하이드로젠(Hydrogen)'"
+    },
+    {
+      "id": "5a29dbdd1252",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 없앤 건 신입일까, 잠재적 경력자일까",
+      "link": "https://zdnet.co.kr/view/?no=20261118223602",
+      "published": "2026-11-18T23:30:01+00:00",
+      "summary": "[지디넷코리아]'HR을 부탁해'는 일과 사람에 대한 고민을 가진 이 시대 직장인 모두를 위한 기획 연재물입니다. 다방면에서 활약 중인 HR 전문가들이 인적자원 관련 최신 트렌드와 인사이트를 전달합니다.[편집자 주]16년간 헤드헌팅을 하면서 채용시장에도 유행이 있다는 사실을 숱하게 경험했다. 개발자와 데이터 전문가를 확보하려는 경쟁이 치열했던 시절이 있었고, 디지털 전환(DX)에 이어 AI 전환(AX) 인재가 주목받았다. 한 명의 우수 후보자에게 여러 기업이 동시에 입사를 제안하고, 후보자가 연봉뿐"
+    },
+    {
+      "id": "c6b82ad7502e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카본블랙 육성 'DDD', 엔비디아 로봇 AI 대회서 2위 달성",
+      "link": "https://zdnet.co.kr/view/?no=20261118190150",
+      "published": "2026-11-18T23:28:43+00:00",
+      "summary": "[지디넷코리아]국내 피지컬 인공지능(AI) 분야 예비 창업팀 DDD는 엔비디아 주최 국제 로봇 인공지능(AI) 기술 대회에서 세계 2위를 차지했다고 18일 밝혔다.DDD팀은 벤처스튜디오 기업 카본블랙이 투자·육성하고 있는 팀이다.엔비디아가 올해 처음 개최한 '비디오 투 데이터(V2D) 챌린지'는 사람이 작업하는 일반 영상을 로봇 학습용 데이터로 얼마나 정확하게 변환하는지 겨루는 대회다. 수상 결과는 지난 13일 국제 로봇학습 학회 'CoRL 2026' 엔비디아 세션에서 발표됐다.DDD팀은 실제 영"
+    },
+    {
+      "id": "1d45213536bb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "published": "2026-11-18T23:18:35+00:00",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere"
+    },
+    {
+      "id": "0bfd8752ec0c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "먹거리 쟁이고 발전기까지… 美 전산 장애에 코스트코 ‘반사이익’",
+      "link": "https://zdnet.co.kr/view/?no=20261119081204",
+      "published": "2026-11-18T23:18:20+00:00",
+      "summary": "[지디넷코리아]미국에서 항공·금융·통신 분야의 전산 장애가 잇따르면서 소비자들이 식료품과 발전기 등 비상용품 비축에 나서고 있다. 소셜미디어(SNS)를 통해 불안감이 확산하는 가운데 창고형 할인점 코스트코가 반사이익을 보고 있다는 분석이 나왔다.18일(현지시간) CNBC에 따르면 미즈호증권은 코스트코의 10월 마지막 주 미국 내 휘발유 제외 기존점 매출이 전년 동기 대비 11~12% 증가한 것으로 추정했다. 같은 달 첫 3주간 증가율인 6~7%를 크게 웃도는 수준이다. 코스트코가 발표한 10월 전"
+    },
+    {
+      "id": "efed592e14dc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "published": "2026-11-18T23:17:28+00:00",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+    },
+    {
+      "id": "d511f1175b92",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"전문가가 먼저보고 AI가 이중 점검”…HCG, 연말정산 효율성↑",
+      "link": "https://zdnet.co.kr/view/?no=20261119081651",
+      "published": "2026-11-18T23:16:51+00:00",
+      "summary": "[지디넷코리아]휴먼컨설팅그룹(이하 HCG)이 연말정산 아웃소싱 서비스에 생성형 인공지능(AI) 기반 2차 검증 기능을 단계적으로 도입하며 연말정산 업무의 정확도와 효율성 제고에 나선다.19일 회사에 따르면, AI 2차 검증은 HCG의 연말정산 전문 인력이 1차로 처리한 업무를 AI가 다시 한번 점검하는 이중 검증 방식이다. 공제 신청과 증빙 서류 검토가 집중되는 연말정산 기간에 검토 누락을 최소화하고 정산 정확도를 한층 끌어올리기 위해 마련됐다. HCG는 AI 문서 판독 기술과 연말정산 전문가의 "
+    },
+    {
+      "id": "47535ec34bba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "published": "2026-11-18T22:58:11+00:00",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+    },
+    {
+      "id": "354f91c12647",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "link": "https://www.wired.com/story/guys-really-we-got-this/",
+      "published": "2026-11-18T22:16:23+00:00",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control."
+    },
+    {
+      "id": "cab8a54f4b17",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "published": "2026-11-18T22:11:15+00:00",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+    },
+    {
+      "id": "bd44db74fc85",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "엔비디아, 첫 직원회의서 \"앞으로 나아가자\"…황 복귀 배제",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217545",
+      "published": "2026-11-18T22:00:24+00:00",
+      "summary": "엔비디아가 젠슨 황 전 CEO의 퇴임 이후 처음 열린 전 직원회의에서 새로운 경영 체제로의 전환을 강조했다. 일부 직원들이 황의 복귀를 요구하는 가운데 경영진은 복귀 불가 방침을 재확인하고, 기존 사업 전략을 유지하겠다고 약속했으며 임금 인상과 주식 보상 일정도 앞당기기로 했다.블룸버그와 뉴욕타임스(NYT), CNBC 등은 18일(현지시간) 엔비디아가 미국 캘리포니아주 산타클라라 본사에서 콜레트 크레스 임시 CEO와 하비 존스 이사회 의장 등 주요 경영진이 참석한 가운데 약 1시간 동안 전 직원회"
+    },
+    {
+      "id": "a0e7fa02ca9f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217524",
+      "published": "2026-11-18T22:00:00+00:00",
+      "summary": "미국에서 항공관제와 은행, 마이크로소프트(MS), 애플, 국가안보국(NSA)까지 주요 시스템이 잇따라 마비되면서 기술에 대한 불안감이 커지고 있습니다. 사이버 공격이나 AI가 원인이라는 증거는 없지만, 최근 AI의 소프트웨어 취약점 발견 능력이 급격히 발전하고 실제 브라우저 보안 사고까지 발생한 상황에서 AI를 이용한 대규모 사이버 공격에 대한 공포도 커지고 있다는 점이 주목됩니다.주요 외신은 지난주부터 미국 전역에서 발생한 연쇄 시스템 장애가 항공 여행과 금융 거래, 기업 업무에 큰 차질을 일으"
+    },
+    {
+      "id": "3f8406d85ff4",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "published": "2026-11-18T22:00:00+00:00",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say."
+    },
+    {
+      "id": "e2a205d8a5d4",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "published": "2026-11-18T21:57:40+00:00",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
+    },
+    {
+      "id": "037d3963f9bd",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "published": "2026-11-18T21:35:43+00:00",
+      "summary": ""
+    },
+    {
+      "id": "61a5a2c571cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "published": "2026-11-18T21:34:13+00:00",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
+    },
+    {
+      "id": "a08011614436",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Gemini 4 Neon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "published": "2026-11-18T21:34:07+00:00",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 401 # Comments: 380"
+    },
+    {
+      "id": "4da43f39644d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "published": "2026-11-18T21:31:21+00:00",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
+    },
+    {
+      "id": "be81a33d795a",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Absolute Batman can save DC Studios",
+      "link": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "published": "2026-11-18T21:20:00+00:00",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature "
+    },
+    {
+      "id": "083c0d247290",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "published": "2026-11-18T21:15:00+00:00",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing."
+    },
+    {
+      "id": "7babcd7c7b40",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "published": "2026-11-18T19:40:36+00:00",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ral"
+    },
+    {
+      "id": "62e55a8131f8",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia’s rise, visualized",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "published": "2026-11-18T19:30:00+00:00",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary found"
+    },
+    {
+      "id": "74272d92b403",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "published": "2026-11-18T19:19:33+00:00",
+      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says."
+    },
     {
       "id": "fe5ef0c602cc",
       "source": "The Verge",
@@ -113,6 +465,17 @@
       "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649."
     },
     {
+      "id": "58152e965947",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The MacBook Neo Is on Sale Ahead of Black Friday (2026)",
+      "link": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
+      "published": "2026-11-18T17:47:23+00:00",
+      "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649."
+    },
+    {
       "id": "48f08b410f65",
       "source": "Wired",
       "kind": "article",
@@ -212,6 +575,17 @@
       "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 243 # Comments: 162"
     },
     {
+      "id": "ecfb0025e769",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "published": "2026-11-18T15:49:34+00:00",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 345 # Comments: 153"
+    },
+    {
       "id": "5a0c62142896",
       "source": "Hacker News",
       "kind": "article",
@@ -234,6 +608,17 @@
       "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 499 # Comments: 175"
     },
     {
+      "id": "56145cd9e914",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "published": "2026-11-18T15:19:55+00:00",
+      "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 1118 # Comments: 498"
+    },
+    {
       "id": "911c732b4208",
       "source": "Hacker News",
       "kind": "article",
@@ -254,6 +639,17 @@
       "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
       "published": "2026-11-18T15:02:40+00:00",
       "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI."
+    },
+    {
+      "id": "5b9593845c56",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "published": "2026-11-18T14:43:52+00:00",
+      "summary": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 232 # Comments: 170"
     },
     {
       "id": "b0b4dc5c65aa",
@@ -465,6 +861,17 @@
       "summary": ""
     },
     {
+      "id": "bc91092c95e5",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published": "2026-11-18T10:54:56+00:00",
+      "summary": ""
+    },
+    {
       "id": "bcfa989cdeb4",
       "source": "MIT Tech Review",
       "kind": "article",
@@ -592,6 +999,17 @@
       "category": "AI",
       "lang": "ko",
       "title": "앤트로픽·오픈AI 등 주요 모델, ‘게임’으로 속이자 민간인까지 군사 표적으로 식별",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217523",
+      "published": "2026-11-18T09:15:13+00:00",
+      "summary": "앤트로픽과 오픈AI, 구글, 딥시크 등 주요 AI 기업의 모델이 간단한 프롬프트 조작만으로 민간인과 학교까지 군사 표적으로 식별하는 것으로 나타났다. 전쟁 상황을 '게임'이라고 설명하면 안전장치를 우회하는 사례도 확인돼 AI의 군사적 오용을 막기 위한 추가 대책이 필요하다는 지적이다.미국 AI 평가 스타트업 발스 AI(Vals AI)는 17일(현지시간) 연구 보고서에서 주요 AI 모델을 대상으로 드론과 위성 이미지 속 군사 표적을 식별하도록 하는 실험을 진행했다고 밝혔다. 발스는 미국 정부를 대상"
+    },
+    {
+      "id": "01637756e93f",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽·오픈AI 모델, ‘게임’으로 속이자 민간인을 군사 표적으로 식별",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217523",
       "published": "2026-11-18T09:15:13+00:00",
       "summary": "앤트로픽과 오픈AI, 구글, 딥시크 등 주요 AI 기업의 모델이 간단한 프롬프트 조작만으로 민간인과 학교까지 군사 표적으로 식별하는 것으로 나타났다. 전쟁 상황을 '게임'이라고 설명하면 안전장치를 우회하는 사례도 확인돼 AI의 군사적 오용을 막기 위한 추가 대책이 필요하다는 지적이다.미국 AI 평가 스타트업 발스 AI(Vals AI)는 17일(현지시간) 연구 보고서에서 주요 AI 모델을 대상으로 드론과 위성 이미지 속 군사 표적을 식별하도록 하는 실험을 진행했다고 밝혔다. 발스는 미국 정부를 대상"
