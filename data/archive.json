@@ -1,7 +1,238 @@
 {
-  "updated_at": "2026-11-22T03:30:38.274260+00:00",
-  "count": 20169,
+  "updated_at": "2026-11-22T11:52:55.811976+00:00",
+  "count": 20192,
   "items": [
+    {
+      "id": "f95a23fada89",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "요즘 먹히는 숏폼 광고 4개 뚝딱 만들기 ⚡️10분컷",
+      "link": "https://www.youtube.com/watch?v=p5Fj3dWSSmU",
+      "published": "2026-11-22T11:15:04+00:00",
+      "summary": ""
+    },
+    {
+      "id": "2dd11c458878",
+      "source": "조코딩",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "IT뉴스 - 리만가설 증명됐다, GPT-6.2 Astra, Gemini 4 Neon, Inkling 2 Mini, Qwen4-Max, FSD v15 등",
+      "link": "https://www.youtube.com/watch?v=hMXOsa3eO-8",
+      "published": "2026-11-22T11:00:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "6c620350e5da",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "published": "2026-11-22T11:00:00+00:00",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem."
+    },
+    {
+      "id": "77e80e7002d2",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "published": "2026-11-22T10:30:00+00:00",
+      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start."
+    },
+    {
+      "id": "5344cd446d7f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "published": "2026-11-22T10:00:00+00:00",
+      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat."
+    },
+    {
+      "id": "2821c3f73300",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "알트먼, 메타의 딥페이크 영상에 등장…메타 \"정책 위반 아니다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217664",
+      "published": "2026-11-22T09:30:43+00:00",
+      "summary": "메타의 최고AI책임자(CAIO)가 경쟁사 오픈AI의 샘 알트먼 CEO를 등장시킨 AI 딥페이크 영상을 소셜미디어에 게시해 눈길을 끌고 있다. 메타의 AI 에이전트를 홍보하면서 경쟁사 수장을 희화화한 것으로, 메타는 해당 영상이 AI 생성 콘텐츠임을 표시했기 때문에 자사 정책에 어긋나지 않는다고 밝혔다.더 버지는 최근 알렉산더 왕 메타 CAIO가 이달 초 인스타그램에 게시한 영상이 경쟁사 CEO의 모습을 AI로 합성한 콘텐츠라는 점에 주목했다. 왕 CAO는 메타의 소비자용 AI 에이전트 '뮤즈(Mu"
+    },
+    {
+      "id": "651d88766e76",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[안광섭 AI 진테제] AI칩을 사는 곳이 바뀌었다",
+      "link": "https://zdnet.co.kr/view/?no=20261122175852",
+      "published": "2026-11-22T08:58:52+00:00",
+      "summary": "[지디넷코리아]2026년 가을 AI 인프라 시장에서 가장 먼저 흔들린 곳은 네오클라우드다. 네오클라우드는 빚을 내 엔비디아 칩을 사고, 그 칩을 AI 기업에 빌려주는 GPU 임대 전문 클라우드다. 코어위브·네비우스·IREN의 주가는 10월 한 달 동안 각각 30% 넘게 떨어졌다. 11월 17일(현지시간)에는 엔비디아가 실적 발표에서 네오클라우드를 선별해 지원하겠다는 뜻을 밝혔다.그런데 AI 칩과 데이터센터를 사는 돈은 줄지 않았다. 사는 쪽이 바뀌었다. 트레이딩 회사 제인스트리트는 올해에만 약 1"
+    },
+    {
+      "id": "340c31322e30",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI \"AI가 연구 작업 절반 스스로 완료\"…7개월 만에 성공률 2배",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+      "published": "2026-11-22T08:25:00+00:00",
+      "summary": "오픈AI의 에이전트가 인간에게 2~4시간 걸리는 AI 연구 작업을 스스로 완료하는 비율이 7개월 만에 23%에서 46%로 높아진 것으로 나타났다. 연구자들은 AI 덕분에 생산성이 크게 높아졌다고 평가했지만, 새로운 연구 아이디어를 구상하고 중요한 결정을 내리는 역할은 여전히 인간이 담당하는 것으로 조사됐다.오픈AI는 18일(현지시간) AI가 사내 연구개발을 얼마나 빠르게 변화시키고 있는지 분석한 두 번째 연구 가속 보고서 '들쭉날쭉한 프론티어(The Jagged Frontier)'를 공개했다. 지"
+    },
+    {
+      "id": "9af7669b4f7d",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI 이슈트렌드] 수능 AI 부정행위 논란 속 한덕수 판결 주목…앤트로픽 상장에도 기술주 약세",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217662",
+      "published": "2026-11-22T08:23:16+00:00",
+      "summary": "AI타임스와 이스트에이드의 11월 셋째 주(11월13~19일) 이슈 분석 결과, 수능을 비롯한 각종 시험의 AI 부정행위 논란과 한덕수 전 국무총리 내란 선고, 앤트로픽 상장에도 이어진 기술주 약세 등이 주요 관심사로 나타났다.이번 주 검색량 1위는 '수능 스마트기기 반납(4.07%)'이 차지했다. 세무사·법학적성시험(LEET·리트) 등 각종 시험에서 AI 부정행위 논란이 잇따르자, 정부가 대대적인 대응에 나섰다.올해 대학수학능력시험(수능)에서는 전자기기 관련 부정행위가 111건 적발된 것으로 나"
+    },
+    {
+      "id": "55c62b9eb5ed",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황의 '악수 거래', 엔비디아 경영 위험으로…공급망 유지 시험대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217663",
+      "published": "2026-11-22T08:17:00+00:00",
+      "summary": "젠슨 황 전 엔비디아 CEO의 개인적 신뢰에 기반한 거래 방식이 그의 퇴진 이후 새로운 경영 위험으로 떠올랐다. 주요 공급업체와 정식 계약보다 개인적 관계를 중시했던 만큼, 엔비디아가 기존 공급망과 투자 관계를 안정적으로 유지할 수 있을지가 과제로 제기됐다.월스트리트저널(WSJ)은 21일(현지시간) 이러한 비공식 거래 관계가 엔비디아의 기업 지배구조와 사업 지속성에 대한 의문으로 이어지고 있다고 지적했다.이 문제를 공개적으로 제기한 인물은 엔비디아의 주요 고객인 일론 머스크 CEO다. 머스크는 최"
+    },
+    {
+      "id": "83806659eb38",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "유수연 네이션에이 대표 \"AI 영상 무제한 생성…비용 경쟁력으로 승부\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217427",
+      "published": "2026-11-22T07:00:00+00:00",
+      "summary": "\"3분짜리 홍보 영상을 만드는 데 50만원이 들었어요. AI 드라마 연재를 위해 일주일에 300만원 넘게 써요.\"AI 영상 생성 품질은 크게 향상됐지만, 원하는 결과를 얻으려면 여전히 생성을 반복해야 한다. 대다수 서비스가 영상 생성 시 크레딧을 차감하는 종량제이기 때문에 수정과 재생성을 거듭할수록 비용이 늘어난다.AI 영상 생성 플랫폼 '러다이트(Ludyte)'를 운영하는 유수연 네이션에이 대표는 이러한 비용 문제를 해결하기 위해 월정액 무제한 생성 방식을 도입했다. 외부 모델 API 대신 자체"
+    },
+    {
+      "id": "a9ec742accd3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "\"토큰값 반값인데 AI 청구서는 더 커졌다\"",
+      "link": "https://zdnet.co.kr/view/?no=20261122153419",
+      "published": "2026-11-22T06:34:19+00:00",
+      "summary": "[지디넷코리아]AI 토큰 단가는 떨어지는데 기업이 받아드는 AI 청구서는 오히려 커지고 있다. AI 가격이 싸질수록 비용 때문에 미뤄뒀던 어려운 업무까지 AI에 맡기면서 사용량이 폭발적으로 늘기 때문이다.강정수 블루닷에이아이 AI연구센터장은 최근 SK텔레콤 뉴스룸에 실은 칼럼에서 “한 번 처리하는 비용이 절반으로 줄어도 처리 횟수가 열 배가 되면 청구서는 다섯 배로 커진다”고 지적했다.오픈AI는 지난 9월 ‘GPT-6 Sol’을 내놓으며 기업용 API 이용료를 이전 모델보다 50% 낮췄다. 그럼에"
+    },
+    {
+      "id": "03c12f01fb4e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "스카이라이프+HCN...유료방송 생존 개편이 남긴 과제",
+      "link": "https://zdnet.co.kr/view/?no=20261122152936",
+      "published": "2026-11-22T06:29:36+00:00",
+      "summary": "[지디넷코리아]KT가 위성방송을 운영하는 KT스카이라이프와 케이블TV 사업을 맡은 KT HCN을 한 법인으로 통합한다. 박윤영 사장 체제의 KT가 검토해 온 그룹 사업 포트폴리오 개편 방안 가운데 가장 먼저 발표된 계열사 합병이다.박 사장이 CEO로 취임한 지 7개월여 만에 나온 결정이다. 특히 내달 초 그룹 인사와 조직개편을 앞두고 별도로 발표됐다는 점이 이목을 끈다. 굳이 미룰 이유가 없는 사업적 판단이었다는 해석에 무게가 실리는 대목이다.이번 합병이 KT가 거느린 유료방송 플랫폼 일부의 운영"
+    },
+    {
+      "id": "4566d3dbbfc6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국서 팔린 전기차 3대 중 1대 중국산…4년 새 점유율 30배",
+      "link": "https://zdnet.co.kr/view/?no=20261122131941",
+      "published": "2026-11-22T05:43:30+00:00",
+      "summary": "[지디넷코리아]한국 전기차 시장에서 중국산 제품 비중이 4년 만에 30%포인트(p) 넘게 상승한 것으로 나타났다. 주요 자동차 생산국 가운데 멕시코와 브라질에 이어 세 번째로 큰 상승 폭이다. 22일 한국자동차모빌리티산업협회(KAMA)와 글로벌 조사기관 통계를 종합한 자료에 따르면 국내 전기차 시장의 중국산 제품 점유율은 2021년 1.1%에서 지난해 33.9%로 32.8%p 높아졌다. 세계자동차공업협회(OICA)가 집계한 세계 10대 자동차 생산국 가운데 중국을 제외한 국가를 비교한 결과다. 같"
+    },
+    {
+      "id": "9539ab7311ac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[ZD브리핑] 삼성, 이번주 임원인사·조직개편...국회서 AI글래스 악용 방지 논의",
+      "link": "https://zdnet.co.kr/view/?no=20261122143759",
+      "published": "2026-11-22T05:39:41+00:00",
+      "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 삼성그룹이 후속 임원인사와 조직개편을 발표할 것으로 예상됩니다. "
+    },
+    {
+      "id": "51522ef5249f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "코딩 몰라도 앱 만든다…국내 IT업계, 바이브코딩 시장 공략 잰걸음",
+      "link": "https://zdnet.co.kr/view/?no=20261122122614",
+      "published": "2026-11-22T05:00:03+00:00",
+      "summary": "[지디넷코리아]자연어로 앱과 웹사이트를 구현하는 ‘바이브코딩’이 확산하면서 국내 주요 IT·플랫폼 기업이 관련 서비스를 연이어 출시하며 시장 공략에 속도를 내고 있다. 바이브코딩을 배우려는 수요부터 이를 지원하는 플랫폼, 기업용 플랫폼까지 다양한 서비스가 출시되며 관련 생태계가 확장되는 모습이다.22일 디지털 마케팅 업체 서프 디지털가 전 세계 공개 웹사이트 데이터를 분석한 결과 러버블·이머전트·베이스44 등 바이브코딩 플랫폼 3종으로 제작한 것으로 확인된 홈페이지는 지난해 12월 5309개에서 "
+    },
+    {
+      "id": "a7a34eb20eab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "670마력 공도용·700마력 경주차…페라리 '296 챌린지' 공개",
+      "link": "https://zdnet.co.kr/view/?no=20261122133203",
+      "published": "2026-11-22T04:32:03+00:00",
+      "summary": "[지디넷코리아]페라리가 하이브리드 시스템을 덜어내고 레이싱 기술과 운전자 중심의 주행 감각을 강화한 '296 챌린지 스트라달레'와 '296 챌린지 에보'를 공개했다.페라리는 스페인 바르셀로나 카탈루냐 서킷에서 열린 '2026 페라리 피날리 몬디알리'에서 두 모델을 선보였다고 22일 밝혔다.296 챌린지 스트라달레는 레이스카 기술을 공도용 차량에 적용한 모델이다. 296 챌린지 에보는 페라리 원메이크 레이스 '페라리 챌린지 트로페오 피렐리'에 투입되는 경주차로, 2027년 유럽과 북미 시리즈에서 데"
+    },
+    {
+      "id": "99737f2395d9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "최태원 \"한일 기업·대학 함께 AI 인재 육성을\"",
+      "link": "https://zdnet.co.kr/view/?no=20261122131948",
+      "published": "2026-11-22T04:31:20+00:00",
+      "summary": "[지디넷코리아]최태원 SK그룹 회장 겸 최종현학술원 이사장이 일본 도쿄대에서 열린 '도쿄포럼 2026'에서 \"한국·일본 기업과 대학이 인공지능(AI) 인재를 공동 육성하는 프로그램을 만들어 운영하는 것도 좋은 방법\"이라고 밝혔다. 최종현학술원과 도쿄대는 지난 20~21일 도쿄대 야스다 강당에서 '변혁적 기술로서 AI: 인류, 지식, 그리고 문명'을 주제로 도쿄포럼 2026을 개최했다. 2019년부터 매년 개최 중인 인행사다. 21일 비즈니스리더 세션에서 최 회장은 \"AI 네이티브 사회는 AI를 단"
+    },
+    {
+      "id": "01186019ecd9",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "published": "2026-11-22T04:04:56+00:00",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 570 # Comments: 351"
+    },
+    {
+      "id": "0a1f398bafff",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "디에스테크노, 티씨케이 '반도체 식각링 특허 정정'에 무효심판 청구",
+      "link": "https://zdnet.co.kr/view/?no=20261122124511",
+      "published": "2026-11-22T04:04:54+00:00",
+      "summary": "[지디넷코리아]반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 정정에 성공하자, 디에스테크노가 정정이 무효라고 주장했다. SiC 포커스링은 반도체 식각 공정에 사용하는 소모성 부품이다. 22일 업계에 따르면 디에스테크노는 지난 17일 특허심판원에 티씨케이의 '화학기상증착(CVD) 방식으로 형성된 SiC 구조체' 특허(등록번호 2117888, 아래 '888 특허) 정정에 대한 무효심판을 청구했다. 지난 10월 특허심판원이 티씨케이의 '888 특허 정정 청구를 받아들이자, 이에 "
+    },
+    {
+      "id": "b49f91703fc3",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "영풍, 자회사 YPC서 배당 수령 없어…금융자산 팔아 현금 확보",
+      "link": "https://zdnet.co.kr/view/?no=20261122011332",
+      "published": "2026-11-22T03:30:01+00:00",
+      "summary": "[지디넷코리아]고려아연 지분을 완전 자회사 YPC로 옮긴 영풍이 올해 3분기까지 자회사 배당을 받지 않은 가운데, 보유 금융자산을 YPC에 매각해 현금을 확보한 것으로 나타났다.최근 공시된 영풍의 올해 3분기 분기보고서에 따르면 지난해와 올해 1~9월 특수관계자 배당금 수령 내역에는 YPC로부터 받은 배당금이 없다. 영풍은 지난해 3월 고려아연 주식 526만 2450주를 현물출자해 지분 100%를 보유한 YPC를 설립했다. 출자 당시 고려아연 지분율은 25.21%다.지분 이전에 따라 해당 주식의 "
+    },
     {
       "id": "4eef74530d4b",
       "source": "AI타임스",
@@ -177,6 +408,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217654",
       "published": "2026-11-22T00:09:35+00:00",
       "summary": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진행 상황을 확인하기 쉽게 만들었다.오픈AI는 19일(현지시간) 공식 릴리스 노트를 통해 챗GPT의 새로운 모바일 디자인을 일부 이용자에게 제공하기 시작했다고 밝혔다. 앤트로픽도 20일 공식 공지를 통해 클로드 모바일 앱의 새 디자인을 순차 배포한다고 발표했다.두 회사 모두 기존 대화창과 사이드바 중심의 "
+    },
+    {
+      "id": "ee2c17afbe8a",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Sandwich Simulator",
+      "link": "https://stulle.app/",
+      "published": "2026-11-22T00:07:59+00:00",
+      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 293 # Comments: 98"
     },
     {
       "id": "d1c141d367fc",
@@ -782,6 +1024,17 @@
       "link": "https://ninlive.com/",
       "published": "2026-11-20T22:30:47+00:00",
       "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 270 # Comments: 71"
+    },
+    {
+      "id": "cbe6a3d011e6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Getting the mind to steer the body to steer you",
+      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "published": "2026-11-20T22:11:05+00:00",
+      "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 292 # Comments: 99"
     },
     {
       "id": "1ffa3da0f201",
