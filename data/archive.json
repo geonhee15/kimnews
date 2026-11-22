@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-11-22T18:56:49.988431+00:00",
-  "count": 20203,
+  "updated_at": "2026-11-22T23:59:36.720786+00:00",
+  "count": 20213,
   "items": [
+    {
+      "id": "3135d44e0504",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고",
+      "link": "https://zdnet.co.kr/view/?no=20261123080718",
+      "published": "2026-11-22T23:12:06+00:00",
+      "summary": "[지디넷코리아]정부가 익명이나 가명 처리로는 AI 기술 개발이 어려운 경우 심의·의결을 거치면 적법하게 수집한 개인정보를 AI 개발에 쓸 수 있도록 하는 특례의 세부 기준을 마련했다.개인정보보호위원회는 이런 내용을 담은 '개인정보 보호법 시행령 일부개정령안'을 23일 입법예고했다.개정안은 지난 9월 8일 공포된 개인정보 보호법 개정의 후속 조치로, 내년 3월 9일 시행을 앞둔 법률의 위임 사항을 구체화한 것이다.개정안은 특례 적용 시 개인정보처리자가 지켜야 할 안전장치를 신설했다. 책임자 지정과 "
+    },
+    {
+      "id": "446af3f3fb46",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "published": "2026-11-22T22:48:02+00:00",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton t"
+    },
+    {
+      "id": "62399aad36b0",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+      "published": "2026-11-22T22:14:28+00:00",
+      "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI 최고과학책임자는 22일(현지시간) '퍼플렉시티와 지능(Perplexity and Intelligence)'이라는 글을 발표하고, AI의 지능 발전을 추적할"
+    },
+    {
+      "id": "4a8dd1bc433f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "published": "2026-11-22T21:14:07+00:00",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
+    {
+      "id": "28a15d7f9906",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "What Happened to Silicon Valley?",
+      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "published": "2026-11-22T19:20:15+00:00",
+      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 342 # Comments: 185"
+    },
+    {
+      "id": "3f0d3e0ee3ab",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "published": "2026-11-22T19:10:34+00:00",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 297 # Comments: 122"
+    },
     {
       "id": "938966a6426e",
       "source": "The Verge",
@@ -25,6 +91,17 @@
       "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se"
     },
     {
+      "id": "e11f2baf816d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "published": "2026-11-22T17:06:27+00:00",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 446 # Comments: 302"
+    },
+    {
       "id": "b8aba4ffd2d3",
       "source": "TechCrunch",
       "kind": "article",
@@ -36,6 +113,17 @@
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
     },
     {
+      "id": "08fe44beb39c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Open Social Web Alliance",
+      "link": "https://osw-alliance.net/en/",
+      "published": "2026-11-22T15:24:32+00:00",
+      "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 206 # Comments: 206"
+    },
+    {
       "id": "5d13669e35f4",
       "source": "The Verge",
       "kind": "article",
@@ -45,6 +133,17 @@
       "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
       "published": "2026-11-22T15:15:07+00:00",
       "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests"
+    },
+    {
+      "id": "ebeb562e09bc",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "published": "2026-11-22T13:56:58+00:00",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 258 # Comments: 59"
     },
     {
       "id": "37886a9d92cd",
@@ -3595,6 +3694,17 @@
       "category": "AI",
       "lang": "en",
       "title": "GTA 6, Crime, Money, Prison & the Biggest Jewel Thief in US History | Lex Fridman Podcast #505",
+      "link": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+      "published": "2026-11-19T03:15:09+00:00",
+      "summary": ""
+    },
+    {
+      "id": "dd8894dc10e7",
+      "source": "Lex Fridman",
+      "kind": "youtube",
+      "category": "AI",
+      "lang": "en",
+      "title": "GTA 6, Crime, Jewel Heists, Mafia, Gangs, Prison, Corrupt Cops & Money | Lex Fridman Podcast #505",
       "link": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
       "published": "2026-11-19T03:15:09+00:00",
       "summary": ""
