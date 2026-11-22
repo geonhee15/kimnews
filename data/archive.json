@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-11-22T11:52:55.811976+00:00",
-  "count": 20192,
+  "updated_at": "2026-11-22T18:56:49.988431+00:00",
+  "count": 20203,
   "items": [
+    {
+      "id": "938966a6426e",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "published": "2026-11-22T17:46:44+00:00",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. Whi"
+    },
+    {
+      "id": "03999c6aca69",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "published": "2026-11-22T17:25:20+00:00",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se"
+    },
+    {
+      "id": "b8aba4ffd2d3",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "published": "2026-11-22T17:06:00+00:00",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "5d13669e35f4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Protesters storm Meta offices in India",
+      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "published": "2026-11-22T15:15:07+00:00",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests"
+    },
+    {
+      "id": "37886a9d92cd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "published": "2026-11-22T13:00:00+00:00",
+      "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrati"
+    },
+    {
+      "id": "c72254a1b4d5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "published": "2026-11-22T13:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik"
+    },
     {
       "id": "f95a23fada89",
       "source": "노마드 코더",
@@ -9,6 +75,17 @@
       "category": "DEV",
       "lang": "ko",
       "title": "요즘 먹히는 숏폼 광고 4개 뚝딱 만들기 ⚡️10분컷",
+      "link": "https://www.youtube.com/watch?v=p5Fj3dWSSmU",
+      "published": "2026-11-22T11:15:04+00:00",
+      "summary": ""
+    },
+    {
+      "id": "72cb7170be2f",
+      "source": "노마드 코더",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "ko",
+      "title": "똥손 개발자. AI로 광고 만들기 10분컷 ⚡️",
       "link": "https://www.youtube.com/watch?v=p5Fj3dWSSmU",
       "published": "2026-11-22T11:15:04+00:00",
       "summary": ""
@@ -47,6 +124,17 @@
       "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start."
     },
     {
+      "id": "9b3506c3adbb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한전, 고객·조달업체 152만명 개인정보 유출…계좌·카드번호 털려",
+      "link": "https://zdnet.co.kr/view/?no=20261122191056",
+      "published": "2026-11-22T10:10:56+00:00",
+      "summary": "[지디넷코리아]한국전력공사의 고객 서비스 플랫폼 '한전ON'에서 이용자 65만 487명의 주민등록번호, 계좌번호, 카드번호가 빠져나갔다. 전자조달시스템(SRM) 이용자 약 87만명의 개인정보도 털렸다. 지난달 임직원 정보가 나간 데 이어 이번에는 고객 금융정보까지 뚫렸다.한전은 이 같은 유출 사실을 확인했다고 22일 밝혔다. 두 시스템의 공표 인원을 합하면 152만명이 넘는다.한전ON에서는 전기사용 고객의 12개 항목이 유출됐다. 고객번호, 고객명, 주민등록번호(외국인등록번호 포함), 전화번호, "
+    },
+    {
       "id": "5344cd446d7f",
       "source": "Wired",
       "kind": "article",
@@ -78,6 +166,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261122175852",
       "published": "2026-11-22T08:58:52+00:00",
       "summary": "[지디넷코리아]2026년 가을 AI 인프라 시장에서 가장 먼저 흔들린 곳은 네오클라우드다. 네오클라우드는 빚을 내 엔비디아 칩을 사고, 그 칩을 AI 기업에 빌려주는 GPU 임대 전문 클라우드다. 코어위브·네비우스·IREN의 주가는 10월 한 달 동안 각각 30% 넘게 떨어졌다. 11월 17일(현지시간)에는 엔비디아가 실적 발표에서 네오클라우드를 선별해 지원하겠다는 뜻을 밝혔다.그런데 AI 칩과 데이터센터를 사는 돈은 줄지 않았다. 사는 쪽이 바뀌었다. 트레이딩 회사 제인스트리트는 올해에만 약 1"
+    },
+    {
+      "id": "87555d3278e5",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "published": "2026-11-22T08:57:34+00:00",
+      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 590 # Comments: 665"
     },
     {
       "id": "340c31322e30",
@@ -344,6 +443,17 @@
       "summary": "[지디넷코리아]호주 정부가 인공지능(AI) 에이전트를 활용해 쇼핑하는 소비자가 늘어날 것에 대비해 경쟁법 개정을 검토하고 있다. AI를 활용해 소비자마다 다른 가격을 책정하는 행위도 들여다보고 있다.21일(현지시간) 블룸버그 통신에 따르면 앤드루 리 호주 경쟁 담당 차관은 이날 캔버라에서 기자들과 만나 “AI 시대에 경쟁법이 발맞출 수 있도록 다양한 작업을 진행하고 있다”며 “더 많은 소비자가 AI 에이전트로 쇼핑하게 될 만큼 법 개정이 필요한지 검토 중”이라고 밝혔다.AI 에이전트는 이용자를 대"
     },
     {
+      "id": "2100987d7aec",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "published": "2026-11-22T02:14:14+00:00",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 253 # Comments: 88"
+    },
+    {
       "id": "549060c1ebe9",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -551,6 +661,17 @@
       "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "published": "2026-11-21T15:00:00+00:00",
       "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor"
+    },
+    {
+      "id": "833f56061f06",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "2026-11-21T15:00:00+00:00",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
       "id": "8f5bf4ee9d0d",
