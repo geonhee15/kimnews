@@ -1,7 +1,425 @@
 {
-  "updated_at": "2026-11-24T14:50:37.926978+00:00",
-  "count": 20382,
+  "updated_at": "2026-11-24T23:43:36.895308+00:00",
+  "count": 20431,
   "items": [
+    {
+      "id": "f21830c751cb",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 CIA·ODNI, 해킹으로 비기밀 정보 일부 노출",
+      "link": "https://zdnet.co.kr/view/?no=20261125073442",
+      "published": "2026-11-24T22:41:49+00:00",
+      "summary": "[지디넷코리아]미국 중앙정보국(CIA)과 국가정보장실(ODNI)이 해킹으로 일부 데이터가 노출됐다. 해킹 대상인 네트워크는 공개된 자료를 수집·분석하는 공개 정보(OSINT) 네트워크다.뉴욕타임스, 뉴스위크 등 여러 외신은 24일(현지시간) 소식통을 인용해 이번 침입이 공개·비밀 등급 외 자료에서 정보 가치가 있는 내용을 추출하는 데 쓰이는 네트워크에 영향을 미쳤다고 보도했다.공개 정보 네트워크가 공격 대상이 되면서, 정보 수집 과정에서의 보안 취약점이 드러났다는 지적이 나온다. 전문가들은 이번 "
+    },
+    {
+      "id": "54f8f76fec95",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "published": "2026-11-24T22:36:28+00:00",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals."
+    },
+    {
+      "id": "3e89104ed35d",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "link": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "published": "2026-11-24T22:22:20+00:00",
+      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more."
+    },
+    {
+      "id": "48bef8034457",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[11월24일] AI 업계, 초지능 경고 넘어 개발 제한 방안까지…미국 규제에 영향 줄까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217724",
+      "published": "2026-11-24T22:00:00+00:00",
+      "summary": "메타의 최고AI책임자(CAIO)와 오픈AI 핵심 연구진이 잇달아 초지능의 위험성을 경고하며 개발 속도를 조절할 구체적인 방안까지 제시하고 있습니다. 단순한 위험 경고를 넘어 개발 제한 기준과 인간의 통제권을 유지할 방법을 제안하기 시작하면서, 미국 정치권의 AI 안전 규제 논의에도 영향을 미칠지 주목됩니다.올여름부터 다리오 아모데이 앤트로픽 CEO와 샘 알트먼 오픈AI CEO 등은 2027년이면 AI가 스스로 성능을 높이는 '재귀적 자기 개선(RSI)'을 통해 지능 폭발이 시작될 수 있다는 전망을"
+    },
+    {
+      "id": "20c172012f8c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[新테크용어] 일 잘하는 AI로…'맥락 설계'하는 컨텍스트 엔지니어링",
+      "link": "https://zdnet.co.kr/view/?no=20261124123907",
+      "published": "2026-11-24T21:57:22+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 모델이 정확하고 일관된 판단을 내릴 수 있도록 제공하는 맥락의 구조와 품질을 체계적으로 설계·최적화하는 '컨텍스트 엔지니어링(Context Engineering)'이 회자되고 있다.대규모 언어 모델(LLM)이나 AI 에이전트가 작업을 정확하고 신뢰성 있게 수행할 수 있도록 AI가 응답을 생성하기 전에 접하는 '전체 정보 환경'을 체계적으로 설계하고 관리하는 시스템 공학적 접근을 의미한다.AI에게 '어떻게 질문을 작성할까'를 고민한고 단발성 질문에서 원하는 응답을 유도"
+    },
+    {
+      "id": "3aea73c54ccc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "published": "2026-11-24T21:48:27+00:00",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+    },
+    {
+      "id": "9d27858e128c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "published": "2026-11-24T21:33:29+00:00",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+    },
+    {
+      "id": "7cd36ddb195c",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "published": "2026-11-24T21:32:38+00:00",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+    },
+    {
+      "id": "dba117a2b1ba",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "published": "2026-11-24T21:19:52+00:00",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+    },
+    {
+      "id": "a50120da9e6e",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황, 복귀 후 첫 직원회의서 사과…복귀 정당성 강조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217752",
+      "published": "2026-11-24T20:55:29+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 복귀 후 첫 전 직원회의에서 회사 행동 강령 위반을 인정하고 사과했으며, 심리 치료와 경영 방식 개선 등 재발 방지 대책을 공개했다. 또 자신이 특별 대우를 받거나 도널드 트럼프 미국 대통령의 압력으로 복귀한 것이 아니라 이사회의 판단에 따른 결정이었다고 강조했다.월스트리트저널(WSJ)과 로이터 등은 24일(현지시간) 황 CEO가 미국 캘리포니아주 산타클라라 본사에서 약 한 시간 동안 전 직원회의를 열고 자신의 행동과 복귀 과정에 대해 설명했다고 보도했다.황 CEO는 자"
+    },
+    {
+      "id": "73e3864e3929",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "What's going on with the Riemann hypothesis?",
+      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "published": "2026-11-24T20:34:53+00:00",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us."
+    },
+    {
+      "id": "25807b8c1be4",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "TikTok was down",
+      "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "published": "2026-11-24T20:27:27+00:00",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on"
+    },
+    {
+      "id": "f8add4d35ae1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Ternary Bonsai 2.5 27B",
+      "link": "https://prismml.com/news/bonsai-2-5-27b",
+      "published": "2026-11-24T20:08:03+00:00",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 263 # Comments: 86"
+    },
+    {
+      "id": "340fafd35175",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "published": "2026-11-24T20:02:03+00:00",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time"
+    },
+    {
+      "id": "1c8e038c8ebd",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The clock is running out for America’s most contentious spying law",
+      "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+      "published": "2026-11-24T20:00:00+00:00",
+      "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the"
+    },
+    {
+      "id": "432dc2e9f63f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "link": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+      "published": "2026-11-24T19:33:23+00:00",
+      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump."
+    },
+    {
+      "id": "55b2d6861390",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon is knocking almost $50 off six months of Apple TV",
+      "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "published": "2026-11-24T19:00:00+00:00",
+      "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this pa"
+    },
+    {
+      "id": "b399a81b8542",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "published": "2026-11-24T18:47:57+00:00",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026."
+    },
+    {
+      "id": "1a64ab52517b",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "published": "2026-11-24T18:30:42+00:00",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+    },
+    {
+      "id": "f90f03e2abab",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "published": "2026-11-24T18:30:36+00:00",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space."
+    },
+    {
+      "id": "186717d32126",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "published": "2026-11-24T18:15:00+00:00",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that th"
+    },
+    {
+      "id": "28947f55baed",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "published": "2026-11-24T18:02:59+00:00",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+    },
+    {
+      "id": "2790be1291ed",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "published": "2026-11-24T17:44:53+00:00",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff."
+    },
+    {
+      "id": "a0280df34d54",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "published": "2026-11-24T17:34:34+00:00",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero."
+    },
+    {
+      "id": "eeb598fe1fcb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+      "published": "2026-11-24T17:30:00+00:00",
+      "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of"
+    },
+    {
+      "id": "83062c78d92d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "published": "2026-11-24T17:00:00+00:00",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+    },
+    {
+      "id": "a53bba1a4f3a",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "published": "2026-11-24T16:46:00+00:00",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+    },
+    {
+      "id": "9a70801c1582",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "published": "2026-11-24T16:32:17+00:00",
+      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 245 # Comments: 110"
+    },
+    {
+      "id": "9495aad9475c",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Jetty Pro",
+      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "published": "2026-11-24T16:23:02+00:00",
+      "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 244 # Comments: 110"
+    },
+    {
+      "id": "db878a8409e6",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "사람 중심 콘텐츠, 브랜드워치 선정 2027년 디지털 마케팅 11대 트렌드 1위 차지",
+      "link": "https://zdnet.co.kr/view/?no=20261125011002",
+      "published": "2026-11-24T16:10:02+00:00",
+      "summary": "[지디넷코리아] 마케터 71%가 사람 중심 콘텐츠가 2027년 디지털 마케팅을 이끌 것으로 전망한 가운데, 지난 1년간 AI 생성 광고에 관한 온라인 대화는 240% 증가 시카고, 2026년 11월 24일 /PRNewswire/ -- 시전(Cision) 계열사이자 소셜 인텔리전스 및 소셜미디어 관리 분야의 글로벌 선도 기업인 브랜드워치(Brandwatch)가 오늘 연례 보고서인 2027년 디지털 마케팅 트렌드(Digital Marketing Trends 2027)를 발표했다. 설문에 참여한 마케터"
+    },
+    {
+      "id": "086a94aa0f5f",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "published": "2026-11-24T16:00:00+00:00",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation."
+    },
+    {
+      "id": "00b3afa3b258",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "These are the gifts developers will actually want",
+      "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "published": "2026-11-24T16:00:00+00:00",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog ."
+    },
+    {
+      "id": "eecb7a692eb8",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "published": "2026-11-24T15:15:16+00:00",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more ne"
+    },
+    {
+      "id": "680292582a5b",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Thanksgiving Travel Will Be a Stormy Mess",
+      "link": "https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/",
+      "published": "2026-11-24T15:12:31+00:00",
+      "summary": "Snow, wind, rain, flooding. Storms on both coasts mean the holiday travel week will have it all—and it could wreak havoc at airports across the US."
+    },
+    {
+      "id": "a817328c7363",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엘리 사브, 맨해튼 어퍼이스트사이드에 MAISON 171 선보이며 글로벌 주거 사업 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261125001002",
+      "published": "2026-11-24T15:10:02+00:00",
+      "summary": "[지디넷코리아] 엘리 사브가 미국에서 인테리어를 맡은 첫 고급 콘도미니엄… 24가구 규모 뉴욕, 2026년 11월 24일 /PRNewswire/ -- 뉴욕 소재 부동산 개발사 ZD 재스퍼(ZD Jasper)와 글로벌 럭셔리 라이프스타일 브랜드 엘리 사브(ELIE SAAB)가 맨해튼 어퍼이스트사이드의 이스트 86번가 171번지에 소규모 고급 콘도미니엄 MAISON 171 by ELIE SAAB를 선보인다. MAISON 171 (Credit: Recent Spaces) 엘리 사브가 미국에서 처음으로 "
+    },
+    {
+      "id": "d454c4d0827d",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "민주당, 연이은 해킹 사고에 '과기혁신특위 보안분과' 첫발",
+      "link": "https://zdnet.co.kr/view/?no=20261124182254",
+      "published": "2026-11-24T14:10:11+00:00",
+      "summary": "[지디넷코리아]여당인 더불어민주당의 과학기술혁신특별위원회(과기혁신특위)가 연이은 대형 해킹사고에 대응해 보안분과를 발족하고 국가 사이버보안 정책 논의에 나섰다.과기혁신특위는 24일 학계, 연구기관, 산업계 위원 19명이 참여한 가운데 보안분과 제1차 회의와 토론회를 열었다.최근 통신, 유통 등 주요 산업 분야에서 대규모 개인정보 유출과 해킹사고가 잇따르고 있다. 인공지능(AI)을 악용한 사이버 공격까지 고도화되면서 사고 예방과 대응 역량은 물론 정보보호 기술 개발, 전문인력 양성, 보안산업 경쟁력"
+    },
+    {
+      "id": "98d99e228c9e",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "다음 달부터 ‘제8차 미세먼지 계절관리제’ 시행…초미세먼지 평균 농도 21.5→19㎍/㎥",
+      "link": "https://zdnet.co.kr/view/?no=20261124230819",
+      "published": "2026-11-24T14:08:19+00:00",
+      "summary": "[지디넷코리아]정부가 다음 달부터 내년 3월까지 ‘제8차 미세먼지 계절관리제’를 시행한다. 계절관리 기간 초미세먼지 평균농도를 지난 제7차의 21.5㎍/㎥에서 19㎍/㎥로 개선하는 것을 목표로 잡았다. 이를 통해 초미세먼지와 생성물질은 13만 7000만톤 줄인다는 계획이다.핵심 배출원 감축·관리를 위해 대기질 통합관제센터를 설치해 사업장 배출정보와 대기측정 자료를 통합 분석하고, 인공지능(AI)·이동측정차량을 활용한 스마트 감시·단속을 수도권에서 전국으로 확대한다. 또 다배출 사업장의 감축 이행을"
+    },
+    {
+      "id": "71fadd1c5ebd",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "화웨이 \"하모니OS 탑재 단말기 올해 1억대 돌파\"",
+      "link": "https://zdnet.co.kr/view/?no=20261124225400",
+      "published": "2026-11-24T13:54:00+00:00",
+      "summary": "[지디넷코리아]\"하모니OS를 탑재한 단말기가 올해 이미 1억 대를 돌파했습니다. 이는 올해 화웨이가 이룬 가장 큰 성과 중 하나입니다.\"쟝원먀오(영어명 Winston Jiang) 한국화웨이 총괄은 24일 열린 한국정보산업연합회(회장 양승욱) CIO포럼 11월 조찬회에서 이 같이 밝혔다. 이날 행사는 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 열렸다. 쟝원 부사장은 '에이전틱 AI의 실제 구현 : 산업적 적용 사례와 화웨이의 전략적 접근'을 주제로 발표했다.그가 언급한 하모니OS(Harmon"
+    },
     {
       "id": "3e075ae6e1a4",
       "source": "TechCrunch",
@@ -179,6 +597,17 @@
       "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power pla"
     },
     {
+      "id": "f31dd5668a67",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "published": "2026-11-24T10:50:14+00:00",
+      "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg Comments URL: https://news.ycombinator.com/item?id=50626413 Points: 213 # Comments: 40"
+    },
+    {
       "id": "7ae982054293",
       "source": "Wired",
       "kind": "article",
@@ -245,6 +674,17 @@
       "summary": "앤트로픽이 AI가 작성한 코드를 검토하고 수정하는 데 이어, 팀의 규칙에 따라 승인 여부까지 판단하는 개발 자동화 도구를 선보였다. 코드 생성 이후 검토와 승인에 걸리는 시간을 줄여 개발 속도를 높이겠다는 전략이다.앤트로픽은 23일(현지시간) ‘클로드 십(Claude Ship)’을 베타 버전으로 출시했다고 밝혔다.코드 변경 사항의 반영을 요청하는 풀 리퀘스트(PR)를 대상으로, 기존 ‘코드 리뷰(Code Review)’에 수정 도구 ‘PR 스튜어드(PR Steward)’와 승인 도구 ‘클로드 어프"
     },
     {
+      "id": "c64931835777",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, ‘클로드 십’ 출시…코드 검토부터 수정·승인까지 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217729",
+      "published": "2026-11-24T09:28:58+00:00",
+      "summary": "앤트로픽이 AI가 작성한 코드를 검토하고 수정하는 데 이어, 팀의 규칙에 따라 승인 여부까지 판단하는 개발 자동화 도구를 선보였다. 코드 생성 이후 검토와 승인에 걸리는 시간을 줄여 개발 속도를 높이겠다는 전략이다.앤트로픽은 23일(현지시간) ‘클로드 십(Claude Ship)’을 베타 버전으로 출시했다고 밝혔다.코드 변경 사항의 반영을 요청하는 풀 리퀘스트(PR)를 대상으로, 기존 ‘코드 리뷰(Code Review)’에 수정 도구 ‘PR 스튜어드(PR Steward)’와 승인 도구 ‘클로드 어프"
+    },
+    {
       "id": "b191fc4f2596",
       "source": "AI타임스",
       "kind": "article",
@@ -287,6 +727,17 @@
       "link": "https://www.youtube.com/shorts/IRNdSz5E-so",
       "published": "2026-11-24T09:00:00+00:00",
       "summary": ""
+    },
+    {
+      "id": "3b9a71100bc4",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Quad9 pulled their DNS service from France",
+      "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "published": "2026-11-24T08:33:14+00:00",
+      "summary": "Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/ Comments URL: https://news.ycombinator.com/item?id=50625384 Points: 330 # Comments: 163"
     },
     {
       "id": "b3a7948c0220",
@@ -342,6 +793,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217746",
       "published": "2026-11-24T07:35:00+00:00",
       "summary": "중국 AI 스타트업 멤텐서(MemTensor)가 엔비디아와 협력해 과거 대화 정보를 내부 기억에 저장하고 활용하는 AI 모델 ‘멤T-1.0 프로(MemT-1.0-Pro)’를 공개했다. 대화 기록 원문을 매번 프롬프트에 다시 넣는 부담을 줄이고, 이전에 주고받은 정보를 다음 응답에 활용하도록 설계했다.멤텐서는 23일 기술 보고서와 모델 카드를 통해 구조와 평가 결과를 소개했다. 지난달 처음 발표한 멤T-1.0 모델군은 나노와 플래시, 프로로 구성된다.프로 모델은 엔비디아의 ‘네모트론 3 울트라’를 "
+    },
+    {
+      "id": "cdd700a1c7df",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "published": "2026-11-24T07:34:13+00:00",
+      "summary": ""
     },
     {
       "id": "c14444cd208c",
@@ -419,6 +881,17 @@
       "link": "https://www.youtube.com/shorts/VSQqNw-Z-bY",
       "published": "2026-11-24T06:00:20+00:00",
       "summary": ""
+    },
+    {
+      "id": "89819dcb83a9",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published": "2026-11-24T04:00:00+00:00",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     },
     {
       "id": "0227dc8ca530",
@@ -617,6 +1090,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261124103231",
       "published": "2026-11-24T02:18:03+00:00",
       "summary": "[지디넷코리아]번개장터는 지난 20일 이사회를 열고 공유현 사업개발본부장을 신임 대표로 선임하면서 기존 강승현 대표와 공동대표 체제로 전환한다고 24일 밝혔다. 공 대표는 공동대표 체제 아래 서비스와 사업 운영 전반을 총괄한다.번개장터는 이용자 간 거래의 신뢰도를 높이고 구매 절차를 간소화하는 데 기여한 공 대표를 앞세워 제품 개발과 사업 추진에 속도를 낼 방침이다.공 대표가 입사한 2020년 140억원이었던 번개장터 매출은 지난해 581억원으로 증가했다. 연간 거래 규모도 1400억원에서 950"
+    },
+    {
+      "id": "0f933ea24efb",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published": "2026-11-24T02:00:00+00:00",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
     },
     {
       "id": "fff17e509136",
@@ -1112,6 +1596,39 @@
       "link": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
       "published": "2026-11-23T15:00:00+00:00",
       "summary": "Today I’m talking with Darryl Campbell, a freelance journalist, aviation expert, and author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software. Darryl covers aviation and the FAA, and earlier this month, when the US suffered a sudden nationwide grou"
+    },
+    {
+      "id": "3ba717bd8bb7",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "published": "2026-11-23T15:00:00+00:00",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+    },
+    {
+      "id": "31fd0b6a0d87",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "published": "2026-11-23T15:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "id": "6fd032350a71",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published": "2026-11-23T15:00:00+00:00",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
     },
     {
       "id": "8460909661c5",
@@ -1994,6 +2511,17 @@
       "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 258 # Comments: 59"
     },
     {
+      "id": "ae2700c02e33",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "link": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "published": "2026-11-22T13:21:25+00:00",
+      "summary": "Article URL: https://martincmartin.github.io/slidev-stem/watches/article/1/ Comments URL: https://news.ycombinator.com/item?id=50599458 Points: 205 # Comments: 52"
+    },
+    {
       "id": "37886a9d92cd",
       "source": "The Verge",
       "kind": "article",
@@ -2014,6 +2542,17 @@
       "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "published": "2026-11-22T13:00:00+00:00",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Lik"
+    },
+    {
+      "id": "59bbb7b07c6f",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The Spray Bottle",
+      "link": "https://mechanical-pencil.com/products/spray-bottle",
+      "published": "2026-11-22T11:16:30+00:00",
+      "summary": "Article URL: https://mechanical-pencil.com/products/spray-bottle Comments URL: https://news.ycombinator.com/item?id=50598555 Points: 314 # Comments: 91"
     },
     {
       "id": "f95a23fada89",
