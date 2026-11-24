@@ -1,7 +1,458 @@
 {
-  "updated_at": "2026-11-23T18:45:36.241173+00:00",
-  "count": 20293,
+  "updated_at": "2026-11-24T04:06:23.588598+00:00",
+  "count": 20341,
   "items": [
+    {
+      "id": "0227dc8ca530",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "오픈AI, 챗GPT에 'GPT-6.2 솔' 탑재…지시 수행·이미지 이해 강화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217725",
+      "published": "2026-11-24T03:13:38+00:00",
+      "summary": "오픈AI가 챗GPT에 일상적인 대화에 최적화한 'GPT-6.2 솔(Sol)'을 탑재했다. 이달 중순 '워크'와 '코덱스'에 먼저 도입한 모델을 일반 채팅에 맞게 조정한 것으로, 복잡한 지시 수행과 인터넷 검색, 이미지 이해 및 사용자 의도 파악 능력을 강화했다.오픈AI는 23일(현지시간) 공식 홈페이지를 통해 챗GPT의 일반 채팅에 GPT-6.2 솔을 적용하기 시작했다고 밝혔다.이번 모델은 사진 속 작은 글씨나 표지판의 기호 등 세부 정보를 파악하는 능력이 개선됐다. 인터넷 검색에서도 사용자의 우"
+    },
+    {
+      "id": "8d74adb4d2cd",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "젠슨 황 복귀에 미 의회 초당적 반발…AI 칩 수출 규제 강화 요구",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217721",
+      "published": "2026-11-24T03:06:08+00:00",
+      "summary": "젠슨 황 엔비디아 CEO의 복귀를 두고 미국 의회에서 공화당과 민주당 의원들의 초당적 반발이 이어지고 있다. 의원들은 중국의 첨단 AI 칩 접근을 차단하기 위한 수출 규제 강화를 요구하는 한편, 도널드 트럼프 대통령의 복귀 개입 경위와 엔비디아의 수출 통제 준수 여부도 조사해야 한다고 주장했다.로이터는 23일(현지시간) 톰 코튼 상원 정보위원장이 합법적으로 수출된 첨단 반도체가 제3자를 통해 중국으로 유입되는 것을 막기 위해 '칩 보안법(Chip Security Act)' 통과를 촉구했다고 보도했"
+    },
+    {
+      "id": "506908f89af3",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…정부 조사는 계속",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217718",
+      "published": "2026-11-24T03:01:52+00:00",
+      "summary": "젠슨 황 엔비디아 CEO가 사임 2주 만에 경영 일선에 복귀했지만, 중국으로의 첨단 반도체 유출 및 투자자 기만 의혹을 둘러싼 조사는 계속되고 있다. 특히 황 CEO와 불륜 관계였던 앨리스 황이 중국 국가안전부 요원과 1년 넘게 접촉했다는 새로운 보도가 나왔다.뉴욕타임스(NYT)는 22일(현지시간) 정보기관 보고서를 확인한 관계자들을 인용, 앨리스 황이 지난해 봄부터 올해 가을까지 중국 국가안전부(MSS) 요원과 접촉했다고 전했다. 이는 젠슨 황과의 불륜 관계가 이어진 시기는 물론 메가스피드가 엔"
+    },
+    {
+      "id": "5fd78b728e40",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "삼성전자, 임원 131명 승진 인사...HBM4·파운드리 주역 전진 배치",
+      "link": "https://zdnet.co.kr/view/?no=20261124104420",
+      "published": "2026-11-24T02:56:40+00:00",
+      "summary": "[지디넷코리아]삼성전자 DS(반도체) 부문이 2027년 정기 임원인사에서 전체 절반을 웃도는 70명 승진자를 배출하며 '성과주의'와 '기술 리더십 강화' 기조를 분명히 했다.지난해보다 승진 규모는 줄었지만 내년 인공지능(AI) 수요 확대에 대응해 올해 역대 최대 실적을 이끈 6세대 고대역폭메모리(HBM4) 등 메모리 핵심 인재를 대거 중용했다. 또한 파운드리와 시스템LSI 분야에서도 설계 생태계와 수익성 방어에 기여한 실무형 리더를 전면에 배치했다.삼성전자는 24일 부사장 39명, 상무 78명, "
+    },
+    {
+      "id": "3502a05247a8",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217722",
+      "published": "2026-11-24T02:56:18+00:00",
+      "summary": "미국 정부가 엔비디아의 주요 고객사였던 싱가포르 반도체 유통·데이터센터 기업 메가스피드를 수출 통제 블랙리스트에 올렸다. 엔비디아의 첨단 AI 칩을 중국으로 밀수출했다는 의혹이 제기된 지 약 1년 만으로, 젠슨 황 엔비디아 CEO의 복귀가 결정된 당일 제재를 발표했다.미 상무부 산업안보국(BIS)은 23일(현지시간) 연방관보 공고를 통해 메가스피드와 관련 계열사 등 싱가포르·말레이시아·태국 소재 7개 기업을 수출 통제 명단(Entity List)에 추가했다. 이에 따라 미국 정부의 허가 없이는 이"
+    },
+    {
+      "id": "0f47fb580622",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "광양경자청, 중국 유망기업 17개사 초청 미래 산업 투자유치 본격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217727",
+      "published": "2026-11-24T02:54:21+00:00",
+      "summary": "광양만권경제자유구역청(청장 구충곤)은 지난 22일부터 24일까지 3일간 중국 베이징, 상하이, 항저우, 선전 지역 유망기업 및 투자기관 17개사를 초청해 광양만권의 산업·물류 인프라와 투자 환경을 소개하는 현장 시찰을 진행했다고 밝혔다.이번 행사에는 반도체, 모빌리티, AI, 로봇, 에너지, 첨단소재 등 한국 진출에 관심이 높은 미래 성장산업 분야 기업들이 대거 참여했다. 방문단은 여수광양항만공사의 항만 운영 및 물류 인프라 브리핑을 시작으로 광양만권 내 외국인 투자기업과 율촌·세풍 등 주요 산업"
+    },
+    {
+      "id": "d480cabacc2f",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "카카오게임즈, '오딘Q' 내년 1월 26일 한국·대만·일본 동시 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261124113235",
+      "published": "2026-11-24T02:45:01+00:00",
+      "summary": "[지디넷코리아]카카오게임즈가 '오딘: 발할라 라이징'의 세계관을 계승한 신작 MMORPG '오딘Q'를 내년 1월 한국·대만·일본에 동시 출시한다.카카오게임즈는 라이온하트 스튜디오가 개발 중인 모바일·PC 크로스플랫폼 MMORPG '오딘Q: 발키리스콜'의 정식 출시일을 24일 공개했다. 게임은 2027년 1월 26일 한국·대만·일본에 동시 출시 계획이다. 세 지역 사전예약은 오는 12월 29일 한국과 일본 기준 오전 11시, 대만 현지 시간 오전 10시에 시작한다.카카오게임즈는 이날 공식 티저 페이"
+    },
+    {
+      "id": "d384994d93df",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "ABB, 독일 질라벡 인수…데이터센터 냉각 시장 공략",
+      "link": "https://zdnet.co.kr/view/?no=20261124112727",
+      "published": "2026-11-24T02:27:27+00:00",
+      "summary": "[지디넷코리아]ABB가 독일 팬·모터 업체 질라벡을 인수해 데이터센터와 산업 현장 냉각 수요에 대응할 제품군을 넓힌다.ABB는 고효율 팬과 통합 전기 모터, 환기·제어 기술을 보유한 질라벡 인수에 합의했다고 24일 밝혔다. 이번 거래에서 평가한 기업가치는 26억 5000만 달러(약 3조 5700억원), 지분가치는 22억 2000만 달러(약 2조 9900억원)다. 규제 당국 승인과 통상적인 종결 조건을 충족하면 2027년 하반기에 인수를 마칠 예정이다.ABB는 기존 모션 사업의 모터와 속도 제어장치"
+    },
+    {
+      "id": "72f62de63951",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "분기 적자 탈출 삼성SDI, 임원 승진 소폭 확대",
+      "link": "https://zdnet.co.kr/view/?no=20261124101957",
+      "published": "2026-11-24T02:26:59+00:00",
+      "summary": "[지디넷코리아]삼성SDI가 올해 2분기 영업이익 흑자로 전환한 가운데, 임원 승진 규모도 전년 대비 소폭 증가했다.24일 삼성SDI는 2027년 정기 임원 인사를 실시해 부사장 4명, 상무 6명, 마스터 1명 등 총 11명을 승진시켰다고 밝혔다. 지난해 임원 승진 규모가 8명에 그쳤던 데 반해 올해 소폭 증가했다. 다만 2025년 정기 인사 이전의 20명 안팎과 비교하면 여전히 적은 편이다.업계에선 삼성SDI가 6개 분기 동안 이어지던 적자 흐름을 끊고, 실적 반등 흐름을 만들어낸 점이 이번 임원"
+    },
+    {
+      "id": "d4469bf20194",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "삼성전자, 2027 임원인사…반도체 인재 중용 ‘성과주의’ 재확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217717",
+      "published": "2026-11-24T02:26:32+00:00",
+      "summary": "삼성전자가 2027년 정기 임원인사에서 지난해보다 20% 가까이 승진 규모를 줄였다. 하지만 역대 최대 실적의 반도체 부문은 승진자의 절반 이상을 차지했다.삼성전자는 24일 부사장 39명, 상무 78명, 펠로우 2명, 마스터 12명 등 총 131명을 승진 발령했다고 밝혔다. 이는 지난해(161명)보다 30명 줄어 든 규모이다.반도체가 속한 디바이스솔루션(DS)부문에서 70명(53%)이, 스마트폰과 가전을 맡은 디바이스경험(DX)부문에서 61명이 승진했다. 지난해에는 DX부문 92명, DS부문 69"
+    },
+    {
+      "id": "7b60bddf4ccf",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "LGU+, 익시오 장애 대응 시간 85% 줄였다",
+      "link": "https://zdnet.co.kr/view/?no=20261124112458",
+      "published": "2026-11-24T02:24:58+00:00",
+      "summary": "[지디넷코리아]LG유플러스가 AI 통화 에이전트 ‘익시오(ixi-O)’ 운영에 데이터독의 ‘비츠 AI(Bits AI)’를 적용해 장애 대응 시간을 기존보다 85% 줄였다고 24일 밝혔다.LG유플러스는 지난 8월부터 약 3개월간 익시오의 실제 개발·운영 환경에서 비츠 AI를 검증했다. 비츠 AI는 서비스 운영 데이터를 종합해 이상 징후를 찾고, 장애 원인과 서비스에 미친 영향을 분석하는 기술이다. 장애로 이어질 수 있는 이상 신호를 찾아 원인을 분석하는 데 걸리는 시간도 절반으로 줄었다.고객 불편이"
+    },
+    {
+      "id": "e771476335b2",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "LGU+, 데이터독과 통화 에이전트 '익시오' 안정성 높인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217719",
+      "published": "2026-11-24T02:23:29+00:00",
+      "summary": "LG유플러스(대표 홍범식)는 글로벌 옵저빌리티 기업 데이터독과 협력해 AI 통화 에이전트 '익시오(ixi-O)'의 고객 불편·장애 대응 체계를 강화한다고 24일 밝혔다.데이터독은 기업 IT 시스템을 통합 모니터링·분석하는 옵저빌리티·보안 플랫폼 기업이다. 데이터독의 '비츠 AI(Bits AI)'는 서비스 운영 과정에서 발생하는 각종 데이터를 분석해 이상 징후를 발견하고 문제의 원인과 영향 범위를 파악하는 기술이다.LGU+는 데이터독의 '디자인 파트너' 프로그램에 참여해 지난 8월부터 약 3개월간 "
+    },
+    {
+      "id": "876ff6489a5a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "한컴, 공공기관 HWP 문서 → HWPX 변환 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217716",
+      "published": "2026-11-24T02:22:33+00:00",
+      "summary": "한컴(대표 김연수)은 공공기관의 기존 HWP 문서를 HWPX로 변환하는 전용 변환기를 공급한다고 24일 밝혔다.공공 문서의 개방형 형식 전환 정책에 따른 조치로 이재명 대통령은 지난 3일 국무회의에서 HWPX를 기본 형식으로 하고, 기존 HWP 문서 변환 문제도 해결하라고 지시한 바 있다.HWPX는 국가표준(KS X 6101)인 개방형 워드프로세서 마크업 언어(OWPML)를 기반으로 한 확장성 마크업 언어(XML) 형식이다. 기계 판독이 가능한 구조로 AI의 문서 내용·맥락 분석을 지원한다.업데이"
+    },
+    {
+      "id": "478e540a64cc",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "석유공사, 전사 전략 다시 세운다…경영진 한자리 모여 본부 간 협업과제 발굴",
+      "link": "https://zdnet.co.kr/view/?no=20261124112131",
+      "published": "2026-11-24T02:21:31+00:00",
+      "summary": "[지디넷코리아]석유공사가 본부 차원에서 공유하던 사업계획 등을 전사 관점에서 검토해 협업 과제를 발굴하는 등 경영전략을 다시 세운다.한국석유공사(사장 손주석)는 23~24일 양일간 울산 머큐어 앰버서더 호텔에서 사장과 본부장 등 전사 경영진 전원이 참석하는 ‘에너지 안보의 중심, KNOC 2027 전략 워크숍’을 개최했다고 밝혔다.전략 워크숍에서는 중동 위기 상황에서의 석유수급 안정 노력 등 석유공사가 직면한 현안과 대응 방향을 논의하는 한편, 신 경영전략과 핵심가치를 공유했다.석유공사는 워크숍을"
+    },
+    {
+      "id": "a0668281e49c",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "한국게임기자클럽, '게임 오브 지스타 2026'에 '타래: 언바운드' 선정",
+      "link": "https://zdnet.co.kr/view/?no=20261124112038",
+      "published": "2026-11-24T02:20:38+00:00",
+      "summary": "[지디넷코리아]한국게임기자클럽이 지스타 B2C 출품작을 대상으로 진행한 기자단 투표에서 바운더리의 동양 다크 판타지 액션 RPG '타래: 언바운드'를 올해 수상작으로 선정했다.한국게임미디어협회(KGMA) 산하 한국게임기자클럽(KGRC)은 바운더리가 개발하고 크래프톤이 퍼블리싱하는 '타래: 언바운드'가 기자단 투표에서 가장 많은 표를 얻어 '게임 오브 지스타 2026'에 선정됐다고 24일 밝혔다.'게임 오브 지스타'는 한국게임기자클럽 소속 게임 전문 기자들이 지스타 B2C 출품작의 그래픽과 스토리,"
+    },
+    {
+      "id": "bbf15cacc700",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "AI가 대신 못하는 4가지…\"상상·연결·지혜·개성 키워라\"",
+      "link": "https://zdnet.co.kr/view/?no=20261124111927",
+      "published": "2026-11-24T02:20:13+00:00",
+      "summary": "[지디넷코리아]AI가 스스로 계획을 세우고 업무를 처리하는 시대에 사람이 길러야 할 역량으로 상상, 연결, 지혜, 개성 등 네 가지가 제시됐다. 어떤 직업이 유망한지보다 어떤 사람이 될지를 먼저 고민해야 한다는 것이다.미래학자인 이경상 남다른미래의창 책임교수(전 카이스트 교수)는 SK텔레콤 뉴스룸에 실은 칼럼 ‘AI 시대가 요구하는 사람의 힘’에서 “AI가 ‘무엇을 할 수 있는가’만큼 중요한 것이 바로 사람은 ‘무엇을 하고 싶은가’”라고 강조했다.이 교수는 자동차가 등장하며 마부가 사라지고 운전기"
+    },
+    {
+      "id": "b17128b622e8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "번개장터, 신임 대표에 '공유현' 사업개발본부장 선임",
+      "link": "https://zdnet.co.kr/view/?no=20261124103231",
+      "published": "2026-11-24T02:18:03+00:00",
+      "summary": "[지디넷코리아]번개장터는 지난 20일 이사회를 열고 공유현 사업개발본부장을 신임 대표로 선임하면서 기존 강승현 대표와 공동대표 체제로 전환한다고 24일 밝혔다. 공 대표는 공동대표 체제 아래 서비스와 사업 운영 전반을 총괄한다.번개장터는 이용자 간 거래의 신뢰도를 높이고 구매 절차를 간소화하는 데 기여한 공 대표를 앞세워 제품 개발과 사업 추진에 속도를 낼 방침이다.공 대표가 입사한 2020년 140억원이었던 번개장터 매출은 지난해 581억원으로 증가했다. 연간 거래 규모도 1400억원에서 950"
+    },
+    {
+      "id": "fff17e509136",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "published": "2026-11-24T01:35:38+00:00",
+      "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said."
+    },
+    {
+      "id": "12cf48a43812",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google alternative Kagi launches an email service",
+      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "published": "2026-11-24T00:02:52+00:00",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and "
+    },
+    {
+      "id": "0b8a71fafe4a",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217620",
+      "published": "2026-11-24T00:00:00+00:00",
+      "summary": "AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법서지영 | 위키북스2026년 9월 10일추천이유저자가 OpenAI 코덱스를 활용해 실제 서비스 개발의 전 과정을 실습하도록 구성했습니다. 이 책은 단순한 AI 코드 생성을 넘어 분석, 개발, 테스트, 릴리스, 유지보수까지 실무 흐름 속에서 AI를 효과적으로 협력하는 방법을 제시합니다.상세보기 코딩 에이전트 책을 찾는 질문이 달라지고 있다. 새 프로젝트를 빨리 만드는 법보다, 이미 돌아가는 서비스를 AI와 함께 고치는 법을 다룬 책이 있느냐"
+    },
+    {
+      "id": "3b688ecc62d7",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "published": "2026-11-23T23:25:01+00:00",
+      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of "
+    },
+    {
+      "id": "fe2d7e6dac22",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "published": "2026-11-23T22:38:09+00:00",
+      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release make"
+    },
+    {
+      "id": "bff4ab827494",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "published": "2026-11-23T22:32:29+00:00",
+      "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 280 # Comments: 138"
+    },
+    {
+      "id": "0bccb4122872",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "published": "2026-11-23T22:25:12+00:00",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out,"
+    },
+    {
+      "id": "cd14d4f5eb75",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "published": "2026-11-23T22:10:32+00:00",
+      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time "
+    },
+    {
+      "id": "f19592a63594",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217711",
+      "published": "2026-11-23T22:10:26+00:00",
+      "summary": "젠슨 황이 엔비디아 CEO로 복귀하자, 수백명의 직원이 본사에 모여 그의 이름을 연호하며 환호했다. 황은 \"두 번째에는 더 나은 CEO가 되겠다\"라고 약속했으며, 일론 머스크 테슬라 CEO와 샘 알트먼 오픈AI CEO 등 실리콘밸리 주요 인사들도 환영의 뜻을 밝혔다.테크크런치와 워싱턴포스트 등은 23일(현지시간) 황이 엔비디아 CEO로 복귀한 직후 회사 직원과 기술기업 경영진, 투자자들의 환영이 이어졌다고 보도했다.이날 캘리포니아주 산타클라라의 엔비디아 본사에서는 황의 복귀를 환영하는 직원 수백명"
+    },
+    {
+      "id": "0102ea4ea3f2",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "published": "2026-11-23T22:09:26+00:00",
+      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what"
+    },
+    {
+      "id": "55e49795490d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "VP ≠ VNP over Every Field",
+      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "published": "2026-11-23T22:09:10+00:00",
+      "summary": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d... Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 287 # Comments: 247"
+    },
+    {
+      "id": "5ffb242c612f",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published": "2026-11-23T22:05:50+00:00",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+    },
+    {
+      "id": "6a7d85d0c453",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published": "2026-11-23T22:02:05+00:00",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+    },
+    {
+      "id": "b736854004f6",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[11월23일] 'GPT-6'가 로봇의 두뇌까지 맡기 시작했다는 것의 의미",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217684",
+      "published": "2026-11-23T22:00:00+00:00",
+      "summary": "중국 유니트리의 왕싱싱 CEO는 최근 오픈AI의 'GPT-6 아스트라'를 활용해 휴머노이드가 별도의 작업별 모델 훈련 없이 그림을 그리고 체스를 두는 모습을 소개했습니다. 그는 앞서 로봇 분야에도 '챗GPT 모먼트'가 찾아올 것이라고 전망한 바 있습니다.엔비디아의 디푸 탈라 로봇사업 부사장도 GPT-6 아스트라가 로봇 개발에 큰 도움이 될 것으로 평가했습니다. 이들이 주목하는 것은 범용 AI가 기존 로봇 전용 모델의 역할까지 수행하기 시작했다는 점입니다. 로봇 개발에 필요한 별도의 학습과 복잡한 "
+    },
+    {
+      "id": "aa0d56aa5012",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "published": "2026-11-23T21:47:41+00:00",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
+    },
+    {
+      "id": "01ee6e8fdcdd",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "link": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "published": "2026-11-23T21:31:08+00:00",
+      "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner."
+    },
+    {
+      "id": "707dfc28e7c4",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[기고] AI가 리만 가설을 풀었다면 수학은 끝난 것인가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217706",
+      "published": "2026-11-23T21:30:47+00:00",
+      "summary": "■ 1700만 줄짜리 증명이 도착했다지난 20일 AI 기업 앤트로픽의 수학자 레벤트 알포게가 자사 AI '클로드'로 리만 가설을 증명했다고 발표했다. 1859년 리만이 제기한 뒤 167년 동안 아무도 풀지 못한 수학에서 가장 유명한 난제다. 증명은 컴퓨터가 검사하는 코드 1700만 줄로 쓰였다.다만 컴퓨터의 검사를 통과한 것과 사람이 이해한 것은 다른 일이다. 발표자 자신도 증명을 다 이해하지 못했다고 하고, 수학자들의 평가는 이제 시작이다. 그런데도 며칠 사이 같은 질문을 여러 번 받았다. \"교"
+    },
+    {
+      "id": "4e6f1ed9b131",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "published": "2026-11-23T21:09:37+00:00",
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an"
+    },
+    {
+      "id": "d9df5f2be8f9",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple renews Ted Lasso for season 5",
+      "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+      "published": "2026-11-23T20:56:00+00:00",
+      "summary": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the "
+    },
+    {
+      "id": "dfac92fa341d",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "published": "2026-11-23T20:38:53+00:00",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+    },
+    {
+      "id": "baaf5d3f2fbc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "published": "2026-11-23T19:31:41+00:00",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting."
+    },
+    {
+      "id": "e8f1cc8f10b1",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "link": "https://arm.jonpalmisc.com/",
+      "published": "2026-11-23T19:17:55+00:00",
+      "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 914 # Comments: 212"
+    },
+    {
+      "id": "85c5b695cd37",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "published": "2026-11-23T19:14:46+00:00",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+    },
+    {
+      "id": "ce78c264761e",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Opus just lost to the last company you'd expect...",
+      "link": "https://www.youtube.com/watch?v=jP9yjEDlc4k",
+      "published": "2026-11-23T19:14:30+00:00",
+      "summary": ""
+    },
     {
       "id": "dc07d765f26a",
       "source": "The Verge",
@@ -47,6 +498,17 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. G"
     },
     {
+      "id": "16506f4f8c37",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Kagi Mail (public beta)",
+      "link": "https://blog.kagi.com/kagi-mail-public-beta",
+      "published": "2026-11-23T17:17:01+00:00",
+      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 375 # Comments: 283"
+    },
+    {
       "id": "802f9c2eafe8",
       "source": "TechCrunch",
       "kind": "article",
@@ -67,6 +529,17 @@
       "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
       "published": "2026-11-23T17:13:45+00:00",
       "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry."
+    },
+    {
+      "id": "ee118fe10fff",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "published": "2026-11-23T17:13:45+00:00",
+      "summary": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry."
     },
     {
       "id": "3841ff4b1eac",
@@ -344,6 +817,17 @@
       "summary": "[지디넷코리아]램리서치가 PSK(피에스케이)를 상대로 제기한 베벨 에처 특허침해소송에서 PSK가 램리서치 특허를 침해하지 않았다는 1심(서울중앙지법) 판결이 확정됐다. 램리서치는 지난 10월 30일 1심 판결서를 송달받은 뒤, 법정 항소기간인 2주 안에 항소하지 않았다. 이에 따라 PSK의 승소 판결이 지난 14일 확정됐다. 2021년 시작된 양사 특허소송이 5년여 만에 마무리됐다. 베벨 에처는 반도체 웨이퍼 가장자리(베벨)에 형성된 불필요한 박막을 제거하는 장비다. PSK가 지난 2021년 베벨"
     },
     {
+      "id": "c2daf2ad8cf9",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T12:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
       "id": "9fc7f258fd60",
       "source": "Ars Technica",
       "kind": "article",
@@ -375,6 +859,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261123203637",
       "published": "2026-11-23T11:36:37+00:00",
       "summary": "[지디넷코리아]한국바른채용인증원이 12월 7일 서울 강서구 바른채용아카데미에서 '채용감사인 2급 자격과정'을 개설하고 교육생을 모집한다.23일 인증원에 따르면, 이번 과정은 채용 현장의 공정성과 변별력을 사전에 확보하는 실전형 감사 전문가 양성을 목표로 한다. 최근 생성형 AI 보편화로 AI로 정교하게 포장된 지원자와 실제 직무 역량을 갖춘 인재를 가려내는 것이 핵심 과제로 부상한 데다, 특히 공공부문은 사후 평가 조정이 어려워 질문·평가 척도 설계와 현장 모니터링을 통한 사전 예방의 중요성이 커"
+    },
+    {
+      "id": "1464ca49ca48",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "link": "https://github.com/os6/nospeaker",
+      "published": "2026-11-23T11:31:54+00:00",
+      "summary": "https://x.com/codycollier/status/2124505859883716918 Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 293 # Comments: 167"
     },
     {
       "id": "a3d4e6986dd6",
@@ -870,6 +1365,28 @@
       "link": "https://zdnet.co.kr/view/?no=20261123080718",
       "published": "2026-11-22T23:12:06+00:00",
       "summary": "[지디넷코리아]정부가 익명이나 가명 처리로는 AI 기술 개발이 어려운 경우 심의·의결을 거치면 적법하게 수집한 개인정보를 AI 개발에 쓸 수 있도록 하는 특례의 세부 기준을 마련했다.개인정보보호위원회는 이런 내용을 담은 '개인정보 보호법 시행령 일부개정령안'을 23일 입법예고했다.개정안은 지난 9월 8일 공포된 개인정보 보호법 개정의 후속 조치로, 내년 3월 9일 시행을 앞둔 법률의 위임 사항을 구체화한 것이다.개정안은 특례 적용 시 개인정보처리자가 지켜야 할 안전장치를 신설했다. 책임자 지정과 "
+    },
+    {
+      "id": "598981f57bf2",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-22T23:00:00+00:00",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+    },
+    {
+      "id": "f1b6329c87b3",
+      "source": "OpenAI",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-22T23:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
     },
     {
       "id": "446af3f3fb46",
@@ -1728,6 +2245,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217649",
       "published": "2026-11-21T09:20:47+00:00",
       "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치가 40시간 수준으로 높아진 것으로, AI의 장시간 작업 수행 능력이 빠르게 발전하고 있으며 연구 판단력에서도 개선이 나타나고 있는 것으로 확인됐다.AI 안전성 평가기관 METR은 20일(현지시간) 최신 모델의 연구개발 역량 평가 보고서를 공개하고, 오픈AI의 'GPT-6 아스트라'와 앤트로픽의 '클로드"
+    },
+    {
+      "id": "dad0a14bb8bf",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "published": "2026-11-21T09:14:02+00:00",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo Comments URL: https://news.ycombinator.com/item?id=50587439 Points: 313 # Comments: 104"
     },
     {
       "id": "dc918f43c650",
