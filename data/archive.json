@@ -1,7 +1,359 @@
 {
-  "updated_at": "2026-11-25T16:06:44.471477+00:00",
-  "count": 20503,
+  "updated_at": "2026-11-26T00:19:06.844803+00:00",
+  "count": 20545,
   "items": [
+    {
+      "id": "386fa84bc367",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "published": "2026-11-26T00:04:34+00:00",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Came"
+    },
+    {
+      "id": "d8592707c895",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "이광재 텔레칩스 전무 \"피지컬 AI 주류는 50톱스 전성비\"",
+      "link": "https://zdnet.co.kr/view/?no=20261125123837",
+      "published": "2026-11-26T00:00:01+00:00",
+      "summary": "[지디넷코리아]글로벌 피지컬 인공지능(AI) 시장의 실질적인 주류 연산 성능이 약 50톱스(TOPS·초당 1조회 연산)라는 목소리가 나왔다. 연산량을 무작정 키우기보다 배터리와 발열 제약 속에서 전력 대비 성능을 극대화해야 한다는 진단이다. 이광재 텔레칩스 전무는 최근 지디넷코리아 인터뷰에서 \"휴머노이드 이전 단계로 현재 시장을 주도하는 자율이동로봇(AMR)과 상업용 서비스 로봇은 주변환경의 실시간 지도 작성(맵핑)과 장애물 회피 기능이 필수\"라며 \"이들 기기는 배터리로 구동해 발열과 전력 소모에"
+    },
+    {
+      "id": "3ee8aa37996c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[AI리더의 서가] 불가능을 예측하라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217622",
+      "published": "2026-11-26T00:00:00+00:00",
+      "summary": "불가능을 예측하라정두희 | 청림출판2026년 9월 9일추천이유저자는 미래의 불확실성을 예측 AI 시스템으로 분석하여 기업의 경쟁력을 강화하는 방법을 제시합니다. 데이터 기반의 정량적 분석으로 의사결정 속도를 높이고 시장 변화에 선제적으로 대응할 수 있는 실무 전략을 제공합니다.상세보기 올해는 생성 AI 활용서와 함께 수요와 재고, 원자재 가격을 어떻게 읽을지 다룬 책을 찾는 문의가 눈에 띈다. 내년 생산량과 발주 규모를 정하는 S&OP 회의가 몰리는 때다. 영풍문고 북마스터는 청림 출판이 지난 9"
+    },
+    {
+      "id": "05fcde786ab2",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "맥도날드 이어 웬디스도…美서 메뉴 가격 담합 의혹에 집단소송",
+      "link": "https://zdnet.co.kr/view/?no=20261126085005",
+      "published": "2026-11-25T23:59:19+00:00",
+      "summary": "[지디넷코리아]미국 패스트푸드 체인 웬디스가 가맹점의 판매 데이터를 활용해 메뉴 가격을 인위적으로 높였다는 의혹으로 집단소송에 휘말렸다. 앞서 맥도날드도 비슷한 의혹으로 제소되는 등 외식 프랜차이즈의 가격 결정 방식을 둘러싼 논란이 커지고 있다.24일(현지시간) 로이터에 따르면 미국 캘리포니아주에 거주하는 소비자 앤디 가르시아는 웬디스와 외식업 소프트웨어 업체 NCR 보익스를 상대로 메릴랜드주 연방법원에 집단소송을 제기했다.원고 측은 웬디스가 NCR 보익스의 판매시점관리(POS) 시스템인 ‘알로하"
+    },
+    {
+      "id": "ff643b956275",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "그렙, AI 활용 역량 민간자격 ‘에이뎁트’ 출시",
+      "link": "https://zdnet.co.kr/view/?no=20261126084604",
+      "published": "2026-11-25T23:46:04+00:00",
+      "summary": "[지디넷코리아]AI 기반 평가 솔루션 기업 그렙이 AI 활용 역량 민간자격 '에이뎁트'를 출시하고 1기 응시 접수를 시작했다.26일 회사에 따르면, 에이뎁트는 개인의 AI 활용 역량을 평가하는 자격시험이다. 기업들이 채용과 임직원 역량 진단에 활용하는 프로그래머스 'AI 역량평가'와 동일한 평가 체계·기준을 적용했으며, 합격자에게 디지털 인증서와 링크드인 배지를 발급한다. 자격은 수준에 따라 ▲'AI 필수역량인증' 에이뎁트 에센셜 ▲'AI 전문역량인증' 에이뎁트 프로페셔널 2종으로 나뉜다.에센셜은"
+    },
+    {
+      "id": "1c0abe1497a8",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "영국 탑기어가 뽑은 올해의 자동차 제조사는 '제네시스'",
+      "link": "https://zdnet.co.kr/view/?no=20261126083704",
+      "published": "2026-11-25T23:44:10+00:00",
+      "summary": "[지디넷코리아]제네시스가 영국 자동차 전문 매체 탑기어가 뽑은 '올해의 제조사'에 처음으로 이름을 올렸다. 현대자동차의 유럽 전용 전기차 아이오닉 3도 '올해의 소형차'에 선정되면서 현대자동차그룹은 6년 연속 수상 기록을 이어갔다.현대차그룹은 지난 24일(현지시간) 발표된 '2027 탑기어 어워즈'에서 제네시스와 현대차 아이오닉 3가 각각 올해의 제조사와 올해의 소형차로 선정됐다고 26일 밝혔다.탑기어는 해마다 주요 신차와 자동차 제조사를 대상으로 부문별 수상작을 선정한다. 올해의 제조사 부문은 "
+    },
+    {
+      "id": "e96bf86482ec",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "세가 페이브, 아케이드 일부 서비스 점검 지속…27일 복구 상황 발표",
+      "link": "https://zdnet.co.kr/view/?no=20261126083758",
+      "published": "2026-11-25T23:38:56+00:00",
+      "summary": "[지디넷코리아]세가 페이브가 서버 무단 접근으로 중단한 아케이드 네트워크 ‘ALL.Net’과 카드 인증 서비스 ‘아이메(Aime)’의 복구 작업을 이어가고 있다. 운영팀은 지난 24일(현지시간) 공식 X를 통해 실물 무장 카드로 부대를 움직이는 게임 ‘영걸대전’의 대인전 등 점검 중인 서비스의 시험 가동 재개를 준비하고 있다고 밝혔다. 세가 페이브는 아케이드 게임과 완구를 개발·판매하는 세가그룹 계열사다.앞서 세가 페이브는 관련 서버 일부에 대한 무단 접근이 확인되자 조사와 안전 점검을 위해 이달"
+    },
+    {
+      "id": "43ba348509d9",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "published": "2026-11-25T22:44:32+00:00",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+    },
+    {
+      "id": "09818b3fda47",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "생기원, 농과원과 농업·산업기술 융합 연구협력 맞손",
+      "link": "https://zdnet.co.kr/view/?no=20261126071654",
+      "published": "2026-11-25T22:16:54+00:00",
+      "summary": "[지디넷코리아]한국생산기술연구원(원장 손웅희)은 국립농업과학원(원장 성제훈)과 인공지능(AI)·로봇기술을 농업에 접목한 농업·산업기술 융합 연구를 위한 업무협약을 체결했다고 밝혔다.생기원이 보유한 AI·로봇·자동화 등 첨단 산업기술에 농과원의 농업기술과 현장실증 역량을 결합해 실용적 융합기술을 개발한다는 구상이다.두 기관의 협력은 지난해 9월 농과원 연구진이 생기원을 방문해 AI 제어와 에너지 관리 기술의 농업 활용 가능성을 논의하면서 물꼬를 텄다.지난 1월부터 양파를 저장하기 전 건조 단계인 ‘"
+    },
+    {
+      "id": "e9cf25ccf7d9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "세계 두경부암 전문가 모여 최신 치료 전략과 미래의료 조망",
+      "link": "https://zdnet.co.kr/view/?no=20261125212157",
+      "published": "2026-11-25T22:00:02+00:00",
+      "summary": "[지디넷코리아]대한두경부종양학회 국제학술대회(ICHNO 2026)가 오는 11월 26일부터 27일까지 양일간 수원컨벤션센터에서 개최된다.지난 2022년부터 시작된 대한두경부종양학회 국제학술대회는 세계 두경부암 분야 전문가들의 최신 연구성과와 치료 전략을 공유하는 자리로, 올해는 미국·일본·싱가포르·대만·호주 등 세계 각국의 두경부암 전문가들이 참여해 최신 연구 동향과 임상 경험을 공유하고, 두경부암 치료의 발전 방향을 논의할 예정이다.특히 두경부암의 외과적 치료뿐 아니라 방사선치료, 항암약물치료,"
+    },
+    {
+      "id": "ef63737ff7ab",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "뼈 약해지면 뇌도 빨리 늙을까",
+      "link": "https://zdnet.co.kr/view/?no=20261125173528",
+      "published": "2026-11-25T22:00:01+00:00",
+      "summary": "[지디넷코리아]나이가 들면서 뼈가 약해지는 것이 뇌 건강과도 관련이 있다는 연구 결과가 나왔다. 척추 골밀도가 낮은 사람일수록 인지기능 저하 속도가 빠르고 뇌의 백질 손상도 빠르게 진행되는 것으로 나타났다.골밀도가 뇌의 노화 상태를 파악하고 인지기능 저하 위험이 높은 사람을 조기에 찾아내는 지표가 될 수 있다는 분석이다.최근 과학전문매체 사이언스데일리에 따르면 미국 존스홉킨스대학교 의과대학 연구진은 골밀도와 뇌 노화 사이의 연관성을 분석한 연구 결과를 국제학술지 '라디올로지(Radiology)'에"
+    },
+    {
+      "id": "e8f394a44a84",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "[11월25일] \"AI의 의식, 문제는 만드는 법도 막는 법도 모른다는 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217759",
+      "published": "2026-11-25T22:00:00+00:00",
+      "summary": "2022년 6월 구글의 한 엔지니어가 AI 모델 '람다(LaMDA)'에 의식이 있다고 주장해 화제가 된 적이 있습니다. 당시에는 AI의 뛰어난 언어 능력을 의식으로 착각한 해프닝으로 받아들여졌지만, 이제 AI 의식은 주요 AI 기업들의 연구 대상이자 논쟁거리가 됐습니다.대표적인 곳이 앤트로픽입니다. AI가 의식을 갖거나 고통을 느낄 가능성을 열어두고 모델 복지에 관한 연구를 진행 중이며, 실제 모델 훈련과 운영에도 이를 반영하고 있습니다. 최근에는 클로드에 대한 지속적이고 불필요한 학대 행위를 금"
+    },
+    {
+      "id": "4dfd3b735361",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "published": "2026-11-25T21:51:26+00:00",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might a"
+    },
+    {
+      "id": "5af483645e9e",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "link": "https://github.com/lsernau/grh-lean",
+      "published": "2026-11-25T21:48:10+00:00",
+      "summary": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 205 # Comments: 91"
+    },
+    {
+      "id": "95f0d0abaf3c",
+      "source": "AI타임스",
+      "kind": "article",
+      "category": "AI",
+      "lang": "ko",
+      "title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217786",
+      "published": "2026-11-25T21:12:40+00:00",
+      "summary": "앤트로픽이 '클로드'에 자연어로 요청해 만든 프로그램을 PC에 직접 설치하고 실행할 수 있는 기능을 선보였다. 이미지 편집기나 파일 관리 프로그램 등 자신에게 필요한 소프트웨어를 누구나 코딩 없이 제작하고 일반 PC 프로그램처럼 쉽게 사용할 수 있게 된 것이다.앤트로픽은 24일(현지시간) 공식 블로그를 통해 클로드의 '아티팩트(Artifacts)'를 맥과 윈도우용 데스크톱 앱으로 설치할 수 있는 기능을 베타 출시했다고 밝혔다. 무료 사용자를 포함한 모든 요금제가 대상이다.앤트로픽은 \"아티팩트는 차"
+    },
+    {
+      "id": "7b06bbb59631",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "published": "2026-11-25T20:57:09+00:00",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features."
+    },
+    {
+      "id": "cbba07ef33a7",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "published": "2026-11-25T20:56:44+00:00",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
+    },
+    {
+      "id": "9d258f8307bb",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "published": "2026-11-25T20:31:48+00:00",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on Wha"
+    },
+    {
+      "id": "20bc18f10217",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "published": "2026-11-25T20:03:27+00:00",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+    },
+    {
+      "id": "3b95b27efecc",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "published": "2026-11-25T19:54:57+00:00",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
+    },
+    {
+      "id": "3b67d325ffee",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "published": "2026-11-25T19:54:32+00:00",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall."
+    },
+    {
+      "id": "733eddf57a31",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "published": "2026-11-25T19:45:51+00:00",
+      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iow"
+    },
+    {
+      "id": "011ec0d91b45",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "published": "2026-11-25T19:44:24+00:00",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+    },
+    {
+      "id": "660782f7a57d",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "link": "https://scottaaronson.blog/?p=10379",
+      "published": "2026-11-25T19:11:27+00:00",
+      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 792 # Comments: 653"
+    },
+    {
+      "id": "4d3f537c9a06",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "published": "2026-11-25T18:38:29+00:00",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers."
+    },
+    {
+      "id": "24a27f87c5cd",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "published": "2026-11-25T18:11:46+00:00",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+    },
+    {
+      "id": "d72dbf0eac97",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "published": "2026-11-25T17:44:51+00:00",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Googl"
+    },
+    {
+      "id": "0c895302b94e",
+      "source": "TechCrunch",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "published": "2026-11-25T17:35:58+00:00",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+    },
+    {
+      "id": "83d1e11e4c24",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
+      "link": "https://www.youtube.com/watch?v=Jatwf_XOncE",
+      "published": "2026-11-25T17:19:51+00:00",
+      "summary": ""
+    },
+    {
+      "id": "d764705c7d90",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "1Password Security Incident",
+      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "published": "2026-11-25T17:18:26+00:00",
+      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 1055 # Comments: 457"
+    },
+    {
+      "id": "24753fd4142a",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "published": "2026-11-25T17:12:57+00:00",
+      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\""
+    },
+    {
+      "id": "c543a580227d",
+      "source": "MIT Tech Review",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "How data centers are driving a US natural-gas boom",
+      "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "published": "2026-11-25T17:00:00+00:00",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity de"
+    },
     {
       "id": "7d5f45f1a740",
       "source": "The Verge",
@@ -36,6 +388,17 @@
       "summary": "Prior modeling estimated the plume would cover hundreds of square miles."
     },
     {
+      "id": "5f12537c9a57",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "published": "2026-11-25T15:14:32+00:00",
+      "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 425 # Comments: 100"
+    },
+    {
       "id": "492aa58ce77d",
       "source": "The Verge",
       "kind": "article",
@@ -45,6 +408,17 @@
       "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
       "published": "2026-11-25T15:00:00+00:00",
       "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barr"
+    },
+    {
+      "id": "41fe9169b2ee",
+      "source": "GitHub Blog",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "How to choose the next safe step in application modernization",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "published": "2026-11-25T15:00:00+00:00",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog ."
     },
     {
       "id": "0d21e27053b9",
@@ -122,6 +496,17 @@
       "link": "https://zdnet.co.kr/view/?no=20261125224043",
       "published": "2026-11-25T13:40:43+00:00",
       "summary": "[지디넷코리아]스마트 플랫폼 보안전문 기업 아이넷캅(대표 유동훈)은 새로 개발한 ‘가상화 보호 기법이 적용된 보이스피싱 탐지 방법’ 기술을 시큐리온에 이전하는 계약을 체결했다.이 기술은 과학기술정보통신부 재원으로 정보통신기획평가원의 지원을 받아 수행한 연구 결과다. 아이넷캅은 최근 이 기술을 ‘가상화 보호 기법 애플리케이션 탐지 방법 및 장치’라는 이름으로 특허 출원했고, 이번에 시큐리온과 기술전수 계약을 맺었다.‘코드 가상화’ 기법을 적용한 보이스피싱 악성 앱은 악성 행위 코드를 기본 코드 영역"
+    },
+    {
+      "id": "5a9a528bae50",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "published": "2026-11-25T13:33:07+00:00",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers Comments URL: https://news.ycombinator.com/item?id=50642086 Points: 437 # Comments: 325"
     },
     {
       "id": "65c1bec5cdf9",
@@ -245,6 +630,17 @@
       "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on."
     },
     {
+      "id": "00e21dcf9294",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "link": "https://github.com/xoxorwr/pw-loudness-eq",
+      "published": "2026-11-25T11:34:25+00:00",
+      "summary": "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 308 # Comments: 172"
+    },
+    {
       "id": "f8cd35bce530",
       "source": "Wired",
       "kind": "article",
@@ -319,6 +715,17 @@
       "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
       "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
       "published": "2026-11-25T09:54:23+00:00",
+      "summary": ""
+    },
+    {
+      "id": "5e896daf2219",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "published": "2026-11-25T09:52:55+00:00",
       "summary": ""
     },
     {
@@ -441,6 +848,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217784",
       "published": "2026-11-25T07:53:35+00:00",
       "summary": "앨리스 황의 가족 및 사업 관계자와 연결된 기업들이 중국에서 3억달러(약 4000억원) 규모의 AI 컴퓨팅 장비를 대상으로 금융 거래를 한 사실이 확인됐다. 중국 중앙은행의 금융 기록을 통해 이들 기업이 중국 AI 데이터센터 사업에 관여한 구체적인 규모가 드러났다.로이터는 25일(현지시간) 중국 중앙은행의 미공개 신용 등록 자료 수십건을 분석한 결과, 앨리스 황과 관련된 기업들이 고성능 AI 장비를 담보로 자금을 조달한 사실을 확인했다고 보도했다.금융 기록에 포함된 AI 서버와 컴퓨팅 모듈은 최대"
+    },
+    {
+      "id": "2fdf00055436",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Smart people who give a shit use tools",
+      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "published": "2026-11-25T07:46:43+00:00",
+      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools Comments URL: https://news.ycombinator.com/item?id=50639698 Points: 262 # Comments: 202"
     },
     {
       "id": "8e4ba3005e8c",
@@ -1180,6 +1598,17 @@
       "summary": "[지디넷코리아] 엘리 사브가 미국에서 인테리어를 맡은 첫 고급 콘도미니엄… 24가구 규모 뉴욕, 2026년 11월 24일 /PRNewswire/ -- 뉴욕 소재 부동산 개발사 ZD 재스퍼(ZD Jasper)와 글로벌 럭셔리 라이프스타일 브랜드 엘리 사브(ELIE SAAB)가 맨해튼 어퍼이스트사이드의 이스트 86번가 171번지에 소규모 고급 콘도미니엄 MAISON 171 by ELIE SAAB를 선보인다. MAISON 171 (Credit: Recent Spaces) 엘리 사브가 미국에서 처음으로 "
     },
     {
+      "id": "f47d0834d176",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "published": "2026-11-24T15:00:00+00:00",
+      "summary": ""
+    },
+    {
       "id": "d454c4d0827d",
       "source": "ZDNet Korea",
       "kind": "article",
@@ -1233,6 +1662,17 @@
       "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
       "published": "2026-11-24T13:10:00+00:00",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to conn"
+    },
+    {
+      "id": "a1ac49db0458",
+      "source": "Google DeepMind",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "published": "2026-11-24T13:07:53+00:00",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
     },
     {
       "id": "d0fc060da734",
@@ -1662,6 +2102,17 @@
       "link": "https://fzakaria.com/2026/11/23/2035-came-early",
       "published": "2026-11-24T06:30:33+00:00",
       "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 484 # Comments: 190"
+    },
+    {
+      "id": "f9bdbeac63e2",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "published": "2026-11-24T06:22:36+00:00",
+      "summary": "Article URL: https://jayd.ml/2026/11/14/rockbox-on-yp3.html Comments URL: https://news.ycombinator.com/item?id=50624446 Points: 215 # Comments: 85"
     },
     {
       "id": "b2e90fdd16b0",
@@ -3257,6 +3708,17 @@
       "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
       "published": "2026-11-22T17:06:00+00:00",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
+    },
+    {
+      "id": "5c564dbf1e42",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "published": "2026-11-22T16:44:48+00:00",
+      "summary": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be another Googler who found a shorter sol"
     },
     {
       "id": "08fe44beb39c",
