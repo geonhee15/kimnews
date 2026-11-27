@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-11-27T10:30:07.053578+00:00",
-  "count": 20661,
+  "updated_at": "2026-11-27T19:36:43.611152+00:00",
+  "count": 20685,
   "items": [
+    {
+      "id": "17a7529a8591",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "The best Black Friday deals on AirPods, MacBooks, and other Apple gear",
+      "link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "published": "2026-11-27T16:30:37+00:00",
+      "summary": "Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. "
+    },
+    {
+      "id": "6bcc79ddb0f8",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More",
+      "link": "https://www.wired.com/story/black-friday-apple-deals-11-27-2026/",
+      "published": "2026-11-27T16:24:22+00:00",
+      "summary": "Save on AirPods, iPads, MacBooks, and tons of accessories for Black Friday."
+    },
+    {
+      "id": "ba4215b23850",
+      "source": "Fireship",
+      "kind": "youtube",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The wild world of tech in 2027...",
+      "link": "https://www.youtube.com/watch?v=sPGzM3ktJVE",
+      "published": "2026-11-27T16:08:25+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fee902634758",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "published": "2026-11-27T15:40:31+00:00",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 207 # Comments: 122"
+    },
+    {
+      "id": "d2ab4e1abae5",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+      "published": "2026-11-27T15:15:28+00:00",
+      "summary": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal"
+    },
+    {
+      "id": "12647db01295",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "published": "2026-11-27T15:01:50+00:00",
+      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can"
+    },
+    {
+      "id": "897828748bde",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+      "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+      "published": "2026-11-27T14:30:00+00:00",
+      "summary": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time to buy a computer. But thankful"
+    },
+    {
+      "id": "f2e00f554d5c",
+      "source": "Wired",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to $700 Off",
+      "link": "https://www.wired.com/story/black-friday-robot-vacuum-deals-11-27-2026/",
+      "published": "2026-11-27T14:07:09+00:00",
+      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever."
+    },
+    {
+      "id": "291f00f67b29",
+      "source": "The Verge",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "published": "2026-11-27T14:00:00+00:00",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]"
+    },
+    {
+      "id": "910157cf98ad",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "영국 노동연금부, 사이버 공격 감지…서비스 일부 중단",
+      "link": "https://zdnet.co.kr/view/?no=20261127223323",
+      "published": "2026-11-27T13:44:56+00:00",
+      "summary": "[지디넷코리아]영국 노동연금부(DWP)가 사이버 사고를 감지하고 예방 차원에서 일부 온라인 서비스 운영을 중단했다.인포바에, 라방과르디아 등 여러 외신은 DWP가 27일(현지시간) 이 같은 내용의 성명을 발표했다고 보도했다.성명에서 DWP는 국가사이버보안센터(NCSC) 및 정부 전문가들과 협력해 조사 중이며 서비스를 최대한 빨리 복구하겠다고 밝혔다.다만 정확한 사고 원인을 밝히지는 않았다. 정기적인 수당 및 연금 지급은 영향을 받지 않았으며 정상적으로 이뤄질 것이라고 강조했다. 필요한 온라인 서비"
+    },
+    {
+      "id": "207be7f88fed",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "미 공군 핵심 클라우드 '클라우드 원' 해킹 피해",
+      "link": "https://zdnet.co.kr/view/?no=20261127222046",
+      "published": "2026-11-27T13:28:02+00:00",
+      "summary": "[지디넷코리아]해커들이 미 공군의 핵심 클라우드 컴퓨팅 플랫폼 '클라우드 원(Cloud One)'을 침해했다. 이 플랫폼은 민감한 전술, 인사, 군수 데이터를 다루는 곳이다.로이터, 인디펜던트 등 여러 외신은 이 같은 소식을 27일 보도했다.클라우드 원은 2017년 시작된 미 공군의 대표 클라우드 플랫폼으로, 마이크로소프트, 아마존, 오라클, 알파벳 등 4개 사업자가 운영을 맡고 있다. 인사, 급여, 군수, 정비, 방공 레이더 데이터를 통합하는 '클라우드 기반 지휘통제(CBC2)', 전 세계 20"
+    },
+    {
+      "id": "c8b3a0c2afa9",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엑시콘, 반도체 검사장비 국책과제 특허 삼성전자와 공유",
+      "link": "https://zdnet.co.kr/view/?no=20261127221442",
+      "published": "2026-11-27T13:14:42+00:00",
+      "summary": "[지디넷코리아]반도체 검사장비 업체 엑시콘이 국책과제로 확보한 SSD 테스트 장치 특허권 일부를 삼성전자에 이전했다. 엑시콘과 삼성전자는 해당 특허를 함께 사용할 수 있다. 27일 업계에 따르면 엑시콘은 지난 5월 한국 지식재산처에 등록한 '테스트 장치' 특허(등록번호 2963814, 아래 '814 특허) 권리 일부를 이달 10일 삼성전자에 이전했다. 2024년 12월 출원(신청)한 특허다. 엑시콘이 삼성전자와 권리를 공유한 특허는 '814 특허가 유일하다. '814 특허는 반도체·메모리 소자 검"
+    },
+    {
+      "id": "4d62a600cd48",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "Concierto AI 정식 출시: 기업 자체 클라우드, 데이터센터 내부에서 직원 모두를 지원하는 소버린 AI",
+      "link": "https://zdnet.co.kr/view/?no=20261127211023",
+      "published": "2026-11-27T12:10:23+00:00",
+      "summary": "[지디넷코리아] 트라이앤즈가 검증된 기업 전환 플랫폼 Concierto를 소버린 AI로 확장해 고객사 자체 네트워크 내부에서 더욱 영민하고 안전하며 지속 가능하고 저렴한 AI 공급에 나섰다. 사용은 무제한이며 토큰 기반 요금제도 없다. 런던, 2026년 11월 27일 /PRNewswire/ -- Concierto AI가 전 세계에 정식 출시됐다. 전 세계 정부, 대학, 기업에서 이미 신뢰하고 사용 중인 기업용 전환 플랫폼 Concierto를 AI 시대로 확장한 제품이다. 직원 누구나 쓸 수 있는 "
+    },
+    {
+      "id": "9aff5680d3c7",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "샤오미 인터넷, 글로벌 광고 브랜드 UMIADS 출범…글로벌 성장이 눈에 보이도록",
+      "link": "https://zdnet.co.kr/view/?no=20261127211012",
+      "published": "2026-11-27T12:10:12+00:00",
+      "summary": "[지디넷코리아]창사, 중국 2026년 11월 27일 /PRNewswire/ -- 류찬(Liu Chan) 샤오미(Xiaomi) 인터넷사업부 총괄이 11월 25일 창사에서 열린 2026 샤오미 인터넷 비즈니스 파트너 콘퍼런스(2026 Xiaomi Internet Business Partner Conference)에서 새 글로벌 광고 브랜드 UMIADS를 공개하고, '글로벌 성장이 눈에 보이도록(Make global growth truly visible)'이라는 브랜드 슬로건을 소개했다. 글로벌 웹사이"
+    },
+    {
+      "id": "8ffe01d2c167",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "견실한 미래를 위한 친환경 지능화: XCMG, 바우마 2026 역대 최대 전시로 지능형 시공의 새 기준 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261127211002",
+      "published": "2026-11-27T12:10:02+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 11월 27일 /PRNewswire/ -- XCMG(SHE: 000425)가 11월 24일 바우마 차이나 2026(bauma CHINA 2026)에서 역대 최대 규모로 전시회를 열고 지능형, 친환경, 고급 건설기계 분야의 성과를 선보였다. 전시는 '견실한 미래를 위한 친환경 지능화(Green Intelligence for Solid Future)'를 주제로 상하이 전시장 두 곳에서 진행한다. 전시 면적은 잠정적으로 총 1만 2350㎡다. Visitors gather"
+    },
+    {
+      "id": "148cf3ba05c3",
+      "source": "Ars Technica",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "en",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published": "2026-11-27T12:05:01+00:00",
+      "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants."
+    },
+    {
+      "id": "ff402f97e611",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "[카드뉴스] AI가 찾은 외계행성, 아직 '진짜'라고 못하는 까닭은",
+      "link": "https://zdnet.co.kr/view/?no=20261127094829",
+      "published": "2026-11-27T11:00:02+00:00",
+      "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 코딩을 전혀 몰라도 AI에게 말로 부탁하면 프로그램을 만들어 주는 시대가 됐는데요, 한 아마추어 천문학자가 이 방법으로 외계행성 후보를 찾아내 화제예요. NASA가 누구나 볼 수 있도록 열어둔 우주 공개 자료를 코덱스에게 맡겨 분석 코드를 대신 짜게 했고, 그 결과 2026년 11월 27일 새벽에 행성 후보를 발견했다고 해요. 예전에는 학위 과정을 몇 년씩 밟고, 특수한 도구를 익히고, 자료에 접근할 권한까지 있어야 했던 일인데요. 이제는 공"
+    },
+    {
+      "id": "45d9fac499ac",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "엑시콘, \"와이씨·'전략투자자'에 샘씨엔에스 지분 10% 양도\"...745억원",
+      "link": "https://zdnet.co.kr/view/?no=20261127194330",
+      "published": "2026-11-27T10:57:11+00:00",
+      "summary": "[지디넷코리아]반도체 검사장비업체 엑시콘이 관계사인 검사장비 부품업체 샘씨엔에스 지분 10%를 또 다른 관계사인 와이씨와 아직 정해지지 않은 '전략적 투자자'에 양도할 예정이라고 27일 공시했다. 양도 예정 금액은 745억원이다. 엑시콘이 양도할 예정인 샘씨엔에스 지분 10% 중 5%는 샘씨엔에스 최대주주인 와이씨가, 나머지 5%는 또 다른 거래상대방 '전략적 투자자(미정)'가 양수한다. 엑시콘은 \"나머지 지분 5%에 대한 거래상대방은 현재 확정되지 않았으나, 향후 시간외 대량매매 방식으로 장기 "
+    },
     {
       "id": "f3e1688931d1",
       "source": "Wired",
@@ -23,6 +221,28 @@
       "link": "https://www.youtube.com/shorts/J8LLTy2yTeQ",
       "published": "2026-11-27T10:00:35+00:00",
       "summary": ""
+    },
+    {
+      "id": "a7f1d5c08806",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "휴네시온, 빛가람 컨퍼런스서 ICS 공급망 보안 전략 제시",
+      "link": "https://zdnet.co.kr/view/?no=20261127185210",
+      "published": "2026-11-27T09:52:34+00:00",
+      "summary": "[지디넷코리아]휴네시온이 AI 시대 산업제어시스템(ICS) 공급망 보안 위협에 대응하기 위해 SBOM 기반 취약점 관리에서 디지털트윈 기반 운영위험 검증으로 확장하는 전략을 제시했다.휴네시온은 26일 전남 나주 한전KDN 본사에서 열린 '2026 빛가람 에너지밸리 ICT&보안 컨퍼런스' 기업 세미나에서 정일안 휴네시온 이사가 'AI 시대 ICS 공급망 보안 위협 대응' 주제 발표를 통해 이 같은 전략을 공개했다고 밝혔다.정 이사는 국내외 전력·에너지 분야 사이버 침해 사례를 바탕으로 공급망 보안 "
+    },
+    {
+      "id": "eef2d2bcde64",
+      "source": "ZDNet Korea",
+      "kind": "article",
+      "category": "TECH",
+      "lang": "ko",
+      "title": "다나와 장애 장기화 조짐…'사이버 복원력' 주목",
+      "link": "https://zdnet.co.kr/view/?no=20261127184035",
+      "published": "2026-11-27T09:40:35+00:00",
+      "summary": "[지디넷코리아]가격비교 플랫폼 다나와의 서비스 중단이 이틀째로 접어들면서 장기화될 조짐마저 보인다. 침입 경로와 개인정보 유출 여부는 공개되지 않았고 복구 일정도 미정인 상태다. 이번 사고로 해킹 이후 얼마나 빨리 시스템, 서비스를 회복할 수 있느냐를 따지는 사이버 복원력 신속성이 다시금 주목받는다.다나와를 운영하는 커넥트웨이브(대표 김정남)는 26일 오전 2시 외부 침해로 추정되는 보안 사고를 확인하고 서비스 이용을 중단했다.회사는 한국인터넷진흥원(KISA) 등 관계 기관에 신고했다고 밝혔다. "
     },
     {
       "id": "accbff884df0",
@@ -223,6 +443,17 @@
       "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 257 # Comments: 107"
     },
     {
+      "id": "e18dfd73fe08",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "published": "2026-11-27T06:44:34+00:00",
+      "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 611 # Comments: 260"
+    },
+    {
       "id": "9d57a2c6a77c",
       "source": "AI타임스",
       "kind": "article",
@@ -300,6 +531,17 @@
       "summary": ""
     },
     {
+      "id": "16d237771953",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "link": "https://www.buynothingday.co.uk/",
+      "published": "2026-11-27T05:52:42+00:00",
+      "summary": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 320 # Comments: 103"
+    },
+    {
       "id": "4b7b01a9954b",
       "source": "AI타임스",
       "kind": "article",
@@ -342,6 +584,17 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217870",
       "published": "2026-11-27T05:25:00+00:00",
       "summary": "애플이 중국 미니맥스의 AI 동반자 앱 '토키(Talkie)'를 전 세계 앱스토어에서 삭제했다. AI 캐릭터가 미성년자에게 성적으로 부적절한 메시지를 보냈다는 탐사보도가 나온 데 이어 미니맥스도 호주와 영국에서 웹사이트 접속을 차단했다.로이터는 26일(현지시간) 애플이 해당 앱을 전 세계 앱스토어에서 삭제했다고 보도했다.앞서 호주 공영방송 ABC뉴스와 영국 탐사보도국(TBIJ)은 공동 탐사보도를 통해 AI 캐릭터들이 아동에게 성적으로 부적절하거나 모욕적인 메시지를 보낸 사례를 공개했다. 애플은 이"
+    },
+    {
+      "id": "8ee26e992ab6",
+      "source": "Hacker News",
+      "kind": "article",
+      "category": "DEV",
+      "lang": "en",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "published": "2026-11-27T05:22:06+00:00",
+      "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 265 # Comments: 272"
     },
     {
       "id": "ab07a6154300",
@@ -672,6 +925,17 @@
       "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
       "published": "2026-11-26T15:55:24+00:00",
       "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union "
+    },
+    {
+      "id": "3d3f2086cd19",
+      "source": "Hugging Face",
+      "kind": "article",
+      "category": "AI",
+      "lang": "en",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-26T15:00:00+00:00",
+      "summary": ""
     },
     {
       "id": "2c6009ab0bf9",
